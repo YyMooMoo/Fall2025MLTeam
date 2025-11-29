@@ -1,0 +1,2330 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.08,
+    "speaker": "SPEAKER_00",
+    "text": "Hello everyone, my name is Kenton Kovestiou, I'm an ex-BCG consultant, an ex-cougar, and"
+  },
+  {
+    "start": 7.08,
+    "end": 11.92,
+    "speaker": "SPEAKER_00",
+    "text": "the founder of Rocketblocks, an online platform that helps candidates prepare for interviews."
+  },
+  {
+    "start": 11.92,
+    "end": 15.620000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "In today's Rocketblocks mock interview, we've got two of our experts sitting down and"
+  },
+  {
+    "start": 15.620000000000001,
+    "end": 21.32,
+    "speaker": "SPEAKER_00",
+    "text": "walking through a very cool case about evaluating an investment opportunity in the transportation"
+  },
+  {
+    "start": 21.32,
+    "end": 22.32,
+    "speaker": "SPEAKER_00",
+    "text": "space."
+  },
+  {
+    "start": 22.32,
+    "end": 27.16,
+    "speaker": "SPEAKER_00",
+    "text": "The interviewer is played by Misha Aurora, who is an ex-LEK consultant and a graduate of"
+  },
+  {
+    "start": 27.16,
+    "end": 31.62,
+    "speaker": "SPEAKER_00",
+    "text": "the London Business School, and the candidate is played by Dan Yella, who is a graduate"
+  },
+  {
+    "start": 31.62,
+    "end": 37.72,
+    "speaker": "SPEAKER_00",
+    "text": "of Columbia Business School, a former McKinsey intern, and currently works at Google in their"
+  },
+  {
+    "start": 37.72,
+    "end": 39.88,
+    "speaker": "SPEAKER_00",
+    "text": "strategy and bizzop's group."
+  },
+  {
+    "start": 39.88,
+    "end": 41.88,
+    "speaker": "SPEAKER_00",
+    "text": "So let's go ahead and dive in."
+  },
+  {
+    "start": 41.88,
+    "end": 43.64,
+    "speaker": "SPEAKER_00",
+    "text": "Hi, how are you doing?"
+  },
+  {
+    "start": 43.64,
+    "end": 45.32,
+    "speaker": "SPEAKER_03",
+    "text": "Hello, Misha, how are you?"
+  },
+  {
+    "start": 45.32,
+    "end": 46.32,
+    "speaker": "SPEAKER_03",
+    "text": "Pleasure to meet you."
+  },
+  {
+    "start": 46.32,
+    "end": 49.36,
+    "speaker": "SPEAKER_01",
+    "text": "Are you ready for your first-time interview with Rocketblocks?"
+  },
+  {
+    "start": 49.36,
+    "end": 51.32,
+    "speaker": "SPEAKER_03",
+    "text": "Yes, super excited."
+  },
+  {
+    "start": 51.32,
+    "end": 52.32,
+    "speaker": "SPEAKER_03",
+    "text": "Let's start it."
+  },
+  {
+    "start": 52.32,
+    "end": 53.32,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, perfect."
+  },
+  {
+    "start": 53.48,
+    "end": 54.48,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so here we go."
+  },
+  {
+    "start": 54.48,
+    "end": 58.72,
+    "speaker": "SPEAKER_01",
+    "text": "So, your client is a diversified investment management firm."
+  },
+  {
+    "start": 58.72,
+    "end": 62.480000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "You've been engaged by a small group within the firm that was used like early stage in"
+  },
+  {
+    "start": 62.480000000000004,
+    "end": 64.48,
+    "speaker": "SPEAKER_01",
+    "text": "hybrid investments."
+  },
+  {
+    "start": 64.48,
+    "end": 68.52,
+    "speaker": "SPEAKER_01",
+    "text": "The firm is currently considering a 30 million investment in the crowd source helicopter"
+  },
+  {
+    "start": 68.52,
+    "end": 71.52,
+    "speaker": "SPEAKER_01",
+    "text": "service in the New York City Metro."
+  },
+  {
+    "start": 71.52,
+    "end": 75.36,
+    "speaker": "SPEAKER_01",
+    "text": "This service would allow members to use an app or a web portal to propose trips from"
+  },
+  {
+    "start": 75.36,
+    "end": 80.52,
+    "speaker": "SPEAKER_01",
+    "text": "specific destinations at specific times and find other unrelated passengers interested"
+  },
+  {
+    "start": 80.52,
+    "end": 82.24000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "in sharing the trip."
+  },
+  {
+    "start": 82.24,
+    "end": 86.03999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "By studying the helicopter amongst as many as four to six passengers, depending on the"
+  },
+  {
+    "start": 86.03999999999999,
+    "end": 91.24,
+    "speaker": "SPEAKER_01",
+    "text": "model, users are able to dramatically reduce the cost of a private helicopter charter."
+  },
+  {
+    "start": 91.24,
+    "end": 95.72,
+    "speaker": "SPEAKER_01",
+    "text": "So you are basically brought in to make sure that this 30 million investment has a good"
+  },
+  {
+    "start": 95.72,
+    "end": 97.72,
+    "speaker": "SPEAKER_01",
+    "text": "return on investment."
+  },
+  {
+    "start": 97.72,
+    "end": 98.72,
+    "speaker": "SPEAKER_04",
+    "text": "Perfect."
+  },
+  {
+    "start": 98.72,
+    "end": 100.72,
+    "speaker": "SPEAKER_04",
+    "text": "Thank you for sharing the prompt."
+  },
+  {
+    "start": 100.72,
+    "end": 108.19999999999999,
+    "speaker": "SPEAKER_04",
+    "text": "So just to summarize here, our client is the diversified investment management firm."
+  },
+  {
+    "start": 108.2,
+    "end": 113.64,
+    "speaker": "SPEAKER_04",
+    "text": "And they want to invest $20 million in a crowd source helicopter business in the New"
+  },
+  {
+    "start": 113.64,
+    "end": 115.32000000000001,
+    "speaker": "SPEAKER_04",
+    "text": "York City Metro area."
+  },
+  {
+    "start": 115.32000000000001,
+    "end": 120.64,
+    "speaker": "SPEAKER_04",
+    "text": "And they hired us to see if this is a good return on investments for it out."
+  },
+  {
+    "start": 120.64,
+    "end": 121.64,
+    "speaker": "SPEAKER_01",
+    "text": "Correct."
+  },
+  {
+    "start": 121.64,
+    "end": 122.64,
+    "speaker": "SPEAKER_04",
+    "text": "That's great."
+  },
+  {
+    "start": 122.64,
+    "end": 123.64,
+    "speaker": "SPEAKER_04",
+    "text": "Perfect."
+  },
+  {
+    "start": 123.64,
+    "end": 128.92000000000002,
+    "speaker": "SPEAKER_04",
+    "text": "Just to understand more how the client upgrades, I have a couple of questions."
+  },
+  {
+    "start": 128.92000000000002,
+    "end": 134.0,
+    "speaker": "SPEAKER_04",
+    "text": "You mentioned that the business model is either web or a map."
+  },
+  {
+    "start": 134.0,
+    "end": 139.4,
+    "speaker": "SPEAKER_04",
+    "text": "Are there major graphic focus is New York City Metro area or they are planning to broader"
+  },
+  {
+    "start": 139.4,
+    "end": 141.16,
+    "speaker": "SPEAKER_04",
+    "text": "their focus?"
+  },
+  {
+    "start": 141.16,
+    "end": 143.36,
+    "speaker": "SPEAKER_01",
+    "text": "So right now it's only New York."
+  },
+  {
+    "start": 143.36,
+    "end": 146.92,
+    "speaker": "SPEAKER_01",
+    "text": "They've got they've actually got a couple of service segments, but maybe like you know"
+  },
+  {
+    "start": 146.92,
+    "end": 151.28,
+    "speaker": "SPEAKER_01",
+    "text": "in the as one of the solutions, it could be one of the options that you know they might"
+  },
+  {
+    "start": 151.28,
+    "end": 154.44,
+    "speaker": "SPEAKER_01",
+    "text": "probably expand, but right now they only focus on New York."
+  },
+  {
+    "start": 154.44,
+    "end": 155.44,
+    "speaker": "SPEAKER_04",
+    "text": "Perfect."
+  },
+  {
+    "start": 155.44,
+    "end": 158.92000000000002,
+    "speaker": "SPEAKER_04",
+    "text": "And you also mentioned that they are in a couple of service segments."
+  },
+  {
+    "start": 158.92,
+    "end": 164.11999999999998,
+    "speaker": "SPEAKER_04",
+    "text": "Which would be those service segments and how much they would represent each of them."
+  },
+  {
+    "start": 164.11999999999998,
+    "end": 165.11999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 165.11999999999998,
+    "end": 166.11999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Good question."
+  },
+  {
+    "start": 166.11999999999998,
+    "end": 167.88,
+    "speaker": "SPEAKER_01",
+    "text": "So they've got the two service segments."
+  },
+  {
+    "start": 167.88,
+    "end": 171.64,
+    "speaker": "SPEAKER_01",
+    "text": "So the first one is the Manhattan to airport service."
+  },
+  {
+    "start": 171.64,
+    "end": 174.64,
+    "speaker": "SPEAKER_01",
+    "text": "And the second one is the vacation market service."
+  },
+  {
+    "start": 174.64,
+    "end": 179.16,
+    "speaker": "SPEAKER_01",
+    "text": "The Manhattan to airport service, they basically pick up passengers from one of like three"
+  },
+  {
+    "start": 179.16,
+    "end": 184.72,
+    "speaker": "SPEAKER_01",
+    "text": "heliports, you know, on the Hudson River and they fly to all the New York airports."
+  },
+  {
+    "start": 184.72,
+    "end": 187.76,
+    "speaker": "SPEAKER_01",
+    "text": "And this segment represents 40% as you asked."
+  },
+  {
+    "start": 187.76,
+    "end": 193.48,
+    "speaker": "SPEAKER_01",
+    "text": "And the other segment which represents 60% is basically like a tourism focus service,"
+  },
+  {
+    "start": 193.48,
+    "end": 198.0,
+    "speaker": "SPEAKER_01",
+    "text": "in which you would travel between New York and like a beach vacation, like a hamster"
+  },
+  {
+    "start": 198.0,
+    "end": 199.48,
+    "speaker": "SPEAKER_01",
+    "text": "or something."
+  },
+  {
+    "start": 199.48,
+    "end": 201.88,
+    "speaker": "SPEAKER_01",
+    "text": "Like these are more seasonal because the trips are longer."
+  },
+  {
+    "start": 201.88,
+    "end": 204.07999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "It's 60% of the revenue."
+  },
+  {
+    "start": 204.07999999999998,
+    "end": 205.07999999999998,
+    "speaker": "SPEAKER_04",
+    "text": "Okay."
+  },
+  {
+    "start": 205.07999999999998,
+    "end": 206.07999999999998,
+    "speaker": "SPEAKER_04",
+    "text": "Perfect."
+  },
+  {
+    "start": 206.07999999999998,
+    "end": 212.22,
+    "speaker": "SPEAKER_04",
+    "text": "It's interesting that actually they are port service represents 40% of their business and"
+  },
+  {
+    "start": 212.22,
+    "end": 219.5,
+    "speaker": "SPEAKER_04",
+    "text": "vacation 60% because when you think about Uber or those type of service, airports is usually"
+  },
+  {
+    "start": 219.5,
+    "end": 220.82,
+    "speaker": "SPEAKER_04",
+    "text": "higher."
+  },
+  {
+    "start": 220.82,
+    "end": 225.66,
+    "speaker": "SPEAKER_04",
+    "text": "But I think in terms of my questions, those words of things are very clear here to me."
+  },
+  {
+    "start": 225.66,
+    "end": 230.66,
+    "speaker": "SPEAKER_04",
+    "text": "Let me get just one second from each to understand what we needed to look in order to see if this"
+  },
+  {
+    "start": 230.66,
+    "end": 232.7,
+    "speaker": "SPEAKER_04",
+    "text": "is a good return investment."
+  },
+  {
+    "start": 232.7,
+    "end": 233.7,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 233.7,
+    "end": 234.7,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 234.7,
+    "end": 242.02,
+    "speaker": "SPEAKER_04",
+    "text": "So in order for us to understand what would be the return and investments for"
+  },
+  {
+    "start": 242.02,
+    "end": 245.58,
+    "speaker": "SPEAKER_04",
+    "text": "this business for a client, I would look to three things."
+  },
+  {
+    "start": 245.58,
+    "end": 252.26000000000002,
+    "speaker": "SPEAKER_04",
+    "text": "I would start first with the market, second with the unit economics of this business,"
+  },
+  {
+    "start": 252.26000000000002,
+    "end": 254.98000000000002,
+    "speaker": "SPEAKER_04",
+    "text": "and third potential risks that might have."
+  },
+  {
+    "start": 254.98000000000002,
+    "end": 255.98000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 255.98000000000002,
+    "end": 260.14,
+    "speaker": "SPEAKER_04",
+    "text": "In terms of the market, I would look to three things inside the market."
+  },
+  {
+    "start": 260.14,
+    "end": 265.7,
+    "speaker": "SPEAKER_04",
+    "text": "First call are these, they are port and the vacation market in New York City."
+  },
+  {
+    "start": 265.7,
+    "end": 271.5,
+    "speaker": "SPEAKER_04",
+    "text": "What is the growth rate for us to understand the size of this opportunity?"
+  },
+  {
+    "start": 271.5,
+    "end": 278.22,
+    "speaker": "SPEAKER_04",
+    "text": "Second, I would look to understand what is the expansion opportunities that we have like"
+  },
+  {
+    "start": 278.22,
+    "end": 279.22,
+    "speaker": "SPEAKER_04",
+    "text": "geographically."
+  },
+  {
+    "start": 279.22,
+    "end": 286.26,
+    "speaker": "SPEAKER_04",
+    "text": "So if we want to expand to other regions, what would be the size of those opportunities?"
+  },
+  {
+    "start": 286.26,
+    "end": 291.94,
+    "speaker": "SPEAKER_04",
+    "text": "And third, I would look to customers preference to understand how much conversion rate we"
+  },
+  {
+    "start": 291.94,
+    "end": 296.58,
+    "speaker": "SPEAKER_04",
+    "text": "would have in each of those areas that we wanted to expect."
+  },
+  {
+    "start": 296.58,
+    "end": 297.58,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 298.3,
+    "end": 302.82,
+    "speaker": "SPEAKER_04",
+    "text": "In terms of the economics, I would also look to three things here."
+  },
+  {
+    "start": 302.82,
+    "end": 308.9,
+    "speaker": "SPEAKER_04",
+    "text": "I think first, the units economics of those business and by units economics, I refer to"
+  },
+  {
+    "start": 308.9,
+    "end": 315.09999999999997,
+    "speaker": "SPEAKER_04",
+    "text": "revenue, the variable cost and the fixed cost, probably our fixed cost would be the most"
+  },
+  {
+    "start": 315.09999999999997,
+    "end": 320.65999999999997,
+    "speaker": "SPEAKER_04",
+    "text": "significant ones to understand if we can actually pay for this operation, if the business"
+  },
+  {
+    "start": 320.65999999999997,
+    "end": 322.5,
+    "speaker": "SPEAKER_04",
+    "text": "would be profitable."
+  },
+  {
+    "start": 322.54,
+    "end": 325.26,
+    "speaker": "SPEAKER_04",
+    "text": "In the back home, I would look to the cap ex required."
+  },
+  {
+    "start": 325.26,
+    "end": 330.9,
+    "speaker": "SPEAKER_04",
+    "text": "So we had two options here probably, either we buy the helicopters or we use a leasing"
+  },
+  {
+    "start": 330.9,
+    "end": 334.74,
+    "speaker": "SPEAKER_04",
+    "text": "with helicopter companies."
+  },
+  {
+    "start": 334.74,
+    "end": 339.62,
+    "speaker": "SPEAKER_04",
+    "text": "So we would need to understand what would be our initial cap ex to invest in this business"
+  },
+  {
+    "start": 339.62,
+    "end": 345.26,
+    "speaker": "SPEAKER_04",
+    "text": "and also the company's capital position to see if we actually have the investment."
+  },
+  {
+    "start": 345.26,
+    "end": 349.34,
+    "speaker": "SPEAKER_04",
+    "text": "In the third thing that I would look at in terms of the economics, it's the return on"
+  },
+  {
+    "start": 349.34,
+    "end": 350.34,
+    "speaker": "SPEAKER_04",
+    "text": "the investments."
+  },
+  {
+    "start": 350.34,
+    "end": 353.5,
+    "speaker": "SPEAKER_04",
+    "text": "So what is the return on investments on this business right now?"
+  },
+  {
+    "start": 353.5,
+    "end": 357.94,
+    "speaker": "SPEAKER_04",
+    "text": "And I also would look to the return on the new investments to see if we're looking forward"
+  },
+  {
+    "start": 357.94,
+    "end": 362.5,
+    "speaker": "SPEAKER_04",
+    "text": "if this is a business that would make sense because probably each geography, it's a bit"
+  },
+  {
+    "start": 362.5,
+    "end": 365.9,
+    "speaker": "SPEAKER_04",
+    "text": "different and in terms of return on investments."
+  },
+  {
+    "start": 365.9,
+    "end": 370.73999999999995,
+    "speaker": "SPEAKER_04",
+    "text": "The third thing that I would look in terms of risks is first safety."
+  },
+  {
+    "start": 370.73999999999995,
+    "end": 374.9,
+    "speaker": "SPEAKER_04",
+    "text": "So we would need to account for potential liabilities."
+  },
+  {
+    "start": 374.9,
+    "end": 376.65999999999997,
+    "speaker": "SPEAKER_04",
+    "text": "So it's the helicopters."
+  },
+  {
+    "start": 376.65999999999997,
+    "end": 380.78,
+    "speaker": "SPEAKER_04",
+    "text": "Files, people dying, so we would need to take an account with this."
+  },
+  {
+    "start": 380.78,
+    "end": 383.85999999999996,
+    "speaker": "SPEAKER_04",
+    "text": "And second, I would look to regulation."
+  },
+  {
+    "start": 383.85999999999996,
+    "end": 389.14,
+    "speaker": "SPEAKER_04",
+    "text": "Probably there is a lot of regulation in the space and governments probably control the"
+  },
+  {
+    "start": 389.14,
+    "end": 391.82,
+    "speaker": "SPEAKER_04",
+    "text": "amount of helicopters that can fly."
+  },
+  {
+    "start": 391.82,
+    "end": 395.09999999999997,
+    "speaker": "SPEAKER_04",
+    "text": "So these might be something that limits our demand."
+  },
+  {
+    "start": 395.09999999999997,
+    "end": 400.7,
+    "speaker": "SPEAKER_04",
+    "text": "So I would take a look on the ads to understand if there is any impact on our opportunity sizing."
+  },
+  {
+    "start": 401.42,
+    "end": 402.86,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, that sounds very good."
+  },
+  {
+    "start": 402.86,
+    "end": 408.7,
+    "speaker": "SPEAKER_01",
+    "text": "I think you've covered a pretty big section of the key points that we were meant to discuss."
+  },
+  {
+    "start": 408.7,
+    "end": 413.5,
+    "speaker": "SPEAKER_01",
+    "text": "So maybe let's go all to the first part of your structure, which was the market."
+  },
+  {
+    "start": 413.5,
+    "end": 418.34,
+    "speaker": "SPEAKER_01",
+    "text": "And I think that to begin with, it might be useful for us to determine, like as you said,"
+  },
+  {
+    "start": 418.34,
+    "end": 421.38,
+    "speaker": "SPEAKER_01",
+    "text": "there must be a couple of things you can look at the market that they're in right now"
+  },
+  {
+    "start": 421.38,
+    "end": 424.26,
+    "speaker": "SPEAKER_01",
+    "text": "and the market that they want to potentially get in."
+  },
+  {
+    "start": 424.26,
+    "end": 429.62,
+    "speaker": "SPEAKER_01",
+    "text": "But the market that they're in right now, let's try and size what that market looks like."
+  },
+  {
+    "start": 429.62,
+    "end": 433.98,
+    "speaker": "SPEAKER_01",
+    "text": "And then I have some information that got some, you know, I have it like provide you any sort"
+  },
+  {
+    "start": 433.98,
+    "end": 435.94,
+    "speaker": "SPEAKER_01",
+    "text": "of like, you know, help with assumptions and stuff."
+  },
+  {
+    "start": 435.94,
+    "end": 439.9,
+    "speaker": "SPEAKER_01",
+    "text": "But let's size the market that they currently in right now."
+  },
+  {
+    "start": 439.9,
+    "end": 440.9,
+    "speaker": "SPEAKER_04",
+    "text": "Perfect."
+  },
+  {
+    "start": 440.9,
+    "end": 447.26,
+    "speaker": "SPEAKER_04",
+    "text": "So market sizing right now, just to summarize, we'd be mainly focused on the Manhattan Airport"
+  },
+  {
+    "start": 447.26,
+    "end": 450.14,
+    "speaker": "SPEAKER_04",
+    "text": "and also the vacation in New York City, metro area."
+  },
+  {
+    "start": 450.14,
+    "end": 451.14,
+    "speaker": "SPEAKER_01",
+    "text": "Yes, both of them."
+  },
+  {
+    "start": 451.14,
+    "end": 452.14,
+    "speaker": "SPEAKER_04",
+    "text": "Yes."
+  },
+  {
+    "start": 452.14,
+    "end": 456.14,
+    "speaker": "SPEAKER_04",
+    "text": "Let me take a minute just for me to structure what it would look and then I share with you."
+  },
+  {
+    "start": 456.14,
+    "end": 457.14,
+    "speaker": "SPEAKER_00",
+    "text": "Sure."
+  },
+  {
+    "start": 459.86,
+    "end": 466.02,
+    "speaker": "SPEAKER_04",
+    "text": "So for understanding the market sizing, I would look to each of the segments differently."
+  },
+  {
+    "start": 466.02,
+    "end": 470.86,
+    "speaker": "SPEAKER_04",
+    "text": "So it's starting from the Manhattan Airport service."
+  },
+  {
+    "start": 470.86,
+    "end": 471.86,
+    "speaker": "SPEAKER_04",
+    "text": "Yes."
+  },
+  {
+    "start": 471.86,
+    "end": 479.3,
+    "speaker": "SPEAKER_04",
+    "text": "Basically, the revenue or the revenue of this market would be a number of passengers"
+  },
+  {
+    "start": 479.3,
+    "end": 484.82,
+    "speaker": "SPEAKER_04",
+    "text": "that would be flying times the average ticket for those passengers."
+  },
+  {
+    "start": 484.82,
+    "end": 485.82,
+    "speaker": "SPEAKER_04",
+    "text": "Yes."
+  },
+  {
+    "start": 486.06,
+    "end": 491.94,
+    "speaker": "SPEAKER_04",
+    "text": "For defining how many passengers, I would look to a couple of things."
+  },
+  {
+    "start": 491.94,
+    "end": 498.62,
+    "speaker": "SPEAKER_04",
+    "text": "I would look to probably because we're talking about the airport, I would segment these"
+  },
+  {
+    "start": 498.62,
+    "end": 501.18,
+    "speaker": "SPEAKER_04",
+    "text": "into type of customers."
+  },
+  {
+    "start": 501.18,
+    "end": 505.86,
+    "speaker": "SPEAKER_04",
+    "text": "One would be laser people that are traveling for a visit in New York."
+  },
+  {
+    "start": 505.86,
+    "end": 506.86,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah."
+  },
+  {
+    "start": 506.86,
+    "end": 508.26,
+    "speaker": "SPEAKER_04",
+    "text": "And the other one would be business."
+  },
+  {
+    "start": 508.26,
+    "end": 513.34,
+    "speaker": "SPEAKER_04",
+    "text": "So on the laser piece, I would try to understand from the total of people that goes"
+  },
+  {
+    "start": 513.34,
+    "end": 520.6600000000001,
+    "speaker": "SPEAKER_04",
+    "text": "to the Manhattan Airport, to the GFTA Airport or the four airports that have in New York,"
+  },
+  {
+    "start": 520.6600000000001,
+    "end": 524.7,
+    "speaker": "SPEAKER_04",
+    "text": "how many of them are here actually for visiting?"
+  },
+  {
+    "start": 524.7,
+    "end": 534.02,
+    "speaker": "SPEAKER_04",
+    "text": "And how many of those people actually have the income to come and visit, to do this type"
+  },
+  {
+    "start": 534.02,
+    "end": 541.4200000000001,
+    "speaker": "SPEAKER_04",
+    "text": "of service, so probably just class A or class B. And how many of them actually would like"
+  },
+  {
+    "start": 541.42,
+    "end": 545.74,
+    "speaker": "SPEAKER_04",
+    "text": "to want the service in order for us to activate?"
+  },
+  {
+    "start": 545.74,
+    "end": 555.9399999999999,
+    "speaker": "SPEAKER_04",
+    "text": "On the business side, I would look to how many people go to Manhattan in terms of transportation?"
+  },
+  {
+    "start": 555.9399999999999,
+    "end": 562.74,
+    "speaker": "SPEAKER_04",
+    "text": "What would be the percentage of those people that would actually be like business that would"
+  },
+  {
+    "start": 562.74,
+    "end": 565.0999999999999,
+    "speaker": "SPEAKER_04",
+    "text": "be traveling for business?"
+  },
+  {
+    "start": 565.0999999999999,
+    "end": 569.4599999999999,
+    "speaker": "SPEAKER_04",
+    "text": "What would be the percentage of those business people that actually can afford?"
+  },
+  {
+    "start": 569.46,
+    "end": 573.38,
+    "speaker": "SPEAKER_04",
+    "text": "For probably sea levels, high as I could have."
+  },
+  {
+    "start": 573.38,
+    "end": 577.26,
+    "speaker": "SPEAKER_04",
+    "text": "And how many of them actually want to do the service?"
+  },
+  {
+    "start": 577.26,
+    "end": 581.7800000000001,
+    "speaker": "SPEAKER_04",
+    "text": "Because probably only the ones that have a business schedule or a business agenda."
+  },
+  {
+    "start": 581.7800000000001,
+    "end": 582.7800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 582.7800000000001,
+    "end": 589.34,
+    "speaker": "SPEAKER_04",
+    "text": "So in order for us to start here, I can estimate or if you have any information about the"
+  },
+  {
+    "start": 589.34,
+    "end": 594.7800000000001,
+    "speaker": "SPEAKER_04",
+    "text": "amount of passengers or what would be the price for cheated, it would be great to start"
+  },
+  {
+    "start": 594.7800000000001,
+    "end": 595.7800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "it."
+  },
+  {
+    "start": 595.78,
+    "end": 600.9,
+    "speaker": "SPEAKER_01",
+    "text": "So for like the airport visits, the price each way is $200."
+  },
+  {
+    "start": 600.9,
+    "end": 601.9,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 601.9,
+    "end": 602.9,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect."
+  },
+  {
+    "start": 602.9,
+    "end": 608.5799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "And in terms of like, I think to give you like a start on basically the number of passengers,"
+  },
+  {
+    "start": 608.5799999999999,
+    "end": 614.62,
+    "speaker": "SPEAKER_01",
+    "text": "I can give you some information which is that the New York area airports experience 130"
+  },
+  {
+    "start": 614.62,
+    "end": 618.02,
+    "speaker": "SPEAKER_01",
+    "text": "million visits per year."
+  },
+  {
+    "start": 618.02,
+    "end": 621.3,
+    "speaker": "SPEAKER_04",
+    "text": "Perfect."
+  },
+  {
+    "start": 622.3,
+    "end": 629.3,
+    "speaker": "SPEAKER_04",
+    "text": "So I'm going to leave aside the price for tickets just to use the 130 million visit to find"
+  },
+  {
+    "start": 629.3,
+    "end": 632.14,
+    "speaker": "SPEAKER_04",
+    "text": "the amount of passengers that would be."
+  },
+  {
+    "start": 632.14,
+    "end": 639.9,
+    "speaker": "SPEAKER_04",
+    "text": "So if we know that there is 130 million visits, from this we can divide how many people would"
+  },
+  {
+    "start": 639.9,
+    "end": 645.0999999999999,
+    "speaker": "SPEAKER_04",
+    "text": "be for business and how many people would be for later."
+  },
+  {
+    "start": 645.1,
+    "end": 652.78,
+    "speaker": "SPEAKER_04",
+    "text": "I know that probably in terms of the amount of people that wants to go for business and"
+  },
+  {
+    "start": 652.78,
+    "end": 656.78,
+    "speaker": "SPEAKER_04",
+    "text": "leisure would be around 50, 50."
+  },
+  {
+    "start": 656.78,
+    "end": 660.66,
+    "speaker": "SPEAKER_04",
+    "text": "So 50% or business 50% for leisure."
+  },
+  {
+    "start": 660.66,
+    "end": 665.0600000000001,
+    "speaker": "SPEAKER_04",
+    "text": "So probably 65 million people."
+  },
+  {
+    "start": 665.0600000000001,
+    "end": 666.0600000000001,
+    "speaker": "SPEAKER_04",
+    "text": "Okay."
+  },
+  {
+    "start": 666.0600000000001,
+    "end": 671.7,
+    "speaker": "SPEAKER_04",
+    "text": "One each of those for the leisure segment."
+  },
+  {
+    "start": 671.7,
+    "end": 678.74,
+    "speaker": "SPEAKER_04",
+    "text": "I would assume that probably 70% of people that goes to Manhattan comes for leisure."
+  },
+  {
+    "start": 678.74,
+    "end": 681.4200000000001,
+    "speaker": "SPEAKER_04",
+    "text": "Not a lot of people come for business."
+  },
+  {
+    "start": 681.4200000000001,
+    "end": 690.98,
+    "speaker": "SPEAKER_04",
+    "text": "So 75% from 65 million would be around 46 million passengers that would be of those visits,"
+  },
+  {
+    "start": 690.98,
+    "end": 696.22,
+    "speaker": "SPEAKER_04",
+    "text": "sorry, 40 million visits would would be for later."
+  },
+  {
+    "start": 696.22,
+    "end": 697.22,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 697.26,
+    "end": 706.22,
+    "speaker": "SPEAKER_04",
+    "text": "I would assume that around 20% of those 46 million actually has the condition, it's"
+  },
+  {
+    "start": 706.22,
+    "end": 708.3000000000001,
+    "speaker": "SPEAKER_04",
+    "text": "class A or high income people."
+  },
+  {
+    "start": 708.3000000000001,
+    "end": 709.3000000000001,
+    "speaker": "SPEAKER_04",
+    "text": "Okay."
+  },
+  {
+    "start": 709.3000000000001,
+    "end": 713.98,
+    "speaker": "SPEAKER_04",
+    "text": "So then we're going to have 9 million."
+  },
+  {
+    "start": 713.98,
+    "end": 718.58,
+    "speaker": "SPEAKER_04",
+    "text": "And from those 9 million, I would assume that a very low percentage of them actually"
+  },
+  {
+    "start": 718.58,
+    "end": 723.14,
+    "speaker": "SPEAKER_04",
+    "text": "want the service because of very expensive service."
+  },
+  {
+    "start": 723.14,
+    "end": 725.98,
+    "speaker": "SPEAKER_04",
+    "text": "So around 5% that would assume."
+  },
+  {
+    "start": 725.98,
+    "end": 734.46,
+    "speaker": "SPEAKER_04",
+    "text": "So we are talking about 450,000 people that would actually like to come to use the service"
+  },
+  {
+    "start": 734.46,
+    "end": 737.02,
+    "speaker": "SPEAKER_04",
+    "text": "and from the leisure segment."
+  },
+  {
+    "start": 737.02,
+    "end": 743.1,
+    "speaker": "SPEAKER_01",
+    "text": "So sorry, this is using 5% of like 9 million are the ones that will actually want to use"
+  },
+  {
+    "start": 743.1,
+    "end": 744.1,
+    "speaker": "SPEAKER_01",
+    "text": "the service."
+  },
+  {
+    "start": 744.1,
+    "end": 745.1,
+    "speaker": "SPEAKER_04",
+    "text": "Yes."
+  },
+  {
+    "start": 745.1,
+    "end": 746.1,
+    "speaker": "SPEAKER_04",
+    "text": "Yes."
+  },
+  {
+    "start": 746.1,
+    "end": 747.1,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 747.1,
+    "end": 755.7,
+    "speaker": "SPEAKER_04",
+    "text": "So going for the business segment, I know that I have 65 million people that actually"
+  },
+  {
+    "start": 755.7,
+    "end": 760.82,
+    "speaker": "SPEAKER_04",
+    "text": "come to the business or to Manhattan."
+  },
+  {
+    "start": 760.82,
+    "end": 765.0200000000001,
+    "speaker": "SPEAKER_04",
+    "text": "From those 65, I know that I put it 70 for later."
+  },
+  {
+    "start": 765.0200000000001,
+    "end": 769.38,
+    "speaker": "SPEAKER_04",
+    "text": "So probably 30 would be the rest the remaining."
+  },
+  {
+    "start": 769.38,
+    "end": 775.58,
+    "speaker": "SPEAKER_04",
+    "text": "So we are talking about 19 million people on the business segment, passengers on the business"
+  },
+  {
+    "start": 775.58,
+    "end": 776.58,
+    "speaker": "SPEAKER_04",
+    "text": "segment."
+  },
+  {
+    "start": 776.58,
+    "end": 777.58,
+    "speaker": "SPEAKER_04",
+    "text": "Okay."
+  },
+  {
+    "start": 777.58,
+    "end": 783.1,
+    "speaker": "SPEAKER_04",
+    "text": "And we're going to use the same 20% that I used for the high income for the high sea level"
+  },
+  {
+    "start": 783.1,
+    "end": 785.78,
+    "speaker": "SPEAKER_04",
+    "text": "was I could have actually could afford the service."
+  },
+  {
+    "start": 785.78,
+    "end": 786.78,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 786.78,
+    "end": 792.5,
+    "speaker": "SPEAKER_01",
+    "text": "Do you think that in this in the case of business, maybe like in terms of affordability, this"
+  },
+  {
+    "start": 792.5,
+    "end": 793.98,
+    "speaker": "SPEAKER_01",
+    "text": "would be higher?"
+  },
+  {
+    "start": 793.98,
+    "end": 800.14,
+    "speaker": "SPEAKER_04",
+    "text": "It could actually be higher."
+  },
+  {
+    "start": 800.14,
+    "end": 803.0600000000001,
+    "speaker": "SPEAKER_04",
+    "text": "We could say like 30 or something like that."
+  },
+  {
+    "start": 803.0600000000001,
+    "end": 807.58,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, for the fact that maybe because you know, these trips are being expensive by the company,"
+  },
+  {
+    "start": 807.58,
+    "end": 808.82,
+    "speaker": "SPEAKER_01",
+    "text": "so potentially it could be higher."
+  },
+  {
+    "start": 808.82,
+    "end": 811.6600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "But I think for the sake of how many let's take 20%."
+  },
+  {
+    "start": 811.66,
+    "end": 812.66,
+    "speaker": "SPEAKER_01",
+    "text": "And let's continue with that."
+  },
+  {
+    "start": 812.66,
+    "end": 813.66,
+    "speaker": "SPEAKER_01",
+    "text": "I think that's a decent."
+  },
+  {
+    "start": 813.66,
+    "end": 815.06,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, but I agree with your point."
+  },
+  {
+    "start": 815.06,
+    "end": 819.4599999999999,
+    "speaker": "SPEAKER_04",
+    "text": "That would increase their willingness to pay and probably would increase the price or"
+  },
+  {
+    "start": 819.4599999999999,
+    "end": 821.6999999999999,
+    "speaker": "SPEAKER_04",
+    "text": "the demand for it."
+  },
+  {
+    "start": 821.6999999999999,
+    "end": 824.66,
+    "speaker": "SPEAKER_04",
+    "text": "So 20, going over the 20%."
+  },
+  {
+    "start": 824.66,
+    "end": 826.98,
+    "speaker": "SPEAKER_04",
+    "text": "I'm talking about 20% of 19."
+  },
+  {
+    "start": 826.98,
+    "end": 830.06,
+    "speaker": "SPEAKER_04",
+    "text": "It's around 4 million."
+  },
+  {
+    "start": 830.06,
+    "end": 836.3,
+    "speaker": "SPEAKER_04",
+    "text": "And people that would actually want to use the service, I know that I used five for the"
+  },
+  {
+    "start": 836.3,
+    "end": 841.8199999999999,
+    "speaker": "SPEAKER_04",
+    "text": "laser, but I think that for executives that would use a higher number because probably they"
+  },
+  {
+    "start": 841.8199999999999,
+    "end": 846.02,
+    "speaker": "SPEAKER_04",
+    "text": "want to save time when you're on vacation, you don't want to save time that much."
+  },
+  {
+    "start": 846.02,
+    "end": 847.02,
+    "speaker": "SPEAKER_04",
+    "text": "So I would use 10%."
+  },
+  {
+    "start": 847.02,
+    "end": 848.02,
+    "speaker": "SPEAKER_04",
+    "text": "Okay."
+  },
+  {
+    "start": 848.02,
+    "end": 849.02,
+    "speaker": "SPEAKER_01",
+    "text": "I know."
+  },
+  {
+    "start": 849.02,
+    "end": 852.8599999999999,
+    "speaker": "SPEAKER_04",
+    "text": "So 10% of 4 million would be around 400."
+  },
+  {
+    "start": 852.8599999999999,
+    "end": 853.8599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 853.8599999999999,
+    "end": 856.18,
+    "speaker": "SPEAKER_04",
+    "text": "400,000 passengers."
+  },
+  {
+    "start": 856.18,
+    "end": 862.62,
+    "speaker": "SPEAKER_04",
+    "text": "So I know that I had 450,000 for laser, 400 for business."
+  },
+  {
+    "start": 862.62,
+    "end": 871.0600000000001,
+    "speaker": "SPEAKER_04",
+    "text": "So we were talking about 850,000 passengers that would, passengers last stretch it would"
+  },
+  {
+    "start": 871.0600000000001,
+    "end": 872.78,
+    "speaker": "SPEAKER_04",
+    "text": "have."
+  },
+  {
+    "start": 872.78,
+    "end": 879.22,
+    "speaker": "SPEAKER_04",
+    "text": "You told me that the price would be around $200, the average price."
+  },
+  {
+    "start": 879.22,
+    "end": 889.5,
+    "speaker": "SPEAKER_04",
+    "text": "So multiplying those together market size, we would be talking about $170,000, only 4"
+  },
+  {
+    "start": 889.5,
+    "end": 890.86,
+    "speaker": "SPEAKER_04",
+    "text": "day out for it."
+  },
+  {
+    "start": 890.86,
+    "end": 897.86,
+    "speaker": "SPEAKER_04",
+    "text": "It seems sizable, but for 30 million dollar investment, I don't know if it would be still"
+  },
+  {
+    "start": 897.86,
+    "end": 899.02,
+    "speaker": "SPEAKER_04",
+    "text": "an opportunity."
+  },
+  {
+    "start": 899.02,
+    "end": 904.22,
+    "speaker": "SPEAKER_04",
+    "text": "So let's go for the biggest market that is the vacation market that you told me that it's"
+  },
+  {
+    "start": 904.22,
+    "end": 906.1800000000001,
+    "speaker": "SPEAKER_04",
+    "text": "60% of the revenue."
+  },
+  {
+    "start": 906.1800000000001,
+    "end": 907.1800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Correct."
+  },
+  {
+    "start": 907.1800000000001,
+    "end": 908.1800000000001,
+    "speaker": "SPEAKER_04",
+    "text": "Yes."
+  },
+  {
+    "start": 908.1800000000001,
+    "end": 909.1800000000001,
+    "speaker": "SPEAKER_04",
+    "text": "I'm using it."
+  },
+  {
+    "start": 909.1800000000001,
+    "end": 917.22,
+    "speaker": "SPEAKER_04",
+    "text": "So for, I think for looking for the vacation market, I would look to the amount of trips"
+  },
+  {
+    "start": 917.22,
+    "end": 923.1800000000001,
+    "speaker": "SPEAKER_04",
+    "text": "times the price of those trips."
+  },
+  {
+    "start": 923.1800000000001,
+    "end": 931.4200000000001,
+    "speaker": "SPEAKER_04",
+    "text": "And for looking for the amount of trips, I would try to calculate this by understanding"
+  },
+  {
+    "start": 931.4200000000001,
+    "end": 935.38,
+    "speaker": "SPEAKER_04",
+    "text": "how many people we have in New York."
+  },
+  {
+    "start": 935.38,
+    "end": 940.34,
+    "speaker": "SPEAKER_04",
+    "text": "What are the best percentage of people that actually cannot afford the service?"
+  },
+  {
+    "start": 940.34,
+    "end": 945.46,
+    "speaker": "SPEAKER_04",
+    "text": "What is the percentage of people that would be like going for vacation?"
+  },
+  {
+    "start": 945.46,
+    "end": 946.46,
+    "speaker": "SPEAKER_04",
+    "text": "Okay."
+  },
+  {
+    "start": 947.46,
+    "end": 958.0600000000001,
+    "speaker": "SPEAKER_04",
+    "text": "And what would be the percentage of the top markets around New York City across all"
+  },
+  {
+    "start": 958.0600000000001,
+    "end": 959.0600000000001,
+    "speaker": "SPEAKER_04",
+    "text": "the airports?"
+  },
+  {
+    "start": 959.0600000000001,
+    "end": 964.58,
+    "speaker": "SPEAKER_04",
+    "text": "And what would be the percentage of people that actually want the service?"
+  },
+  {
+    "start": 964.58,
+    "end": 968.86,
+    "speaker": "SPEAKER_04",
+    "text": "I don't know if you have any information about the amount of people in New York and"
+  },
+  {
+    "start": 968.86,
+    "end": 971.26,
+    "speaker": "SPEAKER_04",
+    "text": "the average price of those trips."
+  },
+  {
+    "start": 971.26,
+    "end": 972.26,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 972.26,
+    "end": 973.26,
+    "speaker": "SPEAKER_01",
+    "text": "I've got these."
+  },
+  {
+    "start": 973.26,
+    "end": 976.38,
+    "speaker": "SPEAKER_01",
+    "text": "The typical New York population, I think in the last couple of years, has been about"
+  },
+  {
+    "start": 976.38,
+    "end": 979.22,
+    "speaker": "SPEAKER_01",
+    "text": "8 million people."
+  },
+  {
+    "start": 979.22,
+    "end": 985.34,
+    "speaker": "SPEAKER_01",
+    "text": "And the price of this trip to a vacation market because it's a much longer trip than the"
+  },
+  {
+    "start": 985.34,
+    "end": 986.8199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "airport service."
+  },
+  {
+    "start": 986.8199999999999,
+    "end": 990.9399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "It's between 50, between 500 and 1200 dollars."
+  },
+  {
+    "start": 990.9399999999999,
+    "end": 995.3,
+    "speaker": "SPEAKER_01",
+    "text": "So it's significantly higher than your airport trip."
+  },
+  {
+    "start": 995.3,
+    "end": 999.66,
+    "speaker": "SPEAKER_01",
+    "text": "And then also like the company right now serves the top five vacation markets out of New"
+  },
+  {
+    "start": 999.66,
+    "end": 1000.66,
+    "speaker": "SPEAKER_01",
+    "text": "York."
+  },
+  {
+    "start": 1000.9,
+    "end": 1001.9,
+    "speaker": "SPEAKER_04",
+    "text": "Amazing."
+  },
+  {
+    "start": 1004.54,
+    "end": 1008.18,
+    "speaker": "SPEAKER_04",
+    "text": "So with that, I'm going to start trust made here."
+  },
+  {
+    "start": 1008.18,
+    "end": 1012.62,
+    "speaker": "SPEAKER_04",
+    "text": "First, the amount of trips and then I'm multiplied by the average price of those trips"
+  },
+  {
+    "start": 1012.62,
+    "end": 1015.2199999999999,
+    "speaker": "SPEAKER_04",
+    "text": "to understand what would be our revenue in this market."
+  },
+  {
+    "start": 1015.2199999999999,
+    "end": 1016.2199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1016.2199999999999,
+    "end": 1022.3399999999999,
+    "speaker": "SPEAKER_04",
+    "text": "So 8 million New York people that can afford, I'm going to continue with the 20% of class"
+  },
+  {
+    "start": 1022.34,
+    "end": 1029.42,
+    "speaker": "SPEAKER_04",
+    "text": "A and B. So we're talking about 1.6 million people."
+  },
+  {
+    "start": 1029.42,
+    "end": 1034.66,
+    "speaker": "SPEAKER_04",
+    "text": "People that usually, the percentage of those people that actually go for vacations, I would"
+  },
+  {
+    "start": 1034.66,
+    "end": 1038.1000000000001,
+    "speaker": "SPEAKER_04",
+    "text": "say that it's higher because they're high income people."
+  },
+  {
+    "start": 1038.1000000000001,
+    "end": 1042.6200000000001,
+    "speaker": "SPEAKER_04",
+    "text": "So around 90% of those people usually go for vacation."
+  },
+  {
+    "start": 1042.6200000000001,
+    "end": 1048.5,
+    "speaker": "SPEAKER_04",
+    "text": "So for 90% of 1.6, it's 1.4 million."
+  },
+  {
+    "start": 1049.34,
+    "end": 1055.98,
+    "speaker": "SPEAKER_04",
+    "text": "How much of those top five markets would represent from this total amount of people?"
+  },
+  {
+    "start": 1055.98,
+    "end": 1062.38,
+    "speaker": "SPEAKER_04",
+    "text": "I would say that probably around 60% because probably the top five markets are very concentrated"
+  },
+  {
+    "start": 1062.38,
+    "end": 1063.38,
+    "speaker": "SPEAKER_04",
+    "text": "on that demand."
+  },
+  {
+    "start": 1063.38,
+    "end": 1064.38,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah."
+  },
+  {
+    "start": 1064.38,
+    "end": 1071.7,
+    "speaker": "SPEAKER_04",
+    "text": "So 50% of 1.4, it would be around 1.7 million people."
+  },
+  {
+    "start": 1071.7,
+    "end": 1080.7,
+    "speaker": "SPEAKER_04",
+    "text": "And for those that would actually, would like to use the service, I would say that probably"
+  },
+  {
+    "start": 1080.7,
+    "end": 1093.5800000000002,
+    "speaker": "SPEAKER_04",
+    "text": "a high percentage here, like around 25% of the 0.7 million, which would give us 180,000"
+  },
+  {
+    "start": 1093.5800000000002,
+    "end": 1095.5800000000002,
+    "speaker": "SPEAKER_04",
+    "text": "people around."
+  },
+  {
+    "start": 1095.5800000000002,
+    "end": 1100.98,
+    "speaker": "SPEAKER_01",
+    "text": "Just to recap, you had 1.4 million people and then the top five vacation markets was 50%"
+  },
+  {
+    "start": 1100.98,
+    "end": 1102.3,
+    "speaker": "SPEAKER_01",
+    "text": "of that's 0.7 million."
+  },
+  {
+    "start": 1102.3,
+    "end": 1108.42,
+    "speaker": "SPEAKER_01",
+    "text": "And then you've taken 25% of that who are the ones that can actually want to use the service."
+  },
+  {
+    "start": 1108.42,
+    "end": 1110.82,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, that would be actually our conversion rate."
+  },
+  {
+    "start": 1110.82,
+    "end": 1116.54,
+    "speaker": "SPEAKER_04",
+    "text": "So from the 0.72, how many of those people will actually bring because they are willing"
+  },
+  {
+    "start": 1116.54,
+    "end": 1118.54,
+    "speaker": "SPEAKER_04",
+    "text": "to pay and they want that?"
+  },
+  {
+    "start": 1118.54,
+    "end": 1123.98,
+    "speaker": "SPEAKER_01",
+    "text": "I have to put 25% into pretty optimistic sort of number."
+  },
+  {
+    "start": 1123.98,
+    "end": 1127.3,
+    "speaker": "SPEAKER_01",
+    "text": "What's your reasoning for picking a high number like that?"
+  },
+  {
+    "start": 1127.3,
+    "end": 1137.02,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, I think that probably because on vacation, like I think that when I think for the vacations,"
+  },
+  {
+    "start": 1137.02,
+    "end": 1141.26,
+    "speaker": "SPEAKER_04",
+    "text": "I'm thinking about people that are going through the hamptons or today areas around."
+  },
+  {
+    "start": 1141.26,
+    "end": 1148.06,
+    "speaker": "SPEAKER_04",
+    "text": "And because New York has a lot of traffic, probably the demand for the service, the conversion"
+  },
+  {
+    "start": 1148.06,
+    "end": 1153.1399999999999,
+    "speaker": "SPEAKER_04",
+    "text": "would be like better because instead of getting a four hours drive to the hamptons, you can"
+  },
+  {
+    "start": 1153.1399999999999,
+    "end": 1154.1399999999999,
+    "speaker": "SPEAKER_04",
+    "text": "get a 10 minutes."
+  },
+  {
+    "start": 1154.74,
+    "end": 1157.74,
+    "speaker": "SPEAKER_04",
+    "text": "So we're actually saving more time, I would say."
+  },
+  {
+    "start": 1157.74,
+    "end": 1161.42,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, and then as I think we discussed that this was the top five vacation markets."
+  },
+  {
+    "start": 1161.42,
+    "end": 1164.8200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So like these are probably probably, you know, well, the people who are basically traveling."
+  },
+  {
+    "start": 1164.8200000000002,
+    "end": 1167.7,
+    "speaker": "SPEAKER_01",
+    "text": "So you're right, like, you know, they would probably want to use the service."
+  },
+  {
+    "start": 1167.7,
+    "end": 1168.66,
+    "speaker": "SPEAKER_01",
+    "text": "So that's correct."
+  },
+  {
+    "start": 1168.66,
+    "end": 1169.18,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1169.18,
+    "end": 1170.8200000000002,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, you're saving more time."
+  },
+  {
+    "start": 1170.8200000000002,
+    "end": 1175.22,
+    "speaker": "SPEAKER_04",
+    "text": "So that would make more sense because the airport trip is 40 minutes."
+  },
+  {
+    "start": 1175.22,
+    "end": 1176.18,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, correct."
+  },
+  {
+    "start": 1177.18,
+    "end": 1178.5,
+    "speaker": "SPEAKER_04",
+    "text": "Perfect."
+  },
+  {
+    "start": 1178.5,
+    "end": 1188.1,
+    "speaker": "SPEAKER_04",
+    "text": "So with that, we have 180,000 people for us to multiply for the price for for for each"
+  },
+  {
+    "start": 1188.1,
+    "end": 1188.9,
+    "speaker": "SPEAKER_04",
+    "text": "of the trips."
+  },
+  {
+    "start": 1188.9,
+    "end": 1194.58,
+    "speaker": "SPEAKER_04",
+    "text": "I would imagine these prices for one way and we would need to account for the way back."
+  },
+  {
+    "start": 1195.14,
+    "end": 1202.1,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, but so I would multiply that by two trips to make sure that I'm accounting for the way back."
+  },
+  {
+    "start": 1202.1,
+    "end": 1208.82,
+    "speaker": "SPEAKER_04",
+    "text": "Also, yeah, so two times 183, 160,000 trips."
+  },
+  {
+    "start": 1209.86,
+    "end": 1217.1399999999999,
+    "speaker": "SPEAKER_04",
+    "text": "We would have as a potential opportunity, multiplying by the average price of the trips."
+  },
+  {
+    "start": 1217.1399999999999,
+    "end": 1223.98,
+    "speaker": "SPEAKER_04",
+    "text": "You told me that it's around 500 to 100 and to a thousand and 200."
+  },
+  {
+    "start": 1224.3799999999999,
+    "end": 1230.4599999999998,
+    "speaker": "SPEAKER_04",
+    "text": "So we're talking about an average price of of the trip of $850 to trip."
+  },
+  {
+    "start": 1230.78,
+    "end": 1231.3,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1231.5,
+    "end": 1234.06,
+    "speaker": "SPEAKER_04",
+    "text": "Times the 360,000 trips."
+  },
+  {
+    "start": 1234.3,
+    "end": 1237.58,
+    "speaker": "SPEAKER_04",
+    "text": "We are having a market around 300 million."
+  },
+  {
+    "start": 1238.38,
+    "end": 1244.46,
+    "speaker": "SPEAKER_04",
+    "text": "So our total market would be 300 million plus the one 170 million for that."
+  },
+  {
+    "start": 1244.46,
+    "end": 1248.82,
+    "speaker": "SPEAKER_01",
+    "text": "300 million because you multiplied 360,000 into a 50."
+  },
+  {
+    "start": 1249.3400000000001,
+    "end": 1250.54,
+    "speaker": "SPEAKER_04",
+    "text": "Yes, yes, yes."
+  },
+  {
+    "start": 1250.78,
+    "end": 1253.18,
+    "speaker": "SPEAKER_04",
+    "text": "It over on 300, 300, 600,000."
+  },
+  {
+    "start": 1253.94,
+    "end": 1255.26,
+    "speaker": "SPEAKER_01",
+    "text": "You're very far too much."
+  },
+  {
+    "start": 1255.26,
+    "end": 1255.94,
+    "speaker": "SPEAKER_01",
+    "text": "Well done."
+  },
+  {
+    "start": 1256.22,
+    "end": 1256.8600000000001,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah."
+  },
+  {
+    "start": 1257.02,
+    "end": 1262.3,
+    "speaker": "SPEAKER_04",
+    "text": "And adding all those things up 170 plus 300."
+  },
+  {
+    "start": 1263.1,
+    "end": 1269.9799999999998,
+    "speaker": "SPEAKER_04",
+    "text": "We are talking about 476 million as a total addressable market."
+  },
+  {
+    "start": 1270.3799999999999,
+    "end": 1275.5,
+    "speaker": "SPEAKER_04",
+    "text": "It seems to be a good opportunity in my in my perspective."
+  },
+  {
+    "start": 1275.5,
+    "end": 1280.2199999999998,
+    "speaker": "SPEAKER_04",
+    "text": "Of course, for me to be very assertion on that, I would need to compare that with other"
+  },
+  {
+    "start": 1280.22,
+    "end": 1287.58,
+    "speaker": "SPEAKER_04",
+    "text": "opportunities that the firm has and also other geographies to understand if there is something that is more attractive."
+  },
+  {
+    "start": 1288.7,
+    "end": 1297.7,
+    "speaker": "SPEAKER_04",
+    "text": "And also we are talking about the firm would need to invest a minimum of like 10% of this addressable market that would be cutting it."
+  },
+  {
+    "start": 1298.78,
+    "end": 1304.5,
+    "speaker": "SPEAKER_04",
+    "text": "So if I was this client, I would try to look to extensions opportunity here."
+  },
+  {
+    "start": 1305.5,
+    "end": 1306.18,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, exactly."
+  },
+  {
+    "start": 1306.18,
+    "end": 1308.58,
+    "speaker": "SPEAKER_01",
+    "text": "So I think that's a very good segment of the next section."
+  },
+  {
+    "start": 1308.58,
+    "end": 1319.22,
+    "speaker": "SPEAKER_01",
+    "text": "So like as you mentioned that it's a pretty decent market size, but given our current penetration, like, you know, how much we've already like sort of taken of this market because, you know, we are one of the only players doing this."
+  },
+  {
+    "start": 1319.62,
+    "end": 1322.6599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "They might not be enough headway if it's just this market."
+  },
+  {
+    "start": 1322.6599999999999,
+    "end": 1322.8999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Right."
+  },
+  {
+    "start": 1322.8999999999999,
+    "end": 1331.46,
+    "speaker": "SPEAKER_01",
+    "text": "So like if we were to consider like some other opportunities within the New York area, how would you sort of how would you assess them?"
+  },
+  {
+    "start": 1331.54,
+    "end": 1337.86,
+    "speaker": "SPEAKER_01",
+    "text": "Like, you know, just can you think of a few opportunities that might be quite relevant given our current asset base and how we can use that."
+  },
+  {
+    "start": 1338.98,
+    "end": 1339.46,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah."
+  },
+  {
+    "start": 1341.22,
+    "end": 1344.26,
+    "speaker": "SPEAKER_04",
+    "text": "Interim is thinking about new opportunities."
+  },
+  {
+    "start": 1345.34,
+    "end": 1351.8999999999999,
+    "speaker": "SPEAKER_04",
+    "text": "I would think about maybe expanding the current portfolio."
+  },
+  {
+    "start": 1353.1,
+    "end": 1360.54,
+    "speaker": "SPEAKER_04",
+    "text": "And second, I would think about expanding the customer segments, the two things that I would think about."
+  },
+  {
+    "start": 1361.1399999999999,
+    "end": 1369.1399999999999,
+    "speaker": "SPEAKER_04",
+    "text": "So in terms of current service, I would think about maybe we could do lunch private right."
+  },
+  {
+    "start": 1369.6599999999999,
+    "end": 1382.94,
+    "speaker": "SPEAKER_04",
+    "text": "Maybe we could offer like food or experience with like VIP rooms, the type of stuff that we could charge more to have other different revenue streamline."
+  },
+  {
+    "start": 1383.66,
+    "end": 1400.78,
+    "speaker": "SPEAKER_04",
+    "text": "We also could do partnership with credit card companies like Mx or master cards to have a better experience for the customers in charge them for providing this benefit for for their customers."
+  },
+  {
+    "start": 1401.3,
+    "end": 1412.26,
+    "speaker": "SPEAKER_04",
+    "text": "And we also could think about opportunities to work with dynamic price. So like an Uber. So if we have high demand, we are charging more if we have low demand, we are charging less."
+  },
+  {
+    "start": 1413.6200000000001,
+    "end": 1430.42,
+    "speaker": "SPEAKER_04",
+    "text": "The second option of expanding customer segment, we could think about the going to the business segment. So instead of charging sea levels, maybe try to do package with the corporations."
+  },
+  {
+    "start": 1430.98,
+    "end": 1449.02,
+    "speaker": "SPEAKER_04",
+    "text": "So we can actually lock the year revenue with them. Another thing that we could do is to resume service. A lot of people wants to have like helicopters to see around New York City area may happen. So we could also try to go for these customer segments."
+  },
+  {
+    "start": 1449.9,
+    "end": 1453.82,
+    "speaker": "SPEAKER_04",
+    "text": "Those are a couple of things that I would think about inside of the New York area."
+  },
+  {
+    "start": 1454.3,
+    "end": 1469.5,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, that's an I mean, I do really like the last two like anywhere you lock in the revenue for the entire year. And then also like, you know how you could basically use them for like tourism and stuff because there's a lot of people interested in like helicopter trips. Right. So I think that's that's very very interesting. Okay."
+  },
+  {
+    "start": 1470.38,
+    "end": 1481.38,
+    "speaker": "SPEAKER_01",
+    "text": "I think so as as good as these opportunities sound within the New York area, I think that it could be the right time for us to also look at potential other cities as well where you could expand."
+  },
+  {
+    "start": 1481.86,
+    "end": 1490.86,
+    "speaker": "SPEAKER_01",
+    "text": "So you know, like because we've got like lower capEx that are in New York, maybe we can invest in more CapEx and expanding other places."
+  },
+  {
+    "start": 1491.3,
+    "end": 1498.54,
+    "speaker": "SPEAKER_01",
+    "text": "So I've actually got some information for you in terms of like demographics and geographical data of other, you know, key states."
+  },
+  {
+    "start": 1498.9799999999998,
+    "end": 1508.6599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "And it'll be good to get your view on like sort of what you think about, you know, potential expansion opportunities outside New York. Right. So let me share this with you. I want to try and share my screen."
+  },
+  {
+    "start": 1510.02,
+    "end": 1511.3799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "And let me know if this works."
+  },
+  {
+    "start": 1512.26,
+    "end": 1512.6999999999998,
+    "speaker": "SPEAKER_04",
+    "text": "Perfect."
+  },
+  {
+    "start": 1514.74,
+    "end": 1515.78,
+    "speaker": "SPEAKER_01",
+    "text": "Are you able to see my screen?"
+  },
+  {
+    "start": 1516.62,
+    "end": 1535.34,
+    "speaker": "SPEAKER_04",
+    "text": "Yes, I'm is flowing here perfect. Now I can see your screen. So this is just chart about potential new market demographic and geographic data on the circles. We have the total population and we are comparing here."
+  },
+  {
+    "start": 1535.7,
+    "end": 1545.18,
+    "speaker": "SPEAKER_04",
+    "text": "The percentage of housing holders with more than 100 K income versus the number of public airport. Correct."
+  },
+  {
+    "start": 1545.6200000000001,
+    "end": 1559.78,
+    "speaker": "SPEAKER_04",
+    "text": "So the first thing that I see here is that definitely New York is the best opportunity because we have the most amount of airports and we also have a relevant number of the population that has more than 100 K."
+  },
+  {
+    "start": 1560.18,
+    "end": 1570.98,
+    "speaker": "SPEAKER_04",
+    "text": "That is 35% and we also have a significant demographic. So probably after New York, the other markets, I would assume would be smaller for us."
+  },
+  {
+    "start": 1571.98,
+    "end": 1582.98,
+    "speaker": "SPEAKER_01",
+    "text": "In terms of the best market, but if you had to pick another couple of options in terms of like, you know, the expansion opportunities like which ones would you pick based on information you see."
+  },
+  {
+    "start": 1583.7,
+    "end": 1589.74,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, I would try to prioritize based on the number of public airports and also the."
+  },
+  {
+    "start": 1590.26,
+    "end": 1606.42,
+    "speaker": "SPEAKER_04",
+    "text": "The state that actually have the highest income people. So my obvious choice would be either to go to Los Angeles or Washington here probably those would be the next markets that I will look."
+  },
+  {
+    "start": 1606.98,
+    "end": 1612.8200000000002,
+    "speaker": "SPEAKER_04",
+    "text": "So, essentially, it's because you have a significant amount of airports and you have a significant demographic."
+  },
+  {
+    "start": 1613.3000000000002,
+    "end": 1628.54,
+    "speaker": "SPEAKER_04",
+    "text": "Washington because you have a lot of high income householders. So that would mean that our segment that is the vacation segment probably that is 60% of our current revenue could be in Washington."
+  },
+  {
+    "start": 1628.66,
+    "end": 1631.42,
+    "speaker": "SPEAKER_04",
+    "text": "So that would be the next market that I would look for it."
+  },
+  {
+    "start": 1631.98,
+    "end": 1648.54,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, I'm apart from like this information. Is there anything else that might influence your decision like one way or the other in terms of like which city you want to pick apart from like just number of airports and the income of the households because you did mention like, you know, that point about New York."
+  },
+  {
+    "start": 1649.7,
+    "end": 1658.3000000000002,
+    "speaker": "SPEAKER_04",
+    "text": "Yes, I would try to understand more the amount of trips and the amount of people that would be willing to actually do that."
+  },
+  {
+    "start": 1658.78,
+    "end": 1668.86,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, because when I see Washington Washington is kind of a small city. So when we look to people that want to go to the airport probably not a lot of people."
+  },
+  {
+    "start": 1669.1399999999999,
+    "end": 1681.34,
+    "speaker": "SPEAKER_04",
+    "text": "But Los Angeles is very similar to New York. So you have a lot of airports, a lot of traffic. So the amount of trips might be higher. So I would try to make the amount of trips on each of those."
+  },
+  {
+    "start": 1681.62,
+    "end": 1688.1,
+    "speaker": "SPEAKER_01",
+    "text": "I think you mentioned the point that I was looking at which is traffic like you know sometimes like the congestion on the roads between cities is so much."
+  },
+  {
+    "start": 1688.8999999999999,
+    "end": 1692.62,
+    "speaker": "SPEAKER_01",
+    "text": "People actually might prefer to just take a helicopter trip, you know, if they're getting late or something."
+  },
+  {
+    "start": 1692.8999999999999,
+    "end": 1702.54,
+    "speaker": "SPEAKER_01",
+    "text": "So I think you're right. Like, you know, I think both Washington and Los Angeles do face like pretty severe congestion problems. So I think they both potentially could be good opportunities to to expand into."
+  },
+  {
+    "start": 1703.22,
+    "end": 1706.58,
+    "speaker": "SPEAKER_01",
+    "text": "Fair enough. I think I think Daniel, let's let's move on to."
+  },
+  {
+    "start": 1707.58,
+    "end": 1723.58,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to stop sharing, but I think that we've looked at a lot of information. We've seen market sizing, we've got like some idea of like the expansion opportunities. So I think it's probably in our time to like sort of synthesize your findings and let me let me know what you would you feel overall about the opportunity."
+  },
+  {
+    "start": 1724.9399999999998,
+    "end": 1730.1399999999999,
+    "speaker": "SPEAKER_04",
+    "text": "Yes, just give me a one cycle for me to structure here and then I share with you."
+  },
+  {
+    "start": 1730.4199999999998,
+    "end": 1731.4199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Sure."
+  },
+  {
+    "start": 1732.38,
+    "end": 1746.42,
+    "speaker": "SPEAKER_04",
+    "text": "Perfect. So in terms of my recommendation for a client, I think that seems to be a very good opportunity. So the client shooting vast on this crown for a sea helicopter business."
+  },
+  {
+    "start": 1747.42,
+    "end": 1762.42,
+    "speaker": "SPEAKER_04",
+    "text": "Because when we first we look to the market size in the university metropolitan area, it seems to be a very significant opportunity, which is for around $470 million market that we could actually leverage."
+  },
+  {
+    "start": 1762.54,
+    "end": 1776.42,
+    "speaker": "SPEAKER_04",
+    "text": "Stack on we look to expansion and geographic possibilities. And we saw that Ellie and Boston might be good geographic for us to expand so we would actually grow this market size."
+  },
+  {
+    "start": 1777.42,
+    "end": 1789.42,
+    "speaker": "SPEAKER_04",
+    "text": "As next year, I would advise the client to first assess some of the potential risk that we look so mainly regulation and also safety liabilities."
+  },
+  {
+    "start": 1789.42,
+    "end": 1806.42,
+    "speaker": "SPEAKER_04",
+    "text": "And the second, I would also assess our assumptions, especially in the new geographic trying to understand what will be the amount of trips and also the traffic on those places if it's high or not to see if it's a sizable opportunity."
+  },
+  {
+    "start": 1807.42,
+    "end": 1812.42,
+    "speaker": "SPEAKER_01",
+    "text": "Well done, Danny. I think you did a great job. I'm very pleased with the interview. Well done."
+  },
+  {
+    "start": 1812.42,
+    "end": 1815.42,
+    "speaker": "SPEAKER_02",
+    "text": "Thank you so much. Pleasure to meet you."
+  },
+  {
+    "start": 1816.42,
+    "end": 1831.42,
+    "speaker": "SPEAKER_00",
+    "text": "Hey, everyone. It's Kent and Givessey here, the founder of Rocketblocks. Thank you so much for watching this mock interview video. I hope you found it informative and helpful as you were getting ready to prepare for your own interviews and hopefully landing that job offer."
+  },
+  {
+    "start": 1831.42,
+    "end": 1840.42,
+    "speaker": "SPEAKER_00",
+    "text": "You are excited about we have a ton of great content on the Rocketblocks channel coming out on a weekly basis mock interviews, many lessons and chats with our Rocketblocks experts."
+  },
+  {
+    "start": 1841.42,
+    "end": 1849.42,
+    "speaker": "SPEAKER_00",
+    "text": "So if you haven't subscribed yet already, please do so. There is a big red button below. And if you hit that, you'll get all of our content as soon as it comes out."
+  },
+  {
+    "start": 1849.42,
+    "end": 1851.42,
+    "speaker": "SPEAKER_00",
+    "text": "Thanks for watching and have a great day."
+  }
+]

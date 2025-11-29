@@ -1,0 +1,1628 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.64,
+    "speaker": "SPEAKER_01",
+    "text": "20% of the large numbers still large numbers. So I think that's a fantastic way to go."
+  },
+  {
+    "start": 4.64,
+    "end": 6.32,
+    "speaker": "SPEAKER_03",
+    "text": "Like how much market size do you have?"
+  },
+  {
+    "start": 10.32,
+    "end": 15.68,
+    "speaker": "SPEAKER_02",
+    "text": "Hi everyone. This is a video run through for the slim chance in the Farmed Dance case."
+  },
+  {
+    "start": 16.4,
+    "end": 21.44,
+    "speaker": "SPEAKER_02",
+    "text": "This is a great product launch case incorporating a good mixture of quant, brainstorming,"
+  },
+  {
+    "start": 21.44,
+    "end": 26.560000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "and qualitative reasoning. My name is Chris McCrayham. I'm going to be the interviewee."
+  },
+  {
+    "start": 26.639999999999997,
+    "end": 30.64,
+    "speaker": "SPEAKER_02",
+    "text": "And with me is Ben Wilson, who will be the interviewer."
+  },
+  {
+    "start": 32.16,
+    "end": 35.2,
+    "speaker": "SPEAKER_02",
+    "text": "So yeah, I'll just give a quick intro of myself and then I'll pass it over to Ben."
+  },
+  {
+    "start": 36.32,
+    "end": 40.879999999999995,
+    "speaker": "SPEAKER_02",
+    "text": "So as I mentioned, my name is Chris. I work in energy infrastructure, M&A,"
+  },
+  {
+    "start": 40.879999999999995,
+    "end": 46.72,
+    "speaker": "SPEAKER_02",
+    "text": "at a company called Energy Re in New York. And prior to that, I was with BCG's New York office"
+  },
+  {
+    "start": 47.28,
+    "end": 52.08,
+    "speaker": "SPEAKER_02",
+    "text": "for three years. My last year I was a project leader in the Climate and Sustainability Practice."
+  },
+  {
+    "start": 52.72,
+    "end": 56.4,
+    "speaker": "SPEAKER_02",
+    "text": "And yeah, before my time in management consulting, I worked as an engineer in the"
+  },
+  {
+    "start": 56.4,
+    "end": 58.64,
+    "speaker": "SPEAKER_02",
+    "text": "Northern gas industry. Over to you, Ben."
+  },
+  {
+    "start": 59.68,
+    "end": 64.16,
+    "speaker": "SPEAKER_01",
+    "text": "Excellent. Thanks Chris. And this is Ben Wilson. I'm currently a director with Alvarez and Marcell,"
+  },
+  {
+    "start": 64.16,
+    "end": 69.6,
+    "speaker": "SPEAKER_01",
+    "text": "primarily supporting federal government clients. Prior to that, I spent a summer with EY Parthon"
+  },
+  {
+    "start": 69.6,
+    "end": 73.6,
+    "speaker": "SPEAKER_01",
+    "text": "and the Digital Infrastructure Group. I had a short stint with the Army as a spilling and"
+  },
+  {
+    "start": 73.6,
+    "end": 80.32,
+    "speaker": "SPEAKER_01",
+    "text": "spent about 10 years prior to grad school with a large consulting firm. And I will be again,"
+  },
+  {
+    "start": 80.32,
+    "end": 84.63999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "as Chris referenced, playing the interviewer today. Chris, we have a great case. Are you ready?"
+  },
+  {
+    "start": 85.52,
+    "end": 91.6,
+    "speaker": "SPEAKER_01",
+    "text": "All right, let's do it. Excellent. So MetX innovations are client."
+  },
+  {
+    "start": 91.6,
+    "end": 97.28,
+    "speaker": "SPEAKER_01",
+    "text": "It's planning to launch SlimVorum, a new weight loss drug expected to compete with the likes of"
+  },
+  {
+    "start": 97.28,
+    "end": 103.03999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "OZMPIC and other GLP1 targeting weight loss drugs. The drug has been working its way through"
+  },
+  {
+    "start": 103.03999999999999,
+    "end": 109.91999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "research phases for years at a total cost of about $8 billion to MetX. And the pharma giant has hired"
+  },
+  {
+    "start": 109.92,
+    "end": 116.64,
+    "speaker": "SPEAKER_01",
+    "text": "your firm to help design and launch to maximize return on the investment. How would you help MetX"
+  },
+  {
+    "start": 116.64,
+    "end": 124.72,
+    "speaker": "SPEAKER_02",
+    "text": "launch this product? Okay, great question. So just to make sure I understand everything,"
+  },
+  {
+    "start": 125.68,
+    "end": 132.16,
+    "speaker": "SPEAKER_02",
+    "text": "the client is MetX innovations and they have a weight loss product called SlimVorum that is in"
+  },
+  {
+    "start": 132.16,
+    "end": 137.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "the R&D phase right now. But it sounds like they're going to be launching imminently. The R&D costs"
+  },
+  {
+    "start": 137.92,
+    "end": 142.79999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "to get this ready for the market. We're $8 billion. So our question is,"
+  },
+  {
+    "start": 143.76,
+    "end": 151.35999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "you know, we're helping MetX launch the product. Sound right? You got it. Spot on."
+  },
+  {
+    "start": 152.32,
+    "end": 154.79999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "All right, mind if I have a few questions? No, please do."
+  },
+  {
+    "start": 155.83999999999997,
+    "end": 160.72,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, great. So I guess first off, just to make sure I understand exactly what they do and the"
+  },
+  {
+    "start": 160.72,
+    "end": 166.95999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "business model. It sounds like MetX develops the drugs and manufactures them and then they market"
+  },
+  {
+    "start": 166.96,
+    "end": 173.44,
+    "speaker": "SPEAKER_02",
+    "text": "them to the doctors and patients who purchase them. Is that right? Shane? Okay. Correct,"
+  },
+  {
+    "start": 173.44,
+    "end": 181.60000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "understanding. They had all three parts of it. Perfect. Next, I'd love to just understand the"
+  },
+  {
+    "start": 181.60000000000002,
+    "end": 186.32,
+    "speaker": "SPEAKER_02",
+    "text": "objectives for the launch a little bit. Like, do they have any specific goals or things like a payback"
+  },
+  {
+    "start": 186.32,
+    "end": 194.32,
+    "speaker": "SPEAKER_01",
+    "text": "period? Yeah. So MetX innovations aims for the drug SlimVorum to achieve a payback period of"
+  },
+  {
+    "start": 194.4,
+    "end": 198.56,
+    "speaker": "SPEAKER_01",
+    "text": "about five to 10 years. That's kind of the target timeline for it and potentially become the"
+  },
+  {
+    "start": 198.56,
+    "end": 204.72,
+    "speaker": "SPEAKER_01",
+    "text": "industry leader in the weight loss drug market. So they want to challenge giants like the OZEFIX"
+  },
+  {
+    "start": 204.72,
+    "end": 211.44,
+    "speaker": "SPEAKER_02",
+    "text": "with that payback period still in mind. Got it. Okay. That's really clear. And I guess"
+  },
+  {
+    "start": 211.44,
+    "end": 217.6,
+    "speaker": "SPEAKER_02",
+    "text": "lastly, just to confirm, I'm assuming we're only focusing on the US market, right? Correct. Yeah,"
+  },
+  {
+    "start": 217.6,
+    "end": 223.68,
+    "speaker": "SPEAKER_01",
+    "text": "that's our primary purview currently. Okay. Sounds good. Mind if I take a minute to just get my"
+  },
+  {
+    "start": 223.68,
+    "end": 234.4,
+    "speaker": "SPEAKER_02",
+    "text": "thoughts together. Please. Okay. So I have a structure here with three main buckets that I'd"
+  },
+  {
+    "start": 234.4,
+    "end": 242.32,
+    "speaker": "SPEAKER_02",
+    "text": "like to talk you through. The first one is market position and value proposition. The second one"
+  },
+  {
+    "start": 242.32,
+    "end": 249.36,
+    "speaker": "SPEAKER_02",
+    "text": "is price and financials. And then lastly, we have distribution and marketing. So just to give a"
+  },
+  {
+    "start": 249.36,
+    "end": 253.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "bit more details on each of these, that first bucket of market position and value prop."
+  },
+  {
+    "start": 254.96,
+    "end": 259.2,
+    "speaker": "SPEAKER_02",
+    "text": "The first thing really is understanding the market. Like what is the state of it for this product"
+  },
+  {
+    "start": 259.2,
+    "end": 264.56,
+    "speaker": "SPEAKER_02",
+    "text": "right now? How many customers are there? What kind of growth trends are we seeing? What can we"
+  },
+  {
+    "start": 264.56,
+    "end": 270.8,
+    "speaker": "SPEAKER_02",
+    "text": "expect going forward? Next is really the story that we can tell about the product itself and the"
+  },
+  {
+    "start": 270.8,
+    "end": 276.08000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "value proposition. So really what makes this different than competitive products? Like how fast it"
+  },
+  {
+    "start": 276.08,
+    "end": 282.4,
+    "speaker": "SPEAKER_02",
+    "text": "works or just how it works in general? Like what kind of pharmaceutical mechanism or things like"
+  },
+  {
+    "start": 282.4,
+    "end": 288.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "side effects or benefits, that kind of stuff. And then lastly, in this first bucket is the customers."
+  },
+  {
+    "start": 288.71999999999997,
+    "end": 294.79999999999995,
+    "speaker": "SPEAKER_02",
+    "text": "Like once we have that value prop down, we'll better know what customers to segments are. Like how"
+  },
+  {
+    "start": 294.79999999999995,
+    "end": 300.08,
+    "speaker": "SPEAKER_02",
+    "text": "we think about that, men or women age categories like lifestyle and health status like patients with"
+  },
+  {
+    "start": 300.08,
+    "end": 308.15999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "diabetes or ongoing illnesses that kind of thing. And yeah, really, really ideally you want to sell"
+  },
+  {
+    "start": 308.15999999999997,
+    "end": 314.0,
+    "speaker": "SPEAKER_02",
+    "text": "to value right and command a price premium in the market, especially if our goal is as we say to"
+  },
+  {
+    "start": 314.0,
+    "end": 319.03999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "be a market meter right, competing on price and something that would be a last resort."
+  },
+  {
+    "start": 321.2,
+    "end": 325.44,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, and that takes us to the second bucket of price and financials. So we really want to"
+  },
+  {
+    "start": 325.44,
+    "end": 330.0,
+    "speaker": "SPEAKER_02",
+    "text": "understand the pricing structure in the market, like how elastic or inelastic is the market."
+  },
+  {
+    "start": 330.88,
+    "end": 336.56,
+    "speaker": "SPEAKER_02",
+    "text": "And then also that that piece about payback time, the five to 10 year break even target,"
+  },
+  {
+    "start": 336.56,
+    "end": 343.04,
+    "speaker": "SPEAKER_02",
+    "text": "we just want to understand the relations with the elasticity and how many customers we need to get"
+  },
+  {
+    "start": 343.04,
+    "end": 351.6,
+    "speaker": "SPEAKER_02",
+    "text": "to be able to to hit that target. And then lastly, distribution and marketing. So within this last"
+  },
+  {
+    "start": 351.6,
+    "end": 357.04,
+    "speaker": "SPEAKER_02",
+    "text": "bucket, I'm thinking first about what channels we have. I'd want to think about our existing channels."
+  },
+  {
+    "start": 358.0,
+    "end": 362.72,
+    "speaker": "SPEAKER_02",
+    "text": "I'm assuming we have a really good relationship with a lot of distributors already and channel access."
+  },
+  {
+    "start": 362.72,
+    "end": 367.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "We just need to know, which of those are the best fit for this product specifically. And then"
+  },
+  {
+    "start": 367.28000000000003,
+    "end": 372.16,
+    "speaker": "SPEAKER_02",
+    "text": "there might be some new channels to consider since this is a kind of new and innovative product. Maybe"
+  },
+  {
+    "start": 372.16,
+    "end": 377.92,
+    "speaker": "SPEAKER_02",
+    "text": "there's a social media angle we can work here. And then the last piece is really marketing spend."
+  },
+  {
+    "start": 378.24,
+    "end": 384.40000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "Just want to think about how we invest marketing dollars considering our channel mix, how much"
+  },
+  {
+    "start": 384.40000000000003,
+    "end": 389.12,
+    "speaker": "SPEAKER_02",
+    "text": "and the timing. Like maybe you want to phase it to invest more upfront to gain market share."
+  },
+  {
+    "start": 389.12,
+    "end": 392.64000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "And then you kind of taper off marketing as you've gained that brand recognition."
+  },
+  {
+    "start": 395.68,
+    "end": 400.48,
+    "speaker": "SPEAKER_02",
+    "text": "But yeah, really, I think I'd want to start in the first bucket of that structure,"
+  },
+  {
+    "start": 400.48,
+    "end": 405.6,
+    "speaker": "SPEAKER_02",
+    "text": "just understanding the market position and to state the market currently."
+  },
+  {
+    "start": 406.40000000000003,
+    "end": 410.56,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, because I think that's an upgrade approach to the problem in a great place to start as well."
+  },
+  {
+    "start": 410.56,
+    "end": 416.56,
+    "speaker": "SPEAKER_01",
+    "text": "So if I can provide actually some detail to to that first bucket. So the company initially plans"
+  },
+  {
+    "start": 416.56,
+    "end": 421.44,
+    "speaker": "SPEAKER_01",
+    "text": "to launch its product in the US, which is exactly kind of what you identified earlier"
+  },
+  {
+    "start": 422.32000000000005,
+    "end": 427.04,
+    "speaker": "SPEAKER_01",
+    "text": "through your questions. And they want to estimate the size of the market for weight loss drugs in the US"
+  },
+  {
+    "start": 427.76000000000005,
+    "end": 433.76000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "in terms of annual revenue potential. If you can help me with this. And also, you know, for reference,"
+  },
+  {
+    "start": 433.76,
+    "end": 438.64,
+    "speaker": "SPEAKER_01",
+    "text": "a competitive drug called ozampic, which I know we had referenced previously, costs about a"
+  },
+  {
+    "start": 438.64,
+    "end": 444.48,
+    "speaker": "SPEAKER_01",
+    "text": "thousand dollars a month. So you can use that as a similar benchmark. Awesome. Great."
+  },
+  {
+    "start": 444.48,
+    "end": 448.96,
+    "speaker": "SPEAKER_02",
+    "text": "Might if I take just a couple of seconds to come up with an approach. Please."
+  },
+  {
+    "start": 449.76,
+    "end": 458.64,
+    "speaker": "SPEAKER_02",
+    "text": "All right. Thank you. Okay. So I mean, really, I want to start with a top-down approach."
+  },
+  {
+    "start": 458.64,
+    "end": 464.32,
+    "speaker": "SPEAKER_02",
+    "text": "And we would start with the US population and then determine who is eligible for the drug."
+  },
+  {
+    "start": 465.2,
+    "end": 470.32,
+    "speaker": "SPEAKER_02",
+    "text": "There's probably a few different criteria we look at to kind of go from our overall population to"
+  },
+  {
+    "start": 470.32,
+    "end": 474.8,
+    "speaker": "SPEAKER_02",
+    "text": "who is eligible. And then from there, we apply that annual price that we talked about. We would"
+  },
+  {
+    "start": 474.8,
+    "end": 481.68,
+    "speaker": "SPEAKER_02",
+    "text": "just use the ozampic benchmark to Zasound. Okay. Excellent. Let's do that. Okay. So let's start"
+  },
+  {
+    "start": 481.68,
+    "end": 488.0,
+    "speaker": "SPEAKER_02",
+    "text": "up top with the population. I'll just take 320 million as a nice round number if that works."
+  },
+  {
+    "start": 488.88,
+    "end": 496.96,
+    "speaker": "SPEAKER_02",
+    "text": "Please. And then to get that down to the eligible group, I'm thinking of two criteria. The first"
+  },
+  {
+    "start": 496.96,
+    "end": 503.52,
+    "speaker": "SPEAKER_02",
+    "text": "would have to be that they're adults. I'm assuming if you're if you're under 18, you're not eligible."
+  },
+  {
+    "start": 504.15999999999997,
+    "end": 510.8,
+    "speaker": "SPEAKER_02",
+    "text": "And then the other criteria would be that you're overweight. So just thinking about those two,"
+  },
+  {
+    "start": 510.8,
+    "end": 522.4,
+    "speaker": "SPEAKER_02",
+    "text": "let's take the adult population first. So I guess, if I look at an average lifespan of say 80 years"
+  },
+  {
+    "start": 522.4,
+    "end": 532.24,
+    "speaker": "SPEAKER_02",
+    "text": "in the US, 18 divided by 80 is somewhere between 20 and 25. Maybe I'll just round it to 25%"
+  },
+  {
+    "start": 532.24,
+    "end": 539.12,
+    "speaker": "SPEAKER_02",
+    "text": "for the sake of the math, which would mean that 75% of the population are adults. So if I multiply"
+  },
+  {
+    "start": 539.12,
+    "end": 548.88,
+    "speaker": "SPEAKER_02",
+    "text": "that by the 320, that gives us 240 million adults in the US. And then the next factor would have"
+  },
+  {
+    "start": 548.88,
+    "end": 554.96,
+    "speaker": "SPEAKER_02",
+    "text": "to be who who is overweight. And I don't have an exact stat, but I think the numbers are fairly high."
+  },
+  {
+    "start": 556.32,
+    "end": 563.52,
+    "speaker": "SPEAKER_02",
+    "text": "So I'll just say, let's say 25% if that sounds okay. Absolutely. There is something."
+  },
+  {
+    "start": 564.48,
+    "end": 572.72,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. So I guess 25% times 240 million brings us to 60 million overweight adults in the US,"
+  },
+  {
+    "start": 574.0799999999999,
+    "end": 579.76,
+    "speaker": "SPEAKER_02",
+    "text": "which is a pretty big number. So yeah, at this point, let's bring up pricing in. So we talked about"
+  },
+  {
+    "start": 579.76,
+    "end": 590.24,
+    "speaker": "SPEAKER_02",
+    "text": "$1,000 per month. So if you multiply 60 million by a thousand per month, that puts it at 60 billion"
+  },
+  {
+    "start": 590.96,
+    "end": 600.4,
+    "speaker": "SPEAKER_02",
+    "text": "a month. And then 12 months in a year, I guess 50 billion times 10 would be 600. And then we add the extra"
+  },
+  {
+    "start": 602.4,
+    "end": 614.88,
+    "speaker": "SPEAKER_02",
+    "text": "the extra 20 or 120 on top. So 720 billion dollars per year is the market. Which is that's a big number."
+  },
+  {
+    "start": 614.88,
+    "end": 622.0,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, my first thought is that this number is more of a ceiling. It's what we'd expect the market"
+  },
+  {
+    "start": 622.0,
+    "end": 628.32,
+    "speaker": "SPEAKER_02",
+    "text": "to get to eventually. I think now it's small, much smaller than this. I'm sure it's going to grow quickly,"
+  },
+  {
+    "start": 628.32,
+    "end": 636.08,
+    "speaker": "SPEAKER_02",
+    "text": "which makes it very attractive. But I think the key will be to start up correctly with a very strong"
+  },
+  {
+    "start": 636.08,
+    "end": 644.0,
+    "speaker": "SPEAKER_02",
+    "text": "campaign so that we get the drugs into the hands of customers quickly. And hopefully we can grow our"
+  },
+  {
+    "start": 644.0,
+    "end": 649.76,
+    "speaker": "SPEAKER_01",
+    "text": "product as the market also grows. Yeah, Chris, you make some really good points here. I'd like"
+  },
+  {
+    "start": 649.76,
+    "end": 655.04,
+    "speaker": "SPEAKER_01",
+    "text": "the point about the ceiling. This is the size of maybe in the next few years in the near future."
+  },
+  {
+    "start": 655.04,
+    "end": 661.44,
+    "speaker": "SPEAKER_01",
+    "text": "It's certainly the share that everyone can attack. But what immediately comes to mind is of that"
+  },
+  {
+    "start": 661.44,
+    "end": 666.72,
+    "speaker": "SPEAKER_01",
+    "text": "massive number, what market share could our client potentially look to steal in the first year,"
+  },
+  {
+    "start": 666.72,
+    "end": 670.88,
+    "speaker": "SPEAKER_01",
+    "text": "first five years? I mean, what are your thoughts in thinking about that versus that large number?"
+  },
+  {
+    "start": 671.84,
+    "end": 677.6,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, it's a good question. I mean, to think ultimately, it depends on what the competitive"
+  },
+  {
+    "start": 677.6,
+    "end": 684.56,
+    "speaker": "SPEAKER_02",
+    "text": "landscape is, which I'm not super familiar with yet. But I think for a product launch in a new market"
+  },
+  {
+    "start": 684.56,
+    "end": 692.72,
+    "speaker": "SPEAKER_02",
+    "text": "like this, in year one, it'd be great to get 10% of the market. And then as you grow and gain brand"
+  },
+  {
+    "start": 692.72,
+    "end": 699.44,
+    "speaker": "SPEAKER_02",
+    "text": "recognition, by year five, the growth rate can also be very, very evil. And again, it depends on"
+  },
+  {
+    "start": 699.44,
+    "end": 704.8000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "what your competitors are doing. But I think the range could be somewhere between 20% of the market"
+  },
+  {
+    "start": 704.8000000000001,
+    "end": 712.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "to 50%. Excellent. And you know, 20% of the large numbers still large numbers. So I think that's"
+  },
+  {
+    "start": 712.5600000000001,
+    "end": 717.36,
+    "speaker": "SPEAKER_01",
+    "text": "a fantastic way to go. Yeah, I like that. How much market size? Yeah. Yeah, I like that 10% bench"
+  },
+  {
+    "start": 717.36,
+    "end": 723.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "market used. So I want to kind of move us to a bit of a segmentation analysis. So as part of the"
+  },
+  {
+    "start": 723.92,
+    "end": 729.5999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "launch strategy, MedX has pulled the profiles of a number of demographics. I'm going to put a"
+  },
+  {
+    "start": 729.5999999999999,
+    "end": 734.7199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "exhibit up on screen momentarily. And I would like your help specifically in determining how"
+  },
+  {
+    "start": 735.52,
+    "end": 741.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the information should inform the company's approach to launching the slimboard truck. And"
+  },
+  {
+    "start": 741.8399999999999,
+    "end": 746.7199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "they just give me a moment while I put this up on screen. Great. I can see the screen."
+  },
+  {
+    "start": 747.2,
+    "end": 755.6800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So we have a table called weight loss drug adoption across four segments. And this is showing"
+  },
+  {
+    "start": 755.6800000000001,
+    "end": 765.6800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "some data split by men and women for age, obesity and percentage adoption on weight loss drugs."
+  },
+  {
+    "start": 766.48,
+    "end": 771.76,
+    "speaker": "SPEAKER_02",
+    "text": "And I also see a total column at the end that tells us there are 32 million obese people in the US"
+  },
+  {
+    "start": 772.56,
+    "end": 779.76,
+    "speaker": "SPEAKER_02",
+    "text": "for the age groups that were showing here. And on average, 6% drug adoption, which seems pretty low."
+  },
+  {
+    "start": 780.96,
+    "end": 785.92,
+    "speaker": "SPEAKER_02",
+    "text": "So I guess first off, it's telling me the adoption rate is very low now since we're in the very"
+  },
+  {
+    "start": 785.92,
+    "end": 791.4399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "early stages of these drugs being available in the market. And I think we have a long way to go"
+  },
+  {
+    "start": 791.4399999999999,
+    "end": 796.96,
+    "speaker": "SPEAKER_02",
+    "text": "before we hit that market size that we looked at earlier. So I guess my first thought is it sounds"
+  },
+  {
+    "start": 796.96,
+    "end": 802.48,
+    "speaker": "SPEAKER_02",
+    "text": "like it's a good time to enter. You know, the market is young and it's growing. But let's get into"
+  },
+  {
+    "start": 802.48,
+    "end": 810.72,
+    "speaker": "SPEAKER_02",
+    "text": "some of the detail of the chart now. So the first two columns are showing the 25 to 35 age group"
+  },
+  {
+    "start": 810.72,
+    "end": 816.64,
+    "speaker": "SPEAKER_02",
+    "text": "for men and for women. So I'm seeing seven million obese men, seven and a half million obese women,"
+  },
+  {
+    "start": 816.64,
+    "end": 822.72,
+    "speaker": "SPEAKER_02",
+    "text": "so pretty similar levels. But women are twice as likely to be on the weight loss drugs compared"
+  },
+  {
+    "start": 822.72,
+    "end": 830.64,
+    "speaker": "SPEAKER_02",
+    "text": "to men. It's two versus four percent adoption rate, which is really interesting. And if we move to"
+  },
+  {
+    "start": 830.64,
+    "end": 837.0400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "the these last two columns, so this is the 35 to 45 age group, it's eight and a half million"
+  },
+  {
+    "start": 837.0400000000001,
+    "end": 843.12,
+    "speaker": "SPEAKER_02",
+    "text": "obese men, nine million obese women. So again, women are are winning here by half a million again."
+  },
+  {
+    "start": 844.4,
+    "end": 849.12,
+    "speaker": "SPEAKER_02",
+    "text": "And then we see six percent of men using the drugs and eight percent of women using them. So"
+  },
+  {
+    "start": 849.2,
+    "end": 853.04,
+    "speaker": "SPEAKER_02",
+    "text": "again, there's this two percentage point higher uptake among women."
+  },
+  {
+    "start": 855.44,
+    "end": 860.4,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, so I guess my thoughts are we can see the market varies a lot by age group and it varies by"
+  },
+  {
+    "start": 860.4,
+    "end": 867.04,
+    "speaker": "SPEAKER_02",
+    "text": "gender, which leaves a lot of possibilities on how to proceed. I think that the younger male group"
+  },
+  {
+    "start": 867.68,
+    "end": 872.96,
+    "speaker": "SPEAKER_02",
+    "text": "has the lowest penetration rate, which which could indicate that there's some some great untapped"
+  },
+  {
+    "start": 872.96,
+    "end": 879.6800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "potential here. But on the flip side, it could also speak to some other dynamic like maybe there's"
+  },
+  {
+    "start": 879.6800000000001,
+    "end": 886.48,
+    "speaker": "SPEAKER_02",
+    "text": "greater resistance to using the drugs among that that customer segment. Another avenue could be"
+  },
+  {
+    "start": 886.48,
+    "end": 894.0,
+    "speaker": "SPEAKER_02",
+    "text": "looking at the one of the highest penetration rate, which is that older women market. And that could"
+  },
+  {
+    "start": 894.0,
+    "end": 900.0,
+    "speaker": "SPEAKER_02",
+    "text": "speak to something like greater willingness to use the drugs or you know, maybe there's more"
+  },
+  {
+    "start": 900.0,
+    "end": 906.8,
+    "speaker": "SPEAKER_02",
+    "text": "room for growth because that reason. Yeah, so my my mind is it, it you know, might make sense to"
+  },
+  {
+    "start": 906.8,
+    "end": 912.16,
+    "speaker": "SPEAKER_02",
+    "text": "to look at some things like price to see if there's dynamics related to the customer segmentation."
+  },
+  {
+    "start": 912.96,
+    "end": 917.44,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, yeah, because I think that's a fantastic place to go and you know, I'll be curious to hear how"
+  },
+  {
+    "start": 917.44,
+    "end": 921.76,
+    "speaker": "SPEAKER_01",
+    "text": "the perspective of those kind of two trains of thought might differ change as we work through"
+  },
+  {
+    "start": 921.76,
+    "end": 926.08,
+    "speaker": "SPEAKER_01",
+    "text": "the rest of the case. I'm going to move to a second exhibit. I'm also going to provide you a"
+  },
+  {
+    "start": 926.08,
+    "end": 932.64,
+    "speaker": "SPEAKER_01",
+    "text": "bit of information as I share that up on screen. So should we see that? And then you know, the"
+  },
+  {
+    "start": 932.64,
+    "end": 939.36,
+    "speaker": "SPEAKER_01",
+    "text": "team is evaluating three different price points for SlimVore using ozampic as an anchor price as we"
+  },
+  {
+    "start": 939.36,
+    "end": 946.08,
+    "speaker": "SPEAKER_01",
+    "text": "have been doing. Ozampic again is priced at $12,000 for one year, you know, $1,000 a month. And the"
+  },
+  {
+    "start": 946.08,
+    "end": 951.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "team is evaluating prices at $8,000, $12,000 and $16,000. So you know, kind of like just on there,"
+  },
+  {
+    "start": 951.68,
+    "end": 956.88,
+    "speaker": "SPEAKER_01",
+    "text": "just above and where their current price point is to help this estimate the team is on a model to"
+  },
+  {
+    "start": 956.88,
+    "end": 963.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "estimate the number of customers who would likely be served at each price point. Can I receive your"
+  },
+  {
+    "start": 963.4399999999999,
+    "end": 968.88,
+    "speaker": "SPEAKER_01",
+    "text": "help in estimating the annual revenue and payback period for the company's initial investment of"
+  },
+  {
+    "start": 968.88,
+    "end": 975.12,
+    "speaker": "SPEAKER_01",
+    "text": "$8 billion in each of these pricing schemes? And how should the company think about making this decision?"
+  },
+  {
+    "start": 975.84,
+    "end": 983.36,
+    "speaker": "SPEAKER_02",
+    "text": "Got it. Okay, great. This is really helpful information. Yeah, why don't I just start walking"
+  },
+  {
+    "start": 983.36,
+    "end": 990.64,
+    "speaker": "SPEAKER_02",
+    "text": "through each of these scenarios individually? So if we start on the left here with underpricing,"
+  },
+  {
+    "start": 991.28,
+    "end": 997.04,
+    "speaker": "SPEAKER_02",
+    "text": "we're seeing $8,000 per customer with $100,000 customers. That gives us"
+  },
+  {
+    "start": 997.5999999999999,
+    "end": 1008.4,
+    "speaker": "SPEAKER_02",
+    "text": "$800,000,000 of revenue. And if we know the costs from before are $8 billion, if we take $8 billion"
+  },
+  {
+    "start": 1008.4,
+    "end": 1015.68,
+    "speaker": "SPEAKER_02",
+    "text": "of R&D spend and we divide it by $800,000,000 in revenue that gives us, that's 10 years exactly."
+  },
+  {
+    "start": 1016.24,
+    "end": 1021.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So that's the upper range of that payback period we talked about."
+  },
+  {
+    "start": 1021.5200000000001,
+    "end": 1029.76,
+    "speaker": "SPEAKER_02",
+    "text": "I should also point out, I'm noticing this $50 cost per customer. It doesn't change in any"
+  },
+  {
+    "start": 1029.76,
+    "end": 1033.92,
+    "speaker": "SPEAKER_02",
+    "text": "scenario. So I might just ignore it now for the sake of the analysis. Understood."
+  },
+  {
+    "start": 1036.16,
+    "end": 1041.2,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, great. So it looks like underpricing will work, but it's at the top end of the payback"
+  },
+  {
+    "start": 1041.28,
+    "end": 1054.4,
+    "speaker": "SPEAKER_02",
+    "text": "period. If we move to parity, so revenue is it's 12k times 750 customers. So that's going to give us,"
+  },
+  {
+    "start": 1055.68,
+    "end": 1066.24,
+    "speaker": "SPEAKER_02",
+    "text": "I'm going to do 750,000 plus 150,000. So that gives us 900,000. If we do $8 billion divided by"
+  },
+  {
+    "start": 1066.8,
+    "end": 1076.0,
+    "speaker": "SPEAKER_02",
+    "text": "900, 900 million, sorry, that's a little less than nine years. It's not exact, but I'll say a"
+  },
+  {
+    "start": 1076.0,
+    "end": 1080.88,
+    "speaker": "SPEAKER_02",
+    "text": "little bit less than nine years. So that the payback period is improved, which makes sense."
+  },
+  {
+    "start": 1082.48,
+    "end": 1089.52,
+    "speaker": "SPEAKER_02",
+    "text": "And then lastly, premium pricing. So we're moving up to $16,000 with 600,000 customers."
+  },
+  {
+    "start": 1089.6,
+    "end": 1103.12,
+    "speaker": "SPEAKER_02",
+    "text": "So multiplying these out to 600 plus 360. So we are looking at 960 million. Great. So"
+  },
+  {
+    "start": 1103.12,
+    "end": 1107.76,
+    "speaker": "SPEAKER_02",
+    "text": "higher revenue than all the others. If we do 8 billion divided by 960 million,"
+  },
+  {
+    "start": 1110.16,
+    "end": 1115.44,
+    "speaker": "SPEAKER_02",
+    "text": "it's a little bit more than eight years, but that's the lowest payback period. So to me,"
+  },
+  {
+    "start": 1115.44,
+    "end": 1122.88,
+    "speaker": "SPEAKER_02",
+    "text": "it seems like if we look at the dynamics here, the elasticity between number of customers and"
+  },
+  {
+    "start": 1122.88,
+    "end": 1130.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "price, it makes sense to go for this premium pricing model. And we have the quickest payback time"
+  },
+  {
+    "start": 1130.3200000000002,
+    "end": 1139.2,
+    "speaker": "SPEAKER_02",
+    "text": "here. And I also think it makes sense to compare this number with the original market size."
+  },
+  {
+    "start": 1139.68,
+    "end": 1143.44,
+    "speaker": "SPEAKER_02",
+    "text": "You know, we found a size of 60 million overweight adults in the US."
+  },
+  {
+    "start": 1144.48,
+    "end": 1151.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "And here we're getting a payback with 60,000. So that's a very small fraction, which is a great"
+  },
+  {
+    "start": 1151.1200000000001,
+    "end": 1156.24,
+    "speaker": "SPEAKER_02",
+    "text": "and that's a great sign. Right. I think another point that's coming to mind is"
+  },
+  {
+    "start": 1157.92,
+    "end": 1163.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "I think it probably makes sense to start out premium because you can always move your prices down"
+  },
+  {
+    "start": 1163.36,
+    "end": 1169.28,
+    "speaker": "SPEAKER_02",
+    "text": "market if you want to or need to, but it's way harder to go the other way and increase your prices."
+  },
+  {
+    "start": 1172.1599999999999,
+    "end": 1176.9599999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I think that's been a fantastic point, especially that last one. We measured losses"
+  },
+  {
+    "start": 1176.9599999999998,
+    "end": 1183.04,
+    "speaker": "SPEAKER_01",
+    "text": "so much more aggressive way of human beings than we do, receiving a benefit."
+  },
+  {
+    "start": 1184.24,
+    "end": 1188.08,
+    "speaker": "SPEAKER_01",
+    "text": "I'd be curious. We've talked about prices, we've talked about customers, and it's started to"
+  },
+  {
+    "start": 1188.08,
+    "end": 1193.04,
+    "speaker": "SPEAKER_01",
+    "text": "look better and started to identify perhaps a segment of price point where we could be viable."
+  },
+  {
+    "start": 1193.04,
+    "end": 1198.24,
+    "speaker": "SPEAKER_01",
+    "text": "But we haven't talked as much about the risks associated with this. And I'd be curious,"
+  },
+  {
+    "start": 1198.24,
+    "end": 1204.08,
+    "speaker": "SPEAKER_01",
+    "text": "you know, given MedX has already invested $8 billion in this product. They're keeping a close eye"
+  },
+  {
+    "start": 1204.08,
+    "end": 1208.72,
+    "speaker": "SPEAKER_01",
+    "text": "on the risks of this launch. How would your company or how would you use specifically"
+  },
+  {
+    "start": 1208.72,
+    "end": 1212.72,
+    "speaker": "SPEAKER_01",
+    "text": "help identify and mitigate risks going into the market? Sure."
+  },
+  {
+    "start": 1214.3999999999999,
+    "end": 1219.12,
+    "speaker": "SPEAKER_02",
+    "text": "Great question. Okay. I'm not if I take a few seconds just to collect my thoughts."
+  },
+  {
+    "start": 1219.12,
+    "end": 1221.04,
+    "speaker": "SPEAKER_02",
+    "text": "Please. Okay. Thank you."
+  },
+  {
+    "start": 1223.2,
+    "end": 1231.12,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. So here's how I'm thinking about the risks. I'm really looking at what are what are the"
+  },
+  {
+    "start": 1231.12,
+    "end": 1236.48,
+    "speaker": "SPEAKER_02",
+    "text": "very tactical steps that need to get done for this, you know, this drug to make it to market?"
+  },
+  {
+    "start": 1237.28,
+    "end": 1244.48,
+    "speaker": "SPEAKER_02",
+    "text": "And the steps that I see is first off, there's all the regulatory and the finalization of the R&D"
+  },
+  {
+    "start": 1244.48,
+    "end": 1249.84,
+    "speaker": "SPEAKER_02",
+    "text": "process and getting your permits. There's going to be a campaign and marketing. You need to"
+  },
+  {
+    "start": 1249.84,
+    "end": 1255.6,
+    "speaker": "SPEAKER_02",
+    "text": "manufacture and produce the drugs. And then finally, there's the distribution and the logistics"
+  },
+  {
+    "start": 1255.6,
+    "end": 1261.76,
+    "speaker": "SPEAKER_02",
+    "text": "aspect of bringing those to your customers. So I think risks can show up in any of those steps"
+  },
+  {
+    "start": 1261.76,
+    "end": 1268.0,
+    "speaker": "SPEAKER_02",
+    "text": "of the process. But just talking through it in that first, the first batch of kind of regulatory"
+  },
+  {
+    "start": 1268.0,
+    "end": 1274.0,
+    "speaker": "SPEAKER_02",
+    "text": "drug risks. These would be any final risks related to the product itself. So like ideally,"
+  },
+  {
+    "start": 1274.0,
+    "end": 1278.56,
+    "speaker": "SPEAKER_02",
+    "text": "this is all worked out in testing, but you know, maybe there's an undiscovered side effect that comes"
+  },
+  {
+    "start": 1278.56,
+    "end": 1284.96,
+    "speaker": "SPEAKER_02",
+    "text": "in later that kind of thing is really hard to mitigate, but we show up. A more, I think, a more"
+  },
+  {
+    "start": 1284.96,
+    "end": 1290.72,
+    "speaker": "SPEAKER_02",
+    "text": "real risk is regulatory issues though. That could be really big. I'm sure there are a lot of permits"
+  },
+  {
+    "start": 1290.72,
+    "end": 1295.76,
+    "speaker": "SPEAKER_02",
+    "text": "in filing that you need to do to ship from the R&D phase to the like sale of your product."
+  },
+  {
+    "start": 1296.8799999999999,
+    "end": 1301.9199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So I think to mitigate any of the unknowns there, you really want to maintain good contact with all"
+  },
+  {
+    "start": 1301.9199999999998,
+    "end": 1307.9199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "the regulatory agencies. Make sure that they know that what you're planning to do and they have all"
+  },
+  {
+    "start": 1307.92,
+    "end": 1314.72,
+    "speaker": "SPEAKER_02",
+    "text": "the latest information. So there's no surprises. And if we move to this campaign and marketing side,"
+  },
+  {
+    "start": 1316.16,
+    "end": 1320.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, really, we need to make sure as many people know about our drugs as possible."
+  },
+  {
+    "start": 1321.8400000000001,
+    "end": 1327.76,
+    "speaker": "SPEAKER_02",
+    "text": "So, you know, we would be spinning up our typical communications channels. Although lines we have"
+  },
+  {
+    "start": 1327.76,
+    "end": 1333.28,
+    "speaker": "SPEAKER_02",
+    "text": "to doctors and healthcare providers, make sure that's open and that they have all the information"
+  },
+  {
+    "start": 1333.52,
+    "end": 1341.04,
+    "speaker": "SPEAKER_02",
+    "text": "they need to communicate to the patients. So whether that's some kind of a marketing sheet about the"
+  },
+  {
+    "start": 1341.04,
+    "end": 1346.0,
+    "speaker": "SPEAKER_02",
+    "text": "drug, making sure that our messaging is really crisp and that it's doctor and patient-friendly and"
+  },
+  {
+    "start": 1346.0,
+    "end": 1351.12,
+    "speaker": "SPEAKER_02",
+    "text": "they, you know, everybody understands what the benefits and potential side effects are."
+  },
+  {
+    "start": 1353.44,
+    "end": 1357.92,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, and I also think most importantly, it's really important they understand why it's a higher"
+  },
+  {
+    "start": 1357.92,
+    "end": 1362.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "price point than from competitors. Right? I think the messaging needs to be ultra-chrisp and clear"
+  },
+  {
+    "start": 1363.0400000000002,
+    "end": 1368.0,
+    "speaker": "SPEAKER_02",
+    "text": "here because we're charging a higher price. So, you know, the doctors need to communicate why it might"
+  },
+  {
+    "start": 1368.0,
+    "end": 1375.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "be, you know, advantageous for a patient to do that. On the channel side, I think we need to get"
+  },
+  {
+    "start": 1375.3600000000001,
+    "end": 1382.16,
+    "speaker": "SPEAKER_02",
+    "text": "in front of this with social media. Maybe influencers, you know, I think a risk here would be some of"
+  },
+  {
+    "start": 1382.16,
+    "end": 1388.16,
+    "speaker": "SPEAKER_02",
+    "text": "the top influencers might get locked in on promoting only one. So I think speed to market here is"
+  },
+  {
+    "start": 1388.16,
+    "end": 1394.16,
+    "speaker": "SPEAKER_02",
+    "text": "just really key to make sure that, you know, you're not locked out of like some of those key voices."
+  },
+  {
+    "start": 1396.5600000000002,
+    "end": 1402.0,
+    "speaker": "SPEAKER_02",
+    "text": "Then here on the production side of things, I'd be thinking about our factories, like, do they"
+  },
+  {
+    "start": 1402.0,
+    "end": 1408.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "do they need special equipment to produce these things? Is there going to need to be time to ramp up"
+  },
+  {
+    "start": 1408.0800000000002,
+    "end": 1413.0400000000002,
+    "speaker": "SPEAKER_02",
+    "text": "on whatever new processes needed, either from an equipment or just like a personnel and staff"
+  },
+  {
+    "start": 1413.04,
+    "end": 1419.36,
+    "speaker": "SPEAKER_02",
+    "text": "standpoint? I also know anytime you're producing something new, the first batch is going to have"
+  },
+  {
+    "start": 1419.36,
+    "end": 1425.6,
+    "speaker": "SPEAKER_02",
+    "text": "some issues. So, you know, do we have time to work out the kinks before, you know, we're launching"
+  },
+  {
+    "start": 1425.6,
+    "end": 1431.52,
+    "speaker": "SPEAKER_02",
+    "text": "and getting to market? And yeah, that's the kind of stuff. All of that needs to be worked out with"
+  },
+  {
+    "start": 1431.52,
+    "end": 1434.96,
+    "speaker": "SPEAKER_02",
+    "text": "the management of our production facilities, just so there's no unexpected surprises."
+  },
+  {
+    "start": 1436.32,
+    "end": 1441.28,
+    "speaker": "SPEAKER_02",
+    "text": "Oh, I'm sorry, go ahead, Chris. Oh, sorry. Yeah, I was going to say one last bucket I can go through"
+  },
+  {
+    "start": 1441.28,
+    "end": 1445.52,
+    "speaker": "SPEAKER_02",
+    "text": "quickly is the distribution. So like the logistics and shipping to get this to the customers."
+  },
+  {
+    "start": 1445.52,
+    "end": 1450.16,
+    "speaker": "SPEAKER_02",
+    "text": "So like, can we bundle this into our existing logistics and delivery services? Or is there"
+  },
+  {
+    "start": 1450.16,
+    "end": 1456.08,
+    "speaker": "SPEAKER_02",
+    "text": "another service we need? So I think we should discuss that with whoever is doing our delivery"
+  },
+  {
+    "start": 1456.08,
+    "end": 1462.0,
+    "speaker": "SPEAKER_02",
+    "text": "services right now. So like again, we don't have any unexpected surprises. Yeah, I think that"
+  },
+  {
+    "start": 1462.0,
+    "end": 1465.68,
+    "speaker": "SPEAKER_01",
+    "text": "is a fantastic approach. And you know, I really want to emphasize, I liked the point you made about"
+  },
+  {
+    "start": 1466.8799999999999,
+    "end": 1470.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "communicating the value for the price, especially as I see some of these drug companies get"
+  },
+  {
+    "start": 1470.88,
+    "end": 1477.2,
+    "speaker": "SPEAKER_01",
+    "text": "pulled in front of Congress and having to communicate that value probably too late in the game. But"
+  },
+  {
+    "start": 1477.2,
+    "end": 1481.0400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "one risk I wanted to bring up that's kind of been slowly through my mind and you know,"
+  },
+  {
+    "start": 1481.0400000000002,
+    "end": 1486.5600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "was not necessarily highlighted is, you know, the potential risk of saturation in the market. And"
+  },
+  {
+    "start": 1487.2800000000002,
+    "end": 1491.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "what point is this market over invested? I hear a number of companies jumping in with their"
+  },
+  {
+    "start": 1491.8400000000001,
+    "end": 1496.72,
+    "speaker": "SPEAKER_01",
+    "text": "drugs and usually feels like three to four big players, big companies kind of gallbling up space."
+  },
+  {
+    "start": 1496.8,
+    "end": 1499.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Is that a risk? And you know, what are your thoughts on hearing that?"
+  },
+  {
+    "start": 1500.4,
+    "end": 1508.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, it's a good question. You know, if I think back to the adoption rates that we looked at in"
+  },
+  {
+    "start": 1508.0,
+    "end": 1513.2,
+    "speaker": "SPEAKER_02",
+    "text": "that second exercise, it seems like there's a long way to go, right? We're looking at single digit"
+  },
+  {
+    "start": 1513.2,
+    "end": 1519.84,
+    "speaker": "SPEAKER_02",
+    "text": "adoption rates right now. So I mean, yeah, there must be a lot of companies looking at this and"
+  },
+  {
+    "start": 1519.84,
+    "end": 1525.2,
+    "speaker": "SPEAKER_02",
+    "text": "seeing the opportunity and there'll be, you know, many companies in addition to us, we're piling"
+  },
+  {
+    "start": 1525.2,
+    "end": 1531.2,
+    "speaker": "SPEAKER_02",
+    "text": "into the market. So that's to be expected. It's, you know, too soon to know how that's going to play"
+  },
+  {
+    "start": 1531.2,
+    "end": 1538.48,
+    "speaker": "SPEAKER_02",
+    "text": "out. But I think really what it means is we have to go big early in marketing spend and getting"
+  },
+  {
+    "start": 1538.48,
+    "end": 1545.76,
+    "speaker": "SPEAKER_02",
+    "text": "this to market quick. But I think we want to track data as much as possible. And, you know, if we're"
+  },
+  {
+    "start": 1545.76,
+    "end": 1551.44,
+    "speaker": "SPEAKER_02",
+    "text": "not seeing the kind of uptake and growth that we want or if we see a competitor who's just,"
+  },
+  {
+    "start": 1552.4,
+    "end": 1559.8400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "you know, ripping and doing great in the market, it'll be important to just know that and"
+  },
+  {
+    "start": 1559.8400000000001,
+    "end": 1566.48,
+    "speaker": "SPEAKER_01",
+    "text": "revamp our strategy as we need to. So yeah, I think that's a fantastic perspective. So Chris,"
+  },
+  {
+    "start": 1566.48,
+    "end": 1571.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "you have a meeting with the senior partner for a career development chat over coffee coming up"
+  },
+  {
+    "start": 1571.1200000000001,
+    "end": 1576.72,
+    "speaker": "SPEAKER_01",
+    "text": "and you know, she happened to ask how the MetEx project is shaping up, you know, what do you tell her?"
+  },
+  {
+    "start": 1577.2,
+    "end": 1581.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Great. Can I take just 10 seconds to regroup here? Please."
+  },
+  {
+    "start": 1584.48,
+    "end": 1591.76,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. So final summary. So we were asked to help MetEx market its slim-vor-a-weight loss product"
+  },
+  {
+    "start": 1591.76,
+    "end": 1597.68,
+    "speaker": "SPEAKER_02",
+    "text": "to maximize this return on an $8 billion R&D spend and pay it back within five to 10 years."
+  },
+  {
+    "start": 1598.72,
+    "end": 1601.92,
+    "speaker": "SPEAKER_02",
+    "text": "And we've done some great analysis and the picture relining is,"
+  },
+  {
+    "start": 1602.48,
+    "end": 1610.16,
+    "speaker": "SPEAKER_02",
+    "text": "aligning on is we should take a premium pricing approach at 16,000 per year. That's the cost"
+  },
+  {
+    "start": 1610.16,
+    "end": 1617.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "to customers. And that gives us the shortest payback of roughly eight years. And given that we"
+  },
+  {
+    "start": 1617.1200000000001,
+    "end": 1621.76,
+    "speaker": "SPEAKER_02",
+    "text": "expect a fast growing market, we recommend moving very quickly with this to bring it to market as"
+  },
+  {
+    "start": 1621.76,
+    "end": 1627.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "soon as possible. And some of the risks of doing this would be, you know, we hit some stags on the"
+  },
+  {
+    "start": 1627.12,
+    "end": 1632.2399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "way to launch since we're moving fast. Like, you know, maybe we don't bring along all of the"
+  },
+  {
+    "start": 1632.2399999999998,
+    "end": 1636.2399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "stakeholders that we need to be successful, like a production facilities and logistics providers"
+  },
+  {
+    "start": 1636.2399999999998,
+    "end": 1641.6799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "and doctors. So I mean, I recommend as a next step, checking into any lessons learned that we have"
+  },
+  {
+    "start": 1641.6799999999998,
+    "end": 1648.2399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "from past launches to see what were the typical issues that that we need to be aware of and"
+  },
+  {
+    "start": 1648.2399999999998,
+    "end": 1651.1999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "make sure all that's top of mind as we're moving quickly through this."
+  },
+  {
+    "start": 1652.16,
+    "end": 1655.76,
+    "speaker": "SPEAKER_01",
+    "text": "Thanks, Chris. Thank you very much. Fantastic case."
+  },
+  {
+    "start": 1655.76,
+    "end": 1657.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "All right. Thanks."
+  },
+  {
+    "start": 1657.3600000000001,
+    "end": 1661.76,
+    "speaker": "SPEAKER_00",
+    "text": "Hey, everyone. It's Kent and Givessey here, the founder of Rocketblocks. Thank you so much for"
+  },
+  {
+    "start": 1661.76,
+    "end": 1666.88,
+    "speaker": "SPEAKER_00",
+    "text": "watching this mock interview video. I hope you found it informative and helpful as you were getting"
+  },
+  {
+    "start": 1666.88,
+    "end": 1671.76,
+    "speaker": "SPEAKER_00",
+    "text": "ready to prepare for your own interviews and hopefully landing that job offer you are excited about."
+  },
+  {
+    "start": 1671.76,
+    "end": 1676.32,
+    "speaker": "SPEAKER_00",
+    "text": "We have a ton of great content on the Rocketblocks channel coming out on a weekly basis."
+  },
+  {
+    "start": 1676.32,
+    "end": 1681.52,
+    "speaker": "SPEAKER_00",
+    "text": "mock interviews, mini lessons and chats with our Rocketblocks experts. So if you haven't subscribed,"
+  },
+  {
+    "start": 1681.52,
+    "end": 1686.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "yet already, please do so. There is a big red button below. And if you hit that, you'll get all"
+  },
+  {
+    "start": 1686.8799999999999,
+    "end": 1690.72,
+    "speaker": "SPEAKER_00",
+    "text": "of our content as soon as it comes out. Thanks for watching and have a great day."
+  }
+]

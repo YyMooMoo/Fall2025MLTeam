@@ -1,0 +1,3264 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 11.68,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to start by saying that wherever you are in the journey, you're on your way and"
+    },
+    {
+      "start": 11.68,
+      "end": 16.44,
+      "speaker": "SPEAKER_00",
+      "text": "I know that it takes a lot of preparation to do well in these sorts of interviews with"
+    },
+    {
+      "start": 16.44,
+      "end": 18.8,
+      "speaker": "SPEAKER_00",
+      "text": "many of the top firms, including Karnie."
+    },
+    {
+      "start": 18.8,
+      "end": 22.72,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm excited to take you through a case today, Nicholas."
+    },
+    {
+      "start": 22.72,
+      "end": 28.400000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "In the spirit of the Women's World Cup going on right now, I'm a big sports fan."
+    },
+    {
+      "start": 28.4,
+      "end": 34.08,
+      "speaker": "SPEAKER_00",
+      "text": "So this is not a Karnie case, but rather one that I wrote myself about a soccer nonprofit."
+    },
+    {
+      "start": 34.08,
+      "end": 35.56,
+      "speaker": "SPEAKER_00",
+      "text": "So we'll dive right in."
+    },
+    {
+      "start": 35.56,
+      "end": 37.36,
+      "speaker": "SPEAKER_00",
+      "text": "But just a couple of things."
+    },
+    {
+      "start": 37.36,
+      "end": 41.32,
+      "speaker": "SPEAKER_00",
+      "text": "We're going to have fun today and hopefully the group on the call will help fun along"
+    },
+    {
+      "start": 41.32,
+      "end": 42.32,
+      "speaker": "SPEAKER_00",
+      "text": "with us, all right?"
+    },
+    {
+      "start": 42.32,
+      "end": 43.32,
+      "speaker": "SPEAKER_01",
+      "text": "Sorry."
+    },
+    {
+      "start": 43.32,
+      "end": 44.64,
+      "speaker": "SPEAKER_00",
+      "text": "All righty, cool."
+    },
+    {
+      "start": 44.64,
+      "end": 46.92,
+      "speaker": "SPEAKER_00",
+      "text": "So our client is Ligas Femeninas."
+    },
+    {
+      "start": 46.92,
+      "end": 50.2,
+      "speaker": "SPEAKER_00",
+      "text": "We're going to call them LF today."
+    },
+    {
+      "start": 50.2,
+      "end": 53.96,
+      "speaker": "SPEAKER_00",
+      "text": "They are a nonprofit soccer lead for women in Peru."
+    },
+    {
+      "start": 53.96,
+      "end": 59.2,
+      "speaker": "SPEAKER_00",
+      "text": "And the founder, Alex, set out to create a space for women to play recreational soccer,"
+    },
+    {
+      "start": 59.2,
+      "end": 63.08,
+      "speaker": "SPEAKER_00",
+      "text": "which didn't exist anywhere, really, prior to LF."
+    },
+    {
+      "start": 63.08,
+      "end": 66.96000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And their mission is to provide a safe space for women to play sports."
+    },
+    {
+      "start": 66.96000000000001,
+      "end": 70.36,
+      "speaker": "SPEAKER_00",
+      "text": "And as I mentioned, the focus is currently soccer."
+    },
+    {
+      "start": 70.36,
+      "end": 75.24000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So LF has been really successful with revenue generation in its first few years, but they've"
+    },
+    {
+      "start": 75.24000000000001,
+      "end": 77.52,
+      "speaker": "SPEAKER_00",
+      "text": "come to us today with a twofold ask."
+    },
+    {
+      "start": 77.52,
+      "end": 84.19999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "The first is that they are looking to increase their annual revenue by 25% to achieve their"
+    },
+    {
+      "start": 84.19999999999999,
+      "end": 86.75999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "growth goals in the next year."
+    },
+    {
+      "start": 86.75999999999999,
+      "end": 92.52,
+      "speaker": "SPEAKER_00",
+      "text": "The second piece is that they're also interested in hearing from unicoless about how they can"
+    },
+    {
+      "start": 92.52,
+      "end": 100.28,
+      "speaker": "SPEAKER_00",
+      "text": "really maximize their mission and just creative ideas for how to bring that to life."
+    },
+    {
+      "start": 100.28,
+      "end": 104.6,
+      "speaker": "SPEAKER_00",
+      "text": "So how do you recommend that they achieve that two-prog too?"
+    },
+    {
+      "start": 104.6,
+      "end": 109.0,
+      "speaker": "SPEAKER_02",
+      "text": "Certainly, first of all, I want to say I'm very excited for this case coming from Colombia."
+    },
+    {
+      "start": 109.0,
+      "end": 110.19999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Soccer is a big thing."
+    },
+    {
+      "start": 110.19999999999999,
+      "end": 112.32,
+      "speaker": "SPEAKER_02",
+      "text": "So I'm very excited for this."
+    },
+    {
+      "start": 112.32,
+      "end": 117.19999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Now, would you mind if I give you a quick recap of the case to make sure that I got everything"
+    },
+    {
+      "start": 117.19999999999999,
+      "end": 119.24,
+      "speaker": "SPEAKER_02",
+      "text": "and all of the information necessary?"
+    },
+    {
+      "start": 119.24,
+      "end": 120.24,
+      "speaker": "SPEAKER_02",
+      "text": "Absolutely."
+    },
+    {
+      "start": 120.24,
+      "end": 121.24,
+      "speaker": "SPEAKER_02",
+      "text": "Awesome."
+    },
+    {
+      "start": 121.24,
+      "end": 129.32,
+      "speaker": "SPEAKER_02",
+      "text": "So our client here is LF Ligas Femeninas, who is a nonprofit located in Peru and they are"
+    },
+    {
+      "start": 129.32,
+      "end": 130.95999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "a soccer lead."
+    },
+    {
+      "start": 131.04000000000002,
+      "end": 137.08,
+      "speaker": "SPEAKER_02",
+      "text": "Their mission was essentially to create a safe space for women in recreational soccer."
+    },
+    {
+      "start": 137.08,
+      "end": 141.52,
+      "speaker": "SPEAKER_02",
+      "text": "They were quite successful in their revenue generation in the first few years."
+    },
+    {
+      "start": 141.52,
+      "end": 148.44,
+      "speaker": "SPEAKER_02",
+      "text": "And now they hired for Carnegie for two specific goals, which were first increase their annual"
+    },
+    {
+      "start": 148.44,
+      "end": 151.88,
+      "speaker": "SPEAKER_02",
+      "text": "revenue by 25% to achieve the goal next year."
+    },
+    {
+      "start": 151.88,
+      "end": 155.68,
+      "speaker": "SPEAKER_02",
+      "text": "And the second thing just maximized their mission through creative ideas."
+    },
+    {
+      "start": 155.68,
+      "end": 158.44,
+      "speaker": "SPEAKER_02",
+      "text": "That seemed like a fair recap for you."
+    },
+    {
+      "start": 158.44,
+      "end": 159.96,
+      "speaker": "SPEAKER_02",
+      "text": "That's exactly right."
+    },
+    {
+      "start": 159.96,
+      "end": 160.96,
+      "speaker": "SPEAKER_02",
+      "text": "That sounds awesome."
+    },
+    {
+      "start": 160.96,
+      "end": 166.0,
+      "speaker": "SPEAKER_02",
+      "text": "So I do have several collier fine questions that I would like to ask if you don't mind."
+    },
+    {
+      "start": 166.0,
+      "end": 167.0,
+      "speaker": "SPEAKER_02",
+      "text": "Certainly."
+    },
+    {
+      "start": 167.0,
+      "end": 174.94,
+      "speaker": "SPEAKER_02",
+      "text": "So my first clarifying question is, so the timeline, just to clarify, timeline would be to"
+    },
+    {
+      "start": 174.94,
+      "end": 179.60000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "achieve this goal of increasing revenues by 25% in the next year."
+    },
+    {
+      "start": 179.60000000000002,
+      "end": 181.8,
+      "speaker": "SPEAKER_02",
+      "text": "So we have a time limit of about a year."
+    },
+    {
+      "start": 181.8,
+      "end": 182.8,
+      "speaker": "SPEAKER_00",
+      "text": "Yes."
+    },
+    {
+      "start": 182.8,
+      "end": 184.76000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "So making quick moves here."
+    },
+    {
+      "start": 184.76000000000002,
+      "end": 185.76000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "That sounds great."
+    },
+    {
+      "start": 185.76000000000002,
+      "end": 186.76000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "That's awesome."
+    },
+    {
+      "start": 186.76,
+      "end": 192.23999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "The second question that I have feels with the, I guess not business model because it's"
+    },
+    {
+      "start": 192.23999999999998,
+      "end": 194.51999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "not generate and profit, but the way they operate."
+    },
+    {
+      "start": 194.51999999999998,
+      "end": 198.04,
+      "speaker": "SPEAKER_02",
+      "text": "So you mentioned that they provided spaces for recreational soccer."
+    },
+    {
+      "start": 198.04,
+      "end": 202.72,
+      "speaker": "SPEAKER_02",
+      "text": "Is that still the case or have they moved on to other ventures such as professional soccer"
+    },
+    {
+      "start": 202.72,
+      "end": 204.79999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "or any other ventures like that?"
+    },
+    {
+      "start": 204.79999999999998,
+      "end": 205.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 205.79999999999998,
+      "end": 206.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Great question."
+    },
+    {
+      "start": 206.79999999999998,
+      "end": 213.51999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So they currently have two kind of main sort of channels for soccer."
+    },
+    {
+      "start": 213.52,
+      "end": 215.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "The first is what we call regular leaks."
+    },
+    {
+      "start": 215.92000000000002,
+      "end": 221.20000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "So that is including leaks for individuals, you know, just like social sports in, you"
+    },
+    {
+      "start": 221.20000000000002,
+      "end": 222.68,
+      "speaker": "SPEAKER_00",
+      "text": "know, cities in the US."
+    },
+    {
+      "start": 222.68,
+      "end": 228.28,
+      "speaker": "SPEAKER_00",
+      "text": "It also includes academies for girls to play soccer, kind of growing up, right?"
+    },
+    {
+      "start": 228.28,
+      "end": 230.48000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "So adults and children."
+    },
+    {
+      "start": 230.48000000000002,
+      "end": 233.32000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "And then the second is what we call special leaks."
+    },
+    {
+      "start": 233.32000000000002,
+      "end": 236.08,
+      "speaker": "SPEAKER_00",
+      "text": "So this is more of a corporate focused thing."
+    },
+    {
+      "start": 236.08,
+      "end": 240.08,
+      "speaker": "SPEAKER_00",
+      "text": "So you know, if a company wanted to have a team, they could do that."
+    },
+    {
+      "start": 240.08,
+      "end": 241.56,
+      "speaker": "SPEAKER_00",
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 241.56,
+      "end": 242.56,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah."
+    },
+    {
+      "start": 242.56,
+      "end": 243.56,
+      "speaker": "SPEAKER_02",
+      "text": "Perfect."
+    },
+    {
+      "start": 243.56,
+      "end": 249.8,
+      "speaker": "SPEAKER_02",
+      "text": "Three different channels, I guess, one for adults, one for children, one for companies."
+    },
+    {
+      "start": 249.8,
+      "end": 250.8,
+      "speaker": "SPEAKER_02",
+      "text": "Sounds awesome."
+    },
+    {
+      "start": 250.8,
+      "end": 251.8,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, sorry."
+    },
+    {
+      "start": 251.8,
+      "end": 252.8,
+      "speaker": "SPEAKER_00",
+      "text": "Let me just clarify."
+    },
+    {
+      "start": 252.8,
+      "end": 254.2,
+      "speaker": "SPEAKER_00",
+      "text": "The first two are kind of in one."
+    },
+    {
+      "start": 254.2,
+      "end": 255.8,
+      "speaker": "SPEAKER_02",
+      "text": "Oh, the first story in one."
+    },
+    {
+      "start": 255.8,
+      "end": 256.8,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 256.8,
+      "end": 257.8,
+      "speaker": "SPEAKER_00",
+      "text": "And then the third is correct."
+    },
+    {
+      "start": 257.8,
+      "end": 258.8,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 258.8,
+      "end": 259.8,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you for clarifying that."
+    },
+    {
+      "start": 259.8,
+      "end": 260.8,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, not a problem."
+    },
+    {
+      "start": 260.8,
+      "end": 265.0,
+      "speaker": "SPEAKER_02",
+      "text": "And I have one final clarifying question, which was terms of geography."
+    },
+    {
+      "start": 265.0,
+      "end": 267.96,
+      "speaker": "SPEAKER_02",
+      "text": "So you mentioned that they were located in Peru."
+    },
+    {
+      "start": 267.96,
+      "end": 272.36,
+      "speaker": "SPEAKER_02",
+      "text": "Is that still going to be the same in this case or are they looking into, spend their"
+    },
+    {
+      "start": 272.36,
+      "end": 275.8,
+      "speaker": "SPEAKER_02",
+      "text": "have they expanded into other countries, other regions?"
+    },
+    {
+      "start": 275.8,
+      "end": 280.8,
+      "speaker": "SPEAKER_00",
+      "text": "For purposes of today, we can stick to Peru, but I appreciate the dream big perspective"
+    },
+    {
+      "start": 280.8,
+      "end": 281.8,
+      "speaker": "SPEAKER_02",
+      "text": "care."
+    },
+    {
+      "start": 281.8,
+      "end": 282.8,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah."
+    },
+    {
+      "start": 282.8,
+      "end": 283.8,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 283.8,
+      "end": 284.8,
+      "speaker": "SPEAKER_02",
+      "text": "Awesome."
+    },
+    {
+      "start": 284.8,
+      "end": 286.32,
+      "speaker": "SPEAKER_02",
+      "text": "I think I have all the information I need for now."
+    },
+    {
+      "start": 286.32,
+      "end": 289.08000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "So would you mind if I take a moment to structure my thoughts?"
+    },
+    {
+      "start": 289.08000000000004,
+      "end": 290.08000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Absolutely."
+    },
+    {
+      "start": 290.08000000000004,
+      "end": 291.08000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 291.08000000000004,
+      "end": 292.08000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 292.08000000000004,
+      "end": 293.08000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 293.08000000000004,
+      "end": 296.6,
+      "speaker": "SPEAKER_02",
+      "text": "So I think I have a structure ready for you."
+    },
+    {
+      "start": 296.6,
+      "end": 302.56,
+      "speaker": "SPEAKER_02",
+      "text": "So there are four different categories that I would like to explore here."
+    },
+    {
+      "start": 302.56,
+      "end": 308.88,
+      "speaker": "SPEAKER_02",
+      "text": "These four categories are first, the price at which our players are our pain or the total"
+    },
+    {
+      "start": 308.88,
+      "end": 310.20000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "amount of their span."
+    },
+    {
+      "start": 310.20000000000005,
+      "end": 317.28000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "The second category would be the quantity of, for instance, entries to our, our leagues"
+    },
+    {
+      "start": 317.28000000000003,
+      "end": 318.28000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "here."
+    },
+    {
+      "start": 318.28000000000003,
+      "end": 320.76000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "And more well, I will get into more details later."
+    },
+    {
+      "start": 320.76,
+      "end": 324.96,
+      "speaker": "SPEAKER_02",
+      "text": "The third category would be our other leagues."
+    },
+    {
+      "start": 324.96,
+      "end": 326.92,
+      "speaker": "SPEAKER_02",
+      "text": "They're our, our competitors."
+    },
+    {
+      "start": 326.92,
+      "end": 333.56,
+      "speaker": "SPEAKER_02",
+      "text": "The fourth category would be, um, Liga's feminine is in itself as a, a Liga, as it will"
+    },
+    {
+      "start": 333.56,
+      "end": 337.68,
+      "speaker": "SPEAKER_02",
+      "text": "as a league or as a company in this case, on a profit, I would like to learn more about"
+    },
+    {
+      "start": 337.68,
+      "end": 338.68,
+      "speaker": "SPEAKER_02",
+      "text": "them."
+    },
+    {
+      "start": 338.68,
+      "end": 342.68,
+      "speaker": "SPEAKER_02",
+      "text": "So going back to the first category that I had, I would be very interested in learning"
+    },
+    {
+      "start": 342.68,
+      "end": 346.15999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "more about the price and strategy that they have been implemented."
+    },
+    {
+      "start": 346.15999999999997,
+      "end": 350.71999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "More specifically, I would be interested in, um, no one, the price is of entries to"
+    },
+    {
+      "start": 350.76000000000005,
+      "end": 355.68,
+      "speaker": "SPEAKER_02",
+      "text": "these leagues, uh, through, uh, for instance, through the different segments that we have"
+    },
+    {
+      "start": 355.68,
+      "end": 361.04,
+      "speaker": "SPEAKER_02",
+      "text": "it identified, such as, um, both, well, the two main segments or two main channels, which"
+    },
+    {
+      "start": 361.04,
+      "end": 367.52000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "are the, um, adults and children and the companies as well, I would be interested if, uh, also"
+    },
+    {
+      "start": 367.52000000000004,
+      "end": 373.88000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "if we are segmented and, um, by, um, segment in this case, uh, our prices, um, if we're"
+    },
+    {
+      "start": 373.88,
+      "end": 380.4,
+      "speaker": "SPEAKER_02",
+      "text": "charging, for instance, lower for, for children in the, in the academy or higher for adults."
+    },
+    {
+      "start": 380.4,
+      "end": 386.2,
+      "speaker": "SPEAKER_02",
+      "text": "Um, now the second category that I would like to explore, which I mentioned was quantity."
+    },
+    {
+      "start": 386.2,
+      "end": 391.15999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "First of all, I would like to know, um, how many, uh, children we have in the academies,"
+    },
+    {
+      "start": 391.15999999999997,
+      "end": 395.71999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "how many adults are playing in the recreational leagues and how many companies we have been"
+    },
+    {
+      "start": 395.71999999999997,
+      "end": 398.12,
+      "speaker": "SPEAKER_02",
+      "text": "able to, uh, get to play in our leagues."
+    },
+    {
+      "start": 398.12,
+      "end": 402.4,
+      "speaker": "SPEAKER_02",
+      "text": "And with that, how many players within those companies as well, I, I believe that it"
+    },
+    {
+      "start": 402.71999999999997,
+      "end": 405.76,
+      "speaker": "SPEAKER_02",
+      "text": "give us, uh, very important insight for later on this case."
+    },
+    {
+      "start": 405.76,
+      "end": 411.2,
+      "speaker": "SPEAKER_02",
+      "text": "Um, and, um, yeah, I think that we've from our second category, uh, from my third category,"
+    },
+    {
+      "start": 411.2,
+      "end": 412.47999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "which was competitors."
+    },
+    {
+      "start": 412.47999999999996,
+      "end": 418.08,
+      "speaker": "SPEAKER_02",
+      "text": "I'm very interested in knowing whether, uh, there are other leagues, perhaps regional or local"
+    },
+    {
+      "start": 418.08,
+      "end": 424.71999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "leagues that are also nearby, perhaps that, um, our customers or our players are going to,"
+    },
+    {
+      "start": 424.71999999999997,
+      "end": 429.67999999999995,
+      "speaker": "SPEAKER_02",
+      "text": "uh, whether, um, these players are also going to, uh, competitor simultaneously,"
+    },
+    {
+      "start": 429.68,
+      "end": 433.6,
+      "speaker": "SPEAKER_02",
+      "text": "as with us, that was my case when I was in high school, I used to go to different leagues,"
+    },
+    {
+      "start": 434.24,
+      "end": 436.32,
+      "speaker": "SPEAKER_02",
+      "text": "um, or perhaps they just choose one league."
+    },
+    {
+      "start": 436.8,
+      "end": 443.28000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "Um, and I would also like to, I'm very interested in knowing the differentiating factor of other"
+    },
+    {
+      "start": 443.28000000000003,
+      "end": 444.40000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "competitors."
+    },
+    {
+      "start": 444.40000000000003,
+      "end": 448.96000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Now, moving on to my fourth and final category, I'm very interested in league as femininists as a"
+    },
+    {
+      "start": 448.96000000000004,
+      "end": 450.96000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "company itself, versus an nonprofit."
+    },
+    {
+      "start": 450.96000000000004,
+      "end": 455.2,
+      "speaker": "SPEAKER_02",
+      "text": "First of all, I would like to know, uh, their marketing challenge, um, more specifically,"
+    },
+    {
+      "start": 455.28,
+      "end": 460.32,
+      "speaker": "SPEAKER_02",
+      "text": "how are they advertising per segment, um, through art different segments of adults,"
+    },
+    {
+      "start": 460.32,
+      "end": 461.92,
+      "speaker": "SPEAKER_02",
+      "text": "children and companies?"
+    },
+    {
+      "start": 461.92,
+      "end": 467.68,
+      "speaker": "SPEAKER_02",
+      "text": "The second thing that I would be interested with in the same category, uh, would be our operational"
+    },
+    {
+      "start": 467.68,
+      "end": 468.56,
+      "speaker": "SPEAKER_02",
+      "text": "cost in this case."
+    },
+    {
+      "start": 468.56,
+      "end": 472.96,
+      "speaker": "SPEAKER_02",
+      "text": "So, for instance, I'm very interested in learning, um, the hourly rates that we're paying to"
+    },
+    {
+      "start": 472.96,
+      "end": 473.84,
+      "speaker": "SPEAKER_02",
+      "text": "referees."
+    },
+    {
+      "start": 473.84,
+      "end": 477.44,
+      "speaker": "SPEAKER_02",
+      "text": "I understand that when I was playing soccer and leagues, that was one of the main things."
+    },
+    {
+      "start": 477.44,
+      "end": 482.96,
+      "speaker": "SPEAKER_02",
+      "text": "Um, I would also be interested if we have any volunteers, um, if these referees or"
+    },
+    {
+      "start": 482.96,
+      "end": 489.76,
+      "speaker": "SPEAKER_02",
+      "text": "acting as volunteers or not, um, also interested in the maintenance cost of just maintaining the,"
+    },
+    {
+      "start": 489.76,
+      "end": 492.23999999999995,
+      "speaker": "SPEAKER_02",
+      "text": "the soccer fields, I understand that it also involves a lot."
+    },
+    {
+      "start": 492.23999999999995,
+      "end": 497.68,
+      "speaker": "SPEAKER_02",
+      "text": "Um, it also, I'm mostly interested with that, uh, some certain fixed costs to go along with"
+    },
+    {
+      "start": 497.68,
+      "end": 502.71999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "that, for instance, utilities, how much it costs us to run this facilities, um, etc."
+    },
+    {
+      "start": 502.71999999999997,
+      "end": 507.03999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "And, um, I believe those would be all of my fourth category."
+    },
+    {
+      "start": 507.03999999999996,
+      "end": 511.59999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "So, with that being said, uh, first, I would like to explore the first category that I mentioned,"
+    },
+    {
+      "start": 511.6,
+      "end": 517.28,
+      "speaker": "SPEAKER_02",
+      "text": "which was, uh, the price of our entries, uh, or how much the, these segments are spending."
+    },
+    {
+      "start": 517.28,
+      "end": 518.72,
+      "speaker": "SPEAKER_02",
+      "text": "Do we have any information on that?"
+    },
+    {
+      "start": 519.44,
+      "end": 520.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 520.5600000000001,
+      "end": 523.84,
+      "speaker": "SPEAKER_00",
+      "text": "Let me just share my screen."
+    },
+    {
+      "start": 525.9200000000001,
+      "end": 526.4,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 526.4,
+      "end": 527.9200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Yes, I'm able to see it here."
+    },
+    {
+      "start": 527.9200000000001,
+      "end": 528.4,
+      "speaker": "SPEAKER_02",
+      "text": "That goes."
+    },
+    {
+      "start": 529.28,
+      "end": 531.6800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, would you mind if I take a moment to analyze this graph?"
+    },
+    {
+      "start": 531.6800000000001,
+      "end": 531.84,
+      "speaker": "SPEAKER_02",
+      "text": "Sure."
+    },
+    {
+      "start": 531.84,
+      "end": 532.0,
+      "speaker": "SPEAKER_02",
+      "text": "Here."
+    },
+    {
+      "start": 532.0,
+      "end": 533.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Sorry, this exhibit."
+    },
+    {
+      "start": 533.0400000000001,
+      "end": 533.44,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 539.2,
+      "end": 540.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, sounds great."
+    },
+    {
+      "start": 540.32,
+      "end": 545.76,
+      "speaker": "SPEAKER_02",
+      "text": "So it seems like we have two different categories of very important information."
+    },
+    {
+      "start": 545.76,
+      "end": 550.24,
+      "speaker": "SPEAKER_02",
+      "text": "The first one would be the revenue distributed by, uh, the different revenues"
+    },
+    {
+      "start": 550.24,
+      "end": 554.8,
+      "speaker": "SPEAKER_02",
+      "text": "streams that we have, which in this case are going to be the regular leagues of, um,"
+    },
+    {
+      "start": 554.8,
+      "end": 557.84,
+      "speaker": "SPEAKER_02",
+      "text": "kits and adults and the special leagues and other funding."
+    },
+    {
+      "start": 557.84,
+      "end": 563.28,
+      "speaker": "SPEAKER_02",
+      "text": "And for the other, uh, part of this exhibit, we see, I see that we have the projections."
+    },
+    {
+      "start": 563.6800000000001,
+      "end": 566.08,
+      "speaker": "SPEAKER_02",
+      "text": "Um, I'm assuming it would be for, for this year."
+    },
+    {
+      "start": 566.08,
+      "end": 568.4,
+      "speaker": "SPEAKER_02",
+      "text": "Does that seem for 2022 in this case?"
+    },
+    {
+      "start": 570.8,
+      "end": 571.52,
+      "speaker": "SPEAKER_00",
+      "text": "Uh, yes."
+    },
+    {
+      "start": 571.52,
+      "end": 576.0,
+      "speaker": "SPEAKER_00",
+      "text": "Well, what we expect to be at the year end is supposed to a good way to think about it."
+    },
+    {
+      "start": 576.0,
+      "end": 577.52,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, at the year end of 2022."
+    },
+    {
+      "start": 577.52,
+      "end": 578.24,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, that makes it."
+    },
+    {
+      "start": 578.24,
+      "end": 579.04,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah."
+    },
+    {
+      "start": 579.04,
+      "end": 579.52,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome."
+    },
+    {
+      "start": 580.24,
+      "end": 580.64,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 580.64,
+      "end": 584.88,
+      "speaker": "SPEAKER_02",
+      "text": "And I, it's very interesting that, as you mentioned, I believe in this, this case,"
+    },
+    {
+      "start": 584.88,
+      "end": 588.16,
+      "speaker": "SPEAKER_02",
+      "text": "looking at the financial of the revenue streams that we have,"
+    },
+    {
+      "start": 588.16,
+      "end": 591.2,
+      "speaker": "SPEAKER_02",
+      "text": "we are seeing an overall increase in the revenue."
+    },
+    {
+      "start": 591.6800000000001,
+      "end": 596.24,
+      "speaker": "SPEAKER_02",
+      "text": "More specifically, we're seeing that each of these categories of our revenue streams are"
+    },
+    {
+      "start": 596.24,
+      "end": 599.28,
+      "speaker": "SPEAKER_02",
+      "text": "increasing as well, which is a quite interesting insight."
+    },
+    {
+      "start": 599.8399999999999,
+      "end": 602.9599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Now looking at the other exhibit, I see that, um,"
+    },
+    {
+      "start": 604.48,
+      "end": 607.1999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "we have here, uh, 600 players."
+    },
+    {
+      "start": 608.4,
+      "end": 613.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so it seems like we have 600 players for the regular leagues and 25 teams in the special"
+    },
+    {
+      "start": 613.12,
+      "end": 613.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "leagues."
+    },
+    {
+      "start": 613.4399999999999,
+      "end": 619.28,
+      "speaker": "SPEAKER_02",
+      "text": "And by 25 teams, I'd take it that it's 25 different companies or can different companies compete"
+    },
+    {
+      "start": 619.28,
+      "end": 622.0799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "with it, with a different teams compete within the same company."
+    },
+    {
+      "start": 623.6,
+      "end": 626.4,
+      "speaker": "SPEAKER_00",
+      "text": "Um, so yeah, it could be different companies, but it could also, you,"
+    },
+    {
+      "start": 626.4,
+      "end": 628.88,
+      "speaker": "SPEAKER_00",
+      "text": "one company could have multiple teams, for example."
+    },
+    {
+      "start": 628.96,
+      "end": 629.52,
+      "speaker": "SPEAKER_00",
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 630.08,
+      "end": 631.52,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that makes a lot of sense."
+    },
+    {
+      "start": 631.52,
+      "end": 631.92,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah."
+    },
+    {
+      "start": 631.92,
+      "end": 632.48,
+      "speaker": "SPEAKER_02",
+      "text": "Um, okay."
+    },
+    {
+      "start": 632.48,
+      "end": 637.52,
+      "speaker": "SPEAKER_02",
+      "text": "And I see that, okay, so each team is bringing about $1,000 from revenue, which"
+    },
+    {
+      "start": 637.52,
+      "end": 639.76,
+      "speaker": "SPEAKER_02",
+      "text": "player in the regular leagues, about $45."
+    },
+    {
+      "start": 640.32,
+      "end": 644.4,
+      "speaker": "SPEAKER_02",
+      "text": "Uh, dollars and another fund, and we, oh, interesting, we have gifts."
+    },
+    {
+      "start": 644.4,
+      "end": 647.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "So that appears to be an important, um,"
+    },
+    {
+      "start": 648.48,
+      "end": 652.32,
+      "speaker": "SPEAKER_02",
+      "text": "uh, factor to consider in this case, which is $28."
+    },
+    {
+      "start": 652.88,
+      "end": 653.36,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah."
+    },
+    {
+      "start": 653.36,
+      "end": 653.92,
+      "speaker": "SPEAKER_02",
+      "text": "So it's good."
+    },
+    {
+      "start": 654.4,
+      "end": 656.16,
+      "speaker": "SPEAKER_02",
+      "text": "That is, um, very important information."
+    },
+    {
+      "start": 657.12,
+      "end": 661.92,
+      "speaker": "SPEAKER_02",
+      "text": "Um, with that being said, it appears that our price and strategy seems to be,"
+    },
+    {
+      "start": 662.64,
+      "end": 666.48,
+      "speaker": "SPEAKER_02",
+      "text": "seems to be effective considering we have an increase in revenues."
+    },
+    {
+      "start": 666.48,
+      "end": 672.7199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "However, we are looking to achieve this 25% increase here, um, as an objective."
+    },
+    {
+      "start": 672.7199999999999,
+      "end": 677.04,
+      "speaker": "SPEAKER_02",
+      "text": "So, and we also have information about projected units and quantities."
+    },
+    {
+      "start": 677.04,
+      "end": 678.16,
+      "speaker": "SPEAKER_02",
+      "text": "That's very interesting."
+    },
+    {
+      "start": 678.16,
+      "end": 682.72,
+      "speaker": "SPEAKER_02",
+      "text": "Um, now that we have this, do we have any, perhaps other information in"
+    },
+    {
+      "start": 682.8000000000001,
+      "end": 684.4,
+      "speaker": "SPEAKER_02",
+      "text": "regarding to competitors?"
+    },
+    {
+      "start": 684.4,
+      "end": 686.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Perhaps if we can compare the, the revenues,"
+    },
+    {
+      "start": 686.8000000000001,
+      "end": 689.36,
+      "speaker": "SPEAKER_02",
+      "text": "or any financial information that we may have?"
+    },
+    {
+      "start": 690.08,
+      "end": 691.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Uh, fair question."
+    },
+    {
+      "start": 691.0400000000001,
+      "end": 696.0,
+      "speaker": "SPEAKER_00",
+      "text": "Um, I think for now, we don't have a ton of competitors for LF."
+    },
+    {
+      "start": 696.48,
+      "end": 701.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Um, but, you know, I think it might make sense for us to circle back to our original,"
+    },
+    {
+      "start": 701.0400000000001,
+      "end": 704.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "kind of two questions and how we might use this information to get there."
+    },
+    {
+      "start": 705.84,
+      "end": 706.88,
+      "speaker": "SPEAKER_02",
+      "text": "Uh, yeah, certainly."
+    },
+    {
+      "start": 706.88,
+      "end": 712.48,
+      "speaker": "SPEAKER_02",
+      "text": "So our original two questions were, um, first of all, how we can increase the revenue by 25"
+    },
+    {
+      "start": 712.64,
+      "end": 716.72,
+      "speaker": "SPEAKER_02",
+      "text": "percent in this case and the second question was maximizing our mission."
+    },
+    {
+      "start": 716.72,
+      "end": 723.04,
+      "speaker": "SPEAKER_02",
+      "text": "So, um, here we have that, we have $70,000 revenue for the year of 2022."
+    },
+    {
+      "start": 723.52,
+      "end": 725.6,
+      "speaker": "SPEAKER_02",
+      "text": "So I would just put it in perspective."
+    },
+    {
+      "start": 725.6,
+      "end": 730.16,
+      "speaker": "SPEAKER_02",
+      "text": "I would like to calculate the 25% of that to see where we would need to be, uh,"
+    },
+    {
+      "start": 730.16,
+      "end": 730.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "in our next year."
+    },
+    {
+      "start": 730.8000000000001,
+      "end": 734.0,
+      "speaker": "SPEAKER_02",
+      "text": "Does that seem like an okay, um, calculation to make for now?"
+    },
+    {
+      "start": 734.0,
+      "end": 738.96,
+      "speaker": "SPEAKER_00",
+      "text": "Um, I think what might make more sense is if we're looking at 2024 is figuring out what we think"
+    },
+    {
+      "start": 739.0400000000001,
+      "end": 742.88,
+      "speaker": "SPEAKER_00",
+      "text": "the 2023 revenue might be and then going to 25%."
+    },
+    {
+      "start": 742.88,
+      "end": 743.44,
+      "speaker": "SPEAKER_00",
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 743.44,
+      "end": 744.88,
+      "speaker": "SPEAKER_02",
+      "text": "Oh, well, yeah, it does make sense."
+    },
+    {
+      "start": 744.88,
+      "end": 748.24,
+      "speaker": "SPEAKER_02",
+      "text": "So I understood that, um, the year we were looking at was 2022."
+    },
+    {
+      "start": 748.24,
+      "end": 749.84,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, that makes, that makes a lot of sense."
+    },
+    {
+      "start": 749.84,
+      "end": 753.6,
+      "speaker": "SPEAKER_02",
+      "text": "So calculating the revenue for today's work here, which is 2023."
+    },
+    {
+      "start": 753.6,
+      "end": 754.48,
+      "speaker": "SPEAKER_02",
+      "text": "That makes it awesome."
+    },
+    {
+      "start": 755.44,
+      "end": 757.9200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Would you mind if I take a moment to a little more magic for that?"
+    },
+    {
+      "start": 757.9200000000001,
+      "end": 758.64,
+      "speaker": "SPEAKER_01",
+      "text": "Sure, sure."
+    },
+    {
+      "start": 758.8,
+      "end": 760.3199999999999,
+      "speaker": "UNKNOWN",
+      "text": "Great."
+    },
+    {
+      "start": 760.3199999999999,
+      "end": 774.72,
+      "speaker": "SPEAKER_02",
+      "text": "So, in order for me to calculate the revenue for this year, I'm going to, um, first of all,"
+    },
+    {
+      "start": 774.72,
+      "end": 780.3199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "I'm going to calculate the total revenue per segment that we have here."
+    },
+    {
+      "start": 780.3199999999999,
+      "end": 783.92,
+      "speaker": "SPEAKER_02",
+      "text": "So for the three different segments, I'm going to multiply the projected units"
+    },
+    {
+      "start": 783.92,
+      "end": 788.4,
+      "speaker": "SPEAKER_02",
+      "text": "times the revenue per unit to get the total revenue, uh, per segment."
+    },
+    {
+      "start": 788.4,
+      "end": 790.16,
+      "speaker": "SPEAKER_02",
+      "text": "And which is what I'm about to do now."
+    },
+    {
+      "start": 790.16,
+      "end": 794.24,
+      "speaker": "SPEAKER_02",
+      "text": "So, so does that seem like an okay, okay, for seager to, to, um,"
+    },
+    {
+      "start": 794.24,
+      "end": 795.12,
+      "speaker": "SPEAKER_02",
+      "text": "Absolutely."
+    },
+    {
+      "start": 795.12,
+      "end": 795.6,
+      "speaker": "SPEAKER_02",
+      "text": "Awesome."
+    },
+    {
+      "start": 795.6,
+      "end": 796.56,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you for that."
+    },
+    {
+      "start": 796.56,
+      "end": 798.64,
+      "speaker": "SPEAKER_02",
+      "text": "All right, so looking at regular leaks first."
+    },
+    {
+      "start": 801.68,
+      "end": 804.0,
+      "speaker": "SPEAKER_02",
+      "text": "So we see that we have 600 players."
+    },
+    {
+      "start": 804.72,
+      "end": 809.76,
+      "speaker": "SPEAKER_02",
+      "text": "And I'm going to multiply this by 45, which is the revenue per unit to get the total revenue"
+    },
+    {
+      "start": 809.76,
+      "end": 810.48,
+      "speaker": "SPEAKER_02",
+      "text": "in the segment."
+    },
+    {
+      "start": 810.48,
+      "end": 813.6,
+      "speaker": "SPEAKER_02",
+      "text": "And if you allow me one second to make this calculation here."
+    },
+    {
+      "start": 813.6,
+      "end": 813.92,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 819.36,
+      "end": 827.36,
+      "speaker": "SPEAKER_01",
+      "text": "This is going to be, um, $27,000."
+    },
+    {
+      "start": 827.36,
+      "end": 828.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "That's what I got too."
+    },
+    {
+      "start": 828.9599999999999,
+      "end": 829.76,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome."
+    },
+    {
+      "start": 829.76,
+      "end": 830.72,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 830.72,
+      "end": 835.36,
+      "speaker": "SPEAKER_02",
+      "text": "Uh, $27,000 here for regular leaks and for special leaks."
+    },
+    {
+      "start": 835.36,
+      "end": 836.48,
+      "speaker": "SPEAKER_02",
+      "text": "Let's see here."
+    },
+    {
+      "start": 836.48,
+      "end": 840.4,
+      "speaker": "SPEAKER_02",
+      "text": "And making sure that I'm organized as possible with this."
+    },
+    {
+      "start": 840.4,
+      "end": 844.24,
+      "speaker": "SPEAKER_02",
+      "text": "So the projected units that we have is 25 teams."
+    },
+    {
+      "start": 844.24,
+      "end": 847.1999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "And each team is contributing around $1,000."
+    },
+    {
+      "start": 847.2,
+      "end": 853.0400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "So I'm going to multiply 25 times a thousand, which is going to give me 25,000."
+    },
+    {
+      "start": 853.0400000000001,
+      "end": 853.36,
+      "speaker": "SPEAKER_01",
+      "text": "Yep."
+    },
+    {
+      "start": 854.4000000000001,
+      "end": 859.5200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "And for the, um, other funding, which is gifts in this case, we have a thousand,"
+    },
+    {
+      "start": 860.24,
+      "end": 864.72,
+      "speaker": "SPEAKER_02",
+      "text": "um, a thousand gifts, which is the quantity."
+    },
+    {
+      "start": 864.72,
+      "end": 868.96,
+      "speaker": "SPEAKER_02",
+      "text": "I'm going to multiply it by 28, which is the average gift size,"
+    },
+    {
+      "start": 868.96,
+      "end": 869.6800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "gift size."
+    },
+    {
+      "start": 869.6800000000001,
+      "end": 872.08,
+      "speaker": "SPEAKER_02",
+      "text": "And this is going to give me $28,000."
+    },
+    {
+      "start": 872.96,
+      "end": 878.4000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Now, if I add all of these numbers, I'm going to get, if you allow me one second here."
+    },
+    {
+      "start": 878.4000000000001,
+      "end": 878.64,
+      "speaker": "SPEAKER_01",
+      "text": "Uh-huh."
+    },
+    {
+      "start": 886.88,
+      "end": 891.6,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, it should be, I was just making sure that I got, I'm a math correct here."
+    },
+    {
+      "start": 891.6,
+      "end": 895.0400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "So total revenue for the year of 2023 of $85,000."
+    },
+    {
+      "start": 895.0400000000001,
+      "end": 896.88,
+      "speaker": "SPEAKER_02",
+      "text": "Does that seem like a correct number to you?"
+    },
+    {
+      "start": 896.88,
+      "end": 897.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "80, right?"
+    },
+    {
+      "start": 897.5200000000001,
+      "end": 898.1600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yes, 80."
+    },
+    {
+      "start": 898.1600000000001,
+      "end": 899.44,
+      "speaker": "SPEAKER_02",
+      "text": "80, $80,000."
+    },
+    {
+      "start": 899.44,
+      "end": 900.4000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Yes, 80."
+    },
+    {
+      "start": 900.4,
+      "end": 906.0799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "And this number appears to be a very important number because it shows that we are,"
+    },
+    {
+      "start": 906.72,
+      "end": 908.3199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "oh, sorry, I just, okay."
+    },
+    {
+      "start": 908.3199999999999,
+      "end": 910.0,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, yeah, we were done with that part."
+    },
+    {
+      "start": 910.0,
+      "end": 910.72,
+      "speaker": "SPEAKER_00",
+      "text": "So I just took it down."
+    },
+    {
+      "start": 910.72,
+      "end": 912.0,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, yeah, no problem."
+    },
+    {
+      "start": 912.0,
+      "end": 915.84,
+      "speaker": "SPEAKER_02",
+      "text": "I just want to quickly mention that this number appears to be a very important number"
+    },
+    {
+      "start": 915.84,
+      "end": 916.3199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "considered."
+    },
+    {
+      "start": 916.3199999999999,
+      "end": 919.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "And we were at 70,000 the year before."
+    },
+    {
+      "start": 919.4399999999999,
+      "end": 923.84,
+      "speaker": "SPEAKER_02",
+      "text": "So we are seeing a constant increase in our revenue, which is important for our goal here,"
+    },
+    {
+      "start": 923.84,
+      "end": 925.6,
+      "speaker": "SPEAKER_02",
+      "text": "which is to achieve an unequivocal 25%."
+    },
+    {
+      "start": 926.16,
+      "end": 926.4,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 929.36,
+      "end": 929.76,
+      "speaker": "SPEAKER_01",
+      "text": "Cool."
+    },
+    {
+      "start": 929.84,
+      "end": 933.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "So yeah, yeah, yeah, sorry."
+    },
+    {
+      "start": 933.4399999999999,
+      "end": 937.36,
+      "speaker": "SPEAKER_02",
+      "text": "I was just making sure that, um, yeah, we were done with that part."
+    },
+    {
+      "start": 937.36,
+      "end": 942.8,
+      "speaker": "SPEAKER_02",
+      "text": "So now that we've had looked at both of the first, the two initial things that I wanted to look at,"
+    },
+    {
+      "start": 942.8,
+      "end": 944.4,
+      "speaker": "SPEAKER_02",
+      "text": "which were pricing quantity."
+    },
+    {
+      "start": 944.88,
+      "end": 949.04,
+      "speaker": "SPEAKER_02",
+      "text": "And you mentioned that we did not have any information and competitors or that we're"
+    },
+    {
+      "start": 949.04,
+      "end": 951.84,
+      "speaker": "SPEAKER_02",
+      "text": "not asking for in this case, I'm going to rule this part out."
+    },
+    {
+      "start": 952.64,
+      "end": 958.08,
+      "speaker": "SPEAKER_02",
+      "text": "I would be very interested in knowing us or learning more about legal feminist itself."
+    },
+    {
+      "start": 958.08,
+      "end": 964.88,
+      "speaker": "SPEAKER_02",
+      "text": "So perhaps if we have any information on our employee headcount or perhaps in our different"
+    },
+    {
+      "start": 964.88,
+      "end": 968.1600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "cost, operational cost that we incur, you know, yearly basis."
+    },
+    {
+      "start": 969.2,
+      "end": 969.76,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, sure."
+    },
+    {
+      "start": 969.76,
+      "end": 971.44,
+      "speaker": "SPEAKER_00",
+      "text": "But we could talk about that for a little bit."
+    },
+    {
+      "start": 971.44,
+      "end": 973.44,
+      "speaker": "SPEAKER_00",
+      "text": "But one quick thing I wanted to double back on."
+    },
+    {
+      "start": 973.44,
+      "end": 977.6,
+      "speaker": "SPEAKER_00",
+      "text": "So just circling back to our questions, remind me what the first question was again."
+    },
+    {
+      "start": 978.08,
+      "end": 981.6,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, the first question was increasing on an annual revenue by 25%."
+    },
+    {
+      "start": 981.6,
+      "end": 985.76,
+      "speaker": "SPEAKER_00",
+      "text": "So now that we know what the revenue is for this year, do we know what our target is?"
+    },
+    {
+      "start": 986.56,
+      "end": 987.36,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, certainly."
+    },
+    {
+      "start": 987.36,
+      "end": 993.28,
+      "speaker": "SPEAKER_02",
+      "text": "So we would have to, what I would do first, so since we are in the year 2023 and we have our revenue"
+    },
+    {
+      "start": 993.28,
+      "end": 1000.08,
+      "speaker": "SPEAKER_02",
+      "text": "of $80,000, then I'm going to take 25% of that and I'm going to add it on top of $80,000."
+    },
+    {
+      "start": 1000.08,
+      "end": 1003.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "So I would like to trick that I like to use usually."
+    },
+    {
+      "start": 1004.24,
+      "end": 1006.08,
+      "speaker": "SPEAKER_02",
+      "text": "Well, actually, there's an easier way to do this."
+    },
+    {
+      "start": 1006.08,
+      "end": 1012.4,
+      "speaker": "SPEAKER_02",
+      "text": "So 25% of 80s, essentially dividing 80 by 4, which is 20 in this case."
+    },
+    {
+      "start": 1013.04,
+      "end": 1018.88,
+      "speaker": "SPEAKER_02",
+      "text": "If we add $20,000 to $80,000, we see that our goal for next year is going to be"
+    },
+    {
+      "start": 1018.88,
+      "end": 1020.88,
+      "speaker": "SPEAKER_02",
+      "text": "$100,000."
+    },
+    {
+      "start": 1020.88,
+      "end": 1021.52,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 1022.0799999999999,
+      "end": 1022.48,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect."
+    },
+    {
+      "start": 1022.48,
+      "end": 1027.12,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I just think it's always important to contextualize what is our goal and what's the gap so that we can"
+    },
+    {
+      "start": 1027.68,
+      "end": 1033.12,
+      "speaker": "SPEAKER_00",
+      "text": "pursue the opportunities that will achieve that, right?"
+    },
+    {
+      "start": 1033.12,
+      "end": 1037.52,
+      "speaker": "SPEAKER_00",
+      "text": "And circling back to your question about Vegas, Feminina, so the good news is that"
+    },
+    {
+      "start": 1037.52,
+      "end": 1039.04,
+      "speaker": "SPEAKER_00",
+      "text": "we don't really have competitors."
+    },
+    {
+      "start": 1039.36,
+      "end": 1041.84,
+      "speaker": "SPEAKER_00",
+      "text": "Leadership is pretty stable."
+    },
+    {
+      "start": 1041.84,
+      "end": 1043.6,
+      "speaker": "SPEAKER_00",
+      "text": "I think the brand has good recognition."
+    },
+    {
+      "start": 1044.32,
+      "end": 1046.48,
+      "speaker": "SPEAKER_00",
+      "text": "So I think we're really poised to grow."
+    },
+    {
+      "start": 1047.76,
+      "end": 1054.8,
+      "speaker": "SPEAKER_00",
+      "text": "One update that I can provide for you, Nicholas, is that the leadership is really open to ideas."
+    },
+    {
+      "start": 1054.8,
+      "end": 1059.12,
+      "speaker": "SPEAKER_00",
+      "text": "And if there's some things that are on maybe on your mind about, all right, how are we going"
+    },
+    {
+      "start": 1059.12,
+      "end": 1060.8,
+      "speaker": "SPEAKER_00",
+      "text": "to get $20,000?"
+    },
+    {
+      "start": 1060.8,
+      "end": 1062.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And how does that work for our company?"
+    },
+    {
+      "start": 1064.32,
+      "end": 1065.6,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe we could brainstorm that together."
+    },
+    {
+      "start": 1066.3999999999999,
+      "end": 1067.36,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, certainly."
+    },
+    {
+      "start": 1067.36,
+      "end": 1070.56,
+      "speaker": "SPEAKER_02",
+      "text": "Which might take a quick moment to structure my thinking."
+    },
+    {
+      "start": 1073.76,
+      "end": 1076.32,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so so far I have two different categories."
+    },
+    {
+      "start": 1076.32,
+      "end": 1080.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "So if I did us to which we could actually maximize our mission and increase our revenue,"
+    },
+    {
+      "start": 1080.3999999999999,
+      "end": 1083.84,
+      "speaker": "SPEAKER_02",
+      "text": "the first category that I have would be extra curricular activities."
+    },
+    {
+      "start": 1083.84,
+      "end": 1092.56,
+      "speaker": "SPEAKER_02",
+      "text": "But I mean by that is activities that are not necessarily leaks or any type of competitive activity."
+    },
+    {
+      "start": 1092.56,
+      "end": 1097.28,
+      "speaker": "SPEAKER_02",
+      "text": "And the second category that I have would be the diversified our market and channels."
+    },
+    {
+      "start": 1097.28,
+      "end": 1102.08,
+      "speaker": "SPEAKER_02",
+      "text": "Now going back to the first category that I have would be extra curricular activities for my"
+    },
+    {
+      "start": 1102.08,
+      "end": 1106.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "personal experience, volunteering and being a part of the soccer league. I found it very"
+    },
+    {
+      "start": 1107.84,
+      "end": 1111.44,
+      "speaker": "SPEAKER_02",
+      "text": "successful to see festivals happening during the weekends."
+    },
+    {
+      "start": 1112.1599999999999,
+      "end": 1115.6,
+      "speaker": "SPEAKER_02",
+      "text": "And this would be during the weekends through which they don't have any games,"
+    },
+    {
+      "start": 1116.1599999999999,
+      "end": 1117.6,
+      "speaker": "SPEAKER_02",
+      "text": "or perhaps nothing's happening."
+    },
+    {
+      "start": 1117.6799999999998,
+      "end": 1122.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Festivals are a great way of getting more people together and getting again,"
+    },
+    {
+      "start": 1122.3999999999999,
+      "end": 1127.76,
+      "speaker": "SPEAKER_02",
+      "text": "building a sense of family within the community of Ligas femininas and also"
+    },
+    {
+      "start": 1128.8799999999999,
+      "end": 1132.9599999999998,
+      "speaker": "SPEAKER_02",
+      "text": "through different festival venues and different things that we could put in the festival,"
+    },
+    {
+      "start": 1132.9599999999998,
+      "end": 1134.1599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "we could increase our revenue."
+    },
+    {
+      "start": 1134.1599999999999,
+      "end": 1139.36,
+      "speaker": "SPEAKER_02",
+      "text": "Another thing that I was thinking in this same aspect would be"
+    },
+    {
+      "start": 1140.56,
+      "end": 1147.36,
+      "speaker": "SPEAKER_02",
+      "text": "and within this festival is perhaps a side of this festival would be holding yearly gatherings"
+    },
+    {
+      "start": 1147.36,
+      "end": 1151.6799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "in which we announce for instance yearly awards."
+    },
+    {
+      "start": 1152.9599999999998,
+      "end": 1158.4799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "And this festival's could or this is a follow-up, this gatherings could be formal gatherings,"
+    },
+    {
+      "start": 1158.4799999999998,
+      "end": 1160.1599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "we could charge an entry for these."
+    },
+    {
+      "start": 1160.1599999999999,
+      "end": 1165.12,
+      "speaker": "SPEAKER_02",
+      "text": "And with these gatherings, the league would essentially announce for instance the most"
+    },
+    {
+      "start": 1165.76,
+      "end": 1170.8,
+      "speaker": "SPEAKER_02",
+      "text": "the player with the most formmanship of the company who had the highest number of wins and"
+    },
+    {
+      "start": 1170.8,
+      "end": 1176.0,
+      "speaker": "SPEAKER_02",
+      "text": "things like that. Now moving to my second category of marketing of our ideas,"
+    },
+    {
+      "start": 1176.24,
+      "end": 1180.32,
+      "speaker": "SPEAKER_02",
+      "text": "I'm very interested in diverse and fun on marketing strategy."
+    },
+    {
+      "start": 1182.08,
+      "end": 1186.48,
+      "speaker": "SPEAKER_02",
+      "text": "One way through which we could do this is by sending perhaps representatives for volunteers,"
+    },
+    {
+      "start": 1186.48,
+      "end": 1191.76,
+      "speaker": "SPEAKER_02",
+      "text": "or even children who are already planning these leaks to advertise or not necessarily advertise,"
+    },
+    {
+      "start": 1191.76,
+      "end": 1195.04,
+      "speaker": "SPEAKER_02",
+      "text": "but just output a good word for the league in their schools."
+    },
+    {
+      "start": 1195.04,
+      "end": 1199.12,
+      "speaker": "SPEAKER_02",
+      "text": "Perhaps if we send a representative from our league to these local schools,"
+    },
+    {
+      "start": 1199.12,
+      "end": 1203.52,
+      "speaker": "SPEAKER_02",
+      "text": "then it would gather more people to go to our leagues and know and how popular soccer is."
+    },
+    {
+      "start": 1203.68,
+      "end": 1214.08,
+      "speaker": "SPEAKER_02",
+      "text": "I find this very very efficient. And another thing within the same category would be put in advertisements"
+    },
+    {
+      "start": 1214.08,
+      "end": 1218.16,
+      "speaker": "SPEAKER_02",
+      "text": "on newspapers. I understand this is huge within local communities."
+    },
+    {
+      "start": 1218.8799999999999,
+      "end": 1223.36,
+      "speaker": "SPEAKER_02",
+      "text": "Still huge and coming from South America, I understand that newspapers are still a big thing,"
+    },
+    {
+      "start": 1223.36,
+      "end": 1227.68,
+      "speaker": "SPEAKER_02",
+      "text": "and especially for older generations who may consider, may see these announcements or"
+    },
+    {
+      "start": 1227.68,
+      "end": 1232.8,
+      "speaker": "SPEAKER_02",
+      "text": "may see these advertisements and may consider getting their children to play for these leaks."
+    },
+    {
+      "start": 1234.24,
+      "end": 1239.92,
+      "speaker": "SPEAKER_00",
+      "text": "Very cool. I like these creative ideas. So the good news is Nicholas is that we actually were"
+    },
+    {
+      "start": 1239.92,
+      "end": 1246.32,
+      "speaker": "SPEAKER_00",
+      "text": "able to conduct an interview before we stepped you on the project. And it turns out that"
+    },
+    {
+      "start": 1246.32,
+      "end": 1252.08,
+      "speaker": "SPEAKER_00",
+      "text": "LF actually has some ideas as well and has done a little bit of light assessment on some of them,"
+    },
+    {
+      "start": 1252.08,
+      "end": 1258.32,
+      "speaker": "SPEAKER_00",
+      "text": "but wants to hear what you think about these ideas. Certainly. So I'm going to take a quick"
+    },
+    {
+      "start": 1258.32,
+      "end": 1260.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "moment to see this, these ideas. Sure."
+    },
+    {
+      "start": 1264.48,
+      "end": 1273.76,
+      "speaker": "SPEAKER_01",
+      "text": "I'll just add a quick question. So for the part time sales person,"
+    },
+    {
+      "start": 1274.4,
+      "end": 1279.92,
+      "speaker": "SPEAKER_02",
+      "text": "would the sales person be in charge of selling entries to the tournaments, or would they be in"
+    },
+    {
+      "start": 1279.92,
+      "end": 1285.28,
+      "speaker": "SPEAKER_02",
+      "text": "charge of selling merchandise? The brand of gear? Oh, this person would be in charge of"
+    },
+    {
+      "start": 1286.08,
+      "end": 1291.04,
+      "speaker": "SPEAKER_00",
+      "text": "league sales. So it would be either individual players or the special leagues. So it would be"
+    },
+    {
+      "start": 1291.04,
+      "end": 1297.6,
+      "speaker": "SPEAKER_02",
+      "text": "regularly, especially focused. Okay. Sounds great. Yeah. Interesting. So I see that we have five"
+    },
+    {
+      "start": 1297.6,
+      "end": 1306.8,
+      "speaker": "SPEAKER_02",
+      "text": "different ideas. And I also found that, okay, interesting. And it appears that the idea with the"
+    },
+    {
+      "start": 1306.8,
+      "end": 1313.04,
+      "speaker": "SPEAKER_02",
+      "text": "most anticipated revenue impact would be the hiring the part time sales person, which is an idea"
+    },
+    {
+      "start": 1313.04,
+      "end": 1317.6,
+      "speaker": "SPEAKER_02",
+      "text": "that will be very interesting, considering knowing that it's going to bring in so much revenue."
+    },
+    {
+      "start": 1318.56,
+      "end": 1324.08,
+      "speaker": "SPEAKER_02",
+      "text": "At the idea of target and digital market does not seem as beneficial for the revenue."
+    },
+    {
+      "start": 1324.8,
+      "end": 1330.8,
+      "speaker": "SPEAKER_02",
+      "text": "In terms of the investment, it makes sense that the hard part time would be would have to have"
+    },
+    {
+      "start": 1330.8,
+      "end": 1336.24,
+      "speaker": "SPEAKER_02",
+      "text": "the highest investment in the case and the target digital market and would incur or would have to,"
+    },
+    {
+      "start": 1336.24,
+      "end": 1344.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "would have this has apologist has the lowest investment, which makes sense. With that being said,"
+    },
+    {
+      "start": 1344.4,
+      "end": 1350.72,
+      "speaker": "SPEAKER_02",
+      "text": "would you mind if I take a moment to perhaps calculate the calculated, calculated,"
+    },
+    {
+      "start": 1350.72,
+      "end": 1357.52,
+      "speaker": "SPEAKER_02",
+      "text": "profit that each idea sport would bring in? Sure. Well, before we jump into that, just wanted to"
+    },
+    {
+      "start": 1357.52,
+      "end": 1365.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "think through it slightly. So I think one thing to keep in mind is our budget, right? So we didn't"
+    },
+    {
+      "start": 1365.6000000000001,
+      "end": 1373.2,
+      "speaker": "SPEAKER_00",
+      "text": "quite talk about that, but I think we need to target a budget of about 10K. And then the other"
+    },
+    {
+      "start": 1373.2,
+      "end": 1378.48,
+      "speaker": "SPEAKER_02",
+      "text": "piece. Can you remind me of our timeframe? Our timeframe would be within the next year. That's"
+    },
+    {
+      "start": 1378.48,
+      "end": 1386.64,
+      "speaker": "SPEAKER_00",
+      "text": "right. So yeah, and then how might you go about the the profit piece for comparing these projects?"
+    },
+    {
+      "start": 1388.0,
+      "end": 1393.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Certainly. So first of all, I would be just a bit of a remuneration. Yeah, I would be very"
+    },
+    {
+      "start": 1393.8400000000001,
+      "end": 1399.68,
+      "speaker": "SPEAKER_02",
+      "text": "interested in getting the apologist. Would you mind if I take a moment? I think I might have"
+    },
+    {
+      "start": 1399.76,
+      "end": 1415.2,
+      "speaker": "SPEAKER_01",
+      "text": "gotten another idea for fish. Okay. Okay. So the first idea that I had in the recent why I had to"
+    },
+    {
+      "start": 1415.2,
+      "end": 1420.96,
+      "speaker": "SPEAKER_02",
+      "text": "take a moment was because I was thinking of perhaps taking just the anticipated revenue impact"
+    },
+    {
+      "start": 1420.96,
+      "end": 1424.72,
+      "speaker": "SPEAKER_02",
+      "text": "and subtracting the investment from that revenue impact. The second idea that I would"
+    },
+    {
+      "start": 1424.72,
+      "end": 1430.16,
+      "speaker": "SPEAKER_02",
+      "text": "think in considering we have a timeframe would be dividing the anticipated revenue impact by the"
+    },
+    {
+      "start": 1430.16,
+      "end": 1436.4,
+      "speaker": "SPEAKER_02",
+      "text": "that number of months and then getting the breakeven point. Do you which idea would you consider"
+    },
+    {
+      "start": 1437.2,
+      "end": 1443.76,
+      "speaker": "SPEAKER_00",
+      "text": "best in this case? Good thought. I think for purposes of this, how I would think about this is"
+    },
+    {
+      "start": 1443.76,
+      "end": 1448.56,
+      "speaker": "SPEAKER_00",
+      "text": "maybe a ratio of the revenue impact and the investment. And then I think for purposes of time,"
+    },
+    {
+      "start": 1448.56,
+      "end": 1453.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "though, I appreciate your thought there. Let's just make sure that we could do it any year."
+    },
+    {
+      "start": 1453.12,
+      "end": 1460.7199999999998,
+      "speaker": "SPEAKER_02",
+      "text": "Does that make sense? By that, you mean that we would be able to consider in our budget?"
+    },
+    {
+      "start": 1462.7199999999998,
+      "end": 1468.32,
+      "speaker": "SPEAKER_00",
+      "text": "Like just in terms of the time to recognize the impact would need to be less than 12, right?"
+    },
+    {
+      "start": 1469.12,
+      "end": 1471.52,
+      "speaker": "SPEAKER_00",
+      "text": "They said, right. Yeah. Does that make sense?"
+    },
+    {
+      "start": 1473.4399999999998,
+      "end": 1481.12,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I believe so. So just to make sure that I understand this goal here would be just"
+    },
+    {
+      "start": 1481.12,
+      "end": 1488.0,
+      "speaker": "SPEAKER_02",
+      "text": "essentially trying to get the ratio of the anticipated revenue to the investment and seeing if this"
+    },
+    {
+      "start": 1488.0,
+      "end": 1494.0,
+      "speaker": "SPEAKER_02",
+      "text": "would be a reasonable or feasible solution to implement. Yep. Okay, so I'm good. I'm going to take"
+    },
+    {
+      "start": 1494.0,
+      "end": 1501.4399999999998,
+      "speaker": "SPEAKER_02",
+      "text": "a moment now to do that. Great. Okay, so I'll already laid out my structure. So I wanted to tell you"
+    },
+    {
+      "start": 1501.4399999999998,
+      "end": 1506.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "what I'm doing here. So for the first, what I'm doing for each of these categories is that I'm"
+    },
+    {
+      "start": 1506.4,
+      "end": 1511.76,
+      "speaker": "SPEAKER_02",
+      "text": "taken essentially, return an investment ratio, which is essentially the anticipated revenue over"
+    },
+    {
+      "start": 1511.76,
+      "end": 1517.0400000000002,
+      "speaker": "SPEAKER_02",
+      "text": "the investment cost here. And this would give me, for instance, when I look at the first idea,"
+    },
+    {
+      "start": 1517.0400000000002,
+      "end": 1523.3600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "I see that I have $15,000 in revenue impact over the investment, which is $10,000, which is"
+    },
+    {
+      "start": 1523.3600000000001,
+      "end": 1530.0,
+      "speaker": "SPEAKER_02",
+      "text": "basically returning investment of 1.5, so around 50% on our investment, which seems great."
+    },
+    {
+      "start": 1530.0,
+      "end": 1533.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "And this idea is feasible as well, because it's under the time limit that we have."
+    },
+    {
+      "start": 1534.56,
+      "end": 1542.08,
+      "speaker": "SPEAKER_02",
+      "text": "For the target and for the target of digital market, and I see that we have a revenue of $4,000,"
+    },
+    {
+      "start": 1542.08,
+      "end": 1548.48,
+      "speaker": "SPEAKER_02",
+      "text": "divided by $2,000, which is two in this case. So we have a return of investment of 100% in this"
+    },
+    {
+      "start": 1548.48,
+      "end": 1557.36,
+      "speaker": "SPEAKER_02",
+      "text": "case, since it seems great. Actually, 200% I apologize. Do those numbers seem like fair? Awesome."
+    },
+    {
+      "start": 1557.4399999999998,
+      "end": 1564.8,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, we're good. For the third one, third idea, which is the branded gear, we see that we have $8,000"
+    },
+    {
+      "start": 1564.8,
+      "end": 1572.1599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "over $2,000. This is going to give us $4,000, so we have a return investment of around 400%,"
+    },
+    {
+      "start": 1573.28,
+      "end": 1582.8,
+      "speaker": "SPEAKER_02",
+      "text": "which seems great as well. Okay, looking at this, for the fourth idea, I actually did not want to"
+    },
+    {
+      "start": 1582.8,
+      "end": 1587.36,
+      "speaker": "SPEAKER_02",
+      "text": "do any calculations in this idea, because it's past the time limit, so I'm going to skip it."
+    },
+    {
+      "start": 1587.36,
+      "end": 1593.52,
+      "speaker": "SPEAKER_02",
+      "text": "Great. And for the final idea, we have $10 over $5,000, which is going to give us $2,000, so again,"
+    },
+    {
+      "start": 1593.52,
+      "end": 1602.08,
+      "speaker": "SPEAKER_02",
+      "text": "a return investment of around 100%. Yes, I apologize. I got the calculations right, but perhaps"
+    },
+    {
+      "start": 1602.08,
+      "end": 1606.24,
+      "speaker": "SPEAKER_02",
+      "text": "we might have not voiced them correctly. Do all of these calculations seem fair to you?"
+    },
+    {
+      "start": 1606.72,
+      "end": 1614.88,
+      "speaker": "SPEAKER_00",
+      "text": "We're good. Yeah, 1.52 for we skipped that one and then another two. Awesome. Great. So what now?"
+    },
+    {
+      "start": 1615.92,
+      "end": 1622.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, first of all, I would like to compare all of these ideas to see which one seems to be more"
+    },
+    {
+      "start": 1622.48,
+      "end": 1630.4,
+      "speaker": "SPEAKER_02",
+      "text": "profitable. And with that, I will also keep in mind our budget of $10,000. So with that, we see that"
+    },
+    {
+      "start": 1630.48,
+      "end": 1640.0800000000002,
+      "speaker": "SPEAKER_02",
+      "text": "that, okay, first of all, I would not consider the idea of purchasing feels considered and would"
+    },
+    {
+      "start": 1640.0800000000002,
+      "end": 1644.0,
+      "speaker": "SPEAKER_02",
+      "text": "take up all of our budget and the return on investment is not even profitable as well."
+    },
+    {
+      "start": 1644.0,
+      "end": 1652.16,
+      "speaker": "SPEAKER_02",
+      "text": "I agree with that. Okay, great. Awesome. So we are eliminating one of four. Great. So now we"
+    },
+    {
+      "start": 1652.24,
+      "end": 1656.16,
+      "speaker": "SPEAKER_02",
+      "text": "are left with two, three and five, which is marketing, rent, a gear, and basketball team."
+    },
+    {
+      "start": 1658.0800000000002,
+      "end": 1668.4,
+      "speaker": "SPEAKER_02",
+      "text": "And it appears that if we implement all of these three, we would be staying within the budget of"
+    },
+    {
+      "start": 1669.0400000000002,
+      "end": 1674.8000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "$10,000. So might as well, and considering these substantial return on investment of each of"
+    },
+    {
+      "start": 1674.8000000000002,
+      "end": 1680.72,
+      "speaker": "SPEAKER_02",
+      "text": "these ideas, I think that it would be beneficial for a client to implement all of these ideas,"
+    },
+    {
+      "start": 1680.72,
+      "end": 1684.4,
+      "speaker": "SPEAKER_02",
+      "text": "staying within the budget and getting a quite substantial return on investment."
+    },
+    {
+      "start": 1684.4,
+      "end": 1687.04,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, and keep it a number on that substantial return on investment."
+    },
+    {
+      "start": 1687.6000000000001,
+      "end": 1692.56,
+      "speaker": "SPEAKER_02",
+      "text": "Certainly. So if we are looking at, do you want the number as a percent or should just"
+    },
+    {
+      "start": 1692.56,
+      "end": 1697.68,
+      "speaker": "SPEAKER_02",
+      "text": "want us a total like an anticipated revenue? I think a total total number revenue would be"
+    },
+    {
+      "start": 1697.68,
+      "end": 1704.0,
+      "speaker": "SPEAKER_02",
+      "text": "perfect. Oh, awesome. So we're looking at the anticipated revenue impact of the market and"
+    },
+    {
+      "start": 1704.0,
+      "end": 1711.6,
+      "speaker": "SPEAKER_02",
+      "text": "idea of just $4,000. We're adding that to the branded gear, which is $8,000. We're adding that"
+    },
+    {
+      "start": 1711.6,
+      "end": 1719.44,
+      "speaker": "SPEAKER_02",
+      "text": "to $10,000, which then we are seeing $22,000 in anticipated revenue impact. And going back to"
+    },
+    {
+      "start": 1719.44,
+      "end": 1726.08,
+      "speaker": "SPEAKER_02",
+      "text": "an initial question, which was increasing our revenue by 25%. If I go back to this, we see that"
+    },
+    {
+      "start": 1726.08,
+      "end": 1733.36,
+      "speaker": "SPEAKER_02",
+      "text": "this actually does go over the 25% increase, which is awesome for us and for our client,"
+    },
+    {
+      "start": 1733.36,
+      "end": 1738.0,
+      "speaker": "SPEAKER_02",
+      "text": "meaning that through these strategies, we would be able to achieve our goal. And I think we would"
+    },
+    {
+      "start": 1738.0,
+      "end": 1743.84,
+      "speaker": "SPEAKER_02",
+      "text": "also be achieving both of our goals, yeah, maximize an admission as well. Okay, that's amazing."
+    },
+    {
+      "start": 1743.84,
+      "end": 1749.6,
+      "speaker": "SPEAKER_00",
+      "text": "Well, cool. So I want to go ahead and give you the opportunity to kind of put a bow on this."
+    },
+    {
+      "start": 1749.6,
+      "end": 1754.4799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "But one last thing is we have a little budget left, right? We have $1,000, which admittedly"
+    },
+    {
+      "start": 1754.4799999999998,
+      "end": 1760.56,
+      "speaker": "SPEAKER_00",
+      "text": "is not much, but in the world of nonprofits, you use everything you got, right? So any thoughts,"
+    },
+    {
+      "start": 1760.56,
+      "end": 1764.72,
+      "speaker": "SPEAKER_00",
+      "text": "especially as it relates to part two of our question around mission, like how might you use that?"
+    },
+    {
+      "start": 1765.6,
+      "end": 1770.24,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, certainly. I'm going to take a quick moment to think of some strategies that I could"
+    },
+    {
+      "start": 1770.24,
+      "end": 1777.44,
+      "speaker": "SPEAKER_02",
+      "text": "use that money with. Certainly. Okay, so I'm very invested in the idea of having a"
+    },
+    {
+      "start": 1778.24,
+      "end": 1784.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "festival in this case, so there are several things that we could implement in this carnival in order"
+    },
+    {
+      "start": 1784.8799999999999,
+      "end": 1790.08,
+      "speaker": "SPEAKER_02",
+      "text": "to increase the sense of community and maximize permission to provide women a safe space to play."
+    },
+    {
+      "start": 1790.08,
+      "end": 1795.6799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "First of all, it would be getting some rights for the carnival. They don't have to be as big,"
+    },
+    {
+      "start": 1795.6799999999998,
+      "end": 1802.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "but I would certainly think that some small rights would be quite affordable for us."
+    },
+    {
+      "start": 1802.6399999999999,
+      "end": 1808.08,
+      "speaker": "SPEAKER_02",
+      "text": "The second thing would be getting food, some type of catering would be certainly great for parents"
+    },
+    {
+      "start": 1808.08,
+      "end": 1816.72,
+      "speaker": "SPEAKER_02",
+      "text": "and children as well. And finally, I would be very interested in getting one final idea, perhaps,"
+    },
+    {
+      "start": 1817.2,
+      "end": 1826.08,
+      "speaker": "SPEAKER_02",
+      "text": "to happen, which is, and this would be at no cost. We, I would be interested in getting someone from"
+    },
+    {
+      "start": 1826.08,
+      "end": 1832.64,
+      "speaker": "SPEAKER_02",
+      "text": "perhaps a local person that's perhaps a coach or a renowned soccer player. It doesn't have to be"
+    },
+    {
+      "start": 1832.64,
+      "end": 1838.56,
+      "speaker": "SPEAKER_02",
+      "text": "like super professional, super famous, but it has to be local to come and speak at this festival."
+    },
+    {
+      "start": 1838.56,
+      "end": 1843.3600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "And initially with these type of characters, they are not going to charge anything because for"
+    },
+    {
+      "start": 1843.36,
+      "end": 1848.4799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "the community, and we would essentially get a lot of traction and a lot of, it would be very attractive"
+    },
+    {
+      "start": 1848.4799999999998,
+      "end": 1854.8,
+      "speaker": "SPEAKER_02",
+      "text": "for our, for our legal femininous. And more specifically, it would be a positive if they were a"
+    },
+    {
+      "start": 1854.8,
+      "end": 1859.76,
+      "speaker": "SPEAKER_00",
+      "text": "woman, if they were a woman for sure. Yeah, awesome. All right, well, I love those ideas. All right,"
+    },
+    {
+      "start": 1859.76,
+      "end": 1865.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "cool. Well, let's bring it in for landing, Nicholas. So if you go ahead and just kind of summarize"
+    },
+    {
+      "start": 1865.1999999999998,
+      "end": 1870.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "everything for you, if you were going to give a quick, you know, quick minute update to the leaders"
+    },
+    {
+      "start": 1870.96,
+      "end": 1879.2,
+      "speaker": "SPEAKER_02",
+      "text": "of LF. Certainly. So it has been a pleasure working in this case here. So in order for us to increase"
+    },
+    {
+      "start": 1879.2,
+      "end": 1884.48,
+      "speaker": "SPEAKER_02",
+      "text": "our annual revenue by 25%, we would be able to, we should implement three different things,"
+    },
+    {
+      "start": 1884.48,
+      "end": 1891.1200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "target it, digital marketing, starting our own branded line of gear. And there was another strategy"
+    },
+    {
+      "start": 1891.1200000000001,
+      "end": 1895.28,
+      "speaker": "SPEAKER_02",
+      "text": "that perhaps is coming out out of my mind, but those will be the three main strategies that we would"
+    },
+    {
+      "start": 1895.28,
+      "end": 1900.0,
+      "speaker": "SPEAKER_02",
+      "text": "achieve. And by doing the, by achieving this strategy, we would get to that, that, that mark of"
+    },
+    {
+      "start": 1900.0,
+      "end": 1906.16,
+      "speaker": "SPEAKER_02",
+      "text": "25%. The ways through which we can maximize our mission would be by establishing a festival"
+    },
+    {
+      "start": 1908.0,
+      "end": 1914.24,
+      "speaker": "SPEAKER_02",
+      "text": "with rides, food, and reknown person from the local community. And finally, there are some risks"
+    },
+    {
+      "start": 1914.24,
+      "end": 1918.48,
+      "speaker": "SPEAKER_02",
+      "text": "with these strategies for sure to keep in mind, first of all, making sure that,"
+    },
+    {
+      "start": 1919.2,
+      "end": 1925.52,
+      "speaker": "SPEAKER_02",
+      "text": "that our costs are going to say the same. I understand that especially with the, well, the"
+    },
+    {
+      "start": 1925.52,
+      "end": 1929.92,
+      "speaker": "SPEAKER_02",
+      "text": "world of soccer, many things could go wrong, especially when it comes to weather, when it comes to"
+    },
+    {
+      "start": 1929.92,
+      "end": 1935.6,
+      "speaker": "SPEAKER_02",
+      "text": "things like that, that could increase our costs, perhaps for maintaining our fields or implementing"
+    },
+    {
+      "start": 1935.6,
+      "end": 1940.4,
+      "speaker": "SPEAKER_02",
+      "text": "these new strategies that we have and making sure that our costs remain the same. The second"
+    },
+    {
+      "start": 1940.4,
+      "end": 1946.16,
+      "speaker": "SPEAKER_02",
+      "text": "risk that I could think of would be being very careful when it comes to the rest of the budget"
+    },
+    {
+      "start": 1946.16,
+      "end": 1950.64,
+      "speaker": "SPEAKER_02",
+      "text": "that we have left and ensuring that we do not go past this budget through these other"
+    },
+    {
+      "start": 1950.64,
+      "end": 1956.0800000000002,
+      "speaker": "SPEAKER_02",
+      "text": "different activities that I mentioned. Finally, some next steps to look into. There are some things"
+    },
+    {
+      "start": 1956.0800000000002,
+      "end": 1963.3600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "that I would definitely recommend are client keeping in mind. The first thing would be that,"
+    },
+    {
+      "start": 1963.3600000000001,
+      "end": 1969.28,
+      "speaker": "SPEAKER_02",
+      "text": "since we are implementing new strategies, I would recommend the client also maintaining a careful"
+    },
+    {
+      "start": 1969.28,
+      "end": 1974.5600000000002,
+      "speaker": "SPEAKER_02",
+      "text": "watch on the other strategies that we have already been implementing on the leaks and ensuring that"
+    },
+    {
+      "start": 1974.56,
+      "end": 1979.2,
+      "speaker": "SPEAKER_02",
+      "text": "these new strategies are actually going to bring in new more people. If they are not being"
+    },
+    {
+      "start": 1979.2,
+      "end": 1984.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "as successful, then we could consider perhaps taking another route and being adaptable to the situation."
+    },
+    {
+      "start": 1984.8799999999999,
+      "end": 1992.24,
+      "speaker": "SPEAKER_02",
+      "text": "Another next step that I would definitely keep in mind would be in this case, just going back to"
+    },
+    {
+      "start": 1992.24,
+      "end": 1996.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "our course in terms of our client, just providing, ensuring that all of these strategies are going to"
+    },
+    {
+      "start": 1996.8799999999999,
+      "end": 2003.12,
+      "speaker": "SPEAKER_02",
+      "text": "be aimed towards providing women a safe space because I feel like oftentimes considering the complexity"
+    },
+    {
+      "start": 2003.12,
+      "end": 2008.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "of this strategy, we might go on a tangent but just reminding the client to go back to their"
+    },
+    {
+      "start": 2008.3999999999999,
+      "end": 2013.6799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "courts, which I think they will definitely keep in mind. Fabulous. Well, thank you so much,"
+    },
+    {
+      "start": 2013.6799999999998,
+      "end": 2018.08,
+      "speaker": "SPEAKER_00",
+      "text": "Chucles. I think that LF will find all of this very helpful and I'm so glad that you were on the"
+    },
+    {
+      "start": 2018.08,
+      "end": 2023.12,
+      "speaker": "SPEAKER_00",
+      "text": "team to help us solve this problem. Yeah, I'm very excited for that. Perfect. Awesome. Well,"
+    },
+    {
+      "start": 2023.12,
+      "end": 2031.12,
+      "speaker": "SPEAKER_00",
+      "text": "first off, Nicholas again, this is a super brave to do something like this. Overall, great job,"
+    },
+    {
+      "start": 2031.4399999999998,
+      "end": 2037.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "leaning in and being adaptable to your point. Just a couple of high little points that I'll start with."
+    },
+    {
+      "start": 2037.1999999999998,
+      "end": 2042.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I'm in just as kind of my own personal advice, I would say always keep the question top of mind because"
+    },
+    {
+      "start": 2043.84,
+      "end": 2048.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "there's always exciting things to talk about, especially when you've got two smart people in a"
+    },
+    {
+      "start": 2048.3199999999997,
+      "end": 2054.4,
+      "speaker": "SPEAKER_00",
+      "text": "room doing a case you can go up. Just making sure you keep the question or multi-pronged question in"
+    },
+    {
+      "start": 2054.4,
+      "end": 2059.52,
+      "speaker": "SPEAKER_00",
+      "text": "this case in mind. In terms of things that I look for in candidates always looking for intellectual"
+    },
+    {
+      "start": 2059.52,
+      "end": 2063.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "curiosity, how do you communicate? How's your executive presence, which I thought you were"
+    },
+    {
+      "start": 2063.7599999999998,
+      "end": 2069.84,
+      "speaker": "SPEAKER_00",
+      "text": "phenomenal in that way, by the way, structured thinking, but then also creative thinking. We want"
+    },
+    {
+      "start": 2069.84,
+      "end": 2074.16,
+      "speaker": "SPEAKER_00",
+      "text": "to be organized, but we also want to be fun, not robotic and we want to make sure that we are"
+    },
+    {
+      "start": 2075.12,
+      "end": 2079.68,
+      "speaker": "SPEAKER_00",
+      "text": "thinking about traditional things and non-traditional things, as long as they are legal ethical,"
+    },
+    {
+      "start": 2079.68,
+      "end": 2088.0,
+      "speaker": "SPEAKER_00",
+      "text": "et cetera. Cool. In terms of the actual case, I think you did a great job of recapping and"
+    },
+    {
+      "start": 2088.0,
+      "end": 2092.48,
+      "speaker": "SPEAKER_00",
+      "text": "understanding what the question is. That links back to my number one piece of advice, being super"
+    },
+    {
+      "start": 2092.48,
+      "end": 2099.04,
+      "speaker": "SPEAKER_00",
+      "text": "clear on what you're solving for. Nice job there. I think with regard to the framework, I generally"
+    },
+    {
+      "start": 2099.04,
+      "end": 2103.12,
+      "speaker": "SPEAKER_00",
+      "text": "recommend trying to keep the framework to 96 to two minutes in terms of the time that you're"
+    },
+    {
+      "start": 2103.12,
+      "end": 2108.32,
+      "speaker": "SPEAKER_00",
+      "text": "sketching out. Just as you practice, I recall when I was in business school and practicing I used"
+    },
+    {
+      "start": 2108.32,
+      "end": 2114.48,
+      "speaker": "SPEAKER_00",
+      "text": "a timer. With regard to the framework, I thought it was very complete. Obviously when you're talking"
+    },
+    {
+      "start": 2114.48,
+      "end": 2118.56,
+      "speaker": "SPEAKER_00",
+      "text": "about revenue, you always want to have price and quantity. Then you had the piece around competitor"
+    },
+    {
+      "start": 2118.56,
+      "end": 2124.16,
+      "speaker": "SPEAKER_00",
+      "text": "and company, which is I think also very helpful. One other piece of advice regarding timing,"
+    },
+    {
+      "start": 2125.04,
+      "end": 2131.12,
+      "speaker": "SPEAKER_00",
+      "text": "I think sometimes it can be tempting to spill all of your sort of exhaustive thoughts on the framework."
+    },
+    {
+      "start": 2131.84,
+      "end": 2137.52,
+      "speaker": "SPEAKER_00",
+      "text": "Well, I don't think that's inherently a bad thing. I do think that it can use time that could"
+    },
+    {
+      "start": 2137.52,
+      "end": 2144.0,
+      "speaker": "SPEAKER_00",
+      "text": "otherwise be used to narrow down what are the priorities. Then you can dive deeper into the"
+    },
+    {
+      "start": 2144.0,
+      "end": 2150.8,
+      "speaker": "SPEAKER_00",
+      "text": "priorities. That's just something to be cognizant of. Walking through the exhibits piece."
+    },
+    {
+      "start": 2152.08,
+      "end": 2156.96,
+      "speaker": "SPEAKER_00",
+      "text": "I think there's different thoughts around this and different practitioners. For me, when I see"
+    },
+    {
+      "start": 2156.96,
+      "end": 2162.0,
+      "speaker": "SPEAKER_00",
+      "text": "an exhibit, I tend to just talk through it rather than taking a moment. So I'll say something like,"
+    },
+    {
+      "start": 2162.0,
+      "end": 2166.64,
+      "speaker": "SPEAKER_00",
+      "text": "okay, it looks like we're looking at the revenue for each business line for three different"
+    },
+    {
+      "start": 2166.64,
+      "end": 2171.04,
+      "speaker": "SPEAKER_00",
+      "text": "ears. And what I'm seeing is this. And then always feel free and didn't necessarily apply in this"
+    },
+    {
+      "start": 2171.04,
+      "end": 2175.92,
+      "speaker": "SPEAKER_00",
+      "text": "case. But if you have questions about what anything is, feel free to ask. It's always good to"
+    },
+    {
+      "start": 2175.92,
+      "end": 2182.32,
+      "speaker": "SPEAKER_00",
+      "text": "be crystal clear as to make the most of your time together. I loved how you aligned with me on"
+    },
+    {
+      "start": 2182.32,
+      "end": 2189.2,
+      "speaker": "SPEAKER_00",
+      "text": "the math to say, hey, I think we need to multiply these units by this quantity of dollars."
+    },
+    {
+      "start": 2189.2,
+      "end": 2196.08,
+      "speaker": "SPEAKER_00",
+      "text": "And then together that will get us our revenue and being well aligned on that. I think another"
+    },
+    {
+      "start": 2196.08,
+      "end": 2200.56,
+      "speaker": "SPEAKER_00",
+      "text": "critical piece, and maybe not as applicable in this case, but just in general, is always making sure"
+    },
+    {
+      "start": 2200.56,
+      "end": 2204.16,
+      "speaker": "SPEAKER_00",
+      "text": "you know the unit of your output in this case of his dollars. But it can always be other."
+    },
+    {
+      "start": 2206.56,
+      "end": 2212.48,
+      "speaker": "SPEAKER_00",
+      "text": "Then kind of moving through. Oh, something else that I liked that you said in that part."
+    },
+    {
+      "start": 2212.48,
+      "end": 2216.88,
+      "speaker": "SPEAKER_00",
+      "text": "You know, you said something about ruling out the competitors piece. It's always great to"
+    },
+    {
+      "start": 2216.88,
+      "end": 2221.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "to prioritize ruthless prioritization in casing. I think it's the best practice because,"
+    },
+    {
+      "start": 2221.7599999999998,
+      "end": 2225.6,
+      "speaker": "SPEAKER_00",
+      "text": "again, there's always so many ways you could go. And you've only got about like 25, 30 minutes,"
+    },
+    {
+      "start": 2226.56,
+      "end": 2232.0,
+      "speaker": "SPEAKER_00",
+      "text": "right? Cool. So moving into the piece around the kind of the opportunity assessment."
+    },
+    {
+      "start": 2232.7999999999997,
+      "end": 2237.04,
+      "speaker": "SPEAKER_00",
+      "text": "So I thought you did a nice job of being conversational with me in this part. It was a bit of an"
+    },
+    {
+      "start": 2237.04,
+      "end": 2245.6,
+      "speaker": "SPEAKER_00",
+      "text": "ambiguous exhibit, right? So you did a nice job of flexing. And then you know, I think whenever"
+    },
+    {
+      "start": 2245.6,
+      "end": 2251.6,
+      "speaker": "SPEAKER_00",
+      "text": "you've got an investment situation, clarify the budget is good. And then generally, I think it's"
+    },
+    {
+      "start": 2251.6,
+      "end": 2255.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "good to do a ratio. I think if you would have subtracted, it probably would have been fine too. But"
+    },
+    {
+      "start": 2255.8399999999997,
+      "end": 2260.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think ratios are always kind of a best practice in terms of evaluating the attractiveness"
+    },
+    {
+      "start": 2260.08,
+      "end": 2266.24,
+      "speaker": "SPEAKER_00",
+      "text": "of an investment. And then with regard to the opportunities, I think you did a nice job of"
+    },
+    {
+      "start": 2266.24,
+      "end": 2271.2,
+      "speaker": "SPEAKER_00",
+      "text": "realizing that you can use your whole budget or use deploy the entire budget as we, what I mean,"
+    },
+    {
+      "start": 2271.2,
+      "end": 2275.04,
+      "speaker": "SPEAKER_00",
+      "text": "to say. And then if there's ever anything left over, that's always your time to shine and showing"
+    },
+    {
+      "start": 2275.04,
+      "end": 2279.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "your creativity and resourcefulness, you know, kind of giving it everything you've got for the client."
+    },
+    {
+      "start": 2280.56,
+      "end": 2286.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then you did a nice job of connecting back, hey, this is going to be $22,000. That's above our"
+    },
+    {
+      "start": 2286.0,
+      "end": 2291.92,
+      "speaker": "SPEAKER_00",
+      "text": "$20,000 mark. So that's good. And you know, tying it back to the question and then being able to"
+    },
+    {
+      "start": 2291.92,
+      "end": 2300.96,
+      "speaker": "SPEAKER_00",
+      "text": "tie it back to part B if the question is left. So with regard to the conclusion, you know,"
+    },
+    {
+      "start": 2300.96,
+      "end": 2304.56,
+      "speaker": "SPEAKER_00",
+      "text": "again, I thought you were very polished and you're speaking throughout. So great job there. You"
+    },
+    {
+      "start": 2304.56,
+      "end": 2310.16,
+      "speaker": "SPEAKER_00",
+      "text": "did a nice job talking about risks and next steps. I think one thing that I would encourage you to"
+    },
+    {
+      "start": 2310.16,
+      "end": 2315.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "think about is making the risks in the next step super targeted towards the solution that we proposed."
+    },
+    {
+      "start": 2315.7599999999998,
+      "end": 2320.72,
+      "speaker": "SPEAKER_00",
+      "text": "Right. So, you know, targeted digital marketing, starting the brand gear,"
+    },
+    {
+      "start": 2321.6,
+      "end": 2326.72,
+      "speaker": "SPEAKER_00",
+      "text": "launching the basketball league. You know, for example, targeted digital marketing, that to me feels"
+    },
+    {
+      "start": 2326.72,
+      "end": 2331.44,
+      "speaker": "SPEAKER_00",
+      "text": "like the easiest one to do. You just hire someone to help you with that, right? Versus like"
+    },
+    {
+      "start": 2332.08,
+      "end": 2336.4,
+      "speaker": "SPEAKER_00",
+      "text": "starting a brand of gear, you know, you have to assess the vendors and determine the timelines"
+    },
+    {
+      "start": 2336.4,
+      "end": 2340.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "and, you know, figure out the steer of that and launching a basketball league is kind of an ordeal"
+    },
+    {
+      "start": 2340.7200000000003,
+      "end": 2344.96,
+      "speaker": "SPEAKER_00",
+      "text": "as well, right? So just thinking through those, but overall, great job Nicholas. You did a great"
+    },
+    {
+      "start": 2344.96,
+      "end": 2349.6,
+      "speaker": "SPEAKER_00",
+      "text": "job staying composed. And, you know, again, just glad that we were able to run through this together."
+    },
+    {
+      "start": 2350.4,
+      "end": 2357.84,
+      "speaker": "SPEAKER_02",
+      "text": "Thanks so much, Caroline. I really appreciate it."
+    }
+  ],
+  "grading": {
+    "communication": 14,
+    "framework": 17,
+    "math": 12,
+    "case_difficulty": 10,
+    "final_summary": 15,
+    "overall_thoughts": "The math was the main challenge here, as it required some advanced concepts that were not fully applied."
+  }
+}

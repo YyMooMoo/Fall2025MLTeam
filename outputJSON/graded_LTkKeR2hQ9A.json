@@ -1,0 +1,2154 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "speaker": "SPEAKER_01",
+      "text": "Welcome everyone. Today we're going to cover a market entry case."
+    },
+    {
+      "start": 4.08,
+      "end": 7.44,
+      "speaker": "SPEAKER_01",
+      "text": "Before we start, I should remind you that we provide one on one coaching."
+    },
+    {
+      "start": 7.44,
+      "end": 12.32,
+      "speaker": "SPEAKER_01",
+      "text": "If you'd like to book your free 15 minute intro, please go ahead and book it over our website prep"
+    },
+    {
+      "start": 12.32,
+      "end": 15.6,
+      "speaker": "SPEAKER_01",
+      "text": "matter. Let's get started. Yeah, let's get started. All right."
+    },
+    {
+      "start": 21.04,
+      "end": 26.96,
+      "speaker": "SPEAKER_02",
+      "text": "All right, then. So our case is going to be a market entry case in South America in Brazil."
+    },
+    {
+      "start": 27.04,
+      "end": 34.72,
+      "speaker": "SPEAKER_02",
+      "text": "Our client name is DNDA investments. They are a large conglomerate operating in various sectors"
+    },
+    {
+      "start": 34.72,
+      "end": 41.36,
+      "speaker": "SPEAKER_02",
+      "text": "and they currently want to enter the financial services sector with their new tool called"
+    },
+    {
+      "start": 41.36,
+      "end": 51.120000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "M Prestimo, which is an online slash mobile loan management tool for SMEs, small and medium-sized"
+    },
+    {
+      "start": 51.12,
+      "end": 59.519999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "businesses. And they try to enter the market. They're quite dedicated, but they want to double"
+    },
+    {
+      "start": 59.519999999999996,
+      "end": 66.96,
+      "speaker": "SPEAKER_02",
+      "text": "check the feasibility of this investment. That's why they hired us and that's your all, your task"
+    },
+    {
+      "start": 66.96,
+      "end": 72.8,
+      "speaker": "SPEAKER_02",
+      "text": "to check whether this is a feasible assessment or not. All right. That's not super interesting."
+    },
+    {
+      "start": 72.8,
+      "end": 76.96,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you for the opportunity. Let me just recap the problem, making sure that I understand it"
+    },
+    {
+      "start": 77.83999999999999,
+      "end": 83.52,
+      "speaker": "SPEAKER_01",
+      "text": "correctly. The clients from South America, from Brazil, and their name is DNDA investments,"
+    },
+    {
+      "start": 83.52,
+      "end": 88.96,
+      "speaker": "SPEAKER_01",
+      "text": "and they are a large conglomerate. And this time they want to diversify into the financial services"
+    },
+    {
+      "start": 88.96,
+      "end": 96.08,
+      "speaker": "SPEAKER_01",
+      "text": "space. I would even say perhaps in the FinTech space, they want to launch a new online tool called"
+    },
+    {
+      "start": 96.08,
+      "end": 103.28,
+      "speaker": "SPEAKER_01",
+      "text": "M Prestimo, which is going to be a tool for SMEs for their loan management. And they hired us"
+    },
+    {
+      "start": 103.44,
+      "end": 107.68,
+      "speaker": "SPEAKER_01",
+      "text": "to double check its feasibility. Did I get it right? Yeah, exactly. That's why. How will"
+    },
+    {
+      "start": 107.68,
+      "end": 112.4,
+      "speaker": "SPEAKER_01",
+      "text": "you approach it? So before I come up with my initial structure to the case, I'd like to ask if"
+    },
+    {
+      "start": 112.4,
+      "end": 117.76,
+      "speaker": "SPEAKER_01",
+      "text": "you clarified questions just to deepen my understanding of the case. Sure. So first of all, you"
+    },
+    {
+      "start": 117.76,
+      "end": 122.24000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "mentioned earlier that the client has investments in other fields. Is it safe to assume that it is"
+    },
+    {
+      "start": 122.24000000000001,
+      "end": 126.72,
+      "speaker": "SPEAKER_01",
+      "text": "going to be their first time getting into finance and take space or do they have prior investments?"
+    },
+    {
+      "start": 126.72,
+      "end": 132.88,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that will be the first time in the finance and the tech sectors. Yet they have a huge"
+    },
+    {
+      "start": 132.88,
+      "end": 139.68,
+      "speaker": "SPEAKER_02",
+      "text": "companies in other industries and they have huge data and IT departments in those companies."
+    },
+    {
+      "start": 139.68,
+      "end": 146.88,
+      "speaker": "SPEAKER_02",
+      "text": "So they're quite familiar with the technology. Also with the financial sector, just they haven't"
+    },
+    {
+      "start": 146.88,
+      "end": 151.76,
+      "speaker": "SPEAKER_02",
+      "text": "operated as a player in the financial sector. Got it. Okay. So the capability aspect will be very"
+    },
+    {
+      "start": 151.76,
+      "end": 156.24,
+      "speaker": "SPEAKER_01",
+      "text": "important in today's discussion. So far, I understand that they might be able to wing it, but at the"
+    },
+    {
+      "start": 156.24,
+      "end": 160.0,
+      "speaker": "SPEAKER_01",
+      "text": "same time, they may not be very well suited. So we'll double check on that later. Sure."
+    },
+    {
+      "start": 160.0,
+      "end": 164.4,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of the tool itself, so do you mind just telling me more about what do you mean by mobile"
+    },
+    {
+      "start": 164.4,
+      "end": 170.24,
+      "speaker": "SPEAKER_02",
+      "text": "loan management tool? Yeah, sure. So what I mean by mobile loan management is there are small"
+    },
+    {
+      "start": 170.24,
+      "end": 178.24,
+      "speaker": "SPEAKER_02",
+      "text": "companies that don't really know their financing needs and don't really know how to apply for loans"
+    },
+    {
+      "start": 178.88,
+      "end": 185.12,
+      "speaker": "SPEAKER_02",
+      "text": "and how much to apply through which bank to apply. So this tool will first assess the"
+    },
+    {
+      "start": 185.12,
+      "end": 191.76,
+      "speaker": "SPEAKER_02",
+      "text": "financing needs for all those companies and then we'll create a financing plan and then they will"
+    },
+    {
+      "start": 191.76,
+      "end": 198.32,
+      "speaker": "SPEAKER_02",
+      "text": "process all the loan applications on behalf of the firms. So through that platform, the companies"
+    },
+    {
+      "start": 198.32,
+      "end": 206.32,
+      "speaker": "SPEAKER_02",
+      "text": "will be able to apply multiple banks for loans. And if they are approved, in our case, if they're"
+    },
+    {
+      "start": 206.32,
+      "end": 211.12,
+      "speaker": "SPEAKER_02",
+      "text": "accepted to the program, all of the loans will be approved. You can assume that if it's approved,"
+    },
+    {
+      "start": 211.12,
+      "end": 216.16,
+      "speaker": "SPEAKER_02",
+      "text": "they will take the loan, they will get the money. And that's how it will operate basically."
+    },
+    {
+      "start": 216.16,
+      "end": 221.36,
+      "speaker": "SPEAKER_01",
+      "text": "All right. So just to summarize that the app is going to have two different functionalities."
+    },
+    {
+      "start": 221.36,
+      "end": 225.92000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "The first is going to be more around perhaps let's call it the education functional to where"
+    },
+    {
+      "start": 225.92000000000002,
+      "end": 231.52,
+      "speaker": "SPEAKER_01",
+      "text": "based on the financing needs, the tool is going to educate the SMEs and maybe they'll tell them"
+    },
+    {
+      "start": 231.52,
+      "end": 236.96,
+      "speaker": "SPEAKER_01",
+      "text": "what kind of loan to apply for how long interest rates available and so on. And the second part of"
+    },
+    {
+      "start": 236.96,
+      "end": 241.44,
+      "speaker": "SPEAKER_01",
+      "text": "the value proposition is regarding the service itself, which is actually the loan application and"
+    },
+    {
+      "start": 241.44,
+      "end": 247.12,
+      "speaker": "SPEAKER_01",
+      "text": "loan approval. Just a double check on that. Does the clients provide the loans or would they"
+    },
+    {
+      "start": 247.12,
+      "end": 252.56,
+      "speaker": "SPEAKER_01",
+      "text": "kind of service an intermediary between say the loan landers which could be the banks as well as"
+    },
+    {
+      "start": 252.56,
+      "end": 259.28000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "the loan takers which are the SMEs? Yeah, they will be the bridge between the banks and the companies."
+    },
+    {
+      "start": 259.28000000000003,
+      "end": 263.92,
+      "speaker": "SPEAKER_02",
+      "text": "So they want to provide the loans directly themselves, but they will just link the businesses with"
+    },
+    {
+      "start": 263.92,
+      "end": 270.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "the banks. Okay, that's super clear. Yeah. My last question is going to be regarding the financial"
+    },
+    {
+      "start": 270.08000000000004,
+      "end": 275.36,
+      "speaker": "SPEAKER_01",
+      "text": "or strategic API as the client may have. So do we know any objectives that we need to check today?"
+    },
+    {
+      "start": 275.36,
+      "end": 282.96000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, sure. Their financial objective is to reach a cumulative profit of 80 million rails."
+    },
+    {
+      "start": 284.0,
+      "end": 288.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, perfect. Just a double check. Is that a bit of operating profits or should I just consider"
+    },
+    {
+      "start": 288.96,
+      "end": 295.59999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "this maybe as cash? It's cash flow. Yeah. Okay. So total profits including everything,"
+    },
+    {
+      "start": 296.32,
+      "end": 300.96,
+      "speaker": "SPEAKER_01",
+      "text": "not a bit that only got it. Okay. For the next four years. Super clear. If you don't mind,"
+    },
+    {
+      "start": 300.96,
+      "end": 304.79999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "I'll like to take a few moments then and then I'll come up with my framework. Sure, please."
+    },
+    {
+      "start": 304.79999999999995,
+      "end": 305.84,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, thank you so much."
+    },
+    {
+      "start": 306.71999999999997,
+      "end": 323.2,
+      "speaker": "SPEAKER_01",
+      "text": "All right, Matt, start. Yeah, sure. Please. All right. In today's analysis, I'd like to look into"
+    },
+    {
+      "start": 323.2,
+      "end": 329.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "three main aspects to answer the client's question. First would be to look into the overall attractors"
+    },
+    {
+      "start": 329.03999999999996,
+      "end": 334.64,
+      "speaker": "SPEAKER_01",
+      "text": "of the market, specifically the mobile long application market. And second, I'd like to look into"
+    },
+    {
+      "start": 334.64,
+      "end": 339.68,
+      "speaker": "SPEAKER_01",
+      "text": "the financial assessment just to check the initial objective of the client and third would be to"
+    },
+    {
+      "start": 339.68,
+      "end": 344.64,
+      "speaker": "SPEAKER_01",
+      "text": "touch on risks. So first of all, in order for us to assess if it's a good market to enter, I'd like"
+    },
+    {
+      "start": 344.64,
+      "end": 348.71999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "to actually look into first the client, more the internal drivers. We talked about the capability"
+    },
+    {
+      "start": 348.71999999999997,
+      "end": 353.91999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "aspect, but I'd like to further probe into this just to make sure that we can go ahead and launch"
+    },
+    {
+      "start": 353.91999999999996,
+      "end": 359.28,
+      "speaker": "SPEAKER_01",
+      "text": "this product from an operational product view. Second, in terms of the product itself, the service"
+    },
+    {
+      "start": 359.28,
+      "end": 363.68,
+      "speaker": "SPEAKER_01",
+      "text": "that we'll be providing, I now have a good understanding of how it's going to work. But I'd like to"
+    },
+    {
+      "start": 363.68,
+      "end": 368.88,
+      "speaker": "SPEAKER_01",
+      "text": "also answer how we're going to make money because then it's going to inform the other stages in my"
+    },
+    {
+      "start": 368.88,
+      "end": 375.76,
+      "speaker": "SPEAKER_01",
+      "text": "analysis. Next is the customers. So we'll be interesting to understand what kind of SMEs would"
+    },
+    {
+      "start": 375.76,
+      "end": 380.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "be expected to demand this new product. It would be targets. All of the SMEs are in the restrictions"
+    },
+    {
+      "start": 380.96000000000004,
+      "end": 386.8,
+      "speaker": "SPEAKER_01",
+      "text": "perhaps regional and so on. And then competition. So I would imagine we might be competing against"
+    },
+    {
+      "start": 386.8,
+      "end": 392.24,
+      "speaker": "SPEAKER_01",
+      "text": "other FinTech companies as well as conventional banks. So need to understand who we'll be competing"
+    },
+    {
+      "start": 392.32,
+      "end": 397.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "with. And again, it will later on inform my financial assessment. I'll get into that again in a second."
+    },
+    {
+      "start": 397.84000000000003,
+      "end": 402.8,
+      "speaker": "SPEAKER_01",
+      "text": "And lastly, it would be the size as well as the historical and project to growth of the market"
+    },
+    {
+      "start": 402.8,
+      "end": 407.92,
+      "speaker": "SPEAKER_01",
+      "text": "so that we understand the overall size of the pie. So looking into those elements will help us"
+    },
+    {
+      "start": 407.92,
+      "end": 413.12,
+      "speaker": "SPEAKER_01",
+      "text": "understand if it's a good business to be in the first place. But then we need to transition into"
+    },
+    {
+      "start": 413.12,
+      "end": 418.48,
+      "speaker": "SPEAKER_01",
+      "text": "the financial assessment. If I remember right, you mentioned earlier that the client's goal is to"
+    },
+    {
+      "start": 418.48,
+      "end": 424.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "generate 8 million rails of total profits in the next four years. So to test this for each year,"
+    },
+    {
+      "start": 424.08000000000004,
+      "end": 429.04,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to understand first the revenue projections, which could depend on how big the market is"
+    },
+    {
+      "start": 429.04,
+      "end": 434.8,
+      "speaker": "SPEAKER_01",
+      "text": "and our expected projection in terms of the market share. Or we can look into simply our client's"
+    },
+    {
+      "start": 434.8,
+      "end": 439.04,
+      "speaker": "SPEAKER_01",
+      "text": "capacity if there is a capacity constraint. We can also look into from a supply side, but I think"
+    },
+    {
+      "start": 439.04,
+      "end": 444.0,
+      "speaker": "SPEAKER_01",
+      "text": "we'll go more from the demand side later in the case. And in terms of the cost, we mentioned that"
+    },
+    {
+      "start": 444.0,
+      "end": 448.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "there could be some recurring costs. The likes of variable and fixed costs as well as maybe the"
+    },
+    {
+      "start": 448.08,
+      "end": 452.71999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "initial investments because we're looking into the cash not the EBITDA level. So it would be great"
+    },
+    {
+      "start": 452.71999999999997,
+      "end": 458.47999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "to unsend both revenue and cost projections for me to understand how much profits the client can get."
+    },
+    {
+      "start": 459.2,
+      "end": 463.84,
+      "speaker": "SPEAKER_01",
+      "text": "And after looking into the financial analysis, before we conclude the case, I'd like to"
+    },
+    {
+      "start": 463.84,
+      "end": 468.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "look into the risks as well. For now, because we haven't analyzed anything yet, I don't have"
+    },
+    {
+      "start": 468.15999999999997,
+      "end": 473.59999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "a lot of ideas here. The only thing that I wrote in here is the regulatory aspect, because financial"
+    },
+    {
+      "start": 473.68,
+      "end": 480.88,
+      "speaker": "SPEAKER_01",
+      "text": "services is a sector that would require heavy regulations and we need to adhere to that. Maybe we need"
+    },
+    {
+      "start": 480.88,
+      "end": 485.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "to grant a license and so on. So we can look into that later in the case. How does my initial"
+    },
+    {
+      "start": 485.28000000000003,
+      "end": 491.12,
+      "speaker": "SPEAKER_02",
+      "text": "approach sound like? Yes, super comprehensive. I like that. Where specifically would you like to"
+    },
+    {
+      "start": 491.12,
+      "end": 497.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "start then? Let's take a look at how the candidate has performed so far. The candidate has good"
+    },
+    {
+      "start": 497.28,
+      "end": 503.2,
+      "speaker": "SPEAKER_00",
+      "text": "fundamental clarifying questions, such as what the tool does, the client's capabilities, and their"
+    },
+    {
+      "start": 503.2,
+      "end": 509.11999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "objectives. These questions allowed him to develop a framework that directly address the problem"
+    },
+    {
+      "start": 509.11999999999995,
+      "end": 515.52,
+      "speaker": "SPEAKER_00",
+      "text": "at hand. In terms of communication, the candidate managed to establish a two-way conversation with"
+    },
+    {
+      "start": 515.52,
+      "end": 522.0,
+      "speaker": "SPEAKER_00",
+      "text": "the interviewer by recapping the prompt and asking clarifying questions at the beginning. He also"
+    },
+    {
+      "start": 522.0,
+      "end": 528.16,
+      "speaker": "SPEAKER_00",
+      "text": "followed a top-down communication approach by explaining his framework, starting with the headlines,"
+    },
+    {
+      "start": 528.16,
+      "end": 533.92,
+      "speaker": "SPEAKER_00",
+      "text": "and then elaborating on the bullet points under each column. While the candidate's framework was"
+    },
+    {
+      "start": 533.92,
+      "end": 540.16,
+      "speaker": "SPEAKER_00",
+      "text": "comprehensive, he could have provided more examples to tailor it better. For instance, he mentioned"
+    },
+    {
+      "start": 540.16,
+      "end": 545.12,
+      "speaker": "SPEAKER_00",
+      "text": "that he would look into the revenue model, but could have suggested how the company might generate"
+    },
+    {
+      "start": 545.12,
+      "end": 551.2,
+      "speaker": "SPEAKER_00",
+      "text": "income. In the financial assessment, he could have elaborated on the types of costs the client might"
+    },
+    {
+      "start": 551.2,
+      "end": 557.6,
+      "speaker": "SPEAKER_00",
+      "text": "incur. Additionally, he identified only one risk area. Although it's early in the case,"
+    },
+    {
+      "start": 557.6,
+      "end": 561.84,
+      "speaker": "SPEAKER_00",
+      "text": "sharing a few more risk areas to analyze would have strengthened his approach."
+    },
+    {
+      "start": 563.12,
+      "end": 569.44,
+      "speaker": "SPEAKER_01",
+      "text": "Let's start chronologically. We said that the client needs to have the capability in order for"
+    },
+    {
+      "start": 569.44,
+      "end": 574.32,
+      "speaker": "SPEAKER_01",
+      "text": "them to launch this product. You said earlier that they have great access to data and all,"
+    },
+    {
+      "start": 574.32,
+      "end": 579.36,
+      "speaker": "SPEAKER_01",
+      "text": "but do you know if you need to onboard new directors, maybe from the finance sector, or in terms of"
+    },
+    {
+      "start": 579.6,
+      "end": 583.04,
+      "speaker": "SPEAKER_01",
+      "text": "the app itself, where are we in the stage of the development of it?"
+    },
+    {
+      "start": 583.04,
+      "end": 587.28,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, so I will not be really concerned about the capabilities. Even though we don't"
+    },
+    {
+      "start": 588.0,
+      "end": 592.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "directly have a business in the financial services or in the tech sectors, the tech capabilities,"
+    },
+    {
+      "start": 592.8000000000001,
+      "end": 598.96,
+      "speaker": "SPEAKER_02",
+      "text": "human capabilities, and financial capabilities are quite advanced. We need to, of course,"
+    },
+    {
+      "start": 598.96,
+      "end": 605.44,
+      "speaker": "SPEAKER_02",
+      "text": "reshape the organizational bit, but we can leverage the existing infrastructure and people resources."
+    },
+    {
+      "start": 605.44,
+      "end": 611.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So I will not be super concerned about that. Okay, this is great to me. Yeah. Moving on,"
+    },
+    {
+      "start": 611.2800000000001,
+      "end": 617.36,
+      "speaker": "SPEAKER_01",
+      "text": "let's talk about a product itself. So you said earlier that it is going to be a long application tool"
+    },
+    {
+      "start": 617.36,
+      "end": 621.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "or a long management tool. Yeah. Is it going to be an app? Is it going to be a website?"
+    },
+    {
+      "start": 621.9200000000001,
+      "end": 629.6800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "How is it going to be like both website and app so they can access the mobile platform or the"
+    },
+    {
+      "start": 629.68,
+      "end": 636.16,
+      "speaker": "SPEAKER_01",
+      "text": "web-based online platform? Both. Brilliant. And in terms of how we will make money. So I understand"
+    },
+    {
+      "start": 636.16,
+      "end": 641.68,
+      "speaker": "SPEAKER_01",
+      "text": "just to recap again, it's going to be a tool that will educate SMEs. So I would imagine that they"
+    },
+    {
+      "start": 641.68,
+      "end": 647.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "would need to sign up to the system. Maybe we might be charging them certain course fees and so on."
+    },
+    {
+      "start": 647.1999999999999,
+      "end": 654.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then we said that we will also provide loans. So I wonder if we'll make money from the"
+    },
+    {
+      "start": 654.32,
+      "end": 658.96,
+      "speaker": "SPEAKER_01",
+      "text": "loan applications or the strategies that people device for them. Do you mind just enlightening me"
+    },
+    {
+      "start": 658.96,
+      "end": 665.44,
+      "speaker": "SPEAKER_02",
+      "text": "on those ask us? Yeah, sure. So two revenue streams. First is a commission fee that we will have"
+    },
+    {
+      "start": 665.92,
+      "end": 672.96,
+      "speaker": "SPEAKER_02",
+      "text": "one percent commission or each loan that's approved. But I mean by that is if there is a"
+    },
+    {
+      "start": 672.96,
+      "end": 677.76,
+      "speaker": "SPEAKER_02",
+      "text": "hundred dollars loan approved, then we will take one dollar from that deal and we will take half of"
+    },
+    {
+      "start": 677.76,
+      "end": 682.24,
+      "speaker": "SPEAKER_02",
+      "text": "it from the bank and half of it from the business. But we don't really care about that. On top of"
+    },
+    {
+      "start": 682.48,
+      "end": 691.04,
+      "speaker": "SPEAKER_02",
+      "text": "this commission, there will be a fixed subscription fee and that fee annual fee of 1000 rails for each"
+    },
+    {
+      "start": 691.04,
+      "end": 696.4,
+      "speaker": "SPEAKER_02",
+      "text": "business using the service. And would that be on an annual basis or a one-off annual annual?"
+    },
+    {
+      "start": 697.36,
+      "end": 702.08,
+      "speaker": "SPEAKER_01",
+      "text": "And I remember you said something earlier, but I'd like to refresh my memory on this. So say that"
+    },
+    {
+      "start": 702.08,
+      "end": 709.36,
+      "speaker": "SPEAKER_01",
+      "text": "NSME goes ahead and subscribes to our service. Would they for sure get along or would that be"
+    },
+    {
+      "start": 709.36,
+      "end": 713.6,
+      "speaker": "SPEAKER_01",
+      "text": "a conversion that I need to think about? Because then it will impact my financial assessment later on."
+    },
+    {
+      "start": 713.6,
+      "end": 718.96,
+      "speaker": "SPEAKER_02",
+      "text": "All of the applicants through our application will be granted. Okay, so this means that"
+    },
+    {
+      "start": 719.6,
+      "end": 724.96,
+      "speaker": "SPEAKER_01",
+      "text": "I need to transition the need to how many SMEs we can onboard. So going back to my framework as"
+    },
+    {
+      "start": 724.96,
+      "end": 730.88,
+      "speaker": "SPEAKER_01",
+      "text": "well, that was the third bullet point I had in my first column. So I would like to talk about it"
+    },
+    {
+      "start": 730.88,
+      "end": 735.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "if you don't mind. What kind of SMEs would be interesting? Is it realistic for us to assume that"
+    },
+    {
+      "start": 735.92,
+      "end": 742.16,
+      "speaker": "SPEAKER_01",
+      "text": "from a geographical point of view because it was a huge country? Can we reach every single corner"
+    },
+    {
+      "start": 742.16,
+      "end": 746.4799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "of the country given that it's an online platform? Or do we have any other constraints that we need to"
+    },
+    {
+      "start": 746.4799999999999,
+      "end": 755.36,
+      "speaker": "SPEAKER_02",
+      "text": "think of? Yeah, so I have actually some information that I can share with you to help you calculate"
+    },
+    {
+      "start": 755.92,
+      "end": 763.1999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "the total number of SMEs that will be interested in your service. And we think that there are certain"
+    },
+    {
+      "start": 763.2,
+      "end": 771.6,
+      "speaker": "SPEAKER_02",
+      "text": "segments of SMEs. And I can show you an exhibit now. And in this exhibit, you can find the"
+    },
+    {
+      "start": 772.48,
+      "end": 778.72,
+      "speaker": "SPEAKER_02",
+      "text": "breakdown of all the SMEs. So please go ahead and interpret the exhibit for me."
+    },
+    {
+      "start": 779.2800000000001,
+      "end": 786.0,
+      "speaker": "SPEAKER_01",
+      "text": "All right, so the title of it is Average Long Outstanding by SME Type this year. So I'm just"
+    },
+    {
+      "start": 786.0,
+      "end": 791.6,
+      "speaker": "SPEAKER_01",
+      "text": "trying to understand first of all what I'm looking at. We have different employer groups based on"
+    },
+    {
+      "start": 791.6,
+      "end": 797.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "their size. So the higher we go, the larger the employers are. I see here the Average Outstanding"
+    },
+    {
+      "start": 797.6800000000001,
+      "end": 803.2,
+      "speaker": "SPEAKER_01",
+      "text": "loans quite interested in why I'm seeing this. So maybe if you can just give me a second, I'd like to"
+    },
+    {
+      "start": 803.2,
+      "end": 807.2,
+      "speaker": "SPEAKER_01",
+      "text": "take a look at the table and then I can show my analysis. Please. Okay, thank you so much."
+    },
+    {
+      "start": 811.52,
+      "end": 816.08,
+      "speaker": "SPEAKER_01",
+      "text": "Just going back to what we've just discussed before seeing this exhibit. We talked about what kind"
+    },
+    {
+      "start": 816.08,
+      "end": 821.6,
+      "speaker": "SPEAKER_01",
+      "text": "of SMEs might be interested in our services. And now that I'm looking at the stable, there are"
+    },
+    {
+      "start": 821.6,
+      "end": 827.12,
+      "speaker": "SPEAKER_01",
+      "text": "four different employer groups with different levels of Average Outstanding loans. So this might"
+    },
+    {
+      "start": 827.12,
+      "end": 833.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "also indicate their need for loans. And we also see of course different numbers of SMEs in there."
+    },
+    {
+      "start": 833.9200000000001,
+      "end": 840.96,
+      "speaker": "SPEAKER_01",
+      "text": "But I'm just thinking perhaps the employer groups that are regularly taking loans might be in our"
+    },
+    {
+      "start": 840.96,
+      "end": 846.0,
+      "speaker": "SPEAKER_02",
+      "text": "interest group. Is that safe to assume that? You can see this annual Average Outstanding loans in"
+    },
+    {
+      "start": 846.0,
+      "end": 854.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "terms of the thousand rails. We will be focusing on the SMEs only with more than a hundred thousand"
+    },
+    {
+      "start": 854.8000000000001,
+      "end": 862.0,
+      "speaker": "SPEAKER_01",
+      "text": "rails loans outstanding. Okay, so this would mean that in the first employer group since every year"
+    },
+    {
+      "start": 862.0,
+      "end": 868.08,
+      "speaker": "SPEAKER_01",
+      "text": "they're taking 500,000 rails of loans is a safety assume that we can target 100% of that group,"
+    },
+    {
+      "start": 868.08,
+      "end": 872.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "even though there could be a few employers of course, which might take lower than 100,000 but"
+    },
+    {
+      "start": 872.8000000000001,
+      "end": 880.32,
+      "speaker": "SPEAKER_01",
+      "text": "can I take all of that? Yeah, you can. Okay, so that would be 200,000 SMEs. And then we have"
+    },
+    {
+      "start": 880.32,
+      "end": 887.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "the other groups. So for the second group, I see that on average, these employers are taking 100,000"
+    },
+    {
+      "start": 887.0400000000001,
+      "end": 894.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "and just to clarify, did you say that employers 100,000 and above or more than 100,000 would be in our"
+    },
+    {
+      "start": 894.16,
+      "end": 899.28,
+      "speaker": "SPEAKER_02",
+      "text": "target group? Yeah, more than 100,000 you can just assume that half of that group will be interested."
+    },
+    {
+      "start": 899.28,
+      "end": 903.36,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so it's kind of like an equal distribution. Yeah, totally. Okay, what about the third"
+    },
+    {
+      "start": 903.36,
+      "end": 907.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "employer group? There could also be a few, maybe that has many as a second group, but would you"
+    },
+    {
+      "start": 907.4399999999999,
+      "end": 912.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "like me to take any of the third or the fourth employer group? Yeah, no, let's say zero for the third"
+    },
+    {
+      "start": 912.0799999999999,
+      "end": 918.48,
+      "speaker": "SPEAKER_01",
+      "text": "and four. Okay, so that means 200,000 coming from the first employer group and half of 600,000,"
+    },
+    {
+      "start": 918.5600000000001,
+      "end": 926.96,
+      "speaker": "SPEAKER_01",
+      "text": "so 300,000 and in total, 500,000 SMEs would be in our addressable market. Now the question is,"
+    },
+    {
+      "start": 926.96,
+      "end": 933.2,
+      "speaker": "SPEAKER_01",
+      "text": "of course, can we really target all of those 500,000? I don't think so. It looks like a huge number."
+    },
+    {
+      "start": 933.2,
+      "end": 936.96,
+      "speaker": "SPEAKER_01",
+      "text": "I'm just quite curious to know what might be some other drivers behind how much market share we"
+    },
+    {
+      "start": 936.96,
+      "end": 942.24,
+      "speaker": "SPEAKER_01",
+      "text": "could capture. Yeah, what might be, do you think? So let's just go over what we discussed so far."
+    },
+    {
+      "start": 942.24,
+      "end": 949.36,
+      "speaker": "SPEAKER_01",
+      "text": "We discussed their size and also that indicates their need for loans. So here we're looking at the"
+    },
+    {
+      "start": 949.36,
+      "end": 955.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "whole country. So I would imagine maybe decline may want to start with a city or two. So maybe we"
+    },
+    {
+      "start": 955.6800000000001,
+      "end": 961.2,
+      "speaker": "SPEAKER_01",
+      "text": "just only need to look into all geographies. So the geographical breakdown might be interesting"
+    },
+    {
+      "start": 961.2,
+      "end": 968.16,
+      "speaker": "SPEAKER_01",
+      "text": "to look into. Besides that, we'll be also good to understand their capabilities because it is"
+    },
+    {
+      "start": 968.16,
+      "end": 973.92,
+      "speaker": "SPEAKER_01",
+      "text": "you say there's a website or a mobile loan. I would imagine not all employers because here we"
+    },
+    {
+      "start": 973.92,
+      "end": 979.76,
+      "speaker": "SPEAKER_01",
+      "text": "are also looking at employer groups of only 20 people and we're also looking at Brazil. Maybe there"
+    },
+    {
+      "start": 979.76,
+      "end": 986.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "are some SMEs who may not be tech savvy and so on that may not be able to use our services effectively."
+    },
+    {
+      "start": 986.0799999999999,
+      "end": 990.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So that's another filter I could think about. Would you like me to think more? Yeah, no, it's fine."
+    },
+    {
+      "start": 990.9599999999999,
+      "end": 997.36,
+      "speaker": "SPEAKER_02",
+      "text": "So the last point geographically, you can assume that we can reach all of them. But regarding the"
+    },
+    {
+      "start": 997.36,
+      "end": 1002.64,
+      "speaker": "SPEAKER_02",
+      "text": "digital integration, that's a great point. So I will show you another exhibit now. And in that"
+    },
+    {
+      "start": 1002.64,
+      "end": 1010.24,
+      "speaker": "SPEAKER_02",
+      "text": "exhibit, you can see the distribution of the SMEs by their level of digital integration. And you"
+    },
+    {
+      "start": 1010.24,
+      "end": 1019.28,
+      "speaker": "SPEAKER_02",
+      "text": "can assume that we will only target fully digital ones. Okay. So in this exhibit, what I see is"
+    },
+    {
+      "start": 1019.28,
+      "end": 1024.48,
+      "speaker": "SPEAKER_01",
+      "text": "four different levels of digital integration. And you mentioned that we can only target fully"
+    },
+    {
+      "start": 1024.88,
+      "end": 1031.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "digital ones. Okay. So the numbers are pretty straightforward. So that's 20%. And would that ratio"
+    },
+    {
+      "start": 1031.1200000000001,
+      "end": 1037.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "apply across all four employer groups? Because if a company is larger, they might be more likely to"
+    },
+    {
+      "start": 1037.1200000000001,
+      "end": 1042.4,
+      "speaker": "SPEAKER_02",
+      "text": "be more digital savvy. Yeah, that's a great point. But let's again assume that it's even"
+    },
+    {
+      "start": 1042.4,
+      "end": 1048.32,
+      "speaker": "SPEAKER_01",
+      "text": "needed to be there. Perfect. So this means we just need to take 20% of 500,000, which is an"
+    },
+    {
+      "start": 1048.32,
+      "end": 1055.76,
+      "speaker": "SPEAKER_01",
+      "text": "easy math of 100,000 SMEs. Sure. That would be in our target group. Right. Okay. Fantastic."
+    },
+    {
+      "start": 1055.76,
+      "end": 1060.56,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm not sure if we can target all of them, but maybe we can get into that later in the financial"
+    },
+    {
+      "start": 1060.56,
+      "end": 1065.52,
+      "speaker": "SPEAKER_01",
+      "text": "assessments. As per our initial framework earlier, the next thing I'd like to look into is the"
+    },
+    {
+      "start": 1065.52,
+      "end": 1071.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "competition. So do you know if there is any other app or website out there that is providing"
+    },
+    {
+      "start": 1071.9199999999998,
+      "end": 1076.72,
+      "speaker": "SPEAKER_02",
+      "text": "something similar to our client? Yeah, there's no really. This service is really unmatched in the"
+    },
+    {
+      "start": 1076.72,
+      "end": 1082.72,
+      "speaker": "SPEAKER_02",
+      "text": "country and we don't expect any competitor coming in. Okay. In time soon. Okay. Because I also know"
+    },
+    {
+      "start": 1082.72,
+      "end": 1087.52,
+      "speaker": "SPEAKER_01",
+      "text": "financial services banking is a very local industry. So maybe that's also another reason. Because I"
+    },
+    {
+      "start": 1087.52,
+      "end": 1091.68,
+      "speaker": "SPEAKER_01",
+      "text": "know from Europe and so on, there are a few apps that do that. Yeah. But glad to hear that there's"
+    },
+    {
+      "start": 1091.68,
+      "end": 1096.4,
+      "speaker": "SPEAKER_01",
+      "text": "no competition right now in Brazil. Exactly. Do we expect time to enter in the market any time soon?"
+    },
+    {
+      "start": 1096.4,
+      "end": 1102.56,
+      "speaker": "SPEAKER_01",
+      "text": "Not in this five year timeframe. Okay. Perfect. So it is also within our timeline of four years or so."
+    },
+    {
+      "start": 1102.56,
+      "end": 1107.6,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. That's fantastic to hear. So lastly, I wrote your market sizing growth. But in this case,"
+    },
+    {
+      "start": 1107.6,
+      "end": 1112.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "since we already have the SME numbers, I can interpret this as a market size. So I don't think"
+    },
+    {
+      "start": 1112.6399999999999,
+      "end": 1117.84,
+      "speaker": "SPEAKER_01",
+      "text": "there's any need for quantifying the total dollar value of the size of the pie. Is that okay if I"
+    },
+    {
+      "start": 1117.84,
+      "end": 1123.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "now transition into financial assessment? Yeah, sure. Sure. Okay. Perfect. Just to double check once more,"
+    },
+    {
+      "start": 1123.9199999999998,
+      "end": 1131.52,
+      "speaker": "SPEAKER_01",
+      "text": "the client's initial objective we said was 8 million rails of profits in the next five years."
+    },
+    {
+      "start": 1131.52,
+      "end": 1138.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, yes. Four years. Okay. All right. Thank you. So now what I need to do is I need to first understand"
+    },
+    {
+      "start": 1138.6399999999999,
+      "end": 1143.52,
+      "speaker": "SPEAKER_01",
+      "text": "how much revenues we could generate. So for that, we said earlier that there are two different"
+    },
+    {
+      "start": 1143.52,
+      "end": 1149.6,
+      "speaker": "SPEAKER_01",
+      "text": "revenue streams. So here we're looking at the subscription fee. Let's call it that way. And then"
+    },
+    {
+      "start": 1149.6,
+      "end": 1157.52,
+      "speaker": "SPEAKER_01",
+      "text": "the commission fee. And for me to quantify these, I need to modify how many SMEs that would"
+    },
+    {
+      "start": 1157.52,
+      "end": 1163.84,
+      "speaker": "SPEAKER_01",
+      "text": "enroll into our program times the annual spend or the subscription fee per SME group. I believe"
+    },
+    {
+      "start": 1163.84,
+      "end": 1170.4,
+      "speaker": "SPEAKER_01",
+      "text": "you mentioned the number before. It was 1000 rails. Was the subscription fee. Yes. Okay. So then what I"
+    },
+    {
+      "start": 1170.4,
+      "end": 1176.16,
+      "speaker": "SPEAKER_01",
+      "text": "need to do next is discuss with you if you can actually capture all of the 100,000 SMEs. Do we"
+    },
+    {
+      "start": 1176.16,
+      "end": 1182.72,
+      "speaker": "SPEAKER_02",
+      "text": "have any projections related to this? Yeah. So we have projections. We expect to reach 5%"
+    },
+    {
+      "start": 1183.28,
+      "end": 1189.84,
+      "speaker": "SPEAKER_02",
+      "text": "of that total market due to operational reasons that are constrained. And then in the year two,"
+    },
+    {
+      "start": 1189.84,
+      "end": 1198.56,
+      "speaker": "SPEAKER_02",
+      "text": "we expect it to grow to 10%. Year three to 15% and year four to 20%. So it will gradually"
+    },
+    {
+      "start": 1198.56,
+      "end": 1203.04,
+      "speaker": "SPEAKER_01",
+      "text": "increase to 20%. And can I just take those numbers as granted or do I need to challenge those"
+    },
+    {
+      "start": 1203.04,
+      "end": 1209.3600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "figures? No, no, let's let's assume they're granted. They will happen. Okay. Perfect. So this would"
+    },
+    {
+      "start": 1209.36,
+      "end": 1215.12,
+      "speaker": "SPEAKER_01",
+      "text": "mean, for example, subscription fee. Say that this year we target 5% of the total market. And that"
+    },
+    {
+      "start": 1215.12,
+      "end": 1222.56,
+      "speaker": "SPEAKER_01",
+      "text": "is 5,000 of course. So in year two, since this is, we say this is an annual fee. So is that fair"
+    },
+    {
+      "start": 1222.56,
+      "end": 1227.04,
+      "speaker": "SPEAKER_01",
+      "text": "to assume that we'll be able to generate subscription fee again from the 5,000. Yeah. Yeah."
+    },
+    {
+      "start": 1227.04,
+      "end": 1233.1999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "You assume no chance rates and they will all renew it. Okay. And then you need to have just"
+    },
+    {
+      "start": 1233.2,
+      "end": 1240.32,
+      "speaker": "SPEAKER_02",
+      "text": "incremental 5% which is 5,000 on top of the previous year. Okay. Fantastic. Since we're looking at"
+    },
+    {
+      "start": 1240.32,
+      "end": 1244.88,
+      "speaker": "SPEAKER_01",
+      "text": "the cumulative figures, unless there is any change in our clients expected cost structure, I'm going"
+    },
+    {
+      "start": 1244.88,
+      "end": 1250.4,
+      "speaker": "SPEAKER_01",
+      "text": "to accumulate the total number of customers for the next four years. May I do that? Yeah. Okay."
+    },
+    {
+      "start": 1250.4,
+      "end": 1257.44,
+      "speaker": "SPEAKER_01",
+      "text": "So in year year one, we said that we can get 5,000 customers year to 10,000, year three 15,000"
+    },
+    {
+      "start": 1257.52,
+      "end": 1265.52,
+      "speaker": "SPEAKER_01",
+      "text": "and year four 20,000. So in total, we're looking at 50,000 customers in total. Of course,"
+    },
+    {
+      "start": 1265.52,
+      "end": 1271.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "there'll be overlaps, but the idea is the same. So 50,000 customers that will purchase the subscription"
+    },
+    {
+      "start": 1271.6000000000001,
+      "end": 1279.44,
+      "speaker": "SPEAKER_01",
+      "text": "fee. And subscription fee we said was 1,000 rails. So if I can just multiply 50,000 by 1,000,"
+    },
+    {
+      "start": 1279.44,
+      "end": 1285.68,
+      "speaker": "SPEAKER_01",
+      "text": "this means we can get a revenue of 50 million rails just from the subscription fee, which is great."
+    },
+    {
+      "start": 1286.64,
+      "end": 1294.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Now, let's move on to the commission fee. I feel this might be a bit complicated. So I remember"
+    },
+    {
+      "start": 1294.0800000000002,
+      "end": 1302.0,
+      "speaker": "SPEAKER_01",
+      "text": "you said that we can get 1% of commission from the loan that we can provide. So do we know anything"
+    },
+    {
+      "start": 1302.0,
+      "end": 1308.88,
+      "speaker": "SPEAKER_01",
+      "text": "related to the average span or average amount of loan and a semi would require? Yeah, we have it in"
+    },
+    {
+      "start": 1308.88,
+      "end": 1313.68,
+      "speaker": "SPEAKER_02",
+      "text": "the next bit. Remember the first exhibit that we reviewed together, you were able to see"
+    },
+    {
+      "start": 1314.24,
+      "end": 1319.44,
+      "speaker": "SPEAKER_02",
+      "text": "the average loan outstanding by segment and you have the number of SMEs in that segment. So you"
+    },
+    {
+      "start": 1319.44,
+      "end": 1325.68,
+      "speaker": "SPEAKER_01",
+      "text": "can, I think, calculate the total amount of loan. Okay. So basically, I remember in this exhibit,"
+    },
+    {
+      "start": 1325.68,
+      "end": 1329.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "we had the average outstanding loan. So is that safe to assume that they would also get that much"
+    },
+    {
+      "start": 1329.8400000000001,
+      "end": 1337.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "of a loan if they were to subscribe? Yeah, let's do that. Okay, fantastic. So what I'm seeing here is"
+    },
+    {
+      "start": 1337.4399999999998,
+      "end": 1351.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "500,000 of loans coming from 200,000 SMEs. And then we had 100,000 loans. Actually, that could be"
+    },
+    {
+      "start": 1352.1599999999999,
+      "end": 1358.0,
+      "speaker": "SPEAKER_01",
+      "text": "higher than this because we're only taking the upper 50%. So do we have any data related to what"
+    },
+    {
+      "start": 1358.0,
+      "end": 1363.84,
+      "speaker": "SPEAKER_02",
+      "text": "might be the average loan of that group? Yeah, that will probably be like 150K or something, but"
+    },
+    {
+      "start": 1364.32,
+      "end": 1369.4399999999998,
+      "speaker": "SPEAKER_02",
+      "text": "again, assume for simplicity that it's going to be 100,000. Okay, all right, fantastic. That just"
+    },
+    {
+      "start": 1369.4399999999998,
+      "end": 1375.36,
+      "speaker": "SPEAKER_01",
+      "text": "makes my math easier. Yeah. So for the second group, we're looking at a 100,000 rails of average loans."
+    },
+    {
+      "start": 1375.9199999999998,
+      "end": 1381.28,
+      "speaker": "SPEAKER_01",
+      "text": "And we said that there will be 300 SMEs. Yeah. So what I suggest we do is actually maybe take an"
+    },
+    {
+      "start": 1381.28,
+      "end": 1386.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "average of those two employer groups. Oh, yes, that's a bit. Okay, I would need to take a way to"
+    },
+    {
+      "start": 1386.1599999999999,
+      "end": 1391.84,
+      "speaker": "SPEAKER_01",
+      "text": "the average, of course, and not just the average. Yeah, yeah. So if you just give me a second, maybe"
+    },
+    {
+      "start": 1391.84,
+      "end": 1399.6,
+      "speaker": "SPEAKER_01",
+      "text": "I can run the numbers. Sure. Okay, thank you. All right, so the shortcut I'm going to take is"
+    },
+    {
+      "start": 1399.6,
+      "end": 1405.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "there's a ratio of 2 to 3. So I'm not going to multiply 500,000 times 200,000 and so on because"
+    },
+    {
+      "start": 1405.6799999999998,
+      "end": 1411.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "I don't want to make my math too complicated. So what I'll do is if there's two units of 500,000,"
+    },
+    {
+      "start": 1411.1999999999998,
+      "end": 1420.48,
+      "speaker": "SPEAKER_01",
+      "text": "I'm just going to multiply 500,000 by 2 plus we said 100,000 times 3 because that's like 2 to 3"
+    },
+    {
+      "start": 1420.56,
+      "end": 1431.76,
+      "speaker": "SPEAKER_01",
+      "text": "ratio. So 100,000 times 3. And then we need to divide it by 5. Okay, yes. So 1 mill plus 300,000. So"
+    },
+    {
+      "start": 1431.76,
+      "end": 1441.04,
+      "speaker": "SPEAKER_01",
+      "text": "that's 1.3 mill divided by 5, 260,000. Just for me to test check that if I were to take the average"
+    },
+    {
+      "start": 1441.04,
+      "end": 1447.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "of 105. That's correct. Okay, all right. Thanks. So what I'll do is if that's okay, I'll take this as"
+    },
+    {
+      "start": 1447.36,
+      "end": 1454.4799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "the average amount of loan that we could grant. And if I can just take 1% of it, it's 2.6K,"
+    },
+    {
+      "start": 1454.4799999999998,
+      "end": 1463.28,
+      "speaker": "SPEAKER_01",
+      "text": "so 2,600 rails would be the revenues coming from the commission fee per customer. How much is it?"
+    },
+    {
+      "start": 1463.28,
+      "end": 1472.56,
+      "speaker": "SPEAKER_01",
+      "text": "2,600 rails. 2,600 rails, which is 1% of 260,000. Okay, yeah. All right, just going back to my"
+    },
+    {
+      "start": 1472.56,
+      "end": 1478.08,
+      "speaker": "SPEAKER_01",
+      "text": "earlier analysis, we accumulated total customer number as 50,000. Yeah. And assuming that this is"
+    },
+    {
+      "start": 1478.08,
+      "end": 1482.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "kind of the representation of the number of transactions because we talked about over the"
+    },
+    {
+      "start": 1482.1599999999999,
+      "end": 1490.96,
+      "speaker": "SPEAKER_01",
+      "text": "last year. So all I need to do is multiply 2,600 by 50,000 so that I can arrive at the revenue,"
+    },
+    {
+      "start": 1490.96,
+      "end": 1495.76,
+      "speaker": "SPEAKER_01",
+      "text": "coming from the commission fees in the next four years. Yeah. Okay, I'll take a second."
+    },
+    {
+      "start": 1496.56,
+      "end": 1507.76,
+      "speaker": "SPEAKER_01",
+      "text": "So 2.6 times 50 is 130,000,000 is a million. Well, that's quite appealing actually. If I'm not"
+    },
+    {
+      "start": 1508.56,
+      "end": 1514.0,
+      "speaker": "SPEAKER_01",
+      "text": "wrong, this number is 130 million rails. So that is the revenues coming from commission. So"
+    },
+    {
+      "start": 1514.0,
+      "end": 1521.36,
+      "speaker": "SPEAKER_01",
+      "text": "something both figures out we arrive at 180 million rails of total revenues, which is great."
+    },
+    {
+      "start": 1522.1599999999999,
+      "end": 1528.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Yes. Right. Okay. So the next thing I'd like to do is look into the cost side because the"
+    },
+    {
+      "start": 1528.6399999999999,
+      "end": 1535.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "objective is 80 million rails in profits and so far we can generate 180 million rails of revenues."
+    },
+    {
+      "start": 1535.1999999999998,
+      "end": 1540.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm hoping the costs will be favorable so that we can meet the objectives. Do you know anything"
+    },
+    {
+      "start": 1540.6399999999999,
+      "end": 1545.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "about the cost side of the goods? What kind of costs do you think we can have? So let's structure it"
+    },
+    {
+      "start": 1545.68,
+      "end": 1552.64,
+      "speaker": "SPEAKER_01",
+      "text": "into two. We have initial investment costs and recurring costs. Okay. And within recurring costs,"
+    },
+    {
+      "start": 1552.64,
+      "end": 1557.92,
+      "speaker": "SPEAKER_01",
+      "text": "we can divide us into variable and fixed. So for the initial investment costs, I'm thinking of"
+    },
+    {
+      "start": 1557.92,
+      "end": 1562.64,
+      "speaker": "SPEAKER_01",
+      "text": "just the infrastructure. So they may not even have an office space for them to run the company."
+    },
+    {
+      "start": 1562.64,
+      "end": 1566.88,
+      "speaker": "SPEAKER_01",
+      "text": "They may need to maybe partner with certain technology providers that where they need to pay"
+    },
+    {
+      "start": 1566.88,
+      "end": 1571.92,
+      "speaker": "SPEAKER_01",
+      "text": "enough from lump sum of money. So these things might be under the initial investment costs."
+    },
+    {
+      "start": 1571.92,
+      "end": 1577.2,
+      "speaker": "SPEAKER_01",
+      "text": "And then for the operating costs in terms of the variable costs, I'm thinking they're going to be"
+    },
+    {
+      "start": 1577.2,
+      "end": 1583.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "working with banks. So I wonder if banks will put any costs on them besides, of course, the money"
+    },
+    {
+      "start": 1583.1200000000001,
+      "end": 1586.8000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "that we will get from them, there could be some other costs related to the service, as well as the"
+    },
+    {
+      "start": 1586.8000000000002,
+      "end": 1592.0,
+      "speaker": "SPEAKER_01",
+      "text": "courses of the online education that we need to provide if there is any associated material cost"
+    },
+    {
+      "start": 1592.0,
+      "end": 1597.28,
+      "speaker": "SPEAKER_01",
+      "text": "per subscriber that we need to look into. Sounds good. And for the fixed costs, I'm thinking of"
+    },
+    {
+      "start": 1597.28,
+      "end": 1603.68,
+      "speaker": "SPEAKER_01",
+      "text": "anything related to insurance. It could be maybe related to our personnel, not direct"
+    },
+    {
+      "start": 1603.68,
+      "end": 1608.8,
+      "speaker": "SPEAKER_01",
+      "text": "the links with the sales. If you're not going to be owning this space, maybe brands and so on,"
+    },
+    {
+      "start": 1608.8,
+      "end": 1612.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "so they're going to leave many other cost items. Can we quantify any of those? Yeah, sure. So"
+    },
+    {
+      "start": 1612.8799999999999,
+      "end": 1619.44,
+      "speaker": "SPEAKER_02",
+      "text": "um, CappEx and all Pex, let's split like that. And the CappEx is 10 million rails, initial"
+    },
+    {
+      "start": 1619.44,
+      "end": 1626.96,
+      "speaker": "SPEAKER_02",
+      "text": "investment. And all Pex, the total running cost is 33% of total revenues. Again, assume that I think"
+    },
+    {
+      "start": 1626.96,
+      "end": 1634.08,
+      "speaker": "SPEAKER_01",
+      "text": "includes fixed and variable costs. Wow. So one minus 33%, it's 67%. It looks like a great margin."
+    },
+    {
+      "start": 1634.08,
+      "end": 1639.44,
+      "speaker": "SPEAKER_01",
+      "text": "That the profit margin, yeah, exactly. Do we know just, um, just maybe going a bit off track here,"
+    },
+    {
+      "start": 1639.44,
+      "end": 1644.32,
+      "speaker": "SPEAKER_01",
+      "text": "but do we have any international benchmarks just to indicate whether these figures are actually"
+    },
+    {
+      "start": 1644.32,
+      "end": 1650.48,
+      "speaker": "SPEAKER_02",
+      "text": "attainable? Yeah, they can really assume that those are like granted. You don't need to challenge them."
+    },
+    {
+      "start": 1650.48,
+      "end": 1655.52,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, that's that's that assumption. Okay, just wanted to double check. Yeah. All right. So"
+    },
+    {
+      "start": 1656.4,
+      "end": 1663.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "if one third of the total revenues are costs, this means two thirds of the revenues are profits."
+    },
+    {
+      "start": 1663.3600000000001,
+      "end": 1671.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, correct. And that is before CappEx. So what I suggest we do is take two thirds of 180 million"
+    },
+    {
+      "start": 1671.12,
+      "end": 1681.12,
+      "speaker": "SPEAKER_01",
+      "text": "rails of revenues. And that would be two times 60, 120 million operating profits, which is great."
+    },
+    {
+      "start": 1681.84,
+      "end": 1688.8,
+      "speaker": "SPEAKER_01",
+      "text": "And then since we're looking at the cash we said earlier or say, you know, profit minus CappEx,"
+    },
+    {
+      "start": 1688.8,
+      "end": 1694.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "this would mean that the MPV of the project could be 110 million rails, which is greater than 80 million."
+    },
+    {
+      "start": 1695.28,
+      "end": 1700.08,
+      "speaker": "SPEAKER_01",
+      "text": "But I like to share a couple of assumptions I made along the way. So the first thing is we didn't"
+    },
+    {
+      "start": 1700.08,
+      "end": 1704.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "really account for any interest raising inflation. And so I just treated every year as if there's no"
+    },
+    {
+      "start": 1704.6399999999999,
+      "end": 1710.08,
+      "speaker": "SPEAKER_01",
+      "text": "discount happening. So this might actually reduce overall projection. That's assumption number one."
+    },
+    {
+      "start": 1710.08,
+      "end": 1715.36,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. And then the second assumption we made was that everyone who subscribes will actually"
+    },
+    {
+      "start": 1716.08,
+      "end": 1721.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "get the loans because there could be still some companies where they might apply for the loans and"
+    },
+    {
+      "start": 1721.4399999999998,
+      "end": 1727.28,
+      "speaker": "SPEAKER_01",
+      "text": "they might be rejected. But I feel this is not going to be an assumption we make. No, really. So"
+    },
+    {
+      "start": 1727.28,
+      "end": 1733.12,
+      "speaker": "SPEAKER_01",
+      "text": "financially, this is a sound project then. Exactly. Do we need to take out any tax or"
+    },
+    {
+      "start": 1733.12,
+      "end": 1738.96,
+      "speaker": "SPEAKER_01",
+      "text": "additional investments at the stage? No, no need. Okay. So then yes, I feel super confident about"
+    },
+    {
+      "start": 1738.96,
+      "end": 1744.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "the financial visibility. Now if you allow me, I'd like to move ahead and talk about some risks."
+    },
+    {
+      "start": 1744.6399999999999,
+      "end": 1749.92,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. Now let's review the candidate's strengths once more and discuss a few areas where he could"
+    },
+    {
+      "start": 1749.92,
+      "end": 1756.0,
+      "speaker": "SPEAKER_00",
+      "text": "have done better. The candidate showed strong case leadership by meticulously following his framework"
+    },
+    {
+      "start": 1756.0,
+      "end": 1762.24,
+      "speaker": "SPEAKER_00",
+      "text": "chronologically. By doing so, he didn't miss any important analysis and managed to address"
+    },
+    {
+      "start": 1762.24,
+      "end": 1768.88,
+      "speaker": "SPEAKER_00",
+      "text": "strategic elements first, followed by the financial assessment. He also provided synthesis while"
+    },
+    {
+      "start": 1768.88,
+      "end": 1775.2,
+      "speaker": "SPEAKER_00",
+      "text": "transitioning between analysis, allowing the interviewer to see how each question or finding"
+    },
+    {
+      "start": 1775.2,
+      "end": 1781.6,
+      "speaker": "SPEAKER_00",
+      "text": "contributed to solving the client's problem. Also, despite the case being heavily quantitative,"
+    },
+    {
+      "start": 1781.6,
+      "end": 1786.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "the candidate managed to drive the financial assessment quite successfully. A few things he did"
+    },
+    {
+      "start": 1786.9599999999998,
+      "end": 1792.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "well were aligning on the revenue models, acknowledging that not all SMEs would use the client"
+    },
+    {
+      "start": 1792.9599999999998,
+      "end": 1799.84,
+      "speaker": "SPEAKER_00",
+      "text": "services and saving time by summing up the total customers across four years. In terms of the"
+    },
+    {
+      "start": 1799.84,
+      "end": 1805.6,
+      "speaker": "SPEAKER_00",
+      "text": "area for improvement, he could have managed his time more effectively when reviewing the first exhibit."
+    },
+    {
+      "start": 1805.6,
+      "end": 1810.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "He spent half a minute reading through the text without offering insights and then asked for"
+    },
+    {
+      "start": 1810.8799999999999,
+      "end": 1816.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "time to analyze it. Instead, he could have requested time as soon as he was shown the exhibit."
+    },
+    {
+      "start": 1817.4399999999998,
+      "end": 1824.24,
+      "speaker": "SPEAKER_00",
+      "text": "Additionally, during his financial assessment, he initially believed the payback period was five years,"
+    },
+    {
+      "start": 1824.24,
+      "end": 1829.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "which the interviewer quickly corrected, referring to his notes from the start of the case could"
+    },
+    {
+      "start": 1829.4399999999998,
+      "end": 1834.32,
+      "speaker": "SPEAKER_00",
+      "text": "have helped avoid this mistake. That's kind of risks. I think that might be. For this, I"
+    },
+    {
+      "start": 1834.32,
+      "end": 1846.56,
+      "speaker": "SPEAKER_01",
+      "text": "mean, if you take a few more moments. Thank you. All right. So first, the wall regulations."
+    },
+    {
+      "start": 1846.56,
+      "end": 1851.12,
+      "speaker": "SPEAKER_01",
+      "text": "Is something I mentioned earlier as well? We still haven't talked about it much, but I'm quite"
+    },
+    {
+      "start": 1851.12,
+      "end": 1856.96,
+      "speaker": "SPEAKER_01",
+      "text": "curious to know if the client needs to adhere to specific regulations that may incur additional"
+    },
+    {
+      "start": 1856.96,
+      "end": 1862.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "costs for the client or certain delays in the timelines. The second thing would be regarding"
+    },
+    {
+      "start": 1862.3200000000002,
+      "end": 1867.28,
+      "speaker": "SPEAKER_01",
+      "text": "the tech seven of the semis. We said that 20% of the employers would be savvy enough to use, but"
+    },
+    {
+      "start": 1867.28,
+      "end": 1871.92,
+      "speaker": "SPEAKER_01",
+      "text": "again, do we have an advantage? Marks, maybe to further validate it. Also, we said earlier in the case"
+    },
+    {
+      "start": 1871.92,
+      "end": 1876.64,
+      "speaker": "SPEAKER_01",
+      "text": "that we don't expect competitors now, but I think this is still something the client needs to hear"
+    },
+    {
+      "start": 1876.64,
+      "end": 1883.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "from us because we expected a nice evolution of market share from five to 20% gradually. But if"
+    },
+    {
+      "start": 1883.3600000000001,
+      "end": 1888.64,
+      "speaker": "SPEAKER_01",
+      "text": "there is a new competitor coming in, then of course, our projections may not realize. Do we have"
+    },
+    {
+      "start": 1888.96,
+      "end": 1894.3200000000002,
+      "speaker": "SPEAKER_02",
+      "text": "data related to those three risks? Yeah, sure. So the most significant one is the regulations."
+    },
+    {
+      "start": 1894.3200000000002,
+      "end": 1901.44,
+      "speaker": "SPEAKER_02",
+      "text": "And there we are quite connected, concommerts. And also we have a quite strong legal and regulatory"
+    },
+    {
+      "start": 1901.44,
+      "end": 1907.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "team. So we believe that we can tackle it somehow. And maybe the last one, of course, that's an"
+    },
+    {
+      "start": 1907.8400000000001,
+      "end": 1913.68,
+      "speaker": "SPEAKER_02",
+      "text": "uncertainty. But for now, we can assume that there will be no competition risk either. So you"
+    },
+    {
+      "start": 1913.68,
+      "end": 1918.8,
+      "speaker": "SPEAKER_02",
+      "text": "can feel more secure about the risks now. All right, perfect. And what about the tech sevens"
+    },
+    {
+      "start": 1918.8,
+      "end": 1923.2,
+      "speaker": "SPEAKER_02",
+      "text": "of the companies are we confident? Yeah, we are quite confident. Don't worry. That's not a"
+    },
+    {
+      "start": 1923.2,
+      "end": 1927.04,
+      "speaker": "SPEAKER_02",
+      "text": "major one. Very good. Yeah. So do you want to go ahead and conclude the case, then?"
+    },
+    {
+      "start": 1927.04,
+      "end": 1931.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, I think I have the answer for that. But for this, I need a few moments. Okay, let's go."
+    },
+    {
+      "start": 1931.3600000000001,
+      "end": 1931.76,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 1932.24,
+      "end": 1945.28,
+      "speaker": "SPEAKER_01",
+      "text": "All right. So based on our analysis today, our advisor client, go ahead and enter the"
+    },
+    {
+      "start": 1945.28,
+      "end": 1950.8,
+      "speaker": "SPEAKER_01",
+      "text": "mobile management tool space because of a couple of reasons. The most important thing is that"
+    },
+    {
+      "start": 1950.8,
+      "end": 1955.44,
+      "speaker": "SPEAKER_01",
+      "text": "financially, the clients should be able to meet their initial objectives of eight million"
+    },
+    {
+      "start": 1955.44,
+      "end": 1959.12,
+      "speaker": "SPEAKER_01",
+      "text": "rounds of processing in the next four years. Based on analysis, we believe that they can get"
+    },
+    {
+      "start": 1959.12,
+      "end": 1965.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "somewhere around 110 million rails. And that is because of a couple of reasons. First of all,"
+    },
+    {
+      "start": 1965.4399999999998,
+      "end": 1970.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "our market share projections look quite sounds. We expect them first to start with 5%. But then"
+    },
+    {
+      "start": 1970.7199999999998,
+      "end": 1977.6,
+      "speaker": "SPEAKER_01",
+      "text": "gradually go up to 20% and based on our assessment, it is feasible. And seconds, in terms of our"
+    },
+    {
+      "start": 1977.6,
+      "end": 1983.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "target customers, there is a huge customer base that we'll be targeting. And about 20% of them"
+    },
+    {
+      "start": 1983.1999999999998,
+      "end": 1988.32,
+      "speaker": "SPEAKER_01",
+      "text": "are Tixabi, which is also a great addressable market size that we could get. And off of that,"
+    },
+    {
+      "start": 1988.32,
+      "end": 1992.8,
+      "speaker": "SPEAKER_01",
+      "text": "as I mentioned earlier, we can get a good market share. And in terms of the capabilities,"
+    },
+    {
+      "start": 1992.8,
+      "end": 1997.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "initially, we had some questions related to this, but it looks like they have the team in place."
+    },
+    {
+      "start": 1997.4399999999998,
+      "end": 2002.48,
+      "speaker": "SPEAKER_01",
+      "text": "And we don't foresee any significant risk relates to their capabilities. And as well as"
+    },
+    {
+      "start": 2002.48,
+      "end": 2007.28,
+      "speaker": "SPEAKER_01",
+      "text": "the regulations, we believe that the client is quite familiar with overall landscape. And we believe"
+    },
+    {
+      "start": 2007.28,
+      "end": 2012.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "that after our analysis, they will go ahead and implement the successfully unless there's anything"
+    },
+    {
+      "start": 2012.1599999999999,
+      "end": 2016.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "else I'd like to conflict this case this way. Yeah, amazing. Thank you so much. Great, great"
+    },
+    {
+      "start": 2016.88,
+      "end": 2019.6000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "performance. I love it. Thank you so much. Thank you so much for your guy."
+    },
+    {
+      "start": 2019.6000000000001,
+      "end": 2025.68,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, perfect. Thanks. In summary, the candidate demonstrated a very good performance in this case"
+    },
+    {
+      "start": 2025.68,
+      "end": 2031.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "study. Now, let's evaluate his performance according to the prep matter scorecard criteria."
+    },
+    {
+      "start": 2032.48,
+      "end": 2038.88,
+      "speaker": "SPEAKER_00",
+      "text": "Let's begin with problem solving and insights. Structure. The candidate's initial framework was"
+    },
+    {
+      "start": 2038.88,
+      "end": 2043.7600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "quite comprehensive, covering all the important elements of a market entry assessment."
+    },
+    {
+      "start": 2044.48,
+      "end": 2050.24,
+      "speaker": "SPEAKER_00",
+      "text": "His judgment was strong, demonstrating excellent business acumen and a solid understanding of"
+    },
+    {
+      "start": 2050.24,
+      "end": 2056.88,
+      "speaker": "SPEAKER_00",
+      "text": "the fintech industry through key market dynamics and profitability analysis. In terms of rigor,"
+    },
+    {
+      "start": 2056.88,
+      "end": 2062.72,
+      "speaker": "SPEAKER_00",
+      "text": "his calculations were flawless throughout the case. For example, he successfully calculated the"
+    },
+    {
+      "start": 2062.72,
+      "end": 2068.48,
+      "speaker": "SPEAKER_00",
+      "text": "weighted average of outstanding loans and considered the cumulative number of customers over four"
+    },
+    {
+      "start": 2068.48,
+      "end": 2074.4,
+      "speaker": "SPEAKER_00",
+      "text": "years. Although his initial framework could have included more examples of revenue models,"
+    },
+    {
+      "start": 2074.4,
+      "end": 2080.8,
+      "speaker": "SPEAKER_00",
+      "text": "costs and risk areas, he made up for this later in the case by successfully brainstorming market"
+    },
+    {
+      "start": 2080.8,
+      "end": 2088.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "share drivers, key cost buckets and risks. The strongest aspect of his performance was his synthesis."
+    },
+    {
+      "start": 2088.2400000000002,
+      "end": 2094.88,
+      "speaker": "SPEAKER_00",
+      "text": "He consistently provided clear synthesis, explaining the so what of each analysis and proactively"
+    },
+    {
+      "start": 2094.88,
+      "end": 2101.76,
+      "speaker": "SPEAKER_00",
+      "text": "laid out his next steps. Regarding communication and presence, let's first start with presence."
+    },
+    {
+      "start": 2101.76,
+      "end": 2107.12,
+      "speaker": "SPEAKER_00",
+      "text": "The candidate displayed a good level of self-confidence and composure, even during the difficult"
+    },
+    {
+      "start": 2107.12,
+      "end": 2114.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "quantitative sections of the case study. Next, precision. Overall, his communication was concise,"
+    },
+    {
+      "start": 2114.7200000000003,
+      "end": 2120.8,
+      "speaker": "SPEAKER_00",
+      "text": "and his structured thinking helped him avoid rambling when answering questions. He demonstrated"
+    },
+    {
+      "start": 2120.8,
+      "end": 2126.88,
+      "speaker": "SPEAKER_00",
+      "text": "good active listening skills. Although he briefly forgot the client's objective, he responded well"
+    },
+    {
+      "start": 2126.88,
+      "end": 2133.1200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "to the interviewer's verbal cues during both the market and financial analysis. Finally,"
+    },
+    {
+      "start": 2133.1200000000003,
+      "end": 2138.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "in terms of relationship management, the candidate worked well with the interviewer,"
+    },
+    {
+      "start": 2138.08,
+      "end": 2145.68,
+      "speaker": "SPEAKER_00",
+      "text": "pausing to allow the interviewer to interject or provide additional data points."
+    }
+  ],
+  "grading": {
+    "communication": 17,
+    "framework": 14,
+    "math": 9,
+    "case_difficulty": 9,
+    "final_summary": 13,
+    "overall_thoughts": "You did a good job of breaking down the case but struggled with some of the math calculations and didn't fully consider alternative perspectives."
+  }
+}

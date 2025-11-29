@@ -1,0 +1,3072 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 12.040000000000001,
+      "speaker": "SPEAKER_03",
+      "text": "Hey Straters, you simplified welcome back to a fun BCG case interview demonstration led"
+    },
+    {
+      "start": 12.040000000000001,
+      "end": 16.8,
+      "speaker": "SPEAKER_03",
+      "text": "by management consultant coach and former BCG consultant Braggov."
+    },
+    {
+      "start": 16.8,
+      "end": 21.64,
+      "speaker": "SPEAKER_03",
+      "text": "So listen and watch how he guides a candidate through a real BCG style case."
+    },
+    {
+      "start": 21.64,
+      "end": 26.400000000000002,
+      "speaker": "SPEAKER_03",
+      "text": "They're structuring, they're math, they're brainstorming, they're communication under pressure"
+    },
+    {
+      "start": 26.4,
+      "end": 31.72,
+      "speaker": "SPEAKER_03",
+      "text": "and there's incredible feedback from Braggov for the candidate at the end."
+    },
+    {
+      "start": 31.72,
+      "end": 37.48,
+      "speaker": "SPEAKER_03",
+      "text": "So it makes sure you stick around for some really detailed and helpful constructive feedback."
+    },
+    {
+      "start": 37.48,
+      "end": 41.4,
+      "speaker": "SPEAKER_03",
+      "text": "If you need case interview help as soon as possible, if you're just starting out, you've"
+    },
+    {
+      "start": 41.4,
+      "end": 43.64,
+      "speaker": "SPEAKER_03",
+      "text": "got a first round or a final round coming up."
+    },
+    {
+      "start": 43.64,
+      "end": 47.519999999999996,
+      "speaker": "SPEAKER_03",
+      "text": "You can book a 101 coaching session with Braggov today."
+    },
+    {
+      "start": 47.519999999999996,
+      "end": 51.4,
+      "speaker": "SPEAKER_03",
+      "text": "You can start with just an hour or even four hours of coaching, four hours is a better"
+    },
+    {
+      "start": 51.4,
+      "end": 56.08,
+      "speaker": "SPEAKER_03",
+      "text": "bet than one because if you're going to commit, you might as well go all in."
+    },
+    {
+      "start": 56.08,
+      "end": 61.519999999999996,
+      "speaker": "SPEAKER_03",
+      "text": "But your best bet is our Black Belt program which gives you 10 one hour coaching sessions"
+    },
+    {
+      "start": 61.519999999999996,
+      "end": 68.64,
+      "speaker": "SPEAKER_03",
+      "text": "with a coach like Braggov or we've got about 25 other fantastic MVP coaches on our team."
+    },
+    {
+      "start": 68.64,
+      "end": 71.6,
+      "speaker": "SPEAKER_03",
+      "text": "They'll walk you through the process of start to end."
+    },
+    {
+      "start": 71.6,
+      "end": 76.24,
+      "speaker": "SPEAKER_03",
+      "text": "So whether you've got three days, three weeks or three months to prepare, Black Belt"
+    },
+    {
+      "start": 76.24,
+      "end": 77.88,
+      "speaker": "SPEAKER_03",
+      "text": "is your solution."
+    },
+    {
+      "start": 77.88,
+      "end": 79.84,
+      "speaker": "SPEAKER_03",
+      "text": "Link in the shown is to learn more."
+    },
+    {
+      "start": 79.84,
+      "end": 84.72,
+      "speaker": "SPEAKER_03",
+      "text": "Without further ado, let's dive into this BCG live case interview."
+    },
+    {
+      "start": 85.67999999999999,
+      "end": 87.28,
+      "speaker": "SPEAKER_04",
+      "text": "All right, awesome."
+    },
+    {
+      "start": 87.28,
+      "end": 91.67999999999999,
+      "speaker": "SPEAKER_04",
+      "text": "So before we get started, you just wanted to discuss with you."
+    },
+    {
+      "start": 91.67999999999999,
+      "end": 96.56,
+      "speaker": "SPEAKER_04",
+      "text": "I'll be after we run through the case, I'll give you a sort of rating, which will be out"
+    },
+    {
+      "start": 96.56,
+      "end": 98.8,
+      "speaker": "SPEAKER_04",
+      "text": "of four on four aspects."
+    },
+    {
+      "start": 98.8,
+      "end": 100.24,
+      "speaker": "SPEAKER_04",
+      "text": "This is not very hard and fast."
+    },
+    {
+      "start": 100.24,
+      "end": 103.68,
+      "speaker": "SPEAKER_04",
+      "text": "This is just to help you kind of get an assessment of where you were at."
+    },
+    {
+      "start": 103.68,
+      "end": 106.8,
+      "speaker": "SPEAKER_04",
+      "text": "So the first one would be structuring how you break down the problem."
+    },
+    {
+      "start": 106.8,
+      "end": 108.44,
+      "speaker": "SPEAKER_04",
+      "text": "The second one would be analysis."
+    },
+    {
+      "start": 108.44,
+      "end": 111.96000000000001,
+      "speaker": "SPEAKER_04",
+      "text": "So how are you doing some of the case math things related to that?"
+    },
+    {
+      "start": 111.96000000000001,
+      "end": 113.72,
+      "speaker": "SPEAKER_04",
+      "text": "The third one is solutioning."
+    },
+    {
+      "start": 113.72,
+      "end": 117.28,
+      "speaker": "SPEAKER_04",
+      "text": "So when you give your final recommendation, does it make sense?"
+    },
+    {
+      "start": 117.28,
+      "end": 118.36,
+      "speaker": "SPEAKER_04",
+      "text": "Is it sustainable?"
+    },
+    {
+      "start": 118.36,
+      "end": 120.12,
+      "speaker": "SPEAKER_04",
+      "text": "Is it something which is feasible?"
+    },
+    {
+      "start": 120.12,
+      "end": 124.68,
+      "speaker": "SPEAKER_04",
+      "text": "And then finally, the number four is presence, which is how are you throughout the entire"
+    },
+    {
+      "start": 124.68,
+      "end": 126.96,
+      "speaker": "SPEAKER_04",
+      "text": "case interview that we have?"
+    },
+    {
+      "start": 126.96,
+      "end": 130.28,
+      "speaker": "SPEAKER_04",
+      "text": "Are you a person that I would like to work with?"
+    },
+    {
+      "start": 130.28,
+      "end": 135.2,
+      "speaker": "SPEAKER_04",
+      "text": "Are you a person who is able to keep my attention throughout the entire conversation?"
+    },
+    {
+      "start": 135.2,
+      "end": 136.2,
+      "speaker": "SPEAKER_04",
+      "text": "I think that's one of them."
+    },
+    {
+      "start": 136.2,
+      "end": 139.8,
+      "speaker": "SPEAKER_04",
+      "text": "So that's one of the softer factors rate out of four."
+    },
+    {
+      "start": 139.8,
+      "end": 141.88,
+      "speaker": "SPEAKER_04",
+      "text": "And yeah, that's basically it."
+    },
+    {
+      "start": 141.88,
+      "end": 145.04,
+      "speaker": "SPEAKER_04",
+      "text": "And yeah, let me know if you're ready to get started."
+    },
+    {
+      "start": 145.04,
+      "end": 146.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yep, I'm ready."
+    },
+    {
+      "start": 146.24,
+      "end": 148.32,
+      "speaker": "SPEAKER_04",
+      "text": "All right."
+    },
+    {
+      "start": 148.32,
+      "end": 157.88,
+      "speaker": "SPEAKER_04",
+      "text": "So your client is a US defense contractor that manufactures the Mohawk Light Fighter jet"
+    },
+    {
+      "start": 157.88,
+      "end": 161.35999999999999,
+      "speaker": "SPEAKER_04",
+      "text": "for the British Royal Air Force."
+    },
+    {
+      "start": 161.35999999999999,
+      "end": 169.96,
+      "speaker": "SPEAKER_04",
+      "text": "Over the past 12 years, the company is produced over 100 jets, each costing $20 million to"
+    },
+    {
+      "start": 169.96,
+      "end": 174.36,
+      "speaker": "SPEAKER_04",
+      "text": "manufacture, which has generated a stable revenue stream for them."
+    },
+    {
+      "start": 174.36,
+      "end": 180.12,
+      "speaker": "SPEAKER_04",
+      "text": "Recently, the British government decided to open the contract to bid again to secure the"
+    },
+    {
+      "start": 180.12,
+      "end": 185.76000000000002,
+      "speaker": "SPEAKER_04",
+      "text": "bid the clients per chasing agent estimates that the production cost must be reduced by"
+    },
+    {
+      "start": 185.76000000000002,
+      "end": 191.0,
+      "speaker": "SPEAKER_04",
+      "text": "at least 5% without compromising existing profit margins."
+    },
+    {
+      "start": 191.0,
+      "end": 193.12,
+      "speaker": "SPEAKER_04",
+      "text": "How would you approach this problem?"
+    },
+    {
+      "start": 193.12,
+      "end": 195.12,
+      "speaker": "SPEAKER_01",
+      "text": "OK, great."
+    },
+    {
+      "start": 195.12,
+      "end": 197.32,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you for giving me the case."
+    },
+    {
+      "start": 197.32,
+      "end": 204.28,
+      "speaker": "SPEAKER_01",
+      "text": "Just to recap, our client is a US defense contractor manufacturing fighter jets and it costs"
+    },
+    {
+      "start": 204.28,
+      "end": 209.07999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "them around like 20 million to manufacture them, which has generated a stable revenue stream."
+    },
+    {
+      "start": 209.07999999999998,
+      "end": 215.51999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "It has come to us with understanding how they can open the bid process in order for them"
+    },
+    {
+      "start": 215.51999999999998,
+      "end": 222.88,
+      "speaker": "SPEAKER_01",
+      "text": "to manage production cost to be reduced by 5% while not compromising on profit margins."
+    },
+    {
+      "start": 222.88,
+      "end": 224.88,
+      "speaker": "SPEAKER_01",
+      "text": "So they would love to know how to do so."
+    },
+    {
+      "start": 224.88,
+      "end": 227.16,
+      "speaker": "SPEAKER_01",
+      "text": "So it does sounds good to you."
+    },
+    {
+      "start": 227.16,
+      "end": 232.51999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "I would love to ask you clarification questions before we dive in."
+    },
+    {
+      "start": 232.51999999999998,
+      "end": 237.64,
+      "speaker": "SPEAKER_01",
+      "text": "My first question is just, I'm not too familiar with what fighter jets are, so I just really"
+    },
+    {
+      "start": 237.64,
+      "end": 239.4,
+      "speaker": "SPEAKER_01",
+      "text": "want to make sure I'm understanding this correctly."
+    },
+    {
+      "start": 239.4,
+      "end": 243.88,
+      "speaker": "SPEAKER_01",
+      "text": "I assume it's like basically military jets that are used by the British Royal Force for"
+    },
+    {
+      "start": 243.88,
+      "end": 244.88,
+      "speaker": "SPEAKER_01",
+      "text": "like defense."
+    },
+    {
+      "start": 244.88,
+      "end": 247.07999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "And is there anything else that I need to be aware of?"
+    },
+    {
+      "start": 247.07999999999998,
+      "end": 248.72,
+      "speaker": "SPEAKER_04",
+      "text": "No, particularly that."
+    },
+    {
+      "start": 248.72,
+      "end": 253.56,
+      "speaker": "SPEAKER_04",
+      "text": "They have a certain number of jets that they order and these can be used for a variety"
+    },
+    {
+      "start": 253.56,
+      "end": 257.68,
+      "speaker": "SPEAKER_04",
+      "text": "of applications, probably not very relevant to use of it."
+    },
+    {
+      "start": 257.68,
+      "end": 260.88,
+      "speaker": "SPEAKER_01",
+      "text": "My second question is in terms of the bidding process."
+    },
+    {
+      "start": 260.88,
+      "end": 265.52,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm wondering if there are any other potential bidders right now in the market and how this"
+    },
+    {
+      "start": 265.52,
+      "end": 268.76,
+      "speaker": "SPEAKER_01",
+      "text": "bidding process usually works."
+    },
+    {
+      "start": 268.76,
+      "end": 275.44,
+      "speaker": "SPEAKER_04",
+      "text": "So it's usually that they will open a bid for like select players and these players, if"
+    },
+    {
+      "start": 275.44,
+      "end": 279.24,
+      "speaker": "SPEAKER_04",
+      "text": "they work with them before, they will get a chance to throw in a bid for this specific"
+    },
+    {
+      "start": 279.24,
+      "end": 284.08,
+      "speaker": "SPEAKER_04",
+      "text": "jet or an equivalent jet of the similar specifications."
+    },
+    {
+      "start": 284.08,
+      "end": 288.76,
+      "speaker": "SPEAKER_04",
+      "text": "So yeah, there is some amount of competition though we don't know with who."
+    },
+    {
+      "start": 288.76,
+      "end": 290.6,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, got it."
+    },
+    {
+      "start": 290.6,
+      "end": 294.92,
+      "speaker": "SPEAKER_01",
+      "text": "And then in terms of my third question, in terms of the objectives, is there a specific"
+    },
+    {
+      "start": 294.92,
+      "end": 299.08,
+      "speaker": "SPEAKER_01",
+      "text": "profit margin target that we're wanting to maintain?"
+    },
+    {
+      "start": 299.08,
+      "end": 304.36,
+      "speaker": "SPEAKER_01",
+      "text": "And apart from just reducing the production cost by 5% and the other objectives we should"
+    },
+    {
+      "start": 304.36,
+      "end": 306.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "be aware of?"
+    },
+    {
+      "start": 306.84,
+      "end": 310.0,
+      "speaker": "SPEAKER_04",
+      "text": "I think for now, this is the only objective."
+    },
+    {
+      "start": 310.0,
+      "end": 313.0,
+      "speaker": "SPEAKER_04",
+      "text": "For profit margins, I think we can come to that later, but they want to retain their"
+    },
+    {
+      "start": 313.0,
+      "end": 314.4,
+      "speaker": "SPEAKER_04",
+      "text": "current profit margin."
+    },
+    {
+      "start": 314.4,
+      "end": 315.4,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, got it."
+    },
+    {
+      "start": 315.4,
+      "end": 318.64,
+      "speaker": "SPEAKER_01",
+      "text": "I mean, team, the current profit margin."
+    },
+    {
+      "start": 318.64,
+      "end": 321.44,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, I think this is all the information I need for now."
+    },
+    {
+      "start": 321.44,
+      "end": 325.4,
+      "speaker": "SPEAKER_01",
+      "text": "We love to take a few moments from my framework and then I'll get back to you."
+    },
+    {
+      "start": 325.4,
+      "end": 326.4,
+      "speaker": "SPEAKER_03",
+      "text": "Sure."
+    },
+    {
+      "start": 326.4,
+      "end": 327.4,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 327.4,
+      "end": 330.47999999999996,
+      "speaker": "SPEAKER_03",
+      "text": "Are you looking for a change in your consultant career?"
+    },
+    {
+      "start": 330.47999999999996,
+      "end": 335.64,
+      "speaker": "SPEAKER_03",
+      "text": "Stacks, if we take strategy consulting firm, is hiring now for experienced consultants"
+    },
+    {
+      "start": 335.64,
+      "end": 340.46,
+      "speaker": "SPEAKER_03",
+      "text": "with three to five years of private equity consulting experience across its US and"
+    },
+    {
+      "start": 340.46,
+      "end": 342.28,
+      "speaker": "SPEAKER_03",
+      "text": "London offices."
+    },
+    {
+      "start": 342.28,
+      "end": 347.59999999999997,
+      "speaker": "SPEAKER_03",
+      "text": "Stacks serves private equity firms and their portfolio companies across several key industries,"
+    },
+    {
+      "start": 347.59999999999997,
+      "end": 352.44,
+      "speaker": "SPEAKER_03",
+      "text": "including tech, healthcare, consumer and retail industrials, and more."
+    },
+    {
+      "start": 352.44,
+      "end": 357.12,
+      "speaker": "SPEAKER_03",
+      "text": "Here are three key reasons to consider stacks as the next stop in your consulting career."
+    },
+    {
+      "start": 357.12,
+      "end": 362.15999999999997,
+      "speaker": "SPEAKER_03",
+      "text": "Number one, you'll take charge of your career growth in an entrepreneurial environment."
+    },
+    {
+      "start": 362.16,
+      "end": 366.48,
+      "speaker": "SPEAKER_03",
+      "text": "Number two, you'll create an impact without giving up your weekends."
+    },
+    {
+      "start": 366.48,
+      "end": 371.0,
+      "speaker": "SPEAKER_03",
+      "text": "And number three, you'll get a top tier compensation and benefits package."
+    },
+    {
+      "start": 371.0,
+      "end": 372.8,
+      "speaker": "SPEAKER_03",
+      "text": "What's not to love?"
+    },
+    {
+      "start": 372.8,
+      "end": 378.12,
+      "speaker": "SPEAKER_03",
+      "text": "Explore open roles now at the link in the show notes or visit stacks.com slash careers"
+    },
+    {
+      "start": 378.12,
+      "end": 379.12,
+      "speaker": "SPEAKER_03",
+      "text": "to get started."
+    },
+    {
+      "start": 379.12,
+      "end": 383.28000000000003,
+      "speaker": "SPEAKER_03",
+      "text": "Again, that is stacks.com slash careers."
+    },
+    {
+      "start": 383.28000000000003,
+      "end": 385.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great."
+    },
+    {
+      "start": 385.28000000000003,
+      "end": 387.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you for waiting."
+    },
+    {
+      "start": 387.28000000000003,
+      "end": 391.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "So an understanding how they can create a cost reduction strategy to reduce production"
+    },
+    {
+      "start": 391.84,
+      "end": 393.96,
+      "speaker": "SPEAKER_01",
+      "text": "costs while still maintaining the profit margin."
+    },
+    {
+      "start": 393.96,
+      "end": 397.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "We'd love to look at the four main buckets."
+    },
+    {
+      "start": 397.03999999999996,
+      "end": 399.47999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "First on their current cost structure right now."
+    },
+    {
+      "start": 399.47999999999996,
+      "end": 405.23999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "Second on their revenue and then set a third on their cost reduction strategies and the"
+    },
+    {
+      "start": 405.23999999999995,
+      "end": 408.23999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "fourth wall on their capabilities and a few risks."
+    },
+    {
+      "start": 408.23999999999995,
+      "end": 410.59999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "So first on their cost structure right now."
+    },
+    {
+      "start": 410.59999999999997,
+      "end": 414.28,
+      "speaker": "SPEAKER_01",
+      "text": "Here when we look at two main things, first they're fixed and variable costs for fixed"
+    },
+    {
+      "start": 414.28,
+      "end": 419.64,
+      "speaker": "SPEAKER_01",
+      "text": "costs and thinking things like kind of the manufacturers are able to that they either"
+    },
+    {
+      "start": 419.64,
+      "end": 422.44,
+      "speaker": "SPEAKER_01",
+      "text": "need to contract or they are they doing it in house."
+    },
+    {
+      "start": 422.44,
+      "end": 428.56,
+      "speaker": "SPEAKER_01",
+      "text": "Second of all, any kind of upfront regulation costs that they need to kind of secure things"
+    },
+    {
+      "start": 428.56,
+      "end": 434.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "like ensuring that they have quality control and safety requirements of the spider jet."
+    },
+    {
+      "start": 434.03999999999996,
+      "end": 438.56,
+      "speaker": "SPEAKER_01",
+      "text": "Giving into consideration that they are actually using this as part of the national defense."
+    },
+    {
+      "start": 438.56,
+      "end": 442.32,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of the variable cost, I want to see raw materials."
+    },
+    {
+      "start": 442.32,
+      "end": 445.32,
+      "speaker": "SPEAKER_01",
+      "text": "And so I just want to see a breakdown of their cost structure right now."
+    },
+    {
+      "start": 445.32,
+      "end": 450.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "And the third thing I want to see is specifically looking at the changes in any of these costs"
+    },
+    {
+      "start": 450.15999999999997,
+      "end": 455.32,
+      "speaker": "SPEAKER_01",
+      "text": "over time and whether we are in whether that 5% reduction is actually achievable with"
+    },
+    {
+      "start": 455.32,
+      "end": 460.12,
+      "speaker": "SPEAKER_01",
+      "text": "the trends that we have been seeing right now over time as well as predicted in the future."
+    },
+    {
+      "start": 460.12,
+      "end": 464.32,
+      "speaker": "SPEAKER_01",
+      "text": "Second bucket is revenue on revenue."
+    },
+    {
+      "start": 464.32,
+      "end": 467.68,
+      "speaker": "SPEAKER_01",
+      "text": "This is allowing us to understand the profitability and the profit margin part."
+    },
+    {
+      "start": 467.68,
+      "end": 473.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "So here when we look at volume and price, so this was a silver volume, I want to see if"
+    },
+    {
+      "start": 473.32000000000005,
+      "end": 479.64000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "it decreasing this cost might compromise on the number of kind of fighter jets that we're"
+    },
+    {
+      "start": 479.64000000000004,
+      "end": 480.88000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "able to sell out."
+    },
+    {
+      "start": 480.88000000000005,
+      "end": 486.04,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe there's a kind of perception that if you know certain costs are cunning in the"
+    },
+    {
+      "start": 486.04,
+      "end": 489.76000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "reduction strategy, perhaps people are not more interested in buying from us."
+    },
+    {
+      "start": 489.76000000000005,
+      "end": 493.32000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Second of all, I want to see if there are any strategies to maximize volume."
+    },
+    {
+      "start": 493.32000000000005,
+      "end": 498.56,
+      "speaker": "SPEAKER_01",
+      "text": "So for example, things like having a bulk, a buying bulk volume in order for us to keep"
+    },
+    {
+      "start": 498.56,
+      "end": 500.6,
+      "speaker": "SPEAKER_01",
+      "text": "selling and still protect our bottom line."
+    },
+    {
+      "start": 500.68,
+      "end": 505.48,
+      "speaker": "SPEAKER_01",
+      "text": "Thinking about the price, I'm thinking about whether we can price this, whether we can"
+    },
+    {
+      "start": 505.48,
+      "end": 512.08,
+      "speaker": "SPEAKER_01",
+      "text": "keep the same price given that we're able to decrease our costs or if needed, if we"
+    },
+    {
+      "start": 512.08,
+      "end": 516.72,
+      "speaker": "SPEAKER_01",
+      "text": "can actually price higher in depending on the average price part right now in the market."
+    },
+    {
+      "start": 516.72,
+      "end": 520.44,
+      "speaker": "SPEAKER_01",
+      "text": "It seems like if we already have good partnerships with the British World Force, we might have"
+    },
+    {
+      "start": 520.44,
+      "end": 524.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "a lot of pricing power here so that might not be a big concern here."
+    },
+    {
+      "start": 524.0400000000001,
+      "end": 526.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And the third bucket is on cost reduction."
+    },
+    {
+      "start": 526.68,
+      "end": 532.16,
+      "speaker": "SPEAKER_01",
+      "text": "So here, I want to see a few kind of synergy strategies that we can see if how we can reduce"
+    },
+    {
+      "start": 532.16,
+      "end": 533.16,
+      "speaker": "SPEAKER_01",
+      "text": "this."
+    },
+    {
+      "start": 533.16,
+      "end": 539.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "First, I want to see if we have any benchmarking number with the fighter jets from other"
+    },
+    {
+      "start": 539.8399999999999,
+      "end": 545.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "competitors right now who are also other national defense systems and whether we can, whether"
+    },
+    {
+      "start": 545.4399999999999,
+      "end": 550.88,
+      "speaker": "SPEAKER_01",
+      "text": "our costs are kind of larger in certain categories and whether we can keep it low to their"
+    },
+    {
+      "start": 550.88,
+      "end": 551.88,
+      "speaker": "SPEAKER_01",
+      "text": "levels."
+    },
+    {
+      "start": 551.88,
+      "end": 554.68,
+      "speaker": "SPEAKER_01",
+      "text": "Second of all, I want to see benchmarking with the market."
+    },
+    {
+      "start": 554.68,
+      "end": 559.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So perhaps again, if we can bring that down to the levels, if there's any specific points"
+    },
+    {
+      "start": 559.1999999999999,
+      "end": 563.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "that are that are significant and the third of all things such as renegotiating with our"
+    },
+    {
+      "start": 563.7199999999999,
+      "end": 568.92,
+      "speaker": "SPEAKER_01",
+      "text": "suppliers of raw materials, things that maybe pursue partnerships or producing exclusivity"
+    },
+    {
+      "start": 568.92,
+      "end": 574.64,
+      "speaker": "SPEAKER_01",
+      "text": "deals with like more like defense systems or British raw force would be somewhere else"
+    },
+    {
+      "start": 574.64,
+      "end": 575.64,
+      "speaker": "SPEAKER_01",
+      "text": "and look at."
+    },
+    {
+      "start": 575.64,
+      "end": 578.8,
+      "speaker": "SPEAKER_01",
+      "text": "And then fourth and final bucket on capabilities and risks."
+    },
+    {
+      "start": 578.8,
+      "end": 585.0,
+      "speaker": "SPEAKER_01",
+      "text": "So here first is thinking about if we have the operational and human capability to actually"
+    },
+    {
+      "start": 585.0,
+      "end": 590.5999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "kind of implement this cost production program, how without change the way that our production"
+    },
+    {
+      "start": 590.5999999999999,
+      "end": 592.4,
+      "speaker": "SPEAKER_01",
+      "text": "process are made."
+    },
+    {
+      "start": 592.4,
+      "end": 597.16,
+      "speaker": "SPEAKER_01",
+      "text": "And third and secondly, looking at competition, things like what what will our competitors"
+    },
+    {
+      "start": 597.16,
+      "end": 600.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "be reacting to and how this will affect their bidding and the contract."
+    },
+    {
+      "start": 600.7199999999999,
+      "end": 604.28,
+      "speaker": "SPEAKER_01",
+      "text": "So we love to start first by looking at our cost structure specifically."
+    },
+    {
+      "start": 604.28,
+      "end": 608.64,
+      "speaker": "SPEAKER_01",
+      "text": "If you have any data of a breakdown of our cost historical and projected that will be"
+    },
+    {
+      "start": 608.64,
+      "end": 610.64,
+      "speaker": "SPEAKER_01",
+      "text": "a great place for us to start."
+    },
+    {
+      "start": 610.64,
+      "end": 611.64,
+      "speaker": "SPEAKER_04",
+      "text": "All right."
+    },
+    {
+      "start": 611.64,
+      "end": 613.36,
+      "speaker": "SPEAKER_04",
+      "text": "Thank you so much for breaking it down."
+    },
+    {
+      "start": 613.36,
+      "end": 617.48,
+      "speaker": "SPEAKER_04",
+      "text": "So before we get into sort of the cost breakdown and things like that, I just want to make"
+    },
+    {
+      "start": 617.48,
+      "end": 619.36,
+      "speaker": "SPEAKER_04",
+      "text": "sure that we're on the same page here."
+    },
+    {
+      "start": 619.36,
+      "end": 623.24,
+      "speaker": "SPEAKER_04",
+      "text": "So you mentioned one of the things being the the current cost you want to split it into"
+    },
+    {
+      "start": 623.24,
+      "end": 626.08,
+      "speaker": "SPEAKER_04",
+      "text": "fixed and variable."
+    },
+    {
+      "start": 626.08,
+      "end": 630.52,
+      "speaker": "SPEAKER_04",
+      "text": "You want also fit in over there some of the regulation costs wherever that comes with"
+    },
+    {
+      "start": 630.52,
+      "end": 631.96,
+      "speaker": "SPEAKER_04",
+      "text": "regards to revenue."
+    },
+    {
+      "start": 631.96,
+      "end": 635.04,
+      "speaker": "SPEAKER_04",
+      "text": "You want to see how much room there is in the profitability."
+    },
+    {
+      "start": 635.04,
+      "end": 640.16,
+      "speaker": "SPEAKER_04",
+      "text": "But assuming that we keep the profit margin the same, what are the steps that what are"
+    },
+    {
+      "start": 640.16,
+      "end": 645.4,
+      "speaker": "SPEAKER_04",
+      "text": "the things that you would want to know with regards to the revenue, particularly?"
+    },
+    {
+      "start": 645.4,
+      "end": 647.76,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 647.76,
+      "end": 655.64,
+      "speaker": "SPEAKER_01",
+      "text": "So if we want to keep the profit margin the same, I want to see if perhaps there's any room"
+    },
+    {
+      "start": 655.64,
+      "end": 661.68,
+      "speaker": "SPEAKER_01",
+      "text": "for a brand new to kind of so wanting to first see the trends of our revenue historical"
+    },
+    {
+      "start": 661.68,
+      "end": 668.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "and projected if a revenue has to increase is going to increase a dip below, um, dip below"
+    },
+    {
+      "start": 668.4399999999999,
+      "end": 673.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "5% as in like more than 5% that might be a danger zone for us because that means that"
+    },
+    {
+      "start": 673.4399999999999,
+      "end": 678.0,
+      "speaker": "SPEAKER_01",
+      "text": "we are cutting costs by 5% but our revenue is dipping below than that."
+    },
+    {
+      "start": 678.0,
+      "end": 681.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "However, if our revenue still remains the same or it is still growing, that means that"
+    },
+    {
+      "start": 681.7199999999999,
+      "end": 685.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "not only are we able to maintain our profit margin, but also increase it."
+    },
+    {
+      "start": 685.3199999999999,
+      "end": 689.12,
+      "speaker": "SPEAKER_01",
+      "text": "So I would love to see if there are any kind of again revenue data."
+    },
+    {
+      "start": 689.12,
+      "end": 694.28,
+      "speaker": "SPEAKER_01",
+      "text": "So if there's any room for us to increase our revenue or not prevent our revenue from"
+    },
+    {
+      "start": 694.28,
+      "end": 696.2,
+      "speaker": "SPEAKER_01",
+      "text": "decreasing at least."
+    },
+    {
+      "start": 696.2,
+      "end": 697.52,
+      "speaker": "SPEAKER_04",
+      "text": "Okay, awesome."
+    },
+    {
+      "start": 697.52,
+      "end": 699.76,
+      "speaker": "SPEAKER_04",
+      "text": "And then you mentioned with cost reduction."
+    },
+    {
+      "start": 699.76,
+      "end": 702.44,
+      "speaker": "SPEAKER_04",
+      "text": "So you mentioned such synergy strategies."
+    },
+    {
+      "start": 702.44,
+      "end": 703.64,
+      "speaker": "SPEAKER_04",
+      "text": "What would those entail?"
+    },
+    {
+      "start": 703.64,
+      "end": 704.64,
+      "speaker": "SPEAKER_04",
+      "text": "Do you think?"
+    },
+    {
+      "start": 704.64,
+      "end": 706.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 706.32,
+      "end": 715.16,
+      "speaker": "SPEAKER_01",
+      "text": "So first would be maybe partnerships with different suppliers of raw materials."
+    },
+    {
+      "start": 715.16,
+      "end": 718.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Second of all, it can be still the same partnerships right now."
+    },
+    {
+      "start": 718.56,
+      "end": 721.3599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "But maybe renegotiations with the current suppliers."
+    },
+    {
+      "start": 721.3599999999999,
+      "end": 726.2399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Third of all, maybe if we have, um, you know, I know that we're part of the British"
+    },
+    {
+      "start": 726.2399999999999,
+      "end": 727.2399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "role force."
+    },
+    {
+      "start": 727.2399999999999,
+      "end": 732.04,
+      "speaker": "SPEAKER_01",
+      "text": "So we have any synergies with like certain defense departments or like, uh, like"
+    },
+    {
+      "start": 732.04,
+      "end": 736.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "manufacturing departments within that Royal force and we could, um, kind of decrease our"
+    },
+    {
+      "start": 736.0799999999999,
+      "end": 738.68,
+      "speaker": "SPEAKER_01",
+      "text": "cost there through that synergies as well."
+    },
+    {
+      "start": 738.68,
+      "end": 739.68,
+      "speaker": "SPEAKER_04",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 739.68,
+      "end": 740.68,
+      "speaker": "SPEAKER_04",
+      "text": "All right."
+    },
+    {
+      "start": 740.68,
+      "end": 741.68,
+      "speaker": "SPEAKER_04",
+      "text": "Awesome."
+    },
+    {
+      "start": 741.68,
+      "end": 742.68,
+      "speaker": "SPEAKER_04",
+      "text": "Sounds good."
+    },
+    {
+      "start": 742.68,
+      "end": 746.68,
+      "speaker": "SPEAKER_04",
+      "text": "So I do have, um, a little bit of data with regards to the cost breakdown."
+    },
+    {
+      "start": 746.8399999999999,
+      "end": 749.56,
+      "speaker": "SPEAKER_04",
+      "text": "I just like to share that with you."
+    },
+    {
+      "start": 749.56,
+      "end": 751.8,
+      "speaker": "SPEAKER_04",
+      "text": "Let me know when you can see it."
+    },
+    {
+      "start": 751.8,
+      "end": 752.8,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 752.8,
+      "end": 753.8,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 753.8,
+      "end": 755.12,
+      "speaker": "SPEAKER_01",
+      "text": "I can see it now."
+    },
+    {
+      "start": 755.12,
+      "end": 761.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So this is the, yep, it's showing the cost breakdown in millions US dollars."
+    },
+    {
+      "start": 761.4399999999999,
+      "end": 762.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So let me."
+    },
+    {
+      "start": 762.4399999999999,
+      "end": 763.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Here."
+    },
+    {
+      "start": 763.4399999999999,
+      "end": 764.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 764.4399999999999,
+      "end": 765.4399999999999,
+      "speaker": "UNKNOWN",
+      "text": "Great."
+    },
+    {
+      "start": 765.4399999999999,
+      "end": 766.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Um."
+    },
+    {
+      "start": 766.4399999999999,
+      "end": 767.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 767.4399999999999,
+      "end": 768.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "It seems like."
+    },
+    {
+      "start": 768.6,
+      "end": 769.6,
+      "speaker": "SPEAKER_01",
+      "text": "Um."
+    },
+    {
+      "start": 775.2,
+      "end": 776.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 776.0400000000001,
+      "end": 777.2,
+      "speaker": "SPEAKER_01",
+      "text": "It seems like."
+    },
+    {
+      "start": 777.2,
+      "end": 782.44,
+      "speaker": "SPEAKER_01",
+      "text": "So I have one question here, which is, I know that this is a cost breakdown and there's"
+    },
+    {
+      "start": 782.44,
+      "end": 785.24,
+      "speaker": "SPEAKER_01",
+      "text": "a profit kind of that two million."
+    },
+    {
+      "start": 785.24,
+      "end": 787.8800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Is this part of the cost breakdown or?"
+    },
+    {
+      "start": 787.8800000000001,
+      "end": 788.8800000000001,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah."
+    },
+    {
+      "start": 788.8800000000001,
+      "end": 789.8800000000001,
+      "speaker": "SPEAKER_04",
+      "text": "It is."
+    },
+    {
+      "start": 789.8800000000001,
+      "end": 794.32,
+      "speaker": "SPEAKER_04",
+      "text": "So when we say cost in this sense, the 20 million is the cost to the buyer."
+    },
+    {
+      "start": 794.32,
+      "end": 798.96,
+      "speaker": "SPEAKER_04",
+      "text": "So it includes our profit from this, from this split."
+    },
+    {
+      "start": 798.96,
+      "end": 801.96,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, cost to the buyer."
+    },
+    {
+      "start": 801.96,
+      "end": 802.96,
+      "speaker": "SPEAKER_04",
+      "text": "Project."
+    },
+    {
+      "start": 802.96,
+      "end": 803.96,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, project."
+    },
+    {
+      "start": 803.96,
+      "end": 804.96,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 804.96,
+      "end": 807.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So the profit of two million is the."
+    },
+    {
+      "start": 807.1600000000001,
+      "end": 808.1600000000001,
+      "speaker": "SPEAKER_04",
+      "text": "Yes."
+    },
+    {
+      "start": 808.1600000000001,
+      "end": 813.36,
+      "speaker": "SPEAKER_04",
+      "text": "So on a 20 million dollar jet that we sell, we make two million in profit."
+    },
+    {
+      "start": 813.36,
+      "end": 814.36,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 814.36,
+      "end": 815.36,
+      "speaker": "SPEAKER_01",
+      "text": "Got it."
+    },
+    {
+      "start": 815.36,
+      "end": 816.36,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 816.36,
+      "end": 817.36,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 817.36,
+      "end": 818.36,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 818.36,
+      "end": 822.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So what I can see here is the major costs categories."
+    },
+    {
+      "start": 822.16,
+      "end": 827.52,
+      "speaker": "SPEAKER_01",
+      "text": "They are just purchase, um, sub assemblies and then followed by overhead costs."
+    },
+    {
+      "start": 827.52,
+      "end": 828.52,
+      "speaker": "SPEAKER_01",
+      "text": "So I would."
+    },
+    {
+      "start": 828.52,
+      "end": 833.0,
+      "speaker": "SPEAKER_01",
+      "text": "Um, so given that purchase sub assemblies are around like."
+    },
+    {
+      "start": 833.0,
+      "end": 836.8,
+      "speaker": "SPEAKER_01",
+      "text": "You almost like 45% of our costs right now."
+    },
+    {
+      "start": 836.8,
+      "end": 842.28,
+      "speaker": "SPEAKER_01",
+      "text": "Um, I also double click on this and see why is it that our costs are so high?"
+    },
+    {
+      "start": 842.28,
+      "end": 847.52,
+      "speaker": "SPEAKER_01",
+      "text": "Um, and whether there is room to decrease it and the reduction potential of different strategies"
+    },
+    {
+      "start": 847.52,
+      "end": 848.52,
+      "speaker": "SPEAKER_01",
+      "text": "to do so."
+    },
+    {
+      "start": 848.52,
+      "end": 853.5799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "My hypothesis right now is that perhaps, um, the suppliers that we're purchasing the sub"
+    },
+    {
+      "start": 853.5799999999999,
+      "end": 860.4,
+      "speaker": "SPEAKER_01",
+      "text": "assemblies from are, uh, producing them very inefficiently and or, or they're pricing"
+    },
+    {
+      "start": 860.4,
+      "end": 862.36,
+      "speaker": "SPEAKER_01",
+      "text": "it out of their, their high price."
+    },
+    {
+      "start": 862.36,
+      "end": 866.36,
+      "speaker": "SPEAKER_01",
+      "text": "So maybe switch it to a different supplier or renegotiating contracts with them would"
+    },
+    {
+      "start": 866.36,
+      "end": 872.0,
+      "speaker": "SPEAKER_01",
+      "text": "be somewhere I would want to see next about, um, this specific category."
+    },
+    {
+      "start": 872.0,
+      "end": 873.0,
+      "speaker": "SPEAKER_04",
+      "text": "Mm hmm."
+    },
+    {
+      "start": 873.0,
+      "end": 874.0,
+      "speaker": "SPEAKER_04",
+      "text": "That makes sense."
+    },
+    {
+      "start": 874.0,
+      "end": 879.76,
+      "speaker": "SPEAKER_04",
+      "text": "So if we look at the numbers in the exhibit, uh, let's create a hypothetical situation."
+    },
+    {
+      "start": 879.76,
+      "end": 888.0,
+      "speaker": "SPEAKER_04",
+      "text": "If the sub assembly costs are reduced by 10%, can you calculate for me the resulting savings"
+    },
+    {
+      "start": 888.0,
+      "end": 892.24,
+      "speaker": "SPEAKER_04",
+      "text": "in dollar and percentage turns?"
+    },
+    {
+      "start": 892.24,
+      "end": 897.64,
+      "speaker": "SPEAKER_04",
+      "text": "And how does this impact our overall goal of achieving the 5% production cost reduction?"
+    },
+    {
+      "start": 897.64,
+      "end": 898.64,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 898.64,
+      "end": 899.64,
+      "speaker": "SPEAKER_01",
+      "text": "Got it."
+    },
+    {
+      "start": 899.64,
+      "end": 900.64,
+      "speaker": "UNKNOWN",
+      "text": "Yep."
+    },
+    {
+      "start": 900.64,
+      "end": 902.48,
+      "speaker": "SPEAKER_01",
+      "text": "That sounds good."
+    },
+    {
+      "start": 902.48,
+      "end": 906.48,
+      "speaker": "SPEAKER_01",
+      "text": "So I know that our total cost right now is 20 million."
+    },
+    {
+      "start": 906.48,
+      "end": 910.44,
+      "speaker": "SPEAKER_01",
+      "text": "Uh, okay, 20 million."
+    },
+    {
+      "start": 910.44,
+      "end": 918.84,
+      "speaker": "SPEAKER_01",
+      "text": "Um, if we were able to reduce the purchase sub assemblies by 10%, um, that means that it's"
+    },
+    {
+      "start": 918.84,
+      "end": 924.36,
+      "speaker": "SPEAKER_01",
+      "text": "going to be, so how am I going to purchase is I'm going to start with a multiplying 90%"
+    },
+    {
+      "start": 924.36,
+      "end": 928.44,
+      "speaker": "SPEAKER_01",
+      "text": "by 77 million to understand the new cost after the reduction."
+    },
+    {
+      "start": 928.44,
+      "end": 932.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Um, then, um, I want one to see."
+    },
+    {
+      "start": 932.2800000000001,
+      "end": 933.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Sorry."
+    },
+    {
+      "start": 933.2800000000001,
+      "end": 939.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "How I'm going to do this is I know that assuming that other kind of cost calories remain the same,"
+    },
+    {
+      "start": 939.0400000000001,
+      "end": 940.84,
+      "speaker": "SPEAKER_01",
+      "text": "it would decreases by 10%."
+    },
+    {
+      "start": 940.84,
+      "end": 946.4000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Then I assume that the total cost will also be reduced by 10%."
+    },
+    {
+      "start": 946.4000000000001,
+      "end": 951.36,
+      "speaker": "SPEAKER_01",
+      "text": "So just wanted to make sure if this is what you're looking for, if there's any other approach"
+    },
+    {
+      "start": 951.36,
+      "end": 954.24,
+      "speaker": "SPEAKER_01",
+      "text": "that you think are better."
+    },
+    {
+      "start": 954.24,
+      "end": 958.08,
+      "speaker": "SPEAKER_04",
+      "text": "So over here, we're talking specifically about the purchase sub assemblies."
+    },
+    {
+      "start": 958.08,
+      "end": 959.08,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah."
+    },
+    {
+      "start": 959.08,
+      "end": 960.28,
+      "speaker": "SPEAKER_04",
+      "text": "Seven point seven million."
+    },
+    {
+      "start": 960.28,
+      "end": 965.8,
+      "speaker": "SPEAKER_04",
+      "text": "So what we're saying is if there was a 10% reduction in that particular cost, uh, how"
+    },
+    {
+      "start": 965.8,
+      "end": 969.08,
+      "speaker": "SPEAKER_04",
+      "text": "would it impact our overall sort of target?"
+    },
+    {
+      "start": 969.08,
+      "end": 973.72,
+      "speaker": "SPEAKER_04",
+      "text": "Like what percentage saving could it bring us, uh, overall?"
+    },
+    {
+      "start": 973.72,
+      "end": 974.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 974.72,
+      "end": 975.72,
+      "speaker": "SPEAKER_01",
+      "text": "Got it."
+    },
+    {
+      "start": 975.72,
+      "end": 976.72,
+      "speaker": "SPEAKER_01",
+      "text": "That sounds good."
+    },
+    {
+      "start": 976.72,
+      "end": 979.36,
+      "speaker": "SPEAKER_01",
+      "text": "So seven, so I'm going to do seven point seven million."
+    },
+    {
+      "start": 979.72,
+      "end": 983.04,
+      "speaker": "SPEAKER_01",
+      "text": "Multiply by 10% to see what the reduction number is."
+    },
+    {
+      "start": 983.04,
+      "end": 988.08,
+      "speaker": "SPEAKER_01",
+      "text": "And then I'm going to divide that by 20 million to see the percentage, um, in savings."
+    },
+    {
+      "start": 988.08,
+      "end": 989.4,
+      "speaker": "SPEAKER_01",
+      "text": "How does that sound to you?"
+    },
+    {
+      "start": 990.04,
+      "end": 991.08,
+      "speaker": "SPEAKER_04",
+      "text": "It sounds good to go ahead."
+    },
+    {
+      "start": 991.8000000000001,
+      "end": 992.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 992.8000000000001,
+      "end": 996.72,
+      "speaker": "SPEAKER_01",
+      "text": "So seven point seven million multiplied by 10% is going to be, um,"
+    },
+    {
+      "start": 998.6,
+      "end": 1002.08,
+      "speaker": "SPEAKER_01",
+      "text": "seven hundred and seventy, uh, seven hundred and seventy K."
+    },
+    {
+      "start": 1002.4,
+      "end": 1005.08,
+      "speaker": "SPEAKER_01",
+      "text": "Then I'll divide that by 20 million."
+    },
+    {
+      "start": 1005.64,
+      "end": 1006.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So, okay."
+    },
+    {
+      "start": 1007.04,
+      "end": 1011.4,
+      "speaker": "SPEAKER_01",
+      "text": "So seven hundred and seventy, seven K divided by two thousand K."
+    },
+    {
+      "start": 1011.92,
+      "end": 1016.28,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm divided by two hundred, which is, um,"
+    },
+    {
+      "start": 1017.1999999999999,
+      "end": 1019.12,
+      "speaker": "SPEAKER_01",
+      "text": "seven divided by is"
+    },
+    {
+      "start": 1022.4799999999999,
+      "end": 1024.72,
+      "speaker": "SPEAKER_01",
+      "text": "38.5%."
+    },
+    {
+      "start": 1024.72,
+      "end": 1034.8,
+      "speaker": "SPEAKER_01",
+      "text": "So we're actually being able to save 38.5% in total if we're able to reduce our, um,"
+    },
+    {
+      "start": 1035.48,
+      "end": 1038.76,
+      "speaker": "SPEAKER_01",
+      "text": "purchase subassemblies by, um, 10%."
+    },
+    {
+      "start": 1038.76,
+      "end": 1040.44,
+      "speaker": "SPEAKER_01",
+      "text": "How does that number sound to you?"
+    },
+    {
+      "start": 1041.76,
+      "end": 1044.8,
+      "speaker": "SPEAKER_04",
+      "text": "Um, I think I would look at that, that number again."
+    },
+    {
+      "start": 1045.04,
+      "end": 1046.12,
+      "speaker": "SPEAKER_04",
+      "text": "I think you're on the right path."
+    },
+    {
+      "start": 1046.6399999999999,
+      "end": 1053.28,
+      "speaker": "SPEAKER_04",
+      "text": "Uh, but given that we only reduced 10% of a part of a hundred percent."
+    },
+    {
+      "start": 1053.76,
+      "end": 1057.2,
+      "speaker": "SPEAKER_04",
+      "text": "I don't know if the entire savings can be 38.5%."
+    },
+    {
+      "start": 1057.6399999999999,
+      "end": 1060.9199999999998,
+      "speaker": "SPEAKER_04",
+      "text": "Uh, thanks, Sanjay, but I think we let, uh, let's do this one."
+    },
+    {
+      "start": 1062.9199999999998,
+      "end": 1063.76,
+      "speaker": "SPEAKER_01",
+      "text": "That sounds good."
+    },
+    {
+      "start": 1063.96,
+      "end": 1068.96,
+      "speaker": "SPEAKER_01",
+      "text": "So, um, I'm going to pretend to not hear what was said."
+    },
+    {
+      "start": 1068.96,
+      "end": 1073.2,
+      "speaker": "SPEAKER_01",
+      "text": "So, um, 77 divided by two hundred."
+    },
+    {
+      "start": 1076.64,
+      "end": 1081.8,
+      "speaker": "SPEAKER_01",
+      "text": "So sorry, yes, 20 million is 20,000 K, not 2,000 K."
+    },
+    {
+      "start": 1082.08,
+      "end": 1087.04,
+      "speaker": "SPEAKER_01",
+      "text": "So that means that it's 3.85% in savings in total."
+    },
+    {
+      "start": 1087.04,
+      "end": 1091.44,
+      "speaker": "SPEAKER_01",
+      "text": "So not quite there yet in terms of the 5% goal that we are looking at."
+    },
+    {
+      "start": 1091.6000000000001,
+      "end": 1094.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I would love to, um, two main things."
+    },
+    {
+      "start": 1094.0,
+      "end": 1100.0,
+      "speaker": "SPEAKER_01",
+      "text": "First, if we can reduce this purchase subassemblies by more than 10% maybe to like 15%"
+    },
+    {
+      "start": 1100.3200000000002,
+      "end": 1103.52,
+      "speaker": "SPEAKER_01",
+      "text": "or we think reducing other costs such as overhead costs."
+    },
+    {
+      "start": 1103.52,
+      "end": 1106.44,
+      "speaker": "SPEAKER_01",
+      "text": "So, um, if there's any data on that, I'd love to see them."
+    },
+    {
+      "start": 1107.24,
+      "end": 1108.4,
+      "speaker": "SPEAKER_04",
+      "text": "Sounds good. Sounds good."
+    },
+    {
+      "start": 1108.76,
+      "end": 1110.68,
+      "speaker": "SPEAKER_04",
+      "text": "And, um, I think that's fair."
+    },
+    {
+      "start": 1111.3600000000001,
+      "end": 1113.28,
+      "speaker": "SPEAKER_04",
+      "text": "Now, sort of going from there."
+    },
+    {
+      "start": 1113.28,
+      "end": 1116.3200000000002,
+      "speaker": "SPEAKER_04",
+      "text": "So we know that we're not reaching the 5% target as of yet with this,"
+    },
+    {
+      "start": 1116.3200000000002,
+      "end": 1118.4,
+      "speaker": "SPEAKER_04",
+      "text": "we're going to have to tinker around a little bit with the numbers."
+    },
+    {
+      "start": 1118.88,
+      "end": 1122.72,
+      "speaker": "SPEAKER_04",
+      "text": "But if, as you know, subassemblies are a big cost driver,"
+    },
+    {
+      "start": 1123.2800000000002,
+      "end": 1128.5600000000002,
+      "speaker": "SPEAKER_04",
+      "text": "uh, but the British Ministry of Defense allows commercial off the shelf purchases,"
+    },
+    {
+      "start": 1128.5600000000002,
+      "end": 1130.5600000000002,
+      "speaker": "SPEAKER_04",
+      "text": "as long as the quality standards are met."
+    },
+    {
+      "start": 1131.44,
+      "end": 1133.44,
+      "speaker": "SPEAKER_04",
+      "text": "Uh, if we have that level of flexibility,"
+    },
+    {
+      "start": 1133.92,
+      "end": 1139.1200000000001,
+      "speaker": "SPEAKER_04",
+      "text": "how can we bring down the subassembly costs without compromising performance or compliance?"
+    },
+    {
+      "start": 1140.48,
+      "end": 1141.2800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great."
+    },
+    {
+      "start": 1141.68,
+      "end": 1146.16,
+      "speaker": "SPEAKER_01",
+      "text": "Without compromising on performance and compliance,"
+    },
+    {
+      "start": 1146.16,
+      "end": 1149.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "given the flexibility of, um,"
+    },
+    {
+      "start": 1150.72,
+      "end": 1153.52,
+      "speaker": "SPEAKER_01",
+      "text": "kind of offering off the shelf purchases."
+    },
+    {
+      "start": 1154.4,
+      "end": 1155.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great."
+    },
+    {
+      "start": 1155.0400000000002,
+      "end": 1163.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So in understanding, um, how we can achieve a reduction in costs through this program without,"
+    },
+    {
+      "start": 1165.1200000000001,
+      "end": 1167.44,
+      "speaker": "SPEAKER_01",
+      "text": "um, compromising on performance and"
+    },
+    {
+      "start": 1168.4,
+      "end": 1173.68,
+      "speaker": "SPEAKER_01",
+      "text": "compliances, I don't look at mainly kind of three main buckets, um, here."
+    },
+    {
+      "start": 1173.68,
+      "end": 1180.48,
+      "speaker": "SPEAKER_01",
+      "text": "So first is on in terms of our, um, performance of the subassemblies themselves."
+    },
+    {
+      "start": 1180.48,
+      "end": 1187.28,
+      "speaker": "SPEAKER_01",
+      "text": "Second of all, is on the, uh, kind of distribution channel that we're, um,"
+    },
+    {
+      "start": 1187.28,
+      "end": 1190.56,
+      "speaker": "SPEAKER_01",
+      "text": "thinking about through the off the shelf and third of all is on, uh,"
+    },
+    {
+      "start": 1190.56,
+      "end": 1191.2,
+      "speaker": "SPEAKER_01",
+      "text": "compliance."
+    },
+    {
+      "start": 1191.2,
+      "end": 1196.48,
+      "speaker": "SPEAKER_01",
+      "text": "So first on performance, I think in order to, um, kind of"
+    },
+    {
+      "start": 1197.04,
+      "end": 1201.6,
+      "speaker": "SPEAKER_01",
+      "text": "maintain the same performance, I'm thinking about things like having standardized rules across,"
+    },
+    {
+      "start": 1202.08,
+      "end": 1208.8,
+      "speaker": "SPEAKER_01",
+      "text": "um, all the sub, uh, all of the retailers that we're able that we, that they have released from us to"
+    },
+    {
+      "start": 1208.8,
+      "end": 1215.68,
+      "speaker": "SPEAKER_01",
+      "text": "actually sell these, um, subassemblies off the shelf to really ensure it is meet with what we"
+    },
+    {
+      "start": 1215.68,
+      "end": 1217.6,
+      "speaker": "SPEAKER_01",
+      "text": "really look for in our contracts."
+    },
+    {
+      "start": 1217.6,
+      "end": 1223.04,
+      "speaker": "SPEAKER_01",
+      "text": "Second of all, we want to see if there we have a kind of dedicated team right now to,"
+    },
+    {
+      "start": 1223.12,
+      "end": 1227.44,
+      "speaker": "SPEAKER_01",
+      "text": "in terms of our direct labor to maybe think about performance control and really reviewing"
+    },
+    {
+      "start": 1227.44,
+      "end": 1230.24,
+      "speaker": "SPEAKER_01",
+      "text": "the performance and ensuring it's up to standards."
+    },
+    {
+      "start": 1230.24,
+      "end": 1234.32,
+      "speaker": "SPEAKER_01",
+      "text": "And second of all, looking at our distribution channels right now,"
+    },
+    {
+      "start": 1234.32,
+      "end": 1240.08,
+      "speaker": "SPEAKER_01",
+      "text": "thinking about choosing the right partners for this, uh, for people who would do off the shelf"
+    },
+    {
+      "start": 1240.08,
+      "end": 1245.68,
+      "speaker": "SPEAKER_01",
+      "text": "and third of all, in terms of compliance, um, here, I want to see if there are any kind of new standards"
+    },
+    {
+      "start": 1245.68,
+      "end": 1251.04,
+      "speaker": "SPEAKER_01",
+      "text": "that we need to be thinking about, uh, for new oversight or second of all, um, maybe thinking about,"
+    },
+    {
+      "start": 1251.76,
+      "end": 1259.52,
+      "speaker": "SPEAKER_01",
+      "text": "having this like, uh, like from the Royal Air Force to really, um, dictate if which ones on"
+    },
+    {
+      "start": 1259.52,
+      "end": 1262.8,
+      "speaker": "SPEAKER_01",
+      "text": "off the shelf would be, um, the ones that we would want to partner with."
+    },
+    {
+      "start": 1262.8,
+      "end": 1266.56,
+      "speaker": "SPEAKER_01",
+      "text": "So I'd love to see if there are any kind of information on that."
+    },
+    {
+      "start": 1267.36,
+      "end": 1272.08,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah, I think you broken it down quite well, but what I want to understand from you is,"
+    },
+    {
+      "start": 1273.04,
+      "end": 1274.8799999999999,
+      "speaker": "SPEAKER_04",
+      "text": "specific strategies that you could use."
+    },
+    {
+      "start": 1274.8799999999999,
+      "end": 1277.36,
+      "speaker": "SPEAKER_04",
+      "text": "For example, you talked about operational stuff."
+    },
+    {
+      "start": 1277.36,
+      "end": 1282.24,
+      "speaker": "SPEAKER_04",
+      "text": "So an example of that, perhaps what I was thinking was maybe operational improvements,"
+    },
+    {
+      "start": 1282.24,
+      "end": 1287.28,
+      "speaker": "SPEAKER_04",
+      "text": "meaning beyond just, you know, looking at, can we source it cheaper, looking at things like,"
+    },
+    {
+      "start": 1287.28,
+      "end": 1290.8,
+      "speaker": "SPEAKER_04",
+      "text": "okay, can we improve our manufacturing technique, cut waste, things like that?"
+    },
+    {
+      "start": 1290.8,
+      "end": 1295.36,
+      "speaker": "SPEAKER_04",
+      "text": "Can you think of more things along those lines as to how, uh, we can potentially,"
+    },
+    {
+      "start": 1296.6399999999999,
+      "end": 1300.9599999999998,
+      "speaker": "SPEAKER_04",
+      "text": "by buying these off the shelf things and improving parts of our manufacturing, how we can somehow"
+    },
+    {
+      "start": 1300.9599999999998,
+      "end": 1301.52,
+      "speaker": "SPEAKER_04",
+      "text": "reduce cost?"
+    },
+    {
+      "start": 1301.68,
+      "end": 1304.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, yes, absolutely."
+    },
+    {
+      "start": 1304.32,
+      "end": 1312.8,
+      "speaker": "SPEAKER_01",
+      "text": "So I think first, um, in terms of, uh, looking at, so what I'm going to do is I want to see in terms of our,"
+    },
+    {
+      "start": 1313.6,
+      "end": 1316.24,
+      "speaker": "SPEAKER_01",
+      "text": "um, kind of value chain right now."
+    },
+    {
+      "start": 1316.24,
+      "end": 1322.24,
+      "speaker": "SPEAKER_01",
+      "text": "So first is I want to look at, um, the kind of production process and secondly,"
+    },
+    {
+      "start": 1322.24,
+      "end": 1327.04,
+      "speaker": "SPEAKER_01",
+      "text": "we're going to look at the distribution and then the shipping, um, process to the, uh, uh,"
+    },
+    {
+      "start": 1327.04,
+      "end": 1330.72,
+      "speaker": "SPEAKER_01",
+      "text": "uh, uh, and then so the first thing is in terms of production."
+    },
+    {
+      "start": 1330.8,
+      "end": 1337.44,
+      "speaker": "SPEAKER_01",
+      "text": "You want to see if, um, kind of we can have things like just in time, inventory from the raw material,"
+    },
+    {
+      "start": 1338.16,
+      "end": 1342.72,
+      "speaker": "SPEAKER_01",
+      "text": "from suppliers to reduce holding costs. I know that holding costs is a big thing,"
+    },
+    {
+      "start": 1342.72,
+      "end": 1347.76,
+      "speaker": "SPEAKER_01",
+      "text": "especially for defense. Um, you would want to ensure that these are kept in safety conditions"
+    },
+    {
+      "start": 1347.76,
+      "end": 1351.92,
+      "speaker": "SPEAKER_01",
+      "text": "without them having to like, explode and harm a lot of people. Um, because that's the"
+    },
+    {
+      "start": 1351.92,
+      "end": 1358.72,
+      "speaker": "SPEAKER_01",
+      "text": "whole I want to see if there, um, if we can manage defects, uh, in terms of, um, having certain parts"
+    },
+    {
+      "start": 1358.72,
+      "end": 1363.84,
+      "speaker": "SPEAKER_01",
+      "text": "of the, it's supposed, uh, parts of the jets that are, um, manufactured with defects. I know"
+    },
+    {
+      "start": 1363.84,
+      "end": 1369.68,
+      "speaker": "SPEAKER_01",
+      "text": "that sometimes these defective items are only, we have to hire like labor to like redo them again,"
+    },
+    {
+      "start": 1369.68,
+      "end": 1374.96,
+      "speaker": "SPEAKER_01",
+      "text": "but also they cost a lot in terms of waste. Then, and then, third of all, I want to see if there"
+    },
+    {
+      "start": 1374.96,
+      "end": 1380.08,
+      "speaker": "SPEAKER_01",
+      "text": "are sand rice training programs in terms of manufacturing process to ensure that they follow the"
+    },
+    {
+      "start": 1380.08,
+      "end": 1384.96,
+      "speaker": "SPEAKER_01",
+      "text": "rules and to ensure that, um, you know, you don't have to do corrective steps, um, along the way."
+    },
+    {
+      "start": 1385.76,
+      "end": 1391.28,
+      "speaker": "SPEAKER_01",
+      "text": "And so those are the ones that I, um, can think of, but also I would love to see if we are thinking"
+    },
+    {
+      "start": 1391.28,
+      "end": 1396.88,
+      "speaker": "SPEAKER_04",
+      "text": "about any of those strategies right now. Yeah. No, those are all great ideas, but specifically"
+    },
+    {
+      "start": 1396.88,
+      "end": 1401.6000000000001,
+      "speaker": "SPEAKER_04",
+      "text": "from the commercial angle. Let's say that you know exactly which product that you want to buy."
+    },
+    {
+      "start": 1401.6000000000001,
+      "end": 1405.8400000000001,
+      "speaker": "SPEAKER_04",
+      "text": "There's a pool of suppliers, which is now certainly opened up to you. How would you go about making"
+    },
+    {
+      "start": 1405.8400000000001,
+      "end": 1409.2,
+      "speaker": "SPEAKER_04",
+      "text": "sure, um, that you're getting a good competitive price?"
+    },
+    {
+      "start": 1410.0,
+      "end": 1417.44,
+      "speaker": "SPEAKER_01",
+      "text": "I got it. So just to kind of understand that question correctly, um, we know we have a different"
+    },
+    {
+      "start": 1417.44,
+      "end": 1422.72,
+      "speaker": "SPEAKER_01",
+      "text": "pools of suppliers. How do I ensure that I can get, um, that off the shelf with a competitive price?"
+    },
+    {
+      "start": 1424.8,
+      "end": 1428.16,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Um, great. So,"
+    },
+    {
+      "start": 1433.1200000000001,
+      "end": 1438.24,
+      "speaker": "SPEAKER_01",
+      "text": "okay, that's a very, very great question. So I understand how we can get two"
+    },
+    {
+      "start": 1438.24,
+      "end": 1445.44,
+      "speaker": "SPEAKER_01",
+      "text": "suppliers that we're able to get, um, at a competitive price. Um, I would want to see"
+    },
+    {
+      "start": 1446.72,
+      "end": 1454.24,
+      "speaker": "SPEAKER_01",
+      "text": "first in terms of the kind of benchmarking that with the volume of, uh, of the jets that we're"
+    },
+    {
+      "start": 1454.24,
+      "end": 1460.4,
+      "speaker": "SPEAKER_01",
+      "text": "able to get from that part. What I mean by this is, as far as have, you know, they have like 500 jets"
+    },
+    {
+      "start": 1460.4,
+      "end": 1466.08,
+      "speaker": "SPEAKER_01",
+      "text": "out of price of $3 versus like 1000 jets at a price of like, um, five dollars. So which one"
+    },
+    {
+      "start": 1466.56,
+      "end": 1473.04,
+      "speaker": "SPEAKER_01",
+      "text": "has a kind of better deal, better bang for a book. So better, more volume, but at a discounted price."
+    },
+    {
+      "start": 1473.04,
+      "end": 1475.04,
+      "speaker": "SPEAKER_04",
+      "text": "Um, so the volume discount, okay."
+    },
+    {
+      "start": 1475.52,
+      "end": 1482.32,
+      "speaker": "SPEAKER_01",
+      "text": "Volume discount. Second of all is looking at a quality. So whatever matches, uh, with our quality,"
+    },
+    {
+      "start": 1482.32,
+      "end": 1487.6,
+      "speaker": "SPEAKER_01",
+      "text": "so the quality that we're thinking about, like, the range that the fighter jet can fly to or like"
+    },
+    {
+      "start": 1487.6,
+      "end": 1494.32,
+      "speaker": "SPEAKER_01",
+      "text": "the number of the different types of like miles that they can actually perform, um, the things"
+    },
+    {
+      "start": 1494.3999999999999,
+      "end": 1500.8,
+      "speaker": "SPEAKER_01",
+      "text": "in whether it makes sense for their, um, price or not. In third is just internally, like, whether"
+    },
+    {
+      "start": 1501.28,
+      "end": 1506.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "we're able to afford it at a certain price because we still want to maintain our margin at five"
+    },
+    {
+      "start": 1506.8,
+      "end": 1513.2,
+      "speaker": "SPEAKER_01",
+      "text": "percent. We don't want that cost to be, um, you know, even larger than the ones that we're"
+    },
+    {
+      "start": 1513.2,
+      "end": 1519.76,
+      "speaker": "SPEAKER_04",
+      "text": "already purchasing, purchasing right now. Okay. Sounds good. I think those are all very actionable"
+    },
+    {
+      "start": 1519.84,
+      "end": 1526.56,
+      "speaker": "SPEAKER_04",
+      "text": "recommendations, uh, just for sort of one more hypothetical situation. So you can see the,"
+    },
+    {
+      "start": 1526.56,
+      "end": 1530.8,
+      "speaker": "SPEAKER_04",
+      "text": "the subassemblies account for 40% of the jet's total cost, right?"
+    },
+    {
+      "start": 1532.08,
+      "end": 1539.76,
+      "speaker": "SPEAKER_04",
+      "text": "Um, 70% of that subassembly cost is attributed to the purchased materials."
+    },
+    {
+      "start": 1541.12,
+      "end": 1548.56,
+      "speaker": "SPEAKER_04",
+      "text": "What I mean by that is 70% of this subassembly cost is materials that, wherever you're buying the"
+    },
+    {
+      "start": 1548.56,
+      "end": 1555.84,
+      "speaker": "SPEAKER_04",
+      "text": "purchase our subassemblies from is spending on it. 70% on materials to make these purchase subassemblies."
+    },
+    {
+      "start": 1557.2,
+      "end": 1562.96,
+      "speaker": "SPEAKER_04",
+      "text": "If the subassembly supplier reduces the cost of those purchased materials by 20%"
+    },
+    {
+      "start": 1563.9199999999998,
+      "end": 1570.48,
+      "speaker": "SPEAKER_04",
+      "text": "how much would that lower the overall jet cost? Okay. How much that will cost? Uh,"
+    },
+    {
+      "start": 1570.48,
+      "end": 1577.6,
+      "speaker": "SPEAKER_01",
+      "text": "will lower the overall, um, jet costs. Uh-huh. Great. So let me just take a moment here."
+    },
+    {
+      "start": 1577.6,
+      "end": 1585.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Is 70% which is very large number. It comes from this purchase materials, um, and then I've reduced"
+    },
+    {
+      "start": 1585.1999999999998,
+      "end": 1591.28,
+      "speaker": "SPEAKER_01",
+      "text": "this by 20%. Okay. Great. So how I'm going to approach this is I know that purchase subassemblies"
+    },
+    {
+      "start": 1591.28,
+      "end": 1600.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "constitute of 40% of our total cost, uh, 70% of that 40% of our total cost is for the purchased"
+    },
+    {
+      "start": 1600.1599999999999,
+      "end": 1607.12,
+      "speaker": "SPEAKER_01",
+      "text": "materials and make these subassemblies. Uh, in order to find the impact on the total cost,"
+    },
+    {
+      "start": 1607.12,
+      "end": 1615.52,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to do this is I'm going to take 20% which is the reduction impact, multiply that by 40%"
+    },
+    {
+      "start": 1615.52,
+      "end": 1621.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "and then multiply that by 70%. To find out the overall impact, how does that sound to you?"
+    },
+    {
+      "start": 1622.0,
+      "end": 1626.1599999999999,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah, I think there's a few ways to do it. How about you do the math and then we can sort of discuss"
+    },
+    {
+      "start": 1626.1599999999999,
+      "end": 1635.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "the steps. Okay. Got it. So, um, uh, the purchase materials constitutes of 28% of our cost, um,"
+    },
+    {
+      "start": 1635.68,
+      "end": 1645.92,
+      "speaker": "SPEAKER_01",
+      "text": "over total cost. If reduce that by 20%. I know that the impact of that is 20% of 28%, which is"
+    },
+    {
+      "start": 1645.92,
+      "end": 1655.2,
+      "speaker": "SPEAKER_01",
+      "text": "going to be 5.6% in terms of the total reduction. How does that number sound to you? How does it sound to you?"
+    },
+    {
+      "start": 1655.76,
+      "end": 1661.76,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, it sounds like a great number to me because it hits that target of 5% even a little bit more"
+    },
+    {
+      "start": 1661.76,
+      "end": 1669.84,
+      "speaker": "SPEAKER_01",
+      "text": "than that. Um, and, um, I think now that we know that a big part of, um, our major cost"
+    },
+    {
+      "start": 1669.84,
+      "end": 1674.64,
+      "speaker": "SPEAKER_01",
+      "text": "category comes from purchase materials if we're able to reduce it by 20% from renegotiating"
+    },
+    {
+      "start": 1674.64,
+      "end": 1682.16,
+      "speaker": "SPEAKER_01",
+      "text": "versus suppliers, this will really be that big lever for us to reduce by 5.6%. If we also pair that"
+    },
+    {
+      "start": 1682.72,
+      "end": 1690.24,
+      "speaker": "SPEAKER_01",
+      "text": "with, um, yes, if we also pair that with any other synergies that we can definitely explore next,"
+    },
+    {
+      "start": 1690.24,
+      "end": 1696.8,
+      "speaker": "SPEAKER_01",
+      "text": "we can even push that target, uh, even more than 5% but this looks like a great, uh, place for us to be"
+    },
+    {
+      "start": 1696.8,
+      "end": 1703.36,
+      "speaker": "SPEAKER_04",
+      "text": "at. Awesome. That sounds really good. Now, just to close off, the client has asked for a formal"
+    },
+    {
+      "start": 1703.36,
+      "end": 1708.32,
+      "speaker": "SPEAKER_04",
+      "text": "recommendation after all of this analysis that we've been through, what would be a formal recommendation"
+    },
+    {
+      "start": 1708.32,
+      "end": 1714.08,
+      "speaker": "SPEAKER_00",
+      "text": "to the client? We surveyed 250 candidates who got offers that firms like McKinsey, Bane,"
+    },
+    {
+      "start": 1714.1599999999999,
+      "end": 1720.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "BCG, Deloitte and Accenture and we asked them how many cases did you practice before you landed"
+    },
+    {
+      "start": 1720.8799999999999,
+      "end": 1727.76,
+      "speaker": "SPEAKER_00",
+      "text": "your offer? And the answer was an average of 22 cases. If you haven't already started your prep,"
+    },
+    {
+      "start": 1727.76,
+      "end": 1732.48,
+      "speaker": "SPEAKER_00",
+      "text": "you're following behind your peers. And this isn't meant to scare you, it's meant to urge you to take"
+    },
+    {
+      "start": 1732.48,
+      "end": 1738.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "action today. I needed that urgency to get a successful offer at bay. If you need expert support"
+    },
+    {
+      "start": 1738.96,
+      "end": 1743.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "or additional guidance, join our Black Belt Case Prep Program. They'll work one-on-one with an"
+    },
+    {
+      "start": 1743.3600000000001,
+      "end": 1749.5200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "MBB coach to get case interview ready, including a tailored prep plan that's customized just for you."
+    },
+    {
+      "start": 1749.5200000000002,
+      "end": 1754.48,
+      "speaker": "SPEAKER_00",
+      "text": "Our cohorts are phenomenal and they always sell out. Go to the link in the description to learn"
+    },
+    {
+      "start": 1754.48,
+      "end": 1760.0,
+      "speaker": "SPEAKER_00",
+      "text": "more about Black Belt and Join today. Your consulting offer is just one decision away."
+    },
+    {
+      "start": 1762.48,
+      "end": 1768.4,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great. Thank you so much for our initial work on this case. We were tasked to understand"
+    },
+    {
+      "start": 1768.4,
+      "end": 1773.92,
+      "speaker": "SPEAKER_01",
+      "text": "how we can reduce the production costs of your fighter jets by 5% while maintaining the profit."
+    },
+    {
+      "start": 1775.1200000000001,
+      "end": 1782.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "And I would recommend to you to read and go to a supplier to reduce the purchase materials to make"
+    },
+    {
+      "start": 1782.3200000000002,
+      "end": 1791.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "sub assemblies by 20%. Because that will be able to bring us to that target of 5.6% of total"
+    },
+    {
+      "start": 1791.6000000000001,
+      "end": 1796.88,
+      "speaker": "SPEAKER_01",
+      "text": "reduction of costs while still maintaining the same profit margin. Because we noticed that"
+    },
+    {
+      "start": 1796.96,
+      "end": 1802.64,
+      "speaker": "SPEAKER_01",
+      "text": "purchase assemblies are the biggest cost categories of 40% of our current costs right now."
+    },
+    {
+      "start": 1802.64,
+      "end": 1807.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "A material 70% of that. The next steps for the risk for us here is that"
+    },
+    {
+      "start": 1809.5200000000002,
+      "end": 1814.8000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "we want to see if this reduction potential of 20%, which definitely sounds ambitious in the first"
+    },
+    {
+      "start": 1814.8000000000002,
+      "end": 1822.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "year I assume, can be achieved or not. Definitely, when it comes to defense, things such as renegotiations"
+    },
+    {
+      "start": 1822.08,
+      "end": 1827.6,
+      "speaker": "SPEAKER_01",
+      "text": "of ours is very hard given that the market is not really controlled, really regularly,"
+    },
+    {
+      "start": 1827.6,
+      "end": 1832.24,
+      "speaker": "SPEAKER_01",
+      "text": "it really heavily. And so that might not be a lot of a wakeover in for us to do that. But in terms"
+    },
+    {
+      "start": 1832.24,
+      "end": 1837.6,
+      "speaker": "SPEAKER_01",
+      "text": "of the next steps, I would love to propose a phase two of the strategy to really dig into how we can"
+    },
+    {
+      "start": 1838.32,
+      "end": 1843.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "do this cost reduction, the cadetism by 20% and whether we can hit that goal or not, if we don't"
+    },
+    {
+      "start": 1843.9199999999998,
+      "end": 1850.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "hit that goal, maybe we can do a tiered reduction strategy of reducing maybe overhead cost by other"
+    },
+    {
+      "start": 1850.96,
+      "end": 1857.76,
+      "speaker": "SPEAKER_04",
+      "text": "means, which we're very willing to help. I think you already can certainly try to sell the follow-on case."
+    },
+    {
+      "start": 1859.1200000000001,
+      "end": 1864.64,
+      "speaker": "SPEAKER_04",
+      "text": "No, very nice. But yeah, okay, that closes it off. Okay, how did that feel for you?"
+    },
+    {
+      "start": 1866.4,
+      "end": 1874.72,
+      "speaker": "SPEAKER_01",
+      "text": "The 38.5% list. I have no idea why I got to do it. I thought that it makes sense. I could have"
+    },
+    {
+      "start": 1874.72,
+      "end": 1882.08,
+      "speaker": "SPEAKER_01",
+      "text": "sensed chapped it, because it makes zero sense. So it was a little bit sad that I got that wrong."
+    },
+    {
+      "start": 1882.08,
+      "end": 1889.44,
+      "speaker": "SPEAKER_01",
+      "text": "That's okay. It was really hard though. I've not done defense case and I do not understand"
+    },
+    {
+      "start": 1889.44,
+      "end": 1896.88,
+      "speaker": "SPEAKER_01",
+      "text": "the 80% of your questions. So I'm trying to just be fine with it. But I think we've got a"
+    },
+    {
+      "start": 1896.88,
+      "end": 1902.8,
+      "speaker": "SPEAKER_04",
+      "text": "full and a full tier of feedback. No, I think it was good. I mean, I can give you sort of my"
+    },
+    {
+      "start": 1903.28,
+      "end": 1908.72,
+      "speaker": "SPEAKER_04",
+      "text": "detailed feedback now. I think we have a little bit of time. All right, so I think overall,"
+    },
+    {
+      "start": 1908.72,
+      "end": 1913.68,
+      "speaker": "SPEAKER_04",
+      "text": "I think you did quite well. Barring a couple of the math mistakes, I think you were able to"
+    },
+    {
+      "start": 1913.68,
+      "end": 1920.48,
+      "speaker": "SPEAKER_04",
+      "text": "structure it reasonably well and kind of take the case forward yourself. Particularly because you"
+    },
+    {
+      "start": 1920.48,
+      "end": 1924.72,
+      "speaker": "SPEAKER_04",
+      "text": "said that, okay, you know, defense. I mean, to be honest, most people won't know about it. That's why"
+    },
+    {
+      "start": 1924.72,
+      "end": 1929.28,
+      "speaker": "SPEAKER_04",
+      "text": "sort of we picked this case because it puts you in this mindset, which you're not using any"
+    },
+    {
+      "start": 1929.28,
+      "end": 1934.16,
+      "speaker": "SPEAKER_04",
+      "text": "existing knowledge, not beyond your general business sense, which is what will happen in a lot"
+    },
+    {
+      "start": 1934.16,
+      "end": 1939.52,
+      "speaker": "SPEAKER_04",
+      "text": "of cases. If you don't know about it, it makes you question certain things, which is where I'll start"
+    },
+    {
+      "start": 1939.52,
+      "end": 1945.36,
+      "speaker": "SPEAKER_04",
+      "text": "from that in your opening. It was really good that you asked very simple, clarificatory questions."
+    },
+    {
+      "start": 1945.36,
+      "end": 1952.08,
+      "speaker": "SPEAKER_04",
+      "text": "You understood the bidding process. You understood some of those aspects. I think with regards to"
+    },
+    {
+      "start": 1952.08,
+      "end": 1958.96,
+      "speaker": "SPEAKER_04",
+      "text": "your framework, I think it made sense breaking it down to cause revenues and your reasons for"
+    },
+    {
+      "start": 1959.52,
+      "end": 1963.2,
+      "speaker": "SPEAKER_04",
+      "text": "that. But I think maybe we could have been a little bit more me see when it comes to saying"
+    },
+    {
+      "start": 1963.2,
+      "end": 1968.24,
+      "speaker": "SPEAKER_04",
+      "text": "cost reduction because you're already heading into the solutioning part of things. And when you're"
+    },
+    {
+      "start": 1968.24,
+      "end": 1974.48,
+      "speaker": "SPEAKER_04",
+      "text": "doing your framework, there's no reason to sort of get into that. I think capabilities,"
+    },
+    {
+      "start": 1974.48,
+      "end": 1979.3600000000001,
+      "speaker": "SPEAKER_04",
+      "text": "risk, operational stuff, I think all of that you can mention. I think that's fair. But particularly,"
+    },
+    {
+      "start": 1979.3600000000001,
+      "end": 1983.6000000000001,
+      "speaker": "SPEAKER_04",
+      "text": "I would stay away from already offering the solution before we break down the problem."
+    },
+    {
+      "start": 1984.56,
+      "end": 1989.76,
+      "speaker": "SPEAKER_04",
+      "text": "One more sort of minor point on this would be when you break down your framework, I think I"
+    },
+    {
+      "start": 1989.76,
+      "end": 1996.1599999999999,
+      "speaker": "SPEAKER_04",
+      "text": "would like to see you break it down at one level first so that the interviewer can understand each"
+    },
+    {
+      "start": 1996.1599999999999,
+      "end": 2001.6,
+      "speaker": "SPEAKER_04",
+      "text": "and every point and then sort of deep dive into into one of the things because I think what happened"
+    },
+    {
+      "start": 2001.6,
+      "end": 2008.56,
+      "speaker": "SPEAKER_04",
+      "text": "was that you gave me sort of the high level, just the wording for it very quickly. And then you just"
+    },
+    {
+      "start": 2008.56,
+      "end": 2012.6399999999999,
+      "speaker": "SPEAKER_04",
+      "text": "went full deep dive into each of them. So I think what ends up happening in those situations is"
+    },
+    {
+      "start": 2012.64,
+      "end": 2017.0400000000002,
+      "speaker": "SPEAKER_04",
+      "text": "the interviewer then can't steer you too much into sort of one direction or the right direction"
+    },
+    {
+      "start": 2017.0400000000002,
+      "end": 2021.76,
+      "speaker": "SPEAKER_04",
+      "text": "because you've already spent a significant amount of time sort of explaining your thoughts to me."
+    },
+    {
+      "start": 2021.76,
+      "end": 2026.4,
+      "speaker": "SPEAKER_04",
+      "text": "So I would say maybe shorten the description of each of your sort of framework levels that you have"
+    },
+    {
+      "start": 2027.5200000000002,
+      "end": 2033.2800000000002,
+      "speaker": "SPEAKER_04",
+      "text": "for in the first time that you're explaining it. So I think that was good. With regards to obviously"
+    },
+    {
+      "start": 2033.2800000000002,
+      "end": 2039.3600000000001,
+      "speaker": "SPEAKER_04",
+      "text": "the case, my sort of bigger explanation to you would be I think you had all of the methodology"
+    },
+    {
+      "start": 2039.84,
+      "end": 2045.36,
+      "speaker": "SPEAKER_04",
+      "text": "right. I think obviously I always tell people that you should talk through the math but you don't have"
+    },
+    {
+      "start": 2045.36,
+      "end": 2051.68,
+      "speaker": "SPEAKER_04",
+      "text": "to talk through the math as soon as you hear the question. You can take a pause, write things down,"
+    },
+    {
+      "start": 2052.64,
+      "end": 2056.24,
+      "speaker": "SPEAKER_04",
+      "text": "see if it makes sense and then sort of take the person through it. I think in the first time"
+    },
+    {
+      "start": 2056.24,
+      "end": 2061.44,
+      "speaker": "SPEAKER_04",
+      "text": "maybe you look a little bit less time with the math, I think that's what happened and it's no big deal"
+    },
+    {
+      "start": 2061.44,
+      "end": 2067.2,
+      "speaker": "SPEAKER_04",
+      "text": "to be honest. I think these things happen but particularly it was good in the second case math"
+    },
+    {
+      "start": 2067.2,
+      "end": 2072.3199999999997,
+      "speaker": "SPEAKER_04",
+      "text": "question that you were able to do it properly and I think that was very fast and very, very efficient."
+    },
+    {
+      "start": 2074.08,
+      "end": 2078.7999999999997,
+      "speaker": "SPEAKER_04",
+      "text": "I think yeah, when you got stuck a little bit close to the end with some of the questions,"
+    },
+    {
+      "start": 2079.68,
+      "end": 2086.08,
+      "speaker": "SPEAKER_04",
+      "text": "I think with that, I think the initial response that you had was to ask for a little bit more data"
+    },
+    {
+      "start": 2086.08,
+      "end": 2090.7999999999997,
+      "speaker": "SPEAKER_04",
+      "text": "though at that point of time what would have helped you more would be to try and simplify your"
+    },
+    {
+      "start": 2090.7999999999997,
+      "end": 2096.3199999999997,
+      "speaker": "SPEAKER_04",
+      "text": "framework. Give it maximum like three buckets if you're really you know if you can break it down into"
+    },
+    {
+      "start": 2096.32,
+      "end": 2101.1200000000003,
+      "speaker": "SPEAKER_04",
+      "text": "those three things and all you can reconfirm and say okay is this the right question that we're"
+    },
+    {
+      "start": 2101.1200000000003,
+      "end": 2106.0,
+      "speaker": "SPEAKER_04",
+      "text": "asking. So with supplier negotiations, can we improve design, can we make the design a little bit"
+    },
+    {
+      "start": 2106.0,
+      "end": 2111.92,
+      "speaker": "SPEAKER_04",
+      "text": "cheaper things of that nature. I think you would be better off in that sense and then finally with"
+    },
+    {
+      "start": 2112.7200000000003,
+      "end": 2117.52,
+      "speaker": "SPEAKER_04",
+      "text": "with the solution in the end with the final recommendation, I think you did very well, very succinct"
+    },
+    {
+      "start": 2118.48,
+      "end": 2123.84,
+      "speaker": "SPEAKER_04",
+      "text": "cover most of the parts so that was really good. So for structuring as a rating, I would give you"
+    },
+    {
+      "start": 2123.92,
+      "end": 2130.96,
+      "speaker": "SPEAKER_04",
+      "text": "2.5 to 3 out of 4 for analysis again, maybe a 2.5 just because of the case path stuff for"
+    },
+    {
+      "start": 2130.96,
+      "end": 2135.52,
+      "speaker": "SPEAKER_04",
+      "text": "solutioning, it was quite good because every time that you would break down a problem, you would"
+    },
+    {
+      "start": 2135.52,
+      "end": 2139.76,
+      "speaker": "SPEAKER_04",
+      "text": "also give sort of next steps. So that's very proactive, that's good. So it give you like a 3.5"
+    },
+    {
+      "start": 2139.76,
+      "end": 2145.28,
+      "speaker": "SPEAKER_04",
+      "text": "for solutioning and for presence as well, I think you're sort of happy personality and I think you"
+    },
+    {
+      "start": 2145.28,
+      "end": 2150.48,
+      "speaker": "SPEAKER_04",
+      "text": "didn't let those things get you down too much. So I think presence I'd give you another 3.5 as well."
+    },
+    {
+      "start": 2151.12,
+      "end": 2155.44,
+      "speaker": "SPEAKER_04",
+      "text": "So yeah, that is my feed. Let me know if you have any questions. Of course, I'd be happy to."
+    },
+    {
+      "start": 2157.36,
+      "end": 2162.08,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, thank you so much, Rath. That was really helpful. I have one quick question on the map."
+    },
+    {
+      "start": 2162.08,
+      "end": 2168.64,
+      "speaker": "SPEAKER_01",
+      "text": "I was wondering if like the automatic fail candidates, they make this math mistake and..."
+    },
+    {
+      "start": 2170.4,
+      "end": 2175.44,
+      "speaker": "SPEAKER_04",
+      "text": "No, I don't think that there's any set rule as to if you get automatically disqualified, if you make"
+    },
+    {
+      "start": 2176.0,
+      "end": 2182.2400000000002,
+      "speaker": "SPEAKER_04",
+      "text": "a math error, of course, that's what the interview is for to guide you through some of these things,"
+    },
+    {
+      "start": 2182.2400000000002,
+      "end": 2189.12,
+      "speaker": "SPEAKER_04",
+      "text": "but they do focus a lot on sanity checks. So if you say 38.5% and you double down on it a couple of"
+    },
+    {
+      "start": 2189.12,
+      "end": 2196.16,
+      "speaker": "SPEAKER_04",
+      "text": "times, obviously as I asked you the question, 10% of something which is a small part can't be a 38.5%"
+    },
+    {
+      "start": 2196.16,
+      "end": 2200.08,
+      "speaker": "SPEAKER_04",
+      "text": "overall saving, I think they expect you to ask yourself those questions sometimes before giving"
+    },
+    {
+      "start": 2200.56,
+      "end": 2204.96,
+      "speaker": "SPEAKER_04",
+      "text": "the answer. So I would just take an extra pause before you give for any numerical final answer."
+    },
+    {
+      "start": 2206.64,
+      "end": 2210.96,
+      "speaker": "SPEAKER_04",
+      "text": "And then I think you'll be fine, but no, I don't think it will be that harsh or it will be impossible"
+    },
+    {
+      "start": 2210.96,
+      "end": 2219.2,
+      "speaker": "SPEAKER_03",
+      "text": "for me to say. Thank you so much. That wraps up this live case interview demo led by Rago."
+    },
+    {
+      "start": 2219.2,
+      "end": 2223.68,
+      "speaker": "SPEAKER_03",
+      "text": "If you want the same personalized guidance that Rago gave in this session, you can work with him"
+    },
+    {
+      "start": 2223.68,
+      "end": 2229.44,
+      "speaker": "SPEAKER_03",
+      "text": "one on one through a black belt program or you can purchase individual sessions on our card."
+    },
+    {
+      "start": 2229.44,
+      "end": 2232.32,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you for joining us on strategies to help us with this demo,"
+    },
+    {
+      "start": 2232.32,
+      "end": 2238.56,
+      "speaker": "SPEAKER_03",
+      "text": "it equips you to perform your best in your next case. We'll see you next time."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 16,
+    "math": 10,
+    "case_difficulty": 11,
+    "final_summary": 14,
+    "overall_thoughts": "You communicated well, but struggled with the math and didn't fully develop your framework."
+  }
+}

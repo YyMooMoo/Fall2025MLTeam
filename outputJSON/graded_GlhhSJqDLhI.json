@@ -1,0 +1,3816 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "speaker": "SPEAKER_00",
+      "text": "Quick FYI, this will be an Imacundi style case, meaning the case will be interviewer led."
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "speaker": "SPEAKER_00",
+      "text": "But yeah, let's dive right in."
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "speaker": "SPEAKER_01",
+      "text": "Chas, go."
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "speaker": "SPEAKER_00",
+      "text": "Your client, Best Market, is an e-commerce marketplace that operates in Europe."
+    },
+    {
+      "start": 19.0,
+      "end": 25.0,
+      "speaker": "SPEAKER_00",
+      "text": "Best Market generates revenue by giving merchants the ability to post their products via ads on the platform."
+    },
+    {
+      "start": 25.0,
+      "end": 36.0,
+      "speaker": "SPEAKER_00",
+      "text": "Where Best Market charges merchants on a paper post basis, IE dollars for post, these ads have expiration dates and lost for 30 days on the platform."
+    },
+    {
+      "start": 36.0,
+      "end": 42.0,
+      "speaker": "SPEAKER_00",
+      "text": "As part of Best Market's growth ambitions, the executive team would like to explore new ways to increase revenue."
+    },
+    {
+      "start": 42.0,
+      "end": 52.0,
+      "speaker": "SPEAKER_00",
+      "text": "One idea that is under consideration is to offer a more aggressive package where merchants can post an unlimited number of ads for a set amount of time for a fixed fee."
+    },
+    {
+      "start": 52.0,
+      "end": 58.0,
+      "speaker": "SPEAKER_00",
+      "text": "And this new offering would essentially be titled their limitless product."
+    },
+    {
+      "start": 58.0,
+      "end": 68.0,
+      "speaker": "SPEAKER_00",
+      "text": "The CEO has tasked you to think about how to evaluate the opportunity and whether Best Market should introduce it to their merchant base."
+    },
+    {
+      "start": 68.0,
+      "end": 74.0,
+      "speaker": "SPEAKER_01",
+      "text": "What Best Market should we introduce to the."
+    },
+    {
+      "start": 74.0,
+      "end": 78.0,
+      "speaker": "SPEAKER_00",
+      "text": "Whether Best Market should introduce the more aggressive package."
+    },
+    {
+      "start": 78.0,
+      "end": 81.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, okay. Yeah."
+    },
+    {
+      "start": 81.0,
+      "end": 86.0,
+      "speaker": "SPEAKER_01",
+      "text": "Cool. So whether they should introduce the limitless package."
+    },
+    {
+      "start": 86.0,
+      "end": 89.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Cool. Thank you so much for the case."
+    },
+    {
+      "start": 89.0,
+      "end": 93.0,
+      "speaker": "SPEAKER_01",
+      "text": "So let me just quickly recap my understanding to make sure we are on the same page."
+    },
+    {
+      "start": 93.0,
+      "end": 97.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then I would love to ask a few clarification questions."
+    },
+    {
+      "start": 97.0,
+      "end": 104.0,
+      "speaker": "SPEAKER_01",
+      "text": "Great. So our client today is Best Market, which is e-commerce website based on Europe."
+    },
+    {
+      "start": 104.0,
+      "end": 107.0,
+      "speaker": "SPEAKER_01",
+      "text": "It's revenue stream comes from the ads."
+    },
+    {
+      "start": 107.0,
+      "end": 116.0,
+      "speaker": "SPEAKER_01",
+      "text": "So currently it allows to its clients to post the ads on the platform."
+    },
+    {
+      "start": 116.0,
+      "end": 122.0,
+      "speaker": "SPEAKER_01",
+      "text": "And the platform like the ad less for 30 days."
+    },
+    {
+      "start": 122.0,
+      "end": 131.0,
+      "speaker": "SPEAKER_01",
+      "text": "And I think I missed the part where it says about how much how many dollars it is for how does the business model work."
+    },
+    {
+      "start": 131.0,
+      "end": 134.0,
+      "speaker": "SPEAKER_00",
+      "text": "So it's essentially a paper post basis."
+    },
+    {
+      "start": 134.0,
+      "end": 137.0,
+      "speaker": "SPEAKER_00",
+      "text": "So like they're just spending."
+    },
+    {
+      "start": 137.0,
+      "end": 138.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, paper."
+    },
+    {
+      "start": 138.0,
+      "end": 139.0,
+      "speaker": "SPEAKER_00",
+      "text": "I don't know. Amazing."
+    },
+    {
+      "start": 139.0,
+      "end": 142.0,
+      "speaker": "SPEAKER_00",
+      "text": "Other posting. But yeah."
+    },
+    {
+      "start": 142.0,
+      "end": 149.0,
+      "speaker": "SPEAKER_01",
+      "text": "So, and basically our objective are CEO of the Best Market have recently explored the new ways of revenue."
+    },
+    {
+      "start": 149.0,
+      "end": 152.0,
+      "speaker": "SPEAKER_01",
+      "text": "And they came up with this idea of unlimited package."
+    },
+    {
+      "start": 152.0,
+      "end": 159.0,
+      "speaker": "SPEAKER_01",
+      "text": "So they want us to understand whether we should."
+    },
+    {
+      "start": 159.0,
+      "end": 162.0,
+      "speaker": "SPEAKER_01",
+      "text": "Whether they should launch this."
+    },
+    {
+      "start": 162.0,
+      "end": 165.0,
+      "speaker": "SPEAKER_01",
+      "text": "This product or not. Is that correct?"
+    },
+    {
+      "start": 165.0,
+      "end": 169.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yes. And for clarity, the more aggressive package."
+    },
+    {
+      "start": 169.0,
+      "end": 176.0,
+      "speaker": "SPEAKER_00",
+      "text": "Essentially like the value proposition of it would be that merchants would be able to post an unlimited number of ads."
+    },
+    {
+      "start": 176.0,
+      "end": 179.0,
+      "speaker": "SPEAKER_00",
+      "text": "And with a number of time frame."
+    },
+    {
+      "start": 179.0,
+      "end": 180.0,
+      "speaker": "SPEAKER_00",
+      "text": "But yeah."
+    },
+    {
+      "start": 180.0,
+      "end": 182.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 182.0,
+      "end": 187.0,
+      "speaker": "SPEAKER_01",
+      "text": "Unlimited ads with limitless time frame."
+    },
+    {
+      "start": 187.0,
+      "end": 190.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yes. For a fluffy."
+    },
+    {
+      "start": 190.0,
+      "end": 193.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 193.0,
+      "end": 196.0,
+      "speaker": "UNKNOWN",
+      "text": "Okay. Interesting."
+    },
+    {
+      "start": 196.0,
+      "end": 201.0,
+      "speaker": "SPEAKER_01",
+      "text": "So just a little couple of clarification questions."
+    },
+    {
+      "start": 201.0,
+      "end": 207.0,
+      "speaker": "SPEAKER_01",
+      "text": "So first, could you please elaborate a little bit on the current business model of the best market?"
+    },
+    {
+      "start": 207.0,
+      "end": 215.0,
+      "speaker": "SPEAKER_01",
+      "text": "How many ads usually I understand the state for cost, but like do we know how much it costs pays? What is the limit?"
+    },
+    {
+      "start": 215.0,
+      "end": 221.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, absolutely. We'll actually be talking more about like available merchant data later on into the case."
+    },
+    {
+      "start": 221.0,
+      "end": 229.0,
+      "speaker": "SPEAKER_00",
+      "text": "But I'd encourage you to talk more about like why you think the business model is important for your structure later on."
+    },
+    {
+      "start": 229.0,
+      "end": 231.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So."
+    },
+    {
+      "start": 231.0,
+      "end": 233.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So."
+    },
+    {
+      "start": 233.0,
+      "end": 236.0,
+      "speaker": "SPEAKER_01",
+      "text": "Just about the new product."
+    },
+    {
+      "start": 236.0,
+      "end": 240.0,
+      "speaker": "SPEAKER_01",
+      "text": "So are they planning to launch it together with the current products?"
+    },
+    {
+      "start": 240.0,
+      "end": 241.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 241.0,
+      "end": 248.0,
+      "speaker": "SPEAKER_01",
+      "text": "So like some of the clients will have the opportunity to buy the limitless amount of ads and limitless amount of time."
+    },
+    {
+      "start": 248.0,
+      "end": 252.0,
+      "speaker": "SPEAKER_01",
+      "text": "And some of the clients that will pay like paper cost. Is that correct?"
+    },
+    {
+      "start": 252.0,
+      "end": 253.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 253.0,
+      "end": 260.0,
+      "speaker": "SPEAKER_00",
+      "text": "I think it is just another product line that they're offering in addition to this ones."
+    },
+    {
+      "start": 260.0,
+      "end": 268.0,
+      "speaker": "SPEAKER_01",
+      "text": "And yeah, do this market want us to look into other potential products or just this one to evaluate this one?"
+    },
+    {
+      "start": 268.0,
+      "end": 278.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. So for the sake of this case, we're only going to be exploring this offering and whether or not it is viable for."
+    },
+    {
+      "start": 278.0,
+      "end": 279.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sure."
+    },
+    {
+      "start": 279.0,
+      "end": 287.0,
+      "speaker": "SPEAKER_01",
+      "text": "And could you just tell me a little bit more about this market's clients?"
+    },
+    {
+      "start": 287.0,
+      "end": 288.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 288.0,
+      "end": 298.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I want to refrain from talking too much about the clients just because we're going to be talking about like margin data in a couple moments."
+    },
+    {
+      "start": 298.0,
+      "end": 301.0,
+      "speaker": "SPEAKER_00",
+      "text": "But there's definitely something we'll get to eventually."
+    },
+    {
+      "start": 301.0,
+      "end": 302.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 302.0,
+      "end": 303.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 303.0,
+      "end": 308.0,
+      "speaker": "SPEAKER_01",
+      "text": "Um, sure."
+    },
+    {
+      "start": 308.0,
+      "end": 309.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 309.0,
+      "end": 311.0,
+      "speaker": "SPEAKER_01",
+      "text": "And final question."
+    },
+    {
+      "start": 311.0,
+      "end": 313.0,
+      "speaker": "SPEAKER_01",
+      "text": "Do we know if that's market."
+    },
+    {
+      "start": 313.0,
+      "end": 316.0,
+      "speaker": "SPEAKER_01",
+      "text": "Is there a way to raise growth revenue?"
+    },
+    {
+      "start": 316.0,
+      "end": 322.0,
+      "speaker": "SPEAKER_01",
+      "text": "Do we know by how much and do we have any time frame? Any number in mind?"
+    },
+    {
+      "start": 322.0,
+      "end": 335.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. So no established financial target. I think one concern to be thinking about is that, like, if we have this product offering, how will that potentially impact the."
+    },
+    {
+      "start": 335.0,
+      "end": 336.0,
+      "speaker": "SPEAKER_00",
+      "text": "Obviously."
+    },
+    {
+      "start": 336.0,
+      "end": 342.0,
+      "speaker": "SPEAKER_00",
+      "text": "How comes up existing, existing lines like any cannibalization would be important to consider eventually."
+    },
+    {
+      "start": 342.0,
+      "end": 345.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. Yeah. Definitely. Okay. Amazing."
+    },
+    {
+      "start": 345.0,
+      "end": 350.0,
+      "speaker": "SPEAKER_01",
+      "text": "Uh, so let me just quickly take a moment to check from my thoughts."
+    },
+    {
+      "start": 350.0,
+      "end": 352.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. Of course."
+    },
+    {
+      "start": 352.0,
+      "end": 354.0,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 354.0,
+      "end": 355.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 355.0,
+      "end": 357.0,
+      "speaker": "SPEAKER_01",
+      "text": "Is there much for a patient?"
+    },
+    {
+      "start": 357.0,
+      "end": 359.0,
+      "speaker": "SPEAKER_01",
+      "text": "So."
+    },
+    {
+      "start": 359.0,
+      "end": 362.0,
+      "speaker": "SPEAKER_01",
+      "text": "I would like to assess this situation in the."
+    },
+    {
+      "start": 362.0,
+      "end": 365.0,
+      "speaker": "SPEAKER_01",
+      "text": "So the first one would be to assess the current situation."
+    },
+    {
+      "start": 365.0,
+      "end": 370.0,
+      "speaker": "SPEAKER_01",
+      "text": "The second one would be to assess the benefit potential benefits of the new product."
+    },
+    {
+      "start": 370.0,
+      "end": 375.0,
+      "speaker": "SPEAKER_01",
+      "text": "And the third one would to be to assess their capabilities and the risks."
+    },
+    {
+      "start": 375.0,
+      "end": 377.0,
+      "speaker": "SPEAKER_01",
+      "text": "So."
+    },
+    {
+      "start": 377.0,
+      "end": 379.0,
+      "speaker": "SPEAKER_01",
+      "text": "Or to assess the current situation."
+    },
+    {
+      "start": 379.0,
+      "end": 384.0,
+      "speaker": "SPEAKER_01",
+      "text": "First of all, we'd like to see which business model is company using right now for many clients."
+    },
+    {
+      "start": 384.0,
+      "end": 386.0,
+      "speaker": "SPEAKER_01",
+      "text": "Does it have what does our current revenue?"
+    },
+    {
+      "start": 386.0,
+      "end": 388.0,
+      "speaker": "SPEAKER_01",
+      "text": "What's the current situation of the."
+    },
+    {
+      "start": 388.0,
+      "end": 391.0,
+      "speaker": "SPEAKER_01",
+      "text": "Then I would like to see the company's goal."
+    },
+    {
+      "start": 391.0,
+      "end": 394.0,
+      "speaker": "SPEAKER_01",
+      "text": "And in general, see how much."
+    },
+    {
+      "start": 394.0,
+      "end": 397.0,
+      "speaker": "SPEAKER_01",
+      "text": "What do they want to achieve by launching this product?"
+    },
+    {
+      "start": 397.0,
+      "end": 400.0,
+      "speaker": "SPEAKER_01",
+      "text": "Is it only financial or is it something more than that?"
+    },
+    {
+      "start": 400.0,
+      "end": 402.0,
+      "speaker": "SPEAKER_01",
+      "text": "And if financial so by how much?"
+    },
+    {
+      "start": 402.0,
+      "end": 407.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then finally, I would like to talk about the company itself."
+    },
+    {
+      "start": 407.0,
+      "end": 409.0,
+      "speaker": "SPEAKER_01",
+      "text": "Just about their values."
+    },
+    {
+      "start": 409.0,
+      "end": 411.0,
+      "speaker": "SPEAKER_01",
+      "text": "What is their value proposition?"
+    },
+    {
+      "start": 411.0,
+      "end": 412.0,
+      "speaker": "SPEAKER_01",
+      "text": "Because I don't know."
+    },
+    {
+      "start": 412.0,
+      "end": 415.0,
+      "speaker": "SPEAKER_01",
+      "text": "Although our current revenue stream is basically the ads."
+    },
+    {
+      "start": 415.0,
+      "end": 418.0,
+      "speaker": "SPEAKER_01",
+      "text": "However, we have e-commerce product."
+    },
+    {
+      "start": 418.0,
+      "end": 420.0,
+      "speaker": "SPEAKER_01",
+      "text": "So."
+    },
+    {
+      "start": 420.0,
+      "end": 422.0,
+      "speaker": "SPEAKER_01",
+      "text": "The main product of the company."
+    },
+    {
+      "start": 422.0,
+      "end": 424.0,
+      "speaker": "SPEAKER_01",
+      "text": "How does it work?"
+    },
+    {
+      "start": 424.0,
+      "end": 426.0,
+      "speaker": "SPEAKER_01",
+      "text": "What is the value proposition?"
+    },
+    {
+      "start": 426.0,
+      "end": 428.0,
+      "speaker": "SPEAKER_01",
+      "text": "What is the company's personality?"
+    },
+    {
+      "start": 428.0,
+      "end": 430.0,
+      "speaker": "SPEAKER_01",
+      "text": "And finally, in the current situation,"
+    },
+    {
+      "start": 430.0,
+      "end": 432.0,
+      "speaker": "SPEAKER_01",
+      "text": "we also like to take a look at the clients."
+    },
+    {
+      "start": 432.0,
+      "end": 434.0,
+      "speaker": "SPEAKER_01",
+      "text": "So which clients are recurrently having?"
+    },
+    {
+      "start": 434.0,
+      "end": 435.0,
+      "speaker": "SPEAKER_01",
+      "text": "And can we expand from the."
+    },
+    {
+      "start": 435.0,
+      "end": 436.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 436.0,
+      "end": 437.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 437.0,
+      "end": 438.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 438.0,
+      "end": 439.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 439.0,
+      "end": 440.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 440.0,
+      "end": 442.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 442.0,
+      "end": 444.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 444.0,
+      "end": 446.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 446.0,
+      "end": 447.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 447.0,
+      "end": 448.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 448.0,
+      "end": 449.0,
+      "speaker": "SPEAKER_01",
+      "text": "We can look at the."
+    },
+    {
+      "start": 449.0,
+      "end": 450.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can look at the."
+    },
+    {
+      "start": 450.0,
+      "end": 451.0,
+      "speaker": "SPEAKER_01",
+      "text": "And what is our clients."
+    },
+    {
+      "start": 451.0,
+      "end": 452.0,
+      "speaker": "SPEAKER_01",
+      "text": "Preferences."
+    },
+    {
+      "start": 452.0,
+      "end": 453.0,
+      "speaker": "SPEAKER_01",
+      "text": "And what do they like?"
+    },
+    {
+      "start": 453.0,
+      "end": 454.0,
+      "speaker": "SPEAKER_01",
+      "text": "And what do they want from?"
+    },
+    {
+      "start": 454.0,
+      "end": 455.0,
+      "speaker": "SPEAKER_01",
+      "text": "Let's say the ads or."
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "speaker": "SPEAKER_01",
+      "text": "Just this is general line of business, which is the."
+    },
+    {
+      "start": 457.0,
+      "end": 458.0,
+      "speaker": "SPEAKER_01",
+      "text": "On the second."
+    },
+    {
+      "start": 458.0,
+      "end": 460.0,
+      "speaker": "SPEAKER_01",
+      "text": "Driver I would like to."
+    },
+    {
+      "start": 460.0,
+      "end": 462.0,
+      "speaker": "SPEAKER_01",
+      "text": "Take a look at the potential benefits."
+    },
+    {
+      "start": 462.0,
+      "end": 464.0,
+      "speaker": "SPEAKER_01",
+      "text": "And in general,"
+    },
+    {
+      "start": 464.0,
+      "end": 465.0,
+      "speaker": "SPEAKER_01",
+      "text": "affects."
+    },
+    {
+      "start": 465.0,
+      "end": 467.0,
+      "speaker": "SPEAKER_01",
+      "text": "But mostly benefits of the new product."
+    },
+    {
+      "start": 467.0,
+      "end": 468.0,
+      "speaker": "SPEAKER_01",
+      "text": "So first, I would like to assess the financial benefits."
+    },
+    {
+      "start": 468.0,
+      "end": 471.24,
+      "speaker": "SPEAKER_01",
+      "text": "whether there is in general financial benefit,"
+    },
+    {
+      "start": 471.24,
+      "end": 473.88,
+      "speaker": "SPEAKER_01",
+      "text": "what is going to be the additional revenue,"
+    },
+    {
+      "start": 473.88,
+      "end": 475.32,
+      "speaker": "SPEAKER_01",
+      "text": "is it going to get our goal,"
+    },
+    {
+      "start": 475.32,
+      "end": 477.96,
+      "speaker": "SPEAKER_01",
+      "text": "and is there going to be an additional revenue,"
+    },
+    {
+      "start": 477.96,
+      "end": 480.68,
+      "speaker": "SPEAKER_01",
+      "text": "even just from launching this product?"
+    },
+    {
+      "start": 480.68,
+      "end": 482.2,
+      "speaker": "SPEAKER_01",
+      "text": "And then I would like to also see"
+    },
+    {
+      "start": 482.2,
+      "end": 484.28,
+      "speaker": "SPEAKER_01",
+      "text": "like the non-financial characteristics."
+    },
+    {
+      "start": 484.28,
+      "end": 489.4,
+      "speaker": "SPEAKER_01",
+      "text": "So are we going to get more clients attracted,"
+    },
+    {
+      "start": 489.4,
+      "end": 491.44,
+      "speaker": "SPEAKER_01",
+      "text": "or are we going to get less clients attracted?"
+    },
+    {
+      "start": 491.44,
+      "end": 494.28,
+      "speaker": "SPEAKER_01",
+      "text": "Are there any non-financial characteristics of this product"
+    },
+    {
+      "start": 494.28,
+      "end": 497.76,
+      "speaker": "SPEAKER_01",
+      "text": "that can be beneficial or harmful for us?"
+    },
+    {
+      "start": 497.76,
+      "end": 502.08,
+      "speaker": "SPEAKER_01",
+      "text": "And then finally, I would like to take a look at the risks."
+    },
+    {
+      "start": 502.08,
+      "end": 504.24,
+      "speaker": "SPEAKER_01",
+      "text": "So and feasibility."
+    },
+    {
+      "start": 504.24,
+      "end": 508.96,
+      "speaker": "SPEAKER_01",
+      "text": "So just to understand how much page place we have,"
+    },
+    {
+      "start": 508.96,
+      "end": 511.92,
+      "speaker": "SPEAKER_01",
+      "text": "how much real estate we have in terms of allowing"
+    },
+    {
+      "start": 511.92,
+      "end": 515.2,
+      "speaker": "SPEAKER_01",
+      "text": "this opportunity to happen, in terms of capabilities."
+    },
+    {
+      "start": 515.2,
+      "end": 519.0,
+      "speaker": "SPEAKER_01",
+      "text": "And do we have a strong enough marketing team"
+    },
+    {
+      "start": 519.0,
+      "end": 520.4,
+      "speaker": "SPEAKER_01",
+      "text": "to let this happen?"
+    },
+    {
+      "start": 520.4,
+      "end": 523.76,
+      "speaker": "SPEAKER_01",
+      "text": "And in terms of the risks, I would actually be careful"
+    },
+    {
+      "start": 523.76,
+      "end": 525.88,
+      "speaker": "SPEAKER_01",
+      "text": "with this type of initiative, because they"
+    },
+    {
+      "start": 525.88,
+      "end": 528.6,
+      "speaker": "SPEAKER_01",
+      "text": "could be a potential loss of interest"
+    },
+    {
+      "start": 528.6,
+      "end": 532.16,
+      "speaker": "SPEAKER_01",
+      "text": "into our website if we suggest too many commercials."
+    },
+    {
+      "start": 532.16,
+      "end": 533.92,
+      "speaker": "SPEAKER_01",
+      "text": "So if we have too many ads on the page,"
+    },
+    {
+      "start": 533.92,
+      "end": 535.56,
+      "speaker": "SPEAKER_01",
+      "text": "our total length and page experience"
+    },
+    {
+      "start": 535.56,
+      "end": 536.96,
+      "speaker": "SPEAKER_01",
+      "text": "is going to be very low."
+    },
+    {
+      "start": 536.96,
+      "end": 539.32,
+      "speaker": "SPEAKER_01",
+      "text": "So maybe we might lose clients and lose ranking"
+    },
+    {
+      "start": 539.32,
+      "end": 541.28,
+      "speaker": "SPEAKER_01",
+      "text": "and lose revenue on the ad."
+    },
+    {
+      "start": 541.28,
+      "end": 544.32,
+      "speaker": "SPEAKER_01",
+      "text": "And then another risk maybe could be an implementation."
+    },
+    {
+      "start": 544.32,
+      "end": 548.76,
+      "speaker": "SPEAKER_01",
+      "text": "So because the clients will be willing to pay"
+    },
+    {
+      "start": 548.76,
+      "end": 552.72,
+      "speaker": "SPEAKER_01",
+      "text": "for our unlimited service, they might also"
+    },
+    {
+      "start": 552.72,
+      "end": 556.48,
+      "speaker": "SPEAKER_01",
+      "text": "stop paying for our current services."
+    },
+    {
+      "start": 556.48,
+      "end": 558.84,
+      "speaker": "SPEAKER_01",
+      "text": "And that might be risky, because we know which one of them"
+    },
+    {
+      "start": 558.84,
+      "end": 560.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "is going to be actually more profitable and give us"
+    },
+    {
+      "start": 560.5600000000001,
+      "end": 562.84,
+      "speaker": "SPEAKER_01",
+      "text": "bigger margin in terms of the business."
+    },
+    {
+      "start": 562.84,
+      "end": 566.32,
+      "speaker": "SPEAKER_01",
+      "text": "So those are the things that I would like to assess."
+    },
+    {
+      "start": 566.32,
+      "end": 568.76,
+      "speaker": "SPEAKER_01",
+      "text": "And I would like to first take a look"
+    },
+    {
+      "start": 568.76,
+      "end": 572.84,
+      "speaker": "SPEAKER_01",
+      "text": "at the current company situation and see where we stand in."
+    },
+    {
+      "start": 572.84,
+      "end": 575.24,
+      "speaker": "SPEAKER_01",
+      "text": "What is our situation right now?"
+    },
+    {
+      "start": 575.24,
+      "end": 577.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Probably our business model."
+    },
+    {
+      "start": 577.1600000000001,
+      "end": 579.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So yeah."
+    },
+    {
+      "start": 579.68,
+      "end": 580.52,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, great."
+    },
+    {
+      "start": 580.52,
+      "end": 585.12,
+      "speaker": "SPEAKER_00",
+      "text": "Thank you for outlining your structure and framework."
+    },
+    {
+      "start": 585.12,
+      "end": 586.8399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And I completely agree with you."
+    },
+    {
+      "start": 586.8399999999999,
+      "end": 589.4,
+      "speaker": "SPEAKER_00",
+      "text": "I think it's important that we kind of unpack"
+    },
+    {
+      "start": 589.4,
+      "end": 592.8,
+      "speaker": "SPEAKER_00",
+      "text": "the current situation, especially the current services"
+    },
+    {
+      "start": 592.8,
+      "end": 597.5999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "offered and like what merchants are being offered."
+    },
+    {
+      "start": 597.5999999999999,
+      "end": 598.76,
+      "speaker": "SPEAKER_00",
+      "text": "So let's dive right in."
+    },
+    {
+      "start": 598.76,
+      "end": 601.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I actually have an exhibit for you"
+    },
+    {
+      "start": 601.3199999999999,
+      "end": 604.4,
+      "speaker": "SPEAKER_00",
+      "text": "that I'm going to make a stop here really quickly."
+    },
+    {
+      "start": 604.4,
+      "end": 607.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So we're able to see that."
+    },
+    {
+      "start": 607.44,
+      "end": 607.94,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 607.94,
+      "end": 610.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So do you have any question to me"
+    },
+    {
+      "start": 610.9200000000001,
+      "end": 613.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "or you want me just to analyze the exhibit"
+    },
+    {
+      "start": 613.0400000000001,
+      "end": 615.4000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "and see what I'm seeing?"
+    },
+    {
+      "start": 615.4000000000001,
+      "end": 617.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I think starting off, I would"
+    },
+    {
+      "start": 617.5600000000001,
+      "end": 620.6,
+      "speaker": "SPEAKER_00",
+      "text": "love to hear your analysis, but also looking"
+    },
+    {
+      "start": 620.6,
+      "end": 625.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "at the exhibit, I'm curious as to which merchant segment"
+    },
+    {
+      "start": 625.5200000000001,
+      "end": 629.48,
+      "speaker": "SPEAKER_00",
+      "text": "you would say would find the product the most beneficial."
+    },
+    {
+      "start": 629.48,
+      "end": 633.84,
+      "speaker": "SPEAKER_00",
+      "text": "And by the product, I mean the new limitless products."
+    },
+    {
+      "start": 633.84,
+      "end": 635.4000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 635.4,
+      "end": 635.9,
+      "speaker": "SPEAKER_01",
+      "text": "Absolutely."
+    },
+    {
+      "start": 635.9,
+      "end": 637.48,
+      "speaker": "SPEAKER_01",
+      "text": "Can I take a second?"
+    },
+    {
+      "start": 637.48,
+      "end": 638.68,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 638.68,
+      "end": 639.48,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 639.48,
+      "end": 642.48,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 642.48,
+      "end": 645.0,
+      "speaker": "SPEAKER_01",
+      "text": "That's actually an interesting piece of data,"
+    },
+    {
+      "start": 645.0,
+      "end": 647.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I think, because you can look at this from your super"
+    },
+    {
+      "start": 647.4399999999999,
+      "end": 648.52,
+      "speaker": "SPEAKER_01",
+      "text": "perspective."
+    },
+    {
+      "start": 648.52,
+      "end": 653.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I will just quickly show it to Ali what I see on the graph"
+    },
+    {
+      "start": 653.0,
+      "end": 654.28,
+      "speaker": "SPEAKER_01",
+      "text": "and align with you."
+    },
+    {
+      "start": 654.28,
+      "end": 662.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we could potentially think which kind of segments"
+    },
+    {
+      "start": 662.0,
+      "end": 663.64,
+      "speaker": "SPEAKER_01",
+      "text": "will be most interested."
+    },
+    {
+      "start": 663.64,
+      "end": 666.12,
+      "speaker": "SPEAKER_01",
+      "text": "So we're currently dividing our clients"
+    },
+    {
+      "start": 666.12,
+      "end": 667.48,
+      "speaker": "SPEAKER_01",
+      "text": "into three market segments."
+    },
+    {
+      "start": 670.28,
+      "end": 674.96,
+      "speaker": "SPEAKER_01",
+      "text": "So we are having the high frequency consistent"
+    },
+    {
+      "start": 674.96,
+      "end": 677.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "posters that we have the low frequency."
+    },
+    {
+      "start": 677.1999999999999,
+      "end": 680.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And now we have the seasonal posters."
+    },
+    {
+      "start": 680.4399999999999,
+      "end": 685.92,
+      "speaker": "SPEAKER_01",
+      "text": "So those who spend in around 7,500 postings in the festive,"
+    },
+    {
+      "start": 685.92,
+      "end": 690.12,
+      "speaker": "SPEAKER_01",
+      "text": "and then they spend three times less in the average day."
+    },
+    {
+      "start": 690.12,
+      "end": 693.04,
+      "speaker": "SPEAKER_01",
+      "text": "So this would be like our three segments."
+    },
+    {
+      "start": 693.04,
+      "end": 696.36,
+      "speaker": "SPEAKER_01",
+      "text": "And the ones that frequently post and post a lot"
+    },
+    {
+      "start": 696.36,
+      "end": 700.0,
+      "speaker": "SPEAKER_01",
+      "text": "are the smallest segment is four times less than the ones"
+    },
+    {
+      "start": 700.0,
+      "end": 705.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "who are posting less."
+    },
+    {
+      "start": 705.8399999999999,
+      "end": 711.88,
+      "speaker": "SPEAKER_01",
+      "text": "And then I'm seeing that those who post."
+    },
+    {
+      "start": 714.9599999999999,
+      "end": 719.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So basically, I'm seeing that those who post in average"
+    },
+    {
+      "start": 719.72,
+      "end": 723.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "number of ads per month is it for one customer"
+    },
+    {
+      "start": 723.6800000000001,
+      "end": 725.4,
+      "speaker": "SPEAKER_01",
+      "text": "or is for total customers?"
+    },
+    {
+      "start": 728.72,
+      "end": 730.96,
+      "speaker": "SPEAKER_00",
+      "text": "This would be for total."
+    },
+    {
+      "start": 730.96,
+      "end": 731.64,
+      "speaker": "SPEAKER_01",
+      "text": "For total."
+    },
+    {
+      "start": 731.64,
+      "end": 732.44,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 732.44,
+      "end": 736.88,
+      "speaker": "SPEAKER_01",
+      "text": "And then we see that average revenue per month"
+    },
+    {
+      "start": 736.88,
+      "end": 741.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "is the highest for the seasonal ones."
+    },
+    {
+      "start": 741.1600000000001,
+      "end": 744.88,
+      "speaker": "SPEAKER_01",
+      "text": "If you want me to hypothesize, I would think, again,"
+    },
+    {
+      "start": 744.88,
+      "end": 748.48,
+      "speaker": "SPEAKER_01",
+      "text": "I need to calculate to understand which ones would be interested"
+    },
+    {
+      "start": 748.48,
+      "end": 753.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "in total, like, in the offer."
+    },
+    {
+      "start": 753.9200000000001,
+      "end": 760.12,
+      "speaker": "SPEAKER_01",
+      "text": "However, I have a strong feeling that those who have the seasonal"
+    },
+    {
+      "start": 760.12,
+      "end": 763.16,
+      "speaker": "SPEAKER_01",
+      "text": "postings are going to be those who are going to be interested"
+    },
+    {
+      "start": 763.16,
+      "end": 764.4,
+      "speaker": "SPEAKER_01",
+      "text": "in the unlimited package."
+    },
+    {
+      "start": 764.4,
+      "end": 768.2,
+      "speaker": "SPEAKER_01",
+      "text": "Because they pay once and they can post as many as they need"
+    },
+    {
+      "start": 768.2,
+      "end": 772.28,
+      "speaker": "SPEAKER_01",
+      "text": "when they need it, and as little as they need when they don't"
+    },
+    {
+      "start": 772.28,
+      "end": 772.96,
+      "speaker": "SPEAKER_01",
+      "text": "need to post."
+    },
+    {
+      "start": 772.96,
+      "end": 775.04,
+      "speaker": "SPEAKER_01",
+      "text": "And then maybe the second most interested"
+    },
+    {
+      "start": 775.04,
+      "end": 777.12,
+      "speaker": "SPEAKER_01",
+      "text": "are going to be those who are consistent throughout the year"
+    },
+    {
+      "start": 777.12,
+      "end": 778.32,
+      "speaker": "SPEAKER_01",
+      "text": "and post a lot."
+    },
+    {
+      "start": 778.32,
+      "end": 780.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Depends whether it's going to be beneficial for them"
+    },
+    {
+      "start": 780.8000000000001,
+      "end": 783.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "and it's going to be cheaper for them to buy this package"
+    },
+    {
+      "start": 783.2800000000001,
+      "end": 785.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "than just keep posting."
+    },
+    {
+      "start": 785.1600000000001,
+      "end": 788.32,
+      "speaker": "SPEAKER_01",
+      "text": "And then the final, I think the segment B"
+    },
+    {
+      "start": 788.32,
+      "end": 790.84,
+      "speaker": "SPEAKER_01",
+      "text": "will be kind of less interested in buying our package"
+    },
+    {
+      "start": 790.84,
+      "end": 792.32,
+      "speaker": "SPEAKER_01",
+      "text": "because they're already done post a lot."
+    },
+    {
+      "start": 792.32,
+      "end": 795.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So there's a high chance they will not even give."
+    },
+    {
+      "start": 795.6800000000001,
+      "end": 802.08,
+      "speaker": "SPEAKER_01",
+      "text": "They will not even get to this $6,000 per customer."
+    },
+    {
+      "start": 802.08,
+      "end": 808.0,
+      "speaker": "SPEAKER_01",
+      "text": "So in order to understand which ones will be most interested,"
+    },
+    {
+      "start": 808.0,
+      "end": 811.0,
+      "speaker": "SPEAKER_01",
+      "text": "I will first take, I will need to understand"
+    },
+    {
+      "start": 811.0,
+      "end": 816.12,
+      "speaker": "SPEAKER_01",
+      "text": "how much, how many ads one customer posts"
+    },
+    {
+      "start": 816.12,
+      "end": 820.28,
+      "speaker": "SPEAKER_01",
+      "text": "and how much it pays on general, let's say, per month."
+    },
+    {
+      "start": 820.28,
+      "end": 828.36,
+      "speaker": "SPEAKER_01",
+      "text": "So I would take the average amount of ads per month."
+    },
+    {
+      "start": 828.36,
+      "end": 831.88,
+      "speaker": "SPEAKER_01",
+      "text": "No, sorry, I've already had in the post-involume per merchant."
+    },
+    {
+      "start": 831.88,
+      "end": 833.36,
+      "speaker": "SPEAKER_01",
+      "text": "And then I have the revenue."
+    },
+    {
+      "start": 833.36,
+      "end": 841.72,
+      "speaker": "SPEAKER_01",
+      "text": "So maybe I could divide the total revenue for month"
+    },
+    {
+      "start": 841.72,
+      "end": 844.08,
+      "speaker": "SPEAKER_01",
+      "text": "by the amount of merchants and see how much revenue"
+    },
+    {
+      "start": 844.08,
+      "end": 845.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "each merchant brings us."
+    },
+    {
+      "start": 845.8000000000001,
+      "end": 848.52,
+      "speaker": "SPEAKER_01",
+      "text": "And then if it's going to be less than $6,000,"
+    },
+    {
+      "start": 848.52,
+      "end": 850.0,
+      "speaker": "SPEAKER_01",
+      "text": "they're probably not going to be interested."
+    },
+    {
+      "start": 850.0,
+      "end": 853.64,
+      "speaker": "SPEAKER_01",
+      "text": "And if it's going to be more than $6,000,"
+    },
+    {
+      "start": 853.64,
+      "end": 854.72,
+      "speaker": "SPEAKER_01",
+      "text": "they're going to be interested."
+    },
+    {
+      "start": 854.72,
+      "end": 857.76,
+      "speaker": "SPEAKER_01",
+      "text": "Does that sound like a good approach to you?"
+    },
+    {
+      "start": 857.76,
+      "end": 861.44,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I think so essentially what you're doing"
+    },
+    {
+      "start": 861.44,
+      "end": 865.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "is you're calculating the potential costs"
+    },
+    {
+      "start": 865.8000000000001,
+      "end": 867.24,
+      "speaker": "SPEAKER_00",
+      "text": "or the segment."
+    },
+    {
+      "start": 867.24,
+      "end": 867.7600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Exactly."
+    },
+    {
+      "start": 867.7600000000001,
+      "end": 871.12,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to calculate the potential cost"
+    },
+    {
+      "start": 871.12,
+      "end": 874.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "that each client of each segment on average pays."
+    },
+    {
+      "start": 874.2800000000001,
+      "end": 876.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then, in here that to the price."
+    },
+    {
+      "start": 876.32,
+      "end": 877.12,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly."
+    },
+    {
+      "start": 877.12,
+      "end": 878.12,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly."
+    },
+    {
+      "start": 878.12,
+      "end": 880.12,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, that feels good to me."
+    },
+    {
+      "start": 880.12,
+      "end": 880.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "OK, amazing."
+    },
+    {
+      "start": 880.8000000000001,
+      "end": 889.8800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So starting with the second A, we see we have 2,000 merchants."
+    },
+    {
+      "start": 892.32,
+      "end": 893.7600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And the base is 10 million."
+    },
+    {
+      "start": 902.0,
+      "end": 908.96,
+      "speaker": "SPEAKER_01",
+      "text": "So they each want to ban base $7,000 on average, which"
+    },
+    {
+      "start": 908.96,
+      "end": 910.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "is bigger than 6."
+    },
+    {
+      "start": 910.0400000000001,
+      "end": 913.12,
+      "speaker": "SPEAKER_01",
+      "text": "So they are potentially can be interested."
+    },
+    {
+      "start": 913.12,
+      "end": 915.32,
+      "speaker": "SPEAKER_01",
+      "text": "Then we take a segment B."
+    },
+    {
+      "start": 916.32,
+      "end": 926.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And we take the on the overall, we have 8,000 merchants."
+    },
+    {
+      "start": 926.2800000000001,
+      "end": 933.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And they take together 12 million."
+    },
+    {
+      "start": 933.2800000000001,
+      "end": 941.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So 12,000 divided by 8 is going to be $1.5,000."
+    },
+    {
+      "start": 941.9200000000001,
+      "end": 944.24,
+      "speaker": "SPEAKER_01",
+      "text": "I think those are not going to be interested too much."
+    },
+    {
+      "start": 944.24,
+      "end": 953.84,
+      "speaker": "SPEAKER_01",
+      "text": "And then segment C. So we have 22,000."
+    },
+    {
+      "start": 953.84,
+      "end": 957.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we have 5,000."
+    },
+    {
+      "start": 957.24,
+      "end": 963.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And then in total, we have 22,000, 2,000."
+    },
+    {
+      "start": 963.5600000000001,
+      "end": 974.2,
+      "speaker": "SPEAKER_01",
+      "text": "So they pay 4,000 on average."
+    },
+    {
+      "start": 975.2,
+      "end": 980.72,
+      "speaker": "SPEAKER_01",
+      "text": "OK, so far from what I've seen from Alcoquilation,"
+    },
+    {
+      "start": 980.72,
+      "end": 985.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "I get a segment A. An average merchant pays per month,"
+    },
+    {
+      "start": 985.1600000000001,
+      "end": 989.32,
+      "speaker": "SPEAKER_01",
+      "text": "$7.5,000."
+    },
+    {
+      "start": 989.32,
+      "end": 992.12,
+      "speaker": "SPEAKER_01",
+      "text": "Then in the segment B, the average merchant"
+    },
+    {
+      "start": 992.12,
+      "end": 995.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "pays $1.5,000 per month."
+    },
+    {
+      "start": 995.5600000000001,
+      "end": 998.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And then in the segment C, an average merchant pays"
+    },
+    {
+      "start": 998.1600000000001,
+      "end": 1000.6,
+      "speaker": "SPEAKER_01",
+      "text": "$4.5,000 per month."
+    },
+    {
+      "start": 1000.6,
+      "end": 1003.88,
+      "speaker": "SPEAKER_01",
+      "text": "Which if you look purely at the numbers,"
+    },
+    {
+      "start": 1003.88,
+      "end": 1006.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "segment A would be definitely the most interested"
+    },
+    {
+      "start": 1006.4399999999999,
+      "end": 1010.04,
+      "speaker": "SPEAKER_01",
+      "text": "into purchasing that product."
+    },
+    {
+      "start": 1010.04,
+      "end": 1014.0,
+      "speaker": "SPEAKER_01",
+      "text": "Segment B is definitely out of reach, I think."
+    },
+    {
+      "start": 1014.0,
+      "end": 1018.52,
+      "speaker": "SPEAKER_01",
+      "text": "However, segment C, we could potentially maybe"
+    },
+    {
+      "start": 1018.52,
+      "end": 1024.12,
+      "speaker": "SPEAKER_01",
+      "text": "try to play with them on that and try to get a little bit more,"
+    },
+    {
+      "start": 1024.12,
+      "end": 1027.88,
+      "speaker": "SPEAKER_01",
+      "text": "like attracted them and just play on that fact"
+    },
+    {
+      "start": 1027.88,
+      "end": 1030.12,
+      "speaker": "SPEAKER_01",
+      "text": "that sometimes they post really a lot of ads"
+    },
+    {
+      "start": 1030.12,
+      "end": 1032.52,
+      "speaker": "SPEAKER_01",
+      "text": "and try to push them into buying our product."
+    },
+    {
+      "start": 1032.52,
+      "end": 1036.12,
+      "speaker": "SPEAKER_01",
+      "text": "Because if segment A customers are interested in our product,"
+    },
+    {
+      "start": 1036.12,
+      "end": 1038.84,
+      "speaker": "SPEAKER_01",
+      "text": "we're going to lose revenue on them."
+    },
+    {
+      "start": 1038.84,
+      "end": 1041.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "However, segment C is the ones that we're going to earn on if we"
+    },
+    {
+      "start": 1041.6399999999999,
+      "end": 1042.76,
+      "speaker": "SPEAKER_01",
+      "text": "push them to buy a product."
+    },
+    {
+      "start": 1042.76,
+      "end": 1046.56,
+      "speaker": "SPEAKER_01",
+      "text": "So definitely segment A is going to be interested."
+    },
+    {
+      "start": 1046.56,
+      "end": 1050.28,
+      "speaker": "SPEAKER_01",
+      "text": "Segment C is going to be less interested."
+    },
+    {
+      "start": 1050.28,
+      "end": 1054.12,
+      "speaker": "SPEAKER_01",
+      "text": "And in segment C, I would love to negotiate with them"
+    },
+    {
+      "start": 1054.12,
+      "end": 1057.16,
+      "speaker": "SPEAKER_01",
+      "text": "about it and try to make them interested in our product."
+    },
+    {
+      "start": 1057.16,
+      "end": 1059.0,
+      "speaker": "SPEAKER_01",
+      "text": "What do you think?"
+    },
+    {
+      "start": 1059.0,
+      "end": 1061.68,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, amazing analysis."
+    },
+    {
+      "start": 1061.68,
+      "end": 1066.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "I definitely agree with you into exploring segment A"
+    },
+    {
+      "start": 1066.0800000000002,
+      "end": 1069.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "and the rationale makes complete sense."
+    },
+    {
+      "start": 1069.5600000000002,
+      "end": 1072.92,
+      "speaker": "SPEAKER_00",
+      "text": "So now that we've identified the target segment that"
+    },
+    {
+      "start": 1072.92,
+      "end": 1076.8,
+      "speaker": "SPEAKER_00",
+      "text": "is most likely to adopt this new kind of product line,"
+    },
+    {
+      "start": 1076.8,
+      "end": 1081.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I'm curious as to what the financial impact would be,"
+    },
+    {
+      "start": 1081.1200000000001,
+      "end": 1087.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "if 40% of segment A merchants and 20% of segment C merchants"
+    },
+    {
+      "start": 1087.3600000000001,
+      "end": 1090.0,
+      "speaker": "SPEAKER_00",
+      "text": "switched to the new limitless product,"
+    },
+    {
+      "start": 1090.0,
+      "end": 1092.8,
+      "speaker": "SPEAKER_00",
+      "text": "to help us identify what the financial impact would be."
+    },
+    {
+      "start": 1092.8,
+      "end": 1099.2,
+      "speaker": "SPEAKER_01",
+      "text": "40% of segment A and 20% of segment B will switch."
+    },
+    {
+      "start": 1099.2,
+      "end": 1101.4,
+      "speaker": "SPEAKER_00",
+      "text": "20% of segment C, sorry."
+    },
+    {
+      "start": 1101.4,
+      "end": 1103.2,
+      "speaker": "SPEAKER_01",
+      "text": "C or C, sorry."
+    },
+    {
+      "start": 1103.2,
+      "end": 1105.36,
+      "speaker": "SPEAKER_01",
+      "text": "OK, interesting."
+    },
+    {
+      "start": 1105.36,
+      "end": 1112.88,
+      "speaker": "SPEAKER_01",
+      "text": "So for right now, OK, let me think how I've approached this."
+    },
+    {
+      "start": 1112.88,
+      "end": 1118.56,
+      "speaker": "SPEAKER_01",
+      "text": "So basically, I can see the number of merchants"
+    },
+    {
+      "start": 1118.56,
+      "end": 1124.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "in the segment A and it's 2000."
+    },
+    {
+      "start": 1124.6399999999999,
+      "end": 1128.12,
+      "speaker": "SPEAKER_01",
+      "text": "So 40% of that would be 800 merchants."
+    },
+    {
+      "start": 1131.28,
+      "end": 1134.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then in segment C, we have 5,000."
+    },
+    {
+      "start": 1134.24,
+      "end": 1138.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So 20% of that would be 1,000 merchants."
+    },
+    {
+      "start": 1138.68,
+      "end": 1150.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Now, what I would do is do, OK, so I can see our ever-driven"
+    },
+    {
+      "start": 1150.6000000000001,
+      "end": 1152.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "you per month right now."
+    },
+    {
+      "start": 1152.3200000000002,
+      "end": 1155.4,
+      "speaker": "SPEAKER_01",
+      "text": "And then I would try to see the change."
+    },
+    {
+      "start": 1155.4,
+      "end": 1164.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So if we take the segment A, we're going to earn on them 1.5,000 less."
+    },
+    {
+      "start": 1168.8400000000001,
+      "end": 1178.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And if we find out segment C, we're going to earn on them 1.5,000 more."
+    },
+    {
+      "start": 1178.3600000000001,
+      "end": 1181.72,
+      "speaker": "SPEAKER_00",
+      "text": "Can you explain how you got to that 1.5?"
+    },
+    {
+      "start": 1181.72,
+      "end": 1183.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, sure."
+    },
+    {
+      "start": 1183.3600000000001,
+      "end": 1187.52,
+      "speaker": "SPEAKER_01",
+      "text": "So from what I've calculated so far, I can also"
+    },
+    {
+      "start": 1187.52,
+      "end": 1189.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "use the other way of calculation."
+    },
+    {
+      "start": 1189.3600000000001,
+      "end": 1193.76,
+      "speaker": "SPEAKER_01",
+      "text": "But from what I've seen, right now, as a segment A customer"
+    },
+    {
+      "start": 1193.76,
+      "end": 1199.28,
+      "speaker": "SPEAKER_01",
+      "text": "on average pays us $7.5,000 of monthly revenue."
+    },
+    {
+      "start": 1199.28,
+      "end": 1203.96,
+      "speaker": "SPEAKER_01",
+      "text": "Now, the segment C customer gives us the average revenue per month"
+    },
+    {
+      "start": 1203.96,
+      "end": 1206.52,
+      "speaker": "SPEAKER_01",
+      "text": "of 4.5,000."
+    },
+    {
+      "start": 1206.52,
+      "end": 1211.4,
+      "speaker": "SPEAKER_01",
+      "text": "And if we give the limitless product, each one of them"
+    },
+    {
+      "start": 1211.4,
+      "end": 1215.08,
+      "speaker": "SPEAKER_01",
+      "text": "is going to pay us 6 instead of 7.5 and 4.5."
+    },
+    {
+      "start": 1215.08,
+      "end": 1220.0,
+      "speaker": "SPEAKER_01",
+      "text": "So segment A, those who switch are going to pay us 1.5,000 less"
+    },
+    {
+      "start": 1220.0,
+      "end": 1221.08,
+      "speaker": "SPEAKER_01",
+      "text": "per person."
+    },
+    {
+      "start": 1221.08,
+      "end": 1223.0,
+      "speaker": "SPEAKER_01",
+      "text": "And segment C, those who are going to switch"
+    },
+    {
+      "start": 1223.52,
+      "end": 1226.6,
+      "speaker": "SPEAKER_01",
+      "text": "1.5,000 more per person."
+    },
+    {
+      "start": 1226.6,
+      "end": 1228.68,
+      "speaker": "SPEAKER_01",
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 1228.68,
+      "end": 1234.2,
+      "speaker": "SPEAKER_00",
+      "text": "So are you saying that that number is like how much the company"
+    },
+    {
+      "start": 1234.2,
+      "end": 1237.56,
+      "speaker": "SPEAKER_00",
+      "text": "would be losing as a result of them switching?"
+    },
+    {
+      "start": 1237.56,
+      "end": 1240.92,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of company, in terms of the segment A,"
+    },
+    {
+      "start": 1240.92,
+      "end": 1245.6,
+      "speaker": "SPEAKER_01",
+      "text": "if segment A switches, and there is no, you know what?"
+    },
+    {
+      "start": 1245.6,
+      "end": 1246.84,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe I should make it clear."
+    },
+    {
+      "start": 1246.84,
+      "end": 1249.72,
+      "speaker": "SPEAKER_01",
+      "text": "So 40% of our current customers going to switch, right?"
+    },
+    {
+      "start": 1249.72,
+      "end": 1251.44,
+      "speaker": "SPEAKER_01",
+      "text": "So there's no."
+    },
+    {
+      "start": 1251.44,
+      "end": 1252.36,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 1252.36,
+      "end": 1259.08,
+      "speaker": "SPEAKER_01",
+      "text": "So if the customers A that are bringing us 7.5,000 dollars"
+    },
+    {
+      "start": 1259.08,
+      "end": 1265.4799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "and average are going to switch, then we are going to lose"
+    },
+    {
+      "start": 1265.4799999999998,
+      "end": 1266.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "some money on that."
+    },
+    {
+      "start": 1266.9199999999998,
+      "end": 1269.24,
+      "speaker": "SPEAKER_01",
+      "text": "And if the customers see switch, we're"
+    },
+    {
+      "start": 1269.24,
+      "end": 1270.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "going to earn some money on that."
+    },
+    {
+      "start": 1270.3999999999999,
+      "end": 1273.56,
+      "speaker": "SPEAKER_01",
+      "text": "Because currently, on average, they're paying less."
+    },
+    {
+      "start": 1273.56,
+      "end": 1274.76,
+      "speaker": "SPEAKER_01",
+      "text": "Does that make sense to you?"
+    },
+    {
+      "start": 1274.76,
+      "end": 1277.24,
+      "speaker": "SPEAKER_01",
+      "text": "Or you want me to calculate that by just calculating"
+    },
+    {
+      "start": 1277.24,
+      "end": 1279.36,
+      "speaker": "SPEAKER_01",
+      "text": "the revenue in total?"
+    },
+    {
+      "start": 1279.36,
+      "end": 1279.84,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1279.84,
+      "end": 1281.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "That makes sense to me."
+    },
+    {
+      "start": 1281.2,
+      "end": 1285.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I think it would be a little more clear if you broke it down"
+    },
+    {
+      "start": 1285.1200000000001,
+      "end": 1289.2,
+      "speaker": "SPEAKER_00",
+      "text": "based on one additional revenue we would gain from that."
+    },
+    {
+      "start": 1289.2,
+      "end": 1290.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Sure."
+    },
+    {
+      "start": 1290.1200000000001,
+      "end": 1290.92,
+      "speaker": "SPEAKER_00",
+      "text": "Sure."
+    },
+    {
+      "start": 1290.92,
+      "end": 1291.96,
+      "speaker": "SPEAKER_01",
+      "text": "So I will go with that."
+    },
+    {
+      "start": 1291.96,
+      "end": 1294.44,
+      "speaker": "SPEAKER_01",
+      "text": "So I will go with that approach, of course."
+    },
+    {
+      "start": 1294.44,
+      "end": 1295.52,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 1295.52,
+      "end": 1296.32,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 1296.32,
+      "end": 1299.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Let me calculate the current revenue."
+    },
+    {
+      "start": 1299.6000000000001,
+      "end": 1305.76,
+      "speaker": "SPEAKER_01",
+      "text": "Is going to be 15, 12, 25,000,000."
+    },
+    {
+      "start": 1305.76,
+      "end": 1311.16,
+      "speaker": "SPEAKER_01",
+      "text": "So it's going to be 49,5,000."
+    },
+    {
+      "start": 1311.3600000000001,
+      "end": 1316.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Now, so we will do like this."
+    },
+    {
+      "start": 1316.5600000000002,
+      "end": 1323.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "We will take a number of the new numbers of four groups."
+    },
+    {
+      "start": 1323.5600000000002,
+      "end": 1325.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm going to divide them into four segments."
+    },
+    {
+      "start": 1325.3600000000001,
+      "end": 1328.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Now, so it's going to be segments A, the 60%,"
+    },
+    {
+      "start": 1328.3200000000002,
+      "end": 1335.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "segment B, which stays the same, segments C, the 80% of states,"
+    },
+    {
+      "start": 1335.5600000000002,
+      "end": 1338.88,
+      "speaker": "SPEAKER_01",
+      "text": "and then the new segment that pays us the new revenue,"
+    },
+    {
+      "start": 1339.0800000000002,
+      "end": 1341.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "which is going to consist of 1,800 clients."
+    },
+    {
+      "start": 1341.5600000000002,
+      "end": 1344.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 1344.3200000000002,
+      "end": 1350.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "I think just focus on segment A and C. OK."
+    },
+    {
+      "start": 1350.0800000000002,
+      "end": 1353.96,
+      "speaker": "SPEAKER_00",
+      "text": "I guess like what I'm trying to push you to do specifically"
+    },
+    {
+      "start": 1353.96,
+      "end": 1356.64,
+      "speaker": "SPEAKER_00",
+      "text": "is like calculate the cannibalization"
+    },
+    {
+      "start": 1356.64,
+      "end": 1361.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "that we would see from merchant switching from segment A"
+    },
+    {
+      "start": 1361.1200000000001,
+      "end": 1364.7600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "and merchant switching from segment B."
+    },
+    {
+      "start": 1364.76,
+      "end": 1369.72,
+      "speaker": "SPEAKER_01",
+      "text": "So just let me return back to my initial approach."
+    },
+    {
+      "start": 1369.72,
+      "end": 1377.08,
+      "speaker": "SPEAKER_01",
+      "text": "So we have, I think, like so we have like 800 people"
+    },
+    {
+      "start": 1377.08,
+      "end": 1382.68,
+      "speaker": "SPEAKER_01",
+      "text": "paying us 1.5K less and 1,000 people paying 1.5K more."
+    },
+    {
+      "start": 1382.68,
+      "end": 1387.72,
+      "speaker": "SPEAKER_01",
+      "text": "So in total, it's going to be 200 times 1.5,000."
+    },
+    {
+      "start": 1387.72,
+      "end": 1394.56,
+      "speaker": "SPEAKER_01",
+      "text": "So we're going to have an additional $300,000 of revenue."
+    },
+    {
+      "start": 1395.28,
+      "end": 1398.56,
+      "speaker": "SPEAKER_00",
+      "text": "That makes sense."
+    },
+    {
+      "start": 1398.56,
+      "end": 1399.56,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 1399.56,
+      "end": 1400.56,
+      "speaker": "SPEAKER_00",
+      "text": "That feels good."
+    },
+    {
+      "start": 1400.56,
+      "end": 1402.56,
+      "speaker": "SPEAKER_00",
+      "text": "That number feels good."
+    },
+    {
+      "start": 1402.56,
+      "end": 1403.56,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 1403.56,
+      "end": 1404.56,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 1404.56,
+      "end": 1405.56,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 1405.56,
+      "end": 1407.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so one question I would have for you"
+    },
+    {
+      "start": 1407.8799999999999,
+      "end": 1412.32,
+      "speaker": "SPEAKER_00",
+      "text": "is like considering that you had mentioned kind of the risks"
+    },
+    {
+      "start": 1412.32,
+      "end": 1414.76,
+      "speaker": "SPEAKER_00",
+      "text": "and capabilities in your framework, how"
+    },
+    {
+      "start": 1414.76,
+      "end": 1419.12,
+      "speaker": "SPEAKER_00",
+      "text": "would you go about deciding whether or not this net $300,000"
+    },
+    {
+      "start": 1419.12,
+      "end": 1423.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "is worth the risks you had mentioned earlier?"
+    },
+    {
+      "start": 1423.88,
+      "end": 1432.4,
+      "speaker": "SPEAKER_01",
+      "text": "Well, our current revenue is around $49, almost $15,000,000."
+    },
+    {
+      "start": 1432.4,
+      "end": 1439.48,
+      "speaker": "SPEAKER_01",
+      "text": "So I think like $300,000 is like around 6% of that."
+    },
+    {
+      "start": 1442.5200000000002,
+      "end": 1444.72,
+      "speaker": "SPEAKER_01",
+      "text": "6% of revenue growth."
+    },
+    {
+      "start": 1444.72,
+      "end": 1448.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And obviously I want to know what is the client's goal"
+    },
+    {
+      "start": 1448.3600000000001,
+      "end": 1449.68,
+      "speaker": "SPEAKER_01",
+      "text": "in terms of revenue growth."
+    },
+    {
+      "start": 1449.68,
+      "end": 1455.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "But it doesn't sound like too much of a growth for this kind"
+    },
+    {
+      "start": 1455.3200000000002,
+      "end": 1456.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "of shift."
+    },
+    {
+      "start": 1456.0800000000002,
+      "end": 1457.52,
+      "speaker": "SPEAKER_01",
+      "text": "And I'll explain you why."
+    },
+    {
+      "start": 1457.52,
+      "end": 1460.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Because what I mentioned in my structure"
+    },
+    {
+      "start": 1460.1200000000001,
+      "end": 1464.44,
+      "speaker": "SPEAKER_01",
+      "text": "about the potential loss of the customers"
+    },
+    {
+      "start": 1464.44,
+      "end": 1468.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "and the potential cannibalization is extremely important."
+    },
+    {
+      "start": 1468.8400000000001,
+      "end": 1471.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Because if you think about those websites"
+    },
+    {
+      "start": 1471.6000000000001,
+      "end": 1474.76,
+      "speaker": "SPEAKER_01",
+      "text": "that allow unlimited amount of ads,"
+    },
+    {
+      "start": 1474.76,
+      "end": 1477.28,
+      "speaker": "SPEAKER_01",
+      "text": "the user's experience gets really, really low."
+    },
+    {
+      "start": 1477.28,
+      "end": 1480.52,
+      "speaker": "SPEAKER_01",
+      "text": "So maybe we will, it's very risky for us."
+    },
+    {
+      "start": 1480.52,
+      "end": 1484.0,
+      "speaker": "SPEAKER_01",
+      "text": "So if there was at least 20% of revenue growth,"
+    },
+    {
+      "start": 1484.0,
+      "end": 1486.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I would maybe root for it."
+    },
+    {
+      "start": 1486.3999999999999,
+      "end": 1490.0,
+      "speaker": "SPEAKER_01",
+      "text": "But for now, unless we assess the risks,"
+    },
+    {
+      "start": 1490.0,
+      "end": 1492.76,
+      "speaker": "SPEAKER_01",
+      "text": "I would have thought the size that this is not that good of investment."
+    },
+    {
+      "start": 1497.12,
+      "end": 1497.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Thanks for that."
+    },
+    {
+      "start": 1497.8799999999999,
+      "end": 1502.6,
+      "speaker": "SPEAKER_00",
+      "text": "I think one thing based on what you had just responded with"
+    },
+    {
+      "start": 1502.6,
+      "end": 1504.84,
+      "speaker": "SPEAKER_00",
+      "text": "that I'm curious and unpacking is like you"
+    },
+    {
+      "start": 1504.84,
+      "end": 1509.76,
+      "speaker": "SPEAKER_00",
+      "text": "talked a little bit about some of the risks of clients"
+    },
+    {
+      "start": 1509.76,
+      "end": 1512.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "essentially moving between services."
+    },
+    {
+      "start": 1512.3999999999999,
+      "end": 1515.0,
+      "speaker": "SPEAKER_00",
+      "text": "I guess one thing I'm curious about is how would you mitigate"
+    },
+    {
+      "start": 1515.0,
+      "end": 1519.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "some of those risks you mentioned earlier even just now?"
+    },
+    {
+      "start": 1519.3999999999999,
+      "end": 1521.9599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "How would I mitigate those risks?"
+    },
+    {
+      "start": 1521.9599999999998,
+      "end": 1522.48,
+      "speaker": "SPEAKER_00",
+      "text": "Precisely."
+    },
+    {
+      "start": 1527.1599999999999,
+      "end": 1530.32,
+      "speaker": "SPEAKER_01",
+      "text": "So can I take a second?"
+    },
+    {
+      "start": 1530.32,
+      "end": 1531.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yep."
+    },
+    {
+      "start": 1531.32,
+      "end": 1531.82,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 1531.82,
+      "end": 1534.32,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 1534.48,
+      "end": 1535.32,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 1535.32,
+      "end": 1539.32,
+      "speaker": "SPEAKER_01",
+      "text": "So I think the mitigation of the risks"
+    },
+    {
+      "start": 1539.32,
+      "end": 1543.96,
+      "speaker": "SPEAKER_01",
+      "text": "and the risks that I stated was basically the worst client"
+    },
+    {
+      "start": 1543.96,
+      "end": 1547.72,
+      "speaker": "SPEAKER_01",
+      "text": "plant and page experience due to the amount of the commercial."
+    },
+    {
+      "start": 1547.72,
+      "end": 1552.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So I would mitigate this risk by two things."
+    },
+    {
+      "start": 1552.8799999999999,
+      "end": 1555.24,
+      "speaker": "SPEAKER_01",
+      "text": "First of all, would we drop in it on the user"
+    },
+    {
+      "start": 1555.24,
+      "end": 1557.96,
+      "speaker": "SPEAKER_01",
+      "text": "and second of all, the drop in it on the client of our client."
+    },
+    {
+      "start": 1557.96,
+      "end": 1560.6,
+      "speaker": "SPEAKER_01",
+      "text": "So what do I mean by that?"
+    },
+    {
+      "start": 1560.6,
+      "end": 1563.04,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of the users, we could potentially"
+    },
+    {
+      "start": 1563.04,
+      "end": 1566.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "offer the users of our platform, those who come there"
+    },
+    {
+      "start": 1566.3999999999999,
+      "end": 1570.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "to buy the e-commerce product, to pay for the premium version,"
+    },
+    {
+      "start": 1570.8799999999999,
+      "end": 1571.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "which will be at less."
+    },
+    {
+      "start": 1571.8799999999999,
+      "end": 1574.0,
+      "speaker": "SPEAKER_01",
+      "text": "So we can put unlimited amount of ads."
+    },
+    {
+      "start": 1574.0,
+      "end": 1577.96,
+      "speaker": "SPEAKER_01",
+      "text": "And if you wanted without ads, pay $5 for a month."
+    },
+    {
+      "start": 1577.96,
+      "end": 1580.76,
+      "speaker": "SPEAKER_01",
+      "text": "That could give us potentially additional revenues."
+    },
+    {
+      "start": 1580.76,
+      "end": 1584.24,
+      "speaker": "SPEAKER_01",
+      "text": "And again, this is still the risky because,"
+    },
+    {
+      "start": 1584.24,
+      "end": 1586.08,
+      "speaker": "SPEAKER_01",
+      "text": "but like the people who, I think,"
+    },
+    {
+      "start": 1586.08,
+      "end": 1589.44,
+      "speaker": "SPEAKER_01",
+      "text": "that the people who really don't want ads and that really"
+    },
+    {
+      "start": 1589.44,
+      "end": 1591.8,
+      "speaker": "SPEAKER_01",
+      "text": "bother them and they want to buy an R e-commerce website"
+    },
+    {
+      "start": 1591.8,
+      "end": 1593.6,
+      "speaker": "SPEAKER_01",
+      "text": "and that would just pay the premium."
+    },
+    {
+      "start": 1593.6,
+      "end": 1595.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And those who don't pay the premium"
+    },
+    {
+      "start": 1595.1599999999999,
+      "end": 1597.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "probably doesn't bother them as much."
+    },
+    {
+      "start": 1597.1599999999999,
+      "end": 1601.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Now, another way that I would go is potentially trying"
+    },
+    {
+      "start": 1601.1599999999999,
+      "end": 1604.68,
+      "speaker": "SPEAKER_01",
+      "text": "to look at our clients, those who post the ads."
+    },
+    {
+      "start": 1604.68,
+      "end": 1607.8,
+      "speaker": "SPEAKER_01",
+      "text": "So maybe the product that we're looking at"
+    },
+    {
+      "start": 1607.8,
+      "end": 1611.48,
+      "speaker": "SPEAKER_01",
+      "text": "is a little bit, how would I say?"
+    },
+    {
+      "start": 1611.48,
+      "end": 1613.24,
+      "speaker": "SPEAKER_01",
+      "text": "It is a little bit too radical."
+    },
+    {
+      "start": 1613.24,
+      "end": 1617.76,
+      "speaker": "SPEAKER_01",
+      "text": "So maybe I would offer the limitless amount of time."
+    },
+    {
+      "start": 1617.76,
+      "end": 1620.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And yes, limitless amount of the times"
+    },
+    {
+      "start": 1620.64,
+      "end": 1623.76,
+      "speaker": "SPEAKER_01",
+      "text": "that you post here are commercial, but maybe we"
+    },
+    {
+      "start": 1623.76,
+      "end": 1626.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "have some amount of slots on the page."
+    },
+    {
+      "start": 1626.5600000000002,
+      "end": 1630.44,
+      "speaker": "SPEAKER_01",
+      "text": "So we would not increase that amount of slots."
+    },
+    {
+      "start": 1630.44,
+      "end": 1633.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Now I'm thinking about that perhaps that was the product"
+    },
+    {
+      "start": 1633.1200000000001,
+      "end": 1635.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "and it did clarify that well then."
+    },
+    {
+      "start": 1635.5600000000002,
+      "end": 1641.68,
+      "speaker": "SPEAKER_01",
+      "text": "So yeah, so basically I would like to try to find,"
+    },
+    {
+      "start": 1641.68,
+      "end": 1645.88,
+      "speaker": "SPEAKER_01",
+      "text": "maybe to try to talk to more users and offer them"
+    },
+    {
+      "start": 1645.88,
+      "end": 1647.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "the premium experience."
+    },
+    {
+      "start": 1647.8400000000001,
+      "end": 1648.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "What do you think about that?"
+    },
+    {
+      "start": 1651.48,
+      "end": 1653.76,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, that feels really strong."
+    },
+    {
+      "start": 1653.76,
+      "end": 1658.88,
+      "speaker": "SPEAKER_00",
+      "text": "And finally, the CEO has walked into the room"
+    },
+    {
+      "start": 1658.88,
+      "end": 1661.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "and is curious to hear your presentation"
+    },
+    {
+      "start": 1661.0800000000002,
+      "end": 1663.24,
+      "speaker": "SPEAKER_00",
+      "text": "about some of the findings you've talked about today"
+    },
+    {
+      "start": 1663.24,
+      "end": 1665.96,
+      "speaker": "SPEAKER_00",
+      "text": "and ultimately your final recommendations."
+    },
+    {
+      "start": 1666.72,
+      "end": 1667.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1668.76,
+      "end": 1670.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Can I take a second?"
+    },
+    {
+      "start": 1670.3200000000002,
+      "end": 1671.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Of course."
+    },
+    {
+      "start": 1671.3200000000002,
+      "end": 1672.16,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1675.68,
+      "end": 1679.2800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, Mr. Sia, thank you so much for letting us work"
+    },
+    {
+      "start": 1679.28,
+      "end": 1681.12,
+      "speaker": "SPEAKER_01",
+      "text": "on this project, helping you identify"
+    },
+    {
+      "start": 1681.12,
+      "end": 1684.72,
+      "speaker": "SPEAKER_01",
+      "text": "whether to launch your new limitless ads over or not."
+    },
+    {
+      "start": 1686.68,
+      "end": 1690.28,
+      "speaker": "SPEAKER_01",
+      "text": "So based on the data that we have reviewed,"
+    },
+    {
+      "start": 1690.28,
+      "end": 1693.76,
+      "speaker": "SPEAKER_01",
+      "text": "we think that you should go ahead and launch this product"
+    },
+    {
+      "start": 1693.76,
+      "end": 1695.8,
+      "speaker": "SPEAKER_01",
+      "text": "due to the two following reasons."
+    },
+    {
+      "start": 1695.8,
+      "end": 1699.6,
+      "speaker": "SPEAKER_01",
+      "text": "First, we can see that the segment A and the segment C"
+    },
+    {
+      "start": 1699.6,
+      "end": 1702.16,
+      "speaker": "SPEAKER_01",
+      "text": "are going to be very interested in it"
+    },
+    {
+      "start": 1702.16,
+      "end": 1703.72,
+      "speaker": "SPEAKER_01",
+      "text": "in particular segment A."
+    },
+    {
+      "start": 1705.52,
+      "end": 1708.92,
+      "speaker": "SPEAKER_01",
+      "text": "And second, we can see that it is going to bring"
+    },
+    {
+      "start": 1708.92,
+      "end": 1713.4,
+      "speaker": "SPEAKER_01",
+      "text": "you a certain revenue growth in particular 300,000 per year,"
+    },
+    {
+      "start": 1713.4,
+      "end": 1716.04,
+      "speaker": "SPEAKER_01",
+      "text": "which is 6% of year current revenue."
+    },
+    {
+      "start": 1716.04,
+      "end": 1720.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "And however, in order to understand"
+    },
+    {
+      "start": 1720.3200000000002,
+      "end": 1724.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "like this initiative and to make it even more profitable,"
+    },
+    {
+      "start": 1724.3200000000002,
+      "end": 1727.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "we would suggest you to take a look at the risks."
+    },
+    {
+      "start": 1727.5600000000002,
+      "end": 1730.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "For example, the Lenzhin Experience page"
+    },
+    {
+      "start": 1730.0800000000002,
+      "end": 1733.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "and also the kind of organization effect."
+    },
+    {
+      "start": 1733.5600000000002,
+      "end": 1737.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And then we would also suggest you to perhaps try to attract more"
+    },
+    {
+      "start": 1737.6,
+      "end": 1741.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "of the segment C customers and try to negotiate with them"
+    },
+    {
+      "start": 1741.1599999999999,
+      "end": 1743.32,
+      "speaker": "SPEAKER_01",
+      "text": "and attract them into this initiative,"
+    },
+    {
+      "start": 1743.32,
+      "end": 1745.36,
+      "speaker": "SPEAKER_01",
+      "text": "which would bring even more revenue."
+    },
+    {
+      "start": 1745.36,
+      "end": 1749.0,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of their risks, we would suggest you to mitigate it"
+    },
+    {
+      "start": 1749.0,
+      "end": 1750.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "by offering the premium services,"
+    },
+    {
+      "start": 1750.9199999999998,
+      "end": 1753.9599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "addless services to our current platform users."
+    },
+    {
+      "start": 1753.9599999999998,
+      "end": 1755.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And that could bring us additional revenue"
+    },
+    {
+      "start": 1755.8799999999999,
+      "end": 1760.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "and grow even beyond the six and maybe even 10% and 20%."
+    },
+    {
+      "start": 1760.8799999999999,
+      "end": 1763.12,
+      "speaker": "SPEAKER_01",
+      "text": "However, this is more long term steps"
+    },
+    {
+      "start": 1763.12,
+      "end": 1765.9599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "and we would like to work with you on them."
+    },
+    {
+      "start": 1765.9599999999998,
+      "end": 1766.9599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you so much."
+    },
+    {
+      "start": 1768.24,
+      "end": 1770.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Firstly, Anya, great job."
+    },
+    {
+      "start": 1770.9599999999998,
+      "end": 1772.76,
+      "speaker": "SPEAKER_00",
+      "text": "That was a really strong performance."
+    },
+    {
+      "start": 1772.76,
+      "end": 1775.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I know we kind of had like that back and forth"
+    },
+    {
+      "start": 1775.6799999999998,
+      "end": 1777.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "on the quantitative section, but I think overall,"
+    },
+    {
+      "start": 1777.8799999999999,
+      "end": 1782.84,
+      "speaker": "SPEAKER_00",
+      "text": "that was a really strong case and you handled it amazingly."
+    },
+    {
+      "start": 1782.84,
+      "end": 1786.24,
+      "speaker": "SPEAKER_00",
+      "text": "So diving right in, I guess I'm just going to go"
+    },
+    {
+      "start": 1786.24,
+      "end": 1787.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "through each part of the case and just,"
+    },
+    {
+      "start": 1787.8799999999999,
+      "end": 1789.32,
+      "speaker": "SPEAKER_00",
+      "text": "I have some bullets for each."
+    },
+    {
+      "start": 1790.32,
+      "end": 1793.36,
+      "speaker": "SPEAKER_00",
+      "text": "So yeah, starting off with structure and framework,"
+    },
+    {
+      "start": 1793.36,
+      "end": 1796.4799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I think the first thing that I had noticed"
+    },
+    {
+      "start": 1796.4799999999998,
+      "end": 1801.4799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "was firstly, how long you took to develop your structure?"
+    },
+    {
+      "start": 1801.6399999999999,
+      "end": 1804.76,
+      "speaker": "SPEAKER_00",
+      "text": "Something I typically do with a lot of candidates"
+    },
+    {
+      "start": 1804.76,
+      "end": 1808.0,
+      "speaker": "SPEAKER_00",
+      "text": "that I'm casing with is that I time kind of each section"
+    },
+    {
+      "start": 1808.0,
+      "end": 1811.0,
+      "speaker": "SPEAKER_00",
+      "text": "of their brainstorming process"
+    },
+    {
+      "start": 1811.0,
+      "end": 1812.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "and we were looking at around two minutes"
+    },
+    {
+      "start": 1812.9599999999998,
+      "end": 1817.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "and 25 seconds for the structure development."
+    },
+    {
+      "start": 1817.4399999999998,
+      "end": 1820.32,
+      "speaker": "SPEAKER_00",
+      "text": "For future reference, I think you should definitely try"
+    },
+    {
+      "start": 1820.32,
+      "end": 1822.84,
+      "speaker": "SPEAKER_00",
+      "text": "and keep the development of your framework"
+    },
+    {
+      "start": 1822.84,
+      "end": 1825.0,
+      "speaker": "SPEAKER_00",
+      "text": "to around like one minute 30."
+    },
+    {
+      "start": 1825.0,
+      "end": 1827.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "And I say that because like a lot of the time,"
+    },
+    {
+      "start": 1827.9599999999998,
+      "end": 1830.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "you'll spend too much time creating like sub buckets"
+    },
+    {
+      "start": 1830.9199999999998,
+      "end": 1834.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "for your issue trees that aren't as me see as you mentioned"
+    },
+    {
+      "start": 1834.3999999999999,
+      "end": 1835.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "earlier."
+    },
+    {
+      "start": 1835.3999999999999,
+      "end": 1839.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so yeah, just keep in mind, try to cut the actual time"
+    },
+    {
+      "start": 1839.6399999999999,
+      "end": 1842.0,
+      "speaker": "SPEAKER_00",
+      "text": "you're spending on developing your case structure."
+    },
+    {
+      "start": 1843.1599999999999,
+      "end": 1846.48,
+      "speaker": "SPEAKER_00",
+      "text": "And another thing I had noticed was that your first bucket"
+    },
+    {
+      "start": 1846.48,
+      "end": 1849.56,
+      "speaker": "SPEAKER_00",
+      "text": "was a lot of the information you didn't receive"
+    },
+    {
+      "start": 1849.56,
+      "end": 1852.8,
+      "speaker": "SPEAKER_00",
+      "text": "from the clarifying questions you talked a lot about."
+    },
+    {
+      "start": 1852.84,
+      "end": 1855.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "The current situation, the business model,"
+    },
+    {
+      "start": 1855.1599999999999,
+      "end": 1857.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "the objectives of the client, kind of the information"
+    },
+    {
+      "start": 1857.1999999999998,
+      "end": 1859.6,
+      "speaker": "SPEAKER_00",
+      "text": "I wasn't able to give you in the first half"
+    },
+    {
+      "start": 1859.6,
+      "end": 1862.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "of that clarifying part."
+    },
+    {
+      "start": 1862.1999999999998,
+      "end": 1867.08,
+      "speaker": "SPEAKER_00",
+      "text": "I would say for future reference to make your framework"
+    },
+    {
+      "start": 1867.08,
+      "end": 1870.28,
+      "speaker": "SPEAKER_00",
+      "text": "more me see, I would just combine,"
+    },
+    {
+      "start": 1870.28,
+      "end": 1872.12,
+      "speaker": "SPEAKER_00",
+      "text": "like for example, the financial information"
+    },
+    {
+      "start": 1872.12,
+      "end": 1874.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "that you had mentioned, instead of talking about like"
+    },
+    {
+      "start": 1874.6799999999998,
+      "end": 1876.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "current merchants that the client has"
+    },
+    {
+      "start": 1876.8799999999999,
+      "end": 1880.28,
+      "speaker": "SPEAKER_00",
+      "text": "and then like financial targets later on in a different bucket,"
+    },
+    {
+      "start": 1880.36,
+      "end": 1885.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would just classify all of those under one financial impact"
+    },
+    {
+      "start": 1885.0,
+      "end": 1888.6,
+      "speaker": "SPEAKER_00",
+      "text": "issue and just address those as issues."
+    },
+    {
+      "start": 1888.6,
+      "end": 1890.72,
+      "speaker": "SPEAKER_00",
+      "text": "So like, what is the potential increase"
+    },
+    {
+      "start": 1890.72,
+      "end": 1893.24,
+      "speaker": "SPEAKER_00",
+      "text": "in revenue from existing customers?"
+    },
+    {
+      "start": 1893.24,
+      "end": 1896.52,
+      "speaker": "SPEAKER_00",
+      "text": "What is potential increase in revenue from new customers"
+    },
+    {
+      "start": 1896.52,
+      "end": 1900.32,
+      "speaker": "SPEAKER_00",
+      "text": "or new merchants that might be attracted to this new line?"
+    },
+    {
+      "start": 1901.32,
+      "end": 1904.36,
+      "speaker": "SPEAKER_00",
+      "text": "And that also offers you an opportunity"
+    },
+    {
+      "start": 1904.36,
+      "end": 1907.28,
+      "speaker": "SPEAKER_00",
+      "text": "to talk about the customer in its own bucket."
+    },
+    {
+      "start": 1907.28,
+      "end": 1912.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think that makes it more organized, as opposed"
+    },
+    {
+      "start": 1912.08,
+      "end": 1916.68,
+      "speaker": "SPEAKER_00",
+      "text": "to just generalizing it as potential benefits."
+    },
+    {
+      "start": 1916.68,
+      "end": 1920.92,
+      "speaker": "SPEAKER_00",
+      "text": "I think being more specific by just making it distinct"
+    },
+    {
+      "start": 1922.16,
+      "end": 1926.24,
+      "speaker": "SPEAKER_00",
+      "text": "as like, I guess, how am I trying to phrase this?"
+    },
+    {
+      "start": 1926.24,
+      "end": 1929.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "As like, instead of just generalizing it as benefits,"
+    },
+    {
+      "start": 1929.3999999999999,
+      "end": 1932.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "specifically choosing to describe the financial benefits"
+    },
+    {
+      "start": 1932.8799999999999,
+      "end": 1936.24,
+      "speaker": "SPEAKER_00",
+      "text": "in one bucket and the benefits for customers"
+    },
+    {
+      "start": 1936.24,
+      "end": 1940.28,
+      "speaker": "SPEAKER_00",
+      "text": "or merchants in another bucket, if that makes sense."
+    },
+    {
+      "start": 1940.28,
+      "end": 1943.2,
+      "speaker": "SPEAKER_01",
+      "text": "So just to make sure that I'm just,"
+    },
+    {
+      "start": 1943.2,
+      "end": 1947.2,
+      "speaker": "SPEAKER_01",
+      "text": "do you help with you actually do the,"
+    },
+    {
+      "start": 1947.2,
+      "end": 1952.32,
+      "speaker": "SPEAKER_01",
+      "text": "the tree, if like, how would they look like?"
+    },
+    {
+      "start": 1952.32,
+      "end": 1954.88,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I think that's, that probably makes more sense."
+    },
+    {
+      "start": 1954.88,
+      "end": 1960.24,
+      "speaker": "SPEAKER_00",
+      "text": "I think, okay, that I would do it is having financial impact"
+    },
+    {
+      "start": 1960.24,
+      "end": 1962.2,
+      "speaker": "SPEAKER_00",
+      "text": "as its own bucket, that means like,"
+    },
+    {
+      "start": 1962.2,
+      "end": 1964.76,
+      "speaker": "SPEAKER_00",
+      "text": "realizing the upside in its own issue tree,"
+    },
+    {
+      "start": 1966.0,
+      "end": 1968.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "the potential increase in new customers,"
+    },
+    {
+      "start": 1968.8400000000001,
+      "end": 1971.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "the potential costs associated with like,"
+    },
+    {
+      "start": 1971.1200000000001,
+      "end": 1974.88,
+      "speaker": "SPEAKER_00",
+      "text": "maintaining this new product line, developing this new product line."
+    },
+    {
+      "start": 1974.88,
+      "end": 1977.04,
+      "speaker": "SPEAKER_00",
+      "text": "Having all of that under one bucket,"
+    },
+    {
+      "start": 1977.04,
+      "end": 1979.88,
+      "speaker": "SPEAKER_00",
+      "text": "which would include like client objectives,"
+    },
+    {
+      "start": 1979.88,
+      "end": 1982.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "if there are any like, any profitability objectives"
+    },
+    {
+      "start": 1982.8400000000001,
+      "end": 1985.92,
+      "speaker": "SPEAKER_00",
+      "text": "and any like revenue benefits."
+    },
+    {
+      "start": 1985.92,
+      "end": 1990.44,
+      "speaker": "SPEAKER_00",
+      "text": "All of that I would put in one just clean financial assessment."
+    },
+    {
+      "start": 1990.44,
+      "end": 1994.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And another bucket I would have is just specific to the customer."
+    },
+    {
+      "start": 1994.8400000000001,
+      "end": 1999.16,
+      "speaker": "SPEAKER_00",
+      "text": "So like, what are our main customer segments?"
+    },
+    {
+      "start": 1999.16,
+      "end": 2001.2,
+      "speaker": "SPEAKER_00",
+      "text": "What are they willing to pay for this service?"
+    },
+    {
+      "start": 2001.2,
+      "end": 2003.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "What are they paying for current services?"
+    },
+    {
+      "start": 2003.3600000000001,
+      "end": 2006.04,
+      "speaker": "SPEAKER_00",
+      "text": "All of those things."
+    },
+    {
+      "start": 2006.04,
+      "end": 2009.52,
+      "speaker": "SPEAKER_00",
+      "text": "And then I think another bucket,"
+    },
+    {
+      "start": 2009.52,
+      "end": 2011.88,
+      "speaker": "SPEAKER_00",
+      "text": "I would also probably include is like,"
+    },
+    {
+      "start": 2011.88,
+      "end": 2013.92,
+      "speaker": "SPEAKER_00",
+      "text": "specific to the market."
+    },
+    {
+      "start": 2013.92,
+      "end": 2015.64,
+      "speaker": "SPEAKER_00",
+      "text": "And what I mean by that is like,"
+    },
+    {
+      "start": 2015.64,
+      "end": 2018.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "how does this impact our position in the market?"
+    },
+    {
+      "start": 2018.76,
+      "end": 2022.2399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "How much share are we going to capture the result of this new line"
+    },
+    {
+      "start": 2022.2399999999998,
+      "end": 2025.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "who are kind of the leaders in this industry"
+    },
+    {
+      "start": 2025.1599999999999,
+      "end": 2027.04,
+      "speaker": "SPEAKER_00",
+      "text": "that we're kind of fighting share for?"
+    },
+    {
+      "start": 2028.12,
+      "end": 2033.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "But I would probably do that last because that wasn't really like the focus of this case."
+    },
+    {
+      "start": 2033.1999999999998,
+      "end": 2037.08,
+      "speaker": "SPEAKER_00",
+      "text": "The focus of this case was kind of the financial upside of this service."
+    },
+    {
+      "start": 2038.8799999999999,
+      "end": 2040.8,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, yeah, that makes sense."
+    },
+    {
+      "start": 2040.8,
+      "end": 2042.28,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, cool."
+    },
+    {
+      "start": 2042.28,
+      "end": 2043.76,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 2043.76,
+      "end": 2047.4799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "But other than that going into the quantitative part,"
+    },
+    {
+      "start": 2047.48,
+      "end": 2053.96,
+      "speaker": "SPEAKER_00",
+      "text": "I think you did an amazing job just verbalizing your approach to all of the quantitative parts."
+    },
+    {
+      "start": 2053.96,
+      "end": 2056.16,
+      "speaker": "SPEAKER_00",
+      "text": "That was really strong."
+    },
+    {
+      "start": 2056.16,
+      "end": 2061.28,
+      "speaker": "SPEAKER_00",
+      "text": "I think the only feedback I have there is on the exhibit,"
+    },
+    {
+      "start": 2061.28,
+      "end": 2064.72,
+      "speaker": "SPEAKER_00",
+      "text": "as you're kind of looking through each column, each row,"
+    },
+    {
+      "start": 2064.72,
+      "end": 2066.36,
+      "speaker": "SPEAKER_00",
+      "text": "I would just talk through it."
+    },
+    {
+      "start": 2066.36,
+      "end": 2068.96,
+      "speaker": "SPEAKER_00",
+      "text": "You did a great job verbalizing like your structure of the math."
+    },
+    {
+      "start": 2068.96,
+      "end": 2073.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "But I think just applying that to like your analysis of the exhibit"
+    },
+    {
+      "start": 2073.2400000000002,
+      "end": 2075.92,
+      "speaker": "SPEAKER_00",
+      "text": "would increase your performance as well."
+    },
+    {
+      "start": 2075.92,
+      "end": 2079.16,
+      "speaker": "SPEAKER_00",
+      "text": "But that was my only real feedback on the quantitative piece."
+    },
+    {
+      "start": 2079.16,
+      "end": 2082.28,
+      "speaker": "SPEAKER_00",
+      "text": "I think you did a really strong job just asking for clarity."
+    },
+    {
+      "start": 2084.2400000000002,
+      "end": 2089.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "And finally, moving into the brainstorming piece,"
+    },
+    {
+      "start": 2089.2400000000002,
+      "end": 2093.32,
+      "speaker": "SPEAKER_00",
+      "text": "one thing I would mention is if you're going to mention specific risks"
+    },
+    {
+      "start": 2093.32,
+      "end": 2095.48,
+      "speaker": "SPEAKER_00",
+      "text": "in the beginning of like your framework,"
+    },
+    {
+      "start": 2095.48,
+      "end": 2098.08,
+      "speaker": "SPEAKER_00",
+      "text": "for example, the one about the landing page"
+    },
+    {
+      "start": 2098.08,
+      "end": 2100.76,
+      "speaker": "SPEAKER_00",
+      "text": "is something you had brought up earlier on into the case."
+    },
+    {
+      "start": 2100.76,
+      "end": 2105.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would make sure you really describe how you're going to mitigate"
+    },
+    {
+      "start": 2105.0,
+      "end": 2109.32,
+      "speaker": "SPEAKER_00",
+      "text": "that risk specifically, and not just new risks that you develop,"
+    },
+    {
+      "start": 2109.32,
+      "end": 2114.32,
+      "speaker": "SPEAKER_00",
+      "text": "because you want to make sure that if you're offering a risk that is very legitimate"
+    },
+    {
+      "start": 2114.32,
+      "end": 2118.12,
+      "speaker": "SPEAKER_00",
+      "text": "and a very real concern, you want to make sure that that's going to be the focus"
+    },
+    {
+      "start": 2118.12,
+      "end": 2119.64,
+      "speaker": "SPEAKER_00",
+      "text": "of your mitigation strategy."
+    },
+    {
+      "start": 2121.64,
+      "end": 2122.64,
+      "speaker": "SPEAKER_01",
+      "text": "Definitely."
+    },
+    {
+      "start": 2123.64,
+      "end": 2127.56,
+      "speaker": "SPEAKER_00",
+      "text": "But yeah, other than that, I thought your conclusion was really strong."
+    },
+    {
+      "start": 2127.56,
+      "end": 2131.44,
+      "speaker": "SPEAKER_00",
+      "text": "I love that you set up the structure for that you're supporting data"
+    },
+    {
+      "start": 2131.44,
+      "end": 2133.56,
+      "speaker": "SPEAKER_00",
+      "text": "and the risks in next steps."
+    },
+    {
+      "start": 2133.56,
+      "end": 2136.48,
+      "speaker": "SPEAKER_00",
+      "text": "And yeah, I think your delivery was really strong as well."
+    },
+    {
+      "start": 2136.48,
+      "end": 2137.48,
+      "speaker": "SPEAKER_00",
+      "text": "So great job."
+    },
+    {
+      "start": 2138.44,
+      "end": 2139.68,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you for interviewing me."
+    },
+    {
+      "start": 2139.68,
+      "end": 2144.52,
+      "speaker": "SPEAKER_01",
+      "text": "I had a really a lot of fun, and you did a great job as an interpreter as well."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 18,
+    "math": 11,
+    "case_difficulty": 12,
+    "final_summary": 16,
+    "overall_thoughts": "The framework was strong, but there were a few areas where communication could be improved."
+  }
+}

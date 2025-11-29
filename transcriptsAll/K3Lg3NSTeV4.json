@@ -1,0 +1,872 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.12,
+    "speaker": "SPEAKER_01",
+    "text": "Hi, I'm Jenny Ray Lurie, the managing director of Management Consulted, and I'm here with All Star,"
+  },
+  {
+    "start": 5.12,
+    "end": 12.08,
+    "speaker": "SPEAKER_01",
+    "text": "Lisa Bright, Hylyssa. I'm excited to walk through with you an example of a case interview"
+  },
+  {
+    "start": 12.08,
+    "end": 15.52,
+    "speaker": "SPEAKER_01",
+    "text": "structure. We thought it would be fun to put this together just so that people could kind of see"
+  },
+  {
+    "start": 16.16,
+    "end": 20.240000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "something that Management Consulted really brings to the table distinctively, which is that we have"
+  },
+  {
+    "start": 20.240000000000002,
+    "end": 26.32,
+    "speaker": "SPEAKER_01",
+    "text": "four clear basic structures, but we don't necessarily recommend adhering to these magical"
+  },
+  {
+    "start": 26.32,
+    "end": 32.0,
+    "speaker": "SPEAKER_01",
+    "text": "structures. We use them as a baseline and then ask people to go beyond that. So I'm going to give you"
+  },
+  {
+    "start": 32.0,
+    "end": 35.68,
+    "speaker": "SPEAKER_01",
+    "text": "a prompt, and then the prompt can actually go in a lot of different directions. You could use more"
+  },
+  {
+    "start": 35.68,
+    "end": 40.8,
+    "speaker": "SPEAKER_01",
+    "text": "than one of the basic structures with it, but I'm interested in just having you lay out for us,"
+  },
+  {
+    "start": 40.8,
+    "end": 45.28,
+    "speaker": "SPEAKER_01",
+    "text": "what you're going to do, people will be able to see what you actually have going on on the paper"
+  },
+  {
+    "start": 45.28,
+    "end": 50.480000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "at the same time, which will be really fun. And then I'll have you take the time to review the prompt,"
+  },
+  {
+    "start": 50.480000000000004,
+    "end": 54.16,
+    "speaker": "SPEAKER_01",
+    "text": "go through the structure, read it back to me, and then we'll discuss it a little bit. That's all good."
+  },
+  {
+    "start": 54.16,
+    "end": 59.199999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "I'm getting read my writing. We'll see. Yeah, exactly. Well, you can draw largely in this"
+  },
+  {
+    "start": 59.199999999999996,
+    "end": 64.39999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "situation because we actually have quite a bit of space and time, and we're only doing the"
+  },
+  {
+    "start": 64.39999999999999,
+    "end": 70.0,
+    "speaker": "SPEAKER_01",
+    "text": "structures. We don't have to go beyond that. Okay. Fantastic. So let me just give you the background"
+  },
+  {
+    "start": 70.0,
+    "end": 79.12,
+    "speaker": "SPEAKER_01",
+    "text": "of the case. Our client is a US car manufacturer. They have seen lagging performance in the last"
+  },
+  {
+    "start": 79.12,
+    "end": 84.48,
+    "speaker": "SPEAKER_01",
+    "text": "couple of years. They're battling to both cell cars and also to manufacture profitably."
+  },
+  {
+    "start": 85.84,
+    "end": 91.12,
+    "speaker": "SPEAKER_01",
+    "text": "Our client is interested in a way to revive their business by doing something innovative."
+  },
+  {
+    "start": 91.12,
+    "end": 96.72,
+    "speaker": "SPEAKER_01",
+    "text": "One of the ideas that they've looked at is to launch a sports car. They have none currently in"
+  },
+  {
+    "start": 96.72,
+    "end": 101.68,
+    "speaker": "SPEAKER_01",
+    "text": "their line. And they're interested in understanding what kinds of things they would need to think"
+  },
+  {
+    "start": 101.68,
+    "end": 106.16,
+    "speaker": "SPEAKER_01",
+    "text": "about in order to do this successfully. And ultimately, they'd like a recommendation of whether or"
+  },
+  {
+    "start": 106.16,
+    "end": 111.11999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "not they should pursue the sports car idea. Do you have any questions about the backgrounds?"
+  },
+  {
+    "start": 111.92,
+    "end": 115.92,
+    "speaker": "SPEAKER_00",
+    "text": "All right. So let me just recap this really quick. So it sounds like we have a US car manufacturer."
+  },
+  {
+    "start": 115.92,
+    "end": 119.67999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "You said they've been lagging performance. I had a question mark there, but I think you said they"
+  },
+  {
+    "start": 119.67999999999999,
+    "end": 124.72,
+    "speaker": "SPEAKER_00",
+    "text": "they're lagging in terms of selling cars or lagging on the sales side. And then also in manufacturing"
+  },
+  {
+    "start": 124.72,
+    "end": 130.07999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "profitably. That's right. Let me say it. Okay. So they're having both top line and bottom line issues."
+  },
+  {
+    "start": 130.07999999999998,
+    "end": 134.64,
+    "speaker": "SPEAKER_00",
+    "text": "It seems to be that way. Unfortunately, they want to look at reviving through innovation."
+  },
+  {
+    "start": 134.95999999999998,
+    "end": 139.27999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "Specifically a sports car. They don't currently have any and they're thinking about launching this"
+  },
+  {
+    "start": 139.27999999999997,
+    "end": 144.88,
+    "speaker": "SPEAKER_00",
+    "text": "new line of vehicle. And they want to know what they should think about in terms of making that"
+  },
+  {
+    "start": 144.88,
+    "end": 148.88,
+    "speaker": "SPEAKER_00",
+    "text": "decision. Do they want to think about how they'd go about it too or just kind of like determine"
+  },
+  {
+    "start": 148.88,
+    "end": 155.04,
+    "speaker": "SPEAKER_00",
+    "text": "whether or not it's a good idea or kind of a mix of the two? Yeah. They are they're interested in"
+  },
+  {
+    "start": 155.04,
+    "end": 159.51999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "basically ultimately the final recommendation, which is yes or no. So I think putting some"
+  },
+  {
+    "start": 159.52,
+    "end": 166.24,
+    "speaker": "SPEAKER_00",
+    "text": "practical steps to it could be important for that. Okay. Great. So I think I have a pretty clear idea"
+  },
+  {
+    "start": 167.20000000000002,
+    "end": 172.24,
+    "speaker": "SPEAKER_00",
+    "text": "of the prompt. The only other thing I would ask is do they have any certain targets in mind?"
+  },
+  {
+    "start": 172.24,
+    "end": 176.72,
+    "speaker": "SPEAKER_00",
+    "text": "So they seems like like I said they're having top line and bottom line issues. Do they have"
+  },
+  {
+    "start": 176.72,
+    "end": 181.92000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "targets in mind that they would like for us to achieve? It's just really important that it doesn't"
+  },
+  {
+    "start": 181.92000000000002,
+    "end": 187.04000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "just help them move more units and then in some way eliminate profitability. Right? So they have"
+  },
+  {
+    "start": 187.04,
+    "end": 191.6,
+    "speaker": "SPEAKER_01",
+    "text": "to really keep both of those in tandem in mind. Okay. I think I have a pretty clear idea of the"
+  },
+  {
+    "start": 191.6,
+    "end": 194.48,
+    "speaker": "SPEAKER_00",
+    "text": "prompt. If you mind, if you don't mind, I'll just take them all together in my thoughts. Yes."
+  },
+  {
+    "start": 247.04,
+    "end": 268.8,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. I think I've got a plan if I want to approach this. Okay. So since our clients"
+  },
+  {
+    "start": 268.8,
+    "end": 272.32,
+    "speaker": "SPEAKER_00",
+    "text": "are car manufacturer, they're interested in launching and designing a sports car. They would know"
+  },
+  {
+    "start": 272.32,
+    "end": 278.56,
+    "speaker": "SPEAKER_00",
+    "text": "if that's a good idea and if so, how they could go about it both from increasing top line revenue"
+  },
+  {
+    "start": 278.56,
+    "end": 284.08,
+    "speaker": "SPEAKER_00",
+    "text": "as well as keeping in mind that they want to be more profitable as well. I think there are four key"
+  },
+  {
+    "start": 284.08,
+    "end": 288.48,
+    "speaker": "SPEAKER_00",
+    "text": "areas that I'd like to look into or four key questions that we need to ask to determine if that's"
+  },
+  {
+    "start": 288.48,
+    "end": 294.56,
+    "speaker": "SPEAKER_00",
+    "text": "a good idea. Okay. So first of all, I'd want to look at the overall market attractiveness for"
+  },
+  {
+    "start": 294.56,
+    "end": 298.96,
+    "speaker": "SPEAKER_00",
+    "text": "sports cars to really determine if that is an attractive market our clients should want to pursue or"
+  },
+  {
+    "start": 298.96,
+    "end": 304.08,
+    "speaker": "SPEAKER_00",
+    "text": "not. If that's the case, then I want to better understand this car manufacturer's capabilities."
+  },
+  {
+    "start": 305.12,
+    "end": 309.12,
+    "speaker": "SPEAKER_00",
+    "text": "It might be a great opportunity that doesn't mean they can actually capture that. So we want to look"
+  },
+  {
+    "start": 309.12,
+    "end": 314.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "more closely at that. And then third, I'd want to more closely understand the profitability of the"
+  },
+  {
+    "start": 314.71999999999997,
+    "end": 320.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "sports car because since they're considering the bottom line as well. And then if all of that looks"
+  },
+  {
+    "start": 320.47999999999996,
+    "end": 324.96,
+    "speaker": "SPEAKER_00",
+    "text": "good, I want to think about a go-to-market strategy for our client and how we provide some next steps"
+  },
+  {
+    "start": 324.96,
+    "end": 330.0,
+    "speaker": "SPEAKER_00",
+    "text": "in terms of how they'd go about it. So to start off with the market attractiveness, I do want to"
+  },
+  {
+    "start": 330.0,
+    "end": 335.12,
+    "speaker": "SPEAKER_00",
+    "text": "look at the broader economy. I'm thinking sports cars require some discretionary income. It's kind"
+  },
+  {
+    "start": 335.12,
+    "end": 338.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "of a luxury good. So I want to make sure they're launching this in a good economy moving forward."
+  },
+  {
+    "start": 339.44,
+    "end": 344.32,
+    "speaker": "SPEAKER_00",
+    "text": "Overall, sizing growth of the market in terms of what kind of revenues we think we could generate."
+  },
+  {
+    "start": 344.32,
+    "end": 350.32,
+    "speaker": "SPEAKER_00",
+    "text": "What the key trends are, who are the main competitors? What kind of sports cars do they have plan"
+  },
+  {
+    "start": 350.32,
+    "end": 354.4,
+    "speaker": "SPEAKER_00",
+    "text": "for future launches? So we can think about how we position ourselves and what that's going to look"
+  },
+  {
+    "start": 354.56,
+    "end": 360.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "like moving forward. And then also regulatory issues. I know Volkswagen recently had some issues with"
+  },
+  {
+    "start": 361.2,
+    "end": 365.91999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "their sports cars, with fuel economy and emission standards and things like that. So I think this is"
+  },
+  {
+    "start": 365.91999999999996,
+    "end": 369.12,
+    "speaker": "SPEAKER_00",
+    "text": "a bit different from a typical vehicle. We might want to consider things like that. Okay."
+  },
+  {
+    "start": 370.08,
+    "end": 375.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "In terms of our capabilities, so I want to look at branding, for example, Cadillac,"
+  },
+  {
+    "start": 375.59999999999997,
+    "end": 379.52,
+    "speaker": "SPEAKER_00",
+    "text": "huge shift in rebranding over the last few years to sell the types of cars that they do."
+  },
+  {
+    "start": 380.24,
+    "end": 385.12,
+    "speaker": "SPEAKER_00",
+    "text": "Financing ability, hundreds of millions of dollars go into designing vehicles. Can we afford it?"
+  },
+  {
+    "start": 386.24,
+    "end": 391.91999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "Then basically their entire value chain all the way from R&D through sourcing, all the way through"
+  },
+  {
+    "start": 391.91999999999996,
+    "end": 398.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "to the end of distribution. So that full process. I think that this type of product launch is"
+  },
+  {
+    "start": 398.47999999999996,
+    "end": 404.0,
+    "speaker": "SPEAKER_00",
+    "text": "going to affect everything. So do they have the capabilities, the resources, capacity, etc."
+  },
+  {
+    "start": 404.64,
+    "end": 410.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then also if we can't do that, do we need to explore like M&A type activity or something like"
+  },
+  {
+    "start": 410.0,
+    "end": 414.88,
+    "speaker": "SPEAKER_00",
+    "text": "that to execute? I think we really want to focus on the profitability of the sports car."
+  },
+  {
+    "start": 414.88,
+    "end": 419.44,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. It's one of the rate concerns. So ultimately I'm looking for like a break even or return"
+  },
+  {
+    "start": 419.44,
+    "end": 424.0,
+    "speaker": "SPEAKER_00",
+    "text": "on investment that we could calculate. Okay. So we need to look at both revenues and the costs,"
+  },
+  {
+    "start": 424.0,
+    "end": 428.16,
+    "speaker": "SPEAKER_00",
+    "text": "what kind of price points we think we could get based on the market attractiveness, some data that"
+  },
+  {
+    "start": 428.16,
+    "end": 434.72,
+    "speaker": "SPEAKER_00",
+    "text": "we get there can inform how many units we think we can push. And then also our capabilities"
+  },
+  {
+    "start": 434.72,
+    "end": 440.16,
+    "speaker": "SPEAKER_00",
+    "text": "can help inform what our cost structure would look like for this. And then overall looking at"
+  },
+  {
+    "start": 440.16,
+    "end": 444.64000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "the go-to-market strategy, I want to understand who we're targeting, what kind of segments are we"
+  },
+  {
+    "start": 444.64000000000004,
+    "end": 450.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "going after in their demographics. And I think that can help inform how we market and how we distribute"
+  },
+  {
+    "start": 450.40000000000003,
+    "end": 454.72,
+    "speaker": "SPEAKER_00",
+    "text": "our products. So for example, are we going to go with like high end dealerships or something like"
+  },
+  {
+    "start": 454.72,
+    "end": 460.08000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "that compared to what we do today? So I think that's broadly how I'd like to attack this. And I"
+  },
+  {
+    "start": 460.08000000000004,
+    "end": 465.6,
+    "speaker": "SPEAKER_00",
+    "text": "think the big first question would be is this market attractive? So I'd like to dive into understanding"
+  },
+  {
+    "start": 465.6,
+    "end": 472.32000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "more about kind of sizing growth of the market. Fantastic. All right. Relax. All right. So that was"
+  },
+  {
+    "start": 472.32000000000005,
+    "end": 476.48,
+    "speaker": "SPEAKER_01",
+    "text": "amazing. Really good. I just want to point out a couple of things that you did across the board."
+  },
+  {
+    "start": 476.48,
+    "end": 480.64000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "And then maybe tweaking things if somebody's thinking, wow, that was really good, but they"
+  },
+  {
+    "start": 480.71999999999997,
+    "end": 486.8,
+    "speaker": "SPEAKER_01",
+    "text": "still want to take it to the next level. So overall, you did a great job on the recap. I thought"
+  },
+  {
+    "start": 486.8,
+    "end": 491.36,
+    "speaker": "SPEAKER_01",
+    "text": "did an amazing job of synthesizing. You went through in a linear fashion, but you really tied"
+  },
+  {
+    "start": 491.36,
+    "end": 495.03999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "everything together. So it didn't feel like a complete repeat of what I had talked about. And"
+  },
+  {
+    "start": 495.03999999999996,
+    "end": 500.32,
+    "speaker": "SPEAKER_01",
+    "text": "you did some interpretation as you were going, which was great. And then your clarifying questions"
+  },
+  {
+    "start": 500.32,
+    "end": 508.32,
+    "speaker": "SPEAKER_01",
+    "text": "were spot on. You really only asked two of them. One of them was just around the how, which was kind"
+  },
+  {
+    "start": 508.32,
+    "end": 513.12,
+    "speaker": "SPEAKER_01",
+    "text": "of a very loose, intangible question, but helped inform your structure that you ended up choosing,"
+  },
+  {
+    "start": 513.12,
+    "end": 517.84,
+    "speaker": "SPEAKER_01",
+    "text": "because that whole fourth bucket actually was really informed by that. And then the second one"
+  },
+  {
+    "start": 517.84,
+    "end": 523.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "was around whether you were going to find success, which also defined one of your buckets,"
+  },
+  {
+    "start": 523.4399999999999,
+    "end": 528.64,
+    "speaker": "SPEAKER_01",
+    "text": "the profitability bucket. And so I really liked that your questions were clear. They didn't"
+  },
+  {
+    "start": 528.64,
+    "end": 533.52,
+    "speaker": "SPEAKER_01",
+    "text": "ask me for new data, but they were clearly informed what your structure was going to be. And so I"
+  },
+  {
+    "start": 533.52,
+    "end": 539.04,
+    "speaker": "SPEAKER_01",
+    "text": "think you picked good questions related to that. I liked the fact that your structure was four"
+  },
+  {
+    "start": 539.04,
+    "end": 543.28,
+    "speaker": "SPEAKER_01",
+    "text": "buckets. I also really liked the fact that these buckets were some of the typical buckets,"
+  },
+  {
+    "start": 543.28,
+    "end": 547.92,
+    "speaker": "SPEAKER_01",
+    "text": "but you called them something a little different. And so this felt like a creative structure to me."
+  },
+  {
+    "start": 548.64,
+    "end": 553.52,
+    "speaker": "SPEAKER_01",
+    "text": "But it felt creative, however not disorganized, because you had four clear buckets. And then"
+  },
+  {
+    "start": 553.52,
+    "end": 558.56,
+    "speaker": "SPEAKER_01",
+    "text": "each of your buckets, I can even see on your paper, are very clearly delineated. So I liked the"
+  },
+  {
+    "start": 558.64,
+    "end": 563.5999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "combination of creativity and clarity here. I thought you did a great job of balancing this."
+  },
+  {
+    "start": 564.16,
+    "end": 569.04,
+    "speaker": "SPEAKER_01",
+    "text": "And then inside the buckets, I thought that they were really good. You know, this is this kind of"
+  },
+  {
+    "start": 569.04,
+    "end": 574.16,
+    "speaker": "SPEAKER_01",
+    "text": "case lends itself to the question mark of the Macy structure. And I thought you did a great job"
+  },
+  {
+    "start": 574.16,
+    "end": 579.92,
+    "speaker": "SPEAKER_01",
+    "text": "of demonstrating that whether it is mutually exclusive is pretty important. And so you didn't"
+  },
+  {
+    "start": 579.92,
+    "end": 585.52,
+    "speaker": "SPEAKER_01",
+    "text": "really have anything here that you would look at twice. But collectively exhaustive is a little"
+  },
+  {
+    "start": 585.52,
+    "end": 590.72,
+    "speaker": "SPEAKER_01",
+    "text": "harder to do. However, what you did was you tied some of the pieces together, which made it feel"
+  },
+  {
+    "start": 590.72,
+    "end": 596.0,
+    "speaker": "SPEAKER_01",
+    "text": "like it was more integrated and complete. So across the board, I think that that was that was also"
+  },
+  {
+    "start": 596.0,
+    "end": 602.0799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "really strong. Then you had in market attractiveness and capabilities, not just a sense of the buckets,"
+  },
+  {
+    "start": 602.0799999999999,
+    "end": 606.24,
+    "speaker": "SPEAKER_01",
+    "text": "but also a sense of their priority. And so one of my favorite things was that at the end,"
+  },
+  {
+    "start": 606.24,
+    "end": 610.24,
+    "speaker": "SPEAKER_01",
+    "text": "when you came back and you said where you wanted to start, it was bucket number one. I see that a lot"
+  },
+  {
+    "start": 610.24,
+    "end": 614.8,
+    "speaker": "SPEAKER_01",
+    "text": "you probably do too, where people lay things out. And then they say bucket number three seems like a great"
+  },
+  {
+    "start": 614.8,
+    "end": 619.3599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "place to start. And you think, what in the world? You know, and what years happened to actually"
+  },
+  {
+    "start": 619.3599999999999,
+    "end": 622.64,
+    "speaker": "SPEAKER_01",
+    "text": "be the first one that you would come up with in the first one on your page. But as you know,"
+  },
+  {
+    "start": 622.64,
+    "end": 626.24,
+    "speaker": "SPEAKER_00",
+    "text": "that it doesn't have to be that way. You know, I was like, relable, remember them. Exactly."
+  },
+  {
+    "start": 627.28,
+    "end": 632.56,
+    "speaker": "SPEAKER_01",
+    "text": "So I just thought overall the overarching structure was good. And the prioritization was really"
+  },
+  {
+    "start": 632.56,
+    "end": 640.0,
+    "speaker": "SPEAKER_01",
+    "text": "good. Inside the actual information, you explained very clearly. And I think an appropriate segmentation."
+  },
+  {
+    "start": 640.0,
+    "end": 645.76,
+    "speaker": "SPEAKER_01",
+    "text": "So you spent an approximate equal amount of time on each one of those key buckets. So that was"
+  },
+  {
+    "start": 645.76,
+    "end": 649.36,
+    "speaker": "SPEAKER_01",
+    "text": "great because it wasn't like, oh, this is the really important one. And then here's 10 seconds"
+  },
+  {
+    "start": 649.36,
+    "end": 653.76,
+    "speaker": "SPEAKER_00",
+    "text": "on the other one. And it depends on the prompt too. If it was really emphasized one piece or another,"
+  },
+  {
+    "start": 653.76,
+    "end": 657.6,
+    "speaker": "SPEAKER_00",
+    "text": "I probably would have dove into more detail in one of those. But it seemed pretty open ended."
+  },
+  {
+    "start": 657.6,
+    "end": 661.84,
+    "speaker": "SPEAKER_00",
+    "text": "There was very little direction as to where the focus should be. And even in that situation,"
+  },
+  {
+    "start": 661.84,
+    "end": 665.92,
+    "speaker": "SPEAKER_01",
+    "text": "you might have broken up that big question into smaller questions and kind of ended up in the same"
+  },
+  {
+    "start": 665.92,
+    "end": 670.24,
+    "speaker": "SPEAKER_01",
+    "text": "place. So I felt like the only thing that was, I wanted to point out something that you did really"
+  },
+  {
+    "start": 670.24,
+    "end": 675.52,
+    "speaker": "SPEAKER_01",
+    "text": "well. And then something that I think could be just the next level option. So when you were talking"
+  },
+  {
+    "start": 675.52,
+    "end": 680.7199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "about the different things, there were a couple of places in every bucket. You had something that"
+  },
+  {
+    "start": 680.7199999999999,
+    "end": 686.7199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "was metric oriented. So you had size and growth of the market for market attractiveness. Capabilities."
+  },
+  {
+    "start": 686.7199999999999,
+    "end": 693.04,
+    "speaker": "SPEAKER_01",
+    "text": "You had the M&A question. And you had the cost across the value chain for profitability. You had"
+  },
+  {
+    "start": 693.04,
+    "end": 697.92,
+    "speaker": "SPEAKER_01",
+    "text": "the break even in ROE, the number that you were looking for. And then for the go-to-market,"
+  },
+  {
+    "start": 697.92,
+    "end": 701.28,
+    "speaker": "SPEAKER_01",
+    "text": "you had the segments and the demographics. The only thing that I would recommend and just"
+  },
+  {
+    "start": 701.28,
+    "end": 706.3199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "something that I found is really helpful for people to be clear, regardless of the case type you're"
+  },
+  {
+    "start": 706.3199999999999,
+    "end": 712.24,
+    "speaker": "SPEAKER_01",
+    "text": "doing, right? This is a pretty general one. You could get this at McKinsey. It's a little less likely."
+  },
+  {
+    "start": 712.24,
+    "end": 717.04,
+    "speaker": "SPEAKER_01",
+    "text": "McKinsey's would probably be a little bit more data rich even in the beginning. This is probably"
+  },
+  {
+    "start": 717.04,
+    "end": 722.8,
+    "speaker": "SPEAKER_01",
+    "text": "more of a BCG style case. And so in that situation, if you're going to have to be in the driver's seat,"
+  },
+  {
+    "start": 722.8,
+    "end": 727.68,
+    "speaker": "SPEAKER_01",
+    "text": "in order to get the data, I just usually recommend that they put that number first. So the first"
+  },
+  {
+    "start": 727.68,
+    "end": 731.92,
+    "speaker": "SPEAKER_01",
+    "text": "thing that you gather is the data and the information. And then everything else is kind of context"
+  },
+  {
+    "start": 731.92,
+    "end": 736.3199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "that surrounds it. So that was really out of everything, just one recommendation that I had to"
+  },
+  {
+    "start": 736.3199999999999,
+    "end": 740.16,
+    "speaker": "SPEAKER_00",
+    "text": "kind of make it a little bit more clear. And one thing I wanted to point out too is my four buckets"
+  },
+  {
+    "start": 740.16,
+    "end": 743.68,
+    "speaker": "SPEAKER_00",
+    "text": "actually really aligned to one of the frameworks. So you've got market attractiveness, mean"
+  },
+  {
+    "start": 743.68,
+    "end": 748.16,
+    "speaker": "SPEAKER_00",
+    "text": "you're kind of your market competition. That's why you category. Your car manufacturer being"
+  },
+  {
+    "start": 748.24,
+    "end": 753.04,
+    "speaker": "SPEAKER_00",
+    "text": "the company bucket. And then you've got profitability of the sports car. I kind of tweaked the product"
+  },
+  {
+    "start": 753.04,
+    "end": 757.28,
+    "speaker": "SPEAKER_00",
+    "text": "bucket a little bit. That's great. That's great. You know, profits of that. Ultimately though,"
+  },
+  {
+    "start": 757.28,
+    "end": 761.68,
+    "speaker": "SPEAKER_01",
+    "text": "products would really make sense for that. And when people talk about features of the product"
+  },
+  {
+    "start": 761.68,
+    "end": 766.0,
+    "speaker": "SPEAKER_01",
+    "text": "without driving the profitability, it doesn't end up making sense. So yeah. So I could have added more"
+  },
+  {
+    "start": 766.0,
+    "end": 769.36,
+    "speaker": "SPEAKER_00",
+    "text": "of that. But I was like, I think let's just keep it profits for this one. But we could have died."
+  },
+  {
+    "start": 769.36,
+    "end": 772.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I could have opened a little bit more there. And then go to market strategy, kind of being the"
+  },
+  {
+    "start": 772.3199999999999,
+    "end": 777.36,
+    "speaker": "SPEAKER_00",
+    "text": "customer focus. So it does kind of align to one of the key strategy frameworks. Absolutely."
+  },
+  {
+    "start": 777.36,
+    "end": 782.16,
+    "speaker": "SPEAKER_00",
+    "text": "G framework, but it just is tweaked in terms of wording. So it seems more creative. And also in"
+  },
+  {
+    "start": 782.16,
+    "end": 787.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "terms of order. Right. Sometimes you would see company or sorry, market first, then you would see"
+  },
+  {
+    "start": 787.6800000000001,
+    "end": 792.88,
+    "speaker": "SPEAKER_01",
+    "text": "customer or market and the competition and their customer and then company and products. So the"
+  },
+  {
+    "start": 792.88,
+    "end": 796.32,
+    "speaker": "SPEAKER_01",
+    "text": "fact that you switched around, I thought was amazing. Awesome. Awesome. Great job. Thanks."
+  }
+]

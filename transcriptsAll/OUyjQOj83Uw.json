@@ -1,0 +1,2468 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.4,
+    "speaker": "SPEAKER_02",
+    "text": "Let's say you're a PM at Airbnb."
+  },
+  {
+    "start": 2.4,
+    "end": 4.2,
+    "speaker": "SPEAKER_02",
+    "text": "How would you increase bookings?"
+  },
+  {
+    "start": 4.2,
+    "end": 7.68,
+    "speaker": "SPEAKER_02",
+    "text": "Hey, everyone."
+  },
+  {
+    "start": 7.68,
+    "end": 10.200000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Welcome back to another exponent product manager,"
+  },
+  {
+    "start": 10.200000000000001,
+    "end": 11.08,
+    "speaker": "SPEAKER_02",
+    "text": "mock interview."
+  },
+  {
+    "start": 11.08,
+    "end": 14.200000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "My name's Kevin Wei, and on today's show, we have Phil."
+  },
+  {
+    "start": 14.200000000000001,
+    "end": 17.240000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Phil's going to be going through a strategy question today."
+  },
+  {
+    "start": 17.240000000000002,
+    "end": 18.84,
+    "speaker": "SPEAKER_02",
+    "text": "And before we go into that, Phil,"
+  },
+  {
+    "start": 18.84,
+    "end": 21.84,
+    "speaker": "SPEAKER_02",
+    "text": "do you mind just telling the audience a little bit about who you are?"
+  },
+  {
+    "start": 21.84,
+    "end": 22.84,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 22.84,
+    "end": 23.72,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, hey, everyone."
+  },
+  {
+    "start": 23.72,
+    "end": 24.64,
+    "speaker": "SPEAKER_01",
+    "text": "My name's Phil."
+  },
+  {
+    "start": 24.64,
+    "end": 28.18,
+    "speaker": "SPEAKER_01",
+    "text": "I'm currently a product manager at Google working on Android"
+  },
+  {
+    "start": 28.18,
+    "end": 30.8,
+    "speaker": "SPEAKER_01",
+    "text": "and messages, which is for those of you who don't"
+  },
+  {
+    "start": 30.8,
+    "end": 34.16,
+    "speaker": "SPEAKER_01",
+    "text": "have enjoyed the pre-install texting app on almost every Android"
+  },
+  {
+    "start": 34.16,
+    "end": 35.019999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "device."
+  },
+  {
+    "start": 35.019999999999996,
+    "end": 39.34,
+    "speaker": "SPEAKER_01",
+    "text": "And I'm the PM responsible for the actual conversation experience."
+  },
+  {
+    "start": 39.34,
+    "end": 41.74,
+    "speaker": "SPEAKER_01",
+    "text": "So ultimately, the team tries to answer,"
+  },
+  {
+    "start": 41.74,
+    "end": 44.5,
+    "speaker": "SPEAKER_01",
+    "text": "what does it really mean for you to feel connected"
+  },
+  {
+    "start": 44.5,
+    "end": 47.3,
+    "speaker": "SPEAKER_01",
+    "text": "to the people you're talking to and what sort of experiences"
+  },
+  {
+    "start": 47.3,
+    "end": 48.980000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "can we build to deliver that?"
+  },
+  {
+    "start": 48.980000000000004,
+    "end": 50.58,
+    "speaker": "SPEAKER_01",
+    "text": "Before that, I started my career at Google"
+  },
+  {
+    "start": 50.58,
+    "end": 53.74,
+    "speaker": "SPEAKER_01",
+    "text": "on the YouTube ads team, where I got to build YouTube TVs"
+  },
+  {
+    "start": 53.74,
+    "end": 54.94,
+    "speaker": "SPEAKER_01",
+    "text": "advertising platforms."
+  },
+  {
+    "start": 54.94,
+    "end": 57.54,
+    "speaker": "SPEAKER_01",
+    "text": "So yeah, that's me and Nutshell."
+  },
+  {
+    "start": 57.54,
+    "end": 58.82,
+    "speaker": "SPEAKER_01",
+    "text": "Thanks for having me on the day."
+  },
+  {
+    "start": 58.82,
+    "end": 61.22,
+    "speaker": "SPEAKER_01",
+    "text": "Kevin, really excited to do this with you."
+  },
+  {
+    "start": 61.22,
+    "end": 61.82,
+    "speaker": "SPEAKER_02",
+    "text": "Absolutely."
+  },
+  {
+    "start": 61.82,
+    "end": 63.78,
+    "speaker": "SPEAKER_02",
+    "text": "And thanks for your time to come on the show."
+  },
+  {
+    "start": 63.78,
+    "end": 66.42,
+    "speaker": "SPEAKER_02",
+    "text": "So like I mentioned, we're doing a product strategy"
+  },
+  {
+    "start": 66.42,
+    "end": 67.62,
+    "speaker": "SPEAKER_02",
+    "text": "question for today's mock."
+  },
+  {
+    "start": 67.62,
+    "end": 70.22,
+    "speaker": "SPEAKER_02",
+    "text": "So this is a question I like to ask for today's mock."
+  },
+  {
+    "start": 70.22,
+    "end": 72.53999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Let's say you're a PM at Airbnb."
+  },
+  {
+    "start": 72.53999999999999,
+    "end": 75.9,
+    "speaker": "SPEAKER_02",
+    "text": "How would you increase bookings?"
+  },
+  {
+    "start": 75.9,
+    "end": 80.82,
+    "speaker": "SPEAKER_01",
+    "text": "How would I increase bookings for Airbnb?"
+  },
+  {
+    "start": 80.82,
+    "end": 84.74,
+    "speaker": "SPEAKER_01",
+    "text": "I have some thoughts, but just to make sure we're making"
+  },
+  {
+    "start": 84.74,
+    "end": 87.78,
+    "speaker": "SPEAKER_01",
+    "text": "some right assumptions and discussing this at the right level"
+  },
+  {
+    "start": 87.78,
+    "end": 91.02,
+    "speaker": "SPEAKER_01",
+    "text": "of altitude, can I ask you some clarifying questions?"
+  },
+  {
+    "start": 91.02,
+    "end": 92.41999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Of course."
+  },
+  {
+    "start": 92.41999999999999,
+    "end": 94.02,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 94.02,
+    "end": 97.06,
+    "speaker": "SPEAKER_01",
+    "text": "So I do want to understand, I think, my role"
+  },
+  {
+    "start": 97.06,
+    "end": 98.17999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "in this scenario a little bit."
+  },
+  {
+    "start": 98.17999999999999,
+    "end": 101.58,
+    "speaker": "SPEAKER_01",
+    "text": "So do I own a specific part of the Airbnb experience"
+  },
+  {
+    "start": 101.58,
+    "end": 104.38,
+    "speaker": "SPEAKER_01",
+    "text": "or can I assume that I'm setting a holistic strategy"
+  },
+  {
+    "start": 104.38,
+    "end": 108.06,
+    "speaker": "SPEAKER_01",
+    "text": "that can impact multiple services on Airbnb?"
+  },
+  {
+    "start": 108.06,
+    "end": 109.61999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, let's say that you have free reign"
+  },
+  {
+    "start": 109.61999999999999,
+    "end": 112.38,
+    "speaker": "SPEAKER_02",
+    "text": "to impact any service you want."
+  },
+  {
+    "start": 112.38,
+    "end": 113.69999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Got it."
+  },
+  {
+    "start": 113.7,
+    "end": 118.22,
+    "speaker": "SPEAKER_01",
+    "text": "And did you have a specific segment of users in mind"
+  },
+  {
+    "start": 118.22,
+    "end": 121.74000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "or a market or is that also for me to decide?"
+  },
+  {
+    "start": 121.74000000000001,
+    "end": 123.34,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, that's a good clarifying question."
+  },
+  {
+    "start": 123.34,
+    "end": 124.42,
+    "speaker": "SPEAKER_02",
+    "text": "I'd say it's up to you."
+  },
+  {
+    "start": 124.42,
+    "end": 126.5,
+    "speaker": "SPEAKER_02",
+    "text": "And if you pick a specific segment,"
+  },
+  {
+    "start": 126.5,
+    "end": 129.42000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "maybe you can let me know how you'd prioritize that."
+  },
+  {
+    "start": 129.42000000000002,
+    "end": 131.5,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, awesome."
+  },
+  {
+    "start": 131.5,
+    "end": 133.78,
+    "speaker": "SPEAKER_01",
+    "text": "And then this is interesting, because you"
+  },
+  {
+    "start": 133.78,
+    "end": 136.94,
+    "speaker": "SPEAKER_01",
+    "text": "mentioned top line bookings."
+  },
+  {
+    "start": 136.94,
+    "end": 140.06,
+    "speaker": "SPEAKER_01",
+    "text": "And so interesting, if we should think about,"
+  },
+  {
+    "start": 140.06,
+    "end": 143.06,
+    "speaker": "SPEAKER_01",
+    "text": "should we increase bookings by attracting new users?"
+  },
+  {
+    "start": 143.06,
+    "end": 145.5,
+    "speaker": "SPEAKER_01",
+    "text": "Or are we trying to increase the frequency of bookings"
+  },
+  {
+    "start": 145.5,
+    "end": 146.9,
+    "speaker": "SPEAKER_01",
+    "text": "for existing users?"
+  },
+  {
+    "start": 146.9,
+    "end": 149.22,
+    "speaker": "SPEAKER_01",
+    "text": "Also happy to decide, but want to see if you"
+  },
+  {
+    "start": 149.22,
+    "end": 150.62,
+    "speaker": "SPEAKER_01",
+    "text": "had a point for you."
+  },
+  {
+    "start": 150.62,
+    "end": 153.06,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, I don't have a specific point"
+  },
+  {
+    "start": 153.06,
+    "end": 154.02,
+    "speaker": "SPEAKER_02",
+    "text": "that I want to go towards."
+  },
+  {
+    "start": 154.02,
+    "end": 156.74,
+    "speaker": "SPEAKER_02",
+    "text": "So either new or existing users, whichever one you think"
+  },
+  {
+    "start": 156.74,
+    "end": 158.74,
+    "speaker": "SPEAKER_02",
+    "text": "gets us the most ROI."
+  },
+  {
+    "start": 158.74,
+    "end": 160.5,
+    "speaker": "SPEAKER_01",
+    "text": "OK."
+  },
+  {
+    "start": 160.5,
+    "end": 164.54,
+    "speaker": "SPEAKER_01",
+    "text": "And then any other constraints I should be aware of"
+  },
+  {
+    "start": 164.54,
+    "end": 167.54,
+    "speaker": "SPEAKER_01",
+    "text": "or free reign on that as well?"
+  },
+  {
+    "start": 167.54,
+    "end": 170.1,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, I'd love to hear any number of ideas you have,"
+  },
+  {
+    "start": 170.1,
+    "end": 174.73999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "but maybe we can keep the timeline at a two-year horizon."
+  },
+  {
+    "start": 174.73999999999998,
+    "end": 177.29999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "OK, that sounds good."
+  },
+  {
+    "start": 177.29999999999998,
+    "end": 180.22,
+    "speaker": "SPEAKER_01",
+    "text": "So to make sure I think I structure"
+  },
+  {
+    "start": 180.22,
+    "end": 183.98,
+    "speaker": "SPEAKER_01",
+    "text": "kind of our conversation properly, might give me a minute."
+  },
+  {
+    "start": 183.98,
+    "end": 185.94,
+    "speaker": "SPEAKER_01",
+    "text": "So I could kind of think through what"
+  },
+  {
+    "start": 185.94,
+    "end": 187.74,
+    "speaker": "SPEAKER_01",
+    "text": "the right structure and framework is."
+  },
+  {
+    "start": 187.74,
+    "end": 188.34,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, for sure."
+  },
+  {
+    "start": 193.57999999999998,
+    "end": 196.94,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, so let me do, I think, a little bit of signposting"
+  },
+  {
+    "start": 196.94,
+    "end": 201.3,
+    "speaker": "SPEAKER_01",
+    "text": "on how I think I'm going to try to work through this problem."
+  },
+  {
+    "start": 201.3,
+    "end": 203.66,
+    "speaker": "SPEAKER_01",
+    "text": "Essentially, I think it's four steps."
+  },
+  {
+    "start": 203.66,
+    "end": 207.46,
+    "speaker": "SPEAKER_01",
+    "text": "So I think step number one, let's just start by defining"
+  },
+  {
+    "start": 207.46,
+    "end": 208.74,
+    "speaker": "SPEAKER_01",
+    "text": "what success looks like."
+  },
+  {
+    "start": 208.74,
+    "end": 211.7,
+    "speaker": "SPEAKER_01",
+    "text": "So yes, obviously, you could say success"
+  },
+  {
+    "start": 211.7,
+    "end": 214.22,
+    "speaker": "SPEAKER_01",
+    "text": "is increasing bookings, but there's"
+  },
+  {
+    "start": 214.22,
+    "end": 216.78,
+    "speaker": "SPEAKER_01",
+    "text": "a million possible ways we can move this metric."
+  },
+  {
+    "start": 216.78,
+    "end": 219.9,
+    "speaker": "SPEAKER_01",
+    "text": "You can imagine if you could span customers notifications,"
+  },
+  {
+    "start": 219.9,
+    "end": 222.82,
+    "speaker": "SPEAKER_01",
+    "text": "we could lower prices on listings in an unsustainable way."
+  },
+  {
+    "start": 222.82,
+    "end": 226.26,
+    "speaker": "SPEAKER_01",
+    "text": "But all these tactics are value-destructive."
+  },
+  {
+    "start": 226.26,
+    "end": 228.73999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "By do you like starting with the defining what success looks like?"
+  },
+  {
+    "start": 228.73999999999998,
+    "end": 234.06,
+    "speaker": "SPEAKER_01",
+    "text": "Because it forces us to identify what problem we're trying to solve for our customers,"
+  },
+  {
+    "start": 234.06,
+    "end": 240.26,
+    "speaker": "SPEAKER_01",
+    "text": "and whether we're uniquely aligned with Airbnb's overall mission."
+  },
+  {
+    "start": 240.26,
+    "end": 244.14,
+    "speaker": "SPEAKER_01",
+    "text": "So step two, let's segment those users and identify"
+  },
+  {
+    "start": 244.14,
+    "end": 246.85999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "their pain points and prioritize them."
+  },
+  {
+    "start": 246.85999999999999,
+    "end": 249.89999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Step three, I think we'd love to do some brainstorming."
+  },
+  {
+    "start": 249.89999999999998,
+    "end": 256.18,
+    "speaker": "SPEAKER_01",
+    "text": "What are some hypotheses we have for how we get us to this good outcome?"
+  },
+  {
+    "start": 256.18,
+    "end": 261.22,
+    "speaker": "SPEAKER_01",
+    "text": "And then step four is, let's talk about what problem do we prioritize solving,"
+  },
+  {
+    "start": 261.22,
+    "end": 265.34000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "what's our solution, and if we have time with you and love talked about what data"
+  },
+  {
+    "start": 265.34000000000003,
+    "end": 268.34000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "we look at to verify that we're doing the right things."
+  },
+  {
+    "start": 268.34000000000003,
+    "end": 268.90000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "I'll pause there."
+  },
+  {
+    "start": 268.90000000000003,
+    "end": 274.22,
+    "speaker": "SPEAKER_01",
+    "text": "How does this approach down to you, anything you like to add or any additional details?"
+  },
+  {
+    "start": 274.22,
+    "end": 275.58,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, this approach sounds good."
+  },
+  {
+    "start": 275.58,
+    "end": 277.22,
+    "speaker": "SPEAKER_02",
+    "text": "Let's get into it."
+  },
+  {
+    "start": 277.22,
+    "end": 278.1,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, all right."
+  },
+  {
+    "start": 278.1,
+    "end": 284.1,
+    "speaker": "SPEAKER_01",
+    "text": "So step number one, which I think I have written here, is defining success."
+  },
+  {
+    "start": 284.1,
+    "end": 291.34000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "So to define what a good outcome is, let's think about what problem Airbnb is uniquely"
+  },
+  {
+    "start": 291.34000000000003,
+    "end": 295.06,
+    "speaker": "SPEAKER_01",
+    "text": "positioned to solve for its customers."
+  },
+  {
+    "start": 295.06,
+    "end": 302.66,
+    "speaker": "SPEAKER_01",
+    "text": "In my mind, I think the unique value Airbnb provides is that it's the best possible way"
+  },
+  {
+    "start": 302.66,
+    "end": 307.94,
+    "speaker": "SPEAKER_01",
+    "text": "to experience travel that's unique and authentic to the destination you're going to."
+  },
+  {
+    "start": 307.94,
+    "end": 312.38,
+    "speaker": "SPEAKER_01",
+    "text": "So if you think about their history a little bit started with crashing on someone's couch"
+  },
+  {
+    "start": 312.38,
+    "end": 316.98,
+    "speaker": "SPEAKER_01",
+    "text": "on people's homes, and yes, that was a cheaper alternative than staying at some faceless"
+  },
+  {
+    "start": 316.98,
+    "end": 321.86,
+    "speaker": "SPEAKER_01",
+    "text": "hotel chain, but they did a really great job of framing that experience in a way where"
+  },
+  {
+    "start": 321.86,
+    "end": 326.3,
+    "speaker": "SPEAKER_01",
+    "text": "you got to really immerse yourself in the culture and the lifestyle of that community."
+  },
+  {
+    "start": 326.3,
+    "end": 330.42,
+    "speaker": "SPEAKER_01",
+    "text": "And this is a bit of a ramble, but I think I mentioned that early because I think as we"
+  },
+  {
+    "start": 330.42,
+    "end": 335.3,
+    "speaker": "SPEAKER_01",
+    "text": "start brainstorming pain points and solutions, it'd be good for us to keep in mind that"
+  },
+  {
+    "start": 335.3,
+    "end": 340.65999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "our original ethos and mission statement."
+  },
+  {
+    "start": 340.66,
+    "end": 345.74,
+    "speaker": "SPEAKER_01",
+    "text": "So let me write that down really quick, just so I don't lose my train of thought."
+  },
+  {
+    "start": 345.74,
+    "end": 351.98,
+    "speaker": "SPEAKER_01",
+    "text": "And specifically, the mission is we want users to experience travel authentically."
+  },
+  {
+    "start": 351.98,
+    "end": 355.94000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "And so back to our good outcome."
+  },
+  {
+    "start": 355.94000000000005,
+    "end": 363.1,
+    "speaker": "SPEAKER_01",
+    "text": "I think our good outcome beyond just like moving this bookings metric, I think is that I"
+  },
+  {
+    "start": 363.1,
+    "end": 367.58000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "think what we really want to accomplish is that whenever someone wants to travel, hopefully"
+  },
+  {
+    "start": 367.58,
+    "end": 373.41999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "Airbnb is more frequently the service that's top of mind for them because they know that"
+  },
+  {
+    "start": 373.41999999999996,
+    "end": 378.78,
+    "speaker": "SPEAKER_01",
+    "text": "it's the best possible service to experience this unique and authentic experience."
+  },
+  {
+    "start": 378.78,
+    "end": 380.46,
+    "speaker": "SPEAKER_01",
+    "text": "But it's kind of cool, right?"
+  },
+  {
+    "start": 380.46,
+    "end": 387.06,
+    "speaker": "SPEAKER_01",
+    "text": "Like in a way, we've sort of reframed the question, we're not just increasing bookings in absolute"
+  },
+  {
+    "start": 387.06,
+    "end": 388.06,
+    "speaker": "SPEAKER_01",
+    "text": "terms."
+  },
+  {
+    "start": 388.06,
+    "end": 392.74,
+    "speaker": "SPEAKER_01",
+    "text": "What we're really trying to do is keep all our traveling probably like three or four times"
+  },
+  {
+    "start": 392.74,
+    "end": 394.38,
+    "speaker": "SPEAKER_01",
+    "text": "a year maybe."
+  },
+  {
+    "start": 394.38,
+    "end": 398.46,
+    "speaker": "SPEAKER_01",
+    "text": "And what we really want to do is of those three or four times, let's make sure Airbnb"
+  },
+  {
+    "start": 398.46,
+    "end": 404.18,
+    "speaker": "SPEAKER_01",
+    "text": "is the service that's top of mind for them because of the unique experiences we provide."
+  },
+  {
+    "start": 404.18,
+    "end": 408.74,
+    "speaker": "SPEAKER_01",
+    "text": "So I think we had to define a North Star metric."
+  },
+  {
+    "start": 408.74,
+    "end": 418.62,
+    "speaker": "SPEAKER_01",
+    "text": "It's essentially, I think, increasing annual bookings per user per year."
+  },
+  {
+    "start": 418.62,
+    "end": 423.26,
+    "speaker": "SPEAKER_01",
+    "text": "And that's really kind of like our indicator of whether or not Airbnb is sort of offering"
+  },
+  {
+    "start": 423.26,
+    "end": 426.46,
+    "speaker": "SPEAKER_01",
+    "text": "the best possible experience."
+  },
+  {
+    "start": 426.46,
+    "end": 429.34,
+    "speaker": "SPEAKER_01",
+    "text": "A project, does that logic sort of track with you?"
+  },
+  {
+    "start": 429.34,
+    "end": 430.38,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, that makes sense."
+  },
+  {
+    "start": 430.38,
+    "end": 434.46,
+    "speaker": "SPEAKER_02",
+    "text": "If you were to kind of break that down into maybe like a specific formula, would there"
+  },
+  {
+    "start": 434.46,
+    "end": 435.98,
+    "speaker": "SPEAKER_02",
+    "text": "be something that you would be looking at?"
+  },
+  {
+    "start": 435.98,
+    "end": 441.65999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "Like maybe optimizing for quantity of nights or something else?"
+  },
+  {
+    "start": 441.65999999999997,
+    "end": 450.18,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I guess that's a good question about what we define as a booking, right?"
+  },
+  {
+    "start": 450.18,
+    "end": 452.14,
+    "speaker": "SPEAKER_01",
+    "text": "So yeah, maybe we could dig into it."
+  },
+  {
+    "start": 452.14,
+    "end": 458.5,
+    "speaker": "SPEAKER_01",
+    "text": "In my mind initially, it was just bookings as like one unit irrespective of how long it"
+  },
+  {
+    "start": 458.5,
+    "end": 459.5,
+    "speaker": "SPEAKER_01",
+    "text": "was."
+  },
+  {
+    "start": 459.5,
+    "end": 464.34000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "But to your point, yeah, there are reasons to kind of track nights stayed on Airbnb."
+  },
+  {
+    "start": 464.34000000000003,
+    "end": 466.38,
+    "speaker": "SPEAKER_01",
+    "text": "So I'll rephrase actually, I like that."
+  },
+  {
+    "start": 466.38,
+    "end": 472.46000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "Our North Star should really be in a given year, how many nights is someone staying on Airbnb?"
+  },
+  {
+    "start": 472.46000000000004,
+    "end": 473.46000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "That's a good point."
+  },
+  {
+    "start": 473.46000000000004,
+    "end": 475.3,
+    "speaker": "SPEAKER_01",
+    "text": "Appreciate you for pointing that out."
+  },
+  {
+    "start": 475.3,
+    "end": 476.3,
+    "speaker": "UNKNOWN",
+    "text": "Cool."
+  },
+  {
+    "start": 476.3,
+    "end": 478.62,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 478.62,
+    "end": 483.18,
+    "speaker": "SPEAKER_01",
+    "text": "And I'll mention too, because this aligns with our North Star metric."
+  },
+  {
+    "start": 483.18,
+    "end": 488.18,
+    "speaker": "SPEAKER_01",
+    "text": "The important thing to keep in mind is that like I think travel is seasonal and has natural"
+  },
+  {
+    "start": 488.18,
+    "end": 489.42,
+    "speaker": "SPEAKER_01",
+    "text": "puttos."
+  },
+  {
+    "start": 489.42,
+    "end": 493.74,
+    "speaker": "SPEAKER_01",
+    "text": "So hypothetically, if someone is booking for you for times of year, saying at Airbnb like"
+  },
+  {
+    "start": 493.74,
+    "end": 499.14,
+    "speaker": "SPEAKER_01",
+    "text": "10 to 14 times a year max, it's probably not realistic for us to assume that we're going"
+  },
+  {
+    "start": 499.14,
+    "end": 504.58,
+    "speaker": "SPEAKER_01",
+    "text": "to make such drastic change where they're suddenly staying 30, 40, 100 nights a year."
+  },
+  {
+    "start": 504.58,
+    "end": 508.58,
+    "speaker": "SPEAKER_01",
+    "text": "So let's keep that in mind as well."
+  },
+  {
+    "start": 508.58,
+    "end": 512.9,
+    "speaker": "SPEAKER_01",
+    "text": "So if that's, I think we could talk about, I think, customers and their pain points,"
+  },
+  {
+    "start": 512.9,
+    "end": 513.9,
+    "speaker": "SPEAKER_01",
+    "text": "it sounds good to you."
+  },
+  {
+    "start": 513.9,
+    "end": 516.02,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, yeah, sounds good."
+  },
+  {
+    "start": 516.02,
+    "end": 517.02,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 517.02,
+    "end": 518.46,
+    "speaker": "SPEAKER_01",
+    "text": "Might give me a minute to think about this."
+  },
+  {
+    "start": 518.46,
+    "end": 522.78,
+    "speaker": "SPEAKER_01",
+    "text": "I kind of want to think through what the right segmentation is."
+  },
+  {
+    "start": 522.78,
+    "end": 523.78,
+    "speaker": "SPEAKER_01",
+    "text": "Cool."
+  },
+  {
+    "start": 528.66,
+    "end": 529.66,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 529.66,
+    "end": 536.62,
+    "speaker": "SPEAKER_01",
+    "text": "So if it's all right with you, Kevin, I think from the sake of time, just to add some"
+  },
+  {
+    "start": 536.62,
+    "end": 542.7,
+    "speaker": "SPEAKER_01",
+    "text": "guard rails here, I'll focus primarily on guests for now Airbnb two-side marketplace,"
+  },
+  {
+    "start": 542.7,
+    "end": 546.66,
+    "speaker": "SPEAKER_01",
+    "text": "but I want to focus on the guest experience if that's all right with you."
+  },
+  {
+    "start": 546.66,
+    "end": 550.78,
+    "speaker": "SPEAKER_01",
+    "text": "But obviously, like whatever we do for the guest, we should be mindful of that."
+  },
+  {
+    "start": 550.78,
+    "end": 555.1,
+    "speaker": "SPEAKER_01",
+    "text": "Whatever recommendations we provide doesn't obviously impact the host side."
+  },
+  {
+    "start": 555.1,
+    "end": 557.46,
+    "speaker": "SPEAKER_01",
+    "text": "Is that sound good to you before I talk about segmentation?"
+  },
+  {
+    "start": 557.46,
+    "end": 559.7,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, yeah, that sounds good."
+  },
+  {
+    "start": 559.7,
+    "end": 560.7,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 561.4200000000001,
+    "end": 568.5400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "I think there's a lot of different ways we could segment, but I think I gravitated towards"
+  },
+  {
+    "start": 568.5400000000001,
+    "end": 572.1800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "sort of these two dimensions."
+  },
+  {
+    "start": 572.1800000000001,
+    "end": 577.1,
+    "speaker": "SPEAKER_01",
+    "text": "We could talk about this dimension of business travel versus leisure travel, where leisure"
+  },
+  {
+    "start": 577.1,
+    "end": 580.7,
+    "speaker": "SPEAKER_01",
+    "text": "travel is just someone booking a trip for fun, and business travel is, you know, you're"
+  },
+  {
+    "start": 580.7,
+    "end": 584.4200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "booking a trip for work sometimes through your employer who have partnerships with hotel"
+  },
+  {
+    "start": 584.4200000000001,
+    "end": 586.0200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "chains, et cetera."
+  },
+  {
+    "start": 586.02,
+    "end": 591.62,
+    "speaker": "SPEAKER_01",
+    "text": "And then the second intent is someone that's a high intent traveler versus a low intent"
+  },
+  {
+    "start": 591.62,
+    "end": 592.62,
+    "speaker": "SPEAKER_01",
+    "text": "traveler."
+  },
+  {
+    "start": 592.62,
+    "end": 597.86,
+    "speaker": "SPEAKER_01",
+    "text": "And I think what I mean by high intent is that this is someone that's at this very moment,"
+  },
+  {
+    "start": 597.86,
+    "end": 600.9399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "looking to actively book travel right now."
+  },
+  {
+    "start": 600.9399999999999,
+    "end": 606.78,
+    "speaker": "SPEAKER_01",
+    "text": "Whereas low intent travelers, someone that's used Airbnb before, but probably not traveling"
+  },
+  {
+    "start": 606.78,
+    "end": 610.98,
+    "speaker": "SPEAKER_01",
+    "text": "isn't super active mind, top of mind, but they probably don't even have the Airbnb app"
+  },
+  {
+    "start": 610.98,
+    "end": 614.74,
+    "speaker": "SPEAKER_01",
+    "text": "kind of downloaded on their phone at this very moment."
+  },
+  {
+    "start": 614.74,
+    "end": 619.82,
+    "speaker": "SPEAKER_02",
+    "text": "And just to clarify a little bit, so this is high intent to travel, not high intent to"
+  },
+  {
+    "start": 619.82,
+    "end": 622.58,
+    "speaker": "SPEAKER_02",
+    "text": "use Airbnb when they travel."
+  },
+  {
+    "start": 622.58,
+    "end": 624.82,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, high intent to travel."
+  },
+  {
+    "start": 624.82,
+    "end": 627.22,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, high intent to travel in general."
+  },
+  {
+    "start": 627.22,
+    "end": 632.5,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, and I'll note to you, I think we could have segmented on a lot of different dimensions."
+  },
+  {
+    "start": 632.5,
+    "end": 637.46,
+    "speaker": "SPEAKER_01",
+    "text": "We could have done solo versus group travel, probably could have segmented by like age"
+  },
+  {
+    "start": 637.46,
+    "end": 643.9,
+    "speaker": "SPEAKER_01",
+    "text": "who have different travel expectations, like millennials versus Gen Z, boomers, et cetera."
+  },
+  {
+    "start": 643.9,
+    "end": 648.6999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I think I gravitate towards this because like I think without any data in front of me,"
+  },
+  {
+    "start": 648.6999999999999,
+    "end": 652.06,
+    "speaker": "SPEAKER_01",
+    "text": "just have some intuition, but I think the calculus would be a little different, like, you know,"
+  },
+  {
+    "start": 652.06,
+    "end": 655.9,
+    "speaker": "SPEAKER_01",
+    "text": "had a data science team and things like that."
+  },
+  {
+    "start": 655.9,
+    "end": 661.74,
+    "speaker": "SPEAKER_01",
+    "text": "So with that said, I think the next thing we should talk about is probably which segment"
+  },
+  {
+    "start": 661.74,
+    "end": 665.5799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "should we kind of target and prioritize and why."
+  },
+  {
+    "start": 665.5799999999999,
+    "end": 671.98,
+    "speaker": "SPEAKER_01",
+    "text": "And when I was kind of going through going through this, my intuition tells me that we should"
+  },
+  {
+    "start": 671.98,
+    "end": 675.82,
+    "speaker": "SPEAKER_01",
+    "text": "rule out business travelers, I think for the following reasons."
+  },
+  {
+    "start": 675.82,
+    "end": 680.46,
+    "speaker": "SPEAKER_01",
+    "text": "I think yes, there are a new kind of target market."
+  },
+  {
+    "start": 680.46,
+    "end": 684.86,
+    "speaker": "SPEAKER_01",
+    "text": "It could be really exciting, but there are also the sort of travelers who I don't think value"
+  },
+  {
+    "start": 684.86,
+    "end": 689.98,
+    "speaker": "SPEAKER_01",
+    "text": "the sort of authenticity and uniqueness that Airbnb provides going back to kind of our unique"
+  },
+  {
+    "start": 689.98,
+    "end": 691.5,
+    "speaker": "SPEAKER_01",
+    "text": "core value."
+  },
+  {
+    "start": 691.5,
+    "end": 696.94,
+    "speaker": "SPEAKER_01",
+    "text": "The value convenience and they're probably better served by I think hotel chains that their"
+  },
+  {
+    "start": 696.94,
+    "end": 700.3000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "companies might already have existing relationships with."
+  },
+  {
+    "start": 700.3,
+    "end": 705.74,
+    "speaker": "SPEAKER_01",
+    "text": "And I think it's also it'd be a pretty risky bet strategically for Airbnb to onboard,"
+  },
+  {
+    "start": 705.74,
+    "end": 710.2199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "you know, a totally new type of supply, just to cater to this new demographic."
+  },
+  {
+    "start": 710.2199999999999,
+    "end": 715.0999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So, you know, I think it makes sense for us to stick with I think Airbnb's original market,"
+  },
+  {
+    "start": 715.0999999999999,
+    "end": 716.2199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "which is leisure."
+  },
+  {
+    "start": 717.5,
+    "end": 723.3399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "But now the debate is high intent people actively looking to travel and book right now"
+  },
+  {
+    "start": 723.3399999999999,
+    "end": 726.62,
+    "speaker": "SPEAKER_01",
+    "text": "versus low intent, which is, you know, not really thinking about travel, et cetera."
+  },
+  {
+    "start": 726.7,
+    "end": 731.26,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, yeah, that makes sense to kind of think more about the leisure side."
+  },
+  {
+    "start": 731.26,
+    "end": 734.86,
+    "speaker": "SPEAKER_02",
+    "text": "I can definitely imagine for business side a lot of these people are already set on,"
+  },
+  {
+    "start": 734.86,
+    "end": 738.0600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "hey, I want to earn my status or my points through these hotel chains."
+  },
+  {
+    "start": 738.54,
+    "end": 742.38,
+    "speaker": "SPEAKER_02",
+    "text": "I want to get room service and it's going to be really hard to change the behavior of hosts"
+  },
+  {
+    "start": 742.38,
+    "end": 746.78,
+    "speaker": "SPEAKER_02",
+    "text": "who majority of them are probably very hands off when it comes to booking between"
+  },
+  {
+    "start": 746.78,
+    "end": 747.66,
+    "speaker": "SPEAKER_02",
+    "text": "check and check out."
+  },
+  {
+    "start": 747.66,
+    "end": 750.7,
+    "speaker": "SPEAKER_02",
+    "text": "So yeah, yeah, let's definitely focus on the leisure."
+  },
+  {
+    "start": 751.6600000000001,
+    "end": 756.7800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, and then now I'm debating between I think high intent versus low intent."
+  },
+  {
+    "start": 758.3000000000001,
+    "end": 761.0200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Thinking about high intent a little bit, let's go through their pain points."
+  },
+  {
+    "start": 762.62,
+    "end": 767.1,
+    "speaker": "SPEAKER_01",
+    "text": "So if I'm a high intent traveler, I already have a set date."
+  },
+  {
+    "start": 767.1,
+    "end": 770.86,
+    "speaker": "SPEAKER_01",
+    "text": "I like they already have a destination and right now I'm really just looking for"
+  },
+  {
+    "start": 771.82,
+    "end": 774.86,
+    "speaker": "SPEAKER_01",
+    "text": "listings and experiences and I think they're considering things like"
+  },
+  {
+    "start": 775.74,
+    "end": 777.98,
+    "speaker": "SPEAKER_01",
+    "text": "best price location, et cetera."
+  },
+  {
+    "start": 778.54,
+    "end": 782.54,
+    "speaker": "SPEAKER_01",
+    "text": "And I think a lot of resolving those pain points will likely involve"
+  },
+  {
+    "start": 783.9,
+    "end": 789.5,
+    "speaker": "SPEAKER_01",
+    "text": "you know, reducing price of listings, improving supply, improving discovery,"
+  },
+  {
+    "start": 789.5,
+    "end": 793.58,
+    "speaker": "SPEAKER_01",
+    "text": "or really just like reducing any sort of friction along that user journey of finding a place"
+  },
+  {
+    "start": 793.58,
+    "end": 799.66,
+    "speaker": "SPEAKER_01",
+    "text": "to actually purchasing, which I think these are kind of things that Airbnb is like already"
+  },
+  {
+    "start": 799.66,
+    "end": 801.26,
+    "speaker": "SPEAKER_01",
+    "text": "kind of actively invested in."
+  },
+  {
+    "start": 801.66,
+    "end": 805.18,
+    "speaker": "SPEAKER_01",
+    "text": "And I would say that you know, for these high intent users,"
+  },
+  {
+    "start": 806.46,
+    "end": 810.86,
+    "speaker": "SPEAKER_01",
+    "text": "that user journey can start on Google or kayak or Expedia."
+  },
+  {
+    "start": 811.5,
+    "end": 816.38,
+    "speaker": "SPEAKER_01",
+    "text": "And really if you look at all those three things I have listed or those four things I've listed,"
+  },
+  {
+    "start": 816.38,
+    "end": 824.62,
+    "speaker": "SPEAKER_01",
+    "text": "which is price, supply, discovery, and reducing friction on that journey,"
+  },
+  {
+    "start": 825.58,
+    "end": 830.9399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the only one that I think Airbnb has a unique advantage in is the kind of supply of local"
+  },
+  {
+    "start": 830.94,
+    "end": 838.3800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "slash authentic listings. Now with that said, as I was thinking, I think the interesting"
+  },
+  {
+    "start": 838.3800000000001,
+    "end": 845.4200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "opportunity for us to at least explore is the actual low intent travelers, which is these are"
+  },
+  {
+    "start": 845.4200000000001,
+    "end": 850.7,
+    "speaker": "SPEAKER_01",
+    "text": "the folks who right now aren't actively planning their next trip. But at some point,"
+  },
+  {
+    "start": 850.7,
+    "end": 855.4200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "these low intent travelers become high intent travelers and we talked about our good outcome of"
+  },
+  {
+    "start": 855.42,
+    "end": 863.26,
+    "speaker": "SPEAKER_01",
+    "text": "making Airbnb more top of mind. I think the question can be framed then as what pain points"
+  },
+  {
+    "start": 863.26,
+    "end": 868.9399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "can we solve for the low intent travelers currently so that when it does come for them to travel,"
+  },
+  {
+    "start": 869.66,
+    "end": 876.14,
+    "speaker": "SPEAKER_01",
+    "text": "Airbnb is sort of the top of mind choice for them, which is sort of interesting, but"
+  },
+  {
+    "start": 876.62,
+    "end": 880.62,
+    "speaker": "SPEAKER_01",
+    "text": "anything you'd like to add before I kind of think through my recommendation."
+  },
+  {
+    "start": 881.5,
+    "end": 887.34,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, I think this is definitely a, I think there's merit to breaking down the segmentation"
+  },
+  {
+    "start": 887.34,
+    "end": 893.66,
+    "speaker": "SPEAKER_02",
+    "text": "in high intent to travel versus low intent to travel. I think one question I have is just,"
+  },
+  {
+    "start": 894.46,
+    "end": 901.42,
+    "speaker": "SPEAKER_02",
+    "text": "wouldn't there have to be a lot of macro events for someone to convert from low intent to high intent?"
+  },
+  {
+    "start": 901.42,
+    "end": 907.9,
+    "speaker": "SPEAKER_02",
+    "text": "Maybe they have to earn more salary or COVID has to go away. Is there some other way for us to"
+  },
+  {
+    "start": 907.9,
+    "end": 917.34,
+    "speaker": "SPEAKER_02",
+    "text": "target a user segment where we have more control over? As in, there are a lot of different factors"
+  },
+  {
+    "start": 917.34,
+    "end": 923.5799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "that could influence whether or not someone has the intent to travel. Right, let's say we have"
+  },
+  {
+    "start": 923.5799999999999,
+    "end": 927.5799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "some strategy that targets all these people who have no intention to travel, but we think they're"
+  },
+  {
+    "start": 927.5799999999999,
+    "end": 935.18,
+    "speaker": "SPEAKER_02",
+    "text": "going to become people with intention to travel in the future. I feel like there's a lot of macro"
+  },
+  {
+    "start": 935.18,
+    "end": 938.6999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "economic things that would have to happen in order for some of these low intent people to become"
+  },
+  {
+    "start": 938.6999999999999,
+    "end": 942.9399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "high intent travelers. And if these things don't happen, then all of these investments would go to waste."
+  },
+  {
+    "start": 943.7399999999999,
+    "end": 949.66,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I agree with that. I, which is why I think I was a little reluctant to go with low intent,"
+  },
+  {
+    "start": 949.66,
+    "end": 954.2199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "but I actually arrived at, and maybe I'm jumping ahead a little bit in terms of solution, but it's,"
+  },
+  {
+    "start": 954.2199999999999,
+    "end": 963.26,
+    "speaker": "SPEAKER_01",
+    "text": "I don't think our strategy is to all of a sudden turn a low intent traveler into a high intent"
+  },
+  {
+    "start": 964.14,
+    "end": 968.06,
+    "speaker": "SPEAKER_01",
+    "text": "traveler. Like you said, there's a lot of things that go into that. It's a very gradual process,"
+  },
+  {
+    "start": 968.9399999999999,
+    "end": 975.74,
+    "speaker": "SPEAKER_01",
+    "text": "but I think what was interesting for me was right now, Airbnb is very much this ad hoc tool"
+  },
+  {
+    "start": 976.78,
+    "end": 982.9399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "that you only go to when you want to search and when you want to kind of book travel."
+  },
+  {
+    "start": 983.66,
+    "end": 989.1,
+    "speaker": "SPEAKER_01",
+    "text": "What's kind of interesting is in terms of like a strategy that I wanted to explore a little bit was,"
+  },
+  {
+    "start": 989.1800000000001,
+    "end": 994.3000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "can we sort of change the interaction model with Airbnb, where instead of just being an ad hoc tool,"
+  },
+  {
+    "start": 994.3000000000001,
+    "end": 1000.94,
+    "speaker": "SPEAKER_01",
+    "text": "it's more of a destination. Maybe a place you can learn more about kind of different areas,"
+  },
+  {
+    "start": 1000.94,
+    "end": 1004.86,
+    "speaker": "SPEAKER_01",
+    "text": "maybe a place where you find travel inspiration. Give them a reason to come, that's not just"
+  },
+  {
+    "start": 1004.86,
+    "end": 1011.58,
+    "speaker": "SPEAKER_01",
+    "text": "booking travel, so that when it comes time to travel, Airbnb is sort of the brand that's"
+  },
+  {
+    "start": 1011.58,
+    "end": 1016.78,
+    "speaker": "SPEAKER_01",
+    "text": "more top of mind. That's sort of what I'm thinking. I would like to go down that route, but if you"
+  },
+  {
+    "start": 1016.78,
+    "end": 1021.66,
+    "speaker": "SPEAKER_01",
+    "text": "think this is totally bananas, I'm happy to kind of step back and consider something else."
+  },
+  {
+    "start": 1021.66,
+    "end": 1027.02,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, maybe it'll be helpful for me to understand what's an example of a low intent traveler,"
+  },
+  {
+    "start": 1027.02,
+    "end": 1036.1399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "maybe like a persona. Yeah, I guess it'd be someone like me where I guess like I would imagine,"
+  },
+  {
+    "start": 1036.1399999999999,
+    "end": 1041.58,
+    "speaker": "SPEAKER_01",
+    "text": "let's think of this, where probably a bunch of New Year's resolutions this year to travel more."
+  },
+  {
+    "start": 1041.58,
+    "end": 1046.9399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "I know someone like me made that sort of New Year's resolution, but I know for someone like me,"
+  },
+  {
+    "start": 1048.6999999999998,
+    "end": 1052.6999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "I don't really know where to start, and I don't necessarily want the kind of generic"
+  },
+  {
+    "start": 1052.6999999999998,
+    "end": 1057.74,
+    "speaker": "SPEAKER_01",
+    "text": "itinerary of going to like Paris to see the Eiffel Tower, not to disparage people who want to do that."
+  },
+  {
+    "start": 1058.54,
+    "end": 1061.8999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I would love to do that personally, but sort of parking back to the original"
+  },
+  {
+    "start": 1063.34,
+    "end": 1068.1399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "kind of good outcome, which is why would I use Airbnb? It's like it's a place I could have a really"
+  },
+  {
+    "start": 1068.14,
+    "end": 1073.9,
+    "speaker": "SPEAKER_01",
+    "text": "unique and awesome trip. That's not just a cookie cutter hotel chain. Okay, where do I start?"
+  },
+  {
+    "start": 1073.9,
+    "end": 1079.18,
+    "speaker": "SPEAKER_01",
+    "text": "And can I find inspiration for that? That's not just googling a bunch of million different"
+  },
+  {
+    "start": 1079.18,
+    "end": 1085.0200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "blogs and then can I find that at the site that I'm ultimately going to book? That was something that"
+  },
+  {
+    "start": 1085.0200000000002,
+    "end": 1090.5400000000002,
+    "speaker": "SPEAKER_02",
+    "text": "kind of got me excited, but okay. Yeah, yeah, that makes sense. So I guess like we're thinking about"
+  },
+  {
+    "start": 1090.5400000000002,
+    "end": 1096.22,
+    "speaker": "SPEAKER_02",
+    "text": "someone who doesn't actively make plans maybe one or two years out for like, hey, like I already"
+  },
+  {
+    "start": 1096.3,
+    "end": 1099.42,
+    "speaker": "SPEAKER_02",
+    "text": "know this year I'm going to go here or next year I already know I'm going to go there."
+  },
+  {
+    "start": 1100.06,
+    "end": 1103.66,
+    "speaker": "SPEAKER_02",
+    "text": "There's probably a little hands-off when it comes to or more passive when it comes to travel"
+  },
+  {
+    "start": 1103.66,
+    "end": 1109.42,
+    "speaker": "SPEAKER_02",
+    "text": "planning. And we want to see how we can convert them into being active Airbnb user so that we can"
+  },
+  {
+    "start": 1109.42,
+    "end": 1115.98,
+    "speaker": "SPEAKER_02",
+    "text": "improve or increase the number of nights booked, right? Yeah, and granted, it sounds like a risky"
+  },
+  {
+    "start": 1115.98,
+    "end": 1120.14,
+    "speaker": "SPEAKER_01",
+    "text": "strategy, right? Because essentially what you're doing is you're essentially turning Airbnb a"
+  },
+  {
+    "start": 1120.14,
+    "end": 1127.8200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "little bit into like a content company. But you know, happy to kind of talk through my logic of,"
+  },
+  {
+    "start": 1127.8200000000002,
+    "end": 1132.7,
+    "speaker": "SPEAKER_01",
+    "text": "I think naturally like with any sort of strategy question, right? We would want to have an"
+  },
+  {
+    "start": 1132.7,
+    "end": 1138.46,
+    "speaker": "SPEAKER_01",
+    "text": "MVP, have a hypothesis, dip our tone at first before. Let's just shove 50 engineers in here and"
+  },
+  {
+    "start": 1138.46,
+    "end": 1143.8200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "build it. Happy to talk through how I would approach that, but yeah, how would you like to guide"
+  },
+  {
+    "start": 1143.8200000000002,
+    "end": 1149.26,
+    "speaker": "SPEAKER_02",
+    "text": "this conversation? Yeah, yeah, I think now that we're on the same page about what the low intent"
+  },
+  {
+    "start": 1149.26,
+    "end": 1154.06,
+    "speaker": "SPEAKER_02",
+    "text": "traveler is and why we think this is a good place to make a bet, I love to hear where you would go"
+  },
+  {
+    "start": 1154.06,
+    "end": 1162.86,
+    "speaker": "SPEAKER_01",
+    "text": "from here. Yeah, and so this is one of those things where I think we should just be very crisp"
+  },
+  {
+    "start": 1162.86,
+    "end": 1169.98,
+    "speaker": "SPEAKER_01",
+    "text": "about what our hypothesis is and how we test it before we kind of make any really big investments."
+  },
+  {
+    "start": 1170.38,
+    "end": 1180.38,
+    "speaker": "SPEAKER_01",
+    "text": "And so I think here's sort of what I'm thinking. I think the premise of this entire strategy is"
+  },
+  {
+    "start": 1180.38,
+    "end": 1188.78,
+    "speaker": "SPEAKER_01",
+    "text": "predicated on a belief that if people visit Airbnb more frequently, just a browse or do whatever sort"
+  },
+  {
+    "start": 1188.78,
+    "end": 1194.54,
+    "speaker": "SPEAKER_01",
+    "text": "of activity, then when it does come time for them to travel, they'll book with us more often."
+  },
+  {
+    "start": 1195.42,
+    "end": 1200.7,
+    "speaker": "SPEAKER_01",
+    "text": "And that's probably data Airbnb has already. I think that's the sort of analysis I would do first,"
+  },
+  {
+    "start": 1200.7,
+    "end": 1209.58,
+    "speaker": "SPEAKER_01",
+    "text": "which is specifically for users who visit Airbnb, X number of times, how does that correlate with"
+  },
+  {
+    "start": 1209.58,
+    "end": 1217.1,
+    "speaker": "SPEAKER_01",
+    "text": "them booking with Airbnb, why weeks later? And do we see a positive correlation there? Because I"
+  },
+  {
+    "start": 1217.1,
+    "end": 1222.7,
+    "speaker": "SPEAKER_01",
+    "text": "think once we have that as a foundation, then the question turns more into strategy and product,"
+  },
+  {
+    "start": 1222.7,
+    "end": 1231.02,
+    "speaker": "SPEAKER_01",
+    "text": "which is, okay, what can what services can we provide to bring people to Airbnb? Is that"
+  },
+  {
+    "start": 1231.02,
+    "end": 1238.22,
+    "speaker": "SPEAKER_01",
+    "text": "that logic track for you? Yeah, totally. So I have three options, I think, in mind."
+  },
+  {
+    "start": 1240.14,
+    "end": 1244.14,
+    "speaker": "SPEAKER_01",
+    "text": "And I'm named them now and then we'll talk about how we could think about prioritizing them, I think."
+  },
+  {
+    "start": 1246.22,
+    "end": 1252.6200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "One is to kind of redesign the listings page to kind of feature the hosts and their stories more."
+  },
+  {
+    "start": 1252.7,
+    "end": 1258.3,
+    "speaker": "SPEAKER_01",
+    "text": "So Airbnb area has this feature where they designate super hosts and I'm curious if"
+  },
+  {
+    "start": 1259.18,
+    "end": 1263.9,
+    "speaker": "SPEAKER_01",
+    "text": "highlighting personal stories or differentiate their listings more can not only attract more"
+  },
+  {
+    "start": 1263.9,
+    "end": 1270.78,
+    "speaker": "SPEAKER_01",
+    "text": "bookings, but give people a reason to come almost like read a blog and then obviously people"
+  },
+  {
+    "start": 1270.78,
+    "end": 1277.1000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "will come visit Airbnb more top of mind when they want to travel. The second one involves"
+  },
+  {
+    "start": 1278.06,
+    "end": 1282.9399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "social and user-generated content. I think this is where we could prompt people after they visit"
+  },
+  {
+    "start": 1282.9399999999998,
+    "end": 1289.58,
+    "speaker": "SPEAKER_01",
+    "text": "to post photos of really great trips they had. Full disclosure, not a big fan of this one."
+  },
+  {
+    "start": 1290.62,
+    "end": 1295.1,
+    "speaker": "SPEAKER_01",
+    "text": "I think there could be a one, I think it's a tall ask to ask people to kind of post"
+  },
+  {
+    "start": 1295.82,
+    "end": 1301.4199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "photos and things on another service besides the one they're using. And I think it gets a little"
+  },
+  {
+    "start": 1301.5,
+    "end": 1306.94,
+    "speaker": "SPEAKER_01",
+    "text": "bit into unhealthy, fomo aspects that kind of distracts from Airbnb sort of originally ethos."
+  },
+  {
+    "start": 1308.8600000000001,
+    "end": 1316.78,
+    "speaker": "SPEAKER_01",
+    "text": "The third one I thought of was actually making their add to wishlist experience richer and"
+  },
+  {
+    "start": 1316.78,
+    "end": 1322.22,
+    "speaker": "SPEAKER_01",
+    "text": "more personalized and more useful. You can imagine something that's sort of a Pinterest experience"
+  },
+  {
+    "start": 1322.22,
+    "end": 1329.18,
+    "speaker": "SPEAKER_01",
+    "text": "that's tailored towards travel destinations and activities. Those are kind of three high level"
+  },
+  {
+    "start": 1329.18,
+    "end": 1334.7,
+    "speaker": "SPEAKER_01",
+    "text": "directions and I think they're pretty substantial investments, but I'll talk about which one I'll"
+  },
+  {
+    "start": 1334.7,
+    "end": 1340.7,
+    "speaker": "SPEAKER_01",
+    "text": "I think I want to tackle and then we could talk about the MVP of that one for which direction."
+  },
+  {
+    "start": 1341.98,
+    "end": 1345.02,
+    "speaker": "SPEAKER_01",
+    "text": "And essentially I think my rough prioritization framework is essentially"
+  },
+  {
+    "start": 1346.0600000000002,
+    "end": 1351.3400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "of the options we have, what's the expected impact towards getting us to our good outcome as well"
+  },
+  {
+    "start": 1351.3400000000001,
+    "end": 1357.02,
+    "speaker": "SPEAKER_01",
+    "text": "as what's the expected cost of delivering this outcome. I think for the sake of this conversation,"
+  },
+  {
+    "start": 1357.02,
+    "end": 1362.3799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I'm actually pretty fired up about the third option which is expanding the wishlist experience."
+  },
+  {
+    "start": 1363.34,
+    "end": 1369.82,
+    "speaker": "SPEAKER_01",
+    "text": "And here's my reasoning. What's nice about that, the wishlist experience is that one,"
+  },
+  {
+    "start": 1370.3799999999999,
+    "end": 1373.82,
+    "speaker": "SPEAKER_01",
+    "text": "that experience already exists, that functionality already exists and we're just extending it."
+  },
+  {
+    "start": 1373.82,
+    "end": 1379.9,
+    "speaker": "SPEAKER_01",
+    "text": "But two, it's a non-dominant sort of user journey which I think gives us a lot more flexibility"
+  },
+  {
+    "start": 1379.9,
+    "end": 1384.78,
+    "speaker": "SPEAKER_01",
+    "text": "to experiment with different experiences without massively disrupting users."
+  },
+  {
+    "start": 1385.74,
+    "end": 1391.02,
+    "speaker": "SPEAKER_01",
+    "text": "And granted, like I mentioned earlier, building a Pinterest experience is a pretty heavy strategic"
+  },
+  {
+    "start": 1391.02,
+    "end": 1396.7,
+    "speaker": "SPEAKER_01",
+    "text": "investment. You're retooling the entire wishlist experience, but we should talk about I think a"
+  },
+  {
+    "start": 1396.7,
+    "end": 1401.1,
+    "speaker": "SPEAKER_01",
+    "text": "little more scope down MVP of how we would build this I think."
+  },
+  {
+    "start": 1403.58,
+    "end": 1410.06,
+    "speaker": "SPEAKER_02",
+    "text": "So would this be, how would this be different than the social user generated one?"
+  },
+  {
+    "start": 1410.1399999999999,
+    "end": 1416.1399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Because when I'm hearing like, oh, it's like Pinterest, does it kind of have like the same feed"
+  },
+  {
+    "start": 1416.1399999999999,
+    "end": 1423.98,
+    "speaker": "SPEAKER_01",
+    "text": "or what's the vision here? Oh yeah, I'm sorry, I should have clarified. The Pinterest wouldn't be"
+  },
+  {
+    "start": 1423.98,
+    "end": 1430.7,
+    "speaker": "SPEAKER_01",
+    "text": "sort of like a generic, it wouldn't be user-generated content. It's sort of be restructuring how"
+  },
+  {
+    "start": 1433.1799999999998,
+    "end": 1437.82,
+    "speaker": "SPEAKER_01",
+    "text": "you could interact with kind of the listings page. So right now it's sort of static pages that"
+  },
+  {
+    "start": 1437.82,
+    "end": 1446.22,
+    "speaker": "SPEAKER_01",
+    "text": "show you something, but it's like changing the UI in a way where you could show just make browsing,"
+  },
+  {
+    "start": 1446.22,
+    "end": 1452.9399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "I think really the strategy is just make Airbnb more index towards like a browsing experience,"
+  },
+  {
+    "start": 1452.9399999999998,
+    "end": 1459.02,
+    "speaker": "SPEAKER_01",
+    "text": "rather than a high-intent search experience. I guess. So did that make sense? I feel like if it's not"
+  },
+  {
+    "start": 1459.02,
+    "end": 1463.5,
+    "speaker": "SPEAKER_01",
+    "text": "clear how I'm paying the picture, please, please let me know. Yeah, so maybe you could walk me through"
+  },
+  {
+    "start": 1463.5,
+    "end": 1468.86,
+    "speaker": "SPEAKER_02",
+    "text": "what this user experience would look like. Like if I'm a user and I come to the website, what do I see?"
+  },
+  {
+    "start": 1470.14,
+    "end": 1477.1,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I think when you come to the website, instead of just offering you the ability to"
+  },
+  {
+    "start": 1477.82,
+    "end": 1483.98,
+    "speaker": "SPEAKER_01",
+    "text": "search, we call it the wishlist experience. And so you would still have the high-intent like plan"
+  },
+  {
+    "start": 1483.98,
+    "end": 1489.58,
+    "speaker": "SPEAKER_01",
+    "text": "your booking travel here, but off the side you have, oh, would you like to explore? And when you"
+  },
+  {
+    "start": 1489.6599999999999,
+    "end": 1493.6599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "hit the explore, you have like a sort of different experience. That's like I would imagine like"
+  },
+  {
+    "start": 1493.6599999999999,
+    "end": 1499.26,
+    "speaker": "SPEAKER_01",
+    "text": "much more immersive. You could scroll through kind of like beautiful listings and destinations."
+  },
+  {
+    "start": 1499.98,
+    "end": 1506.9399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "In my head, it kind of looks like a in Spopeage almost. To really kind of play up the like, this is,"
+  },
+  {
+    "start": 1506.9399999999998,
+    "end": 1511.34,
+    "speaker": "SPEAKER_01",
+    "text": "you have one part of the app, which is the core app, which is like this is where you book. And then"
+  },
+  {
+    "start": 1511.34,
+    "end": 1517.82,
+    "speaker": "SPEAKER_01",
+    "text": "one part of the app, which is this is where you kind of can browse and explore and find inspiration"
+  },
+  {
+    "start": 1517.82,
+    "end": 1522.9399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "for your next trip. And all the wishlist and tooling involved with that. Yeah, thank you for having"
+  },
+  {
+    "start": 1522.9399999999998,
+    "end": 1529.1,
+    "speaker": "SPEAKER_02",
+    "text": "me clarify. Yeah, yeah, makes a lot of sense there. So yeah, I think this sounds interesting and I'm"
+  },
+  {
+    "start": 1529.1,
+    "end": 1534.3799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "wondering maybe in the few minutes we have remaining, do you have any sort of launch strategy that you"
+  },
+  {
+    "start": 1534.3799999999999,
+    "end": 1543.98,
+    "speaker": "SPEAKER_01",
+    "text": "would keep in mind when you're placing this huge bet? Yeah, I would not just launch a, this like right"
+  },
+  {
+    "start": 1543.98,
+    "end": 1551.26,
+    "speaker": "SPEAKER_01",
+    "text": "away. I think we have to scope it down a little more. I think the one I'd have in mind too is like we"
+  },
+  {
+    "start": 1552.14,
+    "end": 1558.94,
+    "speaker": "SPEAKER_01",
+    "text": "we have some some way of highlighting that there is like a different explore experience."
+  },
+  {
+    "start": 1560.6200000000001,
+    "end": 1565.58,
+    "speaker": "SPEAKER_01",
+    "text": "You know, when it oh actually, no, I think I think fundamentally we want to introduce users to the"
+  },
+  {
+    "start": 1565.58,
+    "end": 1571.82,
+    "speaker": "SPEAKER_01",
+    "text": "fact that we are going to invest in an exploration experience. So actually this seems counterintuitive,"
+  },
+  {
+    "start": 1571.82,
+    "end": 1577.58,
+    "speaker": "SPEAKER_01",
+    "text": "but I think I would actually send out a newsletter to inactive users highlighting here are some"
+  },
+  {
+    "start": 1577.58,
+    "end": 1583.5,
+    "speaker": "SPEAKER_01",
+    "text": "the unique experiences we have on Airbnb. And that's kind of nice because I think most the"
+  },
+  {
+    "start": 1583.5,
+    "end": 1588.7,
+    "speaker": "SPEAKER_01",
+    "text": "engine mirroring work would actually be sending up the logging and tweaking some of Airbnb's email"
+  },
+  {
+    "start": 1588.7,
+    "end": 1593.98,
+    "speaker": "SPEAKER_01",
+    "text": "outreach infrastructure. We have the marketing team generate some content and I don't think the"
+  },
+  {
+    "start": 1593.98,
+    "end": 1599.5,
+    "speaker": "SPEAKER_01",
+    "text": "content needs to be personalized to each user necessarily either. But it should highlight like here"
+  },
+  {
+    "start": 1599.5,
+    "end": 1604.78,
+    "speaker": "SPEAKER_01",
+    "text": "are some really cool experiences that's unique to Airbnb. And we could, and I think our success"
+  },
+  {
+    "start": 1604.78,
+    "end": 1612.62,
+    "speaker": "SPEAKER_01",
+    "text": "metric is how often are people clicking on this newsletter? Like is this is the prospect of exploring"
+  },
+  {
+    "start": 1612.62,
+    "end": 1621.98,
+    "speaker": "SPEAKER_01",
+    "text": "more listings and proactive suggestion of exploring more listings attractive and appealing. And then"
+  },
+  {
+    "start": 1621.98,
+    "end": 1626.94,
+    "speaker": "SPEAKER_01",
+    "text": "from there once they click on the listing, we could actually monitor like how do users navigate"
+  },
+  {
+    "start": 1627.02,
+    "end": 1632.3,
+    "speaker": "SPEAKER_01",
+    "text": "around Airbnb after they click on it. When they click on it and you show the listing,"
+  },
+  {
+    "start": 1632.3,
+    "end": 1637.74,
+    "speaker": "SPEAKER_01",
+    "text": "do they then search for related trips and experiences? I think then maybe that gives us"
+  },
+  {
+    "start": 1639.1000000000001,
+    "end": 1645.42,
+    "speaker": "SPEAKER_01",
+    "text": "some signal on oh maybe proactive suggestions is a good investment. Does the newsletter prompt them"
+  },
+  {
+    "start": 1645.42,
+    "end": 1650.46,
+    "speaker": "SPEAKER_01",
+    "text": "to kind of favorite that listing and add to their wish list? Then it's oh maybe we should invest"
+  },
+  {
+    "start": 1650.46,
+    "end": 1655.42,
+    "speaker": "SPEAKER_01",
+    "text": "a little more in the wish list experience. So to summarize, I think my recommendation would be"
+  },
+  {
+    "start": 1656.38,
+    "end": 1661.98,
+    "speaker": "SPEAKER_01",
+    "text": "start small with a newsletter that goes out to existing users. See how engagement with that newsletter"
+  },
+  {
+    "start": 1661.98,
+    "end": 1669.42,
+    "speaker": "SPEAKER_01",
+    "text": "drives engagement with Airbnb. See how engagement with Airbnb leads to an increase in kind of"
+  },
+  {
+    "start": 1669.42,
+    "end": 1677.5800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "night state per user per year, which is our Nordstar metric. And then understand how users behave"
+  },
+  {
+    "start": 1677.5800000000002,
+    "end": 1683.42,
+    "speaker": "SPEAKER_01",
+    "text": "after they tap this newsletter and arrive at the Airbnb page. And that could give a signal on"
+  },
+  {
+    "start": 1683.42,
+    "end": 1690.0600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "where to invest more in a more exploratory browser experience. Yeah, it makes sense. I could"
+  },
+  {
+    "start": 1690.0600000000002,
+    "end": 1695.3400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "definitely see how this can help people inspire some of those more passive users to explore more."
+  },
+  {
+    "start": 1696.38,
+    "end": 1701.5800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Cool. I think this is good for our mock interview here. So I'll pause here and I'll dive into"
+  },
+  {
+    "start": 1701.5800000000002,
+    "end": 1706.8600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "a little bit of feedback and maybe at the end you can give the viewers some advice on how they"
+  },
+  {
+    "start": 1706.86,
+    "end": 1714.54,
+    "speaker": "SPEAKER_02",
+    "text": "could tackle similar product strategy questions. So I really liked how you started off with defining"
+  },
+  {
+    "start": 1714.54,
+    "end": 1720.4599999999998,
+    "speaker": "SPEAKER_02",
+    "text": "success and you talked about not only like this user segmentation about like high intent, low intent,"
+  },
+  {
+    "start": 1720.4599999999998,
+    "end": 1725.82,
+    "speaker": "SPEAKER_02",
+    "text": "business leisure, but you also called out all these other segments that you could have segmented by,"
+  },
+  {
+    "start": 1725.82,
+    "end": 1731.74,
+    "speaker": "SPEAKER_02",
+    "text": "like such as age. So I thought that was really good to hear some of your other thinking and why"
+  },
+  {
+    "start": 1731.74,
+    "end": 1738.78,
+    "speaker": "SPEAKER_02",
+    "text": "you didn't pursue some of the other paths. I think I specifically went out of my way to try to"
+  },
+  {
+    "start": 1738.78,
+    "end": 1744.3,
+    "speaker": "SPEAKER_02",
+    "text": "pull holes and try to give you a lot of pushback. And I believe you handled that pretty gracefully."
+  },
+  {
+    "start": 1744.3,
+    "end": 1750.3,
+    "speaker": "SPEAKER_02",
+    "text": "I think there were like two or three places where I really like pushed you and it definitely shows"
+  },
+  {
+    "start": 1750.3,
+    "end": 1757.26,
+    "speaker": "SPEAKER_02",
+    "text": "that you really believe in what you're talking about. So always good to have that as a trait in an"
+  },
+  {
+    "start": 1757.26,
+    "end": 1766.06,
+    "speaker": "SPEAKER_02",
+    "text": "interview. Also, I think it just shows in your answer that even though you yourself, you're not a"
+  },
+  {
+    "start": 1766.06,
+    "end": 1771.58,
+    "speaker": "SPEAKER_02",
+    "text": "big traveler, you're able to take this travel question and add substantial color to it and kind of"
+  },
+  {
+    "start": 1771.58,
+    "end": 1777.58,
+    "speaker": "SPEAKER_02",
+    "text": "put your own twist on it in the sense that even at the end, I could tell that this could be a nice"
+  },
+  {
+    "start": 1777.58,
+    "end": 1783.5,
+    "speaker": "SPEAKER_02",
+    "text": "product that people could use to kind of inspire themselves to travel. So all in all things for"
+  },
+  {
+    "start": 1783.5,
+    "end": 1789.1,
+    "speaker": "SPEAKER_02",
+    "text": "your time for answering this product strategy question. And if you have any tips for the audience,"
+  },
+  {
+    "start": 1789.1,
+    "end": 1794.3,
+    "speaker": "SPEAKER_02",
+    "text": "I think that'll be awesome for us to hear that right now. Yeah. And I think for me,"
+  },
+  {
+    "start": 1794.94,
+    "end": 1801.5,
+    "speaker": "SPEAKER_01",
+    "text": "one strategy questions are really hard and I've always to be candid. Like I don't know even if"
+  },
+  {
+    "start": 1801.5,
+    "end": 1806.7,
+    "speaker": "SPEAKER_01",
+    "text": "that is a great strategy. The one articulated by I think the interview advice that I've received in"
+  },
+  {
+    "start": 1806.7,
+    "end": 1812.78,
+    "speaker": "SPEAKER_01",
+    "text": "the past that's been really helpful is they're not looking for you to be quote unquote right in the"
+  },
+  {
+    "start": 1812.78,
+    "end": 1819.26,
+    "speaker": "SPEAKER_01",
+    "text": "45 minutes you have. They want to know like is this someone that's a principal thinker can they get"
+  },
+  {
+    "start": 1819.26,
+    "end": 1824.54,
+    "speaker": "SPEAKER_01",
+    "text": "feedback? Can I see them actually having this conversation with them as like a colleague? So I"
+  },
+  {
+    "start": 1824.54,
+    "end": 1828.54,
+    "speaker": "SPEAKER_01",
+    "text": "actually really appreciate your feedback Kevin because it was like, oh no, this does change my"
+  },
+  {
+    "start": 1828.54,
+    "end": 1834.62,
+    "speaker": "SPEAKER_01",
+    "text": "thinking. Oh, I didn't articulate that very well. And I think the second two was like, I know"
+  },
+  {
+    "start": 1834.62,
+    "end": 1839.26,
+    "speaker": "SPEAKER_01",
+    "text": "interviews are daunting, but try to have fun with it too because you know, this I'm at putting"
+  },
+  {
+    "start": 1839.34,
+    "end": 1844.22,
+    "speaker": "SPEAKER_01",
+    "text": "yourselves in the interview shoes. They have a ton of work they got to do. They have two 45 minutes"
+  },
+  {
+    "start": 1844.22,
+    "end": 1849.58,
+    "speaker": "SPEAKER_01",
+    "text": "of this and they have to like write up the feedback like do as much as you can be high energy and"
+  },
+  {
+    "start": 1849.58,
+    "end": 1854.7,
+    "speaker": "SPEAKER_01",
+    "text": "make that 45 minutes enjoyable for them. And you know, it's surprisingly effective, but"
+  },
+  {
+    "start": 1856.06,
+    "end": 1860.94,
+    "speaker": "SPEAKER_01",
+    "text": "yeah, I'm rambling, but yeah, Kevin, this was I had fun. I hope you had fun. Absolutely. And I think"
+  },
+  {
+    "start": 1860.94,
+    "end": 1865.34,
+    "speaker": "SPEAKER_02",
+    "text": "this is really valuable for the users. So for the viewers who are watching at home, this is definitely"
+  },
+  {
+    "start": 1865.4199999999998,
+    "end": 1870.3799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "really good advice. I think very similar to a lot of other interviews, it's not about the"
+  },
+  {
+    "start": 1870.3799999999999,
+    "end": 1875.02,
+    "speaker": "SPEAKER_02",
+    "text": "specific answer. It doesn't matter if the question is like design an alarm clock for the elderly"
+  },
+  {
+    "start": 1875.02,
+    "end": 1878.9399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "or whatever. It's not the specific answer. It's more about the conversation you have with the"
+  },
+  {
+    "start": 1878.9399999999998,
+    "end": 1884.78,
+    "speaker": "SPEAKER_02",
+    "text": "interviewer and how you get to your approach. So yeah, good luck with your upcoming PM interview"
+  },
+  {
+    "start": 1884.78,
+    "end": 1891.26,
+    "speaker": "SPEAKER_02",
+    "text": "and hope this mock interview was helpful. Thanks. Thanks so much for watching. Don't forget to hit"
+  },
+  {
+    "start": 1891.42,
+    "end": 1895.74,
+    "speaker": "SPEAKER_00",
+    "text": "the like and subscribe buttons below to let us know that this video is valuable for you."
+  },
+  {
+    "start": 1895.74,
+    "end": 1901.26,
+    "speaker": "SPEAKER_00",
+    "text": "And of course, check out hundreds more videos just like this at try exponent dot com."
+  },
+  {
+    "start": 1901.98,
+    "end": 1909.5,
+    "speaker": "SPEAKER_00",
+    "text": "Thanks for watching and good luck on your upcoming interview."
+  }
+]

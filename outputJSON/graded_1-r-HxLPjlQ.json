@@ -1,0 +1,1704 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hey everyone, welcome back to a new Rock of Locksmark interview."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "speaker": "SPEAKER_01",
+      "text": "Today we've got a brand new case titled Main Street Decision."
+    },
+    {
+      "start": 12.0,
+      "end": 17.28,
+      "speaker": "SPEAKER_01",
+      "text": "In this case, your client is an aspiring entrepreneur, Michelle Johnson, who wants the candidates"
+    },
+    {
+      "start": 17.28,
+      "end": 21.68,
+      "speaker": "SPEAKER_01",
+      "text": "input to decide between opening an ice cream parlor or a bookstore."
+    },
+    {
+      "start": 21.68,
+      "end": 25.88,
+      "speaker": "SPEAKER_01",
+      "text": "The key here is that Michelle wants to know which would be more profitable and enjoyable"
+    },
+    {
+      "start": 25.88,
+      "end": 27.44,
+      "speaker": "SPEAKER_01",
+      "text": "in the long run."
+    },
+    {
+      "start": 27.44,
+      "end": 31.36,
+      "speaker": "SPEAKER_01",
+      "text": "Following us today is Abigail Doxan, who will be playing the interviewer."
+    },
+    {
+      "start": 31.36,
+      "end": 37.08,
+      "speaker": "SPEAKER_01",
+      "text": "Abby is an ex-BCG consultant and currently completing her MBA from the Yale School of Management."
+    },
+    {
+      "start": 37.08,
+      "end": 39.68,
+      "speaker": "SPEAKER_01",
+      "text": "Our candidate for today is Ashwin Shetty."
+    },
+    {
+      "start": 39.68,
+      "end": 44.0,
+      "speaker": "SPEAKER_01",
+      "text": "He is an ex-Banon company manager and ex-deployed director."
+    },
+    {
+      "start": 44.0,
+      "end": 46.480000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "So without further ado, let's get started."
+    },
+    {
+      "start": 46.480000000000004,
+      "end": 48.480000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Hello everyone."
+    },
+    {
+      "start": 48.480000000000004,
+      "end": 50.2,
+      "speaker": "SPEAKER_02",
+      "text": "My name is Abby."
+    },
+    {
+      "start": 50.2,
+      "end": 55.760000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "I spent two years working at the Boston Consulting Group Seattle office and then spent"
+    },
+    {
+      "start": 55.76,
+      "end": 60.76,
+      "speaker": "SPEAKER_02",
+      "text": "a couple of years working in private equity in New York at a company called Astorck."
+    },
+    {
+      "start": 60.76,
+      "end": 67.75999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "I was on their software investment team and presently I am a MBA candidate at Yale SLM."
+    },
+    {
+      "start": 67.75999999999999,
+      "end": 72.75999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "And I'll turn it over to Ashwin to introduce himself as well."
+    },
+    {
+      "start": 72.75999999999999,
+      "end": 73.75999999999999,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you."
+    },
+    {
+      "start": 73.75999999999999,
+      "end": 74.75999999999999,
+      "speaker": "SPEAKER_03",
+      "text": "Thanks a lot Abby."
+    },
+    {
+      "start": 74.75999999999999,
+      "end": 78.75999999999999,
+      "speaker": "SPEAKER_03",
+      "text": "I'm Ashwin, a former delight director and a former bail manager."
+    },
+    {
+      "start": 78.75999999999999,
+      "end": 81.75999999999999,
+      "speaker": "SPEAKER_03",
+      "text": "I'll be playing the role of an interviewer today."
+    },
+    {
+      "start": 81.76,
+      "end": 86.76,
+      "speaker": "SPEAKER_03",
+      "text": "I'm excited to do a case with you Abby."
+    },
+    {
+      "start": 86.76,
+      "end": 88.76,
+      "speaker": "SPEAKER_02",
+      "text": "Likewise, very excited."
+    },
+    {
+      "start": 88.76,
+      "end": 93.76,
+      "speaker": "SPEAKER_02",
+      "text": "So with that, I believe we can just kick off the case."
+    },
+    {
+      "start": 93.76,
+      "end": 104.76,
+      "speaker": "SPEAKER_02",
+      "text": "The case we have today is about your friend, Michelle Jones, who is an aspiring entrepreneur and is excited to open a new business on the main street of her small town."
+    },
+    {
+      "start": 104.76,
+      "end": 111.76,
+      "speaker": "SPEAKER_02",
+      "text": "She is $300,000 to invest in is considering opening either an ice cream parlor or a bookstore."
+    },
+    {
+      "start": 111.76,
+      "end": 118.76,
+      "speaker": "SPEAKER_02",
+      "text": "However, she is unsure which business would be more successful and enjoyable to run."
+    },
+    {
+      "start": 118.76,
+      "end": 123.76,
+      "speaker": "SPEAKER_02",
+      "text": "Michelle is asking for your help to decide which option to pursue."
+    },
+    {
+      "start": 123.76,
+      "end": 128.76,
+      "speaker": "SPEAKER_02",
+      "text": "So how would you help her make this decision?"
+    },
+    {
+      "start": 128.76,
+      "end": 129.76,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you."
+    },
+    {
+      "start": 129.76,
+      "end": 132.76,
+      "speaker": "SPEAKER_03",
+      "text": "Thanks a lot Abby for that interesting case."
+    },
+    {
+      "start": 132.76,
+      "end": 135.76,
+      "speaker": "SPEAKER_03",
+      "text": "A lot of my friends keep asking for advice on which business to invest."
+    },
+    {
+      "start": 135.76,
+      "end": 140.76,
+      "speaker": "SPEAKER_03",
+      "text": "So I think this is a good case in that line of thinking."
+    },
+    {
+      "start": 140.76,
+      "end": 148.76,
+      "speaker": "SPEAKER_03",
+      "text": "So let me recap the key case facts for you before I take some time to organize my thoughts and formulate a structure."
+    },
+    {
+      "start": 148.76,
+      "end": 162.76,
+      "speaker": "SPEAKER_03",
+      "text": "So Michelle and aspiring entrepreneur with the 300 K is seeking a help in choosing between opening ice cream parlor or a bookstore on her town's main street."
+    },
+    {
+      "start": 162.76,
+      "end": 173.76,
+      "speaker": "SPEAKER_03",
+      "text": "What you've also told me is that she apart from I think not apart from the financial considerations also has some non financial considerations which is."
+    },
+    {
+      "start": 173.76,
+      "end": 177.76,
+      "speaker": "SPEAKER_03",
+      "text": "She won this business to be enjoyable to run."
+    },
+    {
+      "start": 177.76,
+      "end": 179.76,
+      "speaker": "SPEAKER_03",
+      "text": "Have I bought that right Abby?"
+    },
+    {
+      "start": 179.76,
+      "end": 188.76,
+      "speaker": "SPEAKER_02",
+      "text": "Yes, that is correct. She's booking for a business that both you know she can earn a profit on her investment as well as this will be fun for her to do."
+    },
+    {
+      "start": 188.76,
+      "end": 193.76,
+      "speaker": "SPEAKER_02",
+      "text": "It will be enjoyable, not super stressful, you know, business venture for her."
+    },
+    {
+      "start": 193.76,
+      "end": 195.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, thank you. Thanks a lot."
+    },
+    {
+      "start": 195.76,
+      "end": 203.76,
+      "speaker": "SPEAKER_03",
+      "text": "I think that those are two key non financial considerations from enjoyable to run and less press."
+    },
+    {
+      "start": 203.76,
+      "end": 212.76,
+      "speaker": "SPEAKER_03",
+      "text": "Before I take some time, Abby to formulate my structure would love your help to clarify certain questions I have right."
+    },
+    {
+      "start": 212.76,
+      "end": 220.76,
+      "speaker": "SPEAKER_03",
+      "text": "The first question that I have is what is Michelle's overall objective? I mean you've already given me some detail in terms of non financial considerations."
+    },
+    {
+      "start": 220.76,
+      "end": 224.76,
+      "speaker": "SPEAKER_03",
+      "text": "Is there any other objective that I need to be aware of?"
+    },
+    {
+      "start": 224.76,
+      "end": 232.76,
+      "speaker": "SPEAKER_02",
+      "text": "Great question. I think Michelle is definitely looking to turn a profit so that she does get a return on her investment."
+    },
+    {
+      "start": 232.76,
+      "end": 239.76,
+      "speaker": "SPEAKER_02",
+      "text": "More returns are preferred that less returns. However, you know, as we just discussed her objective is not purely financial."
+    },
+    {
+      "start": 239.76,
+      "end": 248.76,
+      "speaker": "SPEAKER_02",
+      "text": "She also values personal satisfaction and wants a business that's enjoyable and not overwhelmingly stressful for her."
+    },
+    {
+      "start": 248.76,
+      "end": 255.76,
+      "speaker": "SPEAKER_03",
+      "text": "Got it. Thanks. Thanks a lot Abby. Now because I'm advising Michelle as a friend, I would love to understand what's her."
+    },
+    {
+      "start": 255.76,
+      "end": 263.76,
+      "speaker": "SPEAKER_03",
+      "text": "Let's say professional background. Does she have any experience in either of the two businesses, ice cream, ice cream, parlor or bookstore."
+    },
+    {
+      "start": 263.76,
+      "end": 274.76,
+      "speaker": "SPEAKER_02",
+      "text": "Great question. So Michelle is a former management consultant to recently left the industry and after her successful career, she's excited to sort of be her own boss and do her own thing."
+    },
+    {
+      "start": 274.76,
+      "end": 284.76,
+      "speaker": "SPEAKER_02",
+      "text": "Part of the reason why she's she's looking for for low stress as well. It's this kind of exciting venture post of super successful career."
+    },
+    {
+      "start": 284.76,
+      "end": 296.76,
+      "speaker": "SPEAKER_02",
+      "text": "She does not have experience in either of the businesses. However, in college, she did work in the service industry as a part time job."
+    },
+    {
+      "start": 296.76,
+      "end": 308.76,
+      "speaker": "SPEAKER_03",
+      "text": "And does she have any interest in let's say literature or these kinds of topics because bookstore businesses is on our mind that she have any certain affinity towards that."
+    },
+    {
+      "start": 308.76,
+      "end": 314.76,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, she studied literature in college. That was her major was an English literature major."
+    },
+    {
+      "start": 314.76,
+      "end": 330.76,
+      "speaker": "SPEAKER_03",
+      "text": "Got it. Thanks. Thanks a lot for that. And finally, the third clarifying question that I have Abby is, what is the demographic makeup and geography of this town. So what I mean by that is, does it get very hot in the summer in this particular town."
+    },
+    {
+      "start": 330.76,
+      "end": 342.76,
+      "speaker": "SPEAKER_03",
+      "text": "Also from a demographic makeup, I am trying to understand, is it college crowd here or, you know, or is the town composed of more families."
+    },
+    {
+      "start": 342.76,
+      "end": 358.76,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, great question. So it's in terms of demographics. The town is diversified in terms of people. So they have, you know, college students who might be around for more of the traditional school year timeframe, as well as they have two arrests at local residents, such as families retirees, etc."
+    },
+    {
+      "start": 358.76,
+      "end": 384.76,
+      "speaker": "SPEAKER_02",
+      "text": "So while diversified, but it is a mix of college students and then, you know, local residents, the geography of the town. So the town experiences both winter and summer temperatures. It experiences summer highs of, you know, 85 to 90 degrees Fahrenheit or 30 degrees Celsius. And then winter lows around 40 to 50 Fahrenheit or five to 10 degrees Celsius. So they do get varying temperatures or seasons."
+    },
+    {
+      "start": 384.76,
+      "end": 395.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, that's helpful. So I mean, which means there are certain number of summer months where demand for ice cream might be high. Right."
+    },
+    {
+      "start": 395.76,
+      "end": 404.76,
+      "speaker": "SPEAKER_03",
+      "text": "Great. Abby, if you allow me a couple of minutes, I would like to organize my thoughts and develop a structure for this particular problem that you're giving me."
+    },
+    {
+      "start": 404.76,
+      "end": 407.76,
+      "speaker": "SPEAKER_02",
+      "text": "Yes, definitely sounds great."
+    },
+    {
+      "start": 407.76,
+      "end": 413.76,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 413.76,
+      "end": 416.76,
+      "speaker": "SPEAKER_03",
+      "text": "Hi, Abby. I'm really do take you through my structure."
+    },
+    {
+      "start": 416.76,
+      "end": 430.76,
+      "speaker": "SPEAKER_03",
+      "text": "Sounds great. Excited to hear it. Yeah. Thank you. So let me actually the co question first. Right. So make it Michelle has 300 K to invest and is considering two businesses, a bookshop and a nice team follow."
+    },
+    {
+      "start": 430.76,
+      "end": 438.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right. Now to make an informed decision, I think we need to analyze these two options from both financial and on financial perspectives."
+    },
+    {
+      "start": 438.76,
+      "end": 442.76,
+      "speaker": "SPEAKER_03",
+      "text": "Let me start with the financial perspective. Right."
+    },
+    {
+      "start": 442.76,
+      "end": 457.76,
+      "speaker": "SPEAKER_03",
+      "text": "So in order to determine which option is more financially attractive, I think we need to look at potential revenue potential cost and the investment payback period to recruit the initial setup cost of 300 K."
+    },
+    {
+      "start": 457.76,
+      "end": 469.76,
+      "speaker": "SPEAKER_03",
+      "text": "So here, I think the business with the least payback period will be more financially attractive. Right. So whichever of the two options has the least payback period, I think we'll be more financially attractive."
+    },
+    {
+      "start": 469.76,
+      "end": 476.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now from potential revenue perspective, I think first we'll have to look at or analyze key revenue drivers."
+    },
+    {
+      "start": 476.76,
+      "end": 477.76,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 477.76,
+      "end": 490.76,
+      "speaker": "SPEAKER_03",
+      "text": "Key revenue drivers would be one town demographics. Now bookshop will thrive in areas with higher college student populations, ice cream parlors, we thrive in areas where there are more families."
+    },
+    {
+      "start": 490.76,
+      "end": 495.76,
+      "speaker": "SPEAKER_03",
+      "text": "And so it'll be interesting to evaluate which demographic is higher."
+    },
+    {
+      "start": 495.76,
+      "end": 505.76,
+      "speaker": "SPEAKER_03",
+      "text": "Second is competition, right. Other existing ice cream parlors are there existing book shops because that that will impact the share of the market, we can capture."
+    },
+    {
+      "start": 505.76,
+      "end": 520.76,
+      "speaker": "SPEAKER_03",
+      "text": "Third, I've written down is a town's weather because you've already given me information that there are enough summer months. So I think from that perspective, I think ice cream sales would be good because the town has enough summer months."
+    },
+    {
+      "start": 520.76,
+      "end": 529.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now the key cost drivers, I think for evaluating these two options would be first cost of goods sold. Right."
+    },
+    {
+      "start": 529.76,
+      "end": 540.76,
+      "speaker": "SPEAKER_03",
+      "text": "And hypothesis from our cost of goods will perspective would be that it will be higher for a bookshop because of the royalties paid to publishers and authors."
+    },
+    {
+      "start": 540.76,
+      "end": 554.76,
+      "speaker": "SPEAKER_03",
+      "text": "My hypothesis is that if you look at the value distribution, more value is getting distributed to publishers and authors. So therefore, I think the cocks will be higher for a bookshop relative to ice cream store."
+    },
+    {
+      "start": 554.76,
+      "end": 565.76,
+      "speaker": "SPEAKER_03",
+      "text": "Then I think the second cost driver will be the rental cost. Again, I think a bookshop will require more space. So therefore, it will be higher for a bookshop."
+    },
+    {
+      "start": 565.76,
+      "end": 575.76,
+      "speaker": "SPEAKER_03",
+      "text": "Third, I've written down utilities and for utilities, I think in case of ice cream parlors, utility cost will be higher because of the refrigeration requirements."
+    },
+    {
+      "start": 575.76,
+      "end": 591.76,
+      "speaker": "SPEAKER_03",
+      "text": "Fourth, what I have is labor cost. Now, in my, I think my hypothesis would be for ice cream parlors, the labor cost would be higher just because they might, they might need more people to operate the ice cream parlors due to higher food traffic."
+    },
+    {
+      "start": 591.76,
+      "end": 598.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, there could be other cost drivers, which I will analyze as further drill down with regard to the financial assessment."
+    },
+    {
+      "start": 598.76,
+      "end": 609.76,
+      "speaker": "SPEAKER_03",
+      "text": "Third, pillar that I have is the investment payback period. Right. Once we compute the operating revenue and the operating cost, you know, we can get the operating profit."
+    },
+    {
+      "start": 609.76,
+      "end": 618.76,
+      "speaker": "SPEAKER_03",
+      "text": "And then if I divide the initial investment cost to 300 K by the operating profit, we can determine how long each business takes to recruit the investment."
+    },
+    {
+      "start": 618.76,
+      "end": 624.76,
+      "speaker": "SPEAKER_03",
+      "text": "And as I said at the beginning, the business with the least payback period should be more financial attractive."
+    },
+    {
+      "start": 624.76,
+      "end": 637.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, beyond the financial considerations, Michelle has articulated to key financial non objectives, which is, sorry, to key non financial objectives, which is, she wants a business which is enjoyable to run."
+    },
+    {
+      "start": 637.76,
+      "end": 649.76,
+      "speaker": "SPEAKER_03",
+      "text": "And she wants it to be low stress. Now, to determine which business best aligns with these aspirations, I think we need to delve deeper into each objective."
+    },
+    {
+      "start": 649.76,
+      "end": 658.76,
+      "speaker": "SPEAKER_03",
+      "text": "So let me start with enjoyment first. Right. So in my view, I think there are two sub categories we need to look at here."
+    },
+    {
+      "start": 658.76,
+      "end": 665.76,
+      "speaker": "SPEAKER_03",
+      "text": "In order for the business to be enjoyable, first, it should align with the interest and passions Michelle. Right."
+    },
+    {
+      "start": 665.76,
+      "end": 677.76,
+      "speaker": "SPEAKER_03",
+      "text": "You've given you information that Michelle enjoys literature. So perhaps bookshop might align more in terms of interest and passions, passion for Michelle."
+    },
+    {
+      "start": 677.76,
+      "end": 689.76,
+      "speaker": "SPEAKER_03",
+      "text": "I think ice cream, follow up will be more suitable. If let's say Michelle enjoys meeting people happy with sweet for example, my mom finds great joy in preparing delicious foods and sharing them with others."
+    },
+    {
+      "start": 689.76,
+      "end": 696.76,
+      "speaker": "SPEAKER_03",
+      "text": "But based on what I know, Michelle enjoys literature and therefore, I think a bookshop might be more suitable in terms of interest and passion alignment."
+    },
+    {
+      "start": 696.76,
+      "end": 700.76,
+      "speaker": "SPEAKER_03",
+      "text": "Second, I think it's customer interaction. Right."
+    },
+    {
+      "start": 700.76,
+      "end": 705.76,
+      "speaker": "SPEAKER_03",
+      "text": "Looking at Michelle's background, she's a form of management consultant."
+    },
+    {
+      "start": 705.76,
+      "end": 710.76,
+      "speaker": "SPEAKER_03",
+      "text": "My hypothesis would be she's somebody who is an intellectual."
+    },
+    {
+      "start": 710.76,
+      "end": 722.76,
+      "speaker": "SPEAKER_03",
+      "text": "So therefore, a bookshop would provide her deep conversations with book lovers promote intellectual engagement. I think that would be most suitable to Michelle."
+    },
+    {
+      "start": 722.76,
+      "end": 730.76,
+      "speaker": "SPEAKER_03",
+      "text": "In the case of an ice cream, follow up, she will enjoy that more if she's likes more fast-paced interactions."
+    },
+    {
+      "start": 730.76,
+      "end": 737.76,
+      "speaker": "SPEAKER_03",
+      "text": "Based on what you've told me, I would lean more towards her referring bookshop in terms of customer interaction."
+    },
+    {
+      "start": 737.76,
+      "end": 745.76,
+      "speaker": "SPEAKER_03",
+      "text": "So from an alignment with interest and passion perspective and customer interaction perspective, I think bookshop, at least for now, seems more aligned."
+    },
+    {
+      "start": 745.76,
+      "end": 751.76,
+      "speaker": "SPEAKER_03",
+      "text": "Let's look at the stress level. I think the stress level perspective, they are like to look at it from an of two sub catapies."
+    },
+    {
+      "start": 751.76,
+      "end": 755.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right. One, what I've written down is operational working."
+    },
+    {
+      "start": 755.76,
+      "end": 761.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right. So which of these two businesses is more demanding from an operational perspective."
+    },
+    {
+      "start": 761.76,
+      "end": 773.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right. Second, what I've written down is seasonality. Now, we'll have to look at how cyclicality or seasonality impacts the business of these two options."
+    },
+    {
+      "start": 773.76,
+      "end": 781.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right. So the most seasonal business is I believe, you know, they will be more potential spikes."
+    },
+    {
+      "start": 781.76,
+      "end": 785.76,
+      "speaker": "SPEAKER_03",
+      "text": "And therefore, it might become more operationally demanded. Right."
+    },
+    {
+      "start": 785.76,
+      "end": 796.76,
+      "speaker": "SPEAKER_03",
+      "text": "But I think we'll have to further analyze from an operational workload perspective and from a seasonality perspective, which business would be most suitable for Michelle."
+    },
+    {
+      "start": 796.76,
+      "end": 810.76,
+      "speaker": "SPEAKER_03",
+      "text": "I'm actually evaluating these factors. I think Michelle can make an informed decision or value would help Michelle to make an informed decision in terms of which business would align more to her financial goes as well as her non financial objectives."
+    },
+    {
+      "start": 810.76,
+      "end": 820.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right. So if you're okay with this structure, I would I would really like to start with the financial assessment of these two businesses, Abby."
+    },
+    {
+      "start": 820.76,
+      "end": 826.76,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that makes a lot of sense. Really liked you address both case questions here."
+    },
+    {
+      "start": 826.76,
+      "end": 833.76,
+      "speaker": "SPEAKER_02",
+      "text": "I think you get to a good answer with that framework and it makes sense to start with financial so happy to start there as well."
+    },
+    {
+      "start": 833.76,
+      "end": 835.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, thank you."
+    },
+    {
+      "start": 835.76,
+      "end": 849.76,
+      "speaker": "SPEAKER_02",
+      "text": "So when we think about financials, wondering if we could just start by estimating the gross margins for each of the stores on an annual basis. I do have some data here for you from a market study we received."
+    },
+    {
+      "start": 849.76,
+      "end": 865.76,
+      "speaker": "SPEAKER_02",
+      "text": "For each of the stores. So if we think about an ice cream shop, we know that an average order size is about $15 and the cost of materials or cogs is about $5 for each base cream shop order."
+    },
+    {
+      "start": 865.76,
+      "end": 879.76,
+      "speaker": "SPEAKER_02",
+      "text": "For a bookstore, we know that an average book sells for about $30 retail and then the wholesale cost of the book or the cogs is about $15 per book."
+    },
+    {
+      "start": 879.76,
+      "end": 888.76,
+      "speaker": "SPEAKER_02",
+      "text": "So given that information with love for you to estimate sort of a range of gross margins for each of the opportunities."
+    },
+    {
+      "start": 888.76,
+      "end": 893.76,
+      "speaker": "SPEAKER_03",
+      "text": "Got it. Great. So let me just to confirm the information that you've provided me."
+    },
+    {
+      "start": 893.76,
+      "end": 903.76,
+      "speaker": "SPEAKER_03",
+      "text": "So what will mean is the order value for ice cream, parlor is $15. The gross margin tends to be $10."
+    },
+    {
+      "start": 903.76,
+      "end": 909.76,
+      "speaker": "SPEAKER_03",
+      "text": "For bookstore, it's $30 for order and gross margin is $15."
+    },
+    {
+      "start": 909.76,
+      "end": 916.76,
+      "speaker": "SPEAKER_03",
+      "text": "And you want me to calculate the annual gross margin for these two businesses."
+    },
+    {
+      "start": 916.76,
+      "end": 926.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, let me start with taking some assumptions because I think we need to take some assumptions in terms of number of customers per day or foot traffic per day."
+    },
+    {
+      "start": 927.76,
+      "end": 941.76,
+      "speaker": "SPEAKER_03",
+      "text": "And let me take a kind of an assumption where I'm saying that an ice cream parlor receives 100 customers per day or 100 orders per day."
+    },
+    {
+      "start": 941.76,
+      "end": 952.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, 100 orders per day with a $10 gross margin per order translates to a daily gross margin of around $1,000."
+    },
+    {
+      "start": 952.76,
+      "end": 962.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, let's assume ice cream shop is open for 365 days a year. So that's an annual gross margin of around 365 K."
+    },
+    {
+      "start": 962.76,
+      "end": 972.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now here, because I'm taking assumptions, I think it's good to do a bit of scenario analysis and talk about and take some variance here."
+    },
+    {
+      "start": 972.76,
+      "end": 977.76,
+      "speaker": "SPEAKER_03",
+      "text": "So if I take a plus or minus 25% variance, right."
+    },
+    {
+      "start": 977.76,
+      "end": 985.76,
+      "speaker": "SPEAKER_03",
+      "text": "And if I take minus 25% of 365 K, right. So that's around, I think."
+    },
+    {
+      "start": 985.76,
+      "end": 1001.76,
+      "speaker": "SPEAKER_03",
+      "text": "So 10% is 360.360 3636.5. So 20% will be around 73 and that so that gives me around 270 K is 25% less than 365 K."
+    },
+    {
+      "start": 1001.76,
+      "end": 1016.76,
+      "speaker": "SPEAKER_03",
+      "text": "And if I look at the 25 plus 25% plus variance, that's around 365 into 25% of that which gives me around 450 K, right."
+    },
+    {
+      "start": 1016.76,
+      "end": 1023.76,
+      "speaker": "SPEAKER_03",
+      "text": "So what I'm saying is that plus or minus 25% variance would be 270 K to 450 K."
+    },
+    {
+      "start": 1023.76,
+      "end": 1034.76,
+      "speaker": "SPEAKER_03",
+      "text": "So this business, which is ice cream parlor business on an annual basis might be making a gross margin of let's say 270 K to 450 K."
+    },
+    {
+      "start": 1034.76,
+      "end": 1040.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, let me do a similar calculation for the bookstore business, right."
+    },
+    {
+      "start": 1040.76,
+      "end": 1046.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, in terms of foot traffic, I assumed for ice cream business around 100 customers."
+    },
+    {
+      "start": 1046.76,
+      "end": 1059.76,
+      "speaker": "SPEAKER_03",
+      "text": "It will be lower for bookstore because in my experience, the number of people entering a bookstore would be lesser than number of people wanting to have an ice cream, right."
+    },
+    {
+      "start": 1059.76,
+      "end": 1065.76,
+      "speaker": "SPEAKER_03",
+      "text": "Let me take an assumption that number of orders per day in a bookstore might be let's say 30 to 40% less."
+    },
+    {
+      "start": 1065.76,
+      "end": 1071.76,
+      "speaker": "SPEAKER_03",
+      "text": "So let's assume 60 customers per day or 60 orders per day for a bookstore."
+    },
+    {
+      "start": 1071.76,
+      "end": 1079.76,
+      "speaker": "SPEAKER_03",
+      "text": "And you've given me $15 is the gross margin per order to 60 into 15 gives me a daily gross margin of $900."
+    },
+    {
+      "start": 1079.76,
+      "end": 1086.76,
+      "speaker": "SPEAKER_03",
+      "text": "On an analyzed basis that translates into 900 into 365, right."
+    },
+    {
+      "start": 1086.76,
+      "end": 1099.76,
+      "speaker": "SPEAKER_03",
+      "text": "And if I just simplify this, it's it's it's close to 10% less than 365 K, which and if I just round it a bit, I think it'll be close to 330 K, right."
+    },
+    {
+      "start": 1099.76,
+      "end": 1105.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, let me run the same variance analysis, which I ran with ice cream parlor business."
+    },
+    {
+      "start": 1105.76,
+      "end": 1108.76,
+      "speaker": "SPEAKER_03",
+      "text": "So, plus or minus 25% variance."
+    },
+    {
+      "start": 1108.76,
+      "end": 1116.76,
+      "speaker": "SPEAKER_03",
+      "text": "So if I take how much is 25% less of 330 K."
+    },
+    {
+      "start": 1116.76,
+      "end": 1124.76,
+      "speaker": "SPEAKER_03",
+      "text": "So that comes to 330 K into 25%."
+    },
+    {
+      "start": 1124.76,
+      "end": 1127.76,
+      "speaker": "SPEAKER_03",
+      "text": "That comes to around 250 K."
+    },
+    {
+      "start": 1127.76,
+      "end": 1133.76,
+      "speaker": "SPEAKER_03",
+      "text": "And if I look at how much is 25% addition to 330 K."
+    },
+    {
+      "start": 1133.76,
+      "end": 1138.76,
+      "speaker": "SPEAKER_03",
+      "text": "That comes to 4 10 K, right."
+    },
+    {
+      "start": 1138.76,
+      "end": 1148.76,
+      "speaker": "SPEAKER_03",
+      "text": "So for a bookstore business, the plus or minus 25% variance in gross margin, right is 250 K to 4 10 K."
+    },
+    {
+      "start": 1148.76,
+      "end": 1168.76,
+      "speaker": "SPEAKER_03",
+      "text": "This seems to be a lot of overlap in in terms of the gross margin range that I have taken between ice cream, parlor business and the bookstore business would be interesting to see how does it change when we consider the other cost elements that is a DNA cost items."
+    },
+    {
+      "start": 1168.76,
+      "end": 1178.76,
+      "speaker": "SPEAKER_02",
+      "text": "Yes, that's the perfect place to go next and great job on the calculations here quickly before we move on to DNA items."
+    },
+    {
+      "start": 1178.76,
+      "end": 1185.76,
+      "speaker": "SPEAKER_02",
+      "text": "Can you just calculate the gross margin percentage for ice cream shops and bookstores quickly."
+    },
+    {
+      "start": 1185.76,
+      "end": 1188.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, that's short. I can do that."
+    },
+    {
+      "start": 1188.76,
+      "end": 1195.76,
+      "speaker": "SPEAKER_03",
+      "text": "You told me gross margin for ice cream is $10 on a $15 order."
+    },
+    {
+      "start": 1195.76,
+      "end": 1202.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right, so that's 10 by 15. So that translates to around 66% gross margin."
+    },
+    {
+      "start": 1202.76,
+      "end": 1209.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right. For bookstore, it's $15 gross margin on the $30 order. That's 50%."
+    },
+    {
+      "start": 1209.76,
+      "end": 1232.76,
+      "speaker": "SPEAKER_03",
+      "text": "That's 50% gross margin. Right. So the ice cream parlor business has higher gross margin compared to a bookstore business and that's not surprising because in my initial structure, I hypothesized that the cost or the cost of goods sold for bookstore business might be higher because more value that distributed to publishers and authors."
+    },
+    {
+      "start": 1232.76,
+      "end": 1245.76,
+      "speaker": "SPEAKER_03",
+      "text": "While in the case of ice cream business, the cost is primarily the cost of ingredients, which could be which would be relatively lesser compared to the cocks in a bookstore business."
+    },
+    {
+      "start": 1245.76,
+      "end": 1251.76,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that makes sense and great job getting that so quickly."
+    },
+    {
+      "start": 1251.76,
+      "end": 1264.76,
+      "speaker": "SPEAKER_02",
+      "text": "Moving on to where you want to go next with with GNA, we did get a couple data points. We know that a bookstore rents for an average of $8,000 per month."
+    },
+    {
+      "start": 1264.76,
+      "end": 1271.76,
+      "speaker": "SPEAKER_02",
+      "text": "And then an ice cream shop, which is can be a little bit smaller of a space rents for $3,000 a month."
+    },
+    {
+      "start": 1271.76,
+      "end": 1284.76,
+      "speaker": "SPEAKER_02",
+      "text": "So given these two data points, can you estimate maybe what's remaining in GNA or SGNA costs and then calculate the that profit or operating profit for for both businesses."
+    },
+    {
+      "start": 1284.76,
+      "end": 1290.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, yeah, thanks. Thanks a lot. I'll be for that information just to repeat what you just said."
+    },
+    {
+      "start": 1290.76,
+      "end": 1301.76,
+      "speaker": "SPEAKER_03",
+      "text": "They told me the monthly rent for a bookstore business would be around 8K and for an ice cream parlor business would be 3K."
+    },
+    {
+      "start": 1301.76,
+      "end": 1310.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yes, that's correct. Now, thanks. Now from a GNA cost perspective, I think we will need to look at family three items."
+    },
+    {
+      "start": 1310.76,
+      "end": 1320.76,
+      "speaker": "SPEAKER_03",
+      "text": "One is the labor cost. The second is the rental cost for which we have information and third is the utilities."
+    },
+    {
+      "start": 1320.76,
+      "end": 1328.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, let me take some assumptions to compute the labor as well as the utilities cost."
+    },
+    {
+      "start": 1328.76,
+      "end": 1336.76,
+      "speaker": "SPEAKER_03",
+      "text": "From a labor cost perspective, considering in ice cream parlor business, we are saying they will be more for traffic."
+    },
+    {
+      "start": 1336.76,
+      "end": 1347.76,
+      "speaker": "SPEAKER_03",
+      "text": "From 100 customers per day, I think we will need at least two people in the ice cream shop to manage this for traffic."
+    },
+    {
+      "start": 1347.76,
+      "end": 1351.76,
+      "speaker": "SPEAKER_03",
+      "text": "And let me assume because you know, this town is in the main street."
+    },
+    {
+      "start": 1351.76,
+      "end": 1356.76,
+      "speaker": "SPEAKER_03",
+      "text": "So let me assume an hourly wage of let's say $20 per hour."
+    },
+    {
+      "start": 1356.76,
+      "end": 1366.76,
+      "speaker": "SPEAKER_03",
+      "text": "So let's say $10 per day. Right. Now, and then and then of course, they're working for almost 365 days. Right."
+    },
+    {
+      "start": 1366.76,
+      "end": 1378.76,
+      "speaker": "SPEAKER_03",
+      "text": "So $20 into two employees working 10 hours per day."
+    },
+    {
+      "start": 1378.76,
+      "end": 1388.76,
+      "speaker": "SPEAKER_03",
+      "text": "So this gives me a total labor cost of close to 150K. Right."
+    },
+    {
+      "start": 1388.76,
+      "end": 1394.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, let me do the same as or take the same assumptions for the bookstore business. Right."
+    },
+    {
+      "start": 1394.76,
+      "end": 1404.76,
+      "speaker": "SPEAKER_03",
+      "text": "Bookstore business. Hardly wage I'll take it. I'll I'll assume it's similar to what we have in the ice cream parlor that is $20 per half."
+    },
+    {
+      "start": 1404.76,
+      "end": 1418.76,
+      "speaker": "SPEAKER_03",
+      "text": "We've assumed 60 customers coming to a bookstore. So let's assume one employee can manage 60 customers and again working 10 hours per day and 365 days."
+    },
+    {
+      "start": 1418.76,
+      "end": 1435.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right. So 20 into one employee into 10 hours into 365. Right. So that's 200 into 365. So this should come close to I'm just rounding it off a bit here."
+    },
+    {
+      "start": 1435.76,
+      "end": 1446.76,
+      "speaker": "SPEAKER_03",
+      "text": "So, but should come close to around 75K. Right. So so it's almost half of what we have for ice cream parlor business."
+    },
+    {
+      "start": 1446.76,
+      "end": 1460.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now, let me go to the rental cost. Right. So you've given me that the rental cost for ice cream parlor business will be 3K monthly. So on an analyzed basis, it'll be 36K."
+    },
+    {
+      "start": 1460.76,
+      "end": 1470.76,
+      "speaker": "SPEAKER_03",
+      "text": "So bookstore is 8K monthly. So an analyzed basis, it will be close to 12. It's around 96. Let me round it off maybe close to 100K."
+    },
+    {
+      "start": 1470.76,
+      "end": 1483.76,
+      "speaker": "SPEAKER_03",
+      "text": "Then from a utility perspective, right. So ice cream parlor business, we will need more utility related cost because they will have refrigeration requirements."
+    },
+    {
+      "start": 1483.76,
+      "end": 1489.76,
+      "speaker": "SPEAKER_03",
+      "text": "So let me assume maybe $1000 a month is their utility cost."
+    },
+    {
+      "start": 1489.76,
+      "end": 1503.76,
+      "speaker": "SPEAKER_03",
+      "text": "So on an analyzed basis that translates to $12,000. Right. For bookstore, let me assume half of what we have assumed for ice cream parlor business."
+    },
+    {
+      "start": 1503.76,
+      "end": 1518.76,
+      "speaker": "SPEAKER_03",
+      "text": "That translates to $500 into 12 months and that's $6,000. Right. So just to summarize this. Right. So for ice cream parlor business, we have labor cost to be 150K."
+    },
+    {
+      "start": 1518.76,
+      "end": 1534.76,
+      "speaker": "SPEAKER_03",
+      "text": "So rent to be 36K and the utility is to be 12K. Right. If I add all this up and if I round it, it comes close to 200K. Right. So my DNA cost for ice cream parlor business is 200K."
+    },
+    {
+      "start": 1534.76,
+      "end": 1549.76,
+      "speaker": "SPEAKER_03",
+      "text": "So let me do the same summarization for bookstore business. My labor cost for bookstore business is is around 75K. My rent is around 96K. And finally my utilities is around 6K."
+    },
+    {
+      "start": 1549.76,
+      "end": 1563.76,
+      "speaker": "SPEAKER_03",
+      "text": "So I assume the total to be 175K and grounding it a bit, but it should be close to 175K. Right. So 200K of of DNA cost for ice cream parlor business 175K."
+    },
+    {
+      "start": 1563.76,
+      "end": 1580.76,
+      "speaker": "SPEAKER_03",
+      "text": "So I assume the total to be $100,000 for bookstore business. Right. Now if you allow me I can apply this DNA cost to the gross margin calculations that we did to compute what will be the operating profit range."
+    },
+    {
+      "start": 1580.76,
+      "end": 1586.76,
+      "speaker": "SPEAKER_03",
+      "text": "As well as you know what will be the payback period."
+    },
+    {
+      "start": 1586.76,
+      "end": 1600.76,
+      "speaker": "SPEAKER_02",
+      "text": "So that makes a lot of sense. So given just the the DNA costs that you just calculated, how does the profitability compare overall the net profits compare for an ice cream parlor versus a bookstore."
+    },
+    {
+      "start": 1600.76,
+      "end": 1603.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, yeah, let me do that."
+    },
+    {
+      "start": 1603.76,
+      "end": 1627.76,
+      "speaker": "SPEAKER_03",
+      "text": "Let me come back to the gross margin variance that I computed. Right. So if you in the last step, right or in the last application that I did for ice cream business, I calculated a gross margin variance plus or minus 25% variance of 270K to 450K. Right."
+    },
+    {
+      "start": 1627.76,
+      "end": 1650.76,
+      "speaker": "SPEAKER_03",
+      "text": "So now, DNA cost of your computer, it's around 200K, which means the profit range will be between 70K to 250 to K, right or 250K. Let's assume that right. So what I'm doing is I'm subtracting the DNA cost from the high end of the range and from the low end of the range."
+    },
+    {
+      "start": 1650.76,
+      "end": 1665.76,
+      "speaker": "SPEAKER_03",
+      "text": "And I get a profit range of 70K to 250K, which means if I take the midpoint of this profit range, the profit could be around 160K. Right. So 70K to 250K midpoint is around 160K."
+    },
+    {
+      "start": 1665.76,
+      "end": 1678.76,
+      "speaker": "SPEAKER_03",
+      "text": "And our investment is 300K. So which means around in in in less than or in less than two years or close to two years, we would have recouped the investment cost of 300K."
+    },
+    {
+      "start": 1678.76,
+      "end": 1691.76,
+      "speaker": "SPEAKER_03",
+      "text": "Right. Let me do the same calculations for bookstore business. Right. The gross margin variance that I calculated for bookstore business was 250K to 410K. Right."
+    },
+    {
+      "start": 1691.76,
+      "end": 1712.76,
+      "speaker": "SPEAKER_03",
+      "text": "I need to subtract this by the DNA cost of 175K. So if I do that, I get a profit range of 75K to 410 minus 175, it's around 235K. Right. So 75K to 235K is my profit for bookstore business."
+    },
+    {
+      "start": 1712.76,
+      "end": 1730.76,
+      "speaker": "SPEAKER_03",
+      "text": "The midpoint of this will be close to 150K. Right. I'm just rounding it off a bit here, but it should be close to 150K. Now with 150K of profit and with 300K of investment, it will take two years to recoup 300K. Right."
+    },
+    {
+      "start": 1730.76,
+      "end": 1752.76,
+      "speaker": "SPEAKER_03",
+      "text": "So what this means is that the feedback period is quite similar for both businesses. Right. So from a financial perspective, both businesses seem comparable. So I think now we have to really look at in non financial considerations and which to determine which business is most suitable for Michelle."
+    },
+    {
+      "start": 1752.76,
+      "end": 1755.76,
+      "speaker": "SPEAKER_02",
+      "text": "That makes a lot of sense."
+    },
+    {
+      "start": 1755.76,
+      "end": 1766.76,
+      "speaker": "SPEAKER_02",
+      "text": "I think before we move on to just some more non financial considerations, we just got back some survey results and I have an exhibit to share with you."
+    },
+    {
+      "start": 1766.76,
+      "end": 1777.76,
+      "speaker": "SPEAKER_02",
+      "text": "About kind of the seasonality of revenue of the two businesses, wondering if you can just look at this exhibit and tell me what you see and what this might mean for Michelle's business choice."
+    },
+    {
+      "start": 1777.76,
+      "end": 1780.76,
+      "speaker": "SPEAKER_02",
+      "text": "Sure."
+    },
+    {
+      "start": 1780.76,
+      "end": 1790.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah. So I can share some heat that take away from this particular exhibit, Abby."
+    },
+    {
+      "start": 1790.76,
+      "end": 1801.76,
+      "speaker": "SPEAKER_03",
+      "text": "Based on this data that you've shared with me, and if I start with the ice cream parlor business, it seems to be a quite seasonal business."
+    },
+    {
+      "start": 1801.76,
+      "end": 1811.76,
+      "speaker": "SPEAKER_03",
+      "text": "Sales increase significantly in summer and decrease in winter. Right. And there are quite a few summer months over here."
+    },
+    {
+      "start": 1811.76,
+      "end": 1816.76,
+      "speaker": "SPEAKER_03",
+      "text": "There are certain implications because of the seasonality."
+    },
+    {
+      "start": 1816.76,
+      "end": 1821.76,
+      "speaker": "SPEAKER_03",
+      "text": "One, it will require more hiring of staff in the summer."
+    },
+    {
+      "start": 1821.76,
+      "end": 1828.76,
+      "speaker": "SPEAKER_03",
+      "text": "Second, inventory and operations might need to adapt to this seasonal fluctuations."
+    },
+    {
+      "start": 1828.76,
+      "end": 1834.76,
+      "speaker": "SPEAKER_03",
+      "text": "And Michelle might sacrifice a summer free time to manage the business. Right."
+    },
+    {
+      "start": 1834.76,
+      "end": 1845.76,
+      "speaker": "SPEAKER_03",
+      "text": "So her operational workload will spike in summer months. Right. And she will need to manage the inventory very well during the summer months."
+    },
+    {
+      "start": 1845.76,
+      "end": 1855.76,
+      "speaker": "SPEAKER_03",
+      "text": "That's the ice cream parlor business. Right. With the bookstore business. Also, I see some seasonality, but it's limited to the holiday months of November December."
+    },
+    {
+      "start": 1855.76,
+      "end": 1865.76,
+      "speaker": "SPEAKER_03",
+      "text": "So in the holiday season, she will need to do more hiring. You know, she will need to manage inventory and operations well during the November December period."
+    },
+    {
+      "start": 1865.76,
+      "end": 1872.76,
+      "speaker": "SPEAKER_03",
+      "text": "And of course, she will need to sacrifice a holiday time. So bookstore business. She needs to sacrifice a holiday time."
+    },
+    {
+      "start": 1872.76,
+      "end": 1882.76,
+      "speaker": "SPEAKER_03",
+      "text": "In the case of ice cream parlor business, she needs to sacrifice summer free time. Right. Now, there's another interesting implication related to the bookstore business."
+    },
+    {
+      "start": 1882.76,
+      "end": 1894.76,
+      "speaker": "SPEAKER_03",
+      "text": "And that is because there is higher reliance on holiday sales. This could create a potential cash flow issues in the off season. Right."
+    },
+    {
+      "start": 1894.76,
+      "end": 1900.76,
+      "speaker": "SPEAKER_03",
+      "text": "And if there is any misstep related to inventory or related to operations."
+    },
+    {
+      "start": 1900.76,
+      "end": 1912.76,
+      "speaker": "SPEAKER_03",
+      "text": "And if for any reason during the holiday season, the bookstore is, let's say, not able to open or they do not have enough inventory."
+    },
+    {
+      "start": 1912.76,
+      "end": 1921.76,
+      "speaker": "SPEAKER_03",
+      "text": "Their sales will suffer. Right. Or they might face lots of business. Right."
+    },
+    {
+      "start": 1921.76,
+      "end": 1934.76,
+      "speaker": "SPEAKER_03",
+      "text": "So these are two key implications. I see from the ice cream parlor business and the bookstore business based on this exhibit here, Abby, and from an investment decision perspective. Right."
+    },
+    {
+      "start": 1934.76,
+      "end": 1942.76,
+      "speaker": "SPEAKER_03",
+      "text": "I think there are two key aspects that Michelle will need to evaluate. Right. One."
+    },
+    {
+      "start": 1942.76,
+      "end": 1950.76,
+      "speaker": "SPEAKER_03",
+      "text": "And then there's three times the she value more. I mean, that she want three times in holidays or does she want three times in summer. Right. That's one."
+    },
+    {
+      "start": 1950.76,
+      "end": 1960.76,
+      "speaker": "SPEAKER_03",
+      "text": "Second, what is a risk tolerance because it seems that because in books to a business, there is higher reliance on holiday sales. It could be more riskier."
+    },
+    {
+      "start": 1960.76,
+      "end": 1968.76,
+      "speaker": "SPEAKER_02",
+      "text": "So it's a risk tolerance and that's what the economic sense and great sort of analysis that exhibit there."
+    },
+    {
+      "start": 1968.76,
+      "end": 1981.76,
+      "speaker": "SPEAKER_02",
+      "text": "And even though this was a financial exhibit of sales, we got into some more non financial metrics and will love to kind of go deeper into the non financial, you know, aspects of the decision."
+    },
+    {
+      "start": 1981.76,
+      "end": 1991.76,
+      "speaker": "SPEAKER_02",
+      "text": "And then the question is, what is the problem that she values a business that's also enjoyable enjoyable enjoyable and not overly stressful to run."
+    },
+    {
+      "start": 1991.76,
+      "end": 1996.76,
+      "speaker": "SPEAKER_02",
+      "text": "How would you help her think about the two options using those lenses."
+    },
+    {
+      "start": 1996.76,
+      "end": 1999.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, that's a very good question."
+    },
+    {
+      "start": 1999.76,
+      "end": 2005.76,
+      "speaker": "SPEAKER_03",
+      "text": "And if you can allow me some time to think through this particular question."
+    },
+    {
+      "start": 2005.76,
+      "end": 2008.76,
+      "speaker": "SPEAKER_03",
+      "text": "So that I can come back to you with a structured answer."
+    },
+    {
+      "start": 2008.76,
+      "end": 2013.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah."
+    },
+    {
+      "start": 2013.76,
+      "end": 2027.76,
+      "speaker": "SPEAKER_03",
+      "text": "So I'll be the way I have thought through this particular question is, if I look at which business is enjoyable to run, I think there are three key criteria to consider over here."
+    },
+    {
+      "start": 2027.76,
+      "end": 2032.76,
+      "speaker": "SPEAKER_03",
+      "text": "So first is passion."
+    },
+    {
+      "start": 2032.76,
+      "end": 2038.76,
+      "speaker": "SPEAKER_03",
+      "text": "Which business does Michelle have a natural affinity towards."
+    },
+    {
+      "start": 2038.76,
+      "end": 2045.76,
+      "speaker": "SPEAKER_03",
+      "text": "And her background literature suggests me that I think she would have a natural affinity towards the bookstore business."
+    },
+    {
+      "start": 2045.76,
+      "end": 2055.76,
+      "speaker": "SPEAKER_03",
+      "text": "Because in a bookstore business, she will be allowed to let's say curate book selections, host events, engage in meaningful conversations."
+    },
+    {
+      "start": 2055.76,
+      "end": 2059.76,
+      "speaker": "SPEAKER_03",
+      "text": "So that's the first criteria passion."
+    },
+    {
+      "start": 2059.76,
+      "end": 2067.76,
+      "speaker": "SPEAKER_03",
+      "text": "The second criteria that I identify is creativity."
+    },
+    {
+      "start": 2067.76,
+      "end": 2074.76,
+      "speaker": "SPEAKER_03",
+      "text": "In my view, I think bookstore will provide her more avenues for expressing her creativity."
+    },
+    {
+      "start": 2074.76,
+      "end": 2087.76,
+      "speaker": "SPEAKER_03",
+      "text": "She can also control the customer experience right from book selection to store store layout even thinking about different events to attracting customers."
+    },
+    {
+      "start": 2087.76,
+      "end": 2101.76,
+      "speaker": "SPEAKER_03",
+      "text": "And now, now I'm saying bookstore business is more suited from a creativity perspective for her because of her background management consulting because she has been an intellectually engaging profession earlier."
+    },
+    {
+      "start": 2101.76,
+      "end": 2107.76,
+      "speaker": "SPEAKER_03",
+      "text": "She would want a creative outlet in terms of the business that she will run."
+    },
+    {
+      "start": 2107.76,
+      "end": 2118.76,
+      "speaker": "SPEAKER_03",
+      "text": "And the third criteria of identify is customer interaction right as I said during my structure articulation running a bookstore business may offer deeper connections to customers right."
+    },
+    {
+      "start": 2118.76,
+      "end": 2123.76,
+      "speaker": "SPEAKER_03",
+      "text": "She will be able to foster and build a community."
+    },
+    {
+      "start": 2123.76,
+      "end": 2129.76,
+      "speaker": "SPEAKER_03",
+      "text": "If she runs a bookstore business, why if she runs an ice cream parlor business."
+    },
+    {
+      "start": 2129.76,
+      "end": 2134.76,
+      "speaker": "SPEAKER_03",
+      "text": "So, I think that the passion will be limited. It's a fast-paced business."
+    },
+    {
+      "start": 2134.76,
+      "end": 2144.76,
+      "speaker": "SPEAKER_03",
+      "text": "So, in my view, I think a bookstore business what will help her develop more deeper connections in the community right."
+    },
+    {
+      "start": 2144.76,
+      "end": 2155.76,
+      "speaker": "SPEAKER_03",
+      "text": "So, from an enjoyable business to run perspective, I think bookstore business is most suitable due to passion creativity and customer interaction criteria."
+    },
+    {
+      "start": 2155.76,
+      "end": 2164.76,
+      "speaker": "SPEAKER_03",
+      "text": "So, look at the second non-financial objective that Michelle is articulated which is less stress right."
+    },
+    {
+      "start": 2164.76,
+      "end": 2178.76,
+      "speaker": "SPEAKER_03",
+      "text": "And the way I have thought about less stress is in terms of workload and in terms of seasonality right by workload what I mean is the operational demands of each business right."
+    },
+    {
+      "start": 2178.76,
+      "end": 2196.76,
+      "speaker": "SPEAKER_03",
+      "text": "Looking at the graph that you just showed me my point of view would be the operational demands of an ice cream parlor business would be most stressful because she will need to manage inventory staffing, big times, etc."
+    },
+    {
+      "start": 2196.76,
+      "end": 2218.76,
+      "speaker": "SPEAKER_03",
+      "text": "It doesn't mean that bookstore would not have operational challenges. But in my view, it will be potentially less intense than an ice cream parlor business because an ice cream parlor business might require more offer involvement in terms of each of these activities that inventory staffing, etc."
+    },
+    {
+      "start": 2218.76,
+      "end": 2229.76,
+      "speaker": "SPEAKER_03",
+      "text": "And third as sorry second criteria from a stress perspective what I have is seasonal right again, based on the information in the exhibit that you showed me."
+    },
+    {
+      "start": 2229.76,
+      "end": 2242.76,
+      "speaker": "SPEAKER_03",
+      "text": "Both business have seasonality right. However, the number of summer months are more and a number of you know holiday seasons or holiday months are less right."
+    },
+    {
+      "start": 2242.76,
+      "end": 2252.76,
+      "speaker": "SPEAKER_03",
+      "text": "Again, I would not overly say that the one business is more is better from a stress perspective than the other."
+    },
+    {
+      "start": 2252.76,
+      "end": 2261.76,
+      "speaker": "SPEAKER_03",
+      "text": "I think both businesses would be equally stressful because of the seasonality of of both these businesses right."
+    },
+    {
+      "start": 2261.76,
+      "end": 2272.76,
+      "speaker": "SPEAKER_03",
+      "text": "However, considering that bookstore business is you know is more aligned from her other aspects that is from an enjoyment aspect."
+    },
+    {
+      "start": 2272.76,
+      "end": 2277.76,
+      "speaker": "SPEAKER_03",
+      "text": "And I think from a workload aspect also book show business will be less intense."
+    },
+    {
+      "start": 2277.76,
+      "end": 2286.76,
+      "speaker": "SPEAKER_03",
+      "text": "I would suggest from a non financial objective perspective, bookstore business would be more suitable for Michelle."
+    },
+    {
+      "start": 2286.76,
+      "end": 2303.76,
+      "speaker": "SPEAKER_02",
+      "text": "But all makes a lot of sense and great framework there. So given you know the financial metrics that we analyzed and in the non financials that that we just discussed what would be your final recommendation to Michelle."
+    },
+    {
+      "start": 2303.76,
+      "end": 2313.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, so let me take a minute to capture my thoughts and I'll come back to you with my final recommendation."
+    },
+    {
+      "start": 2313.76,
+      "end": 2319.76,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you."
+    },
+    {
+      "start": 2319.76,
+      "end": 2323.76,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, so Abby, I need to deliver my recommendation."
+    },
+    {
+      "start": 2323.76,
+      "end": 2330.76,
+      "speaker": "SPEAKER_03",
+      "text": "Based on the analysis that we have conducted, I would recommend that Michelle open up bookstore."
+    },
+    {
+      "start": 2330.76,
+      "end": 2336.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now this conclusion is driven by three key factors that have identified right."
+    },
+    {
+      "start": 2336.76,
+      "end": 2342.76,
+      "speaker": "SPEAKER_03",
+      "text": "And this factor being I believe bookstore business will be more enjoyable."
+    },
+    {
+      "start": 2342.76,
+      "end": 2355.76,
+      "speaker": "SPEAKER_03",
+      "text": "Primarily because it's more aligned to Michelle's background and passion. She has a background literature which indicates a natural affinity towards the book industry."
+    },
+    {
+      "start": 2355.76,
+      "end": 2369.76,
+      "speaker": "SPEAKER_03",
+      "text": "The operational demands of managing a bookstore business would be lower and therefore it would be less stressful than managing an ice cream pile of business."
+    },
+    {
+      "start": 2369.76,
+      "end": 2377.76,
+      "speaker": "SPEAKER_03",
+      "text": "Why I say that also is big person in ice cream pile of business what I understand is inventory is perishable right."
+    },
+    {
+      "start": 2377.76,
+      "end": 2387.76,
+      "speaker": "SPEAKER_03",
+      "text": "There are a lot of peak season fluctuation right so which could lead to highest stress levels if she were to manage ice cream pile of business."
+    },
+    {
+      "start": 2387.76,
+      "end": 2392.76,
+      "speaker": "SPEAKER_03",
+      "text": "And finally, the financial performance perspective both businesses are comparable."
+    },
+    {
+      "start": 2392.76,
+      "end": 2402.76,
+      "speaker": "SPEAKER_03",
+      "text": "Now our analysis revealed that both businesses offer similar financial prospects roughly equal profit margins similar payback periods."
+    },
+    {
+      "start": 2402.76,
+      "end": 2409.76,
+      "speaker": "SPEAKER_03",
+      "text": "And therefore this eliminates financial consists of concerns as a decision making criteria right."
+    },
+    {
+      "start": 2409.76,
+      "end": 2418.76,
+      "speaker": "SPEAKER_03",
+      "text": "So therefore we can prioritize Michelle's non financial objectives which is look at a business which is more enjoyable."
+    },
+    {
+      "start": 2418.76,
+      "end": 2425.76,
+      "speaker": "SPEAKER_03",
+      "text": "And which is less stress to run at that business in mind you be the book shop business."
+    },
+    {
+      "start": 2425.76,
+      "end": 2437.76,
+      "speaker": "SPEAKER_02",
+      "text": "Great thank you so much for your recommendation we will pass that along to Michelle it was fantastic doing this case today with you really enjoyed the opportunity to do the case with you."
+    },
+    {
+      "start": 2437.76,
+      "end": 2454.76,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you Abby I also enjoyed the opportunity to do a case with you and this is a very interesting case that I did and I and I'm glad I was able to think through some important criteria which going to a business or an investment evaluation."
+    },
+    {
+      "start": 2454.76,
+      "end": 2456.76,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you."
+    },
+    {
+      "start": 2456.76,
+      "end": 2457.76,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you."
+    },
+    {
+      "start": 2457.76,
+      "end": 2458.76,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 2458.76,
+      "end": 2464.76,
+      "speaker": "SPEAKER_00",
+      "text": "Hey everyone it's Kent and Givessey here the founder of rock of blocks thank you so much for watching this mock interview video."
+    },
+    {
+      "start": 2464.76,
+      "end": 2472.76,
+      "speaker": "SPEAKER_00",
+      "text": "I hope you found it informative and helpful as you are getting ready to prepare for your own interviews and hopefully landing that job offer you are excited about."
+    },
+    {
+      "start": 2472.76,
+      "end": 2489.76,
+      "speaker": "SPEAKER_00",
+      "text": "We have a ton of great content on the rock of blocks channel coming out on a weekly basis mock interviews many lessons and chats with our rock of blocks experts so if you haven't subscribed yet already please do so there is a big red button below and if you hit that you'll get all of our content as soon as it comes up."
+    },
+    {
+      "start": 2489.76,
+      "end": 2491.76,
+      "speaker": "SPEAKER_00",
+      "text": "Thanks for watching and have a great day."
+    }
+  ],
+  "grading": {
+    "communication": 17,
+    "framework": 14,
+    "math": 9,
+    "case_difficulty": 9,
+    "final_summary": 13,
+    "overall_thoughts": "You demonstrated a good understanding of the case but struggled with some key math concepts and lacked depth in your analysis."
+  }
+}

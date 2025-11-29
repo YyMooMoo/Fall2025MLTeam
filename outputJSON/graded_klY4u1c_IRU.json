@@ -1,0 +1,5958 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "speaker": "SPEAKER_05",
+      "text": "Today's case is a BCG case and I'm going to introduce our special guest."
+    },
+    {
+      "start": 5.76,
+      "end": 7.92,
+      "speaker": "SPEAKER_05",
+      "text": "Abby Jen is a junior."
+    },
+    {
+      "start": 7.92,
+      "end": 12.76,
+      "speaker": "SPEAKER_05",
+      "text": "She is going through the recruiting process for the first time and she's done a good"
+    },
+    {
+      "start": 12.76,
+      "end": 17.400000000000002,
+      "speaker": "SPEAKER_05",
+      "text": "number of cases, but I'm going to let her give a bit of her background what she's studying,"
+    },
+    {
+      "start": 17.400000000000002,
+      "end": 21.92,
+      "speaker": "SPEAKER_05",
+      "text": "what she's done for cases so far and what she's looking forward to in the case today."
+    },
+    {
+      "start": 21.92,
+      "end": 22.92,
+      "speaker": "SPEAKER_05",
+      "text": "Welcome Abby."
+    },
+    {
+      "start": 22.92,
+      "end": 24.240000000000002,
+      "speaker": "UNKNOWN",
+      "text": "Hi everybody."
+    },
+    {
+      "start": 24.240000000000002,
+      "end": 27.84,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks Jenny Ray for the welcome."
+    },
+    {
+      "start": 27.84,
+      "end": 28.84,
+      "speaker": "SPEAKER_01",
+      "text": "This is a lot of fake background."
+    },
+    {
+      "start": 28.84,
+      "end": 32.8,
+      "speaker": "SPEAKER_01",
+      "text": "I'm sitting in a park by my house because my house is being renovated to start to get"
+    },
+    {
+      "start": 32.8,
+      "end": 34.8,
+      "speaker": "SPEAKER_01",
+      "text": "a little bit windy."
+    },
+    {
+      "start": 34.8,
+      "end": 36.56,
+      "speaker": "SPEAKER_01",
+      "text": "As Jenny Ray mentioned, my name is Abby."
+    },
+    {
+      "start": 36.56,
+      "end": 40.68,
+      "speaker": "SPEAKER_01",
+      "text": "I'm a junior at UC Stendi AGO, which is where I am now."
+    },
+    {
+      "start": 40.68,
+      "end": 46.44,
+      "speaker": "SPEAKER_01",
+      "text": "I'm studying business and accounting, so pretty standard disciplines and have done about"
+    },
+    {
+      "start": 46.44,
+      "end": 48.44,
+      "speaker": "SPEAKER_01",
+      "text": "33 live cases so far."
+    },
+    {
+      "start": 48.44,
+      "end": 51.16,
+      "speaker": "SPEAKER_01",
+      "text": "So if I know any of you on the call, hi."
+    },
+    {
+      "start": 51.16,
+      "end": 53.519999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "Hopefully I don't disappoint."
+    },
+    {
+      "start": 53.52,
+      "end": 56.88,
+      "speaker": "SPEAKER_01",
+      "text": "I'm really happy to be here and excited to be here today."
+    },
+    {
+      "start": 56.88,
+      "end": 59.92,
+      "speaker": "SPEAKER_01",
+      "text": "Would love to see some cool ideas in the chat too."
+    },
+    {
+      "start": 59.92,
+      "end": 65.12,
+      "speaker": "SPEAKER_01",
+      "text": "If anything I miss, but hopefully this is a good morning for me and for everybody here."
+    },
+    {
+      "start": 65.12,
+      "end": 67.36,
+      "speaker": "SPEAKER_01",
+      "text": "So it's happy to be here."
+    },
+    {
+      "start": 67.36,
+      "end": 68.36,
+      "speaker": "SPEAKER_05",
+      "text": "Awesome."
+    },
+    {
+      "start": 68.36,
+      "end": 70.92,
+      "speaker": "SPEAKER_05",
+      "text": "Abby we're so excited to have you."
+    },
+    {
+      "start": 70.92,
+      "end": 76.04,
+      "speaker": "SPEAKER_05",
+      "text": "Do you have any questions before we dive into the case today?"
+    },
+    {
+      "start": 76.04,
+      "end": 77.04,
+      "speaker": "SPEAKER_01",
+      "text": "No questions."
+    },
+    {
+      "start": 77.04,
+      "end": 78.04,
+      "speaker": "SPEAKER_05",
+      "text": "Okay."
+    },
+    {
+      "start": 78.04,
+      "end": 81.32000000000001,
+      "speaker": "SPEAKER_05",
+      "text": "Well, let me just tell you what I've got planned."
+    },
+    {
+      "start": 81.32,
+      "end": 83.63999999999999,
+      "speaker": "SPEAKER_05",
+      "text": "We have today a BCG case."
+    },
+    {
+      "start": 83.63999999999999,
+      "end": 86.36,
+      "speaker": "SPEAKER_05",
+      "text": "We're going to do it round one focused."
+    },
+    {
+      "start": 86.36,
+      "end": 90.19999999999999,
+      "speaker": "SPEAKER_05",
+      "text": "So I'm going to give you a maximum of 30 minutes to complete the case."
+    },
+    {
+      "start": 90.19999999999999,
+      "end": 97.32,
+      "speaker": "SPEAKER_05",
+      "text": "We're going to target a separate section for creative, but the math is actually kind of"
+    },
+    {
+      "start": 97.32,
+      "end": 98.91999999999999,
+      "speaker": "SPEAKER_05",
+      "text": "hard to time through."
+    },
+    {
+      "start": 98.91999999999999,
+      "end": 103.63999999999999,
+      "speaker": "SPEAKER_05",
+      "text": "So I'm going to time you're opening, you're structuring the beginning and the end part"
+    },
+    {
+      "start": 103.63999999999999,
+      "end": 107.56,
+      "speaker": "SPEAKER_05",
+      "text": "of the case and any creative questions that we end up diving into."
+    },
+    {
+      "start": 107.56,
+      "end": 111.4,
+      "speaker": "SPEAKER_05",
+      "text": "But because of the natural back and forth inside BCG, I'm not going to be able to give you"
+    },
+    {
+      "start": 111.4,
+      "end": 112.4,
+      "speaker": "SPEAKER_05",
+      "text": "anything."
+    },
+    {
+      "start": 112.4,
+      "end": 116.48,
+      "speaker": "SPEAKER_05",
+      "text": "It was a big bulk time for what happens inside the middle of the case."
+    },
+    {
+      "start": 116.48,
+      "end": 119.88,
+      "speaker": "SPEAKER_05",
+      "text": "During the case, my job is to guide you to the end of it, but I'm not going to give you"
+    },
+    {
+      "start": 119.88,
+      "end": 121.04,
+      "speaker": "SPEAKER_05",
+      "text": "feedback."
+    },
+    {
+      "start": 121.04,
+      "end": 124.88,
+      "speaker": "SPEAKER_05",
+      "text": "After the case, I'll give you some detailed feedback about what should happen in each"
+    },
+    {
+      "start": 124.88,
+      "end": 129.96,
+      "speaker": "SPEAKER_05",
+      "text": "one of the sections where you did really well and where I think there's room for improvement."
+    },
+    {
+      "start": 129.96,
+      "end": 133.32,
+      "speaker": "SPEAKER_05",
+      "text": "So if you're ready, we'll go ahead and get started."
+    },
+    {
+      "start": 133.32,
+      "end": 134.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 134.32,
+      "end": 137.32,
+      "speaker": "SPEAKER_01",
+      "text": "I know some people have been having to work here."
+    },
+    {
+      "start": 137.32,
+      "end": 138.32,
+      "speaker": "SPEAKER_01",
+      "text": "So it's better."
+    },
+    {
+      "start": 138.32,
+      "end": 139.32,
+      "speaker": "UNKNOWN",
+      "text": "You can hold up."
+    },
+    {
+      "start": 139.32,
+      "end": 140.32,
+      "speaker": "UNKNOWN",
+      "text": "Yeah, hold it up."
+    },
+    {
+      "start": 140.32,
+      "end": 141.32,
+      "speaker": "SPEAKER_01",
+      "text": "I think a little bit further."
+    },
+    {
+      "start": 141.32,
+      "end": 142.32,
+      "speaker": "SPEAKER_01",
+      "text": "That would be awesome."
+    },
+    {
+      "start": 142.32,
+      "end": 143.32,
+      "speaker": "SPEAKER_05",
+      "text": "Like this."
+    },
+    {
+      "start": 143.32,
+      "end": 144.32,
+      "speaker": "SPEAKER_05",
+      "text": "Yes."
+    },
+    {
+      "start": 144.32,
+      "end": 145.32,
+      "speaker": "SPEAKER_05",
+      "text": "Yes."
+    },
+    {
+      "start": 145.32,
+      "end": 146.32,
+      "speaker": "SPEAKER_01",
+      "text": "There we go."
+    },
+    {
+      "start": 146.32,
+      "end": 147.32,
+      "speaker": "SPEAKER_01",
+      "text": "That's amazing."
+    },
+    {
+      "start": 147.32,
+      "end": 148.32,
+      "speaker": "SPEAKER_05",
+      "text": "Okay."
+    },
+    {
+      "start": 148.32,
+      "end": 151.32,
+      "speaker": "SPEAKER_05",
+      "text": "If my papers fly away, it's because I'm holding this."
+    },
+    {
+      "start": 151.32,
+      "end": 152.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 152.32,
+      "end": 157.32,
+      "speaker": "SPEAKER_05",
+      "text": "Do you want to grab a rock or something else to hold your papers down?"
+    },
+    {
+      "start": 157.32,
+      "end": 158.32,
+      "speaker": "SPEAKER_05",
+      "text": "Oh, my phone is here."
+    },
+    {
+      "start": 158.32,
+      "end": 159.32,
+      "speaker": "SPEAKER_05",
+      "text": "So it'll be perfect."
+    },
+    {
+      "start": 159.32,
+      "end": 160.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 160.32,
+      "end": 161.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 161.32,
+      "end": 162.32,
+      "speaker": "SPEAKER_05",
+      "text": "Ready."
+    },
+    {
+      "start": 162.32,
+      "end": 163.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 163.32,
+      "end": 164.32,
+      "speaker": "SPEAKER_01",
+      "text": "Ready."
+    },
+    {
+      "start": 164.32,
+      "end": 165.32,
+      "speaker": "SPEAKER_01",
+      "text": "Ready."
+    },
+    {
+      "start": 165.32,
+      "end": 166.32,
+      "speaker": "SPEAKER_05",
+      "text": "Okay, Mom."
+    },
+    {
+      "start": 166.32,
+      "end": 167.32,
+      "speaker": "SPEAKER_05",
+      "text": "Amazing."
+    },
+    {
+      "start": 167.32,
+      "end": 168.32,
+      "speaker": "SPEAKER_05",
+      "text": "Great."
+    },
+    {
+      "start": 168.32,
+      "end": 172.32,
+      "speaker": "SPEAKER_05",
+      "text": "So as we're about to get started, everyone could just mute at the beginning of the session so"
+    },
+    {
+      "start": 172.32,
+      "end": 175.32,
+      "speaker": "SPEAKER_05",
+      "text": "that we have no background noise or anything else that's happening."
+    },
+    {
+      "start": 175.32,
+      "end": 177.32,
+      "speaker": "SPEAKER_05",
+      "text": "It will just be Abby and I on voice."
+    },
+    {
+      "start": 177.32,
+      "end": 183.32,
+      "speaker": "SPEAKER_05",
+      "text": "And then at the end of the case, we will have plenty of time for y'all to ask questions,"
+    },
+    {
+      "start": 183.32,
+      "end": 185.32,
+      "speaker": "SPEAKER_05",
+      "text": "both live and through the chat bar."
+    },
+    {
+      "start": 185.32,
+      "end": 186.32,
+      "speaker": "SPEAKER_05",
+      "text": "Okay."
+    },
+    {
+      "start": 186.32,
+      "end": 188.32,
+      "speaker": "SPEAKER_05",
+      "text": "Abby, I'm ready to get started if you are."
+    },
+    {
+      "start": 188.32,
+      "end": 189.32,
+      "speaker": "SPEAKER_04",
+      "text": "Yep."
+    },
+    {
+      "start": 189.32,
+      "end": 190.32,
+      "speaker": "SPEAKER_04",
+      "text": "Ready when you are."
+    },
+    {
+      "start": 190.32,
+      "end": 191.32,
+      "speaker": "SPEAKER_05",
+      "text": "Amazing."
+    },
+    {
+      "start": 191.32,
+      "end": 195.32,
+      "speaker": "SPEAKER_05",
+      "text": "So our client today is a German luxury car maker."
+    },
+    {
+      "start": 195.32,
+      "end": 201.32,
+      "speaker": "SPEAKER_05",
+      "text": "The luxury car maker wants to grow its business and is looking into selling cars in Pakistan."
+    },
+    {
+      "start": 201.32,
+      "end": 205.32,
+      "speaker": "SPEAKER_05",
+      "text": "The GDP growth in Pakistan is 6% per year."
+    },
+    {
+      "start": 205.32,
+      "end": 211.32,
+      "speaker": "SPEAKER_05",
+      "text": "There are over 200 million people in Pakistan, but the luxury goods market is quite limited."
+    },
+    {
+      "start": 211.32,
+      "end": 217.32,
+      "speaker": "SPEAKER_05",
+      "text": "In fact, currently there is only one luxury car sold in Pakistan, which is the BMW."
+    },
+    {
+      "start": 217.32,
+      "end": 218.32,
+      "speaker": "SPEAKER_05",
+      "text": "So we have to ask our soul direct."
+    },
+    {
+      "start": 218.32,
+      "end": 220.32,
+      "speaker": "SPEAKER_05",
+      "text": "There are no dealerships that carry BMWs."
+    },
+    {
+      "start": 220.32,
+      "end": 226.32,
+      "speaker": "SPEAKER_05",
+      "text": "So each one is special ordered from Germany and brought into the country individually."
+    },
+    {
+      "start": 226.32,
+      "end": 233.32,
+      "speaker": "SPEAKER_05",
+      "text": "For the purposes of this case, the luxury car market does not include resold cars, only new cars."
+    },
+    {
+      "start": 233.32,
+      "end": 239.32,
+      "speaker": "SPEAKER_05",
+      "text": "Our CEO wants to find out if the company can break even in two years if it enters the market."
+    },
+    {
+      "start": 239.32,
+      "end": 245.32,
+      "speaker": "SPEAKER_05",
+      "text": "What would you look at to help the CEO make a decision on this question?"
+    },
+    {
+      "start": 245.32,
+      "end": 246.32,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 246.32,
+      "end": 248.32,
+      "speaker": "SPEAKER_01",
+      "text": "So this is very interesting."
+    },
+    {
+      "start": 248.32,
+      "end": 250.32,
+      "speaker": "SPEAKER_01",
+      "text": "I'm not a car person."
+    },
+    {
+      "start": 250.32,
+      "end": 252.32,
+      "speaker": "SPEAKER_01",
+      "text": "So we'll have to be asking a lot of questions here."
+    },
+    {
+      "start": 252.32,
+      "end": 256.32,
+      "speaker": "SPEAKER_01",
+      "text": "But the first thing I want to do is just really quickly recap the case."
+    },
+    {
+      "start": 256.32,
+      "end": 258.32,
+      "speaker": "SPEAKER_01",
+      "text": "Make sure I have all the facts."
+    },
+    {
+      "start": 258.32,
+      "end": 261.32,
+      "speaker": "SPEAKER_01",
+      "text": "And then from there, I think clarify some gaps in my understanding."
+    },
+    {
+      "start": 261.32,
+      "end": 265.32,
+      "speaker": "SPEAKER_01",
+      "text": "So our client is a German luxury car maker."
+    },
+    {
+      "start": 265.32,
+      "end": 270.32,
+      "speaker": "SPEAKER_01",
+      "text": "They currently sell cars all over the world, but they're looking to enter the Pakistan market."
+    },
+    {
+      "start": 270.32,
+      "end": 272.32,
+      "speaker": "SPEAKER_01",
+      "text": "A little bit about Pakistan."
+    },
+    {
+      "start": 272.32,
+      "end": 274.32,
+      "speaker": "SPEAKER_01",
+      "text": "They are their GDP is growing at about 6%."
+    },
+    {
+      "start": 274.32,
+      "end": 277.32,
+      "speaker": "SPEAKER_01",
+      "text": "They have a little over 200 million people."
+    },
+    {
+      "start": 277.32,
+      "end": 283.32,
+      "speaker": "SPEAKER_01",
+      "text": "And they have a limited luxury goods market with only one luxury car, the BMW that's currently deciding there."
+    },
+    {
+      "start": 283.32,
+      "end": 286.32,
+      "speaker": "SPEAKER_01",
+      "text": "Interesting fact about the Pakistan car market."
+    },
+    {
+      "start": 286.32,
+      "end": 288.32,
+      "speaker": "SPEAKER_01",
+      "text": "The cars are sold directly."
+    },
+    {
+      "start": 288.32,
+      "end": 289.32,
+      "speaker": "SPEAKER_01",
+      "text": "So no dealerships."
+    },
+    {
+      "start": 289.32,
+      "end": 292.32,
+      "speaker": "SPEAKER_01",
+      "text": "They just purchased directly from the original car."
+    },
+    {
+      "start": 292.32,
+      "end": 293.32,
+      "speaker": "SPEAKER_01",
+      "text": "A manufacturer."
+    },
+    {
+      "start": 293.32,
+      "end": 297.32,
+      "speaker": "SPEAKER_01",
+      "text": "So, you know, my intuition tells me that that could be something that we need to explore."
+    },
+    {
+      "start": 297.32,
+      "end": 300.32,
+      "speaker": "SPEAKER_01",
+      "text": "If we were to look into entering this market."
+    },
+    {
+      "start": 300.32,
+      "end": 304.32,
+      "speaker": "SPEAKER_01",
+      "text": "We're looking specifically to break even in two years if we enter."
+    },
+    {
+      "start": 304.32,
+      "end": 307.32,
+      "speaker": "SPEAKER_01",
+      "text": "And that's the objective that I have written down here."
+    },
+    {
+      "start": 307.32,
+      "end": 314.32,
+      "speaker": "SPEAKER_05",
+      "text": "Is there anything that I missed or does that pretty much summarize the fact that I think you got everything that I needed to have at this point."
+    },
+    {
+      "start": 314.32,
+      "end": 318.32,
+      "speaker": "SPEAKER_05",
+      "text": "And I'm really excited to dive into the case now."
+    },
+    {
+      "start": 318.32,
+      "end": 320.32,
+      "speaker": "SPEAKER_01",
+      "text": "Sounds good."
+    },
+    {
+      "start": 320.32,
+      "end": 324.32,
+      "speaker": "SPEAKER_01",
+      "text": "And just one quick clarifying question is the only objective to break even within two years."
+    },
+    {
+      "start": 324.32,
+      "end": 330.32,
+      "speaker": "SPEAKER_05",
+      "text": "Or is there anything else we should consider in terms of what do you think what else do you think that we should be thinking about here?"
+    },
+    {
+      "start": 330.32,
+      "end": 334.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I think one of the biggest things that stands out to me is just the distribution channels."
+    },
+    {
+      "start": 334.32,
+      "end": 345.32,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm looking at maybe we need to explore alternatives or not not alternatives are options to establish maybe some dealerships or look at ways in which we currently sell cars to the end consumer."
+    },
+    {
+      "start": 345.32,
+      "end": 353.32,
+      "speaker": "SPEAKER_01",
+      "text": "I know dealerships are pretty popular everywhere in the world, especially in the US, but I'm not too familiar with how."
+    },
+    {
+      "start": 353.32,
+      "end": 358.32,
+      "speaker": "SPEAKER_01",
+      "text": "So a car manufacturer would be able to sell directly to consumer in a Pakistan country."
+    },
+    {
+      "start": 358.32,
+      "end": 361.32,
+      "speaker": "SPEAKER_01",
+      "text": "So would love to learn a little bit more about that once I lay out my thoughts."
+    },
+    {
+      "start": 361.32,
+      "end": 363.32,
+      "speaker": "SPEAKER_05",
+      "text": "That seems to make sense."
+    },
+    {
+      "start": 363.32,
+      "end": 367.32,
+      "speaker": "SPEAKER_05",
+      "text": "Question at what point do you think it would make sense to have a dealership."
+    },
+    {
+      "start": 367.32,
+      "end": 372.32,
+      "speaker": "SPEAKER_05",
+      "text": "Established or what metrics would you look for in order to include a dealership?"
+    },
+    {
+      "start": 372.32,
+      "end": 376.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so I know that for a dealership, we can consider that like an investment."
+    },
+    {
+      "start": 376.32,
+      "end": 383.32,
+      "speaker": "SPEAKER_01",
+      "text": "We need to look at the cash loads and that investment, the revenue we expect to get as well as any costs of establishing a dealership there."
+    },
+    {
+      "start": 383.32,
+      "end": 388.32,
+      "speaker": "SPEAKER_01",
+      "text": "If we have no previous experience in the Pakistan market, we don't have that cultural."
+    },
+    {
+      "start": 388.32,
+      "end": 391.32,
+      "speaker": "SPEAKER_01",
+      "text": "Kind of ability to navigate that business environment."
+    },
+    {
+      "start": 391.32,
+      "end": 400.32,
+      "speaker": "SPEAKER_01",
+      "text": "So we need to do a lot more due diligence into what kind of Pakistan customers would want our cars, given that the given the limited size of the luxury market and then on the"
+    },
+    {
+      "start": 400.32,
+      "end": 404.32,
+      "speaker": "SPEAKER_01",
+      "text": "side we need to figure out what some fixed cost of investment would be."
+    },
+    {
+      "start": 404.32,
+      "end": 411.32,
+      "speaker": "SPEAKER_01",
+      "text": "And then from there kind of establish whether or not it would look good from a financial standpoint from an financial standpoint."
+    },
+    {
+      "start": 411.32,
+      "end": 420.32,
+      "speaker": "SPEAKER_05",
+      "text": "I think hold on to that thought and we and make sure that you include it in your structure because it would be something worth exploring what what you think."
+    },
+    {
+      "start": 420.32,
+      "end": 427.32,
+      "speaker": "SPEAKER_05",
+      "text": "The kind of metrics and details around that would be not the primary question, but but I think including that would be a fly up."
+    },
+    {
+      "start": 427.32,
+      "end": 430.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, sounds great."
+    },
+    {
+      "start": 430.32,
+      "end": 432.32,
+      "speaker": "SPEAKER_01",
+      "text": "Did you have any other questions?"
+    },
+    {
+      "start": 432.32,
+      "end": 438.32,
+      "speaker": "SPEAKER_01",
+      "text": "I think that covers everything that I need to ask right now. So what I'm going to do is."
+    },
+    {
+      "start": 438.32,
+      "end": 451.32,
+      "speaker": "SPEAKER_05",
+      "text": "Okay, sounds good."
+    },
+    {
+      "start": 451.32,
+      "end": 455.32,
+      "speaker": "SPEAKER_05",
+      "text": "If you are listening in please build your own structure here."
+    },
+    {
+      "start": 455.32,
+      "end": 458.32,
+      "speaker": "SPEAKER_05",
+      "text": "It will be a good test to see how you can do."
+    },
+    {
+      "start": 511.32,
+      "end": 521.3199999999999,
+      "speaker": "UNKNOWN",
+      "text": "I'm going to ask you a question."
+    },
+    {
+      "start": 521.3199999999999,
+      "end": 529.3199999999999,
+      "speaker": "SPEAKER_03",
+      "text": "Jenny, quick question."
+    },
+    {
+      "start": 529.3199999999999,
+      "end": 532.3199999999999,
+      "speaker": "SPEAKER_05",
+      "text": "I want to answer questions until the end of the case."
+    },
+    {
+      "start": 532.32,
+      "end": 535.32,
+      "speaker": "SPEAKER_03",
+      "text": "I was just going to ask if you could post the problem by any chance."
+    },
+    {
+      "start": 535.32,
+      "end": 537.32,
+      "speaker": "SPEAKER_03",
+      "text": "No, I won't be posting it."
+    },
+    {
+      "start": 537.32,
+      "end": 538.32,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 538.32,
+      "end": 539.32,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 539.32,
+      "end": 540.32,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you."
+    },
+    {
+      "start": 540.32,
+      "end": 541.32,
+      "speaker": "SPEAKER_03",
+      "text": "You're welcome."
+    },
+    {
+      "start": 562.32,
+      "end": 564.32,
+      "speaker": "UNKNOWN",
+      "text": "Thank you."
+    },
+    {
+      "start": 592.32,
+      "end": 602.32,
+      "speaker": "UNKNOWN",
+      "text": "Thank you."
+    },
+    {
+      "start": 602.32,
+      "end": 610.32,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 610.32,
+      "end": 612.32,
+      "speaker": "SPEAKER_01",
+      "text": "So I think I dropped a mic."
+    },
+    {
+      "start": 612.32,
+      "end": 618.32,
+      "speaker": "SPEAKER_01",
+      "text": "I think I have here a pretty basic three part structure that I'd like to use to tackle this problem."
+    },
+    {
+      "start": 619.32,
+      "end": 620.32,
+      "speaker": "SPEAKER_01",
+      "text": "I didn't have any problems with the product."
+    },
+    {
+      "start": 620.32,
+      "end": 622.32,
+      "speaker": "SPEAKER_01",
+      "text": "I didn't have a good job with it."
+    },
+    {
+      "start": 622.32,
+      "end": 623.32,
+      "speaker": "SPEAKER_01",
+      "text": "I was so much better than I thought I'd be."
+    },
+    {
+      "start": 623.32,
+      "end": 624.32,
+      "speaker": "SPEAKER_01",
+      "text": "I was so good at it."
+    },
+    {
+      "start": 624.32,
+      "end": 625.32,
+      "speaker": "SPEAKER_01",
+      "text": "I could do that."
+    },
+    {
+      "start": 625.32,
+      "end": 626.32,
+      "speaker": "SPEAKER_01",
+      "text": "I don't know."
+    },
+    {
+      "start": 626.32,
+      "end": 627.32,
+      "speaker": "SPEAKER_01",
+      "text": "I was just not that good at data research."
+    },
+    {
+      "start": 627.32,
+      "end": 631.32,
+      "speaker": "SPEAKER_01",
+      "text": "So what I've done is I've divided my analysis into three major buckets."
+    },
+    {
+      "start": 631.32,
+      "end": 634.32,
+      "speaker": "SPEAKER_01",
+      "text": "The first bucket is looking at whether or not this market is standalone attractive."
+    },
+    {
+      "start": 634.32,
+      "end": 636.32,
+      "speaker": "SPEAKER_01",
+      "text": "Looking at the Pakistani luxury car market."
+    },
+    {
+      "start": 636.32,
+      "end": 642.32,
+      "speaker": "SPEAKER_01",
+      "text": "The second bucket I'd like to look into is whether or not our company is a good fit for this market."
+    },
+    {
+      "start": 642.32,
+      "end": 644.32,
+      "speaker": "SPEAKER_01",
+      "text": "And then the third bucket is looking at the how."
+    },
+    {
+      "start": 644.32,
+      "end": 647.32,
+      "speaker": "SPEAKER_01",
+      "text": "So that's where I went looking to either organic or inorganic growth as a best strategy to penetrate this market."
+    },
+    {
+      "start": 647.32,
+      "end": 649.96,
+      "speaker": "SPEAKER_01",
+      "text": "is the market attractive on its own."
+    },
+    {
+      "start": 649.96,
+      "end": 652.32,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to take a look at three things in that market."
+    },
+    {
+      "start": 652.32,
+      "end": 656.36,
+      "speaker": "SPEAKER_01",
+      "text": "First, the industry, second, the products in the industry,"
+    },
+    {
+      "start": 656.36,
+      "end": 658.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "and then third, customers."
+    },
+    {
+      "start": 658.9200000000001,
+      "end": 661.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So if we jump into industry,"
+    },
+    {
+      "start": 661.1600000000001,
+      "end": 662.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "I wanna take a look at the size and growth"
+    },
+    {
+      "start": 662.8000000000001,
+      "end": 663.84,
+      "speaker": "SPEAKER_01",
+      "text": "of the industry as a whole."
+    },
+    {
+      "start": 663.84,
+      "end": 667.08,
+      "speaker": "SPEAKER_01",
+      "text": "So we're looking at the luxury car market in Pakistan."
+    },
+    {
+      "start": 667.08,
+      "end": 668.24,
+      "speaker": "SPEAKER_01",
+      "text": "And I'd also like to understand"
+    },
+    {
+      "start": 668.24,
+      "end": 670.2,
+      "speaker": "SPEAKER_01",
+      "text": "the profitability of this industry,"
+    },
+    {
+      "start": 670.2,
+      "end": 673.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "where it's expected to go within the next three to five years."
+    },
+    {
+      "start": 673.1600000000001,
+      "end": 676.5200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Specifically, I guess within the context of our clients,"
+    },
+    {
+      "start": 676.52,
+      "end": 679.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "within that two-year time period."
+    },
+    {
+      "start": 679.0799999999999,
+      "end": 681.24,
+      "speaker": "SPEAKER_01",
+      "text": "And from there, we can kind of begin to gauge"
+    },
+    {
+      "start": 681.24,
+      "end": 683.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "how much market share we could capture."
+    },
+    {
+      "start": 683.1999999999999,
+      "end": 686.28,
+      "speaker": "SPEAKER_01",
+      "text": "And then maybe potentially whether or not a break even point"
+    },
+    {
+      "start": 686.28,
+      "end": 688.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "would be feasible."
+    },
+    {
+      "start": 688.3199999999999,
+      "end": 690.6,
+      "speaker": "SPEAKER_01",
+      "text": "If we look into the products,"
+    },
+    {
+      "start": 690.6,
+      "end": 692.52,
+      "speaker": "SPEAKER_01",
+      "text": "the second branch of that first bucket,"
+    },
+    {
+      "start": 693.96,
+      "end": 696.28,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to understand what types of cars"
+    },
+    {
+      "start": 696.28,
+      "end": 698.6,
+      "speaker": "SPEAKER_01",
+      "text": "that are typically sold in Pakistan."
+    },
+    {
+      "start": 698.6,
+      "end": 701.16,
+      "speaker": "SPEAKER_01",
+      "text": "I know different cars have different functionality."
+    },
+    {
+      "start": 701.16,
+      "end": 703.52,
+      "speaker": "SPEAKER_01",
+      "text": "So in the luxury market,"
+    },
+    {
+      "start": 703.52,
+      "end": 706.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "do car makers typically sell the cars themselves"
+    },
+    {
+      "start": 706.44,
+      "end": 708.96,
+      "speaker": "SPEAKER_01",
+      "text": "or do they sell other products as well that we could profit from?"
+    },
+    {
+      "start": 708.96,
+      "end": 711.48,
+      "speaker": "SPEAKER_01",
+      "text": "And then finally, I'd like to take a look at the typical customers."
+    },
+    {
+      "start": 711.48,
+      "end": 713.48,
+      "speaker": "SPEAKER_01",
+      "text": "I'm assuming they're very high income,"
+    },
+    {
+      "start": 713.48,
+      "end": 716.7600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "but I'd wanna take a look more at what specifically that looks like"
+    },
+    {
+      "start": 716.7600000000001,
+      "end": 719.6,
+      "speaker": "SPEAKER_01",
+      "text": "and how those segments of customers are expected to grow."
+    },
+    {
+      "start": 719.6,
+      "end": 722.7600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So we can properly tailor any market entry strategy"
+    },
+    {
+      "start": 722.7600000000001,
+      "end": 725.2,
+      "speaker": "SPEAKER_01",
+      "text": "to that profile of customers."
+    },
+    {
+      "start": 725.2,
+      "end": 726.6,
+      "speaker": "SPEAKER_01",
+      "text": "If we jump into the second bucket,"
+    },
+    {
+      "start": 726.6,
+      "end": 728.7600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "whether or not we're a good fit for this market,"
+    },
+    {
+      "start": 728.7600000000001,
+      "end": 730.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to take a look at three things"
+    },
+    {
+      "start": 730.24,
+      "end": 731.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "within this bucket as well."
+    },
+    {
+      "start": 732.8000000000001,
+      "end": 734.84,
+      "speaker": "SPEAKER_01",
+      "text": "First, the company capabilities."
+    },
+    {
+      "start": 734.84,
+      "end": 738.32,
+      "speaker": "SPEAKER_01",
+      "text": "Second, the customers and finally our sales and marketing capabilities."
+    },
+    {
+      "start": 738.32,
+      "end": 741.48,
+      "speaker": "SPEAKER_01",
+      "text": "So I guess first in company capabilities,"
+    },
+    {
+      "start": 741.48,
+      "end": 743.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "we're looking at distribution channels."
+    },
+    {
+      "start": 743.6800000000001,
+      "end": 747.44,
+      "speaker": "SPEAKER_01",
+      "text": "Any cash we have available for investment and the strength of our brand."
+    },
+    {
+      "start": 747.44,
+      "end": 748.44,
+      "speaker": "SPEAKER_01",
+      "text": "And actually on second thought,"
+    },
+    {
+      "start": 748.44,
+      "end": 752.32,
+      "speaker": "SPEAKER_01",
+      "text": "I'm gonna go to sales and marketing capabilities within that first branch."
+    },
+    {
+      "start": 752.32,
+      "end": 755.88,
+      "speaker": "SPEAKER_01",
+      "text": "And then the second branch is looking at our specific customers."
+    },
+    {
+      "start": 755.88,
+      "end": 759.2,
+      "speaker": "SPEAKER_01",
+      "text": "And what type of customer we typically cater our products to"
+    },
+    {
+      "start": 759.2,
+      "end": 761.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "to see if there's a match with that,"
+    },
+    {
+      "start": 761.0400000000001,
+      "end": 763.24,
+      "speaker": "SPEAKER_01",
+      "text": "this Pakistan luxury car market."
+    },
+    {
+      "start": 763.24,
+      "end": 764.96,
+      "speaker": "SPEAKER_01",
+      "text": "And then finally in that third bucket,"
+    },
+    {
+      "start": 764.96,
+      "end": 769.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to take a look at alternatives and risks of those alternatives."
+    },
+    {
+      "start": 769.24,
+      "end": 771.76,
+      "speaker": "SPEAKER_01",
+      "text": "Or specifically a market entry strategy."
+    },
+    {
+      "start": 771.76,
+      "end": 775.2,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm thinking whether we sell directly to the consumer"
+    },
+    {
+      "start": 775.2,
+      "end": 778.4,
+      "speaker": "SPEAKER_01",
+      "text": "or set up a medium to sell,"
+    },
+    {
+      "start": 778.4,
+      "end": 782.08,
+      "speaker": "SPEAKER_01",
+      "text": "either that's whether that's a dealership or joint venture to sell through"
+    },
+    {
+      "start": 782.08,
+      "end": 785.92,
+      "speaker": "SPEAKER_01",
+      "text": "with a partnership with another entity already existing there."
+    },
+    {
+      "start": 785.92,
+      "end": 789.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then any return on investment and cost and profit"
+    },
+    {
+      "start": 789.0,
+      "end": 792.84,
+      "speaker": "SPEAKER_01",
+      "text": "that we need to take into consideration within that specific branch."
+    },
+    {
+      "start": 792.84,
+      "end": 793.96,
+      "speaker": "SPEAKER_01",
+      "text": "With that being said,"
+    },
+    {
+      "start": 793.96,
+      "end": 796.44,
+      "speaker": "SPEAKER_01",
+      "text": "we'd love to start off by understanding a little bit more about the"
+    },
+    {
+      "start": 796.44,
+      "end": 800.64,
+      "speaker": "SPEAKER_01",
+      "text": "standalone attractiveness of the Pakistan luxury car market."
+    },
+    {
+      "start": 800.64,
+      "end": 804.84,
+      "speaker": "SPEAKER_01",
+      "text": "Do we have any information on the size of this industry and how fast it's growing?"
+    },
+    {
+      "start": 804.84,
+      "end": 807.84,
+      "speaker": "SPEAKER_01",
+      "text": "I know you mentioned that we have a GDP growth of 6%,"
+    },
+    {
+      "start": 807.84,
+      "end": 811.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "so my assumption is that we're gonna be growing at a little bit faster than that."
+    },
+    {
+      "start": 811.8000000000001,
+      "end": 813.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "This is a hard potential market."
+    },
+    {
+      "start": 813.8000000000001,
+      "end": 816.44,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah, what, what you're thinking about the size of the market,"
+    },
+    {
+      "start": 816.44,
+      "end": 818.48,
+      "speaker": "SPEAKER_05",
+      "text": "how are you thinking about actually measuring that?"
+    },
+    {
+      "start": 818.48,
+      "end": 823.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so if we're looking at the size of the market"
+    },
+    {
+      "start": 823.32,
+      "end": 827.84,
+      "speaker": "SPEAKER_01",
+      "text": "in terms of number of luxury cars purchased per year,"
+    },
+    {
+      "start": 827.84,
+      "end": 831.0,
+      "speaker": "SPEAKER_01",
+      "text": "I would probably start off with a population."
+    },
+    {
+      "start": 831.0,
+      "end": 835.16,
+      "speaker": "SPEAKER_01",
+      "text": "And then I'd split that up into segments of population by income."
+    },
+    {
+      "start": 835.16,
+      "end": 838.08,
+      "speaker": "SPEAKER_01",
+      "text": "Typically only the top maybe 10,"
+    },
+    {
+      "start": 838.08,
+      "end": 842.36,
+      "speaker": "SPEAKER_01",
+      "text": "5 to 10% of the population are going to be able to afford luxury cars."
+    },
+    {
+      "start": 842.36,
+      "end": 846.2,
+      "speaker": "SPEAKER_01",
+      "text": "I don't know what specifically this carmaker is as far as our client goes,"
+    },
+    {
+      "start": 846.2,
+      "end": 849.48,
+      "speaker": "SPEAKER_01",
+      "text": "but that's what I would assume, about 5 to 10%."
+    },
+    {
+      "start": 849.48,
+      "end": 853.48,
+      "speaker": "SPEAKER_01",
+      "text": "And then from there kind of taking a look at what cars they currently drive,"
+    },
+    {
+      "start": 853.48,
+      "end": 855.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "who would be most likely to purchase them,"
+    },
+    {
+      "start": 855.9200000000001,
+      "end": 857.84,
+      "speaker": "SPEAKER_01",
+      "text": "given what customers prioritize,"
+    },
+    {
+      "start": 857.84,
+      "end": 860.88,
+      "speaker": "SPEAKER_01",
+      "text": "whether that's functionality, image of the car,"
+    },
+    {
+      "start": 860.88,
+      "end": 862.36,
+      "speaker": "SPEAKER_01",
+      "text": "any other attributes of the car,"
+    },
+    {
+      "start": 862.36,
+      "end": 867.08,
+      "speaker": "SPEAKER_01",
+      "text": "and then from there kind of assuming a percentage of that specific"
+    },
+    {
+      "start": 867.08,
+      "end": 869.0,
+      "speaker": "SPEAKER_01",
+      "text": "willing to buy this type of car,"
+    },
+    {
+      "start": 869.0,
+      "end": 871.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "able to purchase this type of car market,"
+    },
+    {
+      "start": 871.6800000000001,
+      "end": 875.2,
+      "speaker": "SPEAKER_01",
+      "text": "and then to buy that by the average lifetime of a car."
+    },
+    {
+      "start": 875.2,
+      "end": 877.0,
+      "speaker": "SPEAKER_01",
+      "text": "That's how I would go about size in our market."
+    },
+    {
+      "start": 877.0,
+      "end": 877.84,
+      "speaker": "SPEAKER_05",
+      "text": "I love that."
+    },
+    {
+      "start": 877.84,
+      "end": 880.76,
+      "speaker": "SPEAKER_05",
+      "text": "So I've got some data that's actually a little simpler,"
+    },
+    {
+      "start": 880.76,
+      "end": 885.6400000000001,
+      "speaker": "SPEAKER_05",
+      "text": "but the way that you thought through it activated me to kind of give this to you."
+    },
+    {
+      "start": 885.6400000000001,
+      "end": 889.72,
+      "speaker": "SPEAKER_05",
+      "text": "It's data about BMW, which is the closest data that we've got."
+    },
+    {
+      "start": 889.72,
+      "end": 891.5600000000001,
+      "speaker": "SPEAKER_05",
+      "text": "And it segmented it into two types."
+    },
+    {
+      "start": 891.5600000000001,
+      "end": 894.6800000000001,
+      "speaker": "SPEAKER_05",
+      "text": "You mentioned that there are people who replace the cars."
+    },
+    {
+      "start": 894.6800000000001,
+      "end": 898.6400000000001,
+      "speaker": "SPEAKER_05",
+      "text": "But we actually do have some new entrance into the luxury car market as well."
+    },
+    {
+      "start": 898.6400000000001,
+      "end": 901.5600000000001,
+      "speaker": "SPEAKER_05",
+      "text": "So we actually segmented those two pieces out."
+    },
+    {
+      "start": 901.56,
+      "end": 906.04,
+      "speaker": "SPEAKER_05",
+      "text": "One of them is one of the pieces of data is that BMW imported and sold"
+    },
+    {
+      "start": 906.04,
+      "end": 910.8,
+      "speaker": "SPEAKER_05",
+      "text": "about 20,000 cars in this market over the past 10 years."
+    },
+    {
+      "start": 910.8,
+      "end": 915.1199999999999,
+      "speaker": "SPEAKER_05",
+      "text": "The second is that the existing owners replace their car."
+    },
+    {
+      "start": 915.1199999999999,
+      "end": 919.1999999999999,
+      "speaker": "SPEAKER_05",
+      "text": "What would you think a good replacement rate to use would be here?"
+    },
+    {
+      "start": 919.1999999999999,
+      "end": 921.28,
+      "speaker": "SPEAKER_01",
+      "text": "I think once every 10 years is about standard."
+    },
+    {
+      "start": 921.28,
+      "end": 922.92,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah, that's actually exactly what I've got."
+    },
+    {
+      "start": 922.92,
+      "end": 924.7199999999999,
+      "speaker": "SPEAKER_05",
+      "text": "So I think that's about right."
+    },
+    {
+      "start": 924.7199999999999,
+      "end": 928.16,
+      "speaker": "SPEAKER_05",
+      "text": "And then of course there will be some that will do a lease or something"
+    },
+    {
+      "start": 928.16,
+      "end": 931.1199999999999,
+      "speaker": "SPEAKER_05",
+      "text": "that's every three years leasing isn't an option in this market."
+    },
+    {
+      "start": 931.12,
+      "end": 933.6,
+      "speaker": "SPEAKER_05",
+      "text": "So it makes sense that it would be a little bit longer."
+    },
+    {
+      "start": 933.6,
+      "end": 937.08,
+      "speaker": "SPEAKER_05",
+      "text": "And then finally, there are new buyers every year that are entering the market."
+    },
+    {
+      "start": 937.08,
+      "end": 940.28,
+      "speaker": "SPEAKER_05",
+      "text": "And so after going through the exercise that you just walked through,"
+    },
+    {
+      "start": 940.28,
+      "end": 946.16,
+      "speaker": "SPEAKER_05",
+      "text": "we identified that there would be 1,600 new buyers each year in the luxury car market."
+    },
+    {
+      "start": 950.0,
+      "end": 951.04,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great."
+    },
+    {
+      "start": 951.04,
+      "end": 953.36,
+      "speaker": "SPEAKER_01",
+      "text": "So I think you gave me three major data points there."
+    },
+    {
+      "start": 953.36,
+      "end": 955.4,
+      "speaker": "SPEAKER_01",
+      "text": "And I want to run through them to make sure that I got everything."
+    },
+    {
+      "start": 955.4,
+      "end": 960.16,
+      "speaker": "SPEAKER_01",
+      "text": "So you mentioned if we're looking at BMW as a competitive benchmark here,"
+    },
+    {
+      "start": 960.16,
+      "end": 964.68,
+      "speaker": "SPEAKER_01",
+      "text": "I'm assuming that we can use BMW's numbers to calculate our market size"
+    },
+    {
+      "start": 964.68,
+      "end": 968.6,
+      "speaker": "SPEAKER_01",
+      "text": "or potentially the whole market size since they're the only player."
+    },
+    {
+      "start": 968.6,
+      "end": 974.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So they imported and sold 20,000 cars in the last 10 years in Pakistan."
+    },
+    {
+      "start": 974.4399999999999,
+      "end": 977.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "The average cars replaced once every 10 years."
+    },
+    {
+      "start": 977.3199999999999,
+      "end": 980.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And there are approximately 1,600 new buyers every year."
+    },
+    {
+      "start": 980.3199999999999,
+      "end": 981.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "That's correct."
+    },
+    {
+      "start": 981.1999999999999,
+      "end": 982.76,
+      "speaker": "SPEAKER_05",
+      "text": "That is correct."
+    },
+    {
+      "start": 982.76,
+      "end": 986.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And we're looking at the market size for cars at the specific moment."
+    },
+    {
+      "start": 986.2,
+      "end": 993.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Or in general, maybe how many cars we're expected to have in the country every year."
+    },
+    {
+      "start": 993.1600000000001,
+      "end": 995.08,
+      "speaker": "SPEAKER_01",
+      "text": "What's the specific time for that?"
+    },
+    {
+      "start": 995.08,
+      "end": 996.4000000000001,
+      "speaker": "SPEAKER_05",
+      "text": "Tell me what you think."
+    },
+    {
+      "start": 998.48,
+      "end": 1003.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so I think since we can look at a yearly basis."
+    },
+    {
+      "start": 1003.0,
+      "end": 1008.5200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So if we're looking at 20,000 cars already in the industry,"
+    },
+    {
+      "start": 1008.5200000000001,
+      "end": 1011.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "we can take that and just estimate how many of those buyers,"
+    },
+    {
+      "start": 1011.92,
+      "end": 1016.28,
+      "speaker": "SPEAKER_01",
+      "text": "assuming that it's one owner per car, will replace their car every 10 years."
+    },
+    {
+      "start": 1016.28,
+      "end": 1020.88,
+      "speaker": "SPEAKER_01",
+      "text": "So what the first thing I'm going to do is I'm going to take that 20,000 and divide that by 10"
+    },
+    {
+      "start": 1020.88,
+      "end": 1024.72,
+      "speaker": "SPEAKER_01",
+      "text": "to get the total number of car owners that will be replacing it every given year."
+    },
+    {
+      "start": 1024.72,
+      "end": 1030.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So we have that 20,000 cars divided by a 10 year lifespan."
+    },
+    {
+      "start": 1030.8799999999999,
+      "end": 1032.68,
+      "speaker": "SPEAKER_01",
+      "text": "And that's going to give us a number."
+    },
+    {
+      "start": 1032.68,
+      "end": 1035.72,
+      "speaker": "SPEAKER_01",
+      "text": "And then the second thing I'm going to do after that is I'm going to take that number"
+    },
+    {
+      "start": 1035.72,
+      "end": 1037.96,
+      "speaker": "SPEAKER_01",
+      "text": "and add it to the number of new buyers that we have per year."
+    },
+    {
+      "start": 1038.0,
+      "end": 1045.24,
+      "speaker": "SPEAKER_01",
+      "text": "And that should get us to the annual number of cars that BMW sells or expects to sell every year."
+    },
+    {
+      "start": 1045.24,
+      "end": 1050.4,
+      "speaker": "SPEAKER_01",
+      "text": "From there, we can kind of be able to gauge where how much of that market size we can capture,"
+    },
+    {
+      "start": 1050.4,
+      "end": 1051.48,
+      "speaker": "SPEAKER_01",
+      "text": "but I'm getting ahead of myself."
+    },
+    {
+      "start": 1051.48,
+      "end": 1055.04,
+      "speaker": "SPEAKER_01",
+      "text": "So I want to jump back to the first step that I had wanted to calculate."
+    },
+    {
+      "start": 1055.04,
+      "end": 1060.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we have that 20,000 cars market size that are currently being owned."
+    },
+    {
+      "start": 1060.24,
+      "end": 1062.28,
+      "speaker": "SPEAKER_01",
+      "text": "So we have 20,000 divided by 10."
+    },
+    {
+      "start": 1063.28,
+      "end": 1071.28,
+      "speaker": "SPEAKER_01",
+      "text": "But for the 10 years, so that's going to be 2,000 cars that are replaced every year."
+    },
+    {
+      "start": 1071.28,
+      "end": 1075.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And then we're going to add that to the 1,600 new cars that are purchased every year."
+    },
+    {
+      "start": 1075.6399999999999,
+      "end": 1086.28,
+      "speaker": "SPEAKER_01",
+      "text": "And that's going to get us to a total of 3,600 cars purchased for a year of BMW."
+    },
+    {
+      "start": 1086.28,
+      "end": 1088.24,
+      "speaker": "SPEAKER_01",
+      "text": "This number is a little small."
+    },
+    {
+      "start": 1088.24,
+      "end": 1094.44,
+      "speaker": "SPEAKER_01",
+      "text": "3,600 is not a lot of cars, but we're just taking a look at the stagnant market as is right now."
+    },
+    {
+      "start": 1094.44,
+      "end": 1100.24,
+      "speaker": "SPEAKER_01",
+      "text": "So is this the number of new buyers every year projected to grow as the years go on?"
+    },
+    {
+      "start": 1100.24,
+      "end": 1108.44,
+      "speaker": "SPEAKER_01",
+      "text": "And maybe alternatively, if the market's going to stay stagnant, what are the differences between BMW's car offering"
+    },
+    {
+      "start": 1108.44,
+      "end": 1114.24,
+      "speaker": "SPEAKER_01",
+      "text": "and our car offering and how those compare with customer preferences, just to get an idea of how we'd be able to compete with them."
+    },
+    {
+      "start": 1115.24,
+      "end": 1120.24,
+      "speaker": "SPEAKER_05",
+      "text": "I want you to look at the data that we already have and see if you can extrapolate it to answer that question."
+    },
+    {
+      "start": 1120.24,
+      "end": 1125.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so you mentioned that the GDP of Pakistan is growing 6%."
+    },
+    {
+      "start": 1125.24,
+      "end": 1130.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm going to assume that the luxury car market is going to grow at least that fast."
+    },
+    {
+      "start": 1130.24,
+      "end": 1135.24,
+      "speaker": "SPEAKER_05",
+      "text": "I think you should double check that with the numbers that we already have."
+    },
+    {
+      "start": 1135.24,
+      "end": 1137.24,
+      "speaker": "SPEAKER_01",
+      "text": "The 6%"
+    },
+    {
+      "start": 1137.24,
+      "end": 1146.24,
+      "speaker": "SPEAKER_05",
+      "text": "with the number that we've already sold or not we sorry that BMW has already sold."
+    },
+    {
+      "start": 1146.24,
+      "end": 1149.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'm not trying to understand any questions."
+    },
+    {
+      "start": 1149.24,
+      "end": 1163.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah, so instead of looking at the high level market, we can really just dial down into whether we think the market is growing based on whether we think that new buyers entering the market or entering at the same rate that they have entered over the last 10 years."
+    },
+    {
+      "start": 1163.24,
+      "end": 1165.24,
+      "speaker": "SPEAKER_05",
+      "text": "And you have the data to do that."
+    },
+    {
+      "start": 1166.24,
+      "end": 1172.24,
+      "speaker": "SPEAKER_01",
+      "text": "Got it got it. Okay, so we know that 20,000 cars have been imported and sold in the last 10 years."
+    },
+    {
+      "start": 1172.24,
+      "end": 1177.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm going to take an average of that to see how many cars have been sold every year."
+    },
+    {
+      "start": 1177.24,
+      "end": 1181.24,
+      "speaker": "SPEAKER_01",
+      "text": "So if we do an average here."
+    },
+    {
+      "start": 1181.24,
+      "end": 1184.24,
+      "speaker": "SPEAKER_01",
+      "text": "That's just going to be the 20,000 cars divided by the 10 years."
+    },
+    {
+      "start": 1184.24,
+      "end": 1190.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we have the 2000 cars per year on average that are sold every year by BMW."
+    },
+    {
+      "start": 1190.24,
+      "end": 1198.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we add that to the or if we compare that to the new buyers of 1600, that's a 400, 400 car deficit."
+    },
+    {
+      "start": 1198.24,
+      "end": 1205.24,
+      "speaker": "SPEAKER_01",
+      "text": "But I just want to clarify. So this new buyers is that."
+    },
+    {
+      "start": 1205.24,
+      "end": 1210.24,
+      "speaker": "SPEAKER_03",
+      "text": "Are we that's the only."
+    },
+    {
+      "start": 1210.24,
+      "end": 1218.24,
+      "speaker": "SPEAKER_01",
+      "text": "So in any given year, the car sales will be a total of the existing car owners that will be replacing their cars as well as the new buyers."
+    },
+    {
+      "start": 1218.24,
+      "end": 1229.24,
+      "speaker": "SPEAKER_01",
+      "text": "That's right. Right. Okay, so if we're adding that 1600 to the 20,000, we have 20,000 owners right now."
+    },
+    {
+      "start": 1229.24,
+      "end": 1234.24,
+      "speaker": "SPEAKER_01",
+      "text": "If we grow by 1600 owners every year, we can get that growth rate."
+    },
+    {
+      "start": 1234.24,
+      "end": 1236.24,
+      "speaker": "SPEAKER_01",
+      "text": "Is that okay with you?"
+    },
+    {
+      "start": 1236.24,
+      "end": 1238.24,
+      "speaker": "SPEAKER_01",
+      "text": "It seems reasonable. Okay, sounds good."
+    },
+    {
+      "start": 1238.24,
+      "end": 1247.24,
+      "speaker": "SPEAKER_01",
+      "text": "So calculating a growth rate that's going to be that 20,000 existing owners plus the 1600 new owners every year."
+    },
+    {
+      "start": 1247.24,
+      "end": 1253.24,
+      "speaker": "SPEAKER_01",
+      "text": "That should give us a yearly growth assuming that it's not going to change from year to year."
+    },
+    {
+      "start": 1253.24,
+      "end": 1261.24,
+      "speaker": "SPEAKER_05",
+      "text": "And it would change obviously because we're going to have this baseline growing, but I'm just curious to whether you know you kind of said is it growing or not."
+    },
+    {
+      "start": 1261.24,
+      "end": 1264.24,
+      "speaker": "SPEAKER_05",
+      "text": "I think you can answer your own question here."
+    },
+    {
+      "start": 1264.24,
+      "end": 1267.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, sounds good. So we'll do the the 2000 plus the 1600."
+    },
+    {
+      "start": 1267.24,
+      "end": 1272.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that's going to be 21,600 divided by 20,000."
+    },
+    {
+      "start": 1272.24,
+      "end": 1278.24,
+      "speaker": "SPEAKER_01",
+      "text": "I hope you run the numbers here. That's going to be about 216 divided by 200."
+    },
+    {
+      "start": 1278.24,
+      "end": 1285.24,
+      "speaker": "SPEAKER_02",
+      "text": "Let me just read it out here."
+    },
+    {
+      "start": 1285.24,
+      "end": 1291.24,
+      "speaker": "SPEAKER_01",
+      "text": "I mean, if I divide that into that's going to be 108 over 100, which is going to be about 1.08."
+    },
+    {
+      "start": 1291.24,
+      "end": 1296.24,
+      "speaker": "SPEAKER_01",
+      "text": "So the market's growing at about 8% in this next year."
+    },
+    {
+      "start": 1296.24,
+      "end": 1299.24,
+      "speaker": "SPEAKER_05",
+      "text": "It's growing at 8% on the total."
+    },
+    {
+      "start": 1299.24,
+      "end": 1302.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then what we thought about it another way. So how many cars were sold?"
+    },
+    {
+      "start": 1302.24,
+      "end": 1305.24,
+      "speaker": "SPEAKER_05",
+      "text": "Would you estimate?"
+    },
+    {
+      "start": 1305.24,
+      "end": 1309.24,
+      "speaker": "SPEAKER_05",
+      "text": "You know, around 10 years ago per year."
+    },
+    {
+      "start": 1309.24,
+      "end": 1312.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'm sorry, couldn't hear you that while you said how many cars?"
+    },
+    {
+      "start": 1312.24,
+      "end": 1319.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah, do you think we're sold about 10 years ago?"
+    },
+    {
+      "start": 1319.24,
+      "end": 1326.24,
+      "speaker": "SPEAKER_01",
+      "text": "So if we're assuming maybe that every year there's 1600 new buyers,"
+    },
+    {
+      "start": 1326.24,
+      "end": 1332.24,
+      "speaker": "SPEAKER_01",
+      "text": "what I could do is take that 20,000 cars and subtract 10 times 1600."
+    },
+    {
+      "start": 1332.24,
+      "end": 1334.24,
+      "speaker": "SPEAKER_01",
+      "text": "And that should get us to the market size 10 years ago."
+    },
+    {
+      "start": 1334.24,
+      "end": 1336.24,
+      "speaker": "SPEAKER_01",
+      "text": "Is that what you're looking for?"
+    },
+    {
+      "start": 1336.24,
+      "end": 1339.24,
+      "speaker": "SPEAKER_05",
+      "text": "Kind of. Yeah. And I'm just saying just just just just ballpark it for me."
+    },
+    {
+      "start": 1339.24,
+      "end": 1342.24,
+      "speaker": "SPEAKER_05",
+      "text": "Do you think that the so here's what we've identified right?"
+    },
+    {
+      "start": 1342.24,
+      "end": 1347.24,
+      "speaker": "SPEAKER_05",
+      "text": "It's growing. We have new buyers entering the market and we have the old buyers that are likely to replace."
+    },
+    {
+      "start": 1347.24,
+      "end": 1353.24,
+      "speaker": "SPEAKER_05",
+      "text": "This is good. But what I'm curious about is if we think the rate of growth is going to continue to grow."
+    },
+    {
+      "start": 1353.24,
+      "end": 1358.24,
+      "speaker": "SPEAKER_05",
+      "text": "If we think that's going to be declining over time."
+    },
+    {
+      "start": 1358.24,
+      "end": 1360.24,
+      "speaker": "SPEAKER_01",
+      "text": "In the next 10 years you're saying."
+    },
+    {
+      "start": 1360.24,
+      "end": 1364.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah, that's what we can call it in the next 10 years or even just in the next couple of years."
+    },
+    {
+      "start": 1364.24,
+      "end": 1366.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I mean very qualitatively."
+    },
+    {
+      "start": 1366.24,
+      "end": 1372.24,
+      "speaker": "SPEAKER_01",
+      "text": "I think this market will definitely grow. Of course, we just calculated that it's going to grow 8% in the next year."
+    },
+    {
+      "start": 1372.24,
+      "end": 1375.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I guess if we if we look retroactively."
+    },
+    {
+      "start": 1375.24,
+      "end": 1380.24,
+      "speaker": "SPEAKER_01",
+      "text": "If we look at the growth rate, the change in the growth rate from the last 10 years, maybe looking forward."
+    },
+    {
+      "start": 1380.24,
+      "end": 1384.24,
+      "speaker": "SPEAKER_01",
+      "text": "If I were to ballpark that."
+    },
+    {
+      "start": 1384.24,
+      "end": 1395.24,
+      "speaker": "SPEAKER_02",
+      "text": "Let's see."
+    },
+    {
+      "start": 1395.24,
+      "end": 1399.24,
+      "speaker": "SPEAKER_01",
+      "text": "Let's say it's maybe around the same hasn't grown that much."
+    },
+    {
+      "start": 1399.24,
+      "end": 1402.24,
+      "speaker": "SPEAKER_01",
+      "text": "I don't think that the market is really accelerating upward."
+    },
+    {
+      "start": 1402.24,
+      "end": 1407.24,
+      "speaker": "SPEAKER_01",
+      "text": "Is that kind of aligning with the numbers that you have or do you want me to run any specific calculations?"
+    },
+    {
+      "start": 1407.24,
+      "end": 1410.24,
+      "speaker": "SPEAKER_05",
+      "text": "Well, we're not going to need to calculate this in."
+    },
+    {
+      "start": 1410.24,
+      "end": 1412.24,
+      "speaker": "SPEAKER_05",
+      "text": "I was really just asking for your interpretation."
+    },
+    {
+      "start": 1412.24,
+      "end": 1420.24,
+      "speaker": "SPEAKER_05",
+      "text": "But what I'm noticing is that, you know, maybe on average if we sold 2000 cars per year of the last 10 years incrementally new."
+    },
+    {
+      "start": 1421.24,
+      "end": 1424.24,
+      "speaker": "SPEAKER_05",
+      "text": "To get up to that 20,000 that wouldn't have been straight line."
+    },
+    {
+      "start": 1424.24,
+      "end": 1428.24,
+      "speaker": "SPEAKER_05",
+      "text": "We probably sold more in year five and maybe even more in year seven or eight."
+    },
+    {
+      "start": 1428.24,
+      "end": 1433.24,
+      "speaker": "SPEAKER_05",
+      "text": "But it does seem like the number of new car buyers entering the market might be declining a bit."
+    },
+    {
+      "start": 1433.24,
+      "end": 1442.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then as we have that balance of luxury car replacements versus new cars, it seems like the importance is going to be on the replacements."
+    },
+    {
+      "start": 1443.24,
+      "end": 1446.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I don't know that I don't know that this will necessarily change our numbers."
+    },
+    {
+      "start": 1446.24,
+      "end": 1452.24,
+      "speaker": "SPEAKER_05",
+      "text": "But I do think that it's important to know that it doesn't seem like we're selling more new cars a year than we used to."
+    },
+    {
+      "start": 1452.24,
+      "end": 1453.24,
+      "speaker": "SPEAKER_05",
+      "text": "It does."
+    },
+    {
+      "start": 1453.24,
+      "end": 1459.24,
+      "speaker": "SPEAKER_01",
+      "text": "Right. I mean, if we're looking at the last 10 years, 20,000 cars, that's approximately 2000 cars per year that we sold."
+    },
+    {
+      "start": 1459.24,
+      "end": 1464.24,
+      "speaker": "SPEAKER_01",
+      "text": "Even if it fluctuated within those those years as a general trend line, the market still growing."
+    },
+    {
+      "start": 1464.24,
+      "end": 1468.24,
+      "speaker": "SPEAKER_01",
+      "text": "We still have new buyers, but the marginal rate of growth is slowing."
+    },
+    {
+      "start": 1468.24,
+      "end": 1469.24,
+      "speaker": "SPEAKER_05",
+      "text": "There we go."
+    },
+    {
+      "start": 1470.24,
+      "end": 1481.24,
+      "speaker": "SPEAKER_05",
+      "text": "Okay. Good. So again, I don't need you to factor that into the rest of the calculation, but I just wanted to kind of get a quick read on what you thought about was going on there."
+    },
+    {
+      "start": 1481.24,
+      "end": 1483.24,
+      "speaker": "SPEAKER_01",
+      "text": "What should we do next?"
+    },
+    {
+      "start": 1483.24,
+      "end": 1484.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, sorry."
+    },
+    {
+      "start": 1484.24,
+      "end": 1485.24,
+      "speaker": "SPEAKER_01",
+      "text": "I was filling up my."
+    },
+    {
+      "start": 1485.24,
+      "end": 1492.24,
+      "speaker": "SPEAKER_01",
+      "text": "Now that we've kind of looked at the market and we know that the market is growing a little bit slower than it was before."
+    },
+    {
+      "start": 1492.24,
+      "end": 1495.24,
+      "speaker": "SPEAKER_01",
+      "text": "I think I want to take a look at our biggest competitor, BMW."
+    },
+    {
+      "start": 1495.24,
+      "end": 1505.24,
+      "speaker": "SPEAKER_01",
+      "text": "And I'd like to understand what their capabilities are, what their competitive advantages, how they're tailoring tailoring to customers to see if there's a potential entry point available for us here."
+    },
+    {
+      "start": 1505.24,
+      "end": 1506.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1506.24,
+      "end": 1508.24,
+      "speaker": "SPEAKER_05",
+      "text": "Go ahead and ask me for data."
+    },
+    {
+      "start": 1508.24,
+      "end": 1509.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yep."
+    },
+    {
+      "start": 1509.24,
+      "end": 1513.24,
+      "speaker": "SPEAKER_01",
+      "text": "So what's their, I mean, their, their current marketer is 100%."
+    },
+    {
+      "start": 1513.24,
+      "end": 1518.24,
+      "speaker": "SPEAKER_01",
+      "text": "What kinds of products do they sell or what kinds of cars?"
+    },
+    {
+      "start": 1518.24,
+      "end": 1520.24,
+      "speaker": "SPEAKER_01",
+      "text": "Just so they don't."
+    },
+    {
+      "start": 1520.24,
+      "end": 1526.24,
+      "speaker": "SPEAKER_01",
+      "text": "Just so dance and just to clarify that's the, the five passenger."
+    },
+    {
+      "start": 1526.24,
+      "end": 1528.24,
+      "speaker": "SPEAKER_01",
+      "text": "For answer cars."
+    },
+    {
+      "start": 1528.24,
+      "end": 1529.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1529.24,
+      "end": 1534.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that sounds like it's appealing to customers desire for functionality."
+    },
+    {
+      "start": 1534.24,
+      "end": 1536.24,
+      "speaker": "SPEAKER_01",
+      "text": "So it's very interesting."
+    },
+    {
+      "start": 1536.24,
+      "end": 1542.24,
+      "speaker": "SPEAKER_01",
+      "text": "Have we done any customer surveys or do we know anything about what customers prefer in their cars and the Pakistan market?"
+    },
+    {
+      "start": 1542.24,
+      "end": 1544.24,
+      "speaker": "SPEAKER_05",
+      "text": "What are you trying to get to?"
+    },
+    {
+      "start": 1544.24,
+      "end": 1545.24,
+      "speaker": "SPEAKER_05",
+      "text": "What will that leave you to?"
+    },
+    {
+      "start": 1545.24,
+      "end": 1548.24,
+      "speaker": "SPEAKER_05",
+      "text": "What would be the next question after that one?"
+    },
+    {
+      "start": 1548.24,
+      "end": 1554.24,
+      "speaker": "SPEAKER_01",
+      "text": "Then I want to know how do our cars differ from BMW's cars?"
+    },
+    {
+      "start": 1554.24,
+      "end": 1556.24,
+      "speaker": "SPEAKER_01",
+      "text": "Can we tailor to a different customer segment?"
+    },
+    {
+      "start": 1556.24,
+      "end": 1558.24,
+      "speaker": "SPEAKER_01",
+      "text": "Can we tailor to different customer preferences?"
+    },
+    {
+      "start": 1558.24,
+      "end": 1563.24,
+      "speaker": "SPEAKER_01",
+      "text": "And within the customer base in Pakistan, what's the breakdown as far as preferences go?"
+    },
+    {
+      "start": 1563.24,
+      "end": 1566.24,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of percentages of customers that want either more."
+    },
+    {
+      "start": 1566.24,
+      "end": 1571.24,
+      "speaker": "SPEAKER_05",
+      "text": "We don't know what the market share will be for sure in Pakistan until we enter."
+    },
+    {
+      "start": 1571.24,
+      "end": 1577.24,
+      "speaker": "SPEAKER_05",
+      "text": "But we have entered other markets via NAMM is a similar, is a similar use case for us."
+    },
+    {
+      "start": 1577.24,
+      "end": 1589.24,
+      "speaker": "SPEAKER_05",
+      "text": "So on average in these other markets, including Vietnam, we gained 25% market share within the first year of those markets."
+    },
+    {
+      "start": 1589.24,
+      "end": 1590.24,
+      "speaker": "SPEAKER_03",
+      "text": "That's pretty significant."
+    },
+    {
+      "start": 1590.24,
+      "end": 1592.24,
+      "speaker": "SPEAKER_03",
+      "text": "I like that number."
+    },
+    {
+      "start": 1592.24,
+      "end": 1594.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1594.24,
+      "end": 1603.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we can use, I guess, our past experience entering different geographical markets as a proxy for maybe how much we expect to grow in Pakistan or how much share we expect to get."
+    },
+    {
+      "start": 1603.24,
+      "end": 1607.24,
+      "speaker": "SPEAKER_01",
+      "text": "So if we know that year of entry."
+    },
+    {
+      "start": 1607.24,
+      "end": 1616.24,
+      "speaker": "SPEAKER_01",
+      "text": "That we have 20,000 or 2000 replace or yeah replacement cars purchased per year plus that additional 1600 of new buyers."
+    },
+    {
+      "start": 1616.24,
+      "end": 1620.24,
+      "speaker": "SPEAKER_01",
+      "text": "That means that total market size for the years going to be 3600 cars per year."
+    },
+    {
+      "start": 1620.24,
+      "end": 1629.24,
+      "speaker": "SPEAKER_01",
+      "text": "And if we take 25% of that, that should get us to approximately what we estimate to be able to sell in that first year of entry."
+    },
+    {
+      "start": 1629.24,
+      "end": 1632.24,
+      "speaker": "SPEAKER_01",
+      "text": "Is that, does that sound good with you?"
+    },
+    {
+      "start": 1632.24,
+      "end": 1634.24,
+      "speaker": "SPEAKER_03",
+      "text": "Sure."
+    },
+    {
+      "start": 1634.24,
+      "end": 1639.24,
+      "speaker": "SPEAKER_01",
+      "text": "So for 3600 cars multiplied by 25% is just 3600 divided by four."
+    },
+    {
+      "start": 1639.24,
+      "end": 1642.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that's going to be 900 cars we expect to sell."
+    },
+    {
+      "start": 1642.24,
+      "end": 1646.24,
+      "speaker": "SPEAKER_01",
+      "text": "And to really get an idea of how much this, this means for our business."
+    },
+    {
+      "start": 1646.24,
+      "end": 1651.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to take a look at either the price that we can sell at."
+    },
+    {
+      "start": 1651.24,
+      "end": 1655.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then a factoring in any variable costs and investment costs."
+    },
+    {
+      "start": 1655.24,
+      "end": 1659.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we're trying that back to the original point of being able to break even."
+    },
+    {
+      "start": 1659.24,
+      "end": 1661.24,
+      "speaker": "SPEAKER_01",
+      "text": "So what's the price that we'd be able to sell?"
+    },
+    {
+      "start": 1661.24,
+      "end": 1662.24,
+      "speaker": "SPEAKER_05",
+      "text": "Awesome."
+    },
+    {
+      "start": 1662.24,
+      "end": 1665.24,
+      "speaker": "SPEAKER_05",
+      "text": "We don't know exactly, but we do know what BMW charges."
+    },
+    {
+      "start": 1665.24,
+      "end": 1669.24,
+      "speaker": "SPEAKER_05",
+      "text": "They charge 80,000 US dollars per car on average."
+    },
+    {
+      "start": 1669.24,
+      "end": 1673.24,
+      "speaker": "SPEAKER_01",
+      "text": "80,000 per car."
+    },
+    {
+      "start": 1673.24,
+      "end": 1674.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great."
+    },
+    {
+      "start": 1674.24,
+      "end": 1677.24,
+      "speaker": "SPEAKER_01",
+      "text": "So now I'm going to be able to calculate total revenue in the first year."
+    },
+    {
+      "start": 1677.24,
+      "end": 1683.24,
+      "speaker": "SPEAKER_01",
+      "text": "And I'm going to also be able to calculate total revenue in the second year since we're looking at a two year time period."
+    },
+    {
+      "start": 1683.24,
+      "end": 1690.24,
+      "speaker": "SPEAKER_01",
+      "text": "If we calculate revenue in year one, that's 900 cars multiplied by 80,000 dollars of revenue per car."
+    },
+    {
+      "start": 1690.24,
+      "end": 1694.24,
+      "speaker": "SPEAKER_01",
+      "text": "That's going to be 72 million dollars of revenue."
+    },
+    {
+      "start": 1694.24,
+      "end": 1696.24,
+      "speaker": "SPEAKER_01",
+      "text": "In year one."
+    },
+    {
+      "start": 1696.24,
+      "end": 1700.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'm actually going to draw the table here just so my numbers are organized."
+    },
+    {
+      "start": 1700.24,
+      "end": 1704.24,
+      "speaker": "SPEAKER_01",
+      "text": "We have your one year two revenue."
+    },
+    {
+      "start": 1704.24,
+      "end": 1706.24,
+      "speaker": "SPEAKER_01",
+      "text": "Or all this is forecasted."
+    },
+    {
+      "start": 1706.24,
+      "end": 1708.24,
+      "speaker": "SPEAKER_01",
+      "text": "We're just using BMW numbers."
+    },
+    {
+      "start": 1708.24,
+      "end": 1711.24,
+      "speaker": "SPEAKER_01",
+      "text": "So the revenue in year one is going to be 72 million."
+    },
+    {
+      "start": 1711.24,
+      "end": 1716.24,
+      "speaker": "SPEAKER_01",
+      "text": "And if we look at year two, we're still going to sell a that BMW price, that 80,000 dollars per car."
+    },
+    {
+      "start": 1716.24,
+      "end": 1724.24,
+      "speaker": "SPEAKER_01",
+      "text": "But we're going to build on the market size from year one because we're we have an additional 1600 buyers per year."
+    },
+    {
+      "start": 1724.24,
+      "end": 1727.24,
+      "speaker": "SPEAKER_01",
+      "text": "So when year two."
+    },
+    {
+      "start": 1727.24,
+      "end": 1730.24,
+      "speaker": "SPEAKER_01",
+      "text": "You're one year two."
+    },
+    {
+      "start": 1730.24,
+      "end": 1732.24,
+      "speaker": "SPEAKER_01",
+      "text": "We're going to have a 20."
+    },
+    {
+      "start": 1732.24,
+      "end": 1735.24,
+      "speaker": "SPEAKER_05",
+      "text": "I think we can I think we can make a simple fine assumption, Abby, that it's the same."
+    },
+    {
+      "start": 1735.24,
+      "end": 1740.24,
+      "speaker": "SPEAKER_05",
+      "text": "Like probably none of those new buyers yet will be buying additionally."
+    },
+    {
+      "start": 1740.24,
+      "end": 1745.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I think it's fair to assume that there will be just another 1600."
+    },
+    {
+      "start": 1745.24,
+      "end": 1746.24,
+      "speaker": "SPEAKER_01",
+      "text": "Right."
+    },
+    {
+      "start": 1746.24,
+      "end": 1752.24,
+      "speaker": "SPEAKER_01",
+      "text": "So it'll be instead of 3600 cars in the market, it'll be 3600 plus 1600 right?"
+    },
+    {
+      "start": 1752.24,
+      "end": 1762.24,
+      "speaker": "SPEAKER_05",
+      "text": "No, because it would be the because that's what I'm saying is that that 1600 now is incrementally added to the 2000, the 20,000 that."
+    },
+    {
+      "start": 1762.24,
+      "end": 1768.24,
+      "speaker": "SPEAKER_05",
+      "text": "But there's probably no cars that are new that new 1600 haven't come up for a place we get."
+    },
+    {
+      "start": 1768.24,
+      "end": 1773.24,
+      "speaker": "SPEAKER_05",
+      "text": "So it's just so that it will be another 3600 in a second year."
+    },
+    {
+      "start": 1773.24,
+      "end": 1774.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1774.24,
+      "end": 1779.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, sounds good. That makes it not easier than so revenue from year one to year two will stay the same."
+    },
+    {
+      "start": 1779.24,
+      "end": 1786.24,
+      "speaker": "SPEAKER_01",
+      "text": "And now I'd like to understand either what our profit margins are or what our cost breakdown looks like."
+    },
+    {
+      "start": 1786.24,
+      "end": 1788.24,
+      "speaker": "SPEAKER_05",
+      "text": "What cost would you like specifically?"
+    },
+    {
+      "start": 1788.24,
+      "end": 1791.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I'd like to know fixed and variable costs."
+    },
+    {
+      "start": 1791.24,
+      "end": 1797.24,
+      "speaker": "SPEAKER_01",
+      "text": "And if we tie this back to the break even point, I'd like to know on the cost side, both the investment cost."
+    },
+    {
+      "start": 1797.24,
+      "end": 1800.24,
+      "speaker": "SPEAKER_01",
+      "text": "And any fixed and variable operational costs."
+    },
+    {
+      "start": 1800.24,
+      "end": 1803.24,
+      "speaker": "SPEAKER_01",
+      "text": "And on the revenue side, we already have that."
+    },
+    {
+      "start": 1803.24,
+      "end": 1805.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I'd like to take a look at costs."
+    },
+    {
+      "start": 1805.24,
+      "end": 1808.24,
+      "speaker": "SPEAKER_05",
+      "text": "Great. So I've thankfully got this a little bit simplified."
+    },
+    {
+      "start": 1808.24,
+      "end": 1810.24,
+      "speaker": "SPEAKER_05",
+      "text": "I do have our initial investment cost."
+    },
+    {
+      "start": 1810.24,
+      "end": 1814.24,
+      "speaker": "SPEAKER_05",
+      "text": "It's going to be $9 million to open this market for us."
+    },
+    {
+      "start": 1814.24,
+      "end": 1817.24,
+      "speaker": "SPEAKER_05",
+      "text": "In addition, I have the per car costs."
+    },
+    {
+      "start": 1817.24,
+      "end": 1821.24,
+      "speaker": "SPEAKER_05",
+      "text": "Three of them are actually variable and one is fixed."
+    },
+    {
+      "start": 1821.24,
+      "end": 1826.24,
+      "speaker": "SPEAKER_05",
+      "text": "Can you tell me just really quickly what you think the key variable costs would be here?"
+    },
+    {
+      "start": 1826.24,
+      "end": 1829.24,
+      "speaker": "SPEAKER_01",
+      "text": "Variable costs, of course, include any shipping."
+    },
+    {
+      "start": 1829.24,
+      "end": 1834.24,
+      "speaker": "SPEAKER_01",
+      "text": "So if we're not going to manufacture within Pakistan, we need to ship the cars."
+    },
+    {
+      "start": 1834.24,
+      "end": 1842.24,
+      "speaker": "SPEAKER_01",
+      "text": "We also need to take into consideration any any product manufacturing raw materials."
+    },
+    {
+      "start": 1842.24,
+      "end": 1847.24,
+      "speaker": "SPEAKER_01",
+      "text": "Any commission that we're paying to any sales and marketing teams."
+    },
+    {
+      "start": 1847.24,
+      "end": 1854.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then any direct labor that we're hiring to kind of sell these cars to the end consumer in Pakistan."
+    },
+    {
+      "start": 1854.24,
+      "end": 1862.24,
+      "speaker": "SPEAKER_05",
+      "text": "Okay. So we got we got two of those on could be those first at the beginning of the car and cost per car are $20,000."
+    },
+    {
+      "start": 1862.24,
+      "end": 1865.24,
+      "speaker": "SPEAKER_05",
+      "text": "These are all in US dollars."
+    },
+    {
+      "start": 1865.24,
+      "end": 1874.24,
+      "speaker": "SPEAKER_03",
+      "text": "The transportation is 80% of the manufacturing cost."
+    },
+    {
+      "start": 1874.24,
+      "end": 1879.24,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. We also have a third cost, which is customs and taxes."
+    },
+    {
+      "start": 1879.24,
+      "end": 1883.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so when we're importing directly, we're going to have the challenge of doing that."
+    },
+    {
+      "start": 1883.24,
+      "end": 1892.24,
+      "speaker": "SPEAKER_05",
+      "text": "That's going to be 95% of the manufacturing plus the transportation costs."
+    },
+    {
+      "start": 1892.24,
+      "end": 1895.24,
+      "speaker": "SPEAKER_03",
+      "text": "And then I mentioned that there was one fixed cost as well."
+    },
+    {
+      "start": 1895.24,
+      "end": 1899.24,
+      "speaker": "SPEAKER_05",
+      "text": "And we just paraded the space on the number of cars that we already expected."
+    },
+    {
+      "start": 1899.24,
+      "end": 1903.24,
+      "speaker": "SPEAKER_05",
+      "text": "It's about 10% of all of the above costs."
+    },
+    {
+      "start": 1903.24,
+      "end": 1911.24,
+      "speaker": "SPEAKER_05",
+      "text": "So of the manufacturing plus transportation plus customs and taxes."
+    },
+    {
+      "start": 1911.24,
+      "end": 1913.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Let's run some numbers."
+    },
+    {
+      "start": 1913.24,
+      "end": 1914.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1914.24,
+      "end": 1918.24,
+      "speaker": "SPEAKER_01",
+      "text": "So you mentioned that manufacturing costs per car."
+    },
+    {
+      "start": 1918.24,
+      "end": 1920.24,
+      "speaker": "SPEAKER_01",
+      "text": "These are all per car costs. So manufacturing is $20,000."
+    },
+    {
+      "start": 1920.24,
+      "end": 1924.24,
+      "speaker": "SPEAKER_01",
+      "text": "Transportation is going to be 80% of 20,000. So that's going to be 16,000."
+    },
+    {
+      "start": 1924.24,
+      "end": 1928.24,
+      "speaker": "SPEAKER_01",
+      "text": "Customs and taxes are going to be 95% of the 16,000 plus the 20,000."
+    },
+    {
+      "start": 1928.24,
+      "end": 1932.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that's going to be 95% of 36,000."
+    },
+    {
+      "start": 1932.24,
+      "end": 1935.24,
+      "speaker": "SPEAKER_01",
+      "text": "So 95% of 36,000."
+    },
+    {
+      "start": 1935.24,
+      "end": 1939.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'm actually going to take 5% of 36,000 and subtract it out from 36,000."
+    },
+    {
+      "start": 1939.24,
+      "end": 1945.24,
+      "speaker": "SPEAKER_01",
+      "text": "Make our make our lives easier. So 5% of 36,000 is going to be half of 10%."
+    },
+    {
+      "start": 1945.24,
+      "end": 1950.24,
+      "speaker": "SPEAKER_01",
+      "text": "So 10% of 36,000 is 36,000."
+    },
+    {
+      "start": 1950.24,
+      "end": 1953.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'm 10% of 36,000."
+    },
+    {
+      "start": 1953.24,
+      "end": 1955.24,
+      "speaker": "SPEAKER_01",
+      "text": "36,000 is going to be 36,000."
+    },
+    {
+      "start": 1955.24,
+      "end": 1957.24,
+      "speaker": "SPEAKER_01",
+      "text": "If we have that, that's going to be 1800."
+    },
+    {
+      "start": 1957.24,
+      "end": 1959.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that's going to give us the 5%."
+    },
+    {
+      "start": 1959.24,
+      "end": 1965.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then if we subtract the 1800 from the 36,000, that should get us to 34,200."
+    },
+    {
+      "start": 1965.24,
+      "end": 1970.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that'll be our customs and taxes costs per car."
+    },
+    {
+      "start": 1970.24,
+      "end": 1977.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then you said the fixed costs, the fixed cost per car is going to be 10% of all three of these costs combined."
+    },
+    {
+      "start": 1977.24,
+      "end": 1982.24,
+      "speaker": "SPEAKER_01",
+      "text": "So if we combined the, if we combine the 20,000, the 16,000 and the 34,200."
+    },
+    {
+      "start": 1982.24,
+      "end": 1989.24,
+      "speaker": "SPEAKER_01",
+      "text": "That's going to get us to 36,000 plus 34,200, which is 70,200."
+    },
+    {
+      "start": 1989.24,
+      "end": 1996.24,
+      "speaker": "SPEAKER_01",
+      "text": "And if we take 10% of that, that's going to be 7,000 and 20."
+    },
+    {
+      "start": 1996.24,
+      "end": 1999.24,
+      "speaker": "SPEAKER_01",
+      "text": "For car fixed costs."
+    },
+    {
+      "start": 1999.24,
+      "end": 2004.24,
+      "speaker": "SPEAKER_01",
+      "text": "We're going to add up all of these costs to get the total per car costs."
+    },
+    {
+      "start": 2004.24,
+      "end": 2007.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then we're from there, we can solve for break even point."
+    },
+    {
+      "start": 2007.24,
+      "end": 2020.24,
+      "speaker": "SPEAKER_01",
+      "text": "We have the 20,000, 20,000, 16,000, we have 34,200, which we already had calculated to be a 70,200 total."
+    },
+    {
+      "start": 2020.24,
+      "end": 2026.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then we're going to add that to the 7020 of that 10%."
+    },
+    {
+      "start": 2026.24,
+      "end": 2032.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that's going to get us total cost per car of 77,220."
+    },
+    {
+      "start": 2032.24,
+      "end": 2035.24,
+      "speaker": "SPEAKER_05",
+      "text": "You can round that to 77,000."
+    },
+    {
+      "start": 2035.24,
+      "end": 2037.24,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, perfect."
+    },
+    {
+      "start": 2037.24,
+      "end": 2039.24,
+      "speaker": "SPEAKER_01",
+      "text": "$77,000."
+    },
+    {
+      "start": 2039.24,
+      "end": 2044.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then just to clarify the prompt again."
+    },
+    {
+      "start": 2044.24,
+      "end": 2047.24,
+      "speaker": "SPEAKER_01",
+      "text": "So you're looking at break even point two years."
+    },
+    {
+      "start": 2047.24,
+      "end": 2053.24,
+      "speaker": "SPEAKER_01",
+      "text": "Are we looking at feasibility or are we looking at how many units we need to sell in order to break even?"
+    },
+    {
+      "start": 2053.24,
+      "end": 2054.24,
+      "speaker": "SPEAKER_05",
+      "text": "We're looking at feasibility."
+    },
+    {
+      "start": 2054.24,
+      "end": 2057.24,
+      "speaker": "SPEAKER_05",
+      "text": "Can we break even into years?"
+    },
+    {
+      "start": 2057.24,
+      "end": 2059.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, sounds good."
+    },
+    {
+      "start": 2059.24,
+      "end": 2065.24,
+      "speaker": "SPEAKER_01",
+      "text": "So if we run a calculation."
+    },
+    {
+      "start": 2065.24,
+      "end": 2072.24,
+      "speaker": "SPEAKER_01",
+      "text": "In year one, we make 72 million dollars of revenue in year two, we make 72 million dollars again."
+    },
+    {
+      "start": 2072.24,
+      "end": 2080.24,
+      "speaker": "SPEAKER_01",
+      "text": "So total revenue over the two years is going to be that 144 million."
+    },
+    {
+      "start": 2080.24,
+      "end": 2085.24,
+      "speaker": "SPEAKER_03",
+      "text": "And then if we look at costs."
+    },
+    {
+      "start": 2085.24,
+      "end": 2092.24,
+      "speaker": "SPEAKER_01",
+      "text": "What I'm thinking here is we can take the profit over the two years cumulatively and then just divide it into the investment cost."
+    },
+    {
+      "start": 2092.24,
+      "end": 2094.24,
+      "speaker": "SPEAKER_05",
+      "text": "I like that process better."
+    },
+    {
+      "start": 2094.24,
+      "end": 2096.24,
+      "speaker": "SPEAKER_01",
+      "text": "To see if we can make that happen."
+    },
+    {
+      "start": 2096.24,
+      "end": 2100.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we know that the revenue over the year one in your two period is going to be two times 72."
+    },
+    {
+      "start": 2100.24,
+      "end": 2102.24,
+      "speaker": "SPEAKER_01",
+      "text": "So as I said, that's 144 million."
+    },
+    {
+      "start": 2102.24,
+      "end": 2107.24,
+      "speaker": "SPEAKER_01",
+      "text": "If we have costs of 70,000, $77,000 per car."
+    },
+    {
+      "start": 2107.24,
+      "end": 2113.24,
+      "speaker": "SPEAKER_01",
+      "text": "And we know that we're selling a total of 3600 multiplied by two cars over the two years."
+    },
+    {
+      "start": 2113.24,
+      "end": 2122.24,
+      "speaker": "SPEAKER_01",
+      "text": "That's going to be 77,000 dollars of cost per car multiplied by 72 hundred cars that we're selling over the two year period."
+    },
+    {
+      "start": 2122.24,
+      "end": 2125.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that should get us to work total costs."
+    },
+    {
+      "start": 2125.24,
+      "end": 2135.24,
+      "speaker": "SPEAKER_01",
+      "text": "If I just run those numbers really quickly."
+    },
+    {
+      "start": 2135.24,
+      "end": 2139.24,
+      "speaker": "SPEAKER_05",
+      "text": "You sure that we're selling some need 200 cars. Is that what you just said?"
+    },
+    {
+      "start": 2139.24,
+      "end": 2143.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, you mentioned that we're selling 3600 cars."
+    },
+    {
+      "start": 2143.24,
+      "end": 2145.24,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, sorry. That's the total market size."
+    },
+    {
+      "start": 2145.24,
+      "end": 2151.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we're actually selling 25% of that to 900 cars and we're selling 1800 over the two years."
+    },
+    {
+      "start": 2151.24,
+      "end": 2160.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we have that 1800 cars multiplied by 77,000 dollars per car, which should get us to total costs over the two year period."
+    },
+    {
+      "start": 2160.24,
+      "end": 2168.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm going to do 77,000 multiplied by 1800."
+    },
+    {
+      "start": 2168.24,
+      "end": 2175.24,
+      "speaker": "SPEAKER_01",
+      "text": "I just want to make sure my numbers are right here. So that gets me to 137.6 million."
+    },
+    {
+      "start": 2175.24,
+      "end": 2179.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. That's total costs."
+    },
+    {
+      "start": 2179.24,
+      "end": 2183.24,
+      "speaker": "SPEAKER_01",
+      "text": "Now if we subtract that out from revenue, we get profit."
+    },
+    {
+      "start": 2183.24,
+      "end": 2189.24,
+      "speaker": "SPEAKER_01",
+      "text": "So profit is going to be, let's see, if we run that to 138 million, that's going to be a difference of 6 million."
+    },
+    {
+      "start": 2189.24,
+      "end": 2192.24,
+      "speaker": "SPEAKER_01",
+      "text": "So 6 plus 0.4, 6.4 million dollars of profit."
+    },
+    {
+      "start": 2192.24,
+      "end": 2198.24,
+      "speaker": "SPEAKER_01",
+      "text": "And if we divide that into the front investment of nine million dollars, we'll get the break even."
+    },
+    {
+      "start": 2198.24,
+      "end": 2201.24,
+      "speaker": "SPEAKER_05",
+      "text": "Which one was higher revenues or costs?"
+    },
+    {
+      "start": 2201.24,
+      "end": 2204.24,
+      "speaker": "SPEAKER_01",
+      "text": "So revenues was higher per my calculation."
+    },
+    {
+      "start": 2204.24,
+      "end": 2205.24,
+      "speaker": "SPEAKER_03",
+      "text": "What was revenues?"
+    },
+    {
+      "start": 2205.24,
+      "end": 2208.24,
+      "speaker": "SPEAKER_01",
+      "text": "It was $144 million."
+    },
+    {
+      "start": 2208.24,
+      "end": 2210.24,
+      "speaker": "SPEAKER_03",
+      "text": "Are you sure?"
+    },
+    {
+      "start": 2210.24,
+      "end": 2218.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I guess just cycling back, you mentioned that we're selling 900 cars at $80,000 a car."
+    },
+    {
+      "start": 2218.24,
+      "end": 2221.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I calculated that to be $72 million of revenue."
+    },
+    {
+      "start": 2221.24,
+      "end": 2225.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then we had, I was doing the revenue over the two years."
+    },
+    {
+      "start": 2225.24,
+      "end": 2226.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 2226.24,
+      "end": 2229.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I added those together and I got $144 million."
+    },
+    {
+      "start": 2229.24,
+      "end": 2231.24,
+      "speaker": "SPEAKER_03",
+      "text": "Great."
+    },
+    {
+      "start": 2231.24,
+      "end": 2232.24,
+      "speaker": "SPEAKER_01",
+      "text": "Is that okay with you?"
+    },
+    {
+      "start": 2232.24,
+      "end": 2233.24,
+      "speaker": "SPEAKER_03",
+      "text": "Sounds good."
+    },
+    {
+      "start": 2233.24,
+      "end": 2234.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 2234.24,
+      "end": 2239.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then we subtracted out the cost of 137.6 million to get profit of 6.4 million."
+    },
+    {
+      "start": 2239.24,
+      "end": 2246.24,
+      "speaker": "SPEAKER_01",
+      "text": "And now that we have that break even in, or I'm sorry, that investment of nine million dollars, we can take that nine million and divide that by 6.4."
+    },
+    {
+      "start": 2246.24,
+      "end": 2249.24,
+      "speaker": "SPEAKER_01",
+      "text": "Is it okay if I round the 6.4 to 6?"
+    },
+    {
+      "start": 2249.24,
+      "end": 2250.24,
+      "speaker": "SPEAKER_05",
+      "text": "So what is that going to tell you?"
+    },
+    {
+      "start": 2250.24,
+      "end": 2252.24,
+      "speaker": "SPEAKER_05",
+      "text": "I just want to make sure you know what you're doing here."
+    },
+    {
+      "start": 2252.24,
+      "end": 2253.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah."
+    },
+    {
+      "start": 2253.24,
+      "end": 2256.24,
+      "speaker": "SPEAKER_05",
+      "text": "When we do that number, what does that tell us?"
+    },
+    {
+      "start": 2256.24,
+      "end": 2260.24,
+      "speaker": "SPEAKER_01",
+      "text": "So let's say that we get a number less than two."
+    },
+    {
+      "start": 2260.24,
+      "end": 2265.24,
+      "speaker": "SPEAKER_01",
+      "text": "I think that means that we'll be able to break even in less than two years."
+    },
+    {
+      "start": 2265.24,
+      "end": 2266.24,
+      "speaker": "SPEAKER_05",
+      "text": "Are you sure?"
+    },
+    {
+      "start": 2266.24,
+      "end": 2267.24,
+      "speaker": "SPEAKER_05",
+      "text": "What is the six?"
+    },
+    {
+      "start": 2267.24,
+      "end": 2272.24,
+      "speaker": "SPEAKER_05",
+      "text": "What is the, and I think it's actually 5.4."
+    },
+    {
+      "start": 2272.24,
+      "end": 2275.24,
+      "speaker": "SPEAKER_05",
+      "text": "So what is the number that we get?"
+    },
+    {
+      "start": 2275.24,
+      "end": 2276.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 2276.24,
+      "end": 2279.24,
+      "speaker": "SPEAKER_01",
+      "text": "One thirty eight point six and the one forty four."
+    },
+    {
+      "start": 2279.24,
+      "end": 2282.24,
+      "speaker": "SPEAKER_05",
+      "text": "Oh, I have a hundred and thirty seven point six."
+    },
+    {
+      "start": 2282.24,
+      "end": 2283.24,
+      "speaker": "SPEAKER_05",
+      "text": "Okay."
+    },
+    {
+      "start": 2283.24,
+      "end": 2284.24,
+      "speaker": "SPEAKER_05",
+      "text": "What is the number represent?"
+    },
+    {
+      "start": 2284.24,
+      "end": 2286.24,
+      "speaker": "SPEAKER_05",
+      "text": "What is that represent that?"
+    },
+    {
+      "start": 2286.24,
+      "end": 2287.24,
+      "speaker": "SPEAKER_01",
+      "text": "That 5.4 or 6.4."
+    },
+    {
+      "start": 2287.24,
+      "end": 2288.24,
+      "speaker": "SPEAKER_01",
+      "text": "What is that represent?"
+    },
+    {
+      "start": 2288.24,
+      "end": 2290.24,
+      "speaker": "SPEAKER_01",
+      "text": "So the hundred and forty four million."
+    },
+    {
+      "start": 2290.24,
+      "end": 2292.24,
+      "speaker": "SPEAKER_01",
+      "text": "So it's going to be total revenue over the two years."
+    },
+    {
+      "start": 2292.24,
+      "end": 2299.24,
+      "speaker": "SPEAKER_01",
+      "text": "The 138.6 is going to be total costs incurred for the cars that were selling over the two year period."
+    },
+    {
+      "start": 2299.24,
+      "end": 2302.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we're going to be able to get a number more than the $8.5."
+    },
+    {
+      "start": 2302.24,
+      "end": 2305.24,
+      "speaker": "SPEAKER_01",
+      "text": "That's going to be total profit over the two year period."
+    },
+    {
+      "start": 2305.24,
+      "end": 2306.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 2306.24,
+      "end": 2309.24,
+      "speaker": "SPEAKER_05",
+      "text": "So how do we calculate with for breaking the internet?"
+    },
+    {
+      "start": 2309.24,
+      "end": 2311.24,
+      "speaker": "SPEAKER_05",
+      "text": "When do we break even?"
+    },
+    {
+      "start": 2311.24,
+      "end": 2314.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we break even when profit is equal to zero."
+    },
+    {
+      "start": 2314.24,
+      "end": 2318.24,
+      "speaker": "SPEAKER_05",
+      "text": "Okay, so what do we have to have for profit to be equal to zero?"
+    },
+    {
+      "start": 2318.24,
+      "end": 2322.24,
+      "speaker": "SPEAKER_03",
+      "text": "How much how much profit in those two years?"
+    },
+    {
+      "start": 2322.24,
+      "end": 2325.24,
+      "speaker": "SPEAKER_03",
+      "text": "What we have to get?"
+    },
+    {
+      "start": 2326.24,
+      "end": 2327.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, that's a good question."
+    },
+    {
+      "start": 2327.24,
+      "end": 2330.24,
+      "speaker": "SPEAKER_01",
+      "text": "So if we have that investment of nine million dollars, we have."
+    },
+    {
+      "start": 2330.24,
+      "end": 2334.24,
+      "speaker": "SPEAKER_01",
+      "text": "If we amortize that over two years, it's going to be about four point five million dollars."
+    },
+    {
+      "start": 2334.24,
+      "end": 2336.24,
+      "speaker": "SPEAKER_01",
+      "text": "Of investment cost."
+    },
+    {
+      "start": 2336.24,
+      "end": 2338.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so you're doing it in the aggregate for the two years."
+    },
+    {
+      "start": 2338.24,
+      "end": 2340.24,
+      "speaker": "SPEAKER_05",
+      "text": "So how much do we have to have in profit?"
+    },
+    {
+      "start": 2340.24,
+      "end": 2341.24,
+      "speaker": "SPEAKER_05",
+      "text": "Nine million, right?"
+    },
+    {
+      "start": 2341.24,
+      "end": 2342.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah."
+    },
+    {
+      "start": 2342.24,
+      "end": 2343.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah."
+    },
+    {
+      "start": 2343.24,
+      "end": 2344.24,
+      "speaker": "SPEAKER_05",
+      "text": "Do we have it?"
+    },
+    {
+      "start": 2344.24,
+      "end": 2345.24,
+      "speaker": "SPEAKER_01",
+      "text": "Good point."
+    },
+    {
+      "start": 2345.24,
+      "end": 2346.24,
+      "speaker": "SPEAKER_01",
+      "text": "We don't have that."
+    },
+    {
+      "start": 2346.24,
+      "end": 2350.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we are about a three point six million dollars short."
+    },
+    {
+      "start": 2350.24,
+      "end": 2354.24,
+      "speaker": "SPEAKER_01",
+      "text": "Profit is still positive, but we."
+    },
+    {
+      "start": 2354.24,
+      "end": 2356.24,
+      "speaker": "SPEAKER_01",
+      "text": "We are still short of our goal."
+    },
+    {
+      "start": 2356.24,
+      "end": 2359.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I think we have a couple options here, a little bit of a fork in the road."
+    },
+    {
+      "start": 2359.24,
+      "end": 2364.24,
+      "speaker": "SPEAKER_01",
+      "text": "One, we can take this loss and we can say, okay, we're still making a profit."
+    },
+    {
+      "start": 2364.24,
+      "end": 2366.24,
+      "speaker": "SPEAKER_01",
+      "text": "These numbers, you know, are maybe likely to change."
+    },
+    {
+      "start": 2366.24,
+      "end": 2371.24,
+      "speaker": "SPEAKER_01",
+      "text": "We could do some more due diligence, but for now, assume that it's it's a good decision to enter this market."
+    },
+    {
+      "start": 2371.24,
+      "end": 2376.24,
+      "speaker": "SPEAKER_01",
+      "text": "Or we could look at alternatives such as establishing our own distribution channels."
+    },
+    {
+      "start": 2376.24,
+      "end": 2379.24,
+      "speaker": "SPEAKER_01",
+      "text": "Like that dealership we were mentioning in the beginning."
+    },
+    {
+      "start": 2379.24,
+      "end": 2385.24,
+      "speaker": "SPEAKER_01",
+      "text": "Or we could look at potentially a different market to enter or a joint venture."
+    },
+    {
+      "start": 2385.24,
+      "end": 2392.24,
+      "speaker": "SPEAKER_01",
+      "text": "To make sure that we can accelerate our sales growth in the specific Pakistan market."
+    },
+    {
+      "start": 2392.24,
+      "end": 2401.24,
+      "speaker": "SPEAKER_05",
+      "text": "Let me ask you specifically if we could adjust the inputs that we just calculated to get us to a break even in two years."
+    },
+    {
+      "start": 2401.24,
+      "end": 2406.24,
+      "speaker": "SPEAKER_05",
+      "text": "Which ones would you think are the most likely to adjust?"
+    },
+    {
+      "start": 2406.24,
+      "end": 2412.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so cost optimization is a lot easier than trying to bolster sales."
+    },
+    {
+      "start": 2412.24,
+      "end": 2415.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I'd want to take a look at our cost breakdown."
+    },
+    {
+      "start": 2415.24,
+      "end": 2418.24,
+      "speaker": "SPEAKER_01",
+      "text": "We have pretty high costs."
+    },
+    {
+      "start": 2418.24,
+      "end": 2421.24,
+      "speaker": "SPEAKER_01",
+      "text": "And at $77,000 per car."
+    },
+    {
+      "start": 2421.24,
+      "end": 2429.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I'd like to better understand the breakdown as and compare that to competitors."
+    },
+    {
+      "start": 2429.24,
+      "end": 2432.24,
+      "speaker": "SPEAKER_01",
+      "text": "So we have."
+    },
+    {
+      "start": 2432.24,
+      "end": 2435.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I know that manufacturing transportation costs per car."
+    },
+    {
+      "start": 2435.24,
+      "end": 2443.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to understand what BMW is also doing within the cost segment."
+    },
+    {
+      "start": 2443.24,
+      "end": 2445.24,
+      "speaker": "SPEAKER_03",
+      "text": "Once get anything else."
+    },
+    {
+      "start": 2445.24,
+      "end": 2448.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I think there's there's other ways we could do this as well."
+    },
+    {
+      "start": 2448.24,
+      "end": 2459.24,
+      "speaker": "SPEAKER_01",
+      "text": "We can look at potentially raising prices, although my hypothesis that doesn't sound like a great idea considering that the market's already so small and where we're competing with one major player already established there."
+    },
+    {
+      "start": 2459.24,
+      "end": 2463.24,
+      "speaker": "SPEAKER_01",
+      "text": "We could also look at increasing our sales and marketing campaign on the revenue side."
+    },
+    {
+      "start": 2463.24,
+      "end": 2465.24,
+      "speaker": "SPEAKER_01",
+      "text": "We could look at selling."
+    },
+    {
+      "start": 2465.24,
+      "end": 2467.24,
+      "speaker": "SPEAKER_01",
+      "text": "Complementary products."
+    },
+    {
+      "start": 2467.24,
+      "end": 2471.24,
+      "speaker": "SPEAKER_01",
+      "text": "I know that for people that may not want to buy new cars when they replace new cars."
+    },
+    {
+      "start": 2471.24,
+      "end": 2488.24,
+      "speaker": "SPEAKER_01",
+      "text": "They could we could potentially give them spare car parts or offer some kind of repair services that would bring in revenue for us while also enabling customers to form a relationship with us down the line in case they don't want to buy a whole new luxury car later on."
+    },
+    {
+      "start": 2488.24,
+      "end": 2504.24,
+      "speaker": "SPEAKER_01",
+      "text": "And then like I mentioned before, we could also look into that joint venture strategy, maybe even it doesn't look like acquisition is likely, but it would depend on the cash we have on hand and anything within that vein as well could be potentially good things to look at."
+    },
+    {
+      "start": 2504.24,
+      "end": 2506.24,
+      "speaker": "SPEAKER_05",
+      "text": "Okay, awesome."
+    },
+    {
+      "start": 2506.24,
+      "end": 2509.24,
+      "speaker": "SPEAKER_05",
+      "text": "Well, at this point, we're ready for a final answer."
+    },
+    {
+      "start": 2509.24,
+      "end": 2511.24,
+      "speaker": "SPEAKER_05",
+      "text": "What do you think we should do?"
+    },
+    {
+      "start": 2511.24,
+      "end": 2514.24,
+      "speaker": "SPEAKER_05",
+      "text": "Enter, don't enter, make changes to our plan."
+    },
+    {
+      "start": 2514.24,
+      "end": 2517.24,
+      "speaker": "SPEAKER_05",
+      "text": "What's your final recommendation?"
+    },
+    {
+      "start": 2517.24,
+      "end": 2521.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so this was a very interesting case. So thank you so much for this one."
+    },
+    {
+      "start": 2521.24,
+      "end": 2527.24,
+      "speaker": "SPEAKER_01",
+      "text": "My final recommendation is that we should enter this market."
+    },
+    {
+      "start": 2527.24,
+      "end": 2530.24,
+      "speaker": "SPEAKER_01",
+      "text": "And I have a few reasons for that."
+    },
+    {
+      "start": 2530.24,
+      "end": 2534.24,
+      "speaker": "SPEAKER_01",
+      "text": "First of all, this market is still growing."
+    },
+    {
+      "start": 2534.24,
+      "end": 2539.24,
+      "speaker": "SPEAKER_01",
+      "text": "Even though it's growing a little bit slower than it was before, that doesn't mean that this will be a permanent growth rate."
+    },
+    {
+      "start": 2539.24,
+      "end": 2546.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I think there's still a lot of upward potential here, especially since we have only one other competitor competing with us."
+    },
+    {
+      "start": 2546.24,
+      "end": 2552.24,
+      "speaker": "SPEAKER_01",
+      "text": "I think the second reason is that we can capture 25% market share in the first year, which is pretty significant."
+    },
+    {
+      "start": 2552.24,
+      "end": 2565.24,
+      "speaker": "SPEAKER_01",
+      "text": "And without even taking into consideration how that would grow, we'd be able through that 25% market share to get profits of about 4.5.4 million in those two years."
+    },
+    {
+      "start": 2565.24,
+      "end": 2569.24,
+      "speaker": "SPEAKER_01",
+      "text": "I know that this falls short of our original goal."
+    },
+    {
+      "start": 2569.24,
+      "end": 2573.24,
+      "speaker": "SPEAKER_01",
+      "text": "And I know that we're a little bit short of breaking even in that two year time period."
+    },
+    {
+      "start": 2573.24,
+      "end": 2582.24,
+      "speaker": "SPEAKER_01",
+      "text": "But I think that if we're looking at this from a very high level qualitative perspective, there's a lot of room for this market to continue accelerating upward."
+    },
+    {
+      "start": 2582.24,
+      "end": 2589.24,
+      "speaker": "SPEAKER_01",
+      "text": "And I think even if we break in within three years, which is the current trajectory that we're heading towards, it could still be a very profitable investment."
+    },
+    {
+      "start": 2589.24,
+      "end": 2593.24,
+      "speaker": "SPEAKER_01",
+      "text": "I'll be just a little bit delayed on the break even return."
+    },
+    {
+      "start": 2593.24,
+      "end": 2597.24,
+      "speaker": "SPEAKER_01",
+      "text": "So there's some next steps to consider is definitely a risky market."
+    },
+    {
+      "start": 2597.24,
+      "end": 2615.24,
+      "speaker": "SPEAKER_01",
+      "text": "So would want to do a little bit more due diligence to the numbers, make sure that we really can assume that we can capture that 25% of the market and that our forecasts are properly verified in order to mitigate any risks of potential failure or not being able to capture the market that we had originally hoped."
+    },
+    {
+      "start": 2615.24,
+      "end": 2619.24,
+      "speaker": "SPEAKER_05",
+      "text": "Okay, great. Good job. You can relax."
+    },
+    {
+      "start": 2619.24,
+      "end": 2623.24,
+      "speaker": "SPEAKER_05",
+      "text": "How did that feel for you?"
+    },
+    {
+      "start": 2623.24,
+      "end": 2634.24,
+      "speaker": "SPEAKER_01",
+      "text": "Honestly, I was a little bit flustered. It wasn't my best performance ever, but I think if I just maybe take in like two seconds and step back, it would have been a little bit better on the numbers."
+    },
+    {
+      "start": 2634.24,
+      "end": 2641.24,
+      "speaker": "SPEAKER_05",
+      "text": "I think that's a really it's a really great feedback. I'm going to go through and give you some insights as we went through the case."
+    },
+    {
+      "start": 2641.24,
+      "end": 2651.24,
+      "speaker": "SPEAKER_05",
+      "text": "I ended up taking almost 40 minutes to do it. It may have felt harder than you were initially anticipating because when I got through the initial piece, I felt like you were going to do a really good job."
+    },
+    {
+      "start": 2651.24,
+      "end": 2661.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I actually decided to modify it, push a little bit deeper into it and make it more of a second round case because I wanted you to get a lot out of it as we were going through it."
+    },
+    {
+      "start": 2661.24,
+      "end": 2663.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so what I did, I appreciate that. Thank you."
+    },
+    {
+      "start": 2663.24,
+      "end": 2669.24,
+      "speaker": "SPEAKER_05",
+      "text": "I added in some bonus stuff. And you know, as the interviewer, I was really pushing you."
+    },
+    {
+      "start": 2669.24,
+      "end": 2675.24,
+      "speaker": "SPEAKER_05",
+      "text": "You probably felt this, but I was pushing you to read out the insights before you did the math."
+    },
+    {
+      "start": 2675.24,
+      "end": 2681.24,
+      "speaker": "SPEAKER_05",
+      "text": "I was pushing you to give me a general direction before kind of waiting until the end."
+    },
+    {
+      "start": 2681.24,
+      "end": 2691.24,
+      "speaker": "SPEAKER_05",
+      "text": "And that's one of the big differences in a second round case with BCG that I'm looking for versus the first round is that I'm looking for you to call it before you need to call it."
+    },
+    {
+      "start": 2691.24,
+      "end": 2694.24,
+      "speaker": "SPEAKER_05",
+      "text": "You call it the new bearer, you call it the new bearer lie."
+    },
+    {
+      "start": 2694.24,
+      "end": 2698.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so I'm going to go through each section of the case and give you detailed feedback."
+    },
+    {
+      "start": 2698.24,
+      "end": 2705.24,
+      "speaker": "SPEAKER_05",
+      "text": "You can feel free to ask questions as we're going through this. And then also, part of the end, if you have any questions, I'm happy to listen to those as well."
+    },
+    {
+      "start": 2705.24,
+      "end": 2709.24,
+      "speaker": "SPEAKER_05",
+      "text": "After that, we'll open it up to the floor for people to ask either you questions or the questions."
+    },
+    {
+      "start": 2709.24,
+      "end": 2713.24,
+      "speaker": "SPEAKER_05",
+      "text": "So first of all, let me just go through the timing and the structure of the case."
+    },
+    {
+      "start": 2713.24,
+      "end": 2725.24,
+      "speaker": "SPEAKER_05",
+      "text": "As I mentioned, I didn't split out what was happening inside the math because that piece was a little bit too kind of jumbled together rights like gathering data and then doing calculations."
+    },
+    {
+      "start": 2725.24,
+      "end": 2730.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so I just did the beginning and the ending and the creative question."
+    },
+    {
+      "start": 2730.24,
+      "end": 2734.24,
+      "speaker": "SPEAKER_05",
+      "text": "So at the beginning of the case, your introduction was about three and a half minutes."
+    },
+    {
+      "start": 2734.24,
+      "end": 2736.24,
+      "speaker": "SPEAKER_05",
+      "text": "It was really good."
+    },
+    {
+      "start": 2736.24,
+      "end": 2741.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so I think that the only thing that I would tweak in the introductory piece is that you started out with a negative statement."
+    },
+    {
+      "start": 2741.24,
+      "end": 2745.24,
+      "speaker": "SPEAKER_05",
+      "text": "You said, I'm not really a car person, which deflated."
+    },
+    {
+      "start": 2745.24,
+      "end": 2755.24,
+      "speaker": "SPEAKER_05",
+      "text": "I think what you're trying to do is set my expectations that you might say something a little silly at some point inside the case, but you did not demonstrate that you weren't a car person as we went through it."
+    },
+    {
+      "start": 2755.24,
+      "end": 2756.24,
+      "speaker": "SPEAKER_05",
+      "text": "You were totally with it."
+    },
+    {
+      "start": 2756.24,
+      "end": 2765.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I think you really need to push yourself to say something positive like like, you know, this sounds like a problem that I have never thought about before, but I have familiarity with cars."
+    },
+    {
+      "start": 2765.24,
+      "end": 2769.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right. Something that kind of is like giving me confidence instead of breaking my confidence down."
+    },
+    {
+      "start": 2769.24,
+      "end": 2776.24,
+      "speaker": "SPEAKER_05",
+      "text": "What I'm imagining when you say I'm not a car person is that I put you in front of a client at BMW and you say that and they fall apart."
+    },
+    {
+      "start": 2776.24,
+      "end": 2777.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 2777.24,
+      "end": 2781.24,
+      "speaker": "SPEAKER_05",
+      "text": "Like why did we staff this kid who knows nothing about cars on a car case."
+    },
+    {
+      "start": 2781.24,
+      "end": 2786.24,
+      "speaker": "SPEAKER_05",
+      "text": "So just beginning with that posturing is a very important part of the beginning."
+    },
+    {
+      "start": 2786.24,
+      "end": 2789.24,
+      "speaker": "SPEAKER_05",
+      "text": "However, I thought your recap was super fluid, very story-entered."
+    },
+    {
+      "start": 2789.24,
+      "end": 2796.24,
+      "speaker": "SPEAKER_05",
+      "text": "I felt like overall you did a great job of demonstrating that you had proficiency with a business problem at the beginning of the case."
+    },
+    {
+      "start": 2796.24,
+      "end": 2799.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so that would be really my only key takeaway."
+    },
+    {
+      "start": 2799.24,
+      "end": 2806.24,
+      "speaker": "SPEAKER_05",
+      "text": "When you asked the question, which was included in that time about that three and a half minutes, it was kind of not really a question."
+    },
+    {
+      "start": 2806.24,
+      "end": 2808.24,
+      "speaker": "SPEAKER_05",
+      "text": "You were just like using out loud, I think."
+    },
+    {
+      "start": 2808.24,
+      "end": 2809.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 2809.24,
+      "end": 2814.24,
+      "speaker": "SPEAKER_05",
+      "text": "You know, there's only there's you kind of said, you know, it's interesting that only BMW is in the market."
+    },
+    {
+      "start": 2814.24,
+      "end": 2820.24,
+      "speaker": "SPEAKER_05",
+      "text": "And it's also interesting that they have no like, you know, local sales."
+    },
+    {
+      "start": 2820.24,
+      "end": 2822.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I think that that would be a really big opportunity."
+    },
+    {
+      "start": 2822.24,
+      "end": 2824.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I loved that you said that."
+    },
+    {
+      "start": 2824.24,
+      "end": 2825.24,
+      "speaker": "SPEAKER_05",
+      "text": "You never asked me a question."
+    },
+    {
+      "start": 2825.24,
+      "end": 2827.24,
+      "speaker": "SPEAKER_05",
+      "text": "So that's kind of why I asked you a question."
+    },
+    {
+      "start": 2827.24,
+      "end": 2828.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then we got off on table."
+    },
+    {
+      "start": 2828.24,
+      "end": 2830.24,
+      "speaker": "SPEAKER_05",
+      "text": "Almost like many tangent at the beginning."
+    },
+    {
+      "start": 2830.24,
+      "end": 2832.24,
+      "speaker": "SPEAKER_05",
+      "text": "So just make sure to be getting that you're wording."
+    },
+    {
+      "start": 2832.24,
+      "end": 2835.24,
+      "speaker": "SPEAKER_05",
+      "text": "When you come up with insights like that, I love it."
+    },
+    {
+      "start": 2835.24,
+      "end": 2837.24,
+      "speaker": "SPEAKER_05",
+      "text": "Just ask me the question afterwards. Right."
+    },
+    {
+      "start": 2837.24,
+      "end": 2841.24,
+      "speaker": "SPEAKER_05",
+      "text": "Are we open to having a different kind of distribution than BMW has?"
+    },
+    {
+      "start": 2841.24,
+      "end": 2846.24,
+      "speaker": "SPEAKER_05",
+      "text": "Would we be willing to set up local dealerships or a partner partnership with a local dealership?"
+    },
+    {
+      "start": 2846.24,
+      "end": 2850.24,
+      "speaker": "SPEAKER_05",
+      "text": "Would we be open to considering local union backsharing? Right."
+    },
+    {
+      "start": 2850.24,
+      "end": 2854.24,
+      "speaker": "SPEAKER_05",
+      "text": "So just so there's like, you know, give me the musing but then add that detail."
+    },
+    {
+      "start": 2854.24,
+      "end": 2855.24,
+      "speaker": "SPEAKER_05",
+      "text": "And okay."
+    },
+    {
+      "start": 2855.24,
+      "end": 2857.24,
+      "speaker": "SPEAKER_05",
+      "text": "Overall, though, I thought that was good."
+    },
+    {
+      "start": 2857.24,
+      "end": 2860.24,
+      "speaker": "SPEAKER_05",
+      "text": "Your structure was a little funky for a BCG case."
+    },
+    {
+      "start": 2860.24,
+      "end": 2864.24,
+      "speaker": "SPEAKER_05",
+      "text": "This felt like a McKinsey issue tree."
+    },
+    {
+      "start": 2864.24,
+      "end": 2868.24,
+      "speaker": "SPEAKER_05",
+      "text": "I don't know if you read or watched some of Victor Chang stuff, but it felt like straight out of Victor Chang."
+    },
+    {
+      "start": 2868.24,
+      "end": 2871.24,
+      "speaker": "SPEAKER_05",
+      "text": "And it did not feel like this was meant to solve this problem."
+    },
+    {
+      "start": 2871.24,
+      "end": 2875.24,
+      "speaker": "SPEAKER_05",
+      "text": "It took you three and a half minutes to build it."
+    },
+    {
+      "start": 2875.24,
+      "end": 2876.24,
+      "speaker": "SPEAKER_05",
+      "text": "Oh, wow."
+    },
+    {
+      "start": 2876.24,
+      "end": 2877.24,
+      "speaker": "SPEAKER_05",
+      "text": "Quietly."
+    },
+    {
+      "start": 2877.24,
+      "end": 2884.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then it took you almost three minutes, about two minutes and 50 seconds to report it back out."
+    },
+    {
+      "start": 2884.24,
+      "end": 2887.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so that was way too long for a case like this."
+    },
+    {
+      "start": 2887.24,
+      "end": 2891.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I actually have a podcast coming up kind of soon called the issue tree is dead."
+    },
+    {
+      "start": 2891.24,
+      "end": 2894.24,
+      "speaker": "SPEAKER_05",
+      "text": "Four virtual interviews and parentheses as four virtual interviews."
+    },
+    {
+      "start": 2894.24,
+      "end": 2897.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I think you did an awesome job of demonstrating why?"
+    },
+    {
+      "start": 2897.24,
+      "end": 2900.24,
+      "speaker": "SPEAKER_05",
+      "text": "Because you actually were like an in that branch."
+    },
+    {
+      "start": 2900.24,
+      "end": 2901.24,
+      "speaker": "SPEAKER_05",
+      "text": "There's a baby branch."
+    },
+    {
+      "start": 2901.24,
+      "end": 2904.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I like you should see what I wrote down on my paper."
+    },
+    {
+      "start": 2904.24,
+      "end": 2907.24,
+      "speaker": "SPEAKER_05",
+      "text": "I could not follow it after a point and I just gave up."
+    },
+    {
+      "start": 2907.24,
+      "end": 2910.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah, that's obviously not how you want to engage your interviewer there."
+    },
+    {
+      "start": 2910.24,
+      "end": 2914.24,
+      "speaker": "SPEAKER_05",
+      "text": "So you need to simplify your structure and you need to make it just data oriented."
+    },
+    {
+      "start": 2914.24,
+      "end": 2915.24,
+      "speaker": "SPEAKER_05",
+      "text": "I'm going to need this data."
+    },
+    {
+      "start": 2915.24,
+      "end": 2917.24,
+      "speaker": "SPEAKER_05",
+      "text": "I need to know what the size of the market is."
+    },
+    {
+      "start": 2917.24,
+      "end": 2918.24,
+      "speaker": "SPEAKER_05",
+      "text": "How many German luxury cars there are."
+    },
+    {
+      "start": 2918.24,
+      "end": 2923.24,
+      "speaker": "SPEAKER_05",
+      "text": "I need to know what the percentage is of those luxury cars that are that would be sold by BMW and by the way."
+    },
+    {
+      "start": 2923.24,
+      "end": 2926.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I'm going to go to the second category customers."
+    },
+    {
+      "start": 2926.24,
+      "end": 2929.24,
+      "speaker": "SPEAKER_05",
+      "text": "What kind of models of cars to customers want and what is our breakdown?"
+    },
+    {
+      "start": 2929.24,
+      "end": 2935.24,
+      "speaker": "SPEAKER_05",
+      "text": "Like give me the data only in a BCG case that you're then going to go collect make it your data playbook."
+    },
+    {
+      "start": 2935.24,
+      "end": 2940.24,
+      "speaker": "SPEAKER_05",
+      "text": "And give me one level of category and then one level of data."
+    },
+    {
+      "start": 2940.24,
+      "end": 2946.24,
+      "speaker": "SPEAKER_05",
+      "text": "You gave me a nine eight or nine actual category structure all dig together,"
+    },
+    {
+      "start": 2946.24,
+      "end": 2948.24,
+      "speaker": "SPEAKER_05",
+      "text": "which is why I think it took you so long."
+    },
+    {
+      "start": 2948.24,
+      "end": 2951.24,
+      "speaker": "SPEAKER_05",
+      "text": "And why we after the first question never used it again, right?"
+    },
+    {
+      "start": 2951.24,
+      "end": 2956.24,
+      "speaker": "SPEAKER_05",
+      "text": "So an in BCG one of the things I'm going to test for you in a final round is like,"
+    },
+    {
+      "start": 2956.24,
+      "end": 2959.24,
+      "speaker": "SPEAKER_05",
+      "text": "was your structure the playbook that you use inside the case?"
+    },
+    {
+      "start": 2959.24,
+      "end": 2961.24,
+      "speaker": "SPEAKER_05",
+      "text": "So again, in a first round, I would have been like,"
+    },
+    {
+      "start": 2961.24,
+      "end": 2962.24,
+      "speaker": "SPEAKER_05",
+      "text": "she wasn't wrong."
+    },
+    {
+      "start": 2962.24,
+      "end": 2964.24,
+      "speaker": "SPEAKER_05",
+      "text": "Like a lot of those things are good ideas."
+    },
+    {
+      "start": 2964.24,
+      "end": 2966.24,
+      "speaker": "SPEAKER_05",
+      "text": "You know, she's adorable."
+    },
+    {
+      "start": 2966.24,
+      "end": 2970.24,
+      "speaker": "SPEAKER_05",
+      "text": "And the second round I'm like, look, I have to choose whether I want her on my project or not."
+    },
+    {
+      "start": 2970.24,
+      "end": 2972.24,
+      "speaker": "SPEAKER_05",
+      "text": "I need somebody who's really linear here."
+    },
+    {
+      "start": 2972.24,
+      "end": 2975.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I really want to make sure that you understand the difference between those."
+    },
+    {
+      "start": 2975.24,
+      "end": 2980.24,
+      "speaker": "SPEAKER_05",
+      "text": "And just go ahead and incorporate that in your first round for the farthest."
+    },
+    {
+      "start": 2980.24,
+      "end": 2981.24,
+      "speaker": "SPEAKER_05",
+      "text": "Okay."
+    },
+    {
+      "start": 2981.24,
+      "end": 2983.24,
+      "speaker": "SPEAKER_05",
+      "text": "Any questions about that structuring piece?"
+    },
+    {
+      "start": 2983.24,
+      "end": 2984.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yes."
+    },
+    {
+      "start": 2984.24,
+      "end": 2987.24,
+      "speaker": "SPEAKER_01",
+      "text": "So is that only a BCG thing?"
+    },
+    {
+      "start": 2987.24,
+      "end": 2990.24,
+      "speaker": "SPEAKER_01",
+      "text": "So how does I know McKinsey loves the issue tree?"
+    },
+    {
+      "start": 2990.24,
+      "end": 2991.24,
+      "speaker": "SPEAKER_01",
+      "text": "What about Bane?"
+    },
+    {
+      "start": 2991.24,
+      "end": 2996.24,
+      "speaker": "SPEAKER_05",
+      "text": "So McKinsey doesn't love the issue tree and virtual environments because they can't see anything that's happening."
+    },
+    {
+      "start": 2996.24,
+      "end": 3004.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I would say that you still would have been well served to do that same kind of structure for Bane and for McKinsey because I would know in each one of the three things that I would say that you still would have been well served to do that same kind of structure for Bane and for McKinsey because I would know in each one of the three things that I would know."
+    },
+    {
+      "start": 3004.24,
+      "end": 3009.24,
+      "speaker": "SPEAKER_05",
+      "text": "I would know in each one of the situations, the analysis that you would do would answer my question."
+    },
+    {
+      "start": 3009.24,
+      "end": 3012.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so you're welcome to make it a two minute version of it."
+    },
+    {
+      "start": 3012.24,
+      "end": 3024.24,
+      "speaker": "SPEAKER_05",
+      "text": "If you come up with that linear structure in a minute, yeah, add some other contextual detail, right, add me a category of local distribution, like set that up and tell me exactly what you would need."
+    },
+    {
+      "start": 3024.24,
+      "end": 3035.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so I was really pointing out that you had like concept concept and in some situations concept at the third layer and all of those three were never going to get to no matter what kind of any cases."
+    },
+    {
+      "start": 3035.24,
+      "end": 3038.24,
+      "speaker": "SPEAKER_05",
+      "text": "We're going to get to data inside categories."
+    },
+    {
+      "start": 3038.24,
+      "end": 3041.24,
+      "speaker": "SPEAKER_05",
+      "text": "Those are the only two places that we're going to get to inside the case."
+    },
+    {
+      "start": 3041.24,
+      "end": 3045.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I think that that structure would work well in all of those situations."
+    },
+    {
+      "start": 3045.24,
+      "end": 3049.24,
+      "speaker": "SPEAKER_05",
+      "text": "It's one of those big changes that we have to make in a virtual environment."
+    },
+    {
+      "start": 3049.24,
+      "end": 3056.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I think I don't know that you could have done this with the complexity of your structure in the first place, but you have to number everything out."
+    },
+    {
+      "start": 3056.24,
+      "end": 3058.24,
+      "speaker": "SPEAKER_05",
+      "text": "Number one category is and you did that well."
+    },
+    {
+      "start": 3058.24,
+      "end": 3065.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then when you went into the first one, you said number one is the industry number two is the product number three is the customer and then it went haywire."
+    },
+    {
+      "start": 3065.24,
+      "end": 3067.24,
+      "speaker": "SPEAKER_05",
+      "text": "You were like, and then here's like seven things inside here."
+    },
+    {
+      "start": 3067.24,
+      "end": 3070.24,
+      "speaker": "SPEAKER_05",
+      "text": "Or maybe they were only three and you were just explaining them."
+    },
+    {
+      "start": 3070.24,
+      "end": 3074.24,
+      "speaker": "SPEAKER_05",
+      "text": "I actually don't know when you were moving on from point one to point two to point three."
+    },
+    {
+      "start": 3074.24,
+      "end": 3078.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so you want to keep that like incredible numbering going."
+    },
+    {
+      "start": 3078.24,
+      "end": 3083.24,
+      "speaker": "SPEAKER_05",
+      "text": "You might even want to number them inside the structure to cue you to do that when you're in this verbal environment."
+    },
+    {
+      "start": 3083.24,
+      "end": 3085.24,
+      "speaker": "SPEAKER_05",
+      "text": "Okay."
+    },
+    {
+      "start": 3085.24,
+      "end": 3086.24,
+      "speaker": "SPEAKER_05",
+      "text": "Good."
+    },
+    {
+      "start": 3086.24,
+      "end": 3087.24,
+      "speaker": "SPEAKER_05",
+      "text": "So everything was there."
+    },
+    {
+      "start": 3087.24,
+      "end": 3090.24,
+      "speaker": "SPEAKER_05",
+      "text": "You needed about half of it and it needed to be all numerical."
+    },
+    {
+      "start": 3090.24,
+      "end": 3092.24,
+      "speaker": "SPEAKER_05",
+      "text": "Those are my key takeaways from the structure."
+    },
+    {
+      "start": 3092.24,
+      "end": 3097.24,
+      "speaker": "SPEAKER_05",
+      "text": "Then when you went into the math, I thought you did an excellent job of gathering."
+    },
+    {
+      "start": 3097.24,
+      "end": 3102.24,
+      "speaker": "SPEAKER_05",
+      "text": "I thought your speed and your fluency with math was incredibly proficient."
+    },
+    {
+      "start": 3102.24,
+      "end": 3104.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I thought it was really good to have a good time."
+    },
+    {
+      "start": 3104.24,
+      "end": 3108.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then I thought about the math that you stated assumptions as you went through it when you caught them."
+    },
+    {
+      "start": 3108.24,
+      "end": 3109.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 3109.24,
+      "end": 3113.24,
+      "speaker": "SPEAKER_05",
+      "text": "I'm going to assume with this reflects one owner per year or not multiple drivers."
+    },
+    {
+      "start": 3113.24,
+      "end": 3114.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 3114.24,
+      "end": 3116.24,
+      "speaker": "SPEAKER_05",
+      "text": "There were things that you did when you went through it."
+    },
+    {
+      "start": 3116.24,
+      "end": 3120.24,
+      "speaker": "SPEAKER_05",
+      "text": "There were a couple of times when you tried to do math before you needed to."
+    },
+    {
+      "start": 3120.24,
+      "end": 3126.24,
+      "speaker": "SPEAKER_05",
+      "text": "And that's really where I just wanted to reorient that math for a second round to be like, OK, what am I looking at here?"
+    },
+    {
+      "start": 3126.24,
+      "end": 3127.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 3127.24,
+      "end": 3131.24,
+      "speaker": "SPEAKER_05",
+      "text": "I'm going to go through the structure inside your math that you could have wowed me with."
+    },
+    {
+      "start": 3131.24,
+      "end": 3136.24,
+      "speaker": "SPEAKER_05",
+      "text": "I knew it was there because I watched you deliver on it, but I wasn't hearing it beforehand."
+    },
+    {
+      "start": 3136.24,
+      "end": 3138.24,
+      "speaker": "SPEAKER_05",
+      "text": "So you weren't kind of building my confidence."
+    },
+    {
+      "start": 3138.24,
+      "end": 3141.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then I think you would have gone through a more linear process."
+    },
+    {
+      "start": 3141.24,
+      "end": 3147.24,
+      "speaker": "SPEAKER_05",
+      "text": "I actually think you would have maybe caught a shortcut, which in this case is just just even margin per car."
+    },
+    {
+      "start": 3147.24,
+      "end": 3152.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then divide that into the break even and figure that figure out the number of years."
+    },
+    {
+      "start": 3152.24,
+      "end": 3159.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so you were doing actually like more complex calculations because you were trying to just calculate calculate calculate."
+    },
+    {
+      "start": 3159.24,
+      "end": 3166.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so in a second round performance, I actually still really thought you did a good job, but I wasn't great."
+    },
+    {
+      "start": 3166.24,
+      "end": 3169.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I would hate for you to walk away and be just right on the border, right?"
+    },
+    {
+      "start": 3169.24,
+      "end": 3172.24,
+      "speaker": "SPEAKER_05",
+      "text": "You have to you have you're so close you have to get the software."
+    },
+    {
+      "start": 3172.24,
+      "end": 3174.24,
+      "speaker": "SPEAKER_05",
+      "text": "Thank you."
+    },
+    {
+      "start": 3174.24,
+      "end": 3181.24,
+      "speaker": "SPEAKER_05",
+      "text": "So so the way that you do that is just tell me like, OK, what I'm going to need is the market size."
+    },
+    {
+      "start": 3181.24,
+      "end": 3185.24,
+      "speaker": "SPEAKER_05",
+      "text": "And what you did there is you told me here's the data that I would be before you asked for it."
+    },
+    {
+      "start": 3185.24,
+      "end": 3188.24,
+      "speaker": "SPEAKER_05",
+      "text": "What you did for all the other ones was like, well, what about the price?"
+    },
+    {
+      "start": 3188.24,
+      "end": 3192.24,
+      "speaker": "SPEAKER_05",
+      "text": "Instead of saying, OK, now we need to figure out the margin per car."
+    },
+    {
+      "start": 3192.24,
+      "end": 3196.24,
+      "speaker": "SPEAKER_05",
+      "text": "And right, and that's where putting that into your structure is going to help you."
+    },
+    {
+      "start": 3196.24,
+      "end": 3199.24,
+      "speaker": "SPEAKER_05",
+      "text": "It'll give that exact playbook that you can just go back and follow again."
+    },
+    {
+      "start": 3199.24,
+      "end": 3201.24,
+      "speaker": "SPEAKER_05",
+      "text": "But that's where you were losing it."
+    },
+    {
+      "start": 3201.24,
+      "end": 3206.24,
+      "speaker": "SPEAKER_05",
+      "text": "And that's why the math and total took us 30 minutes."
+    },
+    {
+      "start": 3206.24,
+      "end": 3207.24,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, wow."
+    },
+    {
+      "start": 3207.24,
+      "end": 3211.24,
+      "speaker": "SPEAKER_05",
+      "text": "Actually, 28 and a half, 28 and a half total."
+    },
+    {
+      "start": 3211.24,
+      "end": 3217.24,
+      "speaker": "SPEAKER_05",
+      "text": "And that probably could have taken us 12, I think by the time I was asking some of the sideline questions."
+    },
+    {
+      "start": 3217.24,
+      "end": 3222.24,
+      "speaker": "SPEAKER_05",
+      "text": "It was it was really three parts of math, which I would give 15 minutes for."
+    },
+    {
+      "start": 3222.24,
+      "end": 3225.24,
+      "speaker": "SPEAKER_05",
+      "text": "But I think you could have taken about 12 to do it."
+    },
+    {
+      "start": 3225.24,
+      "end": 3229.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so anyhow, I think that that could have been about half the time."
+    },
+    {
+      "start": 3229.24,
+      "end": 3232.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then we could have spent a lot more of our time talking about for me."
+    },
+    {
+      "start": 3232.24,
+      "end": 3236.24,
+      "speaker": "SPEAKER_05",
+      "text": "What are the ways that I really test my top candidates, which is the next piece."
+    },
+    {
+      "start": 3236.24,
+      "end": 3237.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 3237.24,
+      "end": 3243.24,
+      "speaker": "SPEAKER_05",
+      "text": "Overall, I just again, I just really want to compliment you on the speed and the fluency of the math."
+    },
+    {
+      "start": 3243.24,
+      "end": 3244.24,
+      "speaker": "SPEAKER_05",
+      "text": "I felt like you understood it."
+    },
+    {
+      "start": 3244.24,
+      "end": 3247.24,
+      "speaker": "SPEAKER_05",
+      "text": "I felt like you did a really great job across the board there."
+    },
+    {
+      "start": 3247.24,
+      "end": 3249.24,
+      "speaker": "SPEAKER_05",
+      "text": "But I did feel like there was room for improvement."
+    },
+    {
+      "start": 3249.24,
+      "end": 3253.24,
+      "speaker": "SPEAKER_05",
+      "text": "The way that you practice it is just go back through it again, that you have all the data."
+    },
+    {
+      "start": 3253.24,
+      "end": 3256.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then go back after you do the math and rewrite your structure."
+    },
+    {
+      "start": 3256.24,
+      "end": 3257.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 3257.24,
+      "end": 3260.24,
+      "speaker": "SPEAKER_05",
+      "text": "What are the things inside my structure that I should have thought about gathering."
+    },
+    {
+      "start": 3260.24,
+      "end": 3265.24,
+      "speaker": "SPEAKER_05",
+      "text": "And that will going backwards inside a case like that helps bring clarity for the next time you do."
+    },
+    {
+      "start": 3265.24,
+      "end": 3266.24,
+      "speaker": "SPEAKER_05",
+      "text": "Market entry."
+    },
+    {
+      "start": 3266.24,
+      "end": 3267.24,
+      "speaker": "SPEAKER_05",
+      "text": "Great."
+    },
+    {
+      "start": 3267.24,
+      "end": 3271.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then the final thing was your creative question that I asked, right."
+    },
+    {
+      "start": 3271.24,
+      "end": 3276.24,
+      "speaker": "SPEAKER_05",
+      "text": "What what numbers would be flexed that came across like just a verbal download, right."
+    },
+    {
+      "start": 3276.24,
+      "end": 3278.24,
+      "speaker": "SPEAKER_05",
+      "text": "Just a waterfall of verbalness."
+    },
+    {
+      "start": 3278.24,
+      "end": 3279.24,
+      "speaker": "SPEAKER_05",
+      "text": "I don't want that."
+    },
+    {
+      "start": 3279.24,
+      "end": 3282.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I mean, I think you were feeling like there was time pressure."
+    },
+    {
+      "start": 3282.24,
+      "end": 3285.24,
+      "speaker": "SPEAKER_05",
+      "text": "But I still want to see some control from you there."
+    },
+    {
+      "start": 3285.24,
+      "end": 3293.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so what you would do instead, what I wrote down was expect a great even."
+    },
+    {
+      "start": 3293.24,
+      "end": 3296.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then what the alternatives are different markets to enter your JV."
+    },
+    {
+      "start": 3296.24,
+      "end": 3298.24,
+      "speaker": "SPEAKER_05",
+      "text": "And actually, I think that was new for your closing."
+    },
+    {
+      "start": 3298.24,
+      "end": 3302.24,
+      "speaker": "SPEAKER_05",
+      "text": "I didn't even write down what you said in the creative because I couldn't really follow it super clearly."
+    },
+    {
+      "start": 3302.24,
+      "end": 3304.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so that's again, kind of virtual environment."
+    },
+    {
+      "start": 3304.24,
+      "end": 3309.24,
+      "speaker": "SPEAKER_05",
+      "text": "You might have been writing things down, but it just came across as like, well, we could do this and we could do that."
+    },
+    {
+      "start": 3309.24,
+      "end": 3310.24,
+      "speaker": "SPEAKER_05",
+      "text": "Or we could do this."
+    },
+    {
+      "start": 3310.24,
+      "end": 3313.24,
+      "speaker": "SPEAKER_05",
+      "text": "And instead of being like, OK, let me look at the volume at the data that we have again."
+    },
+    {
+      "start": 3313.24,
+      "end": 3314.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 3314.24,
+      "end": 3316.24,
+      "speaker": "SPEAKER_05",
+      "text": "What we have is the price point."
+    },
+    {
+      "start": 3316.24,
+      "end": 3319.24,
+      "speaker": "SPEAKER_05",
+      "text": "We also have the transportation costs."
+    },
+    {
+      "start": 3319.24,
+      "end": 3322.24,
+      "speaker": "SPEAKER_05",
+      "text": "We have the import costs."
+    },
+    {
+      "start": 3322.24,
+      "end": 3324.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then we have the taxes."
+    },
+    {
+      "start": 3324.24,
+      "end": 3327.24,
+      "speaker": "SPEAKER_05",
+      "text": "Finally, we have this, you know, overall SG and A."
+    },
+    {
+      "start": 3327.24,
+      "end": 3330.24,
+      "speaker": "SPEAKER_05",
+      "text": "Look, we could bring the SG and A down, but that's not going to make a major difference."
+    },
+    {
+      "start": 3330.24,
+      "end": 3332.24,
+      "speaker": "SPEAKER_05",
+      "text": "We need to look at the big cost categories."
+    },
+    {
+      "start": 3332.24,
+      "end": 3334.24,
+      "speaker": "SPEAKER_05",
+      "text": "So could we lower price?"
+    },
+    {
+      "start": 3334.24,
+      "end": 3335.24,
+      "speaker": "SPEAKER_05",
+      "text": "Sure."
+    },
+    {
+      "start": 3335.24,
+      "end": 3337.24,
+      "speaker": "SPEAKER_05",
+      "text": "Do we want to maybe not?"
+    },
+    {
+      "start": 3337.24,
+      "end": 3340.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then maybe talk with me more detailed about what we would do there."
+    },
+    {
+      "start": 3340.24,
+      "end": 3342.24,
+      "speaker": "SPEAKER_05",
+      "text": "Maybe we should sell SUVs."
+    },
+    {
+      "start": 3342.24,
+      "end": 3343.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 3343.24,
+      "end": 3346.24,
+      "speaker": "SPEAKER_05",
+      "text": "So we have to differentiate ourselves through a different product."
+    },
+    {
+      "start": 3346.24,
+      "end": 3348.24,
+      "speaker": "SPEAKER_05",
+      "text": "Maybe we're going to have similar other numbers."
+    },
+    {
+      "start": 3348.24,
+      "end": 3352.24,
+      "speaker": "SPEAKER_05",
+      "text": "Maybe they won't be percentages, but we're going to get a higher price point in the first place."
+    },
+    {
+      "start": 3352.24,
+      "end": 3353.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so like, right."
+    },
+    {
+      "start": 3353.24,
+      "end": 3358.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so you kind of could probe into those once you've laid off the structure again."
+    },
+    {
+      "start": 3358.24,
+      "end": 3360.24,
+      "speaker": "SPEAKER_05",
+      "text": "Is that clear?"
+    },
+    {
+      "start": 3360.24,
+      "end": 3361.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yes."
+    },
+    {
+      "start": 3361.24,
+      "end": 3364.24,
+      "speaker": "SPEAKER_01",
+      "text": "So what I would have wanted for you guys to basically on."
+    },
+    {
+      "start": 3364.24,
+      "end": 3371.24,
+      "speaker": "SPEAKER_05",
+      "text": "So control yourself by writing down the categories of creative first."
+    },
+    {
+      "start": 3371.24,
+      "end": 3373.24,
+      "speaker": "SPEAKER_05",
+      "text": "Let me just and just say it out loud."
+    },
+    {
+      "start": 3373.24,
+      "end": 3375.24,
+      "speaker": "SPEAKER_05",
+      "text": "I'm going to write down my categories."
+    },
+    {
+      "start": 3375.24,
+      "end": 3377.24,
+      "speaker": "SPEAKER_05",
+      "text": "So category one is price."
+    },
+    {
+      "start": 3377.24,
+      "end": 3381.24,
+      "speaker": "SPEAKER_05",
+      "text": "Category two is transportation costs."
+    },
+    {
+      "start": 3381.24,
+      "end": 3385.24,
+      "speaker": "SPEAKER_05",
+      "text": "Category three is customs."
+    },
+    {
+      "start": 3385.24,
+      "end": 3388.24,
+      "speaker": "SPEAKER_05",
+      "text": "Category four is manufacturing."
+    },
+    {
+      "start": 3388.24,
+      "end": 3392.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I'm going to think about ways that we could adjust each one of them and then prioritize,"
+    },
+    {
+      "start": 3392.24,
+      "end": 3394.24,
+      "speaker": "SPEAKER_05",
+      "text": "which one makes the most sense."
+    },
+    {
+      "start": 3394.24,
+      "end": 3396.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then go back through for pricing."
+    },
+    {
+      "start": 3396.24,
+      "end": 3398.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then you could change the product mix."
+    },
+    {
+      "start": 3398.24,
+      "end": 3402.24,
+      "speaker": "SPEAKER_05",
+      "text": "Maybe selling SUVs or higher luxury price items."
+    },
+    {
+      "start": 3402.24,
+      "end": 3406.24,
+      "speaker": "SPEAKER_05",
+      "text": "So then you kind of go through each one of them and you anchor those like that."
+    },
+    {
+      "start": 3406.24,
+      "end": 3409.24,
+      "speaker": "SPEAKER_05",
+      "text": "But write it down and write down your categories first."
+    },
+    {
+      "start": 3409.24,
+      "end": 3411.24,
+      "speaker": "SPEAKER_05",
+      "text": "Then in your final."
+    },
+    {
+      "start": 3411.24,
+      "end": 3412.24,
+      "speaker": "SPEAKER_05",
+      "text": "Oh, go ahead."
+    },
+    {
+      "start": 3412.24,
+      "end": 3413.24,
+      "speaker": "SPEAKER_05",
+      "text": "Did you have a question?"
+    },
+    {
+      "start": 3413.24,
+      "end": 3418.24,
+      "speaker": "SPEAKER_01",
+      "text": "I was going to say like I usually end up like writing it out like just writing four buckets."
+    },
+    {
+      "start": 3418.24,
+      "end": 3419.24,
+      "speaker": "SPEAKER_01",
+      "text": "Like I think would take."
+    },
+    {
+      "start": 3419.24,
+      "end": 3420.24,
+      "speaker": "SPEAKER_01",
+      "text": "I would take a look at."
+    },
+    {
+      "start": 3420.24,
+      "end": 3422.24,
+      "speaker": "SPEAKER_01",
+      "text": "But if I'm crunching on time."
+    },
+    {
+      "start": 3422.24,
+      "end": 3425.24,
+      "speaker": "SPEAKER_01",
+      "text": "Is it worth my time to say, okay, category one is this category two is this."
+    },
+    {
+      "start": 3425.24,
+      "end": 3431.24,
+      "speaker": "SPEAKER_05",
+      "text": "Always to write the categories to then go into detail underneath the categories isn't as necessary."
+    },
+    {
+      "start": 3431.24,
+      "end": 3436.24,
+      "speaker": "SPEAKER_05",
+      "text": "But yeah, if I would have just known what the categories where I could have followed everything else you said more clearly."
+    },
+    {
+      "start": 3436.24,
+      "end": 3440.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I would have been, oh, she's structured, right, which is really in a BCG case."
+    },
+    {
+      "start": 3440.24,
+      "end": 3442.24,
+      "speaker": "SPEAKER_05",
+      "text": "I'm just going to rate you at the end."
+    },
+    {
+      "start": 3442.24,
+      "end": 3443.24,
+      "speaker": "SPEAKER_05",
+      "text": "Are you structured?"
+    },
+    {
+      "start": 3443.24,
+      "end": 3444.24,
+      "speaker": "SPEAKER_05",
+      "text": "Are you proficient at solving the problem?"
+    },
+    {
+      "start": 3444.24,
+      "end": 3446.24,
+      "speaker": "SPEAKER_05",
+      "text": "Are you good communicator?"
+    },
+    {
+      "start": 3446.24,
+      "end": 3448.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I'll do that in just a second."
+    },
+    {
+      "start": 3448.24,
+      "end": 3450.24,
+      "speaker": "SPEAKER_05",
+      "text": "The final step was the closing."
+    },
+    {
+      "start": 3450.24,
+      "end": 3454.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I actually find it kind of odd that you were like enter the market."
+    },
+    {
+      "start": 3454.24,
+      "end": 3459.24,
+      "speaker": "SPEAKER_05",
+      "text": "Because we, I told you the mission was that we were supposed to break even in two years."
+    },
+    {
+      "start": 3459.24,
+      "end": 3461.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then you're like enter the market."
+    },
+    {
+      "start": 3461.24,
+      "end": 3465.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so you're closing delivery was a really good."
+    },
+    {
+      "start": 3465.24,
+      "end": 3470.24,
+      "speaker": "SPEAKER_05",
+      "text": "I just found the actual choice of what you recommended to be a little bit unclear."
+    },
+    {
+      "start": 3470.24,
+      "end": 3472.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I liked the recap piece."
+    },
+    {
+      "start": 3472.24,
+      "end": 3474.24,
+      "speaker": "SPEAKER_05",
+      "text": "I liked the recommendation piece."
+    },
+    {
+      "start": 3474.24,
+      "end": 3476.24,
+      "speaker": "SPEAKER_05",
+      "text": "But that part I would have tweaked."
+    },
+    {
+      "start": 3476.24,
+      "end": 3477.24,
+      "speaker": "SPEAKER_05",
+      "text": "I loved your next steps."
+    },
+    {
+      "start": 3477.24,
+      "end": 3482.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so I just felt like the whole thing flowed out of actually a different recommendation."
+    },
+    {
+      "start": 3482.24,
+      "end": 3485.24,
+      "speaker": "SPEAKER_05",
+      "text": "So it felt like it was almost doubling back on each other a little bit."
+    },
+    {
+      "start": 3485.24,
+      "end": 3487.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I think the delivery was fine."
+    },
+    {
+      "start": 3487.24,
+      "end": 3489.24,
+      "speaker": "SPEAKER_05",
+      "text": "I think the structure of it was there."
+    },
+    {
+      "start": 3489.24,
+      "end": 3495.24,
+      "speaker": "SPEAKER_05",
+      "text": "Again, I would just really reflect on going back to the mission of the case and making sure that you responded to it."
+    },
+    {
+      "start": 3495.24,
+      "end": 3499.24,
+      "speaker": "SPEAKER_05",
+      "text": "That about 80% of the cases the answer is going to be yes, but that 20% that are no."
+    },
+    {
+      "start": 3499.24,
+      "end": 3502.24,
+      "speaker": "SPEAKER_05",
+      "text": "I don't want you to just force it into a yes."
+    },
+    {
+      "start": 3502.24,
+      "end": 3503.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 3503.24,
+      "end": 3504.24,
+      "speaker": "SPEAKER_05",
+      "text": "Right."
+    },
+    {
+      "start": 3504.24,
+      "end": 3510.24,
+      "speaker": "SPEAKER_01",
+      "text": "I mean, I think where my argument was going to go there was even though we don't break even in two years will break even in three."
+    },
+    {
+      "start": 3510.24,
+      "end": 3512.24,
+      "speaker": "SPEAKER_01",
+      "text": "And they're still profit to be made here."
+    },
+    {
+      "start": 3512.24,
+      "end": 3517.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I think maybe we could still enter even though it doesn't meet our criteria."
+    },
+    {
+      "start": 3517.24,
+      "end": 3520.24,
+      "speaker": "SPEAKER_01",
+      "text": "It just we just have to wait maybe six months."
+    },
+    {
+      "start": 3520.24,
+      "end": 3521.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 3521.24,
+      "end": 3522.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I wouldn't have dined you for it."
+    },
+    {
+      "start": 3522.24,
+      "end": 3523.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I still like to."
+    },
+    {
+      "start": 3523.24,
+      "end": 3524.24,
+      "speaker": "SPEAKER_05",
+      "text": "So."
+    },
+    {
+      "start": 3524.24,
+      "end": 3526.24,
+      "speaker": "SPEAKER_05",
+      "text": "But but all that I was saying is that."
+    },
+    {
+      "start": 3526.24,
+      "end": 3534.24,
+      "speaker": "SPEAKER_05",
+      "text": "I think you would have wanted to have some more verification that we could we could have gotten that and maybe a better creative structure beforehand."
+    },
+    {
+      "start": 3534.24,
+      "end": 3537.24,
+      "speaker": "SPEAKER_05",
+      "text": "Like I think that the way that we're going to do this is by."
+    },
+    {
+      "start": 3537.24,
+      "end": 3540.24,
+      "speaker": "SPEAKER_05",
+      "text": "You know, batch transporting them."
+    },
+    {
+      "start": 3540.24,
+      "end": 3542.24,
+      "speaker": "SPEAKER_05",
+      "text": "So we're going to do like one transport a month."
+    },
+    {
+      "start": 3542.24,
+      "end": 3549.24,
+      "speaker": "SPEAKER_05",
+      "text": "Gosh, if we just get those costs down by like $5,000 per car, then we break even easily in the two years, right?"
+    },
+    {
+      "start": 3549.24,
+      "end": 3556.24,
+      "speaker": "SPEAKER_05",
+      "text": "So like I was looking for something tying the actual performance to the metrics that we were looking for."
+    },
+    {
+      "start": 3556.24,
+      "end": 3557.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah."
+    },
+    {
+      "start": 3557.24,
+      "end": 3559.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so good."
+    },
+    {
+      "start": 3559.24,
+      "end": 3561.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah. So then my final score."
+    },
+    {
+      "start": 3561.24,
+      "end": 3565.24,
+      "speaker": "SPEAKER_05",
+      "text": "So basically BCG scores you on the three core categories, right?"
+    },
+    {
+      "start": 3565.24,
+      "end": 3568.24,
+      "speaker": "SPEAKER_05",
+      "text": "Where you structured was it."
+    },
+    {
+      "start": 3568.24,
+      "end": 3571.24,
+      "speaker": "SPEAKER_05",
+      "text": "How was the problem solving and then what was the communication like?"
+    },
+    {
+      "start": 3571.24,
+      "end": 3579.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so I would have given you like out of if we called it a four point score with one being the highest and four being below us."
+    },
+    {
+      "start": 3579.24,
+      "end": 3585.24,
+      "speaker": "SPEAKER_05",
+      "text": "I would have given you two's on the structure and on the problem solving, which is really good."
+    },
+    {
+      "start": 3585.24,
+      "end": 3589.24,
+      "speaker": "SPEAKER_05",
+      "text": "That would have gotten you already into the final round, but it's not."
+    },
+    {
+      "start": 3589.24,
+      "end": 3593.24,
+      "speaker": "SPEAKER_05",
+      "text": "It's not perfect, right? It's not like what what somebody at BCG would do currently."
+    },
+    {
+      "start": 3593.24,
+      "end": 3602.24,
+      "speaker": "SPEAKER_05",
+      "text": "So that's just where I think your biggest opportunity is is really like making the structure super clear and making sure that you do that insight before data piece."
+    },
+    {
+      "start": 3602.24,
+      "end": 3605.24,
+      "speaker": "SPEAKER_05",
+      "text": "And then the communication you were a one."
+    },
+    {
+      "start": 3605.24,
+      "end": 3608.24,
+      "speaker": "SPEAKER_05",
+      "text": "It was fantastic across the board. And so."
+    },
+    {
+      "start": 3608.24,
+      "end": 3610.24,
+      "speaker": "SPEAKER_05",
+      "text": "So again, congratulations."
+    },
+    {
+      "start": 3610.24,
+      "end": 3611.24,
+      "speaker": "SPEAKER_05",
+      "text": "I thought that was a really good case."
+    },
+    {
+      "start": 3611.24,
+      "end": 3614.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I hope that you found that you back valuable."
+    },
+    {
+      "start": 3614.24,
+      "end": 3618.24,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you. I appreciate that. I also appreciate that you made it a little bit more difficult."
+    },
+    {
+      "start": 3618.24,
+      "end": 3621.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that I could get some some good."
+    },
+    {
+      "start": 3621.24,
+      "end": 3625.24,
+      "speaker": "SPEAKER_01",
+      "text": "Pressure some fire under myself to be better."
+    },
+    {
+      "start": 3625.24,
+      "end": 3628.24,
+      "speaker": "SPEAKER_01",
+      "text": "So the structure problem solving you give me a two."
+    },
+    {
+      "start": 3628.24,
+      "end": 3631.24,
+      "speaker": "SPEAKER_01",
+      "text": "It wouldn't be enough to pass me on the final, but it would be enough to get me."
+    },
+    {
+      "start": 3631.24,
+      "end": 3635.24,
+      "speaker": "SPEAKER_05",
+      "text": "It would it would just it would just leave you in the in the yellow zone, right?"
+    },
+    {
+      "start": 3635.24,
+      "end": 3638.24,
+      "speaker": "SPEAKER_05",
+      "text": "There's a green yellow and a red zone. You wouldn't have been in the red zone."
+    },
+    {
+      "start": 3638.24,
+      "end": 3641.24,
+      "speaker": "SPEAKER_05",
+      "text": "You would have been in the definite nose, but you wouldn't have been in the green zone."
+    },
+    {
+      "start": 3641.24,
+      "end": 3644.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so you might have gotten an offer and you might not have gotten an offer."
+    },
+    {
+      "start": 3644.24,
+      "end": 3647.24,
+      "speaker": "SPEAKER_05",
+      "text": "And that is just the worst way to be in my opinion."
+    },
+    {
+      "start": 3647.24,
+      "end": 3650.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah. I mean, you don't want to be in the definite nose either, but."
+    },
+    {
+      "start": 3650.24,
+      "end": 3655.24,
+      "speaker": "SPEAKER_05",
+      "text": "But if you're going to be so close, I just think you have a couple of very fixable things."
+    },
+    {
+      "start": 3655.24,
+      "end": 3661.24,
+      "speaker": "SPEAKER_05",
+      "text": "That that are going to be, you know, that that you just need one or two good practice partners to really push you."
+    },
+    {
+      "start": 3661.24,
+      "end": 3664.24,
+      "speaker": "SPEAKER_05",
+      "text": "On those to say like I actually couldn't fall your structure."
+    },
+    {
+      "start": 3664.24,
+      "end": 3665.24,
+      "speaker": "SPEAKER_05",
+      "text": "Just go back and do it again."
+    },
+    {
+      "start": 3665.24,
+      "end": 3673.24,
+      "speaker": "SPEAKER_05",
+      "text": "Or I or like in the math, like let's just go back and do it a second time and see if I, you know, time, I timed the first time it was 11 minutes."
+    },
+    {
+      "start": 3673.24,
+      "end": 3676.24,
+      "speaker": "SPEAKER_05",
+      "text": "Like let's see if we can make it faster a second time, right?"
+    },
+    {
+      "start": 3676.24,
+      "end": 3680.24,
+      "speaker": "SPEAKER_05",
+      "text": "And just kind of like run through so you can kind of reach a good process."
+    },
+    {
+      "start": 3680.24,
+      "end": 3687.24,
+      "speaker": "SPEAKER_01",
+      "text": "Got it. Okay. And that last point where I didn't I wasn't able to conceptualize the dividing the."
+    },
+    {
+      "start": 3687.24,
+      "end": 3693.24,
+      "speaker": "SPEAKER_01",
+      "text": "Like just comparing the profit to the break even now that I'm looking at it. I'm like, how did I end up doing that?"
+    },
+    {
+      "start": 3693.24,
+      "end": 3699.24,
+      "speaker": "SPEAKER_01",
+      "text": "But if I make that mistake in like if I was just so bogged down in the math and I was looking at it and like it was just crazy."
+    },
+    {
+      "start": 3699.24,
+      "end": 3706.24,
+      "speaker": "SPEAKER_05",
+      "text": "That that was why you got it like a two instead of a one or a, you know, like the kind of second highest number."
+    },
+    {
+      "start": 3706.24,
+      "end": 3715.24,
+      "speaker": "SPEAKER_05",
+      "text": "For that for the for that number for BCG because that I wanted to see that the insight piece was really strong."
+    },
+    {
+      "start": 3715.24,
+      "end": 3721.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I felt like you were so fluid with the numbers, but I wouldn't want you to bring me a number and be like, here you go."
+    },
+    {
+      "start": 3721.24,
+      "end": 3724.24,
+      "speaker": "SPEAKER_05",
+      "text": "I would want you to be like, right, even or not, right?"
+    },
+    {
+      "start": 3724.24,
+      "end": 3727.24,
+      "speaker": "SPEAKER_05",
+      "text": "I really wanted you to go all the way to to think about how they answered that."
+    },
+    {
+      "start": 3727.24,
+      "end": 3733.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so so you can pause a little bit when you get that moment like on insights."
+    },
+    {
+      "start": 3733.24,
+      "end": 3737.24,
+      "speaker": "SPEAKER_05",
+      "text": "It's not like McKinsey where you can see like kind of take 20 seconds to plan the whole thing."
+    },
+    {
+      "start": 3737.24,
+      "end": 3743.24,
+      "speaker": "SPEAKER_05",
+      "text": "But you can certainly say, let me just look at it for a second. Like you had moments to do that inside the case and that might help us."
+    },
+    {
+      "start": 3743.24,
+      "end": 3747.24,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, okay. Okay. Good to know."
+    },
+    {
+      "start": 3747.24,
+      "end": 3749.24,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome. Okay."
+    },
+    {
+      "start": 3749.24,
+      "end": 3751.24,
+      "speaker": "SPEAKER_05",
+      "text": "I think it's everything I have right now."
+    },
+    {
+      "start": 3751.24,
+      "end": 3754.24,
+      "speaker": "SPEAKER_05",
+      "text": "Okay, awesome. I know that a couple of people had questions."
+    },
+    {
+      "start": 3754.24,
+      "end": 3757.24,
+      "speaker": "SPEAKER_05",
+      "text": "So I just wanted to answer a few of the ones that have come through in the chat bar."
+    },
+    {
+      "start": 3757.24,
+      "end": 3763.24,
+      "speaker": "SPEAKER_05",
+      "text": "And I also just want to make sure that everybody's questions about the insights and the feedback are answered."
+    },
+    {
+      "start": 3763.24,
+      "end": 3771.24,
+      "speaker": "SPEAKER_05",
+      "text": "So it will, I think you said, did anyone calculate how long would take to break even it's about 3.3 years with current revenues and costs."
+    },
+    {
+      "start": 3771.24,
+      "end": 3774.24,
+      "speaker": "SPEAKER_05",
+      "text": "And so we said that's not crazy."
+    },
+    {
+      "start": 3774.24,
+      "end": 3778.24,
+      "speaker": "SPEAKER_05",
+      "text": "It's aggressive to say that we want to break even in two years, but it is risky."
+    },
+    {
+      "start": 3778.24,
+      "end": 3783.24,
+      "speaker": "SPEAKER_05",
+      "text": "The main risk, which we didn't identify in our discussion is that."
+    },
+    {
+      "start": 3783.24,
+      "end": 3790.24,
+      "speaker": "SPEAKER_05",
+      "text": "Like it would be super easy for BMW to just drop their prices by 4% right where at really small margins right now."
+    },
+    {
+      "start": 3790.24,
+      "end": 3797.24,
+      "speaker": "SPEAKER_05",
+      "text": "In the case that like that you know 3% or 3,000 dollars out of the 70."
+    },
+    {
+      "start": 3797.24,
+      "end": 3801.24,
+      "speaker": "SPEAKER_05",
+      "text": "Out of the like 80,000 is a really small percentage of the margin."
+    },
+    {
+      "start": 3801.24,
+      "end": 3809.24,
+      "speaker": "SPEAKER_05",
+      "text": "So they could just wipe us out by dropping the price to like 74,000 dollars or 77,000 dollars even you know."
+    },
+    {
+      "start": 3809.24,
+      "end": 3811.24,
+      "speaker": "SPEAKER_05",
+      "text": "And we don't have any profit whatsoever."
+    },
+    {
+      "start": 3811.24,
+      "end": 3813.24,
+      "speaker": "SPEAKER_05",
+      "text": "So there there were some challenges."
+    },
+    {
+      "start": 3813.24,
+      "end": 3819.24,
+      "speaker": "SPEAKER_05",
+      "text": "I'm thinking even about the competitive reaction."
+    },
+    {
+      "start": 3819.24,
+      "end": 3820.24,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah, run it."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 12,
+    "math": 8,
+    "case_difficulty": 10,
+    "final_summary": 11,
+    "overall_thoughts": "You communicated clearly, but the math was shaky and the framework could be stronger."
+  }
+}

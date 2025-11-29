@@ -1,0 +1,3104 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.44,
+    "speaker": "SPEAKER_00",
+    "text": "LiveCase interview, a product or service-launch case, Pudong Hospital."
+  },
+  {
+    "start": 5.44,
+    "end": 8.34,
+    "speaker": "SPEAKER_01",
+    "text": "Hey, Doa, welcome. Are you ready to get started?"
+  },
+  {
+    "start": 8.34,
+    "end": 10.74,
+    "speaker": "SPEAKER_02",
+    "text": "Hi, we're Sean. Yeah, I am. Let's go."
+  },
+  {
+    "start": 10.74,
+    "end": 16.02,
+    "speaker": "SPEAKER_01",
+    "text": "Wonderful. So our client is Pudong Hospital, a hospital based in China."
+  },
+  {
+    "start": 16.02,
+    "end": 20.3,
+    "speaker": "SPEAKER_01",
+    "text": "And they provide most medical services that you can think of, including surgery,"
+  },
+  {
+    "start": 20.3,
+    "end": 26.2,
+    "speaker": "SPEAKER_01",
+    "text": "kind of consultative type services as well, across 15 different medical departments."
+  },
+  {
+    "start": 26.36,
+    "end": 30.119999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "They do have a couple of key gaps though in their current services, which include"
+  },
+  {
+    "start": 30.119999999999997,
+    "end": 35.34,
+    "speaker": "SPEAKER_01",
+    "text": "pathology, nuclear medicine, biochemistry services."
+  },
+  {
+    "start": 35.34,
+    "end": 39.4,
+    "speaker": "SPEAKER_01",
+    "text": "And so they're currently exploring particularly for the pathology service,"
+  },
+  {
+    "start": 39.4,
+    "end": 43.76,
+    "speaker": "SPEAKER_01",
+    "text": "whether or not to sever their current contract with a third party,"
+  },
+  {
+    "start": 43.76,
+    "end": 47.44,
+    "speaker": "SPEAKER_01",
+    "text": "and offer that service within the hospital so that they can provide cancer"
+  },
+  {
+    "start": 47.44,
+    "end": 52.08,
+    "speaker": "SPEAKER_01",
+    "text": "patients with the full suite of services that they need all within the hospital."
+  },
+  {
+    "start": 52.08,
+    "end": 55.6,
+    "speaker": "SPEAKER_01",
+    "text": "So they've brought on our team to help them evaluate whether or not that"
+  },
+  {
+    "start": 55.6,
+    "end": 57.56,
+    "speaker": "SPEAKER_01",
+    "text": "makes sense to move forward with."
+  },
+  {
+    "start": 57.56,
+    "end": 61.0,
+    "speaker": "SPEAKER_01",
+    "text": "How would you help them think about the right path forward?"
+  },
+  {
+    "start": 61.0,
+    "end": 68.24000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, so before we get started, I would like to just clarify to make sure that I get it right."
+  },
+  {
+    "start": 68.24000000000001,
+    "end": 76.48,
+    "speaker": "SPEAKER_02",
+    "text": "It's a Chinese hospital group that has several services out of which is pathology,"
+  },
+  {
+    "start": 76.48,
+    "end": 80.56,
+    "speaker": "SPEAKER_02",
+    "text": "but they're currently not doing it in-house, and they're considering whether they"
+  },
+  {
+    "start": 80.56,
+    "end": 84.32000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "shall get this service done in-house or not."
+  },
+  {
+    "start": 84.32000000000001,
+    "end": 85.32000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Is that correct?"
+  },
+  {
+    "start": 85.32000000000001,
+    "end": 86.32000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "start": 86.32000000000001,
+    "end": 88.32000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "That's spot on."
+  },
+  {
+    "start": 88.32000000000001,
+    "end": 89.88,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, awesome."
+  },
+  {
+    "start": 89.88,
+    "end": 95.64,
+    "speaker": "SPEAKER_02",
+    "text": "So yeah, I will just build my framework on that, but before we start,"
+  },
+  {
+    "start": 95.64,
+    "end": 99.88,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to clarify a couple of other points if it's okay."
+  },
+  {
+    "start": 99.88,
+    "end": 107.4,
+    "speaker": "SPEAKER_02",
+    "text": "So first thing coming to my mind is how big is our client in size?"
+  },
+  {
+    "start": 107.4,
+    "end": 113.60000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "And another thing is like this pathology service, since it's a very technical thing,"
+  },
+  {
+    "start": 113.60000000000001,
+    "end": 121.64,
+    "speaker": "SPEAKER_02",
+    "text": "I wonder where does it stand in the value chain of their hospital service as a whole?"
+  },
+  {
+    "start": 121.64,
+    "end": 128.24,
+    "speaker": "SPEAKER_02",
+    "text": "And any particular objective, if they have any either financial or strategic that I would"
+  },
+  {
+    "start": 128.24,
+    "end": 134.48000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "like to know before I start building my framework, do we have any information on those points?"
+  },
+  {
+    "start": 134.48000000000002,
+    "end": 135.48000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Absolutely."
+  },
+  {
+    "start": 135.48,
+    "end": 142.44,
+    "speaker": "SPEAKER_01",
+    "text": "So all three of those areas are great questions in terms of hospital size or kind of organizational"
+  },
+  {
+    "start": 142.44,
+    "end": 143.44,
+    "speaker": "SPEAKER_01",
+    "text": "size."
+  },
+  {
+    "start": 143.44,
+    "end": 150.2,
+    "speaker": "SPEAKER_01",
+    "text": "Our client is a 30-year-old hospital group with 2500 bed hospitals spread across mainland"
+  },
+  {
+    "start": 150.2,
+    "end": 154.32,
+    "speaker": "SPEAKER_01",
+    "text": "China, so pretty, pretty sizable operation."
+  },
+  {
+    "start": 154.32,
+    "end": 158.39999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "In terms of your second question, I think, around pathology services and where they sit"
+  },
+  {
+    "start": 158.39999999999998,
+    "end": 163.79999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "in kind of the value chain, that's the diagnostic phase for most cancer treatments."
+  },
+  {
+    "start": 163.8,
+    "end": 169.88000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "And so once a patient is diagnosed, the related therapies like surgery and chemotherapy start"
+  },
+  {
+    "start": 169.88000000000002,
+    "end": 171.84,
+    "speaker": "SPEAKER_01",
+    "text": "after that process."
+  },
+  {
+    "start": 171.84,
+    "end": 176.08,
+    "speaker": "SPEAKER_01",
+    "text": "So they currently direct their patients to their partner laboratories to provide those pathology"
+  },
+  {
+    "start": 176.08,
+    "end": 177.08,
+    "speaker": "SPEAKER_01",
+    "text": "services."
+  },
+  {
+    "start": 177.08,
+    "end": 182.08,
+    "speaker": "SPEAKER_01",
+    "text": "And again, that's the unfruit part that they're thinking about bringing in house."
+  },
+  {
+    "start": 182.08,
+    "end": 185.28,
+    "speaker": "SPEAKER_01",
+    "text": "And then I think your last question was around financial objectives."
+  },
+  {
+    "start": 185.28,
+    "end": 186.28,
+    "speaker": "SPEAKER_01",
+    "text": "Is that right?"
+  },
+  {
+    "start": 186.28,
+    "end": 191.84,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, both either financial or strategic, any kind of objective that I'd like to know."
+  },
+  {
+    "start": 191.84,
+    "end": 192.84,
+    "speaker": "SPEAKER_01",
+    "text": "Sure."
+  },
+  {
+    "start": 192.88,
+    "end": 193.84,
+    "speaker": "SPEAKER_01",
+    "text": "So I think that's a good question."
+  },
+  {
+    "start": 193.84,
+    "end": 198.8,
+    "speaker": "SPEAKER_01",
+    "text": "I think from a strategic and operational fit, of course, want to flag any areas where that"
+  },
+  {
+    "start": 198.8,
+    "end": 203.4,
+    "speaker": "SPEAKER_01",
+    "text": "just wouldn't be the right direction for the client, whether that's fit with their existing"
+  },
+  {
+    "start": 203.4,
+    "end": 205.68,
+    "speaker": "SPEAKER_01",
+    "text": "services, things like that."
+  },
+  {
+    "start": 205.68,
+    "end": 210.96,
+    "speaker": "SPEAKER_01",
+    "text": "In terms of financial goals, they do have a pretty clear cut goal there where they would"
+  },
+  {
+    "start": 210.96,
+    "end": 215.92000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "like to generate 30 million in profit and total over the next five years to deem this"
+  },
+  {
+    "start": 215.92000000000002,
+    "end": 218.92000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "a worthwhile investment for their hospital."
+  },
+  {
+    "start": 218.92000000000002,
+    "end": 219.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 219.92000000000002,
+    "end": 220.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 220.92,
+    "end": 226.11999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Pretty million dollars in terms of dollars over the next five years in total is profit."
+  },
+  {
+    "start": 226.11999999999998,
+    "end": 227.11999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, exactly."
+  },
+  {
+    "start": 227.11999999999998,
+    "end": 230.39999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "And for its simplicity, just to see me, Westine."
+  },
+  {
+    "start": 230.39999999999998,
+    "end": 231.39999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 231.39999999999998,
+    "end": 232.39999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 232.39999999999998,
+    "end": 233.39999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 233.39999999999998,
+    "end": 236.56,
+    "speaker": "SPEAKER_02",
+    "text": "And it's a big hospital group with 20 big hospitals."
+  },
+  {
+    "start": 236.56,
+    "end": 237.56,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 237.56,
+    "end": 238.56,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 238.56,
+    "end": 244.79999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "May I take a minute just to build my framework and then I'd like to verify it with you."
+  },
+  {
+    "start": 244.79999999999998,
+    "end": 246.04,
+    "speaker": "SPEAKER_01",
+    "text": "Of course, take your time."
+  },
+  {
+    "start": 246.04,
+    "end": 247.04,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 247.04,
+    "end": 248.04,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 248.04,
+    "end": 249.04,
+    "speaker": "UNKNOWN",
+    "text": "Thank you."
+  },
+  {
+    "start": 249.04,
+    "end": 250.04,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 250.04,
+    "end": 263.52,
+    "speaker": "SPEAKER_02",
+    "text": "So in my approach to this case, I would like to split into three groups."
+  },
+  {
+    "start": 263.52,
+    "end": 267.12,
+    "speaker": "SPEAKER_02",
+    "text": "And within each three, there will be some subsections."
+  },
+  {
+    "start": 267.12,
+    "end": 273.64,
+    "speaker": "SPEAKER_02",
+    "text": "First of all, I would like to check whether this investment is fitting strategically to"
+  },
+  {
+    "start": 273.64,
+    "end": 276.24,
+    "speaker": "SPEAKER_02",
+    "text": "decline under strategy."
+  },
+  {
+    "start": 276.24,
+    "end": 280.8,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to check both the internal and the external and under internal."
+  },
+  {
+    "start": 280.8,
+    "end": 286.56,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to see whether it's compliant with the client's vision, whether the client"
+  },
+  {
+    "start": 286.56,
+    "end": 294.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "has enough capabilities to implement this investment and whether they have the competent processes"
+  },
+  {
+    "start": 294.71999999999997,
+    "end": 299.12,
+    "speaker": "SPEAKER_02",
+    "text": "that they can integrate to the new work environment."
+  },
+  {
+    "start": 299.12,
+    "end": 304.94,
+    "speaker": "SPEAKER_02",
+    "text": "And on the external part, I would like to see who our customers are and how they will"
+  },
+  {
+    "start": 304.94,
+    "end": 313.56,
+    "speaker": "SPEAKER_02",
+    "text": "be affected by this and who our competition is and basically whether we will have a sustainable"
+  },
+  {
+    "start": 313.56,
+    "end": 316.56,
+    "speaker": "SPEAKER_02",
+    "text": "competitive advantage by making this move."
+  },
+  {
+    "start": 316.56,
+    "end": 322.96,
+    "speaker": "SPEAKER_02",
+    "text": "And lastly, how will such move affect our brand image as the hospital group?"
+  },
+  {
+    "start": 322.96,
+    "end": 324.76,
+    "speaker": "SPEAKER_02",
+    "text": "So this was a strategic fit part."
+  },
+  {
+    "start": 324.76,
+    "end": 328.32,
+    "speaker": "SPEAKER_02",
+    "text": "And the second part is the financial assessment, of course."
+  },
+  {
+    "start": 328.32,
+    "end": 334.36,
+    "speaker": "SPEAKER_02",
+    "text": "And under financial assessment, I would like to see basically how can we benefit from this"
+  },
+  {
+    "start": 334.36,
+    "end": 336.15999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "financially under that?"
+  },
+  {
+    "start": 336.15999999999997,
+    "end": 341.68,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to investigate the revenues which we can break down as the number of new treatments"
+  },
+  {
+    "start": 341.68,
+    "end": 344.92,
+    "speaker": "SPEAKER_02",
+    "text": "times the revenue per treatment."
+  },
+  {
+    "start": 344.92,
+    "end": 347.0,
+    "speaker": "SPEAKER_02",
+    "text": "Of course, we need to clarify that point."
+  },
+  {
+    "start": 347.0,
+    "end": 352.15999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "And on the cost side, there will be some probably one of investment and then there will be"
+  },
+  {
+    "start": 352.16,
+    "end": 357.48,
+    "speaker": "SPEAKER_02",
+    "text": "some change in the cost structure both the fixed and the variable side."
+  },
+  {
+    "start": 357.48,
+    "end": 365.40000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "And after having this profit calculation, I would like to see basically whether this profit"
+  },
+  {
+    "start": 365.40000000000003,
+    "end": 370.52000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "expectation meet our target of 30 million within the first five years."
+  },
+  {
+    "start": 370.52000000000004,
+    "end": 377.76000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "And then if so, we'll be able to afford that investment as the last part in the financial"
+  },
+  {
+    "start": 377.76000000000005,
+    "end": 379.24,
+    "speaker": "SPEAKER_02",
+    "text": "assessment."
+  },
+  {
+    "start": 379.24,
+    "end": 386.0,
+    "speaker": "SPEAKER_02",
+    "text": "And the third section will be the risks given that we have a strategy and financially"
+  },
+  {
+    "start": 386.0,
+    "end": 388.40000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "feasible investment opportunity."
+  },
+  {
+    "start": 388.40000000000003,
+    "end": 395.32,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to just consider some risks which I can of course clarify later on in the"
+  },
+  {
+    "start": 395.32,
+    "end": 396.32,
+    "speaker": "SPEAKER_02",
+    "text": "case."
+  },
+  {
+    "start": 396.32,
+    "end": 400.8,
+    "speaker": "SPEAKER_02",
+    "text": "But first of all, it can be our relationships with our current partners, which you mentioned"
+  },
+  {
+    "start": 400.8,
+    "end": 405.32,
+    "speaker": "SPEAKER_02",
+    "text": "as we were outsourcing the pathology services currently."
+  },
+  {
+    "start": 405.32,
+    "end": 411.92,
+    "speaker": "SPEAKER_02",
+    "text": "And other risks can be adoption of the new processes by our organization after the"
+  },
+  {
+    "start": 411.92,
+    "end": 413.44,
+    "speaker": "SPEAKER_02",
+    "text": "emesment."
+  },
+  {
+    "start": 413.44,
+    "end": 419.0,
+    "speaker": "SPEAKER_02",
+    "text": "And the third, lastly, will be the demand side, whether there will be enough demand from"
+  },
+  {
+    "start": 419.0,
+    "end": 424.84,
+    "speaker": "SPEAKER_02",
+    "text": "the customers from the market in this pathology services that we're going to launch."
+  },
+  {
+    "start": 424.84,
+    "end": 427.24,
+    "speaker": "SPEAKER_02",
+    "text": "How does this framework sound like?"
+  },
+  {
+    "start": 427.24,
+    "end": 430.08,
+    "speaker": "SPEAKER_00",
+    "text": "Let's see how the candidate is doing so far."
+  },
+  {
+    "start": 430.08,
+    "end": 435.56,
+    "speaker": "SPEAKER_00",
+    "text": "He starts the case well by recapping the initial prompt and asking important questions, such"
+  },
+  {
+    "start": 435.56,
+    "end": 439.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "as the definition of pathology services."
+  },
+  {
+    "start": 439.15999999999997,
+    "end": 443.08,
+    "speaker": "SPEAKER_00",
+    "text": "Understanding the core offerings earlier in the case is essential to make the framework"
+  },
+  {
+    "start": 443.08,
+    "end": 445.8,
+    "speaker": "SPEAKER_00",
+    "text": "sound more customized to the case."
+  },
+  {
+    "start": 445.8,
+    "end": 449.36,
+    "speaker": "SPEAKER_00",
+    "text": "Overall, he provides a good structure to his framework."
+  },
+  {
+    "start": 449.36,
+    "end": 454.24,
+    "speaker": "SPEAKER_00",
+    "text": "First, he suggests assessing if entering the pathology services is a good strategic"
+  },
+  {
+    "start": 454.24,
+    "end": 455.84,
+    "speaker": "SPEAKER_00",
+    "text": "fit for the client."
+  },
+  {
+    "start": 455.84,
+    "end": 460.35999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "Second, he will run the numbers to check if the proposed strategy will meet the client's"
+  },
+  {
+    "start": 460.35999999999996,
+    "end": 462.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "financial objectives."
+  },
+  {
+    "start": 462.15999999999997,
+    "end": 464.4,
+    "speaker": "SPEAKER_00",
+    "text": "And lastly, the risks."
+  },
+  {
+    "start": 464.4,
+    "end": 469.88,
+    "speaker": "SPEAKER_00",
+    "text": "In terms of area for improvement, he could have asked his clarifying questions one by one,"
+  },
+  {
+    "start": 469.88,
+    "end": 472.64,
+    "speaker": "SPEAKER_00",
+    "text": "instead of asking three of them altogether."
+  },
+  {
+    "start": 472.64,
+    "end": 478.03999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "As a general comment, asking multiple questions at once in any part of the case may make it"
+  },
+  {
+    "start": 478.03999999999996,
+    "end": 481.12,
+    "speaker": "SPEAKER_00",
+    "text": "hard for the interviewer to follow the candidate."
+  },
+  {
+    "start": 481.84000000000003,
+    "end": 486.24,
+    "speaker": "SPEAKER_01",
+    "text": "No, I think that's a solid and pretty comprehensive framework."
+  },
+  {
+    "start": 486.24,
+    "end": 487.8,
+    "speaker": "SPEAKER_01",
+    "text": "So sounds great to me."
+  },
+  {
+    "start": 487.8,
+    "end": 489.4,
+    "speaker": "SPEAKER_01",
+    "text": "Where would you like to start?"
+  },
+  {
+    "start": 489.4,
+    "end": 490.4,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, perfect."
+  },
+  {
+    "start": 490.4,
+    "end": 492.64,
+    "speaker": "SPEAKER_02",
+    "text": "So I would like to start from the strategic fit first."
+  },
+  {
+    "start": 492.64,
+    "end": 498.64,
+    "speaker": "SPEAKER_02",
+    "text": "And under that, internally, I would like to see, basically, investigate whether the"
+  },
+  {
+    "start": 498.64,
+    "end": 503.44,
+    "speaker": "SPEAKER_02",
+    "text": "investment is compliant with our region, if you have any."
+  },
+  {
+    "start": 503.44,
+    "end": 508.72,
+    "speaker": "SPEAKER_02",
+    "text": "And then I would like to check whether we have enough capabilities to implement such"
+  },
+  {
+    "start": 508.72,
+    "end": 519.72,
+    "speaker": "SPEAKER_02",
+    "text": "an initiative and lastly, how do our processes basically work and whether they can be adopted"
+  },
+  {
+    "start": 519.72,
+    "end": 524.28,
+    "speaker": "SPEAKER_02",
+    "text": "to the new work style after the investment."
+  },
+  {
+    "start": 524.28,
+    "end": 527.36,
+    "speaker": "SPEAKER_02",
+    "text": "Do we have any information on those three points?"
+  },
+  {
+    "start": 527.36,
+    "end": 528.36,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect."
+  },
+  {
+    "start": 528.36,
+    "end": 529.36,
+    "speaker": "SPEAKER_01",
+    "text": "Absolutely."
+  },
+  {
+    "start": 529.36,
+    "end": 534.44,
+    "speaker": "SPEAKER_01",
+    "text": "So in the vision piece, it sounds like we're talking about fit with services currently"
+  },
+  {
+    "start": 534.44,
+    "end": 540.5200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "provided by the hospital and kind of the equipment and facilities needed for that."
+  },
+  {
+    "start": 540.5200000000001,
+    "end": 545.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So in terms of a fit with that vision, the client does want to make sure that bringing the"
+  },
+  {
+    "start": 545.0400000000001,
+    "end": 551.24,
+    "speaker": "SPEAKER_01",
+    "text": "pathology services in-house would flawlessly integrate with the other services and departments"
+  },
+  {
+    "start": 551.24,
+    "end": 552.24,
+    "speaker": "SPEAKER_01",
+    "text": "within the hospital."
+  },
+  {
+    "start": 552.24,
+    "end": 554.48,
+    "speaker": "SPEAKER_01",
+    "text": "So that's really key."
+  },
+  {
+    "start": 554.48,
+    "end": 558.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "But the requirements for those pathology services themselves are quite similar to other things"
+  },
+  {
+    "start": 558.8000000000001,
+    "end": 560.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "already in the hospital."
+  },
+  {
+    "start": 560.1600000000001,
+    "end": 562.84,
+    "speaker": "SPEAKER_01",
+    "text": "So a little bit of good news there."
+  },
+  {
+    "start": 562.84,
+    "end": 568.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "In terms of the resources and capabilities piece, again, kind of off of what I just mentioned,"
+  },
+  {
+    "start": 568.5600000000001,
+    "end": 575.6,
+    "speaker": "SPEAKER_01",
+    "text": "the hospitals in the group do not currently have in-house resources and capabilities specific"
+  },
+  {
+    "start": 575.6,
+    "end": 577.4,
+    "speaker": "SPEAKER_01",
+    "text": "to those pathology services."
+  },
+  {
+    "start": 577.4,
+    "end": 583.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So they might need to bring on talent that is capable of handling those services as well"
+  },
+  {
+    "start": 583.6800000000001,
+    "end": 589.24,
+    "speaker": "SPEAKER_01",
+    "text": "as perhaps adapt some of their current processes to again, fall asleep integrate with whatever"
+  },
+  {
+    "start": 589.24,
+    "end": 592.6,
+    "speaker": "SPEAKER_01",
+    "text": "is already provided by the hospital."
+  },
+  {
+    "start": 592.6,
+    "end": 598.12,
+    "speaker": "SPEAKER_01",
+    "text": "And then your third question on process, again, there's kind of no clear information right"
+  },
+  {
+    "start": 598.12,
+    "end": 602.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "now on whether the client can adapt those processes, but there will definitely be need"
+  },
+  {
+    "start": 602.8000000000001,
+    "end": 603.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "to."
+  },
+  {
+    "start": 603.8000000000001,
+    "end": 610.12,
+    "speaker": "SPEAKER_01",
+    "text": "So building off of that, that final piece, which is really important for implementation,"
+  },
+  {
+    "start": 610.12,
+    "end": 614.72,
+    "speaker": "SPEAKER_01",
+    "text": "since the client does not know if they're able to adapt their process to run the new department"
+  },
+  {
+    "start": 614.72,
+    "end": 619.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "based on today, what passed information would you want to investigate to help them determine"
+  },
+  {
+    "start": 619.9200000000001,
+    "end": 622.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "whether or not that makes sense?"
+  },
+  {
+    "start": 622.56,
+    "end": 627.88,
+    "speaker": "SPEAKER_02",
+    "text": "Whether they can implement or they can integrate their processes with this investment."
+  },
+  {
+    "start": 627.88,
+    "end": 628.88,
+    "speaker": "SPEAKER_02",
+    "text": "You mean?"
+  },
+  {
+    "start": 628.88,
+    "end": 630.68,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "start": 630.68,
+    "end": 635.16,
+    "speaker": "SPEAKER_01",
+    "text": "So whether or not they can adapt the way they currently run their operations to fit that"
+  },
+  {
+    "start": 635.16,
+    "end": 636.16,
+    "speaker": "SPEAKER_01",
+    "text": "new service."
+  },
+  {
+    "start": 636.16,
+    "end": 642.92,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, so one way to look at it is that you mention that they have some operations that are"
+  },
+  {
+    "start": 642.92,
+    "end": 644.92,
+    "speaker": "SPEAKER_02",
+    "text": "similar to pathology services."
+  },
+  {
+    "start": 644.92,
+    "end": 651.72,
+    "speaker": "SPEAKER_02",
+    "text": "It can be either another lab-based, I'm just brainstorming here and other lab-based practice."
+  },
+  {
+    "start": 651.96,
+    "end": 660.08,
+    "speaker": "SPEAKER_02",
+    "text": "I may want to check whether they implemented a similar service to pathology in the past"
+  },
+  {
+    "start": 660.08,
+    "end": 665.0,
+    "speaker": "SPEAKER_02",
+    "text": "and whether they successfully integrated their processes with that."
+  },
+  {
+    "start": 665.0,
+    "end": 667.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "start": 667.0,
+    "end": 672.08,
+    "speaker": "SPEAKER_01",
+    "text": "I think that's a great question to see if they've been able to do something similar before."
+  },
+  {
+    "start": 672.08,
+    "end": 677.0,
+    "speaker": "SPEAKER_01",
+    "text": "So we do know that the client currently has a blood test laboratory, which uses pretty"
+  },
+  {
+    "start": 677.0,
+    "end": 680.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "similar processes to pathology services."
+  },
+  {
+    "start": 680.92,
+    "end": 686.28,
+    "speaker": "SPEAKER_01",
+    "text": "They launched it 15 years ago, so it's a pretty mature offering and it's operational in"
+  },
+  {
+    "start": 686.28,
+    "end": 689.76,
+    "speaker": "SPEAKER_01",
+    "text": "18 out of its 20 total hospitals."
+  },
+  {
+    "start": 689.76,
+    "end": 691.4799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, okay, perfect."
+  },
+  {
+    "start": 691.4799999999999,
+    "end": 696.52,
+    "speaker": "SPEAKER_02",
+    "text": "So given that we have this information, we can assume confidently that the integration"
+  },
+  {
+    "start": 696.52,
+    "end": 700.12,
+    "speaker": "SPEAKER_02",
+    "text": "of the processes is not going to be a big issue for the client."
+  },
+  {
+    "start": 700.12,
+    "end": 701.12,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "start": 701.12,
+    "end": 702.7199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I think that's right."
+  },
+  {
+    "start": 702.7199999999999,
+    "end": 704.7199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, awesome."
+  },
+  {
+    "start": 704.72,
+    "end": 705.72,
+    "speaker": "SPEAKER_02",
+    "text": "Great."
+  },
+  {
+    "start": 705.72,
+    "end": 713.76,
+    "speaker": "SPEAKER_02",
+    "text": "As the second part in the strategic fifth section, I would like to check the customers and"
+  },
+  {
+    "start": 713.76,
+    "end": 720.9200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to know basically better about what kind, like who are our customers and how"
+  },
+  {
+    "start": 720.9200000000001,
+    "end": 724.4,
+    "speaker": "SPEAKER_02",
+    "text": "can we segment them, how big each segment is."
+  },
+  {
+    "start": 724.4,
+    "end": 726.28,
+    "speaker": "SPEAKER_02",
+    "text": "Do we have any information on that?"
+  },
+  {
+    "start": 726.28,
+    "end": 727.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, and a great question."
+  },
+  {
+    "start": 727.6800000000001,
+    "end": 732.88,
+    "speaker": "SPEAKER_01",
+    "text": "I actually have a little bit of data from our client on that that I'll share with you now."
+  },
+  {
+    "start": 732.88,
+    "end": 739.92,
+    "speaker": "SPEAKER_01",
+    "text": "So in terms of customers, our client has on an annual basis about 800,000 patients split"
+  },
+  {
+    "start": 739.92,
+    "end": 742.8,
+    "speaker": "SPEAKER_01",
+    "text": "across the following patient groups."
+  },
+  {
+    "start": 742.8,
+    "end": 747.0,
+    "speaker": "SPEAKER_01",
+    "text": "So about 400,000 to come in for regular checks and short visits."
+  },
+  {
+    "start": 747.0,
+    "end": 751.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So think of things like blood tests kind of in and out quite quickly."
+  },
+  {
+    "start": 751.4399999999999,
+    "end": 756.16,
+    "speaker": "SPEAKER_01",
+    "text": "Another 200,000 for general bedstays without severe conditions."
+  },
+  {
+    "start": 756.16,
+    "end": 762.12,
+    "speaker": "SPEAKER_01",
+    "text": "So these might be things that are kind of non-urgent or non-critical surgeries like plastic"
+  },
+  {
+    "start": 762.12,
+    "end": 763.68,
+    "speaker": "SPEAKER_01",
+    "text": "surgery."
+  },
+  {
+    "start": 763.68,
+    "end": 768.8199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "And then the final 200,000 patients are there for long-term care, bedstays and stays"
+  },
+  {
+    "start": 768.8199999999999,
+    "end": 770.88,
+    "speaker": "SPEAKER_01",
+    "text": "with severe conditions."
+  },
+  {
+    "start": 770.88,
+    "end": 776.16,
+    "speaker": "SPEAKER_01",
+    "text": "And so up that final group, about 100,000 are cancer patients."
+  },
+  {
+    "start": 776.16,
+    "end": 780.86,
+    "speaker": "SPEAKER_01",
+    "text": "So kind of based on that information, how might this customer base be affected by the"
+  },
+  {
+    "start": 780.86,
+    "end": 784.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "launch of this new pathology services department?"
+  },
+  {
+    "start": 784.44,
+    "end": 787.96,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, I see."
+  },
+  {
+    "start": 787.96,
+    "end": 791.0400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So it can be two things, maybe."
+  },
+  {
+    "start": 791.0400000000001,
+    "end": 798.36,
+    "speaker": "SPEAKER_02",
+    "text": "So first of all, there might be an increase in the number of patients who are taking the"
+  },
+  {
+    "start": 798.36,
+    "end": 804.6400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "cancer treatment from our hospital because we will be providing a better service."
+  },
+  {
+    "start": 804.6400000000001,
+    "end": 811.32,
+    "speaker": "SPEAKER_02",
+    "text": "And the second can be that basically we can gain new customers that don't exist currently"
+  },
+  {
+    "start": 811.32,
+    "end": 817.6,
+    "speaker": "SPEAKER_02",
+    "text": "just to choose us because of the seamless treatment process."
+  },
+  {
+    "start": 817.6,
+    "end": 822.4000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, I think those two can be the biggest changes."
+  },
+  {
+    "start": 822.4000000000001,
+    "end": 825.44,
+    "speaker": "SPEAKER_01",
+    "text": "Great, so I think both of those areas make sense."
+  },
+  {
+    "start": 825.44,
+    "end": 829.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "But I'd love to better understand what you mean by better services and how that might"
+  },
+  {
+    "start": 829.9200000000001,
+    "end": 835.4000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "drive either more treatment for existing customers as well as net new customers."
+  },
+  {
+    "start": 835.4000000000001,
+    "end": 840.84,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, so better quality service to me, in this case is if we are currently providing"
+  },
+  {
+    "start": 840.84,
+    "end": 846.5600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "a most part of the treatment, but we are using a third party for the pathology part, then"
+  },
+  {
+    "start": 846.5600000000001,
+    "end": 854.44,
+    "speaker": "SPEAKER_02",
+    "text": "it might have some implications on the basic theme, the flow that the patients follow in"
+  },
+  {
+    "start": 854.44,
+    "end": 856.0,
+    "speaker": "SPEAKER_02",
+    "text": "terms of the journey."
+  },
+  {
+    "start": 856.0,
+    "end": 860.48,
+    "speaker": "SPEAKER_02",
+    "text": "And they may need to interact with those third parties at some points in the treatment,"
+  },
+  {
+    "start": 860.48,
+    "end": 867.72,
+    "speaker": "SPEAKER_02",
+    "text": "while in the new scenario, we're going to be providing the basically seamless, let's"
+  },
+  {
+    "start": 867.72,
+    "end": 873.76,
+    "speaker": "SPEAKER_02",
+    "text": "say patient journey to those clients, the customers, so they won't have to deal with"
+  },
+  {
+    "start": 873.76,
+    "end": 880.2,
+    "speaker": "SPEAKER_02",
+    "text": "the multiple parties, but they will just get everything done by just dealing with our"
+  },
+  {
+    "start": 880.2,
+    "end": 881.2,
+    "speaker": "SPEAKER_02",
+    "text": "service."
+  },
+  {
+    "start": 881.2,
+    "end": 882.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, completely makes sense."
+  },
+  {
+    "start": 882.8000000000001,
+    "end": 888.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "I think having that continuity of care is really important for actually the outcome for"
+  },
+  {
+    "start": 888.8000000000001,
+    "end": 893.4,
+    "speaker": "SPEAKER_01",
+    "text": "the patient's just period as well as reduces friction and stress in that process from kind"
+  },
+  {
+    "start": 893.4,
+    "end": 898.24,
+    "speaker": "SPEAKER_01",
+    "text": "of porting your medical records back and forth and things like that, so it completely"
+  },
+  {
+    "start": 898.24,
+    "end": 899.24,
+    "speaker": "SPEAKER_01",
+    "text": "makes sense."
+  },
+  {
+    "start": 899.24,
+    "end": 901.36,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect, perfect."
+  },
+  {
+    "start": 901.36,
+    "end": 908.12,
+    "speaker": "SPEAKER_02",
+    "text": "And then as the next point though, I would like to investigate a bit the competition,"
+  },
+  {
+    "start": 908.12,
+    "end": 914.76,
+    "speaker": "SPEAKER_02",
+    "text": "and I would like to know basically who will be the other competitors that we will need"
+  },
+  {
+    "start": 914.76,
+    "end": 918.88,
+    "speaker": "SPEAKER_02",
+    "text": "to face with and how can we break that down."
+  },
+  {
+    "start": 918.88,
+    "end": 919.88,
+    "speaker": "SPEAKER_01",
+    "text": "Sure, sure."
+  },
+  {
+    "start": 919.88,
+    "end": 924.36,
+    "speaker": "SPEAKER_01",
+    "text": "So there are two main categories of competitors in the market right now."
+  },
+  {
+    "start": 924.36,
+    "end": 930.84,
+    "speaker": "SPEAKER_01",
+    "text": "So there are hospitals with pathology departments today that already provide this full suite"
+  },
+  {
+    "start": 930.84,
+    "end": 933.24,
+    "speaker": "SPEAKER_01",
+    "text": "of cancer treatment services."
+  },
+  {
+    "start": 933.24,
+    "end": 939.08,
+    "speaker": "SPEAKER_01",
+    "text": "This group tends to have very high quality services at a high cost and needs about 70% of"
+  },
+  {
+    "start": 939.08,
+    "end": 940.96,
+    "speaker": "SPEAKER_01",
+    "text": "demand."
+  },
+  {
+    "start": 940.96,
+    "end": 946.24,
+    "speaker": "SPEAKER_01",
+    "text": "The second group are these private laboratories that provide external support to patients"
+  },
+  {
+    "start": 946.24,
+    "end": 948.72,
+    "speaker": "SPEAKER_01",
+    "text": "and partnership with hospital groups."
+  },
+  {
+    "start": 948.72,
+    "end": 953.32,
+    "speaker": "SPEAKER_01",
+    "text": "And so this tends to be a little bit more affordable, but again, kind of up that alley of quality"
+  },
+  {
+    "start": 953.32,
+    "end": 958.48,
+    "speaker": "SPEAKER_01",
+    "text": "of care tends to be a little lower because you are changing care providers."
+  },
+  {
+    "start": 958.48,
+    "end": 962.4,
+    "speaker": "SPEAKER_01",
+    "text": "And so this group meets the other 30% or so of demand."
+  },
+  {
+    "start": 962.4,
+    "end": 963.4,
+    "speaker": "SPEAKER_02",
+    "text": "I see."
+  },
+  {
+    "start": 963.4,
+    "end": 968.6,
+    "speaker": "SPEAKER_02",
+    "text": "So the first group is pretty much what we are aiming to be and the second group is basically"
+  },
+  {
+    "start": 968.6,
+    "end": 972.28,
+    "speaker": "SPEAKER_02",
+    "text": "the third party that we are currently partnering."
+  },
+  {
+    "start": 972.28,
+    "end": 973.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, very much so."
+  },
+  {
+    "start": 973.96,
+    "end": 974.96,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 974.96,
+    "end": 976.28,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, perfect."
+  },
+  {
+    "start": 976.28,
+    "end": 977.28,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 977.28,
+    "end": 984.9599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So as the last step in the strategic fit before I move to the financial assessment is basically"
+  },
+  {
+    "start": 984.9599999999999,
+    "end": 987.6,
+    "speaker": "SPEAKER_02",
+    "text": "the image part."
+  },
+  {
+    "start": 987.6,
+    "end": 993.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to know there how well such an investment and transformation change and effect"
+  },
+  {
+    "start": 993.8399999999999,
+    "end": 996.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "our brand images, the hospital group."
+  },
+  {
+    "start": 996.1999999999999,
+    "end": 997.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Sure."
+  },
+  {
+    "start": 997.1999999999999,
+    "end": 1002.52,
+    "speaker": "SPEAKER_01",
+    "text": "And do you just to understand you see this as a potential risk benefit or trying to explore"
+  },
+  {
+    "start": 1002.52,
+    "end": 1003.52,
+    "speaker": "SPEAKER_02",
+    "text": "that?"
+  },
+  {
+    "start": 1003.52,
+    "end": 1012.68,
+    "speaker": "SPEAKER_02",
+    "text": "Or if it will have any impact on our brand image as the company in the eyes of the customers?"
+  },
+  {
+    "start": 1012.68,
+    "end": 1013.68,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1013.68,
+    "end": 1014.68,
+    "speaker": "SPEAKER_01",
+    "text": "No, make sense."
+  },
+  {
+    "start": 1014.68,
+    "end": 1021.24,
+    "speaker": "SPEAKER_01",
+    "text": "So the client itself as a hospital group across its services has a very prestigious brand"
+  },
+  {
+    "start": 1021.24,
+    "end": 1022.24,
+    "speaker": "SPEAKER_01",
+    "text": "reputation."
+  },
+  {
+    "start": 1022.24,
+    "end": 1028.96,
+    "speaker": "SPEAKER_01",
+    "text": "But again, for this particular set of services, we do know that having that continuity of care"
+  },
+  {
+    "start": 1028.96,
+    "end": 1034.72,
+    "speaker": "SPEAKER_01",
+    "text": "and as a single care provider really increases quality as well as perception and satisfaction"
+  },
+  {
+    "start": 1034.72,
+    "end": 1037.08,
+    "speaker": "SPEAKER_01",
+    "text": "among patients."
+  },
+  {
+    "start": 1037.08,
+    "end": 1041.76,
+    "speaker": "SPEAKER_01",
+    "text": "So we do believe that providing that all in house would improve the hospital's brand image."
+  },
+  {
+    "start": 1041.76,
+    "end": 1042.76,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, perfect."
+  },
+  {
+    "start": 1042.76,
+    "end": 1051.08,
+    "speaker": "SPEAKER_02",
+    "text": "So at the first look, it looks like we can grow with this investment and also increase"
+  },
+  {
+    "start": 1051.08,
+    "end": 1058.16,
+    "speaker": "SPEAKER_02",
+    "text": "our reputation, improve our brand image while this investment sounds quite achievable."
+  },
+  {
+    "start": 1058.16,
+    "end": 1063.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "But of course, we need to deep dive into the financials a little bit to see whether it's"
+  },
+  {
+    "start": 1063.0800000000002,
+    "end": 1066.4,
+    "speaker": "SPEAKER_02",
+    "text": "really financially feasible or not as well."
+  },
+  {
+    "start": 1066.4,
+    "end": 1070.24,
+    "speaker": "SPEAKER_00",
+    "text": "Let's quickly discuss how the candidate is performing so far."
+  },
+  {
+    "start": 1070.24,
+    "end": 1075.16,
+    "speaker": "SPEAKER_00",
+    "text": "One of the strengths of the candidate is that he is quite adaptive and uses case-specific"
+  },
+  {
+    "start": 1075.16,
+    "end": 1081.88,
+    "speaker": "SPEAKER_00",
+    "text": "terminologies in his analysis, such as pathology services, third-party lab-based practices, cancer"
+  },
+  {
+    "start": 1081.88,
+    "end": 1084.0400000000002,
+    "speaker": "SPEAKER_00",
+    "text": "patients, and so on."
+  },
+  {
+    "start": 1084.04,
+    "end": 1089.44,
+    "speaker": "SPEAKER_00",
+    "text": "Pay attention that he synthesizes his learnings at the end of the strategic fit section before"
+  },
+  {
+    "start": 1089.44,
+    "end": 1091.76,
+    "speaker": "SPEAKER_00",
+    "text": "moving to financial assessment."
+  },
+  {
+    "start": 1091.76,
+    "end": 1096.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "It is a good habit to form interim conclusions like this so that both the candidate and"
+  },
+  {
+    "start": 1096.6399999999999,
+    "end": 1103.0,
+    "speaker": "SPEAKER_00",
+    "text": "interviewer understand how the finding so far will help solve the client's problem."
+  },
+  {
+    "start": 1103.0,
+    "end": 1109.2,
+    "speaker": "SPEAKER_02",
+    "text": "So at this point, I would like to, if it's okay, just move to the next section and to see"
+  },
+  {
+    "start": 1109.2,
+    "end": 1117.04,
+    "speaker": "SPEAKER_02",
+    "text": "how will such investment change our profitability as it was the major concern."
+  },
+  {
+    "start": 1117.04,
+    "end": 1121.8400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "And in there, basically, I would like to break it into two areas."
+  },
+  {
+    "start": 1121.8400000000001,
+    "end": 1129.88,
+    "speaker": "SPEAKER_02",
+    "text": "One will be, as we discussed before, the profits that's going to be generated thanks to the"
+  },
+  {
+    "start": 1129.88,
+    "end": 1134.48,
+    "speaker": "SPEAKER_02",
+    "text": "service from the pathology services, let's say."
+  },
+  {
+    "start": 1134.48,
+    "end": 1140.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "And the second will be the profit, the additional profit we're going to have from the additional"
+  },
+  {
+    "start": 1140.3600000000001,
+    "end": 1146.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "cancer patients who start to use our service because now we are providing a higher quality"
+  },
+  {
+    "start": 1146.1200000000001,
+    "end": 1148.56,
+    "speaker": "SPEAKER_02",
+    "text": "service as we discussed before."
+  },
+  {
+    "start": 1148.56,
+    "end": 1154.8,
+    "speaker": "SPEAKER_02",
+    "text": "And to do those, basically, I would like to check the profit structure."
+  },
+  {
+    "start": 1154.8,
+    "end": 1158.76,
+    "speaker": "SPEAKER_02",
+    "text": "So on one hand, it's going to be the revenues and on the other one, it's going to be the"
+  },
+  {
+    "start": 1158.76,
+    "end": 1160.6,
+    "speaker": "SPEAKER_02",
+    "text": "costs."
+  },
+  {
+    "start": 1160.6,
+    "end": 1167.36,
+    "speaker": "SPEAKER_02",
+    "text": "And there under the profit, I would like to see the, how, what's going to be the quantity,"
+  },
+  {
+    "start": 1167.36,
+    "end": 1171.9599999999998,
+    "speaker": "SPEAKER_02",
+    "text": "probably it's going to be the number of patients or number of services that will be ill"
+  },
+  {
+    "start": 1171.9599999999998,
+    "end": 1172.9599999999998,
+    "speaker": "SPEAKER_02",
+    "text": "be technical."
+  },
+  {
+    "start": 1172.9599999999998,
+    "end": 1176.32,
+    "speaker": "SPEAKER_02",
+    "text": "So I would like to get some help there."
+  },
+  {
+    "start": 1176.32,
+    "end": 1182.1599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "And then times the price of that service will basically give me the revenue."
+  },
+  {
+    "start": 1182.1599999999999,
+    "end": 1187.8,
+    "speaker": "SPEAKER_02",
+    "text": "And on the other hand, in the cost side, that there will be probably a fixed cost and"
+  },
+  {
+    "start": 1187.8,
+    "end": 1190.36,
+    "speaker": "SPEAKER_02",
+    "text": "variable costs underfix."
+  },
+  {
+    "start": 1190.36,
+    "end": 1198.12,
+    "speaker": "SPEAKER_02",
+    "text": "I can just say rent, labor, any kind of marketing or any other fixed cost."
+  },
+  {
+    "start": 1198.12,
+    "end": 1205.36,
+    "speaker": "SPEAKER_02",
+    "text": "And under the variable, it will be pretty much the cost of serving one customer, one patient,"
+  },
+  {
+    "start": 1205.36,
+    "end": 1210.52,
+    "speaker": "SPEAKER_02",
+    "text": "which may be either material or any other variable cost."
+  },
+  {
+    "start": 1210.52,
+    "end": 1216.04,
+    "speaker": "SPEAKER_02",
+    "text": "And this will help me to build my annual profitability structure."
+  },
+  {
+    "start": 1216.04,
+    "end": 1223.0,
+    "speaker": "SPEAKER_02",
+    "text": "On the other hand, I would like to deduct the one-off investment cost from the five-year"
+  },
+  {
+    "start": 1223.0,
+    "end": 1230.0,
+    "speaker": "SPEAKER_02",
+    "text": "total annual profits to come up with the, basically, net profit at the end of five years."
+  },
+  {
+    "start": 1230.0,
+    "end": 1237.6399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "To compare this with our target of $30 million and to see whether it's feasible or not."
+  },
+  {
+    "start": 1237.6399999999999,
+    "end": 1238.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect."
+  },
+  {
+    "start": 1238.6399999999999,
+    "end": 1242.28,
+    "speaker": "SPEAKER_01",
+    "text": "Now that sounds like all the components we want to cover, do you have a preference for"
+  },
+  {
+    "start": 1242.28,
+    "end": 1247.96,
+    "speaker": "SPEAKER_01",
+    "text": "starting on the pathology services side versus the just overall uplift?"
+  },
+  {
+    "start": 1247.96,
+    "end": 1254.72,
+    "speaker": "SPEAKER_02",
+    "text": "To just keep it easier, is a starting point that I would like to start from the profit"
+  },
+  {
+    "start": 1254.72,
+    "end": 1258.72,
+    "speaker": "SPEAKER_02",
+    "text": "that we can generate from the additional cancer patients."
+  },
+  {
+    "start": 1258.72,
+    "end": 1266.04,
+    "speaker": "SPEAKER_02",
+    "text": "And there basically, I would like to know, first of all, the number of patients, which"
+  },
+  {
+    "start": 1266.04,
+    "end": 1271.04,
+    "speaker": "SPEAKER_02",
+    "text": "we covered briefly, but I would like to also just clarify that."
+  },
+  {
+    "start": 1271.04,
+    "end": 1279.68,
+    "speaker": "SPEAKER_02",
+    "text": "And then the price, the per patient that we generate, so it will give us the revenues."
+  },
+  {
+    "start": 1279.68,
+    "end": 1287.28,
+    "speaker": "SPEAKER_02",
+    "text": "And times our gross margin, which will give us our profit from an additional patient."
+  },
+  {
+    "start": 1287.28,
+    "end": 1294.52,
+    "speaker": "SPEAKER_02",
+    "text": "And then I would like to multiply it with five to find the five-year additional profit"
+  },
+  {
+    "start": 1294.52,
+    "end": 1298.1599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "from the additional cancer patients, basically."
+  },
+  {
+    "start": 1298.1599999999999,
+    "end": 1299.1599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "How does that sound?"
+  },
+  {
+    "start": 1299.72,
+    "end": 1301.52,
+    "speaker": "SPEAKER_01",
+    "text": "Yep, that sounds great."
+  },
+  {
+    "start": 1301.52,
+    "end": 1302.72,
+    "speaker": "SPEAKER_01",
+    "text": "Definitely makes sense."
+  },
+  {
+    "start": 1302.72,
+    "end": 1307.16,
+    "speaker": "SPEAKER_01",
+    "text": "And we do have data points for all three of those components."
+  },
+  {
+    "start": 1307.16,
+    "end": 1312.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So in terms of the expected increase and number of cancer patients, we're anticipating"
+  },
+  {
+    "start": 1312.6000000000001,
+    "end": 1315.96,
+    "speaker": "SPEAKER_01",
+    "text": "about 10,000 more patients per year."
+  },
+  {
+    "start": 1315.96,
+    "end": 1322.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "The average price charged for these cancer treatments is $10,000 per treatment."
+  },
+  {
+    "start": 1322.6000000000001,
+    "end": 1327.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And then that gross margin on these cancer treatments is about 10%."
+  },
+  {
+    "start": 1327.84,
+    "end": 1335.6399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So it's going to be 10% increase in the number of patients, $10,000 per patient, and"
+  },
+  {
+    "start": 1335.6399999999999,
+    "end": 1338.56,
+    "speaker": "SPEAKER_02",
+    "text": "the 10% gross profit margin."
+  },
+  {
+    "start": 1338.56,
+    "end": 1339.56,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 1339.56,
+    "end": 1342.6,
+    "speaker": "SPEAKER_02",
+    "text": "That will give us around 10 million a year."
+  },
+  {
+    "start": 1342.6,
+    "end": 1348.0,
+    "speaker": "SPEAKER_02",
+    "text": "And if we calculate five-year value, it's going to be $50 million additional profit from"
+  },
+  {
+    "start": 1348.0,
+    "end": 1350.32,
+    "speaker": "SPEAKER_02",
+    "text": "just the additional cancer patients."
+  },
+  {
+    "start": 1350.32,
+    "end": 1351.32,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 1352.32,
+    "end": 1359.84,
+    "speaker": "SPEAKER_02",
+    "text": "Then, on the other hand, when it comes to additional profit from the pathology services"
+  },
+  {
+    "start": 1359.84,
+    "end": 1364.76,
+    "speaker": "SPEAKER_02",
+    "text": "that I would like to take just 30 seconds to build my formula."
+  },
+  {
+    "start": 1364.76,
+    "end": 1366.52,
+    "speaker": "SPEAKER_02",
+    "text": "And then I would discuss with you."
+  },
+  {
+    "start": 1366.52,
+    "end": 1367.52,
+    "speaker": "SPEAKER_02",
+    "text": "Is that okay?"
+  },
+  {
+    "start": 1367.52,
+    "end": 1369.52,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "start": 1369.52,
+    "end": 1370.52,
+    "speaker": "SPEAKER_02",
+    "text": "Thank you."
+  },
+  {
+    "start": 1373.12,
+    "end": 1376.6799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "As I mentioned before, there will be two cost elements."
+  },
+  {
+    "start": 1376.6799999999998,
+    "end": 1379.48,
+    "speaker": "SPEAKER_02",
+    "text": "One is going to be fixed and one is going to be the variable."
+  },
+  {
+    "start": 1379.6,
+    "end": 1382.2,
+    "speaker": "SPEAKER_02",
+    "text": "So it comes to fixed costs."
+  },
+  {
+    "start": 1382.2,
+    "end": 1387.44,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to know what is going to be our total fixed cost there."
+  },
+  {
+    "start": 1387.44,
+    "end": 1392.92,
+    "speaker": "SPEAKER_02",
+    "text": "And I will multiply that with the number of hospitals, because I know that we have 20"
+  },
+  {
+    "start": 1392.92,
+    "end": 1394.32,
+    "speaker": "SPEAKER_02",
+    "text": "hospitals."
+  },
+  {
+    "start": 1394.32,
+    "end": 1400.84,
+    "speaker": "SPEAKER_02",
+    "text": "And then on the other hand, on the variable cost side, I would like to know how many more"
+  },
+  {
+    "start": 1400.84,
+    "end": 1406.4,
+    "speaker": "SPEAKER_02",
+    "text": "patients we will serve and what will be the variable cost per patient there."
+  },
+  {
+    "start": 1406.48,
+    "end": 1412.52,
+    "speaker": "SPEAKER_02",
+    "text": "So the total of those will be, will give me the total annual cost, annual running costs"
+  },
+  {
+    "start": 1412.52,
+    "end": 1413.96,
+    "speaker": "SPEAKER_02",
+    "text": "for a year."
+  },
+  {
+    "start": 1413.96,
+    "end": 1419.88,
+    "speaker": "SPEAKER_02",
+    "text": "And I will calculate the price times number of patients, which is going to give me the"
+  },
+  {
+    "start": 1419.88,
+    "end": 1420.96,
+    "speaker": "SPEAKER_02",
+    "text": "revenues."
+  },
+  {
+    "start": 1420.96,
+    "end": 1426.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "And then I will subscribe to the cost figure from the revenues to find the annual running"
+  },
+  {
+    "start": 1426.0800000000002,
+    "end": 1427.64,
+    "speaker": "SPEAKER_02",
+    "text": "profit."
+  },
+  {
+    "start": 1427.64,
+    "end": 1433.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "And finally, I will multiply it with five, which is the number of years."
+  },
+  {
+    "start": 1433.4399999999998,
+    "end": 1435.12,
+    "speaker": "SPEAKER_02",
+    "text": "It's okay."
+  },
+  {
+    "start": 1435.12,
+    "end": 1439.52,
+    "speaker": "SPEAKER_02",
+    "text": "Can I please ask if we have any information on those points?"
+  },
+  {
+    "start": 1439.52,
+    "end": 1441.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, yeah, absolutely."
+  },
+  {
+    "start": 1441.6799999999998,
+    "end": 1447.0,
+    "speaker": "SPEAKER_01",
+    "text": "So on the fixed cost side, we do have some information on the cost of pathology services"
+  },
+  {
+    "start": 1447.0,
+    "end": 1449.8,
+    "speaker": "SPEAKER_01",
+    "text": "per hospital per year."
+  },
+  {
+    "start": 1449.8,
+    "end": 1455.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "So you need about 10 medical personnel per hospital to run these services."
+  },
+  {
+    "start": 1455.4399999999998,
+    "end": 1461.32,
+    "speaker": "SPEAKER_01",
+    "text": "The pay per medical staff is around 200 grand per year."
+  },
+  {
+    "start": 1461.32,
+    "end": 1463.24,
+    "speaker": "SPEAKER_01",
+    "text": "And there's also some equipment that they need."
+  },
+  {
+    "start": 1463.24,
+    "end": 1469.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "So the average license cost for Microsoft software is about 1.5 million."
+  },
+  {
+    "start": 1469.6799999999998,
+    "end": 1473.8,
+    "speaker": "SPEAKER_01",
+    "text": "And then there's also insurance costs of about half a million dollars."
+  },
+  {
+    "start": 1473.8,
+    "end": 1474.8,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1474.8,
+    "end": 1475.8,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1475.8,
+    "end": 1484.6399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So 200,000 times 10 and 1.5 million and half a million on the fixed end."
+  },
+  {
+    "start": 1484.6399999999999,
+    "end": 1485.72,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, perfect."
+  },
+  {
+    "start": 1485.72,
+    "end": 1490.56,
+    "speaker": "SPEAKER_02",
+    "text": "And on the variable cost side that I would like to know what's going to be the variable cost"
+  },
+  {
+    "start": 1490.56,
+    "end": 1492.2,
+    "speaker": "SPEAKER_02",
+    "text": "per patient."
+  },
+  {
+    "start": 1492.2,
+    "end": 1494.84,
+    "speaker": "SPEAKER_02",
+    "text": "And then how many patients are we going to serve?"
+  },
+  {
+    "start": 1494.84,
+    "end": 1499.04,
+    "speaker": "SPEAKER_02",
+    "text": "So this will give me our total annual variable cost."
+  },
+  {
+    "start": 1499.04,
+    "end": 1500.04,
+    "speaker": "SPEAKER_01",
+    "text": "Absolutely."
+  },
+  {
+    "start": 1500.04,
+    "end": 1501.04,
+    "speaker": "SPEAKER_01",
+    "text": "Great question."
+  },
+  {
+    "start": 1501.04,
+    "end": 1505.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "So in terms of variable costs, it's about $100 per patient."
+  },
+  {
+    "start": 1505.9199999999998,
+    "end": 1510.8,
+    "speaker": "SPEAKER_01",
+    "text": "And then for that total number of patients, as you may remember, we currently have around"
+  },
+  {
+    "start": 1510.8,
+    "end": 1512.8,
+    "speaker": "SPEAKER_01",
+    "text": "100,000 cancer patients."
+  },
+  {
+    "start": 1512.8,
+    "end": 1517.72,
+    "speaker": "SPEAKER_01",
+    "text": "And then we'll get another 10K from this uplift that we've already discussed."
+  },
+  {
+    "start": 1517.72,
+    "end": 1518.72,
+    "speaker": "SPEAKER_02",
+    "text": "Right."
+  },
+  {
+    "start": 1518.72,
+    "end": 1519.72,
+    "speaker": "SPEAKER_02",
+    "text": "Right."
+  },
+  {
+    "start": 1519.72,
+    "end": 1523.64,
+    "speaker": "SPEAKER_02",
+    "text": "110K times $100 per patient."
+  },
+  {
+    "start": 1523.64,
+    "end": 1524.8,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1524.8,
+    "end": 1529.72,
+    "speaker": "SPEAKER_02",
+    "text": "With those information that I can calculate the fixed end of variable cost."
+  },
+  {
+    "start": 1529.72,
+    "end": 1535.84,
+    "speaker": "SPEAKER_02",
+    "text": "And then I would like to subtract that from the revenues, which I need the price per"
+  },
+  {
+    "start": 1535.84,
+    "end": 1542.0,
+    "speaker": "SPEAKER_02",
+    "text": "patient to calculate as we know that the number of patients going to be 110K."
+  },
+  {
+    "start": 1542.0,
+    "end": 1546.88,
+    "speaker": "SPEAKER_02",
+    "text": "So if I can just have the price information, I can calculate the annual revenues as well."
+  },
+  {
+    "start": 1546.88,
+    "end": 1550.4,
+    "speaker": "SPEAKER_02",
+    "text": "Do we know what price we're going to serve to those customers?"
+  },
+  {
+    "start": 1550.4,
+    "end": 1551.4,
+    "speaker": "SPEAKER_01",
+    "text": "We do."
+  },
+  {
+    "start": 1551.4,
+    "end": 1555.88,
+    "speaker": "SPEAKER_01",
+    "text": "So on average, these services are priced at about $1,000 per patient."
+  },
+  {
+    "start": 1555.88,
+    "end": 1556.88,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1556.88,
+    "end": 1557.88,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 1557.88,
+    "end": 1558.88,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 1558.88,
+    "end": 1565.2800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Then I would like to just take a moment to calculate the annual profit."
+  },
+  {
+    "start": 1565.2800000000002,
+    "end": 1567.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "And then I'll get back."
+  },
+  {
+    "start": 1567.3200000000002,
+    "end": 1568.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Yep."
+  },
+  {
+    "start": 1568.3200000000002,
+    "end": 1569.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "That sounds great."
+  },
+  {
+    "start": 1569.3200000000002,
+    "end": 1570.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 1570.3200000000002,
+    "end": 1571.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 1572.32,
+    "end": 1573.32,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 1573.32,
+    "end": 1584.4399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So out of those calculations that I end up with approximately $19 million profit per year,"
+  },
+  {
+    "start": 1584.4399999999998,
+    "end": 1589.28,
+    "speaker": "SPEAKER_02",
+    "text": "multiplied by five that will give us $95 million."
+  },
+  {
+    "start": 1589.28,
+    "end": 1597.72,
+    "speaker": "SPEAKER_02",
+    "text": "And those 95 million added up with the 50 million that we previously calculated from the"
+  },
+  {
+    "start": 1597.72,
+    "end": 1604.24,
+    "speaker": "SPEAKER_02",
+    "text": "profit from the additional patients, then it's going to be $145 million in five years."
+  },
+  {
+    "start": 1604.24,
+    "end": 1606.72,
+    "speaker": "SPEAKER_02",
+    "text": "It's going to be our total profit."
+  },
+  {
+    "start": 1606.72,
+    "end": 1613.72,
+    "speaker": "SPEAKER_02",
+    "text": "But as the last point, as I mentioned before, then we need to subtract the capax from that."
+  },
+  {
+    "start": 1613.72,
+    "end": 1618.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So probably we will have one of investment per hospital."
+  },
+  {
+    "start": 1618.3600000000001,
+    "end": 1625.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So I would like to know finally that data and then calculate the net profit over the next"
+  },
+  {
+    "start": 1625.1200000000001,
+    "end": 1626.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "five years."
+  },
+  {
+    "start": 1626.12,
+    "end": 1628.12,
+    "speaker": "SPEAKER_02",
+    "text": "So we have any information on this."
+  },
+  {
+    "start": 1628.12,
+    "end": 1629.12,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, we do."
+  },
+  {
+    "start": 1629.12,
+    "end": 1631.76,
+    "speaker": "SPEAKER_01",
+    "text": "And good call on calling that out per hospital."
+  },
+  {
+    "start": 1631.76,
+    "end": 1636.76,
+    "speaker": "SPEAKER_01",
+    "text": "So we anticipate about $5 million worth of investment costs per hospital."
+  },
+  {
+    "start": 1636.76,
+    "end": 1637.76,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1637.76,
+    "end": 1640.9599999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So 5 million times 20 is going to be $100 million."
+  },
+  {
+    "start": 1640.9599999999998,
+    "end": 1649.1599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Then if you subtract it from $145, then we will have $45 million in total of five years."
+  },
+  {
+    "start": 1649.1599999999999,
+    "end": 1650.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1650.1599999999999,
+    "end": 1651.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Exactly."
+  },
+  {
+    "start": 1651.1599999999999,
+    "end": 1653.12,
+    "speaker": "SPEAKER_01",
+    "text": "So what's your take there?"
+  },
+  {
+    "start": 1653.52,
+    "end": 1654.12,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1654.12,
+    "end": 1655.12,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 1655.12,
+    "end": 1661.52,
+    "speaker": "SPEAKER_02",
+    "text": "Well, it sounds feasible from financial perspective."
+  },
+  {
+    "start": 1661.52,
+    "end": 1666.28,
+    "speaker": "SPEAKER_02",
+    "text": "But of course, we also need to make sure that we can afford this investment."
+  },
+  {
+    "start": 1666.28,
+    "end": 1672.84,
+    "speaker": "SPEAKER_02",
+    "text": "So at that point, I would like to check whether we have enough cash to make this investment"
+  },
+  {
+    "start": 1672.84,
+    "end": 1681.4399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "or whether we have revenues, sorry, profits, any cash flows that I can use as a source of"
+  },
+  {
+    "start": 1681.44,
+    "end": 1685.76,
+    "speaker": "SPEAKER_02",
+    "text": "investment for this $100 million."
+  },
+  {
+    "start": 1685.76,
+    "end": 1687.76,
+    "speaker": "SPEAKER_02",
+    "text": "Do we know anything about it?"
+  },
+  {
+    "start": 1687.76,
+    "end": 1689.28,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, no great question."
+  },
+  {
+    "start": 1689.28,
+    "end": 1693.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Based on our conversations with the client, they are confident they can afford that level"
+  },
+  {
+    "start": 1693.3600000000001,
+    "end": 1694.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "of investment."
+  },
+  {
+    "start": 1694.3600000000001,
+    "end": 1700.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I think we're in good shape for a strategic set for the financial piece."
+  },
+  {
+    "start": 1700.0,
+    "end": 1703.92,
+    "speaker": "SPEAKER_01",
+    "text": "So before concluding the case, could you just lay out for our clients and with the potential"
+  },
+  {
+    "start": 1703.92,
+    "end": 1706.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "risks that you see with moving forward?"
+  },
+  {
+    "start": 1706.1200000000001,
+    "end": 1707.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 1707.1200000000001,
+    "end": 1708.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Sure."
+  },
+  {
+    "start": 1708.1200000000001,
+    "end": 1709.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Wonderful."
+  },
+  {
+    "start": 1709.12,
+    "end": 1714.2399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Good to hear that they can afford it and looks all good."
+  },
+  {
+    "start": 1714.2399999999998,
+    "end": 1720.4399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So in terms of risks, can I take a moment to just get in my toes?"
+  },
+  {
+    "start": 1720.4399999999998,
+    "end": 1723.1999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, please do."
+  },
+  {
+    "start": 1723.1999999999998,
+    "end": 1725.7199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Thank you."
+  },
+  {
+    "start": 1725.7199999999998,
+    "end": 1731.12,
+    "speaker": "SPEAKER_02",
+    "text": "So in terms of risks, I would like to assess three points."
+  },
+  {
+    "start": 1731.12,
+    "end": 1737.7199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "One is that what's going to be our relationship with our current partners whom we work to"
+  },
+  {
+    "start": 1737.72,
+    "end": 1741.04,
+    "speaker": "SPEAKER_02",
+    "text": "basically get the pathology services."
+  },
+  {
+    "start": 1741.04,
+    "end": 1747.16,
+    "speaker": "SPEAKER_02",
+    "text": "And the second is that we covered this at a high level before, but I would like to check"
+  },
+  {
+    "start": 1747.16,
+    "end": 1752.52,
+    "speaker": "SPEAKER_02",
+    "text": "whether we can really integrate our processes with that new service."
+  },
+  {
+    "start": 1752.52,
+    "end": 1759.52,
+    "speaker": "SPEAKER_02",
+    "text": "And the third one will be the demand that we just estimated will be sustainable going"
+  },
+  {
+    "start": 1759.52,
+    "end": 1761.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "forward or not."
+  },
+  {
+    "start": 1761.1200000000001,
+    "end": 1766.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "I wonder if the client ever investigated any of those areas."
+  },
+  {
+    "start": 1766.3600000000001,
+    "end": 1767.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "What do you think?"
+  },
+  {
+    "start": 1767.36,
+    "end": 1773.08,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, those are all great points in terms of your comment on the provider."
+  },
+  {
+    "start": 1773.08,
+    "end": 1777.76,
+    "speaker": "SPEAKER_01",
+    "text": "So we know that they also have a medical equipment retail company."
+  },
+  {
+    "start": 1777.76,
+    "end": 1782.1999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "And the client does work with them to supply some materials for the hospital that only accounts"
+  },
+  {
+    "start": 1782.1999999999998,
+    "end": 1789.6,
+    "speaker": "SPEAKER_01",
+    "text": "for 4% of their total material procurement today, but there is that relationship."
+  },
+  {
+    "start": 1789.6,
+    "end": 1794.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I think your second point was around whether or not they could really integrate this new"
+  },
+  {
+    "start": 1794.16,
+    "end": 1798.0800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "service with the current hospital group's processes."
+  },
+  {
+    "start": 1798.0800000000002,
+    "end": 1802.0,
+    "speaker": "SPEAKER_01",
+    "text": "And since they did, they were successful in doing this with the blood lab test."
+  },
+  {
+    "start": 1802.0,
+    "end": 1805.5600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "We don't see that as too big of a risk."
+  },
+  {
+    "start": 1805.5600000000002,
+    "end": 1808.76,
+    "speaker": "SPEAKER_01",
+    "text": "And then I think your final point was around demand."
+  },
+  {
+    "start": 1808.76,
+    "end": 1816.24,
+    "speaker": "SPEAKER_01",
+    "text": "So we don't have any information on that today, but we do know that based on customer service."
+  },
+  {
+    "start": 1816.24,
+    "end": 1821.0400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Really what cancer patients care most about is having that flawless delivery of service"
+  },
+  {
+    "start": 1821.04,
+    "end": 1825.44,
+    "speaker": "SPEAKER_01",
+    "text": "and having continuity and confidence in their care provider."
+  },
+  {
+    "start": 1825.44,
+    "end": 1830.04,
+    "speaker": "SPEAKER_01",
+    "text": "So based on that as long as we're able to offer that and deliver that, which is really"
+  },
+  {
+    "start": 1830.04,
+    "end": 1834.72,
+    "speaker": "SPEAKER_01",
+    "text": "one of the main goals of bringing that service in house, we feel like that's in good shape."
+  },
+  {
+    "start": 1834.72,
+    "end": 1835.72,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, perfect."
+  },
+  {
+    "start": 1835.72,
+    "end": 1839.56,
+    "speaker": "SPEAKER_02",
+    "text": "So the partner relationship is not going to get affected a lot."
+  },
+  {
+    "start": 1839.56,
+    "end": 1845.96,
+    "speaker": "SPEAKER_02",
+    "text": "And we are confident to integrate the processes and the demand we are pretty sure that's going"
+  },
+  {
+    "start": 1845.96,
+    "end": 1848.28,
+    "speaker": "SPEAKER_02",
+    "text": "to be sustainable."
+  },
+  {
+    "start": 1848.28,
+    "end": 1854.6399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "It looks pretty good actually that I would like to just ask for 30 seconds to structure"
+  },
+  {
+    "start": 1854.6399999999999,
+    "end": 1859.6,
+    "speaker": "SPEAKER_02",
+    "text": "my recommendation that I would like to conclude the case if you don't want to cover any other"
+  },
+  {
+    "start": 1859.6,
+    "end": 1860.6,
+    "speaker": "SPEAKER_02",
+    "text": "point."
+  },
+  {
+    "start": 1860.6,
+    "end": 1861.6,
+    "speaker": "SPEAKER_01",
+    "text": "I think that sounds great."
+  },
+  {
+    "start": 1861.6,
+    "end": 1864.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "We'd love to hear your final thoughts with the client."
+  },
+  {
+    "start": 1864.3999999999999,
+    "end": 1865.3999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Awesome."
+  },
+  {
+    "start": 1865.3999999999999,
+    "end": 1866.3999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Thank you."
+  },
+  {
+    "start": 1866.3999999999999,
+    "end": 1873.68,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to recommend the client go ahead with this investment because of the following"
+  },
+  {
+    "start": 1873.68,
+    "end": 1875.28,
+    "speaker": "SPEAKER_02",
+    "text": "three reasons."
+  },
+  {
+    "start": 1875.28,
+    "end": 1881.74,
+    "speaker": "SPEAKER_02",
+    "text": "First of all, this investment sounds profitable because it will generate 45 million additional"
+  },
+  {
+    "start": 1881.74,
+    "end": 1888.3999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "profit while our objective is 30 million profit in the total of next five years."
+  },
+  {
+    "start": 1888.3999999999999,
+    "end": 1894.56,
+    "speaker": "SPEAKER_02",
+    "text": "The second reason is that if implemented successfully, which sounds feasible, this"
+  },
+  {
+    "start": 1894.56,
+    "end": 1901.56,
+    "speaker": "SPEAKER_02",
+    "text": "investment can enhance our capabilities as a hospital to further expand in other areas"
+  },
+  {
+    "start": 1901.56,
+    "end": 1904.44,
+    "speaker": "SPEAKER_02",
+    "text": "to provide more services in the future."
+  },
+  {
+    "start": 1904.44,
+    "end": 1911.04,
+    "speaker": "SPEAKER_02",
+    "text": "And the third reason is that as we just covered, there is no significant risk associated to"
+  },
+  {
+    "start": 1911.04,
+    "end": 1912.4,
+    "speaker": "SPEAKER_02",
+    "text": "this investment."
+  },
+  {
+    "start": 1912.4,
+    "end": 1916.6000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So it looks pretty sound in that perspective as well."
+  },
+  {
+    "start": 1916.6000000000001,
+    "end": 1922.64,
+    "speaker": "SPEAKER_02",
+    "text": "Going forward, I recommend the client to start building their labs and then starting"
+  },
+  {
+    "start": 1922.64,
+    "end": 1926.04,
+    "speaker": "SPEAKER_02",
+    "text": "the marketing of the new services."
+  },
+  {
+    "start": 1926.04,
+    "end": 1927.04,
+    "speaker": "SPEAKER_01",
+    "text": "Wonderful."
+  },
+  {
+    "start": 1927.04,
+    "end": 1930.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "I think all of that makes sense and we'll share that back with the client."
+  },
+  {
+    "start": 1930.6000000000001,
+    "end": 1931.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you."
+  },
+  {
+    "start": 1931.6000000000001,
+    "end": 1932.6000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Awesome."
+  },
+  {
+    "start": 1932.6000000000001,
+    "end": 1933.6000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Thank you so much."
+  },
+  {
+    "start": 1933.6799999999998,
+    "end": 1937.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Overall, the candidate shows an outstanding performance in the case."
+  },
+  {
+    "start": 1937.9199999999998,
+    "end": 1943.8,
+    "speaker": "SPEAKER_00",
+    "text": "Let's go through the prep matter evaluation criteria to assess his performance in detail."
+  },
+  {
+    "start": 1943.8,
+    "end": 1947.0,
+    "speaker": "SPEAKER_00",
+    "text": "Beginning with problem solving and insights."
+  },
+  {
+    "start": 1947.0,
+    "end": 1948.0,
+    "speaker": "SPEAKER_00",
+    "text": "Structure."
+  },
+  {
+    "start": 1948.0,
+    "end": 1953.48,
+    "speaker": "SPEAKER_00",
+    "text": "One of the strongest areas of the candidate, specifically in the profit uplift calculation,"
+  },
+  {
+    "start": 1953.48,
+    "end": 1957.04,
+    "speaker": "SPEAKER_00",
+    "text": "his structure is easy to follow and comprehensive."
+  },
+  {
+    "start": 1957.04,
+    "end": 1958.04,
+    "speaker": "SPEAKER_00",
+    "text": "Judgment."
+  },
+  {
+    "start": 1958.04,
+    "end": 1962.8,
+    "speaker": "SPEAKER_00",
+    "text": "Even though the case is a life sciences case, a topic that might come across as challenging"
+  },
+  {
+    "start": 1962.8,
+    "end": 1968.2,
+    "speaker": "SPEAKER_00",
+    "text": "for many candidates, he seems to be at ease with case-specific terminologies."
+  },
+  {
+    "start": 1968.2,
+    "end": 1969.44,
+    "speaker": "SPEAKER_00",
+    "text": "Rigger."
+  },
+  {
+    "start": 1969.44,
+    "end": 1974.68,
+    "speaker": "SPEAKER_00",
+    "text": "The case involves a moderate level of calculations, especially while checking the client's financial"
+  },
+  {
+    "start": 1974.68,
+    "end": 1976.0,
+    "speaker": "SPEAKER_00",
+    "text": "objective."
+  },
+  {
+    "start": 1976.0,
+    "end": 1982.2,
+    "speaker": "SPEAKER_00",
+    "text": "By using micro level data provided by the interviewer, he manages to reach $50 million additional"
+  },
+  {
+    "start": 1982.2,
+    "end": 1988.08,
+    "speaker": "SPEAKER_00",
+    "text": "profits from cancer treatment services and $95 million profits from pathology services"
+  },
+  {
+    "start": 1988.08,
+    "end": 1990.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "in the next five years successfully."
+  },
+  {
+    "start": 1990.9199999999998,
+    "end": 1992.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Creativity."
+  },
+  {
+    "start": 1992.4,
+    "end": 1998.44,
+    "speaker": "SPEAKER_00",
+    "text": "He shows a good level of creativity, but more importantly, he is able to show this proactively,"
+  },
+  {
+    "start": 1998.44,
+    "end": 2001.8000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "such as during the financial assessment of the case."
+  },
+  {
+    "start": 2001.8000000000002,
+    "end": 2002.96,
+    "speaker": "SPEAKER_00",
+    "text": "Synthesis."
+  },
+  {
+    "start": 2002.96,
+    "end": 2008.4,
+    "speaker": "SPEAKER_00",
+    "text": "He is able to convey his key learnings after each column in his framework, strategic fit,"
+  },
+  {
+    "start": 2008.4,
+    "end": 2010.64,
+    "speaker": "SPEAKER_00",
+    "text": "financial assessment, and risks."
+  },
+  {
+    "start": 2010.64,
+    "end": 2016.4,
+    "speaker": "SPEAKER_00",
+    "text": "He is quite disciplined in discussing the so-what of the analysis regularly, similar to consultants"
+  },
+  {
+    "start": 2016.4,
+    "end": 2019.3200000000002,
+    "speaker": "SPEAKER_00",
+    "text": "day-to-day interactions with their clients."
+  },
+  {
+    "start": 2019.32,
+    "end": 2022.72,
+    "speaker": "SPEAKER_00",
+    "text": "Next, communication and presence."
+  },
+  {
+    "start": 2022.72,
+    "end": 2023.72,
+    "speaker": "SPEAKER_00",
+    "text": "Presence."
+  },
+  {
+    "start": 2023.72,
+    "end": 2027.1599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Overall, he shows a professional attitude throughout the case."
+  },
+  {
+    "start": 2027.1599999999999,
+    "end": 2032.72,
+    "speaker": "SPEAKER_00",
+    "text": "He is confident, yet also maintains a positive attitude even under pressure."
+  },
+  {
+    "start": 2032.72,
+    "end": 2033.72,
+    "speaker": "SPEAKER_00",
+    "text": "Precision."
+  },
+  {
+    "start": 2033.72,
+    "end": 2038.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "He is able to articulate his thoughts clearly in his initial framework, approach to calculate"
+  },
+  {
+    "start": 2038.8799999999999,
+    "end": 2042.96,
+    "speaker": "SPEAKER_00",
+    "text": "annual profits, and final recommendation."
+  },
+  {
+    "start": 2042.96,
+    "end": 2044.28,
+    "speaker": "SPEAKER_00",
+    "text": "Active listening."
+  },
+  {
+    "start": 2044.28,
+    "end": 2048.4,
+    "speaker": "SPEAKER_00",
+    "text": "He is quite receptive to the verbal cues and data points received by the interviewer"
+  },
+  {
+    "start": 2048.4,
+    "end": 2050.88,
+    "speaker": "SPEAKER_00",
+    "text": "throughout the case."
+  },
+  {
+    "start": 2050.88,
+    "end": 2052.36,
+    "speaker": "SPEAKER_00",
+    "text": "Relationship management."
+  },
+  {
+    "start": 2052.36,
+    "end": 2055.52,
+    "speaker": "SPEAKER_00",
+    "text": "He is able to build a nice rapport with the interviewer."
+  },
+  {
+    "start": 2055.52,
+    "end": 2060.4,
+    "speaker": "SPEAKER_00",
+    "text": "This is aided by his overall demeanor, as well as the way he incorporates case-specific"
+  },
+  {
+    "start": 2060.4,
+    "end": 2064.44,
+    "speaker": "SPEAKER_00",
+    "text": "language into the interview, which signals he is listening closely."
+  }
+]

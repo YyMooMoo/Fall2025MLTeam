@@ -1,0 +1,1716 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 5.6000000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "Welcome everyone. In today's case we will solve a profitability case where I am the candidate"
+    },
+    {
+      "start": 5.6000000000000005,
+      "end": 11.28,
+      "speaker": "SPEAKER_02",
+      "text": "and Doa is the interviewer. For those who don't know him he also has a four years of experience at BCG"
+    },
+    {
+      "start": 11.28,
+      "end": 14.72,
+      "speaker": "SPEAKER_02",
+      "text": "and they see how it's going to do as an interviewer. Yeah, let's get started."
+    },
+    {
+      "start": 20.240000000000002,
+      "end": 26.0,
+      "speaker": "SPEAKER_01",
+      "text": "All right then, so today's case is going to be about our client named Simio."
+    },
+    {
+      "start": 26.56,
+      "end": 32.4,
+      "speaker": "SPEAKER_01",
+      "text": "is a large cement manufacturer in Indonesia. They are quite big in size with one"
+    },
+    {
+      "start": 32.4,
+      "end": 38.4,
+      "speaker": "SPEAKER_01",
+      "text": "one and a half billion dollar revenues but recently in the past two years they had an issue"
+    },
+    {
+      "start": 38.4,
+      "end": 45.2,
+      "speaker": "SPEAKER_01",
+      "text": "where they sold a big decline or they sold a big decline in their profits. Their profit margin"
+    },
+    {
+      "start": 45.2,
+      "end": 53.84,
+      "speaker": "SPEAKER_01",
+      "text": "dropped by eight percentage points from 10% to 2%. And the board asked the CEO to identify the"
+    },
+    {
+      "start": 53.84,
+      "end": 59.760000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "main reason behind this a profit decline and come up with a recovery strategy. How will you"
+    },
+    {
+      "start": 59.760000000000005,
+      "end": 64.08,
+      "speaker": "SPEAKER_02",
+      "text": "approach this case? Fantastic. Thanks for the opportunity. So just to make sure that I understand"
+    },
+    {
+      "start": 64.08,
+      "end": 70.96000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "the initial ask, the client's name is Simio which is a cement manufacturer and we sent that they"
+    },
+    {
+      "start": 70.96000000000001,
+      "end": 78.16,
+      "speaker": "SPEAKER_02",
+      "text": "faced profitability decline in the past two years. It used to be 10% now as 2%. And we're hard to"
+    },
+    {
+      "start": 78.16,
+      "end": 83.36,
+      "speaker": "SPEAKER_02",
+      "text": "help them understand some main reasons and also help them devise recovery strategies that I get"
+    },
+    {
+      "start": 83.36,
+      "end": 89.2,
+      "speaker": "SPEAKER_02",
+      "text": "it right? That's right. Fantastic. Just to start off with the definition of cement, is it the one"
+    },
+    {
+      "start": 89.2,
+      "end": 94.48,
+      "speaker": "SPEAKER_02",
+      "text": "that I see as concrete the ones that's used to build roads perhaps? Yeah, pretty much all kind of"
+    },
+    {
+      "start": 94.48,
+      "end": 101.84,
+      "speaker": "SPEAKER_01",
+      "text": "infrastructure buildings roads and access to our Ukin. Suppose that those are the main target"
+    },
+    {
+      "start": 101.84,
+      "end": 107.03999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "customers. Okay. And we said that they're based in Indonesia but does the client have any"
+    },
+    {
+      "start": 107.03999999999999,
+      "end": 112.16,
+      "speaker": "SPEAKER_01",
+      "text": "international operations? Yeah, they do have. They do have a slight operations of roads but"
+    },
+    {
+      "start": 112.96,
+      "end": 118.24,
+      "speaker": "SPEAKER_01",
+      "text": "mainly in the region. Do we know the splits of their revenues? Most of their revenues you can"
+    },
+    {
+      "start": 118.24,
+      "end": 124.56,
+      "speaker": "SPEAKER_02",
+      "text": "suppose that's in Indonesia. Okay. All right. And so for today's case then is that okay if I just"
+    },
+    {
+      "start": 124.56,
+      "end": 129.92,
+      "speaker": "SPEAKER_02",
+      "text": "only focus on the Indonesia business? Let's go. Yeah. Okay. Fantastic. And lastly, what does the"
+    },
+    {
+      "start": 129.92,
+      "end": 133.51999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "client see as success here? Do we have any financial or strategic objectives with the"
+    },
+    {
+      "start": 133.51999999999998,
+      "end": 140.32,
+      "speaker": "SPEAKER_01",
+      "text": "turnaround strategies? Sure. Yeah. So they want to generate at least 500 million dollars"
+    },
+    {
+      "start": 141.2,
+      "end": 145.12,
+      "speaker": "SPEAKER_01",
+      "text": "within the next three years. And that's cumulative 500."
+    },
+    {
+      "start": 145.12,
+      "end": 151.04,
+      "speaker": "SPEAKER_02",
+      "text": "cumulative, yeah. Fantastic. That's quite clear. If you allow me a lot to take a second to"
+    },
+    {
+      "start": 151.68,
+      "end": 154.95999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "jot down my thoughts and I'll share my framework. Please do, yeah. Okay. Thank you."
+    },
+    {
+      "start": 154.96,
+      "end": 155.92000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah."
+    },
+    {
+      "start": 168.96,
+      "end": 173.52,
+      "speaker": "SPEAKER_02",
+      "text": "Man, start? Yeah, of course. That's fantastic. In today's discussion, I would love to"
+    },
+    {
+      "start": 174.24,
+      "end": 179.28,
+      "speaker": "SPEAKER_02",
+      "text": "categorize my thoughts under four buckets. First of all, I would love to understand the context"
+    },
+    {
+      "start": 179.28,
+      "end": 183.68,
+      "speaker": "SPEAKER_02",
+      "text": "surrounding our client in the market, which will then help me in my second analysis, which is"
+    },
+    {
+      "start": 183.68,
+      "end": 187.68,
+      "speaker": "SPEAKER_02",
+      "text": "the root cause diagnosis section. This is the part where I would like to dig deeper into the numbers"
+    },
+    {
+      "start": 187.68,
+      "end": 192.72,
+      "speaker": "SPEAKER_02",
+      "text": "and really understand where the problems are coming from. Third, based on those issues that we figure"
+    },
+    {
+      "start": 192.72,
+      "end": 198.32,
+      "speaker": "SPEAKER_02",
+      "text": "out, I would love to discuss some recovery strategies. And finally, as my fourth section,"
+    },
+    {
+      "start": 198.32,
+      "end": 203.12,
+      "speaker": "SPEAKER_02",
+      "text": "would love to discuss some risks. Now, getting into the details to understand our client's"
+    },
+    {
+      "start": 203.68,
+      "end": 208.8,
+      "speaker": "SPEAKER_02",
+      "text": "context. First of all, we see that the clients in the cement business, but we didn't really hear"
+    },
+    {
+      "start": 208.8,
+      "end": 213.44,
+      "speaker": "SPEAKER_02",
+      "text": "many numbers earlier. Would love to understand their business splits in terms of could be"
+    },
+    {
+      "start": 213.84,
+      "end": 219.36,
+      "speaker": "SPEAKER_02",
+      "text": "the product segments within cement. If there is some high-take and low-take product segments."
+    },
+    {
+      "start": 219.36,
+      "end": 224.48000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "And I would love to discuss the geographical split we said to focus on Indonesia, but maybe within"
+    },
+    {
+      "start": 224.48000000000002,
+      "end": 232.16,
+      "speaker": "SPEAKER_02",
+      "text": "Indonesia would the regions behave differently. And then would love to get to the customers. So,"
+    },
+    {
+      "start": 232.16,
+      "end": 236.88,
+      "speaker": "SPEAKER_02",
+      "text": "I would imagine that some construction sites, developers might be interested in our product,"
+    },
+    {
+      "start": 236.88,
+      "end": 242.24,
+      "speaker": "SPEAKER_02",
+      "text": "so would love to see the split of our revenues right now. And lastly, we should look at the"
+    },
+    {
+      "start": 242.32000000000002,
+      "end": 247.12,
+      "speaker": "SPEAKER_02",
+      "text": "competition their market share. I would love to emphasize that the areas that I mentioned so far"
+    },
+    {
+      "start": 247.12,
+      "end": 251.92000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "are just a snapshot. I don't want to get into the trends yet. This will just help me really"
+    },
+    {
+      "start": 251.92000000000002,
+      "end": 258.24,
+      "speaker": "SPEAKER_02",
+      "text": "understand the problem at hand. Now, to dig deeper in the root cause identification area,"
+    },
+    {
+      "start": 258.96000000000004,
+      "end": 263.36,
+      "speaker": "SPEAKER_02",
+      "text": "I would like to divide it into two, quantitative and qualitative root cause analysis."
+    },
+    {
+      "start": 263.36,
+      "end": 268.72,
+      "speaker": "SPEAKER_02",
+      "text": "On the quantitative part, we said that there is a drop of eight percentage points in the margins."
+    },
+    {
+      "start": 268.72,
+      "end": 274.24,
+      "speaker": "SPEAKER_02",
+      "text": "Does it come from the revenue drop or a cost increase or both? We should definitely take a look at"
+    },
+    {
+      "start": 274.24,
+      "end": 279.04,
+      "speaker": "SPEAKER_02",
+      "text": "this based on different revenue splits based on customer geographies and sites. If there is any"
+    },
+    {
+      "start": 279.04,
+      "end": 284.24,
+      "speaker": "SPEAKER_02",
+      "text": "specific segment that is suffering more than the other. And as we do this, we should compare it with"
+    },
+    {
+      "start": 284.24,
+      "end": 289.52000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "the competition. We should see if this issue is on the specific to our client or whether we also"
+    },
+    {
+      "start": 289.52000000000004,
+      "end": 297.20000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "see it market-wide. And as we do those numerical analysis, we should also understand the underlying"
+    },
+    {
+      "start": 297.2,
+      "end": 302.0,
+      "speaker": "SPEAKER_02",
+      "text": "drivers behind it. So more of a qualitative root cause analysis. What I mean by this is"
+    },
+    {
+      "start": 303.44,
+      "end": 308.47999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "say, our profitability is going down, specifically our costs are going up in one segment."
+    },
+    {
+      "start": 308.47999999999996,
+      "end": 313.52,
+      "speaker": "SPEAKER_02",
+      "text": "We would love to dig deeper into understanding, is it because of the labor union problems or perhaps"
+    },
+    {
+      "start": 313.52,
+      "end": 317.59999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "just the wages overall increase throughout the country? So really just dig deeper into those issues."
+    },
+    {
+      "start": 317.59999999999997,
+      "end": 323.03999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "Sure. In terms of the recovery strategies, I don't know the problem yet, but just broadly,"
+    },
+    {
+      "start": 323.04,
+      "end": 328.56,
+      "speaker": "SPEAKER_02",
+      "text": "we can categorize it under direct and indirect strategies. So on the direct based on whatever"
+    },
+    {
+      "start": 328.56,
+      "end": 333.44,
+      "speaker": "SPEAKER_02",
+      "text": "problems that we will figure out whether it's on the revenue or cost side, we can look into ways to"
+    },
+    {
+      "start": 333.44,
+      "end": 340.0,
+      "speaker": "SPEAKER_02",
+      "text": "improve it by directly solving those issues. And on the indirect strategies, say our profitability"
+    },
+    {
+      "start": 340.0,
+      "end": 345.84000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "is going down, but we can't do much about it. Can we make up for that loss via focusing on other"
+    },
+    {
+      "start": 345.84000000000003,
+      "end": 350.96000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "regions and revenue and permanent ideas and such would be useful to discuss? And last in terms of"
+    },
+    {
+      "start": 351.12,
+      "end": 355.68,
+      "speaker": "SPEAKER_02",
+      "text": "the risks, so these are the risks of those strategies that we will develop, which I don't know yet."
+    },
+    {
+      "start": 355.68,
+      "end": 362.0,
+      "speaker": "SPEAKER_02",
+      "text": "But perhaps we can look into the likes of customer adoption or regulatory aspects. How does"
+    },
+    {
+      "start": 362.0,
+      "end": 368.4,
+      "speaker": "SPEAKER_01",
+      "text": "my framework sound like? That sounds quite comprehensive. I really loved it. And yeah, then my question"
+    },
+    {
+      "start": 368.4,
+      "end": 374.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "is which specific section framework you would like to focus now? Let's delve into our candidate's"
+    },
+    {
+      "start": 374.15999999999997,
+      "end": 379.76,
+      "speaker": "SPEAKER_00",
+      "text": "performance during the case study so far, starting with his strengths. The candidate showed"
+    },
+    {
+      "start": 379.76,
+      "end": 385.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "strong business acumen by avoiding the common mistake of immediately delving into revenue or"
+    },
+    {
+      "start": 385.59999999999997,
+      "end": 392.32,
+      "speaker": "SPEAKER_00",
+      "text": "cost trends in profitability case studies. Instead, he took a thoughtful approach, first trying to"
+    },
+    {
+      "start": 392.32,
+      "end": 398.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "grasp the fundamentals of the case like understanding the nature of the cement product, identifying key"
+    },
+    {
+      "start": 398.15999999999997,
+      "end": 404.64,
+      "speaker": "SPEAKER_00",
+      "text": "customer segments and examining the geographical coverage. In terms of communication, he was very"
+    },
+    {
+      "start": 404.64,
+      "end": 410.96,
+      "speaker": "SPEAKER_00",
+      "text": "effective at making complex concepts in his framework easy to understand. He first outlined the"
+    },
+    {
+      "start": 410.96,
+      "end": 417.44,
+      "speaker": "SPEAKER_00",
+      "text": "broad components before going into detailed specifics, maintaining clarity throughout. Moreover,"
+    },
+    {
+      "start": 417.44,
+      "end": 423.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "he consistently used nonverbal communication, often making eye contact with the interviewer,"
+    },
+    {
+      "start": 423.03999999999996,
+      "end": 428.8,
+      "speaker": "SPEAKER_00",
+      "text": "which helped keep the conversation engaging and personal. However, even with these strengths,"
+    },
+    {
+      "start": 428.8,
+      "end": 434.24,
+      "speaker": "SPEAKER_00",
+      "text": "there is an area for improvement. Despite not greatly affecting his overall performance,"
+    },
+    {
+      "start": 434.24,
+      "end": 440.56,
+      "speaker": "SPEAKER_00",
+      "text": "the candidate could enhance his root cause analysis, incorporating factors such as price trends,"
+    },
+    {
+      "start": 440.56,
+      "end": 446.0,
+      "speaker": "SPEAKER_00",
+      "text": "volume changes, and variable and fixed cost trends into his framework would give it more depth"
+    },
+    {
+      "start": 446.0,
+      "end": 452.48,
+      "speaker": "SPEAKER_00",
+      "text": "and offer a more holistic view of the situation. Yeah, for sure. I mean, let's start with the first column."
+    },
+    {
+      "start": 453.12,
+      "end": 458.32,
+      "speaker": "SPEAKER_02",
+      "text": "We said earlier that our clients are cement business, doing all hobby there and whether we have any"
+    },
+    {
+      "start": 458.32,
+      "end": 464.08,
+      "speaker": "SPEAKER_02",
+      "text": "segmentation regarding his geographies or products. Okay. So the size,"
+    },
+    {
+      "start": 464.88,
+      "end": 474.56,
+      "speaker": "SPEAKER_01",
+      "text": "regarding the, so our size is 1.5 million dollars, as I said, and regarding the geography,"
+    },
+    {
+      "start": 474.56,
+      "end": 481.12,
+      "speaker": "SPEAKER_01",
+      "text": "it's, you can suppose that it's mainly within the country, Indonesia, and regarding the products,"
+    },
+    {
+      "start": 482.56,
+      "end": 487.12,
+      "speaker": "SPEAKER_01",
+      "text": "we used to have some other products, but now we only have one type of product,"
+    },
+    {
+      "start": 487.6,
+      "end": 496.0,
+      "speaker": "SPEAKER_01",
+      "text": "which is ordinary Portland cement that's called. And this type of product is sold to the large"
+    },
+    {
+      "start": 496.0,
+      "end": 503.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "companies that we work traditionally with, and we can suppose that this is the market that we are"
+    },
+    {
+      "start": 503.28000000000003,
+      "end": 509.28000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "targeting with only one single product. God, and we knew that we are only operating in Indonesia,"
+    },
+    {
+      "start": 509.28000000000003,
+      "end": 513.6800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "or that is the number we should take. Do we have any further segmentation into certain cities,"
+    },
+    {
+      "start": 513.68,
+      "end": 517.8399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "or should I just look into it, countrywide? Yeah, countrywide. You can suppose to countrywide."
+    },
+    {
+      "start": 517.8399999999999,
+      "end": 521.92,
+      "speaker": "SPEAKER_02",
+      "text": "Fantastic. And then we said that the only product is ordinary Portland cement,"
+    },
+    {
+      "start": 521.92,
+      "end": 526.0799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "and you said that we are selling it to large companies. So what kind of companies do we deal with?"
+    },
+    {
+      "start": 526.0799999999999,
+      "end": 531.12,
+      "speaker": "SPEAKER_01",
+      "text": "Do we have any segmentation? Yeah, so basically we have three groups of companies."
+    },
+    {
+      "start": 531.12,
+      "end": 537.12,
+      "speaker": "SPEAKER_01",
+      "text": "First one is the construction firms that work in a big or infrastructure projects,"
+    },
+    {
+      "start": 538.0,
+      "end": 545.84,
+      "speaker": "SPEAKER_01",
+      "text": "like roads, highways, etc. And then we have heavy construction firms that build large buildings,"
+    },
+    {
+      "start": 545.84,
+      "end": 551.92,
+      "speaker": "SPEAKER_01",
+      "text": "private or public funded. And we have small construction firms, so three segments."
+    },
+    {
+      "start": 552.72,
+      "end": 558.96,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. So just to clarify, I got the second and third. So the second one is heavy construction"
+    },
+    {
+      "start": 558.96,
+      "end": 565.04,
+      "speaker": "SPEAKER_02",
+      "text": "companies that do this small customer segments, the small construction companies, what was the first"
+    },
+    {
+      "start": 565.04,
+      "end": 571.76,
+      "speaker": "SPEAKER_01",
+      "text": "one again? The construction firms work on large infrastructure projects. Got it. Okay, fantastic."
+    },
+    {
+      "start": 571.76,
+      "end": 578.56,
+      "speaker": "SPEAKER_02",
+      "text": "And do we know the splits by any chance? Not the trend perhaps, but as of today. Yeah, so I can show"
+    },
+    {
+      "start": 578.56,
+      "end": 584.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "you an exhibit and you can find the related information in exhibit number one. Sure, let's do that."
+    },
+    {
+      "start": 584.7199999999999,
+      "end": 589.52,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you. Please find an exhibit number one. Okay, I'll take a second to take a look at it. Yeah, sure."
+    },
+    {
+      "start": 589.6,
+      "end": 600.3199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Brilliant. Here we see that out of this $1.5 billion of the clients total revenue,"
+    },
+    {
+      "start": 600.88,
+      "end": 606.72,
+      "speaker": "SPEAKER_02",
+      "text": "the vast majority of the business is with large infrastructure companies. I would say some"
+    },
+    {
+      "start": 606.72,
+      "end": 612.0,
+      "speaker": "SPEAKER_02",
+      "text": "around almost 70%. Then it's followed by heavy construction and light construction companies. So"
+    },
+    {
+      "start": 612.56,
+      "end": 618.0799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "we're dealing with a huge issue here of profit margin decline. So perhaps the issues come from the"
+    },
+    {
+      "start": 618.08,
+      "end": 623.2800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "large infrastructure given how big they are. But to further validate this hypothesis, do we have"
+    },
+    {
+      "start": 623.2800000000001,
+      "end": 628.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "any data regarding the revenue or even the cost trends for each of those customer segments?"
+    },
+    {
+      "start": 628.8000000000001,
+      "end": 634.88,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, sure. Good summary. So we don't have information on the cost side related, like segment"
+    },
+    {
+      "start": 634.88,
+      "end": 640.08,
+      "speaker": "SPEAKER_01",
+      "text": "specific information on the cost side, but we have segment specific information regarding revenues."
+    },
+    {
+      "start": 640.08,
+      "end": 647.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Great. I can show you another exhibit if you like showing the trend of the revenue evolution"
+    },
+    {
+      "start": 647.9200000000001,
+      "end": 652.64,
+      "speaker": "SPEAKER_01",
+      "text": "by segment. Please do that. You can find it at exhibit number two. Thank you so much. I'll"
+    },
+    {
+      "start": 652.64,
+      "end": 654.0,
+      "speaker": "SPEAKER_02",
+      "text": "again take a second. Yes, sure."
+    },
+    {
+      "start": 662.32,
+      "end": 667.76,
+      "speaker": "SPEAKER_02",
+      "text": "Fantastic. It seems that besides having the revenue level data, we actually have one level"
+    },
+    {
+      "start": 668.48,
+      "end": 673.92,
+      "speaker": "SPEAKER_02",
+      "text": "which is quantity and price side. And it seems that looking into the corner first, then I'll discuss"
+    },
+    {
+      "start": 673.92,
+      "end": 681.28,
+      "speaker": "SPEAKER_02",
+      "text": "the price evolution on the quantity side. We see a drop in large infrastructure as well as the"
+    },
+    {
+      "start": 681.28,
+      "end": 687.52,
+      "speaker": "SPEAKER_02",
+      "text": "heavy construction projects over time. But the issue within large infrastructure is bigger here."
+    },
+    {
+      "start": 688.16,
+      "end": 692.8,
+      "speaker": "SPEAKER_02",
+      "text": "And in terms of the price side, it seems like we've actually increased the price. I'm not"
+    },
+    {
+      "start": 692.88,
+      "end": 699.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "pretty sure if this is an issue. So I would love to further discuss why we see a drop in the volumes"
+    },
+    {
+      "start": 699.4399999999999,
+      "end": 706.0,
+      "speaker": "SPEAKER_02",
+      "text": "of those two segments. Here, there are only two possibilities. Either the market is going down"
+    },
+    {
+      "start": 706.0,
+      "end": 709.52,
+      "speaker": "SPEAKER_02",
+      "text": "or that we're losing market share. Do we have any data regarding those?"
+    },
+    {
+      "start": 709.52,
+      "end": 717.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, very good analysis actually. So former hypothesis is correct. So market is going down,"
+    },
+    {
+      "start": 717.84,
+      "end": 725.76,
+      "speaker": "SPEAKER_01",
+      "text": "especially in the big projects. So those projects were traditionally funded by the government."
+    },
+    {
+      "start": 725.76,
+      "end": 732.48,
+      "speaker": "SPEAKER_01",
+      "text": "And in the past years, it's an issue across all emerging economies, but especially in the Indonesia,"
+    },
+    {
+      "start": 732.48,
+      "end": 738.64,
+      "speaker": "SPEAKER_01",
+      "text": "there have been also a decline in the public spending on infrastructure. So it caused a lot of"
+    },
+    {
+      "start": 740.08,
+      "end": 747.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "reaction from this manufacturing construction firms. They cut the demand as a result. And that"
+    },
+    {
+      "start": 748.0,
+      "end": 753.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "that's how we struggle at this point as well. And is that due to COVID or is there any other reason?"
+    },
+    {
+      "start": 753.8399999999999,
+      "end": 761.04,
+      "speaker": "SPEAKER_01",
+      "text": "No, it's a general COVID contributed to that a little bit, but it's just like general trajectory"
+    },
+    {
+      "start": 762.16,
+      "end": 767.76,
+      "speaker": "SPEAKER_02",
+      "text": "across emerging market economies. So there's an economic crisis and that lets you"
+    },
+    {
+      "start": 768.4799999999999,
+      "end": 774.7199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "a market shrinkage. And then as a result, our client was unable to sell as much in the past"
+    },
+    {
+      "start": 774.72,
+      "end": 779.52,
+      "speaker": "SPEAKER_02",
+      "text": "several years. But just to be sure, do we see any decline in the market share? Did it stay stable?"
+    },
+    {
+      "start": 780.4,
+      "end": 788.32,
+      "speaker": "SPEAKER_02",
+      "text": "It's the same. I have the same. For that statement. Fantastic. So then this would mean that other"
+    },
+    {
+      "start": 788.32,
+      "end": 794.72,
+      "speaker": "SPEAKER_02",
+      "text": "competitors also face the similar issue. Very similar issue. Okay. That's fantastic. It looks like"
+    },
+    {
+      "start": 794.72,
+      "end": 799.9200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "now we've exhausted our revenue diagnosis. Now let's move on to the cost. We said that we don't"
+    },
+    {
+      "start": 799.92,
+      "end": 804.4799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "have any data on the segment level. But do we have anything on the consolidated level by any"
+    },
+    {
+      "start": 804.4799999999999,
+      "end": 808.0,
+      "speaker": "SPEAKER_02",
+      "text": "chance? Because I want to make sure that there is nothing wrong on the cost side. Sure. I can"
+    },
+    {
+      "start": 808.0,
+      "end": 814.4799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "show you our PNL for the past three years if it works. Yeah. That's awesome. So please find"
+    },
+    {
+      "start": 814.4799999999999,
+      "end": 820.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "an exhibit number three where you can see the variable cost fixed cost and EBITDA. Okay. That's"
+    },
+    {
+      "start": 820.1600000000001,
+      "end": 831.5200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "great. I'll just take a second. Great. Here I see EBITDA which I think is profits. Right. And then"
+    },
+    {
+      "start": 831.5200000000001,
+      "end": 836.0,
+      "speaker": "SPEAKER_02",
+      "text": "we have fixed in the variable cost. And if we sum all of those three figures, we should get to"
+    },
+    {
+      "start": 836.0,
+      "end": 841.9200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "revenue's right, which is at the top of the bar. Sure. Okay. It is clear that there's a revenue"
+    },
+    {
+      "start": 841.9200000000001,
+      "end": 847.12,
+      "speaker": "SPEAKER_02",
+      "text": "decline we've discussed this before. Now moving on to the cost side. Let's get started first with"
+    },
+    {
+      "start": 847.12,
+      "end": 854.24,
+      "speaker": "SPEAKER_02",
+      "text": "the fixed costs. It used to be 272, which then increased to 80. In terms of the percentages though,"
+    },
+    {
+      "start": 854.24,
+      "end": 860.0,
+      "speaker": "SPEAKER_02",
+      "text": "it is a very minimal increase. So I'm not too bothered by it. I would imagine that it might be"
+    },
+    {
+      "start": 860.0,
+      "end": 865.92,
+      "speaker": "SPEAKER_02",
+      "text": "even due to inflation or other reasons. Of course, it probably contributed to an extent, but"
+    },
+    {
+      "start": 865.92,
+      "end": 871.76,
+      "speaker": "SPEAKER_02",
+      "text": "probably not the major concern of ours. In terms of variable cost, I see variable cost going down"
+    },
+    {
+      "start": 872.56,
+      "end": 878.48,
+      "speaker": "SPEAKER_02",
+      "text": "similar to the revenues, but we don't know whether it is going down proportionately."
+    },
+    {
+      "start": 879.52,
+      "end": 884.64,
+      "speaker": "SPEAKER_02",
+      "text": "If you allow me a lot to just take a second and would love to compare those two years, maybe 2020"
+    },
+    {
+      "start": 884.64,
+      "end": 890.8,
+      "speaker": "SPEAKER_02",
+      "text": "and 2022, just to make sure that the variable cost remained the same in terms of revenue ratios."
+    },
+    {
+      "start": 890.8,
+      "end": 898.88,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. Let's try to calculate the units variable cost change. Fantastic. All right. So on 2020,"
+    },
+    {
+      "start": 899.6,
+      "end": 910.88,
+      "speaker": "SPEAKER_02",
+      "text": "I need to divide 1.35 or 1,350 by 1,800 to get to the ratio. So those two values should be divided"
+    },
+    {
+      "start": 910.88,
+      "end": 921.6,
+      "speaker": "SPEAKER_02",
+      "text": "by 450. So that's 3 divided by 4. 75% is the variable cost revenue ratio on 2020. Now moving to 2022,"
+    },
+    {
+      "start": 921.6,
+      "end": 928.08,
+      "speaker": "SPEAKER_02",
+      "text": "is that okay if I skip 2021? Yeah. Let's only compare 22, 2020. Okay. Fantastic. That says"
+    },
+    {
+      "start": 928.08,
+      "end": 936.64,
+      "speaker": "SPEAKER_02",
+      "text": "me some time. Now let's do the similar calculation here and divide 1,200 by 1,500. Each values could"
+    },
+    {
+      "start": 936.64,
+      "end": 943.6,
+      "speaker": "SPEAKER_02",
+      "text": "be divided by 300. So it's 80% interesting. It seems like there's an increase in the ratio of"
+    },
+    {
+      "start": 943.6,
+      "end": 951.12,
+      "speaker": "SPEAKER_02",
+      "text": "variable cost revenues from 75% to 80%. Okay. What does tells us is the following. In a normal business,"
+    },
+    {
+      "start": 951.12,
+      "end": 956.6400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "in a normal business cycle, you would expect variable cost to revenues ratio to remain the same."
+    },
+    {
+      "start": 957.1999999999999,
+      "end": 961.28,
+      "speaker": "SPEAKER_02",
+      "text": "But in this case, there is an increase. So I would love to understand what might be some causes to"
+    },
+    {
+      "start": 961.28,
+      "end": 966.64,
+      "speaker": "SPEAKER_02",
+      "text": "that. Do we have any data? Yeah. What might be the main reasons for this? So we said earlier,"
+    },
+    {
+      "start": 966.64,
+      "end": 972.48,
+      "speaker": "SPEAKER_02",
+      "text": "something about the economic crisis, right? So this means there's a lower demand. And I would"
+    },
+    {
+      "start": 972.48,
+      "end": 978.4,
+      "speaker": "SPEAKER_02",
+      "text": "imagine that if there is lower demand for such raw materials, whatever we used to make concrete or"
+    },
+    {
+      "start": 978.4,
+      "end": 986.0,
+      "speaker": "SPEAKER_02",
+      "text": "cement in this case, due to a lower demand, if the supply doesn't change, the cocks or the price"
+    },
+    {
+      "start": 986.0,
+      "end": 991.52,
+      "speaker": "SPEAKER_02",
+      "text": "would go up the procurement cost. So that could be one reason or maybe the client recently"
+    },
+    {
+      "start": 991.52,
+      "end": 996.32,
+      "speaker": "SPEAKER_02",
+      "text": "changed the supplier and now they have any inferior deals. Do we have any information regarding those?"
+    },
+    {
+      "start": 996.32,
+      "end": 1004.72,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. So both of those reasons potentially are correct. On top of that, we have another issue"
+    },
+    {
+      "start": 1004.72,
+      "end": 1011.52,
+      "speaker": "SPEAKER_01",
+      "text": "which is the change in the currency rate. So the currency depreciated against dollars and"
+    },
+    {
+      "start": 1011.6,
+      "end": 1020.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "it increased actually cost of some items that we use in variable cost. So that's also one of"
+    },
+    {
+      "start": 1020.3199999999999,
+      "end": 1026.4,
+      "speaker": "SPEAKER_02",
+      "text": "the reasons contributing to this trend. So our client is procuring their products based on the foreign"
+    },
+    {
+      "start": 1027.12,
+      "end": 1033.6,
+      "speaker": "SPEAKER_02",
+      "text": "experience. Yes. Foreign exchange denominated products. Interesting. So just to summarize our learning"
+    },
+    {
+      "start": 1033.6,
+      "end": 1038.56,
+      "speaker": "SPEAKER_02",
+      "text": "so far, there are two main issues. One of them is on the revenue side, we're selling less"
+    },
+    {
+      "start": 1038.6399999999999,
+      "end": 1044.48,
+      "speaker": "SPEAKER_02",
+      "text": "to our major accounts because there is economic crisis. And the second issue we discuss is our"
+    },
+    {
+      "start": 1044.48,
+      "end": 1049.12,
+      "speaker": "SPEAKER_02",
+      "text": "rising, especially the variable costs. Yes, there is some issue on the fixed cost by more on the"
+    },
+    {
+      "start": 1049.12,
+      "end": 1054.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "variable cost that because economic crisis and it led to some inferior deals for us."
+    },
+    {
+      "start": 1055.6799999999998,
+      "end": 1060.48,
+      "speaker": "SPEAKER_02",
+      "text": "If there is nothing else, is that okay if I come up with some recovery strategies?"
+    },
+    {
+      "start": 1060.48,
+      "end": 1065.44,
+      "speaker": "SPEAKER_02",
+      "text": "Yes, let's go to the next section. Okay, fantastic. For this, I would need a minute if you don't"
+    },
+    {
+      "start": 1065.44,
+      "end": 1068.16,
+      "speaker": "SPEAKER_02",
+      "text": "mind to come up with some ideas. Yes. Please take it. Thank you."
+    },
+    {
+      "start": 1069.92,
+      "end": 1074.0,
+      "speaker": "SPEAKER_00",
+      "text": "Let's take a moment to review the key strengths of our candidate's performance so far."
+    },
+    {
+      "start": 1074.88,
+      "end": 1081.04,
+      "speaker": "SPEAKER_00",
+      "text": "Firstly, we have case leadership. The candidate demonstrated strong leadership throughout the case."
+    },
+    {
+      "start": 1081.04,
+      "end": 1085.44,
+      "speaker": "SPEAKER_00",
+      "text": "He adhered to his framework and took the initiative to suggest next steps,"
+    },
+    {
+      "start": 1085.44,
+      "end": 1092.0,
+      "speaker": "SPEAKER_00",
+      "text": "effectively reducing the need for prompts from the interviewer. Next, let's discuss exhibit reading."
+    },
+    {
+      "start": 1092.0,
+      "end": 1097.36,
+      "speaker": "SPEAKER_00",
+      "text": "The candidate was meticulous in his approach to each exhibit, always taking the time to fully"
+    },
+    {
+      "start": 1097.36,
+      "end": 1103.68,
+      "speaker": "SPEAKER_00",
+      "text": "understand and digest the information presented. This helped him to quickly draw out meaningful insights"
+    },
+    {
+      "start": 1103.68,
+      "end": 1110.0,
+      "speaker": "SPEAKER_00",
+      "text": "and articulate potential root causes of the profitability decline. Finally, problem solving."
+    },
+    {
+      "start": 1110.0,
+      "end": 1115.84,
+      "speaker": "SPEAKER_00",
+      "text": "Here are candidate truly excelled. When faced with one of the case's most complex challenges,"
+    },
+    {
+      "start": 1115.84,
+      "end": 1122.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "identifying issues with variable cost structure, he didn't falter. Instead, he suggested comparing"
+    },
+    {
+      "start": 1122.1599999999999,
+      "end": 1128.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "variable cost to revenues, a strategy that mirrors those used in real-world consulting scenarios."
+    },
+    {
+      "start": 1128.9599999999998,
+      "end": 1133.1999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "I'm going to use my earlier structure, which is direct and indirect strategies here."
+    },
+    {
+      "start": 1133.76,
+      "end": 1138.72,
+      "speaker": "SPEAKER_02",
+      "text": "On the direct side, let's look into revenues in the cost aspect. So on the revenues, the issue was"
+    },
+    {
+      "start": 1138.72,
+      "end": 1145.3600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "the economic crisis. I'm not entirely sure how much we could do for that. But when I look into"
+    },
+    {
+      "start": 1145.3600000000001,
+      "end": 1152.24,
+      "speaker": "SPEAKER_02",
+      "text": "the segments, perhaps there is a way for us to justify a higher price. So I don't really know"
+    },
+    {
+      "start": 1152.24,
+      "end": 1157.28,
+      "speaker": "SPEAKER_02",
+      "text": "cement is a commodity-type product, but if there is anything we can do as an add-on, maybe serve"
+    },
+    {
+      "start": 1157.28,
+      "end": 1162.72,
+      "speaker": "SPEAKER_02",
+      "text": "the maintenance services or payback guarantees in such, then we might be able to increase our price"
+    },
+    {
+      "start": 1162.72,
+      "end": 1167.04,
+      "speaker": "SPEAKER_02",
+      "text": "point. But in terms of the volumes, I'm not entirely sure if there is anything to be done there,"
+    },
+    {
+      "start": 1167.04,
+      "end": 1173.04,
+      "speaker": "SPEAKER_02",
+      "text": "especially on the segments that we're losing. In terms of the cost side, we can look into ways to"
+    },
+    {
+      "start": 1173.76,
+      "end": 1178.8,
+      "speaker": "SPEAKER_02",
+      "text": "reduce our variable costs, because we learned earlier that we're currently having it on"
+    },
+    {
+      "start": 1178.8,
+      "end": 1183.36,
+      "speaker": "SPEAKER_02",
+      "text": "foreign exchange rates. So is there any way for us to perhaps fix the exchange rates,"
+    },
+    {
+      "start": 1183.36,
+      "end": 1187.28,
+      "speaker": "SPEAKER_02",
+      "text": "something we've seen in many developing countries and get better deals for us, or simply change"
+    },
+    {
+      "start": 1187.28,
+      "end": 1192.48,
+      "speaker": "SPEAKER_02",
+      "text": "the supplier? That could also be another way of doing it. On the fixed costs, maybe there's a way"
+    },
+    {
+      "start": 1192.56,
+      "end": 1198.4,
+      "speaker": "SPEAKER_02",
+      "text": "for us to optimize our labor or rent payments and so on. In terms of the indirect strategies,"
+    },
+    {
+      "start": 1199.6,
+      "end": 1204.08,
+      "speaker": "SPEAKER_02",
+      "text": "I do not fully recall the name of the segment, but that was one segment in one of the previous"
+    },
+    {
+      "start": 1204.08,
+      "end": 1209.44,
+      "speaker": "SPEAKER_02",
+      "text": "segments where we see an increase in the sales. I think it was light construction companies."
+    },
+    {
+      "start": 1211.04,
+      "end": 1216.64,
+      "speaker": "SPEAKER_02",
+      "text": "So I know that it is a small business, but at the stage, any increase would help our clients,"
+    },
+    {
+      "start": 1216.64,
+      "end": 1220.32,
+      "speaker": "SPEAKER_02",
+      "text": "if there is any way for us to double down on the segment, that could also be useful. What do you"
+    },
+    {
+      "start": 1220.32,
+      "end": 1228.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "think of the ideas? Okay, so regarding new products, we don't have a good experience in launching"
+    },
+    {
+      "start": 1228.3999999999999,
+      "end": 1235.12,
+      "speaker": "SPEAKER_01",
+      "text": "new products in the past. So I don't think the management team will welcome this idea much."
+    },
+    {
+      "start": 1235.84,
+      "end": 1242.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Regarding the cutting costs, so you're right with the suppliers. Actually, it's one of the key areas"
+    },
+    {
+      "start": 1242.6399999999999,
+      "end": 1249.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "where we can potentially cut some costs, but we renewed almost all of our projects with new"
+    },
+    {
+      "start": 1249.68,
+      "end": 1256.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "suppliers in the past year. So that option already tried. And regarding new segments,"
+    },
+    {
+      "start": 1257.44,
+      "end": 1263.68,
+      "speaker": "SPEAKER_01",
+      "text": "so this is not our strong arm and we don't think that we can still much market share if we focus"
+    },
+    {
+      "start": 1263.68,
+      "end": 1269.04,
+      "speaker": "SPEAKER_01",
+      "text": "concentrate on this small manufacturing, small construction companies, even though we increase"
+    },
+    {
+      "start": 1269.04,
+      "end": 1274.96,
+      "speaker": "SPEAKER_01",
+      "text": "our revenues. We will face huge competition there, so need throughout the options will help much"
+    },
+    {
+      "start": 1275.76,
+      "end": 1280.96,
+      "speaker": "SPEAKER_02",
+      "text": "actually. Okay, so I'm a bit puzzled here. If he cannot do anything, what could we do?"
+    },
+    {
+      "start": 1281.68,
+      "end": 1288.88,
+      "speaker": "SPEAKER_01",
+      "text": "I don't know. Something maybe extra ordinary solution that we can come up with. I really don't know,"
+    },
+    {
+      "start": 1288.88,
+      "end": 1293.04,
+      "speaker": "SPEAKER_02",
+      "text": "that's why we are asking you. Okay, may I just take another second then to think about some"
+    },
+    {
+      "start": 1293.04,
+      "end": 1301.6000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "additional ideas? Sure, please. Interesting. Okay, I think that is something we could do."
+    },
+    {
+      "start": 1301.9199999999998,
+      "end": 1309.4399999999998,
+      "speaker": "SPEAKER_02",
+      "text": "If there is not much we can do, maybe there is a way for us to reduce our recurring expenses,"
+    },
+    {
+      "start": 1309.4399999999998,
+      "end": 1316.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "whether it is fixable the variable cost side by shrinking the business. I do see it in many cases,"
+    },
+    {
+      "start": 1316.6399999999999,
+      "end": 1322.1599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "especially recently as well due to COVID, many of the retail oriented and in-stayman oriented"
+    },
+    {
+      "start": 1322.1599999999999,
+      "end": 1327.04,
+      "speaker": "SPEAKER_02",
+      "text": "businesses actually didn't have to shut down, but then they were starting to open back their business."
+    },
+    {
+      "start": 1327.04,
+      "end": 1332.8,
+      "speaker": "SPEAKER_02",
+      "text": "So I'm wondering if the client would consider some drastic measures like this, maybe not a full"
+    },
+    {
+      "start": 1332.8,
+      "end": 1338.24,
+      "speaker": "SPEAKER_02",
+      "text": "shrinkage, but a reduction of their certain operations, especially where we are unprofitable,"
+    },
+    {
+      "start": 1338.24,
+      "end": 1344.96,
+      "speaker": "SPEAKER_02",
+      "text": "may help us in saving some of our recurring costs, maybe fixed costs especially. And ideally,"
+    },
+    {
+      "start": 1344.96,
+      "end": 1350.32,
+      "speaker": "SPEAKER_02",
+      "text": "once the economy starts to recover, we can again double down on the segments that would give us"
+    },
+    {
+      "start": 1350.32,
+      "end": 1356.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "a good profitability. Okay, so it's like it's because we have an objective of 500 million,"
+    },
+    {
+      "start": 1356.8799999999999,
+      "end": 1365.6,
+      "speaker": "SPEAKER_01",
+      "text": "so you try to find some ways to generate 500 million by shrinking, like our size, selling something,"
+    },
+    {
+      "start": 1365.6,
+      "end": 1370.24,
+      "speaker": "SPEAKER_02",
+      "text": "a few minutes to try, is that what you mean? Exactly, so I would also imagine you raised a great"
+    },
+    {
+      "start": 1370.24,
+      "end": 1374.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "point, we could even make money through sales of certain assets perhaps to get to that level,"
+    },
+    {
+      "start": 1374.6399999999999,
+      "end": 1380.0,
+      "speaker": "SPEAKER_02",
+      "text": "but in any case, I find this very challenging because the client's full revenues are 1.5 billion."
+    },
+    {
+      "start": 1380.3999999999999,
+      "end": 1385.12,
+      "speaker": "SPEAKER_02",
+      "text": "And we're seeing that we want to generate a cumulative total cash of 500 million in the next"
+    },
+    {
+      "start": 1385.12,
+      "end": 1390.8,
+      "speaker": "SPEAKER_02",
+      "text": "couple of years. I'm not entirely sure if this is even feasible to start with. Yeah, that makes a"
+    },
+    {
+      "start": 1390.8,
+      "end": 1397.12,
+      "speaker": "SPEAKER_02",
+      "text": "lot of sense actually. Okay, great. Would you like me to discuss some risks as well, in addition to"
+    },
+    {
+      "start": 1397.12,
+      "end": 1400.72,
+      "speaker": "SPEAKER_02",
+      "text": "the ones that we discussed before? Yeah, before we come to it, please. If you allow me, I'd like to"
+    },
+    {
+      "start": 1400.72,
+      "end": 1404.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "actually walk you through our cloud now. The first thing I'm thinking about is this economic"
+    },
+    {
+      "start": 1404.88,
+      "end": 1412.8000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "downturn element. We need to make sure, or at least we need to do more forecasting to understand"
+    },
+    {
+      "start": 1412.8000000000002,
+      "end": 1418.72,
+      "speaker": "SPEAKER_02",
+      "text": "in how many years we would expect the economy to go back, because if economy continues behaving"
+    },
+    {
+      "start": 1418.72,
+      "end": 1423.0400000000002,
+      "speaker": "SPEAKER_02",
+      "text": "the way it is right now, there won't be any more business. So we need to make sure that we look"
+    },
+    {
+      "start": 1423.0400000000002,
+      "end": 1429.2,
+      "speaker": "SPEAKER_02",
+      "text": "into this. And the second aspect is the competition. Here, we said earlier that our market is declined,"
+    },
+    {
+      "start": 1429.68,
+      "end": 1434.0800000000002,
+      "speaker": "SPEAKER_02",
+      "text": "as per the overall market and hence our market didn't change meaning, probably other competitors"
+    },
+    {
+      "start": 1434.08,
+      "end": 1439.4399999999998,
+      "speaker": "SPEAKER_02",
+      "text": "are doing similar business to us. But in the future, if there is another ordinary Portland"
+    },
+    {
+      "start": 1439.4399999999998,
+      "end": 1446.24,
+      "speaker": "SPEAKER_02",
+      "text": "cement, maybe there is a new more innovative product, we may actually see a decline in ourselves"
+    },
+    {
+      "start": 1446.24,
+      "end": 1450.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "more. So I would also love to check with the client if they have any other, you know, more,"
+    },
+    {
+      "start": 1451.52,
+      "end": 1456.24,
+      "speaker": "SPEAKER_02",
+      "text": "maybe a high-tech solution and alternatives that they can also work in parallel to their"
+    },
+    {
+      "start": 1456.24,
+      "end": 1462.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "data, the operations. How does it sound? Yeah, it sounds good actually, but like for the economic"
+    },
+    {
+      "start": 1462.4,
+      "end": 1467.76,
+      "speaker": "SPEAKER_01",
+      "text": "downturn, I won't be much concerned because we already experienced that and we don't have an"
+    },
+    {
+      "start": 1467.76,
+      "end": 1473.2800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "investment, we don't have an expansion plan. So I will not be concerned much about it, I think it's"
+    },
+    {
+      "start": 1473.2800000000002,
+      "end": 1479.44,
+      "speaker": "SPEAKER_01",
+      "text": "good time to cut some costs. And for the competition, our issues are a little bit more internal,"
+    },
+    {
+      "start": 1479.44,
+      "end": 1490.72,
+      "speaker": "SPEAKER_01",
+      "text": "it's not like market facing initiative we are taking. So competition in shrinkage will not hurt"
+    },
+    {
+      "start": 1490.72,
+      "end": 1496.48,
+      "speaker": "SPEAKER_01",
+      "text": "much actually. So, the need of the risks are very vital for now. So I think you found the"
+    },
+    {
+      "start": 1496.48,
+      "end": 1502.64,
+      "speaker": "SPEAKER_01",
+      "text": "conclusion and we can go ahead and close it at this point. Okay, may I just take a moment for it?"
+    },
+    {
+      "start": 1502.64,
+      "end": 1503.28,
+      "speaker": "SPEAKER_02",
+      "text": "Please do. Yeah."
+    },
+    {
+      "start": 1511.2,
+      "end": 1516.08,
+      "speaker": "SPEAKER_02",
+      "text": "Fantastic. Based on our analysis, I would tell the client the following. First of all,"
+    },
+    {
+      "start": 1516.6399999999999,
+      "end": 1522.08,
+      "speaker": "SPEAKER_02",
+      "text": "it seems that there are two major factors behind this profitability decline of eight percentage points."
+    },
+    {
+      "start": 1522.08,
+      "end": 1526.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "First of all, the overall market is shrinking in the past two years and as a result,"
+    },
+    {
+      "start": 1526.8799999999999,
+      "end": 1532.1599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "there is now less spending on heavy construction, large infrastructure projects and as a result,"
+    },
+    {
+      "start": 1532.1599999999999,
+      "end": 1539.36,
+      "speaker": "SPEAKER_02",
+      "text": "we're making less of a sale. The second problem contributing to this is our worsened variable"
+    },
+    {
+      "start": 1539.36,
+      "end": 1545.1999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "cost structure. Yes, our variables cost are going down, but it's not going down in proportion to"
+    },
+    {
+      "start": 1545.2,
+      "end": 1553.44,
+      "speaker": "SPEAKER_02",
+      "text": "the revenue decline. And that is just simply because our deals were fixed or our deals were based"
+    },
+    {
+      "start": 1553.44,
+      "end": 1558.56,
+      "speaker": "SPEAKER_02",
+      "text": "on foreign exchange rate. Now, in terms of coming up with the solutions we looked into many alternatives,"
+    },
+    {
+      "start": 1558.56,
+      "end": 1563.92,
+      "speaker": "SPEAKER_02",
+      "text": "but it seems like the one that we can really do at the stage is to shrink our business to an"
+    },
+    {
+      "start": 1563.92,
+      "end": 1570.0800000000002,
+      "speaker": "SPEAKER_02",
+      "text": "extent that ideally it will give us some of a shelter until the economy recovers. But at the same"
+    },
+    {
+      "start": 1570.0800000000002,
+      "end": 1574.56,
+      "speaker": "SPEAKER_02",
+      "text": "time, through sales of certain assets, we might be able to make some money however. I would love to"
+    },
+    {
+      "start": 1574.56,
+      "end": 1579.84,
+      "speaker": "SPEAKER_02",
+      "text": "emphasize that given how big they are right now, a sales of 500 million dollars or the object"
+    },
+    {
+      "start": 1579.84,
+      "end": 1584.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "of our brother may not be feasible through a simple sales of assets. So it is a number that they"
+    },
+    {
+      "start": 1584.8799999999999,
+      "end": 1589.6799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "need to look into a little bit closer. And in terms of the next steps, I would love to tell the"
+    },
+    {
+      "start": 1589.6799999999998,
+      "end": 1593.9199999999998,
+      "speaker": "SPEAKER_02",
+      "text": "client that we are here to help them in the implementation of these strategies. And of course,"
+    },
+    {
+      "start": 1593.9199999999998,
+      "end": 1599.36,
+      "speaker": "SPEAKER_02",
+      "text": "we can look into further on what other ways we could improve their profitability. Sounds good,"
+    },
+    {
+      "start": 1599.36,
+      "end": 1604.32,
+      "speaker": "SPEAKER_01",
+      "text": "perfect, great conclusion. Thank you so much. Thank you. Thank you. Overall,"
+    },
+    {
+      "start": 1604.32,
+      "end": 1609.52,
+      "speaker": "SPEAKER_00",
+      "text": "the candidate demonstrated a strong performance throughout the case, showcasing a variety of"
+    },
+    {
+      "start": 1609.52,
+      "end": 1616.0,
+      "speaker": "SPEAKER_00",
+      "text": "essential skills. Let's delve a bit deeper into the details. Under problem solving and insights,"
+    },
+    {
+      "start": 1616.0,
+      "end": 1620.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "his structure was comprehensive, but could have been further strengthened with the explicit"
+    },
+    {
+      "start": 1620.6399999999999,
+      "end": 1627.28,
+      "speaker": "SPEAKER_00",
+      "text": "mention of price, volume, and variable and fixed costs. His judgment was marked by strong business"
+    },
+    {
+      "start": 1627.28,
+      "end": 1632.72,
+      "speaker": "SPEAKER_00",
+      "text": "acumen, which aided him in pinpointing the causes of profit decline and devising potential"
+    },
+    {
+      "start": 1632.72,
+      "end": 1639.2,
+      "speaker": "SPEAKER_00",
+      "text": "turnaround strategies. As for rigor, despite the case not being heavily number-oriented,"
+    },
+    {
+      "start": 1639.2,
+      "end": 1644.96,
+      "speaker": "SPEAKER_00",
+      "text": "he showcased his analytical prowess by running the variable cost ratios and pinpointing that the"
+    },
+    {
+      "start": 1644.96,
+      "end": 1652.48,
+      "speaker": "SPEAKER_00",
+      "text": "$500 million cash objective might not be met. In terms of creativity, he successfully identified"
+    },
+    {
+      "start": 1652.48,
+      "end": 1656.96,
+      "speaker": "SPEAKER_00",
+      "text": "the underlying drivers of the revenue decline and cost increase and,"
+    },
+    {
+      "start": 1656.96,
+      "end": 1663.68,
+      "speaker": "SPEAKER_00",
+      "text": "adaptably, proposed effective turnaround strategies. Finally, his synthesis skills were on point,"
+    },
+    {
+      "start": 1663.68,
+      "end": 1668.8,
+      "speaker": "SPEAKER_00",
+      "text": "as he proficiently interpreted each exhibit and delivered a conclusion that covered both the"
+    },
+    {
+      "start": 1668.8,
+      "end": 1676.32,
+      "speaker": "SPEAKER_00",
+      "text": "diagnosis and proposed turnaround strategies. Moving on to communication and presence. His presence"
+    },
+    {
+      "start": 1676.32,
+      "end": 1682.64,
+      "speaker": "SPEAKER_00",
+      "text": "was marked by a commendable level of confidence and by taking occasional pauses to gather his thoughts."
+    },
+    {
+      "start": 1682.64,
+      "end": 1689.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "He was able to maintain his composure throughout the case. Precision was another strength. His concise"
+    },
+    {
+      "start": 1689.3600000000001,
+      "end": 1694.64,
+      "speaker": "SPEAKER_00",
+      "text": "responses and prompt insights ensured the case was completed in less time than usual."
+    },
+    {
+      "start": 1695.2,
+      "end": 1700.4,
+      "speaker": "SPEAKER_00",
+      "text": "In the realm of active listening, he responded well to the interviewer, but could have clarified"
+    },
+    {
+      "start": 1700.4,
+      "end": 1705.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "earlier whether the $500 million objective referred to profits, cash, or revenues."
+    },
+    {
+      "start": 1706.5600000000002,
+      "end": 1711.2800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Lastly, under relationship management, he successfully established a positive"
+    },
+    {
+      "start": 1711.28,
+      "end": 1721.28,
+      "speaker": "SPEAKER_00",
+      "text": "rapport with the interviewer, keeping him engaged throughout the case."
+    }
+  ],
+  "grading": {
+    "communication": 18,
+    "framework": 15,
+    "math": 8,
+    "case_difficulty": 10,
+    "final_summary": 12,
+    "overall_thoughts": "You had some great insights but struggled with the math concepts; consider reviewing those and including more relevant examples in your framework."
+  }
+}

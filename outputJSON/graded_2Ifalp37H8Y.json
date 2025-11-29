@@ -1,0 +1,2412 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 8.44,
+      "speaker": "SPEAKER_01",
+      "text": "Today we've got a great Rocketblocks case featuring two of our experts Ben Wilson and"
+    },
+    {
+      "start": 8.44,
+      "end": 9.6,
+      "speaker": "SPEAKER_01",
+      "text": "Ashwin Shetty."
+    },
+    {
+      "start": 9.6,
+      "end": 14.56,
+      "speaker": "SPEAKER_01",
+      "text": "The case revolves around a large US-based dental practice that is considering adding a"
+    },
+    {
+      "start": 14.56,
+      "end": 17.240000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "captive financing arm to their business."
+    },
+    {
+      "start": 17.240000000000002,
+      "end": 20.48,
+      "speaker": "SPEAKER_01",
+      "text": "If you don't know what captive financing means, don't worry about it, it will be covered"
+    },
+    {
+      "start": 20.48,
+      "end": 21.68,
+      "speaker": "SPEAKER_01",
+      "text": "in the case."
+    },
+    {
+      "start": 21.68,
+      "end": 23.64,
+      "speaker": "SPEAKER_01",
+      "text": "The interviewer is Ben Wilson."
+    },
+    {
+      "start": 23.64,
+      "end": 28.2,
+      "speaker": "SPEAKER_01",
+      "text": "He is a former consultant from EY Parthenon and currently a consultant at Alvaro's in"
+    },
+    {
+      "start": 28.2,
+      "end": 32.76,
+      "speaker": "SPEAKER_01",
+      "text": "Marsal and a graduate of UVA's Darden School of Business."
+    },
+    {
+      "start": 32.76,
+      "end": 34.76,
+      "speaker": "SPEAKER_01",
+      "text": "The candidate is Ashwin Shetty."
+    },
+    {
+      "start": 34.76,
+      "end": 40.68,
+      "speaker": "SPEAKER_01",
+      "text": "He is a former manager from Bain & Company and holds an MBA from the NCOD School of Business."
+    },
+    {
+      "start": 40.68,
+      "end": 42.04,
+      "speaker": "SPEAKER_01",
+      "text": "So let's go ahead and jump in."
+    },
+    {
+      "start": 42.04,
+      "end": 43.04,
+      "speaker": "SPEAKER_00",
+      "text": "Hi Ashwin."
+    },
+    {
+      "start": 43.04,
+      "end": 44.04,
+      "speaker": "SPEAKER_00",
+      "text": "I'm Ben Wilson."
+    },
+    {
+      "start": 44.04,
+      "end": 48.8,
+      "speaker": "SPEAKER_00",
+      "text": "I'm a director of Alvaro's in Marsal and I'm going to be playing the role of interviewer"
+    },
+    {
+      "start": 48.8,
+      "end": 49.8,
+      "speaker": "SPEAKER_00",
+      "text": "today."
+    },
+    {
+      "start": 49.8,
+      "end": 50.8,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you Ben."
+    },
+    {
+      "start": 50.8,
+      "end": 54.6,
+      "speaker": "SPEAKER_02",
+      "text": "I'm Ashwin, a former delight director and a Bain manager and I'll be playing the role"
+    },
+    {
+      "start": 54.6,
+      "end": 55.6,
+      "speaker": "SPEAKER_02",
+      "text": "of the candidate here."
+    },
+    {
+      "start": 55.6,
+      "end": 58.2,
+      "speaker": "SPEAKER_00",
+      "text": "Ashwin, we have a really exciting case today."
+    },
+    {
+      "start": 58.2,
+      "end": 61.92,
+      "speaker": "SPEAKER_00",
+      "text": "Certainly very long and a lot of information to get to us so we're going to jump right"
+    },
+    {
+      "start": 61.92,
+      "end": 62.92,
+      "speaker": "SPEAKER_00",
+      "text": "in."
+    },
+    {
+      "start": 62.92,
+      "end": 69.6,
+      "speaker": "SPEAKER_00",
+      "text": "So your client is a large dental practice management company operating 800 dental offices and employing"
+    },
+    {
+      "start": 69.6,
+      "end": 74.12,
+      "speaker": "SPEAKER_00",
+      "text": "more than 2,500 dentists across the Eastern United States."
+    },
+    {
+      "start": 74.12,
+      "end": 78.88,
+      "speaker": "SPEAKER_00",
+      "text": "These dentists perform a range of preventative and treatment services, one of which is fitting"
+    },
+    {
+      "start": 78.88,
+      "end": 81.04,
+      "speaker": "SPEAKER_00",
+      "text": "informing dentures."
+    },
+    {
+      "start": 81.04,
+      "end": 86.2,
+      "speaker": "SPEAKER_00",
+      "text": "Dentures are complex prosthetics costing about $2,500 on average for a complete upper"
+    },
+    {
+      "start": 86.2,
+      "end": 87.60000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "and lower arches."
+    },
+    {
+      "start": 87.60000000000001,
+      "end": 90.56,
+      "speaker": "SPEAKER_00",
+      "text": "As a result, patients often finance them."
+    },
+    {
+      "start": 90.56,
+      "end": 94.88000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "The client does not directly undripe any loans though, but partners with a number of"
+    },
+    {
+      "start": 94.88000000000001,
+      "end": 99.32000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "third parties to offer these loans to patients in the office."
+    },
+    {
+      "start": 99.32000000000001,
+      "end": 104.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Your client's private equity sponsor is curious whether creating a captive financing arm for"
+    },
+    {
+      "start": 104.64000000000001,
+      "end": 109.80000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "dentures and in-house loan underwriting service represents an attractive new cash flow"
+    },
+    {
+      "start": 109.8,
+      "end": 110.8,
+      "speaker": "SPEAKER_00",
+      "text": "strength for the business."
+    },
+    {
+      "start": 110.8,
+      "end": 115.24,
+      "speaker": "SPEAKER_00",
+      "text": "They've hired you and your team to investigate and make a recommendation."
+    },
+    {
+      "start": 115.24,
+      "end": 116.24,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 116.24,
+      "end": 117.24,
+      "speaker": "SPEAKER_02",
+      "text": "Thanks a lot Ben."
+    },
+    {
+      "start": 117.24,
+      "end": 121.88,
+      "speaker": "SPEAKER_02",
+      "text": "Let me recap the key information elements that have shared with me so that I've got my"
+    },
+    {
+      "start": 121.88,
+      "end": 122.88,
+      "speaker": "SPEAKER_02",
+      "text": "understanding right."
+    },
+    {
+      "start": 122.88,
+      "end": 125.08,
+      "speaker": "SPEAKER_02",
+      "text": "So the client is a dental company."
+    },
+    {
+      "start": 125.08,
+      "end": 129.84,
+      "speaker": "SPEAKER_02",
+      "text": "There were 800 offices, 2,500 dentists."
+    },
+    {
+      "start": 129.84,
+      "end": 135.07999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "What you told me is dentures is a complex dental treatment that cost around $2,500"
+    },
+    {
+      "start": 136.08,
+      "end": 140.52,
+      "speaker": "SPEAKER_02",
+      "text": "and patients often seek financing for this denture treatment."
+    },
+    {
+      "start": 140.52,
+      "end": 146.4,
+      "speaker": "SPEAKER_02",
+      "text": "The client currently partners with a number of financing companies who finance patient loans."
+    },
+    {
+      "start": 146.4,
+      "end": 152.20000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "However, the client's private equity sponsors is interested in setting up a captive financing"
+    },
+    {
+      "start": 152.20000000000002,
+      "end": 157.12,
+      "speaker": "SPEAKER_02",
+      "text": "arm and he's asked us to investigate whether it offers an attractive cash flow strength."
+    },
+    {
+      "start": 157.12,
+      "end": 160.12,
+      "speaker": "SPEAKER_02",
+      "text": "Have I got the case facts right Ben?"
+    },
+    {
+      "start": 160.12,
+      "end": 161.52,
+      "speaker": "SPEAKER_00",
+      "text": "That is excellent."
+    },
+    {
+      "start": 161.52,
+      "end": 163.0,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 163.0,
+      "end": 167.8,
+      "speaker": "SPEAKER_02",
+      "text": "So what I would like to do is that I have two terrifying questions to ask and post that"
+    },
+    {
+      "start": 167.8,
+      "end": 171.6,
+      "speaker": "SPEAKER_02",
+      "text": "I'll take a minute to formulate my initial approach."
+    },
+    {
+      "start": 171.6,
+      "end": 173.28,
+      "speaker": "SPEAKER_02",
+      "text": "Does that sound okay with you?"
+    },
+    {
+      "start": 173.28,
+      "end": 174.28,
+      "speaker": "SPEAKER_02",
+      "text": "Perfect."
+    },
+    {
+      "start": 174.28,
+      "end": 175.28,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 175.28,
+      "end": 179.2,
+      "speaker": "SPEAKER_02",
+      "text": "So the first terrifying question that I wanted to ask is is it okay to assume that the"
+    },
+    {
+      "start": 179.2,
+      "end": 183.12,
+      "speaker": "SPEAKER_02",
+      "text": "client's primary goal is to maximize profit?"
+    },
+    {
+      "start": 183.12,
+      "end": 184.12,
+      "speaker": "UNKNOWN",
+      "text": "Correct."
+    },
+    {
+      "start": 184.12,
+      "end": 185.12,
+      "speaker": "SPEAKER_00",
+      "text": "Yes."
+    },
+    {
+      "start": 185.12,
+      "end": 188.12,
+      "speaker": "SPEAKER_00",
+      "text": "That should be the running assumption currently."
+    },
+    {
+      "start": 188.12,
+      "end": 189.12,
+      "speaker": "SPEAKER_02",
+      "text": "Thanks for that."
+    },
+    {
+      "start": 189.12,
+      "end": 194.20000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "The second terrifying question that I wanted to ask is that do they intend to replace the"
+    },
+    {
+      "start": 194.20000000000002,
+      "end": 199.04,
+      "speaker": "SPEAKER_02",
+      "text": "existing financing partners that they have or do they want to support patient segments"
+    },
+    {
+      "start": 199.04,
+      "end": 202.96,
+      "speaker": "SPEAKER_02",
+      "text": "that are not being currently financed via existing financing partners?"
+    },
+    {
+      "start": 202.96,
+      "end": 203.96,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 203.96,
+      "end": 204.96,
+      "speaker": "SPEAKER_00",
+      "text": "That's a great question."
+    },
+    {
+      "start": 204.96,
+      "end": 209.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "I'd say it's most likely the latter, but certainly if we can find a more profitable option"
+    },
+    {
+      "start": 209.92000000000002,
+      "end": 213.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "for the prior as well, certainly open to that."
+    },
+    {
+      "start": 213.64000000000001,
+      "end": 214.64000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 214.64000000000001,
+      "end": 216.6,
+      "speaker": "SPEAKER_02",
+      "text": "Thanks a lot Ben."
+    },
+    {
+      "start": 216.6,
+      "end": 220.32,
+      "speaker": "SPEAKER_02",
+      "text": "Can I then take a minute to formulate my structure?"
+    },
+    {
+      "start": 220.32,
+      "end": 221.32,
+      "speaker": "SPEAKER_02",
+      "text": "Please."
+    },
+    {
+      "start": 221.32,
+      "end": 222.32,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 222.32,
+      "end": 229.48,
+      "speaker": "SPEAKER_02",
+      "text": "I would like to share a suitable structure with you and would love your feedback once"
+    },
+    {
+      "start": 229.48,
+      "end": 232.48,
+      "speaker": "SPEAKER_02",
+      "text": "I'll share my framework."
+    },
+    {
+      "start": 232.48,
+      "end": 238.2,
+      "speaker": "SPEAKER_02",
+      "text": "The co-question that the client is asking us is does opening a captive financing arm"
+    },
+    {
+      "start": 238.2,
+      "end": 241.35999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "offer an attractive cash flow stream?"
+    },
+    {
+      "start": 241.35999999999999,
+      "end": 245.64,
+      "speaker": "SPEAKER_02",
+      "text": "Now what I would recommend is that the client should open a captive financing arm with"
+    },
+    {
+      "start": 245.64,
+      "end": 247.95999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "three conditions are met."
+    },
+    {
+      "start": 247.95999999999998,
+      "end": 249.67999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "First, it must make financial sense."
+    },
+    {
+      "start": 249.67999999999998,
+      "end": 253.67999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "As the client's main goal is profit maximization."
+    },
+    {
+      "start": 253.67999999999998,
+      "end": 259.0,
+      "speaker": "SPEAKER_02",
+      "text": "Will the decision generate enough additional profit to recover the investment cost or setting"
+    },
+    {
+      "start": 259.0,
+      "end": 261.24,
+      "speaker": "SPEAKER_02",
+      "text": "up the financing arm in a short period?"
+    },
+    {
+      "start": 261.24,
+      "end": 265.84,
+      "speaker": "SPEAKER_02",
+      "text": "Now, that's the four decision criteria that we will need to test."
+    },
+    {
+      "start": 265.84,
+      "end": 272.47999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "Second, I think the client will need to check whether they can acquire the necessary capabilities,"
+    },
+    {
+      "start": 272.48,
+      "end": 279.08000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "including operational capability to underwrite loans, financial capital and fund the loans."
+    },
+    {
+      "start": 279.08000000000004,
+      "end": 283.56,
+      "speaker": "SPEAKER_02",
+      "text": "Third, the client must be prepared to handle associated risks."
+    },
+    {
+      "start": 283.56,
+      "end": 289.08000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "I have a few risks noted down which are very important for the client to assess."
+    },
+    {
+      "start": 289.08000000000004,
+      "end": 291.0,
+      "speaker": "SPEAKER_02",
+      "text": "One of them is great risk."
+    },
+    {
+      "start": 291.0,
+      "end": 296.64000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Second, being regulatory concerns or regulatory risk, reputational risk and finally, conflict"
+    },
+    {
+      "start": 296.64000000000004,
+      "end": 301.40000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "of interest risk, specifically with their existing financing partners."
+    },
+    {
+      "start": 301.4,
+      "end": 306.79999999999995,
+      "speaker": "SPEAKER_02",
+      "text": "Now if these three conditions are met, the client should go ahead or we would recommend"
+    },
+    {
+      "start": 306.79999999999995,
+      "end": 308.67999999999995,
+      "speaker": "SPEAKER_02",
+      "text": "the client should go ahead."
+    },
+    {
+      "start": 308.67999999999995,
+      "end": 313.08,
+      "speaker": "SPEAKER_02",
+      "text": "But the key among these conditions I think is the financial rivalry."
+    },
+    {
+      "start": 313.08,
+      "end": 317.32,
+      "speaker": "SPEAKER_02",
+      "text": "Because if it doesn't make financial sense for the client to set up this captive financing"
+    },
+    {
+      "start": 317.32,
+      "end": 322.52,
+      "speaker": "SPEAKER_02",
+      "text": "arm, we don't need to really investigate the capabilities and the risks here."
+    },
+    {
+      "start": 322.52,
+      "end": 329.12,
+      "speaker": "SPEAKER_02",
+      "text": "Now from the financial aspect, we would like to analyze or we need to check how much additional"
+    },
+    {
+      "start": 329.12,
+      "end": 331.44,
+      "speaker": "SPEAKER_02",
+      "text": "profit the client can meet."
+    },
+    {
+      "start": 331.44,
+      "end": 336.32,
+      "speaker": "SPEAKER_02",
+      "text": "And from an additional profit perspective, I would like to decide which is to revenue and"
+    },
+    {
+      "start": 336.32,
+      "end": 337.32,
+      "speaker": "SPEAKER_02",
+      "text": "cost confidence."
+    },
+    {
+      "start": 337.32,
+      "end": 341.12,
+      "speaker": "SPEAKER_02",
+      "text": "And I think there are two key revenue components to consider here."
+    },
+    {
+      "start": 341.12,
+      "end": 344.96,
+      "speaker": "SPEAKER_02",
+      "text": "One is revenue for additional dental client and sell."
+    },
+    {
+      "start": 344.96,
+      "end": 350.64,
+      "speaker": "SPEAKER_02",
+      "text": "The second is revenue for interest fee client can earn through financing."
+    },
+    {
+      "start": 350.64,
+      "end": 354.2,
+      "speaker": "SPEAKER_02",
+      "text": "From a cost perspective, I think there are three key costs to consider here."
+    },
+    {
+      "start": 354.2,
+      "end": 358.52,
+      "speaker": "SPEAKER_02",
+      "text": "The first is cost associated with additional dental client and sell."
+    },
+    {
+      "start": 358.52,
+      "end": 362.84,
+      "speaker": "SPEAKER_02",
+      "text": "The initial losses from loan defaults and finally the additional operating costs that"
+    },
+    {
+      "start": 362.84,
+      "end": 365.47999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "provide in the loan service."
+    },
+    {
+      "start": 365.47999999999996,
+      "end": 370.03999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "Now that our outline might structure unless we get otherwise then, I would like to prioritize"
+    },
+    {
+      "start": 370.03999999999996,
+      "end": 374.47999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "the financial assessment because as I said earlier, financial viability is the key condition"
+    },
+    {
+      "start": 374.47999999999996,
+      "end": 376.47999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "to check over here."
+    },
+    {
+      "start": 376.47999999999996,
+      "end": 377.47999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Excellent."
+    },
+    {
+      "start": 377.47999999999996,
+      "end": 379.32,
+      "speaker": "SPEAKER_00",
+      "text": "I think that's fantastic where to start."
+    },
+    {
+      "start": 379.32,
+      "end": 384.24,
+      "speaker": "SPEAKER_00",
+      "text": "And I think a lot of those points we probably will be able to touch on during the purpose"
+    },
+    {
+      "start": 384.24,
+      "end": 385.24,
+      "speaker": "SPEAKER_00",
+      "text": "of the case."
+    },
+    {
+      "start": 385.56,
+      "end": 387.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Initially, I'd like to share something with you."
+    },
+    {
+      "start": 387.40000000000003,
+      "end": 392.36,
+      "speaker": "SPEAKER_00",
+      "text": "Before I put it up on screen, I'm going down that same road of the financial piece that"
+    },
+    {
+      "start": 392.36,
+      "end": 393.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "you just referenced."
+    },
+    {
+      "start": 393.84000000000003,
+      "end": 399.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "The basis for the private equity owner's question is in the chart that I'm going to put up"
+    },
+    {
+      "start": 399.28000000000003,
+      "end": 400.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "as we speak."
+    },
+    {
+      "start": 400.28000000000003,
+      "end": 403.6,
+      "speaker": "SPEAKER_00",
+      "text": "Please let me know when that is up on screen."
+    },
+    {
+      "start": 403.6,
+      "end": 404.6,
+      "speaker": "SPEAKER_02",
+      "text": "Sure."
+    },
+    {
+      "start": 404.6,
+      "end": 406.2,
+      "speaker": "SPEAKER_02",
+      "text": "I can see the chart on the screen."
+    },
+    {
+      "start": 406.2,
+      "end": 407.2,
+      "speaker": "SPEAKER_02",
+      "text": "Thanks for sharing it."
+    },
+    {
+      "start": 407.2,
+      "end": 411.52,
+      "speaker": "SPEAKER_02",
+      "text": "Can I take a minute to observe the chart and present my insights to you?"
+    },
+    {
+      "start": 411.52,
+      "end": 412.52,
+      "speaker": "SPEAKER_02",
+      "text": "Please do."
+    },
+    {
+      "start": 412.52,
+      "end": 413.52,
+      "speaker": "SPEAKER_02",
+      "text": "Sure."
+    },
+    {
+      "start": 414.52,
+      "end": 420.52,
+      "speaker": "SPEAKER_02",
+      "text": "So, where I can present my thoughts to you."
+    },
+    {
+      "start": 420.52,
+      "end": 427.71999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "What I see from the exhibit is the clients offices are in areas with most subprime and deep"
+    },
+    {
+      "start": 427.71999999999997,
+      "end": 429.96,
+      "speaker": "SPEAKER_02",
+      "text": "subprime patients in the average-uverse area."
+    },
+    {
+      "start": 429.96,
+      "end": 430.96,
+      "speaker": "SPEAKER_02",
+      "text": "Right?"
+    },
+    {
+      "start": 430.96,
+      "end": 437.44,
+      "speaker": "SPEAKER_02",
+      "text": "And that's the insight I get from the client markets graph compared with the average-uverse"
+    },
+    {
+      "start": 437.44,
+      "end": 438.64,
+      "speaker": "SPEAKER_02",
+      "text": "area graph."
+    },
+    {
+      "start": 439.64,
+      "end": 444.24,
+      "speaker": "SPEAKER_02",
+      "text": "The second insight that I gather is that the client's denture patients are less likely"
+    },
+    {
+      "start": 444.24,
+      "end": 447.64,
+      "speaker": "SPEAKER_02",
+      "text": "to be subprime and deep-supreme than the local population."
+    },
+    {
+      "start": 447.64,
+      "end": 454.32,
+      "speaker": "SPEAKER_02",
+      "text": "Now this could be attributed to subprime patients not requiring dentures, but that seems unlikely."
+    },
+    {
+      "start": 454.32,
+      "end": 458.47999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "But a more likely scenario, I think, is a lack of financing."
+    },
+    {
+      "start": 458.47999999999996,
+      "end": 459.47999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "Right?"
+    },
+    {
+      "start": 459.47999999999996,
+      "end": 463.76,
+      "speaker": "SPEAKER_02",
+      "text": "And a lack of financing is causing subprime patients to not opt for denture procedures."
+    },
+    {
+      "start": 464.48,
+      "end": 468.92,
+      "speaker": "SPEAKER_02",
+      "text": "So if that is the case, client has an opportunity to increase their revenues by offering financing"
+    },
+    {
+      "start": 468.92,
+      "end": 469.92,
+      "speaker": "SPEAKER_02",
+      "text": "to this patient's side."
+    },
+    {
+      "start": 469.92,
+      "end": 470.92,
+      "speaker": "SPEAKER_02",
+      "text": "Right?"
+    },
+    {
+      "start": 470.92,
+      "end": 471.92,
+      "speaker": "SPEAKER_02",
+      "text": "So that's my key insight."
+    },
+    {
+      "start": 471.92,
+      "end": 472.92,
+      "speaker": "SPEAKER_02",
+      "text": "Right?"
+    },
+    {
+      "start": 472.92,
+      "end": 478.44,
+      "speaker": "SPEAKER_02",
+      "text": "I think if client were to set up a captive financing arm and offer financing to subprime"
+    },
+    {
+      "start": 478.44,
+      "end": 483.8,
+      "speaker": "SPEAKER_02",
+      "text": "and deep-supreme patients, I think the number of patients will increase."
+    },
+    {
+      "start": 483.8,
+      "end": 488.44,
+      "speaker": "SPEAKER_02",
+      "text": "And because of the increase in number of patients, you would see increase in revenue as well"
+    },
+    {
+      "start": 488.44,
+      "end": 489.44,
+      "speaker": "SPEAKER_02",
+      "text": "as products."
+    },
+    {
+      "start": 489.44,
+      "end": 492.44,
+      "speaker": "SPEAKER_00",
+      "text": "Thanks, O'Nashon."
+    },
+    {
+      "start": 492.44,
+      "end": 494.68,
+      "speaker": "SPEAKER_00",
+      "text": "I'm fully agree with you insights."
+    },
+    {
+      "start": 494.68,
+      "end": 496.84,
+      "speaker": "SPEAKER_00",
+      "text": "And I think that is a fantastic approach."
+    },
+    {
+      "start": 496.84,
+      "end": 501.32,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to go ahead and take down the sharing."
+    },
+    {
+      "start": 501.32,
+      "end": 503.32,
+      "speaker": "SPEAKER_00",
+      "text": "Give me just one moment."
+    },
+    {
+      "start": 503.32,
+      "end": 509.24,
+      "speaker": "SPEAKER_00",
+      "text": "And as part of that analysis, I think, again, you make a fantastic point."
+    },
+    {
+      "start": 509.24,
+      "end": 514.84,
+      "speaker": "SPEAKER_00",
+      "text": "So on your case, the partner has seen this pattern before, actually, in the auto-finance"
+    },
+    {
+      "start": 514.84,
+      "end": 515.84,
+      "speaker": "SPEAKER_00",
+      "text": "world."
+    },
+    {
+      "start": 515.84,
+      "end": 521.04,
+      "speaker": "SPEAKER_00",
+      "text": "And brought to your hypothesis that the client is actually losing out on medical billing"
+    },
+    {
+      "start": 521.04,
+      "end": 525.24,
+      "speaker": "SPEAKER_00",
+      "text": "revenues to subprime and deep-prime denture patients."
+    },
+    {
+      "start": 525.24,
+      "end": 529.8,
+      "speaker": "SPEAKER_00",
+      "text": "They could be captured if the client offered risk-year financing options."
+    },
+    {
+      "start": 529.8,
+      "end": 535.24,
+      "speaker": "SPEAKER_00",
+      "text": "The client's typical dentist's office sees 300 denture patients per year."
+    },
+    {
+      "start": 535.24,
+      "end": 539.4,
+      "speaker": "SPEAKER_00",
+      "text": "Can you give me a size of the lost revenue opportunity?"
+    },
+    {
+      "start": 539.4,
+      "end": 540.4,
+      "speaker": "UNKNOWN",
+      "text": "Great."
+    },
+    {
+      "start": 540.4,
+      "end": 541.4,
+      "speaker": "UNKNOWN",
+      "text": "Thanks."
+    },
+    {
+      "start": 541.4,
+      "end": 543.4,
+      "speaker": "SPEAKER_02",
+      "text": "Thanks for that question, Ben."
+    },
+    {
+      "start": 543.4,
+      "end": 548.9599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "The question that you're asking is, what is the size of the lost revenue opportunity"
+    },
+    {
+      "start": 548.96,
+      "end": 552.96,
+      "speaker": "SPEAKER_02",
+      "text": "or the incremental revenue opportunity that the client can capture?"
+    },
+    {
+      "start": 552.96,
+      "end": 558.96,
+      "speaker": "SPEAKER_02",
+      "text": "You have told me that the client's dental clinic see 300 patients a year."
+    },
+    {
+      "start": 558.96,
+      "end": 565.96,
+      "speaker": "SPEAKER_02",
+      "text": "And from the earlier chart that we received, we know that 6% of the client's patients"
+    },
+    {
+      "start": 565.96,
+      "end": 568.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "are subprime and deep-sufferant."
+    },
+    {
+      "start": 568.8000000000001,
+      "end": 574.2,
+      "speaker": "SPEAKER_02",
+      "text": "And if each office is 300 patients, that translates to 18 subprime and deep-sufferant."
+    },
+    {
+      "start": 574.2,
+      "end": 576.6800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "So I'm just making an assumption that it's 6%."
+    },
+    {
+      "start": 576.68,
+      "end": 581.7199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "It seems to be around 5% to 6% from the chart that you showed me earlier."
+    },
+    {
+      "start": 581.7199999999999,
+      "end": 587.76,
+      "speaker": "SPEAKER_02",
+      "text": "Now if I exclude the subprime and deep-sufferant patients, we remain with 282 prime patients per"
+    },
+    {
+      "start": 587.76,
+      "end": 588.76,
+      "speaker": "SPEAKER_02",
+      "text": "office."
+    },
+    {
+      "start": 588.76,
+      "end": 592.92,
+      "speaker": "SPEAKER_02",
+      "text": "When I say prime patients, I mean the three categories, which was I think prime, near prime,"
+    },
+    {
+      "start": 592.92,
+      "end": 594.9599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "and super prime."
+    },
+    {
+      "start": 594.9599999999999,
+      "end": 603.92,
+      "speaker": "SPEAKER_02",
+      "text": "Now the proportion of subprime and prime will mimic the client's market if the client"
+    },
+    {
+      "start": 603.92,
+      "end": 607.16,
+      "speaker": "SPEAKER_02",
+      "text": "is ready to start offering financing to subprime patients."
+    },
+    {
+      "start": 607.16,
+      "end": 611.76,
+      "speaker": "SPEAKER_02",
+      "text": "So the proportion of subprime and prime will be 30% and 70%."
+    },
+    {
+      "start": 611.76,
+      "end": 617.56,
+      "speaker": "SPEAKER_02",
+      "text": "So that's how the proportion will change from the current 6% to 94%."
+    },
+    {
+      "start": 617.56,
+      "end": 622.0,
+      "speaker": "SPEAKER_02",
+      "text": "And we know that the prime patients are 282."
+    },
+    {
+      "start": 622.0,
+      "end": 627.88,
+      "speaker": "SPEAKER_02",
+      "text": "So that will be 70% in the new setup once the client starts offering financing."
+    },
+    {
+      "start": 627.88,
+      "end": 635.16,
+      "speaker": "SPEAKER_02",
+      "text": "So if 282 patients are 70% that translates to a total number of patients to 400 per"
+    },
+    {
+      "start": 635.16,
+      "end": 636.16,
+      "speaker": "SPEAKER_02",
+      "text": "office."
+    },
+    {
+      "start": 636.16,
+      "end": 640.8,
+      "speaker": "SPEAKER_02",
+      "text": "I'm just rounding 282 to 282 to get to 400 per office."
+    },
+    {
+      "start": 640.8,
+      "end": 645.04,
+      "speaker": "SPEAKER_02",
+      "text": "So that's 100 more than the current total of 300 patients."
+    },
+    {
+      "start": 645.04,
+      "end": 651.36,
+      "speaker": "SPEAKER_02",
+      "text": "And we also know that each denture costs $2.5,000 to 0.5K."
+    },
+    {
+      "start": 651.36,
+      "end": 657.12,
+      "speaker": "SPEAKER_02",
+      "text": "So with 100 new patients, each office will earn 250K additionally."
+    },
+    {
+      "start": 657.12,
+      "end": 664.44,
+      "speaker": "SPEAKER_02",
+      "text": "And considering 800 offices, that's a potential of 800 into 250, which is around 800 into 250."
+    },
+    {
+      "start": 664.44,
+      "end": 670.4,
+      "speaker": "SPEAKER_02",
+      "text": "If I do this quickly, that's around $200 million in additional company revenue."
+    },
+    {
+      "start": 670.4,
+      "end": 677.96,
+      "speaker": "SPEAKER_02",
+      "text": "Is that good analysis or do you think the answer is not accurate here, Ben?"
+    },
+    {
+      "start": 677.96,
+      "end": 679.88,
+      "speaker": "SPEAKER_00",
+      "text": "No, no, I think it is."
+    },
+    {
+      "start": 679.88,
+      "end": 683.88,
+      "speaker": "SPEAKER_00",
+      "text": "And I appreciate kind of the assumptions that you made building into it."
+    },
+    {
+      "start": 683.88,
+      "end": 690.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understanding this, certainly impressed by the magnitude of the revenue growth up to you."
+    },
+    {
+      "start": 690.0,
+      "end": 694.72,
+      "speaker": "SPEAKER_00",
+      "text": "But it'd be great to also understand whether this is a profitable business on the back end."
+    },
+    {
+      "start": 694.72,
+      "end": 698.84,
+      "speaker": "SPEAKER_00",
+      "text": "So your partner just ran to the VP of Finance in the hall."
+    },
+    {
+      "start": 698.84,
+      "end": 704.36,
+      "speaker": "SPEAKER_00",
+      "text": "He actually has a question on the data you need to run the math on the project contribution"
+    },
+    {
+      "start": 704.36,
+      "end": 705.36,
+      "speaker": "SPEAKER_00",
+      "text": "march."
+    },
+    {
+      "start": 705.36,
+      "end": 708.68,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to give you a few other stats and perhaps we can work that into this analysis."
+    },
+    {
+      "start": 708.68,
+      "end": 716.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So each set of dentures costs $2,000 to produce inclusive of dentists time and lab management"
+    },
+    {
+      "start": 716.1999999999999,
+      "end": 717.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "efficiency."
+    },
+    {
+      "start": 717.1999999999999,
+      "end": 719.56,
+      "speaker": "SPEAKER_00",
+      "text": "Consider that kind of an all inclusive number."
+    },
+    {
+      "start": 719.56,
+      "end": 727.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "A typical load is paid down in a straight line over 36 months and is built interest at 20%"
+    },
+    {
+      "start": 727.1999999999999,
+      "end": 732.12,
+      "speaker": "SPEAKER_00",
+      "text": "per year and has a 30% charge off rate for uncollectable balances."
+    },
+    {
+      "start": 732.12,
+      "end": 736.88,
+      "speaker": "SPEAKER_00",
+      "text": "So for simplicity, you can assume that that 30% of the value as the principal and the lifetime"
+    },
+    {
+      "start": 736.88,
+      "end": 742.72,
+      "speaker": "SPEAKER_00",
+      "text": "interest of a low portfolio and it can't be collected and is not paid back."
+    },
+    {
+      "start": 742.72,
+      "end": 747.68,
+      "speaker": "SPEAKER_00",
+      "text": "Additionally, the typical amount of finance is 100% of the cost."
+    },
+    {
+      "start": 747.68,
+      "end": 753.72,
+      "speaker": "SPEAKER_00",
+      "text": "So given this additional information as well as what you know does far, the partner would"
+    },
+    {
+      "start": 753.72,
+      "end": 760.48,
+      "speaker": "SPEAKER_00",
+      "text": "love to see the size that expected profit opportunity to be."
+    },
+    {
+      "start": 760.48,
+      "end": 766.64,
+      "speaker": "SPEAKER_02",
+      "text": "So I would need some time to analyze Ben, but let me before I take time for analysis,"
+    },
+    {
+      "start": 766.64,
+      "end": 770.72,
+      "speaker": "SPEAKER_02",
+      "text": "let me recap some of the information that you've shared with me."
+    },
+    {
+      "start": 770.72,
+      "end": 776.76,
+      "speaker": "SPEAKER_02",
+      "text": "What you've shared with me is the cost of denture is around $2,000."
+    },
+    {
+      "start": 776.76,
+      "end": 784.12,
+      "speaker": "SPEAKER_02",
+      "text": "A typical loan value that we offer to subprime patient will be I think 2.5K because that's"
+    },
+    {
+      "start": 784.12,
+      "end": 787.72,
+      "speaker": "SPEAKER_02",
+      "text": "the price for each denture."
+    },
+    {
+      "start": 787.72,
+      "end": 791.12,
+      "speaker": "SPEAKER_02",
+      "text": "Now this loan tenure is 36 months."
+    },
+    {
+      "start": 791.12,
+      "end": 799.24,
+      "speaker": "SPEAKER_02",
+      "text": "The interest rate of the loan annual interest rate is 20% and you also shared that the loan"
+    },
+    {
+      "start": 799.24,
+      "end": 804.32,
+      "speaker": "SPEAKER_02",
+      "text": "principle will decline in a straight line."
+    },
+    {
+      "start": 804.32,
+      "end": 809.28,
+      "speaker": "SPEAKER_02",
+      "text": "Then from a charge off perspective, what you've shared with me is the charge off rate is"
+    },
+    {
+      "start": 809.28,
+      "end": 810.28,
+      "speaker": "SPEAKER_02",
+      "text": "30%."
+    },
+    {
+      "start": 810.76,
+      "end": 818.36,
+      "speaker": "SPEAKER_02",
+      "text": "So we can assume that 30% of principle plus interest earn will not be collected."
+    },
+    {
+      "start": 818.36,
+      "end": 820.88,
+      "speaker": "SPEAKER_02",
+      "text": "It's great."
+    },
+    {
+      "start": 820.88,
+      "end": 827.68,
+      "speaker": "SPEAKER_02",
+      "text": "And I think what we need to determine now is what is the potential profit that the client"
+    },
+    {
+      "start": 827.68,
+      "end": 828.68,
+      "speaker": "SPEAKER_02",
+      "text": "can make?"
+    },
+    {
+      "start": 828.68,
+      "end": 832.24,
+      "speaker": "SPEAKER_02",
+      "text": "If we're going on of a financing."
+    },
+    {
+      "start": 832.24,
+      "end": 836.8399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "So let me take a minute because I think there is a lot of information here and I think"
+    },
+    {
+      "start": 836.8399999999999,
+      "end": 839.36,
+      "speaker": "SPEAKER_02",
+      "text": "a math could be a bit complicated."
+    },
+    {
+      "start": 839.36,
+      "end": 844.16,
+      "speaker": "SPEAKER_02",
+      "text": "So let me take a minute to analyze this and come back to you with my quantitative analysis"
+    },
+    {
+      "start": 844.16,
+      "end": 845.16,
+      "speaker": "SPEAKER_02",
+      "text": "approach."
+    },
+    {
+      "start": 845.16,
+      "end": 846.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Thanks, son."
+    },
+    {
+      "start": 846.8000000000001,
+      "end": 848.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 848.8000000000001,
+      "end": 858.16,
+      "speaker": "SPEAKER_02",
+      "text": "So, Ben, I think let me share my approach to calculate the profit opportunity."
+    },
+    {
+      "start": 858.16,
+      "end": 861.6,
+      "speaker": "SPEAKER_02",
+      "text": "First I would like to calculate what is the profit from increased medical billing?"
+    },
+    {
+      "start": 861.6,
+      "end": 868.72,
+      "speaker": "SPEAKER_02",
+      "text": "I think the profit from increased medical billing will be a function of the profit profit"
+    },
+    {
+      "start": 868.72,
+      "end": 874.76,
+      "speaker": "SPEAKER_02",
+      "text": "that the client generates through each tension from each tension that is multiplied by the"
+    },
+    {
+      "start": 874.76,
+      "end": 881.76,
+      "speaker": "SPEAKER_02",
+      "text": "number of incremental patients, multiplied by the number of fields that he has."
+    },
+    {
+      "start": 881.76,
+      "end": 887.32,
+      "speaker": "SPEAKER_02",
+      "text": "Now the profit that the client makes from each tension is $2,400."
+    },
+    {
+      "start": 887.32,
+      "end": 894.5600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "So $2500 minus $2,000 because $2,000 it is what it costs them and they sell the"
+    },
+    {
+      "start": 894.56,
+      "end": 896.8,
+      "speaker": "SPEAKER_02",
+      "text": "financial aid for $2500."
+    },
+    {
+      "start": 896.8,
+      "end": 900.1199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "So the profit is $500 per dendure."
+    },
+    {
+      "start": 900.1199999999999,
+      "end": 904.92,
+      "speaker": "SPEAKER_02",
+      "text": "The incremental number of patients per office that we computed was $100."
+    },
+    {
+      "start": 904.92,
+      "end": 910.16,
+      "speaker": "SPEAKER_02",
+      "text": "So that's $500 into $100 multiplied by the number of clinics that the client has, which"
+    },
+    {
+      "start": 910.16,
+      "end": 911.9599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "is $800."
+    },
+    {
+      "start": 911.9599999999999,
+      "end": 915.0799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "So $500 into $800."
+    },
+    {
+      "start": 915.0799999999999,
+      "end": 922.68,
+      "speaker": "SPEAKER_02",
+      "text": "So that gives me $50,000 into $800 and that gives me around $40 million."
+    },
+    {
+      "start": 922.68,
+      "end": 930.28,
+      "speaker": "SPEAKER_02",
+      "text": "So $40 million is the profit that the client is making from incremental medical billing."
+    },
+    {
+      "start": 930.28,
+      "end": 936.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "So that's the first analysis step."
+    },
+    {
+      "start": 936.4399999999999,
+      "end": 939.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Next what I would like to compute is the interest fund."
+    },
+    {
+      "start": 939.4399999999999,
+      "end": 944.3599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Now this is where I would like to confirm my approach with you."
+    },
+    {
+      "start": 944.3599999999999,
+      "end": 952.4799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Now the way I would like to calculate interest earn is average loan balance because the principle"
+    },
+    {
+      "start": 952.48,
+      "end": 954.72,
+      "speaker": "SPEAKER_02",
+      "text": "is declining every month."
+    },
+    {
+      "start": 954.72,
+      "end": 962.28,
+      "speaker": "SPEAKER_02",
+      "text": "So if I get the average loan balance, I can multiply it by the monthly interest rate."
+    },
+    {
+      "start": 962.28,
+      "end": 966.48,
+      "speaker": "SPEAKER_02",
+      "text": "Because if given me annual interest rate, I can divide it by 12 to get the monthly interest"
+    },
+    {
+      "start": 966.48,
+      "end": 968.28,
+      "speaker": "SPEAKER_02",
+      "text": "rate."
+    },
+    {
+      "start": 968.28,
+      "end": 972.76,
+      "speaker": "SPEAKER_02",
+      "text": "And then I can multiply it by the number of monthly payments."
+    },
+    {
+      "start": 972.76,
+      "end": 977.24,
+      "speaker": "SPEAKER_02",
+      "text": "So average loan balance multiplied by monthly interest rate multiplied by the number"
+    },
+    {
+      "start": 977.24,
+      "end": 979.9200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "of monthly payments."
+    },
+    {
+      "start": 979.92,
+      "end": 984.4,
+      "speaker": "SPEAKER_02",
+      "text": "This will give me the interest earned over the lifetime of the day."
+    },
+    {
+      "start": 984.4,
+      "end": 986.8399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Does that approach sound reasonable to you Ben?"
+    },
+    {
+      "start": 986.8399999999999,
+      "end": 989.04,
+      "speaker": "SPEAKER_02",
+      "text": "This quantitative approach?"
+    },
+    {
+      "start": 989.04,
+      "end": 990.04,
+      "speaker": "SPEAKER_00",
+      "text": "It does."
+    },
+    {
+      "start": 990.04,
+      "end": 991.24,
+      "speaker": "SPEAKER_00",
+      "text": "Yes, please move forward."
+    },
+    {
+      "start": 991.24,
+      "end": 992.56,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 992.56,
+      "end": 1000.76,
+      "speaker": "SPEAKER_02",
+      "text": "Now average loan balance, I will determine that using the principle amount, right?"
+    },
+    {
+      "start": 1000.76,
+      "end": 1003.3199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "The principle amount is $200,500."
+    },
+    {
+      "start": 1003.3199999999999,
+      "end": 1006.04,
+      "speaker": "SPEAKER_02",
+      "text": "We know it is declining on a straight line."
+    },
+    {
+      "start": 1006.04,
+      "end": 1011.68,
+      "speaker": "SPEAKER_02",
+      "text": "But the average loan balance will be half of the principle amount, right?"
+    },
+    {
+      "start": 1011.68,
+      "end": 1014.92,
+      "speaker": "SPEAKER_02",
+      "text": "Which is $2500 by 2, I get $1,250."
+    },
+    {
+      "start": 1014.92,
+      "end": 1018.24,
+      "speaker": "SPEAKER_02",
+      "text": "This is my average loan balance, right?"
+    },
+    {
+      "start": 1018.24,
+      "end": 1024.24,
+      "speaker": "SPEAKER_02",
+      "text": "So the way I'm thinking about it is that if there are 36 monthly payments, the pay the"
+    },
+    {
+      "start": 1024.24,
+      "end": 1033.48,
+      "speaker": "SPEAKER_02",
+      "text": "loan balance in the 18th month, right, will be nothing but $2500 subtracted from $2500"
+    },
+    {
+      "start": 1033.48,
+      "end": 1034.48,
+      "speaker": "SPEAKER_02",
+      "text": "into $18 by 36."
+    },
+    {
+      "start": 1034.48,
+      "end": 1036.4,
+      "speaker": "SPEAKER_02",
+      "text": "That's how I'm thinking about it, right?"
+    },
+    {
+      "start": 1036.4,
+      "end": 1039.4,
+      "speaker": "SPEAKER_02",
+      "text": "So it's half, right?"
+    },
+    {
+      "start": 1039.4,
+      "end": 1044.16,
+      "speaker": "SPEAKER_02",
+      "text": "Then monthly interest rate is 20% the annual interest rate divided by 12, right?"
+    },
+    {
+      "start": 1044.16,
+      "end": 1046.16,
+      "speaker": "SPEAKER_02",
+      "text": "That's my monthly interest rate."
+    },
+    {
+      "start": 1046.16,
+      "end": 1050.56,
+      "speaker": "SPEAKER_02",
+      "text": "Multiply by the number of monthly payments, which is 36 because the loan is, will be paid"
+    },
+    {
+      "start": 1050.56,
+      "end": 1053.08,
+      "speaker": "SPEAKER_02",
+      "text": "back over 36 months, right?"
+    },
+    {
+      "start": 1053.08,
+      "end": 1055.68,
+      "speaker": "SPEAKER_02",
+      "text": "So 1250 into 20% by 12."
+    },
+    {
+      "start": 1055.68,
+      "end": 1058.1200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Now 123 is a 36."
+    },
+    {
+      "start": 1058.12,
+      "end": 1066.52,
+      "speaker": "SPEAKER_02",
+      "text": "So it's 20% of 1250, which is 250 into $3, which is $750, right?"
+    },
+    {
+      "start": 1066.52,
+      "end": 1073.2399999999998,
+      "speaker": "SPEAKER_02",
+      "text": "So $750 is interest per month over the lifetime of a loan per month, right?"
+    },
+    {
+      "start": 1073.2399999999998,
+      "end": 1077.76,
+      "speaker": "SPEAKER_02",
+      "text": "So the client will make $750 per month, right?"
+    },
+    {
+      "start": 1077.76,
+      "end": 1083.56,
+      "speaker": "SPEAKER_02",
+      "text": "Next what I would like to do is that compute what is the potential loss per month due to"
+    },
+    {
+      "start": 1083.56,
+      "end": 1084.8,
+      "speaker": "SPEAKER_02",
+      "text": "default, right?"
+    },
+    {
+      "start": 1084.8,
+      "end": 1090.76,
+      "speaker": "SPEAKER_02",
+      "text": "And you have shared with me that 30% of the principal plus interest value will not be"
+    },
+    {
+      "start": 1090.76,
+      "end": 1093.32,
+      "speaker": "SPEAKER_02",
+      "text": "collect, right?"
+    },
+    {
+      "start": 1093.32,
+      "end": 1101.6,
+      "speaker": "SPEAKER_02",
+      "text": "So 30% of $2500, which is up to 1, plus $750, which is our interest."
+    },
+    {
+      "start": 1101.6,
+      "end": 1110.44,
+      "speaker": "SPEAKER_02",
+      "text": "So that gives us 30% of $3250, which is $975, right?"
+    },
+    {
+      "start": 1110.44,
+      "end": 1116.8,
+      "speaker": "SPEAKER_02",
+      "text": "So what this means is that client is losing $975 per loan, right?"
+    },
+    {
+      "start": 1116.8,
+      "end": 1119.72,
+      "speaker": "SPEAKER_02",
+      "text": "Now that's an interesting observation, right?"
+    },
+    {
+      "start": 1119.72,
+      "end": 1124.76,
+      "speaker": "SPEAKER_02",
+      "text": "And that could be the reason why existing financing partners of ours are not offering loans"
+    },
+    {
+      "start": 1124.76,
+      "end": 1129.92,
+      "speaker": "SPEAKER_02",
+      "text": "to subprime patients because they won't be losing $225 per loan, right?"
+    },
+    {
+      "start": 1129.92,
+      "end": 1136.28,
+      "speaker": "SPEAKER_02",
+      "text": "$225 into $100 into $800 because $225 is per loan."
+    },
+    {
+      "start": 1136.28,
+      "end": 1139.96,
+      "speaker": "SPEAKER_02",
+      "text": "We have 100 patients per office and we have 800 clinics."
+    },
+    {
+      "start": 1139.96,
+      "end": 1146.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "So $225 into $100 into $800, that gives me $18 million."
+    },
+    {
+      "start": 1146.8400000000001,
+      "end": 1150.64,
+      "speaker": "SPEAKER_02",
+      "text": "So $40 million minus $18 million gives me $22 million."
+    },
+    {
+      "start": 1150.64,
+      "end": 1151.64,
+      "speaker": "SPEAKER_02",
+      "text": "So overall, right?"
+    },
+    {
+      "start": 1151.64,
+      "end": 1157.04,
+      "speaker": "SPEAKER_02",
+      "text": "So if I consider profit from increased medical billing, interest earned over the lifetime"
+    },
+    {
+      "start": 1157.04,
+      "end": 1164.76,
+      "speaker": "SPEAKER_02",
+      "text": "of the loan and then the charger for the loss due to loan default, I get the profit value"
+    },
+    {
+      "start": 1164.76,
+      "end": 1167.48,
+      "speaker": "SPEAKER_02",
+      "text": "of $22 million."
+    },
+    {
+      "start": 1167.48,
+      "end": 1169.72,
+      "speaker": "SPEAKER_02",
+      "text": "Does that seem right to you Ben?"
+    },
+    {
+      "start": 1169.8,
+      "end": 1171.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, it does."
+    },
+    {
+      "start": 1171.32,
+      "end": 1175.8,
+      "speaker": "SPEAKER_00",
+      "text": "And certainly some very interesting insights kind of there throughout in terms of why perhaps"
+    },
+    {
+      "start": 1175.8,
+      "end": 1181.0,
+      "speaker": "SPEAKER_00",
+      "text": "some partners may or may not be offering these opportunities with us."
+    },
+    {
+      "start": 1181.0,
+      "end": 1187.44,
+      "speaker": "SPEAKER_00",
+      "text": "So the math and isolation certainly looks good, a lot of insight to be taken away."
+    },
+    {
+      "start": 1187.44,
+      "end": 1191.76,
+      "speaker": "SPEAKER_00",
+      "text": "But there's worry about the potential impact to the rest of the business."
+    },
+    {
+      "start": 1191.76,
+      "end": 1195.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Can you help me come up with some types of categories of risks"
+    },
+    {
+      "start": 1195.12,
+      "end": 1200.6,
+      "speaker": "SPEAKER_00",
+      "text": "that launching the captive financing service might eventually raise?"
+    },
+    {
+      "start": 1200.6,
+      "end": 1204.12,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think that's a very, very important question, Ben, right?"
+    },
+    {
+      "start": 1204.12,
+      "end": 1209.08,
+      "speaker": "SPEAKER_02",
+      "text": "Because from a financial perspective, at least so far, we have seen they could be profitable."
+    },
+    {
+      "start": 1209.08,
+      "end": 1212.36,
+      "speaker": "SPEAKER_02",
+      "text": "But I think there are definitely material risks to consider over here."
+    },
+    {
+      "start": 1212.36,
+      "end": 1218.52,
+      "speaker": "SPEAKER_02",
+      "text": "So let me take a minute to formulate some risks that the client should analyze and mitigate for."
+    },
+    {
+      "start": 1218.52,
+      "end": 1229.12,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I could come up with four key risks, Ben, right, that the client should consider."
+    },
+    {
+      "start": 1229.12,
+      "end": 1232.04,
+      "speaker": "SPEAKER_02",
+      "text": "The first is credit risk."
+    },
+    {
+      "start": 1232.04,
+      "end": 1237.16,
+      "speaker": "SPEAKER_02",
+      "text": "Now we when we did the profit calculations, we considered a default rate of around 30%."
+    },
+    {
+      "start": 1237.16,
+      "end": 1242.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Now, if that default rate were to trend higher, it will severely affect the financial stability"
+    },
+    {
+      "start": 1242.6399999999999,
+      "end": 1243.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "of the company, right?"
+    },
+    {
+      "start": 1243.64,
+      "end": 1248.96,
+      "speaker": "SPEAKER_02",
+      "text": "Because it could wipe out a lot of their profits even from the healthcare business, right?"
+    },
+    {
+      "start": 1248.96,
+      "end": 1250.92,
+      "speaker": "SPEAKER_02",
+      "text": "So that's an important risk to consider."
+    },
+    {
+      "start": 1250.92,
+      "end": 1254.3200000000002,
+      "speaker": "SPEAKER_02",
+      "text": "A second risk to consider over here is a regulatory risk."
+    },
+    {
+      "start": 1254.3200000000002,
+      "end": 1257.4,
+      "speaker": "SPEAKER_02",
+      "text": "A healthcare provider entering into consumer lending space,"
+    },
+    {
+      "start": 1257.4,
+      "end": 1260.2,
+      "speaker": "SPEAKER_02",
+      "text": "what kind of regulatory scrutiny could that attract?"
+    },
+    {
+      "start": 1260.2,
+      "end": 1262.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "That's a, that's a pertinent risk to consider."
+    },
+    {
+      "start": 1262.8400000000001,
+      "end": 1265.0,
+      "speaker": "SPEAKER_02",
+      "text": "The third is repetition, right?"
+    },
+    {
+      "start": 1265.0,
+      "end": 1268.2,
+      "speaker": "SPEAKER_02",
+      "text": "Again, a healthcare provider entering into lending space,"
+    },
+    {
+      "start": 1268.2,
+      "end": 1273.6000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "will that be considered predatory by a predatory by the general public"
+    },
+    {
+      "start": 1273.6399999999999,
+      "end": 1275.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "which will harm the company's image?"
+    },
+    {
+      "start": 1276.6399999999999,
+      "end": 1281.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Before this conflict of interest, because we have partnerships with financing partners"
+    },
+    {
+      "start": 1281.6399999999999,
+      "end": 1284.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "who offer loans to our patients, right?"
+    },
+    {
+      "start": 1284.3999999999999,
+      "end": 1288.9599999999998,
+      "speaker": "SPEAKER_02",
+      "text": "Will they stop collaborating with us due to competition concerns, right?"
+    },
+    {
+      "start": 1288.9599999999998,
+      "end": 1294.56,
+      "speaker": "SPEAKER_02",
+      "text": "So these are four key risks that I think which are important for the client to analyze"
+    },
+    {
+      "start": 1294.56,
+      "end": 1295.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "and mitigate for."
+    },
+    {
+      "start": 1296.8799999999999,
+      "end": 1297.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Excellent."
+    },
+    {
+      "start": 1297.3999999999999,
+      "end": 1301.08,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, and I think for risk that certainly should not be ignored as we move forward."
+    },
+    {
+      "start": 1301.96,
+      "end": 1307.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "A colleague under team has benchmarked captive finance organizations in other industries"
+    },
+    {
+      "start": 1307.3999999999999,
+      "end": 1311.56,
+      "speaker": "SPEAKER_00",
+      "text": "and I should believe that it will take about $15 million investment"
+    },
+    {
+      "start": 1311.56,
+      "end": 1315.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "to launch the department and add $10 million per year in SGNA."
+    },
+    {
+      "start": 1317.04,
+      "end": 1319.08,
+      "speaker": "SPEAKER_00",
+      "text": "You know, kind of building off what you've done previously,"
+    },
+    {
+      "start": 1319.08,
+      "end": 1322.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "how long will it take for this investment to potentially pay back?"
+    },
+    {
+      "start": 1324.0,
+      "end": 1327.1599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Great. Thanks, but let me recap the information that you've shared with me."
+    },
+    {
+      "start": 1327.16,
+      "end": 1331.1200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "If shared with me $10 million SGNA expense, right?"
+    },
+    {
+      "start": 1331.1200000000001,
+      "end": 1335.0,
+      "speaker": "SPEAKER_02",
+      "text": "And they've also shared with me, they will be a $15 million investment cost,"
+    },
+    {
+      "start": 1335.0,
+      "end": 1339.52,
+      "speaker": "SPEAKER_02",
+      "text": "a set up cost, a set up the captive financing arm, right?"
+    },
+    {
+      "start": 1339.52,
+      "end": 1346.0,
+      "speaker": "SPEAKER_02",
+      "text": "So earlier in our calculations, we have got a profit opportunity of $22 million, right?"
+    },
+    {
+      "start": 1346.0,
+      "end": 1351.72,
+      "speaker": "SPEAKER_02",
+      "text": "Now, we'll need to subtract that from $10 million of additional SGNA expense,"
+    },
+    {
+      "start": 1351.72,
+      "end": 1354.72,
+      "speaker": "SPEAKER_02",
+      "text": "which gives us a net profit of $12 million."
+    },
+    {
+      "start": 1355.72,
+      "end": 1359.72,
+      "speaker": "SPEAKER_02",
+      "text": "And when I consider the investment cost of $15 million,"
+    },
+    {
+      "start": 1359.72,
+      "end": 1365.92,
+      "speaker": "SPEAKER_02",
+      "text": "what we can derive is that we can recruit the investment cost in a matter of 1.25 years, right?"
+    },
+    {
+      "start": 1365.92,
+      "end": 1368.72,
+      "speaker": "SPEAKER_02",
+      "text": "So 15 by 12 gives me 1.25 years."
+    },
+    {
+      "start": 1368.72,
+      "end": 1370.92,
+      "speaker": "SPEAKER_02",
+      "text": "So that's a very short payback period."
+    },
+    {
+      "start": 1370.92,
+      "end": 1373.52,
+      "speaker": "SPEAKER_02",
+      "text": "It's a very attractive payback period for the client to consider."
+    },
+    {
+      "start": 1374.72,
+      "end": 1380.72,
+      "speaker": "SPEAKER_02",
+      "text": "And also when I look at the $12 million in profit, net profit that the client is making,"
+    },
+    {
+      "start": 1380.72,
+      "end": 1384.72,
+      "speaker": "SPEAKER_02",
+      "text": "let me quickly compute what is their total profit today, right?"
+    },
+    {
+      "start": 1384.72,
+      "end": 1391.72,
+      "speaker": "SPEAKER_02",
+      "text": "Because it told me that they have, I mean, they are generating $500 for each venture, right?"
+    },
+    {
+      "start": 1391.72,
+      "end": 1396.72,
+      "speaker": "SPEAKER_02",
+      "text": "And they have 300 patients today and they have 800 offices."
+    },
+    {
+      "start": 1396.72,
+      "end": 1400.72,
+      "speaker": "SPEAKER_02",
+      "text": "So 500 into 300 into 800, right?"
+    },
+    {
+      "start": 1400.72,
+      "end": 1405.72,
+      "speaker": "SPEAKER_02",
+      "text": "That gives me a figure of five, three, five, 15, eight, it's 120."
+    },
+    {
+      "start": 1405.72,
+      "end": 1409.72,
+      "speaker": "SPEAKER_02",
+      "text": "So it's around $120 million is their total profit."
+    },
+    {
+      "start": 1411.72,
+      "end": 1420.72,
+      "speaker": "SPEAKER_02",
+      "text": "So $12 million of additional net profit the client will make as a ratio of $120 million is a 10% increase, right?"
+    },
+    {
+      "start": 1420.72,
+      "end": 1423.72,
+      "speaker": "SPEAKER_02",
+      "text": "Which would be a size of millions."
+    },
+    {
+      "start": 1423.72,
+      "end": 1431.72,
+      "speaker": "SPEAKER_02",
+      "text": "So I think barring, you know, other material risks, which kind of prohibit entering this space,"
+    },
+    {
+      "start": 1431.72,
+      "end": 1437.72,
+      "speaker": "SPEAKER_02",
+      "text": "I think from a financial perspective, it does make sense for the client to open a captive financing up."
+    },
+    {
+      "start": 1438.72,
+      "end": 1439.72,
+      "speaker": "SPEAKER_00",
+      "text": "Excellent."
+    },
+    {
+      "start": 1439.72,
+      "end": 1449.72,
+      "speaker": "SPEAKER_00",
+      "text": "So, you know, given all the analysis that you've certainly led thus far throughout the case, it'd be great if you could lead the final presentation with the client."
+    },
+    {
+      "start": 1449.72,
+      "end": 1455.72,
+      "speaker": "SPEAKER_00",
+      "text": "We're ready to give kind of our executive summary, could you help us provide that result?"
+    },
+    {
+      "start": 1455.72,
+      "end": 1464.72,
+      "speaker": "SPEAKER_02",
+      "text": "So let me take a minute to formulate my thinking so that I can present a very structured recommendation to be fine."
+    },
+    {
+      "start": 1465.72,
+      "end": 1467.72,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 1467.72,
+      "end": 1472.72,
+      "speaker": "SPEAKER_02",
+      "text": "So Mr. CEO, wonderful to work on this problem with you."
+    },
+    {
+      "start": 1472.72,
+      "end": 1479.72,
+      "speaker": "SPEAKER_02",
+      "text": "The co-question of the analysis, should you establish a financing amp to attract underserved patient segments, right?"
+    },
+    {
+      "start": 1479.72,
+      "end": 1482.72,
+      "speaker": "SPEAKER_02",
+      "text": "And if it represents an attractive cash flow stream."
+    },
+    {
+      "start": 1482.72,
+      "end": 1488.72,
+      "speaker": "SPEAKER_02",
+      "text": "Now, based on purely financial analysis, the recommendation is to go ahead and set up the financing up."
+    },
+    {
+      "start": 1488.72,
+      "end": 1490.72,
+      "speaker": "SPEAKER_02",
+      "text": "Three key reasons why I suggest so."
+    },
+    {
+      "start": 1490.72,
+      "end": 1494.72,
+      "speaker": "SPEAKER_02",
+      "text": "One, it's an attractive profit increase that you would get."
+    },
+    {
+      "start": 1494.72,
+      "end": 1496.72,
+      "speaker": "SPEAKER_02",
+      "text": "The profits will increase by 12 million dollars."
+    },
+    {
+      "start": 1496.72,
+      "end": 1498.72,
+      "speaker": "SPEAKER_02",
+      "text": "It's a 10% profit increase."
+    },
+    {
+      "start": 1498.72,
+      "end": 1500.72,
+      "speaker": "SPEAKER_02",
+      "text": "The payback period is shot."
+    },
+    {
+      "start": 1500.72,
+      "end": 1503.72,
+      "speaker": "SPEAKER_02",
+      "text": "The investment is paying back in just 1.25 years."
+    },
+    {
+      "start": 1503.72,
+      "end": 1508.72,
+      "speaker": "SPEAKER_02",
+      "text": "And I think this is also a good way to expand your reach and attract underserved patient segments."
+    },
+    {
+      "start": 1508.72,
+      "end": 1509.72,
+      "speaker": "SPEAKER_02",
+      "text": "Right?"
+    },
+    {
+      "start": 1509.72,
+      "end": 1517.72,
+      "speaker": "SPEAKER_02",
+      "text": "Because for example, once you start serving sub-prime clients, they might buy a denser from you or but they will also opt for other treatments."
+    },
+    {
+      "start": 1517.72,
+      "end": 1526.72,
+      "speaker": "SPEAKER_02",
+      "text": "So you could make revenue indirect profit from selling other treatments to these patient segments."
+    },
+    {
+      "start": 1526.72,
+      "end": 1532.72,
+      "speaker": "SPEAKER_02",
+      "text": "However, from a next steps perspective, I think it is important to also consider the capabilities."
+    },
+    {
+      "start": 1532.72,
+      "end": 1536.72,
+      "speaker": "SPEAKER_02",
+      "text": "So you will need to ensure that you can really operationalize the financing up."
+    },
+    {
+      "start": 1536.72,
+      "end": 1540.72,
+      "speaker": "SPEAKER_02",
+      "text": "So can you acquire capabilities related to loan underwriting?"
+    },
+    {
+      "start": 1540.72,
+      "end": 1543.72,
+      "speaker": "SPEAKER_02",
+      "text": "Can you fund these loans?"
+    },
+    {
+      "start": 1543.72,
+      "end": 1546.72,
+      "speaker": "SPEAKER_02",
+      "text": "Or can you raise capital to fund these loans?"
+    },
+    {
+      "start": 1546.72,
+      "end": 1559.72,
+      "speaker": "SPEAKER_02",
+      "text": "And finally, I think the most important barrier in terms of launching the capital financing arm is to really do a detailed risk analysis and determine can you mitigate the potential risks."
+    },
+    {
+      "start": 1559.72,
+      "end": 1560.72,
+      "speaker": "SPEAKER_02",
+      "text": "Right?"
+    },
+    {
+      "start": 1560.72,
+      "end": 1570.72,
+      "speaker": "SPEAKER_02",
+      "text": "Some of the risks that you should look at is credit risk, regulatory risk, reputation risk and also any conflict of interest risks."
+    },
+    {
+      "start": 1570.72,
+      "end": 1582.72,
+      "speaker": "SPEAKER_02",
+      "text": "And if these risks can be managed by you, in that case, you'd recommend that you should establish a financing arm because it is offering you an attractive cash loist."
+    },
+    {
+      "start": 1582.72,
+      "end": 1584.72,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you."
+    },
+    {
+      "start": 1584.72,
+      "end": 1585.72,
+      "speaker": "SPEAKER_00",
+      "text": "Excellent."
+    },
+    {
+      "start": 1585.72,
+      "end": 1587.72,
+      "speaker": "SPEAKER_00",
+      "text": "Thank you very much for your time today."
+    },
+    {
+      "start": 1587.72,
+      "end": 1588.72,
+      "speaker": "SPEAKER_01",
+      "text": "Hey, everyone."
+    },
+    {
+      "start": 1588.72,
+      "end": 1590.72,
+      "speaker": "SPEAKER_01",
+      "text": "It's Henten Giveshi here, the founder of Rocketblocks."
+    },
+    {
+      "start": 1590.72,
+      "end": 1592.72,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you so much for watching this mock interview video."
+    },
+    {
+      "start": 1592.72,
+      "end": 1599.72,
+      "speaker": "SPEAKER_01",
+      "text": "I hope you found it informative and helpful as you are getting ready to prepare for your own interviews and hopefully landing that job offer."
+    },
+    {
+      "start": 1599.72,
+      "end": 1609.72,
+      "speaker": "SPEAKER_01",
+      "text": "You are excited about we have a ton of great content on the Rocketblocks channel coming out on a weekly basis mock interviews, many lessons and chats with our Rocketblocks experts."
+    },
+    {
+      "start": 1609.72,
+      "end": 1612.72,
+      "speaker": "SPEAKER_01",
+      "text": "So if you haven't subscribed yet already, please do so."
+    },
+    {
+      "start": 1612.72,
+      "end": 1614.72,
+      "speaker": "SPEAKER_01",
+      "text": "There is a big red button below."
+    },
+    {
+      "start": 1614.72,
+      "end": 1617.72,
+      "speaker": "SPEAKER_01",
+      "text": "And if you hit that, you'll get all of our content as soon as it comes out."
+    },
+    {
+      "start": 1617.72,
+      "end": 1619.72,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks for watching and have a great day."
+    }
+  ],
+  "grading": {
+    "communication": 13,
+    "framework": 11,
+    "math": 10,
+    "case_difficulty": 8,
+    "final_summary": 12,
+    "overall_thoughts": "You communicated very clearly throughout, but the math was quite shaky. Additionally, try and build out a deeper framework and include risks and mitigatns in your final summary."
+  }
+}

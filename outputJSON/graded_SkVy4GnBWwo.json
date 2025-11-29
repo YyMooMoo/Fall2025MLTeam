@@ -1,0 +1,2454 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 15.0,
+      "speaker": "SPEAKER_01",
+      "text": "So for those obviously, Edward, you are now going to solve the case, but for those that are solving at home, the process is pretty similar to any type of case, right?"
+    },
+    {
+      "start": 15.0,
+      "end": 29.0,
+      "speaker": "SPEAKER_01",
+      "text": "We lay out a prompt, the Edward is going to provide us with a framework, and then we are going to explore through this framework, some of the hypothesis and arrive to a recommendation, and then in the end, I'll provide some feedback."
+    },
+    {
+      "start": 29.0,
+      "end": 38.0,
+      "speaker": "SPEAKER_01",
+      "text": "The only differentiating factor Edward is, you know, we're solving this case together. We're a collaborative firm, so I want you to put yourself in the mind of a Carnegie salt and drites."
+    },
+    {
+      "start": 38.0,
+      "end": 49.0,
+      "speaker": "SPEAKER_01",
+      "text": "We are tackling an issue that came from a CEO, I'm going to describe that frankly, but if you have any questions or what will like to brainstorm, what is the last path forward, let's do it to that, okay?"
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect, sounds good."
+    },
+    {
+      "start": 51.0,
+      "end": 60.0,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome, so this is actually one of my favorite places is I did this, this is from actual experience for a couple of years ago."
+    },
+    {
+      "start": 60.0,
+      "end": 73.0,
+      "speaker": "SPEAKER_01",
+      "text": "So our client is a carbonated, sort of drink manufacturer and distributor, and they're currently exploring the possibility of expanding their glass bottle brand portfolio in the US market."
+    },
+    {
+      "start": 74.0,
+      "end": 78.0,
+      "speaker": "SPEAKER_01",
+      "text": "The CEO asked Carnegie to help determine whether that's a good idea or not."
+    },
+    {
+      "start": 79.0,
+      "end": 90.0,
+      "speaker": "SPEAKER_01",
+      "text": "And while they haven't provided a specific margin or revenue targets, they want to make sure that if they expand it, it's actually a profit, a profit of all pursuit."
+    },
+    {
+      "start": 92.0,
+      "end": 100.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool, so I'm just going to read read the case to make sure I have all the information that you provided, so does that sound like a good brush to for now?"
+    },
+    {
+      "start": 100.0,
+      "end": 102.0,
+      "speaker": "SPEAKER_00",
+      "text": "How 100% yeah."
+    },
+    {
+      "start": 102.0,
+      "end": 112.0,
+      "speaker": "SPEAKER_00",
+      "text": "So our company is a carbonated, soft drink manufacturer and distributor and they're looking for to expand in the US about their glass bottle portfolio."
+    },
+    {
+      "start": 113.0,
+      "end": 122.0,
+      "speaker": "SPEAKER_00",
+      "text": "They don't necessarily have a target in mind, but they just want to make sure that the company would be profitable if they expand and ensure that the venture would be a profitable investment."
+    },
+    {
+      "start": 123.0,
+      "end": 132.0,
+      "speaker": "SPEAKER_01",
+      "text": "A lot of times you'll get a block from a CEO that says, is this a good idea or not? How should I think about it? Right? So does that help that they're looking to get?"
+    },
+    {
+      "start": 132.0,
+      "end": 136.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good. Yeah, I do have some clarifying questions in mind before we jump into the framework."
+    },
+    {
+      "start": 137.0,
+      "end": 143.0,
+      "speaker": "SPEAKER_00",
+      "text": "First, do they have an idea of where they want to expand first or is it just like larger US market that we're looking at?"
+    },
+    {
+      "start": 143.0,
+      "end": 145.0,
+      "speaker": "SPEAKER_01",
+      "text": "No, it's rather in the US."
+    },
+    {
+      "start": 146.0,
+      "end": 154.0,
+      "speaker": "SPEAKER_00",
+      "text": "And do we have like a timeframe specific in doing like a specific time frame we're looking forward to to make sure that this is a good investment?"
+    },
+    {
+      "start": 155.0,
+      "end": 157.0,
+      "speaker": "SPEAKER_01",
+      "text": "Not at this point, they're just for our own options."
+    },
+    {
+      "start": 158.0,
+      "end": 159.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good."
+    },
+    {
+      "start": 159.0,
+      "end": 166.0,
+      "speaker": "SPEAKER_00",
+      "text": "And do we handle the distribution ourselves and the manufacturing ourselves and the rest like how is this the business model like do we sell a source for example or"
+    },
+    {
+      "start": 167.0,
+      "end": 170.0,
+      "speaker": "SPEAKER_00",
+      "text": "like what's our business model like in this case?"
+    },
+    {
+      "start": 171.0,
+      "end": 176.0,
+      "speaker": "SPEAKER_01",
+      "text": "That's a great question. So basically, yes, they're a manufacturer and distributor, right?"
+    },
+    {
+      "start": 176.0,
+      "end": 185.0,
+      "speaker": "SPEAKER_01",
+      "text": "In the carbonator soft drink space, you can have the large scale buyers like say Walmart or a target, right?"
+    },
+    {
+      "start": 185.0,
+      "end": 195.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then they have a DSD, which is another model when they just go and distribute for the purposes of this case, just assume that they are focusing on manufacturing and distribution and their exploring options."
+    },
+    {
+      "start": 196.0,
+      "end": 198.0,
+      "speaker": "SPEAKER_01",
+      "text": "And I don't need to go into the channel."
+    },
+    {
+      "start": 198.0,
+      "end": 202.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good. Is it okay if I take a couple of seconds to structure my thoughts?"
+    },
+    {
+      "start": 202.0,
+      "end": 204.0,
+      "speaker": "SPEAKER_01",
+      "text": "I would be so surprised if you didn't."
+    },
+    {
+      "start": 204.0,
+      "end": 206.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool. Sounds good."
+    },
+    {
+      "start": 206.0,
+      "end": 211.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I do have an sort of understanding of how I want to approach this case."
+    },
+    {
+      "start": 211.0,
+      "end": 217.0,
+      "speaker": "SPEAKER_00",
+      "text": "The way I want to do it is kind of in four main buckets and I list off all the buckets that I have and then we'll go into each of them one by one specifically."
+    },
+    {
+      "start": 218.0,
+      "end": 219.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 219.0,
+      "end": 228.0,
+      "speaker": "SPEAKER_00",
+      "text": "First one, I want to look into the market attractiveness, see how big is the market, see what we're at a competition like and there's some recent trends, which I will go into more in the later time."
+    },
+    {
+      "start": 228.0,
+      "end": 239.0,
+      "speaker": "SPEAKER_00",
+      "text": "Second would be company capabilities, understanding what we are doing best and how we can make sure that this product is proprietary enough to be able to capture enough market share as much part of each other as possible."
+    },
+    {
+      "start": 239.0,
+      "end": 244.0,
+      "speaker": "SPEAKER_00",
+      "text": "Third one, I want to look into the financials was the upfront cost like was the revenue and cost drivers."
+    },
+    {
+      "start": 244.0,
+      "end": 250.0,
+      "speaker": "SPEAKER_00",
+      "text": "I also like to pay back period to make sure that this is a profitable investment and four would be risks and considerations."
+    },
+    {
+      "start": 250.0,
+      "end": 254.0,
+      "speaker": "SPEAKER_00",
+      "text": "Obviously we don't want to have any cannibalization within this product and our portfolio."
+    },
+    {
+      "start": 254.0,
+      "end": 260.0,
+      "speaker": "SPEAKER_00",
+      "text": "We want to understand how we can enter the market was the best way to do so and things like that."
+    },
+    {
+      "start": 260.0,
+      "end": 269.0,
+      "speaker": "SPEAKER_00",
+      "text": "So going into the deeper into the framework in terms of the market attractiveness, I want to first understand the size of like how big is the market that we're trying to play at."
+    },
+    {
+      "start": 269.0,
+      "end": 276.0,
+      "speaker": "SPEAKER_01",
+      "text": "Let's take us to the back. I like your framework, but let's let's pressure test it a bit, right? So that's good."
+    },
+    {
+      "start": 276.0,
+      "end": 286.0,
+      "speaker": "SPEAKER_01",
+      "text": "Let's answer the structure, the framework around the questions that we're going to tell the CEO, right? What is the question that we're answering with each of the components?"
+    },
+    {
+      "start": 286.0,
+      "end": 291.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good. Yeah. For, so I'll go into them one by one. Do you want it to go one moment?"
+    },
+    {
+      "start": 291.0,
+      "end": 299.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, each of the components of the framework, no need to go into the next level just what are the buckets and what are the answers that we will be getting?"
+    },
+    {
+      "start": 299.0,
+      "end": 304.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So market attractiveness will we will first want to understand is this a good idea or not?"
+    },
+    {
+      "start": 304.0,
+      "end": 311.0,
+      "speaker": "SPEAKER_00",
+      "text": "So this is like a pretty broad question. So the way I'm thinking about this is when we think about the investment being attractive."
+    },
+    {
+      "start": 311.0,
+      "end": 317.0,
+      "speaker": "SPEAKER_00",
+      "text": "We want to make sure that we enter into market where we can be we can have a profitable investment."
+    },
+    {
+      "start": 317.0,
+      "end": 324.0,
+      "speaker": "SPEAKER_00",
+      "text": "So in order to understand that, we want to understand how big is the market. We want to understand how fragmented is the competition."
+    },
+    {
+      "start": 324.0,
+      "end": 331.0,
+      "speaker": "SPEAKER_00",
+      "text": "So like is there enough room for us to play in terms of when we enter this market? I would understand the growth rate is there like enough growth."
+    },
+    {
+      "start": 331.0,
+      "end": 338.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we will be able to handle this investment and also have a like a continuous income and profitability."
+    },
+    {
+      "start": 339.0,
+      "end": 351.0,
+      "speaker": "SPEAKER_00",
+      "text": "And one thing that I also want to share is you know, recent trends understand like what has been the recent trends within the market like why did we choose to specifically expand our glass bottle portfolio?"
+    },
+    {
+      "start": 351.0,
+      "end": 358.0,
+      "speaker": "SPEAKER_00",
+      "text": "Right. So understanding customer preferences like what debut will into buy this product that we're trying to expand."
+    },
+    {
+      "start": 358.0,
+      "end": 369.0,
+      "speaker": "SPEAKER_00",
+      "text": "Lastly, I also want to look into the regulation in this category just because I know that glass could be sort of like a half hazard product that if it breaks there might be certain compliance issues."
+    },
+    {
+      "start": 369.0,
+      "end": 378.0,
+      "speaker": "SPEAKER_00",
+      "text": "So like that would also be a sort of a mini consideration within this larger bucket of market. Does that make sense to you? Do you have any questions for the market part for now?"
+    },
+    {
+      "start": 378.0,
+      "end": 382.0,
+      "speaker": "SPEAKER_01",
+      "text": "I a lot. I think that's that very reasonable. What about going next?"
+    },
+    {
+      "start": 383.0,
+      "end": 390.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool. What comes next is the company capabilities. I want to understand what's our existing glass bottle portfolio looking like."
+    },
+    {
+      "start": 390.0,
+      "end": 396.0,
+      "speaker": "SPEAKER_00",
+      "text": "I know like what have we done in terms of the research and development, where does it stand in terms of the ongoing like maintenance?"
+    },
+    {
+      "start": 396.0,
+      "end": 402.0,
+      "speaker": "SPEAKER_00",
+      "text": "So like how we make sure that this product is like proprietary enough to be able to capture as much market share as possible."
+    },
+    {
+      "start": 402.0,
+      "end": 414.0,
+      "speaker": "SPEAKER_00",
+      "text": "I want to look into our sales and marketing teams. So understanding if we have any presence, if we have any sort of experience and expanding our products with different market, whether that's geographically or like to new customers."
+    },
+    {
+      "start": 414.0,
+      "end": 423.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understanding those would be a good sort of starting planning in terms of providing us with the general understanding of our own company and our expertise as well."
+    },
+    {
+      "start": 423.0,
+      "end": 431.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So no need to go into the third and fourth. I think they're pretty clear. Is there a reason why you first look at capabilities before profitability?"
+    },
+    {
+      "start": 431.0,
+      "end": 442.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, before profitability, I want to so profitability is the way I think about this is first we developed this product and then we developed the cost."
+    },
+    {
+      "start": 442.0,
+      "end": 457.0,
+      "speaker": "SPEAKER_00",
+      "text": "The reason I chose capabilities first is because I want to make sure that before making the investment, we have the necessarily the expertise and necessary sort of company like brain power to make sure that we can make this investment a profitable one."
+    },
+    {
+      "start": 457.0,
+      "end": 465.0,
+      "speaker": "SPEAKER_01",
+      "text": "You could also make a case that if possibly we could make it profitably right that we can figure out how to do it."
+    },
+    {
+      "start": 465.0,
+      "end": 472.0,
+      "speaker": "SPEAKER_01",
+      "text": "So the third sort of options not necessarily just just telling you to see the life. But it works. Okay, let's talk about the market."
+    },
+    {
+      "start": 472.0,
+      "end": 487.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I know a lot of people are going to hate me right now, but let's let's try to figure out you see some basic, what is the market size of the glass in terms of revenue? What is the glass bottle carbonated soft drink marketing that you ask?"
+    },
+    {
+      "start": 487.0,
+      "end": 501.0,
+      "speaker": "SPEAKER_00",
+      "text": "So glass bottle carbonated soft drinks. So we don't necessarily look into like the people that buy it in cans or like the fountain drinks and just the glass bottles."
+    },
+    {
+      "start": 501.0,
+      "end": 511.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, exactly. And for this, please walk me through the equation without going into the calculations and then you can, you know, throw the numbers."
+    },
+    {
+      "start": 511.0,
+      "end": 516.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good. Is it okay if I take a couple of seconds to structure my thoughts first?"
+    },
+    {
+      "start": 516.0,
+      "end": 519.0,
+      "speaker": "SPEAKER_00",
+      "text": "Of course."
+    },
+    {
+      "start": 519.0,
+      "end": 528.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool. So the way I want to I'm like I want to structure this market sizing problem is first I want to start off with the US population."
+    },
+    {
+      "start": 528.0,
+      "end": 538.0,
+      "speaker": "SPEAKER_00",
+      "text": "Understand how big is the US population? I would assume to use the 300 million number if another few other other thoughts, but I guess we want that I get to the calculations just now."
+    },
+    {
+      "start": 538.0,
+      "end": 548.0,
+      "speaker": "SPEAKER_00",
+      "text": "The way I want to segment the population is understanding who what are the like the percentage of people who get soft drinks on a weekly basis, right?"
+    },
+    {
+      "start": 548.0,
+      "end": 551.0,
+      "speaker": "SPEAKER_00",
+      "text": "So for my personal experience, I have friends who hate soft drinks."
+    },
+    {
+      "start": 551.0,
+      "end": 558.0,
+      "speaker": "SPEAKER_00",
+      "text": "Couldn't be me, but there are people like that. I have friends who get soft drinks like once a week. I have friends who get soft drinks."
+    },
+    {
+      "start": 558.0,
+      "end": 563.0,
+      "speaker": "SPEAKER_00",
+      "text": "I take twice a week and also I had friends who get soft things like three plus times a week."
+    },
+    {
+      "start": 563.0,
+      "end": 576.0,
+      "speaker": "SPEAKER_00",
+      "text": "So those four mean buckets is the one I'm like trying to look at. And then once we have those four buckets, we'll assume the percentages make some assumptions unless you have any other data to show, but we can make some assumptions about the percentages of falling to each of them."
+    },
+    {
+      "start": 576.0,
+      "end": 589.0,
+      "speaker": "SPEAKER_00",
+      "text": "So those categories. So that will give us the sort of the sum of that those numbers will give us the number of people who consume soft drinks weekly."
+    },
+    {
+      "start": 589.0,
+      "end": 596.0,
+      "speaker": "SPEAKER_00",
+      "text": "So after that, I want to sort of understand what's the percentage of the people who consume soft drinks in a glass bottle."
+    },
+    {
+      "start": 596.0,
+      "end": 608.0,
+      "speaker": "SPEAKER_00",
+      "text": "Understanding the percentage of people who buy just glass bottles of drinks and then from that point on, I will try to analyze that number just because we have used weekly numbers so far and then"
+    },
+    {
+      "start": 608.0,
+      "end": 618.0,
+      "speaker": "SPEAKER_00",
+      "text": "multiply that number by 50 just to get the I mean, that's the annualization part and then also understand what's the average cost of soft drinks to get the revenue number as well."
+    },
+    {
+      "start": 618.0,
+      "end": 623.0,
+      "speaker": "SPEAKER_00",
+      "text": "Does that approach make sense to you or do you want to make any tweaks for that before we get started?"
+    },
+    {
+      "start": 623.0,
+      "end": 635.0,
+      "speaker": "SPEAKER_01",
+      "text": "I can say cost but price but yeah, it makes sense, but I'm going to challenge that that framework I made right because instead, I mean, you're looking at the use population, you know, it's a good"
+    },
+    {
+      "start": 636.0,
+      "end": 642.0,
+      "speaker": "SPEAKER_01",
+      "text": "There's another way that you could look at it just based on how do you anticipate people who consume so does right?"
+    },
+    {
+      "start": 642.0,
+      "end": 644.0,
+      "speaker": "SPEAKER_01",
+      "text": "Is it any of these?"
+    },
+    {
+      "start": 644.0,
+      "end": 646.0,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly."
+    },
+    {
+      "start": 646.0,
+      "end": 648.0,
+      "speaker": "SPEAKER_00",
+      "text": "That makes sense to me."
+    },
+    {
+      "start": 648.0,
+      "end": 652.0,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect. That's useful because it's simpler but I agree with your logic."
+    },
+    {
+      "start": 652.0,
+      "end": 656.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool sounds, but so is that the only tweak you want to make to the equation or is there anything else?"
+    },
+    {
+      "start": 656.0,
+      "end": 659.0,
+      "speaker": "SPEAKER_01",
+      "text": "For simplicity, let's use that one."
+    },
+    {
+      "start": 660.0,
+      "end": 662.0,
+      "speaker": "SPEAKER_00",
+      "text": "So, I think it's the numbers here."
+    },
+    {
+      "start": 662.0,
+      "end": 667.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would assume that based on the US population, I would assume that there's about 100 million households."
+    },
+    {
+      "start": 667.0,
+      "end": 669.0,
+      "speaker": "SPEAKER_00",
+      "text": "Is that a good number to use for you?"
+    },
+    {
+      "start": 669.0,
+      "end": 670.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool."
+    },
+    {
+      "start": 670.0,
+      "end": 679.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we're still left with the 100 million households within the US and then we'll go to the second personable framework, which is understanding the weekly consumption of soft drinks."
+    },
+    {
+      "start": 679.0,
+      "end": 685.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we have the zero, so like the non drinkers, we have the one, we have the two and the three plus times a week."
+    },
+    {
+      "start": 686.0,
+      "end": 698.0,
+      "speaker": "SPEAKER_00",
+      "text": "So going into here making some assumptions, I would assume that about 30% of the US population doesn't consume any soft drinks just because there is a recently a special, there's a big push towards more healthier alternatives of soft drinks."
+    },
+    {
+      "start": 698.0,
+      "end": 703.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I would assume that 30% of the US population would not be consuming anything."
+    },
+    {
+      "start": 703.0,
+      "end": 705.0,
+      "speaker": "SPEAKER_00",
+      "text": "So does that never make sense to you or should?"
+    },
+    {
+      "start": 705.0,
+      "end": 706.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 706.0,
+      "end": 710.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool. So 30 million households are already out of the window."
+    },
+    {
+      "start": 710.0,
+      "end": 718.0,
+      "speaker": "SPEAKER_00",
+      "text": "When we think of the people who drink soft drinks for once a week, I would assume they're more than people who drink who don't drink anything."
+    },
+    {
+      "start": 718.0,
+      "end": 721.0,
+      "speaker": "SPEAKER_00",
+      "text": "So not a lot, but I would say about 40%."
+    },
+    {
+      "start": 721.0,
+      "end": 725.0,
+      "speaker": "SPEAKER_00",
+      "text": "If that number makes sense to you, I'm not experienced like."
+    },
+    {
+      "start": 725.0,
+      "end": 730.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, although I assume yes, I'm going to call you anything's crazy."
+    },
+    {
+      "start": 730.0,
+      "end": 731.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool."
+    },
+    {
+      "start": 731.0,
+      "end": 732.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good."
+    },
+    {
+      "start": 732.0,
+      "end": 735.0,
+      "speaker": "SPEAKER_00",
+      "text": "So for efficiency reasons, I'll go through each of them again."
+    },
+    {
+      "start": 735.0,
+      "end": 737.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we have about 70% so far."
+    },
+    {
+      "start": 737.0,
+      "end": 751.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would assume that people who drink soft drinks twice a week would consist of about 20% of the entire population and then people who drink soft drinks three plus times a week would only consist of about 10% of the entire US household population."
+    },
+    {
+      "start": 751.0,
+      "end": 759.0,
+      "speaker": "SPEAKER_00",
+      "text": "So looking into the numbers here trying to quantify our numbers that we have is we have people who drink once a week or there are the 40 million households."
+    },
+    {
+      "start": 759.0,
+      "end": 767.0,
+      "speaker": "SPEAKER_00",
+      "text": "People who drink soft drinks are about 20 million households and also people who drink soft drinks three plus times out of the three number."
+    },
+    {
+      "start": 767.0,
+      "end": 770.0,
+      "speaker": "SPEAKER_00",
+      "text": "So that would give us about 10%."
+    },
+    {
+      "start": 770.0,
+      "end": 779.0,
+      "speaker": "SPEAKER_00",
+      "text": "So overall, we have here, which is 10 million overall, we have about 70 million who consume a week soft drinks on a weekly basis."
+    },
+    {
+      "start": 779.0,
+      "end": 783.0,
+      "speaker": "SPEAKER_00",
+      "text": "But from that point on, I will try to calculate how many soft drinks."
+    },
+    {
+      "start": 783.0,
+      "end": 787.0,
+      "speaker": "SPEAKER_00",
+      "text": "So again, taking into account the numbers of bottles that they consume."
+    },
+    {
+      "start": 787.0,
+      "end": 801.0,
+      "speaker": "SPEAKER_00",
+      "text": "So for the people who drink once a week, that would be 40 million dollars, 40 million people for the people who drink twice a week, that would be about again 40 million and for people who drink three times a week, that would be about 30 million."
+    },
+    {
+      "start": 801.0,
+      "end": 808.0,
+      "speaker": "SPEAKER_00",
+      "text": "So adding all those up, that would be about 110 million bottles per week."
+    },
+    {
+      "start": 808.0,
+      "end": 809.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 809.0,
+      "end": 811.0,
+      "speaker": "SPEAKER_00",
+      "text": "So 40 plus 40 plus 30."
+    },
+    {
+      "start": 811.0,
+      "end": 820.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then from this point on, I would try to estimate the number of the number of soft drinks for our salt and bottles."
+    },
+    {
+      "start": 820.0,
+      "end": 828.0,
+      "speaker": "SPEAKER_00",
+      "text": "So again, making some assumptions here, I want to try to make it as realistic as possible from my experience."
+    },
+    {
+      "start": 828.0,
+      "end": 837.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, whenever I go to get a soft drink, I usually either get a fountain one or in a can, which is the most probably the easier option or a plastic bottle."
+    },
+    {
+      "start": 837.0,
+      "end": 842.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I would assume that glass bottles would not be a huge component of this market."
+    },
+    {
+      "start": 842.0,
+      "end": 849.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would assume that about, I'm thinking between 10 to 20% would only be glass bottles for simplicity reasons."
+    },
+    {
+      "start": 849.0,
+      "end": 852.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would use the 10% number if that makes sense to you."
+    },
+    {
+      "start": 852.0,
+      "end": 853.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 853.0,
+      "end": 860.0,
+      "speaker": "SPEAKER_00",
+      "text": "So weekly consumption is about 11 million glass bottles per week."
+    },
+    {
+      "start": 860.0,
+      "end": 869.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then from that point on, I'm going to multiply that number by about 50 to annualize this number in order to get the annual number."
+    },
+    {
+      "start": 869.0,
+      "end": 876.0,
+      "speaker": "SPEAKER_00",
+      "text": "So 11 million times 50 would give us around"
+    },
+    {
+      "start": 876.0,
+      "end": 881.0,
+      "speaker": "SPEAKER_00",
+      "text": "50 million bottles."
+    },
+    {
+      "start": 881.0,
+      "end": 882.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 882.0,
+      "end": 889.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then I want to understand what's the average price per glass bottle soft drink, right?"
+    },
+    {
+      "start": 889.0,
+      "end": 894.0,
+      "speaker": "SPEAKER_00",
+      "text": "Don't really have any numbers here, but I would assume that $5 would make sense here."
+    },
+    {
+      "start": 894.0,
+      "end": 897.0,
+      "speaker": "SPEAKER_00",
+      "text": "If actually maybe does too much."
+    },
+    {
+      "start": 897.0,
+      "end": 898.0,
+      "speaker": "SPEAKER_01",
+      "text": "Wow."
+    },
+    {
+      "start": 898.0,
+      "end": 899.0,
+      "speaker": "SPEAKER_01",
+      "text": "Man, you're really expensive."
+    },
+    {
+      "start": 899.0,
+      "end": 905.0,
+      "speaker": "SPEAKER_00",
+      "text": "I'm a bit, I would buy this here just because I go to school in California and I'm in New York now."
+    },
+    {
+      "start": 906.0,
+      "end": 910.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would assume $2 a per soft drink would make probably make sense."
+    },
+    {
+      "start": 910.0,
+      "end": 911.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 911.0,
+      "end": 913.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, that's a little bit of a deal."
+    },
+    {
+      "start": 913.0,
+      "end": 914.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 914.0,
+      "end": 915.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool."
+    },
+    {
+      "start": 915.0,
+      "end": 917.0,
+      "speaker": "SPEAKER_00",
+      "text": "So that would give us about $1.1 billion."
+    },
+    {
+      "start": 917.0,
+      "end": 918.0,
+      "speaker": "SPEAKER_00",
+      "text": "And I would rather than you."
+    },
+    {
+      "start": 918.0,
+      "end": 929.0,
+      "speaker": "SPEAKER_01",
+      "text": "The only number that I think that would challenge from your assumptions that I think are reasonable is if you have a household, right, that is buying soda, so you think they're just going to buy one soda in the supermarket."
+    },
+    {
+      "start": 929.0,
+      "end": 931.0,
+      "speaker": "SPEAKER_01",
+      "text": "One bottle, you just take one little small bottle, right?"
+    },
+    {
+      "start": 932.0,
+      "end": 937.0,
+      "speaker": "SPEAKER_01",
+      "text": "Probably you're either six packs or you know that you can take an average of you can make some assumption, right?"
+    },
+    {
+      "start": 937.0,
+      "end": 943.0,
+      "speaker": "SPEAKER_01",
+      "text": "So let's see how small to play that too and say that the market is twice as large, okay?"
+    },
+    {
+      "start": 943.0,
+      "end": 944.0,
+      "speaker": "SPEAKER_00",
+      "text": "That makes a lot of sense."
+    },
+    {
+      "start": 944.0,
+      "end": 945.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 945.0,
+      "end": 952.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we will get about $2.2 billion per annual revenue."
+    },
+    {
+      "start": 952.0,
+      "end": 953.0,
+      "speaker": "SPEAKER_01",
+      "text": "All right."
+    },
+    {
+      "start": 953.0,
+      "end": 954.0,
+      "speaker": "SPEAKER_01",
+      "text": "So that's reasonable."
+    },
+    {
+      "start": 955.0,
+      "end": 963.0,
+      "speaker": "SPEAKER_01",
+      "text": "What else do we need to know to answer the first component in the case that you described?"
+    },
+    {
+      "start": 963.0,
+      "end": 967.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we do have the market size here looking back at the framework we have."
+    },
+    {
+      "start": 967.0,
+      "end": 970.0,
+      "speaker": "SPEAKER_00",
+      "text": "We said that we also want to look into the competitive landscape here."
+    },
+    {
+      "start": 970.0,
+      "end": 975.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understand like what how fragmented is the market, how much room is there for us to grow?"
+    },
+    {
+      "start": 975.0,
+      "end": 983.0,
+      "speaker": "SPEAKER_00",
+      "text": "If there's sort of enough competition, if the competition is fragmented, we can potentially capture more share than if it's dominated by big players, such as."
+    },
+    {
+      "start": 983.0,
+      "end": 989.0,
+      "speaker": "SPEAKER_00",
+      "text": "You know, the things that come to mind are like Pepsi call or Coca-Cola that could potentially be dominating the market, but that's my assumption here."
+    },
+    {
+      "start": 989.0,
+      "end": 993.0,
+      "speaker": "SPEAKER_00",
+      "text": "If I were to move forward the case, I would like to look into the competitive landscape at first again."
+    },
+    {
+      "start": 993.0,
+      "end": 994.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 994.0,
+      "end": 997.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then that would make sense to me."
+    },
+    {
+      "start": 997.0,
+      "end": 998.0,
+      "speaker": "SPEAKER_00",
+      "text": "Fantastic."
+    },
+    {
+      "start": 998.0,
+      "end": 999.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 999.0,
+      "end": 1000.0,
+      "speaker": "SPEAKER_01",
+      "text": "To keep us moving."
+    },
+    {
+      "start": 1000.0,
+      "end": 1008.0,
+      "speaker": "SPEAKER_01",
+      "text": "So let's assume that the top two largest players take 50% of the market, right?"
+    },
+    {
+      "start": 1009.0,
+      "end": 1013.0,
+      "speaker": "SPEAKER_01",
+      "text": "Our client has about 15% of the market."
+    },
+    {
+      "start": 1013.0,
+      "end": 1014.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1015.0,
+      "end": 1026.0,
+      "speaker": "SPEAKER_01",
+      "text": "And there's another layer, another player that is very small or you see very small that his name is Haritos."
+    },
+    {
+      "start": 1026.0,
+      "end": 1034.0,
+      "speaker": "SPEAKER_01",
+      "text": "It has less than 10% of the market, but it has been growing at 30% gager for the past four years."
+    },
+    {
+      "start": 1035.0,
+      "end": 1040.0,
+      "speaker": "SPEAKER_01",
+      "text": "Where all the information you might think is valuable."
+    },
+    {
+      "start": 1040.0,
+      "end": 1054.0,
+      "speaker": "SPEAKER_00",
+      "text": "So just digesting the information that you gave me is top two, the top two competitors, which would be like something like Coca-Cola or Pepsi would have combined 50% of the total market."
+    },
+    {
+      "start": 1054.0,
+      "end": 1057.0,
+      "speaker": "SPEAKER_00",
+      "text": "We are also pretty big player in the market."
+    },
+    {
+      "start": 1057.0,
+      "end": 1059.0,
+      "speaker": "SPEAKER_00",
+      "text": "We have about 15% of the annual revenue."
+    },
+    {
+      "start": 1059.0,
+      "end": 1061.0,
+      "speaker": "SPEAKER_00",
+      "text": "So 15% of 2.2 billion."
+    },
+    {
+      "start": 1062.0,
+      "end": 1071.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then there's a third player who has less than 10% of the market, who has been growing really fast at a 30% sort of kegger."
+    },
+    {
+      "start": 1071.0,
+      "end": 1077.0,
+      "speaker": "SPEAKER_00",
+      "text": "The first thing that jumps to me is that obviously I want to think about the top two competitors."
+    },
+    {
+      "start": 1077.0,
+      "end": 1080.0,
+      "speaker": "SPEAKER_00",
+      "text": "And we have only 15% of the market share."
+    },
+    {
+      "start": 1080.0,
+      "end": 1082.0,
+      "speaker": "SPEAKER_00",
+      "text": "They are sort of out of our reach to compete with."
+    },
+    {
+      "start": 1082.0,
+      "end": 1088.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I won't understand how we can capture the rest of the market to get on par with those numbers just because from the numbers you gave me this,"
+    },
+    {
+      "start": 1088.0,
+      "end": 1091.0,
+      "speaker": "SPEAKER_00",
+      "text": "these don't necessarily add up to 100%."
+    },
+    {
+      "start": 1091.0,
+      "end": 1095.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I think there is other competition there just to flag that."
+    },
+    {
+      "start": 1095.0,
+      "end": 1108.0,
+      "speaker": "SPEAKER_00",
+      "text": "The third second thing that jumps to mind is we mentioned this third player called hardy, those which has less than 10% market share, but has been growing at about 30% kegger, which is annual growth compounded."
+    },
+    {
+      "start": 1109.0,
+      "end": 1120.0,
+      "speaker": "SPEAKER_00",
+      "text": "So where I would look at next is understand the reason they are going to get 30% just because growing at 30% is a really top-down thing in perspective."
+    },
+    {
+      "start": 1120.0,
+      "end": 1128.0,
+      "speaker": "SPEAKER_00",
+      "text": "Growing at 30% kegger is a really like aggressive growth within the market, especially with the soft drinks."
+    },
+    {
+      "start": 1128.0,
+      "end": 1129.0,
+      "speaker": "SPEAKER_01",
+      "text": "Do you know that yet?"
+    },
+    {
+      "start": 1129.0,
+      "end": 1134.0,
+      "speaker": "SPEAKER_01",
+      "text": "Or are you missing any piece of information to know if 30% is good."
+    },
+    {
+      "start": 1134.0,
+      "end": 1135.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sorry, do I know what?"
+    },
+    {
+      "start": 1136.0,
+      "end": 1141.0,
+      "speaker": "SPEAKER_01",
+      "text": "Do you know if 30% is great in this context or are you missing some information?"
+    },
+    {
+      "start": 1141.0,
+      "end": 1144.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sorry, I didn't listen long time ago."
+    },
+    {
+      "start": 1144.0,
+      "end": 1152.0,
+      "speaker": "SPEAKER_01",
+      "text": "Do you know if 30% kegger is good compared with the rest of the players or are you missing any other information?"
+    },
+    {
+      "start": 1152.0,
+      "end": 1159.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, we are obviously missing some information about what their product is or like..."
+    },
+    {
+      "start": 1159.0,
+      "end": 1165.0,
+      "speaker": "SPEAKER_01",
+      "text": "It's something simple, what is the growth rate for the rest of the market or for the client?"
+    },
+    {
+      "start": 1165.0,
+      "end": 1169.0,
+      "speaker": "SPEAKER_01",
+      "text": "So that the market has been growing at 2% right?"
+    },
+    {
+      "start": 1169.0,
+      "end": 1174.0,
+      "speaker": "SPEAKER_01",
+      "text": "And our client's market share has been decreasing 2% a year."
+    },
+    {
+      "start": 1176.0,
+      "end": 1184.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we have been decreasing at 2% per year and the market has been growing at 2% positive."
+    },
+    {
+      "start": 1185.0,
+      "end": 1190.0,
+      "speaker": "SPEAKER_01",
+      "text": "And Haritas, they specifically target Hispanic consumers."
+    },
+    {
+      "start": 1190.0,
+      "end": 1193.0,
+      "speaker": "SPEAKER_00",
+      "text": "Target Hispanic consumers."
+    },
+    {
+      "start": 1193.0,
+      "end": 1198.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool. So this provides more information about where we can move the case forward."
+    },
+    {
+      "start": 1198.0,
+      "end": 1205.0,
+      "speaker": "SPEAKER_01",
+      "text": "Can you feel the enough to come up with a hypothesis for your first buckets?"
+    },
+    {
+      "start": 1206.0,
+      "end": 1211.0,
+      "speaker": "SPEAKER_00",
+      "text": "Just to take things a step back for now, just to have that just only information that we have,"
+    },
+    {
+      "start": 1211.0,
+      "end": 1216.0,
+      "speaker": "SPEAKER_00",
+      "text": "we said that the market is growing at about 2% per year."
+    },
+    {
+      "start": 1216.0,
+      "end": 1220.0,
+      "speaker": "SPEAKER_00",
+      "text": "We are growing at about negative 2% per year, which is obviously not growing."
+    },
+    {
+      "start": 1220.0,
+      "end": 1224.0,
+      "speaker": "SPEAKER_00",
+      "text": "And the competition that we said, Haritas is growing at about 30% kegger."
+    },
+    {
+      "start": 1224.0,
+      "end": 1228.0,
+      "speaker": "SPEAKER_00",
+      "text": "So because they are only targeting Hispanic consumers."
+    },
+    {
+      "start": 1228.0,
+      "end": 1231.0,
+      "speaker": "SPEAKER_00",
+      "text": "And I think I heard of that brand so that you're selling like a different type of product."
+    },
+    {
+      "start": 1232.0,
+      "end": 1240.0,
+      "speaker": "SPEAKER_00",
+      "text": "So what I would like to do next is understand the specific target demographics that we are trying to target go after."
+    },
+    {
+      "start": 1240.0,
+      "end": 1245.0,
+      "speaker": "SPEAKER_00",
+      "text": "So they have been growing at 30% which is a very large number compared to the market growth,"
+    },
+    {
+      "start": 1245.0,
+      "end": 1250.0,
+      "speaker": "SPEAKER_00",
+      "text": "which is about 28% difference between each number."
+    },
+    {
+      "start": 1250.0,
+      "end": 1257.0,
+      "speaker": "SPEAKER_00",
+      "text": "So the second thing that I would like to do is understand why have we been declining our market share,"
+    },
+    {
+      "start": 1257.0,
+      "end": 1260.0,
+      "speaker": "SPEAKER_00",
+      "text": "understanding what customers are we targeting and how we are targeting them,"
+    },
+    {
+      "start": 1260.0,
+      "end": 1267.0,
+      "speaker": "SPEAKER_00",
+      "text": "and potentially finding out the most profitable customers to target when it comes to our product and launching our product within this new market."
+    },
+    {
+      "start": 1267.0,
+      "end": 1269.0,
+      "speaker": "SPEAKER_00",
+      "text": "Well, that makes us do you or?"
+    },
+    {
+      "start": 1269.0,
+      "end": 1276.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, and I want to move on to the other components of the case, but I think those are very useful questions."
+    },
+    {
+      "start": 1276.0,
+      "end": 1280.0,
+      "speaker": "SPEAKER_01",
+      "text": "We have in the green scene because we were just focusing on our segments."
+    },
+    {
+      "start": 1281.0,
+      "end": 1292.0,
+      "speaker": "SPEAKER_01",
+      "text": "And basically we do across our portfolio, we do have some brands that could potentially target the same market as our readers."
+    },
+    {
+      "start": 1292.0,
+      "end": 1294.0,
+      "speaker": "SPEAKER_01",
+      "text": "Cool."
+    },
+    {
+      "start": 1294.0,
+      "end": 1301.0,
+      "speaker": "SPEAKER_01",
+      "text": "So we have the project we're in the middle of the project and then the chief marketing officer says,"
+    },
+    {
+      "start": 1302.0,
+      "end": 1311.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hey, I know you've been looking into this, but we know that whatever we can produce, we can sell and make money out of it."
+    },
+    {
+      "start": 1317.0,
+      "end": 1321.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so our chief marketing officer says whatever we can produce that we can sell."
+    },
+    {
+      "start": 1321.0,
+      "end": 1322.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yep."
+    },
+    {
+      "start": 1322.0,
+      "end": 1324.0,
+      "speaker": "SPEAKER_00",
+      "text": "Profitable."
+    },
+    {
+      "start": 1325.0,
+      "end": 1334.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I want to understand, my whenever we say whatever we can produce does that mean like we can produce a sort of competitor for Haritos or?"
+    },
+    {
+      "start": 1335.0,
+      "end": 1337.0,
+      "speaker": "SPEAKER_01",
+      "text": "No, no, why are you going to produce a glass bottle?"
+    },
+    {
+      "start": 1337.0,
+      "end": 1340.0,
+      "speaker": "SPEAKER_01",
+      "text": "We know that there's some market for it."
+    },
+    {
+      "start": 1340.0,
+      "end": 1341.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool."
+    },
+    {
+      "start": 1341.0,
+      "end": 1344.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then we can make money out of it."
+    },
+    {
+      "start": 1344.0,
+      "end": 1345.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good."
+    },
+    {
+      "start": 1345.0,
+      "end": 1352.0,
+      "speaker": "SPEAKER_00",
+      "text": "So yeah, again, what I tried to, where I'll probably try to go next is understanding what are some customer demographics you understand."
+    },
+    {
+      "start": 1352.0,
+      "end": 1355.0,
+      "speaker": "SPEAKER_00",
+      "text": "Like what are they, what do they want within this market?"
+    },
+    {
+      "start": 1355.0,
+      "end": 1359.0,
+      "speaker": "SPEAKER_00",
+      "text": "Like why is Haritos growing at 30% rate and why are we declining at 2%?"
+    },
+    {
+      "start": 1359.0,
+      "end": 1362.0,
+      "speaker": "SPEAKER_00",
+      "text": "We said that we have some portfolio of products."
+    },
+    {
+      "start": 1362.0,
+      "end": 1366.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I would actually look into the portfolio as well and each of those growth rates."
+    },
+    {
+      "start": 1366.0,
+      "end": 1367.0,
+      "speaker": "SPEAKER_01",
+      "text": "So let's go back."
+    },
+    {
+      "start": 1367.0,
+      "end": 1371.0,
+      "speaker": "SPEAKER_01",
+      "text": "Take us back to your hypothesis, right?"
+    },
+    {
+      "start": 1371.0,
+      "end": 1373.0,
+      "speaker": "SPEAKER_01",
+      "text": "The first question was is the market attractive?"
+    },
+    {
+      "start": 1373.0,
+      "end": 1375.0,
+      "speaker": "SPEAKER_01",
+      "text": "What is your answer?"
+    },
+    {
+      "start": 1375.0,
+      "end": 1376.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1376.0,
+      "end": 1379.0,
+      "speaker": "SPEAKER_01",
+      "text": "What was the second question?"
+    },
+    {
+      "start": 1379.0,
+      "end": 1382.0,
+      "speaker": "SPEAKER_00",
+      "text": "The second question is what was the competitive landscape?"
+    },
+    {
+      "start": 1382.0,
+      "end": 1387.0,
+      "speaker": "SPEAKER_01",
+      "text": "I know, but wasn't the market attractive part of the competitive landscape?"
+    },
+    {
+      "start": 1387.0,
+      "end": 1389.0,
+      "speaker": "SPEAKER_01",
+      "text": "I'm thinking about the meat up for buckets."
+    },
+    {
+      "start": 1389.0,
+      "end": 1390.0,
+      "speaker": "SPEAKER_00",
+      "text": "The buckets, the buckets."
+    },
+    {
+      "start": 1390.0,
+      "end": 1392.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, the second was the company capabilities."
+    },
+    {
+      "start": 1392.0,
+      "end": 1394.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understanding what we can sell."
+    },
+    {
+      "start": 1394.0,
+      "end": 1395.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1395.0,
+      "end": 1396.0,
+      "speaker": "SPEAKER_01",
+      "text": "The third one."
+    },
+    {
+      "start": 1396.0,
+      "end": 1397.0,
+      "speaker": "SPEAKER_00",
+      "text": "The one was the financial one."
+    },
+    {
+      "start": 1397.0,
+      "end": 1398.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understand it."
+    },
+    {
+      "start": 1398.0,
+      "end": 1401.0,
+      "speaker": "SPEAKER_00",
+      "text": "What the off-hand cost would be and also revenue and cost strivers."
+    },
+    {
+      "start": 1401.0,
+      "end": 1404.0,
+      "speaker": "SPEAKER_01",
+      "text": "Do we have the, the answer for that one already?"
+    },
+    {
+      "start": 1405.0,
+      "end": 1411.0,
+      "speaker": "SPEAKER_00",
+      "text": "I mean, we have our market size, which is 15% of 2.2 billion, which is the revenues."
+    },
+    {
+      "start": 1411.0,
+      "end": 1415.0,
+      "speaker": "SPEAKER_01",
+      "text": "But we also know that the market manager officer said, what are we going to do?"
+    },
+    {
+      "start": 1415.0,
+      "end": 1419.0,
+      "speaker": "SPEAKER_01",
+      "text": "We can sell, we can wait money out of it."
+    },
+    {
+      "start": 1419.0,
+      "end": 1420.0,
+      "speaker": "SPEAKER_00",
+      "text": "That is true."
+    },
+    {
+      "start": 1420.0,
+      "end": 1424.0,
+      "speaker": "SPEAKER_00",
+      "text": "I just don't necessarily understand what that would entail, what that means and say,"
+    },
+    {
+      "start": 1424.0,
+      "end": 1426.0,
+      "speaker": "SPEAKER_00",
+      "text": "like whatever we can make, we can sell."
+    },
+    {
+      "start": 1426.0,
+      "end": 1427.0,
+      "speaker": "SPEAKER_01",
+      "text": "What does that mean?"
+    },
+    {
+      "start": 1427.0,
+      "end": 1432.0,
+      "speaker": "SPEAKER_01",
+      "text": "That's we need to focus on your second bucket."
+    },
+    {
+      "start": 1432.0,
+      "end": 1434.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool, the capability is."
+    },
+    {
+      "start": 1434.0,
+      "end": 1435.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1435.0,
+      "end": 1438.0,
+      "speaker": "SPEAKER_01",
+      "text": "So let me give you some, some information."
+    },
+    {
+      "start": 1438.0,
+      "end": 1450.0,
+      "speaker": "SPEAKER_01",
+      "text": "So the client, they have manufacturing operations, both in Mexico and in the US."
+    },
+    {
+      "start": 1450.0,
+      "end": 1451.0,
+      "speaker": "SPEAKER_01",
+      "text": "Right?"
+    },
+    {
+      "start": 1451.0,
+      "end": 1458.0,
+      "speaker": "SPEAKER_01",
+      "text": "And they're, they're exploring to see if they can focus some of those manufacturing operations"
+    },
+    {
+      "start": 1458.0,
+      "end": 1464.0,
+      "speaker": "SPEAKER_01",
+      "text": "to actually focus on those glass bottles and try to take them to markets."
+    },
+    {
+      "start": 1464.0,
+      "end": 1469.0,
+      "speaker": "SPEAKER_01",
+      "text": "What are some factors or considerations that you would want to consider?"
+    },
+    {
+      "start": 1469.0,
+      "end": 1470.0,
+      "speaker": "UNKNOWN",
+      "text": "Cool."
+    },
+    {
+      "start": 1470.0,
+      "end": 1475.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I want to, we said that we have a manufacturing capabilities in both Mexico and the US."
+    },
+    {
+      "start": 1475.0,
+      "end": 1477.0,
+      "speaker": "SPEAKER_00",
+      "text": "And we want to focus on glass bottles."
+    },
+    {
+      "start": 1477.0,
+      "end": 1478.0,
+      "speaker": "SPEAKER_00",
+      "text": "Uh-huh."
+    },
+    {
+      "start": 1478.0,
+      "end": 1481.0,
+      "speaker": "SPEAKER_00",
+      "text": "But the first thing I would want to understand is when it comes to glass bottles,"
+    },
+    {
+      "start": 1481.0,
+      "end": 1487.0,
+      "speaker": "SPEAKER_00",
+      "text": "what percentage of manufacturing is being done in Mexico versus what percentage of manufacturing is being done in the US?"
+    },
+    {
+      "start": 1487.0,
+      "end": 1490.0,
+      "speaker": "SPEAKER_00",
+      "text": "Um, second thing, right?"
+    },
+    {
+      "start": 1490.0,
+      "end": 1491.0,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1491.0,
+      "end": 1492.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yep."
+    },
+    {
+      "start": 1492.0,
+      "end": 1493.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1493.0,
+      "end": 1500.0,
+      "speaker": "SPEAKER_00",
+      "text": "Second thing I want to look at is understand, uh, if we do produce the majority of our company,"
+    },
+    {
+      "start": 1500.0,
+      "end": 1507.0,
+      "speaker": "SPEAKER_00",
+      "text": "our manufacturing within the US, I would not understand what does it cost to sort of produce it in each country."
+    },
+    {
+      "start": 1507.0,
+      "end": 1509.0,
+      "speaker": "SPEAKER_00",
+      "text": "Like that is a cheaper to produce it in Mexico."
+    },
+    {
+      "start": 1509.0,
+      "end": 1510.0,
+      "speaker": "SPEAKER_00",
+      "text": "Is it cheaper to producing in the US?"
+    },
+    {
+      "start": 1510.0,
+      "end": 1512.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understanding the cost drivers for that."
+    },
+    {
+      "start": 1512.0,
+      "end": 1517.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understanding the direct labor, direct materials."
+    },
+    {
+      "start": 1517.0,
+      "end": 1525.0,
+      "speaker": "SPEAKER_00",
+      "text": "Uh, potentially some overhead understand like what's the cheapest way to produce this in order to make a profitable investment."
+    },
+    {
+      "start": 1525.0,
+      "end": 1530.0,
+      "speaker": "SPEAKER_00",
+      "text": "And also the third one that I would try to understand was would be the distribution model, right?"
+    },
+    {
+      "start": 1530.0,
+      "end": 1534.0,
+      "speaker": "SPEAKER_00",
+      "text": "We said that we manufacture and distribute our products."
+    },
+    {
+      "start": 1534.0,
+      "end": 1535.0,
+      "speaker": "SPEAKER_00",
+      "text": "So the distributed is on us."
+    },
+    {
+      "start": 1535.0,
+      "end": 1541.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I want to understand how much it costs us to distribute the products that we manufacture within Mexico."
+    },
+    {
+      "start": 1541.0,
+      "end": 1545.0,
+      "speaker": "SPEAKER_00",
+      "text": "To the US just because we're trying to expand within the continental US, right?"
+    },
+    {
+      "start": 1545.0,
+      "end": 1550.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understanding whether or not we will spend a lot of money if we invest in the cheap labor in Mexico,"
+    },
+    {
+      "start": 1550.0,
+      "end": 1552.0,
+      "speaker": "SPEAKER_00",
+      "text": "how much will it cost us to bring that shipping over there?"
+    },
+    {
+      "start": 1552.0,
+      "end": 1559.0,
+      "speaker": "SPEAKER_00",
+      "text": "So like any border control cost, any other additional cost about like truck drivers or anything else."
+    },
+    {
+      "start": 1559.0,
+      "end": 1560.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1560.0,
+      "end": 1561.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1561.0,
+      "end": 1562.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I will let's simplify the framework a bit, right?"
+    },
+    {
+      "start": 1562.0,
+      "end": 1572.0,
+      "speaker": "SPEAKER_01",
+      "text": "Because basically what we're there saying is, hey, we have this two potential options to manufacture, right?"
+    },
+    {
+      "start": 1572.0,
+      "end": 1576.0,
+      "speaker": "SPEAKER_01",
+      "text": "Then there are some cost considerations that need to go into it."
+    },
+    {
+      "start": 1576.0,
+      "end": 1578.0,
+      "speaker": "SPEAKER_01",
+      "text": "There are some additional considerations."
+    },
+    {
+      "start": 1578.0,
+      "end": 1579.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1579.0,
+      "end": 1581.0,
+      "speaker": "SPEAKER_01",
+      "text": "So we have cost."
+    },
+    {
+      "start": 1581.0,
+      "end": 1583.0,
+      "speaker": "SPEAKER_01",
+      "text": "We have additional considerations."
+    },
+    {
+      "start": 1583.0,
+      "end": 1587.0,
+      "speaker": "SPEAKER_01",
+      "text": "The first one that I don't know if you mentioned or not is, is there is capacity?"
+    },
+    {
+      "start": 1587.0,
+      "end": 1589.0,
+      "speaker": "SPEAKER_01",
+      "text": "Manufacturing capacity out of the two plants."
+    },
+    {
+      "start": 1589.0,
+      "end": 1591.0,
+      "speaker": "SPEAKER_01",
+      "text": "The answer is yes."
+    },
+    {
+      "start": 1591.0,
+      "end": 1592.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1592.0,
+      "end": 1596.0,
+      "speaker": "SPEAKER_01",
+      "text": "So you started touching on that a bit, but let's brainstorm."
+    },
+    {
+      "start": 1596.0,
+      "end": 1599.0,
+      "speaker": "SPEAKER_01",
+      "text": "What is the key cost that you will be evaluating, right?"
+    },
+    {
+      "start": 1599.0,
+      "end": 1604.0,
+      "speaker": "SPEAKER_01",
+      "text": "Let's say that you're the manager of the team and you need to assign each of the associates to focus on one of the areas."
+    },
+    {
+      "start": 1604.0,
+      "end": 1609.0,
+      "speaker": "SPEAKER_01",
+      "text": "So what are the cost pockets that you will be thinking of when comparing the two options?"
+    },
+    {
+      "start": 1609.0,
+      "end": 1610.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool."
+    },
+    {
+      "start": 1610.0,
+      "end": 1614.0,
+      "speaker": "SPEAKER_00",
+      "text": "So again, talking about the variable fixed cost starting off with the variable costs,"
+    },
+    {
+      "start": 1614.0,
+      "end": 1617.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would want to understand how much we're paying for labor."
+    },
+    {
+      "start": 1617.0,
+      "end": 1623.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understanding the wages per employee that we are trying to understand the cost of."
+    },
+    {
+      "start": 1623.0,
+      "end": 1628.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would understand the direct materials and whether or not there is disparity between the US and Mexico."
+    },
+    {
+      "start": 1628.0,
+      "end": 1630.0,
+      "speaker": "SPEAKER_00",
+      "text": "So what are some components that are going into it?"
+    },
+    {
+      "start": 1630.0,
+      "end": 1639.0,
+      "speaker": "SPEAKER_00",
+      "text": "What are some, like how much it costs us to sort of create one single unit of a sub bottle for the fixed cost."
+    },
+    {
+      "start": 1639.0,
+      "end": 1642.0,
+      "speaker": "SPEAKER_00",
+      "text": "We touched upon this for the capacity issue."
+    },
+    {
+      "start": 1642.0,
+      "end": 1646.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I would understand how much we're paying for rent, how much we're paying for administrative costs."
+    },
+    {
+      "start": 1646.0,
+      "end": 1647.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1647.0,
+      "end": 1652.0,
+      "speaker": "SPEAKER_00",
+      "text": "For all of this, administrative costs not as much as because we're trying to understand the cost of the sold here."
+    },
+    {
+      "start": 1652.0,
+      "end": 1660.0,
+      "speaker": "SPEAKER_00",
+      "text": "Based on my initial thoughts, but you're understanding the administration cost and also in the variable cost,"
+    },
+    {
+      "start": 1660.0,
+      "end": 1664.0,
+      "speaker": "SPEAKER_00",
+      "text": "I forgot to mention that we also need to take into account the distribution costs."
+    },
+    {
+      "start": 1664.0,
+      "end": 1669.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understand how much it costs us to distribute our products, distribute our."
+    },
+    {
+      "start": 1669.0,
+      "end": 1673.0,
+      "speaker": "SPEAKER_00",
+      "text": "Our products from the Mexico to the US or the US intercontinent, tell you."
+    },
+    {
+      "start": 1674.0,
+      "end": 1680.0,
+      "speaker": "SPEAKER_00",
+      "text": "And also the other thing I would like to consider, which is probably less important than the direct labor and direct materials and distribution,"
+    },
+    {
+      "start": 1680.0,
+      "end": 1688.0,
+      "speaker": "SPEAKER_00",
+      "text": "would be understanding how much it costs us to maintain the factors that we are trying to ensure that there is capacity."
+    },
+    {
+      "start": 1688.0,
+      "end": 1690.0,
+      "speaker": "SPEAKER_00",
+      "text": "We said that we have manufacturing capacity."
+    },
+    {
+      "start": 1690.0,
+      "end": 1692.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would understand how much capacity we have."
+    },
+    {
+      "start": 1692.0,
+      "end": 1696.0,
+      "speaker": "SPEAKER_00",
+      "text": "So like how many bottles we can actually create and take into the shelves."
+    },
+    {
+      "start": 1696.0,
+      "end": 1700.0,
+      "speaker": "SPEAKER_00",
+      "text": "And yeah, just to sum it up, those are the costs that I would like to begin to."
+    },
+    {
+      "start": 1700.0,
+      "end": 1705.0,
+      "speaker": "SPEAKER_01",
+      "text": "Alright, so here's the information that they came back with."
+    },
+    {
+      "start": 1705.0,
+      "end": 1710.0,
+      "speaker": "SPEAKER_01",
+      "text": "The cost, look at my numbers to make sure that I give you all the right information."
+    },
+    {
+      "start": 1710.0,
+      "end": 1711.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1711.0,
+      "end": 1717.0,
+      "speaker": "SPEAKER_01",
+      "text": "So the cost to manufacture the bottle in Mexico,"
+    },
+    {
+      "start": 1717.0,
+      "end": 1724.0,
+      "speaker": "SPEAKER_01",
+      "text": "and manufacturer includes direct and indirect and labor is ten cents a bottle."
+    },
+    {
+      "start": 1724.0,
+      "end": 1733.0,
+      "speaker": "SPEAKER_01",
+      "text": "The cost to manufacture, including the same components in the US is fifteen cents a bottle."
+    },
+    {
+      "start": 1733.0,
+      "end": 1734.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1734.0,
+      "end": 1748.0,
+      "speaker": "SPEAKER_01",
+      "text": "Then the cost to bring all the goods from Mexico pass through customs, put it in the same location that you will get it in the US is five cents a bottle."
+    },
+    {
+      "start": 1748.0,
+      "end": 1753.0,
+      "speaker": "SPEAKER_01",
+      "text": "Those are the only costs that need to be a part of this analysis."
+    },
+    {
+      "start": 1753.0,
+      "end": 1760.0,
+      "speaker": "SPEAKER_01",
+      "text": "So as I gave you this information, literally you wrap up your day, you get this in size, right?"
+    },
+    {
+      "start": 1760.0,
+      "end": 1766.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then the CEO of the company is saying, hey, I'm meeting with the board tomorrow and I want to look smart."
+    },
+    {
+      "start": 1766.0,
+      "end": 1775.0,
+      "speaker": "SPEAKER_01",
+      "text": "So can you prepare a recommendation based on what you know already so that at least I can give them some signal into if it's already or not?"
+    },
+    {
+      "start": 1775.0,
+      "end": 1776.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good."
+    },
+    {
+      "start": 1776.0,
+      "end": 1781.0,
+      "speaker": "SPEAKER_00",
+      "text": "Do you want to jump into the recommendation first or try to understand contextualize these numbers, see what they mean?"
+    },
+    {
+      "start": 1781.0,
+      "end": 1787.0,
+      "speaker": "SPEAKER_01",
+      "text": "Now they say, oh, just call, you're going to tell the CEO, hey, now let's talk tomorrow because he has to talk with the board."
+    },
+    {
+      "start": 1787.0,
+      "end": 1788.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool. Sounds good."
+    },
+    {
+      "start": 1788.0,
+      "end": 1794.0,
+      "speaker": "SPEAKER_00",
+      "text": "So the recommendation I would give is try to produce all the bottles that we can in the US."
+    },
+    {
+      "start": 1794.0,
+      "end": 1802.0,
+      "speaker": "SPEAKER_00",
+      "text": "First of all, just because we know that based on the cost information that was provided, I mean, let's take a step back."
+    },
+    {
+      "start": 1802.0,
+      "end": 1812.0,
+      "speaker": "SPEAKER_00",
+      "text": "So the recommendation is that it would be a good idea to expand this product within the US just because we found out that the market size is about 2.2 billion percent."
+    },
+    {
+      "start": 1812.0,
+      "end": 1822.0,
+      "speaker": "SPEAKER_00",
+      "text": "It's going at about 2% per year and also we have been seeing decreasing market share at 2%, but there are ways we can reverse that if we launch this."
+    },
+    {
+      "start": 1822.0,
+      "end": 1823.0,
+      "speaker": "SPEAKER_00",
+      "text": "If we're going to launching this venture."
+    },
+    {
+      "start": 1823.0,
+      "end": 1829.0,
+      "speaker": "SPEAKER_00",
+      "text": "So the way I would consider about doing this is first trying to understand where we want to manufacture these bottles."
+    },
+    {
+      "start": 1829.0,
+      "end": 1835.0,
+      "speaker": "SPEAKER_00",
+      "text": "First, that would, the recommendation that would be continue the operations in the US just because that provides about 15 cents per bottle."
+    },
+    {
+      "start": 1835.0,
+      "end": 1842.0,
+      "speaker": "SPEAKER_00",
+      "text": "And whenever we think about the Mexico distribution model that would provide 10 cents per bottle and also 5 cents per bottle per for distribution."
+    },
+    {
+      "start": 1842.0,
+      "end": 1844.0,
+      "speaker": "SPEAKER_00",
+      "text": "So it adds up about the same."
+    },
+    {
+      "start": 1844.0,
+      "end": 1852.0,
+      "speaker": "SPEAKER_00",
+      "text": "But whenever we think about the US model, we necessarily we don't necessarily exclude this other consideration that comes."
+    },
+    {
+      "start": 1852.0,
+      "end": 1858.0,
+      "speaker": "SPEAKER_00",
+      "text": "So political stability is one consideration that I'm thinking about that could be a risk if we do end up keeping things in Mexico."
+    },
+    {
+      "start": 1858.0,
+      "end": 1868.0,
+      "speaker": "SPEAKER_00",
+      "text": "Right. So there are a lot of border issue control. So politics can change every single day and there could be potentially a lot of instability when it comes to that."
+    },
+    {
+      "start": 1868.0,
+      "end": 1878.0,
+      "speaker": "SPEAKER_00",
+      "text": "Based on the recommendation, I would say that it does make sense to pursue this venture of expanding our glass bottles within the US and also keeping our operations within the US as much as possible."
+    },
+    {
+      "start": 1878.0,
+      "end": 1881.0,
+      "speaker": "SPEAKER_01",
+      "text": "All right. The COS."
+    },
+    {
+      "start": 1881.0,
+      "end": 1888.0,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks for the recommendation, but I believe that my chief marketing officer will kill me if we go with that solution."
+    },
+    {
+      "start": 1888.0,
+      "end": 1891.0,
+      "speaker": "SPEAKER_01",
+      "text": "Why do you think that is?"
+    },
+    {
+      "start": 1892.0,
+      "end": 1901.0,
+      "speaker": "SPEAKER_00",
+      "text": "The reason that I'm thinking about this is we've seen that the third player who was mostly targeting Hispanic superpress has been growing 30% gager and cager."
+    },
+    {
+      "start": 1901.0,
+      "end": 1913.0,
+      "speaker": "SPEAKER_00",
+      "text": "And when we think about public relations, moving our own capacity from Mexico to the US, which we might have more sort of connection to the Mexico landscape that could potentially be a reason for that."
+    },
+    {
+      "start": 1913.0,
+      "end": 1932.0,
+      "speaker": "SPEAKER_00",
+      "text": "But I guess ways to mitigate that we don't necessarily need to put the entire operations within the US. We can sort of keep it at a half and a half percentage and also conducts actually ways to mitigate that is like conduct customer service, understand what they would feel about their connection to our brand, how they like are how their loyalty is and what will determine is that loyalty."
+    },
+    {
+      "start": 1932.0,
+      "end": 1941.0,
+      "speaker": "SPEAKER_00",
+      "text": "So understanding what our customers really want from us and where is some room that we can play with whenever it comes to public relations would be good places to start."
+    },
+    {
+      "start": 1941.0,
+      "end": 1946.0,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect. Well, the CEO, thanks for your advice and then thanks for solving the case."
+    },
+    {
+      "start": 1946.0,
+      "end": 1948.0,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome. Perfect."
+    },
+    {
+      "start": 1948.0,
+      "end": 1951.0,
+      "speaker": "SPEAKER_01",
+      "text": "Great job, Edward. How do you feel?"
+    },
+    {
+      "start": 1951.0,
+      "end": 1959.0,
+      "speaker": "SPEAKER_00",
+      "text": "I feel good. I wish I had more time to sort of do some calculations about how much each bottle would make."
+    },
+    {
+      "start": 1959.0,
+      "end": 1970.0,
+      "speaker": "SPEAKER_00",
+      "text": "Like how much it cost us to produce each bottle and like was the break even point, but I guess, yeah, this was a very interesting case and like a very operationally focused, which is probably not something that I'm very used to but definitely a great experience for me."
+    },
+    {
+      "start": 1970.0,
+      "end": 1977.0,
+      "speaker": "SPEAKER_01",
+      "text": "Nice. Nice. Any questions that popped out of the case?"
+    },
+    {
+      "start": 1977.0,
+      "end": 1985.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I guess what I've tried kind of struggled with is like moving the case forward and trying to understand what you really want from me."
+    },
+    {
+      "start": 1985.0,
+      "end": 1992.0,
+      "speaker": "SPEAKER_00",
+      "text": "Whatever we move the case forward, so like do you have any advice in like how we can make sure that transitions are like more smooth or like more."
+    },
+    {
+      "start": 1992.0,
+      "end": 1994.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, make more sense."
+    },
+    {
+      "start": 1994.0,
+      "end": 2007.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, and I think you I mean, I've given this case probably more than 50 times and there's always a different path, but we always go around the same blocks."
+    },
+    {
+      "start": 2007.0,
+      "end": 2015.0,
+      "speaker": "SPEAKER_01",
+      "text": "I think you did a really good job with the structure. I can give you feedback, but specifically about to your question about when the case forward is."
+    },
+    {
+      "start": 2015.0,
+      "end": 2025.0,
+      "speaker": "SPEAKER_01",
+      "text": "You're structuring a set of hypothesis, right? And you need to be thinking about the hypothesis and if you have enough data to go solving from one to the other, right?"
+    },
+    {
+      "start": 2025.0,
+      "end": 2037.0,
+      "speaker": "SPEAKER_01",
+      "text": "If you feel that you are asking questions that get you to a third level of answer that might not change a lot of the trajectory of the way to solve the hypothesis and you're going into the."
+    },
+    {
+      "start": 2037.0,
+      "end": 2046.0,
+      "speaker": "SPEAKER_01",
+      "text": "I had to steer you back so so we don't go into much into the specific I believe that the questions that you ask on bear with other 60 people is."
+    },
+    {
+      "start": 2046.0,
+      "end": 2056.0,
+      "speaker": "SPEAKER_01",
+      "text": "They're very good. They're very structured, right? But for something you got to a level that was too deep to go to move on to the next component of the case."
+    },
+    {
+      "start": 2056.0,
+      "end": 2058.0,
+      "speaker": "SPEAKER_00",
+      "text": "I kept into the high level more."
+    },
+    {
+      "start": 2058.0,
+      "end": 2068.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I mean, basically, hey, is the market attractive? You reach a point where the market is growing, there are places that are there. We do also capabilities."
+    },
+    {
+      "start": 2068.0,
+      "end": 2081.0,
+      "speaker": "SPEAKER_01",
+      "text": "We can probably make an assumption that the market is attractive, right? And you can work with the interviewer to say like, this gives me enough, right? And then they can prompt you to say, but they're not going to analyze you for coming up with like, hey, I have enough data to come up with an access."
+    },
+    {
+      "start": 2081.0,
+      "end": 2091.0,
+      "speaker": "SPEAKER_01",
+      "text": "That also happened with the profitability, profitability question, right? Hey, we can do it. We can make money. That's a key for not our main focus, right?"
+    },
+    {
+      "start": 2091.0,
+      "end": 2100.0,
+      "speaker": "SPEAKER_01",
+      "text": "So you can always stay back to your hypothesis. That's it to confirm that seems to be confirming my hypothesis that that it is a profitable for the client."
+    },
+    {
+      "start": 2100.0,
+      "end": 2105.0,
+      "speaker": "SPEAKER_01",
+      "text": "Then you're a consideration you like the factory in such a right and you can show your brainstorm capability there."
+    },
+    {
+      "start": 2105.0,
+      "end": 2113.0,
+      "speaker": "SPEAKER_01",
+      "text": "But that way you can be gross enough hypothesis and just focus to what you need to solve the case."
+    },
+    {
+      "start": 2114.0,
+      "end": 2117.0,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect. Any other questions?"
+    },
+    {
+      "start": 2117.0,
+      "end": 2126.0,
+      "speaker": "SPEAKER_00",
+      "text": "No, would love to hear your feedback on like specific things that can improve like what was the strong points or what the weak points would love to make more about what you felt."
+    },
+    {
+      "start": 2127.0,
+      "end": 2134.0,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect. Now in terms of structure, I mean, I can easily tell that isn't that your first time doing this is another your first road you."
+    },
+    {
+      "start": 2135.0,
+      "end": 2147.0,
+      "speaker": "SPEAKER_01",
+      "text": "You did a good job at taking and structuring the buckets. I really like how you went to the next level and explained the structure, especially when I asked you to to a pressure tested the hypothesis with you."
+    },
+    {
+      "start": 2147.0,
+      "end": 2165.0,
+      "speaker": "SPEAKER_01",
+      "text": "Sometimes people struggle with that because they say revenue costs profitability, right? But you need to actually structure it as an answer to the clients as if it especially for everybody that is in the call when you're thinking about this buckets think about the storyline for a PowerPoint that you're going to be for the client."
+    },
+    {
+      "start": 2165.0,
+      "end": 2171.0,
+      "speaker": "SPEAKER_01",
+      "text": "So basically you want to structure like this because if you just put profitability then that's not a storyline that's just a bucket."
+    },
+    {
+      "start": 2172.0,
+      "end": 2180.0,
+      "speaker": "SPEAKER_01",
+      "text": "I already mentioned my feedback on going to leap into some areas, right, especially when you don't get enough."
+    },
+    {
+      "start": 2180.0,
+      "end": 2191.0,
+      "speaker": "SPEAKER_01",
+      "text": "The only parts that I think that I would say that that approach we approach different leads when you go into a recommendation, right?"
+    },
+    {
+      "start": 2191.0,
+      "end": 2197.0,
+      "speaker": "SPEAKER_01",
+      "text": "With this case, I always force the recommendation, but it's okay to take time to build a recommendation, right?"
+    },
+    {
+      "start": 2197.0,
+      "end": 2202.0,
+      "speaker": "SPEAKER_01",
+      "text": "The CEO is calling, but it's okay to take time to prepare the recommendation and put together."
+    },
+    {
+      "start": 2202.0,
+      "end": 2207.0,
+      "speaker": "SPEAKER_01",
+      "text": "There's one point that you miss that is, hey, the cost of manufacturing in the other is the same."
+    },
+    {
+      "start": 2207.0,
+      "end": 2216.0,
+      "speaker": "SPEAKER_01",
+      "text": "I mean, that virtually the costs are the same, but I don't believe that to be the best approach for the expired reason that you mentioned, right?"
+    },
+    {
+      "start": 2217.0,
+      "end": 2223.0,
+      "speaker": "SPEAKER_01",
+      "text": "In the end, you saw the case, you presented the red recommendation, you fact when you went and also another point is,"
+    },
+    {
+      "start": 2223.0,
+      "end": 2228.0,
+      "speaker": "SPEAKER_01",
+      "text": "you can also recap as if you're doing an executive summary, right?"
+    },
+    {
+      "start": 2228.0,
+      "end": 2231.0,
+      "speaker": "SPEAKER_01",
+      "text": "If you think about a PowerPoint, this is an executive summary, right?"
+    },
+    {
+      "start": 2231.0,
+      "end": 2237.0,
+      "speaker": "SPEAKER_01",
+      "text": "If you go to leap into a specific vulnerability recommendation to the CEO, you probably drifted a bit from that executive summary, right?"
+    },
+    {
+      "start": 2237.0,
+      "end": 2243.0,
+      "speaker": "SPEAKER_01",
+      "text": "So you might have missed a couple of the cues there, but our ally, I think you did a great job."
+    },
+    {
+      "start": 2243.0,
+      "end": 2249.0,
+      "speaker": "SPEAKER_01",
+      "text": "Compaired with all the 60 people that have gone through this, and this is my way to retire this case, right?"
+    },
+    {
+      "start": 2249.0,
+      "end": 2257.0,
+      "speaker": "SPEAKER_01",
+      "text": "I wanted to retire in glory or shame depending on if people liked it or not, but that's basically, that's a good idea."
+    }
+  ],
+  "grading": {
+    "communication": 10,
+    "framework": 8,
+    "math": 11,
+    "case_difficulty": 14,
+    "final_summary": 12,
+    "overall_thoughts": "The framework was good but could be improved with more context. Additionally, there were some minor errors in the math calculations that need to be corrected."
+  }
+}

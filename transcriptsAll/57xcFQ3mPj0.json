@@ -1,0 +1,1106 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.4,
+    "speaker": "SPEAKER_00",
+    "text": "Hey guys, and welcome back to another video. So if you clicked on this video, you're either a student who is looking to get into consulting"
+  },
+  {
+    "start": 6.4,
+    "end": 12.96,
+    "speaker": "SPEAKER_00",
+    "text": "or you're a professional who's currently working and maybe also interested in potentially making a lateral move into consulting in the future."
+  },
+  {
+    "start": 12.96,
+    "end": 18.44,
+    "speaker": "SPEAKER_00",
+    "text": "For those of you who don't know me, my name is Matt and I'm a current associate at BCG, which is a management consulting fund."
+  },
+  {
+    "start": 18.44,
+    "end": 27.12,
+    "speaker": "SPEAKER_00",
+    "text": "And today we're going to go through a BCG Round 2 case interview and I'm going to show you by walking you through step-by-step how I would solve this case."
+  },
+  {
+    "start": 27.12,
+    "end": 31.68,
+    "speaker": "SPEAKER_00",
+    "text": "So hopefully you can get a better idea of what to look for in a case interview."
+  },
+  {
+    "start": 31.68,
+    "end": 42.120000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "Now before we get into the case, I do want to say that for best results, you should take the time to attempt this case yourself before watching my explanation walk through"
+  },
+  {
+    "start": 42.120000000000005,
+    "end": 50.120000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "because that's really going to help you think through the case and really fully understand the context then just overall learn how to do this case better."
+  },
+  {
+    "start": 50.120000000000005,
+    "end": 56.120000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "But if it's your first time or maybe you're too intimidated to attempt the case yourself, then just keep watching. Let's get right into it."
+  },
+  {
+    "start": 56.12,
+    "end": 60.12,
+    "speaker": "SPEAKER_00",
+    "text": "So the case we're going to be doing today is called a Styrofoam situation."
+  },
+  {
+    "start": 60.12,
+    "end": 61.72,
+    "speaker": "SPEAKER_00",
+    "text": "And the prompt reads as follows."
+  },
+  {
+    "start": 61.72,
+    "end": 66.67999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Yorkline is the CEO of Cupco, a national supplier of Styrofoam cups to restaurants."
+  },
+  {
+    "start": 66.67999999999999,
+    "end": 73.56,
+    "speaker": "SPEAKER_00",
+    "text": "While profit has been steady, she is worried about the influx of cheaper products from China by a new competitor called Chalice"
+  },
+  {
+    "start": 73.56,
+    "end": 79.88,
+    "speaker": "SPEAKER_00",
+    "text": "and has called you in to give a recommendation on how to ensure continued profitability."
+  },
+  {
+    "start": 79.88,
+    "end": 87.24,
+    "speaker": "SPEAKER_00",
+    "text": "Now the first thing you always want to do when the prompt is being read to you is you want to take quick notes on the situation."
+  },
+  {
+    "start": 87.24,
+    "end": 91.96,
+    "speaker": "SPEAKER_00",
+    "text": "And after you take notes, you want to ask at least one or two clarifying questions."
+  },
+  {
+    "start": 91.96,
+    "end": 104.88,
+    "speaker": "SPEAKER_00",
+    "text": "Now the reason you want to ask clarifying questions is not just for your own understanding of the situation, but also because you want to demonstrate to the interviewer that you are thinking thoughtfully and that you are also listening to them."
+  },
+  {
+    "start": 104.88,
+    "end": 112.39999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "And so I'm going to just quickly write down some notes on my iPad to show you how I would do it."
+  },
+  {
+    "start": 112.39999999999999,
+    "end": 117.84,
+    "speaker": "SPEAKER_00",
+    "text": "So again, the client is Cupco. They make Styrofoam cups."
+  },
+  {
+    "start": 121.0,
+    "end": 123.0,
+    "speaker": "SPEAKER_00",
+    "text": "They are profitable."
+  },
+  {
+    "start": 126.75999999999999,
+    "end": 128.76,
+    "speaker": "SPEAKER_00",
+    "text": "But there's a new entrant."
+  },
+  {
+    "start": 129.2,
+    "end": 136.2,
+    "speaker": "SPEAKER_00",
+    "text": "Chalice. They are low cost competitor."
+  },
+  {
+    "start": 136.2,
+    "end": 140.67999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "And they are from China."
+  },
+  {
+    "start": 140.67999999999998,
+    "end": 149.39999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "And so now I'm going to come up with a few clarifying questions."
+  },
+  {
+    "start": 149.39999999999998,
+    "end": 156.6,
+    "speaker": "SPEAKER_00",
+    "text": "Now there's an unlimited amount of questions that you could ask to clarify this situation, but I'm just going to come up with a few for the purposes of this case."
+  },
+  {
+    "start": 157.07999999999998,
+    "end": 165.0,
+    "speaker": "SPEAKER_00",
+    "text": "So one that I can think of right off the bat is is Cupco only US based."
+  },
+  {
+    "start": 167.24,
+    "end": 174.84,
+    "speaker": "SPEAKER_00",
+    "text": "This is important because I want to understand is there potential for them to move into other countries or are they only looking to compete in the US market?"
+  },
+  {
+    "start": 175.88,
+    "end": 180.88,
+    "speaker": "SPEAKER_00",
+    "text": "I also want to understand have they tried anything?"
+  },
+  {
+    "start": 181.2,
+    "end": 187.51999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Or is this the first time that they're looking into this?"
+  },
+  {
+    "start": 187.51999999999998,
+    "end": 193.12,
+    "speaker": "SPEAKER_00",
+    "text": "Because if they've tried something, then maybe there is some additional data that already exists that would be helpful for us."
+  },
+  {
+    "start": 194.12,
+    "end": 198.04,
+    "speaker": "SPEAKER_00",
+    "text": "Now for the purposes of being thorough, I'll just come up with one more clarifying question."
+  },
+  {
+    "start": 199.64,
+    "end": 204.16,
+    "speaker": "SPEAKER_00",
+    "text": "And that could be something like just clarifying that they only serve restaurants."
+  },
+  {
+    "start": 204.16,
+    "end": 209.72,
+    "speaker": "SPEAKER_00",
+    "text": "So do they only serve restaurants?"
+  },
+  {
+    "start": 210.88,
+    "end": 217.12,
+    "speaker": "SPEAKER_00",
+    "text": "Because it could be interesting to see if there's potential for them to serve other types of businesses that need star from cups."
+  },
+  {
+    "start": 218.4,
+    "end": 223.96,
+    "speaker": "SPEAKER_00",
+    "text": "So the way I would present this to the interviewer is I would say, okay, great."
+  },
+  {
+    "start": 223.96,
+    "end": 225.96,
+    "speaker": "SPEAKER_00",
+    "text": "So it sounds like our client is Cupco."
+  },
+  {
+    "start": 225.96,
+    "end": 230.72,
+    "speaker": "SPEAKER_00",
+    "text": "They're a US based manufacturer of star from cups and they're profitable, which is great."
+  },
+  {
+    "start": 230.72,
+    "end": 239.07999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "But recently a newer lower cost player, Chalice has come in from China and now management is worried about the threat of this new entry."
+  },
+  {
+    "start": 239.08,
+    "end": 243.76000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "And so we've been brought in to really assess the potential threat, whether or not this is a threat really."
+  },
+  {
+    "start": 244.48000000000002,
+    "end": 246.28,
+    "speaker": "SPEAKER_00",
+    "text": "And what they can do in response to this."
+  },
+  {
+    "start": 247.0,
+    "end": 251.44,
+    "speaker": "SPEAKER_00",
+    "text": "And so a couple clarifying questions that I just had are, you know, is Cupco only US based?"
+  },
+  {
+    "start": 252.24,
+    "end": 254.92000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "And then the interviewer might say, yes, they're only US based."
+  },
+  {
+    "start": 254.92000000000002,
+    "end": 256.56,
+    "speaker": "SPEAKER_00",
+    "text": "No plans to expand internationally."
+  },
+  {
+    "start": 257.2,
+    "end": 262.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, great. Have they tried anything already to mitigate this threat or to address this or look into it?"
+  },
+  {
+    "start": 263.0,
+    "end": 265.16,
+    "speaker": "SPEAKER_00",
+    "text": "No. This is the reason why they're hiring you."
+  },
+  {
+    "start": 266.12,
+    "end": 270.68,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, great. Do they only serve restaurants or are there other types of businesses in their customer base?"
+  },
+  {
+    "start": 270.92,
+    "end": 273.96000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "No, right now they only serve restaurants and there's no plans to expand beyond that."
+  },
+  {
+    "start": 274.92,
+    "end": 277.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "However, based on your recommendation, things could change."
+  },
+  {
+    "start": 278.16,
+    "end": 281.04,
+    "speaker": "SPEAKER_00",
+    "text": "Cool. And so then I would say, great."
+  },
+  {
+    "start": 281.48,
+    "end": 284.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Can I just take 60 seconds to structure my thoughts?"
+  },
+  {
+    "start": 285.20000000000005,
+    "end": 287.04,
+    "speaker": "SPEAKER_00",
+    "text": "And the interviewer will say, yes."
+  },
+  {
+    "start": 287.48,
+    "end": 292.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "And that's your cue to kind of go ahead and start thinking through a framework for this case."
+  },
+  {
+    "start": 293.12,
+    "end": 299.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "Now, because this is a competitive business strategy case, I for the purposes of simplicity today,"
+  },
+  {
+    "start": 299.15999999999997,
+    "end": 302.96,
+    "speaker": "SPEAKER_00",
+    "text": "I'm going to be using the business situation framework from Victor Cheng."
+  },
+  {
+    "start": 303.67999999999995,
+    "end": 308.23999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "For those of you who don't know what that is, it basically consists of four buckets."
+  },
+  {
+    "start": 308.88,
+    "end": 312.91999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "Now the first bucket is going to be the competition."
+  },
+  {
+    "start": 315.03999999999996,
+    "end": 317.84,
+    "speaker": "SPEAKER_00",
+    "text": "The second bucket is going to be the company."
+  },
+  {
+    "start": 318.35999999999996,
+    "end": 322.35999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "The third bucket is going to be the customer."
+  },
+  {
+    "start": 323.35999999999996,
+    "end": 326.4,
+    "speaker": "SPEAKER_00",
+    "text": "And the fourth bucket is always the product."
+  },
+  {
+    "start": 328.08,
+    "end": 335.32,
+    "speaker": "SPEAKER_00",
+    "text": "And what you would do after this is you would then look into at least two or three key questions for each of these buckets."
+  },
+  {
+    "start": 335.79999999999995,
+    "end": 341.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "Basically, two or three key questions that you would want to learn a little bit more about in order to get a better understanding of the situation."
+  },
+  {
+    "start": 342.2,
+    "end": 344.2,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm just going to write a few down here."
+  },
+  {
+    "start": 345.2,
+    "end": 347.2,
+    "speaker": "SPEAKER_00",
+    "text": "And I'll explain them after I'm done."
+  },
+  {
+    "start": 348.52,
+    "end": 349.52,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 356.71999999999997,
+    "end": 357.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, great."
+  },
+  {
+    "start": 357.76,
+    "end": 361.32,
+    "speaker": "SPEAKER_00",
+    "text": "So now I'm going to walk you through my framework and I'll pretend that I'm interviewing."
+  },
+  {
+    "start": 361.59999999999997,
+    "end": 364.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "So if I was the interviewer, I would say, okay, great."
+  },
+  {
+    "start": 364.84,
+    "end": 371.08,
+    "speaker": "SPEAKER_00",
+    "text": "So broadly speaking, there are four buckets that I would want to dig a little bit deeper into to better understand the situation."
+  },
+  {
+    "start": 371.55999999999995,
+    "end": 374.0,
+    "speaker": "SPEAKER_00",
+    "text": "The first is going to be the competition."
+  },
+  {
+    "start": 374.4,
+    "end": 377.12,
+    "speaker": "SPEAKER_00",
+    "text": "The second is going to be the company itself."
+  },
+  {
+    "start": 377.44,
+    "end": 379.48,
+    "speaker": "SPEAKER_00",
+    "text": "The third is going to be the customer."
+  },
+  {
+    "start": 379.92,
+    "end": 383.32,
+    "speaker": "SPEAKER_00",
+    "text": "And the fourth is going to be understanding the product itself."
+  },
+  {
+    "start": 383.72,
+    "end": 385.92,
+    "speaker": "SPEAKER_00",
+    "text": "Now, I'll talk a little bit more about each of these buckets."
+  },
+  {
+    "start": 385.92,
+    "end": 389.84000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "So going back to the first bucket competition, here I want to understand two things."
+  },
+  {
+    "start": 389.92,
+    "end": 391.12,
+    "speaker": "SPEAKER_00",
+    "text": "First is the market."
+  },
+  {
+    "start": 391.6,
+    "end": 392.72,
+    "speaker": "SPEAKER_00",
+    "text": "How large is this market?"
+  },
+  {
+    "start": 392.8,
+    "end": 393.44,
+    "speaker": "SPEAKER_00",
+    "text": "Is it growing?"
+  },
+  {
+    "start": 393.44,
+    "end": 394.16,
+    "speaker": "SPEAKER_00",
+    "text": "Is it shrinking?"
+  },
+  {
+    "start": 394.44,
+    "end": 395.52,
+    "speaker": "SPEAKER_00",
+    "text": "Is it a massive market?"
+  },
+  {
+    "start": 395.52,
+    "end": 396.68,
+    "speaker": "SPEAKER_00",
+    "text": "Is it a very small market?"
+  },
+  {
+    "start": 397.64,
+    "end": 400.0,
+    "speaker": "SPEAKER_00",
+    "text": "Also, I want to understand who the competitors are."
+  },
+  {
+    "start": 400.64,
+    "end": 405.16,
+    "speaker": "SPEAKER_00",
+    "text": "Is this a market that is highly fragmented, which means there's many, many tiny players?"
+  },
+  {
+    "start": 405.76000000000005,
+    "end": 412.52000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "Or is it a market that's dominated by a few very large competitors, which would make it very difficult for a new entry to play?"
+  },
+  {
+    "start": 412.96000000000004,
+    "end": 420.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Moving to the second bucket, the company itself, here I just want to better understand where the company's key differentiators, their key strengths lie."
+  },
+  {
+    "start": 420.8,
+    "end": 421.72,
+    "speaker": "SPEAKER_00",
+    "text": "What are they really good at?"
+  },
+  {
+    "start": 421.72,
+    "end": 423.04,
+    "speaker": "SPEAKER_00",
+    "text": "Is it their supply chain?"
+  },
+  {
+    "start": 423.40000000000003,
+    "end": 424.84000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Is it their R&D?"
+  },
+  {
+    "start": 425.04,
+    "end": 425.88,
+    "speaker": "SPEAKER_00",
+    "text": "Their design team?"
+  },
+  {
+    "start": 426.20000000000005,
+    "end": 429.68,
+    "speaker": "SPEAKER_00",
+    "text": "Is it their ability to have really strong relationships with vendors?"
+  },
+  {
+    "start": 430.16,
+    "end": 432.0,
+    "speaker": "SPEAKER_00",
+    "text": "And also, what are their financials?"
+  },
+  {
+    "start": 432.12,
+    "end": 441.28,
+    "speaker": "SPEAKER_00",
+    "text": "Now, we understand that the company is currently profitable, but is there anything more important here to consider that would influence their ability to potentially say lower prices to match their competitors?"
+  },
+  {
+    "start": 441.92,
+    "end": 445.92,
+    "speaker": "SPEAKER_00",
+    "text": "Thirdly, with the customer bucket, here I really want to understand what do customers care about?"
+  },
+  {
+    "start": 445.92,
+    "end": 446.92,
+    "speaker": "SPEAKER_00",
+    "text": "What are their preferences?"
+  },
+  {
+    "start": 447.44,
+    "end": 450.92,
+    "speaker": "SPEAKER_00",
+    "text": "Do they desire one sort of cup over another?"
+  },
+  {
+    "start": 451.56,
+    "end": 456.84,
+    "speaker": "SPEAKER_00",
+    "text": "Because maybe there's something about our cup that is hopefully better than the cheaper lower cost competitors cup."
+  },
+  {
+    "start": 458.16,
+    "end": 459.76,
+    "speaker": "SPEAKER_00",
+    "text": "Also, what is their price elasticity?"
+  },
+  {
+    "start": 460.32,
+    "end": 466.96,
+    "speaker": "SPEAKER_00",
+    "text": "Because if we're going to try and lower prices, how is that going to influence the demand for our product?"
+  },
+  {
+    "start": 467.36,
+    "end": 471.84,
+    "speaker": "SPEAKER_00",
+    "text": "Conversely, if we increase our prices, how many of our customers will stop buying from us?"
+  },
+  {
+    "start": 473.4,
+    "end": 488.28,
+    "speaker": "SPEAKER_00",
+    "text": "Finally, with the product bucket, here I want to understand the unit economics, the unit price, unit cost, unit profit for both our competitor, chalice and cupco to understand what our unit profitability looks like, as well as any potential differentiators about our product."
+  },
+  {
+    "start": 488.52,
+    "end": 490.35999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "Is this a relatively commoditized product?"
+  },
+  {
+    "start": 490.35999999999996,
+    "end": 493.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "Meaning that anyone can produce it, and so there's very little differentiation."
+  },
+  {
+    "start": 494.2,
+    "end": 499.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "Or is it a product where you can really differentiate and justify charging a higher price?"
+  },
+  {
+    "start": 499.84,
+    "end": 502.84,
+    "speaker": "SPEAKER_00",
+    "text": "So that's how I would walk the interviewer through my framework."
+  },
+  {
+    "start": 503.11999999999995,
+    "end": 516.28,
+    "speaker": "SPEAKER_00",
+    "text": "Now, before we keep going, I want to note that the business situation framework is very helpful framework, especially if you are a beginner, because it gives you a set of structured buckets and areas that will help solve like 90% of cases."
+  },
+  {
+    "start": 516.4399999999999,
+    "end": 521.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Now, one caveat is that it only works with business strategy situations."
+  },
+  {
+    "start": 521.28,
+    "end": 530.8399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So for example, you can't use this framework if you are being given a case about like nonprofits or some topic that is completely unrelated to business and competitive strategy."
+  },
+  {
+    "start": 530.88,
+    "end": 540.88,
+    "speaker": "SPEAKER_00",
+    "text": "Also, you shouldn't try to anchor on this framework for every single case because there are going to be certain cases that will require you to adapt this framework or use a completely different framework to begin with."
+  },
+  {
+    "start": 541.24,
+    "end": 547.4,
+    "speaker": "SPEAKER_00",
+    "text": "But this is a good one for those of you who are just learning and don't really know where to start because it's a very strong foundation."
+  },
+  {
+    "start": 547.88,
+    "end": 558.32,
+    "speaker": "SPEAKER_00",
+    "text": "So usually from this point, what happens is the interviewer will either suggest that you look into a certain area of the framework or they will ask you where in this framework you want to start first."
+  },
+  {
+    "start": 558.6,
+    "end": 567.44,
+    "speaker": "SPEAKER_00",
+    "text": "Now, if the latter is what happens, then you want to basically choose the bucket in your framework that you feel most compelled by that you think is going to be most important."
+  },
+  {
+    "start": 567.72,
+    "end": 577.4000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Fully understanding that the goal here would be to go through every single bucket in the framework until you eventually hit the key insight that's going to drive your recommendation."
+  },
+  {
+    "start": 577.84,
+    "end": 583.6400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So in this situation, let's just say that I am very interested in understanding the unit economics of the product."
+  },
+  {
+    "start": 583.84,
+    "end": 591.0,
+    "speaker": "SPEAKER_00",
+    "text": "Like how much does it actually cost each of these businesses to produce a cup and what are they charging for these cups? Right?"
+  },
+  {
+    "start": 591.4,
+    "end": 595.36,
+    "speaker": "SPEAKER_00",
+    "text": "So I would say, okay, well, I want to understand the product a little bit more."
+  },
+  {
+    "start": 595.36,
+    "end": 600.0,
+    "speaker": "SPEAKER_00",
+    "text": "Do we have any information related to either the unit economics or the product itself?"
+  },
+  {
+    "start": 600.4,
+    "end": 605.2,
+    "speaker": "SPEAKER_00",
+    "text": "And fortunately for me, there is some data here in Exhibit One. We can take a look."
+  },
+  {
+    "start": 606.08,
+    "end": 612.76,
+    "speaker": "SPEAKER_00",
+    "text": "I'll also write it down and we have a table that's giving us the unit price and unit costs for each of these companies."
+  },
+  {
+    "start": 613.04,
+    "end": 620.2,
+    "speaker": "SPEAKER_00",
+    "text": "Now, the first thing you want to do whenever you are given an exhibit like this is you want to take maybe five seconds to look at it."
+  },
+  {
+    "start": 620.6,
+    "end": 626.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then you want to start by giving your initial reactions, like literally talk out loud to the interviewer."
+  },
+  {
+    "start": 626.2,
+    "end": 631.0,
+    "speaker": "SPEAKER_00",
+    "text": "Even if you don't know what the big insight is yet, you want to talk out loud and give them your reaction."
+  },
+  {
+    "start": 631.2,
+    "end": 633.2,
+    "speaker": "SPEAKER_00",
+    "text": "So they understand what's going on in your mind."
+  },
+  {
+    "start": 633.2,
+    "end": 641.2,
+    "speaker": "SPEAKER_00",
+    "text": "And that's also much better than just having an awkward silence where you're just by jesting the data and trying to think of some like super witty or super smart insightful thing to say."
+  },
+  {
+    "start": 641.6,
+    "end": 644.24,
+    "speaker": "SPEAKER_00",
+    "text": "So what I might tell the interviewer is, okay, great."
+  },
+  {
+    "start": 644.24,
+    "end": 660.04,
+    "speaker": "SPEAKER_00",
+    "text": "So it looks like we have the unit price and unit cost for a cupco and chalice and right off the bat, I can see that the price for a cupco is 10 cents per unit, where his chalice is only charging seven cents per unit."
+  },
+  {
+    "start": 661.84,
+    "end": 671.84,
+    "speaker": "SPEAKER_00",
+    "text": "Now, that's not a surprise because we knew that chalice was a lower cost competitor, but what's also interesting is the cost structure because it looks like cupco has seven dollars in manufacturing"
+  },
+  {
+    "start": 672.24,
+    "end": 679.64,
+    "speaker": "SPEAKER_00",
+    "text": "or seven cents rather in manufacturing and shipping costs, but chalice incurs an additional two cents in distribution costs per unit."
+  },
+  {
+    "start": 680.24,
+    "end": 685.44,
+    "speaker": "SPEAKER_00",
+    "text": "So actually, chalice is operating at a loss."
+  },
+  {
+    "start": 691.44,
+    "end": 697.64,
+    "speaker": "SPEAKER_00",
+    "text": "Now, immediately there should be alarm bells going off in your head. You should be wondering why this is the case, right?"
+  },
+  {
+    "start": 697.84,
+    "end": 703.64,
+    "speaker": "SPEAKER_00",
+    "text": "Why would a business knowingly operate at a unit loss for every unit that they're selling?"
+  },
+  {
+    "start": 704.36,
+    "end": 720.04,
+    "speaker": "SPEAKER_00",
+    "text": "And right off the bat, the first thing that comes to my mind, at least, is market entry and maybe they're trying to do some sort of loss leader strategy where they are deliberately charging a much lower price in the existing competition in order to gain a foothold into the market."
+  },
+  {
+    "start": 720.4399999999999,
+    "end": 731.24,
+    "speaker": "SPEAKER_00",
+    "text": "Now, this definitely isn't a sustainable strategy for them to continue losing money, but just thinking through why this might be the case and thinking aloud to your interviewer is going to really help you do well in this case."
+  },
+  {
+    "start": 732.04,
+    "end": 741.04,
+    "speaker": "SPEAKER_00",
+    "text": "Another observation that you should be thinking about is on the price side, what would happen if cupco lowers their prices to match chalice, right?"
+  },
+  {
+    "start": 741.4399999999999,
+    "end": 760.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "And we can see right off the bat that this is not really feasible because if they were to lower their price to seven cents per unit, then they would be making zero profit. And again, we have to keep in mind the whole case from the beginning is based on how can we maintain profitability while still establishing our competitive position."
+  },
+  {
+    "start": 761.44,
+    "end": 770.44,
+    "speaker": "SPEAKER_00",
+    "text": "So making zero profit is not an option. Now, at this point, you want to stop and let the interviewer give you their reaction to your findings."
+  },
+  {
+    "start": 770.44,
+    "end": 784.44,
+    "speaker": "SPEAKER_00",
+    "text": "And one mistake I see a lot of students do is they tend to ramble on and on in a case because they're nervous and they sometimes when they don't know what the answer is, they think that by talking for a long time, they'll eventually get to the right answer."
+  },
+  {
+    "start": 784.44,
+    "end": 792.44,
+    "speaker": "SPEAKER_00",
+    "text": "But the problem here is that the interviewer is often going to give you very valuable feedback on whether or not you're going in the right direction or not."
+  },
+  {
+    "start": 792.44,
+    "end": 799.44,
+    "speaker": "SPEAKER_00",
+    "text": "And so if you don't give them the chance to speak and just redirect you, then you're basically shooting yourself in the foot."
+  },
+  {
+    "start": 799.44,
+    "end": 807.44,
+    "speaker": "SPEAKER_00",
+    "text": "A lot of interviewers, they want you to succeed. And so you guys should really stop after you give your general observation and ask them, like, does this sound good to you?"
+  },
+  {
+    "start": 807.44,
+    "end": 814.44,
+    "speaker": "SPEAKER_00",
+    "text": "And so they'll often give you some super helpful feedback battle either confirm or disprove the direction that you're headed in."
+  },
+  {
+    "start": 814.44,
+    "end": 822.44,
+    "speaker": "SPEAKER_00",
+    "text": "And that's going to help you avoid awkward situations where you do a ton of math or you do a ton of thinking and you basically just go down the completely wrong path of the case and you don't even end up at the answer or you end up at a completely incorrect answer."
+  },
+  {
+    "start": 822.44,
+    "end": 828.44,
+    "speaker": "SPEAKER_00",
+    "text": "So always pause after each section of the case and you're going to get a lot of feedback from the interviewer."
+  },
+  {
+    "start": 828.44,
+    "end": 843.44,
+    "speaker": "SPEAKER_00",
+    "text": "So let's say that in this case scenario, they agree with me but there's no further learnings from this. And so I go back to my framework and I say, OK, I want to understand a little bit more than the customer."
+  },
+  {
+    "start": 843.44,
+    "end": 855.44,
+    "speaker": "SPEAKER_00",
+    "text": "So do we have any information on the customer preferences or perhaps their price elasticity? And here the interviewer will say, yes, I'm going to say, I'm going to get a lot of feedback from the interviewer."
+  },
+  {
+    "start": 855.44,
+    "end": 867.44,
+    "speaker": "SPEAKER_00",
+    "text": "And here the interviewer will say, yes, we actually do have exhibit two here, which is from a prior market study that we conducted where we surveyed a bunch of our customers and we've learned about their preferences."
+  },
+  {
+    "start": 867.44,
+    "end": 877.44,
+    "speaker": "SPEAKER_00",
+    "text": "And so right off the bat, again, you want to react to this. So how I would do this is I would maybe say something like, OK, well, this is really interesting."
+  },
+  {
+    "start": 877.44,
+    "end": 897.44,
+    "speaker": "SPEAKER_00",
+    "text": "It looks like based on my initial read that service reliability is by and far the number one criteria for customers far beyond even things like pricing design."
+  },
+  {
+    "start": 897.44,
+    "end": 907.44,
+    "speaker": "SPEAKER_00",
+    "text": "And even better is the fact that we excel in service reliability. It looks like we have an eight whereas chalice has a six on a service reliability score."
+  },
+  {
+    "start": 907.44,
+    "end": 916.44,
+    "speaker": "SPEAKER_00",
+    "text": "And so this is really, really great news for us because it means that we actually do have an edge on our competitor on a dimension that customers really do care about."
+  },
+  {
+    "start": 917.44,
+    "end": 931.44,
+    "speaker": "SPEAKER_00",
+    "text": "So then from this point, you want to get the interviewer's reaction and what they should do is they should recommend that you move into the next phase of the case, which is a brainstorming portion."
+  },
+  {
+    "start": 931.44,
+    "end": 943.44,
+    "speaker": "SPEAKER_00",
+    "text": "And the way that they would do this is they would say something along the lines of, OK, so then why don't you come up with a few ideas for what cupco can do in response to chalice now based on the findings from today."
+  },
+  {
+    "start": 943.44,
+    "end": 948.44,
+    "speaker": "SPEAKER_00",
+    "text": "And that's your cue to really start the brainstorming session. And don't be afraid to take a little bit of time."
+  },
+  {
+    "start": 948.44,
+    "end": 956.44,
+    "speaker": "SPEAKER_00",
+    "text": "What I've done in the past is I've asked for 30 seconds to think through a couple good ideas and most people are completely fine with that."
+  },
+  {
+    "start": 956.44,
+    "end": 965.44,
+    "speaker": "SPEAKER_00",
+    "text": "So don't feel the need to just completely jump right in, especially if you have nothing in your mind at the moment and you really need some time to really think through some good answers."
+  },
+  {
+    "start": 965.44,
+    "end": 970.44,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm just going to do this now out loud."
+  },
+  {
+    "start": 970.44,
+    "end": 975.44,
+    "speaker": "SPEAKER_00",
+    "text": "And I'm just going to throw a few ideas down here."
+  },
+  {
+    "start": 985.44,
+    "end": 993.44,
+    "speaker": "SPEAKER_00",
+    "text": "OK, great. So now I'm just going to walk you through a few ideas that have come up with that I think would make sense based on what we've learned today."
+  },
+  {
+    "start": 993.44,
+    "end": 999.44,
+    "speaker": "SPEAKER_00",
+    "text": "So the first is really leaning into the service strength that we have as a business."
+  },
+  {
+    "start": 999.44,
+    "end": 1014.44,
+    "speaker": "SPEAKER_00",
+    "text": "Now some potential ways that we could do this are something like offering expedited shipping services like two day shipping if we don't do that already and really leverage our stronger supply chain and service reliability to offer a superior customer experience than our competitors can."
+  },
+  {
+    "start": 1015.44,
+    "end": 1029.44,
+    "speaker": "SPEAKER_00",
+    "text": "And also really leaning in when it comes to sales and marketing when we're trying to acquire new customers really demonstrating to them that hey look our current customers are super satisfied with our service reliability and therefore we can offer that to you as well."
+  },
+  {
+    "start": 1029.44,
+    "end": 1034.44,
+    "speaker": "SPEAKER_00",
+    "text": "And I think that could be a really compelling value proposition to win new customers."
+  },
+  {
+    "start": 1034.44,
+    "end": 1051.44,
+    "speaker": "SPEAKER_00",
+    "text": "A second idea that I had is we could potentially lower price. Now yes, this would cut into profits, but I'm not suggesting that we lower prices to match chalice instead if we lower price by a smaller margin we might be able to capture a greater share of the existing market."
+  },
+  {
+    "start": 1051.44,
+    "end": 1056.44,
+    "speaker": "SPEAKER_00",
+    "text": "Finally, we can also create longer term contracts with our existing customers."
+  },
+  {
+    "start": 1056.44,
+    "end": 1068.44,
+    "speaker": "SPEAKER_00",
+    "text": "Now the reason why this is a good idea and this is a little less obvious is that if we are currently doing very well with our current customers then we might be able to renegotiate our contracts with them so that they're locked in for a longer period of time."
+  },
+  {
+    "start": 1068.44,
+    "end": 1080.44,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe instead of five years it's seven years and so this is going to provide a larger moat because for seven years our customers aren't going to switch over and go to the lower cost competitor."
+  },
+  {
+    "start": 1080.44,
+    "end": 1090.44,
+    "speaker": "SPEAKER_00",
+    "text": "Now one thing that I've found is sometimes interviewers will press you a little bit more and they'll say anything else and they'll try to get you to think really hard about any additional ideas."
+  },
+  {
+    "start": 1090.44,
+    "end": 1099.44,
+    "speaker": "SPEAKER_00",
+    "text": "And so don't panic if you get asked this but just take a deep breath and really think through any possible other ideas that you can think of for the brainstorming session."
+  },
+  {
+    "start": 1099.44,
+    "end": 1109.44,
+    "speaker": "SPEAKER_00",
+    "text": "But after this you move to the last portion of the case which is going to be the synthesis and now the way this typically goes is the interviewer will tell you okay great."
+  },
+  {
+    "start": 1109.44,
+    "end": 1123.44,
+    "speaker": "SPEAKER_00",
+    "text": "So now let's imagine that the CEO of CupCo is down the hall and she's walking towards the conference room where you and your team are currently working and in about 30 seconds she's going to ask you to provide a recommendation based on your findings today."
+  },
+  {
+    "start": 1123.44,
+    "end": 1134.44,
+    "speaker": "SPEAKER_00",
+    "text": "How would you do that? And so you as the interviewer will then take about 30 seconds to come up with your recommendation and there's a helpful structure that I like to use whenever I'm doing synthesis at the end of the case."
+  },
+  {
+    "start": 1134.44,
+    "end": 1146.44,
+    "speaker": "SPEAKER_00",
+    "text": "The first is you know context. The second is findings. The third is recommendation."
+  },
+  {
+    "start": 1149.44,
+    "end": 1159.44,
+    "speaker": "SPEAKER_00",
+    "text": "The fourth is any potential risks and the fifth and final step is potential next steps."
+  },
+  {
+    "start": 1160.44,
+    "end": 1171.44,
+    "speaker": "SPEAKER_00",
+    "text": "And what I find is a lot of people actually miss this last step here but if you remember it it's a very good way to differentiate yourself from the competition."
+  },
+  {
+    "start": 1171.44,
+    "end": 1180.44,
+    "speaker": "SPEAKER_00",
+    "text": "And so I would take about 30 seconds to quickly review your notes and really recall what the most important findings were from the case before you give this recommendation."
+  },
+  {
+    "start": 1181.44,
+    "end": 1191.44,
+    "speaker": "SPEAKER_00",
+    "text": "And an example of how I might give this recommendation is I would say great thanks for joining us. As you know we're currently working on understanding the competitive threat that chalice faces."
+  },
+  {
+    "start": 1191.44,
+    "end": 1201.44,
+    "speaker": "SPEAKER_00",
+    "text": "And today what we've found is that our competitor chalice is actually operating at a unit loss for every unit that they're selling whereas we are currently operating at a profit which is great news."
+  },
+  {
+    "start": 1202.44,
+    "end": 1210.44,
+    "speaker": "SPEAKER_00",
+    "text": "Additionally another key finding from our customer research was that customers actually really value service reliability over things like price or design."
+  },
+  {
+    "start": 1210.44,
+    "end": 1218.44,
+    "speaker": "SPEAKER_00",
+    "text": "And we are fortunately very strong on service reliability and we've rated quite high much higher actually than our competitors on this dimension."
+  },
+  {
+    "start": 1218.44,
+    "end": 1230.44,
+    "speaker": "SPEAKER_00",
+    "text": "And so given these findings what we actually recommend is not doing any sort of dramatic changes to the business but rather exploring the potential for some strategic moves like maybe lowering prices by a slight amount or really leaning into our company."
+  },
+  {
+    "start": 1231.44,
+    "end": 1240.44,
+    "speaker": "SPEAKER_00",
+    "text": "And so we're looking at our service reliability aspect when it comes to things like sales and marketing or improving the existing customer experience by offering things like two days shipping for example."
+  },
+  {
+    "start": 1240.44,
+    "end": 1260.44,
+    "speaker": "SPEAKER_00",
+    "text": "Now there are obviously some risks to things like lowering price as that would cut into our margins but as a potential next step to better understand the opportunity there we would really like to do some additional customer research on price elasticity and just further explore the opportunity that lies within leaning into our logistics and our service reliability strengths."
+  },
+  {
+    "start": 1260.44,
+    "end": 1270.44,
+    "speaker": "SPEAKER_00",
+    "text": "So that's the case and that was just one way to solve this case. There are many other correct ways to do this. That's just how I would have done it."
+  },
+  {
+    "start": 1270.44,
+    "end": 1281.44,
+    "speaker": "SPEAKER_00",
+    "text": "And I do want to caveat that casing is really a skill that you develop over time and the only way to get better is to get more reps but also to get good feedback from people who know what they're doing."
+  },
+  {
+    "start": 1281.44,
+    "end": 1295.44,
+    "speaker": "SPEAKER_00",
+    "text": "One of my biggest recommendations for folks who are trying to develop their casing skills is to case with friends who are going to maybe internet consulting firms as well as casing with existing consultants that you have networked with because that feedback is really going to help you improve much quicker."
+  },
+  {
+    "start": 1295.44,
+    "end": 1304.44,
+    "speaker": "SPEAKER_00",
+    "text": "But anyways if you found this helpful make sure to hit the like and subscribe button if you haven't already and let me know in the comments below if you have any questions or any suggestions for future content."
+  },
+  {
+    "start": 1304.44,
+    "end": 1307.44,
+    "speaker": "SPEAKER_00",
+    "text": "And as always I'll see you guys in the next one. Peace."
+  }
+]

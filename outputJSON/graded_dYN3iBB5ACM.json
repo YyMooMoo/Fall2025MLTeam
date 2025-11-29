@@ -1,0 +1,1710 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "speaker": "SPEAKER_04",
+      "text": "Welcome to this BCG Mark interview video. I'm about to start interviewing Giro who"
+    },
+    {
+      "start": 5.5,
+      "end": 9.9,
+      "speaker": "SPEAKER_04",
+      "text": "spent close to five years at BCG and has run more than 200 interviews and"
+    },
+    {
+      "start": 9.9,
+      "end": 14.46,
+      "speaker": "SPEAKER_04",
+      "text": "interview coaching sessions. When he was at BCG Giro also trained new"
+    },
+    {
+      "start": 14.46,
+      "end": 18.38,
+      "speaker": "SPEAKER_04",
+      "text": "interviewers and so he knows exactly what the fam is looking for in candidates."
+    },
+    {
+      "start": 18.38,
+      "end": 22.62,
+      "speaker": "SPEAKER_04",
+      "text": "So if you're preparing for BCG or for case interviews in general you're in"
+    },
+    {
+      "start": 22.62,
+      "end": 26.66,
+      "speaker": "SPEAKER_04",
+      "text": "the right place. Hi Giro do you want to introduce yourself before we get started?"
+    },
+    {
+      "start": 26.66,
+      "end": 31.72,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah sure thanks very much for having me Max. I'm honored to be here. I just left"
+    },
+    {
+      "start": 31.72,
+      "end": 37.44,
+      "speaker": "SPEAKER_00",
+      "text": "BCG in December so quite recently and at BCG I was quite heavily engaged in"
+    },
+    {
+      "start": 37.44,
+      "end": 41.78,
+      "speaker": "SPEAKER_00",
+      "text": "internal coaching and training and of course recruiting and now having made"
+    },
+    {
+      "start": 41.78,
+      "end": 47.18,
+      "speaker": "SPEAKER_00",
+      "text": "that my full-time profession. I really enjoy teaching candidates how to truly"
+    },
+    {
+      "start": 47.18,
+      "end": 52.32,
+      "speaker": "SPEAKER_00",
+      "text": "think like a consultant and to attack different kinds of problems in a"
+    },
+    {
+      "start": 52.32,
+      "end": 56.260000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "structured way. So I'm happy that this video will help our candidates with that."
+    },
+    {
+      "start": 56.26,
+      "end": 63.22,
+      "speaker": "SPEAKER_04",
+      "text": "I'm eager to get started with the case. Cool let's go. Alright so your friend is"
+    },
+    {
+      "start": 63.22,
+      "end": 72.16,
+      "speaker": "SPEAKER_04",
+      "text": "an inventor and he has invented a machine for textile manufacturing and so"
+    },
+    {
+      "start": 72.16,
+      "end": 80.34,
+      "speaker": "SPEAKER_04",
+      "text": "his machine basically takes recycled textile fibers and turns them into yarn."
+    },
+    {
+      "start": 80.74000000000001,
+      "end": 87.3,
+      "speaker": "SPEAKER_04",
+      "text": "And he's launched his machine in the UK market for the first time about a year"
+    },
+    {
+      "start": 87.3,
+      "end": 92.5,
+      "speaker": "SPEAKER_04",
+      "text": "ago and it's doing less well than he was expecting. He's selling less machine"
+    },
+    {
+      "start": 92.5,
+      "end": 96.98,
+      "speaker": "SPEAKER_04",
+      "text": "than he was initially expecting. So he gives you a call and asks you to helping"
+    },
+    {
+      "start": 96.98,
+      "end": 105.26,
+      "speaker": "SPEAKER_04",
+      "text": "figure out what's going on and to turn things around. Okay. Thank you very much."
+    },
+    {
+      "start": 105.26,
+      "end": 109.7,
+      "speaker": "SPEAKER_00",
+      "text": "That's an interesting case. I would like to quickly quickly go over what I"
+    },
+    {
+      "start": 109.7,
+      "end": 115.14,
+      "speaker": "SPEAKER_00",
+      "text": "understood to make sure I got everything right here. Okay. Cool. So when first"
+    },
+    {
+      "start": 115.14,
+      "end": 120.74000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "of all it's interesting our friend apparently is he's an inventor and I"
+    },
+    {
+      "start": 120.74000000000001,
+      "end": 127.86,
+      "speaker": "SPEAKER_00",
+      "text": "understood he has invented a machine for textile manufacturing. So producing"
+    },
+    {
+      "start": 127.86,
+      "end": 133.62,
+      "speaker": "SPEAKER_00",
+      "text": "closes essentially. But the machine essentially takes fibers and and"
+    },
+    {
+      "start": 133.62,
+      "end": 138.98000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "creates yarn out of it. Okay, like cotton fibers and so on. Recycled fibers"
+    },
+    {
+      "start": 138.98,
+      "end": 145.29999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "apparently. And I understood he's on the UK market now for one year and"
+    },
+    {
+      "start": 145.29999999999998,
+      "end": 149.29999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "apparently it's sold less machines than expected and wants us to really find"
+    },
+    {
+      "start": 149.29999999999998,
+      "end": 155.22,
+      "speaker": "SPEAKER_00",
+      "text": "out why and what he's supposed to do right. Yeah. Okay. Cool. Interesting. I'd"
+    },
+    {
+      "start": 155.22,
+      "end": 161.45999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "like to ask perhaps a couple of questions to share some additional light on that."
+    },
+    {
+      "start": 161.46,
+      "end": 172.34,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. Cool. Okay. So the first one would be given the"
+    },
+    {
+      "start": 172.34,
+      "end": 176.34,
+      "speaker": "SPEAKER_00",
+      "text": "friend said that he sold less machines than he expected. Could he perhaps"
+    },
+    {
+      "start": 176.34,
+      "end": 180.42000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "quantify that for us? Like how many less did he sell and what did he actually"
+    },
+    {
+      "start": 180.42000000000002,
+      "end": 184.42000000000002,
+      "speaker": "SPEAKER_04",
+      "text": "hope to sell? Sure. So he was expecting to sell the hundreds"
+    },
+    {
+      "start": 184.42000000000002,
+      "end": 191.38,
+      "speaker": "SPEAKER_04",
+      "text": "machines in the first year. Okay. And he ended up selling 75. Okay. He sold 75. So"
+    },
+    {
+      "start": 191.85999999999999,
+      "end": 196.66,
+      "speaker": "SPEAKER_00",
+      "text": "a solid 25% less compared to compared to what he wanted to sell. Yeah. Okay."
+    },
+    {
+      "start": 197.46,
+      "end": 203.06,
+      "speaker": "SPEAKER_00",
+      "text": "Good. That sounds doesn't sound too good. In terms of his overall business, did I"
+    },
+    {
+      "start": 203.06,
+      "end": 207.14,
+      "speaker": "SPEAKER_00",
+      "text": "understand that right? That his clients are the textile manufacturers. So it's not"
+    },
+    {
+      "start": 207.14,
+      "end": 213.14,
+      "speaker": "SPEAKER_00",
+      "text": "the end consumers buying textiles but it's B2B and he sells to other kind of producers."
+    },
+    {
+      "start": 215.06,
+      "end": 220.66,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah, that's that's right. So he sells the machines to textile manufacturers."
+    },
+    {
+      "start": 220.66,
+      "end": 225.38,
+      "speaker": "SPEAKER_04",
+      "text": "So your friend is now a textile manufacturer himself. He's just sells the machines to"
+    },
+    {
+      "start": 225.38,
+      "end": 234.1,
+      "speaker": "SPEAKER_04",
+      "text": "to these people who produce clothing using I guess a mix of recycled textile fibers and"
+    },
+    {
+      "start": 234.1,
+      "end": 240.74,
+      "speaker": "SPEAKER_00",
+      "text": "normal fibers as well. Okay. Got it. Okay. Thanks very much. That's good to"
+    },
+    {
+      "start": 240.74,
+      "end": 246.5,
+      "speaker": "SPEAKER_00",
+      "text": "understand. Just coming back to the first question I asked regarding the estimate where we figured"
+    },
+    {
+      "start": 246.82,
+      "end": 251.06,
+      "speaker": "SPEAKER_00",
+      "text": "out okay 25% less than what he had hoped for that he sold to these textile manufacturers."
+    },
+    {
+      "start": 252.42,
+      "end": 258.74,
+      "speaker": "SPEAKER_00",
+      "text": "Do we have any idea if that estimate that expectation is essentially realistic or is that also"
+    },
+    {
+      "start": 258.74,
+      "end": 264.1,
+      "speaker": "SPEAKER_04",
+      "text": "something that we could challenge? Yeah. So that's a good question. So that's one thing your"
+    },
+    {
+      "start": 264.1,
+      "end": 270.1,
+      "speaker": "SPEAKER_04",
+      "text": "friend wondered about and he took to a few like experts in the field and they all said that"
+    },
+    {
+      "start": 270.74,
+      "end": 276.18,
+      "speaker": "SPEAKER_04",
+      "text": "a hundred machines was like realistic and that doesn't seem to be the problem basically."
+    },
+    {
+      "start": 276.66,
+      "end": 280.42,
+      "speaker": "SPEAKER_04",
+      "text": "Like we believe that selling a hundred machines is possible. He should be able to do that."
+    },
+    {
+      "start": 280.98,
+      "end": 285.54,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Thanks. I understood the experts say it's a realistic it's a realistic target and there"
+    },
+    {
+      "start": 285.54,
+      "end": 293.7,
+      "speaker": "SPEAKER_00",
+      "text": "is actually a problem besides just perhaps an over optimism here. Okay. Yeah. That's very"
+    },
+    {
+      "start": 293.7,
+      "end": 300.5,
+      "speaker": "SPEAKER_00",
+      "text": "interesting and this is the last last question I have on that is I mean it's obviously a friend"
+    },
+    {
+      "start": 300.5,
+      "end": 305.06,
+      "speaker": "SPEAKER_00",
+      "text": "of ours so we can talk with them openly. He has probably also tried to understand the problem."
+    },
+    {
+      "start": 305.06,
+      "end": 308.74,
+      "speaker": "SPEAKER_00",
+      "text": "So does he have any hypotheses on on what the problem could actually be here?"
+    },
+    {
+      "start": 310.18,
+      "end": 314.82,
+      "speaker": "SPEAKER_04",
+      "text": "Not really. His only hypothesis was that maybe he was being over optimistic but that doesn't"
+    },
+    {
+      "start": 314.82,
+      "end": 321.38,
+      "speaker": "SPEAKER_04",
+      "text": "seem to be the case as I just said. So yeah. So that's kind of why he he reached out to you. He's"
+    },
+    {
+      "start": 322.18,
+      "end": 328.98,
+      "speaker": "SPEAKER_00",
+      "text": "out of ideas. Okay. Understood. Okay. Then let's let's help him with that."
+    },
+    {
+      "start": 329.94,
+      "end": 335.94,
+      "speaker": "SPEAKER_04",
+      "text": "But the first point is that Giro quantify that cells were done by 25% by asking me questions"
+    },
+    {
+      "start": 335.94,
+      "end": 341.54,
+      "speaker": "SPEAKER_04",
+      "text": "which was great. When a metric is too high or too low you should always try to quantify by how much."
+    },
+    {
+      "start": 341.54,
+      "end": 344.98,
+      "speaker": "SPEAKER_04",
+      "text": "This will help you understand how big the problem you're trying to solve is."
+    },
+    {
+      "start": 344.98,
+      "end": 349.94,
+      "speaker": "SPEAKER_04",
+      "text": "Second, Giro clarified if the cell target of a hundred machines was realistic or not."
+    },
+    {
+      "start": 349.94,
+      "end": 354.98,
+      "speaker": "SPEAKER_04",
+      "text": "This was an important question because if it had not been realistic then Giro would have needed"
+    },
+    {
+      "start": 354.98,
+      "end": 359.94,
+      "speaker": "SPEAKER_04",
+      "text": "to spend time figuring out a realistic cell target. By doing that it was therefore"
+    },
+    {
+      "start": 359.94,
+      "end": 364.5,
+      "speaker": "SPEAKER_04",
+      "text": "able to narrow the scope of the case considerably and to reduce its complexity. Third,"
+    },
+    {
+      "start": 364.5,
+      "end": 369.70000000000005,
+      "speaker": "SPEAKER_04",
+      "text": "Giro clarified if the company was B2B or B2C to ensure he understood the situation correctly."
+    },
+    {
+      "start": 369.70000000000005,
+      "end": 375.86,
+      "speaker": "SPEAKER_00",
+      "text": "Again, you should do this whenever in doubt. I think I understood now what I need to understand"
+    },
+    {
+      "start": 375.86,
+      "end": 381.62,
+      "speaker": "SPEAKER_00",
+      "text": "on on our friend's situation. Okay. I would like to take perhaps one or two minutes just to"
+    },
+    {
+      "start": 381.7,
+      "end": 392.18,
+      "speaker": "SPEAKER_00",
+      "text": "let's talk to my approach for that question. That's fine for you. Yeah, go for it."
+    },
+    {
+      "start": 396.5,
+      "end": 401.54,
+      "speaker": "SPEAKER_00",
+      "text": "So essentially I would like to really understand the problem that our friend faces here"
+    },
+    {
+      "start": 402.18,
+      "end": 406.42,
+      "speaker": "SPEAKER_00",
+      "text": "and then go to a solution. And I would do that in a kind of three step process."
+    },
+    {
+      "start": 406.42,
+      "end": 411.38,
+      "speaker": "SPEAKER_00",
+      "text": "I would really first try to kind of understand the problem. What's really the problem behind"
+    },
+    {
+      "start": 411.46,
+      "end": 419.46,
+      "speaker": "SPEAKER_00",
+      "text": "the 25% less sales that he saw. And once we have understood that problem, I would go to step two"
+    },
+    {
+      "start": 420.42,
+      "end": 426.02,
+      "speaker": "SPEAKER_00",
+      "text": "and see how can we actually address this problem. Is there some root cause that we can"
+    },
+    {
+      "start": 426.02,
+      "end": 431.94,
+      "speaker": "SPEAKER_00",
+      "text": "address in order to bring the sales up to the expected value? Or potentially it might also be"
+    },
+    {
+      "start": 431.94,
+      "end": 436.98,
+      "speaker": "SPEAKER_00",
+      "text": "the case that we cannot fix the problem and need to come up with some other levers to help our"
+    },
+    {
+      "start": 436.98,
+      "end": 444.26,
+      "speaker": "SPEAKER_00",
+      "text": "friend achieve this goal of getting 100 sold. Okay. And then the third step would be just to check"
+    },
+    {
+      "start": 444.26,
+      "end": 450.98,
+      "speaker": "SPEAKER_00",
+      "text": "if what we developed here actually works. And just now with I'd like to take a bit of a deep dive"
+    },
+    {
+      "start": 450.98,
+      "end": 457.62,
+      "speaker": "SPEAKER_00",
+      "text": "into the step one here. Looking at the reasons why actually sold less than expected. And I think"
+    },
+    {
+      "start": 457.62,
+      "end": 465.62,
+      "speaker": "SPEAKER_00",
+      "text": "there are two general causes that could be at play here. One cause is that perhaps the"
+    },
+    {
+      "start": 466.58,
+      "end": 471.14,
+      "speaker": "SPEAKER_00",
+      "text": "the inventor of the friend was not able to supply enough machines to the clients. So it's"
+    },
+    {
+      "start": 471.14,
+      "end": 478.66,
+      "speaker": "SPEAKER_00",
+      "text": "something with production on the supply side. And the other principle reason is potentially the"
+    },
+    {
+      "start": 478.66,
+      "end": 485.54,
+      "speaker": "SPEAKER_00",
+      "text": "customers just audit less machines than we had expected them to order. Okay. Now going into the"
+    },
+    {
+      "start": 485.54,
+      "end": 491.7,
+      "speaker": "SPEAKER_00",
+      "text": "first part I think with the supply related reasons, it might be that either some input parts that"
+    },
+    {
+      "start": 491.7,
+      "end": 497.38,
+      "speaker": "SPEAKER_00",
+      "text": "the machine needs to be assembled are lacking perhaps their supply chain problems. Or it might be"
+    },
+    {
+      "start": 497.38,
+      "end": 502.26,
+      "speaker": "SPEAKER_00",
+      "text": "that the production of the machine is somehow slow. The assembly doesn't work as intended. Okay."
+    },
+    {
+      "start": 502.26,
+      "end": 508.26,
+      "speaker": "SPEAKER_00",
+      "text": "Or perhaps the distribution is a bottleneck. So we don't actually get the machine to the customers"
+    },
+    {
+      "start": 508.26,
+      "end": 513.86,
+      "speaker": "SPEAKER_00",
+      "text": "which are the textile manufacturers because perhaps it's bulky or some some transport related issue"
+    },
+    {
+      "start": 513.86,
+      "end": 520.9,
+      "speaker": "SPEAKER_00",
+      "text": "here. Okay. And going to the to the other principle reason that the customers audit less, I think"
+    },
+    {
+      "start": 520.98,
+      "end": 527.54,
+      "speaker": "SPEAKER_00",
+      "text": "here's again three potential drivers at play. So first driver would be perhaps the clients are not"
+    },
+    {
+      "start": 527.54,
+      "end": 531.9399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "aware. Yeah, we really need to find out to the textile manufacturers even know about our solution."
+    },
+    {
+      "start": 532.98,
+      "end": 537.38,
+      "speaker": "SPEAKER_00",
+      "text": "And the second potential driver is perhaps legally forbidden because because perhaps"
+    },
+    {
+      "start": 537.38,
+      "end": 542.8199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "and permits also all I can he doesn't really he's not allowed to sell the machine everywhere he"
+    },
+    {
+      "start": 542.8199999999999,
+      "end": 548.9,
+      "speaker": "SPEAKER_00",
+      "text": "wants essentially. Okay. And then the third potential driver would be okay, yeah, just the customers"
+    },
+    {
+      "start": 549.06,
+      "end": 553.3,
+      "speaker": "SPEAKER_00",
+      "text": "were allowed to buy the machine and they did know about the machine but they decided not to buy it"
+    },
+    {
+      "start": 553.3,
+      "end": 559.22,
+      "speaker": "SPEAKER_00",
+      "text": "anyway. So they just didn't want it. Right. And then here I would kind of dive a bit deeper and"
+    },
+    {
+      "start": 560.02,
+      "end": 564.98,
+      "speaker": "SPEAKER_00",
+      "text": "I identified two principled drivers for that as well. Either the value ad provided by the machine is"
+    },
+    {
+      "start": 564.98,
+      "end": 570.5,
+      "speaker": "SPEAKER_00",
+      "text": "just too low, which might be related either to the output quality which is too low or just"
+    },
+    {
+      "start": 570.5,
+      "end": 575.06,
+      "speaker": "SPEAKER_00",
+      "text": "that the cost advantage because you said it should kind of provide an efficiency advantage"
+    },
+    {
+      "start": 575.14,
+      "end": 581.4599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "at an production. And so that might also be a problem. And the other reason might be that the"
+    },
+    {
+      "start": 581.4599999999999,
+      "end": 585.9399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "value ad is just not realizable for some for some reason, for example, they cannot integrate the"
+    },
+    {
+      "start": 585.9399999999999,
+      "end": 592.3399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "machine into the production process, the textile manufacturers. And so this would be the problems"
+    },
+    {
+      "start": 592.3399999999999,
+      "end": 597.6199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "that I would like to look at. And I really first would like to understand if the product actually"
+    },
+    {
+      "start": 597.6199999999999,
+      "end": 602.5,
+      "speaker": "SPEAKER_00",
+      "text": "kind of works as promised and returns the output and the efficiency advantage because for a machine"
+    },
+    {
+      "start": 602.98,
+      "end": 605.86,
+      "speaker": "SPEAKER_00",
+      "text": "that is supposed to boost efficiency, that's really a must."
+    },
+    {
+      "start": 607.94,
+      "end": 612.42,
+      "speaker": "SPEAKER_04",
+      "text": "Fast Guero built an issue tree with four levels and therefore quite a lot of depth."
+    },
+    {
+      "start": 612.42,
+      "end": 617.06,
+      "speaker": "SPEAKER_04",
+      "text": "Candidates would take this case often create quite shallow frameworks and so the fact that he went"
+    },
+    {
+      "start": 617.06,
+      "end": 621.7,
+      "speaker": "SPEAKER_04",
+      "text": "quite deep was a very positive thing for me. When building issue trees, you should always try"
+    },
+    {
+      "start": 621.7,
+      "end": 626.74,
+      "speaker": "SPEAKER_04",
+      "text": "to go as deep as you can. Second, Guero didn't forget about the supply side of the framework here."
+    },
+    {
+      "start": 626.74,
+      "end": 630.66,
+      "speaker": "SPEAKER_04",
+      "text": "Again, this is something like Candidates who take this case often forget to mention,"
+    },
+    {
+      "start": 630.66,
+      "end": 635.78,
+      "speaker": "SPEAKER_04",
+      "text": "but in reality, the problem could be that the inventor does not manage to manufacture enough"
+    },
+    {
+      "start": 635.78,
+      "end": 641.14,
+      "speaker": "SPEAKER_04",
+      "text": "machines or to deliver enough of them for some reason. Finally, Guero made it clear that finding the"
+    },
+    {
+      "start": 641.14,
+      "end": 646.9,
+      "speaker": "SPEAKER_04",
+      "text": "root cause of the problem is just step one in the process and that we also need to fix the problem."
+    },
+    {
+      "start": 646.9,
+      "end": 651.38,
+      "speaker": "SPEAKER_04",
+      "text": "Again, this is something that very typically gets missed in this case and so it was great that he"
+    },
+    {
+      "start": 651.38,
+      "end": 657.3,
+      "speaker": "SPEAKER_00",
+      "text": "pointed it out. And I'd like to ask if we have any data like test results or perhaps client"
+    },
+    {
+      "start": 657.78,
+      "end": 664.8199999999999,
+      "speaker": "SPEAKER_04",
+      "text": "complaints or so on that. Yeah, so that's a good question, but yeah, it's not really a"
+    },
+    {
+      "start": 664.8199999999999,
+      "end": 670.26,
+      "speaker": "SPEAKER_04",
+      "text": "it's not really a problem. The machine works as expected and it kind of like delivers"
+    },
+    {
+      "start": 670.26,
+      "end": 677.54,
+      "speaker": "SPEAKER_04",
+      "text": "what the efficiency gains that the clients are looking for. But you mentioned one of the things"
+    },
+    {
+      "start": 677.54,
+      "end": 682.66,
+      "speaker": "SPEAKER_04",
+      "text": "you mentioned when you looked at your last point was that the clients might have difficulties"
+    },
+    {
+      "start": 683.54,
+      "end": 691.54,
+      "speaker": "SPEAKER_04",
+      "text": "integrating the machines in their workflow, let's say. I think that's an interesting point."
+    },
+    {
+      "start": 691.54,
+      "end": 696.98,
+      "speaker": "SPEAKER_04",
+      "text": "So can you develop that a bit more? What could be some of the problems there?"
+    },
+    {
+      "start": 698.98,
+      "end": 706.3399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Interesting. So problem with integrations in the setup. It's fine if I take 10, 15 seconds to"
+    },
+    {
+      "start": 706.34,
+      "end": 709.22,
+      "speaker": "SPEAKER_00",
+      "text": "think about that. Yeah, that's right. Okay."
+    },
+    {
+      "start": 716.58,
+      "end": 720.98,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, Max, I think there are three reasons that could drive that problem here."
+    },
+    {
+      "start": 722.74,
+      "end": 727.94,
+      "speaker": "SPEAKER_00",
+      "text": "I think first is related to the change of setup, seconds to the inputs needed and third to the"
+    },
+    {
+      "start": 727.94,
+      "end": 735.38,
+      "speaker": "SPEAKER_00",
+      "text": "skills needed for integrating the machines or the production. For the first point on the setup,"
+    },
+    {
+      "start": 736.34,
+      "end": 740.18,
+      "speaker": "SPEAKER_00",
+      "text": "it might be that the setup change is not easily possible because kind of for example,"
+    },
+    {
+      "start": 740.18,
+      "end": 746.34,
+      "speaker": "SPEAKER_00",
+      "text": "the whole production setup is is really oriented towards the old machine. So all spare parts,"
+    },
+    {
+      "start": 746.34,
+      "end": 750.58,
+      "speaker": "SPEAKER_00",
+      "text": "logistics, etc. That might be a problem that you can't easily shift it."
+    },
+    {
+      "start": 753.7,
+      "end": 758.98,
+      "speaker": "SPEAKER_00",
+      "text": "On the inputs needed, perhaps the new machine just needs more or totally different inputs from"
+    },
+    {
+      "start": 758.98,
+      "end": 763.7,
+      "speaker": "SPEAKER_00",
+      "text": "the last machine that we cannot really provide. So one example would be like it needs much more"
+    },
+    {
+      "start": 763.7,
+      "end": 769.46,
+      "speaker": "SPEAKER_00",
+      "text": "electricity. It needs some computing power, perhaps if it is especially advanced, perhaps some"
+    },
+    {
+      "start": 769.46,
+      "end": 773.5400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "cooling system and so on. So here we would really need to kind of investigate about the product"
+    },
+    {
+      "start": 773.5400000000001,
+      "end": 780.26,
+      "speaker": "SPEAKER_00",
+      "text": "characteristics and see how it is different from the other machine. And regarding skills here"
+    },
+    {
+      "start": 780.26,
+      "end": 783.5400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "again, because it's a new machine, perhaps they cannot really use it because they don't have the"
+    },
+    {
+      "start": 783.5400000000001,
+      "end": 788.5,
+      "speaker": "SPEAKER_00",
+      "text": "skills to do it. And here I essentially see two options. Either they were not able to use the"
+    },
+    {
+      "start": 788.5,
+      "end": 793.54,
+      "speaker": "SPEAKER_00",
+      "text": "machine at all. So they didn't have the skills to utilize it. And the other option would be"
+    },
+    {
+      "start": 795.54,
+      "end": 801.06,
+      "speaker": "SPEAKER_00",
+      "text": "that essentially they made the machine run, but it didn't really work productively. So there"
+    },
+    {
+      "start": 801.06,
+      "end": 807.38,
+      "speaker": "SPEAKER_00",
+      "text": "was a lot of waste, for example, due to the lack of skilled labor and general skills. So this would"
+    },
+    {
+      "start": 807.38,
+      "end": 813.06,
+      "speaker": "SPEAKER_00",
+      "text": "be the three reasons, which I would kind of further investigate by asking clients and looking at what"
+    },
+    {
+      "start": 813.06,
+      "end": 819.78,
+      "speaker": "SPEAKER_04",
+      "text": "they reported and where it is my life. Yeah, so the last point is a good point. So I mean, all three"
+    },
+    {
+      "start": 819.78,
+      "end": 827.6999999999999,
+      "speaker": "SPEAKER_04",
+      "text": "points are good points, but your friend has kind of noticed that the machine needs employees to"
+    },
+    {
+      "start": 827.6999999999999,
+      "end": 834.5799999999999,
+      "speaker": "SPEAKER_04",
+      "text": "be trained a lot more than he was expecting. So to be able to operate the machine employees of"
+    },
+    {
+      "start": 834.5799999999999,
+      "end": 840.5,
+      "speaker": "SPEAKER_04",
+      "text": "the clients need extensive training. And that's been a bit of a barrier to adoption in the different"
+    },
+    {
+      "start": 840.5,
+      "end": 849.86,
+      "speaker": "SPEAKER_04",
+      "text": "conversations that he's had. And so he thinks he can fix this. He thinks he can make the machine a"
+    },
+    {
+      "start": 849.86,
+      "end": 860.98,
+      "speaker": "SPEAKER_04",
+      "text": "lot easier to operate, but that would cost him one million euros. Okay. And he only wants to do this"
+    },
+    {
+      "start": 861.7,
+      "end": 866.74,
+      "speaker": "SPEAKER_04",
+      "text": "if he can pay back that investment over the course of his lifetime."
+    },
+    {
+      "start": 867.14,
+      "end": 876.74,
+      "speaker": "SPEAKER_04",
+      "text": "Okay. So every time he sells a machine, he makes 10,000 euros and his profit margin is 15%"
+    },
+    {
+      "start": 877.7,
+      "end": 885.46,
+      "speaker": "SPEAKER_00",
+      "text": "on each unit. So the 10,000 is the price essentially that he makes from it? Yeah. Okay. And so he wants you to"
+    },
+    {
+      "start": 886.34,
+      "end": 895.14,
+      "speaker": "SPEAKER_04",
+      "text": "help him figure out whether fixing that problem is really worth it or not. And if he works for"
+    },
+    {
+      "start": 895.14,
+      "end": 902.5,
+      "speaker": "SPEAKER_00",
+      "text": "him financially. Okay. Thank you. I'm happy to help the friend with that decision."
+    },
+    {
+      "start": 902.5,
+      "end": 909.14,
+      "speaker": "SPEAKER_00",
+      "text": "Just so I understand. So simplifying the product will fix the problem you said. Does that mean"
+    },
+    {
+      "start": 909.14,
+      "end": 916.34,
+      "speaker": "SPEAKER_00",
+      "text": "that he can actually now sell like 100 machines a year as opposed to the 75 machines? So it fixes"
+    },
+    {
+      "start": 916.34,
+      "end": 922.5,
+      "speaker": "SPEAKER_00",
+      "text": "100% of the problem, so to say. Yeah, you can make that assumption. Yeah. Okay."
+    },
+    {
+      "start": 922.74,
+      "end": 935.22,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Okay. So now he sells the 100 machines. And sorry. Okay. And he wants to have it in his"
+    },
+    {
+      "start": 935.22,
+      "end": 941.06,
+      "speaker": "SPEAKER_00",
+      "text": "lifetime. All right. So he wants to see the investment pay off in his lifetime as a criterion."
+    },
+    {
+      "start": 942.02,
+      "end": 953.8599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So the way I would approach this problem is really to look at the investment, which is you said,"
+    },
+    {
+      "start": 953.8599999999999,
+      "end": 966.26,
+      "speaker": "SPEAKER_00",
+      "text": "one million. Okay. It's one million. And then essentially, I would calculate how much additional"
+    },
+    {
+      "start": 966.26,
+      "end": 974.66,
+      "speaker": "SPEAKER_00",
+      "text": "profit he would make from this change by kind of increasing the numbers and see how many years it"
+    },
+    {
+      "start": 974.66,
+      "end": 981.62,
+      "speaker": "SPEAKER_00",
+      "text": "would take until it breaks even. And in the end, compared to kind of his remaining expected"
+    },
+    {
+      "start": 982.66,
+      "end": 987.54,
+      "speaker": "SPEAKER_00",
+      "text": "life expectancy to see if according to his specific criterion of having it pay off in his"
+    },
+    {
+      "start": 987.54,
+      "end": 994.42,
+      "speaker": "SPEAKER_00",
+      "text": "lifetime, this would make sense if you agree. Yeah. Okay. So not that I sat there, perhaps"
+    },
+    {
+      "start": 994.42,
+      "end": 1000.8199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "would also be good to just start with that. Do we know how I figure we can just ask him,"
+    },
+    {
+      "start": 1000.8199999999999,
+      "end": 1008.42,
+      "speaker": "SPEAKER_00",
+      "text": "can you maybe tell us how old he is? Yeah. You can assume he's 50 years old. Okay. So 50,"
+    },
+    {
+      "start": 1008.42,
+      "end": 1016.8199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "50 years old friend. From that, I would like to briefly assess how long he essentially has"
+    },
+    {
+      "start": 1016.82,
+      "end": 1026.8200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "expected to live. I think average life expectancy is about 80 years of for miles. So I would probably"
+    },
+    {
+      "start": 1026.8200000000002,
+      "end": 1032.3400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "say that it should be about 30 years if we don't have any specific information on like his health"
+    },
+    {
+      "start": 1032.3400000000001,
+      "end": 1038.18,
+      "speaker": "SPEAKER_00",
+      "text": "and so on. So we should be able to calculate with 30 years if you agree. Yeah, that's fine. Okay."
+    },
+    {
+      "start": 1039.38,
+      "end": 1046.02,
+      "speaker": "SPEAKER_00",
+      "text": "And so we do know the one million needs to kind of be paid off in terms of additional profits"
+    },
+    {
+      "start": 1046.02,
+      "end": 1053.46,
+      "speaker": "SPEAKER_00",
+      "text": "in 30 years. So we can now look at the additional profit each year. And we do know that we have an"
+    },
+    {
+      "start": 1053.46,
+      "end": 1058.9,
+      "speaker": "SPEAKER_00",
+      "text": "additional kind of sales number each year, or additional machines sold each year. Because now we"
+    },
+    {
+      "start": 1058.9,
+      "end": 1064.58,
+      "speaker": "SPEAKER_00",
+      "text": "have 75 and it would be 100 because we fixed the problem. So it should be 25 new machines"
+    },
+    {
+      "start": 1066.5,
+      "end": 1075.54,
+      "speaker": "SPEAKER_00",
+      "text": "per year that are sold. Yeah. And the margin is 50%. So I would say the profit from each"
+    },
+    {
+      "start": 1075.54,
+      "end": 1083.46,
+      "speaker": "SPEAKER_00",
+      "text": "machine given that it doesn't change with the additional machine sold should be 15% out of the"
+    },
+    {
+      "start": 1083.46,
+      "end": 1092.6599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "1000 price that you mentioned. So it should be, should actually, oh, it's, let me quickly check my notes"
+    },
+    {
+      "start": 1092.6599999999999,
+      "end": 1098.1,
+      "speaker": "SPEAKER_00",
+      "text": "again. Okay. You said it makes a 10,000, 10,000 price per machine, right? And not 1000. Yeah."
+    },
+    {
+      "start": 1098.1,
+      "end": 1106.02,
+      "speaker": "SPEAKER_00",
+      "text": "I'd like to correct myself then that the price is, price is this 10,000. So the profit per machine"
+    },
+    {
+      "start": 1106.02,
+      "end": 1117.06,
+      "speaker": "SPEAKER_00",
+      "text": "should be the margin of 15%, so 0.15 times 10,000. So it should be 1,500 euros per machine that he makes."
+    },
+    {
+      "start": 1118.26,
+      "end": 1122.58,
+      "speaker": "SPEAKER_00",
+      "text": "And from that, we should be able to look at the profit per year that he makes additionally."
+    },
+    {
+      "start": 1128.58,
+      "end": 1135.2199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Which should be the profit by machine times the number of machines that he sells more per year."
+    },
+    {
+      "start": 1136.6599999999999,
+      "end": 1147.06,
+      "speaker": "SPEAKER_00",
+      "text": "So we come up with 37,500 as additional profit that he does each year. And so it's quite"
+    },
+    {
+      "start": 1148.34,
+      "end": 1153.4599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "easy to look at the pay off period, so to say, by comparing that to the investment."
+    },
+    {
+      "start": 1154.26,
+      "end": 1159.38,
+      "speaker": "SPEAKER_00",
+      "text": "So if we divide the profit per year by the investment,"
+    },
+    {
+      "start": 1161.54,
+      "end": 1165.06,
+      "speaker": "SPEAKER_00",
+      "text": "okay, it doesn't really give us a good, um,"
+    },
+    {
+      "start": 1166.82,
+      "end": 1170.18,
+      "speaker": "SPEAKER_00",
+      "text": "perhaps it's a formatting issue. Oh, sorry, I think I did it the wrong way."
+    },
+    {
+      "start": 1170.9,
+      "end": 1175.54,
+      "speaker": "SPEAKER_00",
+      "text": "It's precisely the wrong way. If we want a number of years, we have to look the investment through"
+    },
+    {
+      "start": 1176.5,
+      "end": 1186.18,
+      "speaker": "SPEAKER_00",
+      "text": "the, through the profit per annum. Okay, and we got 26.7 years roughly. So I think we can conclude"
+    },
+    {
+      "start": 1186.18,
+      "end": 1192.58,
+      "speaker": "SPEAKER_00",
+      "text": "that that is below the 30 years that we, uh, that we agreed on as an estimate for the remaining"
+    },
+    {
+      "start": 1192.58,
+      "end": 1198.6599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "years of the life of our friend. Um, so just based on that calculation, uh, we could conclude"
+    },
+    {
+      "start": 1199.3799999999999,
+      "end": 1204.02,
+      "speaker": "SPEAKER_00",
+      "text": "that it makes sense to simplify the machine by investing a million euros. And especially going"
+    },
+    {
+      "start": 1204.02,
+      "end": 1208.82,
+      "speaker": "SPEAKER_00",
+      "text": "forward because, uh, for example, his successors as children, perhaps, will also benefit from that."
+    },
+    {
+      "start": 1208.82,
+      "end": 1211.94,
+      "speaker": "SPEAKER_00",
+      "text": "So on, in the long term, I would say the investment makes, makes even more sense."
+    },
+    {
+      "start": 1213.1399999999999,
+      "end": 1219.1399999999999,
+      "speaker": "SPEAKER_04",
+      "text": "Okay, cool. Your, your friend is also wondering about, you know, um, how much profit he's, uh,"
+    },
+    {
+      "start": 1219.1399999999999,
+      "end": 1228.02,
+      "speaker": "SPEAKER_04",
+      "text": "he's currently, um, he's currently making. Can you help him with that? Okay. Okay, so kind of,"
+    },
+    {
+      "start": 1228.02,
+      "end": 1232.42,
+      "speaker": "SPEAKER_00",
+      "text": "the, the profit he currently makes in the bad years, so to say, right? And, and the first year that he had."
+    },
+    {
+      "start": 1233.22,
+      "end": 1234.66,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah. Okay."
+    },
+    {
+      "start": 1241.8600000000001,
+      "end": 1249.7,
+      "speaker": "SPEAKER_00",
+      "text": "Um, we're looking at the numbers. I think he sold 75 machines, uh, in the first year."
+    },
+    {
+      "start": 1250.74,
+      "end": 1255.38,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. And the price is probably the one that we also know about, right? And the margin,"
+    },
+    {
+      "start": 1255.38,
+      "end": 1260.1000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "because where else, where else would he know it from? If we, if we can assume that, so the price is"
+    },
+    {
+      "start": 1260.1,
+      "end": 1266.02,
+      "speaker": "SPEAKER_00",
+      "text": "still 10,000 and the margin is 15% so in that case, since, since we know what the result would be for"
+    },
+    {
+      "start": 1266.02,
+      "end": 1272.58,
+      "speaker": "SPEAKER_00",
+      "text": "25, um, kind of additional machines, the profit impact of that, we would now just have to times the"
+    },
+    {
+      "start": 1272.58,
+      "end": 1278.02,
+      "speaker": "SPEAKER_00",
+      "text": "profit impact we already calculated by three, because now instead of having it for 25 machines in"
+    },
+    {
+      "start": 1278.02,
+      "end": 1287.3,
+      "speaker": "SPEAKER_00",
+      "text": "addition, we have, have it for 75 machines in total. So it would just be, um, three or 75 divided by"
+    },
+    {
+      "start": 1287.78,
+      "end": 1294.26,
+      "speaker": "SPEAKER_00",
+      "text": "22, um, times the profit annually that we calculated here. Yeah. So in conclusion, he makes"
+    },
+    {
+      "start": 1294.26,
+      "end": 1300.98,
+      "speaker": "SPEAKER_00",
+      "text": "112,500, um, as a profit in, in the first year that he had. Yeah. That makes sense. Okay, so"
+    },
+    {
+      "start": 1300.98,
+      "end": 1306.02,
+      "speaker": "SPEAKER_00",
+      "text": "you can already, uh, live of it, um, even though we have some problems, I would say. Yeah."
+    },
+    {
+      "start": 1306.98,
+      "end": 1312.82,
+      "speaker": "SPEAKER_04",
+      "text": "Cool. Giro is comfortable calculating the payback time for the investment."
+    },
+    {
+      "start": 1312.82,
+      "end": 1317.06,
+      "speaker": "SPEAKER_04",
+      "text": "Theoretically, payback time is a financial metric that you don't necessarily need to"
+    },
+    {
+      "start": 1317.06,
+      "end": 1322.1799999999998,
+      "speaker": "SPEAKER_04",
+      "text": "know about as a candidate, but in practice, if you know the main financial metrics like payback time"
+    },
+    {
+      "start": 1322.1799999999998,
+      "end": 1327.1399999999999,
+      "speaker": "SPEAKER_04",
+      "text": "and, um, ROI, it'll save you time. That's because you won't have to ask your interviewer what they are"
+    },
+    {
+      "start": 1327.1399999999999,
+      "end": 1332.1,
+      "speaker": "SPEAKER_04",
+      "text": "and how to calculate them. And instead, you'll be able to use the time to actually solve the case."
+    },
+    {
+      "start": 1332.1,
+      "end": 1337.94,
+      "speaker": "SPEAKER_04",
+      "text": "Second, Giro was quick to spot that to calculate total current profits for 75 machines, all you need"
+    },
+    {
+      "start": 1337.94,
+      "end": 1343.3799999999999,
+      "speaker": "SPEAKER_04",
+      "text": "to do is to multiply the profits for 25 machines by three. This is something that, again, a lot of"
+    },
+    {
+      "start": 1343.38,
+      "end": 1348.8200000000002,
+      "speaker": "SPEAKER_04",
+      "text": "candidates miss. You should always try to look for shortcuts to save time and calculations in your"
+    },
+    {
+      "start": 1348.8200000000002,
+      "end": 1354.2600000000002,
+      "speaker": "SPEAKER_04",
+      "text": "case interviews. Finally, Giro laid out what approach he was going to take before making any"
+    },
+    {
+      "start": 1354.2600000000002,
+      "end": 1359.22,
+      "speaker": "SPEAKER_04",
+      "text": "calculations. This way, he gave me the chance to jump in to say if I agreed with his approach or not."
+    },
+    {
+      "start": 1359.22,
+      "end": 1364.0200000000002,
+      "speaker": "SPEAKER_04",
+      "text": "This is something you should do too as it prevents situations where your interviewer interrupts you"
+    },
+    {
+      "start": 1364.0200000000002,
+      "end": 1368.9,
+      "speaker": "SPEAKER_04",
+      "text": "in the middle of calculations when they realize you're not doing what they want you to do. He's also"
+    },
+    {
+      "start": 1368.9,
+      "end": 1373.7800000000002,
+      "speaker": "SPEAKER_04",
+      "text": "thought about introducing his machine in other countries than the UK because he holds the patent"
+    },
+    {
+      "start": 1373.7800000000002,
+      "end": 1384.74,
+      "speaker": "SPEAKER_00",
+      "text": "for the machine. So how could he do that? Okay. So he wants to know how, like, the how of how to"
+    },
+    {
+      "start": 1384.74,
+      "end": 1389.22,
+      "speaker": "SPEAKER_00",
+      "text": "go to other countries given that he has the legal right already in his hands, right? Yeah."
+    },
+    {
+      "start": 1389.8600000000001,
+      "end": 1394.42,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Good. I'd like to take 10 seconds if that's fine for you, Max. Yeah. Go on."
+    },
+    {
+      "start": 1429.38,
+      "end": 1438.02,
+      "speaker": "SPEAKER_00",
+      "text": "So to maybe give him some initial perspective on that question, I think essentially our friend"
+    },
+    {
+      "start": 1438.02,
+      "end": 1445.5400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "has three opportunities here, three options to go about that. So I think the first one would be,"
+    },
+    {
+      "start": 1445.5400000000002,
+      "end": 1451.94,
+      "speaker": "SPEAKER_00",
+      "text": "he could essentially do it on his own. So he could kind of go to other countries, open up"
+    },
+    {
+      "start": 1451.94,
+      "end": 1458.1000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "own production capacities there as he has previously in the UK. And I think that doesn't sound"
+    },
+    {
+      "start": 1458.1,
+      "end": 1464.1799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "to promising from my perspective because he would need a lot of country specific expertise,"
+    },
+    {
+      "start": 1464.1799999999998,
+      "end": 1468.34,
+      "speaker": "SPEAKER_00",
+      "text": "he would need sufficient management expertise, which we would have to kind of make sure that he has"
+    },
+    {
+      "start": 1468.34,
+      "end": 1476.8999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "it as an inventor. And also it would mean a hard work that he would have to put in as a kind of CEO"
+    },
+    {
+      "start": 1476.8999999999999,
+      "end": 1482.82,
+      "speaker": "SPEAKER_00",
+      "text": "of an expand the company, so to say. Okay. So that's why the two other options I identified are,"
+    },
+    {
+      "start": 1482.82,
+      "end": 1488.8999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I think a bit more attractive on at first glance. So the second option would be to do a licensing"
+    },
+    {
+      "start": 1488.8999999999999,
+      "end": 1495.06,
+      "speaker": "SPEAKER_00",
+      "text": "deal. So he would go to some company that can actually manufacture these machines in another country"
+    },
+    {
+      "start": 1495.06,
+      "end": 1500.02,
+      "speaker": "SPEAKER_00",
+      "text": "and tell them, okay, you might produce them, but when you either for each produced or for each"
+    },
+    {
+      "start": 1500.02,
+      "end": 1506.1799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "sold machine, they would have to pay him some license fee. And I think with that, he has, he can go"
+    },
+    {
+      "start": 1506.26,
+      "end": 1513.38,
+      "speaker": "SPEAKER_00",
+      "text": "to many countries and he has a high upside because the money he gains scales with the amount of"
+    },
+    {
+      "start": 1513.38,
+      "end": 1519.7,
+      "speaker": "SPEAKER_00",
+      "text": "machines that are sold based on the license. And compared to that, the other alternative that's a"
+    },
+    {
+      "start": 1519.7,
+      "end": 1526.3400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "bit less risky is just selling his patent. So he can just kind of sell it off and someone can do"
+    },
+    {
+      "start": 1526.3400000000001,
+      "end": 1531.7,
+      "speaker": "SPEAKER_00",
+      "text": "whatever he wants from it. So just pays a fixed price and he can either produce one or a million"
+    },
+    {
+      "start": 1531.7,
+      "end": 1539.14,
+      "speaker": "SPEAKER_00",
+      "text": "machines from it. So while not really scaling with the amount of machines sold, the upside"
+    },
+    {
+      "start": 1539.14,
+      "end": 1544.9,
+      "speaker": "SPEAKER_00",
+      "text": "here is that he would essentially, given that he finds an interest buyer, never have to work again,"
+    },
+    {
+      "start": 1544.9,
+      "end": 1551.3,
+      "speaker": "SPEAKER_00",
+      "text": "so to say. So if we think that paying off in his lifetime, as he suggested, we look at in the"
+    },
+    {
+      "start": 1551.3,
+      "end": 1556.82,
+      "speaker": "SPEAKER_00",
+      "text": "other calculation about the investment and the simplification paying off, then I think selling a"
+    },
+    {
+      "start": 1556.8999999999999,
+      "end": 1562.1799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "patent might be, might be an interesting way, but we wouldn't have to check whether licensing"
+    },
+    {
+      "start": 1562.1799999999998,
+      "end": 1568.26,
+      "speaker": "SPEAKER_00",
+      "text": "dealers closer to his interest, given that it has has some more upside potential. Okay, that makes sense."
+    },
+    {
+      "start": 1569.9399999999998,
+      "end": 1574.4199999999998,
+      "speaker": "SPEAKER_04",
+      "text": "Here it took the time to create a mini framework and to group his ideas into a logical structure."
+    },
+    {
+      "start": 1574.4199999999998,
+      "end": 1579.06,
+      "speaker": "SPEAKER_04",
+      "text": "This is something that I love. Candidates don't do for brainstorming questions. Almost everyone does"
+    },
+    {
+      "start": 1579.06,
+      "end": 1583.78,
+      "speaker": "SPEAKER_04",
+      "text": "it for framework questions, but you can also do it for brainstorming questions and I would encourage"
+    },
+    {
+      "start": 1583.86,
+      "end": 1589.3,
+      "speaker": "SPEAKER_04",
+      "text": "you to do so. Here also took the time to explain which of the options he thought would be the best one."
+    },
+    {
+      "start": 1589.3,
+      "end": 1593.94,
+      "speaker": "SPEAKER_04",
+      "text": "Again, a common mistake here is to just list ideas without really discussing the one that's"
+    },
+    {
+      "start": 1593.94,
+      "end": 1599.86,
+      "speaker": "SPEAKER_04",
+      "text": "most likely to work. So your friend gives you a call and wants your final recommendation on all"
+    },
+    {
+      "start": 1599.86,
+      "end": 1605.7,
+      "speaker": "SPEAKER_00",
+      "text": "this. What would you tell him? Okay, so it's a final, a final recommendation as a conclusion to"
+    },
+    {
+      "start": 1605.7,
+      "end": 1610.98,
+      "speaker": "SPEAKER_00",
+      "text": "all case, I understand. Yeah. Cool. Okay, I would like to tell him that I would like 15 seconds to"
+    },
+    {
+      "start": 1610.98,
+      "end": 1615.7,
+      "speaker": "SPEAKER_00",
+      "text": "think about it before I have to go. Friend degrees. Cool. Okay."
+    },
+    {
+      "start": 1635.7,
+      "end": 1658.9,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So all in all, I would like to tell my friend that he should really invest the one million"
+    },
+    {
+      "start": 1658.9,
+      "end": 1667.5400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "euros in a simplification process for the machine to simplify it substantially for three reasons."
+    },
+    {
+      "start": 1667.5400000000002,
+      "end": 1673.6200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "First of all, we clearly identified the complexity of the machine as kind of driving the lack of"
+    },
+    {
+      "start": 1673.6200000000001,
+      "end": 1678.5,
+      "speaker": "SPEAKER_00",
+      "text": "sales in the first year. So because it was really kind of hard to use skill wise for the clients."
+    },
+    {
+      "start": 1679.14,
+      "end": 1688.8200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Secondly, I think he has reason to believe his forecast of 100 of 100 machines"
+    },
+    {
+      "start": 1688.82,
+      "end": 1693.78,
+      "speaker": "SPEAKER_00",
+      "text": "sold because we found the problem. We know that we can specifically quantify the upside, which is"
+    },
+    {
+      "start": 1693.78,
+      "end": 1699.46,
+      "speaker": "SPEAKER_00",
+      "text": "selling 25 machines more. Yeah. For a year, which will pay off in less than 30 years, so in less than"
+    },
+    {
+      "start": 1699.46,
+      "end": 1704.58,
+      "speaker": "SPEAKER_00",
+      "text": "his lifetime. And the third point would be that now that he has brought up to the table that he might"
+    },
+    {
+      "start": 1704.58,
+      "end": 1710.58,
+      "speaker": "SPEAKER_00",
+      "text": "expand in other countries, he might run into the problem over there as well. So essentially this"
+    },
+    {
+      "start": 1710.58,
+      "end": 1717.1399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "also addresses this expansion. So regarding the next steps, I would really encourage him to"
+    },
+    {
+      "start": 1717.38,
+      "end": 1723.5400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "kind of draft a specific plan on how to implement the simplification of the machine, how quickly"
+    },
+    {
+      "start": 1723.5400000000002,
+      "end": 1731.5400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "he is able to pull it off. And also plan on how he how he can make sure that he enters the other"
+    },
+    {
+      "start": 1731.5400000000002,
+      "end": 1738.18,
+      "speaker": "SPEAKER_00",
+      "text": "markets in a licensing deal, all pays off the patent only after having made that simplification,"
+    },
+    {
+      "start": 1738.18,
+      "end": 1743.3000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "to make sure that's reflected in the value he gets from either of these options. And risk wise,"
+    },
+    {
+      "start": 1743.3,
+      "end": 1748.4199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I would say I'd really look at if the simplification that he's able to make is enough for all"
+    },
+    {
+      "start": 1748.98,
+      "end": 1754.34,
+      "speaker": "SPEAKER_00",
+      "text": "countries because he has now introduced the machine in the UK, which already has quite skilled"
+    },
+    {
+      "start": 1755.06,
+      "end": 1761.3799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "companies and laborers. So we would need to make sure the machine is sufficiently simplified"
+    },
+    {
+      "start": 1761.3799999999999,
+      "end": 1766.98,
+      "speaker": "SPEAKER_00",
+      "text": "to make it work, for example, in a more further way countries that have perhaps the less skilled"
+    },
+    {
+      "start": 1767.06,
+      "end": 1772.02,
+      "speaker": "SPEAKER_03",
+      "text": "workforce on average. Cool. That makes sense. Well done, Giro."
+    },
+    {
+      "start": 1774.58,
+      "end": 1779.78,
+      "speaker": "SPEAKER_04",
+      "text": "First Giro's recommendation was very structured. He stated his recommendation first,"
+    },
+    {
+      "start": 1779.78,
+      "end": 1784.5,
+      "speaker": "SPEAKER_04",
+      "text": "and then he gave three supporting arguments, which is always the way you should try to do in a case"
+    },
+    {
+      "start": 1784.5,
+      "end": 1789.3,
+      "speaker": "SPEAKER_04",
+      "text": "if you can. And finally, Giro also highlighted next steps and risks in his recommendation,"
+    },
+    {
+      "start": 1789.3,
+      "end": 1793.06,
+      "speaker": "SPEAKER_04",
+      "text": "which once again, you should always do if possible at the end of case interviews."
+    },
+    {
+      "start": 1793.06,
+      "end": 1797.94,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, thank you Max. That was fun. Yeah. Yeah. Yeah. Okay, awesome. I think you did well."
+    },
+    {
+      "start": 1798.5,
+      "end": 1804.58,
+      "speaker": "SPEAKER_04",
+      "text": "Great. Well, thanks for taking the time to work through this with me and yeah,"
+    },
+    {
+      "start": 1805.94,
+      "end": 1811.22,
+      "speaker": "SPEAKER_04",
+      "text": "we'll see you in the next video. Thanks everyone. Bye bye. Great bye, everyone."
+    },
+    {
+      "start": 1811.22,
+      "end": 1814.74,
+      "speaker": "SPEAKER_02",
+      "text": "Hello, I really hope you found that useful. If you did, you can like and subscribe."
+    },
+    {
+      "start": 1814.74,
+      "end": 1820.4199999999998,
+      "speaker": "SPEAKER_02",
+      "text": "And why not come on iGuyNoffer.com to see more videos like this, study case interview frameworks,"
+    },
+    {
+      "start": 1820.42,
+      "end": 1824.74,
+      "speaker": "SPEAKER_02",
+      "text": "and read company guides. There you can also practice for your upcoming case interviews with"
+    },
+    {
+      "start": 1824.74,
+      "end": 1829.22,
+      "speaker": "SPEAKER_02",
+      "text": "coaches from McKinsey, BCG, Bane and other consulting times. Thank you and good luck with your"
+    },
+    {
+      "start": 1829.22,
+      "end": 1836.3400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "upcoming interviews."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 16,
+    "math": 10,
+    "case_difficulty": 12,
+    "final_summary": 14,
+    "overall_thoughts": "You communicated well but struggled with the math. Consider building a stronger framework and providing more detail in your final summary."
+  }
+}

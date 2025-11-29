@@ -1,0 +1,1932 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "speaker": "SPEAKER_01",
+      "text": "Welcome everyone, in this video we will solve an IntubibriLight case,"
+    },
+    {
+      "start": 3.84,
+      "end": 9.28,
+      "speaker": "SPEAKER_01",
+      "text": "just like how making the asks, and today I'm joined by a former Mexican consultant, Alara. Welcome."
+    },
+    {
+      "start": 9.28,
+      "end": 14.08,
+      "speaker": "SPEAKER_01",
+      "text": "Before we begin, if you're preparing for case interviews, check out our GetTwoOfRecourse."
+    },
+    {
+      "start": 14.08,
+      "end": 17.36,
+      "speaker": "SPEAKER_01",
+      "text": "It's packed with videos, case studies, and drills."
+    },
+    {
+      "start": 17.36,
+      "end": 22.16,
+      "speaker": "SPEAKER_01",
+      "text": "We also offer 101 coaching. You can book a free 50 minute intro call on our website"
+    },
+    {
+      "start": 22.16,
+      "end": 25.2,
+      "speaker": "SPEAKER_01",
+      "text": "to explore how we can best support you. Shall we start it?"
+    },
+    {
+      "start": 25.2,
+      "end": 26.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 26.0,
+      "end": 31.2,
+      "speaker": "SPEAKER_01",
+      "text": "All right, in this case our client is blankware. They are a major North American supplier"
+    },
+    {
+      "start": 31.2,
+      "end": 37.36,
+      "speaker": "SPEAKER_01",
+      "text": "of unbranded t-shirts, primarily selling to customization companies, and fashion brands that supply"
+    },
+    {
+      "start": 37.36,
+      "end": 43.84,
+      "speaker": "SPEAKER_01",
+      "text": "large retailers, they like so Walmart and Target. The company operates five manufacturing facilities"
+    },
+    {
+      "start": 43.84,
+      "end": 51.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "in the US, and they offer three main product lines. So the names are dailywear, active flex,"
+    },
+    {
+      "start": 51.12,
+      "end": 56.4,
+      "speaker": "SPEAKER_01",
+      "text": "and eco-basic. Dailywear is your standard cotton blind shirts for everyday use."
+    },
+    {
+      "start": 57.28,
+      "end": 62.559999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "Active flex are shirts designed for physical activity, made with breathable materials to help"
+    },
+    {
+      "start": 62.559999999999995,
+      "end": 68.4,
+      "speaker": "SPEAKER_01",
+      "text": "keep the wear dry. And we have eco-basic, so these are the shirts made from recycled fabrics,"
+    },
+    {
+      "start": 68.4,
+      "end": 74.4,
+      "speaker": "SPEAKER_01",
+      "text": "targeting environmentally conscious buyers. Although our client sells volumes, and prices for"
+    },
+    {
+      "start": 74.4,
+      "end": 80.32,
+      "speaker": "SPEAKER_01",
+      "text": "product category have remained steady over the past five years, blankware has seen its profit margin"
+    },
+    {
+      "start": 80.88,
+      "end": 87.67999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "from 12% to 7%. The leadership team is unsure what driving this margin erosion"
+    },
+    {
+      "start": 87.67999999999999,
+      "end": 93.28,
+      "speaker": "SPEAKER_01",
+      "text": "and is looking for help in identifying the root causes and potential levers to improve financial"
+    },
+    {
+      "start": 93.28,
+      "end": 98.8,
+      "speaker": "SPEAKER_01",
+      "text": "performance. So I'd like to start the case by discussing with you what might be the main causes"
+    },
+    {
+      "start": 98.8,
+      "end": 101.03999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "behind this profitability guy. Would you like to start?"
+    },
+    {
+      "start": 101.67999999999999,
+      "end": 109.35999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so before I start, if it's okay, I just want to recap to make sure that I got all the client"
+    },
+    {
+      "start": 109.36,
+      "end": 114.8,
+      "speaker": "SPEAKER_02",
+      "text": "information correct. So our client is called blankware, and they create unbranded t-shirts that"
+    },
+    {
+      "start": 114.8,
+      "end": 120.48,
+      "speaker": "SPEAKER_02",
+      "text": "they end up selling to large retail stores. And they have five factories where they produce the"
+    },
+    {
+      "start": 120.48,
+      "end": 125.36,
+      "speaker": "SPEAKER_02",
+      "text": "t-shirts in the US, and they sell three different types of products. Is that correct? That's right."
+    },
+    {
+      "start": 125.84,
+      "end": 131.2,
+      "speaker": "SPEAKER_02",
+      "text": "And although their prices and volumes have remained the same in the past five years,"
+    },
+    {
+      "start": 131.2,
+      "end": 137.68,
+      "speaker": "SPEAKER_02",
+      "text": "we have seen about 5% drop in profitability from 12% to 7%. That's great. Okay."
+    },
+    {
+      "start": 138.32,
+      "end": 142.08,
+      "speaker": "SPEAKER_02",
+      "text": "So if I can take a moment, then I'm just going to come up with an outline that I can then"
+    },
+    {
+      "start": 142.08,
+      "end": 145.84,
+      "speaker": "SPEAKER_01",
+      "text": "propose to you as a potential approach. Sure. Before you do this, is there anything you'd like to"
+    },
+    {
+      "start": 145.84,
+      "end": 151.6,
+      "speaker": "SPEAKER_02",
+      "text": "clarify just to deepen your knowledge about the case? Yes. So I would like to clarify two points."
+    },
+    {
+      "start": 151.6,
+      "end": 159.44,
+      "speaker": "SPEAKER_02",
+      "text": "The first one being you mentioned that we produce in the US, but are all our clients or retailers"
+    },
+    {
+      "start": 159.44,
+      "end": 164.0,
+      "speaker": "SPEAKER_01",
+      "text": "that we sell to also in the US? No. So the clients in North American Player, their manufacturing"
+    },
+    {
+      "start": 164.0,
+      "end": 168.8,
+      "speaker": "SPEAKER_01",
+      "text": "facilities are based in the US, but also export their products to Canada and Mexico."
+    },
+    {
+      "start": 171.04,
+      "end": 175.44,
+      "speaker": "SPEAKER_02",
+      "text": "And then the second thing that I would like to ask before I dropped out my approach is,"
+    },
+    {
+      "start": 176.8,
+      "end": 182.4,
+      "speaker": "SPEAKER_02",
+      "text": "does the client have a specific goal in terms of what profitability they want to reach back to"
+    },
+    {
+      "start": 182.4,
+      "end": 186.32,
+      "speaker": "SPEAKER_01",
+      "text": "what they want to do? Yeah, that makes sense. Let's just say that the goal would be to get back"
+    },
+    {
+      "start": 186.32,
+      "end": 192.48,
+      "speaker": "SPEAKER_01",
+      "text": "to the origin levels of 12% profit margin in the next two years. Okay. Thank you."
+    },
+    {
+      "start": 193.04,
+      "end": 195.84,
+      "speaker": "SPEAKER_01",
+      "text": "All right. I'll give you a couple of minutes if you like."
+    },
+    {
+      "start": 206.39999999999998,
+      "end": 213.2,
+      "speaker": "SPEAKER_02",
+      "text": "I would like to break down my approach into two main buckets. The first one being a quantitative"
+    },
+    {
+      "start": 213.2,
+      "end": 219.2,
+      "speaker": "SPEAKER_02",
+      "text": "analysis, and then the second one being a qualitative analysis of the situation. And then within"
+    },
+    {
+      "start": 219.28,
+      "end": 225.6,
+      "speaker": "SPEAKER_02",
+      "text": "these buckets, I would like to break it down into internal as well as external factors that we're"
+    },
+    {
+      "start": 225.6,
+      "end": 233.04,
+      "speaker": "SPEAKER_02",
+      "text": "going to analyze. I'll start with the quantitative first. So when I look at the internal information,"
+    },
+    {
+      "start": 233.04,
+      "end": 239.44,
+      "speaker": "SPEAKER_02",
+      "text": "I would like to first obtain if we do have information of our financial split by product,"
+    },
+    {
+      "start": 240.32,
+      "end": 246.07999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "region, and manufacturing facility. Byproduct, it would be the three main products that we produce"
+    },
+    {
+      "start": 246.08,
+      "end": 251.20000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "by region, it would be where we sell the goods to. And then manufacturing facilities is"
+    },
+    {
+      "start": 251.20000000000002,
+      "end": 256.24,
+      "speaker": "SPEAKER_02",
+      "text": "which one of the five might be maybe a problem. And the reason I'm doing this is to understand"
+    },
+    {
+      "start": 256.24,
+      "end": 263.28000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "where maybe the problematic point is. The second one I would like to have is a breakdown of the"
+    },
+    {
+      "start": 263.28000000000003,
+      "end": 268.72,
+      "speaker": "SPEAKER_02",
+      "text": "variable and fixed costs of each of these. And among variable costs, it could be maybe the raw"
+    },
+    {
+      "start": 268.72,
+      "end": 275.2,
+      "speaker": "SPEAKER_02",
+      "text": "materials we're using, utilities, and then among fixed, it could be overhead administrative stuff,"
+    },
+    {
+      "start": 275.36,
+      "end": 282.71999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "or even the factory facility itself. Then I would like to look at our external analysis. And in"
+    },
+    {
+      "start": 282.71999999999997,
+      "end": 288.96,
+      "speaker": "SPEAKER_02",
+      "text": "external analysis, I would like to focus on competitors. This is because I need to understand if this"
+    },
+    {
+      "start": 288.96,
+      "end": 296.48,
+      "speaker": "SPEAKER_02",
+      "text": "is an industry-wide issue, or if this is an us issue. If everyone's costs are rising, then my"
+    },
+    {
+      "start": 296.48,
+      "end": 301.76,
+      "speaker": "SPEAKER_02",
+      "text": "attention would be different, I think. The second point that I'm going to analyze today is our"
+    },
+    {
+      "start": 301.76,
+      "end": 308.0,
+      "speaker": "SPEAKER_02",
+      "text": "qualitative factors. And this one, I'm going to start with our internals, will be split into"
+    },
+    {
+      "start": 308.0,
+      "end": 314.4,
+      "speaker": "SPEAKER_02",
+      "text": "people, processes, and technology. So under people, I would like to understand, are we training"
+    },
+    {
+      "start": 314.4,
+      "end": 319.44,
+      "speaker": "SPEAKER_02",
+      "text": "our employees correctly? Are they doing something wrong? Have they slowed down in the previous years?"
+    },
+    {
+      "start": 319.44,
+      "end": 324.71999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "Maybe they're inefficient with what they're doing. The second one is our processes. So I'm assuming"
+    },
+    {
+      "start": 324.71999999999997,
+      "end": 329.12,
+      "speaker": "SPEAKER_02",
+      "text": "that we're creating different customized shirts for different clients. You know, when we're switching"
+    },
+    {
+      "start": 329.12,
+      "end": 334.8,
+      "speaker": "SPEAKER_02",
+      "text": "maybe the manufacturing portion of it, our problems occurring, or is it slow? And then of course"
+    },
+    {
+      "start": 334.8,
+      "end": 339.92,
+      "speaker": "SPEAKER_02",
+      "text": "technology. We bought the goods five years ago, and maybe they're outdated at this point, or they"
+    },
+    {
+      "start": 339.92,
+      "end": 346.64,
+      "speaker": "SPEAKER_02",
+      "text": "might have maintenance issues that are increasing our costs. And then finally, in the qualitative bucket,"
+    },
+    {
+      "start": 346.64,
+      "end": 352.24,
+      "speaker": "SPEAKER_02",
+      "text": "I would like to look at external problems. And that could be regulations that have occurred. If"
+    },
+    {
+      "start": 352.24,
+      "end": 357.68,
+      "speaker": "SPEAKER_02",
+      "text": "we're importing raw materials from countries, and now we're getting taxed for it, it could be supplier"
+    },
+    {
+      "start": 357.76,
+      "end": 364.96,
+      "speaker": "SPEAKER_02",
+      "text": "side issues given their costs and maybe potential problems. And then of course logistics or anything"
+    },
+    {
+      "start": 364.96,
+      "end": 369.52,
+      "speaker": "SPEAKER_02",
+      "text": "that might be related to actually the shipment of the goods. Okay, so I spare your framework on"
+    },
+    {
+      "start": 369.52,
+      "end": 374.16,
+      "speaker": "SPEAKER_01",
+      "text": "stand that you want to isolate this issue further and talk about the cost side, is that correct?"
+    },
+    {
+      "start": 374.16,
+      "end": 379.76,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly. Let's take a look at how the candidate has performed so far, starting with her strengths."
+    },
+    {
+      "start": 380.72,
+      "end": 386.72,
+      "speaker": "SPEAKER_00",
+      "text": "Just like in most McKinsey cases, the initial prompt was quite long. However, the interview"
+    },
+    {
+      "start": 386.96000000000004,
+      "end": 393.12,
+      "speaker": "SPEAKER_00",
+      "text": "managed to capture it all and provided a strong recap at the start of the case, demonstrating a good"
+    },
+    {
+      "start": 393.12,
+      "end": 398.96000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "understanding of the client situation. Her framework directly addressed the issue, offering a"
+    },
+    {
+      "start": 398.96000000000004,
+      "end": 405.36,
+      "speaker": "SPEAKER_00",
+      "text": "structure to analyze specifically where the decline in profitability is coming from. Just like in"
+    },
+    {
+      "start": 405.36,
+      "end": 411.36,
+      "speaker": "SPEAKER_00",
+      "text": "real life turnaround projects and consulting, she suggested isolating the issue quantitatively"
+    },
+    {
+      "start": 412.0,
+      "end": 416.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "first, then following up with brainstorming the underlying qualitative drivers."
+    },
+    {
+      "start": 416.88,
+      "end": 422.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Now let's look at a few areas where she could have done better. While she asked great questions"
+    },
+    {
+      "start": 422.08000000000004,
+      "end": 428.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "about geographical reach and financial goals, she did so after being prompted by the interviewer."
+    },
+    {
+      "start": 428.40000000000003,
+      "end": 434.16,
+      "speaker": "SPEAKER_00",
+      "text": "She could have asked them more proactively. Although the interviewer clarified early on that this"
+    },
+    {
+      "start": 434.16,
+      "end": 440.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "isn't a price or volume issue, hence not a revenue issue, the interviewer could have explicitly"
+    },
+    {
+      "start": 440.4,
+      "end": 446.08,
+      "speaker": "SPEAKER_00",
+      "text": "acknowledged that it's a cost issue. Doing so would have better framed why her framework focused"
+    },
+    {
+      "start": 446.08,
+      "end": 452.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "only on that lever. She could have also been more precise with some of the investigation areas in"
+    },
+    {
+      "start": 452.15999999999997,
+      "end": 457.91999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "her framework. Looking back at the internal section of her quantitative analysis, there are two"
+    },
+    {
+      "start": 457.91999999999996,
+      "end": 463.91999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "things she could have done better. First, she said she wants to know the financial split by product,"
+    },
+    {
+      "start": 463.92,
+      "end": 469.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "region and facility. But it wasn't clear whether she meant revenues, costs, or both."
+    },
+    {
+      "start": 469.92,
+      "end": 475.6,
+      "speaker": "SPEAKER_00",
+      "text": "Instead, she could have been more precise and said historical cost trends across products,"
+    },
+    {
+      "start": 475.6,
+      "end": 481.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "regions, and facilities. Second, she mentioned that she'd like to look at the variable and fix"
+    },
+    {
+      "start": 481.84000000000003,
+      "end": 487.6,
+      "speaker": "SPEAKER_00",
+      "text": "cost breakdown. But again, she could have been clearer and asked about the historical cost trends"
+    },
+    {
+      "start": 487.6,
+      "end": 492.56,
+      "speaker": "SPEAKER_00",
+      "text": "of specific variable and fixed costs. As the next part of the case, I would like to brainstorm"
+    },
+    {
+      "start": 492.64,
+      "end": 496.88,
+      "speaker": "SPEAKER_01",
+      "text": "together what might be some key cost items for the client. You already had some ideas. But what I'd"
+    },
+    {
+      "start": 496.88,
+      "end": 500.88,
+      "speaker": "SPEAKER_01",
+      "text": "like to do is I'd like to share with you the following exhibits where you can find some more"
+    },
+    {
+      "start": 500.88,
+      "end": 505.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "details about the t-shirt manufacturer processes. Take a look at this and let's expand further on"
+    },
+    {
+      "start": 505.84000000000003,
+      "end": 511.28,
+      "speaker": "SPEAKER_02",
+      "text": "your previously listed out cost items. Okay, if you give me a moment, I'm going to analyze the exhibit"
+    },
+    {
+      "start": 511.28,
+      "end": 512.16,
+      "speaker": "SPEAKER_02",
+      "text": "for a bit. Sure."
+    },
+    {
+      "start": 516.96,
+      "end": 522.24,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. So as far as I understand, exhibit one shows us the different steps in"
+    },
+    {
+      "start": 522.24,
+      "end": 529.2,
+      "speaker": "SPEAKER_02",
+      "text": "actually producing a t-shirt itself. And using these, if you can give me a moment, I'm going to come"
+    },
+    {
+      "start": 529.2,
+      "end": 546.5600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "up with potential costs that could be affecting us. Okay. All right. So given exhibit one and the"
+    },
+    {
+      "start": 546.56,
+      "end": 553.1199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "previous information that I provided you on my approach, I've decided to split potential costs"
+    },
+    {
+      "start": 553.1199999999999,
+      "end": 559.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "into five different buckets. So I would like to start with our biggest, I think, contributor"
+    },
+    {
+      "start": 559.4399999999999,
+      "end": 566.4,
+      "speaker": "SPEAKER_02",
+      "text": "in what we're doing, which is raw materials. So I would like to, I think, analyze maybe the two"
+    },
+    {
+      "start": 566.4,
+      "end": 573.3599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "main raw materials that we might be using, which is fabric and dies. To deep dive into these,"
+    },
+    {
+      "start": 573.44,
+      "end": 577.28,
+      "speaker": "SPEAKER_02",
+      "text": "the fabric I would like to understand are using different materials. And if we're using the same"
+    },
+    {
+      "start": 577.28,
+      "end": 582.32,
+      "speaker": "SPEAKER_02",
+      "text": "materials, have the costs of those increased, similarly with dies, have the costs increased."
+    },
+    {
+      "start": 582.88,
+      "end": 587.12,
+      "speaker": "SPEAKER_02",
+      "text": "The second thing I would like to take a look at, which I think is a big part of the manufacturing"
+    },
+    {
+      "start": 587.12,
+      "end": 595.44,
+      "speaker": "SPEAKER_02",
+      "text": "process, our labor, have our wages increased or, you know, are there issues when we compare it to"
+    },
+    {
+      "start": 595.44,
+      "end": 600.72,
+      "speaker": "SPEAKER_02",
+      "text": "the competition? And then are there problems with maybe overtime pay that we're doing,"
+    },
+    {
+      "start": 601.6800000000001,
+      "end": 607.0400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "or the hours that maybe some of the people are working? The third one that I would like to look"
+    },
+    {
+      "start": 607.0400000000001,
+      "end": 612.5600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "into is of course, an analysis of our manufacturing facilities. Are there issues, again, as I previously"
+    },
+    {
+      "start": 612.5600000000001,
+      "end": 618.64,
+      "speaker": "SPEAKER_02",
+      "text": "mentioned in utilities, the actual machines, and the maintenance portion of either the plant floor"
+    },
+    {
+      "start": 618.64,
+      "end": 624.64,
+      "speaker": "SPEAKER_02",
+      "text": "itself, or again, the machines? And then the fourth thing that I'd like to look into is once we're"
+    },
+    {
+      "start": 624.72,
+      "end": 632.0,
+      "speaker": "SPEAKER_02",
+      "text": "done with the big buckets, it's the actual order itself, do we have a good quality control?"
+    },
+    {
+      "start": 632.0,
+      "end": 637.84,
+      "speaker": "SPEAKER_02",
+      "text": "What are our defects? What are our potential spoilages that maybe over the years might have slipped?"
+    },
+    {
+      "start": 637.84,
+      "end": 642.56,
+      "speaker": "SPEAKER_02",
+      "text": "And then the final thing is packaging, you know, have the costs of packaging increased,"
+    },
+    {
+      "start": 642.56,
+      "end": 646.8,
+      "speaker": "SPEAKER_02",
+      "text": "shipping them out, maybe the materials that we're using. Okay, that makes a lot of sense. Now what"
+    },
+    {
+      "start": 646.8,
+      "end": 650.88,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to do is share with you the next step a bit, where you can find more information about"
+    },
+    {
+      "start": 650.96,
+      "end": 655.04,
+      "speaker": "SPEAKER_01",
+      "text": "our benchmarking study. We've looked at our clients' cost items and we compared it to a couple of"
+    },
+    {
+      "start": 655.04,
+      "end": 658.32,
+      "speaker": "SPEAKER_01",
+      "text": "other competitors. Take a look at this exhibit and please name it under the thoughts."
+    },
+    {
+      "start": 660.72,
+      "end": 666.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, thank you. If you can give me a moment, I'm going to try to understand the exhibit a little bit."
+    },
+    {
+      "start": 666.0,
+      "end": 668.72,
+      "speaker": "SPEAKER_02",
+      "text": "Sure. Before I get back to you with my analysis."
+    },
+    {
+      "start": 668.96,
+      "end": 683.76,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so just to clarify, this exhibit shows us the cost of manufacturing across our competitors,"
+    },
+    {
+      "start": 684.48,
+      "end": 691.0400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "and it goes through several main points, such as our main buckets, raw material costs,"
+    },
+    {
+      "start": 691.04,
+      "end": 699.5999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "machinery, spoilage costs, overhead and labor. And this shows the cost per 102 shirts in US dollars."
+    },
+    {
+      "start": 700.4,
+      "end": 706.3199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Data that's not available is shown in great boxes. Yeah, so imagine that we had spoken with some"
+    },
+    {
+      "start": 706.3199999999999,
+      "end": 712.24,
+      "speaker": "SPEAKER_01",
+      "text": "experts in this field and they just couldn't give this information to us. Okay, so starting at the top,"
+    },
+    {
+      "start": 712.24,
+      "end": 720.96,
+      "speaker": "SPEAKER_02",
+      "text": "raw material. Okay, so 102 102 looks like it's about the same fabric, thread, dies, almost exactly"
+    },
+    {
+      "start": 720.96,
+      "end": 728.48,
+      "speaker": "SPEAKER_02",
+      "text": "the same as our competitors. Machinery and equipment, you know, we have 20 competitor 2 is 21,"
+    },
+    {
+      "start": 729.44,
+      "end": 734.96,
+      "speaker": "SPEAKER_02",
+      "text": "897s, 5s. Yep, it looks like we're online with the market there as well."
+    },
+    {
+      "start": 735.9200000000001,
+      "end": 743.2800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Spoilage costs, I think draw a little bit of my interest because it looks like we're more than"
+    },
+    {
+      "start": 743.2800000000001,
+      "end": 749.84,
+      "speaker": "SPEAKER_02",
+      "text": "or nearly double what our competitors are, you know, having, which is we have 20, they have 9 and 13."
+    },
+    {
+      "start": 750.5600000000001,
+      "end": 755.76,
+      "speaker": "SPEAKER_02",
+      "text": "So that might be a point that we deep dive into overhead costs. It looks like we're on par."
+    },
+    {
+      "start": 756.72,
+      "end": 763.76,
+      "speaker": "SPEAKER_02",
+      "text": "And then of course, labor costs on average, they're about the same, but I'm noticing a little bit of"
+    },
+    {
+      "start": 764.4,
+      "end": 771.2,
+      "speaker": "SPEAKER_02",
+      "text": "outlier in our overtime for our employees. We're paying 15 and everyone else seems to be paying"
+    },
+    {
+      "start": 771.2,
+      "end": 775.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "around 8 or 9. Makes sense. So you want to focus on two cost items,"
+    },
+    {
+      "start": 775.4399999999999,
+      "end": 780.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "spoilers and overtime, correct? Correct. Okay, so let's get first started with the"
+    },
+    {
+      "start": 780.3199999999999,
+      "end": 785.04,
+      "speaker": "SPEAKER_01",
+      "text": "spoilage costs. First of all, what does spoilage mean in the context of manufacturing? Let's talk"
+    },
+    {
+      "start": 785.04,
+      "end": 788.88,
+      "speaker": "SPEAKER_01",
+      "text": "about that. And then let's get our brainstorm what might be driving this issue for the client."
+    },
+    {
+      "start": 789.84,
+      "end": 798.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so I would say that given that we are producing t-shirts, spoilage, my assumption would be"
+    },
+    {
+      "start": 798.0,
+      "end": 804.16,
+      "speaker": "SPEAKER_02",
+      "text": "either based on potential defects that are occurring, the t-shirt is spoiled and we can no longer"
+    },
+    {
+      "start": 804.16,
+      "end": 810.8,
+      "speaker": "SPEAKER_02",
+      "text": "sell it to the retailer. The other issue could be that maybe the way that we're storing it in our"
+    },
+    {
+      "start": 810.8,
+      "end": 816.56,
+      "speaker": "SPEAKER_02",
+      "text": "distribution centers or the way that we're packaging it, humidity, etc. I might be deteriorating,"
+    },
+    {
+      "start": 817.1199999999999,
+      "end": 821.52,
+      "speaker": "SPEAKER_02",
+      "text": "some of the clothing that we're creating. And then I think the third point would be the actual"
+    },
+    {
+      "start": 821.52,
+      "end": 827.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "materials that we're using. Are we buying too many dyes? Is there fabric getting old? Maybe"
+    },
+    {
+      "start": 827.4399999999999,
+      "end": 833.3599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "eaten by moths and is no longer usable? Okay, even though I cannot fully confirm the root"
+    },
+    {
+      "start": 833.3599999999999,
+      "end": 838.16,
+      "speaker": "SPEAKER_01",
+      "text": "causes of the spoilage problem, we understand that there are four key factors that currently help"
+    },
+    {
+      "start": 838.16,
+      "end": 843.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "our client reduce their spoilage costs. And I'll show you tabling in a second where you will find"
+    },
+    {
+      "start": 843.44,
+      "end": 847.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "those four factors for the client and we're going to be comparing to our competitor."
+    },
+    {
+      "start": 847.6800000000001,
+      "end": 851.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And here you're going to find the likes of different technologies and surveillance programs and all."
+    },
+    {
+      "start": 851.9200000000001,
+      "end": 856.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Just assume that if you're using technology A, there is a technology B. And I'd like to go through"
+    },
+    {
+      "start": 856.8000000000001,
+      "end": 862.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "the one by one together and decide on whether we should retain them or switch. Does that make sense?"
+    },
+    {
+      "start": 862.5600000000001,
+      "end": 864.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, that makes sense. Let's take a look at it to get at that."
+    },
+    {
+      "start": 866.96,
+      "end": 871.36,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so if you can give me a moment, I'm just going to try and understand this chart a little bit"
+    },
+    {
+      "start": 871.36,
+      "end": 873.6800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "before I dive into my analysis."
+    },
+    {
+      "start": 881.44,
+      "end": 888.08,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so just to confirm my understanding before I deep dive into maybe the potential problems that I see,"
+    },
+    {
+      "start": 888.96,
+      "end": 896.64,
+      "speaker": "SPEAKER_02",
+      "text": "this exhibit shows us the potential impact on spoilage given different initiatives that we currently"
+    },
+    {
+      "start": 896.64,
+      "end": 906.4,
+      "speaker": "SPEAKER_02",
+      "text": "have in place. It says that a 1% spoilage decrease equals to about $40,000 in annual spoilage costs."
+    },
+    {
+      "start": 906.4,
+      "end": 909.28,
+      "speaker": "SPEAKER_02",
+      "text": "What does that mean? I'm understanding that as meaning"
+    },
+    {
+      "start": 911.04,
+      "end": 919.92,
+      "speaker": "SPEAKER_02",
+      "text": "if the initiative reduces the spoilage by 1%, we are saving $40,000 in spoilage costs."
+    },
+    {
+      "start": 920.88,
+      "end": 928.4799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "And then just to confirm, we are utilizing a type of technology and the competitor is utilizing a"
+    },
+    {
+      "start": 928.4799999999999,
+      "end": 936.0799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "type of technology and we have to decide based on impact whether we switch to their technology or not."
+    },
+    {
+      "start": 936.0799999999999,
+      "end": 941.28,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, that's it. So I just need you to tell me one, out of those four factors, which one should we"
+    },
+    {
+      "start": 941.28,
+      "end": 947.12,
+      "speaker": "SPEAKER_01",
+      "text": "keep and which ones we should match. And second, for those that we will decide to switch how much"
+    },
+    {
+      "start": 947.12,
+      "end": 954.24,
+      "speaker": "SPEAKER_02",
+      "text": "profits we could get out of it. Okay, okay, if you give me a minute, let me quickly do the calculations."
+    },
+    {
+      "start": 954.24,
+      "end": 964.5600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Sure. So for spoilage detection, it seems like we have a 2% decrease, which is equal to about"
+    },
+    {
+      "start": 964.5600000000001,
+      "end": 975.12,
+      "speaker": "SPEAKER_02",
+      "text": "$80,000 in savings and it costs us $9,000 to maintain, giving us a net of about 71,000."
+    },
+    {
+      "start": 975.76,
+      "end": 985.84,
+      "speaker": "SPEAKER_02",
+      "text": "I found that to 70. Our competitor, the technology that they're using is decreasing up by 6% times 40."
+    },
+    {
+      "start": 985.84,
+      "end": 997.04,
+      "speaker": "SPEAKER_02",
+      "text": "So it's about $240,000 in decrease and it costs them $30,000 to maintain. So yeah, it costs a"
+    },
+    {
+      "start": 997.04,
+      "end": 1004.88,
+      "speaker": "SPEAKER_02",
+      "text": "little bit more, but they're saving about $210,000 in spoilage. Given we're saving 70, it seems like"
+    },
+    {
+      "start": 1004.88,
+      "end": 1011.92,
+      "speaker": "SPEAKER_02",
+      "text": "there's about $140K in dollars that they seem to be benefiting more than us given their technology."
+    },
+    {
+      "start": 1013.12,
+      "end": 1018.8,
+      "speaker": "SPEAKER_02",
+      "text": "So it seems like the first one I think might be good to consider whether we should switch or not,"
+    },
+    {
+      "start": 1018.8,
+      "end": 1024.4,
+      "speaker": "SPEAKER_02",
+      "text": "but I'm going to come back to that. Sure. My final analysis. The second one is the machinery surveillance"
+    },
+    {
+      "start": 1024.4,
+      "end": 1032.72,
+      "speaker": "SPEAKER_02",
+      "text": "program. We also have a 2% decrease in that, which you know, is an $80,000 in savings for us,"
+    },
+    {
+      "start": 1032.72,
+      "end": 1046.64,
+      "speaker": "SPEAKER_02",
+      "text": "but we're spending 320,000. That's, you know, a net minus of I'd say like 240K that we're losing."
+    },
+    {
+      "start": 1049.76,
+      "end": 1053.68,
+      "speaker": "SPEAKER_02",
+      "text": "I mean, it's a little concerning to me that we're spending that much on something, but not really"
+    },
+    {
+      "start": 1053.68,
+      "end": 1059.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "getting that much benefit. But on that point, I could add that let's say that there's other uses"
+    },
+    {
+      "start": 1059.4399999999998,
+      "end": 1063.04,
+      "speaker": "SPEAKER_01",
+      "text": "for that particular program. So they're not just there to reduce the spoilage cost."
+    },
+    {
+      "start": 1063.04,
+      "end": 1069.6799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so we might have to maintain it versus our competitor gets a 4% spoilage decrease, so about"
+    },
+    {
+      "start": 1069.6799999999998,
+      "end": 1084.24,
+      "speaker": "SPEAKER_02",
+      "text": "160K, but you know, annual cost to maintain is 440. So it seems like they're also minus 280K,"
+    },
+    {
+      "start": 1085.36,
+      "end": 1089.12,
+      "speaker": "SPEAKER_02",
+      "text": "not much better than us. So I don't think that's something we should consider in switching."
+    },
+    {
+      "start": 1090.32,
+      "end": 1097.6799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, employee training program. We have a 1% spoilage decrease, so about 40K in savings,"
+    },
+    {
+      "start": 1097.6799999999998,
+      "end": 1110.8,
+      "speaker": "SPEAKER_02",
+      "text": "but we're spending 14K on it, which is about 26,000 net that we have versus our competitor is a"
+    },
+    {
+      "start": 1110.8,
+      "end": 1117.9199999999998,
+      "speaker": "SPEAKER_02",
+      "text": "3% spoilage decrease, which they're saving around 120K. But you know, given that they have a 30K"
+    },
+    {
+      "start": 1118.0,
+      "end": 1126.48,
+      "speaker": "SPEAKER_02",
+      "text": "annual cost to maintain plus of 90K. So given the stark difference between those, I think that's"
+    },
+    {
+      "start": 1126.48,
+      "end": 1130.5600000000002,
+      "speaker": "SPEAKER_02",
+      "text": "another area that I would like to look into. Okay, so then the other thing that I'm going to look"
+    },
+    {
+      "start": 1130.5600000000002,
+      "end": 1137.1200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "into is our employee incentive program. It looks like we have saving about 2% in spoilage, which equates"
+    },
+    {
+      "start": 1137.1200000000001,
+      "end": 1146.3200000000002,
+      "speaker": "SPEAKER_02",
+      "text": "to about 80,000 money monetary savings, but it costs 12,000 dollars. So I'd say about a 68K in net for us."
+    },
+    {
+      "start": 1147.2,
+      "end": 1156.0,
+      "speaker": "SPEAKER_02",
+      "text": "And then our competitor is saving 1%, so 40K, but spending only 8K, about 32K. We have a much"
+    },
+    {
+      "start": 1156.0,
+      "end": 1160.48,
+      "speaker": "SPEAKER_01",
+      "text": "higher benefit. And what would be the total benefit for the client, if you were to,"
+    },
+    {
+      "start": 1160.48,
+      "end": 1166.24,
+      "speaker": "SPEAKER_01",
+      "text": "which I believe it was the first and the third factor. Okay, so given that we've decided to focus"
+    },
+    {
+      "start": 1166.24,
+      "end": 1171.04,
+      "speaker": "SPEAKER_02",
+      "text": "on spoilage detection technology and the employee training program in a slightly round and say"
+    },
+    {
+      "start": 1171.12,
+      "end": 1178.08,
+      "speaker": "SPEAKER_02",
+      "text": "that in the first one, we're saving about 140K net the difference. And then in the second one."
+    },
+    {
+      "start": 1184.32,
+      "end": 1191.84,
+      "speaker": "SPEAKER_02",
+      "text": "So about 200, 200, 200, 4000 that we're saving by just switching. That's two technologies."
+    },
+    {
+      "start": 1191.84,
+      "end": 1194.96,
+      "speaker": "SPEAKER_01",
+      "text": "That makes sense. Quite significant, right? Yeah. Quite significant."
+    },
+    {
+      "start": 1195.52,
+      "end": 1200.96,
+      "speaker": "SPEAKER_00",
+      "text": "Now let's review the candidate's performance once more. Pay attention to how she asks for time"
+    },
+    {
+      "start": 1200.96,
+      "end": 1206.72,
+      "speaker": "SPEAKER_00",
+      "text": "each time she's presented with a new exhibit or needs to answer a question. It's a great practice"
+    },
+    {
+      "start": 1206.72,
+      "end": 1213.04,
+      "speaker": "SPEAKER_00",
+      "text": "that improves the quality of her answers and also shows strong composure. She also did a phenomenal"
+    },
+    {
+      "start": 1213.04,
+      "end": 1219.28,
+      "speaker": "SPEAKER_00",
+      "text": "job working through the exhibits. In the second exhibit, she started with a high level explanation"
+    },
+    {
+      "start": 1219.28,
+      "end": 1224.8,
+      "speaker": "SPEAKER_00",
+      "text": "to make sure she understood the data labels correctly, an important step given the complexity of the"
+    },
+    {
+      "start": 1225.76,
+      "end": 1230.24,
+      "speaker": "SPEAKER_00",
+      "text": "table. Although the interviewer didn't ask a direct question when showing the exhibit,"
+    },
+    {
+      "start": 1230.24,
+      "end": 1236.24,
+      "speaker": "SPEAKER_00",
+      "text": "the candidate recognized that she needed to dig deeper and isolate the issue. With that mindset,"
+    },
+    {
+      "start": 1236.24,
+      "end": 1240.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "she got straight to the point and identified the two problematic cost items quickly."
+    },
+    {
+      "start": 1241.68,
+      "end": 1247.28,
+      "speaker": "SPEAKER_00",
+      "text": "In the third exhibit, she followed a similar approach. She first aligned with the interviewer on"
+    },
+    {
+      "start": 1247.28,
+      "end": 1252.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "how to interpret the table and the assumptions behind it, such as the potential for spoilage cost"
+    },
+    {
+      "start": 1252.72,
+      "end": 1258.16,
+      "speaker": "SPEAKER_00",
+      "text": "reduction and that the client and competitor one are using different technologies and other key"
+    },
+    {
+      "start": 1258.16,
+      "end": 1264.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "factors. This step was particularly important since the client can't simply triple the investment"
+    },
+    {
+      "start": 1264.3200000000002,
+      "end": 1269.2800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "to triple the yield. If I remember right, you said earlier that you also wanted to look into the"
+    },
+    {
+      "start": 1269.2800000000002,
+      "end": 1273.76,
+      "speaker": "SPEAKER_01",
+      "text": "overtime course. So let's very similar exercise and brainstorm together some of the reasons"
+    },
+    {
+      "start": 1273.76,
+      "end": 1279.76,
+      "speaker": "SPEAKER_02",
+      "text": "leading to this problem. Okay, just give me a minute and let me put down some thoughts. Sure."
+    },
+    {
+      "start": 1283.5200000000002,
+      "end": 1290.24,
+      "speaker": "SPEAKER_02",
+      "text": "I have a few different assumptions as to why we might have our overtime costs be nearly double"
+    },
+    {
+      "start": 1290.24,
+      "end": 1298.48,
+      "speaker": "SPEAKER_02",
+      "text": "our competitors. I would say that I think it might gear a little bit more around our worker"
+    },
+    {
+      "start": 1298.48,
+      "end": 1306.5600000000002,
+      "speaker": "SPEAKER_02",
+      "text": "efficiency as well as maybe our processes. So the first question would be our hourly pay."
+    },
+    {
+      "start": 1306.5600000000002,
+      "end": 1310.96,
+      "speaker": "SPEAKER_02",
+      "text": "Are we paying people significantly more for overtime compared to competitors?"
+    },
+    {
+      "start": 1311.76,
+      "end": 1319.52,
+      "speaker": "SPEAKER_02",
+      "text": "The second one is the efficiency of our workers. Are they making, I don't know, two clothes"
+    },
+    {
+      "start": 1319.52,
+      "end": 1322.88,
+      "speaker": "SPEAKER_02",
+      "text": "on the t-shirts an hour versus someone else, maybe another factor is making for them."
+    },
+    {
+      "start": 1323.76,
+      "end": 1329.92,
+      "speaker": "SPEAKER_02",
+      "text": "And that ties into worker training. Have we actually trained them to do this in the best way possible?"
+    },
+    {
+      "start": 1331.1200000000001,
+      "end": 1339.2,
+      "speaker": "SPEAKER_02",
+      "text": "Maybe not. And then machinery is our machinery actually suitable for them to optimize their"
+    },
+    {
+      "start": 1339.28,
+      "end": 1344.72,
+      "speaker": "SPEAKER_02",
+      "text": "working methods or sewing processes. And then finally just the overall process of maybe"
+    },
+    {
+      "start": 1344.72,
+      "end": 1349.92,
+      "speaker": "SPEAKER_02",
+      "text": "are you suing the hens first or the collar first or if we can change any of those."
+    },
+    {
+      "start": 1350.48,
+      "end": 1354.64,
+      "speaker": "SPEAKER_01",
+      "text": "They could all be valid. What I'll do is I'll share with you the last exhibit of the case where"
+    },
+    {
+      "start": 1354.64,
+      "end": 1358.56,
+      "speaker": "SPEAKER_01",
+      "text": "you can find more information about our labor. Take a look at this and let me what's going on in"
+    },
+    {
+      "start": 1358.56,
+      "end": 1362.56,
+      "speaker": "SPEAKER_01",
+      "text": "there. And as a result of it, what do you think of how it should work on so that they could"
+    },
+    {
+      "start": 1362.56,
+      "end": 1365.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "minimize the cost of this too? All right, let's take a look at it together."
+    },
+    {
+      "start": 1369.52,
+      "end": 1374.56,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so if you can give me a moment, I'm going to analyze exhibit before I get back to you. Sure."
+    },
+    {
+      "start": 1386.64,
+      "end": 1394.64,
+      "speaker": "SPEAKER_02",
+      "text": "To confirm, exhibit number four is an overview of labor allocation and pay per processing unit."
+    },
+    {
+      "start": 1395.44,
+      "end": 1402.8000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "And we are comparing hours set up with two other competitors. So I'm just going to go from top"
+    },
+    {
+      "start": 1402.8000000000002,
+      "end": 1407.5200000000002,
+      "speaker": "SPEAKER_02",
+      "text": "to bottom a little bit just to go over data. It seems like we have four crews, 10 people for a crew,"
+    },
+    {
+      "start": 1409.0400000000002,
+      "end": 1416.0,
+      "speaker": "SPEAKER_02",
+      "text": "two shifts, four days on that we're working four days off, 365 days of production. So we're"
+    },
+    {
+      "start": 1416.0,
+      "end": 1423.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "working every day. Our annually hours per employee 2100 over times 200. Oops, it seems like it's"
+    },
+    {
+      "start": 1423.84,
+      "end": 1429.1999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "significantly higher than our competitors. We'll get back to that. And then our hourly wage seems"
+    },
+    {
+      "start": 1430.24,
+      "end": 1439.84,
+      "speaker": "SPEAKER_02",
+      "text": "in line 30 and 45. Okay, so I think when I look at competitor one and two, it seems like"
+    },
+    {
+      "start": 1439.84,
+      "end": 1446.08,
+      "speaker": "SPEAKER_02",
+      "text": "competitor two is a smaller shop than us given that they have less days of production,"
+    },
+    {
+      "start": 1446.08,
+      "end": 1453.12,
+      "speaker": "SPEAKER_02",
+      "text": "a smaller crew that seems to work less. So I'm going to take competitor one as my primary,"
+    },
+    {
+      "start": 1453.12,
+      "end": 1460.0,
+      "speaker": "SPEAKER_02",
+      "text": "I think. Sorry, sorry, benchmark. Okay. Okay, so I want to start from the bottom this time because"
+    },
+    {
+      "start": 1461.36,
+      "end": 1467.84,
+      "speaker": "SPEAKER_02",
+      "text": "I do think that, you know, wages might play a part in our costs. So to get that out of the way,"
+    },
+    {
+      "start": 1467.84,
+      "end": 1473.1999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "it seems like our over time hourly wage is in line with what our competitors paying. In fact,"
+    },
+    {
+      "start": 1473.1999999999998,
+      "end": 1480.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "we're paying less than them, 45 dollars versus 48. Our base hourly wage is lower, 30 dollars versus"
+    },
+    {
+      "start": 1480.88,
+      "end": 1490.0,
+      "speaker": "SPEAKER_02",
+      "text": "31. Annual hours per employee. So annual base hours is about the same 2100. But our annual"
+    },
+    {
+      "start": 1490.0,
+      "end": 1497.92,
+      "speaker": "SPEAKER_02",
+      "text": "over time is twice. So I'd probably mark that as something to look into. And then our crew"
+    },
+    {
+      "start": 1497.92,
+      "end": 1505.44,
+      "speaker": "SPEAKER_02",
+      "text": "and shifts set up. So we're both working 365 days. But a difference I see here is"
+    },
+    {
+      "start": 1506.24,
+      "end": 1514.0,
+      "speaker": "SPEAKER_02",
+      "text": "when we work. So it seems like we do four days on four days off versus our competitor is doing six"
+    },
+    {
+      "start": 1514.0,
+      "end": 1523.2,
+      "speaker": "SPEAKER_02",
+      "text": "days on and two days off. That's right. We have 12 hours shifts. So two shifts. And as far as I"
+    },
+    {
+      "start": 1523.2,
+      "end": 1529.1200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "understand, someone is working for 12 hours in the factory nonstop versus they have three shifts,"
+    },
+    {
+      "start": 1529.1200000000001,
+      "end": 1534.0,
+      "speaker": "SPEAKER_02",
+      "text": "eight hours each. So that's another, I think, start difference that I see. Okay."
+    },
+    {
+      "start": 1534.88,
+      "end": 1546.32,
+      "speaker": "SPEAKER_02",
+      "text": "And then our crew size is the same. So given these, I would like to propose that"
+    },
+    {
+      "start": 1548.32,
+      "end": 1557.92,
+      "speaker": "SPEAKER_02",
+      "text": "maybe the reason our costs are so high might have to do with our shift count and the way that we work."
+    },
+    {
+      "start": 1558.8000000000002,
+      "end": 1565.52,
+      "speaker": "SPEAKER_01",
+      "text": "Would that be a probable less dig deeper here? So you raised here that our shift structures"
+    },
+    {
+      "start": 1565.52,
+      "end": 1570.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "are different. And also the fact that our employees are working more over time. So what's the"
+    },
+    {
+      "start": 1570.5600000000002,
+      "end": 1579.68,
+      "speaker": "SPEAKER_02",
+      "text": "correlation here? Can we dig deeper here? Yeah. So just off of, I think common sense,"
+    },
+    {
+      "start": 1580.96,
+      "end": 1586.4,
+      "speaker": "SPEAKER_02",
+      "text": "if someone is working for 12 hours straight, the productivity that you're going to achieve"
+    },
+    {
+      "start": 1586.4,
+      "end": 1591.76,
+      "speaker": "SPEAKER_02",
+      "text": "from them in the first eight hours is probably going to be different than the last four hours when"
+    },
+    {
+      "start": 1591.76,
+      "end": 1597.52,
+      "speaker": "SPEAKER_02",
+      "text": "they're tired. So maybe we should analyze the curve if we have data on that to see if they're"
+    },
+    {
+      "start": 1597.52,
+      "end": 1604.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "producing less as time gets on. So. And how that leads to the need for staying over time for our client?"
+    },
+    {
+      "start": 1605.8400000000001,
+      "end": 1610.72,
+      "speaker": "SPEAKER_02",
+      "text": "I'd say because we probably can't get done with the amount of shirts that everyone needs to. Maybe"
+    },
+    {
+      "start": 1610.72,
+      "end": 1616.0,
+      "speaker": "SPEAKER_02",
+      "text": "the targets that we set in place aren't being hit because people are tired of not producing as"
+    },
+    {
+      "start": 1616.0,
+      "end": 1621.2,
+      "speaker": "SPEAKER_01",
+      "text": "much. Okay. What about the second factor? The fact that our employees take a little longer break"
+    },
+    {
+      "start": 1621.2,
+      "end": 1627.76,
+      "speaker": "SPEAKER_01",
+      "text": "than the competitor ones? How would that impact overall productivity? So even though we have four days"
+    },
+    {
+      "start": 1627.76,
+      "end": 1635.2,
+      "speaker": "SPEAKER_02",
+      "text": "off and that might initially seem like a nice thing, I would counter argue that maybe in like the"
+    },
+    {
+      "start": 1635.2,
+      "end": 1640.16,
+      "speaker": "SPEAKER_02",
+      "text": "four days they lose the momentum and they forget things and you know moving people in and out might"
+    },
+    {
+      "start": 1640.72,
+      "end": 1645.92,
+      "speaker": "SPEAKER_02",
+      "text": "be problem. How do we fix it? I would propose, of course we would need more information, but just off"
+    },
+    {
+      "start": 1645.92,
+      "end": 1652.0,
+      "speaker": "SPEAKER_02",
+      "text": "this, I would propose that we maybe change our shift structure to emulate what competitor one is doing"
+    },
+    {
+      "start": 1652.0,
+      "end": 1658.24,
+      "speaker": "SPEAKER_02",
+      "text": "where we have three shifts of eight hours each and we do a six days on two days off method."
+    },
+    {
+      "start": 1658.24,
+      "end": 1663.28,
+      "speaker": "SPEAKER_01",
+      "text": "All right. As our next step, I would like us to quantify how much profits we could generate if you"
+    },
+    {
+      "start": 1663.28,
+      "end": 1668.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "were to switch our competitor one's shift structure. As you do this, there's one assumption that I like"
+    },
+    {
+      "start": 1668.48,
+      "end": 1672.56,
+      "speaker": "SPEAKER_01",
+      "text": "you to make though. As we change the shift structure, let's suppose that we will also match our"
+    },
+    {
+      "start": 1672.56,
+      "end": 1679.52,
+      "speaker": "SPEAKER_02",
+      "text": "clients our salaries. Okay. Just to confirm before I go into it, annual based hours are being kept the"
+    },
+    {
+      "start": 1679.52,
+      "end": 1687.04,
+      "speaker": "SPEAKER_02",
+      "text": "same, but this time or over time hours are a hundred, our base annual wage will convert to 31"
+    },
+    {
+      "start": 1687.6,
+      "end": 1693.36,
+      "speaker": "SPEAKER_02",
+      "text": "and over time will convert to 48, but the initial calculation of our current will be based on given."
+    },
+    {
+      "start": 1693.36,
+      "end": 1698.0,
+      "speaker": "SPEAKER_01",
+      "text": "That's right. So in the new scenario, we will perfectly mimic competitor one. Okay. If you can give me"
+    },
+    {
+      "start": 1698.0,
+      "end": 1700.08,
+      "speaker": "SPEAKER_02",
+      "text": "a moment while I quickly calculate this. Sure."
+    },
+    {
+      "start": 1710.16,
+      "end": 1714.0,
+      "speaker": "SPEAKER_01",
+      "text": "All right. Do you seem like you got the right numbers? So just walk me through our approach please."
+    },
+    {
+      "start": 1714.0,
+      "end": 1722.72,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. So currently our employees are working 2100 hours and they're being paid $30. So multiplying"
+    },
+    {
+      "start": 1722.8,
+      "end": 1732.24,
+      "speaker": "SPEAKER_02",
+      "text": "that we get $63,000 as our base pay per employee. We're paying them $45 for over time pay for 200 hours,"
+    },
+    {
+      "start": 1732.24,
+      "end": 1740.0,
+      "speaker": "SPEAKER_02",
+      "text": "giving us an over time average of $9,000 per employee. In total, our average employee cost is about"
+    },
+    {
+      "start": 1740.0,
+      "end": 1751.04,
+      "speaker": "SPEAKER_02",
+      "text": "$72,000. If we switch to the new system, competitor one, they'll still work 2100 hours in base hours,"
+    },
+    {
+      "start": 1751.68,
+      "end": 1760.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "but this time we're paying them slightly more at $31, which gives us $65,100 as our base salary."
+    },
+    {
+      "start": 1761.68,
+      "end": 1769.12,
+      "speaker": "SPEAKER_02",
+      "text": "Little higher, but it, you know, evens out when we factor in that they're now working half the time"
+    },
+    {
+      "start": 1769.12,
+      "end": 1774.56,
+      "speaker": "SPEAKER_02",
+      "text": "over time, 100 hours at $48, which gives us $48,000 in total,"
+    },
+    {
+      "start": 1775.28,
+      "end": 1785.6,
+      "speaker": "SPEAKER_02",
+      "text": "waiting to about $69,900 per employee. If we take the difference of that, we're saving about $2,100"
+    },
+    {
+      "start": 1785.6,
+      "end": 1792.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "per employee, multiplied by 40 employees because we have four crews with 10 people in each crew."
+    },
+    {
+      "start": 1793.12,
+      "end": 1800.08,
+      "speaker": "SPEAKER_02",
+      "text": "That gives us about an $84,000 saving. That makes sense. I didn't mention earlier, but there is also"
+    },
+    {
+      "start": 1800.08,
+      "end": 1804.96,
+      "speaker": "SPEAKER_01",
+      "text": "an incremental cost for the client of shifting their shift structure, and that would be $5,000."
+    },
+    {
+      "start": 1805.76,
+      "end": 1809.76,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so if it's going to cost us $5,000 to implement this new system,"
+    },
+    {
+      "start": 1810.56,
+      "end": 1816.8,
+      "speaker": "SPEAKER_02",
+      "text": "assuming this is a fixed cost, but in the initial year, then minus $5,000, we'd be saving about $79,000"
+    },
+    {
+      "start": 1816.8,
+      "end": 1820.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "net. All right, that sounds good. Let's go ahead and conclude the case with your mind just"
+    },
+    {
+      "start": 1820.6399999999999,
+      "end": 1824.24,
+      "speaker": "SPEAKER_01",
+      "text": "providing a summary of your findings. Of course, you give me a moment. Sure."
+    },
+    {
+      "start": 1825.2,
+      "end": 1827.04,
+      "speaker": "SPEAKER_02",
+      "text": "I don't know if I can come up with a summary."
+    },
+    {
+      "start": 1838.96,
+      "end": 1843.92,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so given that we've analyzed the exhibits and the financials provided by the client,"
+    },
+    {
+      "start": 1843.92,
+      "end": 1850.88,
+      "speaker": "SPEAKER_02",
+      "text": "it seems like we have two main drivers of costs. The first one is spoilage, and the second one"
+    },
+    {
+      "start": 1851.7600000000002,
+      "end": 1859.6000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "is our employees. Starting with spoilage, it seems like if we were to change our detection technology,"
+    },
+    {
+      "start": 1859.92,
+      "end": 1865.68,
+      "speaker": "SPEAKER_02",
+      "text": "as well as employee training program, we could save about $200,000 a year net."
+    },
+    {
+      "start": 1866.88,
+      "end": 1873.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "The second one is the shift in working style. As we just analyzed, if we change to competitor"
+    },
+    {
+      "start": 1874.0,
+      "end": 1881.84,
+      "speaker": "SPEAKER_02",
+      "text": "one style, which is three shifts instead of two and less hours per employee, eight instead of"
+    },
+    {
+      "start": 1881.84,
+      "end": 1890.24,
+      "speaker": "SPEAKER_02",
+      "text": "12, we could save about $80,000 net in the initial year for employees, leading to about $280,000"
+    },
+    {
+      "start": 1891.04,
+      "end": 1896.32,
+      "speaker": "SPEAKER_02",
+      "text": "in total savings. Of course, we would have to analyze this in greater detail, but I feel like"
+    },
+    {
+      "start": 1896.32,
+      "end": 1900.32,
+      "speaker": "SPEAKER_02",
+      "text": "just by doing this, we could at least get the company a little bit back on track."
+    },
+    {
+      "start": 1900.32,
+      "end": 1902.48,
+      "speaker": "SPEAKER_01",
+      "text": "All right, sounds great. Thanks a lot for your time. Thanks."
+    },
+    {
+      "start": 1903.1200000000001,
+      "end": 1907.04,
+      "speaker": "SPEAKER_00",
+      "text": "In summary, the candidate delivered a strong performance throughout the case."
+    },
+    {
+      "start": 1907.76,
+      "end": 1913.2,
+      "speaker": "SPEAKER_00",
+      "text": "Let's now review her performance using the prep matter scorecard, starting with problem solving"
+    },
+    {
+      "start": 1913.2,
+      "end": 1918.96,
+      "speaker": "SPEAKER_00",
+      "text": "and insights. Starting with structure, her framework addressed the question directly,"
+    },
+    {
+      "start": 1918.96,
+      "end": 1924.48,
+      "speaker": "SPEAKER_00",
+      "text": "though she could have made her data requests, such as the historical cost breakdown, even more"
+    },
+    {
+      "start": 1924.48,
+      "end": 1931.2,
+      "speaker": "SPEAKER_00",
+      "text": "explicit. Moving to judgment, her business acumen was evident throughout the case. She understood"
+    },
+    {
+      "start": 1931.3600000000001,
+      "end": 1937.28,
+      "speaker": "SPEAKER_00",
+      "text": "why she was shown each exhibit and reached conclusions quickly. One of the most impressive moments"
+    },
+    {
+      "start": 1937.28,
+      "end": 1942.24,
+      "speaker": "SPEAKER_00",
+      "text": "was when she went beyond the data in exhibit four and used her judgment to highlight the"
+    },
+    {
+      "start": 1942.24,
+      "end": 1948.72,
+      "speaker": "SPEAKER_00",
+      "text": "productivity issue related to the current labor shift structure. For rigor, the case involved"
+    },
+    {
+      "start": 1948.72,
+      "end": 1955.52,
+      "speaker": "SPEAKER_00",
+      "text": "two numerical components in exhibit three and exhibit four. She handled both without any calculation"
+    },
+    {
+      "start": 1956.24,
+      "end": 1961.44,
+      "speaker": "SPEAKER_00",
+      "text": "errors. Just as importantly, she explained her numerical approach before computing the figures,"
+    },
+    {
+      "start": 1961.44,
+      "end": 1964.32,
+      "speaker": "SPEAKER_00",
+      "text": "which made it easy for the interviewer to follow her logic."
+    },
+    {
+      "start": 1965.36,
+      "end": 1971.28,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of creativity, she performed strongly. When brainstorming reasons for spoilage and"
+    },
+    {
+      "start": 1971.28,
+      "end": 1976.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "overtime costs, she came up with a thorough and relevant list of hypotheses tailored to the"
+    },
+    {
+      "start": 1976.8799999999999,
+      "end": 1984.16,
+      "speaker": "SPEAKER_00",
+      "text": "t-shirt manufacturing context. On synthesis, she was able to communicate the so-what of her analysis"
+    },
+    {
+      "start": 1984.24,
+      "end": 1990.0,
+      "speaker": "SPEAKER_00",
+      "text": "well throughout the case. However, her final recommendation could have been improved in two ways."
+    },
+    {
+      "start": 1990.64,
+      "end": 1995.68,
+      "speaker": "SPEAKER_00",
+      "text": "First, she did not need to sum up the savings from the spoilage and labor initiatives,"
+    },
+    {
+      "start": 1995.68,
+      "end": 2001.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "since the $80,000 labor shift savings were per processing unit not company-wide."
+    },
+    {
+      "start": 2002.16,
+      "end": 2007.92,
+      "speaker": "SPEAKER_00",
+      "text": "Second, it is always helpful to end the case by outlining some risks and next steps for the"
+    },
+    {
+      "start": 2007.92,
+      "end": 2014.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "recommended strategies. Now, let's move on to communication and presence. Starting with"
+    },
+    {
+      "start": 2014.1599999999999,
+      "end": 2020.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "presence, she clearly showed the McKinsey go-getter profile throughout the case. It felt more like"
+    },
+    {
+      "start": 2020.1599999999999,
+      "end": 2025.84,
+      "speaker": "SPEAKER_00",
+      "text": "two experienced consultants working through a real client problem, rather than a typical candidate"
+    },
+    {
+      "start": 2025.84,
+      "end": 2031.6,
+      "speaker": "SPEAKER_00",
+      "text": "interviewer exchange. Looking at precision, she got to the point quickly each time she worked"
+    },
+    {
+      "start": 2031.6,
+      "end": 2037.28,
+      "speaker": "SPEAKER_00",
+      "text": "through an exhibit. As mentioned earlier, taking a moment before speaking and understanding why"
+    },
+    {
+      "start": 2037.28,
+      "end": 2043.52,
+      "speaker": "SPEAKER_00",
+      "text": "she was shown each exhibit helped her stay focused and concise. In terms of active listening,"
+    },
+    {
+      "start": 2043.52,
+      "end": 2048.4,
+      "speaker": "SPEAKER_00",
+      "text": "given the interviewer led nature of the case, she was asked a number of questions throughout."
+    },
+    {
+      "start": 2049.04,
+      "end": 2053.6,
+      "speaker": "SPEAKER_00",
+      "text": "She seemed to understand all of them clearly, and the interviewer rarely had to repeat"
+    },
+    {
+      "start": 2053.6,
+      "end": 2060.16,
+      "speaker": "SPEAKER_00",
+      "text": "himself, which allowed the conversation to flow smoothly. Finally, on relationship management,"
+    },
+    {
+      "start": 2060.16,
+      "end": 2065.6,
+      "speaker": "SPEAKER_00",
+      "text": "she kept the interviewer engaged by asking for clarifications when needed and consistently"
+    },
+    {
+      "start": 2065.6,
+      "end": 2071.52,
+      "speaker": "SPEAKER_00",
+      "text": "sharing her thought process. She also maintained a positive and collaborative tone throughout the case."
+    }
+  ],
+  "grading": {
+    "communication": 17,
+    "framework": 14,
+    "math": 9,
+    "case_difficulty": 9,
+    "final_summary": 13,
+    "overall_thoughts": "Your solution lacks clarity and is difficult to follow. The framework could be improved by providing more context and explaining how the different parts fit together."
+  }
+}

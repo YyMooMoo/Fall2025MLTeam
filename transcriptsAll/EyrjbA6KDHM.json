@@ -1,0 +1,2906 @@
+[
+  {
+    "start": 0.0,
+    "end": 10.94,
+    "speaker": "SPEAKER_00",
+    "text": "So Pascal, our client is SimpleSwipe. They are a credit and debit processor. They provide"
+  },
+  {
+    "start": 10.94,
+    "end": 16.48,
+    "speaker": "SPEAKER_00",
+    "text": "outsource services to credit and debit card issuers. The issuer pays a percentage of"
+  },
+  {
+    "start": 16.48,
+    "end": 21.82,
+    "speaker": "SPEAKER_00",
+    "text": "transaction fees to SimpleSwipe for providing the following services, credit authorization,"
+  },
+  {
+    "start": 21.82,
+    "end": 28.060000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "fraud detection, accounting, and reporting. Issueers outsource this type of function because"
+  },
+  {
+    "start": 28.06,
+    "end": 33.82,
+    "speaker": "SPEAKER_00",
+    "text": "of the high cost of maintaining their IT system to perform the function. Our client SimpleSwipe"
+  },
+  {
+    "start": 33.82,
+    "end": 39.62,
+    "speaker": "SPEAKER_00",
+    "text": "currently serves 10 of the top 20 issuers in the country and they comprise about 90% of"
+  },
+  {
+    "start": 39.62,
+    "end": 45.14,
+    "speaker": "SPEAKER_00",
+    "text": "the entire credit card market. The 10 of the 20 that are not our customers either use"
+  },
+  {
+    "start": 45.14,
+    "end": 51.379999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "our competition or they perform this function in-house. The number of credit card transactions"
+  },
+  {
+    "start": 51.38,
+    "end": 58.18,
+    "speaker": "SPEAKER_00",
+    "text": "is growing at about 4% annually. We earn a percentage of the transaction fee on every transaction"
+  },
+  {
+    "start": 58.18,
+    "end": 66.28,
+    "speaker": "SPEAKER_00",
+    "text": "and that's how we primarily make money. SimpleSwipe has enjoyed double-digit growth over"
+  },
+  {
+    "start": 66.28,
+    "end": 71.02000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "the last decade and they're coming to us to see how they can continue enjoying this"
+  },
+  {
+    "start": 71.02000000000001,
+    "end": 73.42,
+    "speaker": "SPEAKER_00",
+    "text": "type of growth for the next decade."
+  },
+  {
+    "start": 73.42,
+    "end": 78.58,
+    "speaker": "SPEAKER_02",
+    "text": "Great. Thank you so much for the fact. I am personally a big user of credit cards on"
+  },
+  {
+    "start": 78.58,
+    "end": 82.66,
+    "speaker": "SPEAKER_02",
+    "text": "daily basis so I'm very excited to work on this case. I just want to make sure I get"
+  },
+  {
+    "start": 82.66,
+    "end": 86.4,
+    "speaker": "SPEAKER_02",
+    "text": "the case facts right here. So, the client is SimpleSwipe which is a credit and debit card"
+  },
+  {
+    "start": 86.4,
+    "end": 92.46,
+    "speaker": "SPEAKER_02",
+    "text": "processor and the many clients are some of the credit card issuers in our country. Sounds"
+  },
+  {
+    "start": 92.46,
+    "end": 97.1,
+    "speaker": "SPEAKER_02",
+    "text": "like the business has three main business lines. So, credit card authorization, fraud"
+  },
+  {
+    "start": 97.1,
+    "end": 102.7,
+    "speaker": "SPEAKER_02",
+    "text": "detection, and so on the accounting reporting services for some of these credit card issuers."
+  },
+  {
+    "start": 102.7,
+    "end": 107.18,
+    "speaker": "SPEAKER_02",
+    "text": "Looks like our client is a pretty big player in the credit card industry serving 10 out of"
+  },
+  {
+    "start": 107.18,
+    "end": 113.56,
+    "speaker": "SPEAKER_02",
+    "text": "the 20 top credit card issuers in the market which accounts for about 90% of the credit card"
+  },
+  {
+    "start": 113.56,
+    "end": 118.52000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "market and looks like the market of all has been doing pretty well. We're growing at about"
+  },
+  {
+    "start": 118.52000000000001,
+    "end": 123.9,
+    "speaker": "SPEAKER_02",
+    "text": "4% on an annual basis and the business model really is to get a percentage of the transaction"
+  },
+  {
+    "start": 123.9,
+    "end": 131.14000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "fee that gets approved for all these credit card transactions. So, our client has experienced"
+  },
+  {
+    "start": 131.14000000000001,
+    "end": 135.62,
+    "speaker": "SPEAKER_02",
+    "text": "double-digit growth from the last decade and a question really here as far as to how"
+  },
+  {
+    "start": 135.62,
+    "end": 141.06,
+    "speaker": "SPEAKER_02",
+    "text": "we sustain that growth going forward. Does that sound about right? Sounds great. Okay, if"
+  },
+  {
+    "start": 141.06,
+    "end": 145.94,
+    "speaker": "SPEAKER_02",
+    "text": "I ask a little clarifying questions regarding the objective of our clients here. I just want"
+  },
+  {
+    "start": 145.94,
+    "end": 149.94,
+    "speaker": "SPEAKER_02",
+    "text": "to make sure. So, looks like we've been doing pretty well in the last decade or so. So,"
+  },
+  {
+    "start": 149.94,
+    "end": 153.74,
+    "speaker": "SPEAKER_02",
+    "text": "this our client has a specific metric that is trying to hit whether this top line bottom"
+  },
+  {
+    "start": 153.74,
+    "end": 158.06,
+    "speaker": "SPEAKER_02",
+    "text": "line where what is the timeline they want to achieve that? Yeah, I think we're going to"
+  },
+  {
+    "start": 158.06,
+    "end": 163.14000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "focus primarily on revenue here and it is again, how do we keep up double-digit revenue"
+  },
+  {
+    "start": 163.14,
+    "end": 170.73999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "growth? Okay, so we want to achieve, we don't keep the double-digit revenue growth and"
+  },
+  {
+    "start": 170.73999999999998,
+    "end": 176.22,
+    "speaker": "SPEAKER_02",
+    "text": "is there so there's no sort of the timeline that they're working with. What's the sort"
+  },
+  {
+    "start": 176.22,
+    "end": 181.29999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "of the? I think you know they like the fact that I would say a decade is really what they"
+  },
+  {
+    "start": 181.29999999999998,
+    "end": 187.01999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "came to us with. They're coming to us to see if they can sustain that but you know they've"
+  },
+  {
+    "start": 187.01999999999998,
+    "end": 190.77999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "enjoyed double-digit revenue growth for the last decade and they want to keep it up again"
+  },
+  {
+    "start": 190.78,
+    "end": 201.02,
+    "speaker": "SPEAKER_02",
+    "text": "for the next decade. Next decade, got it. Great and is there any sort of budgetary restraints"
+  },
+  {
+    "start": 201.02,
+    "end": 207.66,
+    "speaker": "SPEAKER_02",
+    "text": "or anything else that we need to be mindful of as we go into our analyzing this? Nothing,"
+  },
+  {
+    "start": 207.66,
+    "end": 212.42000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "you know, super pertinent to them. Okay, yeah, that sounds good. I think I have what I need"
+  },
+  {
+    "start": 212.42000000000002,
+    "end": 215.82,
+    "speaker": "SPEAKER_02",
+    "text": "for now. Okay, if I take a quick minute to see what I have some thoughts. Of course."
+  },
+  {
+    "start": 215.82,
+    "end": 223.57999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Thank you. Great, so thinking about continuing the double-digit growth in revenue, primarily"
+  },
+  {
+    "start": 223.57999999999998,
+    "end": 230.45999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "you have two areas I want to look into. One is the organic or internal factors and then"
+  },
+  {
+    "start": 230.45999999999998,
+    "end": 234.42,
+    "speaker": "SPEAKER_02",
+    "text": "the other one is the external or inorganic factors that they'll potentially consider."
+  },
+  {
+    "start": 234.42,
+    "end": 239.38,
+    "speaker": "SPEAKER_02",
+    "text": "So in the organic factors, primarily we know the revenue is the function of price times"
+  },
+  {
+    "start": 239.38,
+    "end": 244.66,
+    "speaker": "SPEAKER_02",
+    "text": "quantity. So I wonder if there's ways to improve either price or quantities for both. So"
+  },
+  {
+    "start": 244.66,
+    "end": 249.18,
+    "speaker": "SPEAKER_02",
+    "text": "on the price, I wonder if it's possible to do some contract negotiation with some of"
+  },
+  {
+    "start": 249.18,
+    "end": 254.01999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "the major credit card issues that we're currently servicing to extract perhaps a higher percentage"
+  },
+  {
+    "start": 254.01999999999998,
+    "end": 260.14,
+    "speaker": "SPEAKER_02",
+    "text": "of the credit card transactions fees that we're getting. Also, if it's possible to provide"
+  },
+  {
+    "start": 260.14,
+    "end": 265.86,
+    "speaker": "SPEAKER_02",
+    "text": "some premium services that charges a higher-part price point, we know that we're currently providing"
+  },
+  {
+    "start": 265.86,
+    "end": 271.02,
+    "speaker": "SPEAKER_02",
+    "text": "you know, fraud detections, accounting reporting, things like that. So I wonder if there's"
+  },
+  {
+    "start": 271.02,
+    "end": 275.97999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "possible to extract the higher-part price point from any of those services. And from a"
+  },
+  {
+    "start": 275.97999999999996,
+    "end": 281.29999999999995,
+    "speaker": "SPEAKER_02",
+    "text": "quantity perspective, the way to increase quantity would be to improve sales and marketing."
+  },
+  {
+    "start": 281.29999999999995,
+    "end": 286.62,
+    "speaker": "SPEAKER_02",
+    "text": "I wonder if it's possible to reach a broader base of customers from sales and marketing"
+  },
+  {
+    "start": 286.62,
+    "end": 291.94,
+    "speaker": "SPEAKER_02",
+    "text": "efforts as possible. We do some promotions just from a quantity perspective to get more"
+  },
+  {
+    "start": 291.94,
+    "end": 298.21999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "of the issuers on board or if it's possible to get into more of the credit card processing"
+  },
+  {
+    "start": 298.22,
+    "end": 304.46000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "industries that are industries that's not currently being covered such as more cash-based,"
+  },
+  {
+    "start": 304.46000000000004,
+    "end": 310.5,
+    "speaker": "SPEAKER_02",
+    "text": "perhaps transaction type or through the other online alternative that don't involve credit cards."
+  },
+  {
+    "start": 310.5,
+    "end": 315.86,
+    "speaker": "SPEAKER_02",
+    "text": "If you can capture some of those markets, I'm thinking to improve our quantities of the"
+  },
+  {
+    "start": 315.86,
+    "end": 319.70000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "customers that we serve that be great. And the second bucket is really the organic buckets."
+  },
+  {
+    "start": 319.70000000000005,
+    "end": 325.22,
+    "speaker": "SPEAKER_02",
+    "text": "Here, I'm thinking if it's possible to do some emergency acquisitions activities, I know our"
+  },
+  {
+    "start": 325.22,
+    "end": 329.46000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "conscious is one of the biggest players. It sounds like in a marketplace, there's got to be"
+  },
+  {
+    "start": 329.46000000000004,
+    "end": 333.98,
+    "speaker": "SPEAKER_02",
+    "text": "other competitors. Maybe there's a little bit smaller, and that makes sense to acquire those"
+  },
+  {
+    "start": 333.98,
+    "end": 338.5,
+    "speaker": "SPEAKER_02",
+    "text": "players to just increase our overall customer base and increase our market coverage. Also,"
+  },
+  {
+    "start": 338.5,
+    "end": 343.58000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "I wonder if it's possible to do some partnerships with some of the other players in thinking"
+  },
+  {
+    "start": 343.58000000000004,
+    "end": 351.22,
+    "speaker": "SPEAKER_02",
+    "text": "about increasing our exposures to the overall credit card processing market there. And finally,"
+  },
+  {
+    "start": 351.22,
+    "end": 358.94000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "I wonder if it's possible to start some additional business lines to capture more either"
+  },
+  {
+    "start": 358.94000000000005,
+    "end": 364.38000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "a critical processing or some of the more auxiliary business lines that compare to our top-line"
+  },
+  {
+    "start": 364.38000000000005,
+    "end": 369.26000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "revenue there. So those are some of the thoughts that I have. And the hypothesis here really"
+  },
+  {
+    "start": 369.26000000000005,
+    "end": 374.18,
+    "speaker": "SPEAKER_02",
+    "text": "would be to extend that we can increase either price or quantity from existing business,"
+  },
+  {
+    "start": 374.18,
+    "end": 380.26000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "or we can come up with some organic options to improve the overall capture of the critical"
+  },
+  {
+    "start": 380.26,
+    "end": 384.9,
+    "speaker": "SPEAKER_02",
+    "text": "processing market. We will be able to sustain that double digit growth in going forward. So I"
+  },
+  {
+    "start": 384.9,
+    "end": 390.5,
+    "speaker": "SPEAKER_02",
+    "text": "guess to start us off, I would like to look into the organic or internal buckets,"
+  },
+  {
+    "start": 390.5,
+    "end": 395.14,
+    "speaker": "SPEAKER_02",
+    "text": "how our clients pass looked into some of the options to increase either price or quantities."
+  },
+  {
+    "start": 395.14,
+    "end": 400.74,
+    "speaker": "SPEAKER_00",
+    "text": "You know, going forward? Great. So just some questions on that. I know you mentioned in the"
+  },
+  {
+    "start": 400.74,
+    "end": 405.94,
+    "speaker": "SPEAKER_00",
+    "text": "quantity portion, you wanted to look at some different revenue streams. How is that different?"
+  },
+  {
+    "start": 406.1,
+    "end": 409.94,
+    "speaker": "SPEAKER_00",
+    "text": "And you wanted to look at verticals. How is that different than the inorganic growth option that"
+  },
+  {
+    "start": 409.94,
+    "end": 419.46,
+    "speaker": "SPEAKER_02",
+    "text": "you had in the second, in the third or fourth bucket? Yeah. So here in looking at verticals,"
+  },
+  {
+    "start": 419.46,
+    "end": 423.7,
+    "speaker": "SPEAKER_02",
+    "text": "so in organic buckets, primary one to focus on existing verticals, so that would be the current"
+  },
+  {
+    "start": 423.7,
+    "end": 427.78,
+    "speaker": "SPEAKER_02",
+    "text": "characterization, the fraud detection as well as the accounting and reporting services that"
+  },
+  {
+    "start": 427.78,
+    "end": 433.62,
+    "speaker": "SPEAKER_02",
+    "text": "are constantly producing. So to extend the way we increase the exposure with quantity"
+  },
+  {
+    "start": 433.62,
+    "end": 439.94,
+    "speaker": "SPEAKER_02",
+    "text": "of subscribers to those services, that can go be really great. So growing in terms of our"
+  },
+  {
+    "start": 439.94,
+    "end": 447.54,
+    "speaker": "SPEAKER_02",
+    "text": "existing services, growing the customers. Yeah, going to the quantity of that. And the"
+  },
+  {
+    "start": 447.54,
+    "end": 451.46,
+    "speaker": "SPEAKER_02",
+    "text": "inorganic buckets I was thinking about coming up with additional service lines or business lines"
+  },
+  {
+    "start": 451.46,
+    "end": 458.58,
+    "speaker": "SPEAKER_02",
+    "text": "that are not currently in those three buckets. So there, I wonder any sort of the perhaps,"
+  },
+  {
+    "start": 459.3,
+    "end": 465.62,
+    "speaker": "SPEAKER_02",
+    "text": "the consumer financing services or for to break down the bulk purchasing or anything"
+  },
+  {
+    "start": 465.62,
+    "end": 469.62,
+    "speaker": "SPEAKER_02",
+    "text": "or sort of the Fintech services that could be auxiliary to overall. That's interesting."
+  },
+  {
+    "start": 469.62,
+    "end": 475.86,
+    "speaker": "SPEAKER_00",
+    "text": "That's interesting. What are some services that you think we could offer that would be easy"
+  },
+  {
+    "start": 475.86,
+    "end": 483.94,
+    "speaker": "SPEAKER_02",
+    "text": "for us to tap into? Yeah. So okay, if I take a quick moment on this one. I just"
+  },
+  {
+    "start": 484.02,
+    "end": 490.1,
+    "speaker": "SPEAKER_02",
+    "text": "brainstorming on topic. Yeah. Yeah. Yeah. Happy to. So thinking about the commercial or the consumer"
+  },
+  {
+    "start": 490.1,
+    "end": 497.22,
+    "speaker": "SPEAKER_02",
+    "text": "products that we are using, perhaps on our cell phones, I think something like a memo where you"
+  },
+  {
+    "start": 497.22,
+    "end": 500.98,
+    "speaker": "SPEAKER_02",
+    "text": "don't really touch the credit card, but you know, I offer a lot of the online financial"
+  },
+  {
+    "start": 500.98,
+    "end": 505.46,
+    "speaker": "SPEAKER_02",
+    "text": "transaction processing services that could be something that would be good to look into."
+  },
+  {
+    "start": 505.46,
+    "end": 511.38,
+    "speaker": "SPEAKER_02",
+    "text": "Also from a consumer perspective or consumer financial perspective, if you want to buy a big"
+  },
+  {
+    "start": 511.38,
+    "end": 518.34,
+    "speaker": "SPEAKER_02",
+    "text": "ticket item, you can offer maybe a consumer credit for some of those big bulk purchases. I know"
+  },
+  {
+    "start": 518.34,
+    "end": 524.66,
+    "speaker": "SPEAKER_02",
+    "text": "one of the companies affirmed that just when when public, recently that's one of the companies"
+  },
+  {
+    "start": 524.66,
+    "end": 530.02,
+    "speaker": "SPEAKER_02",
+    "text": "that deals with that. I think also maybe from peer-to-peer lending perspective because"
+  },
+  {
+    "start": 530.02,
+    "end": 534.5,
+    "speaker": "SPEAKER_02",
+    "text": "a process in ultimately relates to financial transactions and services to the extent that we can"
+  },
+  {
+    "start": 534.5,
+    "end": 538.74,
+    "speaker": "SPEAKER_02",
+    "text": "facilitate some of the IT infrastructure for people to lend money to each other more easily that"
+  },
+  {
+    "start": 538.74,
+    "end": 543.94,
+    "speaker": "SPEAKER_00",
+    "text": "could be something that to look into as well. Cool. That's interesting. So I guess in terms of"
+  },
+  {
+    "start": 543.94,
+    "end": 549.7,
+    "speaker": "SPEAKER_00",
+    "text": "looking at new verticals, what are some criteria that you would use? Is there, you know, if I was to"
+  },
+  {
+    "start": 549.7,
+    "end": 554.1,
+    "speaker": "SPEAKER_00",
+    "text": "come up with a chart and ask you, you know, there's a couple different options. What are some criteria"
+  },
+  {
+    "start": 554.1,
+    "end": 559.46,
+    "speaker": "SPEAKER_00",
+    "text": "that you would use to determine if this is a low-hanging fruit item for us or not?"
+  },
+  {
+    "start": 562.42,
+    "end": 566.82,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah. Okay. If I take a quick moment. Just let's just let's just talk. Oh, wait, just"
+  },
+  {
+    "start": 566.82,
+    "end": 574.34,
+    "speaker": "SPEAKER_02",
+    "text": "brace on my outfit. Yeah, just brace on my outfit. Yeah, I think so for the criteria, probably I'm"
+  },
+  {
+    "start": 574.34,
+    "end": 579.86,
+    "speaker": "SPEAKER_02",
+    "text": "thinking of you know, bucketing into internal external criteria. So external criteria. I think"
+  },
+  {
+    "start": 579.86,
+    "end": 585.1400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "it'd be really good to look into sort of the industry growth, size growth and trends to see,"
+  },
+  {
+    "start": 585.1400000000001,
+    "end": 588.6600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "you know, if we're talking about consumer credit, it'd be interesting to know, you know, how"
+  },
+  {
+    "start": 588.6600000000001,
+    "end": 593.7800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "big the overall industry has grown. Over the past years, how fast is has grown and was sort of"
+  },
+  {
+    "start": 593.78,
+    "end": 598.42,
+    "speaker": "SPEAKER_02",
+    "text": "the market penetration as well as what are the key players? I think in that market, I think that"
+  },
+  {
+    "start": 598.42,
+    "end": 602.98,
+    "speaker": "SPEAKER_02",
+    "text": "would be interesting for us to know. From internal perspective, we're good to see, you know,"
+  },
+  {
+    "start": 602.98,
+    "end": 609.22,
+    "speaker": "SPEAKER_02",
+    "text": "what's the typical margin for these type of businesses are, you know, how fast are we able to grow,"
+  },
+  {
+    "start": 610.02,
+    "end": 613.9399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "you know, our subscriber, you know, from internally, you know, over the past years, or maybe look"
+  },
+  {
+    "start": 613.9399999999999,
+    "end": 617.38,
+    "speaker": "SPEAKER_02",
+    "text": "at some of the metrics from our competitors to see how fast they were able to grow, you know,"
+  },
+  {
+    "start": 617.38,
+    "end": 622.26,
+    "speaker": "SPEAKER_02",
+    "text": "the subscriber base, things like that. Okay. So those two buckets we can probably do. I don't know why it's not."
+  },
+  {
+    "start": 622.8199999999999,
+    "end": 627.38,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. So I guess if I asked you, if we were going to look at our customer verticals,"
+  },
+  {
+    "start": 627.38,
+    "end": 634.02,
+    "speaker": "SPEAKER_00",
+    "text": "because I think we're talking about verticals here, what it makes sense to target customers that"
+  },
+  {
+    "start": 634.02,
+    "end": 639.78,
+    "speaker": "SPEAKER_00",
+    "text": "we already have and, you know, see if we can sell follow-on services to them, is that something that"
+  },
+  {
+    "start": 640.34,
+    "end": 650.42,
+    "speaker": "SPEAKER_02",
+    "text": "would be a good idea? Yeah. So looking at whether or not it makes sense to selling, you know,"
+  },
+  {
+    "start": 650.42,
+    "end": 658.0999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "follow-on services to the customers to be interesting to see what's the current, you know, spend"
+  },
+  {
+    "start": 658.0999999999999,
+    "end": 663.38,
+    "speaker": "SPEAKER_02",
+    "text": "for a customer, you know, on a customer basis, I wonder if there's a lot of room to grow"
+  },
+  {
+    "start": 663.38,
+    "end": 667.6999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "what's our wallet share for these customers as well as, you know, what are some of the ways"
+  },
+  {
+    "start": 667.6999999999999,
+    "end": 673.3,
+    "speaker": "SPEAKER_02",
+    "text": "to be compassionate, think about improving those wallet shares. So, you know, selling follow-on,"
+  },
+  {
+    "start": 673.3,
+    "end": 679.4599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "I think to the extent that it's a strong value add that is, you know, relevant to, you know,"
+  },
+  {
+    "start": 679.46,
+    "end": 684.1800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "what the customer is currently spending on, in which case, you know, or in our clients case,"
+  },
+  {
+    "start": 684.1800000000001,
+    "end": 688.98,
+    "speaker": "SPEAKER_02",
+    "text": "it's critical processing and fraud detection. So maybe something like, you know, credit monitoring,"
+  },
+  {
+    "start": 688.98,
+    "end": 692.82,
+    "speaker": "SPEAKER_02",
+    "text": "or things that could be really relevant to what we're already providing, I think those are"
+  },
+  {
+    "start": 692.82,
+    "end": 698.58,
+    "speaker": "SPEAKER_00",
+    "text": "potential ways to sort of increase that. Great. So we've actually been thinking about a couple"
+  },
+  {
+    "start": 698.58,
+    "end": 704.1800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "different ways to make revenue and one option is that we could license our software as an additional"
+  },
+  {
+    "start": 704.18,
+    "end": 711.3,
+    "speaker": "SPEAKER_00",
+    "text": "revenue stream, in addition to being the outsource processor. So in this case, the issue were that"
+  },
+  {
+    "start": 711.3,
+    "end": 716.5,
+    "speaker": "SPEAKER_00",
+    "text": "we would sell it to with license our software and process the transactions in-house. And so,"
+  },
+  {
+    "start": 716.5,
+    "end": 720.7399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "instead of taking a transaction fee, we would take an up-to-art license fee as well as an ongoing"
+  },
+  {
+    "start": 720.7399999999999,
+    "end": 725.9399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "maintenance fee. If we were to consider this option, what are some things that we should take into"
+  },
+  {
+    "start": 725.9399999999999,
+    "end": 733.8599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "consideration? Great. Okay, if I take a quick moment on this one. Yeah, quick second."
+  },
+  {
+    "start": 734.7399999999999,
+    "end": 736.7399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 754.66,
+    "end": 761.38,
+    "speaker": "SPEAKER_02",
+    "text": "Great. So, two key things to consider here really would be that within economics"
+  },
+  {
+    "start": 761.38,
+    "end": 764.82,
+    "speaker": "SPEAKER_02",
+    "text": "want to look into both revenue and cost. So in the revenue, obviously, we get the"
+  },
+  {
+    "start": 764.82,
+    "end": 770.5,
+    "speaker": "SPEAKER_02",
+    "text": "upfront license fee and maintenance fees. I wonder how that would compare. If we were to do some of"
+  },
+  {
+    "start": 770.5,
+    "end": 777.06,
+    "speaker": "SPEAKER_02",
+    "text": "those transactions processing for the target customers. So I think one key thing to look into"
+  },
+  {
+    "start": 777.06,
+    "end": 781.46,
+    "speaker": "SPEAKER_02",
+    "text": "it would be kind ofization, because people are switching over to the license product, they won't be"
+  },
+  {
+    "start": 781.46,
+    "end": 785.7,
+    "speaker": "SPEAKER_02",
+    "text": "requiring our service to do it for them anymore. So I wonder what the bottom line impact is."
+  },
+  {
+    "start": 786.4200000000001,
+    "end": 791.38,
+    "speaker": "SPEAKER_02",
+    "text": "We'll be for that. And then from a cost perspective, so that's a red perspective. From a cost"
+  },
+  {
+    "start": 791.38,
+    "end": 797.86,
+    "speaker": "SPEAKER_02",
+    "text": "perspective, I think this will have less reliance on our current digital processing infrastructure."
+  },
+  {
+    "start": 797.86,
+    "end": 803.5400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So cost might be a little bit lower. For us, so the integration here, the Dino licensing"
+  },
+  {
+    "start": 803.5400000000001,
+    "end": 808.82,
+    "speaker": "SPEAKER_02",
+    "text": "deal rather than the process and transaction type deal will be a higher margin business for us."
+  },
+  {
+    "start": 808.82,
+    "end": 812.1800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So it'd be interesting to sort of look into that and see that actually puts out."
+  },
+  {
+    "start": 812.9799999999999,
+    "end": 817.6999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, so funny enough, we actually did a little bit of a study. And so what we found out is that"
+  },
+  {
+    "start": 817.6999999999999,
+    "end": 823.2199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "if we actually go with this type of model, 50% of our existing customers would switch to this model."
+  },
+  {
+    "start": 823.2199999999999,
+    "end": 829.2199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So it would actually result in some cannibalization. 50% of our existing customers would switch over."
+  },
+  {
+    "start": 829.9399999999999,
+    "end": 835.78,
+    "speaker": "SPEAKER_00",
+    "text": "So that's about five assures. We have 10 total and out of the 10 remaining that are not our customers,"
+  },
+  {
+    "start": 835.78,
+    "end": 843.6999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "half of them would switch over and come to our company with us. And so the revenue provided in"
+  },
+  {
+    "start": 843.6999999999999,
+    "end": 851.22,
+    "speaker": "SPEAKER_00",
+    "text": "this the outsourced processing of our old model is $2 million. The upfront licensing fee moving"
+  },
+  {
+    "start": 851.22,
+    "end": 858.3399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "forward with this new model would be $4 million upfront as well as a $400,000 annual maintenance fee."
+  },
+  {
+    "start": 858.4200000000001,
+    "end": 870.6600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Great. So I just want to make sure I captured the information correctly. So out of the 10,"
+  },
+  {
+    "start": 870.6600000000001,
+    "end": 876.6600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "customers that were currently servicing 50% of those 10 will be switching over to the new model"
+  },
+  {
+    "start": 876.6600000000001,
+    "end": 883.3000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "within license model. And out of the 10, out of the 10 that are currently not customers,"
+  },
+  {
+    "start": 883.3,
+    "end": 889.4599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "the 50% of those will switch over and come to us under the new model. That sounds about right."
+  },
+  {
+    "start": 889.4599999999999,
+    "end": 894.8199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "That sounds about right. Yeah. And I guess our client is really excited about this possibility."
+  },
+  {
+    "start": 895.62,
+    "end": 902.3399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "And considering the 10, 10 years, let's just see what it would be like on a three to five year scale."
+  },
+  {
+    "start": 902.3399999999999,
+    "end": 910.9799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "You know, calculate both. Okay. Great. So I think what will make sense for me to do is go ahead and"
+  },
+  {
+    "start": 910.98,
+    "end": 918.74,
+    "speaker": "SPEAKER_02",
+    "text": "calculate what the revenue would be for under the old model, you know, before the switch of our"
+  },
+  {
+    "start": 918.74,
+    "end": 923.7,
+    "speaker": "SPEAKER_02",
+    "text": "customer base and what the numbers will look like after some of the customers that switch over"
+  },
+  {
+    "start": 923.7,
+    "end": 928.1800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "to the new model as well as the acquisition of the new customers under the new models. That sounds"
+  },
+  {
+    "start": 928.1800000000001,
+    "end": 935.54,
+    "speaker": "SPEAKER_02",
+    "text": "good. Yeah. Sounds great. Okay. So we know that we under the old model, we had that 10 other 20"
+  },
+  {
+    "start": 935.54,
+    "end": 940.74,
+    "speaker": "SPEAKER_02",
+    "text": "customers, so that 10 customers on an annual basis are revenue from these customers will be two"
+  },
+  {
+    "start": 940.74,
+    "end": 946.26,
+    "speaker": "SPEAKER_02",
+    "text": "millions ahead. So that comes out to 20 million in total revenue on an annual basis."
+  },
+  {
+    "start": 947.38,
+    "end": 955.2199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "And then under the new model, we have so five customers will remain under the old system. So"
+  },
+  {
+    "start": 955.2199999999999,
+    "end": 962.42,
+    "speaker": "SPEAKER_02",
+    "text": "the five times two millions, so that's 10 millions in annual revenue. And then five of those will"
+  },
+  {
+    "start": 962.5799999999999,
+    "end": 970.3399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "come under the new system. So that would be five times four millions, which is 20 millions"
+  },
+  {
+    "start": 970.3399999999999,
+    "end": 979.38,
+    "speaker": "SPEAKER_02",
+    "text": "in upfront subscription fee plus the $40,000 annually going forward. And finally, we have that"
+  },
+  {
+    "start": 979.38,
+    "end": 984.3399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "50% of the non-customers. So in this case, will be five additional customers. They're switching over"
+  },
+  {
+    "start": 984.3399999999999,
+    "end": 990.9,
+    "speaker": "SPEAKER_02",
+    "text": "and coming to us under the new model. So that's another 20 million dollars in upfront fee plus another"
+  },
+  {
+    "start": 990.9,
+    "end": 998.98,
+    "speaker": "SPEAKER_02",
+    "text": "$400,000 going forward. So under the old model, we have a total annual revenue of 20 million dollars."
+  },
+  {
+    "start": 998.98,
+    "end": 1004.66,
+    "speaker": "SPEAKER_02",
+    "text": "And under the new model, we have a total revenue of 10 million from the old customers who are not"
+  },
+  {
+    "start": 1004.66,
+    "end": 1010.9,
+    "speaker": "SPEAKER_02",
+    "text": "switching over 20 million from the old customers who are switching over as well as 20 from the"
+  },
+  {
+    "start": 1010.9,
+    "end": 1018.18,
+    "speaker": "SPEAKER_02",
+    "text": "customer who weren't customers before. So that's a total 50 million dollars in revenue plus $800,000"
+  },
+  {
+    "start": 1018.3399999999999,
+    "end": 1026.34,
+    "speaker": "SPEAKER_02",
+    "text": "in annual revenue in maintenance fees going forward. So that would translate to on a three to five"
+  },
+  {
+    "start": 1026.34,
+    "end": 1039.54,
+    "speaker": "SPEAKER_02",
+    "text": "years scale, 800, 800 K times three. So that would be 2.4 million. Okay, 2.4 million and then 800 times"
+  },
+  {
+    "start": 1040.82,
+    "end": 1045.54,
+    "speaker": "SPEAKER_02",
+    "text": "five. So that would be about $4 million or so. So in the next three to five years, we can expect"
+  },
+  {
+    "start": 1046.02,
+    "end": 1054.98,
+    "speaker": "SPEAKER_02",
+    "text": "to have a total revenue of 50 million. Can you tell me the so just so I'm following along. So"
+  },
+  {
+    "start": 1054.98,
+    "end": 1058.82,
+    "speaker": "SPEAKER_00",
+    "text": "can you tell me what it would be in year three as well as year five individually?"
+  },
+  {
+    "start": 1060.5,
+    "end": 1069.94,
+    "speaker": "SPEAKER_02",
+    "text": "Yep. So in year three, we have the annual maintenance fee of $800,000 times three,"
+  },
+  {
+    "start": 1070.02,
+    "end": 1078.3400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "which is 2.4 million. And in year five, we have the maintenance fees of $800,000 times five,"
+  },
+  {
+    "start": 1078.3400000000001,
+    "end": 1092.5,
+    "speaker": "SPEAKER_02",
+    "text": "which is 4 million. Annual maintenance fee is $400,000. Okay. Yep. So that's right."
+  },
+  {
+    "start": 1092.98,
+    "end": 1099.86,
+    "speaker": "SPEAKER_00",
+    "text": "Sorry. So let's just take it a step back for a second and let's just go back to three to five"
+  },
+  {
+    "start": 1099.86,
+    "end": 1106.82,
+    "speaker": "SPEAKER_00",
+    "text": "years. So again, under the old model, they're making $2 million per customer under the new model."
+  },
+  {
+    "start": 1107.46,
+    "end": 1111.54,
+    "speaker": "SPEAKER_00",
+    "text": "Half of them are still staying with the old model. Under the new model, they're going to gain"
+  },
+  {
+    "start": 1111.54,
+    "end": 1115.94,
+    "speaker": "SPEAKER_00",
+    "text": "half of them are switching. They're going to take half of their competitors. And upfront, they're"
+  },
+  {
+    "start": 1115.94,
+    "end": 1124.74,
+    "speaker": "SPEAKER_00",
+    "text": "going to pay $4 million. And then annually, they're going to pay $400,000. Yeah. That's right. So"
+  },
+  {
+    "start": 1125.54,
+    "end": 1131.7,
+    "speaker": "SPEAKER_02",
+    "text": "so so what that means is upfront will collect a total of $15 million under the new model. So"
+  },
+  {
+    "start": 1131.7,
+    "end": 1137.46,
+    "speaker": "SPEAKER_02",
+    "text": "that's calculated as the $10 million from the customers who aren't switching over. You know,"
+  },
+  {
+    "start": 1138.26,
+    "end": 1143.78,
+    "speaker": "SPEAKER_02",
+    "text": "five cost five cost customers times $2 million upfront. I'm sorry."
+  },
+  {
+    "start": 1144.9,
+    "end": 1150.98,
+    "speaker": "SPEAKER_00",
+    "text": "Sorry. Oh, I just make this easier. To make this easier, can we do what the revenue would be under"
+  },
+  {
+    "start": 1150.98,
+    "end": 1155.06,
+    "speaker": "SPEAKER_00",
+    "text": "the old model in year three, what it would be under the new model in year three, what the revenue"
+  },
+  {
+    "start": 1155.06,
+    "end": 1160.74,
+    "speaker": "SPEAKER_00",
+    "text": "would be under five, what it would be under the old model, what would it be in five years under"
+  },
+  {
+    "start": 1160.74,
+    "end": 1166.34,
+    "speaker": "SPEAKER_00",
+    "text": "the new model. So we can get it so we can get a direct comparison of what's going on here."
+  },
+  {
+    "start": 1168.02,
+    "end": 1169.7,
+    "speaker": "SPEAKER_02",
+    "text": "Sure. Great."
+  },
+  {
+    "start": 1174.9,
+    "end": 1187.06,
+    "speaker": "SPEAKER_02",
+    "text": "Sounds good. Great. So in year three, so so under the old model in year three, we have the"
+  },
+  {
+    "start": 1187.06,
+    "end": 1192.1799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "10 customers that we started out with with the $2 million per year. So in year three,"
+  },
+  {
+    "start": 1192.8999999999999,
+    "end": 1198.98,
+    "speaker": "SPEAKER_02",
+    "text": "we can expect to be getting so so so so the so the so the $2 million is annual revenue. So"
+  },
+  {
+    "start": 1198.98,
+    "end": 1203.78,
+    "speaker": "SPEAKER_02",
+    "text": "it's 10 customers time. So so the 20 million doesn't change for year three and year five."
+  },
+  {
+    "start": 1205.06,
+    "end": 1212.5,
+    "speaker": "SPEAKER_00",
+    "text": "Right, but what's the number? What is my revenue? If I if I I'm sorry. So that would be 10 customers"
+  },
+  {
+    "start": 1212.5,
+    "end": 1217.06,
+    "speaker": "SPEAKER_02",
+    "text": "times $2 million annually. So that would be $20 million in your three, both year three."
+  },
+  {
+    "start": 1220.5,
+    "end": 1227.06,
+    "speaker": "SPEAKER_00",
+    "text": "I'm asking for say so I guess what I'm asking you for is we want to sustain double"
+  },
+  {
+    "start": 1227.06,
+    "end": 1233.54,
+    "speaker": "SPEAKER_00",
+    "text": "digit growth. And so we're looking at two options. What's the total revenue because I guess let me"
+  },
+  {
+    "start": 1233.54,
+    "end": 1238.98,
+    "speaker": "SPEAKER_00",
+    "text": "ask you a question. What is what is a big difference between these two different types of revenue"
+  },
+  {
+    "start": 1238.98,
+    "end": 1246.1,
+    "speaker": "SPEAKER_02",
+    "text": "models that we're that we're going to go with? Yep. So to my understanding, I think the old"
+  },
+  {
+    "start": 1246.1,
+    "end": 1250.74,
+    "speaker": "SPEAKER_02",
+    "text": "revenue under the old revenue model, we have an annual fee of $2 million per head charged to each"
+  },
+  {
+    "start": 1250.74,
+    "end": 1256.02,
+    "speaker": "SPEAKER_02",
+    "text": "customers, whereas under the new model, the customer will pay upfront fee. So that's a one-time fee"
+  },
+  {
+    "start": 1256.02,
+    "end": 1261.6200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "that's paid, you know, $4 million per head, but going forward, we only get $400,000 a year."
+  },
+  {
+    "start": 1261.6200000000001,
+    "end": 1267.06,
+    "speaker": "SPEAKER_00",
+    "text": "So that's right. So yeah, that sounds right. So what are the what are some pitfalls or things that"
+  },
+  {
+    "start": 1267.06,
+    "end": 1272.4199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "we should keep into consideration whenever we have such a big up front fee and then, you know,"
+  },
+  {
+    "start": 1272.4199999999998,
+    "end": 1281.86,
+    "speaker": "SPEAKER_00",
+    "text": "smaller licensing fees? If we're thinking about long-term growth? Yeah. So that's a key thing to"
+  },
+  {
+    "start": 1281.86,
+    "end": 1287.22,
+    "speaker": "SPEAKER_02",
+    "text": "look out for is that your cash flow in the future years when you don't get the up front fee"
+  },
+  {
+    "start": 1287.22,
+    "end": 1292.5,
+    "speaker": "SPEAKER_02",
+    "text": "would be a lot smaller. So I think customer acquisition in those following years will be important."
+  },
+  {
+    "start": 1292.5,
+    "end": 1297.86,
+    "speaker": "SPEAKER_02",
+    "text": "So do we have any assumptions with regards to the customer growth in the future years?"
+  },
+  {
+    "start": 1297.86,
+    "end": 1301.46,
+    "speaker": "SPEAKER_00",
+    "text": "No, that's something that we would definitely have to take into consideration, which is why we're"
+  },
+  {
+    "start": 1301.46,
+    "end": 1308.26,
+    "speaker": "SPEAKER_00",
+    "text": "we want to look at the numbers overall, you know, because understanding that, you know, in the old model,"
+  },
+  {
+    "start": 1308.26,
+    "end": 1314.02,
+    "speaker": "SPEAKER_00",
+    "text": "we are getting the same amount of money per year. And so one thing is that it would it looks pretty"
+  },
+  {
+    "start": 1314.02,
+    "end": 1319.78,
+    "speaker": "SPEAKER_00",
+    "text": "good in, you know, in years 10 years, say, but under the new model, we're getting $4 million"
+  },
+  {
+    "start": 1319.78,
+    "end": 1325.7,
+    "speaker": "SPEAKER_00",
+    "text": "upfront. Say we switch and in year one, every other customer is like, oh, that's a great idea."
+  },
+  {
+    "start": 1325.7,
+    "end": 1330.42,
+    "speaker": "SPEAKER_00",
+    "text": "We want to go with simple swipe. They're there, you know, we like this model better. We like the"
+  },
+  {
+    "start": 1330.42,
+    "end": 1335.3,
+    "speaker": "SPEAKER_00",
+    "text": "upfront licensing fee and then the ongoing fee. It's a model that, you know, like, you know, I say"
+  },
+  {
+    "start": 1335.3,
+    "end": 1340.98,
+    "speaker": "SPEAKER_00",
+    "text": "as services are all using now. So, you know, we're used to it. We want to do this type of model."
+  },
+  {
+    "start": 1342.26,
+    "end": 1346.58,
+    "speaker": "SPEAKER_00",
+    "text": "And, you know, simple swipe, see if I'll get super excited, you know, we'll look how much money"
+  },
+  {
+    "start": 1346.58,
+    "end": 1352.4199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "we got upfront. But our job as consultants coming in is to go, well, you want double digit revenue"
+  },
+  {
+    "start": 1352.4199999999998,
+    "end": 1358.74,
+    "speaker": "SPEAKER_00",
+    "text": "growth over the next 10 years. So long term, because simple swipe doesn't plan on, you know, selling"
+  },
+  {
+    "start": 1358.74,
+    "end": 1363.78,
+    "speaker": "SPEAKER_00",
+    "text": "its business, it doesn't plan on making a lot of revenue and then leaving. They want to stay in"
+  },
+  {
+    "start": 1363.78,
+    "end": 1371.06,
+    "speaker": "SPEAKER_00",
+    "text": "business for the next 10, 20, 30 years. So your job is to determine, is this a good idea, long term?"
+  },
+  {
+    "start": 1372.02,
+    "end": 1378.4199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Not only just in year one, but overall, what's the revenue if we change this business model?"
+  },
+  {
+    "start": 1379.1399999999999,
+    "end": 1384.26,
+    "speaker": "SPEAKER_00",
+    "text": "So I'd like you to calculate the total revenue that we would get after three years in the old plan."
+  },
+  {
+    "start": 1384.26,
+    "end": 1389.06,
+    "speaker": "SPEAKER_00",
+    "text": "The total revenue that we would get from, you know, the minute we start this to the minute we"
+  },
+  {
+    "start": 1389.78,
+    "end": 1393.06,
+    "speaker": "SPEAKER_00",
+    "text": "hit year three and then the minute we start to the year five. Does that make more sense?"
+  },
+  {
+    "start": 1394.1,
+    "end": 1399.86,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, yeah. So not on like a per year basis, but like overall from year one to year three."
+  },
+  {
+    "start": 1400.02,
+    "end": 1406.1799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, yeah, I think that's what the confusion was like. But yeah, I'll go ahead and run this"
+  },
+  {
+    "start": 1406.1799999999998,
+    "end": 1413.1399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "number now. Thanks so much for the clarification here. So I think so from year one through year three"
+  },
+  {
+    "start": 1413.1399999999999,
+    "end": 1418.74,
+    "speaker": "SPEAKER_02",
+    "text": "under the old model, we have 10 customers times two millions dollars per year. So this 20"
+  },
+  {
+    "start": 1418.74,
+    "end": 1423.3,
+    "speaker": "SPEAKER_02",
+    "text": "millions per year. So in three years, from year one to year three, we're looking at 60 million"
+  },
+  {
+    "start": 1423.3,
+    "end": 1428.6599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "dollars under the old model. And for five years, so that would be 20 millions times five years,"
+  },
+  {
+    "start": 1428.66,
+    "end": 1435.3000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "so that would be 100 million dollars over five years. And then under the new model, we have,"
+  },
+  {
+    "start": 1435.3000000000002,
+    "end": 1439.78,
+    "speaker": "SPEAKER_02",
+    "text": "so from year one to year three, we know year one we're getting a total of 50 million"
+  },
+  {
+    "start": 1440.8200000000002,
+    "end": 1447.5400000000002,
+    "speaker": "SPEAKER_02",
+    "text": "as previously calculated. And we have the 800, 800 thousand dollars per year going forward times three."
+  },
+  {
+    "start": 1447.5400000000002,
+    "end": 1454.5,
+    "speaker": "SPEAKER_02",
+    "text": "So that's so that's two and a half. So that's two and a half million dollars, two point four"
+  },
+  {
+    "start": 1455.3,
+    "end": 1460.26,
+    "speaker": "SPEAKER_02",
+    "text": "million dollars going forward for so far from year one to year three, we can expect to get 52.4"
+  },
+  {
+    "start": 1461.54,
+    "end": 1468.26,
+    "speaker": "SPEAKER_00",
+    "text": "million. Is that is that under the new model? So in year three, so under the new model, half our"
+  },
+  {
+    "start": 1468.26,
+    "end": 1477.46,
+    "speaker": "SPEAKER_02",
+    "text": "customers are staying with the old model? Yes, yes, sorry, yeah, I see that. So under the, yeah,"
+  },
+  {
+    "start": 1477.7,
+    "end": 1486.42,
+    "speaker": "SPEAKER_02",
+    "text": "so we have we have two groups of customers under the new model, so that would be 10 million dollars"
+  },
+  {
+    "start": 1486.42,
+    "end": 1491.38,
+    "speaker": "SPEAKER_02",
+    "text": "per year times three. So that's 30 millions under the people who are staying under the old model"
+  },
+  {
+    "start": 1492.18,
+    "end": 1499.06,
+    "speaker": "SPEAKER_00",
+    "text": "plus the one time the of the Pascal. So under the, we're talking about the new model, right?"
+  },
+  {
+    "start": 1500.5,
+    "end": 1505.78,
+    "speaker": "SPEAKER_00",
+    "text": "So under the old model, just so, you know, we're on the same page, under the old model,"
+  },
+  {
+    "start": 1505.78,
+    "end": 1511.06,
+    "speaker": "SPEAKER_02",
+    "text": "how many customers do we have? Under the old model, we have 10 customers."
+  },
+  {
+    "start": 1511.06,
+    "end": 1517.94,
+    "speaker": "SPEAKER_00",
+    "text": "Right. And so if we switch over to the new plan, half of our old customers would switch over to"
+  },
+  {
+    "start": 1517.94,
+    "end": 1527.86,
+    "speaker": "SPEAKER_00",
+    "text": "this new plan. So cannibalization, like you said, did occur. Right. So so that means there were"
+  },
+  {
+    "start": 1527.86,
+    "end": 1534.02,
+    "speaker": "SPEAKER_02",
+    "text": "five customers who are remaining under the old. Right. So while that were new, if they stayed under the"
+  },
+  {
+    "start": 1534.58,
+    "end": 1539.1399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "the new, under the new plan, the old revenue model, how much would it generate?"
+  },
+  {
+    "start": 1542.18,
+    "end": 1548.26,
+    "speaker": "SPEAKER_02",
+    "text": "So that didn't leave. So so the five customers that remain under the old plans,"
+  },
+  {
+    "start": 1548.26,
+    "end": 1553.78,
+    "speaker": "SPEAKER_02",
+    "text": "though, that would be 10 million dollars per year, just that, right? Yeah, and three years."
+  },
+  {
+    "start": 1555.1399999999999,
+    "end": 1560.98,
+    "speaker": "SPEAKER_00",
+    "text": "So that's 30 million. Okay. And so let's calculate the revenue that we would get under the"
+  },
+  {
+    "start": 1561.94,
+    "end": 1566.98,
+    "speaker": "SPEAKER_00",
+    "text": "the upfront licensing fee, as well as the ongoing subscription for the five customers that"
+  },
+  {
+    "start": 1566.98,
+    "end": 1571.8600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "switched over, as well as the five customers that we would steal from our competitors."
+  },
+  {
+    "start": 1572.82,
+    "end": 1578.1,
+    "speaker": "SPEAKER_02",
+    "text": "Yep. So that's a total of 10 customers times four for a million dollars per head. So that's"
+  },
+  {
+    "start": 1578.1,
+    "end": 1582.1,
+    "speaker": "SPEAKER_02",
+    "text": "a total of 40 million dollars collected in year one after the upfront license fee."
+  },
+  {
+    "start": 1582.1,
+    "end": 1582.74,
+    "speaker": "SPEAKER_01",
+    "text": "Mhm."
+  },
+  {
+    "start": 1584.74,
+    "end": 1590.74,
+    "speaker": "SPEAKER_02",
+    "text": "Plus 800,000 so for us, so 400,000 dollars per year."
+  },
+  {
+    "start": 1592.02,
+    "end": 1592.58,
+    "speaker": "SPEAKER_02",
+    "text": "At three years."
+  },
+  {
+    "start": 1593.86,
+    "end": 1596.26,
+    "speaker": "SPEAKER_02",
+    "text": "Yep. So 400,000 dollars per year,"
+  },
+  {
+    "start": 1598.98,
+    "end": 1602.02,
+    "speaker": "SPEAKER_02",
+    "text": "times three years times 10 customers total."
+  },
+  {
+    "start": 1602.5,
+    "end": 1605.7,
+    "speaker": "UNKNOWN",
+    "text": "So that's 12 million."
+  },
+  {
+    "start": 1605.7,
+    "end": 1607.22,
+    "speaker": "UNKNOWN",
+    "text": "Is it 12 million?"
+  },
+  {
+    "start": 1607.22,
+    "end": 1608.74,
+    "speaker": "SPEAKER_02",
+    "text": "Over over three years."
+  },
+  {
+    "start": 1611.94,
+    "end": 1619.94,
+    "speaker": "SPEAKER_02",
+    "text": "Sorry. So this would be, so we have 10 customers total. So five customers that switched over from the 10."
+  },
+  {
+    "start": 1619.94,
+    "end": 1624.66,
+    "speaker": "SPEAKER_02",
+    "text": "They were old, as well as five customers that were newly acquired. So each customers would"
+  },
+  {
+    "start": 1624.66,
+    "end": 1631.06,
+    "speaker": "SPEAKER_02",
+    "text": "provide 400,000 dollars a year in the maintenance fee. And so that's a total of 10 million dollars per year."
+  },
+  {
+    "start": 1632.02,
+    "end": 1637.06,
+    "speaker": "SPEAKER_02",
+    "text": "And there are 10 total customers. So on the annual basis, this would be four million dollars,"
+  },
+  {
+    "start": 1638.34,
+    "end": 1643.62,
+    "speaker": "SPEAKER_02",
+    "text": "four million dollars in annual maintenance fee across the 10 customers. And then over three years,"
+  },
+  {
+    "start": 1643.62,
+    "end": 1653.06,
+    "speaker": "SPEAKER_02",
+    "text": "four times three is 12 million dollars. Okay. Just making sure. Okay. Great. Great. So we have the 30"
+  },
+  {
+    "start": 1653.06,
+    "end": 1659.86,
+    "speaker": "SPEAKER_02",
+    "text": "million from the customer that didn't switch 40 million from upfront fee and the 12 million that's"
+  },
+  {
+    "start": 1659.86,
+    "end": 1666.8999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "collected over the three years. So that is a total of 82 million dollars, which is a lot more"
+  },
+  {
+    "start": 1666.8999999999999,
+    "end": 1671.9399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "than sort of the 52.4 million dollars that we have previously calculated for year one through three."
+  },
+  {
+    "start": 1673.86,
+    "end": 1675.86,
+    "speaker": "SPEAKER_00",
+    "text": "So what happens in your five?"
+  },
+  {
+    "start": 1677.3,
+    "end": 1681.3799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Yep. So for year five, the number looks like this would be,"
+  },
+  {
+    "start": 1681.6200000000001,
+    "end": 1696.8200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "so this would be 20. So this would be 20 million times."
+  },
+  {
+    "start": 1704.42,
+    "end": 1709.7,
+    "speaker": "SPEAKER_02",
+    "text": "Sorry. I think I'm confusing myself that the numbers a little bit. So yeah, year five. So"
+  },
+  {
+    "start": 1709.7,
+    "end": 1714.3400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "under the old system, the year five would have generated 100 million dollars in revenue with the 20,"
+  },
+  {
+    "start": 1714.3400000000001,
+    "end": 1724.5800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "20 million dollars per year times five to this 100 million. And then for, and then"
+  },
+  {
+    "start": 1726.26,
+    "end": 1730.5800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "for the customers that didn't switch over, so that would look like five times."
+  },
+  {
+    "start": 1732.3400000000001,
+    "end": 1736.42,
+    "speaker": "SPEAKER_02",
+    "text": "So that's 10 million, 10 million times five. So that's"
+  },
+  {
+    "start": 1740.66,
+    "end": 1748.9,
+    "speaker": "SPEAKER_02",
+    "text": "50 million. And then for the customers that"
+  },
+  {
+    "start": 1752.74,
+    "end": 1760.5,
+    "speaker": "SPEAKER_02",
+    "text": "for the customers that didn't switch over, so that would be 40 million. So if the 40 million"
+  },
+  {
+    "start": 1760.58,
+    "end": 1773.38,
+    "speaker": "SPEAKER_02",
+    "text": "upfront would not change plus the 40 for the 400K times per year times five times 10. So that would be"
+  },
+  {
+    "start": 1778.18,
+    "end": 1788.34,
+    "speaker": "SPEAKER_02",
+    "text": "so that's 20 million. So that's 20 million. So for a total of 16 million times plus 50 million,"
+  },
+  {
+    "start": 1789.3,
+    "end": 1796.02,
+    "speaker": "SPEAKER_02",
+    "text": "so that's 110 million, which is higher than the 100 million that we have previously."
+  },
+  {
+    "start": 1796.02,
+    "end": 1802.34,
+    "speaker": "SPEAKER_02",
+    "text": "Is there a difference that you see though? Yeah, so it looks like for year three, there's a"
+  },
+  {
+    "start": 1802.34,
+    "end": 1807.6999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "differential of about 22 million to compare to 82 million and 60 million. But from year five,"
+  },
+  {
+    "start": 1808.74,
+    "end": 1816.82,
+    "speaker": "SPEAKER_02",
+    "text": "the differential has lowered from to 110 million over 100 million. I think the reason for that is,"
+  },
+  {
+    "start": 1817.3799999999999,
+    "end": 1821.46,
+    "speaker": "SPEAKER_02",
+    "text": "again, we collect most of the money upfront. I'm still going forward. This could be something"
+  },
+  {
+    "start": 1821.46,
+    "end": 1825.54,
+    "speaker": "SPEAKER_02",
+    "text": "actually is not very beneficial. Our goal is to do the double budget."
+  },
+  {
+    "start": 1826.02,
+    "end": 1830.8999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Right. Yeah, that's a really good point. Could you tell me what it would be if our,"
+  },
+  {
+    "start": 1830.8999999999999,
+    "end": 1835.62,
+    "speaker": "SPEAKER_00",
+    "text": "you know, if our goal is a decade, what what happened in your 10?"
+  },
+  {
+    "start": 1836.5,
+    "end": 1841.06,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, so just running the numbers a little bit longer. So it looks like year 10,"
+  },
+  {
+    "start": 1841.78,
+    "end": 1849.46,
+    "speaker": "SPEAKER_02",
+    "text": "and we can expect 20 million. So over 10 years, horizon, 10 years, we can collect 200 million dollars."
+  },
+  {
+    "start": 1850.58,
+    "end": 1858.1799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "But under the, under the old system, under new system, we can expect to collect 10 times 10"
+  },
+  {
+    "start": 1858.42,
+    "end": 1875.22,
+    "speaker": "SPEAKER_02",
+    "text": "times 10 times 10 times 10 times 10. So that's another 40 million. So that's 80 million. So for"
+  },
+  {
+    "start": 1875.22,
+    "end": 1880.5,
+    "speaker": "SPEAKER_02",
+    "text": "a total of 180 million, so this actually will be collecting 20 million less than if we hadn't"
+  },
+  {
+    "start": 1881.3,
+    "end": 1887.78,
+    "speaker": "SPEAKER_00",
+    "text": "to the old system. Yeah, so this was, what are your thoughts on that?"
+  },
+  {
+    "start": 1889.54,
+    "end": 1895.46,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, so this is interesting. I think what the numbers are telling us is it wouldn't be good to"
+  },
+  {
+    "start": 1895.46,
+    "end": 1899.94,
+    "speaker": "SPEAKER_02",
+    "text": "actually switch over if our goal is to increase our revenue and actually keep it increasing"
+  },
+  {
+    "start": 1899.94,
+    "end": 1904.18,
+    "speaker": "SPEAKER_02",
+    "text": "in double digit over 10 years, given that under the old system, we can actually expect to extract"
+  },
+  {
+    "start": 1904.18,
+    "end": 1906.9,
+    "speaker": "SPEAKER_02",
+    "text": "more revenue from a customer's that compared to the old."
+  },
+  {
+    "start": 1907.8600000000001,
+    "end": 1916.26,
+    "speaker": "SPEAKER_00",
+    "text": "So say, otherwise, let's say, otherwise, we would stick with the same customer. Say this is a pretty"
+  },
+  {
+    "start": 1916.98,
+    "end": 1922.9,
+    "speaker": "SPEAKER_00",
+    "text": "stagnant market. It's not growing. If we kept the old system, we would keep the same customers"
+  },
+  {
+    "start": 1922.9,
+    "end": 1928.8200000000002,
+    "speaker": "SPEAKER_00",
+    "text": "over the next decade. Under this new model, what are some benefits to this new model that you"
+  },
+  {
+    "start": 1928.8200000000002,
+    "end": 1936.42,
+    "speaker": "SPEAKER_00",
+    "text": "might be thinking of? Say our head of product innovation is super excited about this idea. And he"
+  },
+  {
+    "start": 1936.42,
+    "end": 1940.42,
+    "speaker": "SPEAKER_00",
+    "text": "came to you directly. And he really wants you to make this work. What are some things that you could"
+  },
+  {
+    "start": 1940.42,
+    "end": 1947.46,
+    "speaker": "SPEAKER_00",
+    "text": "think about that might be able to help us out over the next decade? Yeah, is that okay if I take a"
+  },
+  {
+    "start": 1947.46,
+    "end": 1952.5,
+    "speaker": "SPEAKER_00",
+    "text": "quick minute on this one? He's in front of you right now. He's in front of you right now."
+  },
+  {
+    "start": 1952.5,
+    "end": 1957.46,
+    "speaker": "SPEAKER_00",
+    "text": "He's going to make less money. You got his ideas right now."
+  },
+  {
+    "start": 1958.1000000000001,
+    "end": 1963.0600000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Awesome. Yeah, let's take a pocket. I think, you know, looking at the numbers, a couple of the"
+  },
+  {
+    "start": 1963.1399999999999,
+    "end": 1967.62,
+    "speaker": "SPEAKER_02",
+    "text": "assumptions and numbers that we use on our calculations. I wonder if there's any flexibility there."
+  },
+  {
+    "start": 1967.62,
+    "end": 1974.6599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So, you know, we can start with sort of the four million dollars in upfront fee as well as the"
+  },
+  {
+    "start": 1974.6599999999999,
+    "end": 1981.06,
+    "speaker": "SPEAKER_02",
+    "text": "$400,000 in ongoing fees. I wonder, you know, one, is it possible to so break down the four million"
+  },
+  {
+    "start": 1981.06,
+    "end": 1986.26,
+    "speaker": "SPEAKER_02",
+    "text": "dollars in upfront fees and just, you know, have that instead of the one time thing, we can sort of,"
+  },
+  {
+    "start": 1986.26,
+    "end": 1990.98,
+    "speaker": "SPEAKER_02",
+    "text": "you know, collect a subscription fee on an annual basis going forward. Additionally, I wonder if it's"
+  },
+  {
+    "start": 1990.98,
+    "end": 1997.46,
+    "speaker": "SPEAKER_02",
+    "text": "their way to increase perhaps the $400,000 in annual maintenance fees. You know, I wonder if it's"
+  },
+  {
+    "start": 1997.46,
+    "end": 2002.58,
+    "speaker": "SPEAKER_02",
+    "text": "a we're able to sort of provide a value-add services to make the number a little bit higher."
+  },
+  {
+    "start": 2002.58,
+    "end": 2007.6200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "We're just negotiating with the credit card issuers to extract a higher number from these people."
+  },
+  {
+    "start": 2008.34,
+    "end": 2014.42,
+    "speaker": "SPEAKER_02",
+    "text": "Can I additionally call it? Yeah. No, go, no, please. Yeah, yeah. And additional, I also like the fact"
+  },
+  {
+    "start": 2014.42,
+    "end": 2018.98,
+    "speaker": "SPEAKER_02",
+    "text": "that we're acquiring new customers. I wonder, you know, if it's possible to sell other value-add"
+  },
+  {
+    "start": 2019.06,
+    "end": 2023.94,
+    "speaker": "SPEAKER_02",
+    "text": "services, analyst services, and two-dise customers that weren't, you know, perfollow before and"
+  },
+  {
+    "start": 2023.94,
+    "end": 2029.78,
+    "speaker": "SPEAKER_00",
+    "text": "extract additional economics from them as well. Yeah, that's super interesting. So our client is"
+  },
+  {
+    "start": 2029.78,
+    "end": 2033.94,
+    "speaker": "SPEAKER_00",
+    "text": "actually ready for their final recommendation on this. And they would love to hear everything that"
+  },
+  {
+    "start": 2033.94,
+    "end": 2040.42,
+    "speaker": "SPEAKER_02",
+    "text": "you found. Okay, great. Okay, if I take a moment, I know I asked this question so many times."
+  },
+  {
+    "start": 2040.42,
+    "end": 2044.18,
+    "speaker": "SPEAKER_00",
+    "text": "You know, they're actually going to jump on our Zoom, but I think I might be able to hold them in"
+  },
+  {
+    "start": 2044.18,
+    "end": 2050.1800000000003,
+    "speaker": "SPEAKER_00",
+    "text": "our waiting room for like 10, 15 seconds as they, you know, connect to audio and all of that."
+  },
+  {
+    "start": 2050.1800000000003,
+    "end": 2053.38,
+    "speaker": "SPEAKER_00",
+    "text": "So you got a real quick subject. Okay. Okay, great."
+  },
+  {
+    "start": 2064.42,
+    "end": 2071.78,
+    "speaker": "SPEAKER_02",
+    "text": "Great. So I think the recommendation here today would be to go ahead and switch over to the"
+  },
+  {
+    "start": 2071.86,
+    "end": 2077.86,
+    "speaker": "SPEAKER_02",
+    "text": "this is the subscription model. So the goal here really is to maintain the double-digit"
+  },
+  {
+    "start": 2077.86,
+    "end": 2081.5400000000004,
+    "speaker": "SPEAKER_02",
+    "text": "growth rate, you know, for our company going forward, I think, you know, to really inject some of"
+  },
+  {
+    "start": 2081.5400000000004,
+    "end": 2087.7000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "the vitality. We do need to sort of switch over to a new system. But some of the risks that we"
+  },
+  {
+    "start": 2087.7000000000003,
+    "end": 2092.9,
+    "speaker": "SPEAKER_02",
+    "text": "identified earlier is that we do stick with the high upfront fee and sort of the low"
+  },
+  {
+    "start": 2092.9,
+    "end": 2096.5800000000004,
+    "speaker": "SPEAKER_02",
+    "text": "you know, and your maintenance fee model going forward, we actually won't be able to achieve that"
+  },
+  {
+    "start": 2096.66,
+    "end": 2100.74,
+    "speaker": "SPEAKER_02",
+    "text": "target or way to address that will be to fiddle with some of the assumptions that we use,"
+  },
+  {
+    "start": 2100.74,
+    "end": 2106.1,
+    "speaker": "SPEAKER_02",
+    "text": "such as instead of having a one-time fee, we can have annual subscription fee for our software"
+  },
+  {
+    "start": 2106.1,
+    "end": 2110.1,
+    "speaker": "SPEAKER_02",
+    "text": "going forward as well as perhaps increasing some of the annual revenue through maintenance and"
+  },
+  {
+    "start": 2110.1,
+    "end": 2114.18,
+    "speaker": "SPEAKER_02",
+    "text": "other value-ass services that we can charge up from the subscription model. I think the next step"
+  },
+  {
+    "start": 2114.18,
+    "end": 2117.94,
+    "speaker": "SPEAKER_02",
+    "text": "will be to tease out, you know, what those numbers could be, you know, how, how willing our"
+  },
+  {
+    "start": 2117.94,
+    "end": 2122.18,
+    "speaker": "SPEAKER_02",
+    "text": "customers will be to accept those numbers, you know, going forward as well as, you know, how ready"
+  },
+  {
+    "start": 2122.4199999999996,
+    "end": 2126.5,
+    "speaker": "SPEAKER_02",
+    "text": "the market is. I think it might make sense for our company to provide some additional market studies."
+  },
+  {
+    "start": 2130.5,
+    "end": 2134.58,
+    "speaker": "SPEAKER_02",
+    "text": "You're done. You can take a breath. Wow. That's so. Yeah, thank you."
+  },
+  {
+    "start": 2135.46,
+    "end": 2141.46,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. You did a great good job under pressure. I know it's much for everybody watching. It is so"
+  },
+  {
+    "start": 2141.46,
+    "end": 2147.3799999999997,
+    "speaker": "SPEAKER_00",
+    "text": "much tougher to be under the gun and have a hundred people watch you. So everyone give Pascal a round"
+  },
+  {
+    "start": 2147.38,
+    "end": 2153.54,
+    "speaker": "SPEAKER_00",
+    "text": "of applause because thank you. He just jumped in and this is a brave thing to do. So kudos to that."
+  },
+  {
+    "start": 2154.6600000000003,
+    "end": 2160.34,
+    "speaker": "SPEAKER_00",
+    "text": "I would say this is a good experience for you because just in general when we're in an interview"
+  },
+  {
+    "start": 2160.34,
+    "end": 2165.78,
+    "speaker": "SPEAKER_00",
+    "text": "setting, we are in kind of a fighter flight mode, right? This is a great exercise for you and I'm so"
+  },
+  {
+    "start": 2165.78,
+    "end": 2170.7400000000002,
+    "speaker": "SPEAKER_00",
+    "text": "happy you did it because you can reflect on this and you can think what happened when I was in a"
+  },
+  {
+    "start": 2170.7400000000002,
+    "end": 2176.5,
+    "speaker": "SPEAKER_00",
+    "text": "high-pressure situation. So I'd love to hear from you what happened that might have not happened"
+  },
+  {
+    "start": 2176.5,
+    "end": 2181.38,
+    "speaker": "SPEAKER_00",
+    "text": "when you're practicing with a friend or even in a one-on-one coaching environment. I would love to"
+  },
+  {
+    "start": 2181.38,
+    "end": 2185.78,
+    "speaker": "SPEAKER_00",
+    "text": "hear your feedback as to how you think this went, some areas for improvement and sort of just a"
+  },
+  {
+    "start": 2185.78,
+    "end": 2193.3,
+    "speaker": "SPEAKER_00",
+    "text": "reflection right afterwards of, you know, kind of what happened. Yeah, yeah. So, you know, when I was"
+  },
+  {
+    "start": 2193.3,
+    "end": 2196.98,
+    "speaker": "SPEAKER_02",
+    "text": "going through the math, it's not difficult math, but there are definitely points where I, I"
+  },
+  {
+    "start": 2196.98,
+    "end": 2201.3,
+    "speaker": "SPEAKER_02",
+    "text": "consider the paper, I just like don't remember, you know, where all the pieces fit. Like it just"
+  },
+  {
+    "start": 2201.3,
+    "end": 2205.06,
+    "speaker": "SPEAKER_02",
+    "text": "completely blank out. I was just panicking, you know, I didn't think there were some pauses that"
+  },
+  {
+    "start": 2205.06,
+    "end": 2209.7,
+    "speaker": "SPEAKER_02",
+    "text": "took the felt a bit longer and that's the reason why. Definitely panicked a little bit. I think"
+  },
+  {
+    "start": 2209.7,
+    "end": 2215.7,
+    "speaker": "SPEAKER_02",
+    "text": "that's, you know, the pressure really, you know, did get to me in a way. And I think"
+  },
+  {
+    "start": 2216.58,
+    "end": 2221.14,
+    "speaker": "SPEAKER_02",
+    "text": "it's just that the conversations and flow as fluently as it probably would have otherwise"
+  },
+  {
+    "start": 2221.14,
+    "end": 2226.66,
+    "speaker": "SPEAKER_02",
+    "text": "because of the pressure. And I know this is, you know, one of my short staff, like I always get"
+  },
+  {
+    "start": 2226.66,
+    "end": 2232.74,
+    "speaker": "SPEAKER_02",
+    "text": "tripped up when the pressure is really dialed up. So, yeah. That's how I felt. Yeah. And is there"
+  },
+  {
+    "start": 2232.74,
+    "end": 2238.18,
+    "speaker": "SPEAKER_00",
+    "text": "anything that you going through that and kind of getting stumbled? I want to hear from you first."
+  },
+  {
+    "start": 2238.18,
+    "end": 2243.06,
+    "speaker": "SPEAKER_00",
+    "text": "Is there anything that you would want to do differently if you've got a chance to do it over?"
+  },
+  {
+    "start": 2246.8999999999996,
+    "end": 2252.58,
+    "speaker": "SPEAKER_02",
+    "text": "I think there's some, there's some elements of paper management, I think, especially when it comes"
+  },
+  {
+    "start": 2252.58,
+    "end": 2259.22,
+    "speaker": "SPEAKER_02",
+    "text": "to math, having really clear a good paper management would really be something that would have helped,"
+  },
+  {
+    "start": 2259.22,
+    "end": 2262.66,
+    "speaker": "SPEAKER_00",
+    "text": "I think. Yeah. Are you using graph paper right now or blank paper?"
+  },
+  {
+    "start": 2263.54,
+    "end": 2269.46,
+    "speaker": "SPEAKER_00",
+    "text": "Blank paper, yeah. Okay. So maybe graph paper would help. Yeah, when you put, so maybe some"
+  },
+  {
+    "start": 2269.46,
+    "end": 2274.18,
+    "speaker": "SPEAKER_00",
+    "text": "graph paper would help, especially if paper management is one of those things. And if math is"
+  },
+  {
+    "start": 2274.18,
+    "end": 2278.58,
+    "speaker": "SPEAKER_00",
+    "text": "something that tends to trip you up, we typically, like, you know, you can use two sheets of paper."
+  },
+  {
+    "start": 2278.58,
+    "end": 2283.06,
+    "speaker": "SPEAKER_00",
+    "text": "If this is something where the space and having that clarity would very much help you out,"
+  },
+  {
+    "start": 2283.06,
+    "end": 2287.54,
+    "speaker": "SPEAKER_00",
+    "text": "invest in some graph paper before, divide it up into two categories or divide them up into"
+  },
+  {
+    "start": 2287.54,
+    "end": 2292.58,
+    "speaker": "SPEAKER_00",
+    "text": "different boxes or get graph paper with bigger boxes just so you can work with it. And keep"
+  },
+  {
+    "start": 2292.58,
+    "end": 2295.86,
+    "speaker": "SPEAKER_00",
+    "text": "your paper more organized because one of the things that I think would have helped you through the"
+  },
+  {
+    "start": 2295.86,
+    "end": 2302.74,
+    "speaker": "SPEAKER_00",
+    "text": "math. And of course, we know the math took longer is the same way that you're communicating your"
+  },
+  {
+    "start": 2302.8199999999997,
+    "end": 2307.4599999999996,
+    "speaker": "SPEAKER_00",
+    "text": "case structure to me and I'm trying to write it down. The same way I'm communicating a,"
+  },
+  {
+    "start": 2308.3399999999997,
+    "end": 2313.54,
+    "speaker": "SPEAKER_00",
+    "text": "a verbal math problem to you in school whenever we had verbal math problems, we would look at it"
+  },
+  {
+    "start": 2313.54,
+    "end": 2320.3399999999997,
+    "speaker": "SPEAKER_00",
+    "text": "and then we would write it down in math terms, right? And so don't forget that. You have a verbal"
+  },
+  {
+    "start": 2320.3399999999997,
+    "end": 2326.4199999999996,
+    "speaker": "SPEAKER_00",
+    "text": "math problem that you're trying to put down in equations. So make that be your goal as you're"
+  },
+  {
+    "start": 2326.4199999999996,
+    "end": 2331.4599999999996,
+    "speaker": "SPEAKER_00",
+    "text": "listening to it. If you miss some piece of information, you know, as you're recapping it to me and"
+  },
+  {
+    "start": 2331.46,
+    "end": 2337.62,
+    "speaker": "SPEAKER_00",
+    "text": "whatever, make sure that you have it very clear to you because there might have been a part where"
+  },
+  {
+    "start": 2337.62,
+    "end": 2342.34,
+    "speaker": "SPEAKER_00",
+    "text": "it wasn't clear to you exactly what the equations were because when we have a verbal math problem,"
+  },
+  {
+    "start": 2342.34,
+    "end": 2347.46,
+    "speaker": "SPEAKER_00",
+    "text": "it's okay. So we have a sentence. How do we turn that into the equation, right? So keep that with"
+  },
+  {
+    "start": 2347.46,
+    "end": 2352.9,
+    "speaker": "SPEAKER_00",
+    "text": "your same goal so that when you're recapping it to me, you know exactly what equation you're solving"
+  },
+  {
+    "start": 2352.9,
+    "end": 2357.3,
+    "speaker": "SPEAKER_00",
+    "text": "and you know that you and I are both on the same page because if you heard something or you"
+  },
+  {
+    "start": 2357.3,
+    "end": 2362.34,
+    "speaker": "SPEAKER_00",
+    "text": "interpreted something differently than me and you don't clarify it with me, all of a sudden I think"
+  },
+  {
+    "start": 2362.34,
+    "end": 2367.78,
+    "speaker": "SPEAKER_00",
+    "text": "you don't know how to do the math versus you just didn't hear the question correctly. So during that"
+  },
+  {
+    "start": 2367.78,
+    "end": 2375.46,
+    "speaker": "SPEAKER_00",
+    "text": "recap, make sure that you're making sure that that is that is clear. Quickly, before we run out of time,"
+  },
+  {
+    "start": 2375.46,
+    "end": 2380.5,
+    "speaker": "SPEAKER_00",
+    "text": "I do want to go through the entire structure. So on the background, I think you did a great job."
+  },
+  {
+    "start": 2381.2200000000003,
+    "end": 2386.5,
+    "speaker": "SPEAKER_00",
+    "text": "I think you kept it to a minute, which was great. Case in objective, you know, the clarifying"
+  },
+  {
+    "start": 2386.5,
+    "end": 2394.98,
+    "speaker": "SPEAKER_00",
+    "text": "questions. Time wise, you were at about a minute, 25. And the questions you asked me, I think you"
+  },
+  {
+    "start": 2394.98,
+    "end": 2399.7,
+    "speaker": "SPEAKER_00",
+    "text": "could have gone a little bit deeper with them. And I would love to know why you're asking these"
+  },
+  {
+    "start": 2399.7,
+    "end": 2404.42,
+    "speaker": "SPEAKER_00",
+    "text": "questions. That would have helped a lot just for more context. And you know, you could have taken a"
+  },
+  {
+    "start": 2404.42,
+    "end": 2410.18,
+    "speaker": "SPEAKER_00",
+    "text": "second to ask me more nuanced questions if you wanted. You did have a little bit of extra time."
+  },
+  {
+    "start": 2410.9,
+    "end": 2416.42,
+    "speaker": "SPEAKER_00",
+    "text": "I would say overall you could have slowed down in terms of your speaking. Not in terms of the"
+  },
+  {
+    "start": 2416.5,
+    "end": 2421.7000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "doing. But I think the doing took a little bit of a longer time. The grand pause, you took about"
+  },
+  {
+    "start": 2421.7000000000003,
+    "end": 2425.54,
+    "speaker": "SPEAKER_00",
+    "text": "two minutes and seven seconds. So you're you were right on the mark for how long it took."
+  },
+  {
+    "start": 2426.34,
+    "end": 2430.58,
+    "speaker": "SPEAKER_00",
+    "text": "The game plan took you about three minutes to explain even though you were speaking very quickly."
+  },
+  {
+    "start": 2430.58,
+    "end": 2436.5,
+    "speaker": "SPEAKER_00",
+    "text": "One thing for your structure that I think would be very helpful is in terms of your boxes,"
+  },
+  {
+    "start": 2437.38,
+    "end": 2442.58,
+    "speaker": "SPEAKER_00",
+    "text": "I would say you want to think about it on the three tail up on the top, top objective. This is"
+  },
+  {
+    "start": 2442.58,
+    "end": 2447.38,
+    "speaker": "SPEAKER_00",
+    "text": "what we're trying to solve. Here are the four categories that I'm going to look at. Three or four"
+  },
+  {
+    "start": 2447.38,
+    "end": 2452.58,
+    "speaker": "SPEAKER_00",
+    "text": "categories. And ideally, we want to keep it to four categories, not three. So three or you know,"
+  },
+  {
+    "start": 2452.58,
+    "end": 2457.86,
+    "speaker": "SPEAKER_00",
+    "text": "those four categories and then go down each list. Because like you saw, as I'm explaining a problem to"
+  },
+  {
+    "start": 2457.86,
+    "end": 2463.86,
+    "speaker": "SPEAKER_00",
+    "text": "you, it's harder to follow along. So especially over Zoom, you want to make sure that everyone is able"
+  },
+  {
+    "start": 2463.86,
+    "end": 2468.42,
+    "speaker": "SPEAKER_00",
+    "text": "to follow along. You want to make sure your interviewer knows what the top line is, knows what"
+  },
+  {
+    "start": 2468.42,
+    "end": 2473.3,
+    "speaker": "SPEAKER_00",
+    "text": "different boxes to expect. If it's going to be me see so that I'm not asking questions on data."
+  },
+  {
+    "start": 2473.3,
+    "end": 2477.86,
+    "speaker": "SPEAKER_00",
+    "text": "Point three here, wait, is he going to cover this later on? That's not my thought. I'm very"
+  },
+  {
+    "start": 2477.86,
+    "end": 2482.58,
+    "speaker": "SPEAKER_00",
+    "text": "present and I'm there with you and I'm able to follow along each category. And I would say for"
+  },
+  {
+    "start": 2482.58,
+    "end": 2487.38,
+    "speaker": "SPEAKER_00",
+    "text": "structure, the structure wasn't as you know, I asked you more questions. You probably found a"
+  },
+  {
+    "start": 2487.38,
+    "end": 2494.66,
+    "speaker": "SPEAKER_00",
+    "text": "couple more things and this became very much a revenue growth market growth type of problem. So"
+  },
+  {
+    "start": 2494.98,
+    "end": 2501.7799999999997,
+    "speaker": "SPEAKER_00",
+    "text": "customers was one competition came out. So overall, the buckets said, I like the idea of having"
+  },
+  {
+    "start": 2501.7799999999997,
+    "end": 2508.42,
+    "speaker": "SPEAKER_00",
+    "text": "the buckets of existing product lines and new opportunities. I didn't mind that as a mini"
+  },
+  {
+    "start": 2508.42,
+    "end": 2514.98,
+    "speaker": "SPEAKER_00",
+    "text": "structure for you to think about how you're going to bucket them. But you know, they are"
+  },
+  {
+    "start": 2514.98,
+    "end": 2519.94,
+    "speaker": "SPEAKER_00",
+    "text": "existing products. How do we increase price and quantity? Great revenue. We talked about the market."
+  },
+  {
+    "start": 2519.94,
+    "end": 2524.18,
+    "speaker": "SPEAKER_00",
+    "text": "We talked about competition. We talked about different customers what their preferences are."
+  },
+  {
+    "start": 2524.18,
+    "end": 2528.3399999999997,
+    "speaker": "SPEAKER_00",
+    "text": "So there were different areas that we could have looked at that would have came up with the more"
+  },
+  {
+    "start": 2528.3399999999997,
+    "end": 2534.18,
+    "speaker": "SPEAKER_00",
+    "text": "me see type of structure because we talked about a few but it wasn't comprehensive enough as we"
+  },
+  {
+    "start": 2534.18,
+    "end": 2542.58,
+    "speaker": "SPEAKER_00",
+    "text": "saw with the direction the case went later on. So I would say in terms of structuring, there are"
+  },
+  {
+    "start": 2542.58,
+    "end": 2546.98,
+    "speaker": "SPEAKER_00",
+    "text": "some exercises. You know, I would go through if you have access to the management consultant website,"
+  },
+  {
+    "start": 2546.98,
+    "end": 2551.06,
+    "speaker": "SPEAKER_00",
+    "text": "we have structure and drills. I think that would be a really great idea for you to do that. You can"
+  },
+  {
+    "start": 2551.06,
+    "end": 2556.1,
+    "speaker": "SPEAKER_00",
+    "text": "look in the case library, just read the case or have somebody read the case to you and then come up"
+  },
+  {
+    "start": 2556.1,
+    "end": 2561.06,
+    "speaker": "SPEAKER_00",
+    "text": "with a comprehensive structure and check it on what the level two answer would be. Since you have"
+  },
+  {
+    "start": 2561.06,
+    "end": 2565.7,
+    "speaker": "SPEAKER_00",
+    "text": "done so many cases, I want you to be prepared for the final on interview, not just the passing"
+  },
+  {
+    "start": 2565.7,
+    "end": 2570.42,
+    "speaker": "SPEAKER_00",
+    "text": "interview. So level three is all right. Let's try to get the level four answer where it's a fully"
+  },
+  {
+    "start": 2570.42,
+    "end": 2576.2599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "comprehensive structure in place. And I don't know if you have any questions on that because"
+  },
+  {
+    "start": 2576.34,
+    "end": 2582.1800000000003,
+    "speaker": "SPEAKER_00",
+    "text": "as we went along to do kind of see where there were gaps in your case structure."
+  },
+  {
+    "start": 2583.2200000000003,
+    "end": 2585.3,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, yeah, no, that makes sense."
+  },
+  {
+    "start": 2585.3,
+    "end": 2589.7000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "So yeah, we talked a little bit. I would say the creative case questions."
+  },
+  {
+    "start": 2590.6600000000003,
+    "end": 2595.3,
+    "speaker": "SPEAKER_00",
+    "text": "I kept you kept asking me for time and I just wanted you to throw it off the top of your head"
+  },
+  {
+    "start": 2595.3,
+    "end": 2600.1800000000003,
+    "speaker": "SPEAKER_00",
+    "text": "typically with the math or if there was something super complex that required a longer structure,"
+  },
+  {
+    "start": 2600.1800000000003,
+    "end": 2605.5400000000004,
+    "speaker": "SPEAKER_00",
+    "text": "I might give you a pause, but in an interview, the way I was treating this is the way that I was"
+  },
+  {
+    "start": 2605.54,
+    "end": 2611.06,
+    "speaker": "SPEAKER_00",
+    "text": "interviewed. Nope, just off the top of your head. So I would get used to just spilling things"
+  },
+  {
+    "start": 2611.06,
+    "end": 2615.94,
+    "speaker": "SPEAKER_00",
+    "text": "off the top of your head as you're going through. You could write down on the side of quick structure,"
+  },
+  {
+    "start": 2616.74,
+    "end": 2621.06,
+    "speaker": "SPEAKER_00",
+    "text": "but for the first one, you know, is what do we have to consider? You said there's benefits and"
+  },
+  {
+    "start": 2621.06,
+    "end": 2626.2599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "there's costs. Did you really need that time to think about benefits and costs or you knew that"
+  },
+  {
+    "start": 2626.2599999999998,
+    "end": 2630.66,
+    "speaker": "SPEAKER_00",
+    "text": "you were going to think about benefits and costs? Because it felt like you did because once I pressured"
+  },
+  {
+    "start": 2631.3799999999997,
+    "end": 2636.42,
+    "speaker": "SPEAKER_00",
+    "text": "you to answer it, you answered those questions. You didn't need that pause, which is something"
+  },
+  {
+    "start": 2636.42,
+    "end": 2640.18,
+    "speaker": "SPEAKER_00",
+    "text": "that I want you to acknowledge as well. Once I pressured you and I didn't give you that time,"
+  },
+  {
+    "start": 2640.18,
+    "end": 2646.42,
+    "speaker": "SPEAKER_00",
+    "text": "you were still able to do so. So do we really need the pause or do we need to trust ourselves a bit more?"
+  },
+  {
+    "start": 2648.02,
+    "end": 2653.06,
+    "speaker": "SPEAKER_00",
+    "text": "Big sense. Yeah, I would say with the case closing because we talked a little bit about the quantitative"
+  },
+  {
+    "start": 2653.06,
+    "end": 2656.1,
+    "speaker": "SPEAKER_00",
+    "text": "and we can go back through, but I just want to make sure that we go through everything."
+  },
+  {
+    "start": 2656.1,
+    "end": 2660.98,
+    "speaker": "SPEAKER_00",
+    "text": "And the case closing, I think you caught yourself as you started speaking."
+  },
+  {
+    "start": 2664.5,
+    "end": 2670.18,
+    "speaker": "SPEAKER_00",
+    "text": "We want to always start off with a quick recap. You know, I said the CEO of Octane, he's a new person."
+  },
+  {
+    "start": 2670.98,
+    "end": 2675.14,
+    "speaker": "SPEAKER_00",
+    "text": "The last time we saw them was kick off. They gave us the problem and then we went off to work."
+  },
+  {
+    "start": 2675.14,
+    "end": 2680.5,
+    "speaker": "SPEAKER_00",
+    "text": "We haven't seen this guy since. So everything that we did in our case, he doesn't know about because"
+  },
+  {
+    "start": 2680.5,
+    "end": 2685.2999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "he's busy running the company and he hired you to take care of that information for him. So"
+  },
+  {
+    "start": 2686.18,
+    "end": 2690.42,
+    "speaker": "SPEAKER_00",
+    "text": "he needs to be caught up real quick. So a quick way is just being like the quick recap."
+  },
+  {
+    "start": 2690.42,
+    "end": 2695.14,
+    "speaker": "SPEAKER_00",
+    "text": "Here's where we were brought into do. Here's the problem. Here's the goal. To do so, here's what we did."
+  },
+  {
+    "start": 2695.14,
+    "end": 2700.42,
+    "speaker": "SPEAKER_00",
+    "text": "We looked at a couple different things. One thing that we focused on was looking at this new revenue"
+  },
+  {
+    "start": 2700.42,
+    "end": 2705.2999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "opportunity. And what's your recommendation on that? Was it a yes or no? Do we go with this? Do we"
+  },
+  {
+    "start": 2705.2999999999997,
+    "end": 2711.54,
+    "speaker": "SPEAKER_00",
+    "text": "not go with this? We want to firm direct answer as to yes or no. Do we continue with this? Do we"
+  },
+  {
+    "start": 2711.54,
+    "end": 2717.22,
+    "speaker": "SPEAKER_00",
+    "text": "not continue with this? And then next steps after we decide to, and you said, you know, this is a"
+  },
+  {
+    "start": 2717.22,
+    "end": 2721.86,
+    "speaker": "SPEAKER_00",
+    "text": "good opportunity. If we consider these following things, I would say yes, I think this is a good"
+  },
+  {
+    "start": 2721.86,
+    "end": 2726.18,
+    "speaker": "SPEAKER_00",
+    "text": "opportunity because although over 10 years, we're going to see a decrease in revenue. We're going"
+  },
+  {
+    "start": 2726.18,
+    "end": 2732.2599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "to see an increase in quantity. And I would like to explore other options of, you know, upselling,"
+  },
+  {
+    "start": 2732.2599999999998,
+    "end": 2736.82,
+    "speaker": "SPEAKER_00",
+    "text": "looking at different verticals that we can enter into with this larger customer base because we've"
+  },
+  {
+    "start": 2736.82,
+    "end": 2742.26,
+    "speaker": "SPEAKER_00",
+    "text": "explored, you know, a new revenue segment. We have an export price or transaction fees. We have"
+  },
+  {
+    "start": 2742.26,
+    "end": 2747.6200000000003,
+    "speaker": "SPEAKER_00",
+    "text": "an explored any other quantity options. So I think with, you know, first we have 10 customers. Now,"
+  },
+  {
+    "start": 2747.6200000000003,
+    "end": 2753.6200000000003,
+    "speaker": "SPEAKER_00",
+    "text": "we have 15 customers. 15 to 50% increasing customers. That's pretty significant. What can we do to"
+  },
+  {
+    "start": 2753.6200000000003,
+    "end": 2758.82,
+    "speaker": "SPEAKER_00",
+    "text": "utilize and maximize our opportunities with this new customer base that we weren't able to if we"
+  },
+  {
+    "start": 2758.82,
+    "end": 2763.06,
+    "speaker": "SPEAKER_00",
+    "text": "stuck with the old model? So I think you covered that a little bit in the next steps, but I think"
+  },
+  {
+    "start": 2763.14,
+    "end": 2768.18,
+    "speaker": "SPEAKER_00",
+    "text": "having a clear structure of, and you know, maybe just practicing having something on the side where"
+  },
+  {
+    "start": 2768.18,
+    "end": 2773.7,
+    "speaker": "SPEAKER_00",
+    "text": "as you're going to recommendations with your cases, you have quick recap. Here's what we did."
+  },
+  {
+    "start": 2774.98,
+    "end": 2781.14,
+    "speaker": "SPEAKER_00",
+    "text": "Here's my recommendation. Yes or no based on what we looked into into the case. Your reasons why"
+  },
+  {
+    "start": 2781.14,
+    "end": 2787.06,
+    "speaker": "SPEAKER_00",
+    "text": "and next steps moving forward. I would say one more thing to just consider because this has been"
+  },
+  {
+    "start": 2787.06,
+    "end": 2793.06,
+    "speaker": "SPEAKER_00",
+    "text": "coming up more and more in cases is the risks involved with your case, especially when we're"
+  },
+  {
+    "start": 2793.06,
+    "end": 2798.34,
+    "speaker": "SPEAKER_00",
+    "text": "considering financial services. There's been a lot of regulation that's been added on. So saying"
+  },
+  {
+    "start": 2798.34,
+    "end": 2804.66,
+    "speaker": "SPEAKER_00",
+    "text": "something quickly about SEC regulations, making sure that there's no consumer data, you know,"
+  },
+  {
+    "start": 2804.66,
+    "end": 2809.7799999999997,
+    "speaker": "SPEAKER_00",
+    "text": "infringement, whatever it is, you want to make sure that those things are covered because especially"
+  },
+  {
+    "start": 2809.7799999999997,
+    "end": 2815.22,
+    "speaker": "SPEAKER_00",
+    "text": "in this industry after 2008, especially, there's been heavy regulation in the lending market,"
+  },
+  {
+    "start": 2815.22,
+    "end": 2819.22,
+    "speaker": "SPEAKER_00",
+    "text": "in the financial services market. So those are some things that you also just want to mention."
+  },
+  {
+    "start": 2820.66,
+    "end": 2827.22,
+    "speaker": "SPEAKER_00",
+    "text": "As a, as a, this is all great, but let's make sure we don't forget about the government."
+  },
+  {
+    "start": 2828.3399999999997,
+    "end": 2832.2599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "And, you know, let's make sure we don't accidentally shoot ourselves in the foot there."
+  },
+  {
+    "start": 2834.4199999999996,
+    "end": 2840.02,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome. Yeah, of course, any more questions. And also that part when I was pressuring you,"
+  },
+  {
+    "start": 2840.02,
+    "end": 2843.8599999999997,
+    "speaker": "SPEAKER_00",
+    "text": "sometimes they'll do that on your zeros. And I kind of noticed you were stumbling on your math."
+  },
+  {
+    "start": 2843.86,
+    "end": 2849.78,
+    "speaker": "SPEAKER_00",
+    "text": "So I wanted to make sure I asked you that question. It wasn't wrong. I just wanted you to make sure"
+  },
+  {
+    "start": 2849.78,
+    "end": 2856.1800000000003,
+    "speaker": "SPEAKER_00",
+    "text": "that you knew it was right. And you didn't just take, you know, my pressure as a way to give in."
+  },
+  {
+    "start": 2856.1800000000003,
+    "end": 2861.1400000000003,
+    "speaker": "SPEAKER_00",
+    "text": "So good job on that. And good job on powering through. I want to make sure that you did get through it."
+  },
+  {
+    "start": 2861.1400000000003,
+    "end": 2866.58,
+    "speaker": "SPEAKER_00",
+    "text": "And you did. And you got the right answers. Took a second, but you got there. So congratulations"
+  },
+  {
+    "start": 2866.58,
+    "end": 2869.38,
+    "speaker": "SPEAKER_00",
+    "text": "on that. And, you know, pushing forward and not giving up through all of that."
+  },
+  {
+    "start": 2870.5,
+    "end": 2872.98,
+    "speaker": "SPEAKER_02",
+    "text": "Great. Thank you. Thanks for the feedback. Of course."
+  }
+]

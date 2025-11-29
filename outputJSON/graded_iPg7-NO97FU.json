@@ -1,0 +1,2694 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "speaker": "SPEAKER_01",
+      "text": "Did you ever wonder how a real consultant would do in a real case interview?"
+    },
+    {
+      "start": 3.8000000000000003,
+      "end": 9.26,
+      "speaker": "SPEAKER_01",
+      "text": "That's what you're gonna see today. I'm Julio, an ex-bane consultant and today in this video"
+    },
+    {
+      "start": 9.26,
+      "end": 18.080000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "I'm gonna interview Bruno and ex-Bakinsi consultant. I'm gonna use a case that is very similar to one I got in the last interview"
+    },
+    {
+      "start": 18.080000000000002,
+      "end": 26.36,
+      "speaker": "SPEAKER_01",
+      "text": "of my final round at Bain and at first glance is just a simple profitability case where the interviewer just wants to see if you can build and"
+    },
+    {
+      "start": 26.36,
+      "end": 34.64,
+      "speaker": "SPEAKER_01",
+      "text": "analytically work with a profit tree but in reality it's not. I've used this case for coaching hundreds of times and I'm confident to say"
+    },
+    {
+      "start": 35.04,
+      "end": 41.92,
+      "speaker": "SPEAKER_01",
+      "text": "only probably three out of ten candidates can actually do and offer deserving performance at their first try."
+    },
+    {
+      "start": 42.12,
+      "end": 45.8,
+      "speaker": "SPEAKER_01",
+      "text": "But enough chitchat already. Let's get to the case and see how Bruno deals with it."
+    },
+    {
+      "start": 46.84,
+      "end": 51.32,
+      "speaker": "SPEAKER_01",
+      "text": "So your client is a auto-viral manufacturer in the United States."
+    },
+    {
+      "start": 51.32,
+      "end": 56.32,
+      "speaker": "SPEAKER_01",
+      "text": "And they have faced within the last five years a profitability decrease."
+    },
+    {
+      "start": 56.32,
+      "end": 66.32,
+      "speaker": "SPEAKER_01",
+      "text": "Their profitability has decreased from 5 to 2.5%. While the competitor's average rolls from 3.5% to more than that."
+    },
+    {
+      "start": 66.32,
+      "end": 69.32,
+      "speaker": "SPEAKER_01",
+      "text": "Nowadays. So we're at 2.5."
+    },
+    {
+      "start": 69.32,
+      "end": 71.32,
+      "speaker": "SPEAKER_01",
+      "text": "And competitors are above 3.5."
+    },
+    {
+      "start": 71.32,
+      "end": 77.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. You've been hired to help them restore their profitability over the next two years or so."
+    },
+    {
+      "start": 77.32,
+      "end": 80.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. How would you help them do that?"
+    },
+    {
+      "start": 80.32,
+      "end": 85.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Great question. So couple clarifying questions."
+    },
+    {
+      "start": 85.32,
+      "end": 90.32,
+      "speaker": "SPEAKER_00",
+      "text": "First, did our competitors profitability as decreased as well?"
+    },
+    {
+      "start": 90.32,
+      "end": 93.32,
+      "speaker": "SPEAKER_01",
+      "text": "Our competitors profitability has increased."
+    },
+    {
+      "start": 93.32,
+      "end": 95.32,
+      "speaker": "SPEAKER_00",
+      "text": "As increased to 3.5."
+    },
+    {
+      "start": 95.32,
+      "end": 98.32,
+      "speaker": "SPEAKER_01",
+      "text": "From 3.5 to something that we don't know."
+    },
+    {
+      "start": 98.32,
+      "end": 103.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So they used to be at 3.5 lower than us because we were at 5."
+    },
+    {
+      "start": 103.32,
+      "end": 107.32,
+      "speaker": "SPEAKER_00",
+      "text": "And they have increased their profitability while we have decreased."
+    },
+    {
+      "start": 107.32,
+      "end": 109.32,
+      "speaker": "SPEAKER_00",
+      "text": "That's right. Okay. That's interesting."
+    },
+    {
+      "start": 109.32,
+      "end": 112.32,
+      "speaker": "SPEAKER_00",
+      "text": "It doesn't seem like it's an industry. Why problem?"
+    },
+    {
+      "start": 112.32,
+      "end": 113.32,
+      "speaker": "SPEAKER_00",
+      "text": "It does not."
+    },
+    {
+      "start": 113.32,
+      "end": 117.32,
+      "speaker": "SPEAKER_00",
+      "text": "Another question. Are we a regular auto manufacturer?"
+    },
+    {
+      "start": 117.32,
+      "end": 122.32,
+      "speaker": "SPEAKER_00",
+      "text": "Is this global, are we a luxury cars or just mass markets?"
+    },
+    {
+      "start": 122.32,
+      "end": 127.32,
+      "speaker": "SPEAKER_01",
+      "text": "We have all kinds of cars, all kinds of brands within our manufacturer."
+    },
+    {
+      "start": 127.32,
+      "end": 130.32,
+      "speaker": "SPEAKER_01",
+      "text": "We do sell only in the United States."
+    },
+    {
+      "start": 130.32,
+      "end": 133.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So we're just in the United States."
+    },
+    {
+      "start": 133.32,
+      "end": 135.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. Okay. That sounds good."
+    },
+    {
+      "start": 135.32,
+      "end": 145.32,
+      "speaker": "SPEAKER_00",
+      "text": "The first step that I would do to solve this problem is to find out if this is a revenue problem or a cost problem."
+    },
+    {
+      "start": 145.32,
+      "end": 154.32,
+      "speaker": "SPEAKER_00",
+      "text": "And if we have data on that, we'd like to get that now just so you can focus on the right branch or I can develop my issue tree better, whichever you prefer."
+    },
+    {
+      "start": 154.32,
+      "end": 156.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. We do have data on that."
+    },
+    {
+      "start": 156.32,
+      "end": 163.32,
+      "speaker": "SPEAKER_01",
+      "text": "So our revenues have increased from 21 billion to 22.5 billion dollars."
+    },
+    {
+      "start": 163.32,
+      "end": 170.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Well, our costs have increased from 20 billion dollars to 22 billion dollars."
+    },
+    {
+      "start": 170.32,
+      "end": 177.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So it does seem like a cost problem just to confirm that it is a cost problem."
+    },
+    {
+      "start": 177.32,
+      "end": 182.32,
+      "speaker": "SPEAKER_00",
+      "text": "How's our pricing, our average price per car doing?"
+    },
+    {
+      "start": 182.32,
+      "end": 191.32,
+      "speaker": "SPEAKER_00",
+      "text": "And I'm asking this because it could be that our revenues have increased because we have dropped prices increased volume soared."
+    },
+    {
+      "start": 191.32,
+      "end": 197.32,
+      "speaker": "SPEAKER_00",
+      "text": "And this raising costs is just to reflect the increase in cost to make more cars."
+    },
+    {
+      "start": 197.32,
+      "end": 204.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. That makes sense. Our price has stayed the same from 30 thousand dollars to 30 thousand dollars per average."
+    },
+    {
+      "start": 204.32,
+      "end": 215.32,
+      "speaker": "SPEAKER_00",
+      "text": "And did the mix of products change because maybe the average is the same, but we're selling more sports cars for a lower price and this question."
+    },
+    {
+      "start": 215.32,
+      "end": 216.32,
+      "speaker": "SPEAKER_01",
+      "text": "So not really know."
+    },
+    {
+      "start": 216.32,
+      "end": 217.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 217.32,
+      "end": 224.32,
+      "speaker": "SPEAKER_00",
+      "text": "So we don't have a pricing problem which means that we don't have a revenue problem."
+    },
+    {
+      "start": 224.32,
+      "end": 225.32,
+      "speaker": "SPEAKER_00",
+      "text": "That's right."
+    },
+    {
+      "start": 225.32,
+      "end": 227.32,
+      "speaker": "SPEAKER_00",
+      "text": "So we need to explore costs better."
+    },
+    {
+      "start": 227.32,
+      "end": 238.32,
+      "speaker": "SPEAKER_00",
+      "text": "And what I do now is to understand the cost structure of this company and get a cost breakdown to see which costs has increased."
+    },
+    {
+      "start": 238.32,
+      "end": 239.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 239.32,
+      "end": 248.32,
+      "speaker": "SPEAKER_00",
+      "text": "And I see here there are direct costs and there are indirect costs."
+    },
+    {
+      "start": 248.32,
+      "end": 253.32,
+      "speaker": "SPEAKER_00",
+      "text": "I believe this is how most manufacturers would categorize those costs."
+    },
+    {
+      "start": 253.32,
+      "end": 254.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. That makes sense."
+    },
+    {
+      "start": 254.32,
+      "end": 260.32,
+      "speaker": "SPEAKER_00",
+      "text": "Within the direct costs there are fixed and variable costs."
+    },
+    {
+      "start": 260.32,
+      "end": 264.32,
+      "speaker": "SPEAKER_00",
+      "text": "I believe all indirect costs are fixed."
+    },
+    {
+      "start": 264.32,
+      "end": 271.32,
+      "speaker": "SPEAKER_00",
+      "text": "And yeah, I'd like to know the cost breakdown. So within variable there would be parts."
+    },
+    {
+      "start": 271.32,
+      "end": 274.32,
+      "speaker": "SPEAKER_00",
+      "text": "There would be energy."
+    },
+    {
+      "start": 274.32,
+      "end": 278.32,
+      "speaker": "SPEAKER_00",
+      "text": "There'd be labor for manufacturing."
+    },
+    {
+      "start": 278.32,
+      "end": 282.32,
+      "speaker": "SPEAKER_00",
+      "text": "And perhaps sales would be indirect."
+    },
+    {
+      "start": 282.32,
+      "end": 286.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then within fixed costs there is the factory."
+    },
+    {
+      "start": 286.32,
+      "end": 287.32,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 287.32,
+      "end": 291.32,
+      "speaker": "SPEAKER_00",
+      "text": "Is there a new direct cost that I'm missing?"
+    },
+    {
+      "start": 291.32,
+      "end": 293.32,
+      "speaker": "SPEAKER_00",
+      "text": "Well, that's pretty close."
+    },
+    {
+      "start": 293.32,
+      "end": 295.32,
+      "speaker": "SPEAKER_01",
+      "text": "But we do have a cost breakdown that our client uses."
+    },
+    {
+      "start": 295.32,
+      "end": 296.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 296.32,
+      "end": 297.32,
+      "speaker": "SPEAKER_01",
+      "text": "So you can use that as well."
+    },
+    {
+      "start": 297.32,
+      "end": 298.32,
+      "speaker": "SPEAKER_01",
+      "text": "Just waste it."
+    },
+    {
+      "start": 298.32,
+      "end": 299.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, that's okay."
+    },
+    {
+      "start": 299.32,
+      "end": 301.32,
+      "speaker": "SPEAKER_01",
+      "text": "We can go with materials costs."
+    },
+    {
+      "start": 301.32,
+      "end": 302.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 302.32,
+      "end": 305.32,
+      "speaker": "SPEAKER_01",
+      "text": "So labor costs."
+    },
+    {
+      "start": 305.32,
+      "end": 306.32,
+      "speaker": "SPEAKER_01",
+      "text": "Uh-huh."
+    },
+    {
+      "start": 306.32,
+      "end": 308.32,
+      "speaker": "SPEAKER_01",
+      "text": "Factory related costs."
+    },
+    {
+      "start": 308.32,
+      "end": 309.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 309.32,
+      "end": 310.32,
+      "speaker": "SPEAKER_01",
+      "text": "And other costs."
+    },
+    {
+      "start": 310.32,
+      "end": 311.32,
+      "speaker": "SPEAKER_01",
+      "text": "So the indirect costs."
+    },
+    {
+      "start": 311.32,
+      "end": 312.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 312.32,
+      "end": 313.32,
+      "speaker": "SPEAKER_00",
+      "text": "Great. So no energy."
+    },
+    {
+      "start": 313.32,
+      "end": 314.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 314.32,
+      "end": 315.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Sounds good."
+    },
+    {
+      "start": 315.32,
+      "end": 317.32,
+      "speaker": "SPEAKER_00",
+      "text": "And what happened to these costs?"
+    },
+    {
+      "start": 317.32,
+      "end": 318.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 318.32,
+      "end": 323.32,
+      "speaker": "SPEAKER_01",
+      "text": "Uh- materials costs have gone from 50% of total costs."
+    },
+    {
+      "start": 323.32,
+      "end": 324.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 324.32,
+      "end": 326.32,
+      "speaker": "SPEAKER_01",
+      "text": "Two 52% of total costs."
+    },
+    {
+      "start": 326.32,
+      "end": 327.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 327.32,
+      "end": 334.32,
+      "speaker": "SPEAKER_01",
+      "text": "Labor costs has stayed stable at 20%."
+    },
+    {
+      "start": 334.32,
+      "end": 337.32,
+      "speaker": "SPEAKER_00",
+      "text": "20 before and 20% afterwards."
+    },
+    {
+      "start": 337.32,
+      "end": 338.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 338.32,
+      "end": 341.32,
+      "speaker": "SPEAKER_00",
+      "text": "And of course the total has increased because total costs increase."
+    },
+    {
+      "start": 341.32,
+      "end": 342.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 342.32,
+      "end": 343.32,
+      "speaker": "SPEAKER_01",
+      "text": "That's right."
+    },
+    {
+      "start": 343.32,
+      "end": 347.32,
+      "speaker": "SPEAKER_01",
+      "text": "And both factory costs and indirect costs have decreased from 15% to 20%."
+    },
+    {
+      "start": 347.32,
+      "end": 348.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 348.32,
+      "end": 350.32,
+      "speaker": "SPEAKER_01",
+      "text": "So it went from 15% to 40%."
+    },
+    {
+      "start": 350.32,
+      "end": 351.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 351.32,
+      "end": 353.32,
+      "speaker": "SPEAKER_00",
+      "text": "So it went from 15% to 40%."
+    },
+    {
+      "start": 353.32,
+      "end": 354.32,
+      "speaker": "SPEAKER_00",
+      "text": "Uh-uh."
+    },
+    {
+      "start": 354.32,
+      "end": 355.32,
+      "speaker": "SPEAKER_00",
+      "text": "Percent."
+    },
+    {
+      "start": 355.32,
+      "end": 356.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 356.32,
+      "end": 357.32,
+      "speaker": "SPEAKER_00",
+      "text": "That sounds good."
+    },
+    {
+      "start": 357.32,
+      "end": 364.32,
+      "speaker": "SPEAKER_00",
+      "text": "So just to get a-it seems like the problem is on materials."
+    },
+    {
+      "start": 364.32,
+      "end": 365.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 365.32,
+      "end": 366.32,
+      "speaker": "SPEAKER_00",
+      "text": "Uh-uh."
+    },
+    {
+      "start": 366.32,
+      "end": 372.32,
+      "speaker": "SPEAKER_00",
+      "text": "I just want to tie back to the two billion cost increase just to see how much of that."
+    },
+    {
+      "start": 372.32,
+      "end": 373.32,
+      "speaker": "SPEAKER_00",
+      "text": "Uh-uh."
+    },
+    {
+      "start": 373.32,
+      "end": 374.32,
+      "speaker": "SPEAKER_00",
+      "text": "Was caused by material."
+    },
+    {
+      "start": 374.32,
+      "end": 379.32,
+      "speaker": "SPEAKER_00",
+      "text": "Before we had 50% of 20 billion so we had 10 billion dollars."
+    },
+    {
+      "start": 379.32,
+      "end": 380.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 380.32,
+      "end": 385.32,
+      "speaker": "SPEAKER_00",
+      "text": "And now we have 52% of 22 billion."
+    },
+    {
+      "start": 385.32,
+      "end": 391.32,
+      "speaker": "SPEAKER_00",
+      "text": "So if this were 50% of 22 would have been 11 billion dollars."
+    },
+    {
+      "start": 391.32,
+      "end": 392.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 392.32,
+      "end": 393.32,
+      "speaker": "SPEAKER_00",
+      "text": "Uh-uh."
+    },
+    {
+      "start": 393.32,
+      "end": 402.32,
+      "speaker": "SPEAKER_00",
+      "text": "Now we have 2% of 22, uh-uh, which is 0.44 billion."
+    },
+    {
+      "start": 402.32,
+      "end": 403.32,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 403.32,
+      "end": 406.32,
+      "speaker": "SPEAKER_00",
+      "text": "So 1% would have been 0.22 billion."
+    },
+    {
+      "start": 406.32,
+      "end": 407.32,
+      "speaker": "SPEAKER_00",
+      "text": "2.44 billion."
+    },
+    {
+      "start": 407.32,
+      "end": 408.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 408.32,
+      "end": 416.32,
+      "speaker": "SPEAKER_00",
+      "text": "So now material cost is at 11.44 billion."
+    },
+    {
+      "start": 416.32,
+      "end": 417.32,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 417.32,
+      "end": 423.32,
+      "speaker": "SPEAKER_00",
+      "text": "So we have increased 2 billion total costs."
+    },
+    {
+      "start": 423.32,
+      "end": 431.32,
+      "speaker": "SPEAKER_00",
+      "text": "And we have increased 1.44 billion."
+    },
+    {
+      "start": 431.32,
+      "end": 440.32,
+      "speaker": "SPEAKER_00",
+      "text": "So that's a 75% material cost represents roughly 75% of the total cost increase."
+    },
+    {
+      "start": 440.32,
+      "end": 441.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 441.32,
+      "end": 448.32,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to focus on materials because it represents most of the cost increase because it's the line that has gained-"
+    },
+    {
+      "start": 448.32,
+      "end": 453.32,
+      "speaker": "SPEAKER_00",
+      "text": "the cost line that has gained most share."
+    },
+    {
+      "start": 453.32,
+      "end": 460.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then if you can solve the cost problem and the profitability problem through material costs we're going to come back."
+    },
+    {
+      "start": 460.32,
+      "end": 463.32,
+      "speaker": "SPEAKER_00",
+      "text": "And work on labor, indirect and fixed."
+    },
+    {
+      "start": 463.32,
+      "end": 464.32,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 464.32,
+      "end": 465.32,
+      "speaker": "SPEAKER_00",
+      "text": "That makes sense."
+    },
+    {
+      "start": 465.32,
+      "end": 466.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 466.32,
+      "end": 467.32,
+      "speaker": "SPEAKER_01",
+      "text": "Uh-uh."
+    },
+    {
+      "start": 467.32,
+      "end": 468.32,
+      "speaker": "SPEAKER_01",
+      "text": "What do you want to do?"
+    },
+    {
+      "start": 468.32,
+      "end": 473.32,
+      "speaker": "SPEAKER_00",
+      "text": "So I want to investigate why material costs have increased."
+    },
+    {
+      "start": 473.32,
+      "end": 475.32,
+      "speaker": "SPEAKER_00",
+      "text": "And what do you think?"
+    },
+    {
+      "start": 475.32,
+      "end": 476.32,
+      "speaker": "SPEAKER_00",
+      "text": "That's a good question."
+    },
+    {
+      "start": 476.32,
+      "end": 480.32,
+      "speaker": "SPEAKER_00",
+      "text": "So let's think of the possibilities here."
+    },
+    {
+      "start": 480.32,
+      "end": 483.32,
+      "speaker": "SPEAKER_00",
+      "text": "Why has material costs increased?"
+    },
+    {
+      "start": 483.32,
+      "end": 489.32,
+      "speaker": "SPEAKER_00",
+      "text": "Uh-uh."
+    },
+    {
+      "start": 489.32,
+      "end": 498.32,
+      "speaker": "SPEAKER_00",
+      "text": "One clarifying question that I'd like to ask is, do we know if our competitors' material costs have increased as well?"
+    },
+    {
+      "start": 498.32,
+      "end": 500.32,
+      "speaker": "SPEAKER_01",
+      "text": "We don't really know that at all."
+    },
+    {
+      "start": 500.32,
+      "end": 501.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 501.32,
+      "end": 510.32,
+      "speaker": "SPEAKER_00",
+      "text": "Because that would be really informative information to have because they probably buy the same parts from the same suppliers."
+    },
+    {
+      "start": 510.32,
+      "end": 516.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "What I would do here is break down materials into the different types of materials."
+    },
+    {
+      "start": 516.3199999999999,
+      "end": 532.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So we have steel, we have auto parts, we have tires, glasses, like, electric, all these stuff we buy."
+    },
+    {
+      "start": 532.32,
+      "end": 538.32,
+      "speaker": "SPEAKER_00",
+      "text": "And I would try to understand which one has increased and then I'd ask why again."
+    },
+    {
+      "start": 538.32,
+      "end": 546.32,
+      "speaker": "SPEAKER_00",
+      "text": "So say if it's steel, are we purchasing different types of steel or from different suppliers or what's going on?"
+    },
+    {
+      "start": 546.32,
+      "end": 552.32,
+      "speaker": "SPEAKER_00",
+      "text": "But the first step would be to understand which category of purchased parts has increased."
+    },
+    {
+      "start": 552.32,
+      "end": 553.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 553.32,
+      "end": 554.32,
+      "speaker": "SPEAKER_01",
+      "text": "All right."
+    },
+    {
+      "start": 554.32,
+      "end": 555.32,
+      "speaker": "SPEAKER_01",
+      "text": "We do have data on that actually."
+    },
+    {
+      "start": 555.32,
+      "end": 562.32,
+      "speaker": "SPEAKER_01",
+      "text": "So our materials are broken down into auto parts, steel, plastics, and others."
+    },
+    {
+      "start": 562.32,
+      "end": 563.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 563.32,
+      "end": 566.32,
+      "speaker": "SPEAKER_01",
+      "text": "So your vehicles."
+    },
+    {
+      "start": 566.32,
+      "end": 567.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 567.32,
+      "end": 576.32,
+      "speaker": "SPEAKER_01",
+      "text": "And as a percentage of materials, auto parts has increased from 60% to 65%."
+    },
+    {
+      "start": 576.32,
+      "end": 578.32,
+      "speaker": "SPEAKER_00",
+      "text": "As a percentage of materials."
+    },
+    {
+      "start": 578.32,
+      "end": 579.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 579.32,
+      "end": 582.32,
+      "speaker": "SPEAKER_00",
+      "text": "So we're talking about a 11.44 billion."
+    },
+    {
+      "start": 582.32,
+      "end": 583.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 583.32,
+      "end": 584.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 584.32,
+      "end": 587.32,
+      "speaker": "SPEAKER_00",
+      "text": "Auto parts went from 60 to 65%."
+    },
+    {
+      "start": 587.32,
+      "end": 588.32,
+      "speaker": "SPEAKER_00",
+      "text": "That's right."
+    },
+    {
+      "start": 588.32,
+      "end": 589.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 589.32,
+      "end": 594.32,
+      "speaker": "SPEAKER_01",
+      "text": "Steel and plastics both decreased from 15 to 13%."
+    },
+    {
+      "start": 594.32,
+      "end": 596.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 596.32,
+      "end": 602.32,
+      "speaker": "SPEAKER_01",
+      "text": "And other costs has decreased from 10% to 9%."
+    },
+    {
+      "start": 602.32,
+      "end": 603.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 603.32,
+      "end": 604.32,
+      "speaker": "SPEAKER_00",
+      "text": "That's interesting."
+    },
+    {
+      "start": 604.32,
+      "end": 607.32,
+      "speaker": "SPEAKER_00",
+      "text": "So it seems like it all comes from auto parts."
+    },
+    {
+      "start": 607.32,
+      "end": 610.32,
+      "speaker": "SPEAKER_00",
+      "text": "We can't know for sure unless we do the math."
+    },
+    {
+      "start": 610.32,
+      "end": 612.32,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to do the math really quickly."
+    },
+    {
+      "start": 612.32,
+      "end": 615.32,
+      "speaker": "SPEAKER_00",
+      "text": "We had 60% of 10 billion."
+    },
+    {
+      "start": 615.32,
+      "end": 619.32,
+      "speaker": "SPEAKER_00",
+      "text": "We used purchase 6 billion in auto parts."
+    },
+    {
+      "start": 619.32,
+      "end": 628.32,
+      "speaker": "SPEAKER_00",
+      "text": "And now we're purchasing 65% of 11.44 billion."
+    },
+    {
+      "start": 628.32,
+      "end": 629.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 629.32,
+      "end": 631.32,
+      "speaker": "SPEAKER_00",
+      "text": "Tough math to do here."
+    },
+    {
+      "start": 631.32,
+      "end": 637.32,
+      "speaker": "SPEAKER_00",
+      "text": "So let me divide this into 50% plus 10% plus 5%."
+    },
+    {
+      "start": 637.32,
+      "end": 646.32,
+      "speaker": "SPEAKER_00",
+      "text": "50% of 11.44 is, well, 50% of 0.44 is 0.22."
+    },
+    {
+      "start": 646.32,
+      "end": 650.32,
+      "speaker": "SPEAKER_00",
+      "text": "And 50% of 11 is 5.5."
+    },
+    {
+      "start": 650.32,
+      "end": 657.32,
+      "speaker": "SPEAKER_00",
+      "text": "So 5.5 plus 0.22 is 5.72."
+    },
+    {
+      "start": 657.32,
+      "end": 660.32,
+      "speaker": "SPEAKER_00",
+      "text": "That's 50% of the total bill."
+    },
+    {
+      "start": 660.32,
+      "end": 661.32,
+      "speaker": "SPEAKER_00",
+      "text": "That's right."
+    },
+    {
+      "start": 661.32,
+      "end": 666.32,
+      "speaker": "SPEAKER_00",
+      "text": "And 10% is 1.14."
+    },
+    {
+      "start": 666.32,
+      "end": 667.32,
+      "speaker": "SPEAKER_00",
+      "text": "Or 1.44."
+    },
+    {
+      "start": 667.32,
+      "end": 670.32,
+      "speaker": "SPEAKER_00",
+      "text": "I'm just going to, well, let's do the exact math here."
+    },
+    {
+      "start": 670.32,
+      "end": 671.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 671.32,
+      "end": 676.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then 5% is 10% of the 50%."
+    },
+    {
+      "start": 676.32,
+      "end": 680.32,
+      "speaker": "SPEAKER_00",
+      "text": "So it's 0.572."
+    },
+    {
+      "start": 680.32,
+      "end": 685.32,
+      "speaker": "SPEAKER_00",
+      "text": "So summing all up, we have 6."
+    },
+    {
+      "start": 685.32,
+      "end": 692.32,
+      "speaker": "SPEAKER_00",
+      "text": "2 plus 4 is 6 plus 7 is 13."
+    },
+    {
+      "start": 692.32,
+      "end": 699.32,
+      "speaker": "SPEAKER_00",
+      "text": "7.36."
+    },
+    {
+      "start": 699.32,
+      "end": 701.32,
+      "speaker": "SPEAKER_01",
+      "text": "Wait, wait, wait, pause."
+    },
+    {
+      "start": 701.32,
+      "end": 702.32,
+      "speaker": "SPEAKER_01",
+      "text": "Did you see that?"
+    },
+    {
+      "start": 702.32,
+      "end": 710.32,
+      "speaker": "SPEAKER_01",
+      "text": "65% of 11.44 billion is 7.436, not 7.36."
+    },
+    {
+      "start": 710.32,
+      "end": 712.32,
+      "speaker": "SPEAKER_01",
+      "text": "Bruno made a mistake there and I didn't notice."
+    },
+    {
+      "start": 712.32,
+      "end": 715.32,
+      "speaker": "SPEAKER_01",
+      "text": "The values are so close that I didn't catch my attention."
+    },
+    {
+      "start": 715.32,
+      "end": 720.32,
+      "speaker": "SPEAKER_01",
+      "text": "They both rounded to 7.4 and I actually only noticed this when I was editing this video."
+    },
+    {
+      "start": 720.32,
+      "end": 726.32,
+      "speaker": "SPEAKER_01",
+      "text": "In a real case interview, it's actually possible that the interviewer doesn't notice a mistake, but it's unlikely."
+    },
+    {
+      "start": 726.32,
+      "end": 728.32,
+      "speaker": "SPEAKER_01",
+      "text": "And what would have happened if I had noticed it?"
+    },
+    {
+      "start": 728.32,
+      "end": 730.32,
+      "speaker": "SPEAKER_01",
+      "text": "I have asked him, are you sure?"
+    },
+    {
+      "start": 730.32,
+      "end": 735.32,
+      "speaker": "SPEAKER_01",
+      "text": "And then he would have one chance of finding and fixing him with his mistake."
+    },
+    {
+      "start": 735.32,
+      "end": 737.32,
+      "speaker": "SPEAKER_01",
+      "text": "If he did, he'd be fine."
+    },
+    {
+      "start": 737.32,
+      "end": 738.32,
+      "speaker": "SPEAKER_01",
+      "text": "No big deal."
+    },
+    {
+      "start": 738.32,
+      "end": 741.32,
+      "speaker": "SPEAKER_01",
+      "text": "If he didn't, then he'd be in trouble."
+    },
+    {
+      "start": 741.32,
+      "end": 742.32,
+      "speaker": "SPEAKER_00",
+      "text": "Is that right?"
+    },
+    {
+      "start": 742.32,
+      "end": 743.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, that's right."
+    },
+    {
+      "start": 743.32,
+      "end": 744.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 744.32,
+      "end": 759.32,
+      "speaker": "SPEAKER_00",
+      "text": "So we went from 6 billion to 7.36, which is an increase of 1.36."
+    },
+    {
+      "start": 759.32,
+      "end": 761.32,
+      "speaker": "SPEAKER_00",
+      "text": "1.36 billion."
+    },
+    {
+      "start": 761.32,
+      "end": 768.32,
+      "speaker": "SPEAKER_00",
+      "text": "So not all costs from materials increased come from all the parts, but the vast majority of it."
+    },
+    {
+      "start": 768.32,
+      "end": 774.32,
+      "speaker": "SPEAKER_00",
+      "text": "We compare 1.36 billion to 1.44 billion total material increase."
+    },
+    {
+      "start": 774.32,
+      "end": 776.32,
+      "speaker": "SPEAKER_00",
+      "text": "So let's focus on auto parts."
+    },
+    {
+      "start": 776.32,
+      "end": 780.32,
+      "speaker": "SPEAKER_00",
+      "text": "We need to understand why auto part costs and is going to."
+    },
+    {
+      "start": 780.32,
+      "end": 788.32,
+      "speaker": "SPEAKER_00",
+      "text": "Do we have any information on what happens to our suppliers, the types of parts we buy or something in supply chain?"
+    },
+    {
+      "start": 788.32,
+      "end": 790.32,
+      "speaker": "SPEAKER_00",
+      "text": "Not at all."
+    },
+    {
+      "start": 790.32,
+      "end": 791.32,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think?"
+    },
+    {
+      "start": 791.32,
+      "end": 792.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 792.32,
+      "end": 795.32,
+      "speaker": "SPEAKER_00",
+      "text": "So let's raise some hypothesis on what could have happened to you."
+    },
+    {
+      "start": 796.32,
+      "end": 801.32,
+      "speaker": "SPEAKER_00",
+      "text": "Either we're buying more parts."
+    },
+    {
+      "start": 801.32,
+      "end": 813.32,
+      "speaker": "SPEAKER_00",
+      "text": "And to some extent we have to buy more parts per car because the materials cost has raised more."
+    },
+    {
+      "start": 813.32,
+      "end": 815.32,
+      "speaker": "SPEAKER_00",
+      "text": "Then the total revenue."
+    },
+    {
+      "start": 815.32,
+      "end": 816.32,
+      "speaker": "SPEAKER_00",
+      "text": "Right?"
+    },
+    {
+      "start": 816.32,
+      "end": 818.32,
+      "speaker": "SPEAKER_00",
+      "text": "So that's why we're having profitability from."
+    },
+    {
+      "start": 818.32,
+      "end": 823.32,
+      "speaker": "SPEAKER_00",
+      "text": "Or we're paying more per part on average."
+    },
+    {
+      "start": 823.32,
+      "end": 826.32,
+      "speaker": "SPEAKER_00",
+      "text": "We know which one of those two is the most responsible."
+    },
+    {
+      "start": 826.32,
+      "end": 829.32,
+      "speaker": "SPEAKER_00",
+      "text": "We don't know, but I'd like to think about this as more."
+    },
+    {
+      "start": 829.32,
+      "end": 830.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 830.32,
+      "end": 836.32,
+      "speaker": "SPEAKER_00",
+      "text": "So if we purchase more parts per car, maybe our mix of parts has changed."
+    },
+    {
+      "start": 836.32,
+      "end": 850.32,
+      "speaker": "SPEAKER_00",
+      "text": "Or we have new products, which is another source of mix changing, but then we cause it instead of the market."
+    },
+    {
+      "start": 850.32,
+      "end": 856.32,
+      "speaker": "SPEAKER_00",
+      "text": "Or the waste is higher in our manufacturing."
+    },
+    {
+      "start": 856.32,
+      "end": 857.32,
+      "speaker": "SPEAKER_00",
+      "text": "Right?"
+    },
+    {
+      "start": 857.32,
+      "end": 861.32,
+      "speaker": "SPEAKER_00",
+      "text": "Now if the dollar per part has increased."
+    },
+    {
+      "start": 861.32,
+      "end": 873.32,
+      "speaker": "SPEAKER_00",
+      "text": "So if we're paying more per part, that's either because we have switched to more expensive suppliers."
+    },
+    {
+      "start": 873.32,
+      "end": 879.32,
+      "speaker": "SPEAKER_00",
+      "text": "Or that happened at same suppliers."
+    },
+    {
+      "start": 879.32,
+      "end": 887.32,
+      "speaker": "SPEAKER_00",
+      "text": "And if it did happen in the same suppliers, then either they're making more money."
+    },
+    {
+      "start": 887.32,
+      "end": 894.32,
+      "speaker": "SPEAKER_00",
+      "text": "So their margins up or their costs are up and they're sending their costs to us."
+    },
+    {
+      "start": 894.32,
+      "end": 895.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 895.32,
+      "end": 897.32,
+      "speaker": "SPEAKER_00",
+      "text": "Why would they be making more money?"
+    },
+    {
+      "start": 897.32,
+      "end": 901.32,
+      "speaker": "SPEAKER_00",
+      "text": "Perhaps because I'll give you some ideas with you."
+    },
+    {
+      "start": 901.32,
+      "end": 908.32,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe they have bought one another and now they're more concentrated."
+    },
+    {
+      "start": 908.32,
+      "end": 911.32,
+      "speaker": "SPEAKER_00",
+      "text": "And we can really bargain with them."
+    },
+    {
+      "start": 911.32,
+      "end": 915.32,
+      "speaker": "SPEAKER_00",
+      "text": "Or they have created switching costs so we can't change suppliers."
+    },
+    {
+      "start": 915.32,
+      "end": 923.32,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe the tooling of the equipment or they have patents of certain parts designs."
+    },
+    {
+      "start": 923.32,
+      "end": 929.32,
+      "speaker": "SPEAKER_00",
+      "text": "It could also be that we are getting really poor in negotiation."
+    },
+    {
+      "start": 929.32,
+      "end": 936.32,
+      "speaker": "SPEAKER_00",
+      "text": "So maybe we've changed our purchasing force or our CPO."
+    },
+    {
+      "start": 936.32,
+      "end": 941.32,
+      "speaker": "SPEAKER_00",
+      "text": "And our guys are not doing a really good job negotiating this part."
+    },
+    {
+      "start": 941.32,
+      "end": 942.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 942.32,
+      "end": 943.32,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 943.32,
+      "end": 944.32,
+      "speaker": "SPEAKER_00",
+      "text": "I can leave that."
+    },
+    {
+      "start": 944.32,
+      "end": 945.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 945.32,
+      "end": 952.32,
+      "speaker": "SPEAKER_01",
+      "text": "And now as it turns out, the problem is that workers of auto parts with effectures in the USA"
+    },
+    {
+      "start": 952.32,
+      "end": 955.32,
+      "speaker": "SPEAKER_01",
+      "text": "have become recently unionized."
+    },
+    {
+      "start": 955.32,
+      "end": 956.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 956.32,
+      "end": 961.32,
+      "speaker": "SPEAKER_01",
+      "text": "And this has caused a large increase in labor costs with salaries and benefits increase."
+    },
+    {
+      "start": 961.32,
+      "end": 962.32,
+      "speaker": "SPEAKER_01",
+      "text": "For our suppliers."
+    },
+    {
+      "start": 962.32,
+      "end": 965.32,
+      "speaker": "SPEAKER_01",
+      "text": "For all USA manufacturers."
+    },
+    {
+      "start": 965.32,
+      "end": 966.32,
+      "speaker": "SPEAKER_01",
+      "text": "Our suppliers."
+    },
+    {
+      "start": 966.32,
+      "end": 970.32,
+      "speaker": "SPEAKER_01",
+      "text": "No, just our suppliers, but all suppliers of auto parts in the USA."
+    },
+    {
+      "start": 970.32,
+      "end": 971.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 971.32,
+      "end": 973.32,
+      "speaker": "SPEAKER_00",
+      "text": "So this happens to our competitors as well."
+    },
+    {
+      "start": 973.32,
+      "end": 979.32,
+      "speaker": "SPEAKER_01",
+      "text": "It did, but other players in the market have outsourced the production of their auto parts to other countries."
+    },
+    {
+      "start": 979.32,
+      "end": 980.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 980.32,
+      "end": 985.32,
+      "speaker": "SPEAKER_01",
+      "text": "And we're currently considering outsourcing the production of our auto parts to China."
+    },
+    {
+      "start": 985.32,
+      "end": 986.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 986.32,
+      "end": 991.32,
+      "speaker": "SPEAKER_01",
+      "text": "What factors would you take into consideration to decide whether or not this is a good idea?"
+    },
+    {
+      "start": 991.32,
+      "end": 992.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 992.32,
+      "end": 999.32,
+      "speaker": "SPEAKER_00",
+      "text": "So just so you can understand, our materials bill has increased because our suppliers have higher costs."
+    },
+    {
+      "start": 999.32,
+      "end": 1003.32,
+      "speaker": "SPEAKER_00",
+      "text": "This happened with all suppliers in the chain in the US."
+    },
+    {
+      "start": 1003.32,
+      "end": 1004.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1004.32,
+      "end": 1008.32,
+      "speaker": "SPEAKER_00",
+      "text": "And we want to consider it if we should buy these parts in China."
+    },
+    {
+      "start": 1008.32,
+      "end": 1009.32,
+      "speaker": "SPEAKER_00",
+      "text": "That's right."
+    },
+    {
+      "start": 1009.32,
+      "end": 1013.32,
+      "speaker": "SPEAKER_00",
+      "text": "Are we considering buying all the parts or just some of them?"
+    },
+    {
+      "start": 1013.32,
+      "end": 1018.32,
+      "speaker": "SPEAKER_01",
+      "text": "As many as needed to bring our profitability back to 5%."
+    },
+    {
+      "start": 1018.32,
+      "end": 1019.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1019.32,
+      "end": 1022.32,
+      "speaker": "SPEAKER_00",
+      "text": "And we need to make sure that it's..."
+    },
+    {
+      "start": 1022.32,
+      "end": 1025.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "You want to know how would I decide..."
+    },
+    {
+      "start": 1025.3200000000002,
+      "end": 1030.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "How would I have declined the size if we should purchase these parts in China?"
+    },
+    {
+      "start": 1030.3200000000002,
+      "end": 1031.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 1031.3200000000002,
+      "end": 1032.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1032.3200000000002,
+      "end": 1033.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm just going to..."
+    },
+    {
+      "start": 1033.3200000000002,
+      "end": 1034.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Can I take a minute to think?"
+    },
+    {
+      "start": 1034.3200000000002,
+      "end": 1035.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, take your time."
+    },
+    {
+      "start": 1035.32,
+      "end": 1036.32,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1036.32,
+      "end": 1060.32,
+      "speaker": "SPEAKER_00",
+      "text": "So I would consider 5 different factors."
+    },
+    {
+      "start": 1061.32,
+      "end": 1071.32,
+      "speaker": "SPEAKER_00",
+      "text": "To see if we should outsource or actually import parts from China instead of buying them from American suppliers."
+    },
+    {
+      "start": 1071.32,
+      "end": 1078.32,
+      "speaker": "SPEAKER_00",
+      "text": "The first one is if it's actually going to be cheaper, if it's not going to be cheaper in China for some reason, I don't want to do that."
+    },
+    {
+      "start": 1078.32,
+      "end": 1079.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1079.32,
+      "end": 1085.32,
+      "speaker": "SPEAKER_00",
+      "text": "The second one is if it meets the quality standards that we expect."
+    },
+    {
+      "start": 1085.32,
+      "end": 1086.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1086.32,
+      "end": 1091.32,
+      "speaker": "SPEAKER_00",
+      "text": "Because otherwise we're going to lose the quality of our product."
+    },
+    {
+      "start": 1091.32,
+      "end": 1093.32,
+      "speaker": "SPEAKER_00",
+      "text": "This is probably not acceptable."
+    },
+    {
+      "start": 1093.32,
+      "end": 1100.32,
+      "speaker": "SPEAKER_00",
+      "text": "The third thing is can we have a predictable supply chain if we bring parts from China?"
+    },
+    {
+      "start": 1100.32,
+      "end": 1101.32,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 1101.32,
+      "end": 1112.32,
+      "speaker": "SPEAKER_00",
+      "text": "It doesn't make sense to get cheaper products, but then have manufacturing more expensive or having the factory stock working and so on."
+    },
+    {
+      "start": 1112.32,
+      "end": 1118.32,
+      "speaker": "SPEAKER_00",
+      "text": "The fourth factor is look at our other risks that are not considered in the previous three buckets."
+    },
+    {
+      "start": 1118.32,
+      "end": 1126.32,
+      "speaker": "SPEAKER_00",
+      "text": "And finally, if there aren't better alternatives, because maybe all of these boxes check for China, but then there are better alternatives."
+    },
+    {
+      "start": 1126.32,
+      "end": 1129.32,
+      "speaker": "SPEAKER_00",
+      "text": "So let me explore in a bit more detail."
+    },
+    {
+      "start": 1129.32,
+      "end": 1132.32,
+      "speaker": "SPEAKER_00",
+      "text": "Regarding cheaper, are the parts going to be cheaper?"
+    },
+    {
+      "start": 1132.32,
+      "end": 1135.32,
+      "speaker": "SPEAKER_00",
+      "text": "The way I answer this question would be to answer three questions."
+    },
+    {
+      "start": 1135.32,
+      "end": 1141.32,
+      "speaker": "SPEAKER_00",
+      "text": "The first is to figure out the cost of the parts there in China."
+    },
+    {
+      "start": 1141.32,
+      "end": 1148.32,
+      "speaker": "SPEAKER_00",
+      "text": "The second step would be to consider what are the fixed costs in developing new suppliers."
+    },
+    {
+      "start": 1148.32,
+      "end": 1157.32,
+      "speaker": "SPEAKER_00",
+      "text": "So we'll cost something to make the parts and learn to make our parts at our quality standards."
+    },
+    {
+      "start": 1157.32,
+      "end": 1163.32,
+      "speaker": "SPEAKER_00",
+      "text": "And the third thing is what is the cost to bring parts from China to the US?"
+    },
+    {
+      "start": 1163.32,
+      "end": 1170.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then there is all the shipping parts, the tariffs, the exchange rates and so on."
+    },
+    {
+      "start": 1170.32,
+      "end": 1177.32,
+      "speaker": "SPEAKER_00",
+      "text": "Also, there's a fourth factor which I didn't put here, but we will probably need some operation there."
+    },
+    {
+      "start": 1177.32,
+      "end": 1182.32,
+      "speaker": "SPEAKER_00",
+      "text": "Some people are checking the suppliers and visiting them as well."
+    },
+    {
+      "start": 1182.32,
+      "end": 1190.32,
+      "speaker": "SPEAKER_00",
+      "text": "Regarding quality, I would try to understand what is the manufacturing expertise of these suppliers?"
+    },
+    {
+      "start": 1190.32,
+      "end": 1193.32,
+      "speaker": "SPEAKER_00",
+      "text": "What are the quality controls that they do that can trust them?"
+    },
+    {
+      "start": 1193.32,
+      "end": 1200.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then also I'd like to see prototypes of our parts just to see if this actually happens in real life."
+    },
+    {
+      "start": 1200.32,
+      "end": 1205.32,
+      "speaker": "SPEAKER_00",
+      "text": "Or if it's all theoretical, on paper they're really good, but you know."
+    },
+    {
+      "start": 1205.32,
+      "end": 1206.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, okay."
+    },
+    {
+      "start": 1206.32,
+      "end": 1211.32,
+      "speaker": "SPEAKER_00",
+      "text": "Regarding the predictable supply chain, look at three factors as well."
+    },
+    {
+      "start": 1211.32,
+      "end": 1215.32,
+      "speaker": "SPEAKER_00",
+      "text": "The first is the import issue."
+    },
+    {
+      "start": 1215.32,
+      "end": 1219.32,
+      "speaker": "SPEAKER_00",
+      "text": "How is the process to import parts from China?"
+    },
+    {
+      "start": 1219.32,
+      "end": 1222.32,
+      "speaker": "SPEAKER_00",
+      "text": "How predictable is it?"
+    },
+    {
+      "start": 1222.32,
+      "end": 1229.32,
+      "speaker": "SPEAKER_00",
+      "text": "How much leads time do you need to order these parts and can we work with these types of leads?"
+    },
+    {
+      "start": 1229.32,
+      "end": 1238.32,
+      "speaker": "SPEAKER_00",
+      "text": "Assuming the supply chain is predictable, what are the steps and the times of the process?"
+    },
+    {
+      "start": 1238.32,
+      "end": 1242.32,
+      "speaker": "SPEAKER_00",
+      "text": "The second factor is gel politics."
+    },
+    {
+      "start": 1242.32,
+      "end": 1251.32,
+      "speaker": "SPEAKER_00",
+      "text": "Are there geopolitical risks that can make us, you know, not receive parts for a whole month?"
+    },
+    {
+      "start": 1251.32,
+      "end": 1254.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then what should we do about it?"
+    },
+    {
+      "start": 1254.32,
+      "end": 1257.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, yeah, do we just close down the business?"
+    },
+    {
+      "start": 1257.32,
+      "end": 1264.32,
+      "speaker": "SPEAKER_00",
+      "text": "And the third thing is something that would decrease the risk in supply chain, which is inventory."
+    },
+    {
+      "start": 1264.32,
+      "end": 1268.32,
+      "speaker": "SPEAKER_00",
+      "text": "How much should we raise inventory?"
+    },
+    {
+      "start": 1268.32,
+      "end": 1275.32,
+      "speaker": "SPEAKER_00",
+      "text": "How much can we raise inventory to mitigate these risks and these uncertainties?"
+    },
+    {
+      "start": 1275.32,
+      "end": 1278.32,
+      "speaker": "SPEAKER_00",
+      "text": "And if so, how much is it going to cost?"
+    },
+    {
+      "start": 1278.32,
+      "end": 1282.32,
+      "speaker": "SPEAKER_00",
+      "text": "And again, this brings us back to the cheaper points of that."
+    },
+    {
+      "start": 1282.32,
+      "end": 1283.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1283.32,
+      "end": 1284.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1284.32,
+      "end": 1287.32,
+      "speaker": "SPEAKER_00",
+      "text": "Now, some other risks to consider."
+    },
+    {
+      "start": 1287.32,
+      "end": 1290.32,
+      "speaker": "SPEAKER_00",
+      "text": "One of them is intellectual property."
+    },
+    {
+      "start": 1290.32,
+      "end": 1294.32,
+      "speaker": "SPEAKER_00",
+      "text": "Can we trust our bull prints to these Chinese suppliers?"
+    },
+    {
+      "start": 1294.32,
+      "end": 1299.32,
+      "speaker": "SPEAKER_00",
+      "text": "I know some of them have had trouble with other industries in the past."
+    },
+    {
+      "start": 1299.32,
+      "end": 1303.32,
+      "speaker": "SPEAKER_00",
+      "text": "Are we willing to risk our designs with them?"
+    },
+    {
+      "start": 1303.32,
+      "end": 1305.32,
+      "speaker": "SPEAKER_00",
+      "text": "So which designs?"
+    },
+    {
+      "start": 1305.32,
+      "end": 1306.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1306.32,
+      "end": 1310.32,
+      "speaker": "SPEAKER_00",
+      "text": "And this enters a broader picture, which is probably the next step of this analysis."
+    },
+    {
+      "start": 1310.32,
+      "end": 1314.32,
+      "speaker": "SPEAKER_00",
+      "text": "If we choose to send our parts to China, which parts?"
+    },
+    {
+      "start": 1314.32,
+      "end": 1317.32,
+      "speaker": "SPEAKER_00",
+      "text": "Probably not all of them?"
+    },
+    {
+      "start": 1317.32,
+      "end": 1318.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, that makes sense."
+    },
+    {
+      "start": 1318.32,
+      "end": 1320.32,
+      "speaker": "SPEAKER_00",
+      "text": "But that's a next step."
+    },
+    {
+      "start": 1320.32,
+      "end": 1326.32,
+      "speaker": "SPEAKER_00",
+      "text": "The second risk that I would emphasize here is the media or the public perception."
+    },
+    {
+      "start": 1326.32,
+      "end": 1331.32,
+      "speaker": "SPEAKER_00",
+      "text": "We're going to be responsible for, you know, taking jobs out of America,"
+    },
+    {
+      "start": 1331.32,
+      "end": 1334.32,
+      "speaker": "SPEAKER_00",
+      "text": "having some suppliers bankrupt."
+    },
+    {
+      "start": 1334.32,
+      "end": 1337.32,
+      "speaker": "SPEAKER_00",
+      "text": "We use Chinese parts in our cars."
+    },
+    {
+      "start": 1337.32,
+      "end": 1342.32,
+      "speaker": "SPEAKER_00",
+      "text": "Is it possible that we will lose market share doing this?"
+    },
+    {
+      "start": 1342.32,
+      "end": 1344.32,
+      "speaker": "SPEAKER_00",
+      "text": "I know our competitors are doing."
+    },
+    {
+      "start": 1344.32,
+      "end": 1354.32,
+      "speaker": "SPEAKER_00",
+      "text": "But maybe we're gaining some sales because we're the guys who, you know,"
+    },
+    {
+      "start": 1354.32,
+      "end": 1358.32,
+      "speaker": "SPEAKER_00",
+      "text": "trust American suppliers and give American jobs and so on."
+    },
+    {
+      "start": 1358.32,
+      "end": 1362.32,
+      "speaker": "SPEAKER_00",
+      "text": "We need to try to size the impact of that."
+    },
+    {
+      "start": 1362.32,
+      "end": 1369.32,
+      "speaker": "SPEAKER_00",
+      "text": "And the third class of risks that I'd look at here is the operational risk."
+    },
+    {
+      "start": 1369.32,
+      "end": 1376.32,
+      "speaker": "SPEAKER_00",
+      "text": "So, and this includes supply chain demand, all the other things."
+    },
+    {
+      "start": 1376.32,
+      "end": 1384.32,
+      "speaker": "SPEAKER_00",
+      "text": "But is it possible that we cannot get parts in a certain situation because of language barriers?"
+    },
+    {
+      "start": 1384.32,
+      "end": 1390.32,
+      "speaker": "SPEAKER_00",
+      "text": "Is it possible that a certain event causes the parts not to work well?"
+    },
+    {
+      "start": 1390.32,
+      "end": 1397.32,
+      "speaker": "SPEAKER_00",
+      "text": "So, all the predictable things that we had looked at in the quality, in the supply chain factors,"
+    },
+    {
+      "start": 1397.32,
+      "end": 1399.32,
+      "speaker": "SPEAKER_00",
+      "text": "what if they become unpredictable?"
+    },
+    {
+      "start": 1399.32,
+      "end": 1401.32,
+      "speaker": "SPEAKER_00",
+      "text": "These are risks."
+    },
+    {
+      "start": 1401.32,
+      "end": 1405.32,
+      "speaker": "SPEAKER_00",
+      "text": "And finally, I'd look at alternatives."
+    },
+    {
+      "start": 1405.32,
+      "end": 1408.32,
+      "speaker": "SPEAKER_00",
+      "text": "So, we can develop American suppliers to make them cheaper again."
+    },
+    {
+      "start": 1408.32,
+      "end": 1425.32,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe really negotiate with the union because if they have caused our parts to be too expensive to the US,"
+    },
+    {
+      "start": 1425.32,
+      "end": 1430.32,
+      "speaker": "SPEAKER_00",
+      "text": "it doesn't really matter that they have higher sellers if they're going to get fired in the US."
+    },
+    {
+      "start": 1430.32,
+      "end": 1432.32,
+      "speaker": "SPEAKER_00",
+      "text": "Or make them cheaper in other ways."
+    },
+    {
+      "start": 1432.32,
+      "end": 1437.32,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe integrate the supply chain better, teach them how to be more efficient."
+    },
+    {
+      "start": 1437.32,
+      "end": 1440.32,
+      "speaker": "SPEAKER_00",
+      "text": "Another alternative is other countries."
+    },
+    {
+      "start": 1440.32,
+      "end": 1443.32,
+      "speaker": "SPEAKER_00",
+      "text": "They're Southeast Asia, they're Mexico."
+    },
+    {
+      "start": 1443.32,
+      "end": 1451.32,
+      "speaker": "SPEAKER_00",
+      "text": "There's a ton of other countries that could be viable and perhaps even cheaper in China or with less risks."
+    },
+    {
+      "start": 1451.32,
+      "end": 1460.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then the other one is other certain parts that we can internalize and manufacture them within our company."
+    },
+    {
+      "start": 1460.32,
+      "end": 1463.32,
+      "speaker": "SPEAKER_00",
+      "text": "So, this could make them cheaper, more predictable."
+    },
+    {
+      "start": 1463.32,
+      "end": 1470.32,
+      "speaker": "SPEAKER_00",
+      "text": "And I try to evaluate these alternatives just to see if there's any one of them that's better and cheaper."
+    },
+    {
+      "start": 1470.32,
+      "end": 1473.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, alright, that's it. That was pretty good."
+    },
+    {
+      "start": 1473.32,
+      "end": 1478.32,
+      "speaker": "SPEAKER_01",
+      "text": "I'm not going to ask you for a recommendation here because I didn't give you any data or any kind of data."
+    },
+    {
+      "start": 1478.32,
+      "end": 1481.32,
+      "speaker": "SPEAKER_01",
+      "text": "And you can't really say anything."
+    },
+    {
+      "start": 1481.32,
+      "end": 1486.32,
+      "speaker": "SPEAKER_01",
+      "text": "But the fee or re-elect your analysis, you can take it into consideration."
+    },
+    {
+      "start": 1486.32,
+      "end": 1489.32,
+      "speaker": "SPEAKER_01",
+      "text": "He might come back to you with some data in the future."
+    },
+    {
+      "start": 1489.32,
+      "end": 1491.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, sounds good."
+    },
+    {
+      "start": 1491.32,
+      "end": 1494.32,
+      "speaker": "SPEAKER_00",
+      "text": "Do you think I did a good job in this case?"
+    },
+    {
+      "start": 1494.32,
+      "end": 1495.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, he did."
+    },
+    {
+      "start": 1495.32,
+      "end": 1497.32,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think I did best?"
+    },
+    {
+      "start": 1497.32,
+      "end": 1500.32,
+      "speaker": "SPEAKER_01",
+      "text": "What do you think I could have done better?"
+    },
+    {
+      "start": 1500.32,
+      "end": 1511.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so definitely the best points in your analysis were that in the second question, you raised some really good points in what you would consider."
+    },
+    {
+      "start": 1511.32,
+      "end": 1515.32,
+      "speaker": "SPEAKER_01",
+      "text": "The second question was, why materials increased?"
+    },
+    {
+      "start": 1515.32,
+      "end": 1518.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I'm going to go with the third question then."
+    },
+    {
+      "start": 1518.32,
+      "end": 1523.32,
+      "speaker": "SPEAKER_01",
+      "text": "We should consider when outsourcing are part of China, when deciding whether we should or not."
+    },
+    {
+      "start": 1523.32,
+      "end": 1533.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so some really good ideas here were developing new suppliers would have fixed costs in China."
+    },
+    {
+      "start": 1533.32,
+      "end": 1537.32,
+      "speaker": "SPEAKER_01",
+      "text": "And that's something that very few people would think of."
+    },
+    {
+      "start": 1537.32,
+      "end": 1542.32,
+      "speaker": "SPEAKER_01",
+      "text": "Another one was predictability of the supply chain."
+    },
+    {
+      "start": 1543.32,
+      "end": 1545.32,
+      "speaker": "SPEAKER_01",
+      "text": "So that was a good idea in itself."
+    },
+    {
+      "start": 1545.32,
+      "end": 1551.32,
+      "speaker": "SPEAKER_01",
+      "text": "And having that impact in ventries was something that hardly anyone would think of."
+    },
+    {
+      "start": 1551.32,
+      "end": 1553.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, those are really good points."
+    },
+    {
+      "start": 1553.32,
+      "end": 1559.32,
+      "speaker": "SPEAKER_00",
+      "text": "And one thing that I wish to do, it helps that I do the project in an auto manufacturer."
+    },
+    {
+      "start": 1559.32,
+      "end": 1560.32,
+      "speaker": "SPEAKER_00",
+      "text": "Probably that, guys."
+    },
+    {
+      "start": 1560.32,
+      "end": 1565.32,
+      "speaker": "SPEAKER_00",
+      "text": "Don't expect everyone to think of all these issues."
+    },
+    {
+      "start": 1565.32,
+      "end": 1568.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, but at the same time, you can always learn from this."
+    },
+    {
+      "start": 1568.32,
+      "end": 1575.32,
+      "speaker": "SPEAKER_01",
+      "text": "And it won't work only for our profitability cases regarding auto mobile companies."
+    },
+    {
+      "start": 1575.32,
+      "end": 1590.32,
+      "speaker": "SPEAKER_01",
+      "text": "But you can always know from now on that predictability in the supply chain allows you to have lower inventories and other predictable supply chain will not have you have higher inventories."
+    },
+    {
+      "start": 1591.32,
+      "end": 1593.32,
+      "speaker": "SPEAKER_01",
+      "text": "That's something you can know for all cases."
+    },
+    {
+      "start": 1593.32,
+      "end": 1595.32,
+      "speaker": "SPEAKER_01",
+      "text": "And this works for all other issues."
+    },
+    {
+      "start": 1595.32,
+      "end": 1596.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, works for all."
+    },
+    {
+      "start": 1596.32,
+      "end": 1599.32,
+      "speaker": "SPEAKER_00",
+      "text": "Any manufacturer, even McDonald's, right?"
+    },
+    {
+      "start": 1599.32,
+      "end": 1600.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1600.32,
+      "end": 1605.32,
+      "speaker": "SPEAKER_00",
+      "text": "You mean the heavy ventries of burgers and breads and so on."
+    },
+    {
+      "start": 1605.32,
+      "end": 1608.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, and still like for all other issues."
+    },
+    {
+      "start": 1608.32,
+      "end": 1611.32,
+      "speaker": "SPEAKER_01",
+      "text": "So we're talking."
+    },
+    {
+      "start": 1611.32,
+      "end": 1617.32,
+      "speaker": "SPEAKER_01",
+      "text": "Let's see, you have financial costs because you're out for a seat to another country."
+    },
+    {
+      "start": 1617.32,
+      "end": 1623.32,
+      "speaker": "SPEAKER_01",
+      "text": "That probably means that you either have risks that currency risks."
+    },
+    {
+      "start": 1623.32,
+      "end": 1627.32,
+      "speaker": "SPEAKER_01",
+      "text": "So your currency is going to go up or down and that might change your costs."
+    },
+    {
+      "start": 1627.32,
+      "end": 1630.32,
+      "speaker": "SPEAKER_01",
+      "text": "Or you're going to have a magic cost to prevent that."
+    },
+    {
+      "start": 1630.32,
+      "end": 1631.32,
+      "speaker": "SPEAKER_01",
+      "text": "Right."
+    },
+    {
+      "start": 1631.32,
+      "end": 1636.32,
+      "speaker": "SPEAKER_01",
+      "text": "Anyway, you're going to have that in any case where you're doing something in one country and another."
+    },
+    {
+      "start": 1636.32,
+      "end": 1637.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1637.32,
+      "end": 1641.32,
+      "speaker": "SPEAKER_01",
+      "text": "Regardless of whether you're outsourcing your production or you're starting to."
+    },
+    {
+      "start": 1641.32,
+      "end": 1643.32,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to work it's our entry."
+    },
+    {
+      "start": 1643.32,
+      "end": 1644.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, that's right."
+    },
+    {
+      "start": 1644.32,
+      "end": 1649.32,
+      "speaker": "SPEAKER_01",
+      "text": "And one thing I wish to do different was in the beginning of the case."
+    },
+    {
+      "start": 1649.32,
+      "end": 1655.32,
+      "speaker": "SPEAKER_01",
+      "text": "I asked you to help me solve the client's problem and you went straight into."
+    },
+    {
+      "start": 1655.32,
+      "end": 1657.32,
+      "speaker": "SPEAKER_01",
+      "text": "And figure out what's happening."
+    },
+    {
+      "start": 1657.32,
+      "end": 1659.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I wish to have said, oh, so."
+    },
+    {
+      "start": 1659.32,
+      "end": 1660.32,
+      "speaker": "SPEAKER_01",
+      "text": "Domestive."
+    },
+    {
+      "start": 1660.32,
+      "end": 1662.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, but that's okay."
+    },
+    {
+      "start": 1662.32,
+      "end": 1663.32,
+      "speaker": "SPEAKER_01",
+      "text": "Like that's what most people do."
+    },
+    {
+      "start": 1663.32,
+      "end": 1664.32,
+      "speaker": "SPEAKER_01",
+      "text": "And it's not the end of the world."
+    },
+    {
+      "start": 1664.32,
+      "end": 1669.32,
+      "speaker": "SPEAKER_01",
+      "text": "But I would have been much happier to have you do it differently and say, well,"
+    },
+    {
+      "start": 1669.32,
+      "end": 1671.32,
+      "speaker": "SPEAKER_01",
+      "text": "so the first thing I want to do is figure out what their problem is."
+    },
+    {
+      "start": 1671.32,
+      "end": 1674.32,
+      "speaker": "SPEAKER_01",
+      "text": "But then afterwards, I want to come up with options."
+    },
+    {
+      "start": 1674.32,
+      "end": 1677.32,
+      "speaker": "SPEAKER_01",
+      "text": "And of course, it depends on what the problem is."
+    },
+    {
+      "start": 1677.32,
+      "end": 1683.32,
+      "speaker": "SPEAKER_01",
+      "text": "But of course, if I can't solve this specific problem, I'm going to come up with solutions and all other ends of my profitability tree."
+    },
+    {
+      "start": 1683.32,
+      "end": 1684.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, something like that."
+    },
+    {
+      "start": 1684.32,
+      "end": 1685.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1685.32,
+      "end": 1686.32,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to do it right now."
+    },
+    {
+      "start": 1686.32,
+      "end": 1698.32,
+      "speaker": "SPEAKER_00",
+      "text": "So you want to help increasing improving the profitability step number one is to find the root cause of what's causing this profitability increase."
+    },
+    {
+      "start": 1698.32,
+      "end": 1704.32,
+      "speaker": "SPEAKER_00",
+      "text": "So if it's a cost problem, which cost is driving profit problem?"
+    },
+    {
+      "start": 1704.32,
+      "end": 1711.32,
+      "speaker": "SPEAKER_00",
+      "text": "If it's a revenue problem, is it price or volume and then which product line or which region is causing a problem?"
+    },
+    {
+      "start": 1711.32,
+      "end": 1718.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, step two is to find solutions to that root cause."
+    },
+    {
+      "start": 1718.32,
+      "end": 1727.32,
+      "speaker": "SPEAKER_00",
+      "text": "And if we can't find any solutions to that root cause, what other drivers can we work on to improve the profitability problem?"
+    },
+    {
+      "start": 1727.32,
+      "end": 1754.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then step three would be to try to quantify each solution and see how much it will help solve the profit problem and also think from a more qualitative strategic level if the solution makes sense at all because maybe it has already a high profit potential, but it's not going to work in real life."
+    },
+    {
+      "start": 1754.32,
+      "end": 1760.32,
+      "speaker": "SPEAKER_00",
+      "text": "So that's how I should have done the first question of this case and then went on to the issue."
+    },
+    {
+      "start": 1760.32,
+      "end": 1764.32,
+      "speaker": "SPEAKER_01",
+      "text": "In our channel, there is a video where Bruno talked specifically about this issue."
+    },
+    {
+      "start": 1764.32,
+      "end": 1769.32,
+      "speaker": "SPEAKER_01",
+      "text": "He'll talk about what should have been done, how to do it differently and why it's better."
+    },
+    {
+      "start": 1769.32,
+      "end": 1773.32,
+      "speaker": "SPEAKER_01",
+      "text": "It's called the five tactics to stand out in profitability case interviews."
+    },
+    {
+      "start": 1773.32,
+      "end": 1778.32,
+      "speaker": "SPEAKER_01",
+      "text": "And it should be right here on the right hand top corner of your video."
+    },
+    {
+      "start": 1778.32,
+      "end": 1786.32,
+      "speaker": "SPEAKER_01",
+      "text": "If you're like most candidates out there, you found a diagnostic part of this case not so hard, but the last question the hardest one."
+    },
+    {
+      "start": 1786.32,
+      "end": 1789.32,
+      "speaker": "SPEAKER_01",
+      "text": "We know that and we felt that way too when we were preparing."
+    },
+    {
+      "start": 1789.32,
+      "end": 1799.32,
+      "speaker": "SPEAKER_01",
+      "text": "That's why we built a free course on the case interview fundamentals where we teach you how to answer any type of question an interviewer can ask you regardless of case type of industry, anything."
+    },
+    {
+      "start": 1799.32,
+      "end": 1809.32,
+      "speaker": "SPEAKER_01",
+      "text": "And we want you to do that without memorizing frameworks. We want you to learn to think like a consultant because that's what really impresses interviewers and brings home offers."
+    },
+    {
+      "start": 1809.32,
+      "end": 1815.32,
+      "speaker": "SPEAKER_01",
+      "text": "Case interview fundamentals has been helping hundreds of candidates get their MBB offers, so I don't want you to be the one to miss out on that."
+    },
+    {
+      "start": 1815.32,
+      "end": 1822.32,
+      "speaker": "SPEAKER_01",
+      "text": "If you're interested, just go to craftingcases.com slash free course and sign up right now."
+    },
+    {
+      "start": 1822.32,
+      "end": 1834.32,
+      "speaker": "SPEAKER_01",
+      "text": "If you want to watch other videos about case interview, case interview examples, how to stand out, how to think like a consultant, to subscribe to our channel and hit the bell button to get notified when we release new ones."
+    },
+    {
+      "start": 1834.32,
+      "end": 1851.32,
+      "speaker": "SPEAKER_01",
+      "text": "And finally, if you like this video, you're probably also going to like the other one that's on your screen where I interview Bruno with a McKinsey style case, a tougher one, harder than this one, that you could probably find in a first or final round in McKinsey Bay or BCG."
+    },
+    {
+      "start": 1851.32,
+      "end": 1856.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, I hope you liked this one and I'll see you in the next video."
+    }
+  ],
+  "grading": {
+    "communication": 17,
+    "framework": 14,
+    "math": 9,
+    "case_difficulty": 9,
+    "final_summary": 13,
+    "overall_thoughts": "You provided a clear summary and communicated effectively, but struggled with the math portion."
+  }
+}

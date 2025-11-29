@@ -1,0 +1,1598 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.0,
+    "speaker": "UNKNOWN",
+    "text": "Hiya."
+  },
+  {
+    "start": 7.0,
+    "end": 16.0,
+    "speaker": "SPEAKER_01",
+    "text": "Hiya."
+  },
+  {
+    "start": 16.0,
+    "end": 21.76,
+    "speaker": "SPEAKER_01",
+    "text": "So your client ACR is a chain of medical laboratories, right?"
+  },
+  {
+    "start": 21.76,
+    "end": 28.96,
+    "speaker": "SPEAKER_01",
+    "text": "They provide patients with MRI and CT scans, as well as other tests, like blood tests and"
+  },
+  {
+    "start": 28.96,
+    "end": 29.96,
+    "speaker": "SPEAKER_01",
+    "text": "so on."
+  },
+  {
+    "start": 29.96,
+    "end": 35.88,
+    "speaker": "SPEAKER_01",
+    "text": "So they have a very expensive test, testing equipment in their inventory and they run"
+  },
+  {
+    "start": 35.88,
+    "end": 39.120000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "about 250 labs, right?"
+  },
+  {
+    "start": 39.120000000000005,
+    "end": 43.72,
+    "speaker": "SPEAKER_01",
+    "text": "Usually doctors refer their patients to one of those labs."
+  },
+  {
+    "start": 43.72,
+    "end": 49.480000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "Because ACR is worried about their profits, they've hired us to evaluate the market and"
+  },
+  {
+    "start": 49.48,
+    "end": 53.199999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "there is overall situation."
+  },
+  {
+    "start": 53.199999999999996,
+    "end": 56.04,
+    "speaker": "SPEAKER_01",
+    "text": "How would you go about it?"
+  },
+  {
+    "start": 56.04,
+    "end": 57.199999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 57.199999999999996,
+    "end": 62.0,
+    "speaker": "SPEAKER_00",
+    "text": "So our client has laboratories which offer test patients."
+  },
+  {
+    "start": 62.0,
+    "end": 67.44,
+    "speaker": "SPEAKER_00",
+    "text": "I know that the fact that their equipment is expensive and their customers are referred"
+  },
+  {
+    "start": 67.44,
+    "end": 68.44,
+    "speaker": "SPEAKER_00",
+    "text": "by doctors."
+  },
+  {
+    "start": 68.44,
+    "end": 73.47999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "But I'm unsure about the Goliath and I have two questions."
+  },
+  {
+    "start": 73.47999999999999,
+    "end": 75.28,
+    "speaker": "SPEAKER_00",
+    "text": "What exactly do they want from us?"
+  },
+  {
+    "start": 75.28,
+    "end": 76.28,
+    "speaker": "SPEAKER_00",
+    "text": "What do they want from them?"
+  },
+  {
+    "start": 76.28,
+    "end": 81.48,
+    "speaker": "SPEAKER_00",
+    "text": "They want to take these profits or profitability and what cost the worry about profits."
+  },
+  {
+    "start": 81.48,
+    "end": 87.72,
+    "speaker": "SPEAKER_01",
+    "text": "So for now they just want an analysis, an overall analysis of the market and of their profits."
+  },
+  {
+    "start": 87.72,
+    "end": 90.72,
+    "speaker": "SPEAKER_01",
+    "text": "How would you structure it?"
+  },
+  {
+    "start": 90.72,
+    "end": 91.72,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 91.72,
+    "end": 101.08,
+    "speaker": "SPEAKER_00",
+    "text": "Well, for me, profits are a result of sales as first rubber."
+  },
+  {
+    "start": 101.08,
+    "end": 111.8,
+    "speaker": "SPEAKER_00",
+    "text": "And sales on the one hand are composed of demand of tests, times at price per test."
+  },
+  {
+    "start": 111.8,
+    "end": 113.8,
+    "speaker": "SPEAKER_01",
+    "text": "Yes, exactly."
+  },
+  {
+    "start": 113.8,
+    "end": 121.0,
+    "speaker": "SPEAKER_01",
+    "text": "Tell me some reasons why sales could be lower or steady, for instance."
+  },
+  {
+    "start": 121.0,
+    "end": 124.0,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, just give me a second."
+  },
+  {
+    "start": 124.0,
+    "end": 125.0,
+    "speaker": "SPEAKER_01",
+    "text": "Sure."
+  },
+  {
+    "start": 131.08,
+    "end": 132.08,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 132.08,
+    "end": 141.12,
+    "speaker": "SPEAKER_00",
+    "text": "So first, as I said, amount of prices, well, it depends on, as I said, the amount of"
+  },
+  {
+    "start": 141.12,
+    "end": 142.64000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "the prices that can change."
+  },
+  {
+    "start": 142.64000000000001,
+    "end": 152.56,
+    "speaker": "SPEAKER_00",
+    "text": "If we look at the amount of tests, for instance, we can say the overall amount of tests in"
+  },
+  {
+    "start": 152.56,
+    "end": 160.4,
+    "speaker": "SPEAKER_00",
+    "text": "the market decrease because maybe we have a new substitute product or new machines that"
+  },
+  {
+    "start": 160.4,
+    "end": 163.84,
+    "speaker": "SPEAKER_00",
+    "text": "make tests in our labs unnecessary."
+  },
+  {
+    "start": 163.84,
+    "end": 168.24,
+    "speaker": "SPEAKER_00",
+    "text": "Or people just need fewer tests because they are less sick."
+  },
+  {
+    "start": 168.24,
+    "end": 169.24,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 169.24,
+    "end": 173.56,
+    "speaker": "SPEAKER_01",
+    "text": "How could they be less sick?"
+  },
+  {
+    "start": 173.56,
+    "end": 174.56,
+    "speaker": "SPEAKER_01",
+    "text": "One of a sudden."
+  },
+  {
+    "start": 174.56,
+    "end": 184.16,
+    "speaker": "SPEAKER_00",
+    "text": "Well, let's say we do MRT scans if people have accidents or yes, exactly."
+  },
+  {
+    "start": 185.16,
+    "end": 191.16,
+    "speaker": "SPEAKER_00",
+    "text": "For example, if you just see the amount of car accidents decreased, external factors."
+  },
+  {
+    "start": 191.16,
+    "end": 193.16,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, external."
+  },
+  {
+    "start": 193.16,
+    "end": 194.16,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 194.16,
+    "end": 204.35999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Also, we can say that the overall amount of tests stay the same, but just changes in the"
+  },
+  {
+    "start": 204.35999999999999,
+    "end": 205.35999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "market."
+  },
+  {
+    "start": 205.35999999999999,
+    "end": 212.6,
+    "speaker": "SPEAKER_00",
+    "text": "Have any factor, example, if you have new competitors, there is still a difference."
+  },
+  {
+    "start": 212.6,
+    "end": 213.6,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 213.6,
+    "end": 222.84,
+    "speaker": "SPEAKER_00",
+    "text": "Then, on the other hand, we have prices and they can decrease because, again, due to external"
+  },
+  {
+    "start": 222.84,
+    "end": 228.4,
+    "speaker": "SPEAKER_00",
+    "text": "effects because in the market, prices drop and we have to adapt."
+  },
+  {
+    "start": 228.4,
+    "end": 235.04,
+    "speaker": "SPEAKER_00",
+    "text": "For example, because the competitors can offer the test cheaper or the chances for us"
+  },
+  {
+    "start": 235.04,
+    "end": 238.76,
+    "speaker": "SPEAKER_00",
+    "text": "to decrease prices because they are usually the ones that pay."
+  },
+  {
+    "start": 238.76,
+    "end": 244.79999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "But then, to have a look at the internal effects, the internal reasons, we can decrease prices"
+  },
+  {
+    "start": 244.79999999999998,
+    "end": 245.79999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "ourselves."
+  },
+  {
+    "start": 245.79999999999998,
+    "end": 254.67999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "For example, because we were able to reduce costs, and then we can reduce prices to become"
+  },
+  {
+    "start": 254.67999999999998,
+    "end": 256.28,
+    "speaker": "SPEAKER_01",
+    "text": "more competitive with this."
+  },
+  {
+    "start": 256.28,
+    "end": 262.08,
+    "speaker": "SPEAKER_01",
+    "text": "So what about reasons for costs to increase?"
+  },
+  {
+    "start": 262.08,
+    "end": 264.03999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "Why could costs increase?"
+  },
+  {
+    "start": 265.04,
+    "end": 267.04,
+    "speaker": "SPEAKER_01",
+    "text": "Can you name a few reasons?"
+  },
+  {
+    "start": 267.04,
+    "end": 276.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, there are several, for example, costs of material can increase because we just need"
+  },
+  {
+    "start": 276.04,
+    "end": 277.04,
+    "speaker": "SPEAKER_00",
+    "text": "more of it."
+  },
+  {
+    "start": 277.04,
+    "end": 283.04,
+    "speaker": "SPEAKER_00",
+    "text": "It's more expensive or the machines which are already quite expensive, as you said."
+  },
+  {
+    "start": 283.04,
+    "end": 289.04,
+    "speaker": "SPEAKER_00",
+    "text": "It might even be more expensive or we have higher labor costs because of our stuff."
+  },
+  {
+    "start": 289.04,
+    "end": 292.04,
+    "speaker": "SPEAKER_00",
+    "text": "We expect more salary."
+  },
+  {
+    "start": 292.04,
+    "end": 299.04,
+    "speaker": "SPEAKER_01",
+    "text": "What else could drive higher costs?"
+  },
+  {
+    "start": 299.04,
+    "end": 308.04,
+    "speaker": "SPEAKER_00",
+    "text": "Other fixed costs such as rent or maintenance of all labs or the introduction of new tests,"
+  },
+  {
+    "start": 308.04,
+    "end": 310.04,
+    "speaker": "SPEAKER_00",
+    "text": "general more expensive?"
+  },
+  {
+    "start": 310.04,
+    "end": 311.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 311.04,
+    "end": 321.04,
+    "speaker": "SPEAKER_01",
+    "text": "So our analysis has found that sales dropped because fewer doctors refer our clients' labs."
+  },
+  {
+    "start": 321.04,
+    "end": 327.6,
+    "speaker": "SPEAKER_01",
+    "text": "Actually, what happened is a new regulation now allows doctors to run their own labs."
+  },
+  {
+    "start": 327.6,
+    "end": 329.40000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "Why would they do so?"
+  },
+  {
+    "start": 329.40000000000003,
+    "end": 331.04,
+    "speaker": "SPEAKER_01",
+    "text": "Run their own labs."
+  },
+  {
+    "start": 331.04,
+    "end": 333.04,
+    "speaker": "SPEAKER_01",
+    "text": "What do you think?"
+  },
+  {
+    "start": 333.04,
+    "end": 339.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, from a business sense, because they are able to make profit with it."
+  },
+  {
+    "start": 339.04,
+    "end": 340.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 340.04,
+    "end": 343.04,
+    "speaker": "SPEAKER_00",
+    "text": "That would be the first reason."
+  },
+  {
+    "start": 343.04,
+    "end": 345.04,
+    "speaker": "SPEAKER_01",
+    "text": "What else can you think of?"
+  },
+  {
+    "start": 345.04,
+    "end": 346.04,
+    "speaker": "SPEAKER_01",
+    "text": "Reason why?"
+  },
+  {
+    "start": 346.04,
+    "end": 347.04,
+    "speaker": "SPEAKER_01",
+    "text": "Not only money."
+  },
+  {
+    "start": 348.04,
+    "end": 354.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, it could be advantageous for the patients because I assume that it is faster."
+  },
+  {
+    "start": 354.04,
+    "end": 362.04,
+    "speaker": "SPEAKER_00",
+    "text": "They can do it for example right now, right after the doctor orders the test."
+  },
+  {
+    "start": 362.04,
+    "end": 364.04,
+    "speaker": "SPEAKER_01",
+    "text": "Very good."
+  },
+  {
+    "start": 364.04,
+    "end": 372.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, of course, not all doctors will have a lab at their places."
+  },
+  {
+    "start": 372.04,
+    "end": 373.04,
+    "speaker": "SPEAKER_01",
+    "text": "Right."
+  },
+  {
+    "start": 373.04,
+    "end": 379.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, when would labs be profitable for doctors to have them in their..."
+  },
+  {
+    "start": 379.04,
+    "end": 386.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, if I imagine a business dealing with that, that has high investment costs."
+  },
+  {
+    "start": 386.04,
+    "end": 394.04,
+    "speaker": "SPEAKER_00",
+    "text": "And overall, the revenues to generate with the lab must be higher than the costs that occur."
+  },
+  {
+    "start": 394.04,
+    "end": 399.04,
+    "speaker": "SPEAKER_00",
+    "text": "Of course, they have to employ people as well by machines and all that stuff."
+  },
+  {
+    "start": 399.04,
+    "end": 411.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, what drivers does the doctor or the doctor cannot influence like cost drivers or right"
+  },
+  {
+    "start": 411.04,
+    "end": 412.04,
+    "speaker": "SPEAKER_01",
+    "text": "new drivers?"
+  },
+  {
+    "start": 412.04,
+    "end": 413.04,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 413.04,
+    "end": 414.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, the..."
+  },
+  {
+    "start": 414.04,
+    "end": 415.04,
+    "speaker": "UNKNOWN",
+    "text": "I mean, not..."
+  },
+  {
+    "start": 415.04,
+    "end": 424.04,
+    "speaker": "SPEAKER_00",
+    "text": "I cannot influence, I would say, the cost because I mean, he can influence them and buys the cheapest one,"
+  },
+  {
+    "start": 424.04,
+    "end": 426.04,
+    "speaker": "SPEAKER_00",
+    "text": "but they are there."
+  },
+  {
+    "start": 427.04,
+    "end": 435.04,
+    "speaker": "SPEAKER_00",
+    "text": "He has to buy certain machines and he has to buy certain fixed costs rent and driver costs per test."
+  },
+  {
+    "start": 435.04,
+    "end": 438.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, that's on the cost side."
+  },
+  {
+    "start": 438.04,
+    "end": 440.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, the revenue side."
+  },
+  {
+    "start": 440.04,
+    "end": 451.04,
+    "speaker": "SPEAKER_00",
+    "text": "I assume that the prices as well are fixed because he cannot just offer cheaper prices or I mean, he can."
+  },
+  {
+    "start": 451.04,
+    "end": 453.04,
+    "speaker": "SPEAKER_00",
+    "text": "But then, he must be..."
+  },
+  {
+    "start": 453.04,
+    "end": 465.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, he still must be profitable, but he cannot offer higher prices because I think the market is charged this way that..."
+  },
+  {
+    "start": 465.04,
+    "end": 466.04,
+    "speaker": "SPEAKER_00",
+    "text": "Mm-hmm."
+  },
+  {
+    "start": 466.04,
+    "end": 470.04,
+    "speaker": "SPEAKER_00",
+    "text": "That the customers and truncists will not pay for higher..."
+  },
+  {
+    "start": 470.04,
+    "end": 473.04,
+    "speaker": "SPEAKER_00",
+    "text": "For higher price tests."
+  },
+  {
+    "start": 473.04,
+    "end": 474.04,
+    "speaker": "SPEAKER_00",
+    "text": "Is that correct?"
+  },
+  {
+    "start": 474.04,
+    "end": 476.04,
+    "speaker": "SPEAKER_01",
+    "text": "That's true, yeah."
+  },
+  {
+    "start": 476.04,
+    "end": 477.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 477.04,
+    "end": 486.04,
+    "speaker": "SPEAKER_00",
+    "text": "And then, at the last point, I would say the customers and the point can influence the patients because we can just..."
+  },
+  {
+    "start": 486.04,
+    "end": 488.04,
+    "speaker": "SPEAKER_00",
+    "text": "We can just..."
+  },
+  {
+    "start": 488.04,
+    "end": 490.04,
+    "speaker": "SPEAKER_00",
+    "text": "We can just..."
+  },
+  {
+    "start": 490.04,
+    "end": 500.04,
+    "speaker": "SPEAKER_00",
+    "text": "One of more tests say that people need more tests or just, for example, focus on patients that probably will need tests."
+  },
+  {
+    "start": 500.04,
+    "end": 501.04,
+    "speaker": "SPEAKER_00",
+    "text": "Mm-hmm."
+  },
+  {
+    "start": 501.04,
+    "end": 502.04,
+    "speaker": "SPEAKER_01",
+    "text": "That's a good point."
+  },
+  {
+    "start": 502.04,
+    "end": 504.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, this..."
+  },
+  {
+    "start": 504.04,
+    "end": 507.04,
+    "speaker": "SPEAKER_01",
+    "text": "Here's some information we're going to share with you."
+  },
+  {
+    "start": 507.04,
+    "end": 510.04,
+    "speaker": "SPEAKER_01",
+    "text": "An overview of cost revenue."
+  },
+  {
+    "start": 510.04,
+    "end": 511.04,
+    "speaker": "SPEAKER_01",
+    "text": "Mm-hmm."
+  },
+  {
+    "start": 511.04,
+    "end": 512.04,
+    "speaker": "SPEAKER_01",
+    "text": "Right."
+  },
+  {
+    "start": 512.04,
+    "end": 516.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, how many cost..."
+  },
+  {
+    "start": 516.04,
+    "end": 523.04,
+    "speaker": "SPEAKER_01",
+    "text": "Customers per day are necessary for a lab to become profitable for the doctor to open?"
+  },
+  {
+    "start": 523.04,
+    "end": 525.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. Thank you."
+  },
+  {
+    "start": 525.04,
+    "end": 528.04,
+    "speaker": "SPEAKER_00",
+    "text": "I'm just having a look."
+  },
+  {
+    "start": 528.04,
+    "end": 529.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 530.04,
+    "end": 538.04,
+    "speaker": "SPEAKER_00",
+    "text": "Well, the first data, the first three columns, I mean, we could use that to calculate the brec even quantity."
+  },
+  {
+    "start": 538.04,
+    "end": 540.04,
+    "speaker": "SPEAKER_00",
+    "text": "Mm-hmm."
+  },
+  {
+    "start": 540.04,
+    "end": 542.04,
+    "speaker": "SPEAKER_00",
+    "text": "I'm just..."
+  },
+  {
+    "start": 542.04,
+    "end": 546.04,
+    "speaker": "SPEAKER_00",
+    "text": "Can I confuse other fixed costs on yearly basis here?"
+  },
+  {
+    "start": 546.04,
+    "end": 548.04,
+    "speaker": "SPEAKER_00",
+    "text": "Or what do they come from?"
+  },
+  {
+    "start": 548.04,
+    "end": 550.04,
+    "speaker": "SPEAKER_01",
+    "text": "It's a yearly basis, yeah."
+  },
+  {
+    "start": 550.04,
+    "end": 551.04,
+    "speaker": "SPEAKER_01",
+    "text": "Fix costs."
+  },
+  {
+    "start": 551.04,
+    "end": 558.04,
+    "speaker": "SPEAKER_01",
+    "text": "It's like, actually, assume the fixed costs are the investments for the machines."
+  },
+  {
+    "start": 558.04,
+    "end": 559.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 559.04,
+    "end": 560.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 560.04,
+    "end": 568.04,
+    "speaker": "SPEAKER_00",
+    "text": "Now, the five years here makes sense and the days, because I mean, that's the time the investment, the fixed costs are depreciated."
+  },
+  {
+    "start": 568.04,
+    "end": 569.04,
+    "speaker": "SPEAKER_00",
+    "text": "Exactly."
+  },
+  {
+    "start": 569.04,
+    "end": 573.04,
+    "speaker": "SPEAKER_00",
+    "text": "And this is on yearly, daily basis."
+  },
+  {
+    "start": 573.04,
+    "end": 575.04,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 575.04,
+    "end": 576.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 576.04,
+    "end": 580.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, what I would do right now is set up an equation, brec even equations."
+  },
+  {
+    "start": 580.04,
+    "end": 585.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, where we set costs equal to revenue."
+  },
+  {
+    "start": 585.04,
+    "end": 588.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, what we have here are the costs on the one side."
+  },
+  {
+    "start": 588.04,
+    "end": 595.04,
+    "speaker": "SPEAKER_00",
+    "text": "This is 4.1 million plus 400 times X."
+  },
+  {
+    "start": 595.04,
+    "end": 598.04,
+    "speaker": "SPEAKER_00",
+    "text": "And X are the tests or customers."
+  },
+  {
+    "start": 598.04,
+    "end": 603.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, I assume that there's one test per customer."
+  },
+  {
+    "start": 603.04,
+    "end": 613.04,
+    "speaker": "SPEAKER_00",
+    "text": "And these are the costs and that's equal to revenues, which are 600 dollars times X, 600 dollars for customer."
+  },
+  {
+    "start": 613.04,
+    "end": 615.04,
+    "speaker": "SPEAKER_01",
+    "text": "What's X exactly?"
+  },
+  {
+    "start": 615.04,
+    "end": 618.04,
+    "speaker": "SPEAKER_00",
+    "text": "X are the customers or the tests."
+  },
+  {
+    "start": 618.04,
+    "end": 619.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 619.04,
+    "end": 622.04,
+    "speaker": "SPEAKER_00",
+    "text": "In what time frame?"
+  },
+  {
+    "start": 622.04,
+    "end": 623.04,
+    "speaker": "SPEAKER_00",
+    "text": "Well, right."
+  },
+  {
+    "start": 623.04,
+    "end": 631.04,
+    "speaker": "SPEAKER_00",
+    "text": "Now we're talking about, we're talking five years because the entire period."
+  },
+  {
+    "start": 631.04,
+    "end": 635.04,
+    "speaker": "SPEAKER_00",
+    "text": "And I would, we can, we can..."
+  },
+  {
+    "start": 635.04,
+    "end": 636.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, okay."
+  },
+  {
+    "start": 636.04,
+    "end": 638.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, the brec even down today."
+  },
+  {
+    "start": 638.04,
+    "end": 639.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 639.04,
+    "end": 650.04,
+    "speaker": "SPEAKER_00",
+    "text": "For right now, I mean, after not this equation, 2.4 million plus 200 X equal plus 400 X equal 6 hundred X."
+  },
+  {
+    "start": 650.04,
+    "end": 654.04,
+    "speaker": "SPEAKER_00",
+    "text": "Now, let me just solve this for X."
+  },
+  {
+    "start": 654.04,
+    "end": 657.04,
+    "speaker": "SPEAKER_00",
+    "text": "We're in 200 X on the other side."
+  },
+  {
+    "start": 657.04,
+    "end": 662.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, we have 2.4 million equals 200 X."
+  },
+  {
+    "start": 662.04,
+    "end": 668.04,
+    "speaker": "SPEAKER_00",
+    "text": "And then we have to divide 200, 2.4 million."
+  },
+  {
+    "start": 668.04,
+    "end": 675.04,
+    "speaker": "SPEAKER_00",
+    "text": "For me, I'm not a bit too mangled."
+  },
+  {
+    "start": 675.04,
+    "end": 680.04,
+    "speaker": "SPEAKER_00",
+    "text": "It's just 12,000 customers over the entire period."
+  },
+  {
+    "start": 680.04,
+    "end": 683.04,
+    "speaker": "SPEAKER_00",
+    "text": "And this is five years."
+  },
+  {
+    "start": 683.04,
+    "end": 687.04,
+    "speaker": "SPEAKER_00",
+    "text": "And if you want that on a daily basis, we have to..."
+  },
+  {
+    "start": 687.04,
+    "end": 691.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, I can just, I'm just using the information I have here."
+  },
+  {
+    "start": 691.04,
+    "end": 692.04,
+    "speaker": "SPEAKER_00",
+    "text": "Sure."
+  },
+  {
+    "start": 692.04,
+    "end": 694.04,
+    "speaker": "SPEAKER_00",
+    "text": "Five years and 300 days per year."
+  },
+  {
+    "start": 694.04,
+    "end": 700.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, this gives us 1,000, 500 days in this period."
+  },
+  {
+    "start": 700.04,
+    "end": 712.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, this gives us a daily amount of eight tests or eight customers that we need to be profitable."
+  },
+  {
+    "start": 712.04,
+    "end": 719.04,
+    "speaker": "SPEAKER_00",
+    "text": "Because 4,000 divided by 1,500, it per state."
+  },
+  {
+    "start": 719.04,
+    "end": 722.04,
+    "speaker": "SPEAKER_00",
+    "text": "Well, I mean, this should answer your question."
+  },
+  {
+    "start": 722.04,
+    "end": 729.04,
+    "speaker": "SPEAKER_00",
+    "text": "But I think this is a really useful information because it shows the threat to our client,"
+  },
+  {
+    "start": 729.04,
+    "end": 732.04,
+    "speaker": "SPEAKER_00",
+    "text": "especially doctors who can refer many patients."
+  },
+  {
+    "start": 732.04,
+    "end": 738.04,
+    "speaker": "SPEAKER_00",
+    "text": "Doctors that are really useful for us are the ones who start their own apps."
+  },
+  {
+    "start": 738.04,
+    "end": 747.04,
+    "speaker": "SPEAKER_00",
+    "text": "And to evaluate the danger, I would like to know the percentage of our customers that are referred by doctors."
+  },
+  {
+    "start": 747.04,
+    "end": 753.04,
+    "speaker": "SPEAKER_00",
+    "text": "And how many of those are referred by doctors that we for more than eight patients?"
+  },
+  {
+    "start": 753.04,
+    "end": 754.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 754.04,
+    "end": 756.04,
+    "speaker": "SPEAKER_01",
+    "text": "I have always what you need."
+  },
+  {
+    "start": 756.04,
+    "end": 760.04,
+    "speaker": "SPEAKER_01",
+    "text": "That's a very good point about the referrals."
+  },
+  {
+    "start": 760.04,
+    "end": 771.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, let me share with you the average number of patients that are referred per day based on..."
+  },
+  {
+    "start": 771.04,
+    "end": 780.04,
+    "speaker": "SPEAKER_01",
+    "text": "That contribution, the revenue contribution put another way across the different number of patients referred per day by doctors."
+  },
+  {
+    "start": 780.04,
+    "end": 792.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, you can see, of course, the most revenue comes from doctors who refer only one patient per day."
+  },
+  {
+    "start": 792.04,
+    "end": 793.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 793.04,
+    "end": 798.04,
+    "speaker": "SPEAKER_00",
+    "text": "And then you have a long tail."
+  },
+  {
+    "start": 798.04,
+    "end": 800.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, right."
+  },
+  {
+    "start": 800.04,
+    "end": 807.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, we've got already some revenue from the ones that are referred by doctors."
+  },
+  {
+    "start": 807.04,
+    "end": 811.04,
+    "speaker": "SPEAKER_00",
+    "text": "Are there any other resources for where we get patients from?"
+  },
+  {
+    "start": 811.04,
+    "end": 813.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 813.04,
+    "end": 816.04,
+    "speaker": "SPEAKER_01",
+    "text": "What do you think?"
+  },
+  {
+    "start": 816.04,
+    "end": 820.04,
+    "speaker": "SPEAKER_01",
+    "text": "Why they are... why could they be relevant, for instance?"
+  },
+  {
+    "start": 820.04,
+    "end": 822.04,
+    "speaker": "SPEAKER_01",
+    "text": "And what could they be?"
+  },
+  {
+    "start": 822.04,
+    "end": 825.04,
+    "speaker": "SPEAKER_01",
+    "text": "These are resources."
+  },
+  {
+    "start": 825.04,
+    "end": 835.04,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, with what do you have right now, we can calculate how much revenue we will lose because certain doctors will build their own ads."
+  },
+  {
+    "start": 835.04,
+    "end": 848.04,
+    "speaker": "SPEAKER_00",
+    "text": "And from the first impression here, I would say this is not a whole lot because we say just doctors with more than eight patients will open their own apps."
+  },
+  {
+    "start": 848.04,
+    "end": 851.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, these are the last two categories."
+  },
+  {
+    "start": 851.04,
+    "end": 858.04,
+    "speaker": "SPEAKER_00",
+    "text": "The electronic medium dollars of revenue will be might lose."
+  },
+  {
+    "start": 858.04,
+    "end": 868.04,
+    "speaker": "SPEAKER_00",
+    "text": "And it would be interesting just to set that in relation to the overall revenue we have just to see what the product is."
+  },
+  {
+    "start": 868.04,
+    "end": 874.04,
+    "speaker": "SPEAKER_01",
+    "text": "Let's say three quarters of the revenues generated by patients referred by doctors."
+  },
+  {
+    "start": 874.04,
+    "end": 877.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, three quarters."
+  },
+  {
+    "start": 880.04,
+    "end": 882.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, then let me just calculate the impact."
+  },
+  {
+    "start": 882.04,
+    "end": 885.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, as I said, we have 20-bit revenue."
+  },
+  {
+    "start": 885.04,
+    "end": 888.04,
+    "speaker": "SPEAKER_00",
+    "text": "We might lose."
+  },
+  {
+    "start": 888.04,
+    "end": 896.04,
+    "speaker": "SPEAKER_00",
+    "text": "And, I mean, we assume that also doctors with exactly eight patients will open their own apps because the profit would be zero."
+  },
+  {
+    "start": 896.04,
+    "end": 899.04,
+    "speaker": "SPEAKER_00",
+    "text": "And there's no reason for an end to open one."
+  },
+  {
+    "start": 899.04,
+    "end": 915.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, just to make sure I got it, you saying that doctors with exactly eight patients per day would not open their own app because they would be just breaking it and wouldn't make any money?"
+  },
+  {
+    "start": 915.04,
+    "end": 916.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 916.04,
+    "end": 923.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, it's a walk."
+  },
+  {
+    "start": 923.04,
+    "end": 936.04,
+    "speaker": "SPEAKER_01",
+    "text": "How much revenue would we lose then with those doctors opening their own apps for those for which for whom it makes sense to open your own apps?"
+  },
+  {
+    "start": 936.04,
+    "end": 942.04,
+    "speaker": "SPEAKER_01",
+    "text": "Those with more than eight patients per day?"
+  },
+  {
+    "start": 942.04,
+    "end": 948.04,
+    "speaker": "SPEAKER_01",
+    "text": "Remember, we have three quarters of the total revenue being generated by those patients."
+  },
+  {
+    "start": 948.04,
+    "end": 952.04,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, overall, we have, I mean, let me just look at this."
+  },
+  {
+    "start": 952.04,
+    "end": 960.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, we have the first, second, and we know that's already 200, 280."
+  },
+  {
+    "start": 960.04,
+    "end": 967.04,
+    "speaker": "SPEAKER_00",
+    "text": "Well, just roughly we have 400 million revenues from the first."
+  },
+  {
+    "start": 967.04,
+    "end": 971.04,
+    "speaker": "SPEAKER_00",
+    "text": "And this is three quarters of the overall revenue."
+  },
+  {
+    "start": 971.04,
+    "end": 973.04,
+    "speaker": "SPEAKER_00",
+    "text": "We have some more."
+  },
+  {
+    "start": 973.04,
+    "end": 982.04,
+    "speaker": "SPEAKER_00",
+    "text": "And so, 400 and three quarters, 200 and additional quarter."
+  },
+  {
+    "start": 982.04,
+    "end": 985.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, the third thing we have."
+  },
+  {
+    "start": 985.04,
+    "end": 993.04,
+    "speaker": "SPEAKER_00",
+    "text": "So, it is about 530 million overall revenue."
+  },
+  {
+    "start": 993.04,
+    "end": 995.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 995.04,
+    "end": 1000.04,
+    "speaker": "SPEAKER_01",
+    "text": "Exactly how much would that be exactly?"
+  },
+  {
+    "start": 1000.04,
+    "end": 1008.04,
+    "speaker": "SPEAKER_00",
+    "text": "If we say 400 million, exactly would be, I mean, 533.3 million."
+  },
+  {
+    "start": 1008.04,
+    "end": 1010.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1010.04,
+    "end": 1011.04,
+    "speaker": "SPEAKER_00",
+    "text": "Go ahead then."
+  },
+  {
+    "start": 1011.04,
+    "end": 1012.04,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1012.04,
+    "end": 1022.04,
+    "speaker": "SPEAKER_00",
+    "text": "And now, we say that 20 million of that is lost and that is less than 4%."
+  },
+  {
+    "start": 1022.04,
+    "end": 1031.04,
+    "speaker": "SPEAKER_00",
+    "text": "However, I think it is, it is less because in this calculation, we expect that all doctors will open their own apps."
+  },
+  {
+    "start": 1031.04,
+    "end": 1037.04,
+    "speaker": "SPEAKER_00",
+    "text": "But I don't think they will because they might have space restrictions and the doctors' office."
+  },
+  {
+    "start": 1037.04,
+    "end": 1041.04,
+    "speaker": "SPEAKER_00",
+    "text": "Or just, they just don't know about the possibility of opening their own app."
+  },
+  {
+    "start": 1041.04,
+    "end": 1042.04,
+    "speaker": "SPEAKER_00",
+    "text": "Sure."
+  },
+  {
+    "start": 1042.04,
+    "end": 1047.04,
+    "speaker": "SPEAKER_01",
+    "text": "Well, not everybody will go through the calculation to make sure they will be profit."
+  },
+  {
+    "start": 1047.04,
+    "end": 1048.04,
+    "speaker": "SPEAKER_01",
+    "text": "Exactly."
+  },
+  {
+    "start": 1048.04,
+    "end": 1049.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1049.04,
+    "end": 1058.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, how, what is the percentage of the doctors that would open their own apps?"
+  },
+  {
+    "start": 1058.04,
+    "end": 1066.04,
+    "speaker": "SPEAKER_01",
+    "text": "Or what percentage of the revenue would we lose to those doctors open apps?"
+  },
+  {
+    "start": 1066.04,
+    "end": 1077.04,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, with, having a mind that all doctors will open the lab is less than 3%."
+  },
+  {
+    "start": 1078.04,
+    "end": 1079.04,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 1079.04,
+    "end": 1080.04,
+    "speaker": "SPEAKER_01",
+    "text": "34%."
+  },
+  {
+    "start": 1080.04,
+    "end": 1083.04,
+    "speaker": "SPEAKER_00",
+    "text": "I need to kind of conclude that."
+  },
+  {
+    "start": 1083.04,
+    "end": 1085.04,
+    "speaker": "SPEAKER_00",
+    "text": "Well, exactly."
+  },
+  {
+    "start": 1085.04,
+    "end": 1089.04,
+    "speaker": "SPEAKER_01",
+    "text": "Also, our time is running out."
+  },
+  {
+    "start": 1089.04,
+    "end": 1091.04,
+    "speaker": "SPEAKER_01",
+    "text": "We already learned a lot of things."
+  },
+  {
+    "start": 1091.04,
+    "end": 1096.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, can you wrap up what you learned and conclude the case?"
+  },
+  {
+    "start": 1096.04,
+    "end": 1103.04,
+    "speaker": "SPEAKER_01",
+    "text": "I recommend what, if the client should do something about these new problems,"
+  },
+  {
+    "start": 1103.04,
+    "end": 1107.04,
+    "speaker": "SPEAKER_01",
+    "text": "in a situation with the doctors opening their apps."
+  },
+  {
+    "start": 1107.04,
+    "end": 1108.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1108.04,
+    "end": 1113.04,
+    "speaker": "SPEAKER_01",
+    "text": "Take your time to structure your inflows if you want."
+  },
+  {
+    "start": 1127.04,
+    "end": 1128.04,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 1128.04,
+    "end": 1137.04,
+    "speaker": "SPEAKER_00",
+    "text": "After the analysis, especially the parts with the doctors, I would not write too much about this issue,"
+  },
+  {
+    "start": 1137.04,
+    "end": 1142.04,
+    "speaker": "SPEAKER_00",
+    "text": "because now this is only 3% of revenue."
+  },
+  {
+    "start": 1142.04,
+    "end": 1152.04,
+    "speaker": "SPEAKER_00",
+    "text": "I would have a closer look in the future on that, because if we expect more than that to do this,"
+  },
+  {
+    "start": 1152.04,
+    "end": 1159.04,
+    "speaker": "SPEAKER_00",
+    "text": "it becomes profitable also for doctors that, you know, just for patients or more,"
+  },
+  {
+    "start": 1159.04,
+    "end": 1162.04,
+    "speaker": "SPEAKER_00",
+    "text": "then it becomes dangerous to us."
+  },
+  {
+    "start": 1162.04,
+    "end": 1164.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, you mean, if it is..."
+  },
+  {
+    "start": 1164.04,
+    "end": 1169.04,
+    "speaker": "SPEAKER_00",
+    "text": "We have to look at the revenue and the future revenue and the future cost,"
+  },
+  {
+    "start": 1169.04,
+    "end": 1172.04,
+    "speaker": "SPEAKER_00",
+    "text": "whether you had that or not, I developed."
+  },
+  {
+    "start": 1172.04,
+    "end": 1180.04,
+    "speaker": "SPEAKER_00",
+    "text": "And right now, I mean, to do something, I think an interesting approach"
+  },
+  {
+    "start": 1180.04,
+    "end": 1184.04,
+    "speaker": "SPEAKER_00",
+    "text": "would be a countermeasure, would be to force what you do."
+  },
+  {
+    "start": 1184.04,
+    "end": 1189.04,
+    "speaker": "SPEAKER_00",
+    "text": "And this count, on referral to more than 8 patients,"
+  },
+  {
+    "start": 1189.04,
+    "end": 1200.04,
+    "speaker": "SPEAKER_00",
+    "text": "or just an overall price drop, because then it becomes less profitable for doctors to open their own apps."
+  },
+  {
+    "start": 1200.04,
+    "end": 1203.04,
+    "speaker": "SPEAKER_00",
+    "text": "There would be an idea, but I think we have to calculate this."
+  },
+  {
+    "start": 1203.04,
+    "end": 1208.04,
+    "speaker": "SPEAKER_00",
+    "text": "We closely, if the price drop will make up for..."
+  },
+  {
+    "start": 1208.04,
+    "end": 1211.04,
+    "speaker": "SPEAKER_00",
+    "text": "or if the..."
+  },
+  {
+    "start": 1211.04,
+    "end": 1214.04,
+    "speaker": "SPEAKER_00",
+    "text": "Let's say it's different, the patients, we..."
+  },
+  {
+    "start": 1214.04,
+    "end": 1215.04,
+    "speaker": "SPEAKER_00",
+    "text": "We additionally..."
+  },
+  {
+    "start": 1215.04,
+    "end": 1221.04,
+    "speaker": "SPEAKER_00",
+    "text": "We do not lose by decreasing the prices, if that makes up for the price decrease."
+  },
+  {
+    "start": 1221.04,
+    "end": 1223.04,
+    "speaker": "SPEAKER_00",
+    "text": "All right."
+  },
+  {
+    "start": 1223.04,
+    "end": 1224.04,
+    "speaker": "SPEAKER_00",
+    "text": "Very good."
+  },
+  {
+    "start": 1224.04,
+    "end": 1226.04,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you very much."
+  }
+]

@@ -1,0 +1,960 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "speaker": "SPEAKER_01",
+      "text": "In this video, we are going to work together to go through a Bain & Company practice case."
+    },
+    {
+      "start": 5.12,
+      "end": 10.24,
+      "speaker": "SPEAKER_01",
+      "text": "This case can be found on Bain's website and I have included a link below in the video description."
+    },
+    {
+      "start": 10.24,
+      "end": 12.56,
+      "speaker": "SPEAKER_01",
+      "text": "Feel free to give this case a try on your own."
+    },
+    {
+      "start": 12.56,
+      "end": 16.64,
+      "speaker": "SPEAKER_01",
+      "text": "Before we begin, please give this video a quick like to help support the channel."
+    },
+    {
+      "start": 17.84,
+      "end": 23.2,
+      "speaker": "SPEAKER_01",
+      "text": "So we're looking at Coffee Shop Co. You're having lunch with an old friend from university"
+    },
+    {
+      "start": 23.2,
+      "end": 28.72,
+      "speaker": "SPEAKER_01",
+      "text": "and she's looking for some business advice. She is thinking of opening a coffee shop in Cambridge,"
+    },
+    {
+      "start": 28.72,
+      "end": 33.2,
+      "speaker": "SPEAKER_01",
+      "text": "England, a large university city, an hour and a half away from London."
+    },
+    {
+      "start": 33.92,
+      "end": 39.12,
+      "speaker": "SPEAKER_01",
+      "text": "She sees potential in this business but wants your help in determining whether opening a coffee shop"
+    },
+    {
+      "start": 39.12,
+      "end": 41.04,
+      "speaker": "SPEAKER_01",
+      "text": "is a good idea. What do you think?"
+    },
+    {
+      "start": 43.92,
+      "end": 48.32,
+      "speaker": "SPEAKER_01",
+      "text": "Case setup. Start any case by understanding the question you're asked to solve."
+    },
+    {
+      "start": 48.32,
+      "end": 52.4,
+      "speaker": "SPEAKER_01",
+      "text": "Ask your interviewer questions if you feel confused or need more information."
+    },
+    {
+      "start": 52.96,
+      "end": 56.32,
+      "speaker": "SPEAKER_01",
+      "text": "We want you to succeed in your interviews. Take the time,"
+    },
+    {
+      "start": 56.32,
+      "end": 59.52,
+      "speaker": "SPEAKER_01",
+      "text": "one to two minutes to think about how you would approach the problem."
+    },
+    {
+      "start": 60.16,
+      "end": 63.76,
+      "speaker": "SPEAKER_01",
+      "text": "Always structure your thinking and communicate your ideas with the interviewer."
+    },
+    {
+      "start": 64.4,
+      "end": 66.8,
+      "speaker": "SPEAKER_01",
+      "text": "So the objective of the case is very clear."
+    },
+    {
+      "start": 66.8,
+      "end": 71.6,
+      "speaker": "SPEAKER_01",
+      "text": "Our friend is thinking about opening a coffee shop in Cambridge, England and she wants our help"
+    },
+    {
+      "start": 71.6,
+      "end": 74.72,
+      "speaker": "SPEAKER_01",
+      "text": "in determining whether opening the coffee shop is a good idea."
+    },
+    {
+      "start": 75.68,
+      "end": 80.08,
+      "speaker": "SPEAKER_01",
+      "text": "So there are a couple of different questions that may be useful for us to ask at this point."
+    },
+    {
+      "start": 80.64,
+      "end": 85.28,
+      "speaker": "SPEAKER_01",
+      "text": "The number one question I want to ask is to understand what our friend's goal is"
+    },
+    {
+      "start": 85.36,
+      "end": 90.8,
+      "speaker": "SPEAKER_01",
+      "text": "of opening up the coffee shop. Is there a particular revenue or profit figure she is trying"
+    },
+    {
+      "start": 90.8,
+      "end": 92.88,
+      "speaker": "SPEAKER_01",
+      "text": "to reach within a particular period of time?"
+    },
+    {
+      "start": 93.92,
+      "end": 98.16,
+      "speaker": "SPEAKER_01",
+      "text": "Another question I may ask is what type of coffee shop our friend is looking to open?"
+    },
+    {
+      "start": 98.96000000000001,
+      "end": 104.16,
+      "speaker": "SPEAKER_01",
+      "text": "Is it a premium coffee shop or is it one focused on convenience and low price?"
+    },
+    {
+      "start": 104.16,
+      "end": 109.12,
+      "speaker": "SPEAKER_01",
+      "text": "Knowing this will help us identify what market our friend would be playing in and who the"
+    },
+    {
+      "start": 109.12,
+      "end": 114.96000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "competitors are. Of course, there are many other questions we could ask, such as whether our"
+    },
+    {
+      "start": 114.96,
+      "end": 120.55999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "friend has experience operating a coffee shop or asking how large the market opportunity is."
+    },
+    {
+      "start": 121.28,
+      "end": 125.11999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "But these questions will likely be covered in our framework that we develop."
+    },
+    {
+      "start": 126.08,
+      "end": 129.51999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "It looks like the sample questions Bane includes covers some of these."
+    },
+    {
+      "start": 130.4,
+      "end": 134.24,
+      "speaker": "SPEAKER_01",
+      "text": "I personally think that these questions are a bit premature to ask."
+    },
+    {
+      "start": 134.24,
+      "end": 139.51999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "They jump right into trying to solve the case rather than asking clarifying questions to understand"
+    },
+    {
+      "start": 139.51999999999998,
+      "end": 143.68,
+      "speaker": "SPEAKER_01",
+      "text": "the case better. All right, let's move on to creating a framework."
+    },
+    {
+      "start": 143.84,
+      "end": 149.12,
+      "speaker": "SPEAKER_01",
+      "text": "For us to recommend opening up a coffee shop for things need to be true."
+    },
+    {
+      "start": 150.0,
+      "end": 152.08,
+      "speaker": "SPEAKER_01",
+      "text": "One, the market needs to be attractive."
+    },
+    {
+      "start": 152.8,
+      "end": 157.6,
+      "speaker": "SPEAKER_01",
+      "text": "Two, ideally the competitors would not be that strong so that we can capture meaningful"
+    },
+    {
+      "start": 157.6,
+      "end": 163.44,
+      "speaker": "SPEAKER_01",
+      "text": "market share. Three, our friend would have the capabilities to operate a coffee shop well."
+    },
+    {
+      "start": 164.08,
+      "end": 167.68,
+      "speaker": "SPEAKER_01",
+      "text": "And finally, four, the coffee shop would be profitable."
+    },
+    {
+      "start": 167.68,
+      "end": 171.36,
+      "speaker": "SPEAKER_01",
+      "text": "Looking at market attractiveness, it'd be helpful to know what the market size"
+    },
+    {
+      "start": 171.36,
+      "end": 176.88000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "opportunity is of selling coffee and Cambridge. We'd also like to know the growth rate and"
+    },
+    {
+      "start": 176.88000000000002,
+      "end": 181.68,
+      "speaker": "SPEAKER_01",
+      "text": "average profit margins of coffee in that area. Looking at competitive landscape,"
+    },
+    {
+      "start": 181.68,
+      "end": 186.72000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "it'd be helpful to know how many other shops sell coffee in the area that we are planning to"
+    },
+    {
+      "start": 186.72000000000003,
+      "end": 192.08,
+      "speaker": "SPEAKER_01",
+      "text": "open the store in. We'd like to know how much coffee market share these players capture"
+    },
+    {
+      "start": 192.08,
+      "end": 198.16000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "and if they have any kind of competitive advantages. Looking at our friend's capabilities,"
+    },
+    {
+      "start": 198.16,
+      "end": 202.24,
+      "speaker": "SPEAKER_01",
+      "text": "it'd be helpful to know a number of different things. Does our friend have the financial"
+    },
+    {
+      "start": 202.24,
+      "end": 207.51999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "backing to open a coffee shop? Do they have the experience operating and managing a coffee shop?"
+    },
+    {
+      "start": 208.24,
+      "end": 213.28,
+      "speaker": "SPEAKER_01",
+      "text": "And do they have relationships with suppliers to get high quality or low-cost coffee beans?"
+    },
+    {
+      "start": 214.32,
+      "end": 219.6,
+      "speaker": "SPEAKER_01",
+      "text": "Finally, looking at profitability, it'd be helpful to project what the expected revenues"
+    },
+    {
+      "start": 219.6,
+      "end": 226.24,
+      "speaker": "SPEAKER_01",
+      "text": "or the expected costs are. From this, we can determine expected profits and how long it would"
+    },
+    {
+      "start": 226.24,
+      "end": 234.8,
+      "speaker": "SPEAKER_01",
+      "text": "take our friend to reach their financial goal or target. Looking at Bane's sample framework,"
+    },
+    {
+      "start": 234.8,
+      "end": 241.12,
+      "speaker": "SPEAKER_01",
+      "text": "it primarily revolves around looking at profit or revenue-minus costs. It breaks down revenue"
+    },
+    {
+      "start": 241.12,
+      "end": 246.08,
+      "speaker": "SPEAKER_01",
+      "text": "into quantity and price and it breaks down cost into fixed costs and variable costs."
+    },
+    {
+      "start": 246.8,
+      "end": 251.52,
+      "speaker": "SPEAKER_01",
+      "text": "One thing I want to point out here is that nearly everyone knows this profit framework."
+    },
+    {
+      "start": 251.52,
+      "end": 255.60000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "It is probably one of the first frameworks that you learn when you begin preparing for case"
+    },
+    {
+      "start": 255.6,
+      "end": 261.92,
+      "speaker": "SPEAKER_01",
+      "text": "interviews. So, if you just use a framework like this, know that many of the other candidates"
+    },
+    {
+      "start": 261.92,
+      "end": 268.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "that you are competing against are also probably using it. Therefore, you're probably not going to"
+    },
+    {
+      "start": 268.15999999999997,
+      "end": 274.24,
+      "speaker": "SPEAKER_01",
+      "text": "get any bonus points in your interview for creating a unique or tailored framework. Two, this sample"
+    },
+    {
+      "start": 274.24,
+      "end": 280.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "framework only covers the quantitative aspects of the case. Of course, every single case interview"
+    },
+    {
+      "start": 280.15999999999997,
+      "end": 285.12,
+      "speaker": "SPEAKER_01",
+      "text": "could be solved by boiling down the case into a mathematical equation that calculates profits."
+    },
+    {
+      "start": 285.6,
+      "end": 291.04,
+      "speaker": "SPEAKER_01",
+      "text": "However, outstanding frameworks will cover both quantitative and qualitative aspects."
+    },
+    {
+      "start": 291.04,
+      "end": 296.56,
+      "speaker": "SPEAKER_01",
+      "text": "The qualitative aspects is what I feel this sample framework is really missing. Knowing things"
+    },
+    {
+      "start": 296.56,
+      "end": 301.92,
+      "speaker": "SPEAKER_01",
+      "text": "such as whether or not the market is attractive, how strong competitors are, and if our friend has"
+    },
+    {
+      "start": 301.92,
+      "end": 307.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "the capabilities to succeed is equally as important as just crunching the numbers. Therefore,"
+    },
+    {
+      "start": 307.84000000000003,
+      "end": 313.44,
+      "speaker": "SPEAKER_01",
+      "text": "I like our framework better because it covers both the quantitative and qualitative aspects of the case."
+    },
+    {
+      "start": 313.92,
+      "end": 320.88,
+      "speaker": "SPEAKER_01",
+      "text": "Let's move on. You show your proposed framework to your friend and she really likes it."
+    },
+    {
+      "start": 320.88,
+      "end": 327.04,
+      "speaker": "SPEAKER_01",
+      "text": "She's especially interested in figuring out how big the market is to best estimate how much coffee"
+    },
+    {
+      "start": 327.04,
+      "end": 334.24,
+      "speaker": "SPEAKER_01",
+      "text": "she can sell. She knows the market probably includes commuters, visitors, etc. but for now, she wants"
+    },
+    {
+      "start": 334.24,
+      "end": 339.44,
+      "speaker": "SPEAKER_01",
+      "text": "you to focus on Cambridge residents alone. How do you estimate the size of the market?"
+    },
+    {
+      "start": 339.92,
+      "end": 345.36,
+      "speaker": "SPEAKER_01",
+      "text": "Remember, there's always two major ways to do estimation or market sizing problems."
+    },
+    {
+      "start": 345.84,
+      "end": 350.48,
+      "speaker": "SPEAKER_01",
+      "text": "You can either do a top-down approach where you start with a large number and keep breaking it down"
+    },
+    {
+      "start": 350.48,
+      "end": 355.68,
+      "speaker": "SPEAKER_01",
+      "text": "and refining it until you get your answer, or you could do a bottom-up approach where you start"
+    },
+    {
+      "start": 355.68,
+      "end": 360.0,
+      "speaker": "SPEAKER_01",
+      "text": "with a small number and build and multiply it up until you reach your answer."
+    },
+    {
+      "start": 363.04,
+      "end": 365.68,
+      "speaker": "SPEAKER_00",
+      "text": "Yep, that is exactly the answer that Bane also gives."
+    },
+    {
+      "start": 366.48,
+      "end": 372.32,
+      "speaker": "SPEAKER_01",
+      "text": "After you show her the potential options for estimating market size,"
+    },
+    {
+      "start": 372.32,
+      "end": 375.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "she wants you to approximate the market size using your framework."
+    },
+    {
+      "start": 376.48,
+      "end": 381.2,
+      "speaker": "SPEAKER_01",
+      "text": "Assume that Cambridge has a population of 100,000 people and on average,"
+    },
+    {
+      "start": 381.2,
+      "end": 383.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "each drinks one cup of coffee per day."
+    },
+    {
+      "start": 384.56,
+      "end": 389.6,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so this exercise mentions focusing on Cambridge residents alone,"
+    },
+    {
+      "start": 389.6,
+      "end": 392.08,
+      "speaker": "SPEAKER_01",
+      "text": "so we can create an approach that starts with that."
+    },
+    {
+      "start": 392.96,
+      "end": 395.59999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "We can start with the number of people in Cambridge,"
+    },
+    {
+      "start": 395.59999999999997,
+      "end": 398.08,
+      "speaker": "SPEAKER_01",
+      "text": "then estimate the percentage of people that drink coffee,"
+    },
+    {
+      "start": 398.8,
+      "end": 402.32,
+      "speaker": "SPEAKER_01",
+      "text": "then we can calculate the number of cups of coffee consumed per day,"
+    },
+    {
+      "start": 403.12,
+      "end": 407.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "and then we can calculate the number of cups of coffee consumed per year."
+    },
+    {
+      "start": 407.03999999999996,
+      "end": 412.4,
+      "speaker": "SPEAKER_01",
+      "text": "We need to remember that some people drink coffee at home while others drink coffee at coffee shops"
+    },
+    {
+      "start": 412.4,
+      "end": 417.84,
+      "speaker": "SPEAKER_01",
+      "text": "or stores. We need to estimate the percentage of cups consumed at coffee shops or stores."
+    },
+    {
+      "start": 418.56,
+      "end": 422.56,
+      "speaker": "SPEAKER_01",
+      "text": "After doing this, we can estimate the average price per cup of coffee"
+    },
+    {
+      "start": 422.56,
+      "end": 427.44,
+      "speaker": "SPEAKER_01",
+      "text": "and multiplying all of these things together will give us the market size of coffee in Cambridge."
+    },
+    {
+      "start": 429.67999999999995,
+      "end": 432.79999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "So, starting with 100,000 people in Cambridge,"
+    },
+    {
+      "start": 432.79999999999995,
+      "end": 435.28,
+      "speaker": "SPEAKER_01",
+      "text": "let's assume that 50% of people drink coffee."
+    },
+    {
+      "start": 435.91999999999996,
+      "end": 440.47999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "This estimate comes from the fact that we can roll out 20% of the population who are kids"
+    },
+    {
+      "start": 440.47999999999996,
+      "end": 444.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "that don't really drink coffee, and among the remaining population,"
+    },
+    {
+      "start": 444.16,
+      "end": 448.8,
+      "speaker": "SPEAKER_01",
+      "text": "perhaps roughly a third do not drink coffee, but instead drink tea or other beverages."
+    },
+    {
+      "start": 449.76000000000005,
+      "end": 452.56,
+      "speaker": "SPEAKER_01",
+      "text": "This gives us 50,000 coffee drinkers in Cambridge."
+    },
+    {
+      "start": 453.36,
+      "end": 459.20000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "We are told that each drinks one cup per day, which gives us 50,000 cups of coffee per day."
+    },
+    {
+      "start": 460.16,
+      "end": 466.48,
+      "speaker": "SPEAKER_01",
+      "text": "Multiplying this by 360 days per year, which is less than 365 to count for closing due to"
+    },
+    {
+      "start": 466.48,
+      "end": 470.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "national holidays, we get 18 million cups of coffee per year."
+    },
+    {
+      "start": 471.35999999999996,
+      "end": 474.88,
+      "speaker": "SPEAKER_01",
+      "text": "Let's assume half of these cups are purchased through coffee shops."
+    },
+    {
+      "start": 474.88,
+      "end": 479.59999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "This is just based on the personal experience of my coffee drinking behavior and that of my friends."
+    },
+    {
+      "start": 480.32,
+      "end": 483.67999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "So, this gives us 9 million cups of coffee per year."
+    },
+    {
+      "start": 484.56,
+      "end": 491.52,
+      "speaker": "SPEAKER_01",
+      "text": "If the average cup of coffee is perhaps 2 pounds, this gives us a market size of 18 million pounds."
+    },
+    {
+      "start": 492.71999999999997,
+      "end": 495.12,
+      "speaker": "SPEAKER_01",
+      "text": "Let's see what the answer Bane provides looks like."
+    },
+    {
+      "start": 495.68,
+      "end": 499.76,
+      "speaker": "SPEAKER_01",
+      "text": "So, they also started with the number of people in Cambridge."
+    },
+    {
+      "start": 499.76,
+      "end": 504.16,
+      "speaker": "SPEAKER_01",
+      "text": "They estimated the percentage of their adults, and then the percentage that drink coffee."
+    },
+    {
+      "start": 504.8,
+      "end": 508.48,
+      "speaker": "SPEAKER_01",
+      "text": "They then multiplied this by the number of cups of coffee consumed per day,"
+    },
+    {
+      "start": 508.48,
+      "end": 512.88,
+      "speaker": "SPEAKER_01",
+      "text": "and then estimated the percentage of coffee made versus consumed at home."
+    },
+    {
+      "start": 512.88,
+      "end": 516.16,
+      "speaker": "SPEAKER_01",
+      "text": "Finally, multiplying it by 350 days per year."
+    },
+    {
+      "start": 516.16,
+      "end": 518.48,
+      "speaker": "SPEAKER_01",
+      "text": "So, it looks like we had a very similar approach."
+    },
+    {
+      "start": 518.96,
+      "end": 524.4,
+      "speaker": "SPEAKER_01",
+      "text": "One thing to note here is that the sample answer stops once the number of cups of coffee per"
+    },
+    {
+      "start": 524.4,
+      "end": 530.8,
+      "speaker": "SPEAKER_01",
+      "text": "year is calculated. Market size is typically expressed as annual revenues are spending in a year,"
+    },
+    {
+      "start": 530.8,
+      "end": 535.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "so technically the sample answer should have multiplied the number of cups of coffee by average"
+    },
+    {
+      "start": 535.4399999999999,
+      "end": 541.12,
+      "speaker": "SPEAKER_01",
+      "text": "price per cup. If you are unsure whether to express your answer in annual revenues or number of"
+    },
+    {
+      "start": 541.12,
+      "end": 547.12,
+      "speaker": "SPEAKER_01",
+      "text": "units, you can always clarify this with the interviewer before you begin the market sizing exercise."
+    },
+    {
+      "start": 548.64,
+      "end": 553.76,
+      "speaker": "SPEAKER_01",
+      "text": "Let's move on. Now that you have the market size, your friend wants to gain a better"
+    },
+    {
+      "start": 553.76,
+      "end": 558.24,
+      "speaker": "SPEAKER_01",
+      "text": "understanding of how much coffee she would need to sell to break even in her first year."
+    },
+    {
+      "start": 558.72,
+      "end": 562.0,
+      "speaker": "SPEAKER_01",
+      "text": "How much coffee does she need to sell to break even in the first year?"
+    },
+    {
+      "start": 562.64,
+      "end": 571.68,
+      "speaker": "SPEAKER_01",
+      "text": "Here is some additional information. Price per coffee is 3 pounds, cost open shop is 245,610 pounds,"
+    },
+    {
+      "start": 571.68,
+      "end": 579.76,
+      "speaker": "SPEAKER_01",
+      "text": "cost to run the shop each year is 163,740 pounds, and finally the cost per cup of coffee is 1 pound."
+    },
+    {
+      "start": 580.56,
+      "end": 585.84,
+      "speaker": "SPEAKER_01",
+      "text": "This is a simple break even question. For break even questions, all you really need to do is set"
+    },
+    {
+      "start": 585.84,
+      "end": 592.24,
+      "speaker": "SPEAKER_01",
+      "text": "the formula for profit equal to zero and solve for the unknown variable. So we know that profit equals"
+    },
+    {
+      "start": 592.24,
+      "end": 599.04,
+      "speaker": "SPEAKER_01",
+      "text": "price minus variable costs times quantity minus fixed costs. So we set profit equal to zero,"
+    },
+    {
+      "start": 599.04,
+      "end": 604.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "which gives us price minus variable costs times quantity equals fixed costs."
+    },
+    {
+      "start": 605.2800000000001,
+      "end": 611.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "We now just need to plug in the information that was provided. So 3 pounds minus 1 pounds"
+    },
+    {
+      "start": 611.0400000000001,
+      "end": 620.88,
+      "speaker": "SPEAKER_01",
+      "text": "times the unknown quantity equals 245,610 pounds plus 163,740 pounds. Solving for this,"
+    },
+    {
+      "start": 621.5200000000001,
+      "end": 630.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "quantity equals 204,675 to break even. Looking at the sample answer, we get the same number."
+    },
+    {
+      "start": 630.64,
+      "end": 636.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So that's good. One thing to note here is that in an actual interview, it may be helpful to take"
+    },
+    {
+      "start": 636.3199999999999,
+      "end": 641.3599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "the quantity of units needed to break even and divide that by the market size of the number of"
+    },
+    {
+      "start": 641.3599999999999,
+      "end": 646.4,
+      "speaker": "SPEAKER_01",
+      "text": "cups of coffee. This will give you the market share that the client needs to capture in order to"
+    },
+    {
+      "start": 646.4,
+      "end": 651.68,
+      "speaker": "SPEAKER_01",
+      "text": "break even. From this, you can look at the market shares of competitors to see if the needed"
+    },
+    {
+      "start": 651.68,
+      "end": 659.3599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "market share is plausible or feasible to capture. So if the market size is 7 million cups of coffee,"
+    },
+    {
+      "start": 659.36,
+      "end": 668.24,
+      "speaker": "SPEAKER_01",
+      "text": "which Bane provided to us, 204,675 is roughly 3%. This seems initially achievable,"
+    },
+    {
+      "start": 668.24,
+      "end": 673.12,
+      "speaker": "SPEAKER_01",
+      "text": "but we really need to compare this to the market shares of competitors to see if it is plausible."
+    },
+    {
+      "start": 674.72,
+      "end": 679.52,
+      "speaker": "SPEAKER_01",
+      "text": "Moving on to the recommendation. After running through the calculations,"
+    },
+    {
+      "start": 679.52,
+      "end": 685.2,
+      "speaker": "SPEAKER_01",
+      "text": "do you think it's reasonable for her to open up a coffee shop? So here's how I would deliver"
+    },
+    {
+      "start": 685.2800000000001,
+      "end": 691.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "the recommendation. I recommend that our friend can consider opening a coffee store in Cambridge,"
+    },
+    {
+      "start": 691.9200000000001,
+      "end": 697.44,
+      "speaker": "SPEAKER_01",
+      "text": "but should make additional considerations. There are three reasons that support this. One,"
+    },
+    {
+      "start": 697.44,
+      "end": 701.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "we calculated that our friend needs to capture 3% market share to break even."
+    },
+    {
+      "start": 701.84,
+      "end": 706.4000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "This seems feasible at initial glance, but we need to look at the market share and"
+    },
+    {
+      "start": 706.4000000000001,
+      "end": 711.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "strength of competitors to understand whether this is truly a large or small market share,"
+    },
+    {
+      "start": 712.3199999999999,
+      "end": 718.8,
+      "speaker": "SPEAKER_01",
+      "text": "and whether our friend could outcompete competitors. Two, we need to understand our friend's"
+    },
+    {
+      "start": 718.8,
+      "end": 723.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "capabilities and expertise. Can they manage and operate a coffee shop well?"
+    },
+    {
+      "start": 724.4,
+      "end": 729.92,
+      "speaker": "SPEAKER_01",
+      "text": "Three, we need to understand what our friend's financial goals are. Can we achieve the desired"
+    },
+    {
+      "start": 729.92,
+      "end": 735.92,
+      "speaker": "SPEAKER_01",
+      "text": "levels of profit within the targeted period of time? For next steps, I'd like to focus on two things."
+    },
+    {
+      "start": 736.56,
+      "end": 742.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "One, understand the value proposition of this coffee shop and how it would compete with competitors."
+    },
+    {
+      "start": 743.28,
+      "end": 747.76,
+      "speaker": "SPEAKER_01",
+      "text": "Two, estimate the annual profit to see if it is in line with our friend's goals."
+    },
+    {
+      "start": 749.28,
+      "end": 751.52,
+      "speaker": "SPEAKER_00",
+      "text": "Let's take a look at the sample recommendations."
+    },
+    {
+      "start": 755.12,
+      "end": 759.36,
+      "speaker": "SPEAKER_01",
+      "text": "Looking at the good answer first, I don't really like it for three reasons."
+    },
+    {
+      "start": 760.0,
+      "end": 762.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "One, I think the recommendation is premature."
+    },
+    {
+      "start": 763.28,
+      "end": 766.64,
+      "speaker": "SPEAKER_01",
+      "text": "Three percent market share may be very difficult to capture,"
+    },
+    {
+      "start": 766.64,
+      "end": 769.12,
+      "speaker": "SPEAKER_01",
+      "text": "depending on what the competitive landscape looks like."
+    },
+    {
+      "start": 770.08,
+      "end": 775.92,
+      "speaker": "SPEAKER_00",
+      "text": "Two, the recommendation only provides one reason for support, and three, there are no next steps"
+    },
+    {
+      "start": 775.92,
+      "end": 784.72,
+      "speaker": "SPEAKER_00",
+      "text": "included. Looking at the better answer, I also don't really like it for two reasons."
+    },
+    {
+      "start": 785.36,
+      "end": 791.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "One, it doesn't actually provide a recommendation. It just says breaking even is achievable."
+    },
+    {
+      "start": 791.6,
+      "end": 795.2,
+      "speaker": "SPEAKER_01",
+      "text": "It doesn't recommend opening up the store or not opening up the store."
+    },
+    {
+      "start": 796.08,
+      "end": 801.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Two, it is not very structured. Remember, a simple but effective way to structure your"
+    },
+    {
+      "start": 801.6800000000001,
+      "end": 806.96,
+      "speaker": "SPEAKER_01",
+      "text": "recommendation is to state your recommendation, provide two to three reasons that support it,"
+    },
+    {
+      "start": 806.96,
+      "end": 812.48,
+      "speaker": "SPEAKER_01",
+      "text": "and then include a few next steps. So that brings us to the end of this case. Overall,"
+    },
+    {
+      "start": 812.48,
+      "end": 816.72,
+      "speaker": "SPEAKER_01",
+      "text": "it was a fairly straightforward market entry case, but there are a lot of case-interview"
+    },
+    {
+      "start": 816.72,
+      "end": 821.36,
+      "speaker": "SPEAKER_01",
+      "text": "skills that you can practice from this, such as creating a framework, practicing market sizing,"
+    },
+    {
+      "start": 821.36,
+      "end": 826.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "and calculating break even. If you found this video helpful, please give this video a like,"
+    },
+    {
+      "start": 826.8000000000001,
+      "end": 830.72,
+      "speaker": "SPEAKER_01",
+      "text": "and check out some of the other case interview videos on the channel."
+    }
+  ],
+  "grading": {
+    "communication": 14,
+    "framework": 11,
+    "math": 8,
+    "case_difficulty": 7,
+    "final_summary": 12,
+    "overall_thoughts": "You did a good job with the communication but struggled a bit with the math and framework."
+  }
+}

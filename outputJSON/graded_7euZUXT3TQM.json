@@ -1,0 +1,1488 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "speaker": "SPEAKER_02",
+      "text": "Hi everyone, I'm Anika and I'm Ventures VP of development this semester."
+    },
+    {
+      "start": 5.76,
+      "end": 9.68,
+      "speaker": "SPEAKER_00",
+      "text": "Hi there, my name is Samir and I was Ventures president last semester."
+    },
+    {
+      "start": 10.48,
+      "end": 13.92,
+      "speaker": "SPEAKER_02",
+      "text": "Today we're going to be going through a mock case interview with Samir,"
+    },
+    {
+      "start": 13.92,
+      "end": 18.16,
+      "speaker": "SPEAKER_02",
+      "text": "who has consulted for Venture and is working at McKinsey after graduation."
+    },
+    {
+      "start": 18.8,
+      "end": 24.240000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "We are going to be doing the maxiqr case, which is from the 2018 to 2019"
+    },
+    {
+      "start": 24.24,
+      "end": 28.959999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "darting case book and we also recommend pausing the video after each question"
+    },
+    {
+      "start": 28.959999999999997,
+      "end": 33.76,
+      "speaker": "SPEAKER_02",
+      "text": "if you want to work through them on your own. Lastly, there's a lot of correct ways to approach"
+    },
+    {
+      "start": 33.76,
+      "end": 38.72,
+      "speaker": "SPEAKER_02",
+      "text": "this case, so this is just one example and with that we'll get right into the case."
+    },
+    {
+      "start": 40.0,
+      "end": 44.879999999999995,
+      "speaker": "SPEAKER_02",
+      "text": "Hi Samir, I'm Anika nice to meet you and welcome to Ventures Individual Interview."
+    },
+    {
+      "start": 45.68,
+      "end": 51.28,
+      "speaker": "SPEAKER_02",
+      "text": "Hi Anika, it's nice to meet you. Okay great, we're going to dive right into a case if you're ready."
+    },
+    {
+      "start": 51.92,
+      "end": 59.36,
+      "speaker": "SPEAKER_02",
+      "text": "Yep, let's do it. So your client is maxiqr, a manufacturer that sells over the counter,"
+    },
+    {
+      "start": 59.36,
+      "end": 65.44,
+      "speaker": "SPEAKER_02",
+      "text": "cough and cold medicine. Their sole plant is in Kentucky and it's aging."
+    },
+    {
+      "start": 65.44,
+      "end": 70.08,
+      "speaker": "SPEAKER_02",
+      "text": "This means increasing maintenance costs are leading to low margins on their products."
+    },
+    {
+      "start": 70.08,
+      "end": 73.36,
+      "speaker": "SPEAKER_02",
+      "text": "How would you advise maxiqr to proceed with this problem?"
+    },
+    {
+      "start": 73.52,
+      "end": 84.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, cool. So just so I have the details correct, our client is maxiqr, which sells OTC"
+    },
+    {
+      "start": 84.0,
+      "end": 90.56,
+      "speaker": "SPEAKER_00",
+      "text": "cough and cold medicines. It has one plant in Kentucky, which is old and sort of following"
+    },
+    {
+      "start": 90.56,
+      "end": 96.48,
+      "speaker": "SPEAKER_00",
+      "text": "apart and because of that the increasing maintenance costs are creating margin problems."
+    },
+    {
+      "start": 97.2,
+      "end": 103.12,
+      "speaker": "SPEAKER_00",
+      "text": "Is that correct? Exactly. Perfect. So before I dive into thinking about how I would"
+    },
+    {
+      "start": 103.2,
+      "end": 109.60000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "solve this, the first question I had was a little bit more about maxiqr. So I know that there are"
+    },
+    {
+      "start": 109.60000000000001,
+      "end": 114.32000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "like a lot of players in the over the counter market. Where does maxiqr sort of stack up against them?"
+    },
+    {
+      "start": 114.96000000000001,
+      "end": 119.60000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that's a good question. So there's two to three larger players in the over the counter"
+    },
+    {
+      "start": 119.60000000000001,
+      "end": 127.12,
+      "speaker": "SPEAKER_02",
+      "text": "business who have distribution across the US and one of them is client. Got it. Okay. And then"
+    },
+    {
+      "start": 127.60000000000001,
+      "end": 132.0,
+      "speaker": "SPEAKER_00",
+      "text": "do we know like sort of the range in which maxiqr is selling their products? So do they sell in the US?"
+    },
+    {
+      "start": 132.0,
+      "end": 137.28,
+      "speaker": "SPEAKER_00",
+      "text": "Do they sell abroad? What sort of things are we looking at there? They're just selling in the US"
+    },
+    {
+      "start": 137.28,
+      "end": 144.32,
+      "speaker": "SPEAKER_00",
+      "text": "right now. Cool. And so I know we're looking at trying to improve margins. And so at least off the"
+    },
+    {
+      "start": 144.32,
+      "end": 149.68,
+      "speaker": "SPEAKER_00",
+      "text": "top of my head it seems like we would want to be a lowering production cost. But are there any other"
+    },
+    {
+      "start": 149.68,
+      "end": 154.0,
+      "speaker": "SPEAKER_00",
+      "text": "goals that we should be thinking about? For example, improving product quality, maybe we want to"
+    },
+    {
+      "start": 154.0,
+      "end": 160.32,
+      "speaker": "SPEAKER_00",
+      "text": "improve the brand image, maybe we want to find a different product line. Are there any other"
+    },
+    {
+      "start": 160.32,
+      "end": 167.6,
+      "speaker": "SPEAKER_00",
+      "text": "strategic goals that we should be aware of when I'm thinking about maxiqr? The objective is to"
+    },
+    {
+      "start": 167.6,
+      "end": 173.28,
+      "speaker": "SPEAKER_02",
+      "text": "reduce production costs while maintaining product quality and then also maintaining our brand image"
+    },
+    {
+      "start": 173.28,
+      "end": 182.72,
+      "speaker": "SPEAKER_00",
+      "text": "to our customers. Cool. Okay. When I think about decreasing cost, knowing that strategic goals"
+    },
+    {
+      "start": 182.72,
+      "end": 187.68,
+      "speaker": "SPEAKER_00",
+      "text": "in mind with reducing production costs, I think that you know I'm going to first look at"
+    },
+    {
+      "start": 188.32,
+      "end": 194.24,
+      "speaker": "SPEAKER_00",
+      "text": "what are all of the different ways in which we could sort of reduce production costs for maxiqr"
+    },
+    {
+      "start": 194.24,
+      "end": 199.44,
+      "speaker": "SPEAKER_00",
+      "text": "as it's producing. And then let's also think about you know if there may be ways to increase"
+    },
+    {
+      "start": 199.44,
+      "end": 204.48000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "revenue, even though it's probably a secondary goal, it would potentially improve margins"
+    },
+    {
+      "start": 204.48000000000002,
+      "end": 208.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "and it could potentially improve sales. But I will say that that's a secondary goal. I'm going to"
+    },
+    {
+      "start": 208.64000000000001,
+      "end": 213.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "focus on production costs. And then I'll just take a few minutes just to brainstorm how I might"
+    },
+    {
+      "start": 213.92,
+      "end": 218.32,
+      "speaker": "SPEAKER_00",
+      "text": "actually evaluate these different options if that's cool with you. That sounds good."
+    },
+    {
+      "start": 219.6,
+      "end": 223.92,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome. All right, shall we? I'm going to just take a second to lay this all out."
+    },
+    {
+      "start": 224.88,
+      "end": 229.11999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "After each section of the case, we're going to take a look at how Samir approached it."
+    },
+    {
+      "start": 229.11999999999998,
+      "end": 233.11999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "On the left is the question at hand and the given information for your reference."
+    },
+    {
+      "start": 234.16,
+      "end": 238.64,
+      "speaker": "SPEAKER_02",
+      "text": "In terms of analysis, Samir asked really insightful questions, which gave him important"
+    },
+    {
+      "start": 238.64,
+      "end": 244.16,
+      "speaker": "SPEAKER_02",
+      "text": "information such as objective of the case. He also clarified the geographical scope and"
+    },
+    {
+      "start": 244.16,
+      "end": 248.48,
+      "speaker": "SPEAKER_02",
+      "text": "made sure that he understood the way the business was working. This is important because for"
+    },
+    {
+      "start": 248.48,
+      "end": 253.51999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "example, I've been in a situation where I assume that a company was operating in the US in a case"
+    },
+    {
+      "start": 253.51999999999998,
+      "end": 257.28,
+      "speaker": "SPEAKER_02",
+      "text": "when it was actually operating in the whole world. So this is something that's important to"
+    },
+    {
+      "start": 257.28,
+      "end": 264.0,
+      "speaker": "SPEAKER_00",
+      "text": "clarify ahead of time. All right, cool. So the first thing that I did, so as I mentioned,"
+    },
+    {
+      "start": 264.0,
+      "end": 268.4,
+      "speaker": "SPEAKER_00",
+      "text": "I was going to first be thinking about what are the big options that we have that can decrease"
+    },
+    {
+      "start": 268.4,
+      "end": 273.84,
+      "speaker": "SPEAKER_00",
+      "text": "production cost. And then the next thing I looked at was what are the factors that we should"
+    },
+    {
+      "start": 273.84,
+      "end": 279.76,
+      "speaker": "SPEAKER_00",
+      "text": "evaluate those options by so that we can come up with the best choice and the best recommendation."
+    },
+    {
+      "start": 280.56,
+      "end": 286.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I came up with three big options that we could do that would actually decrease the cost of"
+    },
+    {
+      "start": 286.0,
+      "end": 291.35999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "production for maxiqr. The first would be to build a new plant entirely. So as you mentioned,"
+    },
+    {
+      "start": 291.35999999999996,
+      "end": 295.2,
+      "speaker": "SPEAKER_00",
+      "text": "their plant right now is aging and so it might be a good option for them to build a new one."
+    },
+    {
+      "start": 296.0,
+      "end": 300.32,
+      "speaker": "SPEAKER_00",
+      "text": "Another one would be to upgrade the current plant. So maybe take, you know, shut down the plant for"
+    },
+    {
+      "start": 300.32,
+      "end": 306.47999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "like a couple months and add some new machinery that could be more efficient. And then a third option"
+    },
+    {
+      "start": 306.47999999999996,
+      "end": 312.56,
+      "speaker": "SPEAKER_00",
+      "text": "could be to outsource. So if for example, they can give it to a competitor who can produce it"
+    },
+    {
+      "start": 312.56,
+      "end": 318.0,
+      "speaker": "SPEAKER_00",
+      "text": "for cheaper and then they can maybe take a little bit less of a less less less of a cut of the"
+    },
+    {
+      "start": 318.0,
+      "end": 323.44,
+      "speaker": "SPEAKER_00",
+      "text": "sale price, but they'll actually improve their margins potentially through that. So those are the"
+    },
+    {
+      "start": 323.44,
+      "end": 328.16,
+      "speaker": "SPEAKER_00",
+      "text": "three big options and the factors that I would want to, you know, sort of think about to evaluate"
+    },
+    {
+      "start": 328.16,
+      "end": 334.08,
+      "speaker": "SPEAKER_00",
+      "text": "them from both a financial and non-financial perspective. First would be on the financial side,"
+    },
+    {
+      "start": 334.08,
+      "end": 339.04,
+      "speaker": "SPEAKER_00",
+      "text": "they would be the investment. So obviously like when we think about like a new plant or new machinery,"
+    },
+    {
+      "start": 339.04,
+      "end": 343.92,
+      "speaker": "SPEAKER_00",
+      "text": "there's a significant upfront investment. So we're trying to quantify that. And then on the other"
+    },
+    {
+      "start": 343.92,
+      "end": 348.64,
+      "speaker": "SPEAKER_00",
+      "text": "side of that, we would want to be looking at variable savings. So since the goal here is to improve"
+    },
+    {
+      "start": 348.64,
+      "end": 355.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "our margins, we would want to be decreasing the actual cost per bottle of coffee and cold medicine."
+    },
+    {
+      "start": 355.76,
+      "end": 360.96,
+      "speaker": "SPEAKER_00",
+      "text": "So if they can for example, produce it for cheaper and you know over time with the throughput"
+    },
+    {
+      "start": 360.96,
+      "end": 366.88,
+      "speaker": "SPEAKER_00",
+      "text": "and with the sales that they're actually generating, that could actually sort of maybe offset the"
+    },
+    {
+      "start": 366.88,
+      "end": 372.4,
+      "speaker": "SPEAKER_00",
+      "text": "investment cost. So that's on the financial side. On the non-financial side for how I would evaluate"
+    },
+    {
+      "start": 373.12,
+      "end": 379.52,
+      "speaker": "SPEAKER_00",
+      "text": "these would be first looking at quality. So I know you mentioned earlier that qualities really"
+    },
+    {
+      "start": 379.52,
+      "end": 386.08,
+      "speaker": "SPEAKER_00",
+      "text": "important to customers as well as to the client. And so because of that, making sure that, you know,"
+    },
+    {
+      "start": 386.08,
+      "end": 391.2,
+      "speaker": "SPEAKER_00",
+      "text": "a new plant or an upgraded plant maintains that quality, another thing to think about from both"
+    },
+    {
+      "start": 391.2,
+      "end": 396.32,
+      "speaker": "SPEAKER_00",
+      "text": "building a new factory as well as the quality and what it's built is brand image. So for example,"
+    },
+    {
+      "start": 396.32,
+      "end": 401.2,
+      "speaker": "SPEAKER_00",
+      "text": "if you have a plant that you know, it let's say that you decide to shut down the plant and you build"
+    },
+    {
+      "start": 401.2,
+      "end": 406.47999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "a plant elsewhere, it may be have a, and maybe we'll have an adverse impact on the brand image"
+    },
+    {
+      "start": 406.47999999999996,
+      "end": 411.12,
+      "speaker": "SPEAKER_00",
+      "text": "because they're seen as firing people or something like that. So that could be something that if"
+    },
+    {
+      "start": 411.12,
+      "end": 415.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Maxicure is worried about that, that's what we should think about. Another thing to think about"
+    },
+    {
+      "start": 415.59999999999997,
+      "end": 420.48,
+      "speaker": "SPEAKER_00",
+      "text": "would be future proofing. So just because this presents an opportunity for them to upgrade their"
+    },
+    {
+      "start": 420.48,
+      "end": 427.68,
+      "speaker": "SPEAKER_00",
+      "text": "technology and it presents a chance for them to modernize. And so that might be you know, a better"
+    },
+    {
+      "start": 427.68,
+      "end": 434.48,
+      "speaker": "SPEAKER_00",
+      "text": "option for let's say, you know, different, different of these different options. And then a last"
+    },
+    {
+      "start": 434.48,
+      "end": 439.92,
+      "speaker": "SPEAKER_00",
+      "text": "piece here would be expanding their capacity. So I know you mentioned that they're one of two or"
+    },
+    {
+      "start": 439.92,
+      "end": 445.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "three larger players in the market and seeing as they only have one plant, if there's a chance to"
+    },
+    {
+      "start": 445.28000000000003,
+      "end": 450.0,
+      "speaker": "SPEAKER_00",
+      "text": "improve their throughput and increase their throughput, it could increase sales, which would help"
+    },
+    {
+      "start": 450.0,
+      "end": 455.44,
+      "speaker": "SPEAKER_00",
+      "text": "improve the profitability of the company potentially. So that's something that again is a secondary"
+    },
+    {
+      "start": 455.44,
+      "end": 460.48,
+      "speaker": "SPEAKER_00",
+      "text": "factor given that we're focusing on production cost. But thinking about expanding capacity could"
+    },
+    {
+      "start": 460.48,
+      "end": 466.32,
+      "speaker": "SPEAKER_00",
+      "text": "be another way to look at these options. So I guess the first thing is that, you know, what I would"
+    },
+    {
+      "start": 466.32,
+      "end": 472.08,
+      "speaker": "SPEAKER_00",
+      "text": "prioritize looking at first off would be the financial factors just because as a larger company,"
+    },
+    {
+      "start": 472.08,
+      "end": 479.04,
+      "speaker": "SPEAKER_00",
+      "text": "it would seem imperative for them to be getting to the profitability and maximizing that. So"
+    },
+    {
+      "start": 479.68,
+      "end": 484.48,
+      "speaker": "SPEAKER_00",
+      "text": "I would probably focus on the initial investment cost as well as the variable cost savings."
+    },
+    {
+      "start": 484.48,
+      "end": 492.40000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "Whenever I think about these options. Yeah, that is great analysis. Sameer's framework is on the left"
+    },
+    {
+      "start": 492.40000000000003,
+      "end": 497.68,
+      "speaker": "SPEAKER_02",
+      "text": "and you notice that he did a chart format instead of what you're most likely to see people use,"
+    },
+    {
+      "start": 497.68,
+      "end": 503.68,
+      "speaker": "SPEAKER_02",
+      "text": "which is different buckets. And you can look at any of Sarah's cases for an example of that type of"
+    },
+    {
+      "start": 503.68,
+      "end": 509.76,
+      "speaker": "SPEAKER_02",
+      "text": "framework. So the reason why his chart framework works so well this instant is because usually"
+    },
+    {
+      "start": 510.56,
+      "end": 515.2,
+      "speaker": "SPEAKER_02",
+      "text": "framework can be pretty broad. But in this case, there are only three potential options. The company"
+    },
+    {
+      "start": 515.2,
+      "end": 520.8,
+      "speaker": "SPEAKER_02",
+      "text": "really had, which is the new plant upgrade the current plant and outsource. So the chart option"
+    },
+    {
+      "start": 520.8,
+      "end": 525.6,
+      "speaker": "SPEAKER_02",
+      "text": "allowed him to look at the same factors within each bucket instead of different factors,"
+    },
+    {
+      "start": 525.6,
+      "end": 531.92,
+      "speaker": "SPEAKER_02",
+      "text": "which allows him to do a better comparison and contrast of them. And in the end, notice how he"
+    },
+    {
+      "start": 531.92,
+      "end": 537.52,
+      "speaker": "SPEAKER_02",
+      "text": "identified what he would focus on, which was the initial investment and variable cost. He was correct"
+    },
+    {
+      "start": 537.52,
+      "end": 542.4,
+      "speaker": "SPEAKER_02",
+      "text": "that this is the case that this is the direction the case is going to go in. But you don't need to"
+    },
+    {
+      "start": 542.4,
+      "end": 547.28,
+      "speaker": "SPEAKER_02",
+      "text": "be correct every time about the direction the case is going to go in. You just need to make an"
+    },
+    {
+      "start": 547.28,
+      "end": 553.6,
+      "speaker": "SPEAKER_02",
+      "text": "educated assumption about where you think the case should go next. So speaking of the initial"
+    },
+    {
+      "start": 553.6,
+      "end": 559.68,
+      "speaker": "SPEAKER_02",
+      "text": "investment and variable cost, Maxic here has actually narrowed down its decision to two possible"
+    },
+    {
+      "start": 559.68,
+      "end": 567.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "options. The first is to build a new factory next to their old plant. And the second is to,"
+    },
+    {
+      "start": 567.4399999999999,
+      "end": 573.8399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "as you said, outsource the manufacturing to a competitor. And so the question we have at hand"
+    },
+    {
+      "start": 573.8399999999999,
+      "end": 579.8399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "is how many bottles of medicine would Maxic here need to sell for the in-house option to be more"
+    },
+    {
+      "start": 579.8399999999999,
+      "end": 589.3599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "profitable than the outsourcing option? Interesting. Okay, so just to restate what was said. So"
+    },
+    {
+      "start": 589.68,
+      "end": 594.16,
+      "speaker": "SPEAKER_00",
+      "text": "we're looking now at two options. So of the three I listed, it seems like we're looking at"
+    },
+    {
+      "start": 595.12,
+      "end": 601.52,
+      "speaker": "SPEAKER_00",
+      "text": "a new plant in the same location or outsourcing. And we basically want to find the critical"
+    },
+    {
+      "start": 601.52,
+      "end": 607.04,
+      "speaker": "SPEAKER_00",
+      "text": "mass of bottles such that Maxic here would be indifferent between the two. So this is kind of like"
+    },
+    {
+      "start": 607.04,
+      "end": 611.5999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "a break even analysis if that makes is that is that the right way to think about this? Yeah."
+    },
+    {
+      "start": 612.2399999999999,
+      "end": 617.5999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect. Okay, cool. So the first thing I want to look at is just thinking about the initial"
+    },
+    {
+      "start": 617.6,
+      "end": 625.28,
+      "speaker": "SPEAKER_00",
+      "text": "investment as well as the variable cost savings that would happen for each of these. So the first"
+    },
+    {
+      "start": 625.28,
+      "end": 631.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "thing I want to look at is what is the initial investment for building a new factory?"
+    },
+    {
+      "start": 633.44,
+      "end": 645.44,
+      "speaker": "SPEAKER_02",
+      "text": "Yes. So the initial investment for in-house is $50 million. And the outsourcing costs are the"
+    },
+    {
+      "start": 645.44,
+      "end": 652.24,
+      "speaker": "SPEAKER_02",
+      "text": "total cost per bottle for the first 20 million bottles regardless of the total order size is"
+    },
+    {
+      "start": 652.8000000000001,
+      "end": 660.8800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "$2.25 and the total cost per bottle for after the first 20 million. Again, regardless of the total"
+    },
+    {
+      "start": 660.8800000000001,
+      "end": 671.5200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "order size is $2.50. And then that total cost per bottle is lower for in-house. It's only $2."
+    },
+    {
+      "start": 672.0799999999999,
+      "end": 680.72,
+      "speaker": "SPEAKER_00",
+      "text": "Got it. Okay, cool. Cost per in-house is $2. Okay, cool. What do we sell these bottles for?"
+    },
+    {
+      "start": 680.72,
+      "end": 686.8,
+      "speaker": "SPEAKER_00",
+      "text": "We sell them for $4.50. Okay, so sell. Okay, cool. So it looks like the margins and the new factor"
+    },
+    {
+      "start": 686.8,
+      "end": 694.64,
+      "speaker": "SPEAKER_00",
+      "text": "are already looking better. But obviously you have the upfront investment. Cool. So I'm going to take"
+    },
+    {
+      "start": 694.64,
+      "end": 699.92,
+      "speaker": "SPEAKER_00",
+      "text": "a second just to lay out my math here. Just like right off the top of my head, I can see this 20"
+    },
+    {
+      "start": 699.92,
+      "end": 706.8,
+      "speaker": "SPEAKER_00",
+      "text": "million bottles being a bit of a challenge. But yeah, actually before I get started, so I just can"
+    },
+    {
+      "start": 706.8,
+      "end": 713.52,
+      "speaker": "SPEAKER_00",
+      "text": "kind of walk you through what I'm thinking. So I'm going to basically be calculating the profit"
+    },
+    {
+      "start": 713.52,
+      "end": 718.24,
+      "speaker": "SPEAKER_00",
+      "text": "for both of them. So I want to find, since we're looking basically at a break even between the"
+    },
+    {
+      "start": 718.24,
+      "end": 722.8,
+      "speaker": "SPEAKER_00",
+      "text": "profit, what is the profit of one option higher than the profit of the other? I'm just going to set the"
+    },
+    {
+      "start": 722.8,
+      "end": 728.24,
+      "speaker": "SPEAKER_00",
+      "text": "two profits, like profit equations equal to each other. The one challenge that I'm thinking of right"
+    },
+    {
+      "start": 728.24,
+      "end": 734.8,
+      "speaker": "SPEAKER_00",
+      "text": "off the top of my head is if the order size is greater than 20 million, then it's going to be a very,"
+    },
+    {
+      "start": 734.8,
+      "end": 741.12,
+      "speaker": "SPEAKER_00",
+      "text": "it's going to be a different profit function than if the cost is less than 20 million. Yes, that"
+    },
+    {
+      "start": 741.12,
+      "end": 748.08,
+      "speaker": "SPEAKER_02",
+      "text": "does make sense. Setting the profit equations equal to each other. Okay. Okay, cool. So I'm just going"
+    },
+    {
+      "start": 748.08,
+      "end": 753.44,
+      "speaker": "SPEAKER_00",
+      "text": "to lay this out just because just like that 20 million numbers seems like a little bit of a twist,"
+    },
+    {
+      "start": 753.44,
+      "end": 760.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "but I'll just throw it in and see where the math takes us. So the first thing is for, I'm going to"
+    },
+    {
+      "start": 760.8000000000001,
+      "end": 767.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "calculate the profit margins for each of the different options. So for a new factory that is built,"
+    },
+    {
+      "start": 767.5200000000001,
+      "end": 774.6400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "the profit margin is going to be $2.50 per bottle because you're selling for $4.50. It costs $2."
+    },
+    {
+      "start": 775.0400000000001,
+      "end": 783.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So our profit function for the in-house option is going to be equal to 2.5, $2.50."
+    },
+    {
+      "start": 783.44,
+      "end": 788.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "times the number of bottles, which I'm just going to call x. And then we're going to subtract 50 million"
+    },
+    {
+      "start": 788.5600000000001,
+      "end": 794.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "because that's our initial investment. And then the right hand side of that equation, it's going to"
+    },
+    {
+      "start": 794.8000000000001,
+      "end": 801.2,
+      "speaker": "SPEAKER_00",
+      "text": "have, it's going to be different, right? Because if you have less than 20 million bottles, then it's a"
+    },
+    {
+      "start": 801.2,
+      "end": 809.6,
+      "speaker": "SPEAKER_00",
+      "text": "pretty simple math equation. It's just going to be $2.25 of margin times x. If you're less than 20 million,"
+    },
+    {
+      "start": 809.6,
+      "end": 820.48,
+      "speaker": "SPEAKER_00",
+      "text": "but if you're greater than 20 million, it's going to be 20 million times $2.25 because that's your"
+    },
+    {
+      "start": 820.48,
+      "end": 828.0,
+      "speaker": "SPEAKER_00",
+      "text": "first 20 million bottles plus another $2 because that's your margin for anything in excess,"
+    },
+    {
+      "start": 828.5600000000001,
+      "end": 833.76,
+      "speaker": "SPEAKER_00",
+      "text": "$4.50 minus $2.50. So it's going to be that excess amount times"
+    },
+    {
+      "start": 834.4,
+      "end": 844.16,
+      "speaker": "SPEAKER_00",
+      "text": "x minus 20 million because that's going to be your overage. So I guess I can do the math for both"
+    },
+    {
+      "start": 844.16,
+      "end": 856.4,
+      "speaker": "SPEAKER_00",
+      "text": "of these, but it seems like, just like whenever I look at it, it seems like the order size for this"
+    },
+    {
+      "start": 856.4,
+      "end": 860.4,
+      "speaker": "SPEAKER_00",
+      "text": "is going to be greater than 20 million. That's just like me looking up the numbers and kind of"
+    },
+    {
+      "start": 861.04,
+      "end": 866.48,
+      "speaker": "SPEAKER_00",
+      "text": "quickly guesstimating the numbers in my head. Just like so I can confirm, is the number greater"
+    },
+    {
+      "start": 866.48,
+      "end": 872.56,
+      "speaker": "SPEAKER_02",
+      "text": "than 20 million for that critical mass? Yeah, that's a good question. It is greater than 20 million,"
+    },
+    {
+      "start": 872.56,
+      "end": 877.6,
+      "speaker": "SPEAKER_02",
+      "text": "and you can use the second equation that you laid out. Perfect. All right, I'm going to do that then."
+    },
+    {
+      "start": 877.6,
+      "end": 887.28,
+      "speaker": "SPEAKER_00",
+      "text": "So we're going to have 2.5 x minus 50 million equals 45 million, which is the cost of the first 20"
+    },
+    {
+      "start": 887.28,
+      "end": 895.6,
+      "speaker": "SPEAKER_00",
+      "text": "million bottles plus 2 times x minus 20 million. So then we're just going to crunch these out here,"
+    },
+    {
+      "start": 895.6,
+      "end": 904.72,
+      "speaker": "SPEAKER_00",
+      "text": "so that's going to be 95 minus 40, so that's 55 million. And then you have 2.5 x minus 2 x, so 0.5 x."
+    },
+    {
+      "start": 906.64,
+      "end": 915.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So 0.5 x equals 55 million, x equals 110 million bottles. Is that right?"
+    },
+    {
+      "start": 915.9200000000001,
+      "end": 924.08,
+      "speaker": "SPEAKER_02",
+      "text": "That is right. That is based on that. Is there an option that you would select between"
+    },
+    {
+      "start": 924.08,
+      "end": 927.5200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "the two that we were given, which was in-house and outsourcing?"
+    },
+    {
+      "start": 928.96,
+      "end": 934.48,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, so right off, like just when I look at this number, 110 million bottles is a lot of"
+    },
+    {
+      "start": 934.48,
+      "end": 942.48,
+      "speaker": "SPEAKER_00",
+      "text": "cost medicine. And I think like it's a tough question just because I think that as one of the"
+    },
+    {
+      "start": 942.48,
+      "end": 946.96,
+      "speaker": "SPEAKER_00",
+      "text": "two ripy largest players in the market, just kind of guessing, looking at the US, it's about 300"
+    },
+    {
+      "start": 946.96,
+      "end": 953.52,
+      "speaker": "SPEAKER_00",
+      "text": "million people. If we say that's like 120 million households, and each household is maybe buying"
+    },
+    {
+      "start": 953.52,
+      "end": 959.2,
+      "speaker": "SPEAKER_00",
+      "text": "like a couple bottles, a cough syrup a year, let's say two bottles. You're getting roughly speaking,"
+    },
+    {
+      "start": 959.2,
+      "end": 964.72,
+      "speaker": "SPEAKER_00",
+      "text": "if I'm assuming that they have a certain market share, I'm going to say they're looking at about"
+    },
+    {
+      "start": 964.72,
+      "end": 971.04,
+      "speaker": "SPEAKER_00",
+      "text": "50 to 60 million bottles sold per year. And so 110 million bottles is a lot more than what they're"
+    },
+    {
+      "start": 971.04,
+      "end": 976.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "probably selling. I didn't ask this in the beginning of the case actually, but do we know how many"
+    },
+    {
+      "start": 976.3199999999999,
+      "end": 983.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "bottles they sell per year? I don't believe we know how many bottles they sell per year."
+    },
+    {
+      "start": 983.1999999999999,
+      "end": 988.48,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so with that in mind, even though we don't know that number, 110 million seems like a lot."
+    },
+    {
+      "start": 989.92,
+      "end": 996.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So I would probably lean towards outsourcing because that upfront cost is so high. That being said,"
+    },
+    {
+      "start": 996.96,
+      "end": 1004.24,
+      "speaker": "SPEAKER_00",
+      "text": "I think it really depends on the payback period. So if they want this investment to break even"
+    },
+    {
+      "start": 1004.24,
+      "end": 1011.44,
+      "speaker": "SPEAKER_00",
+      "text": "within two years, I would say it's probably pushing it for 110 million units for that profit to be"
+    },
+    {
+      "start": 1011.44,
+      "end": 1023.12,
+      "speaker": "SPEAKER_00",
+      "text": "higher. But if the payback period is maybe a bit more long term, then I think it would make sense"
+    },
+    {
+      "start": 1023.12,
+      "end": 1029.28,
+      "speaker": "SPEAKER_00",
+      "text": "for them to build the factory. So I would personally would say I would prefer the outsourcing option"
+    },
+    {
+      "start": 1029.28,
+      "end": 1039.28,
+      "speaker": "SPEAKER_00",
+      "text": "right now. But maybe depending on what the goals are from a payback period perspective, I might"
+    },
+    {
+      "start": 1039.28,
+      "end": 1044.56,
+      "speaker": "SPEAKER_00",
+      "text": "want to say long term. But for now, I'm going to say outsource. The first question is about the"
+    },
+    {
+      "start": 1044.56,
+      "end": 1050.16,
+      "speaker": "SPEAKER_02",
+      "text": "break even point between the new plant and outsourcing. On the left is the given information once"
+    },
+    {
+      "start": 1050.16,
+      "end": 1057.1200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "he asked some questions. In the middle is the answer key of his approach. And in terms of analysis,"
+    },
+    {
+      "start": 1057.1200000000001,
+      "end": 1062.5600000000002,
+      "speaker": "SPEAKER_02",
+      "text": "you can notice that he immediately gave his initial hypothesis and recognized risks within his"
+    },
+    {
+      "start": 1062.5600000000002,
+      "end": 1068.88,
+      "speaker": "SPEAKER_02",
+      "text": "hypothesis before going into the calculations. When he did start to approach the calculations,"
+    },
+    {
+      "start": 1068.88,
+      "end": 1075.28,
+      "speaker": "SPEAKER_02",
+      "text": "he immediately flagged the 20 million bottle issue where the function is different depending"
+    },
+    {
+      "start": 1075.52,
+      "end": 1081.44,
+      "speaker": "SPEAKER_02",
+      "text": "on if it's above or below. And this was really helpful because he was able to prove that he can set up"
+    },
+    {
+      "start": 1081.44,
+      "end": 1088.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "both equations, but in order to save time, I only ended up making him solve one. And this is,"
+    },
+    {
+      "start": 1088.3999999999999,
+      "end": 1092.56,
+      "speaker": "SPEAKER_02",
+      "text": "this would not have happened if he didn't walk me through his thinking because I wouldn't have known"
+    },
+    {
+      "start": 1092.56,
+      "end": 1099.28,
+      "speaker": "SPEAKER_02",
+      "text": "that he was trying to solve between two different equations. He also explained the risks of outsourcing"
+    },
+    {
+      "start": 1099.28,
+      "end": 1104.56,
+      "speaker": "SPEAKER_02",
+      "text": "as well as his justification as to why he thinks the company should outsource. So we are actually"
+    },
+    {
+      "start": 1104.56,
+      "end": 1111.2,
+      "speaker": "SPEAKER_02",
+      "text": "ends up being wrong in terms of predicting which option the company will take, but that doesn't"
+    },
+    {
+      "start": 1111.2,
+      "end": 1116.24,
+      "speaker": "SPEAKER_02",
+      "text": "matter at all because his argument for outsourcing was equally as good as their reason for doing it"
+    },
+    {
+      "start": 1116.24,
+      "end": 1124.32,
+      "speaker": "SPEAKER_02",
+      "text": "in house eventually. So your analysis on the time frame makes a lot of sense, but Maxicure ended"
+    },
+    {
+      "start": 1124.32,
+      "end": 1132.1599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "up deciding to build a new production facility. They want to build the plant in Indiana instead to"
+    },
+    {
+      "start": 1132.16,
+      "end": 1139.76,
+      "speaker": "SPEAKER_02",
+      "text": "be closer to a major distribution center. And they have to convince the governor of Indiana to give"
+    },
+    {
+      "start": 1139.76,
+      "end": 1146.64,
+      "speaker": "SPEAKER_02",
+      "text": "them some tax breaks to make it more profitable for them. And so could you think of some ideas that"
+    },
+    {
+      "start": 1146.64,
+      "end": 1154.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "they could use to convince the governor? Cool. So we're brainstorming ways that we would"
+    },
+    {
+      "start": 1154.6399999999999,
+      "end": 1160.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "pitch this new facility to the governor of Indiana. Exactly. Cool."
+    },
+    {
+      "start": 1161.6799999999998,
+      "end": 1164.8,
+      "speaker": "SPEAKER_00",
+      "text": "Cool. Can I have a minute just to lay this out? Yeah, definitely. Awesome, thanks."
+    },
+    {
+      "start": 1170.56,
+      "end": 1177.2,
+      "speaker": "SPEAKER_00",
+      "text": "Cool. All right. So I split this up into sort of two sides since we're pitching to the governor."
+    },
+    {
+      "start": 1178.1599999999999,
+      "end": 1183.12,
+      "speaker": "SPEAKER_00",
+      "text": "I basically thought of, okay, there's sort of two different ways you could convince the governor."
+    },
+    {
+      "start": 1183.12,
+      "end": 1188.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "First is to say, okay, how will this, how will this new factory personally help the governor?"
+    },
+    {
+      "start": 1188.8799999999999,
+      "end": 1194.8,
+      "speaker": "SPEAKER_00",
+      "text": "So how will this benefit the governor himself? And then how will this actually benefit the state as a whole?"
+    },
+    {
+      "start": 1194.8,
+      "end": 1199.76,
+      "speaker": "SPEAKER_00",
+      "text": "So just seeing because of politician in my opinion, we would probably be looking one at re-election and"
+    },
+    {
+      "start": 1199.76,
+      "end": 1204.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "two at their constituent at their constituents, not necessarily in that order, but those are the"
+    },
+    {
+      "start": 1204.1599999999999,
+      "end": 1209.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "two things they're thinking about. So on like the personal and campaign side, as to why we would be"
+    },
+    {
+      "start": 1209.92,
+      "end": 1214.72,
+      "speaker": "SPEAKER_00",
+      "text": "able to convince them, building a factory is good press just because infrastructure projects are"
+    },
+    {
+      "start": 1214.72,
+      "end": 1220.72,
+      "speaker": "SPEAKER_00",
+      "text": "like very visible and very clearly, you know, very easy to, you know, get in the press. And so"
+    },
+    {
+      "start": 1220.72,
+      "end": 1225.28,
+      "speaker": "SPEAKER_00",
+      "text": "it's a good chance for the governor to sort of spread out his name, spread his word, and could"
+    },
+    {
+      "start": 1225.28,
+      "end": 1232.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "potentially, you know, help out in a bid for re-election if that's his interest. So it presents an"
+    },
+    {
+      "start": 1232.0800000000002,
+      "end": 1236.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "opportunity for, you know, good press as well as getting more votes. Another thing too is just,"
+    },
+    {
+      "start": 1236.56,
+      "end": 1240.24,
+      "speaker": "SPEAKER_00",
+      "text": "it could be rewarding, right? It's rewarding to help out your state and to create more jobs."
+    },
+    {
+      "start": 1241.6,
+      "end": 1245.28,
+      "speaker": "SPEAKER_00",
+      "text": "The bigger thing for me in terms of the benefits that we would want to pitch is looking at the"
+    },
+    {
+      "start": 1245.28,
+      "end": 1251.84,
+      "speaker": "SPEAKER_00",
+      "text": "constituents. So the biggest thing is that, you know, it creates jobs for a lot of people in the state."
+    },
+    {
+      "start": 1251.84,
+      "end": 1256.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And job creation creates a multiplier effect. So, you know, if we think of like Keynesian economics,"
+    },
+    {
+      "start": 1256.8799999999999,
+      "end": 1261.12,
+      "speaker": "SPEAKER_00",
+      "text": "right, there's this concept of a multiplier, right? If there's more jobs, then there's suddenly,"
+    },
+    {
+      "start": 1261.12,
+      "end": 1266.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "you know, more shops that are popping up, more, you know, small businesses that pop up to support"
+    },
+    {
+      "start": 1266.7199999999998,
+      "end": 1272.4799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "the people who are working in this factory. And so if this factory can maybe take a small town and"
+    },
+    {
+      "start": 1272.4799999999998,
+      "end": 1277.84,
+      "speaker": "SPEAKER_00",
+      "text": "make it more prosperous, then that's a really big benefit. Not only for, you know, the people who are"
+    },
+    {
+      "start": 1277.84,
+      "end": 1282.4799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "working in the factory because they have a job, but for everyone who lives around them. So it's good"
+    },
+    {
+      "start": 1282.4799999999998,
+      "end": 1287.84,
+      "speaker": "SPEAKER_00",
+      "text": "for like the community as a whole. Next is that it sets a precedent for more manufacturers to come"
+    },
+    {
+      "start": 1287.84,
+      "end": 1294.24,
+      "speaker": "SPEAKER_00",
+      "text": "into the state. And so if I, you know, let's say, Maxicure's competitors or maybe just another"
+    },
+    {
+      "start": 1294.24,
+      "end": 1300.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "company wants to build a plan in Indiana, then they can look at Maxicure and the tax benefits,"
+    },
+    {
+      "start": 1300.6399999999999,
+      "end": 1306.08,
+      "speaker": "SPEAKER_00",
+      "text": "given to them and say, oh, yeah, I would love to go build an Indiana. And again, it creates that"
+    },
+    {
+      "start": 1306.08,
+      "end": 1312.08,
+      "speaker": "SPEAKER_00",
+      "text": "same effect that I just mentioned with like that multiplier. And I think those are sort of really"
+    },
+    {
+      "start": 1312.08,
+      "end": 1318.0,
+      "speaker": "SPEAKER_00",
+      "text": "compelling points because it fits with both, you know, the politicians gold getting reelected,"
+    },
+    {
+      "start": 1318.0,
+      "end": 1324.48,
+      "speaker": "SPEAKER_00",
+      "text": "as well as benefiting the state as a whole. So I would say that those are the big factors that I"
+    },
+    {
+      "start": 1324.48,
+      "end": 1332.56,
+      "speaker": "SPEAKER_00",
+      "text": "would list out in a bid to convince the governor to actually take on this factory."
+    },
+    {
+      "start": 1333.9199999999998,
+      "end": 1339.76,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think those are some great ideas. The next question is about pitching tax breaks to the"
+    },
+    {
+      "start": 1339.76,
+      "end": 1345.92,
+      "speaker": "SPEAKER_02",
+      "text": "governor on the left is his way of approaching the problem. And the main thing I want to highlight is how"
+    },
+    {
+      "start": 1345.92,
+      "end": 1351.12,
+      "speaker": "SPEAKER_02",
+      "text": "he, even though he could have done a list, he instead buckets his ideas in a structured manner,"
+    },
+    {
+      "start": 1351.12,
+      "end": 1356.96,
+      "speaker": "SPEAKER_02",
+      "text": "which is something we recommend all applicants to do. He also did a good job of identifying what a"
+    },
+    {
+      "start": 1356.96,
+      "end": 1362.48,
+      "speaker": "SPEAKER_02",
+      "text": "governor would be motivated by. Lots of times applicants will do that internally in their head."
+    },
+    {
+      "start": 1362.48,
+      "end": 1367.12,
+      "speaker": "SPEAKER_02",
+      "text": "Obviously, you're going to think about what the governor would want. But by verbalizing it, it makes"
+    },
+    {
+      "start": 1367.12,
+      "end": 1374.8,
+      "speaker": "SPEAKER_02",
+      "text": "it really clear how he reaches the buckets that he eventually does. The CEO is calling you to hear"
+    },
+    {
+      "start": 1374.8,
+      "end": 1382.2399999999998,
+      "speaker": "SPEAKER_02",
+      "text": "a wrap up of your conclusion for the problem at hand. And so you can take a couple of seconds and"
+    },
+    {
+      "start": 1382.2399999999998,
+      "end": 1388.9599999999998,
+      "speaker": "SPEAKER_02",
+      "text": "then can you just let him know what your conclusion is? Yep, that sounds great. So I'm going to take"
+    },
+    {
+      "start": 1388.96,
+      "end": 1395.28,
+      "speaker": "SPEAKER_00",
+      "text": "a minute just to lay out my conclusion. Yeah, take your time. Cool."
+    },
+    {
+      "start": 1400.16,
+      "end": 1405.28,
+      "speaker": "SPEAKER_00",
+      "text": "All right, cool. So when we go back to the initial problem, Max Kerr was facing,"
+    },
+    {
+      "start": 1406.0,
+      "end": 1412.0,
+      "speaker": "SPEAKER_00",
+      "text": "they were looking at ways to decrease production costs in their Kentucky facility"
+    },
+    {
+      "start": 1412.0,
+      "end": 1416.64,
+      "speaker": "SPEAKER_00",
+      "text": "for producing coffee and cold medicine. And my recommendation is that they should build a new"
+    },
+    {
+      "start": 1416.64,
+      "end": 1422.64,
+      "speaker": "SPEAKER_00",
+      "text": "factory in Indiana. And this is for two big reasons. The first one is that within two to three years,"
+    },
+    {
+      "start": 1423.44,
+      "end": 1429.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I think that it actually will be the most profitable option, this new factory, rather than outsourcing"
+    },
+    {
+      "start": 1429.1200000000001,
+      "end": 1435.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "or refurbishing their current factory. And the second is that they have a very, very compelling case"
+    },
+    {
+      "start": 1436.0,
+      "end": 1441.44,
+      "speaker": "SPEAKER_00",
+      "text": "for pitching to the governor to get tax benefits, which would actually further improve their margins"
+    },
+    {
+      "start": 1442.4,
+      "end": 1447.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "and the end. And so because of that, those are the two big reasons why a new factory would be the best."
+    },
+    {
+      "start": 1448.3200000000002,
+      "end": 1452.8,
+      "speaker": "SPEAKER_00",
+      "text": "One big risk is that it could create bad press in Kentucky if they were to close that factory."
+    },
+    {
+      "start": 1452.8,
+      "end": 1458.72,
+      "speaker": "SPEAKER_00",
+      "text": "So next step that we could look into for the company is how to sell or repurpose that facility"
+    },
+    {
+      "start": 1458.72,
+      "end": 1464.64,
+      "speaker": "SPEAKER_00",
+      "text": "and help out those workers so that that press is mitigated. So those are my recommendations."
+    },
+    {
+      "start": 1466.0800000000002,
+      "end": 1469.1200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "That sounds great. That wraps up the case. Thank you so much."
+    },
+    {
+      "start": 1469.9199999999998,
+      "end": 1470.56,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome. Thank you."
+    },
+    {
+      "start": 1474.0,
+      "end": 1480.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "So Miris' conclusion is very structured and the structure he uses can be used by you and your case"
+    },
+    {
+      "start": 1480.3999999999999,
+      "end": 1486.0,
+      "speaker": "SPEAKER_02",
+      "text": "interview. He gives the recommendation after quickly saying what the problem was. And then he gives"
+    },
+    {
+      "start": 1486.0,
+      "end": 1492.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "the reasons, which can be two to three reasons, a risk. Usually people just give one risk and then"
+    },
+    {
+      "start": 1492.96,
+      "end": 1498.64,
+      "speaker": "SPEAKER_02",
+      "text": "next steps. He also changed his recommendation based on new information in question three,"
+    },
+    {
+      "start": 1498.64,
+      "end": 1505.0400000000002,
+      "speaker": "SPEAKER_02",
+      "text": "which shows that he's adaptable. Lastly, he included a clear time frame of two to three years,"
+    },
+    {
+      "start": 1505.0400000000002,
+      "end": 1510.96,
+      "speaker": "SPEAKER_02",
+      "text": "which makes his recommendation even more actionable for the client. That wraps up the case. And if"
+    },
+    {
+      "start": 1510.96,
+      "end": 1517.0400000000002,
+      "speaker": "SPEAKER_02",
+      "text": "you have any questions for us, you can reach us on our website."
+    }
+  ],
+  "grading": {
+    "communication": 18,
+    "framework": 16,
+    "math": 11,
+    "case_difficulty": 10,
+    "final_summary": 15,
+    "overall_thoughts": "You provided a solid framework and communicated well throughout, but some areas of math could be improved."
+  }
+}

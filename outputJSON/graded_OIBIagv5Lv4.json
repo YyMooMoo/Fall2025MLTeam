@@ -1,0 +1,606 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "speaker": "SPEAKER_00",
+      "text": "This video contains a full-length case interview that you can do on your own"
+    },
+    {
+      "start": 4.96,
+      "end": 9.1,
+      "speaker": "SPEAKER_00",
+      "text": "without a case interview partner. This case comes from hacking the case"
+    },
+    {
+      "start": 9.1,
+      "end": 13.200000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "interviews comprehensive online course. So if you find this case interview"
+    },
+    {
+      "start": 13.200000000000001,
+      "end": 17.8,
+      "speaker": "SPEAKER_00",
+      "text": "exercise helpful, check out our full case interview course which teaches"
+    },
+    {
+      "start": 17.8,
+      "end": 22.5,
+      "speaker": "SPEAKER_00",
+      "text": "insider case interview strategies and contains 20 practice cases like this one."
+    },
+    {
+      "start": 22.5,
+      "end": 27.0,
+      "speaker": "SPEAKER_00",
+      "text": "Before we begin, please take a quick second to give this video a like to help"
+    },
+    {
+      "start": 27.0,
+      "end": 32.2,
+      "speaker": "SPEAKER_00",
+      "text": "support the channel. Let's start. Northeast is an airline company that provides"
+    },
+    {
+      "start": 32.2,
+      "end": 36.480000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "flights to over 30 states in the United States. They sell two different types of"
+    },
+    {
+      "start": 36.480000000000004,
+      "end": 41.5,
+      "speaker": "SPEAKER_00",
+      "text": "fares, business class and economy class. Economy class is a more expensive"
+    },
+    {
+      "start": 41.5,
+      "end": 47.0,
+      "speaker": "SPEAKER_00",
+      "text": "purchase but provides more seat room, more amenities, and premium service."
+    },
+    {
+      "start": 47.0,
+      "end": 51.36,
+      "speaker": "SPEAKER_00",
+      "text": "Economy class is a standard more economical offering similar to"
+    },
+    {
+      "start": 51.36,
+      "end": 56.480000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "economy class offerings of competitors. Recently, Northeast has noticed that"
+    },
+    {
+      "start": 56.48,
+      "end": 61.48,
+      "speaker": "SPEAKER_00",
+      "text": "its flights have increasingly had more empty seats in business class. On average,"
+    },
+    {
+      "start": 61.48,
+      "end": 66.36,
+      "speaker": "SPEAKER_00",
+      "text": "their business class flies with a utilization or percentage of seats that are"
+    },
+    {
+      "start": 66.36,
+      "end": 73.08,
+      "speaker": "SPEAKER_00",
+      "text": "filled per flight of just 40%. This is down from the historical 50% utilization."
+    },
+    {
+      "start": 73.08,
+      "end": 79.84,
+      "speaker": "SPEAKER_00",
+      "text": "Economy class utilization has been stable at around 70% utilization. Given a"
+    },
+    {
+      "start": 79.84,
+      "end": 84.32,
+      "speaker": "SPEAKER_00",
+      "text": "recent sharp dip in profitability, Northeast is considering whether they should"
+    },
+    {
+      "start": 84.32,
+      "end": 89.16,
+      "speaker": "SPEAKER_00",
+      "text": "get rid of their business class offering. Pause the video now to structure a"
+    },
+    {
+      "start": 89.16,
+      "end": 92.72,
+      "speaker": "SPEAKER_01",
+      "text": "framework to answer this question."
+    },
+    {
+      "start": 95.83999999999999,
+      "end": 102.75999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Here is a transcript of the case information for your reference. Here is an"
+    },
+    {
+      "start": 102.75999999999999,
+      "end": 106.88,
+      "speaker": "SPEAKER_00",
+      "text": "example of what your framework could look like. There are four major areas we"
+    },
+    {
+      "start": 106.88,
+      "end": 111.08,
+      "speaker": "SPEAKER_00",
+      "text": "want to look into. One, we want to look into the business class market to"
+    },
+    {
+      "start": 111.08,
+      "end": 115.52,
+      "speaker": "SPEAKER_00",
+      "text": "determine if business class is an attractive market to go after. We'd want to"
+    },
+    {
+      "start": 115.52,
+      "end": 119.12,
+      "speaker": "SPEAKER_00",
+      "text": "look into things such as the market size, the market growth rate, and the"
+    },
+    {
+      "start": 119.12,
+      "end": 124.03999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "average profit margins for business class. Two, we want to look into Northeast"
+    },
+    {
+      "start": 124.03999999999999,
+      "end": 128.16,
+      "speaker": "SPEAKER_00",
+      "text": "business class offerings to determine if Northeast can serve business class"
+    },
+    {
+      "start": 128.16,
+      "end": 132.76,
+      "speaker": "SPEAKER_00",
+      "text": "consumers well. We'd look into things such as how Northeast business class"
+    },
+    {
+      "start": 132.76,
+      "end": 136.8,
+      "speaker": "SPEAKER_00",
+      "text": "compares to that of competitors and look into what customers think of Northeast"
+    },
+    {
+      "start": 136.8,
+      "end": 142.56,
+      "speaker": "SPEAKER_00",
+      "text": "business class offering. Three, we want to look at profitability. Will Northeast"
+    },
+    {
+      "start": 142.56,
+      "end": 147.0,
+      "speaker": "SPEAKER_00",
+      "text": "profit increase by removing business class? How much would revenues increase or"
+    },
+    {
+      "start": 147.0,
+      "end": 151.28,
+      "speaker": "SPEAKER_00",
+      "text": "costs decrease if Northeast were to replace business class with more economy"
+    },
+    {
+      "start": 151.28,
+      "end": 157.68,
+      "speaker": "SPEAKER_00",
+      "text": "class seats? Four, we'd want to look into risks of removing business class. Will"
+    },
+    {
+      "start": 157.68,
+      "end": 162.32000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "removing business class negatively impact economy class? Will removing business"
+    },
+    {
+      "start": 162.32,
+      "end": 168.88,
+      "speaker": "SPEAKER_00",
+      "text": "class give too much share or power to competitors? What conclusions can you draw"
+    },
+    {
+      "start": 168.88,
+      "end": 173.6,
+      "speaker": "SPEAKER_00",
+      "text": "from the following exhibit that compares Northeast suite of amenities and service"
+    },
+    {
+      "start": 173.6,
+      "end": 180.44,
+      "speaker": "SPEAKER_00",
+      "text": "offerings compared to competitors? Pause the video now to answer this question."
+    },
+    {
+      "start": 182.44,
+      "end": 187.12,
+      "speaker": "SPEAKER_00",
+      "text": "The key thing to notice is that there are two airline types, full service and"
+    },
+    {
+      "start": 187.12,
+      "end": 192.28,
+      "speaker": "SPEAKER_00",
+      "text": "budget. At first glance, it appears that Northeast offerings are more similar to"
+    },
+    {
+      "start": 192.28,
+      "end": 197.24,
+      "speaker": "SPEAKER_00",
+      "text": "being a budget airline than a full service airline. This implies that Northeast"
+    },
+    {
+      "start": 197.24,
+      "end": 202.04,
+      "speaker": "SPEAKER_00",
+      "text": "business class offerings are likely subpar compared to competitors. They lack"
+    },
+    {
+      "start": 202.04,
+      "end": 206.24,
+      "speaker": "SPEAKER_00",
+      "text": "offerings such as a full meal service, an entertainment system, and a fully"
+    },
+    {
+      "start": 206.24,
+      "end": 210.56,
+      "speaker": "SPEAKER_00",
+      "text": "reclining seat. You could conclude that Northeast should either improve its"
+    },
+    {
+      "start": 210.56,
+      "end": 215.4,
+      "speaker": "SPEAKER_00",
+      "text": "business class offerings or reclassify itself as a budget airline and replace"
+    },
+    {
+      "start": 215.4,
+      "end": 222.2,
+      "speaker": "SPEAKER_00",
+      "text": "its business class with economy class seats. Based on the following exhibit, what"
+    },
+    {
+      "start": 222.2,
+      "end": 226.67999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "is the average profit per square foot for business class and economy class? One,"
+    },
+    {
+      "start": 226.67999999999998,
+      "end": 232.44,
+      "speaker": "SPEAKER_00",
+      "text": "before the decline in business class utilization, and two, after the decline in"
+    },
+    {
+      "start": 232.44,
+      "end": 238.92,
+      "speaker": "SPEAKER_01",
+      "text": "business class utilization? Pause the video now to answer this question."
+    },
+    {
+      "start": 242.07999999999998,
+      "end": 247.83999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "We'll start by calculating economy class profit per square foot. Remember that we"
+    },
+    {
+      "start": 247.83999999999997,
+      "end": 251.83999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "need to include utilization in our calculations, which was not shown in the"
+    },
+    {
+      "start": 251.84,
+      "end": 256.04,
+      "speaker": "SPEAKER_00",
+      "text": "previous table, but was given to us in the case background information."
+    },
+    {
+      "start": 256.04,
+      "end": 261.04,
+      "speaker": "SPEAKER_00",
+      "text": "Economy class utilization is 70% and business class utilization has dropped from"
+    },
+    {
+      "start": 261.04,
+      "end": 267.36,
+      "speaker": "SPEAKER_00",
+      "text": "50% to 40%. Economy class profit per plane is calculated by taking the"
+    },
+    {
+      "start": 267.36,
+      "end": 272.12,
+      "speaker": "SPEAKER_00",
+      "text": "number of seats, multiplying it by utilization, multiplying it by price per"
+    },
+    {
+      "start": 272.12,
+      "end": 278.76,
+      "speaker": "SPEAKER_00",
+      "text": "seat, and then multiplying it by margin. This gives us $1,260 of profit per plane."
+    },
+    {
+      "start": 279.71999999999997,
+      "end": 284.36,
+      "speaker": "SPEAKER_00",
+      "text": "To calculate profit per square foot, we divide profit by the square footage"
+    },
+    {
+      "start": 284.36,
+      "end": 289.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "that economy class takes up. We have 60 seats in economy and each seat takes up"
+    },
+    {
+      "start": 289.59999999999997,
+      "end": 297.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "six square foot of space. Therefore, $1,260 in profit, divided by 360 square"
+    },
+    {
+      "start": 297.03999999999996,
+      "end": 305.4,
+      "speaker": "SPEAKER_00",
+      "text": "feet, gives us $3.50 of profit per square foot. We can do a similar calculation"
+    },
+    {
+      "start": 305.4,
+      "end": 310.35999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "for business class. But we'll need to do this twice. Once for when business"
+    },
+    {
+      "start": 310.35999999999996,
+      "end": 314.28,
+      "speaker": "SPEAKER_00",
+      "text": "class utilization was originally 50%, and once for when business class"
+    },
+    {
+      "start": 314.28,
+      "end": 319.28,
+      "speaker": "SPEAKER_00",
+      "text": "utilization dropped to 40%. From these calculations, we determined that"
+    },
+    {
+      "start": 319.28,
+      "end": 324.2,
+      "speaker": "SPEAKER_00",
+      "text": "business class used to be $4 profit per square foot when utilization was 50%."
+    },
+    {
+      "start": 324.2,
+      "end": 330.23999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "When utilization dropped to 40%, profit per square foot dropped to $3.20."
+    },
+    {
+      "start": 331.08,
+      "end": 335.76,
+      "speaker": "SPEAKER_00",
+      "text": "Therefore, business class profit per square foot is now less than economy,"
+    },
+    {
+      "start": 335.76,
+      "end": 341.92,
+      "speaker": "SPEAKER_00",
+      "text": "which is $3.50 per square foot. This implies that we might want to replace"
+    },
+    {
+      "start": 341.92,
+      "end": 346.0,
+      "speaker": "SPEAKER_00",
+      "text": "business class with economy class if we cannot increase business class"
+    },
+    {
+      "start": 346.0,
+      "end": 351.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "utilization. Assume now that all planes are manufactured in the same"
+    },
+    {
+      "start": 351.84000000000003,
+      "end": 356.88,
+      "speaker": "SPEAKER_00",
+      "text": "standard size. If Northeast removed its business class seats and replaced them"
+    },
+    {
+      "start": 356.88,
+      "end": 361.08,
+      "speaker": "SPEAKER_00",
+      "text": "with economy class seats and was able to continue to fill those at 70%"
+    },
+    {
+      "start": 361.08,
+      "end": 367.2,
+      "speaker": "SPEAKER_00",
+      "text": "utilization, how much would profit per plane increase? Pause the video now to"
+    },
+    {
+      "start": 367.2,
+      "end": 376.64,
+      "speaker": "SPEAKER_00",
+      "text": "answer this question. From the previous calculations, we know that business class"
+    },
+    {
+      "start": 376.64,
+      "end": 382.24,
+      "speaker": "SPEAKER_00",
+      "text": "profit per square foot is $3.20, while economy class profit per square foot is"
+    },
+    {
+      "start": 382.24,
+      "end": 387.92,
+      "speaker": "SPEAKER_00",
+      "text": "$3.50. Business class takes up 200 square feet, which is calculated by"
+    },
+    {
+      "start": 387.92,
+      "end": 393.8,
+      "speaker": "SPEAKER_00",
+      "text": "taking 10 seats and multiplying it by 20 square foot per seat. Therefore, if we"
+    },
+    {
+      "start": 393.8,
+      "end": 398.32,
+      "speaker": "SPEAKER_00",
+      "text": "replace business class with economy class, we would increase profit by 30 cents"
+    },
+    {
+      "start": 398.32,
+      "end": 406.88,
+      "speaker": "SPEAKER_00",
+      "text": "per square foot or $60 per plane. What are the potential major risks of removing"
+    },
+    {
+      "start": 406.88,
+      "end": 411.56,
+      "speaker": "SPEAKER_00",
+      "text": "business class from Northeast's airplanes? Pause the video now to answer this"
+    },
+    {
+      "start": 411.56,
+      "end": 421.16,
+      "speaker": "SPEAKER_00",
+      "text": "question. We can think about risks as short-term risks and long-term risks."
+    },
+    {
+      "start": 421.16,
+      "end": 426.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Short-term risks include having to decommission the planes to replace business"
+    },
+    {
+      "start": 426.28000000000003,
+      "end": 430.56,
+      "speaker": "SPEAKER_00",
+      "text": "class seats with economy class seats, not being able to fill the new economy"
+    },
+    {
+      "start": 430.56,
+      "end": 435.2,
+      "speaker": "SPEAKER_00",
+      "text": "class seats, and upsetting business travelers potentially losing them as"
+    },
+    {
+      "start": 435.2,
+      "end": 440.44,
+      "speaker": "SPEAKER_00",
+      "text": "customers for economy fare. Long-term risks include damaging Northeast brand"
+    },
+    {
+      "start": 440.44,
+      "end": 445.0,
+      "speaker": "SPEAKER_00",
+      "text": "name and reputation, signaling weakness to competitors by conceding business"
+    },
+    {
+      "start": 445.0,
+      "end": 449.44,
+      "speaker": "SPEAKER_00",
+      "text": "class, and making it more challenging for Northeast to re-enter the business"
+    },
+    {
+      "start": 449.44,
+      "end": 456.28,
+      "speaker": "SPEAKER_00",
+      "text": "class market in the future. What is your recommendation to the CEO of"
+    },
+    {
+      "start": 456.28,
+      "end": 466.84,
+      "speaker": "SPEAKER_00",
+      "text": "Northeast? Pause the video now to deliver a recommendation. Here is how one"
+    },
+    {
+      "start": 466.84,
+      "end": 471.4,
+      "speaker": "SPEAKER_00",
+      "text": "potential recommendation could look like. I recommend that Northeast remove"
+    },
+    {
+      "start": 471.4,
+      "end": 475.23999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "its business class offering and replace them with standard economy seats for"
+    },
+    {
+      "start": 475.23999999999995,
+      "end": 480.47999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "the following two reasons. One, Northeast business class offerings are subpar"
+    },
+    {
+      "start": 480.47999999999996,
+      "end": 484.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "compared to competitors. Our offerings are much closer to that of a budget"
+    },
+    {
+      "start": 484.59999999999997,
+      "end": 490.64,
+      "speaker": "SPEAKER_00",
+      "text": "airline than that of a full-service airline. Two, due to a decline in Northeast"
+    },
+    {
+      "start": 490.64,
+      "end": 495.12,
+      "speaker": "SPEAKER_00",
+      "text": "utilization of business class seats, it is more profitable per square footage of"
+    },
+    {
+      "start": 495.12,
+      "end": 501.88,
+      "speaker": "SPEAKER_00",
+      "text": "plane space to sell economy class tickets. Economy class tickets generate $3.50"
+    },
+    {
+      "start": 501.88,
+      "end": 506.6,
+      "speaker": "SPEAKER_00",
+      "text": "of profit per square foot compared to $3.20 of profit per square foot for"
+    },
+    {
+      "start": 506.6,
+      "end": 512.78,
+      "speaker": "SPEAKER_00",
+      "text": "business class. This translates to a profit increase of $60 per plane. For"
+    },
+    {
+      "start": 512.78,
+      "end": 518.32,
+      "speaker": "SPEAKER_00",
+      "text": "next steps, I'd like to look into two areas. One, I'd like to confirm that we"
+    },
+    {
+      "start": 518.32,
+      "end": 522.2,
+      "speaker": "SPEAKER_00",
+      "text": "will be able to fill the additional economy seats if planes were refitted."
+    },
+    {
+      "start": 522.2,
+      "end": 526.7800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Two, I'd want to look into costs of refitting a plane in terms of plane"
+    },
+    {
+      "start": 526.7800000000001,
+      "end": 531.32,
+      "speaker": "SPEAKER_00",
+      "text": "downtime and labor and material costs."
+    }
+  ],
+  "grading": {
+    "communication": 12,
+    "framework": 10,
+    "math": 11,
+    "case_difficulty": 12,
+    "final_summary": 15,
+    "overall_thoughts": "The math problems were somewhat challenging, but the framework could be more developed."
+  }
+}

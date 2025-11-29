@@ -1,0 +1,2064 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 10.16,
+      "speaker": "SPEAKER_00",
+      "text": "All right, Marace. I got to see your resume. Thanks for sending that along. Of course,"
+    },
+    {
+      "start": 10.16,
+      "end": 14.44,
+      "speaker": "SPEAKER_00",
+      "text": "ahead of time. Got to take a quick look at it. Of course, today in this interview, we're"
+    },
+    {
+      "start": 14.44,
+      "end": 20.32,
+      "speaker": "SPEAKER_00",
+      "text": "going to go through a case. Before we jump into that, would love it here off the bat"
+    },
+    {
+      "start": 20.32,
+      "end": 22.6,
+      "speaker": "SPEAKER_00",
+      "text": "if you could just tell me a little bit about yourself?"
+    },
+    {
+      "start": 22.6,
+      "end": 29.68,
+      "speaker": "SPEAKER_01",
+      "text": "Well, again, my name is Marace Brown. I'm a fifth year graduate student at Howard Einstein"
+    },
+    {
+      "start": 29.68,
+      "end": 35.92,
+      "speaker": "SPEAKER_01",
+      "text": "in the Bronx, New York. I study enzymes. I have an upcoming meeting to decide whether"
+    },
+    {
+      "start": 35.92,
+      "end": 40.8,
+      "speaker": "SPEAKER_01",
+      "text": "I can start riding my dissertation, so I'm wrapping up right now. And I kind of want"
+    },
+    {
+      "start": 40.8,
+      "end": 46.96,
+      "speaker": "SPEAKER_01",
+      "text": "to go from the bench to a more management business oriented career trajectory. So that"
+    },
+    {
+      "start": 46.96,
+      "end": 52.8,
+      "speaker": "SPEAKER_01",
+      "text": "brings me here and hopefully it takes me so much successful."
+    },
+    {
+      "start": 52.8,
+      "end": 58.6,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, absolutely. So if you had if you had to guess today, when do you think you're going"
+    },
+    {
+      "start": 58.6,
+      "end": 64.84,
+      "speaker": "SPEAKER_01",
+      "text": "to be done with that degree? I'm ballparking. I have a meeting next week."
+    },
+    {
+      "start": 64.84,
+      "end": 69.08,
+      "speaker": "SPEAKER_01",
+      "text": "Sure. They give you six. They give you six months after the go ahead to ride your dissertation."
+    },
+    {
+      "start": 69.08,
+      "end": 75.48,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm ballparking around October or, you know, August, between August and December, maybe."
+    },
+    {
+      "start": 75.48,
+      "end": 80.0,
+      "speaker": "SPEAKER_01",
+      "text": "But you know, there's always sometimes this curve balls in the process that will push"
+    },
+    {
+      "start": 80.0,
+      "end": 86.68,
+      "speaker": "SPEAKER_01",
+      "text": "you over to the next year. But I think this year. Yeah, yeah, but you never know."
+    },
+    {
+      "start": 86.68,
+      "end": 95.68,
+      "speaker": "SPEAKER_00",
+      "text": "Sure, sure, sure. Yeah. Okay. All right. Okay. Well, we're going to shift over into our"
+    },
+    {
+      "start": 95.68,
+      "end": 103.76,
+      "speaker": "SPEAKER_00",
+      "text": "case and it's, you know, excited to see what you think about this problem. You're ready"
+    },
+    {
+      "start": 103.76,
+      "end": 111.72,
+      "speaker": "SPEAKER_00",
+      "text": "to go? Yep. Okay. All right, Marace. Let me tell you a little bit about your client today."
+    },
+    {
+      "start": 111.72,
+      "end": 120.44,
+      "speaker": "SPEAKER_00",
+      "text": "So your client is a major retailer. They're thinking about expanding a new retail concept"
+    },
+    {
+      "start": 120.44,
+      "end": 129.4,
+      "speaker": "SPEAKER_00",
+      "text": "into the United States. Two years ago, this client noticed that in Mexico, shopping is a family"
+    },
+    {
+      "start": 129.4,
+      "end": 136.0,
+      "speaker": "SPEAKER_00",
+      "text": "affair. Entire families travel to the stores together. And that there's various stores in"
+    },
+    {
+      "start": 136.0,
+      "end": 143.04000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Mexico that cater to these customers by providing different activities, music, and activities"
+    },
+    {
+      "start": 143.04000000000002,
+      "end": 150.84,
+      "speaker": "SPEAKER_00",
+      "text": "geared towards children as if it were an entertainment center. So our client, they copied the concept"
+    },
+    {
+      "start": 150.84,
+      "end": 157.56,
+      "speaker": "SPEAKER_00",
+      "text": "and they invested in a major clothing store in Southern Texas, also expanding it in terms"
+    },
+    {
+      "start": 157.56,
+      "end": 164.44,
+      "speaker": "SPEAKER_00",
+      "text": "of being an entertainment center as well, targeted at the Mexican American population. They"
+    },
+    {
+      "start": 164.44,
+      "end": 174.68,
+      "speaker": "SPEAKER_00",
+      "text": "added an included extras such as hot Mexican food and provided live music as well. The initial"
+    },
+    {
+      "start": 174.68,
+      "end": 181.08,
+      "speaker": "SPEAKER_00",
+      "text": "sales from this pilot store are at acceptable levels. However, few Mexican Americans have"
+    },
+    {
+      "start": 181.08,
+      "end": 186.36,
+      "speaker": "SPEAKER_00",
+      "text": "been shopping there. And when they do, the data shows that they're only buying highly"
+    },
+    {
+      "start": 186.36,
+      "end": 194.28,
+      "speaker": "SPEAKER_00",
+      "text": "discounted items. In fact, many Mexican Americans in the area still prefer to buy clothes and items"
+    },
+    {
+      "start": 194.28,
+      "end": 201.0,
+      "speaker": "SPEAKER_00",
+      "text": "in local discount stores. The client wants to expand the stores across the entire Southwestern"
+    },
+    {
+      "start": 201.0,
+      "end": 207.32,
+      "speaker": "SPEAKER_00",
+      "text": "US. But once us to analyze this approach and take and gather some guidance on how to undertake this."
+    },
+    {
+      "start": 218.52,
+      "end": 224.6,
+      "speaker": "SPEAKER_01",
+      "text": "All right. So thank you for that prompt. If it's all right, I just want to run back through the"
+    },
+    {
+      "start": 224.6,
+      "end": 230.44,
+      "speaker": "SPEAKER_01",
+      "text": "prompt to make sure I got all the pertinent details. Okay. That's okay. So basically our"
+    },
+    {
+      "start": 231.0,
+      "end": 236.68,
+      "speaker": "SPEAKER_01",
+      "text": "client is a retailer currently in the US and they're taking, they've noticed that in Mexico,"
+    },
+    {
+      "start": 237.56,
+      "end": 244.44,
+      "speaker": "SPEAKER_01",
+      "text": "shopping centers are family oriented with music children, children activities, entertainment,"
+    },
+    {
+      "start": 244.44,
+      "end": 250.92000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "and they want to kind of copy this, this way of this business strategy. And so they started"
+    },
+    {
+      "start": 250.92000000000002,
+      "end": 258.44,
+      "speaker": "SPEAKER_01",
+      "text": "basically a pilot program in this Southern Texas and South Texas aimed at the Mexican community"
+    },
+    {
+      "start": 258.44,
+      "end": 266.04,
+      "speaker": "SPEAKER_01",
+      "text": "where they serve high food, live music. But they've noticed that the Mexican customer base in"
+    },
+    {
+      "start": 267.16,
+      "end": 277.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Texas have been only taken interest in their highly discounted items. And they also prefer to buy it"
+    },
+    {
+      "start": 277.15999999999997,
+      "end": 285.48,
+      "speaker": "SPEAKER_01",
+      "text": "like this discounted products, things like that. So what they want us to do is analyze their goal"
+    },
+    {
+      "start": 285.48,
+      "end": 294.12,
+      "speaker": "SPEAKER_01",
+      "text": "is to expand throughout the US and they want us to analyze this situation in Texas and provide"
+    },
+    {
+      "start": 294.12,
+      "end": 299.16,
+      "speaker": "SPEAKER_01",
+      "text": "some recommendations for how they should approach their country-wide strategy."
+    },
+    {
+      "start": 301.40000000000003,
+      "end": 307.16,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, they're targeting the Southwestern US. Yeah, but I'm with you on the rest that you"
+    },
+    {
+      "start": 307.16,
+      "end": 320.36,
+      "speaker": "SPEAKER_01",
+      "text": "recapped there. All right. So just a clarifying question. Do they have a target when whether it comes to"
+    },
+    {
+      "start": 322.52000000000004,
+      "end": 331.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "the amount of cities that they want to deploy in or any profitability targets? What's their main"
+    },
+    {
+      "start": 331.4,
+      "end": 338.35999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "quantitative target when it comes to the implementation of their business, of their strategy?"
+    },
+    {
+      "start": 340.59999999999997,
+      "end": 348.44,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, we haven't driven to depth on that yet. There's no specific target metrics that we're aware of."
+    },
+    {
+      "start": 350.35999999999996,
+      "end": 356.2,
+      "speaker": "SPEAKER_00",
+      "text": "They are profitable based on the pilot so far. They want to make sure that"
+    },
+    {
+      "start": 357.15999999999997,
+      "end": 363.88,
+      "speaker": "SPEAKER_00",
+      "text": "they would maintain profitability if and as they expand and then increase that profit margin for sure."
+    },
+    {
+      "start": 367.4,
+      "end": 372.52,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, and also, are they targeting the Mexican population throughout the Southwest?"
+    },
+    {
+      "start": 372.52,
+      "end": 375.0,
+      "speaker": "SPEAKER_01",
+      "text": "Eastern? Like, is that their customer segment?"
+    },
+    {
+      "start": 376.44,
+      "end": 382.76,
+      "speaker": "SPEAKER_00",
+      "text": "Well, the initial vision, the initial vision was to target the Mexican American population."
+    },
+    {
+      "start": 387.0,
+      "end": 389.88,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Okay, sure."
+    },
+    {
+      "start": 396.36,
+      "end": 403.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "In that case, I think I will explore any other ideas as I progress along the case."
+    },
+    {
+      "start": 403.15999999999997,
+      "end": 409.4,
+      "speaker": "SPEAKER_01",
+      "text": "So is it all right if I take a few minutes to come up with a strategy on how I can approach this case?"
+    },
+    {
+      "start": 409.4,
+      "end": 410.44,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, that sounds great."
+    },
+    {
+      "start": 411.48,
+      "end": 412.28,
+      "speaker": "SPEAKER_01",
+      "text": "All right, thank you."
+    },
+    {
+      "start": 537.1600000000001,
+      "end": 543.1600000000001,
+      "speaker": "UNKNOWN",
+      "text": "All right."
+    },
+    {
+      "start": 543.1600000000001,
+      "end": 562.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm ready to discuss my framework. So I have a, in some cases, a three tiered and some levels."
+    },
+    {
+      "start": 562.28,
+      "end": 570.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "It's too tiered. So, but the things I want to, because we're, we're considering expanding into"
+    },
+    {
+      "start": 570.1999999999999,
+      "end": 578.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "the Southwestern United States, I want to look at some different modes of expansion,"
+    },
+    {
+      "start": 581.0799999999999,
+      "end": 585.4,
+      "speaker": "SPEAKER_01",
+      "text": "broken down into inorganic and organic ways of expansion."
+    },
+    {
+      "start": 586.1999999999999,
+      "end": 591.4,
+      "speaker": "SPEAKER_01",
+      "text": "Organic has to deal with what we can do within our own company and inorganic"
+    },
+    {
+      "start": 593.4,
+      "end": 599.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "help we could get. So, inorganic means include possibly partnering with already established"
+    },
+    {
+      "start": 600.84,
+      "end": 608.6,
+      "speaker": "SPEAKER_01",
+      "text": "companies or chains throughout the, throughout the South Eastern, Southwestern, United States,"
+    },
+    {
+      "start": 608.6,
+      "end": 615.4,
+      "speaker": "SPEAKER_01",
+      "text": "who already have a strategic methodology in these areas that we don't currently have."
+    },
+    {
+      "start": 616.2,
+      "end": 621.4,
+      "speaker": "SPEAKER_01",
+      "text": "Partnership where some type of joint venture strategy. So that's the inorganic way."
+    },
+    {
+      "start": 621.4,
+      "end": 629.08,
+      "speaker": "SPEAKER_01",
+      "text": "To break down the organic ways we could consider our current revenue streams. So,"
+    },
+    {
+      "start": 629.08,
+      "end": 638.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "our, our shopping expertise or new revenue, new revenue streams potentially through"
+    },
+    {
+      "start": 639.1600000000001,
+      "end": 650.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "new types of ways to sell products besides shopping centers or maybe an online retail"
+    },
+    {
+      "start": 651.8,
+      "end": 660.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "or different types of products besides what you would potentially get at a shopping center"
+    },
+    {
+      "start": 660.4399999999999,
+      "end": 666.5999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "or services. And within, so that would be new revenue streams within our current revenue streams."
+    },
+    {
+      "start": 667.7199999999999,
+      "end": 677.0,
+      "speaker": "SPEAKER_01",
+      "text": "Now we can look at basically what the things we've noticed in our pilot population inside,"
+    },
+    {
+      "start": 677.88,
+      "end": 689.4,
+      "speaker": "SPEAKER_01",
+      "text": "inside Texas. So, we know that price, our customers are very price sensitive. So, I'm for seeing some type"
+    },
+    {
+      "start": 689.4,
+      "end": 696.92,
+      "speaker": "SPEAKER_01",
+      "text": "of demand curve eventually, but we want to knock down price, look at different types of pricing"
+    },
+    {
+      "start": 696.92,
+      "end": 705.48,
+      "speaker": "SPEAKER_01",
+      "text": "strategies. So, competitive pricing, we know that they are sensitive to prices. So, analyzing"
+    },
+    {
+      "start": 706.2,
+      "end": 713.24,
+      "speaker": "SPEAKER_01",
+      "text": "regional competitors, the way they price and having a competitive pricing strategy or, or,"
+    },
+    {
+      "start": 713.24,
+      "end": 719.08,
+      "speaker": "SPEAKER_01",
+      "text": "or if not a competitive pricing strategy, we could analyze a cost-based pricing strategy where"
+    },
+    {
+      "start": 719.08,
+      "end": 731.88,
+      "speaker": "SPEAKER_01",
+      "text": "we target a certain margin after our costs of production. And then, besides the pricing component"
+    },
+    {
+      "start": 731.96,
+      "end": 737.72,
+      "speaker": "SPEAKER_01",
+      "text": "of our current revenue stream, we could look at a quantity-based component. So, we could,"
+    },
+    {
+      "start": 738.76,
+      "end": 747.24,
+      "speaker": "SPEAKER_01",
+      "text": "we know that this certain customer segment has price sensitivity, which limits our"
+    },
+    {
+      "start": 748.12,
+      "end": 754.2,
+      "speaker": "SPEAKER_01",
+      "text": "potential revenue growth. So, we might be able to look into a new customer basis,"
+    },
+    {
+      "start": 754.76,
+      "end": 760.04,
+      "speaker": "SPEAKER_01",
+      "text": "we might be able to lower prices, and hopefully that generates more quantity. We might look into"
+    },
+    {
+      "start": 760.04,
+      "end": 766.92,
+      "speaker": "SPEAKER_01",
+      "text": "the better marketing strategies to entice them, help them to see more value in our, what we have to"
+    },
+    {
+      "start": 766.92,
+      "end": 774.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "offer so that they're willing to spend more. We could look into possibly better distribution"
+    },
+    {
+      "start": 774.8399999999999,
+      "end": 785.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "channels, maybe the sub-population. They, they, we're not optimizing the way we bring attention to our"
+    },
+    {
+      "start": 785.08,
+      "end": 792.76,
+      "speaker": "SPEAKER_01",
+      "text": "services, or we could just make better products, have better attractions, maybe, maybe they don't"
+    },
+    {
+      "start": 792.76,
+      "end": 798.2,
+      "speaker": "SPEAKER_01",
+      "text": "consider the value they get from our products to be worth what our products currently are. So,"
+    },
+    {
+      "start": 798.2,
+      "end": 806.12,
+      "speaker": "SPEAKER_01",
+      "text": "increasing the value of our products might, might convince them to buy a more expensive product."
+    },
+    {
+      "start": 807.4000000000001,
+      "end": 814.44,
+      "speaker": "SPEAKER_01",
+      "text": "So, this is how I want to break down the problem. And, I guess the question I have for you is,"
+    },
+    {
+      "start": 814.44,
+      "end": 819.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "do you have any recommendations on a purchase you should take, or do you want me to recommend one?"
+    },
+    {
+      "start": 821.1600000000001,
+      "end": 826.7600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I'd like to hear your recommendation on what you think is most important, or where you would like to"
+    },
+    {
+      "start": 826.7600000000001,
+      "end": 842.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "start. All right. So, because what, what you highlighted in the prompt that our, our base is"
+    },
+    {
+      "start": 842.76,
+      "end": 850.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "very price sensitive, and they prefer discount pricing, I think it's best to first look at"
+    },
+    {
+      "start": 851.88,
+      "end": 862.04,
+      "speaker": "SPEAKER_01",
+      "text": "maybe the, a price, the price sensitivity of our customer base, maybe a supply of price demand,"
+    },
+    {
+      "start": 862.8399999999999,
+      "end": 865.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "analysis, if that information's available."
+    },
+    {
+      "start": 871.0799999999999,
+      "end": 882.52,
+      "speaker": "SPEAKER_00",
+      "text": "So, the initial target customer, they thought that they were designing this type of center to"
+    },
+    {
+      "start": 882.52,
+      "end": 893.72,
+      "speaker": "SPEAKER_00",
+      "text": "target the Mexican-American customer. Our research shows that Mexican culture does tend to place a"
+    },
+    {
+      "start": 893.72,
+      "end": 900.28,
+      "speaker": "SPEAKER_00",
+      "text": "very high value on families, and that they appreciate any activity that allows the whole family to"
+    },
+    {
+      "start": 900.28,
+      "end": 908.28,
+      "speaker": "SPEAKER_00",
+      "text": "be together. Also, as mentioned before, the retail store concept, the pilot that our client has put"
+    },
+    {
+      "start": 908.36,
+      "end": 913.48,
+      "speaker": "SPEAKER_00",
+      "text": "into Southern Texas, they sell these extras such as hot food, live music, they also have games."
+    },
+    {
+      "start": 914.76,
+      "end": 919.88,
+      "speaker": "SPEAKER_00",
+      "text": "Our client believed that by giving families a space to gather that they would purchase these extras,"
+    },
+    {
+      "start": 921.24,
+      "end": 926.76,
+      "speaker": "SPEAKER_00",
+      "text": "we're not sure if this hypothesis is holding true. What data would you need, or what approach would"
+    },
+    {
+      "start": 926.76,
+      "end": 936.36,
+      "speaker": "SPEAKER_01",
+      "text": "you take to validate it? So, all right. So, I'm going to structure this problem. So, we're not sure if"
+    },
+    {
+      "start": 936.92,
+      "end": 946.76,
+      "speaker": "SPEAKER_01",
+      "text": "having community gathering centers leads to increased revenue or profits. So, we can"
+    },
+    {
+      "start": 948.04,
+      "end": 959.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "break this down into our revenue with community gathering centers, and our revenue, expected revenue"
+    },
+    {
+      "start": 959.8,
+      "end": 968.12,
+      "speaker": "SPEAKER_01",
+      "text": "without, on a more individualized basis, and without these community gathering centers. And"
+    },
+    {
+      "start": 968.76,
+      "end": 976.3599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "if we can compare expected revenues from both of these options, we can kind of make a decision on"
+    },
+    {
+      "start": 976.92,
+      "end": 984.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "the direction we might want to go down. Okay. I don't expect that our client has the funds to set up"
+    },
+    {
+      "start": 984.44,
+      "end": 991.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "a whole new pilot that is not in the community center arena. What's another approach,"
+    },
+    {
+      "start": 992.36,
+      "end": 997.24,
+      "speaker": "SPEAKER_00",
+      "text": "or what's another way that we could test and prove or disprove some of these hypotheses?"
+    },
+    {
+      "start": 1000.84,
+      "end": 1009.4000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So, we don't have the means to do a more another pilot outside of a, on a non-community basis."
+    },
+    {
+      "start": 1009.4,
+      "end": 1015.64,
+      "speaker": "SPEAKER_01",
+      "text": "Is that what you're saying? So, we can only analyze this problem through"
+    },
+    {
+      "start": 1017.64,
+      "end": 1023.8,
+      "speaker": "SPEAKER_01",
+      "text": "the community-based preference that the Mexican-American community has."
+    },
+    {
+      "start": 1024.44,
+      "end": 1031.48,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, based on the current operations that our client has set up, what could we look at there?"
+    },
+    {
+      "start": 1032.28,
+      "end": 1047.48,
+      "speaker": "SPEAKER_01",
+      "text": "So, we could look at, we could break this down into the types of attractions that we have to offer"
+    },
+    {
+      "start": 1047.48,
+      "end": 1059.16,
+      "speaker": "SPEAKER_01",
+      "text": "and see which attractions generate more interest, and based on that concentrate on, so you said we"
+    },
+    {
+      "start": 1059.16,
+      "end": 1074.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "have music, food, and activities. So, if we could break down the revenue profit that each of these"
+    },
+    {
+      "start": 1076.76,
+      "end": 1084.76,
+      "speaker": "SPEAKER_01",
+      "text": "segments generate, we have something that we could focus on and possibly expand this throughout"
+    },
+    {
+      "start": 1084.76,
+      "end": 1094.44,
+      "speaker": "SPEAKER_00",
+      "text": "the southwestern U.S. Okay, so you would want to take a look at perhaps sales data as it relates"
+    },
+    {
+      "start": 1094.44,
+      "end": 1102.76,
+      "speaker": "SPEAKER_00",
+      "text": "to the different offerings that this business is giving. What else might you want to look at?"
+    },
+    {
+      "start": 1103.0,
+      "end": 1117.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so we could look at different offerings. One idea that I have that may not be relevant is,"
+    },
+    {
+      "start": 1117.24,
+      "end": 1122.2,
+      "speaker": "SPEAKER_01",
+      "text": "but I'm going to throw it out there, and so look at a different customer segment besides the"
+    },
+    {
+      "start": 1122.2,
+      "end": 1128.52,
+      "speaker": "SPEAKER_01",
+      "text": "Mexican-American community in this space. Yeah, tell me a little bit more about that."
+    },
+    {
+      "start": 1129.48,
+      "end": 1141.72,
+      "speaker": "SPEAKER_01",
+      "text": "So, we could look at the Native American population, Asian, African-American, white population, and there might be"
+    },
+    {
+      "start": 1141.96,
+      "end": 1154.92,
+      "speaker": "SPEAKER_01",
+      "text": "possible. There might be either we could add them to our customer base or if our resources are"
+    },
+    {
+      "start": 1154.92,
+      "end": 1166.84,
+      "speaker": "SPEAKER_01",
+      "text": "limited, replace our customer base if we can expect more value from another demographic."
+    },
+    {
+      "start": 1167.56,
+      "end": 1174.52,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, so our client originally thought that if they designed this type of business,"
+    },
+    {
+      "start": 1174.52,
+      "end": 1181.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "that it would attract the Mexican-American consumer. As it turns out, from this pilot concept so far,"
+    },
+    {
+      "start": 1182.6,
+      "end": 1188.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "it has not really been attracting very many Mexican-Americans. It's been attracting customers with"
+    },
+    {
+      "start": 1188.6799999999998,
+      "end": 1194.84,
+      "speaker": "SPEAKER_00",
+      "text": "large disposable incomes who are generally middle class or upper middle class white consumers."
+    },
+    {
+      "start": 1195.24,
+      "end": 1202.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "These consumers are largely buying Mexican souvenir items and they enjoy the fun atmosphere and the"
+    },
+    {
+      "start": 1202.9199999999998,
+      "end": 1209.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "music. The Mexican-Americans living near the store seem to only be shopping there if there's some"
+    },
+    {
+      "start": 1209.9599999999998,
+      "end": 1214.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "special item that's highly discounted and not available in other local discount stores."
+    },
+    {
+      "start": 1216.28,
+      "end": 1222.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "The Mexican-American segment has not been bringing their families to the center and they've"
+    },
+    {
+      "start": 1222.44,
+      "end": 1229.4,
+      "speaker": "SPEAKER_00",
+      "text": "not been paying for the family activities, games, or food. The Mexican-American consumers that have come"
+    },
+    {
+      "start": 1229.4,
+      "end": 1237.88,
+      "speaker": "SPEAKER_00",
+      "text": "to this business are generally from lower-to-middle income brackets and have little disposable income."
+    },
+    {
+      "start": 1238.76,
+      "end": 1242.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Given this new information, what suggestions would you have for the client?"
+    },
+    {
+      "start": 1243.64,
+      "end": 1251.48,
+      "speaker": "SPEAKER_01",
+      "text": "All right, so I have... So, okay, thank you for that information. So, I could break this down into"
+    },
+    {
+      "start": 1251.48,
+      "end": 1263.24,
+      "speaker": "SPEAKER_01",
+      "text": "two areas of approach. One, we could target even one demographic or two, we could target both"
+    },
+    {
+      "start": 1263.24,
+      "end": 1271.32,
+      "speaker": "SPEAKER_01",
+      "text": "demographics. So, if we look at targeting one demographic, we could look at the Mexican community"
+    },
+    {
+      "start": 1272.6,
+      "end": 1280.04,
+      "speaker": "SPEAKER_01",
+      "text": "or we could look at the white population. And if we break down the Mexican community,"
+    },
+    {
+      "start": 1280.04,
+      "end": 1286.36,
+      "speaker": "SPEAKER_01",
+      "text": "since we know they're price sensitive, we could look at getting them to buy a higher quantity"
+    },
+    {
+      "start": 1286.36,
+      "end": 1297.32,
+      "speaker": "SPEAKER_01",
+      "text": "of low-priced items in order to generate revenue of low-priced. And if we look at the"
+    },
+    {
+      "start": 1297.32,
+      "end": 1304.44,
+      "speaker": "SPEAKER_01",
+      "text": "upper middle class white population, we could get them to potentially buy more higher-priced"
+    },
+    {
+      "start": 1305.4,
+      "end": 1317.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "specialty items and not focus so much on quantity, but generating it, maximizing price and try to"
+    },
+    {
+      "start": 1317.3200000000002,
+      "end": 1322.68,
+      "speaker": "SPEAKER_01",
+      "text": "maximize our revenue that way. Now, if we look at targeting both, we can create a strategy where"
+    },
+    {
+      "start": 1323.56,
+      "end": 1333.0,
+      "speaker": "SPEAKER_01",
+      "text": "we provide options that satisfies both demographics and allows them both to..."
+    },
+    {
+      "start": 1333.64,
+      "end": 1339.56,
+      "speaker": "SPEAKER_01",
+      "text": "So, low-priced and high-priced items that target both populations."
+    },
+    {
+      "start": 1341.16,
+      "end": 1346.2,
+      "speaker": "SPEAKER_00",
+      "text": "Which demographic do you think it makes most sense to target?"
+    },
+    {
+      "start": 1348.2,
+      "end": 1357.32,
+      "speaker": "SPEAKER_01",
+      "text": "Currently, it makes sense to target the white population since our current program shows that"
+    },
+    {
+      "start": 1357.32,
+      "end": 1362.12,
+      "speaker": "SPEAKER_01",
+      "text": "they're populating our centers more than the Mexican population, and they have a higher"
+    },
+    {
+      "start": 1362.12,
+      "end": 1370.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "willingness to buy higher-priced items. So, it seems right now that they fit both the quantity"
+    },
+    {
+      "start": 1371.4799999999998,
+      "end": 1377.56,
+      "speaker": "SPEAKER_01",
+      "text": "and the price-med component of our profitability growth strategy."
+    },
+    {
+      "start": 1380.36,
+      "end": 1386.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Yep. What are other things that this makes you want to look into or think about for the client?"
+    },
+    {
+      "start": 1387.0,
+      "end": 1394.28,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to... All right, so..."
+    },
+    {
+      "start": 1400.68,
+      "end": 1406.76,
+      "speaker": "SPEAKER_01",
+      "text": "You mean separate from the demographic situation or within the demographic?"
+    },
+    {
+      "start": 1407.88,
+      "end": 1414.04,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, just overall, based on the conversation we're having so far, what does that make you want to"
+    },
+    {
+      "start": 1414.04,
+      "end": 1415.0,
+      "speaker": "SPEAKER_00",
+      "text": "dive into next?"
+    },
+    {
+      "start": 1419.48,
+      "end": 1429.8,
+      "speaker": "SPEAKER_01",
+      "text": "I would like to consider the specific types of products that this population finds intriguing."
+    },
+    {
+      "start": 1431.48,
+      "end": 1438.44,
+      "speaker": "SPEAKER_01",
+      "text": "We already discussed that they're Mexican souvenirs, but if we could identify what types of"
+    },
+    {
+      "start": 1438.44,
+      "end": 1447.96,
+      "speaker": "SPEAKER_01",
+      "text": "souvenirs the profit margin we have on these souvenirs, maybe we can zero in on this and create a more"
+    },
+    {
+      "start": 1447.96,
+      "end": 1455.16,
+      "speaker": "SPEAKER_01",
+      "text": "specialized business around these types of souvenirs. That might be attractive to the wider"
+    },
+    {
+      "start": 1455.16,
+      "end": 1466.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Southeast Southwestern United States region. What else?"
+    },
+    {
+      "start": 1473.8000000000002,
+      "end": 1482.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "We could also look into... Because this was an unanticipated discovery that our centers"
+    },
+    {
+      "start": 1482.84,
+      "end": 1491.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "are attracting the middle class white population. Now that we know that we've confirmed that these are"
+    },
+    {
+      "start": 1491.8799999999999,
+      "end": 1499.08,
+      "speaker": "SPEAKER_01",
+      "text": "a potential customer base, we know what accidentally attracted them. Now we can look into what"
+    },
+    {
+      "start": 1499.08,
+      "end": 1509.56,
+      "speaker": "SPEAKER_01",
+      "text": "purposely attracts them. And, you know, so possibly outside of souvenirs from other cultures,"
+    },
+    {
+      "start": 1509.56,
+      "end": 1517.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "we could look at some things, look into things that maybe they're more American-oriented products"
+    },
+    {
+      "start": 1517.6399999999999,
+      "end": 1526.12,
+      "speaker": "SPEAKER_01",
+      "text": "that they'd be willing to spend even more money on or, you know, to purchase. So we could fact they're in a"
+    },
+    {
+      "start": 1527.96,
+      "end": 1531.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "an international and a national product component."
+    },
+    {
+      "start": 1531.8000000000002,
+      "end": 1541.0,
+      "speaker": "SPEAKER_00",
+      "text": "Would you say that the client has been successful or not successful so far based on what you know?"
+    },
+    {
+      "start": 1542.6000000000001,
+      "end": 1549.24,
+      "speaker": "SPEAKER_01",
+      "text": "Based on what I know, it appears that they've been unsuccessful since their primary goal has not"
+    },
+    {
+      "start": 1549.24,
+      "end": 1557.88,
+      "speaker": "SPEAKER_01",
+      "text": "been attained. And all success that they currently have is from instant dental factors that they"
+    },
+    {
+      "start": 1557.88,
+      "end": 1562.5200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "didn't anticipate. So it's likely that those factors are not optimized."
+    },
+    {
+      "start": 1567.48,
+      "end": 1573.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "All right, Marace. Based on what we've talked about so far, what would you recommend to the client?"
+    },
+    {
+      "start": 1575.8000000000002,
+      "end": 1582.44,
+      "speaker": "SPEAKER_01",
+      "text": "I'd recommend to the client to... Is it a right if I take a minute to come up with this or do you"
+    },
+    {
+      "start": 1582.44,
+      "end": 1589.0,
+      "speaker": "SPEAKER_01",
+      "text": "want it on the spot? Sure. You can take a second. All right, I'll take a second. So I think I'll"
+    },
+    {
+      "start": 1589.0,
+      "end": 1592.76,
+      "speaker": "SPEAKER_01",
+      "text": "allow it. That's it. That's all right. So..."
+    },
+    {
+      "start": 1593.0,
+      "end": 1594.04,
+      "speaker": "UNKNOWN",
+      "text": "So..."
+    },
+    {
+      "start": 1597.0,
+      "end": 1602.2,
+      "speaker": "SPEAKER_01",
+      "text": "Our client should focus on middle class..."
+    },
+    {
+      "start": 1603.72,
+      "end": 1609.24,
+      "speaker": "SPEAKER_01",
+      "text": "middle to higher and higher class white population."
+    },
+    {
+      "start": 1609.32,
+      "end": 1623.4,
+      "speaker": "SPEAKER_01",
+      "text": "The client should continue sales of souvenirs that these clients... that this population finds"
+    },
+    {
+      "start": 1623.4,
+      "end": 1638.6,
+      "speaker": "SPEAKER_01",
+      "text": "attractive. Clients should conduct customer survey of this segment to explore what they find"
+    },
+    {
+      "start": 1638.6799999999998,
+      "end": 1654.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "attractive. Another thing is client should conduct a demand... a price elasticity analysis"
+    },
+    {
+      "start": 1655.32,
+      "end": 1664.6,
+      "speaker": "SPEAKER_01",
+      "text": "to determine maximum revenue they could obtain at what price level will allow them to generate"
+    },
+    {
+      "start": 1664.6799999999998,
+      "end": 1677.48,
+      "speaker": "SPEAKER_01",
+      "text": "maximum revenue. And based on... I didn't include that. Oh no, okay. And based on these decisions,"
+    },
+    {
+      "start": 1677.48,
+      "end": 1688.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "the client should conduct pilot programs in various regions of the southwestern United States"
+    },
+    {
+      "start": 1688.68,
+      "end": 1699.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "to determine whether these... the strategy maybe might prove successful."
+    },
+    {
+      "start": 1704.3600000000001,
+      "end": 1713.48,
+      "speaker": "SPEAKER_01",
+      "text": "Some risks involved... some risks involved are that... the findings that"
+    },
+    {
+      "start": 1714.44,
+      "end": 1718.28,
+      "speaker": "SPEAKER_01",
+      "text": "white Americans... American... American Americans are attracted to souvenirs..."
+    },
+    {
+      "start": 1719.16,
+      "end": 1727.96,
+      "speaker": "SPEAKER_01",
+      "text": "is a very regional phenomenon and this might not expand toward the broader south-eastern"
+    },
+    {
+      "start": 1728.68,
+      "end": 1738.84,
+      "speaker": "SPEAKER_01",
+      "text": "southwestern United States. And that different... different... the same segment in different regions"
+    },
+    {
+      "start": 1738.9199999999998,
+      "end": 1746.12,
+      "speaker": "SPEAKER_01",
+      "text": "of the country might have different tastes. So that's what the benefit of the... the customer"
+    },
+    {
+      "start": 1746.12,
+      "end": 1762.52,
+      "speaker": "SPEAKER_01",
+      "text": "survey is throughout the region is for. And... other risks... and one more risk is alienating the"
+    },
+    {
+      "start": 1762.52,
+      "end": 1773.24,
+      "speaker": "SPEAKER_01",
+      "text": "Mexican-American community if it turns out that your your shift in focus might be... might come off as"
+    },
+    {
+      "start": 1774.52,
+      "end": 1782.12,
+      "speaker": "SPEAKER_01",
+      "text": "discriminatory. So that's another thing to consider. Okay, really appreciate those thoughts."
+    },
+    {
+      "start": 1782.12,
+      "end": 1787.24,
+      "speaker": "SPEAKER_00",
+      "text": "You know, we really are at time but I think we have an opportunity for one question. If you had"
+    },
+    {
+      "start": 1787.24,
+      "end": 1792.04,
+      "speaker": "SPEAKER_00",
+      "text": "any questions for me here at the end of this interview about the job that you're applying for or"
+    },
+    {
+      "start": 1792.04,
+      "end": 1802.76,
+      "speaker": "SPEAKER_01",
+      "text": "the firm. I guess I didn't expect this case to be as qualitative as it was. I expect you to choose."
+    },
+    {
+      "start": 1802.76,
+      "end": 1807.96,
+      "speaker": "SPEAKER_00",
+      "text": "Oh no, Marais, I'm putting you on the spot. If we were at the end of your 30 minutes interview..."
+    },
+    {
+      "start": 1808.6,
+      "end": 1812.36,
+      "speaker": "SPEAKER_00",
+      "text": "and the interviewer asked you, hey, what questions you have for me? What would be a question that"
+    },
+    {
+      "start": 1812.36,
+      "end": 1824.6,
+      "speaker": "SPEAKER_00",
+      "text": "you might ask them? I would ask..."
+    },
+    {
+      "start": 1833.8,
+      "end": 1838.28,
+      "speaker": "SPEAKER_00",
+      "text": "All right, we'll come back to that later. That's okay. Do go your first train of thought. How do you"
+    },
+    {
+      "start": 1838.28,
+      "end": 1849.08,
+      "speaker": "SPEAKER_01",
+      "text": "feel overall about the case? How did that strike you? I expected something that wasn't conventional."
+    },
+    {
+      "start": 1850.28,
+      "end": 1857.72,
+      "speaker": "SPEAKER_01",
+      "text": "I expected to do some calculations but it seemed to be mostly qualitative and more of like a"
+    },
+    {
+      "start": 1857.72,
+      "end": 1869.96,
+      "speaker": "SPEAKER_01",
+      "text": "structuring type of case. Overall, it was a good case. It tested my ability to brainstorm"
+    },
+    {
+      "start": 1869.96,
+      "end": 1880.04,
+      "speaker": "SPEAKER_01",
+      "text": "and structure and structure and how did you feel like you did?"
+    },
+    {
+      "start": 1880.04,
+      "end": 1895.72,
+      "speaker": "SPEAKER_00",
+      "text": "75 hot up on me. Awesome. I want to get some more thoughts as well. Anybody who wants to give"
+    },
+    {
+      "start": 1895.72,
+      "end": 1901.24,
+      "speaker": "SPEAKER_00",
+      "text": "Marais a big round of applause or if you have a question towards the case that we just went through,"
+    },
+    {
+      "start": 1901.24,
+      "end": 1906.84,
+      "speaker": "SPEAKER_00",
+      "text": "please start to have those come into chat. We'll start taking a look at those as we continue our"
+    },
+    {
+      "start": 1906.84,
+      "end": 1919.32,
+      "speaker": "SPEAKER_00",
+      "text": "conversation. We didn't get and you're getting a lot of accolades here in chat."
+    },
+    {
+      "start": 1920.6799999999998,
+      "end": 1928.84,
+      "speaker": "SPEAKER_00",
+      "text": "So well done. Hey, give you a 30 minutes slot and we took those 30 minutes. Now what would be"
+    },
+    {
+      "start": 1928.84,
+      "end": 1937.56,
+      "speaker": "SPEAKER_00",
+      "text": "ideal? This is a 20 to 25 minute case. It gives the opportunity to have a little bit of"
+    },
+    {
+      "start": 1937.56,
+      "end": 1942.52,
+      "speaker": "SPEAKER_00",
+      "text": "relationship building and context setting up front in the 30 minute slot. But then at the end,"
+    },
+    {
+      "start": 1942.52,
+      "end": 1949.0,
+      "speaker": "SPEAKER_00",
+      "text": "I do as the interviewer, I want to leave you the opportunity to ask me a question or two at the end."
+    },
+    {
+      "start": 1949.0,
+      "end": 1954.84,
+      "speaker": "SPEAKER_00",
+      "text": "So if any, I'm going to I may even cut you off at the very end so that you can ask me something."
+    },
+    {
+      "start": 1954.84,
+      "end": 1961.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "You need to be prepared for those kind of bookends and I we didn't prepare you for that today,"
+    },
+    {
+      "start": 1961.1599999999999,
+      "end": 1966.04,
+      "speaker": "SPEAKER_00",
+      "text": "like before you came into this. So you are a good sport and being willing to kind of just jump"
+    },
+    {
+      "start": 1966.04,
+      "end": 1971.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "into that in this simulation. But before you walk into the door for any of these interviews,"
+    },
+    {
+      "start": 1971.1599999999999,
+      "end": 1976.84,
+      "speaker": "SPEAKER_00",
+      "text": "you want to be prepared for the bookends and those are just as important as the case that happens"
+    },
+    {
+      "start": 1976.84,
+      "end": 1983.56,
+      "speaker": "SPEAKER_00",
+      "text": "in the middle. To start off this conversation, you want to have that two minute answer prepared."
+    },
+    {
+      "start": 1983.56,
+      "end": 1988.52,
+      "speaker": "SPEAKER_00",
+      "text": "Somewhere between 90 seconds and two and a half minutes long, tell me a little bit about yourself"
+    },
+    {
+      "start": 1988.52,
+      "end": 1994.28,
+      "speaker": "SPEAKER_00",
+      "text": "or walk me through your resume, right? It's only one component part to the broader fit interview"
+    },
+    {
+      "start": 1994.28,
+      "end": 2000.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "preparation. But it's it's the most important answer to have nailed down and to be prepared"
+    },
+    {
+      "start": 2000.9199999999998,
+      "end": 2007.08,
+      "speaker": "SPEAKER_00",
+      "text": "to pretty consistently repeat that story so that over a short period of time, I can get to know"
+    },
+    {
+      "start": 2007.08,
+      "end": 2012.76,
+      "speaker": "SPEAKER_00",
+      "text": "the highlights about who you are, kind of how you've worked through your educational and or"
+    },
+    {
+      "start": 2012.76,
+      "end": 2021.4,
+      "speaker": "SPEAKER_00",
+      "text": "professional career up until this point and what you're looking for next. And so what those"
+    },
+    {
+      "start": 2021.4,
+      "end": 2028.6,
+      "speaker": "SPEAKER_00",
+      "text": "on the call didn't fully get to hear, right? Is Marais, I think that or from from what I've seen,"
+    },
+    {
+      "start": 2028.6,
+      "end": 2034.92,
+      "speaker": "SPEAKER_00",
+      "text": "you come from a heavy stem background, right? Yeah. And you're in a PhD program right now."
+    },
+    {
+      "start": 2035.72,
+      "end": 2047.48,
+      "speaker": "SPEAKER_00",
+      "text": "Is that right? Yeah. Okay. Okay. So not fully. And so if I'm if we're interviewing you for a first"
+    },
+    {
+      "start": 2047.48,
+      "end": 2053.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "round opportunity for a generalist position, it is very reasonable that you could have one case"
+    },
+    {
+      "start": 2053.7200000000003,
+      "end": 2061.96,
+      "speaker": "SPEAKER_00",
+      "text": "where we're not going to give you any math because I I feel like from from your background and your"
+    },
+    {
+      "start": 2061.96,
+      "end": 2069.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "resume that you may be more adept in that space. If anything based on you know being an advanced"
+    },
+    {
+      "start": 2069.2400000000002,
+      "end": 2075.64,
+      "speaker": "SPEAKER_00",
+      "text": "degree candidate that's not an MBA, I want to test your business acumen. I want to test what you know"
+    },
+    {
+      "start": 2075.64,
+      "end": 2081.0,
+      "speaker": "SPEAKER_00",
+      "text": "generally speaking about the business space and the business world and the way that we think"
+    },
+    {
+      "start": 2081.0,
+      "end": 2088.04,
+      "speaker": "SPEAKER_00",
+      "text": "about business the way that you would analyze a particular client or organization, etc."
+    },
+    {
+      "start": 2089.0,
+      "end": 2096.52,
+      "speaker": "SPEAKER_00",
+      "text": "And so this would be a very reasonable first round case for you to get. And you would expect"
+    },
+    {
+      "start": 2096.52,
+      "end": 2101.08,
+      "speaker": "SPEAKER_00",
+      "text": "the next 30 minute case that you went into might be really math focused. Maybe you're going to"
+    },
+    {
+      "start": 2101.08,
+      "end": 2106.84,
+      "speaker": "SPEAKER_00",
+      "text": "have to analyze some graphs and charts and do some various calculations, etc. But you're right."
+    },
+    {
+      "start": 2106.84,
+      "end": 2114.2,
+      "speaker": "SPEAKER_00",
+      "text": "This was a this was a more qualitative case. And really giving you the opportunity to"
+    },
+    {
+      "start": 2114.4399999999996,
+      "end": 2121.0,
+      "speaker": "SPEAKER_00",
+      "text": "wrap your head around the space, put yourself in the mindset of the client, be able to give"
+    },
+    {
+      "start": 2123.0,
+      "end": 2127.16,
+      "speaker": "SPEAKER_00",
+      "text": "to be able to to try and dive into the problem and give recommendations around a particular space."
+    },
+    {
+      "start": 2128.04,
+      "end": 2132.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "I'll I'm going to do some more feedback. We'll get to questions here in a few minutes."
+    },
+    {
+      "start": 2133.7999999999997,
+      "end": 2138.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "So I don't think it went super well today, right?"
+    },
+    {
+      "start": 2138.92,
+      "end": 2147.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "That's right. Now, Marais, you do amazing at staying cool, calm and collected. I think that"
+    },
+    {
+      "start": 2148.0400000000004,
+      "end": 2153.5600000000004,
+      "speaker": "SPEAKER_00",
+      "text": "your opportunity to brainstorm and come up with a lot of ideas. You were able to showcase that"
+    },
+    {
+      "start": 2153.5600000000004,
+      "end": 2157.88,
+      "speaker": "SPEAKER_00",
+      "text": "as we went through the conversation. There were a couple of places that I feel like that really stood out."
+    },
+    {
+      "start": 2159.32,
+      "end": 2166.84,
+      "speaker": "SPEAKER_00",
+      "text": "But overall, it was not it was not a super great showing today. You know, we started off with"
+    },
+    {
+      "start": 2167.6400000000003,
+      "end": 2176.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "a long upfront background prompt, right? And what we started off with the tell me about yourself"
+    },
+    {
+      "start": 2176.6000000000004,
+      "end": 2181.8,
+      "speaker": "SPEAKER_00",
+      "text": "question, which which you know, we we weren't prepared for, but you will be the next time around."
+    },
+    {
+      "start": 2183.6400000000003,
+      "end": 2191.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then we moved into the case. There were some issues of time management in general as we"
+    },
+    {
+      "start": 2191.0,
+      "end": 2194.92,
+      "speaker": "SPEAKER_00",
+      "text": "went through, right? After I give you the background prompt, I want you to have that synthesized"
+    },
+    {
+      "start": 2194.92,
+      "end": 2199.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "filtered recap. You can be punchy and bullet pointed in the way that you repeat the core"
+    },
+    {
+      "start": 2199.7200000000003,
+      "end": 2205.32,
+      "speaker": "SPEAKER_00",
+      "text": "information back to me, but you don't have to recap the entire storyline back. So your recap"
+    },
+    {
+      "start": 2205.32,
+      "end": 2210.92,
+      "speaker": "SPEAKER_00",
+      "text": "today was about a minute and 20 seconds long. And absolutely, that should be less than a minute."
+    },
+    {
+      "start": 2210.92,
+      "end": 2215.88,
+      "speaker": "SPEAKER_00",
+      "text": "And we should try and get that as close to 30 seconds as possible. This was a longer prompt,"
+    },
+    {
+      "start": 2215.88,
+      "end": 2218.6800000000003,
+      "speaker": "SPEAKER_00",
+      "text": "but there's the opportunity to probably cut that recap in half."
+    },
+    {
+      "start": 2219.3999999999996,
+      "end": 2224.6,
+      "speaker": "SPEAKER_00",
+      "text": "You know, the questions that you asked, I thought were pretty good. Are there any specific target"
+    },
+    {
+      "start": 2224.6,
+      "end": 2230.44,
+      "speaker": "SPEAKER_00",
+      "text": "metrics that we know of? And then you asked something about kind of the target segment. And I was"
+    },
+    {
+      "start": 2230.44,
+      "end": 2236.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "trying to kind of I was trying to nudge you in two different directions. Hey, profit matters to"
+    },
+    {
+      "start": 2236.3599999999997,
+      "end": 2244.9199999999996,
+      "speaker": "SPEAKER_00",
+      "text": "our client. And the initial target segment target demographic for the client was Mexican Americans."
+    },
+    {
+      "start": 2245.56,
+      "end": 2254.92,
+      "speaker": "SPEAKER_00",
+      "text": "So as we went through the conversation, we were able to find, well, you know, the pilot has been,"
+    },
+    {
+      "start": 2254.92,
+      "end": 2261.16,
+      "speaker": "SPEAKER_00",
+      "text": "well, the pilot has been achieving acceptable levels. It would have been a fine opportunity"
+    },
+    {
+      "start": 2261.16,
+      "end": 2265.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "to ask and follow up on that. What are acceptable levels? What does that mean?"
+    },
+    {
+      "start": 2267.4,
+      "end": 2271.08,
+      "speaker": "SPEAKER_00",
+      "text": "You know, or to try and paint the picture of what are we really talking about here?"
+    },
+    {
+      "start": 2271.7999999999997,
+      "end": 2280.04,
+      "speaker": "SPEAKER_00",
+      "text": "We're talking about a large kind of physical footprint. The client has invested in a large"
+    },
+    {
+      "start": 2280.04,
+      "end": 2287.56,
+      "speaker": "SPEAKER_00",
+      "text": "physical center that includes different different types of business. And this business model is that"
+    },
+    {
+      "start": 2287.56,
+      "end": 2293.56,
+      "speaker": "SPEAKER_00",
+      "text": "we've created this center with different offerings, different services. And there was an expectation"
+    },
+    {
+      "start": 2293.56,
+      "end": 2301.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "and a design that it was going to replicate successful similar models in Mexico and be an all"
+    },
+    {
+      "start": 2301.7999999999997,
+      "end": 2308.6,
+      "speaker": "SPEAKER_00",
+      "text": "encompassing kind of family attraction center. As the as the story went on, it kind of paints the"
+    },
+    {
+      "start": 2308.6,
+      "end": 2315.4,
+      "speaker": "SPEAKER_00",
+      "text": "picture. Instead, this has turned into maybe a little bit of a theme park type idea because what"
+    },
+    {
+      "start": 2315.4,
+      "end": 2322.2,
+      "speaker": "SPEAKER_00",
+      "text": "it's been attracting is a middle to higher income white consumer instead of Mexican Americans."
+    },
+    {
+      "start": 2322.8399999999997,
+      "end": 2330.2,
+      "speaker": "SPEAKER_00",
+      "text": "Now, does that by itself mean that the client has been unsuccessful? No. In fact, it doesn't."
+    },
+    {
+      "start": 2330.2,
+      "end": 2335.56,
+      "speaker": "SPEAKER_00",
+      "text": "It just their original design didn't prove out to be, you know, their original hypotheses weren't"
+    },
+    {
+      "start": 2335.56,
+      "end": 2339.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "true. But that doesn't mean that it's a failed business overall. That doesn't mean that they've"
+    },
+    {
+      "start": 2339.7999999999997,
+      "end": 2345.24,
+      "speaker": "SPEAKER_00",
+      "text": "been unsuccessful. You know, I would have I would have told you that that acceptable levels. And I"
+    },
+    {
+      "start": 2345.24,
+      "end": 2351.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "think that we got to this kind of understanding that that that they were profitable, but maybe not"
+    },
+    {
+      "start": 2351.32,
+      "end": 2355.56,
+      "speaker": "SPEAKER_00",
+      "text": "at the levels at which the client would hope to see or profitable at the level, which would allow"
+    },
+    {
+      "start": 2355.56,
+      "end": 2362.28,
+      "speaker": "SPEAKER_00",
+      "text": "them to continue to expand across the Southwestern US. So what would we want to do at this instance?"
+    },
+    {
+      "start": 2362.28,
+      "end": 2366.44,
+      "speaker": "SPEAKER_00",
+      "text": "So what would we want to do at this juncture? We think about the structure. I really want to"
+    },
+    {
+      "start": 2366.44,
+      "end": 2371.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "investigate more about the business model. I want to investigate more about the different offerings"
+    },
+    {
+      "start": 2371.2400000000002,
+      "end": 2376.04,
+      "speaker": "SPEAKER_00",
+      "text": "and the services that we're utilizing. I want to understand more about the consumers, the target"
+    },
+    {
+      "start": 2376.04,
+      "end": 2381.88,
+      "speaker": "SPEAKER_00",
+      "text": "initial consumer of the Mexican American. I want to understand, you know, that what they've"
+    },
+    {
+      "start": 2381.88,
+      "end": 2386.2,
+      "speaker": "SPEAKER_00",
+      "text": "been purchasing, who has been coming to the stores. I want to, you know, explore about other"
+    },
+    {
+      "start": 2386.2,
+      "end": 2393.96,
+      "speaker": "SPEAKER_00",
+      "text": "customer segments as well. And I want to stay in that zone of of being curious and of investigating"
+    },
+    {
+      "start": 2393.96,
+      "end": 2400.12,
+      "speaker": "SPEAKER_00",
+      "text": "about these different things, rather than ideating solutions or brainstorming, you know, different"
+    },
+    {
+      "start": 2400.2,
+      "end": 2406.44,
+      "speaker": "SPEAKER_00",
+      "text": "ways that they should move forward. Up front in that structure portion, you want to ask questions,"
+    },
+    {
+      "start": 2406.44,
+      "end": 2413.72,
+      "speaker": "SPEAKER_00",
+      "text": "you want to figure out what areas do you want to explore. Instead, you took the overall posture"
+    },
+    {
+      "start": 2414.2799999999997,
+      "end": 2421.64,
+      "speaker": "SPEAKER_00",
+      "text": "of trying to just solution when instead that comes later on in the conversation. Now, I thought"
+    },
+    {
+      "start": 2421.64,
+      "end": 2427.4,
+      "speaker": "SPEAKER_00",
+      "text": "that you provided a lot of good brainstorming in your structure, but instead we want that to be"
+    },
+    {
+      "start": 2427.48,
+      "end": 2432.04,
+      "speaker": "SPEAKER_00",
+      "text": "one step back. We want you to say, what are the other additional things that you need to learn about"
+    },
+    {
+      "start": 2432.04,
+      "end": 2437.48,
+      "speaker": "SPEAKER_00",
+      "text": "and the data points that you want to gather so that you could figure out and come to a recommendation"
+    },
+    {
+      "start": 2437.48,
+      "end": 2443.8,
+      "speaker": "SPEAKER_00",
+      "text": "on how the client, if they should and how then they could expand across the broader Southwestern US."
+    },
+    {
+      "start": 2445.7200000000003,
+      "end": 2452.6,
+      "speaker": "SPEAKER_00",
+      "text": "All those ideas about, you know, like we could, we could lower our prices, we could change"
+    },
+    {
+      "start": 2452.6,
+      "end": 2457.96,
+      "speaker": "SPEAKER_00",
+      "text": "our marketing strategy, we can change our distribution, we could increase the quality of our products."
+    },
+    {
+      "start": 2459.3199999999997,
+      "end": 2467.64,
+      "speaker": "SPEAKER_00",
+      "text": "Those are great ideating, those are great possible solutions. And you would expect to give those"
+    },
+    {
+      "start": 2467.64,
+      "end": 2474.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "types of answers later on in a creative question. And so, you know, there was a couple of questions"
+    },
+    {
+      "start": 2474.2799999999997,
+      "end": 2479.56,
+      "speaker": "SPEAKER_00",
+      "text": "then that came after that structure portion where, you know, asked and talked through, how would"
+    },
+    {
+      "start": 2479.72,
+      "end": 2485.24,
+      "speaker": "SPEAKER_00",
+      "text": "you validate the original hypothesis that the client came into this business model with? And this"
+    },
+    {
+      "start": 2485.24,
+      "end": 2491.32,
+      "speaker": "SPEAKER_00",
+      "text": "is where I'm really looking for kind of a pragmatic, practical approach and a sense of solid business"
+    },
+    {
+      "start": 2491.32,
+      "end": 2497.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "acumen where, you know what, again, we're talking about a large financial investment for the client"
+    },
+    {
+      "start": 2497.7999999999997,
+      "end": 2505.64,
+      "speaker": "SPEAKER_00",
+      "text": "to have one physical center in Southern Texas. They're not going to go build or buy another"
+    },
+    {
+      "start": 2506.44,
+      "end": 2512.6,
+      "speaker": "SPEAKER_00",
+      "text": "non-community focused center and then be able to test. It's just not, it's not really a pragmatic"
+    },
+    {
+      "start": 2512.6,
+      "end": 2518.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "practical approach to be able to validate this hypothesis. There are other things that we could"
+    },
+    {
+      "start": 2518.8399999999997,
+      "end": 2524.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "explore about the current business model and the current set of operations to try and test this"
+    },
+    {
+      "start": 2524.7599999999998,
+      "end": 2532.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "hypothesis, like understanding more about the customers that are coming in the door, doing customer"
+    },
+    {
+      "start": 2532.28,
+      "end": 2538.84,
+      "speaker": "SPEAKER_00",
+      "text": "profiles about the supposed target demographic of the Mexican-American community."
+    },
+    {
+      "start": 2540.28,
+      "end": 2549.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Learning more about these, the target model in Mexico, doing perhaps a gap analysis and"
+    },
+    {
+      "start": 2549.2400000000002,
+      "end": 2553.0,
+      "speaker": "SPEAKER_00",
+      "text": "figuring out if there's certain things that we've been doing differently in Southern Texas,"
+    },
+    {
+      "start": 2553.0,
+      "end": 2557.8,
+      "speaker": "SPEAKER_00",
+      "text": "then the successful model than what has been seen and what's trying to be replicated in Mexico."
+    },
+    {
+      "start": 2558.6000000000004,
+      "end": 2568.28,
+      "speaker": "SPEAKER_00",
+      "text": "You could look at it from a customer standpoint and see whether or not this may actually"
+    },
+    {
+      "start": 2569.0800000000004,
+      "end": 2574.84,
+      "speaker": "SPEAKER_00",
+      "text": "work in target Mexican-Americans, but maybe that need is being fulfilled somewhere else in Southern"
+    },
+    {
+      "start": 2574.84,
+      "end": 2583.8,
+      "speaker": "SPEAKER_00",
+      "text": "Texas today, etc. But kind of breaking down and taking that, it still is, it's a scientific"
+    },
+    {
+      "start": 2583.8,
+      "end": 2589.0,
+      "speaker": "SPEAKER_00",
+      "text": "approach. It's like this was the hypothesis. The hypothesis was it works over here in Mexico."
+    },
+    {
+      "start": 2589.0,
+      "end": 2592.44,
+      "speaker": "SPEAKER_00",
+      "text": "So if we build it in Southern Texas, it's going to work. It's going to work the same way. It's"
+    },
+    {
+      "start": 2592.44,
+      "end": 2599.88,
+      "speaker": "SPEAKER_00",
+      "text": "going to attract the same people and it's going to be just as profitable. And so, but the hypothesis"
+    },
+    {
+      "start": 2599.88,
+      "end": 2604.84,
+      "speaker": "SPEAKER_00",
+      "text": "may not be true. We need to dive in and understand what actually is true today. Who are we"
+    },
+    {
+      "start": 2605.6400000000003,
+      "end": 2612.04,
+      "speaker": "SPEAKER_00",
+      "text": "attracting? What are they buying? What's the profit of those things? Which I had no quantitative"
+    },
+    {
+      "start": 2612.04,
+      "end": 2616.6,
+      "speaker": "SPEAKER_00",
+      "text": "data to give you, but there was a qualitative story there. It's not attracting the Mexican-American"
+    },
+    {
+      "start": 2616.6,
+      "end": 2623.88,
+      "speaker": "SPEAKER_00",
+      "text": "consumer. It's attracting a different customer segment, a different demographic, and it's not"
+    },
+    {
+      "start": 2623.88,
+      "end": 2629.4,
+      "speaker": "SPEAKER_00",
+      "text": "being replicated in the same success as what the client originally saw in Mexico overall."
+    },
+    {
+      "start": 2631.08,
+      "end": 2637.4,
+      "speaker": "SPEAKER_00",
+      "text": "So, how do we figure out where we're at currently now? We figure out how to test the hypothesis,"
+    },
+    {
+      "start": 2637.4,
+      "end": 2641.64,
+      "speaker": "SPEAKER_00",
+      "text": "validate it, prove it or disprove it, and move on. Move forward. I want to get to some of the other"
+    },
+    {
+      "start": 2641.64,
+      "end": 2649.96,
+      "speaker": "SPEAKER_00",
+      "text": "questions here. Let me have a couple other final comments. We went through a brainstorming section"
+    },
+    {
+      "start": 2649.96,
+      "end": 2653.96,
+      "speaker": "SPEAKER_00",
+      "text": "then as well. Kind of asked about success or not success, which I've already touched on a little bit."
+    },
+    {
+      "start": 2654.92,
+      "end": 2659.96,
+      "speaker": "SPEAKER_00",
+      "text": "Finally, that recommendation section. Just want to remind you that that's that last chance to be"
+    },
+    {
+      "start": 2659.96,
+      "end": 2666.28,
+      "speaker": "SPEAKER_00",
+      "text": "really clear and directive and structured. Make sure that you're you end off on a really strong"
+    },
+    {
+      "start": 2666.28,
+      "end": 2673.48,
+      "speaker": "SPEAKER_00",
+      "text": "footing. So, I don't think that the think out loud strategy is your best approach. Either practice"
+    },
+    {
+      "start": 2673.48,
+      "end": 2681.96,
+      "speaker": "SPEAKER_00",
+      "text": "so that you can think out loud while simultaneously being really direct and not forceful, but still"
+    },
+    {
+      "start": 2681.96,
+      "end": 2687.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "very, very crystal clear, direct and fast on your execution or take the pause so that then you"
+    },
+    {
+      "start": 2687.7200000000003,
+      "end": 2692.2000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "can do those things. I wasn't sure if you were okay with the pause because I initially had"
+    },
+    {
+      "start": 2692.2000000000003,
+      "end": 2695.8,
+      "speaker": "SPEAKER_01",
+      "text": "asked if I could have a minute. Then you said I could have a couple of seconds. So, I thought that"
+    },
+    {
+      "start": 2695.8,
+      "end": 2703.0800000000004,
+      "speaker": "SPEAKER_01",
+      "text": "was a cue to think out loud or give it to you on the spot. No, it actually was it wasn't a particular"
+    },
+    {
+      "start": 2703.0800000000004,
+      "end": 2709.96,
+      "speaker": "SPEAKER_00",
+      "text": "cue at all. Yeah, I thought a 30 minutes. You can take a couple seconds there. Yeah, I didn't have"
+    },
+    {
+      "start": 2709.96,
+      "end": 2715.4,
+      "speaker": "SPEAKER_00",
+      "text": "my eye on the clock and it was like well, we're like three minutes till and I'm like sure you can take"
+    },
+    {
+      "start": 2715.4,
+      "end": 2723.0,
+      "speaker": "SPEAKER_00",
+      "text": "a second. Okay. And it was if anything, it was just a nudge towards wanting to make the simulation"
+    },
+    {
+      "start": 2723.0,
+      "end": 2729.64,
+      "speaker": "SPEAKER_00",
+      "text": "continue to be time bound. But you could have taken up to 60 seconds and then delivered a crisp"
+    },
+    {
+      "start": 2729.64,
+      "end": 2738.12,
+      "speaker": "SPEAKER_00",
+      "text": "clear 60 to 90 second recommendation. Instead, you ended up with a two and a half minute kind of"
+    },
+    {
+      "start": 2738.12,
+      "end": 2745.24,
+      "speaker": "SPEAKER_00",
+      "text": "slowly delivered piece by piece recommendation. And it would have come across stronger if it would"
+    },
+    {
+      "start": 2745.24,
+      "end": 2752.04,
+      "speaker": "SPEAKER_00",
+      "text": "have just been yes, 30 to 60 seconds pause first. And then clearly concisely directly delivered"
+    },
+    {
+      "start": 2752.04,
+      "end": 2755.4,
+      "speaker": "SPEAKER_00",
+      "text": "60 to 90 second recommendation."
+    }
+  ],
+  "grading": {
+    "communication": 9,
+    "framework": 7,
+    "math": 10,
+    "case_difficulty": 12,
+    "final_summary": 11,
+    "overall_thoughts": "Your math skills are impressive, but the framework could be more robust."
+  }
+}

@@ -1,0 +1,1358 @@
+[
+  {
+    "start": 0.0,
+    "end": 9.0,
+    "speaker": "SPEAKER_00",
+    "text": "Welcome back to a new Rocketbox mock interview."
+  },
+  {
+    "start": 9.0,
+    "end": 13.0,
+    "speaker": "SPEAKER_00",
+    "text": "Today we've got a brand new case titled remote reckoning."
+  },
+  {
+    "start": 13.0,
+    "end": 17.6,
+    "speaker": "SPEAKER_00",
+    "text": "In this very timely consulting case, we delve into a crucial decision for a prominent"
+  },
+  {
+    "start": 17.6,
+    "end": 23.92,
+    "speaker": "SPEAKER_00",
+    "text": "FinTech company that's contemplating a return to office mandate for its 20,000 employees."
+  },
+  {
+    "start": 23.92,
+    "end": 28.0,
+    "speaker": "SPEAKER_00",
+    "text": "The case revolves around revitalizing company culture and productivity."
+  },
+  {
+    "start": 28.0,
+    "end": 35.0,
+    "speaker": "SPEAKER_00",
+    "text": "Ultimately, the question the client is asking is this, should ledger logic make the move back to the office?"
+  },
+  {
+    "start": 35.0,
+    "end": 39.0,
+    "speaker": "SPEAKER_00",
+    "text": "And joining us today is Ben Wilson, who will be playing the interviewer."
+  },
+  {
+    "start": 39.0,
+    "end": 47.0,
+    "speaker": "SPEAKER_00",
+    "text": "Ben is currently a director at Alvarez and Marisol and completed his MBA from the University of Virginia's Darden School of Business."
+  },
+  {
+    "start": 47.0,
+    "end": 56.0,
+    "speaker": "SPEAKER_00",
+    "text": "Our candidate for today is Matthew Calvert. He's currently the director of methane results at Cairo's aerospace and previously worked as a consultant at BCG."
+  },
+  {
+    "start": 56.0,
+    "end": 59.0,
+    "speaker": "SPEAKER_00",
+    "text": "So without further ado, let's get started."
+  },
+  {
+    "start": 59.0,
+    "end": 64.0,
+    "speaker": "SPEAKER_03",
+    "text": "Hi everyone, I'm Ben Wilson. I'm currently a director with Alvarez Marisol. I'll be playing the interviewer today."
+  },
+  {
+    "start": 64.0,
+    "end": 70.0,
+    "speaker": "SPEAKER_02",
+    "text": "Hi everyone, my name is Matthew Calvert. I'm currently the director of methane results at Cairo's aerospace."
+  },
+  {
+    "start": 70.0,
+    "end": 74.0,
+    "speaker": "SPEAKER_02",
+    "text": "Prior to this, I was a consultant at BCG Chicago office for a couple years."
+  },
+  {
+    "start": 74.0,
+    "end": 78.0,
+    "speaker": "SPEAKER_02",
+    "text": "And I will be playing the interview, interviewee."
+  },
+  {
+    "start": 78.0,
+    "end": 83.0,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent. All right, Matt. Let's get into this. So today, our client is ledger logic."
+  },
+  {
+    "start": 83.0,
+    "end": 88.0,
+    "speaker": "SPEAKER_03",
+    "text": "They're a leading thin to the company and is facing a significant decision."
+  },
+  {
+    "start": 88.0,
+    "end": 93.0,
+    "speaker": "SPEAKER_03",
+    "text": "A few years after the pandemic, the CEO is considering requiring employees to return to the office."
+  },
+  {
+    "start": 93.0,
+    "end": 99.0,
+    "speaker": "SPEAKER_03",
+    "text": "The CEO believes that the company's culture and productivity have suffered due to lack of in-person interaction."
+  },
+  {
+    "start": 99.0,
+    "end": 109.0,
+    "speaker": "SPEAKER_03",
+    "text": "The company employees employees 20,000 people and the current work arrangement is 75% remote, 15% hybrid, and then 10% fully in person."
+  },
+  {
+    "start": 109.0,
+    "end": 119.0,
+    "speaker": "SPEAKER_03",
+    "text": "The CEO knows that this is a complicated issue and she has mastered your firm to help understand if returning to the office is the best move and to advise on next steps."
+  },
+  {
+    "start": 119.0,
+    "end": 122.0,
+    "speaker": "SPEAKER_03",
+    "text": "How would you approach this problem?"
+  },
+  {
+    "start": 122.0,
+    "end": 128.0,
+    "speaker": "SPEAKER_02",
+    "text": "Awesome. Well, this sounds like a very interesting and kind of current issue that a lot of companies are facing."
+  },
+  {
+    "start": 128.0,
+    "end": 139.0,
+    "speaker": "SPEAKER_02",
+    "text": "So just to confirm, so ledger logic is a thin tech company sounds like they operate a little bit all over the map with some remote, some hybrid and some in person."
+  },
+  {
+    "start": 139.0,
+    "end": 146.0,
+    "speaker": "SPEAKER_02",
+    "text": "And they're just trying to figure out how they should think about returning to office and whether they should or not. Is that correct?"
+  },
+  {
+    "start": 146.0,
+    "end": 148.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yep, you got it."
+  },
+  {
+    "start": 148.0,
+    "end": 160.0,
+    "speaker": "SPEAKER_02",
+    "text": "Apart from figuring out returning to office, is there a specific goal in mind about this is there a cost savings amount, I'm going to mount their willing to spend anything else like that."
+  },
+  {
+    "start": 160.0,
+    "end": 175.0,
+    "speaker": "SPEAKER_03",
+    "text": "Not that we've really identified yet, they've certainly seen some decreases and points of productivity as well as also some potential thoughts on impact to brainstorming and idea generation, but no quantifiable goal yet."
+  },
+  {
+    "start": 175.0,
+    "end": 178.0,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, that's that's really helpful."
+  },
+  {
+    "start": 178.0,
+    "end": 183.0,
+    "speaker": "SPEAKER_02",
+    "text": "I'm just trying to, you know, contextualize this in my head a little bit."
+  },
+  {
+    "start": 183.0,
+    "end": 188.0,
+    "speaker": "SPEAKER_02",
+    "text": "Where does this company operate? Are they all in one city or they in different cities?"
+  },
+  {
+    "start": 188.0,
+    "end": 197.0,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, fantastic question given the company. So ledger logic has three office locations one in New York, one in San Francisco, and then one in Nashville."
+  },
+  {
+    "start": 197.0,
+    "end": 212.0,
+    "speaker": "SPEAKER_03",
+    "text": "They have dramatically reduced the size of these rented spaces since the pandemic as probably many of their competitors have the New York office is the largest with capacity of 3000 employees, then you have San Francisco with 2000 Nashville with 2000."
+  },
+  {
+    "start": 212.0,
+    "end": 222.0,
+    "speaker": "SPEAKER_03",
+    "text": "And then on top of this, the product development team is primarily based in San Francisco sales and marketing in New York and then operations and customer support in the Nashville."
+  },
+  {
+    "start": 222.0,
+    "end": 244.0,
+    "speaker": "SPEAKER_02",
+    "text": "Got it. And thinking about, you know, this decision, you know, how much office space do they currently have and how much of that space could it, how many of their employees could that office space currently hold because I want to think about, you know, are they sitting on space or would they have to find new locations and sort of build them out."
+  },
+  {
+    "start": 244.0,
+    "end": 254.0,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, yeah. So, you know, hopefully this answers your question. So after downsizing their rented properties, the current offices can accommodate about 40% of all employees."
+  },
+  {
+    "start": 254.0,
+    "end": 257.0,
+    "speaker": "SPEAKER_03",
+    "text": "Does that kind of hit on what you're looking for?"
+  },
+  {
+    "start": 257.0,
+    "end": 263.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah. Okay. So there's going to have to think through finding some new locations and sort of building them out to fit their team."
+  },
+  {
+    "start": 263.0,
+    "end": 269.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's really helpful. Then if it's okay with you, I'm just going to take a minute here to organize my thoughts."
+  },
+  {
+    "start": 269.0,
+    "end": 274.0,
+    "speaker": "SPEAKER_02",
+    "text": "Please."
+  },
+  {
+    "start": 274.0,
+    "end": 287.0,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. Well, I took him in here, Ben. And the way I want to think about this is really in three buckets. First is we want to quantify the benefits of possibly returning to office."
+  },
+  {
+    "start": 287.0,
+    "end": 298.0,
+    "speaker": "SPEAKER_02",
+    "text": "You know, is that a tough decision and we want to make sure that if we are going to move in this direction that there are quantifiable benefits that outweigh the next bucket, which would be quantifying any costs."
+  },
+  {
+    "start": 298.0,
+    "end": 303.0,
+    "speaker": "SPEAKER_02",
+    "text": "We want to make sure that this is going to be overall a net positive for the client."
+  },
+  {
+    "start": 303.0,
+    "end": 307.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then finally, we'd want to think through how we're going to implement this."
+  },
+  {
+    "start": 308.0,
+    "end": 315.0,
+    "speaker": "SPEAKER_02",
+    "text": "I went from working a fully in person job to remote to hybrid and now back to remote."
+  },
+  {
+    "start": 315.0,
+    "end": 330.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so I've experienced all of these and it's a really big decision about how you're going to impact your employees lives. And so we want to make sure that this is really handled thoughtfully because there will be some sort of fallout from it."
+  },
+  {
+    "start": 330.0,
+    "end": 340.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then to the poor spucket, a little bit more detailed, it's quantifying the benefits. And I listed three things. First, how is this impacting our productivity."
+  },
+  {
+    "start": 340.0,
+    "end": 354.0,
+    "speaker": "SPEAKER_02",
+    "text": "We have data that shows that our productivity is down 15% since we shifted return remote work. So we want to think about whether this decline is due to remote work and whether returning to the office is actually going to increase our productivity."
+  },
+  {
+    "start": 354.0,
+    "end": 357.0,
+    "speaker": "SPEAKER_02",
+    "text": "The next one that we talked about was collaboration."
+  },
+  {
+    "start": 357.0,
+    "end": 363.0,
+    "speaker": "SPEAKER_02",
+    "text": "You know, our CEO has stated that in person interaction can boost spontaneous idea generation collaboration."
+  },
+  {
+    "start": 363.0,
+    "end": 375.0,
+    "speaker": "SPEAKER_02",
+    "text": "And we want to look to other studies and maybe talking to some of our employees, other companies we've worked with to validate this and quantify its impact on productivity."
+  },
+  {
+    "start": 375.0,
+    "end": 391.0,
+    "speaker": "SPEAKER_02",
+    "text": "We want to think through how this is going to impact our culture is returning to the office enhancing our company culture will lead to greater employee satisfaction retention, even attracting higher quality talent."
+  },
+  {
+    "start": 391.0,
+    "end": 396.0,
+    "speaker": "SPEAKER_02",
+    "text": "Those are all potential benefits from this. However, these aren't without costs."
+  },
+  {
+    "start": 396.0,
+    "end": 410.0,
+    "speaker": "SPEAKER_02",
+    "text": "The next one we talked about we really got rid of a bunch of our office space, our current capacity can only accommodate 40% of our employees. So ramping up office space is going to really increase our operating costs."
+  },
+  {
+    "start": 410.0,
+    "end": 412.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's one thing we're going to want to think about."
+  },
+  {
+    "start": 412.0,
+    "end": 423.0,
+    "speaker": "SPEAKER_02",
+    "text": "The next one is dissatisfaction and churn. You know, a lot of employees prefer current remote work because they can work for anywhere."
+  },
+  {
+    "start": 423.0,
+    "end": 432.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so we want to think about what the potential impact on employee satisfaction retention is if people are forced to return to the office."
+  },
+  {
+    "start": 432.0,
+    "end": 444.0,
+    "speaker": "SPEAKER_02",
+    "text": "I know myself included a lot of folks have moved away from where they originally hired for their job. And so having to move back to a city, probably they're not going to come back to the office. They're going to look for something new."
+  },
+  {
+    "start": 444.0,
+    "end": 447.0,
+    "speaker": "SPEAKER_02",
+    "text": "So that's one thing for us to think about."
+  },
+  {
+    "start": 447.0,
+    "end": 452.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then finally implementation. I think there's three things here."
+  },
+  {
+    "start": 452.0,
+    "end": 462.0,
+    "speaker": "SPEAKER_02",
+    "text": "One is timing. So finding office space to accommodate for another 60% of our employees. It's going to take time. I know there's a lot of."
+  },
+  {
+    "start": 462.0,
+    "end": 469.0,
+    "speaker": "SPEAKER_02",
+    "text": "You know, room on the in the market for offices. However, it's going to take time to build them out."
+  },
+  {
+    "start": 469.0,
+    "end": 482.0,
+    "speaker": "SPEAKER_02",
+    "text": "You know, we've had a lot of supply chain slowdowns. I think that's back in a better place now, but getting desk monitors, all those things that you're going to need for our employees to look at the ground running from day one. It's going to take some time."
+  },
+  {
+    "start": 482.0,
+    "end": 497.0,
+    "speaker": "SPEAKER_02",
+    "text": "So how do we want to think about team by team nuances? You know, whether you're on the product team or the sales team and the customer satisfaction team. These are all different and have sort of different structures arrangements that they've probably worked out with their individual managers."
+  },
+  {
+    "start": 497.0,
+    "end": 507.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so we want to think through how is that going to. How are we going to handle those nuances? Are we going to create one blanket policy or are we going to have individualized things?"
+  },
+  {
+    "start": 507.0,
+    "end": 519.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then finally is the communications and change management. I think this is going to really rub some folks the wrong way and others might be happy about it. And so we want to be really thoughtful."
+  },
+  {
+    "start": 519.0,
+    "end": 528.0,
+    "speaker": "SPEAKER_02",
+    "text": "And giving a clear concise ration out for why we're doing this and how it's going to benefit our employees."
+  },
+  {
+    "start": 528.0,
+    "end": 537.0,
+    "speaker": "SPEAKER_02",
+    "text": "So I think if I could start, I'd love to think about the benefits here and kind of quantifying those benefits. Do we have anything about that?"
+  },
+  {
+    "start": 537.0,
+    "end": 548.0,
+    "speaker": "SPEAKER_03",
+    "text": "We do a bit. Certainly. So let me, I'm going to put something up on screen and I'm also going to provide some some context for yourself. Help understand the potential costs of change."
+  },
+  {
+    "start": 548.0,
+    "end": 559.0,
+    "speaker": "SPEAKER_03",
+    "text": "And the analyst on our team is actually pulled together the following information in this table. So the analysts also found industry benchmarks to help understand the risk of attrition."
+  },
+  {
+    "start": 559.0,
+    "end": 571.0,
+    "speaker": "SPEAKER_03",
+    "text": "Specifically one study found that 80% of employees living more than 50 miles from an office will leave a company that forces their return and 25% employees living within 50 miles of an office."
+  },
+  {
+    "start": 571.0,
+    "end": 579.0,
+    "speaker": "SPEAKER_03",
+    "text": "And then we can leave the company if required to return to the office kind of just some of the points that you're actually making in your framework for spot on."
+  },
+  {
+    "start": 579.0,
+    "end": 587.0,
+    "speaker": "SPEAKER_03",
+    "text": "So knowing that can you estimate how many ledger logic employees might be at risk of attrition if the company decides to return to the office."
+  },
+  {
+    "start": 587.0,
+    "end": 591.0,
+    "speaker": "SPEAKER_03",
+    "text": "And how might this cost ledger logic in the long term?"
+  },
+  {
+    "start": 591.0,
+    "end": 606.0,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, so here I see the four teams. The number of employees that are on those teams and then the percentage of those employees living within 50 miles of either of our three office locations New York San Francisco in Nashville."
+  },
+  {
+    "start": 606.0,
+    "end": 614.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so what I'm going to do here is I'm going to calculate the number of employees that are within 50 miles."
+  },
+  {
+    "start": 614.0,
+    "end": 624.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then that'll give us one group that are at lower risk for attrition. All the employees that are outside of that 50 miles will be our group that's a higher risk of attrition."
+  },
+  {
+    "start": 624.0,
+    "end": 632.0,
+    "speaker": "SPEAKER_02",
+    "text": "The lower group, I'll calculate the number and then calculate the number that are at risk by multiplying those times the 25% risk."
+  },
+  {
+    "start": 632.0,
+    "end": 640.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then outside of 50 miles are going to be those further away at the 80% risk of attrition. That's a much right approach."
+  },
+  {
+    "start": 640.0,
+    "end": 642.0,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent. Let's do it."
+  },
+  {
+    "start": 642.0,
+    "end": 663.0,
+    "speaker": "SPEAKER_02",
+    "text": "Great. So for product and say product and engineering, I have 50% of that 4,000 so 2000 employees for the sales team 75% of the 3000 so 2250 for marketing 40% of the 2000 so 800 and then customer support."
+  },
+  {
+    "start": 663.0,
+    "end": 682.0,
+    "speaker": "SPEAKER_02",
+    "text": "We have 80% times up 5000. That's 4000 so 2000 2250 800 4000. It's about 9000 employees that live within that 50 mile radius from an office, which means that of the 14,000 that are listed here."
+  },
+  {
+    "start": 682.0,
+    "end": 704.0,
+    "speaker": "SPEAKER_02",
+    "text": "We have an initial 5000 that are outside. So within 50 miles is 5000 or sorry, within is 9000 times 25% so that's going to give us about 2,250 employees that are at risk of attrition."
+  },
+  {
+    "start": 704.0,
+    "end": 729.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then I have 5000 employees outside of the 50 miles times 80% risk of attrition. That gives me about 4000. So all that risk is about 62,000 or a little more than 40% of the total employees on those teams are at risk of attrition."
+  },
+  {
+    "start": 729.0,
+    "end": 741.0,
+    "speaker": "SPEAKER_02",
+    "text": "I'd like to also quantify that just to make sure you know 40% of employees potentially leaving is a big number, but in terms of dollars and cents."
+  },
+  {
+    "start": 741.0,
+    "end": 766.0,
+    "speaker": "SPEAKER_02",
+    "text": "I tend to think that it's about $10,000 to recruit and train each new employee. So 10,000 times that 6000 number is about 60 million dollars in potential costs from you know returning to office just in terms of you know losing those people and having to hire and train those."
+  },
+  {
+    "start": 766.0,
+    "end": 778.0,
+    "speaker": "SPEAKER_02",
+    "text": "And one thing I'd like to call out is you know that's a size of a chunk of money, but that's not including the loss and productivity and institutional knowledge you have when people leave."
+  },
+  {
+    "start": 778.0,
+    "end": 798.0,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, yeah, no, I think those are fantastic points that you're making and certainly a high cost when you went to the point of quantifying so currently, ledger logic is paying for offices that can support about 8,000 people how much they provide office space for the whole company."
+  },
+  {
+    "start": 798.0,
+    "end": 807.0,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, so we need to provide office space for 12,000 employees."
+  },
+  {
+    "start": 807.0,
+    "end": 824.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so I want to first think about like how much space each employee needs and so I'm going to assume you know it's not a ton of space, but let's say a 10 by 10 area for each employee."
+  },
+  {
+    "start": 824.0,
+    "end": 844.0,
+    "speaker": "SPEAKER_02",
+    "text": "So I think that's going to be 100 square feet and then I want to think about how much office space is and so I've heard a variety of figures depending on the city you know Nashville is probably going to be lower than San Francisco New York."
+  },
+  {
+    "start": 844.0,
+    "end": 855.0,
+    "speaker": "SPEAKER_02",
+    "text": "So between I'd say 25 and 75 dollars per square foot of office space for a year, so I'm just going to make an assumption of $50 per square foot."
+  },
+  {
+    "start": 855.0,
+    "end": 861.0,
+    "speaker": "SPEAKER_02",
+    "text": "So we have $50 times the hundred square feet per employee."
+  },
+  {
+    "start": 861.0,
+    "end": 889.0,
+    "speaker": "SPEAKER_02",
+    "text": "So each employee is $5,000 per year and so we have that $5,000 per year times 12,000 employees which need an office space and that's going to be another $60 million for just for the office space and that's not factoring in you know utilities."
+  },
+  {
+    "start": 889.0,
+    "end": 906.0,
+    "speaker": "SPEAKER_02",
+    "text": "We're going to want we're a tech company we're going to want high quality coffee we're going to want some some great snacks. We're going to need you know support staff security monitors desks all of those things so those are going to be additional costs as well."
+  },
+  {
+    "start": 906.0,
+    "end": 916.0,
+    "speaker": "SPEAKER_03",
+    "text": "I think that's a fantastic assumption. I think you've done a really good job kind of assessing that whole cost side of equation and I'm having some questions kind of come up about the other side of it."
+  },
+  {
+    "start": 916.0,
+    "end": 927.0,
+    "speaker": "SPEAKER_03",
+    "text": "So from a revenue estimation point, how would you quantify the potential revenue impact of returning to the office and if I can give you some kind of numbers to shape your thinking around that."
+  },
+  {
+    "start": 927.0,
+    "end": 937.0,
+    "speaker": "SPEAKER_03",
+    "text": "So ledger logic does about 20 billion in revenue per year since the road has dip from 8% per year to about 5% per year."
+  },
+  {
+    "start": 937.0,
+    "end": 943.0,
+    "speaker": "SPEAKER_03",
+    "text": "And so operating margins have held constant about 20% during that Shinkin County."
+  },
+  {
+    "start": 943.0,
+    "end": 962.0,
+    "speaker": "SPEAKER_03",
+    "text": "There's also been a 15% decrease in productivity since the ship to remote work, which I know you had referenced and called out previously and this is measured by various kind of KPIs and project completion cons but customer satisfaction after support interactions is also down 5%."
+  },
+  {
+    "start": 962.0,
+    "end": 966.0,
+    "speaker": "SPEAKER_03",
+    "text": "So maybe you can walk me through your thinking and how to approach this."
+  },
+  {
+    "start": 966.0,
+    "end": 971.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, so I think one of the first things I'm thinking through here."
+  },
+  {
+    "start": 971.0,
+    "end": 980.0,
+    "speaker": "SPEAKER_02",
+    "text": "It's really difficult to directly blame the slow down and growth or productivity do entirely your remote work."
+  },
+  {
+    "start": 980.0,
+    "end": 990.0,
+    "speaker": "SPEAKER_02",
+    "text": "So this idea of 15% drop in productivity with the fact that growth has continued, but a little bit smaller rate and margins of health flat."
+  },
+  {
+    "start": 990.0,
+    "end": 999.0,
+    "speaker": "SPEAKER_02",
+    "text": "It's hard, but I'm going to assume that the remote work is responsible for all of the growth reduction just for the fact of like trying to calculate this."
+  },
+  {
+    "start": 999.0,
+    "end": 1005.0,
+    "speaker": "SPEAKER_02",
+    "text": "So we say that it's 20 billion dollars in revenue and at 5% growth."
+  },
+  {
+    "start": 1005.0,
+    "end": 1015.0,
+    "speaker": "SPEAKER_02",
+    "text": "So I want to calculate the growth and then using a margin, I'm going to calculate what the profit growth is per year before and then say."
+  },
+  {
+    "start": 1015.0,
+    "end": 1023.0,
+    "speaker": "SPEAKER_02",
+    "text": "I'm trying to calculate what the growth slow down is costing us rather than the productivity because that's one thing that we can really think about."
+  },
+  {
+    "start": 1023.0,
+    "end": 1032.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then we think about whether or not returning to the office is going to increase the productivity more creative ideas and that would help."
+  },
+  {
+    "start": 1032.0,
+    "end": 1037.0,
+    "speaker": "SPEAKER_02",
+    "text": "Then account for help us grow faster does that make sense?"
+  },
+  {
+    "start": 1037.0,
+    "end": 1039.0,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, it does please."
+  },
+  {
+    "start": 1039.0,
+    "end": 1046.0,
+    "speaker": "SPEAKER_02",
+    "text": "So we have 20 billion dollars in revenue at 5% growth."
+  },
+  {
+    "start": 1046.0,
+    "end": 1054.0,
+    "speaker": "SPEAKER_02",
+    "text": "So we have 1 billion dollars in growth per year and can I assume 20% margins here?"
+  },
+  {
+    "start": 1054.0,
+    "end": 1056.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yep, fair."
+  },
+  {
+    "start": 1056.0,
+    "end": 1062.0,
+    "speaker": "SPEAKER_02",
+    "text": "So we'll have 20% margins for a Fintech company."
+  },
+  {
+    "start": 1062.0,
+    "end": 1066.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's $200 million in profit."
+  },
+  {
+    "start": 1066.0,
+    "end": 1069.0,
+    "speaker": "SPEAKER_02",
+    "text": "I did each year at the 5% growth."
+  },
+  {
+    "start": 1069.0,
+    "end": 1071.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's what we're experiencing today."
+  },
+  {
+    "start": 1071.0,
+    "end": 1076.0,
+    "speaker": "SPEAKER_02",
+    "text": "So if we get back to that 8% growth, we have 20 billion dollars in revenue."
+  },
+  {
+    "start": 1076.0,
+    "end": 1078.0,
+    "speaker": "SPEAKER_02",
+    "text": "8% growth."
+  },
+  {
+    "start": 1078.0,
+    "end": 1083.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's going to be 1.6 billion dollars a year in growth."
+  },
+  {
+    "start": 1083.0,
+    "end": 1093.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then from there, I'm going to say 1.6 at 20% margins is 320 million."
+  },
+  {
+    "start": 1093.0,
+    "end": 1100.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so the growth slow down is costing ledger logic 120 million in margin the first year."
+  },
+  {
+    "start": 1100.0,
+    "end": 1110.0,
+    "speaker": "SPEAKER_02",
+    "text": "So if we can try maybe with a smaller subset of the team to get to, you know, maybe a bit of an experiment."
+  },
+  {
+    "start": 1110.0,
+    "end": 1114.0,
+    "speaker": "SPEAKER_02",
+    "text": "And they're part of the business unit in their business unit of being back in the office."
+  },
+  {
+    "start": 1114.0,
+    "end": 1117.0,
+    "speaker": "SPEAKER_02",
+    "text": "And see that business unit starts to grow faster."
+  },
+  {
+    "start": 1117.0,
+    "end": 1126.0,
+    "speaker": "SPEAKER_02",
+    "text": "Then we can extrapolate that to the full company and say, you know, if they are more profitable, they lead to more higher growth."
+  },
+  {
+    "start": 1126.0,
+    "end": 1130.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then we're making up for that, you know, that's 320 million."
+  },
+  {
+    "start": 1130.0,
+    "end": 1139.0,
+    "speaker": "SPEAKER_02",
+    "text": "It's 120 million more, which is what you, we saw from the costs of attrition and training."
+  },
+  {
+    "start": 1139.0,
+    "end": 1141.0,
+    "speaker": "SPEAKER_02",
+    "text": "And the office costs."
+  },
+  {
+    "start": 1141.0,
+    "end": 1144.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so we see that this will pay off pretty quickly."
+  },
+  {
+    "start": 1144.0,
+    "end": 1149.0,
+    "speaker": "SPEAKER_02",
+    "text": "If we are able to generate higher growth from being back in the office."
+  },
+  {
+    "start": 1149.0,
+    "end": 1150.0,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent. Excellent."
+  },
+  {
+    "start": 1150.0,
+    "end": 1151.0,
+    "speaker": "SPEAKER_03",
+    "text": "I think those are fantastic points."
+  },
+  {
+    "start": 1151.0,
+    "end": 1155.0,
+    "speaker": "SPEAKER_03",
+    "text": "I think you really worked well both the revenue and cost side."
+  },
+  {
+    "start": 1155.0,
+    "end": 1158.0,
+    "speaker": "SPEAKER_03",
+    "text": "And I think that's the most, you know, being able to quantify the attrition piece."
+  },
+  {
+    "start": 1158.0,
+    "end": 1162.0,
+    "speaker": "SPEAKER_03",
+    "text": "But, you know, outside of those and those pieces that we've discussed thus far."
+  },
+  {
+    "start": 1162.0,
+    "end": 1168.0,
+    "speaker": "SPEAKER_03",
+    "text": "How do you help the company think through the risks of returning to the office?"
+  },
+  {
+    "start": 1168.0,
+    "end": 1171.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, that's a really good question."
+  },
+  {
+    "start": 1171.0,
+    "end": 1178.0,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, I think the first one is, is like employee more out and how that deals with productivity."
+  },
+  {
+    "start": 1178.0,
+    "end": 1184.0,
+    "speaker": "SPEAKER_02",
+    "text": "So I remember, you know, at times when I've been told I needed to return to the office."
+  },
+  {
+    "start": 1184.0,
+    "end": 1187.0,
+    "speaker": "SPEAKER_02",
+    "text": "If there's a good reason for being back in the office."
+  },
+  {
+    "start": 1187.0,
+    "end": 1192.0,
+    "speaker": "SPEAKER_02",
+    "text": "And the whole team is there and we're having productive productive meetings."
+  },
+  {
+    "start": 1192.0,
+    "end": 1197.0,
+    "speaker": "SPEAKER_02",
+    "text": "And we're enjoying our time together while still respecting some of the flexibility of remote work."
+  },
+  {
+    "start": 1197.0,
+    "end": 1199.0,
+    "speaker": "SPEAKER_02",
+    "text": "I think it's great. You become more productive."
+  },
+  {
+    "start": 1199.0,
+    "end": 1203.0,
+    "speaker": "SPEAKER_02",
+    "text": "You don't have to say, hey, then can I hop on a Zoom? Can I hop on a phone call?"
+  },
+  {
+    "start": 1203.0,
+    "end": 1207.0,
+    "speaker": "SPEAKER_02",
+    "text": "You're able to just, you know, peek over someone's shoulder interact."
+  },
+  {
+    "start": 1207.0,
+    "end": 1213.0,
+    "speaker": "SPEAKER_02",
+    "text": "But if the office isn't fully set up, it has a lot of strict requirements."
+  },
+  {
+    "start": 1213.0,
+    "end": 1216.0,
+    "speaker": "SPEAKER_02",
+    "text": "Like you have to be at your desk, 40 hours, whatever it is."
+  },
+  {
+    "start": 1216.0,
+    "end": 1218.0,
+    "speaker": "SPEAKER_02",
+    "text": "And it's kind of a jolt."
+  },
+  {
+    "start": 1218.0,
+    "end": 1221.0,
+    "speaker": "SPEAKER_02",
+    "text": "Then morale could dip productivity could dip."
+  },
+  {
+    "start": 1221.0,
+    "end": 1224.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then you're going to have even higher attrition."
+  },
+  {
+    "start": 1224.0,
+    "end": 1230.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so we want to think through how people feel about this and start thinking through like the messaging."
+  },
+  {
+    "start": 1230.0,
+    "end": 1235.0,
+    "speaker": "SPEAKER_02",
+    "text": "And what they would want to see from being back in the office."
+  },
+  {
+    "start": 1235.0,
+    "end": 1241.0,
+    "speaker": "SPEAKER_02",
+    "text": "The next one is how is this going to impact our brand image and our reputation."
+  },
+  {
+    "start": 1241.0,
+    "end": 1247.0,
+    "speaker": "SPEAKER_02",
+    "text": "If this is prioritizing business over employee well being."
+  },
+  {
+    "start": 1247.0,
+    "end": 1252.0,
+    "speaker": "SPEAKER_02",
+    "text": "People might go and look for another, you know, work with another company."
+  },
+  {
+    "start": 1252.0,
+    "end": 1258.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so we want to think through how is this going to impact our press and social media images."
+  },
+  {
+    "start": 1258.0,
+    "end": 1264.0,
+    "speaker": "SPEAKER_02",
+    "text": "And, and maybe have some conversations with our top performers as well."
+  },
+  {
+    "start": 1264.0,
+    "end": 1271.0,
+    "speaker": "SPEAKER_02",
+    "text": "To get their insight into this and think, you know, if we're going to lose our top 80, you know, our top 20% of people."
+  },
+  {
+    "start": 1271.0,
+    "end": 1276.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's an even bigger loss than, than just losing 20% of people overall."
+  },
+  {
+    "start": 1276.0,
+    "end": 1279.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then finally, I think logistically."
+  },
+  {
+    "start": 1279.0,
+    "end": 1284.0,
+    "speaker": "SPEAKER_02",
+    "text": "We would need to, you know, really more than double our off space."
+  },
+  {
+    "start": 1284.0,
+    "end": 1290.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so this is going to take a lot of time and money from our operations and our finance team."
+  },
+  {
+    "start": 1290.0,
+    "end": 1298.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so is it worth taking their eyes off of other projects to focus on returning to office."
+  },
+  {
+    "start": 1298.0,
+    "end": 1303.0,
+    "speaker": "SPEAKER_02",
+    "text": "And if we do it is then, you know, then then that's fine."
+  },
+  {
+    "start": 1303.0,
+    "end": 1308.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then finally, there's always a regulatory risk."
+  },
+  {
+    "start": 1308.0,
+    "end": 1314.0,
+    "speaker": "SPEAKER_02",
+    "text": "You know, we have to think about, are we building ADA compliant offices."
+  },
+  {
+    "start": 1314.0,
+    "end": 1319.0,
+    "speaker": "SPEAKER_02",
+    "text": "How is this going to impact people with with young kids."
+  },
+  {
+    "start": 1319.0,
+    "end": 1324.0,
+    "speaker": "SPEAKER_02",
+    "text": "And yeah, those are just a couple of things that better on my mind."
+  },
+  {
+    "start": 1324.0,
+    "end": 1328.0,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, yeah. And I think that's a fantastic and very compelling list."
+  },
+  {
+    "start": 1328.0,
+    "end": 1332.0,
+    "speaker": "SPEAKER_03",
+    "text": "So we've been able to give you know some of your risk analysis to the CEO."
+  },
+  {
+    "start": 1332.0,
+    "end": 1339.0,
+    "speaker": "SPEAKER_03",
+    "text": "And she's bullish on moving back to the office, but would really like yourself and the company's help to de-risk the transition."
+  },
+  {
+    "start": 1339.0,
+    "end": 1344.0,
+    "speaker": "SPEAKER_03",
+    "text": "What ideas would you have in terms of advice to provide for her?"
+  },
+  {
+    "start": 1344.0,
+    "end": 1345.0,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1345.0,
+    "end": 1348.0,
+    "speaker": "SPEAKER_02",
+    "text": "Do you mind giving me like five seconds just to organize my thoughts?"
+  },
+  {
+    "start": 1348.0,
+    "end": 1357.0,
+    "speaker": "SPEAKER_03",
+    "text": "Please do."
+  },
+  {
+    "start": 1357.0,
+    "end": 1360.0,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. So I broke this into three buckets."
+  },
+  {
+    "start": 1360.0,
+    "end": 1365.0,
+    "speaker": "SPEAKER_02",
+    "text": "The first would be incentives you could be for on site work."
+  },
+  {
+    "start": 1365.0,
+    "end": 1369.0,
+    "speaker": "SPEAKER_02",
+    "text": "You know, people have out of peloton because I was working at home."
+  },
+  {
+    "start": 1369.0,
+    "end": 1374.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so could you give benefits that like helping pay for a gym membership."
+  },
+  {
+    "start": 1374.0,
+    "end": 1380.0,
+    "speaker": "SPEAKER_02",
+    "text": "So people don't have to, you know, do a peloton or not home workout between meetings while working at home."
+  },
+  {
+    "start": 1380.0,
+    "end": 1383.0,
+    "speaker": "SPEAKER_02",
+    "text": "But you're giving them an incentive for coming back to the office."
+  },
+  {
+    "start": 1383.0,
+    "end": 1386.0,
+    "speaker": "SPEAKER_02",
+    "text": "And you can get the benefits of this benefit."
+  },
+  {
+    "start": 1386.0,
+    "end": 1389.0,
+    "speaker": "SPEAKER_02",
+    "text": "I think I said great food and snacks."
+  },
+  {
+    "start": 1389.0,
+    "end": 1395.0,
+    "speaker": "SPEAKER_02",
+    "text": "If you're providing lunch in the office, you don't have to go buy to the grocery store or go buy it at a restaurant."
+  },
+  {
+    "start": 1395.0,
+    "end": 1399.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so that's basically another additional compensation."
+  },
+  {
+    "start": 1399.0,
+    "end": 1404.0,
+    "speaker": "SPEAKER_02",
+    "text": "You could also just give bonuses for hitting certain thresholds."
+  },
+  {
+    "start": 1404.0,
+    "end": 1409.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so today's you get X, whatever it is."
+  },
+  {
+    "start": 1409.0,
+    "end": 1412.0,
+    "speaker": "SPEAKER_02",
+    "text": "And maybe even putting, making it stock in the company."
+  },
+  {
+    "start": 1412.0,
+    "end": 1419.0,
+    "speaker": "SPEAKER_02",
+    "text": "So you're really tying their sort of, you know, benefits and productivity to the company's success as well."
+  },
+  {
+    "start": 1419.0,
+    "end": 1424.0,
+    "speaker": "SPEAKER_02",
+    "text": "The next one I would say is you want, you need to take your time with this."
+  },
+  {
+    "start": 1424.0,
+    "end": 1431.0,
+    "speaker": "SPEAKER_02",
+    "text": "You want to give people significant lead time so that they can start lining up schools, babysitters."
+  },
+  {
+    "start": 1431.0,
+    "end": 1434.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then you can see that these are."
+  },
+  {
+    "start": 1434.0,
+    "end": 1437.0,
+    "speaker": "SPEAKER_02",
+    "text": "So that they can plan for this."
+  },
+  {
+    "start": 1437.0,
+    "end": 1443.0,
+    "speaker": "SPEAKER_02",
+    "text": "I think time for the operations and the finance teams is really going to be important because trying to rush this."
+  },
+  {
+    "start": 1443.0,
+    "end": 1452.0,
+    "speaker": "SPEAKER_02",
+    "text": "And if you don't handle it correctly, could really, you know, increase those risks from an attrition standpoint, bad press."
+  },
+  {
+    "start": 1452.0,
+    "end": 1457.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then, you know, thinking about how you're going to handle this for new hires."
+  },
+  {
+    "start": 1457.0,
+    "end": 1465.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then, you know, you're going to be recruiting a lot of folks from business schools, engineering degrees, things like that."
+  },
+  {
+    "start": 1465.0,
+    "end": 1470.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so you'd want to start messaging this with the people who haven't even interviewed yet."
+  },
+  {
+    "start": 1470.0,
+    "end": 1474.0,
+    "speaker": "SPEAKER_02",
+    "text": "So that they can sort of figure out, is this the right thing."
+  },
+  {
+    "start": 1474.0,
+    "end": 1479.0,
+    "speaker": "SPEAKER_02",
+    "text": "The last one would be respecting team based schools."
+  },
+  {
+    "start": 1479.0,
+    "end": 1482.0,
+    "speaker": "SPEAKER_02",
+    "text": "You know, not all of our teams are the same."
+  },
+  {
+    "start": 1482.0,
+    "end": 1485.0,
+    "speaker": "SPEAKER_02",
+    "text": "types of people, motivations, etc."
+  },
+  {
+    "start": 1485.0,
+    "end": 1493.0,
+    "speaker": "SPEAKER_02",
+    "text": "And so we want to make sure that we're talking to the leaders of those teams and allowing them to set timelines and rules about returning to work."
+  },
+  {
+    "start": 1493.0,
+    "end": 1498.0,
+    "speaker": "SPEAKER_02",
+    "text": "So that it's best for the company, but also that's for those teams."
+  },
+  {
+    "start": 1498.0,
+    "end": 1499.0,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1499.0,
+    "end": 1505.0,
+    "speaker": "SPEAKER_03",
+    "text": "Absolutely bearing comes in takes a few different perspectives and angles as well from personal to business."
+  },
+  {
+    "start": 1505.0,
+    "end": 1511.0,
+    "speaker": "SPEAKER_03",
+    "text": "And so, you know, the CEO is, you know, in the route should, you know, probably love to hear your final recommendation."
+  },
+  {
+    "start": 1511.0,
+    "end": 1513.0,
+    "speaker": "SPEAKER_03",
+    "text": "What would you have to tell her?"
+  },
+  {
+    "start": 1513.0,
+    "end": 1522.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, so I would recommend a slow phased approach to return to the office for ledger logic."
+  },
+  {
+    "start": 1522.0,
+    "end": 1525.0,
+    "speaker": "SPEAKER_02",
+    "text": "The first reason is the costs are large."
+  },
+  {
+    "start": 1525.0,
+    "end": 1532.0,
+    "speaker": "SPEAKER_02",
+    "text": "We said it would be an additional about 60 million dollars per year in office costs."
+  },
+  {
+    "start": 1532.0,
+    "end": 1540.0,
+    "speaker": "SPEAKER_02",
+    "text": "It could be about 60 million dollars in just recruiting and training new employees from the attrition that this causes."
+  },
+  {
+    "start": 1540.0,
+    "end": 1546.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's not including the loss of productivity and the loss of institutional knowledge."
+  },
+  {
+    "start": 1546.0,
+    "end": 1548.0,
+    "speaker": "SPEAKER_02",
+    "text": "So those are really big."
+  },
+  {
+    "start": 1548.0,
+    "end": 1559.0,
+    "speaker": "SPEAKER_02",
+    "text": "However, the numbers that we've calculated show that returning to the office has potentially high growth upside and could cancel those out in the first year."
+  },
+  {
+    "start": 1559.0,
+    "end": 1566.0,
+    "speaker": "SPEAKER_02",
+    "text": "So the numbers there are a little bit squishy or so we're less confident in those is it's a harder thing to quantify."
+  },
+  {
+    "start": 1566.0,
+    "end": 1578.0,
+    "speaker": "SPEAKER_02",
+    "text": "So we would want to do this phased approach to make sure that we're not putting all of our eggs in one basket and forcing something that might not have that same product productive upside."
+  },
+  {
+    "start": 1578.0,
+    "end": 1590.0,
+    "speaker": "SPEAKER_02",
+    "text": "So by doing this slowly and maybe focusing on one office at a time will help us see really what the benefits are as well as get some key learnings as we roll it out to the other two offices."
+  },
+  {
+    "start": 1590.0,
+    "end": 1592.0,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent. Thank you very much."
+  },
+  {
+    "start": 1592.0,
+    "end": 1593.0,
+    "speaker": "SPEAKER_03",
+    "text": "Thank you."
+  },
+  {
+    "start": 1593.0,
+    "end": 1599.0,
+    "speaker": "SPEAKER_01",
+    "text": "Hey everyone. It's Ken to give us you here the founder of rock of blocks. Thank you so much for watching this mock interview video."
+  },
+  {
+    "start": 1599.0,
+    "end": 1606.0,
+    "speaker": "SPEAKER_01",
+    "text": "I hope you found it informative and helpful as you are getting ready to prepare for your own interviews and hopefully landing that job offer."
+  },
+  {
+    "start": 1606.0,
+    "end": 1616.0,
+    "speaker": "SPEAKER_01",
+    "text": "You are excited about we have a ton of great content on the rock of blocks channel coming out on a weekly basis mock interviews, many lessons and chats with our rock of blocks experts."
+  },
+  {
+    "start": 1616.0,
+    "end": 1624.0,
+    "speaker": "SPEAKER_01",
+    "text": "So if you haven't subscribed yet already please do so. There is a big red button below and if you hit that you'll get all of our content as soon as it comes out."
+  },
+  {
+    "start": 1624.0,
+    "end": 1626.0,
+    "speaker": "SPEAKER_01",
+    "text": "Thanks for watching and have a great day."
+  }
+]

@@ -1,0 +1,1266 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 8.68,
+      "speaker": "SPEAKER_00",
+      "text": "Hey everyone, welcome back to another exciting Rocketblocks mock interview."
+    },
+    {
+      "start": 8.68,
+      "end": 12.24,
+      "speaker": "SPEAKER_00",
+      "text": "Today we've got a brand new case titled Buying the Bird."
+    },
+    {
+      "start": 12.24,
+      "end": 16.76,
+      "speaker": "SPEAKER_00",
+      "text": "We'll be exploring the possibility of a $3 billion acquisition of Birdshot, a social"
+    },
+    {
+      "start": 16.76,
+      "end": 17.84,
+      "speaker": "SPEAKER_00",
+      "text": "media platform."
+    },
+    {
+      "start": 17.84,
+      "end": 23.28,
+      "speaker": "SPEAKER_00",
+      "text": "This case delves into the strategic fit, financial viability, and operational aspects of the"
+    },
+    {
+      "start": 23.28,
+      "end": 25.080000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "potential acquisition."
+    },
+    {
+      "start": 25.08,
+      "end": 30.919999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "This is a timely case given the recent acquisition of Twitter, now X, and has a ton of fun brainstorming,"
+    },
+    {
+      "start": 30.919999999999998,
+      "end": 33.04,
+      "speaker": "SPEAKER_00",
+      "text": "chart reading, and quick math throughout."
+    },
+    {
+      "start": 33.04,
+      "end": 38.239999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "And joining us today is Ishan Tantania, who will be stepping into the interviewer shoes."
+    },
+    {
+      "start": 38.239999999999995,
+      "end": 42.64,
+      "speaker": "SPEAKER_00",
+      "text": "Ishan is currently a consultant and bane in company in their London office and completed"
+    },
+    {
+      "start": 42.64,
+      "end": 45.599999999999994,
+      "speaker": "SPEAKER_00",
+      "text": "his MBA from the prestigious London Business School."
+    },
+    {
+      "start": 45.599999999999994,
+      "end": 50.239999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "Our brilliant candidate for today is Vigram Mohan, currently a consultant at Keirney"
+    },
+    {
+      "start": 50.239999999999995,
+      "end": 54.84,
+      "speaker": "SPEAKER_00",
+      "text": "in their Dubai office, who previously worked as a consultant at Accenture."
+    },
+    {
+      "start": 54.84,
+      "end": 57.32,
+      "speaker": "SPEAKER_00",
+      "text": "So without further ado, let's get started."
+    },
+    {
+      "start": 57.32,
+      "end": 59.040000000000006,
+      "speaker": "SPEAKER_02",
+      "text": "Hi all, I'm Ishan."
+    },
+    {
+      "start": 59.040000000000006,
+      "end": 63.56,
+      "speaker": "SPEAKER_02",
+      "text": "I'm a second year consultant at Pen and Company in London."
+    },
+    {
+      "start": 63.56,
+      "end": 68.0,
+      "speaker": "SPEAKER_02",
+      "text": "And I will be playing the role of the interviewer today."
+    },
+    {
+      "start": 68.0,
+      "end": 70.0,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you Ishan, nice to meet you."
+    },
+    {
+      "start": 70.0,
+      "end": 71.0,
+      "speaker": "SPEAKER_03",
+      "text": "I have you on."
+    },
+    {
+      "start": 71.0,
+      "end": 72.0,
+      "speaker": "SPEAKER_03",
+      "text": "My name is Vigram."
+    },
+    {
+      "start": 72.0,
+      "end": 75.48,
+      "speaker": "SPEAKER_03",
+      "text": "I'm a consultant at Keirney in Dubai."
+    },
+    {
+      "start": 75.48,
+      "end": 79.44,
+      "speaker": "SPEAKER_03",
+      "text": "And I will be playing the role of the interviewing for this case."
+    },
+    {
+      "start": 79.44,
+      "end": 80.44,
+      "speaker": "SPEAKER_02",
+      "text": "Amazing."
+    },
+    {
+      "start": 80.44,
+      "end": 82.28,
+      "speaker": "SPEAKER_02",
+      "text": "Are you excited for the case today Vigram?"
+    },
+    {
+      "start": 82.28,
+      "end": 84.48,
+      "speaker": "SPEAKER_03",
+      "text": "Yes Ishan, let's get into it."
+    },
+    {
+      "start": 85.48,
+      "end": 86.48,
+      "speaker": "SPEAKER_02",
+      "text": "Perfect."
+    },
+    {
+      "start": 86.48,
+      "end": 88.48,
+      "speaker": "SPEAKER_02",
+      "text": "So whenever you're ready, I can give you the prompt."
+    },
+    {
+      "start": 88.48,
+      "end": 90.48,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, let's go for it."
+    },
+    {
+      "start": 90.48,
+      "end": 91.48,
+      "speaker": "SPEAKER_02",
+      "text": "Amazing."
+    },
+    {
+      "start": 91.48,
+      "end": 99.48,
+      "speaker": "SPEAKER_02",
+      "text": "So, John Fox is the founder and CEO of Fox Industries."
+    },
+    {
+      "start": 99.48,
+      "end": 102.48,
+      "speaker": "SPEAKER_02",
+      "text": "A massively successful manufacturing company."
+    },
+    {
+      "start": 102.48,
+      "end": 104.48,
+      "speaker": "SPEAKER_02",
+      "text": "Through this and other ventures,"
+    },
+    {
+      "start": 104.48,
+      "end": 108.48,
+      "speaker": "SPEAKER_02",
+      "text": "John has accumulated more than 10 billion in personal wealth."
+    },
+    {
+      "start": 108.48,
+      "end": 110.48,
+      "speaker": "SPEAKER_02",
+      "text": "In the last few years,"
+    },
+    {
+      "start": 110.48,
+      "end": 113.48,
+      "speaker": "SPEAKER_02",
+      "text": "John has been branching out for manufacturing."
+    },
+    {
+      "start": 113.48,
+      "end": 117.48,
+      "speaker": "SPEAKER_02",
+      "text": "Specifically, he's founded a new online media company."
+    },
+    {
+      "start": 117.48,
+      "end": 121.48,
+      "speaker": "SPEAKER_02",
+      "text": "And he has also purchased the shipping company."
+    },
+    {
+      "start": 121.48,
+      "end": 126.48,
+      "speaker": "SPEAKER_02",
+      "text": "He's been heavily active on a social media platform named Bird Shop."
+    },
+    {
+      "start": 126.48,
+      "end": 129.48000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "Using it to launch his consumer retail brand."
+    },
+    {
+      "start": 129.48000000000002,
+      "end": 134.48000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "As well as his sometimes contentious perspectives and business and social issues."
+    },
+    {
+      "start": 134.48000000000002,
+      "end": 135.48000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 135.48000000000002,
+      "end": 141.48000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "Bird Shop owners are potentially looking to exit and have begun shopping around for"
+    },
+    {
+      "start": 142.48,
+      "end": 143.48,
+      "speaker": "SPEAKER_02",
+      "text": "the room."
+    },
+    {
+      "start": 143.48,
+      "end": 146.48,
+      "speaker": "SPEAKER_02",
+      "text": "Has it that they don't want to sell for less than three billion."
+    },
+    {
+      "start": 146.48,
+      "end": 151.48,
+      "speaker": "SPEAKER_02",
+      "text": "John is excited by the idea of owning his favorite social media company."
+    },
+    {
+      "start": 151.48,
+      "end": 159.48,
+      "speaker": "SPEAKER_02",
+      "text": "He has contracted your firm to help evaluate the possibility of him buying bird shop to address growing portfolio of companies."
+    },
+    {
+      "start": 159.48,
+      "end": 169.48,
+      "speaker": "SPEAKER_02",
+      "text": "How would you help John evaluate the acquisition and should he buy bird shop or not?"
+    },
+    {
+      "start": 169.48,
+      "end": 172.48,
+      "speaker": "SPEAKER_03",
+      "text": "All right. Thanks, well, Adishon."
+    },
+    {
+      "start": 172.48,
+      "end": 176.48,
+      "speaker": "SPEAKER_03",
+      "text": "It's a very interesting case."
+    },
+    {
+      "start": 176.48,
+      "end": 185.48,
+      "speaker": "SPEAKER_03",
+      "text": "Just a question that comes comes off the bat is what is John's primary objective with this purchase?"
+    },
+    {
+      "start": 185.48,
+      "end": 190.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, so I would say that John's main goal is primarily to make money."
+    },
+    {
+      "start": 190.48,
+      "end": 198.48,
+      "speaker": "SPEAKER_02",
+      "text": "But he also wants to expand his identity and brand as a successful business person and believes that owning an exciting portfolio of companies is the key to his fortune and."
+    },
+    {
+      "start": 198.48,
+      "end": 201.48,
+      "speaker": "SPEAKER_02",
+      "text": "All right."
+    },
+    {
+      "start": 201.48,
+      "end": 204.48,
+      "speaker": "SPEAKER_03",
+      "text": "That's good."
+    },
+    {
+      "start": 204.48,
+      "end": 207.48,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 207.48,
+      "end": 215.48,
+      "speaker": "SPEAKER_03",
+      "text": "If I could take a couple of minutes to come up with a structure and then we could potentially look at how we can solve this case."
+    },
+    {
+      "start": 215.48,
+      "end": 217.48,
+      "speaker": "SPEAKER_02",
+      "text": "Amazing. Go for it."
+    },
+    {
+      "start": 217.48,
+      "end": 222.48,
+      "speaker": "UNKNOWN",
+      "text": "Thank you."
+    },
+    {
+      "start": 222.48,
+      "end": 224.48,
+      "speaker": "SPEAKER_03",
+      "text": "All right."
+    },
+    {
+      "start": 224.48,
+      "end": 232.48,
+      "speaker": "SPEAKER_03",
+      "text": "So how I would essentially like to tackle this case is by looking at three key buckets."
+    },
+    {
+      "start": 232.48,
+      "end": 235.48,
+      "speaker": "SPEAKER_03",
+      "text": "The first one, the financials of acquisition."
+    },
+    {
+      "start": 235.48,
+      "end": 245.48,
+      "speaker": "SPEAKER_03",
+      "text": "Second one would be a strategic assessment of the acquisition and finally take a look at what are the risks involved with the acquisition."
+    },
+    {
+      "start": 245.48,
+      "end": 247.48,
+      "speaker": "SPEAKER_03",
+      "text": "Right."
+    },
+    {
+      "start": 247.48,
+      "end": 255.48,
+      "speaker": "SPEAKER_03",
+      "text": "So going to my first bucket financials of acquisition, I would first take a look at what the market share of bird short is."
+    },
+    {
+      "start": 255.48,
+      "end": 259.48,
+      "speaker": "SPEAKER_03",
+      "text": "Compared to rest of social media companies."
+    },
+    {
+      "start": 259.48,
+      "end": 264.48,
+      "speaker": "SPEAKER_03",
+      "text": "Secondly, look at what the revenue of the of bird short is."
+    },
+    {
+      "start": 264.48,
+      "end": 274.48,
+      "speaker": "SPEAKER_03",
+      "text": "Thirdly, take a look at if the company is currently profitable and if so, what are the profits of bird short right now."
+    },
+    {
+      "start": 274.48,
+      "end": 279.48,
+      "speaker": "SPEAKER_03",
+      "text": "Secondly, using this data, we should ideally value the company."
+    },
+    {
+      "start": 279.48,
+      "end": 284.48,
+      "speaker": "SPEAKER_03",
+      "text": "It's a compared to the three billion asked that they have right now."
+    },
+    {
+      "start": 284.48,
+      "end": 285.48,
+      "speaker": "SPEAKER_03",
+      "text": "Right."
+    },
+    {
+      "start": 285.48,
+      "end": 294.48,
+      "speaker": "SPEAKER_03",
+      "text": "Secondly, looking at a more strategic assessment of the company, I would look at how the company fits in with john's."
+    },
+    {
+      "start": 294.48,
+      "end": 297.48,
+      "speaker": "SPEAKER_03",
+      "text": "And then we can see the company's current business portfolio."
+    },
+    {
+      "start": 297.48,
+      "end": 305.48,
+      "speaker": "SPEAKER_03",
+      "text": "Secondly, would look like to assess what the company's reputation in the market is as of today."
+    },
+    {
+      "start": 305.48,
+      "end": 310.48,
+      "speaker": "SPEAKER_03",
+      "text": "Thirdly, I would like to take a look at what the demographics of the user basis because."
+    },
+    {
+      "start": 310.48,
+      "end": 316.48,
+      "speaker": "SPEAKER_03",
+      "text": "Certain types of users are more monetizable than other types of users."
+    },
+    {
+      "start": 316.48,
+      "end": 323.48,
+      "speaker": "SPEAKER_03",
+      "text": "And finally assess the technology of the platform to see whether they comply with."
+    },
+    {
+      "start": 323.48,
+      "end": 331.48,
+      "speaker": "SPEAKER_03",
+      "text": "And then we can see the standards and make sure they're up to speed with with competition."
+    },
+    {
+      "start": 331.48,
+      "end": 336.48,
+      "speaker": "SPEAKER_03",
+      "text": "Finally, would like to take a risk look at the risks involved with this acquisition."
+    },
+    {
+      "start": 336.48,
+      "end": 340.48,
+      "speaker": "SPEAKER_03",
+      "text": "The main risk being regulation."
+    },
+    {
+      "start": 340.48,
+      "end": 346.48,
+      "speaker": "SPEAKER_03",
+      "text": "There's a lot of new laws that have come into place, so which affects the social media company."
+    },
+    {
+      "start": 346.48,
+      "end": 349.48,
+      "speaker": "SPEAKER_03",
+      "text": "So that's something that we need to take into account."
+    },
+    {
+      "start": 349.48,
+      "end": 357.48,
+      "speaker": "SPEAKER_03",
+      "text": "And finally look at the competition in the market because it's such a social media such a fast based environment."
+    },
+    {
+      "start": 357.48,
+      "end": 365.48,
+      "speaker": "SPEAKER_03",
+      "text": "With a lot of changes happening every day, so it would make sense to look at what competition is doing, how the market is evolving in that aspect."
+    },
+    {
+      "start": 365.48,
+      "end": 375.48,
+      "speaker": "SPEAKER_03",
+      "text": "So I think like I mentioned, the first thing that we should look at would be the financials of the acquisition to try and value the company."
+    },
+    {
+      "start": 375.48,
+      "end": 378.48,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, some sort of I think that."
+    },
+    {
+      "start": 378.48,
+      "end": 380.48,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, go ahead."
+    },
+    {
+      "start": 380.48,
+      "end": 385.48,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, maybe if you have some data on that, we could have a look at that."
+    },
+    {
+      "start": 385.48,
+      "end": 390.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I have some data and I'll share that with you in a second."
+    },
+    {
+      "start": 390.48,
+      "end": 395.48,
+      "speaker": "SPEAKER_02",
+      "text": "You know, given these are private companies and they have social media and you spoke of valuations."
+    },
+    {
+      "start": 395.48,
+      "end": 401.48,
+      "speaker": "SPEAKER_02",
+      "text": "Do you have any ideas on what some valuation methods that you could use?"
+    },
+    {
+      "start": 401.48,
+      "end": 406.48,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, there's a there's a couple of valuation methods that come to mind."
+    },
+    {
+      "start": 406.48,
+      "end": 416.48,
+      "speaker": "SPEAKER_03",
+      "text": "So firstly, it would be the DCF method using future cash flows to try and identify what the company's value would be."
+    },
+    {
+      "start": 416.48,
+      "end": 419.48,
+      "speaker": "SPEAKER_03",
+      "text": "Secondly, would be a multiple method."
+    },
+    {
+      "start": 419.48,
+      "end": 428.48,
+      "speaker": "SPEAKER_03",
+      "text": "We can either take a look at multiples of revenue multiples of profits and so on."
+    },
+    {
+      "start": 428.48,
+      "end": 435.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think some that sounds good in your exactly on the right track. Let me share a bit of information with you."
+    },
+    {
+      "start": 435.48,
+      "end": 441.48,
+      "speaker": "SPEAKER_03",
+      "text": "Alright, do you mind if I take a minute just to go through this information."
+    },
+    {
+      "start": 441.48,
+      "end": 447.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, go for it and feel free to ask any questions or like clarifying anything as this is quite a bit of information."
+    },
+    {
+      "start": 447.48,
+      "end": 449.48,
+      "speaker": "SPEAKER_03",
+      "text": "Right."
+    },
+    {
+      "start": 449.48,
+      "end": 453.48,
+      "speaker": "SPEAKER_03",
+      "text": "Sure."
+    },
+    {
+      "start": 453.48,
+      "end": 463.48,
+      "speaker": "SPEAKER_03",
+      "text": "So I do have some initial thoughts on the data. Maybe I can run you through what I'm thinking and then we can see if I'm on the right track."
+    },
+    {
+      "start": 463.48,
+      "end": 465.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, sure. Sounds good."
+    },
+    {
+      "start": 465.48,
+      "end": 475.48,
+      "speaker": "SPEAKER_03",
+      "text": "So from what I can see, there are two main valuation methods that they've used for these four companies that are."
+    },
+    {
+      "start": 475.48,
+      "end": 480.48,
+      "speaker": "SPEAKER_03",
+      "text": "I would assume competitors of Bert short also social media companies."
+    },
+    {
+      "start": 480.48,
+      "end": 490.48,
+      "speaker": "SPEAKER_03",
+      "text": "So the two methods are revenue based method and a margin based method. Right."
+    },
+    {
+      "start": 490.48,
+      "end": 504.48,
+      "speaker": "SPEAKER_03",
+      "text": "So I think and they also have a third value, a third dimension, which is valuation per user, which I believe is more to standardize across these different valuation methods."
+    },
+    {
+      "start": 504.48,
+      "end": 519.48,
+      "speaker": "SPEAKER_03",
+      "text": "So in order to value bird short, I think revenue based method would make sense given that bird short operating margin."
+    },
+    {
+      "start": 519.48,
+      "end": 528.48,
+      "speaker": "SPEAKER_03",
+      "text": "It's it's a lot. It's operating at a loss. So margin based method will not work."
+    },
+    {
+      "start": 528.48,
+      "end": 535.48,
+      "speaker": "SPEAKER_03",
+      "text": "So I think, yeah, I think we should proceed with the revenue based valuation method."
+    },
+    {
+      "start": 535.48,
+      "end": 539.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think that's that's a fair, fair estimation."
+    },
+    {
+      "start": 539.48,
+      "end": 549.48,
+      "speaker": "SPEAKER_02",
+      "text": "And then based on this chart, how would you, you know, go about doing a revenue based calculation and what would that be for bird short."
+    },
+    {
+      "start": 549.48,
+      "end": 556.48,
+      "speaker": "SPEAKER_03",
+      "text": "Right, right."
+    },
+    {
+      "start": 556.48,
+      "end": 568.48,
+      "speaker": "SPEAKER_03",
+      "text": "So just initially looking at the multiples, they're vastly different multiples. So company as a 50x multiple, whereas company B as a 5x multiple."
+    },
+    {
+      "start": 568.48,
+      "end": 585.48,
+      "speaker": "SPEAKER_03",
+      "text": "And I think the primary driver behind that is the user growth because company A has a 50 times multiple, although it has 30 just 30 million less than a number of users than company B."
+    },
+    {
+      "start": 585.48,
+      "end": 596.48,
+      "speaker": "SPEAKER_03",
+      "text": "And that's primarily due to having a high user growth. Right. So comparing bird short to these two companies, and B."
+    },
+    {
+      "start": 596.48,
+      "end": 607.48,
+      "speaker": "SPEAKER_03",
+      "text": "It seems like bird short is a pretty low annual user growth rate, but a higher current user number."
+    },
+    {
+      "start": 607.48,
+      "end": 628.48,
+      "speaker": "SPEAKER_03",
+      "text": "So it would be more similar to B, but I think it would in terms of revenue multiple, it would be slightly lower than B in my opinion. So I would go for revenue multiple of around four x."
+    },
+    {
+      "start": 628.48,
+      "end": 635.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think that's that's fairly logical and makes a lot of sense. So why don't you use that and tell me what do you think the valuation is."
+    },
+    {
+      "start": 635.48,
+      "end": 643.48,
+      "speaker": "SPEAKER_03",
+      "text": "Sure, just if you can give me 20 seconds."
+    },
+    {
+      "start": 643.48,
+      "end": 659.48,
+      "speaker": "SPEAKER_03",
+      "text": "Right. So given bird short has a revenue of 900 million and use a revenue multiple of four x. We'd be looking at a valuation of $3.6 billion."
+    },
+    {
+      "start": 659.48,
+      "end": 683.48,
+      "speaker": "SPEAKER_03",
+      "text": "Right. So I think as a next step, maybe we can look to sort of cross check this using valuation per user. Maybe we can take an estimation of valuation per user and then see if that tallies with bird short's valuation or not."
+    },
+    {
+      "start": 683.48,
+      "end": 686.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think that makes sense."
+    },
+    {
+      "start": 686.48,
+      "end": 688.48,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 688.48,
+      "end": 697.48,
+      "speaker": "SPEAKER_03",
+      "text": "So in terms of valuation per user, I think it would be quite similar to company B's."
+    },
+    {
+      "start": 697.48,
+      "end": 707.48,
+      "speaker": "SPEAKER_03",
+      "text": "I think maybe we can use the same one as company B $10 per user."
+    },
+    {
+      "start": 707.48,
+      "end": 711.48,
+      "speaker": "SPEAKER_02",
+      "text": "So yeah, and any rationale for that."
+    },
+    {
+      "start": 711.48,
+      "end": 723.48,
+      "speaker": "SPEAKER_03",
+      "text": "So I think in terms of a number of users and the annual user growth, it's a bird short sits very closely to company B."
+    },
+    {
+      "start": 723.48,
+      "end": 739.48,
+      "speaker": "SPEAKER_03",
+      "text": "And there's also a wide range of valuations for users across these four companies. So it goes from 3.4 to 18. So 10 is sort of an average would sit in the middle. So that was my rationale behind that."
+    },
+    {
+      "start": 739.48,
+      "end": 742.48,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. Sounds good."
+    },
+    {
+      "start": 742.48,
+      "end": 744.48,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 744.48,
+      "end": 750.48,
+      "speaker": "SPEAKER_03",
+      "text": "So taking $10 per user, we would be."
+    },
+    {
+      "start": 750.48,
+      "end": 767.48,
+      "speaker": "SPEAKER_03",
+      "text": "And 150 million users, we'd be looking at a valuation of 1.5 billion dollars of a bird short, which is sort of well below the 3.6 billion dollar valuation that we had."
+    },
+    {
+      "start": 767.48,
+      "end": 775.48,
+      "speaker": "SPEAKER_03",
+      "text": "And also well, half of the the asking price of bird short sold."
+    },
+    {
+      "start": 775.48,
+      "end": 796.48,
+      "speaker": "SPEAKER_03",
+      "text": "At this point, it seems like not a great buy for John, but I think it would also make sense to look at the more strategic perspective to see whether, you know, there are some additional factors in play that would favor this purchase."
+    },
+    {
+      "start": 796.48,
+      "end": 799.48,
+      "speaker": "SPEAKER_02",
+      "text": "I think that makes complete sense."
+    },
+    {
+      "start": 799.48,
+      "end": 806.48,
+      "speaker": "SPEAKER_02",
+      "text": "I think as a next step, you know, you mentioned on your framework, talking about the strategic fit."
+    },
+    {
+      "start": 806.48,
+      "end": 811.48,
+      "speaker": "SPEAKER_02",
+      "text": "Based on that, I have a question for you, would love to get your thoughts on."
+    },
+    {
+      "start": 811.48,
+      "end": 819.48,
+      "speaker": "SPEAKER_02",
+      "text": "So the acquisition of bird short by Fox industries is being evaluated like a traditional private equity deal where."
+    },
+    {
+      "start": 819.48,
+      "end": 823.48,
+      "speaker": "SPEAKER_02",
+      "text": "There would be no real operational interactions between any of."
+    },
+    {
+      "start": 823.48,
+      "end": 835.48,
+      "speaker": "SPEAKER_02",
+      "text": "His existing companies and bird short, however, John strongly believes that there could be opportunities for new revenue growth and potential cost savings in his combined portfolio."
+    },
+    {
+      "start": 835.48,
+      "end": 843.48,
+      "speaker": "SPEAKER_02",
+      "text": "And wants you to explore bird short from the point of view of acquisition and integration of his media online media company."
+    },
+    {
+      "start": 843.48,
+      "end": 855.48,
+      "speaker": "SPEAKER_02",
+      "text": "And he's asking you to help identify any synergies in revenues or costs that could potentially impact the acquisition."
+    },
+    {
+      "start": 855.48,
+      "end": 858.48,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, okay, sure."
+    },
+    {
+      "start": 858.48,
+      "end": 863.48,
+      "speaker": "SPEAKER_03",
+      "text": "Could I take a couple of minutes just to structure my ideas."
+    },
+    {
+      "start": 863.48,
+      "end": 868.48,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, definitely."
+    },
+    {
+      "start": 868.48,
+      "end": 881.48,
+      "speaker": "SPEAKER_03",
+      "text": "So, yeah, so looking at potential synergies between johns on your social online media company and this social media company, I think."
+    },
+    {
+      "start": 881.48,
+      "end": 887.48,
+      "speaker": "SPEAKER_03",
+      "text": "I would like first like to talk about the revenue synergies and then go into potential cost synergies."
+    },
+    {
+      "start": 887.48,
+      "end": 896.48,
+      "speaker": "SPEAKER_03",
+      "text": "So in the revenue synergies, the first one that comes to mind is potentially integrating the two companies."
+    },
+    {
+      "start": 896.48,
+      "end": 901.48,
+      "speaker": "SPEAKER_03",
+      "text": "So having online media social media company."
+    },
+    {
+      "start": 901.48,
+      "end": 910.48,
+      "speaker": "SPEAKER_03",
+      "text": "So essentially combining an Netflix and Facebook to integrate the two platforms."
+    },
+    {
+      "start": 910.48,
+      "end": 918.48,
+      "speaker": "SPEAKER_03",
+      "text": "Secondly, I think cross advertising would be something that drives revenue for both companies."
+    },
+    {
+      "start": 918.48,
+      "end": 925.48,
+      "speaker": "SPEAKER_03",
+      "text": "So john could advertise is on an online media platform on a social media and vice versa."
+    },
+    {
+      "start": 925.48,
+      "end": 932.48,
+      "speaker": "SPEAKER_03",
+      "text": "Thirdly, I think there would be a lot of potential for cross use of data between these two companies."
+    },
+    {
+      "start": 932.48,
+      "end": 944.48,
+      "speaker": "SPEAKER_03",
+      "text": "So you can use data from the social media platform to understand consumer preferences consumer trends to then potentially push."
+    },
+    {
+      "start": 944.48,
+      "end": 950.48,
+      "speaker": "SPEAKER_03",
+      "text": "The media content to these types of users."
+    },
+    {
+      "start": 950.48,
+      "end": 955.48,
+      "speaker": "SPEAKER_03",
+      "text": "So, yeah, going into my second bucket, the cost synergies."
+    },
+    {
+      "start": 955.48,
+      "end": 964.48,
+      "speaker": "SPEAKER_03",
+      "text": "First, the first cost synergies that come to mind are the integration of the IT services that are used to run these two platforms."
+    },
+    {
+      "start": 964.48,
+      "end": 973.48,
+      "speaker": "SPEAKER_03",
+      "text": "So there could be integration of say cloud services, which could potentially help to reduce costs."
+    },
+    {
+      "start": 973.48,
+      "end": 982.48,
+      "speaker": "SPEAKER_03",
+      "text": "Secondly, we can also look at integrating other departments within each company."
+    },
+    {
+      "start": 982.48,
+      "end": 988.48,
+      "speaker": "SPEAKER_03",
+      "text": "We might not need as many employees to run the two companies simultaneously."
+    },
+    {
+      "start": 988.48,
+      "end": 993.48,
+      "speaker": "SPEAKER_03",
+      "text": "So that's something that could potentially reduce costs."
+    },
+    {
+      "start": 993.48,
+      "end": 1002.48,
+      "speaker": "SPEAKER_03",
+      "text": "And thirdly, we should also take a look at the facilities that are being used by both companies in terms of."
+    },
+    {
+      "start": 1002.48,
+      "end": 1015.48,
+      "speaker": "SPEAKER_03",
+      "text": "Physical locations so that there could be not much, but some room for potential cost savings there."
+    },
+    {
+      "start": 1015.48,
+      "end": 1017.48,
+      "speaker": "SPEAKER_02",
+      "text": "Sounds good."
+    },
+    {
+      "start": 1017.48,
+      "end": 1020.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think that's that's a fair and good evaluation."
+    },
+    {
+      "start": 1020.48,
+      "end": 1025.48,
+      "speaker": "SPEAKER_02",
+      "text": "So what do you think based on these synergies that you've mentioned?"
+    },
+    {
+      "start": 1025.48,
+      "end": 1037.48,
+      "speaker": "SPEAKER_03",
+      "text": "Based on these synergies, I do think there's still the synergies that we I've just mentioned."
+    },
+    {
+      "start": 1037.48,
+      "end": 1048.48,
+      "speaker": "SPEAKER_03",
+      "text": "There's still not strong enough to be the $3 billion valuation that they have right now."
+    },
+    {
+      "start": 1048.48,
+      "end": 1054.48,
+      "speaker": "SPEAKER_03",
+      "text": "There's not a lot of synergies that come into play for that $3 billion valuation."
+    },
+    {
+      "start": 1054.48,
+      "end": 1064.48,
+      "speaker": "SPEAKER_03",
+      "text": "And at this point, I would still say that John should infrastructure purchase this company."
+    },
+    {
+      "start": 1064.48,
+      "end": 1074.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think sounds good. And then is there anything else that you would like to evaluate?"
+    },
+    {
+      "start": 1074.48,
+      "end": 1083.48,
+      "speaker": "SPEAKER_03",
+      "text": "I think to sort of make the case a lot stronger to say, John, don't purchase this company. I think we can look at potential."
+    },
+    {
+      "start": 1083.48,
+      "end": 1089.48,
+      "speaker": "SPEAKER_03",
+      "text": "The final bucket, which is the potential risks involved with the acquisition."
+    },
+    {
+      "start": 1089.48,
+      "end": 1097.48,
+      "speaker": "SPEAKER_03",
+      "text": "So maybe yeah, I think let's look at risks involved with the acquisition."
+    },
+    {
+      "start": 1097.48,
+      "end": 1103.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, sounds good. So would be happy to hear what risks you think there are with the acquisition."
+    },
+    {
+      "start": 1103.48,
+      "end": 1114.48,
+      "speaker": "SPEAKER_03",
+      "text": "So if I can just take a minute just to think of some potential risks."
+    },
+    {
+      "start": 1114.48,
+      "end": 1117.48,
+      "speaker": "SPEAKER_03",
+      "text": "All right."
+    },
+    {
+      "start": 1117.48,
+      "end": 1125.48,
+      "speaker": "SPEAKER_03",
+      "text": "So looking at the potential risks, I would like to segregate it into company level risks and macro level risks."
+    },
+    {
+      "start": 1125.48,
+      "end": 1132.48,
+      "speaker": "SPEAKER_03",
+      "text": "I would first take a look at the financial risks involved with the acquisition."
+    },
+    {
+      "start": 1132.48,
+      "end": 1138.48,
+      "speaker": "SPEAKER_03",
+      "text": "So firstly, a bird short is currently losing money, which is not a great look."
+    },
+    {
+      "start": 1138.48,
+      "end": 1148.48,
+      "speaker": "SPEAKER_03",
+      "text": "And secondly, it is overvalued at $3 billion, which puts John's money at risk."
+    },
+    {
+      "start": 1148.48,
+      "end": 1160.48,
+      "speaker": "SPEAKER_03",
+      "text": "Secondly, looking at the non financial risks involved, I think, John, at this point with this current portfolio doesn't have a lot of expertise to run this company."
+    },
+    {
+      "start": 1160.48,
+      "end": 1168.48,
+      "speaker": "SPEAKER_03",
+      "text": "And there will be a lot of operational risks involved with this purchase."
+    },
+    {
+      "start": 1168.48,
+      "end": 1173.48,
+      "speaker": "SPEAKER_03",
+      "text": "Also, the integration of the two companies is not a very simple straightforward process."
+    },
+    {
+      "start": 1173.48,
+      "end": 1183.48,
+      "speaker": "SPEAKER_03",
+      "text": "It could be tedious, it could take time leading to a lot of extra operational costs."
+    },
+    {
+      "start": 1183.48,
+      "end": 1186.48,
+      "speaker": "SPEAKER_03",
+      "text": "Moving on to my second bucket, the macro risks involved."
+    },
+    {
+      "start": 1186.48,
+      "end": 1191.48,
+      "speaker": "SPEAKER_03",
+      "text": "I think it would be primarily surrounding regulation."
+    },
+    {
+      "start": 1191.48,
+      "end": 1201.48,
+      "speaker": "SPEAKER_03",
+      "text": "So the regulatory landscape right now is constantly evolving and companies are not sure what new regulations are being introduced and when."
+    },
+    {
+      "start": 1201.48,
+      "end": 1205.48,
+      "speaker": "SPEAKER_03",
+      "text": "So that's something that needs to be taken into account."
+    },
+    {
+      "start": 1205.48,
+      "end": 1213.48,
+      "speaker": "SPEAKER_03",
+      "text": "And also the social media landscape is a constantly evolving landscape."
+    },
+    {
+      "start": 1213.48,
+      "end": 1221.48,
+      "speaker": "SPEAKER_03",
+      "text": "So with constantly changing consumer trends, people constantly move jumping from one platform to the other."
+    },
+    {
+      "start": 1221.48,
+      "end": 1227.48,
+      "speaker": "SPEAKER_03",
+      "text": "So it is a pretty risky business to be in."
+    },
+    {
+      "start": 1227.48,
+      "end": 1241.48,
+      "speaker": "SPEAKER_03",
+      "text": "So all in all, I think at this point, it does not seem like a good investment for John mainly because of one, the valuation of the company at $3 billion."
+    },
+    {
+      "start": 1241.48,
+      "end": 1252.48,
+      "speaker": "SPEAKER_03",
+      "text": "And to give in the multiple risk involved with running the company as well as external risks that are not in john's control."
+    },
+    {
+      "start": 1252.48,
+      "end": 1267.48,
+      "speaker": "SPEAKER_03",
+      "text": "So ideally if john wants to proceed with this, he would have to offer a much, you have to negotiate and offer a much lower valuation or potentially look at other acquisition targets."
+    },
+    {
+      "start": 1267.48,
+      "end": 1280.48,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think that's, that's all a fair assessment. So like, you know, I have to close off. Could you maybe synthesize your thoughts for john and given what you what your recommendation is."
+    },
+    {
+      "start": 1280.48,
+      "end": 1281.48,
+      "speaker": "SPEAKER_03",
+      "text": "Sure."
+    },
+    {
+      "start": 1281.48,
+      "end": 1291.48,
+      "speaker": "SPEAKER_03",
+      "text": "So yeah, so again, like I mentioned, I think at this point, it does not seem like birch or does not seem like a good purchase for john mainly one because of."
+    },
+    {
+      "start": 1291.48,
+      "end": 1309.48,
+      "speaker": "SPEAKER_03",
+      "text": "The high valuation at $3 billion and two because of the risks involved with integrating the company as well as external risks that are not under, you know, anyone's control."
+    },
+    {
+      "start": 1309.48,
+      "end": 1333.48,
+      "speaker": "SPEAKER_03",
+      "text": "So looking at the next steps, I think if john really wants to proceed with this acquisition, he would, it would make sense to negotiate a much lower, I don't much lower valuation or potentially look at other acquisition targets."
+    },
+    {
+      "start": 1333.48,
+      "end": 1345.48,
+      "speaker": "SPEAKER_02",
+      "text": "I think that makes sense and that's and thank you so much for that Vikram and just just closing thoughts maybe would you have a number in mind that john should give us an offer for bar chart."
+    },
+    {
+      "start": 1345.48,
+      "end": 1367.48,
+      "speaker": "SPEAKER_03",
+      "text": "So yeah, I think going back to the data chart that we had, I think the lowest valuation, the lowest valuation per user we had was around $3."
+    },
+    {
+      "start": 1367.48,
+      "end": 1382.48,
+      "speaker": "SPEAKER_03",
+      "text": "So maybe using that we can try and estimate what john could potentially offer this for this company, which would be three times 150,000 users."
+    },
+    {
+      "start": 1382.48,
+      "end": 1396.48,
+      "speaker": "SPEAKER_03",
+      "text": "So yeah, around $450 million is something that john would need to, you know, look at to make this worthwhile investment."
+    },
+    {
+      "start": 1396.48,
+      "end": 1398.48,
+      "speaker": "SPEAKER_02",
+      "text": "Thank you so much."
+    },
+    {
+      "start": 1398.48,
+      "end": 1400.48,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you. Thank you, Vishwan, for this case."
+    },
+    {
+      "start": 1400.48,
+      "end": 1413.48,
+      "speaker": "SPEAKER_01",
+      "text": "Hey, everyone. It's Henten Giveshi here, the founder of Rocketblocks. Thank you so much for watching this mock interview video. I hope you found it informative and helpful as you are getting ready to prepare for your own interviews and hopefully landing that job offer."
+    },
+    {
+      "start": 1413.48,
+      "end": 1423.48,
+      "speaker": "SPEAKER_01",
+      "text": "You are excited about we have a ton of great content on the Rocketblocks channel coming out on a weekly basis mock interviews, many lessons and chats with our Rocketblocks experts."
+    },
+    {
+      "start": 1423.48,
+      "end": 1431.48,
+      "speaker": "SPEAKER_01",
+      "text": "So if you haven't subscribed yet already, please do so. There is a big red button below. And if you hit that, you'll get all of our content as soon as it comes out."
+    },
+    {
+      "start": 1431.48,
+      "end": 1433.48,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks for watching and have a great day."
+    }
+  ],
+  "grading": {
+    "communication": 17,
+    "framework": 14,
+    "math": 9,
+    "case_difficulty": 9,
+    "final_summary": 13,
+    "overall_thoughts": "You summarized the case effectively, but struggled to analyze the numbers."
+  }
+}

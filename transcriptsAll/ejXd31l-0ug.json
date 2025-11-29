@@ -1,0 +1,860 @@
+[
+  {
+    "start": 0.0,
+    "end": 22.8,
+    "speaker": "SPEAKER_01",
+    "text": "Hiya! Hi! Now imagine you have a friend who lives in Paris. He wants to quit his job"
+  },
+  {
+    "start": 22.8,
+    "end": 31.520000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "and make a living out of a gas station. He's got no excuse at all with this business."
+  },
+  {
+    "start": 32.4,
+    "end": 41.92,
+    "speaker": "SPEAKER_01",
+    "text": "And once you know from you what is the size of gas stations in Paris? What the size of the"
+  },
+  {
+    "start": 41.92,
+    "end": 51.44,
+    "speaker": "SPEAKER_01",
+    "text": "market is. So he would like you to think of two ways of estimating it. How could you happen?"
+  },
+  {
+    "start": 51.44,
+    "end": 62.160000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. Well that's interesting. I'm just to make sure I understood the question. We're looking"
+  },
+  {
+    "start": 62.160000000000004,
+    "end": 68.4,
+    "speaker": "SPEAKER_00",
+    "text": "for the market size of a gas station in Paris and Paris only and additionally we need to approach"
+  },
+  {
+    "start": 68.4,
+    "end": 75.44000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "it's correct? Correct. Yeah. Okay. And what number regarding market size are we looking for"
+  },
+  {
+    "start": 75.44000000000001,
+    "end": 81.2,
+    "speaker": "SPEAKER_00",
+    "text": "exactly a specific volume and euro? Let's say for the revenue of gas stations or something else?"
+  },
+  {
+    "start": 81.2,
+    "end": 87.60000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Good question. Well let's think of just the number of gas stations because while we could kind of"
+  },
+  {
+    "start": 88.32000000000001,
+    "end": 94.48,
+    "speaker": "SPEAKER_01",
+    "text": "calculate the amount of use with the number of gas stations. Let's simplify it and just find"
+  },
+  {
+    "start": 94.88000000000001,
+    "end": 99.36,
+    "speaker": "SPEAKER_01",
+    "text": "how many gas stations there are in Paris. Okay. We want to know if there's a lot already."
+  },
+  {
+    "start": 99.36,
+    "end": 106.72,
+    "speaker": "SPEAKER_00",
+    "text": "One seven idea of how big a market is. Okay. So no monetary value right now. Okay. Great. Then I'd"
+  },
+  {
+    "start": 106.72,
+    "end": 112.72,
+    "speaker": "SPEAKER_00",
+    "text": "like to have a minute or two in order to broadly think of two strategies. And well afterwards I'd like"
+  },
+  {
+    "start": 112.72,
+    "end": 119.04,
+    "speaker": "SPEAKER_00",
+    "text": "to start with the most promising one and develop it in more detail. Okay. Sounds good. Yeah."
+  },
+  {
+    "start": 125.12,
+    "end": 133.84,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. Well, overall I think we could solve the question by estimating the market size either"
+  },
+  {
+    "start": 133.84,
+    "end": 140.88,
+    "speaker": "SPEAKER_00",
+    "text": "from the supply side or the demand side. So what is that? Well the calculation based on the supply"
+  },
+  {
+    "start": 140.88,
+    "end": 147.6,
+    "speaker": "SPEAKER_00",
+    "text": "side is I think more straightforward and is deductible from the regular distribution of gas stations"
+  },
+  {
+    "start": 147.6,
+    "end": 154.56,
+    "speaker": "SPEAKER_00",
+    "text": "and cities. So for example we say there's one gas station plus correct kilometer and then we just"
+  },
+  {
+    "start": 154.56,
+    "end": 160.95999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "have to estimate the size of Paris and from those two numbers we can estimate the overall number of"
+  },
+  {
+    "start": 160.95999999999998,
+    "end": 170.16,
+    "speaker": "SPEAKER_00",
+    "text": "stations. Yeah. But then the demand side solution is yeah basically based on the demand of gas in"
+  },
+  {
+    "start": 170.16,
+    "end": 178.4,
+    "speaker": "SPEAKER_00",
+    "text": "Paris. So and this is proportional to the amount of vehicles and let's say the vehicles are also"
+  },
+  {
+    "start": 178.4,
+    "end": 184.72,
+    "speaker": "SPEAKER_00",
+    "text": "directly related to the population of Paris. So that is what we need and then we could look at the"
+  },
+  {
+    "start": 184.72,
+    "end": 191.44,
+    "speaker": "SPEAKER_00",
+    "text": "capacity of each gas station and then we are able to do these two numbers to determine how much gas"
+  },
+  {
+    "start": 191.52,
+    "end": 201.04,
+    "speaker": "SPEAKER_01",
+    "text": "stations we need to fulfill this demand of Paris. So you want to divide the demand of the whole city by"
+  },
+  {
+    "start": 201.04,
+    "end": 205.35999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the demand should fill by one gas station? Is that for understanding? Yes exactly."
+  },
+  {
+    "start": 206.4,
+    "end": 213.52,
+    "speaker": "SPEAKER_01",
+    "text": "Interesting. So both ways I think are reasonable which one the demand side or the supply side would"
+  },
+  {
+    "start": 213.52,
+    "end": 223.60000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "you like to start with? And why? I think I prefer the second solution because I think it's more"
+  },
+  {
+    "start": 223.60000000000002,
+    "end": 229.84,
+    "speaker": "SPEAKER_00",
+    "text": "realistic to build gas stations based on demand, simple as that. And additionally the first solution"
+  },
+  {
+    "start": 229.84,
+    "end": 236.16000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "is not as precise because the population density may vary greatly among different quarters of"
+  },
+  {
+    "start": 236.16,
+    "end": 245.12,
+    "speaker": "SPEAKER_00",
+    "text": "Paris. So we have to take that into account and I think this is quite difficult. So would you agree?"
+  },
+  {
+    "start": 246.16,
+    "end": 254.48,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. I would think the demand way of calculating it makes more sense. So I would give you."
+  },
+  {
+    "start": 254.48,
+    "end": 260.4,
+    "speaker": "SPEAKER_00",
+    "text": "Okay great. Well then I'd go on with the second step of my solution and start developing a more"
+  },
+  {
+    "start": 260.4,
+    "end": 270.32,
+    "speaker": "SPEAKER_00",
+    "text": "detailed structure for further calculations. How would you do that? Well I think for a second"
+  },
+  {
+    "start": 273.52,
+    "end": 280.56,
+    "speaker": "SPEAKER_00",
+    "text": "was already outlined in the beginning. The calculation is for me divided into big two big main"
+  },
+  {
+    "start": 280.56,
+    "end": 286.64,
+    "speaker": "SPEAKER_00",
+    "text": "branches. The first one we need to estimate that the overall demand and then the second one"
+  },
+  {
+    "start": 287.28,
+    "end": 297.03999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "the capacity which can be satisfied by one gas station. So first the demand. Exactly then we have"
+  },
+  {
+    "start": 297.68,
+    "end": 307.12,
+    "speaker": "SPEAKER_00",
+    "text": "we have the amount of gas stations. So first the demand of Paris and as I said as well I think this"
+  },
+  {
+    "start": 307.12,
+    "end": 313.36,
+    "speaker": "SPEAKER_00",
+    "text": "mostly depends on vehicles that are in Paris because yeah I assume that these are the only"
+  },
+  {
+    "start": 313.84000000000003,
+    "end": 322.88,
+    "speaker": "SPEAKER_00",
+    "text": "the only customers who buy gas stations. So I want to calculate that and then of course I have"
+  },
+  {
+    "start": 322.88,
+    "end": 333.28000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "to multiply it with the average fuel need of a vehicle and then we've got a amount in"
+  },
+  {
+    "start": 333.28,
+    "end": 344.55999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "these shows let's say. And in order to estimate the amount of vehicles I'd use the"
+  },
+  {
+    "start": 344.55999999999995,
+    "end": 352.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "population as places and try to figure out okay how much percent of the population has a vehicle."
+  },
+  {
+    "start": 353.04,
+    "end": 362.0,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. And then the second branch which gives us the capacity of each gas station."
+  },
+  {
+    "start": 364.24,
+    "end": 367.12,
+    "speaker": "SPEAKER_00",
+    "text": "Well I think let me think about that."
+  },
+  {
+    "start": 367.36,
+    "end": 368.72,
+    "speaker": "SPEAKER_00",
+    "text": "Do you think so?"
+  },
+  {
+    "start": 378.64,
+    "end": 388.72,
+    "speaker": "SPEAKER_00",
+    "text": "Well a simple approach would be to look only once I add the number of vehicles that visit"
+  },
+  {
+    "start": 388.72,
+    "end": 402.56,
+    "speaker": "SPEAKER_00",
+    "text": "a station and then again the amount of gas is bought by each owner. And then again we have to"
+  },
+  {
+    "start": 402.56,
+    "end": 410.24,
+    "speaker": "SPEAKER_00",
+    "text": "to kind of get deeper into the amount of vehicles and so how many vehicles can pass through a station"
+  },
+  {
+    "start": 410.88,
+    "end": 418.88,
+    "speaker": "SPEAKER_00",
+    "text": "and I think the first dimension would be to look at the amount of pumps at each station and then"
+  },
+  {
+    "start": 420.40000000000003,
+    "end": 424.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "well look at how many cars can be provided by one pump."
+  },
+  {
+    "start": 427.92,
+    "end": 433.04,
+    "speaker": "SPEAKER_01",
+    "text": "So would you do that in yearly daily basis, month basis?"
+  },
+  {
+    "start": 433.68,
+    "end": 434.48,
+    "speaker": "SPEAKER_00",
+    "text": "What's the time?"
+  },
+  {
+    "start": 434.48,
+    "end": 442.8,
+    "speaker": "SPEAKER_00",
+    "text": "Oh okay yeah I see what you're getting at. Well I mean for simplicity I would start with a daily"
+  },
+  {
+    "start": 442.8,
+    "end": 448.48,
+    "speaker": "SPEAKER_00",
+    "text": "basis because this way we can keep the numbers small and I mean I think it's still quite easy"
+  },
+  {
+    "start": 448.48,
+    "end": 456.32000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "then to go up further and do it on a monthly or yearly basis we just have to multiply with 30"
+  },
+  {
+    "start": 456.32000000000005,
+    "end": 462.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "and 12 and you see then we're getting big numbers and we can avoid this if we start with the day."
+  },
+  {
+    "start": 463.76000000000005,
+    "end": 470.56,
+    "speaker": "SPEAKER_01",
+    "text": "Okay this is where you make a difference because final number of gas stations should be the same"
+  },
+  {
+    "start": 470.56,
+    "end": 474.64000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "regardless of the time frame. Yeah and the end that counts us out."
+  },
+  {
+    "start": 474.64000000000004,
+    "end": 482.16,
+    "speaker": "SPEAKER_01",
+    "text": "Exactly. Okay so how would you get these numbers? So you said you needed a number of cars,"
+  },
+  {
+    "start": 482.16,
+    "end": 489.92,
+    "speaker": "SPEAKER_01",
+    "text": "number of pumps per station, how many cars are served for by a pump? How many cars per pump?"
+  },
+  {
+    "start": 489.92,
+    "end": 493.76,
+    "speaker": "SPEAKER_01",
+    "text": "So how do you tackle this knowledge you asked of those numbers?"
+  },
+  {
+    "start": 494.64000000000004,
+    "end": 500.56,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah well as you said I mean I don't really know I'm not really ready to that I don't know anything"
+  },
+  {
+    "start": 500.56,
+    "end": 508.88,
+    "speaker": "SPEAKER_00",
+    "text": "about the amount of cars in the city or something like that so I mean I basically have to estimate it"
+  },
+  {
+    "start": 509.6,
+    "end": 516.96,
+    "speaker": "SPEAKER_00",
+    "text": "and as you said I'm just going to reach off the steps"
+  },
+  {
+    "start": 517.9200000000001,
+    "end": 524.88,
+    "speaker": "SPEAKER_00",
+    "text": "and what I think the first the basis we have was the population so that's the thing I would"
+  },
+  {
+    "start": 524.88,
+    "end": 529.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "start with the population of Paris and an interesting question for that is I'm so"
+  },
+  {
+    "start": 531.0400000000001,
+    "end": 536.48,
+    "speaker": "SPEAKER_00",
+    "text": "what how big is Paris I mean I mean are we talking about the greater area with with all the"
+  },
+  {
+    "start": 537.36,
+    "end": 542.72,
+    "speaker": "SPEAKER_00",
+    "text": "the smaller satellites cities around this or just the inner city? We're talking about the inner city"
+  },
+  {
+    "start": 543.2,
+    "end": 549.2,
+    "speaker": "SPEAKER_01",
+    "text": "just here is considered there's like 10 million people. Okay great okay then make it"
+  },
+  {
+    "start": 550.72,
+    "end": 558.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "round okay okay then we can start off with that and now go on with the question okay how many of"
+  },
+  {
+    "start": 558.1600000000001,
+    "end": 567.28,
+    "speaker": "SPEAKER_00",
+    "text": "these people do you have cars and if I'm thinking about Paris while it's a developed city with a"
+  },
+  {
+    "start": 567.28,
+    "end": 574.24,
+    "speaker": "SPEAKER_00",
+    "text": "very good public transportation and of course on the other side it's also very costly living costs"
+  },
+  {
+    "start": 574.24,
+    "end": 581.1999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "limited parking space so I don't think it's very attractive to have that car and yeah so I don't"
+  },
+  {
+    "start": 581.1999999999999,
+    "end": 585.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "think many people have cars and additionally we have to deduct of course all of people that are"
+  },
+  {
+    "start": 585.4399999999999,
+    "end": 592.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "on the 18 and let's say people that are over 80 because they have some life cars anymore so"
+  },
+  {
+    "start": 593.84,
+    "end": 602.08,
+    "speaker": "SPEAKER_00",
+    "text": "I guess and this is also a little bit from some of my experience what people I know around me"
+  },
+  {
+    "start": 602.64,
+    "end": 608.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "have the cars that don't I would say I guess every fifth person on the car so"
+  },
+  {
+    "start": 609.44,
+    "end": 616.0,
+    "speaker": "SPEAKER_00",
+    "text": "yeah I mean that would give us two million private cars and that's another thing we have to"
+  },
+  {
+    "start": 616.0,
+    "end": 622.24,
+    "speaker": "SPEAKER_00",
+    "text": "keep in mind I mean we're just talking about cars right now correct and I mean there are other"
+  },
+  {
+    "start": 622.24,
+    "end": 629.28,
+    "speaker": "SPEAKER_00",
+    "text": "ways of transportation that need any gas so this is yeah I mean for example motorbikes"
+  },
+  {
+    "start": 629.28,
+    "end": 636.32,
+    "speaker": "SPEAKER_00",
+    "text": "and we have to keep that in mind or let's just be good cars okay okay only cars lift"
+  },
+  {
+    "start": 637.52,
+    "end": 644.24,
+    "speaker": "SPEAKER_00",
+    "text": "well this is one one side and the private cars but then of course we also have cars that are not"
+  },
+  {
+    "start": 644.32,
+    "end": 651.6,
+    "speaker": "SPEAKER_00",
+    "text": "privately owned but owned by companies correct so yeah let's let's say commercial cars and"
+  },
+  {
+    "start": 652.48,
+    "end": 661.36,
+    "speaker": "SPEAKER_00",
+    "text": "well also small trucks and whatever is needed to transport things around and"
+  },
+  {
+    "start": 663.52,
+    "end": 673.36,
+    "speaker": "SPEAKER_00",
+    "text": "as we are not as many okay yeah yes definitely and I mean the estimation I would do here at this"
+  },
+  {
+    "start": 673.36,
+    "end": 681.2,
+    "speaker": "SPEAKER_00",
+    "text": "point is about a quarter seems fair so let's say half a million and so overall we would have"
+  },
+  {
+    "start": 681.2,
+    "end": 689.28,
+    "speaker": "SPEAKER_00",
+    "text": "two two point five million vehicles okay so we go on okay well now that we have the number"
+  },
+  {
+    "start": 690.0,
+    "end": 697.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "cars we need the consumption per car and now I would assume that an average car needs about four"
+  },
+  {
+    "start": 697.76,
+    "end": 704.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "liters per day four liters yeah well it's mainly four liters"
+  },
+  {
+    "start": 705.28,
+    "end": 712.0,
+    "speaker": "SPEAKER_00",
+    "text": "they just calculated right yeah I mean it's based on on well let's say an average car needs"
+  },
+  {
+    "start": 712.0,
+    "end": 719.68,
+    "speaker": "SPEAKER_00",
+    "text": "10 liters per 100 kilometers consumption and then we assume that half of the people that have a"
+  },
+  {
+    "start": 719.68,
+    "end": 725.92,
+    "speaker": "SPEAKER_00",
+    "text": "car drive to work every day and let's say that's 70 kilometers and that would lead us to seven"
+  },
+  {
+    "start": 725.92,
+    "end": 732.0,
+    "speaker": "SPEAKER_00",
+    "text": "liters consumption and then we have the other half of the users that drive in regulatory just maybe"
+  },
+  {
+    "start": 732.0,
+    "end": 739.1999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "to purchase groceries once in a while and let's say they drive on average 10 kilometers and that"
+  },
+  {
+    "start": 739.1999999999999,
+    "end": 744.7199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "leads us to one liter consumption so combining both and with an overall average of four liters"
+  },
+  {
+    "start": 744.7199999999999,
+    "end": 752.16,
+    "speaker": "SPEAKER_00",
+    "text": "in the way of average okay okay let's simplify let's take up five liters then okay great and I"
+  },
+  {
+    "start": 752.16,
+    "end": 757.28,
+    "speaker": "SPEAKER_00",
+    "text": "mean the same estimation has to be made for commercial cars and I would expect this to be more"
+  },
+  {
+    "start": 757.92,
+    "end": 764.56,
+    "speaker": "SPEAKER_00",
+    "text": "because they use longer routes and they use the entire day additionally"
+  },
+  {
+    "start": 766.16,
+    "end": 771.76,
+    "speaker": "SPEAKER_00",
+    "text": "the consumption per 100 kilometers is also bigger because small trucks are included and it was"
+  },
+  {
+    "start": 771.76,
+    "end": 781.68,
+    "speaker": "SPEAKER_01",
+    "text": "more okay let's just simplify think that five times bigger or higher so 25 liters per"
+  },
+  {
+    "start": 781.68,
+    "end": 790.64,
+    "speaker": "SPEAKER_01",
+    "text": "commercial be okay 25 what's the total overall consumption of mirrors okay well we know"
+  },
+  {
+    "start": 791.28,
+    "end": 798.88,
+    "speaker": "SPEAKER_00",
+    "text": "the commercial cars with 25 liters per car and we have 0.5 million cars so the good"
+  },
+  {
+    "start": 798.88,
+    "end": 806.8,
+    "speaker": "SPEAKER_00",
+    "text": "gives us 12.5 million liters and on the other side of the private cars there's like no"
+  },
+  {
+    "start": 807.12,
+    "end": 815.04,
+    "speaker": "SPEAKER_00",
+    "text": "million cars 0.5 okay and that's what we estimated in the beginning right"
+  },
+  {
+    "start": 815.04,
+    "end": 822.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "time 35 liters yes exactly and the private cars we estimated were two million cars and then"
+  },
+  {
+    "start": 822.64,
+    "end": 830.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "what you said five liters consumption gives us an additional 10 million liters so 10 plus"
+  },
+  {
+    "start": 830.08,
+    "end": 840.72,
+    "speaker": "SPEAKER_00",
+    "text": "12.5 millimeters equals 22.5 million okay so now we have the image exactly so to sum up the overall"
+  },
+  {
+    "start": 840.72,
+    "end": 849.12,
+    "speaker": "SPEAKER_00",
+    "text": "demand of Paris is 22.5 millimeter of gas and now this gas needs to be supplied by the gas stations"
+  },
+  {
+    "start": 849.12,
+    "end": 857.6,
+    "speaker": "SPEAKER_00",
+    "text": "so that's what I'm calculating next that's the second big branch I had okay and well first"
+  },
+  {
+    "start": 858.5600000000001,
+    "end": 867.2,
+    "speaker": "SPEAKER_00",
+    "text": "we started at the bottom again and we need the amount of pumps per station and from experience and"
+  },
+  {
+    "start": 867.2,
+    "end": 874.88,
+    "speaker": "SPEAKER_00",
+    "text": "just having a picture in my mind of a typical gas station there are about eight pumps at the station"
+  },
+  {
+    "start": 874.88,
+    "end": 884.24,
+    "speaker": "SPEAKER_00",
+    "text": "so yeah and then let's say okay takes about a quarter of an hour to get to get the"
+  },
+  {
+    "start": 884.32,
+    "end": 892.88,
+    "speaker": "SPEAKER_00",
+    "text": "careful gas I get out, fill it up and pay well this leads us to two four cars power that can be"
+  },
+  {
+    "start": 892.88,
+    "end": 899.2,
+    "speaker": "SPEAKER_00",
+    "text": "supplied on average of course I mean there are peak times and no times and I'm just assuming that"
+  },
+  {
+    "start": 899.76,
+    "end": 907.36,
+    "speaker": "SPEAKER_00",
+    "text": "and I'm also assuming now that stations are open for 10 hours and I think this is reasonable"
+  },
+  {
+    "start": 907.44,
+    "end": 914.88,
+    "speaker": "SPEAKER_00",
+    "text": "because if we for example have a station that is is a 24-7 gas station that is open all night"
+  },
+  {
+    "start": 914.88,
+    "end": 920.64,
+    "speaker": "SPEAKER_00",
+    "text": "must assuming that these are negligible because there's not much of customers not many of customers"
+  },
+  {
+    "start": 921.6,
+    "end": 932.64,
+    "speaker": "SPEAKER_00",
+    "text": "so yeah so now that we have I mean we have we have four cars per pump per hour and 10 hours"
+  },
+  {
+    "start": 932.64,
+    "end": 941.04,
+    "speaker": "SPEAKER_00",
+    "text": "open so we have 40 cars per pump every day and now at each gas station are eight so we have eight"
+  },
+  {
+    "start": 941.04,
+    "end": 951.92,
+    "speaker": "SPEAKER_00",
+    "text": "times 40 and this is now 320 cars per gas station okay so if we have 10 cars to make it easier"
+  },
+  {
+    "start": 951.92,
+    "end": 960.08,
+    "speaker": "SPEAKER_01",
+    "text": "only yeah then we have cars with weeks via with one gas station then we have 400 cars I mean just 10"
+  },
+  {
+    "start": 960.08,
+    "end": 970.0,
+    "speaker": "SPEAKER_00",
+    "text": "times 40 okay okay so we use use that number okay yeah that's probably easier to calculate with okay"
+  },
+  {
+    "start": 972.5600000000001,
+    "end": 980.24,
+    "speaker": "SPEAKER_00",
+    "text": "so and now we have to to find out how much a car needs per visit how much how much gas is"
+  },
+  {
+    "start": 980.24,
+    "end": 988.96,
+    "speaker": "SPEAKER_00",
+    "text": "a sport and can you tell me something about that well let's say one you know many leaders"
+  },
+  {
+    "start": 988.96,
+    "end": 996.88,
+    "speaker": "SPEAKER_01",
+    "text": "that are buys per visit I think that you can think of commercial cars my 100 leaders because"
+  },
+  {
+    "start": 996.88,
+    "end": 1005.28,
+    "speaker": "SPEAKER_01",
+    "text": "there's some trucks so could be 100 and every car usually fill out their tanks right so let's say"
+  },
+  {
+    "start": 1005.36,
+    "end": 1018.88,
+    "speaker": "SPEAKER_00",
+    "text": "okay 15 years okay um well I'm what I am now is calculating and then there's some kind of"
+  },
+  {
+    "start": 1018.88,
+    "end": 1026.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "weighted average of consumption and we know that about one fifth of all cars are commercial cars"
+  },
+  {
+    "start": 1027.6000000000001,
+    "end": 1037.68,
+    "speaker": "SPEAKER_00",
+    "text": "by 100 liter and the rest the private cars by 50 so we have 100 times one fifth plus 50 times"
+  },
+  {
+    "start": 1038.24,
+    "end": 1045.8400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "four fifth well and there's a 60 liters okay so I still average number of leaders a car"
+  },
+  {
+    "start": 1045.8400000000001,
+    "end": 1052.64,
+    "speaker": "SPEAKER_00",
+    "text": "on I mean these are all average numbers sure so average mean commercial and private of course"
+  },
+  {
+    "start": 1052.64,
+    "end": 1061.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "as there's always some deviation and now we're able to to calculate the capacity of a gas station"
+  },
+  {
+    "start": 1062.4,
+    "end": 1070.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "and we have 400 cars and we know that each car buys an average 60 liters so"
+  },
+  {
+    "start": 1070.8,
+    "end": 1079.1999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "can you let this out this gives us 24,000 liters so that's 60 pounds"
+  },
+  {
+    "start": 1080.8,
+    "end": 1086.72,
+    "speaker": "SPEAKER_00",
+    "text": "400 exactly so well there's the solution for the second big branch we had"
+  },
+  {
+    "start": 1087.76,
+    "end": 1094.24,
+    "speaker": "SPEAKER_00",
+    "text": "well so there's only one final calculation to do to answer the cases question and this is"
+  },
+  {
+    "start": 1095.1200000000001,
+    "end": 1105.04,
+    "speaker": "SPEAKER_00",
+    "text": "the the amount of gas stations we have and well we know that there's peris needs 22.5 million liters"
+  },
+  {
+    "start": 1105.04,
+    "end": 1118.08,
+    "speaker": "SPEAKER_00",
+    "text": "and each station provides 24,000 liters so okay well I mean let's just say roughly about"
+  },
+  {
+    "start": 1118.08,
+    "end": 1126.0,
+    "speaker": "SPEAKER_00",
+    "text": "900 gas stations it's a bit more but this is the amount of gas station needed to supply"
+  },
+  {
+    "start": 1126.0,
+    "end": 1135.28,
+    "speaker": "SPEAKER_00",
+    "text": "peris and thus this is well the market size we have. Well as next step I mean in order to validate"
+  },
+  {
+    "start": 1135.28,
+    "end": 1141.6799999999998,
+    "speaker": "SPEAKER_00",
+    "text": "this number we could start with the second approach which our client or our friend wanted"
+  },
+  {
+    "start": 1142.0800000000002,
+    "end": 1149.3600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "and estimated from the supply side and comparing numbers if they're similar. Okay I think we have"
+  },
+  {
+    "start": 1149.3600000000001,
+    "end": 1156.96,
+    "speaker": "SPEAKER_01",
+    "text": "a good number so a man or a gas station is a good number it's more as okay. Great thank you."
+  }
+]

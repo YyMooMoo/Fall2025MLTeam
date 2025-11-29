@@ -1,0 +1,3996 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "speaker": "SPEAKER_00",
+      "text": "In this video, we'll go through an interactive case from BCG's case library."
+    },
+    {
+      "start": 5.76,
+      "end": 10.200000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "These interactive cases on BCG's website are pretty cool in that they try to simulate"
+    },
+    {
+      "start": 10.200000000000001,
+      "end": 14.88,
+      "speaker": "SPEAKER_00",
+      "text": "an interview experience by asking you questions and giving you prompts based on the answers"
+    },
+    {
+      "start": 14.88,
+      "end": 16.52,
+      "speaker": "SPEAKER_00",
+      "text": "that you submit."
+    },
+    {
+      "start": 16.52,
+      "end": 20.080000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "So before we get started, please take a quick second to give this video a like to help"
+    },
+    {
+      "start": 20.080000000000002,
+      "end": 22.32,
+      "speaker": "SPEAKER_00",
+      "text": "with the YouTube algorithm."
+    },
+    {
+      "start": 22.32,
+      "end": 23.64,
+      "speaker": "SPEAKER_00",
+      "text": "Let's begin."
+    },
+    {
+      "start": 23.64,
+      "end": 29.2,
+      "speaker": "SPEAKER_00",
+      "text": "Today, we'll discuss the case of our client, a low-cost carrier airline that is among"
+    },
+    {
+      "start": 29.2,
+      "end": 31.28,
+      "speaker": "SPEAKER_00",
+      "text": "the largest in Asia."
+    },
+    {
+      "start": 31.28,
+      "end": 36.6,
+      "speaker": "SPEAKER_00",
+      "text": "After initial losses when it was established a few years ago, it has finally become profitable."
+    },
+    {
+      "start": 36.6,
+      "end": 41.8,
+      "speaker": "SPEAKER_00",
+      "text": "The company's profitability is now threatened, however, by a sharp increase in field prices"
+    },
+    {
+      "start": 41.8,
+      "end": 44.480000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "to the tune of more than 50%."
+    },
+    {
+      "start": 44.480000000000004,
+      "end": 49.4,
+      "speaker": "SPEAKER_00",
+      "text": "The client is therefore questioning its business model and looking to develop an immediate"
+    },
+    {
+      "start": 49.4,
+      "end": 54.84,
+      "speaker": "SPEAKER_00",
+      "text": "response to the situation that will ensure a return to profitability."
+    },
+    {
+      "start": 54.84,
+      "end": 60.6,
+      "speaker": "SPEAKER_00",
+      "text": "Your task is also to help develop a strategy to ensure that the company remains profitable"
+    },
+    {
+      "start": 60.6,
+      "end": 62.92,
+      "speaker": "SPEAKER_00",
+      "text": "for the years to come."
+    },
+    {
+      "start": 62.92,
+      "end": 67.24000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So at first glance, this seems like a fairly straightforward profitability case."
+    },
+    {
+      "start": 67.24000000000001,
+      "end": 71.72,
+      "speaker": "SPEAKER_00",
+      "text": "I'm predicting that we'll probably have to break down the drivers of profitability"
+    },
+    {
+      "start": 71.72,
+      "end": 78.72,
+      "speaker": "SPEAKER_00",
+      "text": "and identify which kind of levers of profitability we can pull to return the company to profitability."
+    },
+    {
+      "start": 78.72,
+      "end": 80.72,
+      "speaker": "SPEAKER_00",
+      "text": "So let's see how this goes."
+    },
+    {
+      "start": 81.72,
+      "end": 86.76,
+      "speaker": "SPEAKER_00",
+      "text": "All right, so our interviewer is Mickey, who will guide us through this interview."
+    },
+    {
+      "start": 86.76,
+      "end": 87.76,
+      "speaker": "SPEAKER_00",
+      "text": "Very cool."
+    },
+    {
+      "start": 87.76,
+      "end": 91.16,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so how would you approach this case?"
+    },
+    {
+      "start": 91.16,
+      "end": 93.72,
+      "speaker": "SPEAKER_00",
+      "text": "Got three options here to choose from."
+    },
+    {
+      "start": 93.72,
+      "end": 99.4,
+      "speaker": "SPEAKER_00",
+      "text": "Option one is saying that we want to understand what affects demand for our client services."
+    },
+    {
+      "start": 99.4,
+      "end": 103.32,
+      "speaker": "SPEAKER_00",
+      "text": "Option two suggests that we need to increase sales."
+    },
+    {
+      "start": 103.32,
+      "end": 108.03999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Option three suggests looking at factors that affect our client's profitability."
+    },
+    {
+      "start": 108.32000000000001,
+      "end": 110.64,
+      "speaker": "SPEAKER_00",
+      "text": "So here I'm clearly going to go with option three."
+    },
+    {
+      "start": 110.64,
+      "end": 116.2,
+      "speaker": "SPEAKER_00",
+      "text": "We want to look at what are the factors affecting the profitability so we can prioritize"
+    },
+    {
+      "start": 116.2,
+      "end": 119.52000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "and identify which one we want to focus on."
+    },
+    {
+      "start": 119.52000000000001,
+      "end": 123.68,
+      "speaker": "SPEAKER_00",
+      "text": "I think option one here looking at demand that's more on the revenue side."
+    },
+    {
+      "start": 123.68,
+      "end": 129.28,
+      "speaker": "SPEAKER_00",
+      "text": "We still don't know whether this is a revenue or cost solution that we're going to end up finding."
+    },
+    {
+      "start": 129.28,
+      "end": 132.72,
+      "speaker": "SPEAKER_00",
+      "text": "For the second option, it also suggests looking to increase sales."
+    },
+    {
+      "start": 132.72,
+      "end": 136.88,
+      "speaker": "SPEAKER_00",
+      "text": "I think this is a proposal that's pretty, you know, premature."
+    },
+    {
+      "start": 136.88,
+      "end": 140.68,
+      "speaker": "SPEAKER_00",
+      "text": "We don't have any information that suggests we need to increase sales."
+    },
+    {
+      "start": 140.68,
+      "end": 142.76,
+      "speaker": "SPEAKER_00",
+      "text": "So therefore, I would go with option three."
+    },
+    {
+      "start": 142.76,
+      "end": 151.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we can look at both revenues and costs as, you know, to identify what factors impact profitability."
+    },
+    {
+      "start": 151.0,
+      "end": 152.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 152.79999999999998,
+      "end": 156.92,
+      "speaker": "SPEAKER_00",
+      "text": "What factors should we explore for their impact on our client's profitability?"
+    },
+    {
+      "start": 156.92,
+      "end": 157.96,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 157.96,
+      "end": 162.88,
+      "speaker": "SPEAKER_00",
+      "text": "Option one, profitability is revenue minus costs because costs are going up."
+    },
+    {
+      "start": 162.88,
+      "end": 165.35999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "The client needs to find ways to increase revenue."
+    },
+    {
+      "start": 165.4,
+      "end": 168.32000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Again, we probably need to look at both revenue and costs."
+    },
+    {
+      "start": 168.32000000000002,
+      "end": 170.20000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm ruling this one out."
+    },
+    {
+      "start": 170.20000000000002,
+      "end": 173.88000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Profitability is significantly affected by the market situation."
+    },
+    {
+      "start": 173.88000000000002,
+      "end": 177.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I'd like to explore what competitors are doing."
+    },
+    {
+      "start": 177.0,
+      "end": 179.24,
+      "speaker": "SPEAKER_00",
+      "text": "So there's nothing wrong with looking at competitors,"
+    },
+    {
+      "start": 179.24,
+      "end": 181.56,
+      "speaker": "SPEAKER_00",
+      "text": "but I think this will probably come later on in the case."
+    },
+    {
+      "start": 181.56,
+      "end": 186.0,
+      "speaker": "SPEAKER_00",
+      "text": "We really need to identify what is the driver we want to prioritize,"
+    },
+    {
+      "start": 186.0,
+      "end": 188.56,
+      "speaker": "SPEAKER_00",
+      "text": "whether it's on the revenue side or cost side."
+    },
+    {
+      "start": 188.56,
+      "end": 191.72000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "And so looking at three, I think this one,"
+    },
+    {
+      "start": 191.76,
+      "end": 195.4,
+      "speaker": "SPEAKER_00",
+      "text": "the client needs to either increase revenues, decrease costs, or both."
+    },
+    {
+      "start": 195.4,
+      "end": 197.8,
+      "speaker": "SPEAKER_00",
+      "text": "So I'd like some information on these key drivers."
+    },
+    {
+      "start": 197.8,
+      "end": 200.64,
+      "speaker": "SPEAKER_00",
+      "text": "That's basically exactly their approach that we're looking for."
+    },
+    {
+      "start": 200.64,
+      "end": 204.4,
+      "speaker": "SPEAKER_00",
+      "text": "So we're going to go with option three here."
+    },
+    {
+      "start": 204.4,
+      "end": 205.07999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 205.07999999999998,
+      "end": 208.12,
+      "speaker": "SPEAKER_00",
+      "text": "Which of these factors would you like to explore first?"
+    },
+    {
+      "start": 208.12,
+      "end": 213.76,
+      "speaker": "SPEAKER_00",
+      "text": "So we could either look to increase revenues or we could look to lower costs."
+    },
+    {
+      "start": 213.76,
+      "end": 216.2,
+      "speaker": "SPEAKER_00",
+      "text": "I think at this point, there's no wrong answer here."
+    },
+    {
+      "start": 216.2,
+      "end": 219.2,
+      "speaker": "SPEAKER_00",
+      "text": "You can start with either, I think by the end of the case,"
+    },
+    {
+      "start": 219.2,
+      "end": 222.48,
+      "speaker": "SPEAKER_00",
+      "text": "you'll probably have looked into both of these areas."
+    },
+    {
+      "start": 222.48,
+      "end": 223.88,
+      "speaker": "SPEAKER_00",
+      "text": "So it really doesn't matter."
+    },
+    {
+      "start": 223.88,
+      "end": 226.32,
+      "speaker": "SPEAKER_00",
+      "text": "So we'll just go with revenues first for this."
+    },
+    {
+      "start": 226.32,
+      "end": 230.2,
+      "speaker": "SPEAKER_00",
+      "text": "But looking at costs first would be just as great."
+    },
+    {
+      "start": 231.51999999999998,
+      "end": 232.51999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 232.51999999999998,
+      "end": 233.35999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 233.35999999999999,
+      "end": 236.67999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think are the key drivers of revenues for a client?"
+    },
+    {
+      "start": 236.67999999999998,
+      "end": 237.72,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 237.72,
+      "end": 240.0,
+      "speaker": "SPEAKER_00",
+      "text": "So three options again here."
+    },
+    {
+      "start": 240.0,
+      "end": 242.95999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I think that ticket sales would be the key driver."
+    },
+    {
+      "start": 242.95999999999998,
+      "end": 247.56,
+      "speaker": "SPEAKER_00",
+      "text": "I think it's true, but I think there's also other factors that contribute to revenue,"
+    },
+    {
+      "start": 247.56,
+      "end": 251.8,
+      "speaker": "SPEAKER_00",
+      "text": "such as the meals they serve on planes, baggage fees, etc."
+    },
+    {
+      "start": 251.8,
+      "end": 253.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So I don't think answer ones that complete."
+    },
+    {
+      "start": 255.64000000000001,
+      "end": 261.0,
+      "speaker": "SPEAKER_00",
+      "text": "Answer two says it would be driven by ticket sales and other sources of revenue."
+    },
+    {
+      "start": 261.0,
+      "end": 262.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 262.0,
+      "end": 264.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "So that would include the sources that we listed."
+    },
+    {
+      "start": 264.84000000000003,
+      "end": 269.12,
+      "speaker": "SPEAKER_00",
+      "text": "In option three, revenues would be a function of the number of passengers."
+    },
+    {
+      "start": 270.16,
+      "end": 274.52,
+      "speaker": "SPEAKER_00",
+      "text": "So while that is true, I think answer two is a bit more precise."
+    },
+    {
+      "start": 274.52,
+      "end": 280.24,
+      "speaker": "SPEAKER_00",
+      "text": "It says, and it lays out that our revenues are ticket sales and other sources of revenue,"
+    },
+    {
+      "start": 280.24,
+      "end": 284.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "which is basically non-ticket sales, which makes it a very kind of me see answer,"
+    },
+    {
+      "start": 284.59999999999997,
+      "end": 287.24,
+      "speaker": "SPEAKER_00",
+      "text": "because you're looking at ticket sales and non-ticket sales."
+    },
+    {
+      "start": 287.24,
+      "end": 289.24,
+      "speaker": "SPEAKER_00",
+      "text": "Very clean, very clear."
+    },
+    {
+      "start": 289.24,
+      "end": 290.91999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "So I'll go with option two here."
+    },
+    {
+      "start": 293.44,
+      "end": 293.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 293.71999999999997,
+      "end": 295.64,
+      "speaker": "SPEAKER_00",
+      "text": "That's mostly right for our client."
+    },
+    {
+      "start": 295.64,
+      "end": 301.0,
+      "speaker": "SPEAKER_00",
+      "text": "Revenues are primarily driven by ticket sales, but our client also has some additional sources"
+    },
+    {
+      "start": 301.0,
+      "end": 302.0,
+      "speaker": "SPEAKER_00",
+      "text": "of revenue."
+    },
+    {
+      "start": 302.0,
+      "end": 305.28,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think our client can do to increase revenues?"
+    },
+    {
+      "start": 305.28,
+      "end": 306.44,
+      "speaker": "SPEAKER_00",
+      "text": "Two options."
+    },
+    {
+      "start": 306.44,
+      "end": 307.6,
+      "speaker": "SPEAKER_00",
+      "text": "Let's see."
+    },
+    {
+      "start": 307.6,
+      "end": 312.72,
+      "speaker": "SPEAKER_00",
+      "text": "So the first one says they want to explore the option of increasing ticket sales first."
+    },
+    {
+      "start": 312.72,
+      "end": 317.44,
+      "speaker": "SPEAKER_00",
+      "text": "The client needs to either increase the price of tickets or the number of customers,"
+    },
+    {
+      "start": 317.44,
+      "end": 321.2,
+      "speaker": "SPEAKER_00",
+      "text": "because revenue is, you know, quantity times price."
+    },
+    {
+      "start": 321.2,
+      "end": 323.92,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So one, that makes total sense."
+    },
+    {
+      "start": 323.92,
+      "end": 327.24,
+      "speaker": "SPEAKER_00",
+      "text": "Right. If you want to increase revenues, you either increase quantity or you increase"
+    },
+    {
+      "start": 327.24,
+      "end": 329.52,
+      "speaker": "SPEAKER_00",
+      "text": "price or you do some combination of both."
+    },
+    {
+      "start": 330.52,
+      "end": 332.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Let's look at answer choice two."
+    },
+    {
+      "start": 332.59999999999997,
+      "end": 339.76,
+      "speaker": "SPEAKER_00",
+      "text": "This says, I like to explore the option of increasing non-ticket sources of revenue and increase"
+    },
+    {
+      "start": 339.76,
+      "end": 344.96,
+      "speaker": "SPEAKER_00",
+      "text": "in these sources of revenue could have a tremendous effect on the overall revenues of the company."
+    },
+    {
+      "start": 344.96,
+      "end": 345.96,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 345.96,
+      "end": 352.32,
+      "speaker": "SPEAKER_00",
+      "text": "So we need to decide whether to prioritize ticket sales or non-ticket sales."
+    },
+    {
+      "start": 352.32,
+      "end": 356.2,
+      "speaker": "SPEAKER_00",
+      "text": "Since revenues, it says is primarily driven by ticket sales."
+    },
+    {
+      "start": 356.52,
+      "end": 358.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to lean towards answer one here."
+    },
+    {
+      "start": 358.71999999999997,
+      "end": 363.32,
+      "speaker": "SPEAKER_00",
+      "text": "We can always come back and look at, you know, non-ticket sale revenues."
+    },
+    {
+      "start": 363.32,
+      "end": 368.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "But I think answer one here lays out that we're going to start with the biggest driver of"
+    },
+    {
+      "start": 368.15999999999997,
+      "end": 374.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "revenues and answer one also clearly breaks it down into quantity and price."
+    },
+    {
+      "start": 374.15999999999997,
+      "end": 375.68,
+      "speaker": "SPEAKER_00",
+      "text": "So we're going to go with option one here."
+    },
+    {
+      "start": 377.68,
+      "end": 380.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. How would you like to proceed?"
+    },
+    {
+      "start": 380.15999999999997,
+      "end": 381.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 381.08,
+      "end": 382.36,
+      "speaker": "SPEAKER_00",
+      "text": "Three options."
+    },
+    {
+      "start": 382.36,
+      "end": 386.88,
+      "speaker": "SPEAKER_00",
+      "text": "The first option says revenue from ticket sales need to go up."
+    },
+    {
+      "start": 386.88,
+      "end": 389.16,
+      "speaker": "SPEAKER_00",
+      "text": "They will go up if customers buy more tickets."
+    },
+    {
+      "start": 389.16,
+      "end": 393.76,
+      "speaker": "SPEAKER_00",
+      "text": "So the client has to work toward increasing the number of customers by offering discounted"
+    },
+    {
+      "start": 393.76,
+      "end": 395.68,
+      "speaker": "SPEAKER_00",
+      "text": "ticket prices."
+    },
+    {
+      "start": 395.68,
+      "end": 401.16,
+      "speaker": "SPEAKER_00",
+      "text": "So part of this is true, but we don't really know whether we should be increasing prices"
+    },
+    {
+      "start": 401.16,
+      "end": 405.0,
+      "speaker": "SPEAKER_00",
+      "text": "to increase revenues or discounting prices to increase quantity."
+    },
+    {
+      "start": 405.0,
+      "end": 411.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "I think suggesting offering discounted ticket prices where we have, you know, no data yet"
+    },
+    {
+      "start": 411.4,
+      "end": 413.52,
+      "speaker": "SPEAKER_00",
+      "text": "is premature answer."
+    },
+    {
+      "start": 413.52,
+      "end": 416.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I don't really like answer one."
+    },
+    {
+      "start": 416.08,
+      "end": 421.12,
+      "speaker": "SPEAKER_00",
+      "text": "For answer two, ticket sales are a function of ticket prices and number of tickets sold."
+    },
+    {
+      "start": 421.12,
+      "end": 424.52,
+      "speaker": "SPEAKER_00",
+      "text": "So increasing one or both of these would increase ticket sales."
+    },
+    {
+      "start": 424.52,
+      "end": 425.52,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 425.52,
+      "end": 429.35999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "I think that's very clear, very me see kind of way of doing things."
+    },
+    {
+      "start": 429.35999999999996,
+      "end": 433.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Option three, I'd like to investigate whether it would be possible to increase ticket"
+    },
+    {
+      "start": 433.15999999999997,
+      "end": 434.67999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "prices."
+    },
+    {
+      "start": 434.67999999999995,
+      "end": 440.88,
+      "speaker": "SPEAKER_00",
+      "text": "So here for option three, it's fine, but it's not as, you know, me see or, you know,"
+    },
+    {
+      "start": 440.88,
+      "end": 443.96,
+      "speaker": "SPEAKER_00",
+      "text": "completely exhaustive as option two."
+    },
+    {
+      "start": 443.96,
+      "end": 445.56,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to lean two for now."
+    },
+    {
+      "start": 445.56,
+      "end": 449.36,
+      "speaker": "SPEAKER_00",
+      "text": "So slightly better answer than three."
+    },
+    {
+      "start": 449.36,
+      "end": 451.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 451.32,
+      "end": 455.92,
+      "speaker": "SPEAKER_00",
+      "text": "How would you go about exploring the feasibility of increasing ticket prices?"
+    },
+    {
+      "start": 455.92,
+      "end": 460.12,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one says I'd like to find out more about the LCC business model."
+    },
+    {
+      "start": 460.12,
+      "end": 461.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 461.12,
+      "end": 462.12,
+      "speaker": "SPEAKER_00",
+      "text": "Seems reasonable."
+    },
+    {
+      "start": 462.12,
+      "end": 465.8,
+      "speaker": "SPEAKER_00",
+      "text": "If you understand the business model, you can understand how changing prices will impact"
+    },
+    {
+      "start": 465.8,
+      "end": 467.2,
+      "speaker": "SPEAKER_00",
+      "text": "revenues."
+    },
+    {
+      "start": 467.2,
+      "end": 469.24,
+      "speaker": "SPEAKER_00",
+      "text": "Option two says they want to look into the competition."
+    },
+    {
+      "start": 469.24,
+      "end": 472.2,
+      "speaker": "SPEAKER_00",
+      "text": "I assume they're facing a similar situations."
+    },
+    {
+      "start": 472.2,
+      "end": 476.68,
+      "speaker": "SPEAKER_00",
+      "text": "Again, I think at this point, it's too early to start looking at competitors and doing"
+    },
+    {
+      "start": 476.68,
+      "end": 477.68,
+      "speaker": "SPEAKER_00",
+      "text": "benchmarking."
+    },
+    {
+      "start": 477.68,
+      "end": 482.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "You know, the first step in these profitability cases, we really need to identify what"
+    },
+    {
+      "start": 482.40000000000003,
+      "end": 487.92,
+      "speaker": "SPEAKER_00",
+      "text": "lever of profitability, whether on the revenue or cost side, we need to focus on to return"
+    },
+    {
+      "start": 487.92,
+      "end": 490.48,
+      "speaker": "SPEAKER_00",
+      "text": "the company to profitability."
+    },
+    {
+      "start": 490.48,
+      "end": 495.08,
+      "speaker": "SPEAKER_00",
+      "text": "And answer three says I'd like to investigate whether there are other factors such as regulatory"
+    },
+    {
+      "start": 495.08,
+      "end": 499.04,
+      "speaker": "SPEAKER_00",
+      "text": "mechanisms that will prevent an increase in ticket prices."
+    },
+    {
+      "start": 499.04,
+      "end": 504.16,
+      "speaker": "SPEAKER_00",
+      "text": "So answer three here is so specific, focusing on regulatory mechanisms."
+    },
+    {
+      "start": 504.16,
+      "end": 508.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "And in addition, this focuses on, you know, kind of what are the constraints of increasing"
+    },
+    {
+      "start": 508.84000000000003,
+      "end": 513.6,
+      "speaker": "SPEAKER_00",
+      "text": "ticket prices, whether than focusing on whether or not it makes sense to increase ticket"
+    },
+    {
+      "start": 513.6,
+      "end": 514.6,
+      "speaker": "SPEAKER_00",
+      "text": "prices."
+    },
+    {
+      "start": 514.6,
+      "end": 516.28,
+      "speaker": "SPEAKER_00",
+      "text": "So don't like option three."
+    },
+    {
+      "start": 516.28,
+      "end": 522.28,
+      "speaker": "SPEAKER_00",
+      "text": "I think option one is our best choice here to first understand the business model to understand"
+    },
+    {
+      "start": 522.28,
+      "end": 526.28,
+      "speaker": "SPEAKER_00",
+      "text": "the impact of increasing ticket prices on revenues."
+    },
+    {
+      "start": 526.28,
+      "end": 527.52,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 528.24,
+      "end": 532.96,
+      "speaker": "SPEAKER_00",
+      "text": "Well, revenues for LCC players are mainly driven by ticket sales."
+    },
+    {
+      "start": 532.96,
+      "end": 537.96,
+      "speaker": "SPEAKER_00",
+      "text": "Most operators in the LCC market offer low fares in order to provide attractive pricing"
+    },
+    {
+      "start": 537.96,
+      "end": 541.56,
+      "speaker": "SPEAKER_00",
+      "text": "for consumers and thereby stimulate demand."
+    },
+    {
+      "start": 541.56,
+      "end": 547.0,
+      "speaker": "SPEAKER_00",
+      "text": "Therefore, keeping costs low as well as achieving growth to increase revenues are key components"
+    },
+    {
+      "start": 547.0,
+      "end": 548.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "of their business model."
+    },
+    {
+      "start": 548.4399999999999,
+      "end": 549.64,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, that makes sense."
+    },
+    {
+      "start": 549.64,
+      "end": 556.0,
+      "speaker": "SPEAKER_00",
+      "text": "You keep prices low so that you get more consumers to buy and more tickets end up being sold."
+    },
+    {
+      "start": 556.0,
+      "end": 559.76,
+      "speaker": "SPEAKER_00",
+      "text": "So let's see what our answer choices are here."
+    },
+    {
+      "start": 559.76,
+      "end": 563.56,
+      "speaker": "SPEAKER_00",
+      "text": "Number one says we need to reduce prices to attract more customers."
+    },
+    {
+      "start": 563.56,
+      "end": 565.48,
+      "speaker": "SPEAKER_00",
+      "text": "Again, there's no data to back this."
+    },
+    {
+      "start": 565.48,
+      "end": 568.76,
+      "speaker": "SPEAKER_00",
+      "text": "So I think this would be a premature recommendation."
+    },
+    {
+      "start": 568.76,
+      "end": 573.12,
+      "speaker": "SPEAKER_00",
+      "text": "Answer two says I think increasing prices is not a real option for us because we may lose"
+    },
+    {
+      "start": 573.12,
+      "end": 574.72,
+      "speaker": "SPEAKER_00",
+      "text": "that on competition."
+    },
+    {
+      "start": 574.72,
+      "end": 576.96,
+      "speaker": "SPEAKER_00",
+      "text": "So ticket prices should remain stable."
+    },
+    {
+      "start": 576.96,
+      "end": 579.72,
+      "speaker": "SPEAKER_00",
+      "text": "Again, there's no data backing this, right?"
+    },
+    {
+      "start": 579.72,
+      "end": 586.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We have a hypothesis that if prices increase quantity decreases, but does price increase"
+    },
+    {
+      "start": 586.6800000000001,
+      "end": 589.96,
+      "speaker": "SPEAKER_00",
+      "text": "large enough such that it offsets the decreasing quantity?"
+    },
+    {
+      "start": 589.96,
+      "end": 592.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "That's the key question we really need to know."
+    },
+    {
+      "start": 592.8000000000001,
+      "end": 598.0,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice three says even though pricing is very competitive, I'd like to determine whether"
+    },
+    {
+      "start": 598.0,
+      "end": 600.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "an increase in prices could increase sales revenue."
+    },
+    {
+      "start": 600.9200000000001,
+      "end": 603.76,
+      "speaker": "SPEAKER_00",
+      "text": "So here I think we go with answer three."
+    },
+    {
+      "start": 603.76,
+      "end": 609.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We really need to calculate or figure out whether increasing prices will increase revenue"
+    },
+    {
+      "start": 610.04,
+      "end": 612.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "or decrease revenue overall."
+    },
+    {
+      "start": 612.4399999999999,
+      "end": 614.88,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one and two, there's no data backing them."
+    },
+    {
+      "start": 614.88,
+      "end": 617.52,
+      "speaker": "SPEAKER_00",
+      "text": "So let's go with answer choice three."
+    },
+    {
+      "start": 617.52,
+      "end": 620.68,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, how would you determine that?"
+    },
+    {
+      "start": 620.68,
+      "end": 624.4,
+      "speaker": "SPEAKER_00",
+      "text": "So we could look at the data on current sales and prices."
+    },
+    {
+      "start": 624.4,
+      "end": 626.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "That's answer choice one."
+    },
+    {
+      "start": 626.7199999999999,
+      "end": 631.4,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two, we could look at past data on the impact of a ticket price increase"
+    },
+    {
+      "start": 631.4,
+      "end": 632.4,
+      "speaker": "SPEAKER_00",
+      "text": "in sales."
+    },
+    {
+      "start": 632.4,
+      "end": 637.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And the answer three is we could look at sales data for the competition and draw conclusions."
+    },
+    {
+      "start": 637.96,
+      "end": 643.44,
+      "speaker": "SPEAKER_00",
+      "text": "So here I think it's always best to go with data that your own company has because competitors"
+    },
+    {
+      "start": 643.44,
+      "end": 647.64,
+      "speaker": "SPEAKER_00",
+      "text": "might be competing in slightly different markets, slightly different customer segments."
+    },
+    {
+      "start": 647.64,
+      "end": 649.96,
+      "speaker": "SPEAKER_00",
+      "text": "They might be doing different routes."
+    },
+    {
+      "start": 649.96,
+      "end": 655.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So that might not be an Apple staples kind of benchmark to look at."
+    },
+    {
+      "start": 655.2800000000001,
+      "end": 660.96,
+      "speaker": "SPEAKER_00",
+      "text": "So among one and two, current or historical data, I always lean towards current data as"
+    },
+    {
+      "start": 660.96,
+      "end": 665.48,
+      "speaker": "SPEAKER_00",
+      "text": "it's the latest historical data could be a chance it could be a bit outdated."
+    },
+    {
+      "start": 665.48,
+      "end": 670.88,
+      "speaker": "SPEAKER_00",
+      "text": "So I would slightly lean towards answer choice one here because it's focusing on current"
+    },
+    {
+      "start": 670.88,
+      "end": 671.88,
+      "speaker": "SPEAKER_00",
+      "text": "data."
+    },
+    {
+      "start": 671.88,
+      "end": 677.72,
+      "speaker": "SPEAKER_00",
+      "text": "All right, so here's the relevant data."
+    },
+    {
+      "start": 677.72,
+      "end": 678.72,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 678.72,
+      "end": 683.28,
+      "speaker": "SPEAKER_00",
+      "text": "So I think we have our first math calculation problem here."
+    },
+    {
+      "start": 683.28,
+      "end": 688.16,
+      "speaker": "SPEAKER_00",
+      "text": "By what percentage does the client need to increase the average ticket price to maintain"
+    },
+    {
+      "start": 688.16,
+      "end": 689.16,
+      "speaker": "SPEAKER_00",
+      "text": "its profits?"
+    },
+    {
+      "start": 689.16,
+      "end": 691.24,
+      "speaker": "SPEAKER_00",
+      "text": "You're giving the following information."
+    },
+    {
+      "start": 691.24,
+      "end": 698.64,
+      "speaker": "SPEAKER_00",
+      "text": "We have sales, profit margin, expected field price increase, and that current field costs"
+    },
+    {
+      "start": 698.64,
+      "end": 702.52,
+      "speaker": "SPEAKER_00",
+      "text": "are half as high as non-fuel costs."
+    },
+    {
+      "start": 702.52,
+      "end": 706.24,
+      "speaker": "SPEAKER_00",
+      "text": "And what percentage does the client need to increase the average ticket price to maintain"
+    },
+    {
+      "start": 706.24,
+      "end": 707.24,
+      "speaker": "SPEAKER_00",
+      "text": "profits?"
+    },
+    {
+      "start": 707.24,
+      "end": 708.24,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 708.24,
+      "end": 715.16,
+      "speaker": "SPEAKER_00",
+      "text": "So I think here we basically need to figure out how much field costs are increasing by and"
+    },
+    {
+      "start": 715.16,
+      "end": 720.4,
+      "speaker": "SPEAKER_00",
+      "text": "we would need to increase sales by that same amount and calculate what percentage increase"
+    },
+    {
+      "start": 720.4,
+      "end": 723.4,
+      "speaker": "SPEAKER_00",
+      "text": "in sales that would be."
+    },
+    {
+      "start": 723.4,
+      "end": 733.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So if sales is 1,500 million and profit margins 20%, that means costs are 80% of that."
+    },
+    {
+      "start": 733.4399999999999,
+      "end": 739.4,
+      "speaker": "SPEAKER_00",
+      "text": "So 80% of 1500 million is 1200 million."
+    },
+    {
+      "start": 739.4,
+      "end": 746.76,
+      "speaker": "SPEAKER_00",
+      "text": "And we know that of the 1200 million costs, fuel costs are half as high as non-fuel costs."
+    },
+    {
+      "start": 746.76,
+      "end": 753.68,
+      "speaker": "SPEAKER_00",
+      "text": "So if fuel costs are 400 million, non-fuel is 800 million and that gets us the 1200 million"
+    },
+    {
+      "start": 753.68,
+      "end": 754.84,
+      "speaker": "SPEAKER_00",
+      "text": "costs."
+    },
+    {
+      "start": 754.84,
+      "end": 761.42,
+      "speaker": "SPEAKER_00",
+      "text": "So fuel costs 400 million, the expected field price increases 50%, 50% increase on 400"
+    },
+    {
+      "start": 761.42,
+      "end": 763.76,
+      "speaker": "SPEAKER_00",
+      "text": "million is 600 million."
+    },
+    {
+      "start": 763.76,
+      "end": 764.76,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 764.76,
+      "end": 767.36,
+      "speaker": "SPEAKER_00",
+      "text": "So it increases by 200 million."
+    },
+    {
+      "start": 767.36,
+      "end": 773.12,
+      "speaker": "SPEAKER_00",
+      "text": "So if costs go up by 200 million, sales also need to go up by 200 million to maintain"
+    },
+    {
+      "start": 773.12,
+      "end": 775.08,
+      "speaker": "SPEAKER_00",
+      "text": "the same amount of profits."
+    },
+    {
+      "start": 775.08,
+      "end": 779.64,
+      "speaker": "SPEAKER_00",
+      "text": "So sales would need to go from 1500 to 1700."
+    },
+    {
+      "start": 779.64,
+      "end": 786.96,
+      "speaker": "SPEAKER_00",
+      "text": "So in terms of a percent increase, that is 200 million over 1500 million, which is roughly"
+    },
+    {
+      "start": 786.96,
+      "end": 789.96,
+      "speaker": "SPEAKER_00",
+      "text": "13.3%."
+    },
+    {
+      "start": 789.96,
+      "end": 792.96,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 792.96,
+      "end": 795.08,
+      "speaker": "SPEAKER_03",
+      "text": "Correct."
+    },
+    {
+      "start": 795.08,
+      "end": 796.08,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 796.08,
+      "end": 804.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we have our first chart here and this question asks, if prices were increased by 13.3"
+    },
+    {
+      "start": 805.08,
+      "end": 809.08,
+      "speaker": "SPEAKER_00",
+      "text": "what would be the impact on demand?"
+    },
+    {
+      "start": 809.08,
+      "end": 810.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 810.08,
+      "end": 814.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we have price on the y-axis and demand on the x-axis."
+    },
+    {
+      "start": 814.08,
+      "end": 816.08,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 816.08,
+      "end": 824.08,
+      "speaker": "SPEAKER_00",
+      "text": "And I think this chart is basically saying if price goes up by 1%, demand will go down by 2%."
+    },
+    {
+      "start": 824.08,
+      "end": 831.08,
+      "speaker": "SPEAKER_00",
+      "text": "And this is basically a graph of price elasticity, which measures, you know, how much quantity"
+    },
+    {
+      "start": 831.58,
+      "end": 836.08,
+      "speaker": "SPEAKER_00",
+      "text": "sold changes for a given change in price."
+    },
+    {
+      "start": 836.08,
+      "end": 842.08,
+      "speaker": "SPEAKER_00",
+      "text": "So if things are very elastic, a small drop in price will have a huge change in quantity"
+    },
+    {
+      "start": 842.08,
+      "end": 849.08,
+      "speaker": "SPEAKER_00",
+      "text": "sold versus if things are in elastic, changes in price don't really impact the quantity of"
+    },
+    {
+      "start": 849.08,
+      "end": 850.08,
+      "speaker": "SPEAKER_00",
+      "text": "units sold."
+    },
+    {
+      "start": 850.08,
+      "end": 857.08,
+      "speaker": "SPEAKER_00",
+      "text": "So here we have the elasticity being if price goes up by 1%, demand goes down by 2%."
+    },
+    {
+      "start": 858.08,
+      "end": 865.08,
+      "speaker": "SPEAKER_00",
+      "text": "So if we increased sales price by 13.3%, then demand should go down by twice that."
+    },
+    {
+      "start": 865.08,
+      "end": 868.08,
+      "speaker": "SPEAKER_00",
+      "text": "So that's 26.6%."
+    },
+    {
+      "start": 868.08,
+      "end": 875.08,
+      "speaker": "SPEAKER_00",
+      "text": "So looking at our answer choices here, demand would definitely change and it would drop by"
+    },
+    {
+      "start": 875.08,
+      "end": 878.08,
+      "speaker": "SPEAKER_00",
+      "text": "26.6%."
+    },
+    {
+      "start": 878.08,
+      "end": 881.08,
+      "speaker": "SPEAKER_03",
+      "text": "Option 3 here."
+    },
+    {
+      "start": 881.08,
+      "end": 883.08,
+      "speaker": "SPEAKER_03",
+      "text": "Great."
+    },
+    {
+      "start": 883.08,
+      "end": 886.08,
+      "speaker": "SPEAKER_00",
+      "text": "So what do you conclude from your calculations?"
+    },
+    {
+      "start": 886.08,
+      "end": 887.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 887.08,
+      "end": 892.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice one says that price is elastic."
+    },
+    {
+      "start": 892.08,
+      "end": 893.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 893.08,
+      "end": 897.08,
+      "speaker": "SPEAKER_00",
+      "text": "A hike in prices would lead to a drop and take its sold."
+    },
+    {
+      "start": 897.08,
+      "end": 900.08,
+      "speaker": "SPEAKER_00",
+      "text": "Therefore, we should resist the temptation to increase prices."
+    },
+    {
+      "start": 900.08,
+      "end": 902.08,
+      "speaker": "SPEAKER_00",
+      "text": "I agree with that."
+    },
+    {
+      "start": 902.08,
+      "end": 908.08,
+      "speaker": "SPEAKER_00",
+      "text": "Although price goes up, quantity sold goes down way more such that overall revenues go down."
+    },
+    {
+      "start": 908.08,
+      "end": 914.08,
+      "speaker": "SPEAKER_00",
+      "text": "So it's two says that basically says that increasing prices by 13.3% would increase revenues"
+    },
+    {
+      "start": 914.08,
+      "end": 915.08,
+      "speaker": "SPEAKER_00",
+      "text": "sufficiently."
+    },
+    {
+      "start": 915.08,
+      "end": 916.08,
+      "speaker": "SPEAKER_00",
+      "text": "You know, that's wrong."
+    },
+    {
+      "start": 916.08,
+      "end": 918.08,
+      "speaker": "SPEAKER_00",
+      "text": "Increasing prices would decrease revenues."
+    },
+    {
+      "start": 918.08,
+      "end": 924.08,
+      "speaker": "SPEAKER_00",
+      "text": "An answer choice three says that prices are in elastic and we clearly know that's wrong from the"
+    },
+    {
+      "start": 924.08,
+      "end": 926.08,
+      "speaker": "SPEAKER_00",
+      "text": "previous elasticity chart."
+    },
+    {
+      "start": 926.08,
+      "end": 928.08,
+      "speaker": "SPEAKER_00",
+      "text": "Prices are elastic."
+    },
+    {
+      "start": 928.08,
+      "end": 932.08,
+      "speaker": "SPEAKER_00",
+      "text": "If price goes up 1%, demand goes down by 2%."
+    },
+    {
+      "start": 932.08,
+      "end": 937.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice one here is the clear one."
+    },
+    {
+      "start": 937.08,
+      "end": 940.08,
+      "speaker": "SPEAKER_00",
+      "text": "So you're saying that increasing ticket prices is not a feasible option."
+    },
+    {
+      "start": 940.08,
+      "end": 942.08,
+      "speaker": "SPEAKER_00",
+      "text": "How would you like to proceed now?"
+    },
+    {
+      "start": 942.08,
+      "end": 943.08,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 943.08,
+      "end": 949.08,
+      "speaker": "SPEAKER_00",
+      "text": "An answer choice one says that they want to look into increasing the number of tickets sold,"
+    },
+    {
+      "start": 949.08,
+      "end": 952.08,
+      "speaker": "SPEAKER_00",
+      "text": "exploring ways of increasing the number of passengers."
+    },
+    {
+      "start": 952.08,
+      "end": 953.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 953.08,
+      "end": 956.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think that makes a logical next step, right?"
+    },
+    {
+      "start": 956.08,
+      "end": 958.08,
+      "speaker": "SPEAKER_00",
+      "text": "We chose to focus on revenues."
+    },
+    {
+      "start": 958.08,
+      "end": 962.08,
+      "speaker": "SPEAKER_00",
+      "text": "We looked into the possibility of increasing prices."
+    },
+    {
+      "start": 962.08,
+      "end": 964.08,
+      "speaker": "SPEAKER_00",
+      "text": "You know, we hit a dead end there."
+    },
+    {
+      "start": 964.08,
+      "end": 968.08,
+      "speaker": "SPEAKER_00",
+      "text": "So now we can look into the possibility of increasing quantity sold."
+    },
+    {
+      "start": 968.08,
+      "end": 975.08,
+      "speaker": "SPEAKER_00",
+      "text": "An answer choice two says that because prices is not a workable option, we should look into costs."
+    },
+    {
+      "start": 975.08,
+      "end": 981.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I do think we'll need to look into costs, but I think it logically doesn't make sense to do that now."
+    },
+    {
+      "start": 981.08,
+      "end": 983.08,
+      "speaker": "SPEAKER_00",
+      "text": "We're looking further into revenues."
+    },
+    {
+      "start": 983.08,
+      "end": 984.08,
+      "speaker": "SPEAKER_00",
+      "text": "We explored price."
+    },
+    {
+      "start": 984.08,
+      "end": 989.08,
+      "speaker": "SPEAKER_00",
+      "text": "We now need to explore quantity before I feel comfortable moving on to costs."
+    },
+    {
+      "start": 989.08,
+      "end": 995.08,
+      "speaker": "SPEAKER_00",
+      "text": "To kind of fully and rigorously go through the revenue, kind of driver of profitability."
+    },
+    {
+      "start": 995.08,
+      "end": 1006.08,
+      "speaker": "SPEAKER_00",
+      "text": "So while I do think we'll look into costs later, I think it makes more sense to continue focusing on revenue in particular quantity before we dive into costs."
+    },
+    {
+      "start": 1006.08,
+      "end": 1010.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice one."
+    },
+    {
+      "start": 1010.08,
+      "end": 1014.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So what would you like to know to judge the feasibility of this option?"
+    },
+    {
+      "start": 1014.08,
+      "end": 1015.08,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 1015.08,
+      "end": 1016.08,
+      "speaker": "SPEAKER_00",
+      "text": "Three choices."
+    },
+    {
+      "start": 1016.08,
+      "end": 1022.08,
+      "speaker": "SPEAKER_00",
+      "text": "First choice says we want to know if the client could offer discounts to attract more customers."
+    },
+    {
+      "start": 1022.08,
+      "end": 1023.08,
+      "speaker": "SPEAKER_00",
+      "text": "That seems logical, right?"
+    },
+    {
+      "start": 1023.08,
+      "end": 1025.08,
+      "speaker": "SPEAKER_00",
+      "text": "We considered price increases."
+    },
+    {
+      "start": 1025.08,
+      "end": 1030.08,
+      "speaker": "SPEAKER_00",
+      "text": "So now we can consider price discounts in order to drive up quantity."
+    },
+    {
+      "start": 1030.08,
+      "end": 1036.08,
+      "speaker": "SPEAKER_00",
+      "text": "Second choice says we could opt for bigger aircraft to accommodate more passengers."
+    },
+    {
+      "start": 1036.08,
+      "end": 1044.08,
+      "speaker": "SPEAKER_00",
+      "text": "So this one doesn't really make much business sense for an airline to change their aircraft is a huge cost."
+    },
+    {
+      "start": 1044.08,
+      "end": 1054.08,
+      "speaker": "SPEAKER_00",
+      "text": "And I don't think proposing this very specific solution right now makes a ton of sense given the client is experiencing a decline in profits."
+    },
+    {
+      "start": 1054.08,
+      "end": 1060.08,
+      "speaker": "SPEAKER_00",
+      "text": "And answer choice three says that they want to know whether most of the clients' flights are flying at full capacity."
+    },
+    {
+      "start": 1060.08,
+      "end": 1065.08,
+      "speaker": "SPEAKER_00",
+      "text": "If not, they could look to increase capacity utilization."
+    },
+    {
+      "start": 1065.08,
+      "end": 1078.08,
+      "speaker": "SPEAKER_00",
+      "text": "I do like this idea, but I think it makes more logical sense to explore a price decrease, whether that impacts quantity given that we just looked into doing a price increase."
+    },
+    {
+      "start": 1078.08,
+      "end": 1083.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think for utilization, that factor is more on the cost side, right?"
+    },
+    {
+      "start": 1083.08,
+      "end": 1089.08,
+      "speaker": "SPEAKER_00",
+      "text": "If an airline is more utilized, you have lower costs because you need to fly fewer planes."
+    },
+    {
+      "start": 1089.08,
+      "end": 1096.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice three is something more on the cost side and we're still focused on revenues. So answer choice three doesn't make that much sense."
+    },
+    {
+      "start": 1096.08,
+      "end": 1100.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we'll go with answer choice one."
+    },
+    {
+      "start": 1100.08,
+      "end": 1107.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, this would have a similar effect to reducing ticket prices, giving that load factors are very high."
+    },
+    {
+      "start": 1107.08,
+      "end": 1110.08,
+      "speaker": "SPEAKER_00",
+      "text": "There isn't much upside in reducing ticket prices."
+    },
+    {
+      "start": 1110.08,
+      "end": 1113.08,
+      "speaker": "SPEAKER_00",
+      "text": "In fact, doing so might actually reduce revenues."
+    },
+    {
+      "start": 1113.08,
+      "end": 1115.08,
+      "speaker": "SPEAKER_00",
+      "text": "What other options could we consider?"
+    },
+    {
+      "start": 1115.08,
+      "end": 1118.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so it seems like we've hit a dead end here."
+    },
+    {
+      "start": 1118.08,
+      "end": 1121.08,
+      "speaker": "SPEAKER_00",
+      "text": "We can't toggle price, whether increasing it or decreasing it."
+    },
+    {
+      "start": 1121.08,
+      "end": 1128.08,
+      "speaker": "SPEAKER_00",
+      "text": "And it doesn't seem like we can really increase quantity since it said that load factors are very high."
+    },
+    {
+      "start": 1128.08,
+      "end": 1131.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we'll probably want to shift directions here."
+    },
+    {
+      "start": 1131.08,
+      "end": 1134.08,
+      "speaker": "SPEAKER_00",
+      "text": "So let's see what the answer choices give us."
+    },
+    {
+      "start": 1134.08,
+      "end": 1138.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one says does the client have any unused capacity?"
+    },
+    {
+      "start": 1138.08,
+      "end": 1143.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client could look at ways to increase the occupancy of its existing flights."
+    },
+    {
+      "start": 1143.08,
+      "end": 1149.08,
+      "speaker": "SPEAKER_00",
+      "text": "And answer choice two says the client could opt for bigger aircraft to accommodate more passengers."
+    },
+    {
+      "start": 1149.08,
+      "end": 1152.08,
+      "speaker": "SPEAKER_00",
+      "text": "Again, I don't like going with bigger aircraft."
+    },
+    {
+      "start": 1152.08,
+      "end": 1161.08,
+      "speaker": "SPEAKER_00",
+      "text": "Aircraft is a huge fixed cost and seems really unlikely that the client would be able to pull that lever to fix its profitability problems."
+    },
+    {
+      "start": 1161.08,
+      "end": 1167.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I'd have to go with answer choice one here, looking at unused capacity."
+    },
+    {
+      "start": 1167.08,
+      "end": 1173.08,
+      "speaker": "SPEAKER_00",
+      "text": "I feel like one actually contradicts them saying that load factors are very high."
+    },
+    {
+      "start": 1173.08,
+      "end": 1180.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I don't totally love answer choice one, but it's the better choice compared to answer choice two."
+    },
+    {
+      "start": 1180.08,
+      "end": 1184.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm just going to go with one."
+    },
+    {
+      "start": 1184.08,
+      "end": 1188.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, what you're trying to ask about is called the load factor."
+    },
+    {
+      "start": 1188.08,
+      "end": 1192.08,
+      "speaker": "SPEAKER_00",
+      "text": "Yes, the load factor for most flights is at or near industry best practice."
+    },
+    {
+      "start": 1192.08,
+      "end": 1195.08,
+      "speaker": "SPEAKER_00",
+      "text": "It will be difficult to improve this further."
+    },
+    {
+      "start": 1195.08,
+      "end": 1200.08,
+      "speaker": "SPEAKER_00",
+      "text": "No new information here. Let's see what the answer choices say."
+    },
+    {
+      "start": 1200.08,
+      "end": 1205.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one says that they should find measures to increase the number of customers to increase revenues."
+    },
+    {
+      "start": 1205.08,
+      "end": 1209.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think we hit this dead end already, so that's probably not it."
+    },
+    {
+      "start": 1209.08,
+      "end": 1216.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two. Well, it doesn't look like the client can take any measures, at least in the short term, to increase the number of tickets sold."
+    },
+    {
+      "start": 1216.08,
+      "end": 1221.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I think answer choice two makes sense here. That's the right conclusion."
+    },
+    {
+      "start": 1221.08,
+      "end": 1224.08,
+      "speaker": "SPEAKER_00",
+      "text": "We basically can't really increase quantity."
+    },
+    {
+      "start": 1224.08,
+      "end": 1227.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, how would you like to proceed now?"
+    },
+    {
+      "start": 1227.08,
+      "end": 1235.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client could provide value added services to passengers, and the client could approach new areas. Cargo is one example."
+    },
+    {
+      "start": 1235.08,
+      "end": 1239.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice one, I think logically makes a lot of sense."
+    },
+    {
+      "start": 1239.08,
+      "end": 1243.08,
+      "speaker": "SPEAKER_00",
+      "text": "We are focused on revenues. We looked at revenues from ticket sales."
+    },
+    {
+      "start": 1243.08,
+      "end": 1246.08,
+      "speaker": "SPEAKER_00",
+      "text": "So now we can look into revenues from non-ticket sales."
+    },
+    {
+      "start": 1246.08,
+      "end": 1249.08,
+      "speaker": "SPEAKER_00",
+      "text": "So number one is very clear, very logical."
+    },
+    {
+      "start": 1249.08,
+      "end": 1254.08,
+      "speaker": "SPEAKER_00",
+      "text": "Number two is such a random specific answer looking into cargo."
+    },
+    {
+      "start": 1254.08,
+      "end": 1257.08,
+      "speaker": "SPEAKER_00",
+      "text": "Totally out and left field."
+    },
+    {
+      "start": 1257.08,
+      "end": 1262.08,
+      "speaker": "SPEAKER_00",
+      "text": "Doesn't make a lot of logical sense to pursue this thinking right now."
+    },
+    {
+      "start": 1262.08,
+      "end": 1267.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think answer one here is a clear choice."
+    },
+    {
+      "start": 1267.08,
+      "end": 1274.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, our client is pretty active in this area and is at industry best practice for ancillary revenue."
+    },
+    {
+      "start": 1274.08,
+      "end": 1277.08,
+      "speaker": "SPEAKER_00",
+      "text": "So it looks like there isn't much additional opportunity here."
+    },
+    {
+      "start": 1277.08,
+      "end": 1282.08,
+      "speaker": "SPEAKER_00",
+      "text": "We've seen that increasing non-ticket sources of revenue doesn't look like a feasible option."
+    },
+    {
+      "start": 1282.08,
+      "end": 1284.08,
+      "speaker": "SPEAKER_00",
+      "text": "How would you like to proceed?"
+    },
+    {
+      "start": 1284.08,
+      "end": 1289.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we've reached a dead end here. It looks like, you know, on the revenue side, there's really nothing we can do."
+    },
+    {
+      "start": 1289.08,
+      "end": 1293.08,
+      "speaker": "SPEAKER_00",
+      "text": "So let's see what answer choices we have."
+    },
+    {
+      "start": 1293.08,
+      "end": 1301.08,
+      "speaker": "SPEAKER_00",
+      "text": "The first one says, because increasing non-ticket revenue is not feasible, I'd like to explore how the client could increase revenue from ticketing."
+    },
+    {
+      "start": 1301.08,
+      "end": 1306.08,
+      "speaker": "SPEAKER_00",
+      "text": "Number two says, I would like to see if the client could increase the number of customers."
+    },
+    {
+      "start": 1306.08,
+      "end": 1310.08,
+      "speaker": "SPEAKER_00",
+      "text": "So two is clearly a dead end. We've kind of explored that."
+    },
+    {
+      "start": 1310.08,
+      "end": 1313.08,
+      "speaker": "SPEAKER_00",
+      "text": "So that leaves no choice as to answer one."
+    },
+    {
+      "start": 1313.08,
+      "end": 1318.08,
+      "speaker": "SPEAKER_00",
+      "text": "I don't really understand what this case means by increased revenue from ticketing."
+    },
+    {
+      "start": 1318.08,
+      "end": 1321.08,
+      "speaker": "SPEAKER_00",
+      "text": "I thought we already covered that by looking into ticket sales."
+    },
+    {
+      "start": 1321.08,
+      "end": 1326.08,
+      "speaker": "SPEAKER_00",
+      "text": "But, you know, I for sure at this point, no option two is the worst option than one."
+    },
+    {
+      "start": 1326.08,
+      "end": 1328.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to go with option one."
+    },
+    {
+      "start": 1328.08,
+      "end": 1331.08,
+      "speaker": "SPEAKER_00",
+      "text": "I would have liked to propose moving on to cost at this point."
+    },
+    {
+      "start": 1331.08,
+      "end": 1334.08,
+      "speaker": "SPEAKER_00",
+      "text": "I feel like we've hit a dead end on revenue."
+    },
+    {
+      "start": 1334.08,
+      "end": 1336.08,
+      "speaker": "SPEAKER_00",
+      "text": "And then that makes the logical choice."
+    },
+    {
+      "start": 1336.08,
+      "end": 1338.08,
+      "speaker": "SPEAKER_00",
+      "text": "But that's not an answer choice here."
+    },
+    {
+      "start": 1338.08,
+      "end": 1342.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we'll go with one and see what happens."
+    },
+    {
+      "start": 1342.08,
+      "end": 1344.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, how would you like to proceed?"
+    },
+    {
+      "start": 1344.08,
+      "end": 1348.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so it seems like we're shifting into costs now."
+    },
+    {
+      "start": 1348.08,
+      "end": 1351.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one says, field costs are the largest component."
+    },
+    {
+      "start": 1351.08,
+      "end": 1358.08,
+      "speaker": "SPEAKER_00",
+      "text": "However, since field costs have gone up, the client can't do much about its field costs, so it could look into non-field costs."
+    },
+    {
+      "start": 1359.08,
+      "end": 1364.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we have no data to suggest that the client can't do anything on field costs."
+    },
+    {
+      "start": 1364.08,
+      "end": 1368.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think we need to consider both field and non-field costs at this point."
+    },
+    {
+      "start": 1368.08,
+      "end": 1374.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two says, field costs have increased and staff costs are difficult to reduce."
+    },
+    {
+      "start": 1374.08,
+      "end": 1380.08,
+      "speaker": "SPEAKER_00",
+      "text": "I would like to explore whether the client would reduce costs related to maintenance and overhaul."
+    },
+    {
+      "start": 1380.08,
+      "end": 1384.08,
+      "speaker": "SPEAKER_00",
+      "text": "Again, this is a very specific cost that's being called out."
+    },
+    {
+      "start": 1384.08,
+      "end": 1390.08,
+      "speaker": "SPEAKER_00",
+      "text": "I would like to look at how much prefer if we just started by thinking about costs as field costs and non-field costs,"
+    },
+    {
+      "start": 1390.08,
+      "end": 1395.08,
+      "speaker": "SPEAKER_00",
+      "text": "and then identifying which are the cost levers we can pull."
+    },
+    {
+      "start": 1395.08,
+      "end": 1398.08,
+      "speaker": "SPEAKER_00",
+      "text": "And it seems like that's what answer choice three says here."
+    },
+    {
+      "start": 1398.08,
+      "end": 1405.08,
+      "speaker": "SPEAKER_00",
+      "text": "Focus on field and non-field costs, and we should explore whether the client could purchase fuel at lower prices,"
+    },
+    {
+      "start": 1405.08,
+      "end": 1407.08,
+      "speaker": "SPEAKER_00",
+      "text": "or look at reducing non-field costs."
+    },
+    {
+      "start": 1407.08,
+      "end": 1413.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I think three here is the very me see clear kind of logical answer."
+    },
+    {
+      "start": 1415.08,
+      "end": 1423.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, field costs are the most important lever in variable costs, but the client can try to reduce non-field costs too."
+    },
+    {
+      "start": 1423.08,
+      "end": 1431.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice one says the client should look at discontinuing the least utilized flights to reduce fuel consumption."
+    },
+    {
+      "start": 1431.08,
+      "end": 1436.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two says the client should look at reducing non-field costs."
+    },
+    {
+      "start": 1436.08,
+      "end": 1442.08,
+      "speaker": "SPEAKER_00",
+      "text": "And answer choice three says field costs are going to increase reducing non-field costs would compensate for that."
+    },
+    {
+      "start": 1443.08,
+      "end": 1450.08,
+      "speaker": "SPEAKER_00",
+      "text": "So here answer choice one is a very specific, very strong kind of hypothesis recommendation."
+    },
+    {
+      "start": 1450.08,
+      "end": 1455.08,
+      "speaker": "SPEAKER_00",
+      "text": "I don't think there's much data. I'd be too extreme to suggest that at this point."
+    },
+    {
+      "start": 1455.08,
+      "end": 1459.08,
+      "speaker": "SPEAKER_00",
+      "text": "Two and three are both suggesting looking at non-field costs."
+    },
+    {
+      "start": 1459.08,
+      "end": 1467.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two says the client should look into it, while answer choice three says that non-field costs would compensate for that."
+    },
+    {
+      "start": 1467.08,
+      "end": 1474.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we don't know if non-field costs is a lever that can effectively be pulled to return the client to profitability."
+    },
+    {
+      "start": 1474.08,
+      "end": 1481.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I wouldn't necessarily say that it's going to compensate for it. That's a bit too strong."
+    },
+    {
+      "start": 1481.08,
+      "end": 1485.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to go with answer choice two here."
+    },
+    {
+      "start": 1486.08,
+      "end": 1489.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, well, that's a feasible suggestion."
+    },
+    {
+      "start": 1489.08,
+      "end": 1496.08,
+      "speaker": "SPEAKER_00",
+      "text": "Our past experience suggests that we may be able to reduce non-field costs by 5 to 10% in the short term."
+    },
+    {
+      "start": 1496.08,
+      "end": 1501.08,
+      "speaker": "SPEAKER_00",
+      "text": "But do you think that would be enough given the steep hike and field prices?"
+    },
+    {
+      "start": 1501.08,
+      "end": 1507.08,
+      "speaker": "SPEAKER_00",
+      "text": "You may need the following information. Sales are 1500 million. Profit margin is 20%."
+    },
+    {
+      "start": 1507.08,
+      "end": 1512.08,
+      "speaker": "SPEAKER_00",
+      "text": "Field price increases 50%. And current field costs are half as much as non-field costs."
+    },
+    {
+      "start": 1512.08,
+      "end": 1515.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, that's the same information we got before."
+    },
+    {
+      "start": 1515.08,
+      "end": 1525.08,
+      "speaker": "SPEAKER_00",
+      "text": "So to do this math problem, right, we need to first figure out how much reducing non-field costs by 5 to 10% translates to."
+    },
+    {
+      "start": 1525.08,
+      "end": 1528.08,
+      "speaker": "SPEAKER_00",
+      "text": "And we know that field costs have gone up by 200 million."
+    },
+    {
+      "start": 1528.08,
+      "end": 1534.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we need to see if the non-field costs decrease is greater than or less than 200 million,"
+    },
+    {
+      "start": 1534.08,
+      "end": 1541.08,
+      "speaker": "SPEAKER_00",
+      "text": "which would help us answer whether or not decreasing non-field costs would solve our profit-billion problem."
+    },
+    {
+      "start": 1541.08,
+      "end": 1545.08,
+      "speaker": "SPEAKER_00",
+      "text": "So from the previous calculations, we know field costs are 400 million."
+    },
+    {
+      "start": 1545.08,
+      "end": 1547.08,
+      "speaker": "SPEAKER_00",
+      "text": "Non-field costs are 800 million."
+    },
+    {
+      "start": 1547.08,
+      "end": 1556.08,
+      "speaker": "SPEAKER_00",
+      "text": "And if non-field costs go down by 5 to 10%, it would go down by 40 to 80 million dollars."
+    },
+    {
+      "start": 1556.08,
+      "end": 1566.08,
+      "speaker": "SPEAKER_00",
+      "text": "So if non-field goes down by 40 to 80, and field goes up by 200 million, decreasing non-field costs doesn't solve our problem."
+    },
+    {
+      "start": 1566.08,
+      "end": 1568.08,
+      "speaker": "SPEAKER_00",
+      "text": "So let's see our answer choices here."
+    },
+    {
+      "start": 1569.08,
+      "end": 1575.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one, non-field costs would go down by 40 to 80. That's the correct number."
+    },
+    {
+      "start": 1575.08,
+      "end": 1577.08,
+      "speaker": "SPEAKER_00",
+      "text": "Field costs go up by 200."
+    },
+    {
+      "start": 1577.08,
+      "end": 1580.08,
+      "speaker": "SPEAKER_00",
+      "text": "It suggests the client should look at ways of reducing field costs."
+    },
+    {
+      "start": 1580.08,
+      "end": 1584.08,
+      "speaker": "SPEAKER_00",
+      "text": "I agree with that. You know, non-field costs dead end."
+    },
+    {
+      "start": 1584.08,
+      "end": 1588.08,
+      "speaker": "SPEAKER_00",
+      "text": "We still want to focus on costs. Now let's go back to field costs."
+    },
+    {
+      "start": 1588.08,
+      "end": 1592.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two says it would reduce by 30 to 60 million."
+    },
+    {
+      "start": 1592.08,
+      "end": 1595.08,
+      "speaker": "SPEAKER_00",
+      "text": "That's not the right number. We calculated 40 to 80 million."
+    },
+    {
+      "start": 1595.08,
+      "end": 1598.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice one here is correct."
+    },
+    {
+      "start": 1601.08,
+      "end": 1607.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. How can the client nevertheless reduce field costs when field prices have increased?"
+    },
+    {
+      "start": 1607.08,
+      "end": 1610.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client could optimize its flight network."
+    },
+    {
+      "start": 1610.08,
+      "end": 1614.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client could take steps to reduce the field purchase price."
+    },
+    {
+      "start": 1614.08,
+      "end": 1617.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client could think about reducing field consumption."
+    },
+    {
+      "start": 1617.08,
+      "end": 1620.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think these are all three great suggestions."
+    },
+    {
+      "start": 1621.08,
+      "end": 1626.08,
+      "speaker": "SPEAKER_00",
+      "text": "I would slightly lean towards reducing field purchase price."
+    },
+    {
+      "start": 1626.08,
+      "end": 1632.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think it makes sense if prices have gone up, we can look into possibly renegotiating them back down."
+    },
+    {
+      "start": 1632.08,
+      "end": 1638.08,
+      "speaker": "SPEAKER_00",
+      "text": "That seems like the most, you know, straightforward, obvious hypothesis or answer."
+    },
+    {
+      "start": 1638.08,
+      "end": 1641.08,
+      "speaker": "SPEAKER_00",
+      "text": "The optimizing the flight network and reducing field consumption."
+    },
+    {
+      "start": 1641.08,
+      "end": 1649.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think are also great ideas, but I would like to kind of first focus on whether or not we can reduce the field price."
+    },
+    {
+      "start": 1649.08,
+      "end": 1657.08,
+      "speaker": "SPEAKER_00",
+      "text": "And if we can't reduce the field price, then if we pay the same amount of price for fuel, can we find ways to save fuel?"
+    },
+    {
+      "start": 1657.08,
+      "end": 1661.08,
+      "speaker": "SPEAKER_00",
+      "text": "And so that's basically what answer one and three are suggesting."
+    },
+    {
+      "start": 1661.08,
+      "end": 1667.08,
+      "speaker": "SPEAKER_00",
+      "text": "But I think it first makes more sense to focus on deciding whether or not we can actually reduce the price."
+    },
+    {
+      "start": 1667.08,
+      "end": 1669.08,
+      "speaker": "SPEAKER_00",
+      "text": "So that's answer choice two."
+    },
+    {
+      "start": 1671.08,
+      "end": 1675.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. How can the client reduce the field purchase price?"
+    },
+    {
+      "start": 1676.08,
+      "end": 1681.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client should partner with other airlines to establish buying cooperatives."
+    },
+    {
+      "start": 1681.08,
+      "end": 1685.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client should negotiate a better fuel price with sellers."
+    },
+    {
+      "start": 1685.08,
+      "end": 1691.08,
+      "speaker": "SPEAKER_00",
+      "text": "And the client can reduce the volatility and fuel prices by hedging prices with the help of financial instruments."
+    },
+    {
+      "start": 1691.08,
+      "end": 1696.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I think these are all three, you know, answer choices that make a lot of sense."
+    },
+    {
+      "start": 1696.08,
+      "end": 1702.08,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of feasibility, the client should negotiate a better fuel price with sellers."
+    },
+    {
+      "start": 1702.08,
+      "end": 1709.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think this could be difficult. I think option one here establishing buying cooperatives to increase buying power."
+    },
+    {
+      "start": 1709.08,
+      "end": 1714.08,
+      "speaker": "SPEAKER_00",
+      "text": "Option one is slightly more feasible in my opinion than option two."
+    },
+    {
+      "start": 1714.08,
+      "end": 1725.08,
+      "speaker": "SPEAKER_00",
+      "text": "If you partner with other airlines, you have a larger buying power and more negotiating leverage, then if you just negotiated with the fuel sellers itself."
+    },
+    {
+      "start": 1725.08,
+      "end": 1731.08,
+      "speaker": "SPEAKER_00",
+      "text": "Option three is the client can reduce volatility by hedging prices with financial instruments."
+    },
+    {
+      "start": 1731.08,
+      "end": 1736.08,
+      "speaker": "SPEAKER_00",
+      "text": "So three doesn't really, now that I think about it, reduce fuel purchase price."
+    },
+    {
+      "start": 1736.08,
+      "end": 1738.08,
+      "speaker": "SPEAKER_00",
+      "text": "It just reduces volatility."
+    },
+    {
+      "start": 1738.08,
+      "end": 1743.08,
+      "speaker": "SPEAKER_00",
+      "text": "So that doesn't really kind of answer or solve the question we're looking for."
+    },
+    {
+      "start": 1743.08,
+      "end": 1748.08,
+      "speaker": "SPEAKER_00",
+      "text": "So one and two both contribute towards decreasing fuel price."
+    },
+    {
+      "start": 1748.08,
+      "end": 1754.08,
+      "speaker": "SPEAKER_00",
+      "text": "And here I go with option one just because I think it's slightly more feasible."
+    },
+    {
+      "start": 1755.08,
+      "end": 1763.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so difficult to negotiate the short term buying cooperatives stand limited chance of success."
+    },
+    {
+      "start": 1763.08,
+      "end": 1767.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so it doesn't seem like we can really reduce prices."
+    },
+    {
+      "start": 1767.08,
+      "end": 1770.08,
+      "speaker": "SPEAKER_00",
+      "text": "So let's see what we want to do next."
+    },
+    {
+      "start": 1770.08,
+      "end": 1778.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one says we could look at reducing fuel usage by adjusting its fleet mix to increase fuel efficiency and reducing the amount of baggage."
+    },
+    {
+      "start": 1778.08,
+      "end": 1780.08,
+      "speaker": "SPEAKER_00",
+      "text": "That seems feasible."
+    },
+    {
+      "start": 1780.08,
+      "end": 1789.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two says the client could optimize its flight network by canceling connections on which utilization is below the broke break even point."
+    },
+    {
+      "start": 1789.08,
+      "end": 1791.08,
+      "speaker": "SPEAKER_00",
+      "text": "This would help reduce fuel consumption."
+    },
+    {
+      "start": 1791.08,
+      "end": 1798.08,
+      "speaker": "SPEAKER_00",
+      "text": "So both are basically trying to find ways to make feel more efficient to save money that way."
+    },
+    {
+      "start": 1798.08,
+      "end": 1802.08,
+      "speaker": "SPEAKER_00",
+      "text": "I lean more towards answer choice one here."
+    },
+    {
+      "start": 1802.08,
+      "end": 1807.08,
+      "speaker": "SPEAKER_00",
+      "text": "Cancelling connections is such a strong kind of hypothesis and recommendation."
+    },
+    {
+      "start": 1807.08,
+      "end": 1820.08,
+      "speaker": "SPEAKER_00",
+      "text": "Perhaps we can avoid canceling anything and instead focusing on adjusting fleet mix or reducing baggage, which I think would have less of a brand impact than canceling flights."
+    },
+    {
+      "start": 1820.08,
+      "end": 1825.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to go with answer choice one here."
+    },
+    {
+      "start": 1825.08,
+      "end": 1833.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, the client's fleet's relatively new and it is already feel efficient reducing the baggage limit is too small a lever."
+    },
+    {
+      "start": 1833.08,
+      "end": 1836.08,
+      "speaker": "SPEAKER_00",
+      "text": "What are other options available?"
+    },
+    {
+      "start": 1836.08,
+      "end": 1845.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so option choice one, we could analyze competitors buying patterns or look at takeover opportunities to bring in more revenue."
+    },
+    {
+      "start": 1845.08,
+      "end": 1848.08,
+      "speaker": "SPEAKER_00",
+      "text": "So this one's a red flag to me."
+    },
+    {
+      "start": 1848.08,
+      "end": 1850.08,
+      "speaker": "SPEAKER_00",
+      "text": "We're focused on cost here, not on revenue."
+    },
+    {
+      "start": 1850.08,
+      "end": 1853.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I immediately don't like answer choice one."
+    },
+    {
+      "start": 1853.08,
+      "end": 1859.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two says that that client could optimize its flight network by canceling connections."
+    },
+    {
+      "start": 1859.08,
+      "end": 1862.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so this is the same option we got before."
+    },
+    {
+      "start": 1862.08,
+      "end": 1867.08,
+      "speaker": "SPEAKER_00",
+      "text": "So looking here, I'd err towards answer choice two."
+    },
+    {
+      "start": 1867.08,
+      "end": 1874.08,
+      "speaker": "SPEAKER_00",
+      "text": "We're still focused on costs and answer choice one is jumping to revenue, which just doesn't make sense logically."
+    },
+    {
+      "start": 1874.08,
+      "end": 1876.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice two here."
+    },
+    {
+      "start": 1876.08,
+      "end": 1879.08,
+      "speaker": "SPEAKER_00",
+      "text": "Let's see what how that does."
+    },
+    {
+      "start": 1879.08,
+      "end": 1883.08,
+      "speaker": "SPEAKER_00",
+      "text": "This is a feasible option, but how would it affect the client's image in the market?"
+    },
+    {
+      "start": 1883.08,
+      "end": 1889.08,
+      "speaker": "SPEAKER_00",
+      "text": "Moreover, reestablishing these connections in the next boom phase would entail substantial cost."
+    },
+    {
+      "start": 1889.08,
+      "end": 1891.08,
+      "speaker": "SPEAKER_00",
+      "text": "What are the other available options?"
+    },
+    {
+      "start": 1891.08,
+      "end": 1894.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one says it'd be difficult to reduce costs."
+    },
+    {
+      "start": 1894.08,
+      "end": 1902.08,
+      "speaker": "SPEAKER_00",
+      "text": "And answer choice two says the client would have to look for more opportunities in the market in order to offset the inevitable losses."
+    },
+    {
+      "start": 1902.08,
+      "end": 1907.08,
+      "speaker": "SPEAKER_00",
+      "text": "On the cost side here, we looked at non-fuel costs, debt end."
+    },
+    {
+      "start": 1907.08,
+      "end": 1916.08,
+      "speaker": "SPEAKER_00",
+      "text": "We looked at fuel costs both in terms of decreasing price and increasing fuel efficiency or fleet mix routes or canceling flights."
+    },
+    {
+      "start": 1916.08,
+      "end": 1920.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think we've clearly hit a debt end here in terms of cost."
+    },
+    {
+      "start": 1920.08,
+      "end": 1924.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I think that's basically why answer choice one is saying."
+    },
+    {
+      "start": 1924.08,
+      "end": 1927.08,
+      "speaker": "SPEAKER_00",
+      "text": "Difficult to reduce costs."
+    },
+    {
+      "start": 1927.08,
+      "end": 1931.08,
+      "speaker": "SPEAKER_00",
+      "text": "It is difficult to come up with measures to reduce costs in the short term."
+    },
+    {
+      "start": 1931.08,
+      "end": 1936.08,
+      "speaker": "SPEAKER_00",
+      "text": "However, that does not mean that the client has no options left to ensure long term profitability."
+    },
+    {
+      "start": 1936.08,
+      "end": 1938.08,
+      "speaker": "SPEAKER_00",
+      "text": "How would you approach this?"
+    },
+    {
+      "start": 1938.08,
+      "end": 1939.08,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1939.08,
+      "end": 1949.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I think at this point, we've basically hit a debt end saying both on the revenue and cost side, there's really nothing we can do in the short term to return the client to profitability."
+    },
+    {
+      "start": 1949.08,
+      "end": 1955.08,
+      "speaker": "SPEAKER_00",
+      "text": "So now there's a transitioning point in the case where we're going to now focus on long term profitability."
+    },
+    {
+      "start": 1955.08,
+      "end": 1958.08,
+      "speaker": "SPEAKER_00",
+      "text": "So let's see what the answer choices are here."
+    },
+    {
+      "start": 1958.08,
+      "end": 1960.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one."
+    },
+    {
+      "start": 1960.08,
+      "end": 1964.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client could look at retrenching staff and drastically reducing operations."
+    },
+    {
+      "start": 1964.08,
+      "end": 1967.08,
+      "speaker": "SPEAKER_00",
+      "text": "Retrenching staff and reducing operations."
+    },
+    {
+      "start": 1967.08,
+      "end": 1969.08,
+      "speaker": "SPEAKER_00",
+      "text": "That's a short term thing."
+    },
+    {
+      "start": 1969.08,
+      "end": 1972.08,
+      "speaker": "SPEAKER_00",
+      "text": "So that doesn't really make much sense."
+    },
+    {
+      "start": 1972.08,
+      "end": 1974.08,
+      "speaker": "SPEAKER_00",
+      "text": "Option choice two."
+    },
+    {
+      "start": 1974.08,
+      "end": 1976.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client cannot increase sales, reduce costs."
+    },
+    {
+      "start": 1976.08,
+      "end": 1982.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client will need to increase ticket prices in order to pass on some of the cost increase to customers."
+    },
+    {
+      "start": 1982.08,
+      "end": 1983.08,
+      "speaker": "SPEAKER_00",
+      "text": "Again, that's wrong."
+    },
+    {
+      "start": 1983.08,
+      "end": 1987.08,
+      "speaker": "SPEAKER_00",
+      "text": "We looked into increasing ticket prices and found that that decreases revenues."
+    },
+    {
+      "start": 1987.08,
+      "end": 1988.08,
+      "speaker": "SPEAKER_00",
+      "text": "So two is wrong."
+    },
+    {
+      "start": 1988.08,
+      "end": 1990.08,
+      "speaker": "SPEAKER_00",
+      "text": "Option choice three."
+    },
+    {
+      "start": 1990.08,
+      "end": 1993.08,
+      "speaker": "SPEAKER_00",
+      "text": "It looks like profits would deteriorate in the short term."
+    },
+    {
+      "start": 1993.08,
+      "end": 1998.08,
+      "speaker": "SPEAKER_00",
+      "text": "But I'd like to look to investigate whether the situation can be salvaged over a longer period."
+    },
+    {
+      "start": 1998.08,
+      "end": 2001.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I think that's exactly what we want."
+    },
+    {
+      "start": 2001.08,
+      "end": 2006.08,
+      "speaker": "SPEAKER_00",
+      "text": "We're focusing on longer term given we can't do anything in the shorter term."
+    },
+    {
+      "start": 2006.08,
+      "end": 2011.08,
+      "speaker": "SPEAKER_00",
+      "text": "What information would you need for this?"
+    },
+    {
+      "start": 2011.08,
+      "end": 2013.08,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 2013.08,
+      "end": 2014.08,
+      "speaker": "SPEAKER_00",
+      "text": "One."
+    },
+    {
+      "start": 2014.08,
+      "end": 2016.08,
+      "speaker": "SPEAKER_00",
+      "text": "I'd like to know what the competition is doing."
+    },
+    {
+      "start": 2016.08,
+      "end": 2018.08,
+      "speaker": "SPEAKER_00",
+      "text": "This might give us some ideas."
+    },
+    {
+      "start": 2018.08,
+      "end": 2020.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, feasible."
+    },
+    {
+      "start": 2020.08,
+      "end": 2021.08,
+      "speaker": "SPEAKER_00",
+      "text": "Two."
+    },
+    {
+      "start": 2021.08,
+      "end": 2024.08,
+      "speaker": "SPEAKER_00",
+      "text": "I'd like to know how the client has tackled such a situation in the past."
+    },
+    {
+      "start": 2024.08,
+      "end": 2025.08,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 2025.08,
+      "end": 2026.08,
+      "speaker": "SPEAKER_00",
+      "text": "Three."
+    },
+    {
+      "start": 2026.08,
+      "end": 2034.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client's ability to withstand losses in the short term would really depend on its margins compared with those of competitors we have any data on this."
+    },
+    {
+      "start": 2034.08,
+      "end": 2037.08,
+      "speaker": "SPEAKER_00",
+      "text": "I'm leaning towards answer choice three here."
+    },
+    {
+      "start": 2037.08,
+      "end": 2045.08,
+      "speaker": "SPEAKER_00",
+      "text": "If our client has some kind of cost advantage, then in the short term, the client would experience a decline in profitability."
+    },
+    {
+      "start": 2045.08,
+      "end": 2048.08,
+      "speaker": "SPEAKER_00",
+      "text": "But competitors would also experience a decline."
+    },
+    {
+      "start": 2048.08,
+      "end": 2057.08,
+      "speaker": "SPEAKER_00",
+      "text": "And eventually competitors that have higher cost structures would probably be forced out a go bankrupt or exit the market."
+    },
+    {
+      "start": 2057.08,
+      "end": 2061.08,
+      "speaker": "SPEAKER_00",
+      "text": "So kind of that's my hypothesis for going with answer choice three."
+    },
+    {
+      "start": 2061.08,
+      "end": 2063.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two."
+    },
+    {
+      "start": 2063.08,
+      "end": 2067.08,
+      "speaker": "SPEAKER_00",
+      "text": "Looking at how the client has tackled such a situation in the past."
+    },
+    {
+      "start": 2067.08,
+      "end": 2072.08,
+      "speaker": "SPEAKER_00",
+      "text": "It seems feasible, but I don't think it's as strong as answer choice three."
+    },
+    {
+      "start": 2072.08,
+      "end": 2080.08,
+      "speaker": "SPEAKER_00",
+      "text": "Similarly, looking at what the competition is doing, competitors can be totally different, different markets, different customer segments."
+    },
+    {
+      "start": 2080.08,
+      "end": 2082.08,
+      "speaker": "SPEAKER_00",
+      "text": "They might not be low cost carriers."
+    },
+    {
+      "start": 2082.08,
+      "end": 2090.08,
+      "speaker": "SPEAKER_00",
+      "text": "It might not make for a very apples to apples comparison to kind of immediately dive into that kind of competitor benchmarking."
+    },
+    {
+      "start": 2090.08,
+      "end": 2095.08,
+      "speaker": "SPEAKER_00",
+      "text": "So slightly leaning towards answer choice three here."
+    },
+    {
+      "start": 2095.08,
+      "end": 2102.08,
+      "speaker": "SPEAKER_00",
+      "text": "What does the graph show about the client's costs and margins as compared to that of its competitors?"
+    },
+    {
+      "start": 2102.08,
+      "end": 2104.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we have a bar chart here."
+    },
+    {
+      "start": 2104.08,
+      "end": 2107.08,
+      "speaker": "SPEAKER_00",
+      "text": "Let's take a look at what we have."
+    },
+    {
+      "start": 2107.08,
+      "end": 2112.08,
+      "speaker": "SPEAKER_00",
+      "text": "We have average ticket price and total revenue on the y-axis."
+    },
+    {
+      "start": 2112.08,
+      "end": 2123.08,
+      "speaker": "SPEAKER_00",
+      "text": "So it looks like average ticket price is indicated by the green and yellow bars while the total revenues indicated by these dots here."
+    },
+    {
+      "start": 2123.08,
+      "end": 2128.08,
+      "speaker": "SPEAKER_00",
+      "text": "And on the x-axis we have the LCC industry costs and margins."
+    },
+    {
+      "start": 2128.08,
+      "end": 2133.08,
+      "speaker": "SPEAKER_00",
+      "text": "And so each bar represents a different airline player."
+    },
+    {
+      "start": 2133.08,
+      "end": 2137.08,
+      "speaker": "SPEAKER_00",
+      "text": "This bar represents us because it represents client."
+    },
+    {
+      "start": 2137.08,
+      "end": 2144.08,
+      "speaker": "SPEAKER_00",
+      "text": "And we know that the green here indicates cost particular, the yellow indicates profit particular."
+    },
+    {
+      "start": 2144.08,
+      "end": 2148.08,
+      "speaker": "SPEAKER_00",
+      "text": "And we've covered that the blue dots are revenue."
+    },
+    {
+      "start": 2148.08,
+      "end": 2151.08,
+      "speaker": "SPEAKER_00",
+      "text": "So a couple of key takeaways here."
+    },
+    {
+      "start": 2151.08,
+      "end": 2155.08,
+      "speaker": "SPEAKER_00",
+      "text": "One is that our client has the lowest cost structure."
+    },
+    {
+      "start": 2155.08,
+      "end": 2160.08,
+      "speaker": "SPEAKER_00",
+      "text": "This is because the height of their green bar is much lower than anyone else's."
+    },
+    {
+      "start": 2160.08,
+      "end": 2169.08,
+      "speaker": "SPEAKER_00",
+      "text": "On top of that, our client also has the highest profit particular because the height of this yellow bar is much greater than that of competitors."
+    },
+    {
+      "start": 2169.08,
+      "end": 2180.08,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of profit margin, our client also has the highest margin because the fraction of this bar that is yellow is the highest compared to that of competitors."
+    },
+    {
+      "start": 2180.08,
+      "end": 2190.08,
+      "speaker": "SPEAKER_00",
+      "text": "A third key takeaway here is that our client is the second largest player in terms of revenue at $1,500 million."
+    },
+    {
+      "start": 2190.08,
+      "end": 2193.08,
+      "speaker": "SPEAKER_00",
+      "text": "So those are the three key takeaways here."
+    },
+    {
+      "start": 2193.08,
+      "end": 2195.08,
+      "speaker": "SPEAKER_00",
+      "text": "Let's look at the answer choices."
+    },
+    {
+      "start": 2195.08,
+      "end": 2201.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one says that the client's size suggests it can sustain losses but its costs are high."
+    },
+    {
+      "start": 2201.08,
+      "end": 2204.08,
+      "speaker": "SPEAKER_00",
+      "text": "That's wrong because its costs are actually low."
+    },
+    {
+      "start": 2205.08,
+      "end": 2211.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two says the client's total revenues are way below that of most of its competitors."
+    },
+    {
+      "start": 2211.08,
+      "end": 2213.08,
+      "speaker": "SPEAKER_00",
+      "text": "Therefore margins are low."
+    },
+    {
+      "start": 2213.08,
+      "end": 2214.08,
+      "speaker": "SPEAKER_00",
+      "text": "That's wrong."
+    },
+    {
+      "start": 2214.08,
+      "end": 2216.08,
+      "speaker": "SPEAKER_00",
+      "text": "Margin's are high for our client."
+    },
+    {
+      "start": 2216.08,
+      "end": 2220.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice three says that the client's costs are high and margins are low."
+    },
+    {
+      "start": 2220.08,
+      "end": 2221.08,
+      "speaker": "SPEAKER_00",
+      "text": "Again, that's wrong."
+    },
+    {
+      "start": 2221.08,
+      "end": 2226.08,
+      "speaker": "SPEAKER_00",
+      "text": "Our client has low costs and margins are much higher than competitors."
+    },
+    {
+      "start": 2226.08,
+      "end": 2231.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice four says on a relative basis, the margins are high."
+    },
+    {
+      "start": 2231.08,
+      "end": 2235.08,
+      "speaker": "SPEAKER_00",
+      "text": "On an absolute basis, they are lower than those of competitors."
+    },
+    {
+      "start": 2235.08,
+      "end": 2236.08,
+      "speaker": "SPEAKER_00",
+      "text": "Again, this is wrong."
+    },
+    {
+      "start": 2236.08,
+      "end": 2241.08,
+      "speaker": "SPEAKER_00",
+      "text": "The margins are high both on a relative and absolute basis."
+    },
+    {
+      "start": 2241.08,
+      "end": 2244.08,
+      "speaker": "SPEAKER_00",
+      "text": "So that leaves us with answer choice five."
+    },
+    {
+      "start": 2244.08,
+      "end": 2246.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client has a low cost base."
+    },
+    {
+      "start": 2246.08,
+      "end": 2249.08,
+      "speaker": "SPEAKER_00",
+      "text": "Thus, it is best suited to keep prices down."
+    },
+    {
+      "start": 2249.08,
+      "end": 2252.08,
+      "speaker": "SPEAKER_00",
+      "text": "Its size suggests that it can sustain losses for some time."
+    },
+    {
+      "start": 2255.08,
+      "end": 2256.08,
+      "speaker": "SPEAKER_00",
+      "text": "That's right."
+    },
+    {
+      "start": 2256.08,
+      "end": 2259.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client's cost base is low compared to that of competitors."
+    },
+    {
+      "start": 2259.08,
+      "end": 2263.08,
+      "speaker": "SPEAKER_00",
+      "text": "Therefore, it has the largest potential to keep prices down."
+    },
+    {
+      "start": 2263.08,
+      "end": 2269.08,
+      "speaker": "SPEAKER_00",
+      "text": "Moreover, its size suggests financial stability, which means it can sustain losses for some time too."
+    },
+    {
+      "start": 2270.08,
+      "end": 2276.08,
+      "speaker": "SPEAKER_00",
+      "text": "What do your findings apply about the client's ability to assume price leadership?"
+    },
+    {
+      "start": 2276.08,
+      "end": 2280.08,
+      "speaker": "SPEAKER_00",
+      "text": "So the client is in a good position to establish price leadership."
+    },
+    {
+      "start": 2280.08,
+      "end": 2283.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client needs to increase prices."
+    },
+    {
+      "start": 2283.08,
+      "end": 2285.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client needs to reduce prices."
+    },
+    {
+      "start": 2285.08,
+      "end": 2288.08,
+      "speaker": "SPEAKER_00",
+      "text": "So two and three here are wrong."
+    },
+    {
+      "start": 2288.08,
+      "end": 2292.08,
+      "speaker": "SPEAKER_00",
+      "text": "We already calculated that we should not increase or reduce prices."
+    },
+    {
+      "start": 2292.08,
+      "end": 2293.08,
+      "speaker": "SPEAKER_00",
+      "text": "It hurts revenues."
+    },
+    {
+      "start": 2293.08,
+      "end": 2298.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think the only conclusion we can make here is that the client is in a good position to establish price leadership."
+    },
+    {
+      "start": 2298.08,
+      "end": 2303.08,
+      "speaker": "SPEAKER_00",
+      "text": "If other competitors lower prices, our client can also lower prices."
+    },
+    {
+      "start": 2303.08,
+      "end": 2313.08,
+      "speaker": "SPEAKER_00",
+      "text": "And since we have a lower cost structure, we will have higher profits or will be able to sustain losses longer than that of competitors."
+    },
+    {
+      "start": 2313.08,
+      "end": 2314.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice one."
+    },
+    {
+      "start": 2314.08,
+      "end": 2323.08,
+      "speaker": "SPEAKER_00",
+      "text": "Given its low costs and high margins, the client is in good position to keep prices low and maintain price leadership."
+    },
+    {
+      "start": 2323.08,
+      "end": 2327.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so we're looking at this graph again."
+    },
+    {
+      "start": 2327.08,
+      "end": 2333.08,
+      "speaker": "SPEAKER_00",
+      "text": "Looking at the graph, how would you assess the long-term development of the industry given the price increase?"
+    },
+    {
+      "start": 2333.08,
+      "end": 2339.08,
+      "speaker": "SPEAKER_00",
+      "text": "Even before I look at the answer choices, I think in the long term, a lot of airlines will drop out."
+    },
+    {
+      "start": 2339.08,
+      "end": 2348.08,
+      "speaker": "SPEAKER_00",
+      "text": "Because they have a higher cost structure, if prices continue to drop, these higher cost structure airlines can no longer make a profit off of sales."
+    },
+    {
+      "start": 2348.08,
+      "end": 2350.08,
+      "speaker": "SPEAKER_00",
+      "text": "So they'll drop out."
+    },
+    {
+      "start": 2350.08,
+      "end": 2359.08,
+      "speaker": "SPEAKER_00",
+      "text": "And so I think then our client will have an opportunity to take on more market share and more customers from kind of these competitors that have dropped out of the market."
+    },
+    {
+      "start": 2359.08,
+      "end": 2361.08,
+      "speaker": "SPEAKER_00",
+      "text": "So let's see what we have here."
+    },
+    {
+      "start": 2361.08,
+      "end": 2363.08,
+      "speaker": "SPEAKER_00",
+      "text": "Number one says companies have high margins."
+    },
+    {
+      "start": 2363.08,
+      "end": 2367.08,
+      "speaker": "SPEAKER_00",
+      "text": "Given that demand is inelastic, prices across the board would increase."
+    },
+    {
+      "start": 2367.08,
+      "end": 2369.08,
+      "speaker": "SPEAKER_00",
+      "text": "So that's wrong."
+    },
+    {
+      "start": 2369.08,
+      "end": 2378.08,
+      "speaker": "SPEAKER_00",
+      "text": "Prices are elastic option choice two competitors have low margins given that demand is elastic and price increases are not possible."
+    },
+    {
+      "start": 2378.08,
+      "end": 2382.08,
+      "speaker": "SPEAKER_00",
+      "text": "Many companies will not be able to maintain their profitability in the long run."
+    },
+    {
+      "start": 2382.08,
+      "end": 2383.08,
+      "speaker": "SPEAKER_00",
+      "text": "I agree with two."
+    },
+    {
+      "start": 2383.08,
+      "end": 2385.08,
+      "speaker": "SPEAKER_00",
+      "text": "That's basically the prediction we made."
+    },
+    {
+      "start": 2385.08,
+      "end": 2388.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice three given that price increases are not possible."
+    },
+    {
+      "start": 2388.08,
+      "end": 2394.08,
+      "speaker": "SPEAKER_00",
+      "text": "The players with the largest revenues will fear better as they control the largest market share."
+    },
+    {
+      "start": 2394.08,
+      "end": 2395.08,
+      "speaker": "SPEAKER_00",
+      "text": "I don't agree with this."
+    },
+    {
+      "start": 2395.08,
+      "end": 2399.08,
+      "speaker": "SPEAKER_00",
+      "text": "It's the players with the lowest cost structure that are going to fear better."
+    },
+    {
+      "start": 2399.08,
+      "end": 2400.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice four."
+    },
+    {
+      "start": 2400.08,
+      "end": 2405.08,
+      "speaker": "SPEAKER_00",
+      "text": "The total revenues for the industry have grown with an increase in ticket prices."
+    },
+    {
+      "start": 2405.08,
+      "end": 2409.08,
+      "speaker": "SPEAKER_00",
+      "text": "Increasing ticket prices seems to be a viable way of remaining profitable."
+    },
+    {
+      "start": 2409.08,
+      "end": 2414.08,
+      "speaker": "SPEAKER_00",
+      "text": "No, we previously calculated increasing prices actually decreases revenues."
+    },
+    {
+      "start": 2414.08,
+      "end": 2416.08,
+      "speaker": "SPEAKER_00",
+      "text": "And finally, answer choice five."
+    },
+    {
+      "start": 2416.08,
+      "end": 2420.08,
+      "speaker": "SPEAKER_00",
+      "text": "Many companies have low margins given that demand is inelastic."
+    },
+    {
+      "start": 2420.08,
+      "end": 2423.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we didn't know this is wrong because demand is elastic."
+    },
+    {
+      "start": 2423.08,
+      "end": 2425.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two here."
+    },
+    {
+      "start": 2425.08,
+      "end": 2428.08,
+      "speaker": "SPEAKER_00",
+      "text": "Companies have low margins, demand is elastic."
+    },
+    {
+      "start": 2428.08,
+      "end": 2430.08,
+      "speaker": "SPEAKER_00",
+      "text": "Price increases is not possible."
+    },
+    {
+      "start": 2430.08,
+      "end": 2436.08,
+      "speaker": "SPEAKER_00",
+      "text": "So many companies will not be able to maintain profitability in the long run."
+    },
+    {
+      "start": 2436.08,
+      "end": 2439.08,
+      "speaker": "SPEAKER_03",
+      "text": "Great."
+    },
+    {
+      "start": 2439.08,
+      "end": 2442.08,
+      "speaker": "SPEAKER_03",
+      "text": "What does this imply for the industry in the long run?"
+    },
+    {
+      "start": 2442.08,
+      "end": 2443.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one."
+    },
+    {
+      "start": 2443.08,
+      "end": 2445.08,
+      "speaker": "SPEAKER_00",
+      "text": "There would be no need for action."
+    },
+    {
+      "start": 2445.08,
+      "end": 2448.08,
+      "speaker": "SPEAKER_00",
+      "text": "The current players would continue as they do now."
+    },
+    {
+      "start": 2448.08,
+      "end": 2449.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 2449.08,
+      "end": 2452.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think it's never really a good answer if you're saying there's no action."
+    },
+    {
+      "start": 2452.08,
+      "end": 2457.08,
+      "speaker": "SPEAKER_00",
+      "text": "There's at least something you need to focus your attention on."
+    },
+    {
+      "start": 2457.08,
+      "end": 2458.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two."
+    },
+    {
+      "start": 2458.08,
+      "end": 2462.08,
+      "speaker": "SPEAKER_00",
+      "text": "Many lost making players would think about leaving the industry."
+    },
+    {
+      "start": 2462.08,
+      "end": 2467.08,
+      "speaker": "SPEAKER_00",
+      "text": "There may be opportunities in the longer term for stronger players, including our client, to take over routes."
+    },
+    {
+      "start": 2467.08,
+      "end": 2468.08,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 2468.08,
+      "end": 2470.08,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly what kind of we predicted."
+    },
+    {
+      "start": 2470.08,
+      "end": 2471.08,
+      "speaker": "SPEAKER_00",
+      "text": "I like answer choice two here."
+    },
+    {
+      "start": 2471.08,
+      "end": 2472.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice three."
+    },
+    {
+      "start": 2472.08,
+      "end": 2477.08,
+      "speaker": "SPEAKER_00",
+      "text": "The industry would be more attractive and more players could enter the market."
+    },
+    {
+      "start": 2477.08,
+      "end": 2478.08,
+      "speaker": "SPEAKER_00",
+      "text": "That's wrong."
+    },
+    {
+      "start": 2478.08,
+      "end": 2482.08,
+      "speaker": "SPEAKER_00",
+      "text": "The industry would, you know, as not attractive industry,"
+    },
+    {
+      "start": 2482.08,
+      "end": 2485.08,
+      "speaker": "SPEAKER_00",
+      "text": "and players would actually be dropping out of the market."
+    },
+    {
+      "start": 2485.08,
+      "end": 2488.08,
+      "speaker": "SPEAKER_00",
+      "text": "So clearly answer choice two here."
+    },
+    {
+      "start": 2488.08,
+      "end": 2491.08,
+      "speaker": "SPEAKER_00",
+      "text": "What would you like to recommend to the client?"
+    },
+    {
+      "start": 2491.08,
+      "end": 2492.08,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 2492.08,
+      "end": 2493.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice one."
+    },
+    {
+      "start": 2493.08,
+      "end": 2501.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client's low costs and financial stable position implied that it can keep prices down and sustain losses for some time."
+    },
+    {
+      "start": 2501.08,
+      "end": 2507.08,
+      "speaker": "SPEAKER_00",
+      "text": "Thus, it should not increase prices and thereby try to establish price leadership in the market."
+    },
+    {
+      "start": 2507.08,
+      "end": 2508.08,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 2508.08,
+      "end": 2509.08,
+      "speaker": "SPEAKER_01",
+      "text": "I agree with that."
+    },
+    {
+      "start": 2509.08,
+      "end": 2510.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two."
+    },
+    {
+      "start": 2510.08,
+      "end": 2516.08,
+      "speaker": "SPEAKER_00",
+      "text": "Since the client is a stronger player, it can take over other weaker players."
+    },
+    {
+      "start": 2516.08,
+      "end": 2521.08,
+      "speaker": "SPEAKER_00",
+      "text": "So while I do think the client can capture share from other players in the longer term,"
+    },
+    {
+      "start": 2521.08,
+      "end": 2524.08,
+      "speaker": "SPEAKER_00",
+      "text": "it's not really kind of taking it over."
+    },
+    {
+      "start": 2524.08,
+      "end": 2529.08,
+      "speaker": "SPEAKER_00",
+      "text": "It's more so waiting for the other players to leave the market due to the client's low cost leadership."
+    },
+    {
+      "start": 2529.08,
+      "end": 2535.08,
+      "speaker": "SPEAKER_00",
+      "text": "So my recommendation here is answer choice one."
+    },
+    {
+      "start": 2536.08,
+      "end": 2538.08,
+      "speaker": "SPEAKER_00",
+      "text": "Is there anything else?"
+    },
+    {
+      "start": 2538.08,
+      "end": 2539.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 2539.08,
+      "end": 2545.08,
+      "speaker": "SPEAKER_00",
+      "text": "Though the client has low costs, its small size puts a question mark on its financial stability."
+    },
+    {
+      "start": 2545.08,
+      "end": 2547.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I don't agree with that."
+    },
+    {
+      "start": 2547.08,
+      "end": 2549.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I don't like answer choice one."
+    },
+    {
+      "start": 2549.08,
+      "end": 2550.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice two."
+    },
+    {
+      "start": 2550.08,
+      "end": 2551.08,
+      "speaker": "SPEAKER_00",
+      "text": "Yes."
+    },
+    {
+      "start": 2551.08,
+      "end": 2556.08,
+      "speaker": "SPEAKER_00",
+      "text": "Ultimately, the client's low cost base is the source of its competitive advantage."
+    },
+    {
+      "start": 2556.08,
+      "end": 2557.08,
+      "speaker": "SPEAKER_00",
+      "text": "I agree with that."
+    },
+    {
+      "start": 2557.08,
+      "end": 2562.08,
+      "speaker": "SPEAKER_00",
+      "text": "It should keep costs low through measures such as buying cooperatives or optimization of its flight network."
+    },
+    {
+      "start": 2562.08,
+      "end": 2569.08,
+      "speaker": "SPEAKER_00",
+      "text": "With a low cost base and its price leadership in the market, the client would be able to increase profitability in the long run."
+    },
+    {
+      "start": 2569.08,
+      "end": 2572.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think answer two here is a great choice."
+    },
+    {
+      "start": 2572.08,
+      "end": 2577.08,
+      "speaker": "SPEAKER_00",
+      "text": "We have a low cost basis, which is the competitive advantage that a client has."
+    },
+    {
+      "start": 2577.08,
+      "end": 2582.08,
+      "speaker": "SPEAKER_00",
+      "text": "And we should prioritize keeping costs low to sustain our competitive advantage."
+    },
+    {
+      "start": 2582.08,
+      "end": 2588.08,
+      "speaker": "SPEAKER_00",
+      "text": "And so then it answers our question of what can we do in the longer term."
+    },
+    {
+      "start": 2588.08,
+      "end": 2595.08,
+      "speaker": "SPEAKER_00",
+      "text": "And our solution is, in the shorter term, we'll absorb losses, but in the longer term, as other players drop out of the market,"
+    },
+    {
+      "start": 2595.08,
+      "end": 2600.08,
+      "speaker": "SPEAKER_00",
+      "text": "we can begin to take on more routes, more customers, and increase profitability."
+    },
+    {
+      "start": 2600.08,
+      "end": 2602.08,
+      "speaker": "SPEAKER_00",
+      "text": "Answer choice three."
+    },
+    {
+      "start": 2602.08,
+      "end": 2606.08,
+      "speaker": "SPEAKER_00",
+      "text": "The client's high cost and small size may not be able to keep prices low."
+    },
+    {
+      "start": 2606.08,
+      "end": 2607.08,
+      "speaker": "SPEAKER_00",
+      "text": "That's wrong."
+    },
+    {
+      "start": 2607.08,
+      "end": 2608.08,
+      "speaker": "SPEAKER_00",
+      "text": "Our client has low costs."
+    },
+    {
+      "start": 2608.08,
+      "end": 2610.08,
+      "speaker": "SPEAKER_00",
+      "text": "And again, our client's not that small."
+    },
+    {
+      "start": 2610.08,
+      "end": 2617.08,
+      "speaker": "SPEAKER_00",
+      "text": "So answer choice two here is our definitive answer."
+    },
+    {
+      "start": 2617.08,
+      "end": 2620.08,
+      "speaker": "SPEAKER_00",
+      "text": "All right. So it looks like we've finished the case."
+    },
+    {
+      "start": 2620.08,
+      "end": 2627.08,
+      "speaker": "SPEAKER_00",
+      "text": "It seems like the interactive case also scores you on rigor, business judgment, structuring, and synthesis."
+    },
+    {
+      "start": 2627.08,
+      "end": 2630.08,
+      "speaker": "SPEAKER_00",
+      "text": "So let's see how this goes."
+    },
+    {
+      "start": 2630.08,
+      "end": 2634.08,
+      "speaker": "SPEAKER_00",
+      "text": "It looks like we did quite well."
+    },
+    {
+      "start": 2634.08,
+      "end": 2638.08,
+      "speaker": "SPEAKER_00",
+      "text": "The box is the 90th percentile."
+    },
+    {
+      "start": 2638.08,
+      "end": 2642.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I think kind of the approach we went through made a lot of sense."
+    },
+    {
+      "start": 2642.08,
+      "end": 2647.08,
+      "speaker": "SPEAKER_00",
+      "text": "In this case, we tried to focus on taking a logical approach."
+    },
+    {
+      "start": 2647.08,
+      "end": 2653.08,
+      "speaker": "SPEAKER_00",
+      "text": "We focused on revenues first, looked into price, then looked into quantity, then we looked into costs."
+    },
+    {
+      "start": 2653.08,
+      "end": 2656.08,
+      "speaker": "SPEAKER_00",
+      "text": "We looked into fuel costs and non-fuel costs."
+    },
+    {
+      "start": 2656.08,
+      "end": 2659.08,
+      "speaker": "SPEAKER_00",
+      "text": "We concluded that in the short term, we couldn't do anything."
+    },
+    {
+      "start": 2659.08,
+      "end": 2661.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we looked for things in the longer term."
+    },
+    {
+      "start": 2661.08,
+      "end": 2671.08,
+      "speaker": "SPEAKER_00",
+      "text": "So that kind of logical approach to kind of completely and exhaustively cover all of the major drivers of profitability and all of our different options."
+    },
+    {
+      "start": 2671.08,
+      "end": 2674.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think that was basically the key of solving this case."
+    },
+    {
+      "start": 2674.08,
+      "end": 2680.08,
+      "speaker": "SPEAKER_00",
+      "text": "Again, profitability cases, there are very common cases in first round interviews."
+    },
+    {
+      "start": 2680.08,
+      "end": 2682.08,
+      "speaker": "SPEAKER_00",
+      "text": "So you definitely want to prepare for them."
+    },
+    {
+      "start": 2682.08,
+      "end": 2685.08,
+      "speaker": "SPEAKER_00",
+      "text": "They are pretty straightforward to do once you've done a couple of them."
+    },
+    {
+      "start": 2685.08,
+      "end": 2688.08,
+      "speaker": "SPEAKER_00",
+      "text": "Feel free to take a stab at doing this case on your own."
+    },
+    {
+      "start": 2688.08,
+      "end": 2691.08,
+      "speaker": "SPEAKER_00",
+      "text": "And let me know in the comment section below how well you did on this case."
+    },
+    {
+      "start": 2691.08,
+      "end": 2700.08,
+      "speaker": "SPEAKER_00",
+      "text": "If you want to see more case walkthrough videos like this, please consider giving this video a like and subscribe to my channel for the latest videos."
+    },
+    {
+      "start": 2701.08,
+      "end": 2711.08,
+      "speaker": "UNKNOWN",
+      "text": "If you want to see more case walkthrough videos, please consider giving this video a like and subscribe to my channel for the latest videos."
+    }
+  ],
+  "grading": {
+    "communication": 17,
+    "framework": 14,
+    "math": 9,
+    "case_difficulty": 9,
+    "final_summary": 13,
+    "overall_thoughts": "You communicated very clearly throughout the case, with a solid framework and good math, but struggled to provide specific solutions for each step."
+  }
+}

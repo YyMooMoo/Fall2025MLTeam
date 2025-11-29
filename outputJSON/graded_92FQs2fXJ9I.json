@@ -1,0 +1,2844 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 7.2,
+      "speaker": "SPEAKER_00",
+      "text": "Hello, everyone. We have a special video today. This is actually going to kick off our free 101 career coaching series."
+    },
+    {
+      "start": 7.2,
+      "end": 12.76,
+      "speaker": "SPEAKER_00",
+      "text": "And the first one we're going to be starting off is one that is highly requested. It's like a tech case interview."
+    },
+    {
+      "start": 12.76,
+      "end": 19.0,
+      "speaker": "SPEAKER_00",
+      "text": "And we're going to be doing a mock interview with Gerald here. He's been so kind enough to actually allow us to record this."
+    },
+    {
+      "start": 19.0,
+      "end": 23.12,
+      "speaker": "SPEAKER_00",
+      "text": "And he also does have an interview coming up. So we're going to be doing it for this particular reason."
+    },
+    {
+      "start": 23.6,
+      "end": 29.44,
+      "speaker": "SPEAKER_00",
+      "text": "So today we'll be using a case called the Architecture Strategy Federal Finance Agency."
+    },
+    {
+      "start": 29.44,
+      "end": 34.56,
+      "speaker": "SPEAKER_00",
+      "text": "This is from Deloitte. It's also from their website. So the link is down below if you also want to follow along."
+    },
+    {
+      "start": 34.56,
+      "end": 40.24,
+      "speaker": "SPEAKER_00",
+      "text": "So how are we going to be doing this is that I will be sending the link to the case itself to Gerald."
+    },
+    {
+      "start": 40.24,
+      "end": 46.08,
+      "speaker": "SPEAKER_00",
+      "text": "And then he'll be reviewing the first page. And then there's also like a second page, by the way, with like the key considerations."
+    },
+    {
+      "start": 46.08,
+      "end": 51.52,
+      "speaker": "SPEAKER_00",
+      "text": "Then I'll be asking questions and he can also ask me questions as well to clarify and moving on."
+    },
+    {
+      "start": 51.52,
+      "end": 56.0,
+      "speaker": "SPEAKER_00",
+      "text": "So this is also his very first time doing like a real tech case interview as well."
+    },
+    {
+      "start": 56.0,
+      "end": 60.32000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So I'll be providing feedback and advice as we go along. It won't be all at the end."
+    },
+    {
+      "start": 60.32000000000001,
+      "end": 65.52000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We'll finally have like a last feedback session at the end, but it will be a very interactive process."
+    },
+    {
+      "start": 65.52000000000001,
+      "end": 70.4,
+      "speaker": "SPEAKER_00",
+      "text": "So you can just like open up the case in the actual chat."
+    },
+    {
+      "start": 70.4,
+      "end": 74.16,
+      "speaker": "SPEAKER_00",
+      "text": "Right. So you can start reviewing. I'll be giving you a timer."
+    },
+    {
+      "start": 74.16,
+      "end": 79.84,
+      "speaker": "SPEAKER_00",
+      "text": "But honestly, most of these are going to be around like 20 to 30 minutes for most of these case interviews."
+    },
+    {
+      "start": 79.84,
+      "end": 82.64,
+      "speaker": "SPEAKER_00",
+      "text": "But I'll be giving you around like five minutes to review this case."
+    },
+    {
+      "start": 82.64,
+      "end": 87.12,
+      "speaker": "SPEAKER_00",
+      "text": "And then after that, you can just stop where it says stop here. And then we'll go from there."
+    },
+    {
+      "start": 87.12,
+      "end": 92.32000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Sure thing. Okay. Cool. So taking like initial notes and analyzing it, right?"
+    },
+    {
+      "start": 92.32000000000001,
+      "end": 98.96000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We haven't actually started. Okay. So before we get started, can you kind of summarize what the case is?"
+    },
+    {
+      "start": 98.96000000000001,
+      "end": 103.92,
+      "speaker": "SPEAKER_00",
+      "text": "Either the business situation problem statement. What do you think are the key points to focus on in this?"
+    },
+    {
+      "start": 103.92,
+      "end": 112.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So to me, the main concern of the business or actually the business is a federal finance agency."
+    },
+    {
+      "start": 112.0,
+      "end": 117.6,
+      "speaker": "SPEAKER_01",
+      "text": "Ultimately, they just want to consolidate their systems."
+    },
+    {
+      "start": 117.6,
+      "end": 122.4,
+      "speaker": "SPEAKER_01",
+      "text": "Like that's that's the big headliner right there. A lot of it needs to improve efficiency."
+    },
+    {
+      "start": 122.4,
+      "end": 130.48000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "There's a lot of redundant systems. And then the high turnover is spreading a lot of people thin."
+    },
+    {
+      "start": 130.48,
+      "end": 135.51999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So, especially with the IT department that makes sense. And then there's seven different"
+    },
+    {
+      "start": 136.39999999999998,
+      "end": 142.64,
+      "speaker": "SPEAKER_01",
+      "text": "data or systems being used. And so just one IT department being tailored to all seven on them."
+    },
+    {
+      "start": 142.64,
+      "end": 145.76,
+      "speaker": "SPEAKER_01",
+      "text": "It's like, that's all a lot on those workers. Yep."
+    },
+    {
+      "start": 147.04,
+      "end": 154.0,
+      "speaker": "SPEAKER_01",
+      "text": "And then this also leads to a backlog of the paperwork. What does the silo term mean exactly?"
+    },
+    {
+      "start": 154.88,
+      "end": 159.76,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. So silo just means that they're very stuck in what they're doing. They don't really know"
+    },
+    {
+      "start": 159.76,
+      "end": 162.23999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "about anything else that's going on outside of what they're doing."
+    },
+    {
+      "start": 164.56,
+      "end": 168.16,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. So the department basically."
+    },
+    {
+      "start": 170.64,
+      "end": 174.72,
+      "speaker": "SPEAKER_01",
+      "text": "And so basically they don't interact with the other departments, correct?"
+    },
+    {
+      "start": 176.0,
+      "end": 187.92,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. And then the problem statement, it says that they do want a new shirt enterprise solution."
+    },
+    {
+      "start": 187.92,
+      "end": 191.83999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. So that's across all the visions, which makes sense."
+    },
+    {
+      "start": 192.88,
+      "end": 196.16,
+      "speaker": "SPEAKER_01",
+      "text": "And then it's during an enforcing economic and trade sanctions."
+    },
+    {
+      "start": 196.72,
+      "end": 200.48,
+      "speaker": "SPEAKER_01",
+      "text": "So basically they just make sure people are following the rules, right?"
+    },
+    {
+      "start": 201.11999999999998,
+      "end": 203.2,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. As an agency. Okay."
+    },
+    {
+      "start": 206.0,
+      "end": 212.88,
+      "speaker": "SPEAKER_01",
+      "text": "And then a big problem I see is to this day that they're still using a lot of hard copies."
+    },
+    {
+      "start": 213.28,
+      "end": 219.12,
+      "speaker": "SPEAKER_01",
+      "text": "While that should be my opinion, at least somewhere online in the cloud to access anywhere."
+    },
+    {
+      "start": 220.0,
+      "end": 222.72,
+      "speaker": "SPEAKER_01",
+      "text": "I mean, that's basically all I got to the most part. Okay."
+    },
+    {
+      "start": 223.35999999999999,
+      "end": 231.6,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good. So we can continue on to the actual case itself. So now that we're on at this point,"
+    },
+    {
+      "start": 232.56,
+      "end": 238.24,
+      "speaker": "SPEAKER_00",
+      "text": "the question I have for you is that your manager has asked you to develop the new"
+    },
+    {
+      "start": 238.24,
+      "end": 242.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "architecture plan by analyzing the current systems and interviewing stakeholders."
+    },
+    {
+      "start": 242.64000000000001,
+      "end": 247.60000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "What aspects of the current system would you want to analyze and how would you gather the information?"
+    },
+    {
+      "start": 248.72,
+      "end": 260.08,
+      "speaker": "SPEAKER_01",
+      "text": "So one big thing for me is let's see, why isn't, why aren't the departments talking to each other on one database?"
+    },
+    {
+      "start": 261.03999999999996,
+      "end": 264.64,
+      "speaker": "SPEAKER_01",
+      "text": "Everything needs to connect and communicate that way."
+    },
+    {
+      "start": 265.76,
+      "end": 269.68,
+      "speaker": "SPEAKER_01",
+      "text": "People are uploading redundant information."
+    },
+    {
+      "start": 270.64,
+      "end": 277.12,
+      "speaker": "SPEAKER_01",
+      "text": "That's one. And then two, I would say, what are the cause of, what's the cause of this high turnover?"
+    },
+    {
+      "start": 277.76,
+      "end": 278.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 279.2,
+      "end": 284.0,
+      "speaker": "SPEAKER_01",
+      "text": "And to get to the root cause of that. And then let's see."
+    },
+    {
+      "start": 284.88,
+      "end": 292.16,
+      "speaker": "SPEAKER_01",
+      "text": "And then along with that, actually, the hard copies, I would say, is a third big point for me personally,"
+    },
+    {
+      "start": 292.16,
+      "end": 296.8,
+      "speaker": "SPEAKER_01",
+      "text": "just because in this day and age, most things should be electronic."
+    },
+    {
+      "start": 298.16,
+      "end": 303.6,
+      "speaker": "SPEAKER_01",
+      "text": "It allows easy access from anywhere. And the cloud just being one of those big things,"
+    },
+    {
+      "start": 303.6,
+      "end": 305.28,
+      "speaker": "SPEAKER_01",
+      "text": "these days that companies utilize."
+    },
+    {
+      "start": 307.28,
+      "end": 313.92,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So I have some feedback on this. The first thing is that I'm noticing you have answered"
+    },
+    {
+      "start": 314.0,
+      "end": 319.04,
+      "speaker": "SPEAKER_00",
+      "text": "and then after that, you're still thinking of the other answers. So a better way to approach this is"
+    },
+    {
+      "start": 319.04,
+      "end": 323.36,
+      "speaker": "SPEAKER_00",
+      "text": "that you figure out your entire answer before you approach it. You want to make sure everything is"
+    },
+    {
+      "start": 323.36,
+      "end": 328.96,
+      "speaker": "SPEAKER_00",
+      "text": "coherent, almost like you're giving a little speech. Otherwise, if it seems like you're in between answers,"
+    },
+    {
+      "start": 328.96,
+      "end": 334.0,
+      "speaker": "SPEAKER_00",
+      "text": "it doesn't necessarily seem the most clear. Part of the actual case interview is to be very clear"
+    },
+    {
+      "start": 334.0,
+      "end": 338.88,
+      "speaker": "SPEAKER_00",
+      "text": "and logical with how you answer. So this is also going to be a part of the case. It's not necessarily"
+    },
+    {
+      "start": 338.88,
+      "end": 345.2,
+      "speaker": "SPEAKER_00",
+      "text": "just the answer itself. It's also how you deliver it. Okay. And one of the things was that the question"
+    },
+    {
+      "start": 345.2,
+      "end": 350.8,
+      "speaker": "SPEAKER_00",
+      "text": "also asked, how would you gather the information? You only really talked about the what aspects of"
+    },
+    {
+      "start": 350.8,
+      "end": 355.68,
+      "speaker": "SPEAKER_00",
+      "text": "the current system would you want to analyze? Or also, like, what are the other outside of the system,"
+    },
+    {
+      "start": 355.68,
+      "end": 360.8,
+      "speaker": "SPEAKER_00",
+      "text": "like business problems that you would want to also analyze? So there's also that one part of the"
+    },
+    {
+      "start": 360.8,
+      "end": 366.88,
+      "speaker": "SPEAKER_00",
+      "text": "question that you didn't really answer. So if you want to in the future, you could actually just"
+    },
+    {
+      "start": 366.88,
+      "end": 372.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "kind of take a step back right down exactly what the question is. And or while you while I give you"
+    },
+    {
+      "start": 372.15999999999997,
+      "end": 377.52,
+      "speaker": "SPEAKER_00",
+      "text": "the question, you can take notes of what the question is because I think like as people get questions,"
+    },
+    {
+      "start": 377.52,
+      "end": 382.4,
+      "speaker": "SPEAKER_00",
+      "text": "they just kind of forget about it. And they just only either clinch until like the first part of"
+    },
+    {
+      "start": 382.4,
+      "end": 386.0,
+      "speaker": "SPEAKER_00",
+      "text": "the question or the last part of the question, but they don't get the whole question. And when it comes"
+    },
+    {
+      "start": 386.0,
+      "end": 390.96,
+      "speaker": "SPEAKER_00",
+      "text": "to case interviews, a lot of them are going to be like a pretty full question where it can be asking"
+    },
+    {
+      "start": 391.03999999999996,
+      "end": 405.44,
+      "speaker": "SPEAKER_01",
+      "text": "you multiple parts. Okay. So let's work gathering information. I honestly would not"
+    },
+    {
+      "start": 407.2,
+      "end": 412.64,
+      "speaker": "SPEAKER_01",
+      "text": "I don't know exactly what that question entails because this world knew to me. So what do you mean by that?"
+    },
+    {
+      "start": 413.35999999999996,
+      "end": 417.76,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. So I'm going to just reread the questioning and break it down a little bit. Your manager has"
+    },
+    {
+      "start": 417.76,
+      "end": 423.12,
+      "speaker": "SPEAKER_00",
+      "text": "asked you to develop a new architecture plan by analyzing current systems and interviewing stakeholders."
+    },
+    {
+      "start": 423.92,
+      "end": 428.08,
+      "speaker": "SPEAKER_00",
+      "text": "What aspects of the current system would you want to analyze? So in this case out of the legacy"
+    },
+    {
+      "start": 428.08,
+      "end": 432.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "systems, the in-house solutions that they have, what would you want to analyze from them? And how would"
+    },
+    {
+      "start": 432.71999999999997,
+      "end": 437.2,
+      "speaker": "SPEAKER_00",
+      "text": "you gather the information? So this could be like when you're interviewing the stakeholders. And the"
+    },
+    {
+      "start": 437.2,
+      "end": 441.44,
+      "speaker": "SPEAKER_00",
+      "text": "first part of the question, how would you want to gather that information? What kind of questions or"
+    },
+    {
+      "start": 441.44,
+      "end": 446.56,
+      "speaker": "SPEAKER_00",
+      "text": "requirements or priorities would you want to ask from them? And also what are you wanting to look"
+    },
+    {
+      "start": 446.56,
+      "end": 450.96,
+      "speaker": "SPEAKER_00",
+      "text": "from the actual system? So it's like asking for the people aspect in the tech aspect."
+    },
+    {
+      "start": 451.52,
+      "end": 457.68,
+      "speaker": "SPEAKER_01",
+      "text": "No, it's okay. So basically the answers were just given in a sense, right?"
+    },
+    {
+      "start": 458.16,
+      "end": 463.28,
+      "speaker": "SPEAKER_00",
+      "text": "They're kind of giving you a framework of some sort. So there is the people process and technology"
+    },
+    {
+      "start": 463.28,
+      "end": 468.32,
+      "speaker": "SPEAKER_00",
+      "text": "framework out there. So that is a good way to kind of frame a lot of whenever it comes to technology"
+    },
+    {
+      "start": 468.32,
+      "end": 473.6,
+      "speaker": "SPEAKER_00",
+      "text": "consulting case interviews. So knowing that there's different ways you can respond to it, the best"
+    },
+    {
+      "start": 473.6,
+      "end": 477.04,
+      "speaker": "SPEAKER_00",
+      "text": "ways the one where you hit all the points. Oh, I see. Okay."
+    },
+    {
+      "start": 479.6,
+      "end": 488.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "So you can give an answer again if you want to do it again. Okay. Okay. So just start all over."
+    },
+    {
+      "start": 488.08000000000004,
+      "end": 494.72,
+      "speaker": "SPEAKER_01",
+      "text": "Yep. Okay. To this question, yeah. Okay. So the three main points I'd like to focus on are"
+    },
+    {
+      "start": 494.96000000000004,
+      "end": 497.6,
+      "speaker": "SPEAKER_01",
+      "text": "the cause of the"
+    },
+    {
+      "start": 499.92,
+      "end": 507.68,
+      "speaker": "SPEAKER_01",
+      "text": "the high turnover rate in the company. Obviously some things affecting the workers. And then two,"
+    },
+    {
+      "start": 509.92,
+      "end": 515.6,
+      "speaker": "SPEAKER_01",
+      "text": "why the company is using seven different systems instead of just one or at least communicating"
+    },
+    {
+      "start": 515.6,
+      "end": 524.08,
+      "speaker": "SPEAKER_01",
+      "text": "with each other, even if there are multiple systems. And then three, why are hard copies of"
+    },
+    {
+      "start": 524.08,
+      "end": 529.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "cases and licenses still being used in the stay and age, especially with technology the way it is"
+    },
+    {
+      "start": 529.2800000000001,
+      "end": 535.44,
+      "speaker": "SPEAKER_01",
+      "text": "now. And how to gather this info, just be going about through interviews asking the key stakeholders"
+    },
+    {
+      "start": 535.44,
+      "end": 543.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "or the people of higher positions, what their take on their processes and people are. And"
+    },
+    {
+      "start": 544.48,
+      "end": 551.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "to the analyze their current systems. So obviously we need to use the client needs and new system."
+    },
+    {
+      "start": 551.68,
+      "end": 558.88,
+      "speaker": "SPEAKER_01",
+      "text": "And it's important to learn from these legacy or older systems. And then three of the processes. So"
+    },
+    {
+      "start": 560.16,
+      "end": 563.92,
+      "speaker": "SPEAKER_01",
+      "text": "what's being done right now in, for example,"
+    },
+    {
+      "start": 566.4,
+      "end": 574.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "form, reporting and processing and how exactly is that done and then how are the people and technology"
+    },
+    {
+      "start": 574.0799999999999,
+      "end": 581.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "integrated in the back. Okay. So some feedback on that is that first off, you led off talking about"
+    },
+    {
+      "start": 581.68,
+      "end": 586.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "the actual turnover rate. To be honest, that's not that important in this particular question,"
+    },
+    {
+      "start": 586.7199999999999,
+      "end": 591.76,
+      "speaker": "SPEAKER_00",
+      "text": "because the whole point is to really analyze the current system and interviewing the stakeholders."
+    },
+    {
+      "start": 591.76,
+      "end": 597.04,
+      "speaker": "SPEAKER_00",
+      "text": "So like if we wanted a system that solved the turnover rate, yes, that would be a really good"
+    },
+    {
+      "start": 597.04,
+      "end": 602.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "valid question to ask, but this is specifically talking about consolidating them. The other one"
+    },
+    {
+      "start": 602.0799999999999,
+      "end": 607.68,
+      "speaker": "SPEAKER_00",
+      "text": "would be would be when you said that why are there seven different systems. And this is actually"
+    },
+    {
+      "start": 607.68,
+      "end": 612.56,
+      "speaker": "SPEAKER_00",
+      "text": "the business situation you don't need to kind of ask about the business situation unless it's"
+    },
+    {
+      "start": 612.56,
+      "end": 617.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "actually helpful to the, to the actual case. But in this case, all they care about is consolidating."
+    },
+    {
+      "start": 617.1999999999999,
+      "end": 622.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Because in the end of the day, let's say for example, you are a law firm, you have five different"
+    },
+    {
+      "start": 622.3199999999999,
+      "end": 627.92,
+      "speaker": "SPEAKER_00",
+      "text": "systems like one up the desk and one to actually schedule appointments and one to like have calls."
+    },
+    {
+      "start": 627.92,
+      "end": 632.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Like that is something as reason why they'd have multiple systems. But depending on the actual"
+    },
+    {
+      "start": 632.72,
+      "end": 637.52,
+      "speaker": "SPEAKER_00",
+      "text": "firm or the consult or not the consulting firm, the client, they have different reasons, but the"
+    },
+    {
+      "start": 637.52,
+      "end": 641.84,
+      "speaker": "SPEAKER_00",
+      "text": "whole point of it is like how can we make this all cohesive together? They're not really trying"
+    },
+    {
+      "start": 641.84,
+      "end": 646.64,
+      "speaker": "SPEAKER_00",
+      "text": "to debate the point of like why is it together? Why is it separate? I think a better way to really"
+    },
+    {
+      "start": 646.64,
+      "end": 651.12,
+      "speaker": "SPEAKER_00",
+      "text": "approach this question is what are you looking for? And then what kind of questions do you need to"
+    },
+    {
+      "start": 651.12,
+      "end": 657.12,
+      "speaker": "SPEAKER_00",
+      "text": "ask to find what you need? So if you're asking about like why is there a high turnover rate,"
+    },
+    {
+      "start": 657.12,
+      "end": 661.84,
+      "speaker": "SPEAKER_00",
+      "text": "unless the question or the case is asking for something specifically about the turnover rate,"
+    },
+    {
+      "start": 661.84,
+      "end": 666.24,
+      "speaker": "SPEAKER_00",
+      "text": "then it makes sense to ask the question. So everything is supposed to be targeted towards the"
+    },
+    {
+      "start": 666.24,
+      "end": 672.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "solution of the actual case rather than just asking question for the actual background information."
+    },
+    {
+      "start": 672.5600000000001,
+      "end": 676.48,
+      "speaker": "SPEAKER_00",
+      "text": "You could ask that in the very beginning, but in this particular question, they're asking about"
+    },
+    {
+      "start": 676.48,
+      "end": 680.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "what should we be looking for when analyzing current systems and interviewing stakeholders?"
+    },
+    {
+      "start": 680.5600000000001,
+      "end": 685.12,
+      "speaker": "SPEAKER_00",
+      "text": "So some examples could be like aligning the business processes. So kind of similar to what you"
+    },
+    {
+      "start": 685.12,
+      "end": 690.0,
+      "speaker": "SPEAKER_00",
+      "text": "mentioned about being siloed. So instead of asking like why are they siloed or how are they siloed,"
+    },
+    {
+      "start": 690.0,
+      "end": 694.8,
+      "speaker": "SPEAKER_00",
+      "text": "it's really more about let's try to analyze how we can align them all. So that way they're not"
+    },
+    {
+      "start": 694.8,
+      "end": 699.2,
+      "speaker": "SPEAKER_00",
+      "text": "siloed, they're kind of all in sync. And the other one could be like analyzing data issues in the"
+    },
+    {
+      "start": 699.2,
+      "end": 703.44,
+      "speaker": "SPEAKER_00",
+      "text": "database of like why they're redundancies and what are the issues from that? So that way you can"
+    },
+    {
+      "start": 703.44,
+      "end": 709.84,
+      "speaker": "SPEAKER_00",
+      "text": "take that in consideration when you do build in the new system. So in this case, they have a good"
+    },
+    {
+      "start": 709.84,
+      "end": 714.72,
+      "speaker": "SPEAKER_00",
+      "text": "answer and that's a great answer. So the one that I just said is a good answer. A great answer"
+    },
+    {
+      "start": 714.72,
+      "end": 719.84,
+      "speaker": "SPEAKER_00",
+      "text": "would include analyzing current business processes by identifying key use cases. So this is something"
+    },
+    {
+      "start": 719.84,
+      "end": 724.0,
+      "speaker": "SPEAKER_00",
+      "text": "that's going to be very prevalent and consulting. You want to make sure you have use case for everything."
+    },
+    {
+      "start": 724.0,
+      "end": 728.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "You don't want to build something or develop something and there's like no use case for it. You"
+    },
+    {
+      "start": 728.5600000000001,
+      "end": 733.44,
+      "speaker": "SPEAKER_00",
+      "text": "just waste the time and energy. And then there's also created data mapping to see how the information"
+    },
+    {
+      "start": 733.44,
+      "end": 738.08,
+      "speaker": "SPEAKER_00",
+      "text": "is being recorded in different multiple systems. So whenever there's actual like multiple systems and"
+    },
+    {
+      "start": 738.08,
+      "end": 743.2,
+      "speaker": "SPEAKER_00",
+      "text": "you have to kind of collaborate to see they're all on the same page. Data mapping or data model,"
+    },
+    {
+      "start": 743.2,
+      "end": 747.2,
+      "speaker": "SPEAKER_00",
+      "text": "anything like that is very key to make sure that you have the right inputs and outputs and they"
+    },
+    {
+      "start": 747.2,
+      "end": 752.0,
+      "speaker": "SPEAKER_00",
+      "text": "do talk to each other. It's not something that we expect a lot of people who are doing these case"
+    },
+    {
+      "start": 752.0,
+      "end": 758.88,
+      "speaker": "SPEAKER_00",
+      "text": "interviews to understand, but it is what makes a good answer great. Oh, I see. Okay. Yep. So do you have any"
+    },
+    {
+      "start": 758.88,
+      "end": 765.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "questions about this before we move on? What do you mean by use case? Yeah. So use case is like,"
+    },
+    {
+      "start": 765.5200000000001,
+      "end": 770.72,
+      "speaker": "SPEAKER_00",
+      "text": "let's say for example, McDonald's, why would you need a wrapper around the burger? Well, the use case"
+    },
+    {
+      "start": 770.72,
+      "end": 775.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "would be people want to take it on the go. You need to have an actual purpose for it and actual reason"
+    },
+    {
+      "start": 775.52,
+      "end": 779.36,
+      "speaker": "SPEAKER_00",
+      "text": "that it's actually important. Otherwise, it was like, no, you know, I could just take the burger and"
+    },
+    {
+      "start": 779.36,
+      "end": 783.28,
+      "speaker": "SPEAKER_00",
+      "text": "go and just no problem. But then people want to take into their cars and want to take it to"
+    },
+    {
+      "start": 783.28,
+      "end": 787.6,
+      "speaker": "SPEAKER_00",
+      "text": "somewhere else. Like those are the ones that you start to see why is it important? And whenever it"
+    },
+    {
+      "start": 787.6,
+      "end": 792.16,
+      "speaker": "SPEAKER_00",
+      "text": "comes to interviewing stakeholders, you want to know like, is there an actual use case for it? Is"
+    },
+    {
+      "start": 792.16,
+      "end": 796.64,
+      "speaker": "SPEAKER_00",
+      "text": "then like, you need it rather than you want it? You always want to see like the priorities from there"
+    },
+    {
+      "start": 796.64,
+      "end": 801.52,
+      "speaker": "SPEAKER_00",
+      "text": "and what is the priority from which requirements you want to prioritize and then which ones are like,"
+    },
+    {
+      "start": 801.68,
+      "end": 811.04,
+      "speaker": "SPEAKER_00",
+      "text": "if we have time and money, we can do those. Yeah. Okay. Perfect. And then I can go a little bit more"
+    },
+    {
+      "start": 811.04,
+      "end": 815.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "into the actual frameworks a little bit later on. I don't know if you have time to look at it,"
+    },
+    {
+      "start": 815.1999999999999,
+      "end": 819.28,
+      "speaker": "SPEAKER_00",
+      "text": "but there was like the people, the process and the technology and then there's also the big"
+    },
+    {
+      "start": 820.0,
+      "end": 824.16,
+      "speaker": "SPEAKER_00",
+      "text": "little chart that I built as well. It's really good to kind of keep those in mind while you're"
+    },
+    {
+      "start": 824.16,
+      "end": 828.4,
+      "speaker": "SPEAKER_00",
+      "text": "doing the case. So that way you can keep a mind of the actual industry, the client and then the"
+    },
+    {
+      "start": 828.4,
+      "end": 833.6,
+      "speaker": "SPEAKER_00",
+      "text": "technology of it. So that way it's not just like whenever I give a question, regardless of the"
+    },
+    {
+      "start": 833.6,
+      "end": 837.84,
+      "speaker": "SPEAKER_00",
+      "text": "case, it would be the same answer. It should be slightly tailored towards actual client based off"
+    },
+    {
+      "start": 837.84,
+      "end": 842.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "of like the nature of their business or maybe like the kind of ask that they're asking for in the"
+    },
+    {
+      "start": 842.0799999999999,
+      "end": 850.48,
+      "speaker": "SPEAKER_01",
+      "text": "problems. Okay. So I actually wanted to ask you about that because I based, I made like a little"
+    },
+    {
+      "start": 850.48,
+      "end": 856.96,
+      "speaker": "SPEAKER_01",
+      "text": "template in a sense based off your framework. So with industry, you just focus on the industry"
+    },
+    {
+      "start": 857.12,
+      "end": 863.36,
+      "speaker": "SPEAKER_01",
+      "text": "there. And so in this case, it would be economic, it traits, traits, things, right?"
+    },
+    {
+      "start": 864.1600000000001,
+      "end": 872.4000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Technically, this would be government. Government? Okay. Yeah. So and then the problem actually"
+    },
+    {
+      "start": 872.4000000000001,
+      "end": 879.2,
+      "speaker": "SPEAKER_01",
+      "text": "lists a couple of or just says that recent rules and regulations have changed and affected."
+    },
+    {
+      "start": 880.1600000000001,
+      "end": 885.2,
+      "speaker": "SPEAKER_01",
+      "text": "So that would be like a good thing to focus on possibly. If it does end up like asking a question"
+    },
+    {
+      "start": 885.2,
+      "end": 890.6400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "about like how a project can like have an impact on it or maybe some considerations to look into."
+    },
+    {
+      "start": 891.2,
+      "end": 896.32,
+      "speaker": "SPEAKER_00",
+      "text": "But as the questions come up, if it's relevant to that question, then you can talk about it."
+    },
+    {
+      "start": 896.32,
+      "end": 900.48,
+      "speaker": "SPEAKER_00",
+      "text": "If you just want to preemptively mention it as long as you can tie it into the question or to the"
+    },
+    {
+      "start": 900.48,
+      "end": 908.08,
+      "speaker": "SPEAKER_01",
+      "text": "answer, then that's good. Okay. Yeah. And then you said the the high turnover rate isn't exactly"
+    },
+    {
+      "start": 908.08,
+      "end": 913.5200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "something to focus on, but it's something to take into consideration. Yes, exactly. Yeah. If it's like"
+    },
+    {
+      "start": 913.52,
+      "end": 920.72,
+      "speaker": "SPEAKER_01",
+      "text": "maybe like a yep, go on. Focus more on consolidating the systems first. Yeah. So the problem"
+    },
+    {
+      "start": 920.72,
+      "end": 925.12,
+      "speaker": "SPEAKER_00",
+      "text": "statement should be the one you focus on and then all the other things is what you consider. So for"
+    },
+    {
+      "start": 925.12,
+      "end": 930.56,
+      "speaker": "SPEAKER_00",
+      "text": "example, I mean, I don't want to get the answer away, but let's say for example, training or maybe"
+    },
+    {
+      "start": 930.56,
+      "end": 934.64,
+      "speaker": "SPEAKER_00",
+      "text": "like knowing how to use the technology, if there's a higher turnover rate, you have to constantly train."
+    },
+    {
+      "start": 934.64,
+      "end": 938.96,
+      "speaker": "SPEAKER_00",
+      "text": "So you may want to build some assets. So that way, when you do have like someone new coming on,"
+    },
+    {
+      "start": 938.96,
+      "end": 943.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "they know how to use the system. Because one thing you do notice in the key considerations is that"
+    },
+    {
+      "start": 943.52,
+      "end": 946.88,
+      "speaker": "SPEAKER_00",
+      "text": "there's like people that are not necessarily the best with technology there. So that is something"
+    },
+    {
+      "start": 946.88,
+      "end": 951.36,
+      "speaker": "SPEAKER_00",
+      "text": "to consider, but it's not something to focus on of like, why is your high turnover rate? That's more"
+    },
+    {
+      "start": 951.36,
+      "end": 956.0,
+      "speaker": "SPEAKER_00",
+      "text": "of like a management consulting role. But whenever it comes to technology, it's more of like all those"
+    },
+    {
+      "start": 956.0,
+      "end": 960.24,
+      "speaker": "SPEAKER_00",
+      "text": "management consulting, those macro elements or things to consider, but it's not the driving force"
+    },
+    {
+      "start": 960.24,
+      "end": 967.76,
+      "speaker": "SPEAKER_01",
+      "text": "of the actual solution. I see. Unless it's directly related. And then for the technology, it's just"
+    },
+    {
+      "start": 967.76,
+      "end": 971.52,
+      "speaker": "SPEAKER_01",
+      "text": "just asking about what do they use right now?"
+    },
+    {
+      "start": 972.4,
+      "end": 975.76,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, you can talk about like, what do they use right now? What are some current things that"
+    },
+    {
+      "start": 975.76,
+      "end": 980.64,
+      "speaker": "SPEAKER_00",
+      "text": "they value or what are some like things that they want to do in the future? Because even though"
+    },
+    {
+      "start": 980.64,
+      "end": 984.8,
+      "speaker": "SPEAKER_00",
+      "text": "like this is the technology they have now, they're trying to use this as a way to kind of transform"
+    },
+    {
+      "start": 984.8,
+      "end": 989.12,
+      "speaker": "SPEAKER_00",
+      "text": "their technology or their systems. And then that's what you can take in consideration to build their"
+    },
+    {
+      "start": 989.12,
+      "end": 997.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "future use. Okay. And when you say contingency plans for risks, what do you mean by that exactly?"
+    },
+    {
+      "start": 997.84,
+      "end": 1002.64,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. So let's say for example, the high turnover rate, that is technically a risk itself. So"
+    },
+    {
+      "start": 1002.64,
+      "end": 1007.76,
+      "speaker": "SPEAKER_00",
+      "text": "maybe people who are misusing the system or when they are putting in input and data, it's not the"
+    },
+    {
+      "start": 1007.76,
+      "end": 1012.08,
+      "speaker": "SPEAKER_00",
+      "text": "right data, just because they're not trained for it. That is also risk. So you may want to introduce"
+    },
+    {
+      "start": 1012.08,
+      "end": 1016.56,
+      "speaker": "SPEAKER_00",
+      "text": "training or assets or guides or aids or anything like that. I know I think could be like, if you"
+    },
+    {
+      "start": 1016.56,
+      "end": 1021.04,
+      "speaker": "SPEAKER_00",
+      "text": "were trying to put in clean data, which is how it starts in the very beginning. And then you"
+    },
+    {
+      "start": 1021.04,
+      "end": 1025.36,
+      "speaker": "SPEAKER_00",
+      "text": "start putting in bad data, then you're like, you need to redo the whole thing again or at least"
+    },
+    {
+      "start": 1025.36,
+      "end": 1030.56,
+      "speaker": "SPEAKER_00",
+      "text": "clean it up. So that is like an example of a risk. Another one could be like cutting funding,"
+    },
+    {
+      "start": 1030.56,
+      "end": 1035.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "then now like you may have to focus more on like a minimal viable product or you maybe like a risk"
+    },
+    {
+      "start": 1035.9199999999998,
+      "end": 1040.08,
+      "speaker": "SPEAKER_00",
+      "text": "could be like the key stakeholders, like maybe they left the firm or left the company. So that is"
+    },
+    {
+      "start": 1040.08,
+      "end": 1044.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "something to also consider. These are just like speculations of like in the future, if you do have"
+    },
+    {
+      "start": 1044.6399999999999,
+      "end": 1048.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "cases where it's about that. Another one could be like, let's say for example, contractors,"
+    },
+    {
+      "start": 1048.8799999999999,
+      "end": 1054.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "they're not technically employees of the company, but you may have them as a potential breach of"
+    },
+    {
+      "start": 1054.16,
+      "end": 1057.92,
+      "speaker": "SPEAKER_00",
+      "text": "security. So that is something to also consider. It's like all these tiny little things."
+    },
+    {
+      "start": 1057.92,
+      "end": 1062.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "They're not expecting you to learn this in school. They're not expecting you to know about like"
+    },
+    {
+      "start": 1062.0800000000002,
+      "end": 1066.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "all these potential things. They just want you to know about like think about all the connections"
+    },
+    {
+      "start": 1066.3200000000002,
+      "end": 1071.76,
+      "speaker": "SPEAKER_00",
+      "text": "that it could potentially have and mostly the risk and the practicality. So these risks apply to"
+    },
+    {
+      "start": 1071.76,
+      "end": 1082.64,
+      "speaker": "SPEAKER_01",
+      "text": "the legacy process and systems. Yes. Okay. Awesome. All right. I think I'm good. Okay. So next"
+    },
+    {
+      "start": 1082.64,
+      "end": 1089.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "question is and tell me when you're ready. I am ready. Okay. The scope of the project is"
+    },
+    {
+      "start": 1089.1200000000001,
+      "end": 1095.2800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "potentially very large given the consolidation of software systems, data structures, and potential"
+    },
+    {
+      "start": 1095.2800000000002,
+      "end": 1100.64,
+      "speaker": "SPEAKER_00",
+      "text": "new development efforts. How would you prioritize the list of requirements for the new system?"
+    },
+    {
+      "start": 1101.8400000000001,
+      "end": 1107.76,
+      "speaker": "SPEAKER_00",
+      "text": "I'm sorry. Can you repeat that? Yep. The scope of the project is potentially very large given the"
+    },
+    {
+      "start": 1107.76,
+      "end": 1114.16,
+      "speaker": "SPEAKER_00",
+      "text": "consolidation of software systems, data structures, and potential new development efforts."
+    },
+    {
+      "start": 1114.16,
+      "end": 1117.68,
+      "speaker": "SPEAKER_00",
+      "text": "How would you prioritize the list of requirements for the new system?"
+    },
+    {
+      "start": 1120.24,
+      "end": 1129.92,
+      "speaker": "SPEAKER_01",
+      "text": "You might have a take moment. Yep. Okay. I am ready. Okay. So first I would get an initial analysis"
+    },
+    {
+      "start": 1129.92,
+      "end": 1138.4,
+      "speaker": "SPEAKER_01",
+      "text": "of the current systems and processes. Talk to all the key important people. What exactly do they do?"
+    },
+    {
+      "start": 1139.28,
+      "end": 1147.44,
+      "speaker": "SPEAKER_01",
+      "text": "What do they not communicate to other people? And then combine all that into one database,"
+    },
+    {
+      "start": 1147.44,
+      "end": 1155.52,
+      "speaker": "SPEAKER_01",
+      "text": "right? Combine all seven and see how exactly the database works with all the departments working"
+    },
+    {
+      "start": 1155.52,
+      "end": 1163.36,
+      "speaker": "SPEAKER_01",
+      "text": "together. And then three, it would just to get feedback on any any problems on the new system"
+    },
+    {
+      "start": 1163.36,
+      "end": 1169.28,
+      "speaker": "SPEAKER_00",
+      "text": "and then improve them there. Okay. So you have basically described gathering the requirements."
+    },
+    {
+      "start": 1169.28,
+      "end": 1173.76,
+      "speaker": "SPEAKER_00",
+      "text": "Now how do you actually prioritize those requirements? Which ones to prioritize? Which ones not too?"
+    },
+    {
+      "start": 1174.6399999999999,
+      "end": 1180.8,
+      "speaker": "SPEAKER_00",
+      "text": "Like how do you tell the difference between wants and needs? How do I tell the difference between wants"
+    },
+    {
+      "start": 1180.96,
+      "end": 1190.72,
+      "speaker": "SPEAKER_01",
+      "text": "needs? So after talking to all the key stakeholders, for example, just to see what's required for"
+    },
+    {
+      "start": 1190.72,
+      "end": 1197.2,
+      "speaker": "SPEAKER_01",
+      "text": "everyday functions. What are the essential job necessities that they need in this new system"
+    },
+    {
+      "start": 1197.2,
+      "end": 1204.0,
+      "speaker": "SPEAKER_01",
+      "text": "to work right off the bat? Work on the smaller problems after that. Let's just say managing your"
+    },
+    {
+      "start": 1204.0,
+      "end": 1212.8,
+      "speaker": "SPEAKER_01",
+      "text": "user account on the system. That's a little less important than having to process an actual form"
+    },
+    {
+      "start": 1212.8,
+      "end": 1222.48,
+      "speaker": "SPEAKER_01",
+      "text": "or case. And then once it would also be good to hear about everyday users, you know,"
+    },
+    {
+      "start": 1223.44,
+      "end": 1228.48,
+      "speaker": "SPEAKER_01",
+      "text": "below the managers, just to see what they do in and out every day that a manager may not do"
+    },
+    {
+      "start": 1229.44,
+      "end": 1238.72,
+      "speaker": "SPEAKER_01",
+      "text": "hearing feedback on what can you improve on the new or what do you want to see on this new system?"
+    },
+    {
+      "start": 1239.2,
+      "end": 1246.32,
+      "speaker": "SPEAKER_01",
+      "text": "And taking those into consideration as well and seeing if it's essential or it's secondary."
+    },
+    {
+      "start": 1247.3600000000001,
+      "end": 1252.72,
+      "speaker": "SPEAKER_00",
+      "text": "That's good. All right. So what we would be looking for is that we want you to rank and wait"
+    },
+    {
+      "start": 1252.72,
+      "end": 1258.56,
+      "speaker": "SPEAKER_00",
+      "text": "the requirements based on based off of an objective methodology. So this is where people can get very"
+    },
+    {
+      "start": 1258.56,
+      "end": 1263.76,
+      "speaker": "SPEAKER_00",
+      "text": "emotional or personally involved in this because they're like, oh, we need this, but really you"
+    },
+    {
+      "start": 1263.76,
+      "end": 1268.48,
+      "speaker": "SPEAKER_00",
+      "text": "don't need this. You just want this to make your life a little bit easier. So that's why it's very"
+    },
+    {
+      "start": 1268.48,
+      "end": 1273.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "important to rank it by needs and wants. And then after that, but what you mentioned that is actually"
+    },
+    {
+      "start": 1273.3600000000001,
+      "end": 1278.48,
+      "speaker": "SPEAKER_00",
+      "text": "a really key point is that you went to the end users and say what was something you needed?"
+    },
+    {
+      "start": 1278.48,
+      "end": 1283.28,
+      "speaker": "SPEAKER_00",
+      "text": "Because managers are kind of a little bit more up there. Like key stakeholders and not always the"
+    },
+    {
+      "start": 1283.28,
+      "end": 1287.28,
+      "speaker": "SPEAKER_00",
+      "text": "ones that are using the system. Maybe there are other things to keep in mind. But even what that"
+    },
+    {
+      "start": 1287.28,
+      "end": 1290.64,
+      "speaker": "SPEAKER_00",
+      "text": "you still want to keep in consideration, which ones in the need to which ones are the ones. Maybe"
+    },
+    {
+      "start": 1290.64,
+      "end": 1294.72,
+      "speaker": "SPEAKER_00",
+      "text": "whatever the users are saying is like, so maybe they just like didn't do it properly. And then the"
+    },
+    {
+      "start": 1294.72,
+      "end": 1299.52,
+      "speaker": "SPEAKER_00",
+      "text": "whole time the key staker was right. So that communication is good. Another thing is that we also"
+    },
+    {
+      "start": 1299.52,
+      "end": 1305.6,
+      "speaker": "SPEAKER_00",
+      "text": "need to make sure to track it while we're doing this implementation. Are we actually on track or"
+    },
+    {
+      "start": 1305.6,
+      "end": 1309.28,
+      "speaker": "SPEAKER_00",
+      "text": "are we going to be doing a lot of things that people don't actually care about and doesn't address"
+    },
+    {
+      "start": 1309.28,
+      "end": 1314.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "the main issue? So that is one. So for example, when we were consolidating all these systems,"
+    },
+    {
+      "start": 1314.1599999999999,
+      "end": 1318.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "if we maybe wanted to make sure security is there so that way people can access what they want"
+    },
+    {
+      "start": 1318.6399999999999,
+      "end": 1323.12,
+      "speaker": "SPEAKER_00",
+      "text": "access. That's a need. Meanwhile, there could be like a want of like here, we want this random"
+    },
+    {
+      "start": 1323.12,
+      "end": 1329.28,
+      "speaker": "SPEAKER_00",
+      "text": "report that only one stakeholder uses just for the sake of profitability. It is not a need, it is"
+    },
+    {
+      "start": 1329.28,
+      "end": 1334.08,
+      "speaker": "SPEAKER_00",
+      "text": "a want. But if it's like required for maybe reporting purposes or tax purposes or anything like"
+    },
+    {
+      "start": 1334.6399999999999,
+      "end": 1339.52,
+      "speaker": "SPEAKER_00",
+      "text": "that's a need. So that is a good way to kind of see like does it actually solve a problem or is"
+    },
+    {
+      "start": 1339.52,
+      "end": 1344.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "it just something that will help you solve the problem? So that's a good way to kind of prioritize."
+    },
+    {
+      "start": 1344.1599999999999,
+      "end": 1348.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Another thing, which is like a pretty key thing and consult thing is that you always want the key"
+    },
+    {
+      "start": 1348.8799999999999,
+      "end": 1353.52,
+      "speaker": "SPEAKER_00",
+      "text": "stakeholders to actually approve the list of requirements. You don't want to act on these requirements."
+    },
+    {
+      "start": 1353.52,
+      "end": 1356.8,
+      "speaker": "SPEAKER_00",
+      "text": "And then there's like, oh, we never asked for this. Like, why are you working on this? We are paying"
+    },
+    {
+      "start": 1356.8,
+      "end": 1361.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "you X number of dollars to be working on something we don't actually want. So it's always good to have"
+    },
+    {
+      "start": 1361.44,
+      "end": 1366.24,
+      "speaker": "SPEAKER_00",
+      "text": "them to sign off on requirements as well to make sure it is exactly what they want. And that way,"
+    },
+    {
+      "start": 1366.24,
+      "end": 1372.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "we're not going to get in trouble for a working on it. Okay, because ultimately those stakeholders have"
+    },
+    {
+      "start": 1372.0800000000002,
+      "end": 1378.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "it's the ultimate state. Exactly. Yeah. Yeah. By the way, in this particular case, they gave me"
+    },
+    {
+      "start": 1378.3200000000002,
+      "end": 1382.56,
+      "speaker": "SPEAKER_00",
+      "text": "A, B, and C and you have to tell me which ones are all of the above, but just to make it a little"
+    },
+    {
+      "start": 1382.56,
+      "end": 1389.68,
+      "speaker": "SPEAKER_00",
+      "text": "bit more interesting, I just asked you a point blank. Okay. At least get a lot of them."
+    },
+    {
+      "start": 1390.48,
+      "end": 1395.92,
+      "speaker": "SPEAKER_00",
+      "text": "You, yeah, you got two of them. Oh, yeah. And you actually added one that wasn't even on there."
+    },
+    {
+      "start": 1395.92,
+      "end": 1402.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "So that's even better. Awesome. A lot of these are just like, here's a growth answer. He's a"
+    },
+    {
+      "start": 1402.5600000000002,
+      "end": 1407.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "great answer, but they're not all inclusive. Like, this is where the actual interviewer comes in"
+    },
+    {
+      "start": 1407.1200000000001,
+      "end": 1411.28,
+      "speaker": "SPEAKER_00",
+      "text": "and provides their own ideas of like, what's a good and what's a great answer. So a lot of this is"
+    },
+    {
+      "start": 1411.28,
+      "end": 1416.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "also kind of objective. So one of the reasons why I like to kind of research who the interviewer"
+    },
+    {
+      "start": 1416.08,
+      "end": 1422.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "is is for this particular reason. All right. So when you're ready, we have our last question."
+    },
+    {
+      "start": 1423.1999999999998,
+      "end": 1429.76,
+      "speaker": "SPEAKER_00",
+      "text": "Actually, two last questions. All right. So this is kind of similar across the question that"
+    },
+    {
+      "start": 1429.76,
+      "end": 1435.52,
+      "speaker": "SPEAKER_00",
+      "text": "you asked me before is what factors of Deloitte's control will determine the scope of the project?"
+    },
+    {
+      "start": 1436.48,
+      "end": 1444.72,
+      "speaker": "SPEAKER_01",
+      "text": "Can you reword that question? Yep. Yeah. So what are some things to consider to"
+    },
+    {
+      "start": 1445.52,
+      "end": 1450.4,
+      "speaker": "SPEAKER_00",
+      "text": "make sure that Deloitte is successful in this project? Some potential risks."
+    },
+    {
+      "start": 1453.3600000000001,
+      "end": 1453.92,
+      "speaker": "SPEAKER_02",
+      "text": "Let's see."
+    },
+    {
+      "start": 1456.24,
+      "end": 1460.4,
+      "speaker": "SPEAKER_00",
+      "text": "And feel free to resort to your notes or the case that's provided through the link."
+    },
+    {
+      "start": 1461.52,
+      "end": 1468.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. I'm just going to take an attempt because yeah. So to me, it would just"
+    },
+    {
+      "start": 1468.64,
+      "end": 1476.64,
+      "speaker": "SPEAKER_01",
+      "text": "make sure the consultant takes into account of everything talks to all the important people"
+    },
+    {
+      "start": 1476.64,
+      "end": 1484.24,
+      "speaker": "SPEAKER_01",
+      "text": "needed. And it's not just about the higher up view. It's the ground view as well. So talking"
+    },
+    {
+      "start": 1484.24,
+      "end": 1492.72,
+      "speaker": "SPEAKER_01",
+      "text": "to those people and the managers. But to also not get too lost in the details, make sure the overall"
+    },
+    {
+      "start": 1492.72,
+      "end": 1499.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "goal is to consolidate the database. Maybe it's contributing to the return of the rate."
+    },
+    {
+      "start": 1499.3600000000001,
+      "end": 1507.04,
+      "speaker": "SPEAKER_01",
+      "text": "But ultimately, it's just to make the process a lot easier. And then, yeah, that's honestly"
+    },
+    {
+      "start": 1507.04,
+      "end": 1514.64,
+      "speaker": "SPEAKER_00",
+      "text": "all it did come with. Okay. All right. So this one is very in line with project management triangle"
+    },
+    {
+      "start": 1514.64,
+      "end": 1521.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "of money, time, and resources or scope in this case. So this is something where like, let's say,"
+    },
+    {
+      "start": 1521.12,
+      "end": 1526.32,
+      "speaker": "SPEAKER_00",
+      "text": "for example, they cut in budget. Now we have a lot less time to work with or we just have a lot"
+    },
+    {
+      "start": 1526.32,
+      "end": 1531.28,
+      "speaker": "SPEAKER_00",
+      "text": "fewer resources to work with to make this happen. Another one could be maybe they cut the timeline."
+    },
+    {
+      "start": 1531.28,
+      "end": 1535.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Or like, now instead of two years you get one year, there's not much time to work on it. You may"
+    },
+    {
+      "start": 1535.1999999999998,
+      "end": 1540.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "have to kind of forego a lot of the required required features. The other one could be maybe resources."
+    },
+    {
+      "start": 1540.8799999999999,
+      "end": 1545.76,
+      "speaker": "SPEAKER_00",
+      "text": "Like I mentioned, like maybe people have left the firm or maybe people have left the client. In this"
+    },
+    {
+      "start": 1545.76,
+      "end": 1550.4,
+      "speaker": "SPEAKER_00",
+      "text": "case, like you may have to kind of work with that turnover rate and see like, okay, we might need"
+    },
+    {
+      "start": 1550.4,
+      "end": 1557.84,
+      "speaker": "SPEAKER_00",
+      "text": "to regather all this energy and requirements and make sure people are okay to test it. A great"
+    },
+    {
+      "start": 1557.84,
+      "end": 1562.72,
+      "speaker": "SPEAKER_00",
+      "text": "answer is the ones that actually require all of the macro elements. So when I mention anything about"
+    },
+    {
+      "start": 1562.72,
+      "end": 1567.6,
+      "speaker": "SPEAKER_00",
+      "text": "like maybe US foreign policy or maybe anything about the actual government, because at the end of the"
+    },
+    {
+      "start": 1567.6,
+      "end": 1573.2,
+      "speaker": "SPEAKER_00",
+      "text": "day, this is a federal agency. That is something that may actually make an impact on this. And another"
+    },
+    {
+      "start": 1573.2,
+      "end": 1579.04,
+      "speaker": "SPEAKER_00",
+      "text": "one is the actual agencies availability of resources. So maybe if like even you do have all the time"
+    },
+    {
+      "start": 1579.04,
+      "end": 1583.76,
+      "speaker": "SPEAKER_00",
+      "text": "in the resources, maybe they just don't have them available for like these meetings or to actually do"
+    },
+    {
+      "start": 1583.76,
+      "end": 1588.88,
+      "speaker": "SPEAKER_00",
+      "text": "the documentation of all of this. Like at the end of the day, it's like both people. It's not"
+    },
+    {
+      "start": 1588.88,
+      "end": 1593.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "necessarily just the client that's doing all the work. You also do need the clients engagement as well."
+    },
+    {
+      "start": 1593.1200000000001,
+      "end": 1596.56,
+      "speaker": "SPEAKER_00",
+      "text": "To make sure that like at least like you're building a product or service that is what they're looking"
+    },
+    {
+      "start": 1596.56,
+      "end": 1602.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "for. I see. Yeah. So mostly it's always about time resources and budget and then you also need to"
+    },
+    {
+      "start": 1602.08,
+      "end": 1607.28,
+      "speaker": "SPEAKER_00",
+      "text": "always go above that and say like, oh, the macro elements of it. So an example could be like maybe"
+    },
+    {
+      "start": 1607.28,
+      "end": 1612.48,
+      "speaker": "SPEAKER_00",
+      "text": "the technology in a case would be self-driving cars. Well, there could be a macro element of well,"
+    },
+    {
+      "start": 1612.48,
+      "end": 1617.04,
+      "speaker": "SPEAKER_00",
+      "text": "what if there's a law or regulation about self-driving cars. Now the solution is kind of put you need"
+    },
+    {
+      "start": 1617.04,
+      "end": 1623.28,
+      "speaker": "SPEAKER_01",
+      "text": "to figure out a contingency plan on it. So in regards to the question you asked me with Deloitte's"
+    },
+    {
+      "start": 1623.28,
+      "end": 1627.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "control. Yeah. How would those three time money and resources"
+    },
+    {
+      "start": 1628.88,
+      "end": 1636.4,
+      "speaker": "SPEAKER_00",
+      "text": "is still kind of unclear to me. Sorry. Yeah. These are all out. The question is asking. I'm just"
+    },
+    {
+      "start": 1636.4,
+      "end": 1640.8000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "going to read it out again. What factors out of Deloitte's control will determine the scope of the"
+    },
+    {
+      "start": 1640.8000000000002,
+      "end": 1645.76,
+      "speaker": "SPEAKER_00",
+      "text": "project. So this is not something that Deloitte can control. Maybe the client control, but the question"
+    },
+    {
+      "start": 1645.76,
+      "end": 1650.48,
+      "speaker": "SPEAKER_00",
+      "text": "was not asking about that. It was asking about outside of Deloitte's control. It could be the client."
+    },
+    {
+      "start": 1650.48,
+      "end": 1655.04,
+      "speaker": "SPEAKER_00",
+      "text": "It could be the climate, the industry, the actual world itself. There's so many factors that can come"
+    },
+    {
+      "start": 1655.04,
+      "end": 1661.84,
+      "speaker": "SPEAKER_00",
+      "text": "into this. What are the potential factors of that into that? Do you get it now? No, I'm sorry. You"
+    },
+    {
+      "start": 1661.84,
+      "end": 1670.32,
+      "speaker": "SPEAKER_01",
+      "text": "said, I'll, I, yeah. Oh, okay. My bad. Sorry about that. No problem. But it's good that you asked"
+    },
+    {
+      "start": 1670.32,
+      "end": 1677.12,
+      "speaker": "SPEAKER_00",
+      "text": "to rephrase it, but that's a good way of like, can you repeat it? But then not one, it sound like"
+    },
+    {
+      "start": 1677.12,
+      "end": 1684.56,
+      "speaker": "SPEAKER_00",
+      "text": "you didn't know it. Okay. Yeah. Sorry about that. Yeah. No problem. Well, now you know."
+    },
+    {
+      "start": 1685.84,
+      "end": 1691.6,
+      "speaker": "SPEAKER_00",
+      "text": "Yep. There's one more question. So this one is going to be a pretty long one actually. So"
+    },
+    {
+      "start": 1691.6,
+      "end": 1697.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "let me know when you're ready. Good. All right. After your current state analysis, it has been"
+    },
+    {
+      "start": 1697.4399999999998,
+      "end": 1703.12,
+      "speaker": "SPEAKER_00",
+      "text": "determined that the client's biggest pain point is the amount of time it takes to enter data into"
+    },
+    {
+      "start": 1703.12,
+      "end": 1708.8,
+      "speaker": "SPEAKER_00",
+      "text": "each system. And this could be improved by creating a unified data architecture to be used across"
+    },
+    {
+      "start": 1708.8,
+      "end": 1715.28,
+      "speaker": "SPEAKER_00",
+      "text": "all the systems. What steps would you go through to implement this new database? What do each of"
+    },
+    {
+      "start": 1715.28,
+      "end": 1728.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "these steps entail? Okay. Do you mind if I have a moment? Yeah. Okay. All right. Okay. So just to make"
+    },
+    {
+      "start": 1728.64,
+      "end": 1736.4,
+      "speaker": "SPEAKER_01",
+      "text": "sure the big concern is the amount of time data entered. And what they want to do is to consolidate"
+    },
+    {
+      "start": 1736.4,
+      "end": 1741.76,
+      "speaker": "SPEAKER_01",
+      "text": "and they just want to know the steps to create this new database and how what exactly the steps"
+    },
+    {
+      "start": 1741.76,
+      "end": 1747.92,
+      "speaker": "SPEAKER_01",
+      "text": "entail. Okay. So number one, I first analyzed. So we'd interview everyone. Like I said before,"
+    },
+    {
+      "start": 1750.3200000000002,
+      "end": 1755.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "it'd be the first initial interview. So it'd be kind of kind of long in terms of just getting to"
+    },
+    {
+      "start": 1755.36,
+      "end": 1762.4799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "know what the system currently does. It's about what everything it's used for. So after that, we see"
+    },
+    {
+      "start": 1762.4799999999998,
+      "end": 1769.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "the over the shoulder usage. So we go to someone that uses it every day. See what's needed, what's"
+    },
+    {
+      "start": 1769.4399999999998,
+      "end": 1773.84,
+      "speaker": "SPEAKER_01",
+      "text": "not needed, and what interacts with what? Because in the end, we're going to have to use"
+    },
+    {
+      "start": 1774.72,
+      "end": 1784.8,
+      "speaker": "SPEAKER_01",
+      "text": "the like EODs and all that. Yeah. And what are the primary keys and all that? So two, consult. So we"
+    },
+    {
+      "start": 1784.8,
+      "end": 1791.04,
+      "speaker": "SPEAKER_01",
+      "text": "consult with the needed teams. So we get with the developer teams or any other necessary"
+    },
+    {
+      "start": 1791.04,
+      "end": 1797.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "team, necessary teams that are needed to build this new database. And we get the best direction"
+    },
+    {
+      "start": 1797.1999999999998,
+      "end": 1803.76,
+      "speaker": "SPEAKER_01",
+      "text": "and approach from them. And three, we present the plan to the key stakeholders and possibly also"
+    },
+    {
+      "start": 1803.76,
+      "end": 1810.64,
+      "speaker": "SPEAKER_01",
+      "text": "any other, a standard employee, regular employee, just to see how they like the direction that we"
+    },
+    {
+      "start": 1810.64,
+      "end": 1814.8,
+      "speaker": "SPEAKER_01",
+      "text": "might, that we're pointing out right now. And we receive feedback. We take all that in account,"
+    },
+    {
+      "start": 1814.8,
+      "end": 1819.44,
+      "speaker": "SPEAKER_01",
+      "text": "and we go on the step four where we build, we have the developer team and any other teams build the"
+    },
+    {
+      "start": 1819.44,
+      "end": 1824.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "actual database. And we take it again, we take into account all those ideas and feedback. Five,"
+    },
+    {
+      "start": 1824.8799999999999,
+      "end": 1831.6,
+      "speaker": "SPEAKER_01",
+      "text": "we implement. So basically, we just implement the system to use just as a practice run, but not"
+    },
+    {
+      "start": 1832.24,
+      "end": 1838.0,
+      "speaker": "SPEAKER_01",
+      "text": "company-wide, but just like on a smaller scope to see how it functions. And then we receive feedback"
+    },
+    {
+      "start": 1838.0,
+      "end": 1844.08,
+      "speaker": "SPEAKER_01",
+      "text": "from those people that are in that limited scope. And then when it's deemed worthy enough to"
+    },
+    {
+      "start": 1844.08,
+      "end": 1848.0,
+      "speaker": "SPEAKER_01",
+      "text": "implement company-wide, then be able to company-wide and see further feedback."
+    },
+    {
+      "start": 1849.52,
+      "end": 1855.28,
+      "speaker": "SPEAKER_00",
+      "text": "I would say your answer was really good in this one. You covered almost all of the points you went"
+    },
+    {
+      "start": 1855.28,
+      "end": 1860.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "through identifying the requirements, designing, building, training. In this case, you"
+    },
+    {
+      "start": 1860.64,
+      "end": 1865.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "did not really touch that point, but you also, you talked about testing without using your"
+    },
+    {
+      "start": 1865.8400000000001,
+      "end": 1870.64,
+      "speaker": "SPEAKER_00",
+      "text": "work testing. So testing is very important because after you basically went through the whole"
+    },
+    {
+      "start": 1871.2800000000002,
+      "end": 1876.72,
+      "speaker": "SPEAKER_00",
+      "text": "SDLC, but you did not really talk about testing that much. You did talk about what I really liked"
+    },
+    {
+      "start": 1876.72,
+      "end": 1882.24,
+      "speaker": "SPEAKER_00",
+      "text": "about here. Let's start with this little small area. And then see, do people accept it? Do people"
+    },
+    {
+      "start": 1882.24,
+      "end": 1887.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "like it before you deploy it? In that case, like I would consider that almost like your testing,"
+    },
+    {
+      "start": 1887.6,
+      "end": 1890.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "but you did not really mention about all the types of testing. So you want to make sure that"
+    },
+    {
+      "start": 1890.8799999999999,
+      "end": 1896.08,
+      "speaker": "SPEAKER_00",
+      "text": "this system work is or like user acceptance testing. Like, do they actually like it? And then all"
+    },
+    {
+      "start": 1896.08,
+      "end": 1902.48,
+      "speaker": "SPEAKER_00",
+      "text": "those kind of things. And what you did, like the big structure, that actually is good. One thing"
+    },
+    {
+      "start": 1902.48,
+      "end": 1906.24,
+      "speaker": "SPEAKER_00",
+      "text": "that you did not mention really is training. So like I mentioned about the people, process, and"
+    },
+    {
+      "start": 1906.24,
+      "end": 1910.56,
+      "speaker": "SPEAKER_00",
+      "text": "technology, you did mention about like, okay, we have maybe the stakeholders like it. And then you"
+    },
+    {
+      "start": 1910.56,
+      "end": 1914.56,
+      "speaker": "SPEAKER_00",
+      "text": "want to make sure do they accept it from the little minimum viable product that you have. But you"
+    },
+    {
+      "start": 1914.56,
+      "end": 1920.32,
+      "speaker": "SPEAKER_00",
+      "text": "did not really mention training because like we mentioned, in actual key considerations was that"
+    },
+    {
+      "start": 1921.2,
+      "end": 1925.28,
+      "speaker": "SPEAKER_00",
+      "text": "over there, they said, you know, not everyone is pretty good with technology. You have a lot of"
+    },
+    {
+      "start": 1925.28,
+      "end": 1930.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "lawyers and ex-military officers. So this is where you bring it back to the case and try to look"
+    },
+    {
+      "start": 1930.1599999999999,
+      "end": 1934.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "into and see, okay, what are some considerations we're going to need to consider? So this is for"
+    },
+    {
+      "start": 1934.3999999999999,
+      "end": 1939.28,
+      "speaker": "SPEAKER_00",
+      "text": "example, a key risk. So one could be like training. Maybe they're just not really good with technology."
+    },
+    {
+      "start": 1939.28,
+      "end": 1942.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And if they don't like technology, they're just going to be like, well, this is a new system. I'm"
+    },
+    {
+      "start": 1942.4,
+      "end": 1946.72,
+      "speaker": "SPEAKER_00",
+      "text": "not going to try it. So you always want to make sure you provide that training aspect or you want"
+    },
+    {
+      "start": 1946.72,
+      "end": 1951.92,
+      "speaker": "SPEAKER_00",
+      "text": "to make sure that they feel comfortable with it. Or like, and the good thing is that you wanted to do"
+    },
+    {
+      "start": 1951.92,
+      "end": 1956.24,
+      "speaker": "SPEAKER_00",
+      "text": "something where you get them involved too. So it does get that involvement and in some cases,"
+    },
+    {
+      "start": 1956.24,
+      "end": 1961.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "we'll involve them to train themselves that way. But it really key point is really training and"
+    },
+    {
+      "start": 1961.8400000000001,
+      "end": 1967.2,
+      "speaker": "SPEAKER_00",
+      "text": "testing in your answer. But I really liked the way you approached it. You first, and I can see"
+    },
+    {
+      "start": 1967.2,
+      "end": 1971.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "throughout the progression of today, you've actually gone better. At first, you like jumped in with"
+    },
+    {
+      "start": 1971.6,
+      "end": 1976.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "your answer. And now you're like actually like confirming the question first before you gave you"
+    },
+    {
+      "start": 1976.7199999999998,
+      "end": 1981.6,
+      "speaker": "SPEAKER_00",
+      "text": "might gave me like your actual progression of your list, which is a very logical way of saying it."
+    },
+    {
+      "start": 1981.6,
+      "end": 1986.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So I think I would applaud you. This is probably your best answer yet. In addition to just including"
+    },
+    {
+      "start": 1986.9599999999998,
+      "end": 1994.56,
+      "speaker": "SPEAKER_00",
+      "text": "the word testing and then a mention of training. Awesome. Yeah. To be honest, what helped with it was,"
+    },
+    {
+      "start": 1994.56,
+      "end": 1999.76,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going through a database management class right now. It's a two semester long project where we"
+    },
+    {
+      "start": 1999.76,
+      "end": 2005.6,
+      "speaker": "SPEAKER_01",
+      "text": "have to reach out to a local company and then just offer them to, hey, we'll improve your database"
+    },
+    {
+      "start": 2005.6,
+      "end": 2009.68,
+      "speaker": "SPEAKER_01",
+      "text": "and make a new one. And so that's what we've been doing. And we're actually in the middle of"
+    },
+    {
+      "start": 2009.68,
+      "end": 2014.0,
+      "speaker": "SPEAKER_00",
+      "text": "developing the GUI for it right now. That's great. And when you mentioned about the ERD,"
+    },
+    {
+      "start": 2014.0,
+      "end": 2018.4,
+      "speaker": "SPEAKER_00",
+      "text": "it was like, oh, good thing. Because like that was actually what made a good answer great in"
+    },
+    {
+      "start": 2018.4,
+      "end": 2023.44,
+      "speaker": "SPEAKER_00",
+      "text": "addition to all the additional things I mentioned. Okay. Okay. Hopefully I get something."
+    },
+    {
+      "start": 2025.12,
+      "end": 2029.2,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. Yours might be a little bit more related to cybersecurity. So I will kind of touch up a"
+    },
+    {
+      "start": 2029.2,
+      "end": 2033.92,
+      "speaker": "SPEAKER_00",
+      "text": "little bit more on the topic of cybersecurity. You may or may not get a topic honest specifically,"
+    },
+    {
+      "start": 2033.92,
+      "end": 2038.72,
+      "speaker": "SPEAKER_00",
+      "text": "just maybe something in technology. But overall, I think you're getting the sense of how to conduct"
+    },
+    {
+      "start": 2038.72,
+      "end": 2043.2,
+      "speaker": "SPEAKER_00",
+      "text": "yourself in a case interview, like the way you communicate yourself, the way you want to clarify"
+    },
+    {
+      "start": 2043.2,
+      "end": 2048.16,
+      "speaker": "SPEAKER_00",
+      "text": "the question before you jump into conclusions. And then also just like the actual kind of questions"
+    },
+    {
+      "start": 2048.16,
+      "end": 2053.44,
+      "speaker": "SPEAKER_00",
+      "text": "and answers that you'll expect is more focused on people, process, technology. That's like generally"
+    },
+    {
+      "start": 2053.44,
+      "end": 2058.8,
+      "speaker": "SPEAKER_00",
+      "text": "the most used framework when it comes to technology consulting. And then the framework that I provided"
+    },
+    {
+      "start": 2058.8,
+      "end": 2063.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "is also a good thing to consider while you're kind of like planning the entire thing out for the"
+    },
+    {
+      "start": 2063.2000000000003,
+      "end": 2070.4,
+      "speaker": "SPEAKER_01",
+      "text": "grand scheme of things. Do you abide by your your framework like kind of verbatim in a sense,"
+    },
+    {
+      "start": 2070.4,
+      "end": 2075.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "like you go boom, boom, boom, boom. I don't really just like here, I'm going to draw the framework"
+    },
+    {
+      "start": 2075.6000000000004,
+      "end": 2079.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "before I even start this case and write down for a little bit things here and there. It's just"
+    },
+    {
+      "start": 2079.2000000000003,
+      "end": 2084.32,
+      "speaker": "SPEAKER_00",
+      "text": "like a good thing to keep in consideration. So it's more like a reminder than it is like an actual"
+    },
+    {
+      "start": 2084.4,
+      "end": 2088.96,
+      "speaker": "SPEAKER_00",
+      "text": "worksheet of anything. So when I get a question and this is actually something I do on a"
+    },
+    {
+      "start": 2088.96,
+      "end": 2092.8,
+      "speaker": "SPEAKER_00",
+      "text": "typical day basis, like the good thing about technology consulting case interviews is that they're"
+    },
+    {
+      "start": 2092.8,
+      "end": 2096.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "very similar to how you would get it in real life. The only difference is that you're not getting a"
+    },
+    {
+      "start": 2096.7200000000003,
+      "end": 2101.6800000000003,
+      "speaker": "SPEAKER_00",
+      "text": "paint like a paper pencil or you're not saying it, you're doing it. So the difference is like, well,"
+    },
+    {
+      "start": 2101.6800000000003,
+      "end": 2106.0,
+      "speaker": "SPEAKER_00",
+      "text": "maybe if there's like an industry out there, you need to take in consideration. Maybe it's like"
+    },
+    {
+      "start": 2106.0,
+      "end": 2110.8,
+      "speaker": "SPEAKER_00",
+      "text": "particular businesses that like whatever they're doing that is very specific to the technology"
+    },
+    {
+      "start": 2110.8,
+      "end": 2115.04,
+      "speaker": "SPEAKER_00",
+      "text": "solution that we need to consider. And then actual technology itself, like is it something that"
+    },
+    {
+      "start": 2115.04,
+      "end": 2120.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "would work for them and then what are the project, you know, the poll triangle there is like the"
+    },
+    {
+      "start": 2120.1600000000003,
+      "end": 2124.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "budget, then you have your time and scope. That's also something you need to take in consideration."
+    },
+    {
+      "start": 2124.1600000000003,
+      "end": 2128.88,
+      "speaker": "SPEAKER_00",
+      "text": "It's not the thing about technology is that it's very focused on the actual implementation, the"
+    },
+    {
+      "start": 2128.88,
+      "end": 2134.4,
+      "speaker": "SPEAKER_00",
+      "text": "practicality, the risk, that all the execution itself. A lot of the management consulting case"
+    },
+    {
+      "start": 2134.4,
+      "end": 2138.96,
+      "speaker": "SPEAKER_00",
+      "text": "interviews they focus on strategy. Here's like a theory and may or may not work, we'll leave that"
+    },
+    {
+      "start": 2138.96,
+      "end": 2143.28,
+      "speaker": "SPEAKER_00",
+      "text": "to the technology consultants to do. But then that's where we have to deal with what is actually doable."
+    },
+    {
+      "start": 2143.28,
+      "end": 2148.08,
+      "speaker": "SPEAKER_00",
+      "text": "We have to like, we can't do everything. We have to kind of give up some features, like do something,"
+    },
+    {
+      "start": 2148.08,
+      "end": 2152.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "making consideration of this. We are the ones that tell them what they should be considering,"
+    },
+    {
+      "start": 2152.2400000000002,
+      "end": 2157.04,
+      "speaker": "SPEAKER_00",
+      "text": "rather than here's our recommendation because they have to take it or if they don't take it, then"
+    },
+    {
+      "start": 2157.04,
+      "end": 2163.52,
+      "speaker": "SPEAKER_01",
+      "text": "there will be some consequences down the line. Okay. And I just have two questions regarding"
+    },
+    {
+      "start": 2163.6,
+      "end": 2171.7599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "the general virtual. Actually, first one, with technology, do I expect to do any calculations?"
+    },
+    {
+      "start": 2171.7599999999998,
+      "end": 2176.88,
+      "speaker": "SPEAKER_00",
+      "text": "That's more management. You should not be doing calculations. If you do do them, it's like very"
+    },
+    {
+      "start": 2176.88,
+      "end": 2182.96,
+      "speaker": "SPEAKER_01",
+      "text": "basic. Okay. But they're not going to ask me like, what's our revenue or projected something?"
+    },
+    {
+      "start": 2182.96,
+      "end": 2189.04,
+      "speaker": "SPEAKER_00",
+      "text": "They shouldn't be, but it really does depend on, again, if you know who your interviewer is,"
+    },
+    {
+      "start": 2189.04,
+      "end": 2193.2,
+      "speaker": "SPEAKER_00",
+      "text": "I would research them. If they are coming from like a more technical background, you'll probably get"
+    },
+    {
+      "start": 2193.2,
+      "end": 2196.96,
+      "speaker": "SPEAKER_00",
+      "text": "a case that we just got today. If they're coming from our management consulting background,"
+    },
+    {
+      "start": 2196.96,
+      "end": 2201.4399999999996,
+      "speaker": "SPEAKER_00",
+      "text": "they may go into more about like, oh, what is the ROI if we did this solution kind of thing? And"
+    },
+    {
+      "start": 2201.4399999999996,
+      "end": 2205.9199999999996,
+      "speaker": "SPEAKER_00",
+      "text": "you may have to kind of back it up with all the things that we talked about today, but just"
+    },
+    {
+      "start": 2205.9199999999996,
+      "end": 2209.6,
+      "speaker": "SPEAKER_00",
+      "text": "back it up with those reasons. You don't need to give an exact number, but it's just things to consider."
+    },
+    {
+      "start": 2210.3999999999996,
+      "end": 2217.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. And then virtual interviewing. Should I not look more directly at the camera?"
+    },
+    {
+      "start": 2218.0,
+      "end": 2221.52,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I noticed that during the case you were just looking at your paper, you weren't really"
+    },
+    {
+      "start": 2221.52,
+      "end": 2227.12,
+      "speaker": "SPEAKER_00",
+      "text": "looking at the webcam itself. So it is okay. The way I like to do it is I always position zoom to"
+    },
+    {
+      "start": 2227.12,
+      "end": 2232.96,
+      "speaker": "SPEAKER_00",
+      "text": "have like the person directly under the webcam. So as if I'm looking at them, I'm looking at the"
+    },
+    {
+      "start": 2232.96,
+      "end": 2237.52,
+      "speaker": "SPEAKER_00",
+      "text": "webcam kind of, but that is like something that's good to do. So what I like to do on case"
+    },
+    {
+      "start": 2237.52,
+      "end": 2241.36,
+      "speaker": "SPEAKER_00",
+      "text": "interviews is that I would be doing the case interview, do my own thing. And then when I'm actually"
+    },
+    {
+      "start": 2241.36,
+      "end": 2246.8,
+      "speaker": "SPEAKER_00",
+      "text": "trying to like either clarify a question or say my solution, I would look at them. And then if I"
+    },
+    {
+      "start": 2246.8,
+      "end": 2251.36,
+      "speaker": "SPEAKER_00",
+      "text": "need to look back, I would, but I wouldn't be looking at this the whole time. Okay. Yeah."
+    },
+    {
+      "start": 2253.36,
+      "end": 2257.28,
+      "speaker": "SPEAKER_00",
+      "text": "You can also say something is like, oh, let me refer back to my notes. And then it will be like,"
+    },
+    {
+      "start": 2257.28,
+      "end": 2259.44,
+      "speaker": "SPEAKER_00",
+      "text": "oh, you're not necessarily being rude of anything."
+    },
+    {
+      "start": 2261.2000000000003,
+      "end": 2268.5600000000004,
+      "speaker": "SPEAKER_01",
+      "text": "All right. And then should I have like, I've had more visible? Like, oh, I, I, I didn't care about that."
+    },
+    {
+      "start": 2269.52,
+      "end": 2274.5600000000004,
+      "speaker": "SPEAKER_00",
+      "text": "And you are actually a good thing to do about case interviews in light of this is that you could"
+    },
+    {
+      "start": 2274.56,
+      "end": 2279.44,
+      "speaker": "SPEAKER_00",
+      "text": "technically draw diagrams if you want to. Maybe like, for example, the design, then you have the"
+    },
+    {
+      "start": 2279.44,
+      "end": 2284.4,
+      "speaker": "SPEAKER_00",
+      "text": "build test and then deploy for that, you can draw a diagram and you can show it to the camera."
+    },
+    {
+      "start": 2284.4,
+      "end": 2288.48,
+      "speaker": "SPEAKER_00",
+      "text": "That is something you can do to or the other thing could be that you just screen share as well."
+    },
+    {
+      "start": 2288.48,
+      "end": 2291.6,
+      "speaker": "SPEAKER_00",
+      "text": "If you have that capability to actually draw it on your computer."
+    },
+    {
+      "start": 2294.32,
+      "end": 2299.44,
+      "speaker": "SPEAKER_01",
+      "text": "And so, do you have anything else? Like, are you going to move on to something?"
+    },
+    {
+      "start": 2300.4,
+      "end": 2302.32,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. This is, that's the last question."
+    },
+    {
+      "start": 2302.32,
+      "end": 2308.56,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Well, I do have a question for you. What would have, what would have, what would have been"
+    },
+    {
+      "start": 2308.56,
+      "end": 2314.2400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "your chosen buckets for this case interview? What do you mean by buckets? Like your main points."
+    },
+    {
+      "start": 2314.2400000000002,
+      "end": 2320.8,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Yeah. Let me pull up the case again. So what I would be focusing a little bit more on is"
+    },
+    {
+      "start": 2320.8,
+      "end": 2325.44,
+      "speaker": "SPEAKER_00",
+      "text": "when I mentioned about the people process and technology, I would mostly focus on the people"
+    },
+    {
+      "start": 2325.44,
+      "end": 2330.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "and process technology. This could be like an ERP system. One thing that we could mention though,"
+    },
+    {
+      "start": 2330.7200000000003,
+      "end": 2334.16,
+      "speaker": "SPEAKER_00",
+      "text": "as you mentioned actually in the very beginning about like, oh, you know, like there's a lot of like"
+    },
+    {
+      "start": 2334.16,
+      "end": 2340.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "paper lying around. This could be a good opportunity to also consider cloud. So when you have"
+    },
+    {
+      "start": 2340.2400000000002,
+      "end": 2344.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "seven systems and you're consolidating them, one good thing to use is probably cloud otherwise"
+    },
+    {
+      "start": 2344.7200000000003,
+      "end": 2349.92,
+      "speaker": "SPEAKER_00",
+      "text": "you're kind of using like seven systems on premise. So that is something to consider. So what they're"
+    },
+    {
+      "start": 2349.92,
+      "end": 2355.12,
+      "speaker": "SPEAKER_00",
+      "text": "looking for is like, here's your answer, but you can also put in your own spin of creativity. So like,"
+    },
+    {
+      "start": 2355.2799999999997,
+      "end": 2359.2,
+      "speaker": "SPEAKER_00",
+      "text": "you know, we can include cloud and you can also put in your own little spin of like, oh, I have"
+    },
+    {
+      "start": 2359.2,
+      "end": 2363.44,
+      "speaker": "SPEAKER_00",
+      "text": "experience working with databases due to my class that you're taking right now. And then you can"
+    },
+    {
+      "start": 2363.44,
+      "end": 2367.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "also provide some additional points to consider. So like when you mentioned the primary key,"
+    },
+    {
+      "start": 2367.3599999999997,
+      "end": 2370.96,
+      "speaker": "SPEAKER_00",
+      "text": "I was like, oh, that's good thing because you're not necessarily focusing on a technical part, but"
+    },
+    {
+      "start": 2370.96,
+      "end": 2375.44,
+      "speaker": "SPEAKER_00",
+      "text": "you're kind of showing that you have some kind of understanding to it. So in this, I would talk"
+    },
+    {
+      "start": 2375.44,
+      "end": 2381.12,
+      "speaker": "SPEAKER_00",
+      "text": "about more about the considerations of consolidating from multiple data systems and then a recommendation"
+    },
+    {
+      "start": 2381.12,
+      "end": 2386.4,
+      "speaker": "SPEAKER_00",
+      "text": "on it would be maybe going to the cloud. And then another thing could be more about the actual"
+    },
+    {
+      "start": 2387.04,
+      "end": 2392.24,
+      "speaker": "SPEAKER_00",
+      "text": "training aspect of it. So we keep on getting information about high turnover rates or maybe people"
+    },
+    {
+      "start": 2392.24,
+      "end": 2396.4,
+      "speaker": "SPEAKER_00",
+      "text": "just don't know how do you technology. That clearly shows there's some kind of point to focus on"
+    },
+    {
+      "start": 2396.4,
+      "end": 2401.68,
+      "speaker": "SPEAKER_00",
+      "text": "there as well as the training aspect. And especially being in like a federal agency, they're not"
+    },
+    {
+      "start": 2401.68,
+      "end": 2406.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "necessarily the most tech savvy as well. So maybe something in security is also good too."
+    },
+    {
+      "start": 2407.28,
+      "end": 2414.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "So really like a good way to learn about all of this and just having an eye for this is"
+    },
+    {
+      "start": 2415.28,
+      "end": 2419.1200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "other than like working in the industry about this is really looking at all the"
+    },
+    {
+      "start": 2419.1200000000003,
+      "end": 2423.44,
+      "speaker": "SPEAKER_00",
+      "text": "tournaments. What are the things that people of these particular industries are doing or maybe"
+    },
+    {
+      "start": 2423.44,
+      "end": 2428.0,
+      "speaker": "SPEAKER_00",
+      "text": "what are they valuing? So maybe like what you'll hear about all these security breaches, like why"
+    },
+    {
+      "start": 2428.0,
+      "end": 2432.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "are there security breaches? What are they doing about it? And then anything about like data,"
+    },
+    {
+      "start": 2432.16,
+      "end": 2436.24,
+      "speaker": "SPEAKER_00",
+      "text": "like how are they doing it? How are and then really learning about all these tech concepts,"
+    },
+    {
+      "start": 2436.24,
+      "end": 2441.84,
+      "speaker": "SPEAKER_00",
+      "text": "like what is cloud to be able to even propose this idea? Because when I did my case interview,"
+    },
+    {
+      "start": 2441.84,
+      "end": 2445.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "they actually had a very similar case to this where they said we have all these systems is actually"
+    },
+    {
+      "start": 2445.7599999999998,
+      "end": 2449.68,
+      "speaker": "SPEAKER_00",
+      "text": "higher education client. And then I was like, well, you know, you can use cloud and then that way"
+    },
+    {
+      "start": 2449.68,
+      "end": 2453.6,
+      "speaker": "SPEAKER_00",
+      "text": "you don't have to worry about all these different legacy systems. You just put them all in one and"
+    },
+    {
+      "start": 2453.6,
+      "end": 2459.2,
+      "speaker": "SPEAKER_00",
+      "text": "then it would be able to be used all across campus. And another thing I mentioned was actually"
+    },
+    {
+      "start": 2459.2,
+      "end": 2463.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "nature of being a higher education client is that maybe they're also not as tech savvy and maybe"
+    },
+    {
+      "start": 2463.8399999999997,
+      "end": 2467.9199999999996,
+      "speaker": "SPEAKER_00",
+      "text": "they're older. So that is also something to bring in training. Honestly, training is like always"
+    },
+    {
+      "start": 2467.9199999999996,
+      "end": 2471.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "something I like to bring in who doesn't need training. It's like there's always going to be older"
+    },
+    {
+      "start": 2471.7599999999998,
+      "end": 2476.3999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "people in here. And it was going to be people that are also resistance to change. So that's also"
+    },
+    {
+      "start": 2476.3999999999996,
+      "end": 2481.9199999999996,
+      "speaker": "SPEAKER_01",
+      "text": "something to bring up as well. I see. Yeah. There actually fits in line with one of the notes I took"
+    },
+    {
+      "start": 2481.9199999999996,
+      "end": 2488.72,
+      "speaker": "SPEAKER_01",
+      "text": "a while back. Someone said that if it's not efficient enough focus on interaction of people in"
+    },
+    {
+      "start": 2488.72,
+      "end": 2495.8399999999997,
+      "speaker": "SPEAKER_01",
+      "text": "process and see what might be filling the scale. Yeah. Yeah. And then tasks not being done fast enough"
+    },
+    {
+      "start": 2495.8399999999997,
+      "end": 2502.56,
+      "speaker": "SPEAKER_01",
+      "text": "focus on interaction of process and tech and automation. Yes, exactly. That's pretty cool. Yeah."
+    },
+    {
+      "start": 2502.56,
+      "end": 2506.9599999999996,
+      "speaker": "SPEAKER_00",
+      "text": "And a lot of it it could be right. It's just a matter of the actual backing that you provide. Because"
+    },
+    {
+      "start": 2506.9599999999996,
+      "end": 2512.08,
+      "speaker": "SPEAKER_00",
+      "text": "a lot of this is just a framework. So whatever you say to the interviewer as long as interviewer"
+    },
+    {
+      "start": 2512.08,
+      "end": 2516.72,
+      "speaker": "SPEAKER_00",
+      "text": "thinks it's a good answer or maybe it makes sense, then they'll just say, yeah, yeah, you're good"
+    },
+    {
+      "start": 2516.72,
+      "end": 2521.04,
+      "speaker": "SPEAKER_00",
+      "text": "because they're not trying to fit you into a box where you have to check these answers off to be"
+    },
+    {
+      "start": 2521.04,
+      "end": 2528.3199999999997,
+      "speaker": "SPEAKER_01",
+      "text": "able to pass an interview. Yeah. Nice. And so what you did today with the questions, would that be"
+    },
+    {
+      "start": 2528.3199999999997,
+      "end": 2533.52,
+      "speaker": "SPEAKER_01",
+      "text": "what I should probably expect from the interview? You could. There's two different types of case"
+    },
+    {
+      "start": 2533.52,
+      "end": 2538.08,
+      "speaker": "SPEAKER_00",
+      "text": "interviews. One is the interview we led where they just give you the case and they just sit there."
+    },
+    {
+      "start": 2538.08,
+      "end": 2542.48,
+      "speaker": "SPEAKER_00",
+      "text": "And they're expecting you to provide the whole solution based off of the actual case. The other"
+    },
+    {
+      "start": 2542.48,
+      "end": 2547.52,
+      "speaker": "SPEAKER_00",
+      "text": "one is interview were led, which is the one we just had where we give questions and you answer"
+    },
+    {
+      "start": 2547.52,
+      "end": 2552.0,
+      "speaker": "SPEAKER_00",
+      "text": "off of the case. So there could be two different ways. Whenever it comes to like I think it was"
+    },
+    {
+      "start": 2552.0,
+      "end": 2556.0,
+      "speaker": "SPEAKER_00",
+      "text": "McKinsey and Accenture, they're more focused on interview we led and everything else is more"
+    },
+    {
+      "start": 2556.0,
+      "end": 2561.12,
+      "speaker": "SPEAKER_00",
+      "text": "focused on interview were led. So knowing that the particular firm that you're interviewing for"
+    },
+    {
+      "start": 2561.12,
+      "end": 2567.92,
+      "speaker": "SPEAKER_00",
+      "text": "may potentially be doing the one that we just did today. Nice. Okay. Awesome. Well, this was a good"
+    },
+    {
+      "start": 2567.92,
+      "end": 2573.6800000000003,
+      "speaker": "SPEAKER_01",
+      "text": "learning experience. Yeah. No problem and good luck with your interview. I appreciate it."
+    },
+    {
+      "start": 2573.6800000000003,
+      "end": 2577.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "All right. Thank you so much. And if you have any other questions you can leave down a comment."
+    },
+    {
+      "start": 2577.2000000000003,
+      "end": 2581.92,
+      "speaker": "SPEAKER_00",
+      "text": "And if you're interested in doing one of these also career coaching 101s, leave a comment down"
+    },
+    {
+      "start": 2581.92,
+      "end": 2586.0,
+      "speaker": "SPEAKER_00",
+      "text": "below and also check out the form we have in the description so you can also apply for that."
+    },
+    {
+      "start": 2586.0,
+      "end": 2590.64,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you so much Gerald. Thank you Christine. Have a good one. Take care. Bye."
+    }
+  ],
+  "grading": {
+    "communication": 12,
+    "framework": 8,
+    "math": 10,
+    "case_difficulty": 11,
+    "final_summary": 12,
+    "overall_thoughts": "You provided a solid communication and framework, but struggled with math."
+  }
+}

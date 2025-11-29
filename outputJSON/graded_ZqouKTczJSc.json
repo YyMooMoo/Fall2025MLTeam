@@ -1,0 +1,1620 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 7.28,
+      "speaker": "SPEAKER_00",
+      "text": "What's a case interview like?"
+    },
+    {
+      "start": 7.28,
+      "end": 9.4,
+      "speaker": "SPEAKER_00",
+      "text": "How should you interact with your interviewer?"
+    },
+    {
+      "start": 9.4,
+      "end": 11.56,
+      "speaker": "SPEAKER_00",
+      "text": "How long should a case interview take?"
+    },
+    {
+      "start": 11.56,
+      "end": 14.4,
+      "speaker": "SPEAKER_00",
+      "text": "These are some of the questions that we get as people are preparing for their case interviews"
+    },
+    {
+      "start": 14.4,
+      "end": 15.72,
+      "speaker": "SPEAKER_00",
+      "text": "with BAN."
+    },
+    {
+      "start": 15.72,
+      "end": 20.16,
+      "speaker": "SPEAKER_00",
+      "text": "In this video, you'll get a chance to see someone set up their analysis and their framework."
+    },
+    {
+      "start": 20.16,
+      "end": 24.04,
+      "speaker": "SPEAKER_00",
+      "text": "Work through their analysis, including doing some math, and synthesize their recommendation"
+    },
+    {
+      "start": 24.04,
+      "end": 25.04,
+      "speaker": "SPEAKER_00",
+      "text": "at the end."
+    },
+    {
+      "start": 25.04,
+      "end": 29.12,
+      "speaker": "SPEAKER_00",
+      "text": "We hope this interview example helps you feel prepared and confident heading into your interviews."
+    },
+    {
+      "start": 29.12,
+      "end": 31.12,
+      "speaker": "SPEAKER_00",
+      "text": "So let's take a look at a case interview."
+    },
+    {
+      "start": 31.12,
+      "end": 32.120000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "Hi, Eric."
+    },
+    {
+      "start": 32.120000000000005,
+      "end": 33.120000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "Hi."
+    },
+    {
+      "start": 33.120000000000005,
+      "end": 34.120000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "Hi."
+    },
+    {
+      "start": 34.120000000000005,
+      "end": 35.120000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "Great to meet you."
+    },
+    {
+      "start": 35.120000000000005,
+      "end": 36.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "So glad to have you here today."
+    },
+    {
+      "start": 36.120000000000005,
+      "end": 37.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Excited to be here."
+    },
+    {
+      "start": 37.120000000000005,
+      "end": 38.120000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "A little nervous, but excited."
+    },
+    {
+      "start": 38.120000000000005,
+      "end": 39.120000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah."
+    },
+    {
+      "start": 39.120000000000005,
+      "end": 40.120000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "How are you doing just more generally?"
+    },
+    {
+      "start": 40.120000000000005,
+      "end": 41.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "I'm good."
+    },
+    {
+      "start": 41.120000000000005,
+      "end": 42.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "I'm good."
+    },
+    {
+      "start": 42.120000000000005,
+      "end": 43.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 43.120000000000005,
+      "end": 44.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 44.120000000000005,
+      "end": 45.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "The office is beautiful."
+    },
+    {
+      "start": 45.120000000000005,
+      "end": 46.120000000000005,
+      "speaker": "SPEAKER_03",
+      "text": "Everybody's been great so far, and just excited to get going over the case."
+    },
+    {
+      "start": 46.120000000000005,
+      "end": 47.120000000000005,
+      "speaker": "SPEAKER_03",
+      "text": "I'm so glad."
+    },
+    {
+      "start": 47.120000000000005,
+      "end": 48.120000000000005,
+      "speaker": "SPEAKER_03",
+      "text": "Well, I'll be the one pushing us along."
+    },
+    {
+      "start": 48.120000000000005,
+      "end": 51.120000000000005,
+      "speaker": "SPEAKER_03",
+      "text": "Don't worry if I finish us up, move us to another area."
+    },
+    {
+      "start": 51.120000000000005,
+      "end": 53.120000000000005,
+      "speaker": "SPEAKER_03",
+      "text": "I'll be in charge in terms of the time management."
+    },
+    {
+      "start": 53.120000000000005,
+      "end": 54.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Good enough."
+    },
+    {
+      "start": 54.120000000000005,
+      "end": 55.120000000000005,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you."
+    },
+    {
+      "start": 55.120000000000005,
+      "end": 56.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 56.120000000000005,
+      "end": 57.120000000000005,
+      "speaker": "SPEAKER_03",
+      "text": "So should we jump in?"
+    },
+    {
+      "start": 57.120000000000005,
+      "end": 58.120000000000005,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, let's do it."
+    },
+    {
+      "start": 58.12,
+      "end": 59.12,
+      "speaker": "SPEAKER_03",
+      "text": "Hi, we're going to take a look at the next section."
+    },
+    {
+      "start": 59.12,
+      "end": 60.12,
+      "speaker": "SPEAKER_03",
+      "text": "Please do read the next section."
+    },
+    {
+      "start": 60.12,
+      "end": 61.12,
+      "speaker": "SPEAKER_03",
+      "text": "Now, what we're going to do is, we're going to take this next section, and we're going to"
+    },
+    {
+      "start": 61.12,
+      "end": 62.12,
+      "speaker": "SPEAKER_03",
+      "text": "bring you a little more of the context of the case."
+    },
+    {
+      "start": 62.12,
+      "end": 65.12,
+      "speaker": "SPEAKER_03",
+      "text": "Now, one thing I love about this one is I do all consumer products and retail work for, you"
+    },
+    {
+      "start": 65.12,
+      "end": 67.12,
+      "speaker": "SPEAKER_03",
+      "text": "know, my normal job here at Bean."
+    },
+    {
+      "start": 67.12,
+      "end": 72.12,
+      "speaker": "SPEAKER_03",
+      "text": "And so this is one of those consumer products types of cases, and it's based off of a"
+    },
+    {
+      "start": 72.12,
+      "end": 73.12,
+      "speaker": "SPEAKER_03",
+      "text": "real Bean case."
+    },
+    {
+      "start": 73.12,
+      "end": 74.12,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 74.12,
+      "end": 75.12,
+      "speaker": "SPEAKER_03",
+      "text": "And so let me give you a little bit of the situation."
+    },
+    {
+      "start": 75.12,
+      "end": 80.12,
+      "speaker": "SPEAKER_03",
+      "text": "We're going to blind all of the company names for the purposes of confidentiality."
+    },
+    {
+      "start": 80.12,
+      "end": 82.12,
+      "speaker": "SPEAKER_03",
+      "text": "So our client is FoodCo."
+    },
+    {
+      "start": 82.12,
+      "end": 87.12,
+      "speaker": "SPEAKER_03",
+      "text": "There are multi-billion dollar client that has leading brands across many different food categories."
+    },
+    {
+      "start": 87.12,
+      "end": 92.12,
+      "speaker": "SPEAKER_03",
+      "text": "right now they've narrowed in on the alternative milk category. They believe it's growing quickly,"
+    },
+    {
+      "start": 92.12,
+      "end": 99.12,
+      "speaker": "SPEAKER_03",
+      "text": "has some attractive elements to it. And alternative milk you can define as anything that's non-dairy plant-based."
+    },
+    {
+      "start": 99.12,
+      "end": 105.12,
+      "speaker": "SPEAKER_03",
+      "text": "So things like almond, oat, coconut, soy, you name it, all goes in alternative milk."
+    },
+    {
+      "start": 105.12,
+      "end": 107.12,
+      "speaker": "SPEAKER_01",
+      "text": "I think I used almond in my latte this morning."
+    },
+    {
+      "start": 107.12,
+      "end": 109.12,
+      "speaker": "SPEAKER_01",
+      "text": "Are you cold? So you're familiar?"
+    },
+    {
+      "start": 109.12,
+      "end": 110.12,
+      "speaker": "SPEAKER_01",
+      "text": "I'm ready."
+    },
+    {
+      "start": 110.12,
+      "end": 118.12,
+      "speaker": "SPEAKER_03",
+      "text": "They've partnered with Bane to determine how they want to enter and whether or not they think this asset is the right way to enter the space."
+    },
+    {
+      "start": 118.12,
+      "end": 123.12,
+      "speaker": "SPEAKER_03",
+      "text": "Because they're pretty familiar with this market, they've narrowed in on a target named Smilk."
+    },
+    {
+      "start": 123.12,
+      "end": 128.12,
+      "speaker": "SPEAKER_03",
+      "text": "And Smilk in terms of its profile is pretty attractive profile. That's why they're interested in it."
+    },
+    {
+      "start": 128.12,
+      "end": 135.12,
+      "speaker": "SPEAKER_03",
+      "text": "To give you some facts on it, it has over the past three years been doubling its profit each year."
+    },
+    {
+      "start": 135.12,
+      "end": 142.12,
+      "speaker": "SPEAKER_03",
+      "text": "Very very strong performance overall. It has about 6% share of the alternative milk market."
+    },
+    {
+      "start": 142.12,
+      "end": 145.12,
+      "speaker": "SPEAKER_03",
+      "text": "And is expected to grow to 8%."
+    },
+    {
+      "start": 145.12,
+      "end": 147.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, some moderate modest growth."
+    },
+    {
+      "start": 147.12,
+      "end": 153.12,
+      "speaker": "SPEAKER_03",
+      "text": "Right. Now this Smilk has been able to expand across Europe and the US."
+    },
+    {
+      "start": 153.12,
+      "end": 158.12,
+      "speaker": "SPEAKER_03",
+      "text": "But food co-fer this particular piece of work is only interested in the US market."
+    },
+    {
+      "start": 158.12,
+      "end": 159.12,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, good to know."
+    },
+    {
+      "start": 159.12,
+      "end": 161.12,
+      "speaker": "SPEAKER_03",
+      "text": "So we'll be focusing on that."
+    },
+    {
+      "start": 161.12,
+      "end": 164.12,
+      "speaker": "SPEAKER_03",
+      "text": "Now, here's the real complicating element of it."
+    },
+    {
+      "start": 164.12,
+      "end": 170.12,
+      "speaker": "SPEAKER_03",
+      "text": "They expect that Smilk should be able to increase its profit by 6x over the next five years."
+    },
+    {
+      "start": 170.12,
+      "end": 171.12,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 171.12,
+      "end": 178.12,
+      "speaker": "SPEAKER_03",
+      "text": "So as we think about this overall, I'd love to have you tell me a little bit about how you would approach assessing this question."
+    },
+    {
+      "start": 178.12,
+      "end": 184.12,
+      "speaker": "SPEAKER_03",
+      "text": "And in particular, we need to understand whether or not the 6x profitability growth is feasible."
+    },
+    {
+      "start": 184.12,
+      "end": 188.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great. I think I understand the situation. Can I ask a couple clarifying questions?"
+    },
+    {
+      "start": 188.12,
+      "end": 189.12,
+      "speaker": "SPEAKER_01",
+      "text": "Sure, absolutely."
+    },
+    {
+      "start": 189.12,
+      "end": 196.12,
+      "speaker": "SPEAKER_01",
+      "text": "I imagine they have different business units, like all men, soy, oat, and any gaps in their portfolio that they should be aware of."
+    },
+    {
+      "start": 196.12,
+      "end": 198.12,
+      "speaker": "SPEAKER_03",
+      "text": "Not that it's relevant to the case."
+    },
+    {
+      "start": 198.12,
+      "end": 199.12,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, great. Gotcha."
+    },
+    {
+      "start": 199.12,
+      "end": 208.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then finally, just in terms of understanding, does Sputco have any other specific acquisition thesis that I should be aware of,"
+    },
+    {
+      "start": 208.12,
+      "end": 213.12,
+      "speaker": "SPEAKER_01",
+      "text": "any metrics that they want to hit or is just broad assessment, get our opinion whether it's good or not?"
+    },
+    {
+      "start": 213.12,
+      "end": 214.12,
+      "speaker": "SPEAKER_03",
+      "text": "You know, that's a good question."
+    },
+    {
+      "start": 214.12,
+      "end": 218.12,
+      "speaker": "SPEAKER_03",
+      "text": "So mostly they're focused on whether or not they can achieve the profit."
+    },
+    {
+      "start": 218.12,
+      "end": 219.12,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 219.12,
+      "end": 224.12,
+      "speaker": "SPEAKER_03",
+      "text": "But what's equally important is thinking about share and the trade-offs between the two of those."
+    },
+    {
+      "start": 224.12,
+      "end": 225.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, awesome."
+    },
+    {
+      "start": 225.12,
+      "end": 230.12,
+      "speaker": "SPEAKER_01",
+      "text": "Well, I think I understand the problem. Excited to get into it. In my particular moment, do I stretch my thoughts?"
+    },
+    {
+      "start": 230.12,
+      "end": 247.12,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome. So as I think through this problem of Hadens SS,"
+    },
+    {
+      "start": 247.12,
+      "end": 256.12,
+      "speaker": "SPEAKER_01",
+      "text": "I think through whether the profitability target is achievable, there's really three buckets that I want to look into."
+    },
+    {
+      "start": 256.12,
+      "end": 259.12,
+      "speaker": "SPEAKER_01",
+      "text": "First is the alt milk market itself."
+    },
+    {
+      "start": 259.12,
+      "end": 260.12,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 260.12,
+      "end": 263.12,
+      "speaker": "SPEAKER_01",
+      "text": "Second is a deep dive into milk and their internal operations."
+    },
+    {
+      "start": 263.12,
+      "end": 264.12,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect."
+    },
+    {
+      "start": 264.12,
+      "end": 267.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then finally, I have some other considerations and rest that I want to look at."
+    },
+    {
+      "start": 267.12,
+      "end": 273.12,
+      "speaker": "SPEAKER_03",
+      "text": "Great. Before we jump into your framework, can you tell me why you thought about these three as being the main buckets that you wanted to focus on?"
+    },
+    {
+      "start": 273.12,
+      "end": 288.12,
+      "speaker": "SPEAKER_01",
+      "text": "For sure. So I wanted to first start looking at the market because I think a core tenet of any good acquisition or investment is that the asset is positioned in a market that is favorable, growing, has tailwinds and headwinds, etc."
+    },
+    {
+      "start": 288.12,
+      "end": 292.12,
+      "speaker": "SPEAKER_01",
+      "text": "Then once we feel comfortable about that, that's a large and growing market."
+    },
+    {
+      "start": 292.12,
+      "end": 305.12,
+      "speaker": "SPEAKER_01",
+      "text": "So the milk is well positioned within it, making sure that milk has everything that they need to, to be able to succeed, capture share, grow revenue, decrease costs, which will ultimately help us to improve profitability."
+    },
+    {
+      "start": 305.12,
+      "end": 306.12,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 306.12,
+      "end": 314.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then finally, these other risks or considerations are more kind of deal-specific in terms of how might we finance it?"
+    },
+    {
+      "start": 314.12,
+      "end": 322.12,
+      "speaker": "SPEAKER_01",
+      "text": "What is the balance sheet of food co-look like? Can they bring on debt? Because I think that will impact what the ROI could look like moving forward?"
+    },
+    {
+      "start": 322.12,
+      "end": 329.12,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of opportunity cost, I know that there's zero data on milk right now, but are there perhaps other ways that they could enter the market?"
+    },
+    {
+      "start": 329.12,
+      "end": 335.12,
+      "speaker": "SPEAKER_01",
+      "text": "Should they do a joint venture with somebody? Should they just build it organically themselves? Or could there be a better target?"
+    },
+    {
+      "start": 335.12,
+      "end": 336.12,
+      "speaker": "SPEAKER_01",
+      "text": "That's great."
+    },
+    {
+      "start": 336.12,
+      "end": 344.12,
+      "speaker": "SPEAKER_01",
+      "text": "And finally, with any acquisition, I think making sure that we don't lose sight of culture to make sure that it will fold in nicely and that that transition plan would go smoothly."
+    },
+    {
+      "start": 344.12,
+      "end": 364.12,
+      "speaker": "SPEAKER_01",
+      "text": "But unless there's any other questions on kind of how I've thought through this, I think I want to start with the initial hypothesis that yes, this asset would be a good acquisition for food co-demake, and that they will be able to achieve the profit target of, just remind myself, six X's in the next five years."
+    },
+    {
+      "start": 364.12,
+      "end": 372.12,
+      "speaker": "SPEAKER_01",
+      "text": "So in order to start testing that, we'd really start to like looking at this first bucket in terms of what the overall alternative milk market looks like."
+    },
+    {
+      "start": 372.12,
+      "end": 374.12,
+      "speaker": "SPEAKER_01",
+      "text": "It ideally broken out by segment."
+    },
+    {
+      "start": 374.12,
+      "end": 376.12,
+      "speaker": "SPEAKER_03",
+      "text": "Perfect. Is that where you'd like to start? Yes, it would be."
+    },
+    {
+      "start": 376.12,
+      "end": 380.12,
+      "speaker": "SPEAKER_03",
+      "text": "Great. And then after we look at that, what are the most important elements within milk?"
+    },
+    {
+      "start": 380.12,
+      "end": 389.12,
+      "speaker": "SPEAKER_01",
+      "text": "So within milk, what I would love to understand is looking at their historical performance broken out, ideally by business unit."
+    },
+    {
+      "start": 389.12,
+      "end": 399.12,
+      "speaker": "SPEAKER_01",
+      "text": "The reason I want to look at that is to get a sense of how they've gotten to where they are today. I know that they have doubled profit every year for the past three years, which is really incredible growth."
+    },
+    {
+      "start": 399.12,
+      "end": 409.12,
+      "speaker": "SPEAKER_01",
+      "text": "Right. And obviously there's multiple ways that they could do that. They could be gaining market share. They could be introducing new products, or they could be cutting costs, or some combination of all of that."
+    },
+    {
+      "start": 409.12,
+      "end": 419.12,
+      "speaker": "SPEAKER_01",
+      "text": "And I think how they've gotten to where they are today will give us a good insight into what future growth opportunities they might have and help us to get a really good understanding of whether or not that six X target is achievable."
+    },
+    {
+      "start": 419.12,
+      "end": 424.12,
+      "speaker": "SPEAKER_03",
+      "text": "Fantastic. I like how you're thinking about it. I also like how you're bringing it back to the objective around the six X."
+    },
+    {
+      "start": 424.12,
+      "end": 426.12,
+      "speaker": "SPEAKER_03",
+      "text": "So let's start where you suggested."
+    },
+    {
+      "start": 426.12,
+      "end": 427.12,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 427.12,
+      "end": 430.12,
+      "speaker": "SPEAKER_03",
+      "text": "And I have a slide here that gives you a picture of the market."
+    },
+    {
+      "start": 430.12,
+      "end": 431.12,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 431.12,
+      "end": 436.12,
+      "speaker": "SPEAKER_03",
+      "text": "And would love for you to tell me what does this tell you about the dynamics of the milk market?"
+    },
+    {
+      "start": 436.12,
+      "end": 437.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 437.12,
+      "end": 440.12,
+      "speaker": "SPEAKER_01",
+      "text": "I can just take a couple of moments to orient myself."
+    },
+    {
+      "start": 440.12,
+      "end": 451.12,
+      "speaker": "SPEAKER_01",
+      "text": "So what I'm seeing is a chart of kind of the US milk sales over the past 10 years forecasted into the future for five years from now."
+    },
+    {
+      "start": 451.12,
+      "end": 458.12,
+      "speaker": "SPEAKER_01",
+      "text": "And the first thing that immediately jumps out to me is you can see that the overall market has been in decline and forecasted going forward."
+    },
+    {
+      "start": 458.12,
+      "end": 461.12,
+      "speaker": "SPEAKER_01",
+      "text": "It's at best going to remain roughly flat."
+    },
+    {
+      "start": 461.12,
+      "end": 462.12,
+      "speaker": "SPEAKER_01",
+      "text": "That's right."
+    },
+    {
+      "start": 462.12,
+      "end": 478.12,
+      "speaker": "SPEAKER_01",
+      "text": "So from the overall perspective, not great, but what is exciting for milk is when you do a deep dive into the alternative milk segment, that is actually expected to grow and quite considerably over the next five years, a low double digit kegger is actually pretty exciting to me."
+    },
+    {
+      "start": 478.12,
+      "end": 490.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so feeling good about that and looking closer at the data row, I'm seeing some numbers that we can manipulate in order to get a sense of exactly what the size of the all milk market is today."
+    },
+    {
+      "start": 490.12,
+      "end": 497.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then what it's going to grow to five years from now, which I think will be a good starting point to help us understand the feasibility of the six X target."
+    },
+    {
+      "start": 497.12,
+      "end": 499.12,
+      "speaker": "SPEAKER_03",
+      "text": "Agreed. Let's go ahead and do that."
+    },
+    {
+      "start": 499.12,
+      "end": 511.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So in order to combine these variables, I'm thinking we first take the ultimate share today, multiply that by the overall market size, which will give us the ultimate market in dollars today and five years from now."
+    },
+    {
+      "start": 511.12,
+      "end": 516.12,
+      "speaker": "SPEAKER_01",
+      "text": "Putting some numbers 19 billion is okay if I round that."
+    },
+    {
+      "start": 516.12,
+      "end": 520.12,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, please do. 19 billion times 11%."
+    },
+    {
+      "start": 520.12,
+      "end": 526.12,
+      "speaker": "SPEAKER_01",
+      "text": "That is roughly 2 billion, 2.1 billion."
+    },
+    {
+      "start": 526.12,
+      "end": 529.12,
+      "speaker": "SPEAKER_01",
+      "text": "So that is today."
+    },
+    {
+      "start": 529.12,
+      "end": 542.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then in five years, we are going to 19.2 billion times 20%, which is 3.8 billion."
+    },
+    {
+      "start": 542.12,
+      "end": 545.12,
+      "speaker": "SPEAKER_01",
+      "text": "But I'm going to go ahead and round that to 4 billion."
+    },
+    {
+      "start": 545.12,
+      "end": 553.12,
+      "speaker": "SPEAKER_01",
+      "text": "So like I said, we now have a better sense of what might be achievable if milk just kind of maintains market share, maintains that is going forward."
+    },
+    {
+      "start": 553.12,
+      "end": 559.12,
+      "speaker": "SPEAKER_01",
+      "text": "It's exciting. It's 2X, but it is a far cry from their 6X target."
+    },
+    {
+      "start": 559.12,
+      "end": 566.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so to update my hypothesis, I still think that there is reason to believe that this would be a good acquisition for food co."
+    },
+    {
+      "start": 566.12,
+      "end": 571.12,
+      "speaker": "SPEAKER_01",
+      "text": "However, I'm more bearish about the achievability of the 6X profit target."
+    },
+    {
+      "start": 571.12,
+      "end": 580.12,
+      "speaker": "SPEAKER_01",
+      "text": "In order to get a better sense of that achievability, I would love to look at any internal financials that we have from smoke to see how they've grown over the past."
+    },
+    {
+      "start": 580.12,
+      "end": 587.12,
+      "speaker": "SPEAKER_03",
+      "text": "I'm so glad that you asked and had us go there because I'd love to think a little bit about the feasibility of the share gain."
+    },
+    {
+      "start": 587.12,
+      "end": 593.12,
+      "speaker": "SPEAKER_03",
+      "text": "Now that we've isolated that they will need to gain share to reach their targets potentially or other levers."
+    },
+    {
+      "start": 593.12,
+      "end": 601.12,
+      "speaker": "SPEAKER_03",
+      "text": "I'd love you to tell me a little bit about what this competitor market view tells you about their ability to gain share."
+    },
+    {
+      "start": 601.12,
+      "end": 604.12,
+      "speaker": "SPEAKER_01",
+      "text": "I'm just orienting myself quickly."
+    },
+    {
+      "start": 604.12,
+      "end": 611.12,
+      "speaker": "SPEAKER_01",
+      "text": "So what I'm seeing right off the bat is not too long ago, only a year and a half."
+    },
+    {
+      "start": 611.12,
+      "end": 615.12,
+      "speaker": "SPEAKER_01",
+      "text": "There weren't that many players. And smoke was still very nascent."
+    },
+    {
+      "start": 615.12,
+      "end": 622.12,
+      "speaker": "SPEAKER_01",
+      "text": "But over time, smoke has moderately grown its market share, seemed like they've plateaued very recently."
+    },
+    {
+      "start": 622.12,
+      "end": 628.12,
+      "speaker": "SPEAKER_01",
+      "text": "And they are the smallest player in an ever increasing competitive and crowded market."
+    },
+    {
+      "start": 628.12,
+      "end": 643.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then just interpreting the names here, large snack co looks like the market leader, which could potentially be not great for smoke if they're going up against somebody that is very well financed and very entrenched in the market."
+    },
+    {
+      "start": 643.12,
+      "end": 660.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so, looking at this, I'm feeling even better about the view that the 6X profit might not be achievable simply because I don't see an easy win here in order to gain share."
+    },
+    {
+      "start": 660.12,
+      "end": 664.12,
+      "speaker": "SPEAKER_01",
+      "text": "However, I'm not going to give up. I think some things that could help them achieve that."
+    },
+    {
+      "start": 664.12,
+      "end": 672.12,
+      "speaker": "SPEAKER_01",
+      "text": "If any of these competitors are potentially acquisition targets and food co could do a quasi roll-up strategy."
+    },
+    {
+      "start": 672.12,
+      "end": 675.12,
+      "speaker": "SPEAKER_01",
+      "text": "That's great. That could be a way. But..."
+    },
+    {
+      "start": 675.12,
+      "end": 680.12,
+      "speaker": "SPEAKER_03",
+      "text": "What else would you need to know about the smell to gain confidence that they could gain share?"
+    },
+    {
+      "start": 680.12,
+      "end": 686.12,
+      "speaker": "SPEAKER_01",
+      "text": "I think in order to gain confidence about how they could gain share, I want to know a couple of things."
+    },
+    {
+      "start": 686.12,
+      "end": 693.12,
+      "speaker": "SPEAKER_01",
+      "text": "One is, I guess I would bucket this kind of external and internal considerations."
+    },
+    {
+      "start": 693.12,
+      "end": 704.12,
+      "speaker": "SPEAKER_01",
+      "text": "Externally, I would love to know how customers view them. Are they differentiated in any way from a product standpoint or a capability standpoint, such that they could still share?"
+    },
+    {
+      "start": 704.12,
+      "end": 711.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then second, from the internal perspective, I would love to know what products they offer today."
+    },
+    {
+      "start": 711.12,
+      "end": 714.12,
+      "speaker": "SPEAKER_01",
+      "text": "Are there any untapped geographies that they're not in, for example?"
+    },
+    {
+      "start": 714.12,
+      "end": 718.12,
+      "speaker": "SPEAKER_01",
+      "text": "Are there any products that competitors offer that they simply lack?"
+    },
+    {
+      "start": 718.12,
+      "end": 731.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then I know we're focused on grocery, but there's always opportunity for partnership. There's always opportunity for selling your brand outside of grocery stores like coffee shops, airport lounges, etc."
+    },
+    {
+      "start": 731.12,
+      "end": 732.12,
+      "speaker": "SPEAKER_01",
+      "text": "That's great."
+    },
+    {
+      "start": 732.12,
+      "end": 736.12,
+      "speaker": "SPEAKER_01",
+      "text": "To update my hypothesis, I still think that this is a good asset."
+    },
+    {
+      "start": 736.12,
+      "end": 740.12,
+      "speaker": "SPEAKER_01",
+      "text": "So I feel good about the acquisition thesis there."
+    },
+    {
+      "start": 740.12,
+      "end": 748.12,
+      "speaker": "SPEAKER_01",
+      "text": "However, I'm increasingly bearish on the ability to hit that 6X profitability increase over the next five years."
+    },
+    {
+      "start": 748.12,
+      "end": 759.12,
+      "speaker": "SPEAKER_01",
+      "text": "In order to feel more comfortable about that part, I would love to look internally to smoke in terms of their financials, to understand how they've grown and like you just suggested."
+    },
+    {
+      "start": 759.12,
+      "end": 764.12,
+      "speaker": "SPEAKER_01",
+      "text": "Are there any opportunities that they could kind of untapped potential to steal share?"
+    },
+    {
+      "start": 764.12,
+      "end": 768.12,
+      "speaker": "SPEAKER_03",
+      "text": "That's great. I think we're going to explore both the internal and the external dimensions."
+    },
+    {
+      "start": 768.12,
+      "end": 772.12,
+      "speaker": "SPEAKER_03",
+      "text": "So first, let's go to the internal. I have some data on the company."
+    },
+    {
+      "start": 772.12,
+      "end": 780.12,
+      "speaker": "SPEAKER_03",
+      "text": "Could you first orient me to what you see in terms of the data you do have and what you would need in order to answer this 6X profit question?"
+    },
+    {
+      "start": 780.12,
+      "end": 789.12,
+      "speaker": "SPEAKER_01",
+      "text": "So what I'm seeing, like you said, we have financial data for Smilk broken out from their US business and their European business."
+    },
+    {
+      "start": 789.12,
+      "end": 795.12,
+      "speaker": "SPEAKER_01",
+      "text": "And looks like it's a little bit of a puzzle to solve in terms of some blanks that we need to fill in."
+    },
+    {
+      "start": 795.12,
+      "end": 797.12,
+      "speaker": "SPEAKER_01",
+      "text": "Love some logic games."
+    },
+    {
+      "start": 797.12,
+      "end": 816.12,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, love some logic games. And so what I'm seeing in terms of how to, well, just to react very quickly to this, it's interesting that the US business is only a quarter of overall profitability compared to the European business, which is important because we're only focused on the US and from a food cost perspective."
+    },
+    {
+      "start": 816.12,
+      "end": 823.12,
+      "speaker": "SPEAKER_01",
+      "text": "The second thing that sticks out to me is there's quite a delta in terms of the margin between the two geographies."
+    },
+    {
+      "start": 823.12,
+      "end": 829.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so, you know, to keep this on our radar moving forward, we'd love to understand why that delta exists."
+    },
+    {
+      "start": 829.12,
+      "end": 834.12,
+      "speaker": "SPEAKER_01",
+      "text": "And if there's any way that we could potentially bring the US business up to snuff with what they're seeing in Europe."
+    },
+    {
+      "start": 834.12,
+      "end": 842.12,
+      "speaker": "SPEAKER_01",
+      "text": "But to get to your question in terms of how to fill this chart out, what I'm seeing is we have revenue today."
+    },
+    {
+      "start": 842.12,
+      "end": 848.12,
+      "speaker": "SPEAKER_01",
+      "text": "And we have the margin. So we can back solve for this profit figure right here."
+    },
+    {
+      "start": 848.12,
+      "end": 856.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then we know in the US with the market sizes today, we know what their share is. So that'll give us this value. And then same approach."
+    },
+    {
+      "start": 856.12,
+      "end": 863.12,
+      "speaker": "SPEAKER_01",
+      "text": "Knowing the margin, we can back calculate what profit is. That'll leave this whole. And then we can kind of fill in from there."
+    },
+    {
+      "start": 863.12,
+      "end": 871.12,
+      "speaker": "SPEAKER_03",
+      "text": "Now before we do that, going through that process, what is it going to tell you about whether or not they can achieve that six-axis profitability?"
+    },
+    {
+      "start": 871.12,
+      "end": 878.12,
+      "speaker": "SPEAKER_01",
+      "text": "So what it's going to tell me is it's going to tell me what profit is today. And then we know what profit is today."
+    },
+    {
+      "start": 878.12,
+      "end": 883.12,
+      "speaker": "SPEAKER_01",
+      "text": "We know what the market is expected to be five years from now, what their market share is expected."
+    },
+    {
+      "start": 883.12,
+      "end": 893.12,
+      "speaker": "SPEAKER_01",
+      "text": "So that'll give us revenue. Then if we multiply by a margin, that'll give us what if everything goes as we're forecasting, no changes in margin, what profitability would be."
+    },
+    {
+      "start": 893.12,
+      "end": 901.12,
+      "speaker": "SPEAKER_01",
+      "text": "Just looking at these numbers, if we do that, like we said from before, with no material change in share, they're only expected to gain two points."
+    },
+    {
+      "start": 901.12,
+      "end": 907.12,
+      "speaker": "SPEAKER_01",
+      "text": "That's not going to close the gap. Unless we see some sort of margin increase, like that's also not going to close the gap."
+    },
+    {
+      "start": 907.12,
+      "end": 920.12,
+      "speaker": "SPEAKER_01",
+      "text": "But I do think that there are still ways that we could achieve this. One would be if we could increase the profitability of the US segment to get to Europe, that'll get us some of the way."
+    },
+    {
+      "start": 920.12,
+      "end": 928.12,
+      "speaker": "SPEAKER_01",
+      "text": "My intuition is not going to get us all the way, but there also could be some margin improvement that you would see from synergies rolling into food co."
+    },
+    {
+      "start": 928.12,
+      "end": 942.12,
+      "speaker": "SPEAKER_01",
+      "text": "I would expect that distribution, logistics, et cetera, would get cheaper. Also purchasing power of a really large company could help get the cost of goods down for these different types of milks, materials, plastic, et cetera."
+    },
+    {
+      "start": 942.12,
+      "end": 958.12,
+      "speaker": "SPEAKER_01",
+      "text": "I'm imagining sensitivity table to where, if we know what the market would look like in the future, there's some implied share that they would have to get to assuming profitability remains the same."
+    },
+    {
+      "start": 958.12,
+      "end": 974.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then vice versa, if we assume no share gain, but calculate what profitability the margin would need to increase to hit the target, that'll help us understand the extremes of the sensitivity table and then help us get a better sense of could reality exist somewhere in the middle."
+    },
+    {
+      "start": 974.12,
+      "end": 984.12,
+      "speaker": "SPEAKER_03",
+      "text": "Great. And bound the potential outcomes. I really like how you're thinking about this, especially because there's a lot of things that could go right to reduce costs overall and help them hit their margin targets."
+    },
+    {
+      "start": 984.12,
+      "end": 988.12,
+      "speaker": "SPEAKER_03",
+      "text": "How are you thinking about the tradeoffs, though, some of the headwinds they might face?"
+    },
+    {
+      "start": 988.12,
+      "end": 997.12,
+      "speaker": "SPEAKER_01",
+      "text": "Great call out. There are natural tensions between trying to increase market share and thus increase revenue as well at the same time as trying to decrease costs."
+    },
+    {
+      "start": 997.12,
+      "end": 1012.12,
+      "speaker": "SPEAKER_01",
+      "text": "On one hand, you usually need to invest for growth, but on the latter situation, I'm trying to improve profitability that oftentimes comes with finding places to get better, more optimized with your budget and maybe requires less investment."
+    },
+    {
+      "start": 1012.12,
+      "end": 1024.12,
+      "speaker": "SPEAKER_03",
+      "text": "Just to protect that margin. So glad you're acknowledging that, why don't we go ahead and do the exercise you suggested so that we can really get our arms around what the real potential might be doing, please profit."
+    },
+    {
+      "start": 1024.12,
+      "end": 1026.12,
+      "speaker": "SPEAKER_01",
+      "text": "Is it okay if I just write on the stuff? Yes, please do."
+    },
+    {
+      "start": 1026.12,
+      "end": 1037.12,
+      "speaker": "SPEAKER_01",
+      "text": "So revenues 320 million profit margin is 15%. So to arrive at this profit figure, just just 320 million times 15%. And that will give us the dollar value."
+    },
+    {
+      "start": 1037.12,
+      "end": 1045.12,
+      "speaker": "SPEAKER_01",
+      "text": "So 10% of 320 is 32. Half of that is 16, which means that this is 48 million."
+    },
+    {
+      "start": 1045.12,
+      "end": 1047.12,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 1047.12,
+      "end": 1061.12,
+      "speaker": "SPEAKER_01",
+      "text": "What I said earlier for the US business, we know that the market is 2 billion today and they have 6% share. So that is 120 million."
+    },
+    {
+      "start": 1062.12,
+      "end": 1068.12,
+      "speaker": "SPEAKER_01",
+      "text": "Which means 320 minus 120 is 200 million."
+    },
+    {
+      "start": 1068.12,
+      "end": 1084.12,
+      "speaker": "SPEAKER_01",
+      "text": "We know that if this is 10%, 10% of 120 is 12, and then 18% of 200 is 36 million, which checks because 12 plus 36 is 48."
+    },
+    {
+      "start": 1084.12,
+      "end": 1091.12,
+      "speaker": "SPEAKER_01",
+      "text": "So now that we have all of this mapped out, we can put some specific numbers to what their actual profit target is."
+    },
+    {
+      "start": 1091.12,
+      "end": 1103.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so if they are at 12 million today and they need to 6x, that means they need to get to 72 million."
+    },
+    {
+      "start": 1103.12,
+      "end": 1115.12,
+      "speaker": "SPEAKER_01",
+      "text": "So like I was saying in terms of understanding how they might get there, we know that there is going to be some latent growth assuming they hit their market share targets and the market growth is like we expected."
+    },
+    {
+      "start": 1115.12,
+      "end": 1122.12,
+      "speaker": "SPEAKER_01",
+      "text": "So I can figure out what that contribution would be and then the delta would essentially come from the sensitivity table that I outlined."
+    },
+    {
+      "start": 1122.12,
+      "end": 1124.12,
+      "speaker": "SPEAKER_03",
+      "text": "Great. Let's go ahead and do it."
+    },
+    {
+      "start": 1124.12,
+      "end": 1146.12,
+      "speaker": "SPEAKER_01",
+      "text": "So we know that go ahead and transfer over here. Market 5 years from now is going to be 4 billion and they are going to have 8% share which translates to 320 million dollars in revenue."
+    },
+    {
+      "start": 1146.12,
+      "end": 1156.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then so just from that, if they keep the 10% profitability margin, that means that they are getting to 32 million."
+    },
+    {
+      "start": 1156.12,
+      "end": 1167.12,
+      "speaker": "SPEAKER_01",
+      "text": "So that's good. Like we've already talked about, but it is still $40 million short. We need to more than double this. And so let's go find how we might do that."
+    },
+    {
+      "start": 1167.12,
+      "end": 1180.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so from the revenue slash market share perspective and then looking at it from the profitability perspective."
+    },
+    {
+      "start": 1180.12,
+      "end": 1190.12,
+      "speaker": "SPEAKER_01",
+      "text": "So when I look at how much they would need to achieve, we'll solve backwards here. So we know that the 72 million."
+    },
+    {
+      "start": 1190.12,
+      "end": 1202.12,
+      "speaker": "SPEAKER_01",
+      "text": "If we are going to assume the 10% profitability, that simple math, we know that they need to grow to $720 million of revenue."
+    },
+    {
+      "start": 1202.12,
+      "end": 1204.12,
+      "speaker": "SPEAKER_03",
+      "text": "Right. At that profit level."
+    },
+    {
+      "start": 1204.12,
+      "end": 1214.12,
+      "speaker": "SPEAKER_01",
+      "text": "At that profit level. That seems like quite a bit. If we go ahead and figure out what that implied market share would be very quickly."
+    },
+    {
+      "start": 1214.12,
+      "end": 1236.12,
+      "speaker": "SPEAKER_01",
+      "text": "So we know it's a 40, 72. So that would be one, four, three, two, 18, 18% market share, which is triple from what they are at today, which is a lot to gain, especially since they plateaued out over time."
+    },
+    {
+      "start": 1236.12,
+      "end": 1247.12,
+      "speaker": "SPEAKER_01",
+      "text": "So again, I think we're going to need to dip into this profitability perspective. And so what I'm thinking about here is we'll assume that they maintain share that we're forecasting of 8%."
+    },
+    {
+      "start": 1247.12,
+      "end": 1259.12,
+      "speaker": "SPEAKER_01",
+      "text": "So we know that they'll be starting with $320 million of top line. Again, we're trying to solve for this 72 million. And so now it is just figuring out what the margin is."
+    },
+    {
+      "start": 1259.12,
+      "end": 1273.12,
+      "speaker": "SPEAKER_01",
+      "text": "And if I do this, it looks like it is just higher than 20% but to put some math to it."
+    },
+    {
+      "start": 1273.12,
+      "end": 1286.12,
+      "speaker": "SPEAKER_01",
+      "text": "So it's like 22 to 23%."
+    },
+    {
+      "start": 1286.12,
+      "end": 1304.12,
+      "speaker": "SPEAKER_01",
+      "text": "So 23%. Again, that's big. But if we look at the European business as potentially where we might get to, so upper bounds, 18% call it 20. Maybe if we get some synergies from food co, I think we need to do some further analysis to see if we can unlock fully unlocked this 23%."
+    },
+    {
+      "start": 1304.12,
+      "end": 1314.12,
+      "speaker": "SPEAKER_01",
+      "text": "But I'm now getting a little less bearish than I was originally. So I'm going to update my hypothesis that this is a good asset. I like the market that they're in."
+    },
+    {
+      "start": 1314.12,
+      "end": 1322.12,
+      "speaker": "SPEAKER_01",
+      "text": "I like the growth potential from the profitability perspective, the lever that exists particularly here in terms of matching the European business."
+    },
+    {
+      "start": 1322.12,
+      "end": 1333.12,
+      "speaker": "SPEAKER_01",
+      "text": "And I think a combination of these two could make the 6X profit target achievable. We might not get all the way there, but I think we might get pretty close, which I think would be exciting to food co."
+    },
+    {
+      "start": 1333.12,
+      "end": 1340.12,
+      "speaker": "SPEAKER_03",
+      "text": "Right. Could still make an attractive. And I like your sensitivity because you know, you don't need it to be on either end of these extremes."
+    },
+    {
+      "start": 1340.12,
+      "end": 1348.12,
+      "speaker": "SPEAKER_03",
+      "text": "But we are asking for a lot to go right, sharing and margin. So why don't we take a look at some of the external factors that you had mentioned."
+    },
+    {
+      "start": 1348.12,
+      "end": 1353.12,
+      "speaker": "SPEAKER_03",
+      "text": "So I'd love you to take a look at this and tell me what it tells you about the competitive market."
+    },
+    {
+      "start": 1353.12,
+      "end": 1368.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So there's a lot of information here if I could just orient myself quickly. So what I'm seeing is smoke compared to looks like a lot of the major players from this early market share map that we looked at earlier."
+    },
+    {
+      "start": 1368.12,
+      "end": 1382.12,
+      "speaker": "SPEAKER_01",
+      "text": "And what I'm seeing is first validating that you know, smoke is that where they are today. They're a smaller player in the market and then you know, Altmilk 5 and large snack co or kind of the behemoths, which it's exciting that in the last 18 months they've been able to do this."
+    },
+    {
+      "start": 1382.12,
+      "end": 1390.12,
+      "speaker": "SPEAKER_01",
+      "text": "Again, I think points to the attractiveness of this market, but also paints a potentially negative light from the competitive landscape."
+    },
+    {
+      "start": 1390.12,
+      "end": 1403.12,
+      "speaker": "SPEAKER_01",
+      "text": "I love seeing for smoke some of the ward associations here, fun, delicious premium, like that sounds like a really good brand that could be kind of the core tenants and assets that we could leverage for future growth."
+    },
+    {
+      "start": 1403.12,
+      "end": 1411.12,
+      "speaker": "SPEAKER_01",
+      "text": "Again, this high customer satisfaction, I think is only solidifying that this might be bad right now, the fact that customer awareness is low."
+    },
+    {
+      "start": 1411.12,
+      "end": 1422.12,
+      "speaker": "SPEAKER_01",
+      "text": "But if we're starting from a low base, I think there's opportunity that we could use to increase that going forward, which would help us increase sales, help us improve the market share that we have."
+    },
+    {
+      "start": 1422.12,
+      "end": 1430.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then the pricing difference is quite interesting as well. It looks like we're roughly kind of middle of the road."
+    },
+    {
+      "start": 1430.12,
+      "end": 1441.12,
+      "speaker": "SPEAKER_01",
+      "text": "Whereas there might be some upward potential from pricing that we see. Altmilk has gained a ton of share. Yes, people do view it as overpriced."
+    },
+    {
+      "start": 1441.12,
+      "end": 1449.12,
+      "speaker": "SPEAKER_01",
+      "text": "But maybe we don't go all the way to $6, but I think there might be some room, especially because we're seen as premium."
+    },
+    {
+      "start": 1449.12,
+      "end": 1455.12,
+      "speaker": "SPEAKER_01",
+      "text": "And that's not a word associated I see here. So maybe the willingness to pay for a premium product should be there."
+    },
+    {
+      "start": 1455.12,
+      "end": 1467.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so again, I think going back to the math that we just did in terms of how to steal market share, this could be an avenue. And pricing is really exciting because it is a lever that is not intention."
+    },
+    {
+      "start": 1467.12,
+      "end": 1475.12,
+      "speaker": "SPEAKER_01",
+      "text": "It flows straight to the bottom line. And so with this, again, hypothesis, I feel even better about this asset after seeing this table."
+    },
+    {
+      "start": 1475.12,
+      "end": 1487.12,
+      "speaker": "SPEAKER_01",
+      "text": "And I also feel a little bit better about the profitability target. Do we have an information on customers willing to pay or the potential to run a pilot in terms of to get some data of how high we could take prices without damaging volume?"
+    },
+    {
+      "start": 1487.12,
+      "end": 1499.12,
+      "speaker": "SPEAKER_03",
+      "text": "That's a great question. Absolutely something that we would do and did do under the course of this. But one thing that I would love to know quickly is as we think about deepening our insights and analysis for food co."
+    },
+    {
+      "start": 1499.12,
+      "end": 1508.12,
+      "speaker": "SPEAKER_03",
+      "text": "And we know that they are fantastic in terms of building platforms and acquiring. And I think it was a comment that you made earlier as well that they could start to think about that."
+    },
+    {
+      "start": 1508.12,
+      "end": 1513.12,
+      "speaker": "SPEAKER_03",
+      "text": "Where do you think that they could go here in terms of their overall portfolio?"
+    },
+    {
+      "start": 1513.12,
+      "end": 1526.12,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so I think it was one of the when we were looking at the market share map, like potentially a quasi roll up strategy. And if I go back to the math that we calculated earlier, 18% total market share would help them get to that top line."
+    },
+    {
+      "start": 1526.12,
+      "end": 1540.12,
+      "speaker": "SPEAKER_01",
+      "text": "So we're looking at this, you know, alt milk one adding on would help us get there and then these other three targets if we were to incorporate them in a food course portfolio, that would help us to reach the target and exceed it."
+    },
+    {
+      "start": 1540.12,
+      "end": 1550.12,
+      "speaker": "SPEAKER_01",
+      "text": "Obviously becomes the question of are they viable? Are they up for sale? And again, all of the other considerations that we outlined in the original framework of like culture, how we would finance it, etc."
+    },
+    {
+      "start": 1550.12,
+      "end": 1556.12,
+      "speaker": "SPEAKER_03",
+      "text": "And if they are adding to their profit profile over that."
+    },
+    {
+      "start": 1556.12,
+      "end": 1562.12,
+      "speaker": "SPEAKER_01",
+      "text": "Exactly. Because yeah, that great point because we don't know what the profitability of these companies look like 20% share gain in the last 18 months."
+    },
+    {
+      "start": 1562.12,
+      "end": 1566.12,
+      "speaker": "SPEAKER_01",
+      "text": "I imagine that came with quite a bit of investment and maybe their margins look more negative."
+    },
+    {
+      "start": 1566.12,
+      "end": 1575.12,
+      "speaker": "SPEAKER_03",
+      "text": "Very likely. Well, this has been fantastic. I'd love to take a step back and just ask you at this point, knowing we don't have all the information that we typically would have."
+    },
+    {
+      "start": 1575.12,
+      "end": 1576.12,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 1576.12,
+      "end": 1579.12,
+      "speaker": "SPEAKER_03",
+      "text": "Where is your recommendation and your hypothesis at this point?"
+    },
+    {
+      "start": 1579.12,
+      "end": 1589.12,
+      "speaker": "SPEAKER_01",
+      "text": "My recommendation to food co is that they acquire milk for the following reasons. One, I think the alternative milk market segment is exciting, expected to double over the next five years."
+    },
+    {
+      "start": 1589.12,
+      "end": 1599.12,
+      "speaker": "SPEAKER_01",
+      "text": "And second, I think milk in terms of the assets that it is bringing is a great platform to be able to grow and get close to the 6x profitability target."
+    },
+    {
+      "start": 1599.12,
+      "end": 1607.12,
+      "speaker": "SPEAKER_01",
+      "text": "Customers love it. It's seen as a premium brand and there's a lot of potential that we could tap into there, especially if we consider synergies that food co bring."
+    },
+    {
+      "start": 1607.12,
+      "end": 1614.12,
+      "speaker": "SPEAKER_01",
+      "text": "However, this recommendation is not without risk. Like I alluded to, the 6x profitability target is quite ambitious."
+    },
+    {
+      "start": 1614.12,
+      "end": 1624.12,
+      "speaker": "SPEAKER_01",
+      "text": "We've run the numbers and there's going to need to be both market share gain as well as improving profitability in order to hit that target."
+    },
+    {
+      "start": 1624.12,
+      "end": 1637.12,
+      "speaker": "SPEAKER_01",
+      "text": "But understanding we might not get all the way there, I would love to for next steps start looking into different pricing strategies that we could employ in order to prove revenue, improve market share moving forward."
+    },
+    {
+      "start": 1637.12,
+      "end": 1646.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then there's always the ability to negotiate with smoke on the acquisition price, understanding that their expectations might not be grounded fully in reality."
+    },
+    {
+      "start": 1646.12,
+      "end": 1647.12,
+      "speaker": "SPEAKER_01",
+      "text": "That's fantastic."
+    },
+    {
+      "start": 1647.12,
+      "end": 1660.12,
+      "speaker": "SPEAKER_03",
+      "text": "Your rationale makes so much sense and I'm so glad that you've highlighted some of the key considerations and risks, especially around pricing because to give you a little bit of insight, this project was based off of a real case."
+    },
+    {
+      "start": 1660.12,
+      "end": 1665.12,
+      "speaker": "SPEAKER_03",
+      "text": "And there wasn't a willingness to pay that higher price, so it made that profit target even more tricky."
+    },
+    {
+      "start": 1665.12,
+      "end": 1671.12,
+      "speaker": "SPEAKER_03",
+      "text": "But you absolutely targeted the right next steps here for this project."
+    },
+    {
+      "start": 1671.12,
+      "end": 1674.12,
+      "speaker": "SPEAKER_03",
+      "text": "So very nicely done and it was wonderful to meet you."
+    },
+    {
+      "start": 1674.12,
+      "end": 1676.12,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, thank you for working with the case manager."
+    },
+    {
+      "start": 1676.12,
+      "end": 1677.12,
+      "speaker": "SPEAKER_00",
+      "text": "Take care."
+    },
+    {
+      "start": 1677.12,
+      "end": 1682.12,
+      "speaker": "SPEAKER_00",
+      "text": "I hope this video has given you valuable insights into the mindset, the preparation and the approach you can take to case interviews."
+    },
+    {
+      "start": 1682.12,
+      "end": 1687.12,
+      "speaker": "SPEAKER_00",
+      "text": "I'd also encourage you to take advantage of the tips and tricks video that you can find on our YouTube channel or our website."
+    },
+    {
+      "start": 1687.12,
+      "end": 1693.12,
+      "speaker": "SPEAKER_00",
+      "text": "And there's a lot of other resources at Bain.com slash careers to help you prepare for a successful interview process."
+    }
+  ],
+  "grading": {
+    "communication": 18,
+    "framework": 15,
+    "math": 10,
+    "case_difficulty": 8,
+    "final_summary": 14,
+    "overall_thoughts": "You presented a clear framework and communicated effectively, but struggled with the math concepts."
+  }
+}

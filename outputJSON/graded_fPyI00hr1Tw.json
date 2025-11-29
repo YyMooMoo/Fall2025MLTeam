@@ -1,0 +1,756 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 12.8,
+      "speaker": "SPEAKER_00",
+      "text": "Hello everyone, today's case is a guesstimate. We'll be estimating the number of laptops"
+    },
+    {
+      "start": 12.8,
+      "end": 17.52,
+      "speaker": "SPEAKER_00",
+      "text": "in India. As we go through the case, I would be giving feedback by pointing out areas"
+    },
+    {
+      "start": 17.52,
+      "end": 23.28,
+      "speaker": "SPEAKER_00",
+      "text": "of improvement and highlighting points where the candidate does well. Let's begin."
+    },
+    {
+      "start": 23.28,
+      "end": 26.28,
+      "speaker": "SPEAKER_00",
+      "text": "Hi Konal, how are you doing? I'm good."
+    },
+    {
+      "start": 26.28,
+      "end": 31.400000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Let's start with your interview. Can you estimate the number of laptops that are in"
+    },
+    {
+      "start": 31.4,
+      "end": 41.4,
+      "speaker": "SPEAKER_01",
+      "text": "India today? Can I ask you a few questions? Sure, go ahead. So, are we talking only about laptops"
+    },
+    {
+      "start": 41.4,
+      "end": 47.4,
+      "speaker": "SPEAKER_01",
+      "text": "or are we considering tablets and decks? No, just laptops, that's okay. And you mentioned"
+    },
+    {
+      "start": 47.4,
+      "end": 52.84,
+      "speaker": "SPEAKER_01",
+      "text": "that only use in India, so are we considering the laptops that are not being used currently"
+    },
+    {
+      "start": 52.84,
+      "end": 57.56,
+      "speaker": "SPEAKER_00",
+      "text": "or are not working? Well, as in whatever the number of laptops currently present in India"
+    },
+    {
+      "start": 58.120000000000005,
+      "end": 65.64,
+      "speaker": "SPEAKER_01",
+      "text": "and am I looking, should I look for only business or laptop users for business or"
+    },
+    {
+      "start": 65.64,
+      "end": 69.64,
+      "speaker": "SPEAKER_00",
+      "text": "all of it or something else? No, both personal and business use together. Yes."
+    },
+    {
+      "start": 69.64,
+      "end": 72.36,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so can I have a minute for shortness? Sure, sure."
+    },
+    {
+      "start": 74.84,
+      "end": 79.4,
+      "speaker": "SPEAKER_00",
+      "text": "The question should always be framed in a concise manner and communicated effectively."
+    },
+    {
+      "start": 79.4,
+      "end": 84.76,
+      "speaker": "SPEAKER_00",
+      "text": "Here are the candidate frames as questions as are we looking into laptops for business use and"
+    },
+    {
+      "start": 84.76,
+      "end": 90.68,
+      "speaker": "SPEAKER_00",
+      "text": "something else? Whether something else part is quite vague. He could have framed it as are we"
+    },
+    {
+      "start": 90.68,
+      "end": 101.32000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "looking at business laptops or personal laptops that would give a much better impression?"
+    },
+    {
+      "start": 145.48,
+      "end": 158.28,
+      "speaker": "SPEAKER_01",
+      "text": "So, I will just run through my overall schedule. So, I will take the population of India as my"
+    },
+    {
+      "start": 158.28,
+      "end": 165.72,
+      "speaker": "SPEAKER_01",
+      "text": "basis and start the kit and redevite the population into two parts, rural and urban. And we can say"
+    },
+    {
+      "start": 165.72,
+      "end": 171.79999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "that the major focus of our should be in urban, so because of the population, we may not be able to"
+    },
+    {
+      "start": 172.28,
+      "end": 179.96,
+      "speaker": "SPEAKER_01",
+      "text": "right. So, we will go in with urban population and so starting with that, so 1.2 billion is the"
+    },
+    {
+      "start": 179.96,
+      "end": 188.68,
+      "speaker": "SPEAKER_01",
+      "text": "total population. Right. So, out of the 30 percent of urban people, so that is point, sorry,"
+    },
+    {
+      "start": 189.16000000000003,
+      "end": 197.72000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "point 36 billion people. Okay. And now we can assume that the number of people in a household is"
+    },
+    {
+      "start": 197.72,
+      "end": 208.04,
+      "speaker": "SPEAKER_01",
+      "text": "4. Yeah, go ahead. So, thanks. So, we will have point 36 by 4, 0.09 million households are there"
+    },
+    {
+      "start": 208.04,
+      "end": 215.48,
+      "speaker": "SPEAKER_01",
+      "text": "in the urban areas. Right. So, I would like to now divide the households into income"
+    },
+    {
+      "start": 215.48,
+      "end": 223.24,
+      "speaker": "SPEAKER_01",
+      "text": "brackets that is 8 households on. So, I will divide it into three brackets, lower, middle and"
+    },
+    {
+      "start": 223.24,
+      "end": 229.0,
+      "speaker": "SPEAKER_01",
+      "text": "higher brackets. So, that will be on the terms of the yearly income that the households will have."
+    },
+    {
+      "start": 230.20000000000002,
+      "end": 238.60000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So, the lower income bracket will have let us anything below 5 lakhs."
+    },
+    {
+      "start": 239.72,
+      "end": 248.36,
+      "speaker": "SPEAKER_01",
+      "text": "And the middle income will have anything between 5 to 12 lakhs. Okay. And anything higher than"
+    },
+    {
+      "start": 249.08,
+      "end": 259.64,
+      "speaker": "SPEAKER_01",
+      "text": "12 lakhs will have a will be in the higher bracket. All right. So, going, so now I would like to"
+    },
+    {
+      "start": 259.64,
+      "end": 266.52000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "assign a fraction to divide this population to each of the three fractions. So, I assume that"
+    },
+    {
+      "start": 267.24,
+      "end": 273.88,
+      "speaker": "SPEAKER_01",
+      "text": "as a country, as a country, we are not that advanced in any stage and the overall income is not"
+    },
+    {
+      "start": 274.12,
+      "end": 280.04,
+      "speaker": "SPEAKER_01",
+      "text": "that high or a country. Okay. So, I will say that the major fraction of the people in this will be"
+    },
+    {
+      "start": 280.04,
+      "end": 284.92,
+      "speaker": "SPEAKER_01",
+      "text": "in the lower class. All right. A greater income just below 50 lakhs. So, that I will assume this to be"
+    },
+    {
+      "start": 284.92,
+      "end": 294.84,
+      "speaker": "SPEAKER_01",
+      "text": "60 percent of the total urban population of the urban population. Yeah. All right. Just to assign"
+    },
+    {
+      "start": 294.84,
+      "end": 300.44,
+      "speaker": "SPEAKER_01",
+      "text": "some numbers and we can sort of, so that could be 60 percent of the urban population will be."
+    },
+    {
+      "start": 304.68,
+      "end": 311.48,
+      "speaker": "SPEAKER_00",
+      "text": "Right. What about the other two? So, the candidate has jumped into conclusions before sharing his"
+    },
+    {
+      "start": 311.48,
+      "end": 316.92,
+      "speaker": "SPEAKER_00",
+      "text": "overall approach. Always think your overall approach through to the last step before sharing it with"
+    },
+    {
+      "start": 316.92,
+      "end": 321.64,
+      "speaker": "SPEAKER_00",
+      "text": "the interviewer. Make sure you get the interviewer to agree with you on your approach before you"
+    },
+    {
+      "start": 321.64,
+      "end": 327.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "proceed to your calculations. 60 percent and then this will be 20 percent and this will be"
+    },
+    {
+      "start": 327.24,
+      "end": 334.36,
+      "speaker": "SPEAKER_00",
+      "text": "20 percent. That's what I am assuming. So, I feel that the middle income category is the highest"
+    },
+    {
+      "start": 334.36,
+      "end": 341.24,
+      "speaker": "SPEAKER_00",
+      "text": "population chunk. Might as well restructure that I say. The higher would be sort of small,"
+    },
+    {
+      "start": 341.24,
+      "end": 348.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "say 10 percent. Okay. Right. About 50 percent would be the middle. Yeah. And the lower can be 40."
+    },
+    {
+      "start": 348.84000000000003,
+      "end": 356.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Since it is urban, a large chunk would be middle not low. Okay. Thanks. So, I will restructure the"
+    },
+    {
+      "start": 356.59999999999997,
+      "end": 363.88,
+      "speaker": "SPEAKER_01",
+      "text": "numbers. Yeah. So, the lower will be in 40 percent and the higher will be in 10 percent and the"
+    },
+    {
+      "start": 363.88,
+      "end": 371.08,
+      "speaker": "SPEAKER_01",
+      "text": "middle will be in 50 percent of the total population. That seems fair. All right. So, now going at,"
+    },
+    {
+      "start": 372.52,
+      "end": 378.76,
+      "speaker": "SPEAKER_01",
+      "text": "5 lakhs per year. So, I will focus on the lower income. So, 5 lakhs per year, that means that's"
+    },
+    {
+      "start": 378.76,
+      "end": 384.2,
+      "speaker": "SPEAKER_01",
+      "text": "a pretty low amount per month. So, I don't believe that anyone in this bracket range,"
+    },
+    {
+      "start": 384.44,
+      "end": 391.32,
+      "speaker": "SPEAKER_01",
+      "text": "it will be able to have 40 left up. Right. So, I will just not focus my attention on this class of people."
+    },
+    {
+      "start": 394.03999999999996,
+      "end": 398.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "It is good how the candidate tries to reason out his assumptions and he is also keeping the"
+    },
+    {
+      "start": 398.03999999999996,
+      "end": 402.84,
+      "speaker": "SPEAKER_00",
+      "text": "interviewer and the loop. To improve this further, he can compare the cost of a typical laptop"
+    },
+    {
+      "start": 402.84,
+      "end": 410.76,
+      "speaker": "SPEAKER_01",
+      "text": "to the monthly revenue and then draw his influence. Okay. So, coming to the middle class income,"
+    },
+    {
+      "start": 410.76,
+      "end": 419.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "that is from 5 to 12 lakhs, this class of people are on the, it's like that they can have a"
+    },
+    {
+      "start": 419.15999999999997,
+      "end": 424.59999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "laptop or they may not, they are not the group of people who will surely have a laptop. Okay. So,"
+    },
+    {
+      "start": 425.88,
+      "end": 433.64,
+      "speaker": "SPEAKER_01",
+      "text": "going ahead, so suppose 50 percent of this people, now I will say that"
+    },
+    {
+      "start": 434.36,
+      "end": 441.47999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "the reason why the candidate is stuck here is because he is thinking while he is speaking."
+    },
+    {
+      "start": 441.47999999999996,
+      "end": 447.0,
+      "speaker": "SPEAKER_00",
+      "text": "It is advisable to not speak while you are thinking. Take some time to plan your steps carefully"
+    },
+    {
+      "start": 447.0,
+      "end": 461.56,
+      "speaker": "SPEAKER_01",
+      "text": "and then move to articulation. Let me first go to the iron complex. So, high income plus,"
+    },
+    {
+      "start": 462.12,
+      "end": 468.92,
+      "speaker": "SPEAKER_01",
+      "text": "that 10 percent of this people and I assume that there will be one parent, one father, one mother"
+    },
+    {
+      "start": 468.92,
+      "end": 474.92,
+      "speaker": "SPEAKER_01",
+      "text": "and two children. So, I believe that as of the high income, one of them will be, one of the child"
+    },
+    {
+      "start": 474.92,
+      "end": 482.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "can be a college going. Right. So, that will be and I believe that the parent will be working because"
+    },
+    {
+      "start": 482.84000000000003,
+      "end": 491.16,
+      "speaker": "SPEAKER_01",
+      "text": "it's a band, so parents will be working. So, in an average family, there will be anything"
+    },
+    {
+      "start": 491.88,
+      "end": 497.32,
+      "speaker": "SPEAKER_01",
+      "text": "there will be minimum of two laptops that the household will have. Okay. So, I will assume that"
+    },
+    {
+      "start": 497.96,
+      "end": 503.32,
+      "speaker": "SPEAKER_00",
+      "text": "the two laptops, this is for higher income, right. What about the middle income group?"
+    },
+    {
+      "start": 503.32,
+      "end": 510.04,
+      "speaker": "SPEAKER_01",
+      "text": "So, for the middle income group, I will say that because it's that only half of the middle income"
+    },
+    {
+      "start": 510.04,
+      "end": 514.52,
+      "speaker": "SPEAKER_00",
+      "text": "group has laptops and that would that would be how many laptops is that one laptop. Yeah."
+    },
+    {
+      "start": 515.4,
+      "end": 520.12,
+      "speaker": "SPEAKER_01",
+      "text": "So, it should be some of the households will have a laptop and some may not."
+    },
+    {
+      "start": 520.12,
+      "end": 525.24,
+      "speaker": "SPEAKER_01",
+      "text": "All right. So, on an average, I believe that one laptop per family in the middle group."
+    },
+    {
+      "start": 525.64,
+      "end": 534.6,
+      "speaker": "SPEAKER_01",
+      "text": "Fair enough. So, one laptop in the this group. So, this was 10 percent of the number of households."
+    },
+    {
+      "start": 534.6,
+      "end": 545.24,
+      "speaker": "SPEAKER_01",
+      "text": "So, that is 2 into 0.1 into 0.09 billion. That is 0.018 billion."
+    },
+    {
+      "start": 547.0,
+      "end": 554.6,
+      "speaker": "SPEAKER_01",
+      "text": "In the higher group and this was 50 percent of the number and I assume that one laptop per family."
+    },
+    {
+      "start": 554.6,
+      "end": 559.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So, that is 0.045 billion laptops. Right."
+    },
+    {
+      "start": 560.04,
+      "end": 567.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Correct. The candidate carried a decimal point throughout his steps, which led to complication"
+    },
+    {
+      "start": 567.3199999999999,
+      "end": 571.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "and calculations. It is always advisable to round off your numbers to simplify calculations"
+    },
+    {
+      "start": 571.9599999999999,
+      "end": 580.1199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "at each step. So, this is the number of, so if I sum this up, the total will be 0.063 billion"
+    },
+    {
+      "start": 580.84,
+      "end": 590.52,
+      "speaker": "SPEAKER_01",
+      "text": "laptops in the urban areas and in the rural areas, I do not think we already assume that."
+    },
+    {
+      "start": 590.52,
+      "end": 595.88,
+      "speaker": "SPEAKER_01",
+      "text": "So, this is the number that I think is the. So, do you think that this is the personal use,"
+    },
+    {
+      "start": 595.88,
+      "end": 601.16,
+      "speaker": "SPEAKER_01",
+      "text": "is it or this is combining both since I have assumed that in the higher middle class,"
+    },
+    {
+      "start": 602.68,
+      "end": 608.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "higher higher urban class urban people that there are 2 laptops. One will be for the working"
+    },
+    {
+      "start": 608.76,
+      "end": 615.88,
+      "speaker": "SPEAKER_01",
+      "text": "parent and the one will be for the personal use or studies. So, that was my assumption that I made."
+    },
+    {
+      "start": 615.88,
+      "end": 617.2399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. I already mentioned."
+    },
+    {
+      "start": 623.64,
+      "end": 627.64,
+      "speaker": "SPEAKER_00",
+      "text": "The candidate tries to merge the calculations for business and personal laptops."
+    },
+    {
+      "start": 628.1999999999999,
+      "end": 631.64,
+      "speaker": "SPEAKER_00",
+      "text": "His approach to calculate the number of personal laptops is a good estimation."
+    },
+    {
+      "start": 632.28,
+      "end": 637.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "However, a better approach to solve this problem would be to calculate business laptops and personal"
+    },
+    {
+      "start": 637.08,
+      "end": 642.12,
+      "speaker": "SPEAKER_00",
+      "text": "laptops separately. This can be done by the following approach. Start with the population of"
+    },
+    {
+      "start": 642.12,
+      "end": 649.1600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "India, segregate your into rural and urban populations. Then further apply the filter of income"
+    },
+    {
+      "start": 649.1600000000001,
+      "end": 654.2,
+      "speaker": "SPEAKER_00",
+      "text": "categories. Only the higher income categories would be white collar and corporate workers."
+    },
+    {
+      "start": 654.84,
+      "end": 657.32,
+      "speaker": "SPEAKER_00",
+      "text": "These would now use laptops and desktops."
+    },
+    {
+      "start": 657.32,
+      "end": 664.76,
+      "speaker": "SPEAKER_00",
+      "text": "All right. Great. So, is there a way in which you can sort of trace back to this figure and"
+    },
+    {
+      "start": 664.76,
+      "end": 667.96,
+      "speaker": "SPEAKER_00",
+      "text": "see if this figure sort of makes sense. Okay."
+    },
+    {
+      "start": 668.76,
+      "end": 676.04,
+      "speaker": "SPEAKER_00",
+      "text": "And you think of whether 0.63 million or 63 million makes sense. Is it a good number?"
+    },
+    {
+      "start": 676.04,
+      "end": 686.2,
+      "speaker": "SPEAKER_01",
+      "text": "Good estimate. Okay. So, this was the approach from the demand side of the curve. So, demand side."
+    },
+    {
+      "start": 686.2,
+      "end": 691.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So, we can..."
+    },
+    {
+      "start": 717.08,
+      "end": 718.0,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 718.0,
+      "end": 747.92,
+      "speaker": "SPEAKER_01",
+      "text": "So, as I was thinking of the, I am, I was thinking in"
+    },
+    {
+      "start": 747.92,
+      "end": 754.68,
+      "speaker": "SPEAKER_01",
+      "text": "terms of the number of laptops that are being used by households and the number of"
+    },
+    {
+      "start": 754.68,
+      "end": 768.04,
+      "speaker": "SPEAKER_01",
+      "text": "laptops that are being used by businesses. So, if I, how about we take this"
+    },
+    {
+      "start": 768.04,
+      "end": 774.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "number and sort of see if it makes sense by maybe calculating some, in some way"
+    },
+    {
+      "start": 774.96,
+      "end": 780.4000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "modifying this number such that it makes sense to us, that we can relate to it. So, we cannot"
+    },
+    {
+      "start": 780.4000000000001,
+      "end": 785.36,
+      "speaker": "SPEAKER_00",
+      "text": "really understand how many laptops is 63 million, right? Is there a way in which we can reduce"
+    },
+    {
+      "start": 785.36,
+      "end": 792.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "it to a number, which we can compare to a number that we understand?"
+    },
+    {
+      "start": 792.8,
+      "end": 806.64,
+      "speaker": "SPEAKER_00",
+      "text": "How about you look at, how about you just divide this by the total population? You'll understand"
+    },
+    {
+      "start": 806.64,
+      "end": 814.0,
+      "speaker": "SPEAKER_00",
+      "text": "how many people or rather one laptop is sort of amongst it. So, you may get a figure like,"
+    },
+    {
+      "start": 814.0,
+      "end": 828.08,
+      "speaker": "SPEAKER_01",
+      "text": "okay, I'll just do that. So, 63 million by 1.12 day, so this is around, so let me, if this is 60, then"
+    },
+    {
+      "start": 828.08,
+      "end": 838.48,
+      "speaker": "SPEAKER_01",
+      "text": "this will be out of 100 and 20 people, there is one person who is having a laptop in the country,"
+    },
+    {
+      "start": 838.96,
+      "end": 848.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "so what do you think does this make sense? If you consider entire India, do you think,"
+    },
+    {
+      "start": 848.5600000000001,
+      "end": 853.52,
+      "speaker": "SPEAKER_00",
+      "text": "so if you take a random bunch of 100 people, one of them would have a laptop, that's what we are saying."
+    },
+    {
+      "start": 853.52,
+      "end": 860.8,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so yeah, I get this is,"
+    },
+    {
+      "start": 860.8,
+      "end": 888.88,
+      "speaker": "SPEAKER_01",
+      "text": "this is possible because we haven't, there are two major reasons, which I like to mention,"
+    },
+    {
+      "start": 888.88,
+      "end": 894.64,
+      "speaker": "SPEAKER_01",
+      "text": "like we haven't, you know, in our analysis, we haven't taken the population at all, so there will be"
+    },
+    {
+      "start": 894.64,
+      "end": 899.6,
+      "speaker": "SPEAKER_01",
+      "text": "people in the rural population too that have laptops because it's a small number, yes, small number,"
+    },
+    {
+      "start": 899.6,
+      "end": 906.64,
+      "speaker": "SPEAKER_01",
+      "text": "and also in the cities, it person, if I am, yeah, I was old can have more than two laptops,"
+    },
+    {
+      "start": 906.64,
+      "end": 913.04,
+      "speaker": "SPEAKER_01",
+      "text": "because there are in the higher income bracket, we already only two laptops. So, you think this is"
+    },
+    {
+      "start": 913.04,
+      "end": 919.52,
+      "speaker": "SPEAKER_00",
+      "text": "sort of a hundred estimation, okay. Since a lot of time is left on the interview, the candidate"
+    },
+    {
+      "start": 919.52,
+      "end": 925.68,
+      "speaker": "SPEAKER_00",
+      "text": "can proactively think of a sanity check, here the interviewer had to step in and prod the candidate"
+    },
+    {
+      "start": 925.68,
+      "end": 931.76,
+      "speaker": "SPEAKER_00",
+      "text": "for the same, also always keep the interviewer in loop with what you are thinking, the candidate here"
+    },
+    {
+      "start": 931.76,
+      "end": 937.36,
+      "speaker": "SPEAKER_00",
+      "text": "tries to explain how this is an underestimation, even without explicitly ever saying so."
+    },
+    {
+      "start": 937.44,
+      "end": 943.6,
+      "speaker": "SPEAKER_00",
+      "text": "I think we can close the case here, thank you so much for coming in and we'll get back to you soon,"
+    },
+    {
+      "start": 943.6,
+      "end": 951.2,
+      "speaker": "SPEAKER_00",
+      "text": "okay, thanks a lot, thanks a lot. Overall, the writer is clean, the candidate can consider writing"
+    },
+    {
+      "start": 951.2,
+      "end": 957.28,
+      "speaker": "SPEAKER_00",
+      "text": "bigger for it to be easier to read, the final points can be highlighted using another color for easier"
+    },
+    {
+      "start": 957.28,
+      "end": 965.76,
+      "speaker": "SPEAKER_00",
+      "text": "conclusion. The interview has some clear positives and a few areas for improvement, some of the positives"
+    },
+    {
+      "start": 966.3199999999999,
+      "end": 971.28,
+      "speaker": "SPEAKER_00",
+      "text": "that is an overall structure, the candidate tries to keep the interviewer in the loop most of the"
+    },
+    {
+      "start": 971.28,
+      "end": 980.24,
+      "speaker": "SPEAKER_00",
+      "text": "times, no calculation mistakes were made. Areas for improvement are business laptops could have been"
+    },
+    {
+      "start": 980.24,
+      "end": 985.6,
+      "speaker": "SPEAKER_00",
+      "text": "calculated by a different approach entirely, overall approach merged with the calculations in the"
+    },
+    {
+      "start": 985.6,
+      "end": 995.6,
+      "speaker": "SPEAKER_00",
+      "text": "beginning, sentences can be clearer or for effective communication."
+    }
+  ],
+  "grading": {
+    "communication": 13,
+    "framework": 12,
+    "math": 8,
+    "case_difficulty": 10,
+    "final_summary": 14,
+    "overall_thoughts": "The framework could be strengthened with more concrete examples and the math was not entirely accurate, but the overall effort was commendable."
+  }
+}

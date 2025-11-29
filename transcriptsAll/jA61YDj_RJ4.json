@@ -1,0 +1,1604 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "speaker": "SPEAKER_01",
+    "text": "We've got an awesome case for us."
+  },
+  {
+    "start": 2.0,
+    "end": 7.6000000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "And I really like this one because it highlights one of the things about consulting that you never think about,"
+  },
+  {
+    "start": 7.6000000000000005,
+    "end": 13.84,
+    "speaker": "SPEAKER_01",
+    "text": "which is how many businesses interact with you on a daily basis that you just would have not even realized for businesses."
+  },
+  {
+    "start": 13.84,
+    "end": 14.64,
+    "speaker": "SPEAKER_02",
+    "text": "Oh, I'm interested in this."
+  },
+  {
+    "start": 14.64,
+    "end": 16.64,
+    "speaker": "SPEAKER_01",
+    "text": "So the company is called Plastic Co."
+  },
+  {
+    "start": 16.64,
+    "end": 18.64,
+    "speaker": "SPEAKER_01",
+    "text": "and I'll explain a little bit their products in a minute."
+  },
+  {
+    "start": 18.64,
+    "end": 21.04,
+    "speaker": "SPEAKER_01",
+    "text": "This is a BCG style case."
+  },
+  {
+    "start": 21.04,
+    "end": 22.64,
+    "speaker": "SPEAKER_01",
+    "text": "And so BCG in general,"
+  },
+  {
+    "start": 22.64,
+    "end": 27.36,
+    "speaker": "SPEAKER_01",
+    "text": "having on creativity really passionate about time creativity analytics"
+  },
+  {
+    "start": 27.36,
+    "end": 34.16,
+    "speaker": "SPEAKER_01",
+    "text": "and also really focused on for you in particular in this case, leading me through your desired analysis."
+  },
+  {
+    "start": 34.16,
+    "end": 36.88,
+    "speaker": "SPEAKER_01",
+    "text": "The focus is on a, it's a market city case."
+  },
+  {
+    "start": 36.88,
+    "end": 40.480000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "It's focused on taking market share or declining market share."
+  },
+  {
+    "start": 41.2,
+    "end": 42.480000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "And so we'll dive in."
+  },
+  {
+    "start": 43.2,
+    "end": 43.519999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 43.519999999999996,
+    "end": 44.0,
+    "speaker": "SPEAKER_00",
+    "text": "It's on good."
+  },
+  {
+    "start": 44.0,
+    "end": 44.480000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "We'll go do a new one."
+  },
+  {
+    "start": 44.480000000000004,
+    "end": 44.96,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 45.04,
+    "end": 45.84,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 45.84,
+    "end": 55.36,
+    "speaker": "SPEAKER_01",
+    "text": "So our client is the CEO of Plastic Co, a large supplier of straws to quick service restaurants."
+  },
+  {
+    "start": 55.36,
+    "end": 62.56,
+    "speaker": "SPEAKER_01",
+    "text": "While profits and revenues have been steady, the CEO is concerned about the influx of cheaper products from Southeast Asia."
+  },
+  {
+    "start": 62.56,
+    "end": 65.12,
+    "speaker": "SPEAKER_01",
+    "text": "They want to know how they should tackle this problem."
+  },
+  {
+    "start": 66.64,
+    "end": 66.96000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 67.92,
+    "end": 68.8,
+    "speaker": "SPEAKER_00",
+    "text": "So just to clarify,"
+  },
+  {
+    "start": 69.52,
+    "end": 75.28,
+    "speaker": "SPEAKER_00",
+    "text": "our client today is the CEO of Plastic Co, which is a straw supplier in just the United States."
+  },
+  {
+    "start": 75.28,
+    "end": 75.92,
+    "speaker": "SPEAKER_00",
+    "text": "Correct."
+  },
+  {
+    "start": 75.92,
+    "end": 76.16,
+    "speaker": "SPEAKER_00",
+    "text": "Correct."
+  },
+  {
+    "start": 76.16,
+    "end": 76.72,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 76.72,
+    "end": 79.44,
+    "speaker": "SPEAKER_00",
+    "text": "And they are doing fine on profits."
+  },
+  {
+    "start": 79.44,
+    "end": 85.03999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "They're not super worried, but they are concerned about Southeast Asia offering cheap replacements"
+  },
+  {
+    "start": 85.75999999999999,
+    "end": 88.47999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "and perhaps coming in and stealing some of their market share."
+  },
+  {
+    "start": 88.47999999999999,
+    "end": 88.96,
+    "speaker": "SPEAKER_00",
+    "text": "Correct."
+  },
+  {
+    "start": 89.44,
+    "end": 92.8,
+    "speaker": "SPEAKER_00",
+    "text": "Now I do just want to ask one or two questions."
+  },
+  {
+    "start": 92.8,
+    "end": 96.16,
+    "speaker": "SPEAKER_00",
+    "text": "Number one, the goal here is just to just to maintain profitability."
+  },
+  {
+    "start": 96.16,
+    "end": 97.03999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Is it to grow or?"
+  },
+  {
+    "start": 97.84,
+    "end": 98.4,
+    "speaker": "SPEAKER_01",
+    "text": "What do you think?"
+  },
+  {
+    "start": 99.52000000000001,
+    "end": 102.16000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "At least maintain, but I would hope they want to grow as well."
+  },
+  {
+    "start": 102.16000000000001,
+    "end": 102.56,
+    "speaker": "SPEAKER_01",
+    "text": "Sure."
+  },
+  {
+    "start": 102.56,
+    "end": 103.28,
+    "speaker": "SPEAKER_01",
+    "text": "I think that's fair."
+  },
+  {
+    "start": 104.24000000000001,
+    "end": 110.4,
+    "speaker": "SPEAKER_01",
+    "text": "I certainly think that they want to know that there's a pathway to not decreasing profitability."
+  },
+  {
+    "start": 110.4,
+    "end": 112.72,
+    "speaker": "SPEAKER_01",
+    "text": "Like you're talking about, so they don't want it to stay the same."
+  },
+  {
+    "start": 113.36000000000001,
+    "end": 118.80000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "But they're concerned about maybe looming or future erosion of profitability."
+  },
+  {
+    "start": 120.32000000000001,
+    "end": 123.76,
+    "speaker": "SPEAKER_01",
+    "text": "So right now before they get there, they want to think about what the options are."
+  },
+  {
+    "start": 123.76,
+    "end": 125.92,
+    "speaker": "SPEAKER_01",
+    "text": "If you can get me more profit, always give me more profit."
+  },
+  {
+    "start": 126.72,
+    "end": 129.2,
+    "speaker": "SPEAKER_00",
+    "text": "And then the last question, you said quick service."
+  },
+  {
+    "start": 129.2,
+    "end": 132.56,
+    "speaker": "SPEAKER_00",
+    "text": "Is that like a fast food like McDonald's, Taco Bell?"
+  },
+  {
+    "start": 132.56,
+    "end": 133.04,
+    "speaker": "SPEAKER_01",
+    "text": "Totally."
+  },
+  {
+    "start": 133.04,
+    "end": 133.52,
+    "speaker": "SPEAKER_00",
+    "text": "Places like that."
+  },
+  {
+    "start": 133.52,
+    "end": 133.76,
+    "speaker": "SPEAKER_00",
+    "text": "Places like that."
+  },
+  {
+    "start": 133.76,
+    "end": 134.72,
+    "speaker": "SPEAKER_00",
+    "text": "And McDonald's, yes."
+  },
+  {
+    "start": 134.72,
+    "end": 136.56,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, straws in a little paper to."
+  },
+  {
+    "start": 137.04,
+    "end": 138.08,
+    "speaker": "SPEAKER_01",
+    "text": "That's exactly right."
+  },
+  {
+    "start": 138.08,
+    "end": 139.28,
+    "speaker": "SPEAKER_01",
+    "text": "Unless you're in California."
+  },
+  {
+    "start": 139.28,
+    "end": 140.48,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, and I think California."
+  },
+  {
+    "start": 140.48,
+    "end": 141.28,
+    "speaker": "SPEAKER_00",
+    "text": "Then it's metal."
+  },
+  {
+    "start": 142.96,
+    "end": 144.96,
+    "speaker": "SPEAKER_00",
+    "text": "Do you mind if I just take a minute or two talking to my thoughts?"
+  },
+  {
+    "start": 144.96,
+    "end": 145.44,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, go ahead."
+  },
+  {
+    "start": 148.48,
+    "end": 151.52,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, so I've jotted down a few thoughts here and I'd love to walk you through them."
+  },
+  {
+    "start": 151.68,
+    "end": 157.60000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "So I've really tried to break my thoughts into three main buckets."
+  },
+  {
+    "start": 157.84,
+    "end": 161.76000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "The financial considerations, the non-financial considerations,"
+  },
+  {
+    "start": 161.76000000000002,
+    "end": 166.48000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "and as some possible moves, we're in a situation where we have this impending doom"
+  },
+  {
+    "start": 166.48000000000002,
+    "end": 167.36,
+    "speaker": "SPEAKER_00",
+    "text": "over our heads."
+  },
+  {
+    "start": 167.36,
+    "end": 172.16000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "And I think if we just stay still and don't do anything, we're bound to it."
+  },
+  {
+    "start": 172.16000000000003,
+    "end": 176.16000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "And so I think having some sort of ideas to go forward with me, that would be great."
+  },
+  {
+    "start": 176.8,
+    "end": 179.12,
+    "speaker": "SPEAKER_00",
+    "text": "I want to start with financial considerations, as this says,"
+  },
+  {
+    "start": 179.68,
+    "end": 182.88,
+    "speaker": "SPEAKER_00",
+    "text": "we're looking at that profits and specifically, we're looking at the fact that our"
+  },
+  {
+    "start": 182.88,
+    "end": 187.6,
+    "speaker": "SPEAKER_00",
+    "text": "competitors in our A-compenser in Southeast Asia is able to charge much less than us."
+  },
+  {
+    "start": 187.6,
+    "end": 188.48000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "Do we know that?"
+  },
+  {
+    "start": 189.28,
+    "end": 192.56,
+    "speaker": "SPEAKER_00",
+    "text": "Was that not mentioned at the beginning in terms of their coming in?"
+  },
+  {
+    "start": 192.56,
+    "end": 194.24,
+    "speaker": "SPEAKER_01",
+    "text": "Well, they've entered the market."
+  },
+  {
+    "start": 194.24,
+    "end": 196.64000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "We don't necessarily know that they're possibly in the best."
+  },
+  {
+    "start": 196.64000000000001,
+    "end": 198.64000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "That's maybe a bold assumption on mine."
+  },
+  {
+    "start": 198.64000000000001,
+    "end": 202.8,
+    "speaker": "SPEAKER_00",
+    "text": "I would assume, given it is coming from Asia, maybe it's being mass-produced,"
+  },
+  {
+    "start": 202.8,
+    "end": 204.8,
+    "speaker": "SPEAKER_00",
+    "text": "and it is relatively cheaper to produce."
+  },
+  {
+    "start": 205.68,
+    "end": 208.0,
+    "speaker": "SPEAKER_00",
+    "text": "But then again, it might be more expensive to ship to here."
+  },
+  {
+    "start": 209.28,
+    "end": 213.44,
+    "speaker": "SPEAKER_00",
+    "text": "With that being said, though, I'd love to look at the costs in terms of our current costs."
+  },
+  {
+    "start": 213.44,
+    "end": 215.6,
+    "speaker": "SPEAKER_00",
+    "text": "Can we go ahead and cut those?"
+  },
+  {
+    "start": 215.6,
+    "end": 217.76,
+    "speaker": "SPEAKER_00",
+    "text": "Are there room for eyes to room for optimization?"
+  },
+  {
+    "start": 217.76,
+    "end": 220.48000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "I'd love to look at the price that we charge in terms of,"
+  },
+  {
+    "start": 221.6,
+    "end": 223.76,
+    "speaker": "SPEAKER_00",
+    "text": "is it possible that we increase price to gain more revenue?"
+  },
+  {
+    "start": 223.76,
+    "end": 227.68,
+    "speaker": "SPEAKER_00",
+    "text": "Is it possible that we maybe have to decrease price to sell more units and looking at those two"
+  },
+  {
+    "start": 227.68,
+    "end": 228.4,
+    "speaker": "SPEAKER_00",
+    "text": "levels?"
+  },
+  {
+    "start": 228.4,
+    "end": 230.64000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Then lastly, sort of tied in with cost."
+  },
+  {
+    "start": 230.64000000000001,
+    "end": 237.44,
+    "speaker": "SPEAKER_00",
+    "text": "Just looking at the distributions, if we're going to fast food things, are we selling to the"
+  },
+  {
+    "start": 237.44,
+    "end": 239.84,
+    "speaker": "SPEAKER_00",
+    "text": "franchises? Are we selling to the overall brand?"
+  },
+  {
+    "start": 239.84,
+    "end": 243.44,
+    "speaker": "SPEAKER_00",
+    "text": "I, if we sell to McDonald's, where they franchise,"
+  },
+  {
+    "start": 243.44,
+    "end": 246.32,
+    "speaker": "SPEAKER_00",
+    "text": "are they going to require those straws in every single McDonald's?"
+  },
+  {
+    "start": 246.32,
+    "end": 248.8,
+    "speaker": "SPEAKER_00",
+    "text": "Or are they only going to require it in certain franchises?"
+  },
+  {
+    "start": 249.68,
+    "end": 254.07999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "In terms of the non-financial considerations, I wanted to look at the relationships that we can"
+  },
+  {
+    "start": 254.07999999999998,
+    "end": 255.92,
+    "speaker": "SPEAKER_00",
+    "text": "build with our current clients."
+  },
+  {
+    "start": 255.92,
+    "end": 262.0,
+    "speaker": "SPEAKER_00",
+    "text": "If it's more of a family model, we really want to make sure that we have that relationship and"
+  },
+  {
+    "start": 262.0,
+    "end": 267.12,
+    "speaker": "SPEAKER_00",
+    "text": "that some unknown company from Southeast Asia doesn't just come in and poach them from us."
+  },
+  {
+    "start": 267.84,
+    "end": 271.44,
+    "speaker": "SPEAKER_00",
+    "text": "And also just looking at branding. I don't really ever think of a, of a straw's brand."
+  },
+  {
+    "start": 271.44,
+    "end": 275.12,
+    "speaker": "SPEAKER_00",
+    "text": "I don't know if any one I know could name a straw brand off the top of their head."
+  },
+  {
+    "start": 275.76,
+    "end": 280.4,
+    "speaker": "SPEAKER_00",
+    "text": "But maybe there's some room for improvement there in terms of the, how, how we look to,"
+  },
+  {
+    "start": 280.4,
+    "end": 281.44,
+    "speaker": "SPEAKER_00",
+    "text": "to the overall market."
+  },
+  {
+    "start": 282.16,
+    "end": 284.72,
+    "speaker": "SPEAKER_00",
+    "text": "And I see in terms of possible moves, I think innovation,"
+  },
+  {
+    "start": 285.68,
+    "end": 291.36,
+    "speaker": "SPEAKER_00",
+    "text": "listed broadly in terms of maybe we have other product lines that we can, we can go to,"
+  },
+  {
+    "start": 291.36,
+    "end": 295.28,
+    "speaker": "SPEAKER_00",
+    "text": "whether it's plastic utensils or napkins or anything in that region."
+  },
+  {
+    "start": 295.44,
+    "end": 301.11999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "And also maybe even looking at merging or acquiring. I don't think that that will necessarily be"
+  },
+  {
+    "start": 301.67999999999995,
+    "end": 304.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "where I'd want to take this case first, but it's a possibility."
+  },
+  {
+    "start": 304.47999999999996,
+    "end": 310.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "And so maybe if Southeast Asia can produce them much cheaper or have some sort of advantage"
+  },
+  {
+    "start": 310.47999999999996,
+    "end": 315.28,
+    "speaker": "SPEAKER_00",
+    "text": "with different clientele that we can get advantage of, let's, let's maybe look at merging"
+  },
+  {
+    "start": 315.28,
+    "end": 316.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "or acquiring."
+  },
+  {
+    "start": 316.47999999999996,
+    "end": 318.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, I like it. We're going to start."
+  },
+  {
+    "start": 318.96,
+    "end": 320.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "Let's start financial considerations."
+  },
+  {
+    "start": 320.47999999999996,
+    "end": 321.67999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, and which part of it?"
+  },
+  {
+    "start": 321.67999999999995,
+    "end": 324.32,
+    "speaker": "SPEAKER_00",
+    "text": "I'd love to look at the costs every time."
+  },
+  {
+    "start": 324.4,
+    "end": 328.64,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, and now what are the types of costs that go into manufacturing?"
+  },
+  {
+    "start": 328.64,
+    "end": 333.04,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, I would imagine raw materials is probably a bit cost, which are what?"
+  },
+  {
+    "start": 333.92,
+    "end": 337.6,
+    "speaker": "SPEAKER_00",
+    "text": "Some sort of plastic. I know, again, I think it depends where you are. I know in California,"
+  },
+  {
+    "start": 337.6,
+    "end": 341.92,
+    "speaker": "SPEAKER_00",
+    "text": "we have recyclable straws made out of different materials. And maybe,"
+  },
+  {
+    "start": 342.48,
+    "end": 347.03999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "maybe they produce those, maybe they don't. Maybe it's just plastic. I'm not actually a hundred"
+  },
+  {
+    "start": 347.03999999999996,
+    "end": 352.8,
+    "speaker": "SPEAKER_00",
+    "text": "percent sure the, the main type of plastic that goes in with straws. But then also,"
+  },
+  {
+    "start": 352.88,
+    "end": 357.76,
+    "speaker": "SPEAKER_00",
+    "text": "if they are covering those, then either plastic wrap or paper, it's probably paper."
+  },
+  {
+    "start": 358.72,
+    "end": 364.48,
+    "speaker": "SPEAKER_00",
+    "text": "So those are two, like the main raw material costs. Then also the machinery that is being run"
+  },
+  {
+    "start": 364.48,
+    "end": 367.2,
+    "speaker": "SPEAKER_00",
+    "text": "to actually form these straws and package them automatically."
+  },
+  {
+    "start": 368.08000000000004,
+    "end": 372.0,
+    "speaker": "SPEAKER_00",
+    "text": "Looking at the distribution channels, so shipping them, whether it's in cars, freight,"
+  },
+  {
+    "start": 373.12,
+    "end": 379.76,
+    "speaker": "SPEAKER_00",
+    "text": "ships or planes, whatever, around America. And then also, I would imagine it's not a huge cost"
+  },
+  {
+    "start": 379.76,
+    "end": 386.4,
+    "speaker": "SPEAKER_00",
+    "text": "for SGNA, just making sure that we are able to find clients and actually market to them and sell"
+  },
+  {
+    "start": 386.4,
+    "end": 393.28,
+    "speaker": "SPEAKER_01",
+    "text": "them stores. One of those will probably be, well, not necessarily one, but some of them will be"
+  },
+  {
+    "start": 394.24,
+    "end": 400.71999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "unlikely to be higher in Southeast Asia. They'll be much more likely to be lower there."
+  },
+  {
+    "start": 400.71999999999997,
+    "end": 403.52,
+    "speaker": "SPEAKER_01",
+    "text": "What would you expect would be the cost that would be lower in Southeast Asia?"
+  },
+  {
+    "start": 404.47999999999996,
+    "end": 409.28,
+    "speaker": "SPEAKER_00",
+    "text": "Potentially raw materials of their, if they're a much bigger location, they are"
+  },
+  {
+    "start": 410.15999999999997,
+    "end": 413.76,
+    "speaker": "SPEAKER_00",
+    "text": "getting more raw materials. They might be able to get that at a cheaper price per"
+  },
+  {
+    "start": 414.71999999999997,
+    "end": 419.12,
+    "speaker": "SPEAKER_00",
+    "text": "units of these raw materials. And then also the labor cost might be a little bit lower."
+  },
+  {
+    "start": 420.15999999999997,
+    "end": 427.12,
+    "speaker": "SPEAKER_00",
+    "text": "I'm also sure about the factories in SGNA that may be more similar. But I'd probably like to start"
+  },
+  {
+    "start": 427.12,
+    "end": 431.35999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "with a raw material. Okay, awesome. We've got some details for you. So you're assuming snippets."
+  },
+  {
+    "start": 432.0,
+    "end": 437.12,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, so just to walk you through what I'm looking at here, we've got the line-in,"
+  },
+  {
+    "start": 437.12,
+    "end": 442.72,
+    "speaker": "SPEAKER_00",
+    "text": "some in terms of costs, as well as a selling price. And then our company, first our competitor."
+  },
+  {
+    "start": 443.52000000000004,
+    "end": 448.64,
+    "speaker": "SPEAKER_00",
+    "text": "The first thing I want to do with this is just call out that we seem to be selling for more"
+  },
+  {
+    "start": 448.64,
+    "end": 452.64,
+    "speaker": "SPEAKER_00",
+    "text": "than the competitor. I don't know if there's a unit acquired or associated with this graph."
+  },
+  {
+    "start": 453.44,
+    "end": 458.08000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe 15 units per straw, is that 15 cents or 15?"
+  },
+  {
+    "start": 458.71999999999997,
+    "end": 465.2,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, it's 15 cents per straw. Perfect. So I can go ahead and calculate the actual profit"
+  },
+  {
+    "start": 465.2,
+    "end": 468.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "for both of these. Great. That just seems like a logical next step."
+  },
+  {
+    "start": 468.96,
+    "end": 480.64,
+    "speaker": "SPEAKER_00",
+    "text": "So in terms of plastic co. We have 15 cents for the selling price. I'm going to have to"
+  },
+  {
+    "start": 480.71999999999997,
+    "end": 487.76,
+    "speaker": "SPEAKER_00",
+    "text": "minus the six cents for raw materials, the five cents for manufacturing, and the one cent for"
+  },
+  {
+    "start": 487.76,
+    "end": 495.2,
+    "speaker": "SPEAKER_00",
+    "text": "distribution, which added up is 12. So we are making three cents per straw. In terms of our"
+  },
+  {
+    "start": 495.2,
+    "end": 503.2,
+    "speaker": "SPEAKER_00",
+    "text": "Southeast Asia competitor, they are selling it from 11, so they're probably maybe some more units"
+  },
+  {
+    "start": 503.2,
+    "end": 508.8,
+    "speaker": "SPEAKER_00",
+    "text": "or something. But they do have to pay similar-ish costs. They're having to pay five dollars for raw"
+  },
+  {
+    "start": 508.8,
+    "end": 514.72,
+    "speaker": "SPEAKER_00",
+    "text": "materials plus three for manufacturing plus three for distribution, which actually adds up"
+  },
+  {
+    "start": 514.72,
+    "end": 518.72,
+    "speaker": "SPEAKER_00",
+    "text": "and they make, they make no profit. They are currently not making profit on their straws,"
+  },
+  {
+    "start": 519.92,
+    "end": 525.36,
+    "speaker": "SPEAKER_00",
+    "text": "which immediately raises some concern of if they're doing that, there has to be a reason behind that."
+  },
+  {
+    "start": 525.36,
+    "end": 529.04,
+    "speaker": "SPEAKER_00",
+    "text": "What could be the reasons? Maybe there's maybe there's bigger picture. Maybe there's strategy"
+  },
+  {
+    "start": 529.04,
+    "end": 535.12,
+    "speaker": "SPEAKER_00",
+    "text": "in there trying to out-imagine, and this might be a bold assumption, so please feel free to"
+  },
+  {
+    "start": 535.12,
+    "end": 541.52,
+    "speaker": "SPEAKER_00",
+    "text": "frame me if I'm wrong. A lot of fast food places and quick service restaurants, they might not want"
+  },
+  {
+    "start": 541.52,
+    "end": 545.92,
+    "speaker": "SPEAKER_00",
+    "text": "to go buy their straws from one person and an applicant from another and their utensils from another."
+  },
+  {
+    "start": 545.92,
+    "end": 552.16,
+    "speaker": "SPEAKER_00",
+    "text": "I would imagine it's a one-stop shop. We have a contract with one person. And so if our SCA"
+  },
+  {
+    "start": 552.16,
+    "end": 557.28,
+    "speaker": "SPEAKER_00",
+    "text": "competitor can provide straws at a lower cost, maybe that's how they get their foot in the door"
+  },
+  {
+    "start": 557.84,
+    "end": 563.28,
+    "speaker": "SPEAKER_00",
+    "text": "to sell napkins and utensils and other things that will make a larger profit. And so that's probably"
+  },
+  {
+    "start": 563.28,
+    "end": 568.24,
+    "speaker": "SPEAKER_00",
+    "text": "one of the reasons. And another reason is maybe they are just, they're getting into this and they"
+  },
+  {
+    "start": 568.24,
+    "end": 572.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "know that in the long run they can cut costs more and there's more options for synergy and that they"
+  },
+  {
+    "start": 572.9599999999999,
+    "end": 579.12,
+    "speaker": "SPEAKER_00",
+    "text": "will eventually be profitable, but right now they're selling a loss to establish a foot in the market."
+  },
+  {
+    "start": 579.12,
+    "end": 581.92,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, any other ways? The reasons why they're doing that?"
+  },
+  {
+    "start": 585.6,
+    "end": 590.48,
+    "speaker": "SPEAKER_00",
+    "text": "I can't think of any more reasons that they would actively choose to do that unless they were"
+  },
+  {
+    "start": 590.48,
+    "end": 597.12,
+    "speaker": "SPEAKER_00",
+    "text": "forced to. Maybe in the actual Southeast Asia area, that's the price of which they have to"
+  },
+  {
+    "start": 597.12,
+    "end": 601.84,
+    "speaker": "SPEAKER_00",
+    "text": "compete at and everyone else is selling it for maybe even lower than them and so they have no"
+  },
+  {
+    "start": 601.84,
+    "end": 607.52,
+    "speaker": "SPEAKER_00",
+    "text": "choice but to sell at that price. And so that's why they're maybe looking for the United States for"
+  },
+  {
+    "start": 607.52,
+    "end": 614.72,
+    "speaker": "SPEAKER_01",
+    "text": "a market. So based on this, if our client is thinking about selling for cheaper, and you know,"
+  },
+  {
+    "start": 614.72,
+    "end": 618.48,
+    "speaker": "SPEAKER_01",
+    "text": "we talked earlier, we weren't sure if they can produce for a lower cost. Now we can see a little"
+  },
+  {
+    "start": 618.48,
+    "end": 624.24,
+    "speaker": "SPEAKER_01",
+    "text": "bit about what's happening with the cost, but your hypothesis was that they would be a cheaper price"
+  },
+  {
+    "start": 624.24,
+    "end": 631.28,
+    "speaker": "SPEAKER_01",
+    "text": "and that was part of the case prompt. So now we can see is a lower price on the cost just distributed"
+  },
+  {
+    "start": 631.28,
+    "end": 636.08,
+    "speaker": "SPEAKER_01",
+    "text": "differently. Talk to me just a little bit about what we should do based on just this information"
+  },
+  {
+    "start": 636.08,
+    "end": 644.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "before we move on. Based on just this information, I feel like the the place that most most people"
+  },
+  {
+    "start": 644.56,
+    "end": 650.2399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "go and be, oh, well, we can we can lower our price a little bit and we can we can still lower it"
+  },
+  {
+    "start": 650.2399999999999,
+    "end": 656.88,
+    "speaker": "SPEAKER_00",
+    "text": "two cents so that we're at 13 cents and we're still making profit more closer. But I would imagine"
+  },
+  {
+    "start": 656.88,
+    "end": 662.56,
+    "speaker": "SPEAKER_00",
+    "text": "that it's maybe not the case. Maybe there's other ways we can look into other product mixes in terms"
+  },
+  {
+    "start": 662.56,
+    "end": 668.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "of combining things and hopefully looking at synergies where we can lower those costs."
+  },
+  {
+    "start": 669.52,
+    "end": 673.68,
+    "speaker": "SPEAKER_00",
+    "text": "But I wouldn't I wouldn't have enough information to just say, I think we should just go and lower"
+  },
+  {
+    "start": 673.76,
+    "end": 677.12,
+    "speaker": "SPEAKER_00",
+    "text": "the price or increase the price or anything. I wonder if there's any more information on"
+  },
+  {
+    "start": 678.0799999999999,
+    "end": 681.52,
+    "speaker": "SPEAKER_01",
+    "text": "maybe other factors or something. So in order to get the next piece of information,"
+  },
+  {
+    "start": 682.3199999999999,
+    "end": 687.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "you're going to have to give me a direction to go. Yeah. So whatever you think we would lower the price"
+  },
+  {
+    "start": 687.1999999999999,
+    "end": 695.1999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "or would raise the price. Before I would decide on whether we would raise or lower the price,"
+  },
+  {
+    "start": 695.1999999999999,
+    "end": 699.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I'd love to maybe look at the other areas in the framework that I that I have. So maybe the"
+  },
+  {
+    "start": 699.44,
+    "end": 704.6400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "non-financial considerations if we have any of those. Okay. Which ones? Let's start with"
+  },
+  {
+    "start": 704.6400000000001,
+    "end": 708.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "relationships. Yeah, start with relationships and we'll move to branding afterwards. Okay. And what"
+  },
+  {
+    "start": 708.8000000000001,
+    "end": 712.0,
+    "speaker": "SPEAKER_01",
+    "text": "do you want to know specifically? Because obviously they're non-financial that doesn't mean we can't"
+  },
+  {
+    "start": 712.0,
+    "end": 718.72,
+    "speaker": "SPEAKER_00",
+    "text": "measure them. Yeah. Well, if they're partnering with with stores and those contracts, I'm assuming this"
+  },
+  {
+    "start": 718.72,
+    "end": 727.12,
+    "speaker": "SPEAKER_00",
+    "text": "is B2B. I'm assuming that the that the business that they are selling to has other other things"
+  },
+  {
+    "start": 727.12,
+    "end": 732.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "that matter, then purely the price. Maybe they care about the eco-friendliness of the product or"
+  },
+  {
+    "start": 732.5600000000001,
+    "end": 738.96,
+    "speaker": "SPEAKER_00",
+    "text": "they care about can I can I count on you to get my straws in time and I don't want to have to be"
+  },
+  {
+    "start": 738.96,
+    "end": 743.04,
+    "speaker": "SPEAKER_00",
+    "text": "waiting with those straws in my restaurant. Something like that. Great. Well, I do have some information"
+  },
+  {
+    "start": 743.04,
+    "end": 750.0,
+    "speaker": "SPEAKER_01",
+    "text": "about customer preferences. I'll share this with you. What do you think about this? Okay. So I'm"
+  },
+  {
+    "start": 750.0,
+    "end": 755.52,
+    "speaker": "SPEAKER_00",
+    "text": "going to start the left here. This is the consumer preference score out of five with price versus trust."
+  },
+  {
+    "start": 756.4,
+    "end": 761.84,
+    "speaker": "SPEAKER_00",
+    "text": "Trust first to trust and reliability in the company price first price. Okay. So it looks like"
+  },
+  {
+    "start": 763.4399999999999,
+    "end": 773.04,
+    "speaker": "SPEAKER_00",
+    "text": "customers prefer trust over price by double. Which is already a good sign because if we even"
+  },
+  {
+    "start": 773.04,
+    "end": 779.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "if we do charge more, if we are more reliable than the Southeast Asia competitor, that's really good."
+  },
+  {
+    "start": 779.5200000000001,
+    "end": 785.7600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And that actually takes me onto the right here. The price scores, that's out of five client versus"
+  },
+  {
+    "start": 785.7600000000001,
+    "end": 792.96,
+    "speaker": "SPEAKER_00",
+    "text": "competitor. So the the competitors five five out of five, they're doing great. We're low, they do"
+  },
+  {
+    "start": 792.96,
+    "end": 800.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "have to pay more. However, our trust scores are much higher. And if you compute a weighted average,"
+  },
+  {
+    "start": 800.1600000000001,
+    "end": 806.0,
+    "speaker": "SPEAKER_00",
+    "text": "which I'm maybe happy to jump into, that might be a good way to evaluate outstanding in the market."
+  },
+  {
+    "start": 806.08,
+    "end": 811.52,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. What do you think that this says overall? Again, going back to the kind of key issue."
+  },
+  {
+    "start": 813.12,
+    "end": 820.56,
+    "speaker": "SPEAKER_00",
+    "text": "Price changing, you know, yeah, I think if we if we can lower our price a little bit, maybe"
+  },
+  {
+    "start": 820.56,
+    "end": 826.8,
+    "speaker": "SPEAKER_00",
+    "text": "maybe just down by one cent, I think that does help at least alleviate a little bit of tension"
+  },
+  {
+    "start": 826.8,
+    "end": 831.92,
+    "speaker": "SPEAKER_00",
+    "text": "where we're in the lowest casvery right now of price with maintaining our trust. However,"
+  },
+  {
+    "start": 832.0,
+    "end": 836.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "there is a risk there that if we start changing our price around the trust might the trust might"
+  },
+  {
+    "start": 836.9599999999999,
+    "end": 842.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "fall a little bit because one thing I'm noticing is that they do not trust this competitor at all,"
+  },
+  {
+    "start": 842.4799999999999,
+    "end": 846.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "even though they have the cheapest draws. And what that makes me wonder is maybe they're"
+  },
+  {
+    "start": 846.4799999999999,
+    "end": 851.04,
+    "speaker": "SPEAKER_00",
+    "text": "associating price with with reliability. And they're saying that if I pay more, I think I'm going to"
+  },
+  {
+    "start": 851.04,
+    "end": 855.5999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "get a better better amount of reliability. And so that's definitely affected to consider."
+  },
+  {
+    "start": 856.08,
+    "end": 860.08,
+    "speaker": "SPEAKER_01",
+    "text": "Fantastic. Okay. What's your final recommendation?"
+  },
+  {
+    "start": 860.96,
+    "end": 869.52,
+    "speaker": "SPEAKER_00",
+    "text": "Final recommendation would be to go ahead and build out a more strategic way to perhaps look at"
+  },
+  {
+    "start": 869.52,
+    "end": 874.4,
+    "speaker": "SPEAKER_00",
+    "text": "our pricing in terms of I think it might be better to lower it a little bit, but just making sure"
+  },
+  {
+    "start": 874.4,
+    "end": 880.24,
+    "speaker": "SPEAKER_00",
+    "text": "that with that we shouldn't be sacrificing trust. Trust is more important than price,"
+  },
+  {
+    "start": 880.24,
+    "end": 885.52,
+    "speaker": "SPEAKER_00",
+    "text": "and so they need to remember that. And obviously we know that right now our profits are fine,"
+  },
+  {
+    "start": 886.08,
+    "end": 891.28,
+    "speaker": "SPEAKER_00",
+    "text": "and so if we can look into and ways to invest and lower our costs so we can also lower our price"
+  },
+  {
+    "start": 891.28,
+    "end": 895.76,
+    "speaker": "SPEAKER_00",
+    "text": "and maintain profitability whilst keeping our trust up, I think that would be a really good way for"
+  },
+  {
+    "start": 895.76,
+    "end": 901.36,
+    "speaker": "SPEAKER_00",
+    "text": "it. But again, just remembering that the risk there is trust is most important and we have to"
+  },
+  {
+    "start": 901.36,
+    "end": 905.92,
+    "speaker": "SPEAKER_00",
+    "text": "focus on that. In terms of some next steps, I think yeah, just looking into the financials a bit"
+  },
+  {
+    "start": 905.92,
+    "end": 912.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "more really digging down in the cost of competency if we can reduce any and making sure that we're"
+  },
+  {
+    "start": 912.0799999999999,
+    "end": 918.4,
+    "speaker": "SPEAKER_00",
+    "text": "keeping the trust with our clients. So Ed, what did you think? It was an interesting case. It felt"
+  },
+  {
+    "start": 918.4,
+    "end": 924.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "very, it felt pretty surface level compared to a lot of cases and I wonder if that was the nature"
+  },
+  {
+    "start": 924.9599999999999,
+    "end": 930.8,
+    "speaker": "SPEAKER_01",
+    "text": "of the case or if maybe I've... We're not accusing me as the interviewer. No, no, no, no, no, no,"
+  },
+  {
+    "start": 931.76,
+    "end": 939.28,
+    "speaker": "SPEAKER_00",
+    "text": "I'm saying maybe the case itself is a little bit more simple or maybe I've missed a big part here"
+  },
+  {
+    "start": 939.28,
+    "end": 944.88,
+    "speaker": "SPEAKER_00",
+    "text": "and I've I felt like maybe I could have dug deeper and inserted in this. So I don't think that you"
+  },
+  {
+    "start": 944.88,
+    "end": 948.8,
+    "speaker": "SPEAKER_01",
+    "text": "should blame yourself for kind of coming to the conclusion fairly quickly, which is I think probably"
+  },
+  {
+    "start": 948.8,
+    "end": 954.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the more likely answer the third option. And so let's walk back through some of the key pieces."
+  },
+  {
+    "start": 954.96,
+    "end": 963.44,
+    "speaker": "SPEAKER_01",
+    "text": "So right at the beginning, I think I think just maybe again a real sharp focus on the market"
+  },
+  {
+    "start": 964.88,
+    "end": 969.44,
+    "speaker": "SPEAKER_01",
+    "text": "share aspect of this, right? Because we're not actually concerned about profits going down or"
+  },
+  {
+    "start": 969.44,
+    "end": 974.0,
+    "speaker": "SPEAKER_01",
+    "text": "revenues haven't gone down, but we are concerned about market share. And we never really"
+  },
+  {
+    "start": 974.0,
+    "end": 979.12,
+    "speaker": "SPEAKER_01",
+    "text": "poked into how we would measure it, what the options are. I feel like that was one layer that could"
+  },
+  {
+    "start": 979.12,
+    "end": 982.88,
+    "speaker": "SPEAKER_01",
+    "text": "have been helpful, but I didn't need that to know that you would be good at consulting."
+  },
+  {
+    "start": 983.76,
+    "end": 988.56,
+    "speaker": "SPEAKER_01",
+    "text": "I give you a four on both the case recap and the clarifying questions. I thought those were both"
+  },
+  {
+    "start": 988.56,
+    "end": 994.32,
+    "speaker": "SPEAKER_01",
+    "text": "very strong today. The only one that you might have been able to ask, which I actually kind of"
+  },
+  {
+    "start": 994.32,
+    "end": 999.52,
+    "speaker": "SPEAKER_01",
+    "text": "you know inserted a little bit later was what is the breakdown of the manufacturing process?"
+  },
+  {
+    "start": 999.52,
+    "end": 1005.2,
+    "speaker": "SPEAKER_01",
+    "text": "Do we source? Do we manufacture? Do we distribute? Right. What are what do we do?"
+  },
+  {
+    "start": 1006.0,
+    "end": 1009.28,
+    "speaker": "SPEAKER_01",
+    "text": "Therefore, when we go and look at it later, it'd be easier. We would figure out some of those"
+  },
+  {
+    "start": 1009.28,
+    "end": 1016.0799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "things. So maybe you had a really good handle or grasp on what was going on. But anyhow, then"
+  },
+  {
+    "start": 1017.1999999999999,
+    "end": 1021.76,
+    "speaker": "SPEAKER_01",
+    "text": "clarifying questions again, really good. Four out of four for the opening. Super strong."
+  },
+  {
+    "start": 1022.72,
+    "end": 1027.04,
+    "speaker": "SPEAKER_01",
+    "text": "And then one of the things that I really liked is we were kind of working through everything"
+  },
+  {
+    "start": 1027.04,
+    "end": 1033.2,
+    "speaker": "SPEAKER_01",
+    "text": "for the structure was that you walked through the financial, the non-financial, and the possible"
+  },
+  {
+    "start": 1033.2,
+    "end": 1037.92,
+    "speaker": "SPEAKER_01",
+    "text": "moves. I probably, my only feedback for the structure would have been not calling non-financial,"
+  },
+  {
+    "start": 1037.92,
+    "end": 1042.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "non-financial, because right when I hear it, even though you're not saying it, it feels like it's"
+  },
+  {
+    "start": 1042.3200000000002,
+    "end": 1047.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "non-numerical. And so just thinking of maybe another way to characterize that, right? You put"
+  },
+  {
+    "start": 1047.3600000000001,
+    "end": 1053.28,
+    "speaker": "SPEAKER_01",
+    "text": "relationships, you put branding, maybe something just maybe even calling it customer or external or"
+  },
+  {
+    "start": 1055.2,
+    "end": 1063.52,
+    "speaker": "SPEAKER_01",
+    "text": "yeah, some other kind of like right satisfaction or, or you know, upside or I don't know what we"
+  },
+  {
+    "start": 1063.52,
+    "end": 1068.24,
+    "speaker": "SPEAKER_01",
+    "text": "would call it exactly, but something other than that. I really liked your possible moves piece. I"
+  },
+  {
+    "start": 1068.24,
+    "end": 1073.6,
+    "speaker": "SPEAKER_01",
+    "text": "felt like that helped create action inside the structure. And for BCGP's in particular, I really"
+  },
+  {
+    "start": 1073.6,
+    "end": 1080.56,
+    "speaker": "SPEAKER_01",
+    "text": "liked that. So that was a good job. Look, the math in this one isn't hard, right? But what you did"
+  },
+  {
+    "start": 1080.56,
+    "end": 1085.36,
+    "speaker": "SPEAKER_01",
+    "text": "well was that you identified what you were looking for in the math. We could have beaten around the"
+  },
+  {
+    "start": 1085.36,
+    "end": 1090.72,
+    "speaker": "SPEAKER_01",
+    "text": "bush if you had layered into your structure complexity that was unnecessary. So I actually felt like you"
+  },
+  {
+    "start": 1090.72,
+    "end": 1094.8,
+    "speaker": "SPEAKER_01",
+    "text": "got really focused on what the thing was. You want to be financial and you want to do cost first. Well,"
+  },
+  {
+    "start": 1094.8,
+    "end": 1099.2,
+    "speaker": "SPEAKER_01",
+    "text": "guess what? I had cost first, right? Why? Because this is an Asian supplier versus a US"
+  },
+  {
+    "start": 1099.2,
+    "end": 1104.56,
+    "speaker": "SPEAKER_01",
+    "text": "media manufacturer. Like you knew that with pretty high likelihood that this was going to be an issue."
+  },
+  {
+    "start": 1105.92,
+    "end": 1109.76,
+    "speaker": "SPEAKER_01",
+    "text": "What I felt like you could have done a better job on with the answer. And I still gave you a four"
+  },
+  {
+    "start": 1109.76,
+    "end": 1113.28,
+    "speaker": "SPEAKER_01",
+    "text": "because you had insights, but there was just that that you said that maybe there were things that"
+  },
+  {
+    "start": 1113.28,
+    "end": 1119.28,
+    "speaker": "SPEAKER_01",
+    "text": "were missing. Here's one place. What if in this part instead of just saying, look, they're they're"
+  },
+  {
+    "start": 1119.28,
+    "end": 1124.24,
+    "speaker": "SPEAKER_01",
+    "text": "making zero. You said, look, I think that what this means is that our client just take a strong"
+  },
+  {
+    "start": 1124.24,
+    "end": 1130.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "chance. I think that our client should not change price. Yeah, come in. And here's why number one,"
+  },
+  {
+    "start": 1130.6399999999999,
+    "end": 1136.0,
+    "speaker": "SPEAKER_01",
+    "text": "they may be in a temporary situation. Number two, right? And really like punching in on,"
+  },
+  {
+    "start": 1136.56,
+    "end": 1141.44,
+    "speaker": "SPEAKER_01",
+    "text": "on, you know, these are the things that we now know about this client and competitive that we didn't"
+  },
+  {
+    "start": 1141.44,
+    "end": 1147.04,
+    "speaker": "SPEAKER_01",
+    "text": "know before. And so I felt like you kind of were waffling a little bit as we were going through the"
+  },
+  {
+    "start": 1147.04,
+    "end": 1150.8,
+    "speaker": "SPEAKER_01",
+    "text": "case. It was like, well, they could, you know, a little repress a little, they could look at costs"
+  },
+  {
+    "start": 1150.8,
+    "end": 1155.68,
+    "speaker": "SPEAKER_01",
+    "text": "a little bit, but in reality, they they could do nothing on price. And then when we move on,"
+  },
+  {
+    "start": 1155.68,
+    "end": 1160.32,
+    "speaker": "SPEAKER_01",
+    "text": "they could do everything on trust. Yeah. Right. And there are shades of gray and a lot of these cases."
+  },
+  {
+    "start": 1160.32,
+    "end": 1164.96,
+    "speaker": "SPEAKER_01",
+    "text": "But I feel like if you really want to stand out to me, you can take a stronger stand on that and"
+  },
+  {
+    "start": 1164.96,
+    "end": 1169.92,
+    "speaker": "SPEAKER_01",
+    "text": "then go after proving it. And then at the end, say, look, there are certainly things that I would"
+  },
+  {
+    "start": 1169.92,
+    "end": 1175.2,
+    "speaker": "SPEAKER_01",
+    "text": "miss out on exhibit work was really good. And there wasn't actually additional math to calculate"
+  },
+  {
+    "start": 1175.2,
+    "end": 1180.88,
+    "speaker": "SPEAKER_01",
+    "text": "in these. Usually there is. But you maybe could have referenced more numbers, right? You know,"
+  },
+  {
+    "start": 1180.88,
+    "end": 1188.48,
+    "speaker": "SPEAKER_01",
+    "text": "the Southeast Asia competitor is, you know, 500% right of X. This is 50% higher. Like you could,"
+  },
+  {
+    "start": 1188.48,
+    "end": 1196.88,
+    "speaker": "SPEAKER_00",
+    "text": "you know, when I was thinking was doing a weighted, like average, totally, and you could do that."
+  },
+  {
+    "start": 1196.88,
+    "end": 1201.28,
+    "speaker": "SPEAKER_01",
+    "text": "But there, but this we don't have any volumes to wait it with. So I don't know that there's a way"
+  },
+  {
+    "start": 1201.28,
+    "end": 1205.12,
+    "speaker": "SPEAKER_01",
+    "text": "that we could have done it. Unless I had more information for you. If you do want to do that,"
+  },
+  {
+    "start": 1205.12,
+    "end": 1209.92,
+    "speaker": "SPEAKER_01",
+    "text": "just ask specifically for the information. And so yeah, I, you know, again, I think the insight"
+  },
+  {
+    "start": 1209.92,
+    "end": 1216.0,
+    "speaker": "SPEAKER_01",
+    "text": "here is that trust is the core value. How do we build trust? Let's double down on that. And then"
+  },
+  {
+    "start": 1216.0,
+    "end": 1222.16,
+    "speaker": "SPEAKER_01",
+    "text": "your final recommendation was very good. Excellent recap of the case. Then what you thought we should do,"
+  },
+  {
+    "start": 1222.16,
+    "end": 1227.04,
+    "speaker": "SPEAKER_01",
+    "text": "but again, I would have liked just a stronger stand, but structure rise was really good. And then"
+  },
+  {
+    "start": 1227.04,
+    "end": 1230.56,
+    "speaker": "SPEAKER_01",
+    "text": "risks and access to the best thing. It's a nice job. Yeah, overall. Thank you."
+  }
+]

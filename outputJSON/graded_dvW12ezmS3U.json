@@ -1,0 +1,1584 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "speaker": "SPEAKER_01",
+      "text": "You're listening to the Strategy Simplified Podcast. Welcome back to the show."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "speaker": "SPEAKER_01",
+      "text": "Today's episode is a great one. It's a BCG Healthcare Case Interview Example and"
+    },
+    {
+      "start": 15.0,
+      "end": 21.0,
+      "speaker": "SPEAKER_01",
+      "text": "it's led by XBCGer Ish, who is also a management consultant, Kate's Coach."
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "speaker": "SPEAKER_01",
+      "text": "You can work with Ish 101 for your interview, prep coaching via the link."
+    },
+    {
+      "start": 26.0,
+      "end": 30.0,
+      "speaker": "SPEAKER_01",
+      "text": "This has episodes shown up so I go there to learn how to book sessions, how to purchase"
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "speaker": "SPEAKER_01",
+      "text": "coaching hours. You can book one hour or eight hours or 20 hours. Again, show notes for all of that."
+    },
+    {
+      "start": 37.0,
+      "end": 42.0,
+      "speaker": "SPEAKER_01",
+      "text": "So this case is great because it doesn't matter if you're targeting a healthcare consulting role."
+    },
+    {
+      "start": 42.0,
+      "end": 47.0,
+      "speaker": "SPEAKER_01",
+      "text": "All top consulting firms expect you to be familiar with healthcare."
+    },
+    {
+      "start": 47.0,
+      "end": 52.0,
+      "speaker": "SPEAKER_01",
+      "text": "They expect you to be familiar with all global industries of consequence."
+    },
+    {
+      "start": 52.0,
+      "end": 58.0,
+      "speaker": "SPEAKER_01",
+      "text": "Healthcare is certainly one of those key industries. If you'd like to get up to speed on other key"
+    },
+    {
+      "start": 58.0,
+      "end": 62.0,
+      "speaker": "SPEAKER_01",
+      "text": "industries that firms expect you to know for case interviews, check out our business breakdowns"
+    },
+    {
+      "start": 62.0,
+      "end": 67.0,
+      "speaker": "SPEAKER_01",
+      "text": "segment. We've got them releasing on the first and third Wednesday of each month."
+    },
+    {
+      "start": 67.0,
+      "end": 74.0,
+      "speaker": "SPEAKER_01",
+      "text": "For example, we did an episode on Nike, on Adobe, on Southwest Airlines and a whole lot more."
+    },
+    {
+      "start": 74.0,
+      "end": 79.0,
+      "speaker": "SPEAKER_01",
+      "text": "So check those out, go back to the podcast and listen to those."
+    },
+    {
+      "start": 79.0,
+      "end": 85.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, let's get your pencil and paper out. Get ready to work through the case alongside Ish and our special guest."
+    },
+    {
+      "start": 85.0,
+      "end": 88.0,
+      "speaker": "SPEAKER_01",
+      "text": "Let's get into the show."
+    },
+    {
+      "start": 88.0,
+      "end": 99.0,
+      "speaker": "SPEAKER_02",
+      "text": "Awesome. So everybody give Akash some words of bravery and words of confidence so that he can pass this case"
+    },
+    {
+      "start": 99.0,
+      "end": 107.0,
+      "speaker": "SPEAKER_02",
+      "text": "with flying colors. So Akash, this is going to be a case that is a bit different from the industry that you're used to."
+    },
+    {
+      "start": 107.0,
+      "end": 114.0,
+      "speaker": "SPEAKER_02",
+      "text": "But if there's any questions during the case about any of terminology that you don't understand, happy to clarify that."
+    },
+    {
+      "start": 114.0,
+      "end": 123.0,
+      "speaker": "SPEAKER_02",
+      "text": "So here's the case prompt for you. So our client is Novartis. They are one of the largest pharma companies in the world."
+    },
+    {
+      "start": 123.0,
+      "end": 128.0,
+      "speaker": "SPEAKER_02",
+      "text": "Probably heard of them and they are headquartered out of Switzerland."
+    },
+    {
+      "start": 128.0,
+      "end": 136.0,
+      "speaker": "SPEAKER_02",
+      "text": "They have a small business unit that runs research and development in the produced therapeutics."
+    },
+    {
+      "start": 136.0,
+      "end": 144.0,
+      "speaker": "SPEAKER_02",
+      "text": "In this particular case, they're focused, this business unit is focused on a rare disease. It's called retinoblastoma."
+    },
+    {
+      "start": 144.0,
+      "end": 151.0,
+      "speaker": "SPEAKER_02",
+      "text": "It's in a rare eye cancer and it takes place in the back of your eye."
+    },
+    {
+      "start": 151.0,
+      "end": 154.0,
+      "speaker": "SPEAKER_02",
+      "text": "So in a part of the eye called a retina."
+    },
+    {
+      "start": 154.0,
+      "end": 160.0,
+      "speaker": "SPEAKER_02",
+      "text": "And it affects a small amount of people across the globe."
+    },
+    {
+      "start": 160.0,
+      "end": 164.0,
+      "speaker": "SPEAKER_02",
+      "text": "But for this particular case, we're focused on euro."
+    },
+    {
+      "start": 164.0,
+      "end": 174.0,
+      "speaker": "SPEAKER_02",
+      "text": "So in the past few years, Novartis hasn't really paid attention to this business unit."
+    },
+    {
+      "start": 174.0,
+      "end": 180.0,
+      "speaker": "SPEAKER_02",
+      "text": "Management has given little interest in growing this business unit."
+    },
+    {
+      "start": 180.0,
+      "end": 193.0,
+      "speaker": "SPEAKER_02",
+      "text": "However, recently there was a new CEO appointment and he has hired you to identify ways to grow this particular business unit."
+    },
+    {
+      "start": 193.0,
+      "end": 202.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, so this seems interested for a couple of reasons that I heard a news that eye cancers on a code probably."
+    },
+    {
+      "start": 202.0,
+      "end": 205.0,
+      "speaker": "SPEAKER_03",
+      "text": "It says we see how we can support."
+    },
+    {
+      "start": 205.0,
+      "end": 210.0,
+      "speaker": "SPEAKER_03",
+      "text": "So before proceeding further to evaluate that Pionnaseem page, our client is Novartis."
+    },
+    {
+      "start": 210.0,
+      "end": 221.0,
+      "speaker": "SPEAKER_03",
+      "text": "And we have been hired by the CEO to support how we can grow this R&D business unit focused on retina cancer with our focus geography being here."
+    },
+    {
+      "start": 221.0,
+      "end": 223.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yes. Thank you for this."
+    },
+    {
+      "start": 223.0,
+      "end": 227.0,
+      "speaker": "SPEAKER_03",
+      "text": "A few satisfying questions that I would like to ask before proceeding further."
+    },
+    {
+      "start": 227.0,
+      "end": 236.0,
+      "speaker": "SPEAKER_03",
+      "text": "Did it have any objectives, themes, aspirations or timelines mainly from terms of profitability or product loan?"
+    },
+    {
+      "start": 236.0,
+      "end": 237.0,
+      "speaker": "SPEAKER_03",
+      "text": "Any kind of that's all."
+    },
+    {
+      "start": 237.0,
+      "end": 244.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, can you be maybe a bit more specific as to like what kind of objectives you're looking for?"
+    },
+    {
+      "start": 244.0,
+      "end": 253.0,
+      "speaker": "SPEAKER_03",
+      "text": "Since we have to grow this business unit, I would probably take more from a profit at the biggest time point and any time that we need to add your food."
+    },
+    {
+      "start": 253.0,
+      "end": 254.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, fantastic."
+    },
+    {
+      "start": 254.0,
+      "end": 259.0,
+      "speaker": "SPEAKER_02",
+      "text": "So we don't have a profitability target, but we have a revenue target."
+    },
+    {
+      "start": 259.0,
+      "end": 267.0,
+      "speaker": "SPEAKER_02",
+      "text": "The CEO wants the revenue of this business unit to three X in the in the next four years."
+    },
+    {
+      "start": 267.0,
+      "end": 269.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, that would be."
+    },
+    {
+      "start": 269.0,
+      "end": 275.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, and currently the revenue is about $200 million annually."
+    },
+    {
+      "start": 275.0,
+      "end": 282.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, so it's a launched product. It's not something which is a bit more as of years."
+    },
+    {
+      "start": 282.0,
+      "end": 287.0,
+      "speaker": "SPEAKER_03",
+      "text": "Second up, I would want to understand some who want how the business makes money."
+    },
+    {
+      "start": 287.0,
+      "end": 288.0,
+      "speaker": "SPEAKER_03",
+      "text": "Who do we sell these drugs to?"
+    },
+    {
+      "start": 288.0,
+      "end": 293.0,
+      "speaker": "SPEAKER_03",
+      "text": "Is it as a conventional value shame where you sell it off to the distributors?"
+    },
+    {
+      "start": 293.0,
+      "end": 296.0,
+      "speaker": "SPEAKER_03",
+      "text": "Does they sell it off to maybe claim it's on so on?"
+    },
+    {
+      "start": 296.0,
+      "end": 299.0,
+      "speaker": "SPEAKER_03",
+      "text": "Or it's a direct, uh, beatishly business."
+    },
+    {
+      "start": 299.0,
+      "end": 313.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, so the whole value chain in forma that you see does apply, but for simplicity, let's consider that our end customer, which is the patient suffering from retina blastoma is our target."
+    },
+    {
+      "start": 313.0,
+      "end": 316.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, that of the patient."
+    },
+    {
+      "start": 316.0,
+      "end": 327.0,
+      "speaker": "SPEAKER_03",
+      "text": "Uh, with this thing said, uh, the final thing that I would probably want to understand will be, I'll be the only player in this market or there's a few other players."
+    },
+    {
+      "start": 327.0,
+      "end": 328.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, good question."
+    },
+    {
+      "start": 328.0,
+      "end": 345.0,
+      "speaker": "SPEAKER_02",
+      "text": "So there is growing interest in researching retina blastoma and it's increasingly been a competitive market, particularly driven by entry of small biotechs, uh, who are innovative and exploring a lot of different therapeutics in this space."
+    },
+    {
+      "start": 345.0,
+      "end": 349.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, so it's a bit more from this."
+    },
+    {
+      "start": 349.0,
+      "end": 351.0,
+      "speaker": "SPEAKER_03",
+      "text": "So thank you for this."
+    },
+    {
+      "start": 351.0,
+      "end": 355.0,
+      "speaker": "SPEAKER_03",
+      "text": "Can I have a moment to stretch my thoughts and then I can forget to do it?"
+    },
+    {
+      "start": 355.0,
+      "end": 356.0,
+      "speaker": "SPEAKER_03",
+      "text": "Sure."
+    },
+    {
+      "start": 356.0,
+      "end": 358.0,
+      "speaker": "SPEAKER_03",
+      "text": "Since the back care."
+    },
+    {
+      "start": 358.0,
+      "end": 360.0,
+      "speaker": "SPEAKER_01",
+      "text": "Ends up future consultants."
+    },
+    {
+      "start": 360.0,
+      "end": 369.0,
+      "speaker": "SPEAKER_01",
+      "text": "If you're serious about breaking into consulting, but you know that you'll need all the help you can get, join our Super Prep program to change your chances."
+    },
+    {
+      "start": 369.0,
+      "end": 374.0,
+      "speaker": "SPEAKER_01",
+      "text": "Check out the link in this episode shown us to confirm your seat for the next Super Prep cohort."
+    },
+    {
+      "start": 374.0,
+      "end": 384.0,
+      "speaker": "SPEAKER_01",
+      "text": "In Super Prep, we'll help you add business and consulting experience to your resume to fill in gaps through a one-league virtual consulting project known as strategy sprint."
+    },
+    {
+      "start": 384.0,
+      "end": 387.0,
+      "speaker": "SPEAKER_01",
+      "text": "These projects run once a quarter."
+    },
+    {
+      "start": 387.0,
+      "end": 396.0,
+      "speaker": "SPEAKER_01",
+      "text": "Next, we'll help you integrate your new consulting experience into your resume and cover letter through custom edits by our MBB team."
+    },
+    {
+      "start": 396.0,
+      "end": 406.0,
+      "speaker": "SPEAKER_01",
+      "text": "We'll help weave a compelling narrative through your resume and cover letter to display how your unique background and skill set makes you an ideal candidate for your target firms."
+    },
+    {
+      "start": 406.0,
+      "end": 413.0,
+      "speaker": "SPEAKER_01",
+      "text": "From there, an MBB coach will build a custom prep plan for you and guide you through case and fit interview prep."
+    },
+    {
+      "start": 413.0,
+      "end": 425.0,
+      "speaker": "SPEAKER_01",
+      "text": "Recruiters love candidates who bring both consulting experience and polish to the table and Super Prep will allow you to do both plus the confidence to shine in your interviews."
+    },
+    {
+      "start": 425.0,
+      "end": 431.0,
+      "speaker": "SPEAKER_01",
+      "text": "We run Super Prep cohorts once a quarter, so check out the link in the show notes to confirm your seat today."
+    },
+    {
+      "start": 431.0,
+      "end": 435.0,
+      "speaker": "SPEAKER_01",
+      "text": "In addition, you can book a call with a member of our team before you join."
+    },
+    {
+      "start": 435.0,
+      "end": 437.0,
+      "speaker": "SPEAKER_01",
+      "text": "Look forward to seeing you in Super Prep."
+    },
+    {
+      "start": 437.0,
+      "end": 440.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, so thank you for your time."
+    },
+    {
+      "start": 440.0,
+      "end": 451.0,
+      "speaker": "SPEAKER_03",
+      "text": "So to throw the revenues, I would specifically like to evaluate this from Dwarf Dwarf Dwarf's from a development standpoint and other from a diversification staff on."
+    },
+    {
+      "start": 451.0,
+      "end": 459.0,
+      "speaker": "SPEAKER_03",
+      "text": "From a development standpoint, I could look into developing a product and the second could do somewhere on the market by the product development."
+    },
+    {
+      "start": 459.0,
+      "end": 475.0,
+      "speaker": "SPEAKER_03",
+      "text": "I mean more than our customizations, which could be from a pricing standpoint to be a bit more competitive or from features or a son related diseases that probably we can incorporate to cure from a market standpoint."
+    },
+    {
+      "start": 475.0,
+      "end": 494.0,
+      "speaker": "SPEAKER_03",
+      "text": "We can look into developing it further as through our panic channels as marketing, better pound management and better supply chains and a few in our panic channels here could be as having better partnership as in which I clinics, hospitals and so on."
+    },
+    {
+      "start": 494.0,
+      "end": 503.0,
+      "speaker": "SPEAKER_03",
+      "text": "With diversification, I would normally like to look into how we can diversify our code within markets since Europe is a very big continent."
+    },
+    {
+      "start": 503.0,
+      "end": 508.0,
+      "speaker": "SPEAKER_03",
+      "text": "This could be done by understanding what are some most affected areas."
+    },
+    {
+      "start": 508.0,
+      "end": 520.0,
+      "speaker": "SPEAKER_03",
+      "text": "Second up, identifying are there any potentially players or subsidies or other schemes that even partner with and with that entering to such offerings."
+    },
+    {
+      "start": 520.0,
+      "end": 544.0,
+      "speaker": "SPEAKER_03",
+      "text": "So with this king said, I would post up what to understand what are the customers willingness to pay and features that they apply what is up pricing to see if there's any barrier that we see from this angle and the next step would probably be to understand what we're marketed or markets to the exist in and other for the potent freeze to tension."
+    },
+    {
+      "start": 544.0,
+      "end": 558.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, so that's a good point. So let's just assume for this case that patients are willing to pay its rare disease. There's a number of treatments out there, but they're willing to pay for this particular product or set of products."
+    },
+    {
+      "start": 558.0,
+      "end": 566.0,
+      "speaker": "SPEAKER_02",
+      "text": "Your other question was about market. Can you be a bit more specific as to what you'd like to look under the market?"
+    },
+    {
+      "start": 566.0,
+      "end": 578.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, there will be two major factors that I would like to look into. First up, and countries where we currently operate second up our current penetration rate."
+    },
+    {
+      "start": 578.0,
+      "end": 590.0,
+      "speaker": "SPEAKER_03",
+      "text": "This would probably give me an understanding of what is the background that we come from and if we can possibly look for penetrating further into these or would like to explode some new countries."
+    },
+    {
+      "start": 590.0,
+      "end": 602.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that's also a good question. Let's say that we are all over Europe right now. We are, we have very good penetration. We're one of the market leaders. So we don't see any opportunities from that front either."
+    },
+    {
+      "start": 602.0,
+      "end": 614.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. So it's the do not see anything from that brand leader. I could probably think about having more."
+    },
+    {
+      "start": 614.0,
+      "end": 633.0,
+      "speaker": "SPEAKER_03",
+      "text": "Maybe something from. Okay. So maybe he can tweak something from a pricing standpoint since we already know most of the patients would buy since it's a rare drug and second up more or less, the quantity cannot be increased going further."
+    },
+    {
+      "start": 633.0,
+      "end": 647.0,
+      "speaker": "SPEAKER_03",
+      "text": "So the only fact that that property remains here is something on a driver on price for Trump. So we can assume or go further into what is the package makes how to be sell the trap for now. It's been a pack of three, five and so on."
+    },
+    {
+      "start": 647.0,
+      "end": 651.0,
+      "speaker": "SPEAKER_03",
+      "text": "And further, or we can take a price and get."
+    },
+    {
+      "start": 651.0,
+      "end": 662.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, these are all good understanding. Let me direct you a little bit. Let me nod you in a different direction. So we're not focused on any current products that are in the market."
+    },
+    {
+      "start": 662.0,
+      "end": 678.0,
+      "speaker": "SPEAKER_02",
+      "text": "What we're going to focus on is more on the research and develop pipeline. So what are what is being developed? What is currently in clinical trials? What is being studied? That is the aspect of the value chain that we're focused on."
+    },
+    {
+      "start": 678.0,
+      "end": 693.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. So if that is what we are purchasing on, then probably to improve your value, it could be on how we can enhance our chances of the drugs and pipeline to succeed their clinical trials and going further all the stages."
+    },
+    {
+      "start": 693.0,
+      "end": 706.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah. So a few things that I would like to understand here is how so pipeline laid out how many phases of testing do we have an occurrences of success? Okay."
+    },
+    {
+      "start": 706.0,
+      "end": 709.0,
+      "speaker": "SPEAKER_03",
+      "text": "I'm going further what could be done."
+    },
+    {
+      "start": 709.0,
+      "end": 721.0,
+      "speaker": "SPEAKER_02",
+      "text": "Fantastic. So we have some of the data. Can you think of other things that you need to look at in addition to the factors that you mentioned to get to our client school?"
+    },
+    {
+      "start": 721.0,
+      "end": 735.0,
+      "speaker": "SPEAKER_03",
+      "text": "I could look at it from supply and a demand perspective. All the factors that I did say initially come from a supply perspective as an are we able to have a successful shot in the market?"
+    },
+    {
+      "start": 735.0,
+      "end": 747.0,
+      "speaker": "SPEAKER_03",
+      "text": "So I'm a demand perspective that could be to understand is there a demand for this are people getting to buy this and is that market big enough so that he could achieve what he expected many for."
+    },
+    {
+      "start": 747.0,
+      "end": 761.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah. So let's let's forget about supply. We already established that folks. I apologize. I meant demand. We already established that people are willing to buy this drug."
+    },
+    {
+      "start": 761.0,
+      "end": 773.0,
+      "speaker": "SPEAKER_02",
+      "text": "So let's let's forget about demand. Let's focus on supply solely. So within the supply side, you mentioned approval rate or probability of success. That's a good metric."
+    },
+    {
+      "start": 773.0,
+      "end": 787.0,
+      "speaker": "SPEAKER_02",
+      "text": "You mentioned a number of drugs that are in the pipeline that's also good metric. Can you think of other quantitative metrics that could help you get to the client goal?"
+    },
+    {
+      "start": 787.0,
+      "end": 815.0,
+      "speaker": "SPEAKER_02",
+      "text": "I am sorry. I'm talking with the think about anymore. Yeah. Yeah. No. Could you let me have a bit more. Yeah. Yeah. Definitely. So one of these terms is it's called time to commercialize issue. So let's say that if something is in development for in early days. So maybe they are 10 years out into the market."
+    },
+    {
+      "start": 815.0,
+      "end": 825.0,
+      "speaker": "SPEAKER_02",
+      "text": "Maybe something if it's late phase, it's maybe only one or two years time to market. So that's another factor that you would consider."
+    },
+    {
+      "start": 825.0,
+      "end": 842.0,
+      "speaker": "SPEAKER_02",
+      "text": "And then the other factor is what is the maximum revenue that you can get from commercialization off this. So in the farmer industry, there's something called peak sales, which is if the product sells well."
+    },
+    {
+      "start": 842.0,
+      "end": 852.0,
+      "speaker": "SPEAKER_02",
+      "text": "There is a ramp up time to that. But peak sales is oftentimes what's used as the estimate for revenue. Okay."
+    },
+    {
+      "start": 852.0,
+      "end": 865.0,
+      "speaker": "SPEAKER_02",
+      "text": "So let's look at these factors. These are all very good. I'm going to share an exhibit with you. So and I would love your thoughts on what we can do here. Thank you."
+    },
+    {
+      "start": 865.0,
+      "end": 875.0,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you for the exhibit. Can I have a moment. You could dive this to all the information. Sure."
+    },
+    {
+      "start": 875.0,
+      "end": 903.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. So thank you for this from this exhibit. We more or less get the migraine size into what the drug pipeline looks like."
+    },
+    {
+      "start": 903.0,
+      "end": 916.0,
+      "speaker": "SPEAKER_03",
+      "text": "And what could be having you scale up by years by time to commercialization in the first that you know a drug funder are these in months. I will have."
+    },
+    {
+      "start": 916.0,
+      "end": 928.0,
+      "speaker": "SPEAKER_03",
+      "text": "These are in years. Okay. He's at a years. Yeah. Okay. So from this, we could probably see that the time has been a lot longer."
+    },
+    {
+      "start": 928.0,
+      "end": 949.0,
+      "speaker": "SPEAKER_03",
+      "text": "So second up, we can't from here estimate what could be maximum heaven years within each place whether short is and with the second table on revenue scalar, we can probably understand how much we expect the maximum revenue is to be at end of year four and go moving on."
+    },
+    {
+      "start": 949.0,
+      "end": 959.0,
+      "speaker": "SPEAKER_03",
+      "text": "So do you want me to calculate what we can perhaps think that when you do we and see if it makes up the three times benchmark that we would like to achieve."
+    },
+    {
+      "start": 959.0,
+      "end": 971.0,
+      "speaker": "SPEAKER_03",
+      "text": "Sure. And what would be your approach to that? Okay. So I would like to do this in."
+    },
+    {
+      "start": 971.0,
+      "end": 992.0,
+      "speaker": "SPEAKER_03",
+      "text": "So my approach here will be to go in the three needs a steps. The first step would be to understand how much how much of up to will rates multiplied by maximum revenue to see how many drugs do pass this."
+    },
+    {
+      "start": 992.0,
+      "end": 1004.0,
+      "speaker": "SPEAKER_03",
+      "text": "So the second up since I know years of. Oh, wait. Can I have a moment to connect these two together? Sure. Yeah. Take your time."
+    },
+    {
+      "start": 1022.0,
+      "end": 1039.0,
+      "speaker": "SPEAKER_03",
+      "text": "A question here. We see that years of drug commercialization. I understand this to be only after phase three is that correct. Yes. So this is after phase three has been completed."
+    },
+    {
+      "start": 1039.0,
+      "end": 1048.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. When it's in the market, what is the time to scale up to reach maximum revenue?"
+    },
+    {
+      "start": 1048.0,
+      "end": 1054.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. And what do we mean by maximum in heaven? You both please."
+    },
+    {
+      "start": 1054.0,
+      "end": 1061.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah. So max. So maximum revenue is yes within that phase itself."
+    },
+    {
+      "start": 1061.0,
+      "end": 1068.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. So we would also be able to sell our drugs even though it's within research basis."
+    },
+    {
+      "start": 1068.0,
+      "end": 1075.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yes. If it does pass that kind of the approval rate, then you would be able to."
+    },
+    {
+      "start": 1075.0,
+      "end": 1078.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. Okay."
+    },
+    {
+      "start": 1089.0,
+      "end": 1093.0,
+      "speaker": "SPEAKER_03",
+      "text": "When skill."
+    },
+    {
+      "start": 1093.0,
+      "end": 1112.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. So we know what could be maximum revenue at space three. So during that research base, we probably do not need to go into depth because major ramp up would occur after its pass all the pieces."
+    },
+    {
+      "start": 1112.0,
+      "end": 1130.0,
+      "speaker": "SPEAKER_03",
+      "text": "So my understanding will be to see maximum revenues that we could earn is 60% of 100 million after phase three. Now how does it answer? So in your one, it would be 25% of the maximum and going for the 50% 75."
+    },
+    {
+      "start": 1130.0,
+      "end": 1138.0,
+      "speaker": "SPEAKER_03",
+      "text": "So that would be my more or less overall approach to doing it. Does that seem fine enough?"
+    },
+    {
+      "start": 1138.0,
+      "end": 1149.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah. Let's start with it's a good point. Let's focus on phase two and three because if you look at research in phase one, those do not fall within the four year target."
+    },
+    {
+      "start": 1149.0,
+      "end": 1157.0,
+      "speaker": "SPEAKER_02",
+      "text": "They're at seven and five years. So let's ignore them. Let's focus on the potential revenue from phase two and three."
+    },
+    {
+      "start": 1157.0,
+      "end": 1174.0,
+      "speaker": "SPEAKER_00",
+      "text": "Base strategy simplified. My name is Katie. I am a black belt alone and I spent three years at BCG in the Middle East. I am now here as part of management consultant's team to help you figure out what products we offer will help you on your consulting journey."
+    },
+    {
+      "start": 1174.0,
+      "end": 1189.0,
+      "speaker": "SPEAKER_00",
+      "text": "And I also advise black belt members and supercredb members once they become a part of our community so that they get the most out of what we offer. If you would like to book a 15 minute call with me, you can click the link in the show notes and I look forward to meeting you."
+    },
+    {
+      "start": 1190.0,
+      "end": 1203.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. So let's start with basically here the time to commercialize this and studios the maximum revenue that we possibly see from here is and then million dollars."
+    },
+    {
+      "start": 1203.0,
+      "end": 1217.0,
+      "speaker": "SPEAKER_03",
+      "text": "And here one is the see the revenue scale up to mac is 25% of 100 million differently 25 million and a year to be kept to percent of it."
+    },
+    {
+      "start": 1217.0,
+      "end": 1232.0,
+      "speaker": "SPEAKER_03",
+      "text": "So, it will be a new and peace that we would see from phase two could be or 75 million since that."
+    },
+    {
+      "start": 1232.0,
+      "end": 1246.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah. And similarly for face state since it's a one year program. Years of drug commercialization is one with pretty you would at 25% of 100 is 25 million as much."
+    },
+    {
+      "start": 1246.0,
+      "end": 1257.0,
+      "speaker": "SPEAKER_03",
+      "text": "So total revenue and be happy could speak from here would be 75 for face good job at 25 for face cuter. Does that make sense?"
+    },
+    {
+      "start": 1257.0,
+      "end": 1262.0,
+      "speaker": "SPEAKER_02",
+      "text": "So that what you just calculated what's the unit of that?"
+    },
+    {
+      "start": 1262.0,
+      "end": 1270.0,
+      "speaker": "SPEAKER_03",
+      "text": "That is a millions of dollars. Yes, but there is another unit to it."
+    },
+    {
+      "start": 1271.0,
+      "end": 1275.0,
+      "speaker": "SPEAKER_03",
+      "text": "The revenue scale up."
+    },
+    {
+      "start": 1277.0,
+      "end": 1283.0,
+      "speaker": "SPEAKER_02",
+      "text": "I am not sure what that is that is per drug that is approved. Right."
+    },
+    {
+      "start": 1283.0,
+      "end": 1290.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. Yes. That's for drug for a food. Yeah. Exactly. So now what do you have to further account this for?"
+    },
+    {
+      "start": 1290.0,
+      "end": 1300.0,
+      "speaker": "SPEAKER_03",
+      "text": "How many drugs would be approved within that phase? Correct. Yes. So in phase two. Okay. Now I get what the exhibit actually me. Okay."
+    },
+    {
+      "start": 1300.0,
+      "end": 1312.0,
+      "speaker": "SPEAKER_03",
+      "text": "So in phase two we have five drugs up to one rate of 40% which means that true drugs would be successful in phase two."
+    },
+    {
+      "start": 1312.0,
+      "end": 1320.0,
+      "speaker": "SPEAKER_03",
+      "text": "So actual revenues would be two cross 75. I think that one in the million dollars."
+    },
+    {
+      "start": 1320.0,
+      "end": 1332.0,
+      "speaker": "SPEAKER_03",
+      "text": "Now in phase T. The has two drugs in five lines that an up to a bit of 60% which more or less means or one drug would be up to one point two."
+    },
+    {
+      "start": 1332.0,
+      "end": 1342.0,
+      "speaker": "SPEAKER_03",
+      "text": "Let's do one drug because you can split it again. To point to make sense. Yes. So we would be seeing 25 million dollars one cross 25."
+    },
+    {
+      "start": 1342.0,
+      "end": 1351.0,
+      "speaker": "SPEAKER_03",
+      "text": "So total revenues from phase two would be 150 phase three will be 25 total to be 175 million."
+    },
+    {
+      "start": 1351.0,
+      "end": 1365.0,
+      "speaker": "SPEAKER_03",
+      "text": "Now look back into what our target was. Looked as up three times that it been four years with this we would still fall a lot short to what our definite targets look to be."
+    },
+    {
+      "start": 1365.0,
+      "end": 1375.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. So that's great. Can you maybe brainstorm some ways in which we could fill this gap in the target?"
+    },
+    {
+      "start": 1375.0,
+      "end": 1381.0,
+      "speaker": "SPEAKER_03",
+      "text": "And I have a woman think about it. Sure."
+    },
+    {
+      "start": 1381.0,
+      "end": 1392.0,
+      "speaker": "SPEAKER_03",
+      "text": "So I can look at some of the popus city further. We are more or less falling short by two 25 million to read target three times."
+    },
+    {
+      "start": 1392.0,
+      "end": 1396.0,
+      "speaker": "SPEAKER_03",
+      "text": "Now to do this I can think about it raw."
+    },
+    {
+      "start": 1396.0,
+      "end": 1411.0,
+      "speaker": "SPEAKER_03",
+      "text": "And the first anger is will be from a drug pipeline perspective. Maybe look into how we can have a higher successful approval rate specifically speaking for phase two."
+    },
+    {
+      "start": 1411.0,
+      "end": 1420.0,
+      "speaker": "SPEAKER_03",
+      "text": "But maybe that can help us proceed a lot further. The second up would be to kind of understand are there any other."
+    },
+    {
+      "start": 1420.0,
+      "end": 1439.0,
+      "speaker": "SPEAKER_03",
+      "text": "Probable perspectives that the drugs can fill up not just for the disease that they're actually being made for but some cross diseases that could be worth while looking into the second nature bucket that you think for we look into would be from a market and account management standpoints."
+    },
+    {
+      "start": 1439.0,
+      "end": 1446.0,
+      "speaker": "SPEAKER_03",
+      "text": "Look into what could be a few potential levers we can play to increase our maximum revenue."
+    },
+    {
+      "start": 1446.0,
+      "end": 1456.0,
+      "speaker": "SPEAKER_03",
+      "text": "I believe this to be a function of total number of people and the pricing. So maybe look into further more people could adopt this."
+    },
+    {
+      "start": 1456.0,
+      "end": 1469.0,
+      "speaker": "SPEAKER_03",
+      "text": "I understand that this is a rare disease so that would not be a very practical way to go about it. Maybe looking into a bit pricing how we can price this better compared to our competitors."
+    },
+    {
+      "start": 1469.0,
+      "end": 1473.0,
+      "speaker": "SPEAKER_03",
+      "text": "So is this where we look on the school go there."
+    },
+    {
+      "start": 1473.0,
+      "end": 1480.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that's that's certainly some ways. Is there anything else you can think about."
+    },
+    {
+      "start": 1480.0,
+      "end": 1486.0,
+      "speaker": "SPEAKER_02",
+      "text": "Just trying to grow like aggressively so."
+    },
+    {
+      "start": 1486.0,
+      "end": 1495.0,
+      "speaker": "SPEAKER_03",
+      "text": "Here what we did see was phase two we calculated it from year one to year do and similarly for phase three."
+    },
+    {
+      "start": 1495.0,
+      "end": 1503.0,
+      "speaker": "SPEAKER_03",
+      "text": "Even after trying to commercialization the drug would continue to grow and I think we I missed that point."
+    },
+    {
+      "start": 1503.0,
+      "end": 1510.0,
+      "speaker": "SPEAKER_03",
+      "text": "If I do calculate for that we can see if it continues growing and what it could potentially appeal."
+    },
+    {
+      "start": 1510.0,
+      "end": 1513.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, we can certainly do that."
+    },
+    {
+      "start": 1513.0,
+      "end": 1523.0,
+      "speaker": "SPEAKER_02",
+      "text": "But let's table that for for now maybe qualitatively if you can think of other options for solutions."
+    },
+    {
+      "start": 1523.0,
+      "end": 1529.0,
+      "speaker": "SPEAKER_03",
+      "text": "Other options."
+    },
+    {
+      "start": 1529.0,
+      "end": 1540.0,
+      "speaker": "SPEAKER_03",
+      "text": "A few other ways I could probably think about could be from a partnership standpoint to increase the number of units that he can sell."
+    },
+    {
+      "start": 1540.0,
+      "end": 1548.0,
+      "speaker": "SPEAKER_03",
+      "text": "I'll assume there are there seems to be a lot of competition since you say about smaller by our next company."
+    },
+    {
+      "start": 1548.0,
+      "end": 1565.0,
+      "speaker": "SPEAKER_03",
+      "text": "So partnering with reddit with i clinics or partnering with some doctors for some special clinical research of trials or just normal medicine could help to increase art."
+    },
+    {
+      "start": 1565.0,
+      "end": 1586.0,
+      "speaker": "SPEAKER_03",
+      "text": "Other ways I could probably think about it could be as the further look whether there are some government grants that goes around any government is against that discounts this and probably bid for being elected as effort government to drop that could possibly be your help."
+    },
+    {
+      "start": 1586.0,
+      "end": 1590.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yes, that us on this and a terrible great."
+    },
+    {
+      "start": 1590.0,
+      "end": 1596.0,
+      "speaker": "SPEAKER_02",
+      "text": "So the CEO is going to walk in through the door for your final recommendations."
+    },
+    {
+      "start": 1596.0,
+      "end": 1601.0,
+      "speaker": "SPEAKER_02",
+      "text": "Do you mind just giving a quick summary of what you found throughout this case."
+    },
+    {
+      "start": 1601.0,
+      "end": 1605.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, sure."
+    },
+    {
+      "start": 1605.0,
+      "end": 1607.0,
+      "speaker": "SPEAKER_03",
+      "text": "So thank you for the case."
+    },
+    {
+      "start": 1607.0,
+      "end": 1616.0,
+      "speaker": "SPEAKER_03",
+      "text": "We were hired to understand how recent issues the revenue for our new business unit with three times."
+    },
+    {
+      "start": 1616.0,
+      "end": 1627.0,
+      "speaker": "SPEAKER_03",
+      "text": "So we were hired on a analysis it seems that we would fall short of 18 to three times revenue but could probably attain almost three times the current revenues."
+    },
+    {
+      "start": 1627.0,
+      "end": 1638.0,
+      "speaker": "SPEAKER_03",
+      "text": "A few things that we can brainstorm going further to attain so to meaning could be first up from better approval rates second up could be initially from a market standpoint."
+    },
+    {
+      "start": 1638.0,
+      "end": 1655.0,
+      "speaker": "SPEAKER_03",
+      "text": "Could be playing with partnerships something along joint branches could possibly help and finally on a hiking up all playing with the Pisces with this instead of be this that we should probably be aware of."
+    },
+    {
+      "start": 1655.0,
+      "end": 1666.0,
+      "speaker": "SPEAKER_03",
+      "text": "Approvers are not something that we can possibly control it is a way that depends on how a drug would react to or patients per see."
+    },
+    {
+      "start": 1666.0,
+      "end": 1681.0,
+      "speaker": "SPEAKER_03",
+      "text": "So we should always be ready to see whether the drugs do not succeed at all the second up could be the risk of a capital being stuck if we are going into developing our markets and account minus in perspective."
+    },
+    {
+      "start": 1681.0,
+      "end": 1695.0,
+      "speaker": "SPEAKER_03",
+      "text": "So the third could be from a regulatory standpoint since these are very fair diseases I assume there to be a lot more regulatory pressures for companies operating with that being said I would like to thank you."
+    },
+    {
+      "start": 1695.0,
+      "end": 1707.0,
+      "speaker": "SPEAKER_02",
+      "text": "Awesome. Congrats Akash everyone I want to see some virtual applause for Akash takes a great deal of courage to do this in front of a live audience so."
+    },
+    {
+      "start": 1707.0,
+      "end": 1727.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah Akash you're done before I go into feedback do you want to do some maybe a quick self feedback or your thoughts on how you did on this case sure so to be very honest I am very cute with this feel of health."
+    },
+    {
+      "start": 1727.0,
+      "end": 1745.0,
+      "speaker": "SPEAKER_03",
+      "text": "So I did not know a lot of terms now to speak from the structural standpoint I feel the structure could have it a bit more customized to mimic out the medical eal words."
+    },
+    {
+      "start": 1745.0,
+      "end": 1767.0,
+      "speaker": "SPEAKER_03",
+      "text": "I can't I would say is from the exhibit I would say that I failed to understand the exhibit a lot better and that lead be let that led us to a lot of back and forth calculations and conversations maybe I should have asked what it means upfront and that would have positive health going further."
+    },
+    {
+      "start": 1767.0,
+      "end": 1796.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah awesome so let me give my feedback right now so I'll start from the beginning I think you did a fantastic job given your lack of knowledge of how the farmer value chain works I think you did fantastic in that regard I do want to give you feedback on various aspects of the case so first of all in the beginning when you summarized the prompt it was great you gave a good synthesis which I like to hear instead of just repeating back."
+    },
+    {
+      "start": 1796.0,
+      "end": 1814.0,
+      "speaker": "SPEAKER_02",
+      "text": "The prompt a lot of folks what I see through my coaching and what I've seen through my interviewing while I was at BCG is that people just repeat the prompt and instead I think a smart synthesis is what the interview is looking for."
+    },
+    {
+      "start": 1814.0,
+      "end": 1840.0,
+      "speaker": "SPEAKER_02",
+      "text": "Second is your clarifying questions I think they were great I always advise folks to ask two different types of questions one that is about the business objective and second is about what is the business model okay and I think you you asked questions in both of those regards you asked about the value chain you asked about the competitive landscape when it comes to the business model."
+    },
+    {
+      "start": 1840.0,
+      "end": 1869.0,
+      "speaker": "SPEAKER_02",
+      "text": "In terms of the objective you probably have seen that I pushed you a little bit into telling me what you're thinking about so I always like folks to be very hypothesis driven as in okay you're thinking of this objective are you thinking of a financial objective if that's the case what is the financial objective that you're thinking of and what this does for the interviewer is it gives me confidence that you're already starting to think about this problem in a very hypothesis driven manner."
+    },
+    {
+      "start": 1871.0,
+      "end": 1872.0,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1872.6,
+      "end": 1897.0,
+      "speaker": "SPEAKER_02",
+      "text": "As for your framework let's move on to that section now so you took about one minute and 45 seconds to do the framework it's it's a tad bit longer than what I would like typically we recommend folks to do a 90 second framework and this obviously comes with more practice as you do it more and more frameworks you get used to it."
+    },
+    {
+      "start": 1897.0,
+      "end": 1926.0,
+      "speaker": "SPEAKER_02",
+      "text": "In terms of your framework itself you have two buckets one that was around development and the other one was around diversification I think given your lack of knowledge of the farmer industry I think these suffice but however they were a bit generic and they didn't really take into account the nuances of the farmer industry so for example in farmer you can consider obviously things that are in development versus things that are already commercial."
+    },
+    {
+      "start": 1927.0,
+      "end": 1956.0,
+      "speaker": "SPEAKER_02",
+      "text": "In the market you can break them down in that format and then in terms of you have one item here on product customizations that's not really a thing in the farmer industry I would say another way of saying this would be you take the same product and try it out in different indications indication is the proper proper term for this so for example the product might have been approved for retinoblastoma but you could try this you could expand it to a lot of the market."
+    },
+    {
+      "start": 1957.0,
+      "end": 1973.0,
+      "speaker": "SPEAKER_02",
+      "text": "So that would be similar to what you think of a customization or product features in this case so trying it out in related diseases."
+    },
+    {
+      "start": 1973.0,
+      "end": 2001.0,
+      "speaker": "SPEAKER_02",
+      "text": "In terms of the market organic channels in organic channels I think you have some good ideas around partnerships with I clinics that's fantastic having good account management systems that's great as well this could be some of the nuance of the farmer industry could be brought in further here for example what is the patient base that I'm targeting are these adult patients are these pediatric patients."
+    },
+    {
+      "start": 2001.0,
+      "end": 2026.0,
+      "speaker": "SPEAKER_02",
+      "text": "Who is the main stakeholder here if it's pediatric patients it's mostly their parents and then what type of doctors are you targeting are you targeting rare disease doctors are you targeting ophthalmologist so understanding the customer base you would basically in engineering terms you'd call this customer segmentation so understanding the customer segments very well."
+    },
+    {
+      "start": 2026.0,
+      "end": 2054.0,
+      "speaker": "SPEAKER_02",
+      "text": "And then of course things like what is the what what is the growth trends right so growth trends it could be what is the incidents of retinoblastoma per year in Europe and how is this evolving what has this looked like in the past 10 years what is the forecast in the future so this would tell you more around the growth trends in terms of volume per se."
+    },
+    {
+      "start": 2054.0,
+      "end": 2081.0,
+      "speaker": "SPEAKER_02",
+      "text": "You had some good ideas around pricing although we did not focus the case on that some other things that you could focus on a bit more I would say is to dig deeper into the competitive landscape you could have looked more into what other companies are out there what is their approval timeline like what is."
+    },
+    {
+      "start": 2081.0,
+      "end": 2100.0,
+      "speaker": "SPEAKER_02",
+      "text": "Deprosing cons of their drug versus our drug so maybe no barters this drug is has higher efficacy better safety profile these are things that in the far my industry is considered as factors so you could certainly include those as well."
+    },
+    {
+      "start": 2101.0,
+      "end": 2128.0,
+      "speaker": "SPEAKER_02",
+      "text": "So that's kind of what I would say as like a example frameworks what I like to say is that there can be hundreds of different frameworks created for a single case there's no correct framework however some frameworks are better than others so that's the way I like to think about frameworks so folks who are listening in and tuning in this is just one example for framework they could certainly be better frameworks created."
+    },
+    {
+      "start": 2128.0,
+      "end": 2157.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay let's go into the following part I think it took you some time to navigate through that we're not focusing on the commercial aspect as in what is currently in market we're focusing more on what is in the pipeline but once you got there I think you did a solid job it date takes some time to go over the exhibit so let's walk through that a bit more in in detail."
+    },
+    {
+      "start": 2158.0,
+      "end": 2182.0,
+      "speaker": "SPEAKER_02",
+      "text": "So you know there's some audience questions over on this as well so first thing we need to keep in mind what is a client goal the client goal here is to 3x their revenue in the next four years so from just based on that research and phase one would be automatically excluded so then you can place your efforts into phase two and phase three."
+    },
+    {
+      "start": 2182.0,
+      "end": 2211.0,
+      "speaker": "SPEAKER_02",
+      "text": "So the first thing what I would do here is look at okay there's these number of drugs in the pipeline how many of these if the probability rates are correct what would be the potential number of drugs that would get approved so you would basically take 40% in multiplied by five in this case and then 60% multiplied by two that that's the first thing you would do and then you would take into account if they got approved what is the time to commercialization so this would the drugs that are in the market"
+    },
+    {
+      "start": 2212.0,
+      "end": 2241.96,
+      "speaker": "SPEAKER_02",
+      "text": "phase two would take two years to commercialize so they would only be in market for two more years to fall within that four year timeline right and and for phase three it would be one year to market so they would be in the market for three more years so that's kind of how I would think about it and then you can start taking into account these revenue scaling so what is the ramp up period so"
+    },
+    {
+      "start": 2241.96,
+      "end": 2269.6,
+      "speaker": "SPEAKER_02",
+      "text": "in year one it would be a 25% realization off that hundred million revenue year two would be 50% of that so that's how I would do the math you did it in reverse order but you did come to that eventually you understood it I think part of this could have been clarified with me the interviewer so anyone listening I would always clarify if you don't understand what is in the table"
+    },
+    {
+      "start": 2269.6,
+      "end": 2286.6,
+      "speaker": "SPEAKER_02",
+      "text": "interviewers are more than happy to clarify that for you just to give a preview of the math here so this is all putting it together so the things to focus on in particular are the revenue from phase two and the revenue from phase three"
+    },
+    {
+      "start": 2286.6,
+      "end": 2299.56,
+      "speaker": "SPEAKER_02",
+      "text": "and in total once you do all of the math it comes out to 300 million I'm not sure if your math came to 300 million or had a different estimate but that's what it would be once you"
+    },
+    {
+      "start": 2299.56,
+      "end": 2324.56,
+      "speaker": "SPEAKER_02",
+      "text": "did all the math together so collectively this would fall under the target the target is three X same 200 which is 600 so it would be a hundred million dollars below that target so that that's what I would say we always urge folks to give a quantitative response so a quantitative response is what would be appreciated in this case"
+    },
+    {
+      "start": 2325.56,
+      "end": 2353.56,
+      "speaker": "SPEAKER_02",
+      "text": "okay and then I think in terms of your in the case creative question around brainstorming I think you had very solid ideas in there I did like a number of those but a few more that just add here I think you mentioned this briefly but investigating this in other other cancers other type of rare diseases even that could be very positive"
+    },
+    {
+      "start": 2353.56,
+      "end": 2366.56,
+      "speaker": "SPEAKER_02",
+      "text": "the very possible international expansion beyond Europe so looking at the US market so your market is the most prolific for pharma so I would certainly look at that"
+    },
+    {
+      "start": 2366.56,
+      "end": 2382.56,
+      "speaker": "SPEAKER_02",
+      "text": "another way rare disease drugs again this comes from a knowledge of the industry so rare disease drugs cost very high and that's because it's targeting very few patients and so in order to recoup the research and development costs"
+    },
+    {
+      "start": 2382.56,
+      "end": 2407.56,
+      "speaker": "SPEAKER_02",
+      "text": "the price of rare disease drugs tend to be high and so in this case you can think of oftentimes depending on the country you're in or what kind of patient advocacy groups that there are for certain rare diseases there can be patient assistance programs and this can certainly help with higher penetration off the drug into the market"
+    },
+    {
+      "start": 2407.56,
+      "end": 2420.56,
+      "speaker": "SPEAKER_02",
+      "text": "okay and I think another one that you you you mentioned was some collaborations I think that was a fantastic idea as well partnership and off that nature I think is great as well"
+    },
+    {
+      "start": 2420.56,
+      "end": 2431.56,
+      "speaker": "SPEAKER_02",
+      "text": "okay so that's pretty much the feedback that I had and jiff is doing to take questions from the audience at this point"
+    },
+    {
+      "start": 2432.56,
+      "end": 2446.56,
+      "speaker": "SPEAKER_01",
+      "text": "yeah now's a good time first off thank you so much to both of you a cash I know it's probably about midnight by now for you so I really appreciate you staying staying up for this and then it's just well for your fantastic leadership and feedback"
+    },
+    {
+      "start": 2446.56,
+      "end": 2454.56,
+      "speaker": "SPEAKER_01",
+      "text": "here we've got 10 minutes left and so we're going to answer as many questions as possible and the best way to get your question answered is to type it in the chat"
+    },
+    {
+      "start": 2454.56,
+      "end": 2472.56,
+      "speaker": "SPEAKER_01",
+      "text": "and so I'll I'll just pull up a couple of ones that were coming in earlier number one ish is around industry focus in case interviews so is a health care case like this is that something that right somebody only"
+    },
+    {
+      "start": 2472.56,
+      "end": 2484.56,
+      "speaker": "SPEAKER_01",
+      "text": "interviewing for like a health care specialist role should expect or is this more something that like you know anybody you know an industry that everybody should kind of be aware of and be up to date on for case interviews"
+    },
+    {
+      "start": 2484.56,
+      "end": 2497.56,
+      "speaker": "SPEAKER_02",
+      "text": "I think the short answer to that is everyone should have a basic understanding of the most common industries once you interview for a general stroll at a company like BCG"
+    },
+    {
+      "start": 2497.56,
+      "end": 2507.56,
+      "speaker": "SPEAKER_02",
+      "text": "so that's kind of what I would say as the basic answer and for that there is as part of management consulted we have a number of industry primers"
+    },
+    {
+      "start": 2507.56,
+      "end": 2520.56,
+      "speaker": "SPEAKER_02",
+      "text": "but also our managing director Jenny Ray and Naman who's our CEO they do podcasts together on various company overviews as part of the strategy simplified podcast"
+    },
+    {
+      "start": 2520.56,
+      "end": 2533.56,
+      "speaker": "SPEAKER_02",
+      "text": "where they cover the basics of how and economics of various companies and from those two resources I think you can cover a lot of the industry primers and general industry knowledge"
+    },
+    {
+      "start": 2533.56,
+      "end": 2557.56,
+      "speaker": "SPEAKER_02",
+      "text": "so I've recommend anyone who's interviewing for a generalist firm to not only get an idea of the farmer industry but any industry any common industry whether it be defense or aircrafts or mining or oil and gas just do a basic industry primer"
+    },
+    {
+      "start": 2557.56,
+      "end": 2576.56,
+      "speaker": "SPEAKER_01",
+      "text": "it's really helpful in regards to that could you give a list of industries I don't know if that's necessarily the most the most helpful thing just just give a list like start with the business breakdowns on the podcast there's a link here in the chat"
+    },
+    {
+      "start": 2576.56,
+      "end": 2591.56,
+      "speaker": "SPEAKER_02",
+      "text": "yeah and just to chime into that if you go into any of the major companies website let's just take BCG if you just go to the BCU website and look at industries you will see a list of industries and that's a starting point for you"
+    },
+    {
+      "start": 2591.56,
+      "end": 2601.56,
+      "speaker": "SPEAKER_01",
+      "text": "super helpful Ray please to start all right how much does it affect your chances if you make a calculation mistake but realize it and correct it"
+    },
+    {
+      "start": 2602.56,
+      "end": 2624.56,
+      "speaker": "SPEAKER_02",
+      "text": "great question so during my time as an interviewer it is not detrimental if you have a correct framework so if you set up a your math equation up front you say that okay I'm going to multiply this by this by this by this to get to the target and then I'm going to add these across phase two and three"
+    },
+    {
+      "start": 2624.56,
+      "end": 2635.56,
+      "speaker": "SPEAKER_02",
+      "text": "and then I'm going to see how this relates to our target if you give that up front and then you make slight errors later on depending on the interviewer and again some"
+    },
+    {
+      "start": 2635.56,
+      "end": 2647.56,
+      "speaker": "SPEAKER_02",
+      "text": "errors are more generous than others but you're more likely to have a pass on that because you have recognized your mistake you gave a solid framework up front and then you have corrected it"
+    },
+    {
+      "start": 2647.56,
+      "end": 2660.56,
+      "speaker": "SPEAKER_01",
+      "text": "here's a question about networking so a little bit of a shift here Sarah is asking what questions to ask during networking calls how much should I talk about myself versus asking questions about the person I'm talking with"
+    },
+    {
+      "start": 2660.56,
+      "end": 2684.56,
+      "speaker": "SPEAKER_02",
+      "text": "yeah so great question always think about the person that you are talking to be in their shoes as to what they want to hear and what they would like to speak about so of course give an introduction to yourself inform them as to who you are but also be enthusiastic about what they're doing what their experience has been like in as a consultant in that office in that company"
+    },
+    {
+      "start": 2684.56,
+      "end": 2698.56,
+      "speaker": "SPEAKER_02",
+      "text": "what are some of the cases that they've worked on so be very enthusiastic about them people do like to talk about themselves so ask those genuine questions and that's a very good networking and a poor building approach"
+    },
+    {
+      "start": 2698.56,
+      "end": 2701.56,
+      "speaker": "SPEAKER_01",
+      "text": "I love it"
+    },
+    {
+      "start": 2701.56,
+      "end": 2714.56,
+      "speaker": "SPEAKER_01",
+      "text": "so I'm asking a question about the next case we do these once a month next one I believe is March 4th coming up in a couple of weeks yep that'll be a different case different industry so we look to have each"
+    },
+    {
+      "start": 2714.56,
+      "end": 2717.56,
+      "speaker": "SPEAKER_01",
+      "text": "a lot of awareness for that"
+    },
+    {
+      "start": 2717.56,
+      "end": 2740.56,
+      "speaker": "SPEAKER_01",
+      "text": "is any from James any like general trends in forma that that folks should kind of like pay attention to like you mentioned having a general awareness of what's going on in an industry I imagine this is kind of part of that like being aware of like general big picture trends in like the major industries"
+    },
+    {
+      "start": 2740.56,
+      "end": 2753.56,
+      "speaker": "SPEAKER_02",
+      "text": "yeah I think you can certainly look them up if you want to but beyond the basic mechanics of the industry I don't think you have to know or have deep knowledge about the industry it's not required at all"
+    },
+    {
+      "start": 2753.56,
+      "end": 2767.56,
+      "speaker": "SPEAKER_02",
+      "text": "and I would say if you just watch the news day to day about like basic business trends I think that should be sufficient to help you out and rest of the context is going to be given to you during the case"
+    },
+    {
+      "start": 2768.56,
+      "end": 2775.56,
+      "speaker": "SPEAKER_01",
+      "text": "absolutely the interviewers are on your side most of them at least issues"
+    },
+    {
+      "start": 2775.56,
+      "end": 2786.56,
+      "speaker": "SPEAKER_02",
+      "text": "yeah I think so just to give you guys an so interviews are never trying to say like gotcha like they're never trying to do that to interview ease"
+    },
+    {
+      "start": 2787.56,
+      "end": 2809.56,
+      "speaker": "SPEAKER_02",
+      "text": "we genuinely when I was part of the interview team we generally we we really rooted for candidates we want you to succeed and so if you can prove yourself then like that's going to mean you're out but the baseline every interview walks in with the with the desire to see you succeed"
+    },
+    {
+      "start": 2810.56,
+      "end": 2823.56,
+      "speaker": "SPEAKER_01",
+      "text": "absolutely and so that's great reason why candidates work with management it's all to work with coaches like ish so I'll just give a shameless plug to to get on issues calendar"
+    },
+    {
+      "start": 2823.56,
+      "end": 2835.56,
+      "speaker": "SPEAKER_01",
+      "text": "all right we got links in the chat where you can purchase one hour or eight hours or 20 hours all right and you can talk with Katie to figure out which is the right fit for you for that but"
+    },
+    {
+      "start": 2835.56,
+      "end": 2846.56,
+      "speaker": "SPEAKER_01",
+      "text": "it's just got I checked his calendar before we jumped on he's got a couple of sessions starting as soon as Thursday so two days from now but those are limited"
+    },
+    {
+      "start": 2846.56,
+      "end": 2854.56,
+      "speaker": "SPEAKER_01",
+      "text": "and of course if you got interviews coming up now it's time to do it all right we got a question from YouTube amazing thank you so much"
+    },
+    {
+      "start": 2854.56,
+      "end": 2873.56,
+      "speaker": "SPEAKER_02",
+      "text": "me sherry how much time is reasonable to spend building the framework yeah so what we recommend here at management consulted is 90 seconds I would say is the is the max of course no one is measuring time and it's not part of the scoring"
+    },
+    {
+      "start": 2873.56,
+      "end": 2902.56,
+      "speaker": "SPEAKER_02",
+      "text": "but the quicker you can do it the better and this is a practice you should not stress too much that oh my god I'm taking like 90 91 seconds instead of 90 is a general rule beyond that it starts feeling long so use that as a benchmark as you're practicing as you're doing drills we at management consultant have a set of structuring drills where you can do a set of frameworks repeatedly and that will help you build that"
+    },
+    {
+      "start": 2902.56,
+      "end": 2917.56,
+      "speaker": "SPEAKER_02",
+      "text": "kind of a muscle to do frameworks quickly and more efficiently and of course correctly in a short amount of time so once you do those you should be able to be within that 90 second time frame"
+    },
+    {
+      "start": 2918.56,
+      "end": 2942.56,
+      "speaker": "SPEAKER_01",
+      "text": "I love it all right switching gears a little bit to the fit interview so this question I'm just going to summarize it a little bit paraphrase it in the fit interview how much do you talk about your your PhD write PhD research PhD accomplishments in the introduction in a fit interview"
+    },
+    {
+      "start": 2942.56,
+      "end": 2963.56,
+      "speaker": "SPEAKER_01",
+      "text": "down to you might be helpful if you clarify right so we can give you a little bit of a more specific answer but issues just anything you want to add you know say about one yeah so if you are from a PhD background then and everyone gets this question which is like walk me through your resume tell me or yourself there's some form of that question that you get initially"
+    },
+    {
+      "start": 2963.56,
+      "end": 2985.56,
+      "speaker": "SPEAKER_02",
+      "text": "and regardless of your background you you should talk about what your accomplishments are what what you've succeeded in and if it comes from your PhD then yeah definitely you will need to talk about it but be very careful you are not supposed to talk in scientific jargon or in ways that people cannot understand because a lot of folks will not be PhDs on the other side who are"
+    },
+    {
+      "start": 2985.56,
+      "end": 2992.56,
+      "speaker": "SPEAKER_02",
+      "text": "interviewing you so be very careful of that speak in a way in which the other person can really understand your accomplishments"
+    },
+    {
+      "start": 2994.56,
+      "end": 3012.56,
+      "speaker": "SPEAKER_01",
+      "text": "that's so good ish that's what we help people do with with black belt and is particular with her resume edits as we help you right reframe your experience for a business context so that we're going to talk about your your PhD accomplishments your research putting away that right"
+    },
+    {
+      "start": 3012.56,
+      "end": 3024.56,
+      "speaker": "SPEAKER_01",
+      "text": "right an eighth creator can understand in a way that a recruiter or a consultant in any role can and any firm can like understand and figure out how you might be a fit for that firm."
+    },
+    {
+      "start": 3025.56,
+      "end": 3033.56,
+      "speaker": "SPEAKER_01",
+      "text": "All right we've got one to two questions left here Max is asking how reasonable is it to ask for extra time in a BCG interview."
+    },
+    {
+      "start": 3033.56,
+      "end": 3042.56,
+      "speaker": "SPEAKER_01",
+      "text": "Extra time for like in any particular for like brainstorming question or to digest and exhibit."
+    },
+    {
+      "start": 3043.56,
+      "end": 3061.56,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah I mean don't abuse it don't ask oh can I take 60 seconds or can I take a moment every single time you get a question but also if you need time use it that that's going to be my answer because there's no formula for this of course you're going to take time when you do your framework in the beginning but then every time you do your framework"
+    },
+    {
+      "start": 3061.56,
+      "end": 3071.56,
+      "speaker": "SPEAKER_02",
+      "text": "framework in the beginning but then every subsequent time if you see you are in a roadblock or you cannot think further take time but also don't abuse it every single time."
+    },
+    {
+      "start": 3072.56,
+      "end": 3075.56,
+      "speaker": "SPEAKER_01",
+      "text": "That wraps up another episode of strategy supply."
+    },
+    {
+      "start": 3075.56,
+      "end": 3084.56,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you for tuning in whether you're joining us from Apple or Spotify or Google or YouTube or somewhere else we appreciate you we'll catch you on another episode soon."
+    }
+  ],
+  "grading": {
+    "communication": 18,
+    "framework": 16,
+    "math": 10,
+    "case_difficulty": 11,
+    "final_summary": 14,
+    "overall_thoughts": "You provided clear and concise communication throughout the case, but struggled a bit with math concepts."
+  }
+}

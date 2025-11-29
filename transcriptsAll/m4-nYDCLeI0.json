@@ -1,0 +1,4232 @@
+[
+  {
+    "start": 0.0,
+    "end": 8.96,
+    "speaker": "SPEAKER_00",
+    "text": "We have another fresh business problem solved by Rocketblot's experts in today's mock interview."
+  },
+  {
+    "start": 8.96,
+    "end": 12.72,
+    "speaker": "SPEAKER_00",
+    "text": "This is a classic market entry case as you're being asked to help John Deer launch a new"
+  },
+  {
+    "start": 12.72,
+    "end": 15.16,
+    "speaker": "SPEAKER_00",
+    "text": "line of self-driving lawn mowers."
+  },
+  {
+    "start": 15.16,
+    "end": 20.240000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "This case features market sizing, some pricing question, as well as some competitive positioning."
+  },
+  {
+    "start": 20.240000000000002,
+    "end": 24.240000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "As a reminder, you won't get better at cooking by watching cooking shows on Netflix and if"
+  },
+  {
+    "start": 24.240000000000002,
+    "end": 27.8,
+    "speaker": "SPEAKER_00",
+    "text": "you want to improve your interview skills, you need to be practicing actively."
+  },
+  {
+    "start": 27.8,
+    "end": 31.52,
+    "speaker": "SPEAKER_00",
+    "text": "At the very least, pause this video after each question to attempt your own answers out"
+  },
+  {
+    "start": 31.52,
+    "end": 35.64,
+    "speaker": "SPEAKER_00",
+    "text": "loud and when you're ready to get serious about interview prep, come on over to Rocketblot's"
+  },
+  {
+    "start": 35.64,
+    "end": 38.36,
+    "speaker": "SPEAKER_00",
+    "text": "to build your foundational skills for real."
+  },
+  {
+    "start": 38.36,
+    "end": 41.32,
+    "speaker": "SPEAKER_00",
+    "text": "Good luck and have fun casing."
+  },
+  {
+    "start": 41.32,
+    "end": 43.88,
+    "speaker": "SPEAKER_02",
+    "text": "So your client today is John Deer."
+  },
+  {
+    "start": 43.88,
+    "end": 48.760000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "John Deer is a global leader in the agriculture and landscaping equipment industry, big green"
+  },
+  {
+    "start": 48.760000000000005,
+    "end": 49.760000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "combines."
+  },
+  {
+    "start": 49.760000000000005,
+    "end": 57.36,
+    "speaker": "SPEAKER_02",
+    "text": "They announced recently a new line of autonomous landscaping products at CES 2025."
+  },
+  {
+    "start": 57.36,
+    "end": 62.36,
+    "speaker": "SPEAKER_02",
+    "text": "The Zoom electronics show John Deer aims to capture a larger chunk of the landscaping"
+  },
+  {
+    "start": 62.36,
+    "end": 68.08,
+    "speaker": "SPEAKER_02",
+    "text": "market with a robot lawnmower that offers powerful autonomous features."
+  },
+  {
+    "start": 68.08,
+    "end": 72.92,
+    "speaker": "SPEAKER_02",
+    "text": "Your firm has been hired by John Deer to build their plans for market entry."
+  },
+  {
+    "start": 72.92,
+    "end": 77.76,
+    "speaker": "SPEAKER_02",
+    "text": "How should John Deer launch this new product?"
+  },
+  {
+    "start": 77.76,
+    "end": 78.76,
+    "speaker": "SPEAKER_01",
+    "text": "That's really interesting, Rob."
+  },
+  {
+    "start": 78.76,
+    "end": 81.84,
+    "speaker": "SPEAKER_01",
+    "text": "So I actually became an investor in the Mingrad School because I saw them getting it to"
+  },
+  {
+    "start": 81.84,
+    "end": 82.84,
+    "speaker": "SPEAKER_01",
+    "text": "more IoT."
+  },
+  {
+    "start": 82.84,
+    "end": 84.68,
+    "speaker": "SPEAKER_01",
+    "text": "So good to hear about this."
+  },
+  {
+    "start": 84.68,
+    "end": 85.96000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Certainly a big fan."
+  },
+  {
+    "start": 85.96,
+    "end": 91.19999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So just to confirm my understanding, John Deer needs help with their go-to-market launch"
+  },
+  {
+    "start": 91.19999999999999,
+    "end": 96.08,
+    "speaker": "SPEAKER_01",
+    "text": "for an autonomous landscaping machine, call it a mower."
+  },
+  {
+    "start": 96.08,
+    "end": 100.55999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "And want our help understanding perhaps the market and the strategy of that."
+  },
+  {
+    "start": 100.55999999999999,
+    "end": 102.03999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Do I have that feather right?"
+  },
+  {
+    "start": 102.03999999999999,
+    "end": 103.03999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "That's right."
+  },
+  {
+    "start": 103.03999999999999,
+    "end": 105.44,
+    "speaker": "SPEAKER_02",
+    "text": "And specifically go-to-market."
+  },
+  {
+    "start": 105.44,
+    "end": 106.44,
+    "speaker": "SPEAKER_02",
+    "text": "Right."
+  },
+  {
+    "start": 106.44,
+    "end": 107.44,
+    "speaker": "SPEAKER_02",
+    "text": "How do they launch?"
+  },
+  {
+    "start": 107.44,
+    "end": 108.44,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 108.44,
+    "end": 109.44,
+    "speaker": "SPEAKER_01",
+    "text": "Excellent."
+  },
+  {
+    "start": 109.44,
+    "end": 113.72,
+    "speaker": "SPEAKER_01",
+    "text": "Before jumping in, have a few questions I want to confirm with you yourself."
+  },
+  {
+    "start": 113.72,
+    "end": 116.84,
+    "speaker": "SPEAKER_01",
+    "text": "The first one, I anticipate they have a company goal."
+  },
+  {
+    "start": 116.84,
+    "end": 120.6,
+    "speaker": "SPEAKER_01",
+    "text": "Whether it's per cent of the market share that they want to grab."
+  },
+  {
+    "start": 120.6,
+    "end": 122.32,
+    "speaker": "SPEAKER_01",
+    "text": "Maybe it's a revenue metric."
+  },
+  {
+    "start": 122.32,
+    "end": 124.96,
+    "speaker": "SPEAKER_01",
+    "text": "How are they defining success if they've defined it yet?"
+  },
+  {
+    "start": 124.96,
+    "end": 125.96,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 125.96,
+    "end": 128.2,
+    "speaker": "SPEAKER_02",
+    "text": "Pretty straightforward."
+  },
+  {
+    "start": 128.2,
+    "end": 131.2,
+    "speaker": "SPEAKER_02",
+    "text": "Simple, simple farm folks here in Moline."
+  },
+  {
+    "start": 131.2,
+    "end": 136.44,
+    "speaker": "SPEAKER_02",
+    "text": "They just want to make a billion dollars in revenue in the first year."
+  },
+  {
+    "start": 136.44,
+    "end": 137.44,
+    "speaker": "SPEAKER_02",
+    "text": "Just a billion."
+  },
+  {
+    "start": 137.44,
+    "end": 138.44,
+    "speaker": "SPEAKER_02",
+    "text": "Got it."
+  },
+  {
+    "start": 138.44,
+    "end": 139.44,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 139.44,
+    "end": 141.44,
+    "speaker": "SPEAKER_01",
+    "text": "Good goal."
+  },
+  {
+    "start": 141.44,
+    "end": 146.96,
+    "speaker": "SPEAKER_01",
+    "text": "And when I think about John Deer, I imagine that they've historically targeted a lot of"
+  },
+  {
+    "start": 146.96,
+    "end": 148.35999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the larger farmers."
+  },
+  {
+    "start": 148.35999999999999,
+    "end": 151.76,
+    "speaker": "SPEAKER_01",
+    "text": "Do they have an idea of who the potential target customer is?"
+  },
+  {
+    "start": 151.76,
+    "end": 156.88,
+    "speaker": "SPEAKER_01",
+    "text": "Whether it's homeowners, big customers, whether it's maybe professional firms?"
+  },
+  {
+    "start": 156.88,
+    "end": 158.48,
+    "speaker": "SPEAKER_01",
+    "text": "Do they have an idea about that?"
+  },
+  {
+    "start": 158.48,
+    "end": 159.48,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 159.48,
+    "end": 165.52,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, primarily it is the homeowner with a sizable chunk of land."
+  },
+  {
+    "start": 165.52,
+    "end": 170.24,
+    "speaker": "SPEAKER_02",
+    "text": "However, the professional contractors, the professional landscapers, they'd like to"
+  },
+  {
+    "start": 170.24,
+    "end": 172.76000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "target them as well."
+  },
+  {
+    "start": 172.76000000000002,
+    "end": 179.48000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "They certainly are deeper in with the homeowners then with the professional landscaping class"
+  },
+  {
+    "start": 179.48000000000002,
+    "end": 180.48000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "today."
+  },
+  {
+    "start": 180.48000000000002,
+    "end": 183.88,
+    "speaker": "SPEAKER_02",
+    "text": "They tend to use slightly different products than kind of those small green tractors that"
+  },
+  {
+    "start": 183.88,
+    "end": 184.88,
+    "speaker": "SPEAKER_01",
+    "text": "you see."
+  },
+  {
+    "start": 184.88,
+    "end": 185.88,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 185.88,
+    "end": 186.88,
+    "speaker": "SPEAKER_01",
+    "text": "Understood."
+  },
+  {
+    "start": 186.88,
+    "end": 192.28,
+    "speaker": "SPEAKER_01",
+    "text": "You know, certainly two different consumers will be excited to get into that."
+  },
+  {
+    "start": 192.28,
+    "end": 198.20000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "You know, just if we can want to define perhaps the economies of the typical tractor or lawn"
+  },
+  {
+    "start": 198.20000000000002,
+    "end": 199.20000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "more."
+  },
+  {
+    "start": 199.2,
+    "end": 201.32,
+    "speaker": "SPEAKER_01",
+    "text": "And the most grass is on a golf course for a long time."
+  },
+  {
+    "start": 201.32,
+    "end": 206.0,
+    "speaker": "SPEAKER_01",
+    "text": "I know the range of those prices can be maybe a few hundred dollars or cheaper if you're"
+  },
+  {
+    "start": 206.0,
+    "end": 210.83999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "getting like one of those overseas brands, but it can really scale up to well over a thousand"
+  },
+  {
+    "start": 210.83999999999997,
+    "end": 211.83999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "dollars."
+  },
+  {
+    "start": 211.83999999999997,
+    "end": 214.92,
+    "speaker": "SPEAKER_01",
+    "text": "Do they have an idea or do you have an idea kind of where we range right now?"
+  },
+  {
+    "start": 214.92,
+    "end": 218.56,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, not in terms of pricing, I can tell you on the cost side."
+  },
+  {
+    "start": 218.56,
+    "end": 223.72,
+    "speaker": "SPEAKER_02",
+    "text": "So from a cost perspective, the tractors are going to cost about a grant to produce."
+  },
+  {
+    "start": 223.72,
+    "end": 230.52,
+    "speaker": "SPEAKER_02",
+    "text": "And the company has already spent about half a billion, 500 million to develop the autonomous"
+  },
+  {
+    "start": 230.52,
+    "end": 232.56,
+    "speaker": "SPEAKER_02",
+    "text": "capabilities of the tractor."
+  },
+  {
+    "start": 232.56,
+    "end": 233.56,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, wow."
+  },
+  {
+    "start": 233.56,
+    "end": 234.56,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 234.56,
+    "end": 236.56,
+    "speaker": "SPEAKER_01",
+    "text": "So quite a bit cat-backed so far."
+  },
+  {
+    "start": 236.56,
+    "end": 237.56,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 237.56,
+    "end": 242.64,
+    "speaker": "SPEAKER_01",
+    "text": "So in terms of goal customer, kind of the economics of it, you know, Rob, I think I have"
+  },
+  {
+    "start": 242.64,
+    "end": 244.16,
+    "speaker": "SPEAKER_01",
+    "text": "a good place to start."
+  },
+  {
+    "start": 244.16,
+    "end": 247.56,
+    "speaker": "SPEAKER_01",
+    "text": "Can I take maybe a moment, gather my thoughts and figure out my approach and I'll come"
+  },
+  {
+    "start": 247.56,
+    "end": 249.8,
+    "speaker": "SPEAKER_01",
+    "text": "back to you and how I'm thinking about attacking this?"
+  },
+  {
+    "start": 249.8,
+    "end": 250.8,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 250.8,
+    "end": 251.8,
+    "speaker": "SPEAKER_02",
+    "text": "Go for it."
+  },
+  {
+    "start": 251.8,
+    "end": 252.8,
+    "speaker": "UNKNOWN",
+    "text": "Excellent."
+  },
+  {
+    "start": 253.8,
+    "end": 259.88,
+    "speaker": "SPEAKER_01",
+    "text": "Rob, so I think I have an idea and I want to look at this and, you know, three primary"
+  },
+  {
+    "start": 259.88,
+    "end": 260.88,
+    "speaker": "SPEAKER_01",
+    "text": "categories."
+  },
+  {
+    "start": 260.88,
+    "end": 264.6,
+    "speaker": "SPEAKER_01",
+    "text": "I want to look at the consumer versus landscaping markets that kind of target market"
+  },
+  {
+    "start": 264.6,
+    "end": 265.6,
+    "speaker": "SPEAKER_01",
+    "text": "involved."
+  },
+  {
+    "start": 265.6,
+    "end": 270.32,
+    "speaker": "SPEAKER_01",
+    "text": "I want to look at the autonomous more offering that we're bringing, you know, financials"
+  },
+  {
+    "start": 270.32,
+    "end": 272.32,
+    "speaker": "SPEAKER_01",
+    "text": "and props non-financials of it."
+  },
+  {
+    "start": 272.32,
+    "end": 275.84000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "And then what's our actual approach going to market with this?"
+  },
+  {
+    "start": 275.84000000000003,
+    "end": 279.64,
+    "speaker": "SPEAKER_01",
+    "text": "So let me start the first one about this kind of consumer versus landscaping market."
+  },
+  {
+    "start": 279.64,
+    "end": 281.56,
+    "speaker": "SPEAKER_01",
+    "text": "Initially, I want to take a look at the market size."
+  },
+  {
+    "start": 281.56,
+    "end": 286.28000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "So what's the existing size of both that consumer versus landscaping markets?"
+  },
+  {
+    "start": 286.28000000000003,
+    "end": 290.04,
+    "speaker": "SPEAKER_01",
+    "text": "So the professionals versus non-professionals and not just what it is right now, but also"
+  },
+  {
+    "start": 290.04,
+    "end": 292.84,
+    "speaker": "SPEAKER_01",
+    "text": "the growth and the profitability of it into the future."
+  },
+  {
+    "start": 292.84,
+    "end": 294.4,
+    "speaker": "SPEAKER_01",
+    "text": "So where is growing?"
+  },
+  {
+    "start": 294.4,
+    "end": 296.24,
+    "speaker": "SPEAKER_01",
+    "text": "What is or is not perhaps growing?"
+  },
+  {
+    "start": 296.24,
+    "end": 300.24,
+    "speaker": "SPEAKER_01",
+    "text": "And then also the reason of this of this goal, this $1 billion goal in year one, can we"
+  },
+  {
+    "start": 300.24,
+    "end": 303.96,
+    "speaker": "SPEAKER_01",
+    "text": "hit that given the market size now and the potential growth in, you know, the short and"
+  },
+  {
+    "start": 303.96,
+    "end": 304.96,
+    "speaker": "SPEAKER_01",
+    "text": "long term?"
+  },
+  {
+    "start": 304.96,
+    "end": 309.68,
+    "speaker": "SPEAKER_01",
+    "text": "I then also want to look at the customer, you know, as I referenced, two fairly different"
+  },
+  {
+    "start": 309.68,
+    "end": 311.04,
+    "speaker": "SPEAKER_01",
+    "text": "customer bases."
+  },
+  {
+    "start": 311.04,
+    "end": 312.04,
+    "speaker": "SPEAKER_01",
+    "text": "What are their preferences?"
+  },
+  {
+    "start": 312.04,
+    "end": 315.88,
+    "speaker": "SPEAKER_01",
+    "text": "When I was mowing grass on the golf course, I was thinking for something that just like,"
+  },
+  {
+    "start": 315.88,
+    "end": 319.72,
+    "speaker": "SPEAKER_01",
+    "text": "get me through the day very quick, but I imagine if you're professional, or maybe you're"
+  },
+  {
+    "start": 319.72,
+    "end": 323.56,
+    "speaker": "SPEAKER_01",
+    "text": "looking for something more robust that can really like, you know, last a longer period"
+  },
+  {
+    "start": 323.56,
+    "end": 324.56,
+    "speaker": "SPEAKER_01",
+    "text": "of time."
+  },
+  {
+    "start": 324.56,
+    "end": 326.96000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "I also want to think about the brand loyalty."
+  },
+  {
+    "start": 326.96000000000004,
+    "end": 327.96000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "I'm in the Midwest."
+  },
+  {
+    "start": 327.96000000000004,
+    "end": 329.16,
+    "speaker": "SPEAKER_01",
+    "text": "John Deere's a big name."
+  },
+  {
+    "start": 329.16,
+    "end": 332.52000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "I imagine if I have a John Deere, maybe I want to stick to that, but is there a level"
+  },
+  {
+    "start": 332.52000000000004,
+    "end": 335.96000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "brand loyalty perhaps outside of my little bubble?"
+  },
+  {
+    "start": 335.96000000000004,
+    "end": 339.64000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "And then also, you know, finally, I want to look at the competition."
+  },
+  {
+    "start": 339.64000000000004,
+    "end": 340.96000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "How many competitors are out there?"
+  },
+  {
+    "start": 340.96,
+    "end": 344.84,
+    "speaker": "SPEAKER_01",
+    "text": "I imagine there's a high level of substitutes that people don't want to pay for the autonomous"
+  },
+  {
+    "start": 344.84,
+    "end": 345.84,
+    "speaker": "SPEAKER_01",
+    "text": "mower."
+  },
+  {
+    "start": 345.84,
+    "end": 348.52,
+    "speaker": "SPEAKER_01",
+    "text": "So where do their price points at to compare to ours?"
+  },
+  {
+    "start": 348.52,
+    "end": 349.52,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 349.52,
+    "end": 353.0,
+    "speaker": "SPEAKER_01",
+    "text": "Now, I want to take a look at this autonomous mower offering."
+  },
+  {
+    "start": 353.0,
+    "end": 355.24,
+    "speaker": "SPEAKER_01",
+    "text": "And I want to look at the financials versus the non-financials."
+  },
+  {
+    "start": 355.24,
+    "end": 356.84,
+    "speaker": "SPEAKER_01",
+    "text": "So let's break down the financials first."
+  },
+  {
+    "start": 356.84,
+    "end": 360.76,
+    "speaker": "SPEAKER_01",
+    "text": "You know, first revenue, what are we going to price this mower at and how many reaction"
+  },
+  {
+    "start": 360.76,
+    "end": 364.79999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "expected to sell and how many do we need to sell to hit that $1 billion goal?"
+  },
+  {
+    "start": 364.79999999999995,
+    "end": 366.76,
+    "speaker": "SPEAKER_01",
+    "text": "Also, you know, what's the mix of this?"
+  },
+  {
+    "start": 366.76,
+    "end": 369.56,
+    "speaker": "SPEAKER_01",
+    "text": "Are we kind of doing this good, better best approach?"
+  },
+  {
+    "start": 369.56,
+    "end": 372.76,
+    "speaker": "SPEAKER_01",
+    "text": "Or there's just one autonomous mower we're going to market with."
+  },
+  {
+    "start": 372.76,
+    "end": 375.68,
+    "speaker": "SPEAKER_01",
+    "text": "And then finally on that, I want to think about cannibalization."
+  },
+  {
+    "start": 375.68,
+    "end": 379.28000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "A grant, you know, granted, it's not part of the one billion in sales, but are we cannibalizing"
+  },
+  {
+    "start": 379.28000000000003,
+    "end": 381.0,
+    "speaker": "SPEAKER_01",
+    "text": "other sales by doing this?"
+  },
+  {
+    "start": 381.0,
+    "end": 382.0,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 382.0,
+    "end": 383.0,
+    "speaker": "SPEAKER_01",
+    "text": "The cost side pretty straightforward."
+  },
+  {
+    "start": 383.0,
+    "end": 386.2,
+    "speaker": "SPEAKER_01",
+    "text": "We know it's 500 million so far in catbacks."
+  },
+  {
+    "start": 386.2,
+    "end": 388.52,
+    "speaker": "SPEAKER_01",
+    "text": "And then probably about $1,000."
+  },
+  {
+    "start": 388.52,
+    "end": 390.08,
+    "speaker": "SPEAKER_01",
+    "text": "It sounds like to produce each one."
+  },
+  {
+    "start": 390.08,
+    "end": 393.44,
+    "speaker": "SPEAKER_01",
+    "text": "There's probably going to be ongoing marketing costs or other costs attached to this as"
+  },
+  {
+    "start": 393.44,
+    "end": 395.04,
+    "speaker": "SPEAKER_01",
+    "text": "well."
+  },
+  {
+    "start": 395.04,
+    "end": 397.88,
+    "speaker": "SPEAKER_01",
+    "text": "And so, you know, the big ideas, you know, what is the breakeven point?"
+  },
+  {
+    "start": 398.4,
+    "end": 403.48,
+    "speaker": "SPEAKER_01",
+    "text": "I also want to think about kind of this non financial piece about differentiation, like"
+  },
+  {
+    "start": 403.48,
+    "end": 405.64,
+    "speaker": "SPEAKER_01",
+    "text": "what's our value proposition outside of that?"
+  },
+  {
+    "start": 405.64,
+    "end": 408.32,
+    "speaker": "SPEAKER_01",
+    "text": "It can just like mower your grass when you're not there, right?"
+  },
+  {
+    "start": 408.32,
+    "end": 409.32,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 409.32,
+    "end": 411.68,
+    "speaker": "SPEAKER_01",
+    "text": "And then finally, kind of the cap it off."
+  },
+  {
+    "start": 411.68,
+    "end": 412.68,
+    "speaker": "SPEAKER_01",
+    "text": "What's our go-to-market approach?"
+  },
+  {
+    "start": 412.68,
+    "end": 413.68,
+    "speaker": "SPEAKER_01",
+    "text": "How are we doing this?"
+  },
+  {
+    "start": 413.68,
+    "end": 414.68,
+    "speaker": "SPEAKER_01",
+    "text": "What's our channel mix?"
+  },
+  {
+    "start": 414.68,
+    "end": 415.68,
+    "speaker": "SPEAKER_01",
+    "text": "How are we selling through?"
+  },
+  {
+    "start": 415.68,
+    "end": 416.68,
+    "speaker": "SPEAKER_01",
+    "text": "Are we selling through stores?"
+  },
+  {
+    "start": 416.68,
+    "end": 417.68,
+    "speaker": "SPEAKER_01",
+    "text": "Is it direct to consumers?"
+  },
+  {
+    "start": 417.68,
+    "end": 418.68,
+    "speaker": "SPEAKER_01",
+    "text": "Is it online?"
+  },
+  {
+    "start": 418.68,
+    "end": 420.68,
+    "speaker": "SPEAKER_01",
+    "text": "How are we thinking about this?"
+  },
+  {
+    "start": 420.68,
+    "end": 423.68,
+    "speaker": "SPEAKER_01",
+    "text": "And then perhaps some risks also going to do this."
+  },
+  {
+    "start": 423.68,
+    "end": 424.68,
+    "speaker": "SPEAKER_01",
+    "text": "You know, I had to talk about cannibalization."
+  },
+  {
+    "start": 424.68,
+    "end": 426.6,
+    "speaker": "SPEAKER_01",
+    "text": "I'm not going to hit on that again."
+  },
+  {
+    "start": 426.6,
+    "end": 428.32000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "But what if customers don't adopt?"
+  },
+  {
+    "start": 428.32000000000005,
+    "end": 432.04,
+    "speaker": "SPEAKER_01",
+    "text": "What if there's a lag time in the professionals because they already have their own mowers?"
+  },
+  {
+    "start": 432.04,
+    "end": 434.84000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "They might not necessarily just replace them straight out."
+  },
+  {
+    "start": 434.84000000000003,
+    "end": 438.40000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "And then what about cheaper products just flooding the market that also could be autonomous?"
+  },
+  {
+    "start": 438.40000000000003,
+    "end": 440.8,
+    "speaker": "SPEAKER_01",
+    "text": "Products coming from overseas perhaps."
+  },
+  {
+    "start": 440.8,
+    "end": 443.68,
+    "speaker": "SPEAKER_01",
+    "text": "So that's, you know, initially how I'm thinking about this where I would love to start, you"
+  },
+  {
+    "start": 443.68,
+    "end": 447.32000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "know, my hypothesis is I'm a low biased, you know, John Deere investor and I'm coming"
+  },
+  {
+    "start": 447.32000000000005,
+    "end": 448.32000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "from the Midwest."
+  },
+  {
+    "start": 448.32000000000005,
+    "end": 449.32000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "So I think it's going to be great."
+  },
+  {
+    "start": 449.32000000000005,
+    "end": 450.76000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "I'm a big IoT guy myself too."
+  },
+  {
+    "start": 450.76000000000005,
+    "end": 452.84000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "So I've seen the adoption."
+  },
+  {
+    "start": 452.96,
+    "end": 457.2,
+    "speaker": "SPEAKER_01",
+    "text": "I want to check out the market size first to make sure that we can hit that goal and"
+  },
+  {
+    "start": 457.2,
+    "end": 458.2,
+    "speaker": "SPEAKER_01",
+    "text": "there's a big enough market."
+  },
+  {
+    "start": 458.2,
+    "end": 464.64,
+    "speaker": "SPEAKER_01",
+    "text": "So do we have any data on perhaps the existing size of like the market as a whole for mowers?"
+  },
+  {
+    "start": 465.15999999999997,
+    "end": 465.64,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 465.64,
+    "end": 467.23999999999995,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, we'll definitely get there."
+  },
+  {
+    "start": 467.23999999999995,
+    "end": 473.12,
+    "speaker": "SPEAKER_02",
+    "text": "I think one question before we proceed, there's one like big risk in my mind that you"
+  },
+  {
+    "start": 473.12,
+    "end": 474.28,
+    "speaker": "SPEAKER_02",
+    "text": "didn't touch on."
+  },
+  {
+    "start": 475.4,
+    "end": 478.28,
+    "speaker": "SPEAKER_02",
+    "text": "And it's kind of like more of a liability risk."
+  },
+  {
+    "start": 478.28,
+    "end": 481.44,
+    "speaker": "SPEAKER_02",
+    "text": "Is there anything that like you could think of in that universe?"
+  },
+  {
+    "start": 482.28,
+    "end": 483.04,
+    "speaker": "SPEAKER_01",
+    "text": "Absolutely."
+  },
+  {
+    "start": 483.04,
+    "end": 484.08,
+    "speaker": "SPEAKER_01",
+    "text": "And that's a great point."
+  },
+  {
+    "start": 484.08,
+    "end": 488.64,
+    "speaker": "SPEAKER_01",
+    "text": "So what if this mower just kind of goes rogue and, you know, hits a dog, hits a person,"
+  },
+  {
+    "start": 488.64,
+    "end": 492.04,
+    "speaker": "SPEAKER_01",
+    "text": "hits a car, you know, who has been paying for that?"
+  },
+  {
+    "start": 492.04,
+    "end": 497.12,
+    "speaker": "SPEAKER_01",
+    "text": "Are we liable for that as the consumer or is John Deere perhaps liable for that?"
+  },
+  {
+    "start": 497.12,
+    "end": 498.52,
+    "speaker": "SPEAKER_01",
+    "text": "I think that's a great point."
+  },
+  {
+    "start": 498.52,
+    "end": 502.2,
+    "speaker": "SPEAKER_01",
+    "text": "You've certainly seen this with autonomous vehicles hitting an individual and there's been"
+  },
+  {
+    "start": 502.2,
+    "end": 506.44,
+    "speaker": "SPEAKER_01",
+    "text": "so much back and forth about the liability of that and like the cost of it too."
+  },
+  {
+    "start": 506.44,
+    "end": 508.12,
+    "speaker": "SPEAKER_01",
+    "text": "So I think it's a great point."
+  },
+  {
+    "start": 508.28000000000003,
+    "end": 512.08,
+    "speaker": "SPEAKER_01",
+    "text": "Truth by I don't know how the law has decided that, but it's something to certainly be thinking"
+  },
+  {
+    "start": 512.08,
+    "end": 513.08,
+    "speaker": "SPEAKER_01",
+    "text": "about."
+  },
+  {
+    "start": 513.08,
+    "end": 514.08,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "start": 514.08,
+    "end": 520.76,
+    "speaker": "SPEAKER_02",
+    "text": "There's something I think naturally dangerous about a robot with a spinning metallic blade"
+  },
+  {
+    "start": 520.76,
+    "end": 525.92,
+    "speaker": "SPEAKER_02",
+    "text": "driving around on its own feels, you know, a little bit like the stuff of nightmares."
+  },
+  {
+    "start": 525.92,
+    "end": 528.0,
+    "speaker": "SPEAKER_02",
+    "text": "I don't know if you saw a lot more man when you were a kid."
+  },
+  {
+    "start": 528.0,
+    "end": 531.52,
+    "speaker": "SPEAKER_02",
+    "text": "I don't know if it's about lawnmowers, but I think it was very scary."
+  },
+  {
+    "start": 531.52,
+    "end": 533.52,
+    "speaker": "SPEAKER_00",
+    "text": "Here's some feedback from Rob."
+  },
+  {
+    "start": 533.52,
+    "end": 536.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Ben didn't just ask a general, what's the overall goal question?"
+  },
+  {
+    "start": 536.56,
+    "end": 540.88,
+    "speaker": "SPEAKER_00",
+    "text": "He asked a super nuanced question and then had specific follow ups that helped drive"
+  },
+  {
+    "start": 540.88,
+    "end": 542.28,
+    "speaker": "SPEAKER_00",
+    "text": "the case forward."
+  },
+  {
+    "start": 542.28,
+    "end": 546.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "His structure overall was very clean, included clear exposition and some nice examples"
+  },
+  {
+    "start": 546.4799999999999,
+    "end": 548.16,
+    "speaker": "SPEAKER_00",
+    "text": "in each category."
+  },
+  {
+    "start": 548.16,
+    "end": 552.56,
+    "speaker": "SPEAKER_00",
+    "text": "He included price in two different categories of the structure that he used and this is"
+  },
+  {
+    "start": 552.56,
+    "end": 556.3599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "not a huge issue, but if you're going to talk about the same thing twice, you need to"
+  },
+  {
+    "start": 556.3599999999999,
+    "end": 560.8399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "call out and identify how it's related or different from one category to the next."
+  },
+  {
+    "start": 560.8399999999999,
+    "end": 566.3599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "And then lastly, once Rob pushed back with some questions on additional risk, Ben was flexible"
+  },
+  {
+    "start": 566.36,
+    "end": 568.36,
+    "speaker": "SPEAKER_00",
+    "text": "in his framework and thinking."
+  },
+  {
+    "start": 568.36,
+    "end": 572.4,
+    "speaker": "SPEAKER_02",
+    "text": "All right, so let's move on to market sizing."
+  },
+  {
+    "start": 572.4,
+    "end": 576.6800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "You mentioned that you'd like to know some idea of like the market size."
+  },
+  {
+    "start": 576.6800000000001,
+    "end": 578.4,
+    "speaker": "SPEAKER_02",
+    "text": "I'd like to know that too."
+  },
+  {
+    "start": 578.4,
+    "end": 583.04,
+    "speaker": "SPEAKER_02",
+    "text": "And so I'd like you to size the market for lawnmowers for me in the US."
+  },
+  {
+    "start": 583.04,
+    "end": 584.04,
+    "speaker": "SPEAKER_01",
+    "text": "Interesting."
+  },
+  {
+    "start": 584.04,
+    "end": 585.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 585.04,
+    "end": 590.04,
+    "speaker": "SPEAKER_01",
+    "text": "So initially, because they're looking at this from two different groups, I would want"
+  },
+  {
+    "start": 590.04,
+    "end": 594.12,
+    "speaker": "SPEAKER_01",
+    "text": "to subdivide for a consumer market versus professional landscape."
+  },
+  {
+    "start": 594.12,
+    "end": 597.2,
+    "speaker": "SPEAKER_01",
+    "text": "If you can give me a moment, I'm just going to kind of map out how I'm thinking about"
+  },
+  {
+    "start": 597.2,
+    "end": 598.2,
+    "speaker": "SPEAKER_01",
+    "text": "this equation."
+  },
+  {
+    "start": 598.2,
+    "end": 601.12,
+    "speaker": "SPEAKER_01",
+    "text": "Then I'll come back to you and we can walk that through."
+  },
+  {
+    "start": 601.12,
+    "end": 602.12,
+    "speaker": "UNKNOWN",
+    "text": "Great."
+  },
+  {
+    "start": 602.12,
+    "end": 606.92,
+    "speaker": "SPEAKER_01",
+    "text": "So let me walk you through kind of how I'm thinking about the equation."
+  },
+  {
+    "start": 606.92,
+    "end": 610.36,
+    "speaker": "SPEAKER_01",
+    "text": "We can assign some numbers, then I'll just rip through the math and real time."
+  },
+  {
+    "start": 610.36,
+    "end": 615.2,
+    "speaker": "SPEAKER_01",
+    "text": "So consumer market versus professional landscape market, I think I can use most of the same"
+  },
+  {
+    "start": 615.2,
+    "end": 616.2,
+    "speaker": "SPEAKER_01",
+    "text": "equation."
+  },
+  {
+    "start": 616.2,
+    "end": 620.24,
+    "speaker": "SPEAKER_01",
+    "text": "So the way I'm going to think about this is I want to start with US population because"
+  },
+  {
+    "start": 620.24,
+    "end": 625.08,
+    "speaker": "SPEAKER_01",
+    "text": "we're interested in households, though, I want to divide that by the average number"
+  },
+  {
+    "start": 625.08,
+    "end": 626.16,
+    "speaker": "SPEAKER_01",
+    "text": "of people per household."
+  },
+  {
+    "start": 626.16,
+    "end": 630.32,
+    "speaker": "SPEAKER_01",
+    "text": "Again, all aside numbers after the final equation."
+  },
+  {
+    "start": 630.32,
+    "end": 633.84,
+    "speaker": "SPEAKER_01",
+    "text": "I'm also then interested in how segmentation."
+  },
+  {
+    "start": 633.84,
+    "end": 639.64,
+    "speaker": "SPEAKER_01",
+    "text": "So probably those who do motor lawns like myself as a child, who have children to do it"
+  },
+  {
+    "start": 639.64,
+    "end": 646.84,
+    "speaker": "SPEAKER_01",
+    "text": "versus perhaps the people who are able to hire a company to do that."
+  },
+  {
+    "start": 646.84,
+    "end": 651.64,
+    "speaker": "SPEAKER_01",
+    "text": "And also want to think about you made a really good point upfront about also segmentation"
+  },
+  {
+    "start": 651.64,
+    "end": 655.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "of you are in a single family home."
+  },
+  {
+    "start": 655.0400000000001,
+    "end": 659.36,
+    "speaker": "SPEAKER_01",
+    "text": "So the home is the size where it actually has a lawn perhaps you're not in an apartment"
+  },
+  {
+    "start": 659.36,
+    "end": 661.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "or a smaller lot."
+  },
+  {
+    "start": 661.1600000000001,
+    "end": 662.84,
+    "speaker": "SPEAKER_01",
+    "text": "So I want to think about those two pieces."
+  },
+  {
+    "start": 662.84,
+    "end": 665.0,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to divide my equation at this point."
+  },
+  {
+    "start": 665.0,
+    "end": 667.72,
+    "speaker": "SPEAKER_01",
+    "text": "I think this is where it diverges for consumer market."
+  },
+  {
+    "start": 667.72,
+    "end": 671.6,
+    "speaker": "SPEAKER_01",
+    "text": "I also want to think about the time between motor replacements is probably going to be"
+  },
+  {
+    "start": 671.6,
+    "end": 672.6,
+    "speaker": "SPEAKER_01",
+    "text": "a while."
+  },
+  {
+    "start": 672.6,
+    "end": 675.72,
+    "speaker": "SPEAKER_01",
+    "text": "I remember we only got a motor maybe every decade or so."
+  },
+  {
+    "start": 675.72,
+    "end": 680.4,
+    "speaker": "SPEAKER_01",
+    "text": "And then the typical cost for professional landscapers at that dividing point."
+  },
+  {
+    "start": 680.4,
+    "end": 682.64,
+    "speaker": "SPEAKER_01",
+    "text": "I want to think about probably a number of homes served."
+  },
+  {
+    "start": 682.64,
+    "end": 689.6,
+    "speaker": "SPEAKER_01",
+    "text": "So how many how many kind of companies per home and then number of mowers that they typically"
+  },
+  {
+    "start": 689.6,
+    "end": 692.88,
+    "speaker": "SPEAKER_01",
+    "text": "purchase per year is probably going to be a little more common and then the cost as"
+  },
+  {
+    "start": 692.88,
+    "end": 693.88,
+    "speaker": "SPEAKER_01",
+    "text": "well."
+  },
+  {
+    "start": 693.88,
+    "end": 696.2,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, let's do consumer market first."
+  },
+  {
+    "start": 696.2,
+    "end": 701.2,
+    "speaker": "SPEAKER_01",
+    "text": "I know there's about 330 million people in the US population."
+  },
+  {
+    "start": 701.2,
+    "end": 704.08,
+    "speaker": "SPEAKER_01",
+    "text": "Typical average household size about 2.5."
+  },
+  {
+    "start": 704.08,
+    "end": 710.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And so if I'm doing 330 divided by 2.5, I know 330 divided by 2 is 165 and 330 divided"
+  },
+  {
+    "start": 710.5600000000001,
+    "end": 711.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "by 3."
+  },
+  {
+    "start": 711.5600000000001,
+    "end": 712.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And actually there's 110."
+  },
+  {
+    "start": 712.5600000000001,
+    "end": 714.36,
+    "speaker": "SPEAKER_01",
+    "text": "I'm taking that kind of middle point."
+  },
+  {
+    "start": 714.36,
+    "end": 715.36,
+    "speaker": "SPEAKER_01",
+    "text": "It's about 132."
+  },
+  {
+    "start": 715.36,
+    "end": 722.32,
+    "speaker": "SPEAKER_01",
+    "text": "Let's call it 130, 130 million families for simplicity."
+  },
+  {
+    "start": 722.32,
+    "end": 727.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "If I'm thinking then segmentation in terms of let's start with the single family homes"
+  },
+  {
+    "start": 727.1600000000001,
+    "end": 729.12,
+    "speaker": "SPEAKER_01",
+    "text": "homes that are big enough to mo."
+  },
+  {
+    "start": 729.12,
+    "end": 734.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "I'm doing the 130 million families."
+  },
+  {
+    "start": 734.04,
+    "end": 736.56,
+    "speaker": "SPEAKER_01",
+    "text": "Let's call it about 60% live in single family homes."
+  },
+  {
+    "start": 736.56,
+    "end": 740.8,
+    "speaker": "SPEAKER_01",
+    "text": "I'm thinking both, you know, like outside of those urban areas, how many have like a lot"
+  },
+  {
+    "start": 740.8,
+    "end": 743.68,
+    "speaker": "SPEAKER_01",
+    "text": "that's big enough to mo about 60%."
+  },
+  {
+    "start": 743.68,
+    "end": 748.28,
+    "speaker": "SPEAKER_01",
+    "text": "So if I'm doing 130 times 10%, I know that's 13 million and I'm just going to multiply"
+  },
+  {
+    "start": 748.28,
+    "end": 749.28,
+    "speaker": "SPEAKER_01",
+    "text": "that by 6."
+  },
+  {
+    "start": 749.28,
+    "end": 754.16,
+    "speaker": "SPEAKER_01",
+    "text": "That is going to get me to 80 million homes that are, you know, have mobile grass."
+  },
+  {
+    "start": 754.16,
+    "end": 755.56,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 755.56,
+    "end": 759.28,
+    "speaker": "SPEAKER_01",
+    "text": "Let's jump to those who own versus higher professionals."
+  },
+  {
+    "start": 759.28,
+    "end": 762.04,
+    "speaker": "SPEAKER_01",
+    "text": "So it's kind of like the splitting point."
+  },
+  {
+    "start": 762.04,
+    "end": 763.04,
+    "speaker": "SPEAKER_01",
+    "text": "Let's call it 50 50."
+  },
+  {
+    "start": 763.04,
+    "end": 766.68,
+    "speaker": "SPEAKER_01",
+    "text": "I think there was about 50 50 in the neighborhood I lived in when I kind of like looked around"
+  },
+  {
+    "start": 766.68,
+    "end": 767.68,
+    "speaker": "SPEAKER_01",
+    "text": "as well."
+  },
+  {
+    "start": 767.68,
+    "end": 771.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So if I'm thinking 80 million times 50%."
+  },
+  {
+    "start": 771.4399999999999,
+    "end": 772.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "That's 40 million."
+  },
+  {
+    "start": 772.4399999999999,
+    "end": 775.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So there's going to be 40 million homes that I'm going to look at for professional versus"
+  },
+  {
+    "start": 775.9599999999999,
+    "end": 776.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "consumer."
+  },
+  {
+    "start": 776.9599999999999,
+    "end": 777.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 777.9599999999999,
+    "end": 780.4,
+    "speaker": "SPEAKER_01",
+    "text": "So let's keep running with consumer here."
+  },
+  {
+    "start": 780.4,
+    "end": 783.4,
+    "speaker": "SPEAKER_01",
+    "text": "Annual mo more replacement per year."
+  },
+  {
+    "start": 783.4,
+    "end": 786.12,
+    "speaker": "SPEAKER_01",
+    "text": "You know, I said it was about every decade for my household."
+  },
+  {
+    "start": 786.12,
+    "end": 790.16,
+    "speaker": "SPEAKER_01",
+    "text": "I imagine, you know, we were probably, it's because we always fix the damn thing up."
+  },
+  {
+    "start": 790.16,
+    "end": 791.76,
+    "speaker": "SPEAKER_01",
+    "text": "So let's just talk about a little last."
+  },
+  {
+    "start": 791.76,
+    "end": 793.7199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Let's go eight years."
+  },
+  {
+    "start": 793.7199999999999,
+    "end": 796.0,
+    "speaker": "SPEAKER_01",
+    "text": "So 40 million divided by eight."
+  },
+  {
+    "start": 796.0,
+    "end": 801.8,
+    "speaker": "SPEAKER_01",
+    "text": "So, you know, 40 divided by eight is 5 million more sales annually for the consumer market."
+  },
+  {
+    "start": 801.8,
+    "end": 806.24,
+    "speaker": "SPEAKER_01",
+    "text": "And then let's talk about size average, more cost."
+  },
+  {
+    "start": 806.24,
+    "end": 807.24,
+    "speaker": "SPEAKER_01",
+    "text": "Probably the lower end."
+  },
+  {
+    "start": 807.24,
+    "end": 808.24,
+    "speaker": "SPEAKER_01",
+    "text": "Let's call it about $300."
+  },
+  {
+    "start": 808.24,
+    "end": 809.24,
+    "speaker": "SPEAKER_01",
+    "text": "$300."
+  },
+  {
+    "start": 809.24,
+    "end": 810.24,
+    "speaker": "SPEAKER_01",
+    "text": "$300."
+  },
+  {
+    "start": 810.24,
+    "end": 811.24,
+    "speaker": "SPEAKER_01",
+    "text": "Losing about eight years sounds right."
+  },
+  {
+    "start": 811.24,
+    "end": 816.16,
+    "speaker": "SPEAKER_01",
+    "text": "So we're going to do 5 million more sales annually times $300 on average."
+  },
+  {
+    "start": 816.16,
+    "end": 821.8,
+    "speaker": "SPEAKER_01",
+    "text": "So five times three out of a few zeros on since it's going to be 1.5 billion for the annual"
+  },
+  {
+    "start": 821.8,
+    "end": 823.6,
+    "speaker": "SPEAKER_01",
+    "text": "consumer market."
+  },
+  {
+    "start": 823.6,
+    "end": 828.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Raw before I jump in kind of hash the same thing out for professional landscaper market,"
+  },
+  {
+    "start": 828.1999999999999,
+    "end": 830.36,
+    "speaker": "SPEAKER_01",
+    "text": "you know, I think that sounds about right."
+  },
+  {
+    "start": 830.36,
+    "end": 832.8,
+    "speaker": "SPEAKER_01",
+    "text": "But want to make sure that I'm on the same page with yourself."
+  },
+  {
+    "start": 832.8,
+    "end": 836.0,
+    "speaker": "SPEAKER_01",
+    "text": "How are you feeling about that number so far?"
+  },
+  {
+    "start": 836.0,
+    "end": 838.36,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, it feels right."
+  },
+  {
+    "start": 838.36,
+    "end": 843.48,
+    "speaker": "SPEAKER_02",
+    "text": "How do you think about it in context like in terms of like, I don't know, maybe like cost"
+  },
+  {
+    "start": 843.6,
+    "end": 847.72,
+    "speaker": "SPEAKER_02",
+    "text": "to consumer per year, along more cost?"
+  },
+  {
+    "start": 847.72,
+    "end": 848.72,
+    "speaker": "SPEAKER_01",
+    "text": "It seems right right now."
+  },
+  {
+    "start": 848.72,
+    "end": 852.64,
+    "speaker": "SPEAKER_01",
+    "text": "If I think about, you know, home depot and lows are probably the primary points of sale."
+  },
+  {
+    "start": 852.64,
+    "end": 857.52,
+    "speaker": "SPEAKER_01",
+    "text": "You have a few of those kind of small mom and pop ones in smaller areas."
+  },
+  {
+    "start": 857.52,
+    "end": 858.52,
+    "speaker": "SPEAKER_01",
+    "text": "It seems right."
+  },
+  {
+    "start": 858.52,
+    "end": 860.96,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, you're the vast majority of summer."
+  },
+  {
+    "start": 860.96,
+    "end": 866.6,
+    "speaker": "SPEAKER_01",
+    "text": "If you think about, what is it probably April to September, less for us for summer in"
+  },
+  {
+    "start": 866.6,
+    "end": 867.6,
+    "speaker": "SPEAKER_01",
+    "text": "the Midwest."
+  },
+  {
+    "start": 867.6,
+    "end": 869.64,
+    "speaker": "SPEAKER_01",
+    "text": "That's probably when you're doing your major sales."
+  },
+  {
+    "start": 869.64,
+    "end": 872.2,
+    "speaker": "SPEAKER_01",
+    "text": "I can see making those sales during that time period."
+  },
+  {
+    "start": 872.2,
+    "end": 874.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Of course, Southern states are going to sell a few more."
+  },
+  {
+    "start": 874.8000000000001,
+    "end": 878.24,
+    "speaker": "SPEAKER_01",
+    "text": "So it sounds right for now, but let me get an idea of where the professional landscaper"
+  },
+  {
+    "start": 878.24,
+    "end": 880.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "market is and then maybe we can adjust if needed."
+  },
+  {
+    "start": 880.9200000000001,
+    "end": 881.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Great."
+  },
+  {
+    "start": 881.9200000000001,
+    "end": 882.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 882.9200000000001,
+    "end": 887.12,
+    "speaker": "SPEAKER_01",
+    "text": "So we're starting with that 40 million where we kind of took that 50 50 diverging point."
+  },
+  {
+    "start": 887.12,
+    "end": 890.24,
+    "speaker": "SPEAKER_01",
+    "text": "And so number of homes served."
+  },
+  {
+    "start": 890.24,
+    "end": 894.32,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm going to think it's about probably 50 homes per company."
+  },
+  {
+    "start": 894.32,
+    "end": 896.96,
+    "speaker": "SPEAKER_01",
+    "text": "So one company has 50 homes that they move the grass for."
+  },
+  {
+    "start": 896.96,
+    "end": 899.48,
+    "speaker": "SPEAKER_01",
+    "text": "You're probably rotating throughout the week."
+  },
+  {
+    "start": 899.48,
+    "end": 902.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm going to do for that 40 million homes times."
+  },
+  {
+    "start": 902.6800000000001,
+    "end": 906.84,
+    "speaker": "SPEAKER_01",
+    "text": "I'm sorry, divided by 50 homes served per company."
+  },
+  {
+    "start": 906.84,
+    "end": 909.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So 40 million divided by 50 and we drop the zero."
+  },
+  {
+    "start": 909.9200000000001,
+    "end": 914.76,
+    "speaker": "SPEAKER_01",
+    "text": "So we're talking about 800,000 landscaping companies in the US."
+  },
+  {
+    "start": 914.76,
+    "end": 918.32,
+    "speaker": "SPEAKER_01",
+    "text": "And a lot of those are probably fewer than 50 summer, probably really major and hiring"
+  },
+  {
+    "start": 918.32,
+    "end": 919.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "a lot of employees."
+  },
+  {
+    "start": 919.8000000000001,
+    "end": 920.88,
+    "speaker": "SPEAKER_01",
+    "text": "That sounds about right."
+  },
+  {
+    "start": 920.88,
+    "end": 924.52,
+    "speaker": "SPEAKER_01",
+    "text": "And then let's look at annual mowers purchased."
+  },
+  {
+    "start": 924.52,
+    "end": 926.16,
+    "speaker": "SPEAKER_01",
+    "text": "They're probably ripping through these mowers a lot more."
+  },
+  {
+    "start": 926.16,
+    "end": 929.44,
+    "speaker": "SPEAKER_01",
+    "text": "They're using every single day for multiple homes, especially in the high season."
+  },
+  {
+    "start": 929.44,
+    "end": 930.44,
+    "speaker": "SPEAKER_01",
+    "text": "Of summer."
+  },
+  {
+    "start": 930.44,
+    "end": 934.0,
+    "speaker": "SPEAKER_01",
+    "text": "So you're probably looking at two mowers annually that they're going to replace from their"
+  },
+  {
+    "start": 934.0,
+    "end": 935.24,
+    "speaker": "SPEAKER_01",
+    "text": "team."
+  },
+  {
+    "start": 935.24,
+    "end": 936.96,
+    "speaker": "SPEAKER_01",
+    "text": "So let's do 800,000 times two."
+  },
+  {
+    "start": 936.96,
+    "end": 937.96,
+    "speaker": "SPEAKER_01",
+    "text": "That's easy."
+  },
+  {
+    "start": 937.96,
+    "end": 941.6400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "1.6 million mowers annually."
+  },
+  {
+    "start": 941.6400000000001,
+    "end": 945.6400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And then the cost of those, you're probably going to be using a much better mower."
+  },
+  {
+    "start": 945.6400000000001,
+    "end": 948.0,
+    "speaker": "SPEAKER_01",
+    "text": "You want it to last more last longer."
+  },
+  {
+    "start": 948.0,
+    "end": 950.6400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So let's scale it up from 300 to about a thousand."
+  },
+  {
+    "start": 950.6400000000001,
+    "end": 955.0,
+    "speaker": "SPEAKER_01",
+    "text": "So maybe it's closer to like the professional grade ones that we're selling for ourselves."
+  },
+  {
+    "start": 955.0,
+    "end": 959.56,
+    "speaker": "SPEAKER_01",
+    "text": "And so just talk a few zeros on that's going to be 1.6 billion."
+  },
+  {
+    "start": 959.56,
+    "end": 965.08,
+    "speaker": "SPEAKER_01",
+    "text": "And so we have the 1.5 billion for consumer market, 1.6 for a professional market."
+  },
+  {
+    "start": 965.08,
+    "end": 969.76,
+    "speaker": "SPEAKER_01",
+    "text": "Adding those together, we got about 3.1 billion in the market size."
+  },
+  {
+    "start": 969.76,
+    "end": 975.96,
+    "speaker": "SPEAKER_01",
+    "text": "You know, it's, it's feeling a little high, but not terribly."
+  },
+  {
+    "start": 975.96,
+    "end": 980.8,
+    "speaker": "SPEAKER_01",
+    "text": "And again, if I just think about the major retailers and also the high season, professional"
+  },
+  {
+    "start": 980.8,
+    "end": 982.44,
+    "speaker": "SPEAKER_01",
+    "text": "grade is going to be a little more expensive."
+  },
+  {
+    "start": 982.44,
+    "end": 986.2,
+    "speaker": "SPEAKER_01",
+    "text": "So I guess that's how they got to the a similar point in size."
+  },
+  {
+    "start": 986.2,
+    "end": 987.6400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "I'm feeling pretty good about this."
+  },
+  {
+    "start": 987.6400000000001,
+    "end": 991.72,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, maybe call it 3 billion, but it feels to me like a pretty decent market size."
+  },
+  {
+    "start": 991.72,
+    "end": 996.4000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "If you think it's high, like which, which assumption do you think might have inflated it?"
+  },
+  {
+    "start": 996.4000000000001,
+    "end": 1000.4000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, the 1000 professional grade mowers."
+  },
+  {
+    "start": 1000.4000000000001,
+    "end": 1010.44,
+    "speaker": "SPEAKER_01",
+    "text": "And so having worked at a golf course, you know, we use slightly cheaper mowers, not $300"
+  },
+  {
+    "start": 1010.44,
+    "end": 1013.7600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "version, but probably closer to $700 or $800."
+  },
+  {
+    "start": 1013.7600000000001,
+    "end": 1018.2800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And it was just we hired a technician to repair them more often."
+  },
+  {
+    "start": 1018.2800000000001,
+    "end": 1021.36,
+    "speaker": "SPEAKER_01",
+    "text": "Are you figure out little ways to keep them longer?"
+  },
+  {
+    "start": 1021.36,
+    "end": 1022.36,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1022.36,
+    "end": 1027.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "But I mean, it's not going to slash off a little bit, but not a high value of the cost there."
+  },
+  {
+    "start": 1027.6000000000001,
+    "end": 1028.6000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Sure."
+  },
+  {
+    "start": 1028.6000000000001,
+    "end": 1034.2,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, I would say probably a high end zero turn mowers, probably closer to 5 grand,"
+  },
+  {
+    "start": 1034.2,
+    "end": 1035.8400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "which is pretty crazy."
+  },
+  {
+    "start": 1035.8400000000001,
+    "end": 1039.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Like it's, you can tell I've been living in the urban environment too long, Rob."
+  },
+  {
+    "start": 1039.36,
+    "end": 1040.36,
+    "speaker": "SPEAKER_02",
+    "text": "That's exactly."
+  },
+  {
+    "start": 1040.36,
+    "end": 1041.36,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 1041.36,
+    "end": 1047.36,
+    "speaker": "SPEAKER_02",
+    "text": "Well, I got horses, which are both cheaper and far, far more expensive in terms of how to"
+  },
+  {
+    "start": 1047.36,
+    "end": 1048.36,
+    "speaker": "SPEAKER_02",
+    "text": "cut your grass."
+  },
+  {
+    "start": 1048.36,
+    "end": 1049.36,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1049.36,
+    "end": 1054.28,
+    "speaker": "SPEAKER_02",
+    "text": "So one other thing, both the professionals and the consumers are doing about the same number"
+  },
+  {
+    "start": 1054.28,
+    "end": 1055.28,
+    "speaker": "SPEAKER_02",
+    "text": "of lawns, right?"
+  },
+  {
+    "start": 1055.28,
+    "end": 1056.28,
+    "speaker": "SPEAKER_02",
+    "text": "Correct."
+  },
+  {
+    "start": 1056.28,
+    "end": 1057.28,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1057.28,
+    "end": 1061.84,
+    "speaker": "SPEAKER_02",
+    "text": "And they're buying like very different numbers of mowers."
+  },
+  {
+    "start": 1061.84,
+    "end": 1062.84,
+    "speaker": "SPEAKER_01",
+    "text": "Correct."
+  },
+  {
+    "start": 1062.84,
+    "end": 1069.32,
+    "speaker": "SPEAKER_01",
+    "text": "That 5 million mowers versus, you know, the 800 or the two mowers annually."
+  },
+  {
+    "start": 1069.32,
+    "end": 1070.6,
+    "speaker": "SPEAKER_01",
+    "text": "That's a 1.6 million."
+  },
+  {
+    "start": 1070.6,
+    "end": 1071.6,
+    "speaker": "SPEAKER_02",
+    "text": "So 5 million versus 1.6."
+  },
+  {
+    "start": 1071.6,
+    "end": 1073.9199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "What do you think about that?"
+  },
+  {
+    "start": 1073.9199999999998,
+    "end": 1075.6,
+    "speaker": "SPEAKER_02",
+    "text": "Does that feel right?"
+  },
+  {
+    "start": 1075.6,
+    "end": 1076.6,
+    "speaker": "UNKNOWN",
+    "text": "Yeah."
+  },
+  {
+    "start": 1076.6,
+    "end": 1079.3999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "It's a great question."
+  },
+  {
+    "start": 1079.3999999999999,
+    "end": 1082.24,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, they're higher end products."
+  },
+  {
+    "start": 1082.24,
+    "end": 1083.24,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 1083.24,
+    "end": 1091.08,
+    "speaker": "SPEAKER_01",
+    "text": "And if I think about the number of consumer homes versus number of companies, you know,"
+  },
+  {
+    "start": 1091.08,
+    "end": 1096.08,
+    "speaker": "SPEAKER_01",
+    "text": "it feels right right now, but again, you know, I've, I haven't been on that."
+  },
+  {
+    "start": 1096.08,
+    "end": 1100.96,
+    "speaker": "SPEAKER_01",
+    "text": "I've only been on the consumer side of it, not on the professional mowers side of it."
+  },
+  {
+    "start": 1100.96,
+    "end": 1106.52,
+    "speaker": "SPEAKER_01",
+    "text": "So I suppose my benchmark to gauge it about being maybe too high or too low is a little"
+  },
+  {
+    "start": 1106.52,
+    "end": 1107.52,
+    "speaker": "SPEAKER_01",
+    "text": "off."
+  },
+  {
+    "start": 1107.52,
+    "end": 1110.32,
+    "speaker": "SPEAKER_01",
+    "text": "So I think it sounds good right now."
+  },
+  {
+    "start": 1110.32,
+    "end": 1112.24,
+    "speaker": "SPEAKER_00",
+    "text": "Here's some feedback from Rob."
+  },
+  {
+    "start": 1112.24,
+    "end": 1116.12,
+    "speaker": "SPEAKER_00",
+    "text": "So the market sizing was nice and clean with fast and accurate math."
+  },
+  {
+    "start": 1116.12,
+    "end": 1120.32,
+    "speaker": "SPEAKER_00",
+    "text": "Bended a good job to share the steps that he was going to take before proceeding with"
+  },
+  {
+    "start": 1120.32,
+    "end": 1122.1599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "actual calculations."
+  },
+  {
+    "start": 1122.16,
+    "end": 1126.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "But every step of the way, he was justifying assumptions with data from his own experience"
+  },
+  {
+    "start": 1126.0800000000002,
+    "end": 1130.72,
+    "speaker": "SPEAKER_00",
+    "text": "and anything he may have seen, for example, in store at Lowe's or Home Depot and then"
+  },
+  {
+    "start": 1130.72,
+    "end": 1134.96,
+    "speaker": "SPEAKER_00",
+    "text": "Bended a great job to not just finish with a random number and kind of leave it at that."
+  },
+  {
+    "start": 1134.96,
+    "end": 1139.5600000000002,
+    "speaker": "SPEAKER_00",
+    "text": "He was always either connecting that number back to the implications of the case or since"
+  },
+  {
+    "start": 1139.5600000000002,
+    "end": 1143.24,
+    "speaker": "SPEAKER_00",
+    "text": "checking against data that had already been existing in the case."
+  },
+  {
+    "start": 1143.24,
+    "end": 1144.24,
+    "speaker": "SPEAKER_02",
+    "text": "Awesome."
+  },
+  {
+    "start": 1144.24,
+    "end": 1145.24,
+    "speaker": "SPEAKER_02",
+    "text": "All right."
+  },
+  {
+    "start": 1145.24,
+    "end": 1146.24,
+    "speaker": "SPEAKER_02",
+    "text": "So let's move on to pricing."
+  },
+  {
+    "start": 1146.24,
+    "end": 1148.16,
+    "speaker": "SPEAKER_02",
+    "text": "You would, you'd ask some questions about pricing."
+  },
+  {
+    "start": 1148.16,
+    "end": 1150.2,
+    "speaker": "SPEAKER_02",
+    "text": "Now I get to ask you some questions about pricing."
+  },
+  {
+    "start": 1150.2,
+    "end": 1152.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "It's a great thing about an interview or lead case."
+  },
+  {
+    "start": 1152.12,
+    "end": 1155.4799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "I don't have to answer anything if I don't want to."
+  },
+  {
+    "start": 1155.4799999999998,
+    "end": 1160.7199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So how should John Deere think about pricing its new autonomous more?"
+  },
+  {
+    "start": 1160.7199999999998,
+    "end": 1163.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "And I'm going to give you a couple of details before you dive in."
+  },
+  {
+    "start": 1163.8799999999999,
+    "end": 1167.2399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So today, an average push more retail is for about 500 bucks."
+  },
+  {
+    "start": 1167.2399999999998,
+    "end": 1169.6399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "We're just going to make that assumption."
+  },
+  {
+    "start": 1169.6399999999999,
+    "end": 1175.52,
+    "speaker": "SPEAKER_02",
+    "text": "We're going to say ride on moors typically range from 2000 to 5000."
+  },
+  {
+    "start": 1175.52,
+    "end": 1179.4399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "And the autonomous moors, as we mentioned before, will cost a thousand dollars to produce."
+  },
+  {
+    "start": 1179.44,
+    "end": 1182.44,
+    "speaker": "SPEAKER_02",
+    "text": "And we spent 500 million in development."
+  },
+  {
+    "start": 1182.44,
+    "end": 1188.16,
+    "speaker": "SPEAKER_02",
+    "text": "So the question is where should we price our new robot lawnmower?"
+  },
+  {
+    "start": 1188.16,
+    "end": 1189.16,
+    "speaker": "SPEAKER_01",
+    "text": "Wow."
+  },
+  {
+    "start": 1189.16,
+    "end": 1190.16,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1190.16,
+    "end": 1195.16,
+    "speaker": "SPEAKER_01",
+    "text": "Well, you weren't wrong about that upper end of a good motor that's price high."
+  },
+  {
+    "start": 1195.16,
+    "end": 1196.16,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1196.16,
+    "end": 1201.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So the way I'm thinking about this is I want to look at in terms of a good, better best."
+  },
+  {
+    "start": 1201.1200000000001,
+    "end": 1205.16,
+    "speaker": "SPEAKER_01",
+    "text": "And then I want to gauge based on that how long it takes to get to that, you know, break"
+  },
+  {
+    "start": 1205.16,
+    "end": 1209.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "even of 500 million from our catbacks and then the one thousand, the one billion year"
+  },
+  {
+    "start": 1209.3200000000002,
+    "end": 1210.72,
+    "speaker": "SPEAKER_01",
+    "text": "one goal."
+  },
+  {
+    "start": 1210.72,
+    "end": 1214.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So let's do a two thousand dollar price point to start that low end."
+  },
+  {
+    "start": 1214.8400000000001,
+    "end": 1218.28,
+    "speaker": "SPEAKER_01",
+    "text": "Let's do a five thousand as that kind of bastard, the high point."
+  },
+  {
+    "start": 1218.28,
+    "end": 1221.44,
+    "speaker": "SPEAKER_01",
+    "text": "And let's just a middle point of three point five as the middle."
+  },
+  {
+    "start": 1221.44,
+    "end": 1222.44,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1222.44,
+    "end": 1226.28,
+    "speaker": "SPEAKER_01",
+    "text": "So let's calculate margin for each of them that fits two thousand dollars one thousand"
+  },
+  {
+    "start": 1226.28,
+    "end": 1231.76,
+    "speaker": "SPEAKER_01",
+    "text": "cost or margins 50 percent for three point five subtract a thousand costs."
+  },
+  {
+    "start": 1231.76,
+    "end": 1234.16,
+    "speaker": "SPEAKER_01",
+    "text": "It's going to be about the 70 percent margin give or take."
+  },
+  {
+    "start": 1234.16,
+    "end": 1238.0400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "I think there's might be a bit higher and then five thousand."
+  },
+  {
+    "start": 1238.0400000000002,
+    "end": 1240.52,
+    "speaker": "SPEAKER_01",
+    "text": "So four thousand margin, four thousand profits."
+  },
+  {
+    "start": 1240.52,
+    "end": 1242.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So 80 percent margin."
+  },
+  {
+    "start": 1242.3200000000002,
+    "end": 1243.44,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1243.44,
+    "end": 1248.88,
+    "speaker": "SPEAKER_01",
+    "text": "So then in terms of two thousand price point in order to hit that 500 million catbacks to"
+  },
+  {
+    "start": 1248.88,
+    "end": 1252.16,
+    "speaker": "SPEAKER_01",
+    "text": "break even from that five or a million divided by a thousand."
+  },
+  {
+    "start": 1252.16,
+    "end": 1257.0400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "You're looking at about a five hundred thousand moors in call it year one or in general"
+  },
+  {
+    "start": 1257.0400000000002,
+    "end": 1259.48,
+    "speaker": "SPEAKER_01",
+    "text": "to hit that in order to hit the one billion year goal."
+  },
+  {
+    "start": 1259.48,
+    "end": 1261.16,
+    "speaker": "SPEAKER_01",
+    "text": "We're just going to double that."
+  },
+  {
+    "start": 1261.16,
+    "end": 1266.0400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "We have to sell a thousand moors at that low price point to reach that one billion year"
+  },
+  {
+    "start": 1266.0400000000002,
+    "end": 1267.0400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "one goal."
+  },
+  {
+    "start": 1267.0400000000002,
+    "end": 1269.5600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "That's a lot of moors, especially in your one, but let's just keep moving and we can"
+  },
+  {
+    "start": 1269.5600000000002,
+    "end": 1274.0800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "reflect on it after three point five thousand price point that middle price point."
+  },
+  {
+    "start": 1274.0800000000002,
+    "end": 1276.48,
+    "speaker": "SPEAKER_01",
+    "text": "We're doing 500 million divided by two point five."
+  },
+  {
+    "start": 1276.48,
+    "end": 1277.48,
+    "speaker": "SPEAKER_01",
+    "text": "Sorry."
+  },
+  {
+    "start": 1277.48,
+    "end": 1280.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "How many how many more is do we have to sell?"
+  },
+  {
+    "start": 1280.1200000000001,
+    "end": 1285.8000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So we're doing one billion divided by the one thousand profit per"
+  },
+  {
+    "start": 1285.8,
+    "end": 1287.44,
+    "speaker": "SPEAKER_01",
+    "text": "more."
+  },
+  {
+    "start": 1287.44,
+    "end": 1293.2,
+    "speaker": "SPEAKER_01",
+    "text": "I'm getting one million moors to hit the one year one goal one million."
+  },
+  {
+    "start": 1293.2,
+    "end": 1294.2,
+    "speaker": "SPEAKER_01",
+    "text": "Correct."
+  },
+  {
+    "start": 1294.2,
+    "end": 1295.2,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1295.2,
+    "end": 1296.2,
+    "speaker": "SPEAKER_01",
+    "text": "Yep."
+  },
+  {
+    "start": 1296.2,
+    "end": 1297.2,
+    "speaker": "SPEAKER_01",
+    "text": "I agree."
+  },
+  {
+    "start": 1297.2,
+    "end": 1298.2,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1298.2,
+    "end": 1300.44,
+    "speaker": "SPEAKER_01",
+    "text": "So the let's jump to the three point five thousand price point."
+  },
+  {
+    "start": 1300.44,
+    "end": 1306.76,
+    "speaker": "SPEAKER_01",
+    "text": "So at two point five thousand margin per more or to do the five hundred million divided"
+  },
+  {
+    "start": 1306.76,
+    "end": 1309.84,
+    "speaker": "SPEAKER_01",
+    "text": "by two point five thousand profit per more."
+  },
+  {
+    "start": 1309.84,
+    "end": 1313.32,
+    "speaker": "SPEAKER_01",
+    "text": "And that is coming to two hundred thousand moors."
+  },
+  {
+    "start": 1313.32,
+    "end": 1316.84,
+    "speaker": "SPEAKER_01",
+    "text": "So that's just break even from our cap backs of that middle price point."
+  },
+  {
+    "start": 1316.84,
+    "end": 1320.28,
+    "speaker": "SPEAKER_01",
+    "text": "We need two hundred thousand moors and then double that."
+  },
+  {
+    "start": 1320.28,
+    "end": 1326.0,
+    "speaker": "SPEAKER_01",
+    "text": "So to hit our year one one billion dollar goal, we need four hundred thousand moors"
+  },
+  {
+    "start": 1326.0,
+    "end": 1327.0,
+    "speaker": "SPEAKER_01",
+    "text": "sales."
+  },
+  {
+    "start": 1327.0,
+    "end": 1329.32,
+    "speaker": "SPEAKER_01",
+    "text": "Again, pretty high."
+  },
+  {
+    "start": 1329.32,
+    "end": 1332.84,
+    "speaker": "SPEAKER_01",
+    "text": "Let's let's jump to the five thousand price point and see where this is going."
+  },
+  {
+    "start": 1332.84,
+    "end": 1334.32,
+    "speaker": "SPEAKER_01",
+    "text": "Of course, it's going to tick down."
+  },
+  {
+    "start": 1334.32,
+    "end": 1339.72,
+    "speaker": "SPEAKER_01",
+    "text": "So five hundred million break even for number of moors five hundred million divided by"
+  },
+  {
+    "start": 1339.72,
+    "end": 1347.04,
+    "speaker": "SPEAKER_01",
+    "text": "four thousand that is going to be hundred and twenty five thousand moors just to break"
+  },
+  {
+    "start": 1347.04,
+    "end": 1349.52,
+    "speaker": "SPEAKER_01",
+    "text": "even with the five hundred million double that."
+  },
+  {
+    "start": 1349.52,
+    "end": 1354.04,
+    "speaker": "SPEAKER_01",
+    "text": "So for our one billion year one goal, two hundred fifty thousand moors."
+  },
+  {
+    "start": 1354.04,
+    "end": 1359.08,
+    "speaker": "SPEAKER_01",
+    "text": "So if I think about, so let's just talk in terms of our one billion year one goal."
+  },
+  {
+    "start": 1359.08,
+    "end": 1362.76,
+    "speaker": "SPEAKER_01",
+    "text": "It's one million moors versus four hundred thousand versus two hundred fifty thousand"
+  },
+  {
+    "start": 1362.76,
+    "end": 1363.76,
+    "speaker": "SPEAKER_01",
+    "text": "at those three price points."
+  },
+  {
+    "start": 1363.76,
+    "end": 1365.4,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, that's a lot of moors."
+  },
+  {
+    "start": 1365.4,
+    "end": 1369.4,
+    "speaker": "SPEAKER_01",
+    "text": "And especially if you just think about kind of like the slow adoption of the IOT even home"
+  },
+  {
+    "start": 1369.4,
+    "end": 1371.4,
+    "speaker": "SPEAKER_01",
+    "text": "products, it's been slow."
+  },
+  {
+    "start": 1371.4,
+    "end": 1376.68,
+    "speaker": "SPEAKER_01",
+    "text": "Plus fewer people even have lawns for for mowing this."
+  },
+  {
+    "start": 1376.68,
+    "end": 1380.16,
+    "speaker": "SPEAKER_01",
+    "text": "This is a this is a lot of moors to sell to hit that year one goal."
+  },
+  {
+    "start": 1380.16,
+    "end": 1382.8000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "And I'm feeling I know I can't get a lot of it."
+  },
+  {
+    "start": 1382.8000000000002,
+    "end": 1383.8000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "The hypothesis is going to be great."
+  },
+  {
+    "start": 1383.8000000000002,
+    "end": 1385.4,
+    "speaker": "SPEAKER_01",
+    "text": "I'm feeling less positive."
+  },
+  {
+    "start": 1385.4,
+    "end": 1390.0400000000002,
+    "speaker": "SPEAKER_02",
+    "text": "What I mean, what information do we have to put this number in context?"
+  },
+  {
+    "start": 1390.0400000000002,
+    "end": 1391.0400000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Right?"
+  },
+  {
+    "start": 1391.0400000000002,
+    "end": 1392.72,
+    "speaker": "SPEAKER_02",
+    "text": "Like I know it feels like a lot, right?"
+  },
+  {
+    "start": 1393.72,
+    "end": 1399.32,
+    "speaker": "SPEAKER_02",
+    "text": "We do have some like we've calculated some information about, you know,"
+  },
+  {
+    "start": 1399.32,
+    "end": 1401.92,
+    "speaker": "SPEAKER_02",
+    "text": "mower like mower sales."
+  },
+  {
+    "start": 1401.92,
+    "end": 1402.92,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 1402.92,
+    "end": 1405.48,
+    "speaker": "SPEAKER_02",
+    "text": "I feel like in content in that context."
+  },
+  {
+    "start": 1405.48,
+    "end": 1411.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, that kind of five million versus one point six million from our prior sales."
+  },
+  {
+    "start": 1411.96,
+    "end": 1416.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And so if we think about this in terms of both markets, I mean, so that would be,"
+  },
+  {
+    "start": 1416.3600000000001,
+    "end": 1420.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "you know, six point six million annually."
+  },
+  {
+    "start": 1420.6,
+    "end": 1423.04,
+    "speaker": "SPEAKER_01",
+    "text": "250,000 moors seems pretty good."
+  },
+  {
+    "start": 1423.04,
+    "end": 1426.84,
+    "speaker": "SPEAKER_01",
+    "text": "If you take that middle price point, maybe the most likely 400,000 movers."
+  },
+  {
+    "start": 1426.84,
+    "end": 1431.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, it is looking much it is looking pretty decent there."
+  },
+  {
+    "start": 1431.04,
+    "end": 1436.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "If you think about, you know, the autonomous features though, an adoption of that."
+  },
+  {
+    "start": 1436.4399999999998,
+    "end": 1437.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "I don't know."
+  },
+  {
+    "start": 1437.4399999999998,
+    "end": 1438.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "There's a learning curve."
+  },
+  {
+    "start": 1438.4399999999998,
+    "end": 1441.36,
+    "speaker": "SPEAKER_01",
+    "text": "I imagine of that six point six million is only be a small portion that would really"
+  },
+  {
+    "start": 1441.36,
+    "end": 1443.48,
+    "speaker": "SPEAKER_01",
+    "text": "think about adopting IOT."
+  },
+  {
+    "start": 1443.48,
+    "end": 1445.24,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm still hesitant about it."
+  },
+  {
+    "start": 1445.24,
+    "end": 1450.48,
+    "speaker": "SPEAKER_01",
+    "text": "But when you put it into the scale of, you know, 400,000 versus six point six million"
+  },
+  {
+    "start": 1450.48,
+    "end": 1453.36,
+    "speaker": "SPEAKER_01",
+    "text": "that are bought annually, it seems much better."
+  },
+  {
+    "start": 1453.36,
+    "end": 1454.36,
+    "speaker": "SPEAKER_02",
+    "text": "Got it."
+  },
+  {
+    "start": 1454.36,
+    "end": 1456.48,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, still not trivial though, right?"
+  },
+  {
+    "start": 1456.48,
+    "end": 1460.56,
+    "speaker": "SPEAKER_02",
+    "text": "Like still pretty reasonable, reasonably high adoption rate for a new product."
+  },
+  {
+    "start": 1460.56,
+    "end": 1461.56,
+    "speaker": "SPEAKER_02",
+    "text": "Absolutely."
+  },
+  {
+    "start": 1461.56,
+    "end": 1462.56,
+    "speaker": "SPEAKER_02",
+    "text": "Correct."
+  },
+  {
+    "start": 1462.56,
+    "end": 1466.8,
+    "speaker": "SPEAKER_02",
+    "text": "I know Hustvarna has like a little roomba that'll cut your yard."
+  },
+  {
+    "start": 1466.8,
+    "end": 1467.8,
+    "speaker": "SPEAKER_02",
+    "text": "Really?"
+  },
+  {
+    "start": 1467.8,
+    "end": 1468.8,
+    "speaker": "SPEAKER_02",
+    "text": "And yeah."
+  },
+  {
+    "start": 1468.8,
+    "end": 1472.68,
+    "speaker": "SPEAKER_02",
+    "text": "And I've only seen one in my life."
+  },
+  {
+    "start": 1472.68,
+    "end": 1476.52,
+    "speaker": "SPEAKER_02",
+    "text": "But maybe they're just maybe they know it night, mate, that'd be really creepy."
+  },
+  {
+    "start": 1476.52,
+    "end": 1478.72,
+    "speaker": "SPEAKER_02",
+    "text": "I'll do that."
+  },
+  {
+    "start": 1478.72,
+    "end": 1480.76,
+    "speaker": "SPEAKER_02",
+    "text": "No, I'm going."
+  },
+  {
+    "start": 1480.76,
+    "end": 1485.76,
+    "speaker": "SPEAKER_01",
+    "text": "You know, I don't even see a lot of room buzz indoors doing the vacuuming because there's"
+  },
+  {
+    "start": 1485.76,
+    "end": 1490.04,
+    "speaker": "SPEAKER_01",
+    "text": "been so many issues with them kind of like going between rooms and knocking into things"
+  },
+  {
+    "start": 1490.04,
+    "end": 1494.0,
+    "speaker": "SPEAKER_01",
+    "text": "that I imagine probably people say, well, if that doesn't work, it is an autonomous"
+  },
+  {
+    "start": 1494.0,
+    "end": 1497.8,
+    "speaker": "SPEAKER_01",
+    "text": "more for maybe $5,000 going to have a similar issue."
+  },
+  {
+    "start": 1497.8,
+    "end": 1500.92,
+    "speaker": "SPEAKER_02",
+    "text": "I've got a dead room button, the closet collecting dust."
+  },
+  {
+    "start": 1500.92,
+    "end": 1501.92,
+    "speaker": "SPEAKER_02",
+    "text": "I'll send it to you."
+  },
+  {
+    "start": 1502.0,
+    "end": 1503.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, there we go."
+  },
+  {
+    "start": 1503.0,
+    "end": 1505.0,
+    "speaker": "SPEAKER_00",
+    "text": "The battery."
+  },
+  {
+    "start": 1505.0,
+    "end": 1506.92,
+    "speaker": "SPEAKER_00",
+    "text": "Here's some feedback from Rob."
+  },
+  {
+    "start": 1506.92,
+    "end": 1510.72,
+    "speaker": "SPEAKER_00",
+    "text": "The candidate was strong and math all the way throughout this pricing exercise and was"
+  },
+  {
+    "start": 1510.72,
+    "end": 1514.4,
+    "speaker": "SPEAKER_00",
+    "text": "not a distraction as we talked about the business implications of the different pricing"
+  },
+  {
+    "start": 1514.4,
+    "end": 1515.72,
+    "speaker": "SPEAKER_00",
+    "text": "options."
+  },
+  {
+    "start": 1515.72,
+    "end": 1519.96,
+    "speaker": "SPEAKER_00",
+    "text": "One area for improvement was to note that we didn't need to have just one price for this"
+  },
+  {
+    "start": 1519.96,
+    "end": 1521.24,
+    "speaker": "SPEAKER_00",
+    "text": "specific case."
+  },
+  {
+    "start": 1521.24,
+    "end": 1525.2,
+    "speaker": "SPEAKER_00",
+    "text": "We could have offered the product at different pricing for professional versus consumer"
+  },
+  {
+    "start": 1525.2,
+    "end": 1528.04,
+    "speaker": "SPEAKER_00",
+    "text": "grade customers."
+  },
+  {
+    "start": 1528.04,
+    "end": 1532.04,
+    "speaker": "SPEAKER_00",
+    "text": "Next is to always remember that if you've calculated a market sizing at some point in your"
+  },
+  {
+    "start": 1532.04,
+    "end": 1535.96,
+    "speaker": "SPEAKER_00",
+    "text": "case, you should be using that number as an anchor for future analyses."
+  },
+  {
+    "start": 1535.96,
+    "end": 1540.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "For example, in this pricing exercise as we were coming up with total sales productions,"
+  },
+  {
+    "start": 1540.8799999999999,
+    "end": 1544.72,
+    "speaker": "SPEAKER_00",
+    "text": "Ben had an opportunity to compare that against the market sizing he had done previously"
+  },
+  {
+    "start": 1544.72,
+    "end": 1549.04,
+    "speaker": "SPEAKER_00",
+    "text": "in the case to find out if the numbers he was coming up with were high or low or where"
+  },
+  {
+    "start": 1549.04,
+    "end": 1552.48,
+    "speaker": "SPEAKER_00",
+    "text": "they stood relative to that previously calculated number."
+  },
+  {
+    "start": 1552.48,
+    "end": 1558.52,
+    "speaker": "SPEAKER_00",
+    "text": "And lastly, Ben did a great job when we were riffing on analogous products to discuss the"
+  },
+  {
+    "start": 1558.52,
+    "end": 1562.48,
+    "speaker": "SPEAKER_00",
+    "text": "implications and how that might relate back to the John Deere case."
+  },
+  {
+    "start": 1562.48,
+    "end": 1567.68,
+    "speaker": "SPEAKER_02",
+    "text": "All right, so let's talk about competitive positioning."
+  },
+  {
+    "start": 1567.68,
+    "end": 1572.8,
+    "speaker": "SPEAKER_02",
+    "text": "So John Deere is debating focusing their launch of autonomous mowers towards the consumer"
+  },
+  {
+    "start": 1572.8,
+    "end": 1574.76,
+    "speaker": "SPEAKER_02",
+    "text": "customers or professional landscapers."
+  },
+  {
+    "start": 1574.76,
+    "end": 1576.4,
+    "speaker": "SPEAKER_02",
+    "text": "How do you help prioritize between the two?"
+  },
+  {
+    "start": 1576.4,
+    "end": 1578.88,
+    "speaker": "SPEAKER_02",
+    "text": "You mentioned a little bit above this before."
+  },
+  {
+    "start": 1578.88,
+    "end": 1579.88,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, yeah."
+  },
+  {
+    "start": 1580.3600000000001,
+    "end": 1582.7600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Give me just one moment."
+  },
+  {
+    "start": 1582.7600000000002,
+    "end": 1584.88,
+    "speaker": "SPEAKER_01",
+    "text": "Pull a few points forward."
+  },
+  {
+    "start": 1584.88,
+    "end": 1591.7600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "OK, so the three ways that I'm thinking about this is terms of kind of like price sensitivity,"
+  },
+  {
+    "start": 1591.7600000000002,
+    "end": 1592.8000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "willingness to pay."
+  },
+  {
+    "start": 1592.8000000000002,
+    "end": 1597.96,
+    "speaker": "SPEAKER_01",
+    "text": "There's kind of like pain points of each group, which probably differ and then market growth."
+  },
+  {
+    "start": 1597.96,
+    "end": 1600.96,
+    "speaker": "SPEAKER_01",
+    "text": "So me kind of hit those one by one."
+  },
+  {
+    "start": 1600.96,
+    "end": 1602.88,
+    "speaker": "SPEAKER_01",
+    "text": "So willingness to pay price sensitivity."
+  },
+  {
+    "start": 1602.88,
+    "end": 1606.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "I imagine there's going to be a huge portion of these consumers that are price conscious"
+  },
+  {
+    "start": 1606.3600000000001,
+    "end": 1609.64,
+    "speaker": "SPEAKER_01",
+    "text": "that don't want to be scaling up to that $5,000."
+  },
+  {
+    "start": 1609.64,
+    "end": 1613.16,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, it was even saying myself that something like a thousand seemed like a high price"
+  },
+  {
+    "start": 1613.16,
+    "end": 1614.16,
+    "speaker": "SPEAKER_01",
+    "text": "point."
+  },
+  {
+    "start": 1614.16,
+    "end": 1618.4,
+    "speaker": "SPEAKER_01",
+    "text": "But I imagine between the two, there's going to be huge differentiation in terms of what"
+  },
+  {
+    "start": 1618.4,
+    "end": 1619.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "that price is."
+  },
+  {
+    "start": 1619.8400000000001,
+    "end": 1623.68,
+    "speaker": "SPEAKER_01",
+    "text": "And then also as part of that, you know, what's the brand impact to price?"
+  },
+  {
+    "start": 1623.68,
+    "end": 1627.4,
+    "speaker": "SPEAKER_01",
+    "text": "Are they willing to pay more is that price sensitivity and scale up if it has a John"
+  },
+  {
+    "start": 1627.4,
+    "end": 1628.4,
+    "speaker": "SPEAKER_01",
+    "text": "Deere name on it?"
+  },
+  {
+    "start": 1628.4,
+    "end": 1631.0400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Does that allow us to kind of stretch that price range?"
+  },
+  {
+    "start": 1631.0400000000002,
+    "end": 1635.5600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "I also want to think about kind of like pain points or factors that each one is looking"
+  },
+  {
+    "start": 1635.5600000000002,
+    "end": 1636.5600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "for."
+  },
+  {
+    "start": 1636.56,
+    "end": 1640.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So, you know, professional moors, maybe they think that a ton is feature can perhaps"
+  },
+  {
+    "start": 1640.8799999999999,
+    "end": 1645.96,
+    "speaker": "SPEAKER_01",
+    "text": "replace labor or it can, they can adopt more IOT style approaches."
+  },
+  {
+    "start": 1645.96,
+    "end": 1650.24,
+    "speaker": "SPEAKER_01",
+    "text": "So maybe that's kind of what they're looking for, whereas homeowners, maybe just appreciate"
+  },
+  {
+    "start": 1650.24,
+    "end": 1654.72,
+    "speaker": "SPEAKER_01",
+    "text": "something that's lower end fewer bells and whistles, so to speak, a little cheaper."
+  },
+  {
+    "start": 1654.72,
+    "end": 1658.2,
+    "speaker": "SPEAKER_01",
+    "text": "They just need to go out, mode the grass once a week on a Saturday for, you know, eight"
+  },
+  {
+    "start": 1658.2,
+    "end": 1660.96,
+    "speaker": "SPEAKER_01",
+    "text": "of the 12 months a year."
+  },
+  {
+    "start": 1660.96,
+    "end": 1663.72,
+    "speaker": "SPEAKER_01",
+    "text": "And then finally, something to hit on in my framework initially."
+  },
+  {
+    "start": 1663.72,
+    "end": 1665.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I want to think about market growth."
+  },
+  {
+    "start": 1665.64,
+    "end": 1670.5600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So, you know, I as someone that wants to buy a home feel like there is an under supply"
+  },
+  {
+    "start": 1670.5600000000002,
+    "end": 1671.76,
+    "speaker": "SPEAKER_01",
+    "text": "of homes right now."
+  },
+  {
+    "start": 1671.76,
+    "end": 1676.5200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So as that booms, do a lot more of those people than higher professionals do they mode"
+  },
+  {
+    "start": 1676.5200000000002,
+    "end": 1680.4,
+    "speaker": "SPEAKER_01",
+    "text": "around grass so there could be a potential boom in the market in the future in terms of"
+  },
+  {
+    "start": 1680.4,
+    "end": 1681.5200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "number of homeowners."
+  },
+  {
+    "start": 1681.5200000000002,
+    "end": 1688.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And I'd be curious which side of these two consumer groups potentially would scale faster."
+  },
+  {
+    "start": 1688.8400000000001,
+    "end": 1693.44,
+    "speaker": "SPEAKER_01",
+    "text": "And does that then help us steer towards professionals versus consumer homes?"
+  },
+  {
+    "start": 1693.44,
+    "end": 1695.68,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm thinking about in those three ways right now."
+  },
+  {
+    "start": 1695.68,
+    "end": 1696.68,
+    "speaker": "SPEAKER_02",
+    "text": "Right."
+  },
+  {
+    "start": 1696.68,
+    "end": 1704.0,
+    "speaker": "SPEAKER_02",
+    "text": "Um, I think one question I have is this idea of like labor saving, right?"
+  },
+  {
+    "start": 1704.0,
+    "end": 1707.4,
+    "speaker": "SPEAKER_02",
+    "text": "Which certainly like for a professional, if I'm the owner of professional landscaping"
+  },
+  {
+    "start": 1707.4,
+    "end": 1708.4,
+    "speaker": "SPEAKER_02",
+    "text": "business, right?"
+  },
+  {
+    "start": 1708.4,
+    "end": 1713.16,
+    "speaker": "SPEAKER_02",
+    "text": "Like labor saving is certainly like top of mind for me."
+  },
+  {
+    "start": 1713.16,
+    "end": 1718.68,
+    "speaker": "SPEAKER_01",
+    "text": "Does this thing save labor?"
+  },
+  {
+    "start": 1718.68,
+    "end": 1721.56,
+    "speaker": "SPEAKER_01",
+    "text": "So initially I'm thinking yes, but let's see if we can prove it out."
+  },
+  {
+    "start": 1721.56,
+    "end": 1729.04,
+    "speaker": "SPEAKER_01",
+    "text": "So, um, okay, so let's think about maybe the annual cost of, you know, one person like"
+  },
+  {
+    "start": 1729.04,
+    "end": 1734.12,
+    "speaker": "SPEAKER_01",
+    "text": "myself back in the day mowing the grass versus, you know, the price of this and see if it"
+  },
+  {
+    "start": 1734.12,
+    "end": 1735.12,
+    "speaker": "SPEAKER_01",
+    "text": "saves."
+  },
+  {
+    "start": 1735.12,
+    "end": 1738.52,
+    "speaker": "SPEAKER_01",
+    "text": "So I was getting paid about $14, $15 per hour."
+  },
+  {
+    "start": 1738.52,
+    "end": 1739.52,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1739.52,
+    "end": 1743.56,
+    "speaker": "SPEAKER_01",
+    "text": "And then you're probably serving about 40 hours per week on a typical week."
+  },
+  {
+    "start": 1743.56,
+    "end": 1747.96,
+    "speaker": "SPEAKER_01",
+    "text": "So you're looking at about $600 daily."
+  },
+  {
+    "start": 1747.96,
+    "end": 1751.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "You know, there's probably four to four and a half weeks per month."
+  },
+  {
+    "start": 1751.8400000000001,
+    "end": 1755.44,
+    "speaker": "SPEAKER_01",
+    "text": "So if you think about that way, I'm probably getting to about 24 20."
+  },
+  {
+    "start": 1755.44,
+    "end": 1758.8,
+    "speaker": "SPEAKER_01",
+    "text": "Let's call it $2500 per month."
+  },
+  {
+    "start": 1758.8,
+    "end": 1766.24,
+    "speaker": "SPEAKER_01",
+    "text": "And then times that by 12, we're looking about $30,000 annually for just that one labor"
+  },
+  {
+    "start": 1766.24,
+    "end": 1767.24,
+    "speaker": "SPEAKER_01",
+    "text": "individual."
+  },
+  {
+    "start": 1767.24,
+    "end": 1769.64,
+    "speaker": "SPEAKER_02",
+    "text": "And this is you at a golf course, right?"
+  },
+  {
+    "start": 1769.64,
+    "end": 1770.64,
+    "speaker": "SPEAKER_02",
+    "text": "Correct."
+  },
+  {
+    "start": 1770.64,
+    "end": 1771.64,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1771.64,
+    "end": 1774.2,
+    "speaker": "SPEAKER_02",
+    "text": "So you, uh, you always move the golf course."
+  },
+  {
+    "start": 1774.2,
+    "end": 1777.48,
+    "speaker": "SPEAKER_02",
+    "text": "The golf course, one of the nice features of the golf course is it's always in the same"
+  },
+  {
+    "start": 1777.48,
+    "end": 1778.48,
+    "speaker": "SPEAKER_02",
+    "text": "location."
+  },
+  {
+    "start": 1778.48,
+    "end": 1780.24,
+    "speaker": "SPEAKER_02",
+    "text": "Every time you try to go golfing, the golf course is there."
+  },
+  {
+    "start": 1780.24,
+    "end": 1781.84,
+    "speaker": "SPEAKER_02",
+    "text": "There's only one golf course, right?"
+  },
+  {
+    "start": 1781.84,
+    "end": 1784.08,
+    "speaker": "SPEAKER_02",
+    "text": "You got to move that same golf course."
+  },
+  {
+    "start": 1784.08,
+    "end": 1791.0,
+    "speaker": "SPEAKER_02",
+    "text": "Um, if you are a professional like, uh, doing residential lawns, right?"
+  },
+  {
+    "start": 1791.0,
+    "end": 1793.2,
+    "speaker": "SPEAKER_02",
+    "text": "So it's a bunch of different houses."
+  },
+  {
+    "start": 1793.2,
+    "end": 1797.84,
+    "speaker": "SPEAKER_02",
+    "text": "Does that same paradigm apply?"
+  },
+  {
+    "start": 1797.84,
+    "end": 1798.84,
+    "speaker": "SPEAKER_02",
+    "text": "I don't know."
+  },
+  {
+    "start": 1798.84,
+    "end": 1800.2,
+    "speaker": "SPEAKER_02",
+    "text": "I'm not doing at the golf course."
+  },
+  {
+    "start": 1800.2,
+    "end": 1805.92,
+    "speaker": "SPEAKER_02",
+    "text": "I can just buy this thing, put it in the, put it in the garage, fire, Ben, Ben, sorry."
+  },
+  {
+    "start": 1805.92,
+    "end": 1807.44,
+    "speaker": "SPEAKER_02",
+    "text": "You know, you got to go work at dairy queen."
+  },
+  {
+    "start": 1807.44,
+    "end": 1809.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "You're fired, right?"
+  },
+  {
+    "start": 1809.0800000000002,
+    "end": 1812.76,
+    "speaker": "SPEAKER_02",
+    "text": "Can I do that same thing if it's a bunch of different residential homes?"
+  },
+  {
+    "start": 1812.76,
+    "end": 1813.96,
+    "speaker": "SPEAKER_01",
+    "text": "You can probably replace everyone."
+  },
+  {
+    "start": 1813.96,
+    "end": 1818.16,
+    "speaker": "SPEAKER_01",
+    "text": "Even these needs someone that is going to be able to move the mower to and from."
+  },
+  {
+    "start": 1818.16,
+    "end": 1819.16,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1819.16,
+    "end": 1822.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Imagine you also need probably one, uh, one person that's getting around the edges doing"
+  },
+  {
+    "start": 1822.3200000000002,
+    "end": 1823.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "the little things."
+  },
+  {
+    "start": 1823.3200000000002,
+    "end": 1827.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So maybe a team of like four, you're replacing one to two."
+  },
+  {
+    "start": 1827.8400000000001,
+    "end": 1828.8400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "That's a good call."
+  },
+  {
+    "start": 1828.8400000000001,
+    "end": 1829.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yep."
+  },
+  {
+    "start": 1829.8400000000001,
+    "end": 1830.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 1830.8400000000001,
+    "end": 1831.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1831.8400000000001,
+    "end": 1832.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Full team."
+  },
+  {
+    "start": 1832.8400000000001,
+    "end": 1833.8400000000001,
+    "speaker": "UNKNOWN",
+    "text": "No, there's going to be a few Ben's left."
+  },
+  {
+    "start": 1833.8400000000001,
+    "end": 1834.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Just a few Ben's left."
+  },
+  {
+    "start": 1834.8400000000001,
+    "end": 1835.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 1836.56,
+    "end": 1841.48,
+    "speaker": "SPEAKER_01",
+    "text": "We're talking about probably $30,000 annually for that one Ben that is perhaps going to be"
+  },
+  {
+    "start": 1841.48,
+    "end": 1842.48,
+    "speaker": "SPEAKER_01",
+    "text": "off."
+  },
+  {
+    "start": 1842.48,
+    "end": 1844.28,
+    "speaker": "SPEAKER_01",
+    "text": "But let's think about pricing."
+  },
+  {
+    "start": 1844.28,
+    "end": 1848.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "And this is getting now, probably into like this renewable subscription pricing, more"
+  },
+  {
+    "start": 1848.6799999999998,
+    "end": 1850.48,
+    "speaker": "SPEAKER_01",
+    "text": "tech base, just seeing this lot with cars."
+  },
+  {
+    "start": 1850.48,
+    "end": 1857.32,
+    "speaker": "SPEAKER_01",
+    "text": "So if the price was maybe say $500 to $1,000 per month, keeping on the low end, hopefully"
+  },
+  {
+    "start": 1857.32,
+    "end": 1859.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "scaling adoption."
+  },
+  {
+    "start": 1859.4,
+    "end": 1866.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "If you think about our cost versus on a monthly basis that 25 ish 100, you know, we're"
+  },
+  {
+    "start": 1866.1200000000001,
+    "end": 1870.44,
+    "speaker": "SPEAKER_01",
+    "text": "probably a 2500 per month for the cost of annual labor."
+  },
+  {
+    "start": 1870.44,
+    "end": 1872.0400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "We're then saving them."
+  },
+  {
+    "start": 1872.0400000000002,
+    "end": 1877.16,
+    "speaker": "SPEAKER_01",
+    "text": "The customer is going to be net about $1.5,000 in monthly savings."
+  },
+  {
+    "start": 1877.16,
+    "end": 1882.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then if you scale that out, you know, we're getting as you know, John Deere, probably"
+  },
+  {
+    "start": 1882.0,
+    "end": 1886.92,
+    "speaker": "SPEAKER_01",
+    "text": "about six to $12,000 in annual revenue."
+  },
+  {
+    "start": 1886.92,
+    "end": 1887.92,
+    "speaker": "SPEAKER_01",
+    "text": "And it's compounding."
+  },
+  {
+    "start": 1887.92,
+    "end": 1889.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "It's recurring, which is great."
+  },
+  {
+    "start": 1889.32,
+    "end": 1893.8,
+    "speaker": "SPEAKER_01",
+    "text": "And then if I think about this in context to the break even point, you know, if we're"
+  },
+  {
+    "start": 1893.8,
+    "end": 1898.12,
+    "speaker": "SPEAKER_01",
+    "text": "getting call it $10,000 per year, just trying to find a happy middle ground between that"
+  },
+  {
+    "start": 1898.12,
+    "end": 1899.12,
+    "speaker": "SPEAKER_01",
+    "text": "six and 12."
+  },
+  {
+    "start": 1899.12,
+    "end": 1903.28,
+    "speaker": "SPEAKER_01",
+    "text": "Let me do some quick math."
+  },
+  {
+    "start": 1903.28,
+    "end": 1910.2,
+    "speaker": "SPEAKER_01",
+    "text": "In order to reach that $1 billion revenue goal, it's a hundred thousand moors annually."
+  },
+  {
+    "start": 1910.2,
+    "end": 1914.52,
+    "speaker": "SPEAKER_01",
+    "text": "That's a lot better than what we were seeing at even the 5,000 price point for 250 or even"
+  },
+  {
+    "start": 1914.52,
+    "end": 1916.32,
+    "speaker": "SPEAKER_01",
+    "text": "the middle point of 400,000."
+  },
+  {
+    "start": 1916.32,
+    "end": 1923.28,
+    "speaker": "SPEAKER_01",
+    "text": "If we put that 100,000 moors in context to the 6.6 million, it sounds a lot more feasible."
+  },
+  {
+    "start": 1923.28,
+    "end": 1928.2,
+    "speaker": "SPEAKER_01",
+    "text": "And it's something that, you know, I if we're also able to position this as savings of, you"
+  },
+  {
+    "start": 1928.2,
+    "end": 1932.08,
+    "speaker": "SPEAKER_01",
+    "text": "know, one or two resources here and there to these professional companies plus a moor"
+  },
+  {
+    "start": 1932.08,
+    "end": 1934.32,
+    "speaker": "SPEAKER_01",
+    "text": "that doesn't have to be replaced as often."
+  },
+  {
+    "start": 1934.32,
+    "end": 1937.68,
+    "speaker": "SPEAKER_01",
+    "text": "I think the value proff to them is starting to seem very appealing."
+  },
+  {
+    "start": 1937.68,
+    "end": 1938.68,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome."
+  },
+  {
+    "start": 1938.68,
+    "end": 1941.92,
+    "speaker": "SPEAKER_00",
+    "text": "Here's some feedback from Rob."
+  },
+  {
+    "start": 1941.92,
+    "end": 1946.2,
+    "speaker": "SPEAKER_00",
+    "text": "I ended a good job to come up with a structured answer for this specific question in the case,"
+  },
+  {
+    "start": 1946.2,
+    "end": 1949.2,
+    "speaker": "SPEAKER_00",
+    "text": "even though we were super deep into the case."
+  },
+  {
+    "start": 1949.2,
+    "end": 1953.24,
+    "speaker": "SPEAKER_00",
+    "text": "Candidates often struggle to find structure when you were deeper into a case and bend it"
+  },
+  {
+    "start": 1953.24,
+    "end": 1957.0,
+    "speaker": "SPEAKER_00",
+    "text": "well here to make sure that, you know, even though it wasn't the initial question, his"
+  },
+  {
+    "start": 1957.0,
+    "end": 1961.88,
+    "speaker": "SPEAKER_00",
+    "text": "response still had a solid structure and framework that allowed me to follow his thinking."
+  },
+  {
+    "start": 1961.88,
+    "end": 1966.0,
+    "speaker": "SPEAKER_00",
+    "text": "Next, he did a very thoughtful analysis on the labor savings."
+  },
+  {
+    "start": 1966.0,
+    "end": 1970.0,
+    "speaker": "SPEAKER_00",
+    "text": "This was a case where you could have just, you know, thrown up a headline of like, there"
+  },
+  {
+    "start": 1970.0,
+    "end": 1975.04,
+    "speaker": "SPEAKER_00",
+    "text": "will be labor savings, but then went into a decent amount of detail here, including using"
+  },
+  {
+    "start": 1975.04,
+    "end": 1980.4,
+    "speaker": "SPEAKER_00",
+    "text": "some numbers to help justify the amount of savings that would be possible."
+  },
+  {
+    "start": 1980.4,
+    "end": 1982.88,
+    "speaker": "SPEAKER_02",
+    "text": "So final question here."
+  },
+  {
+    "start": 1982.88,
+    "end": 1988.04,
+    "speaker": "SPEAKER_02",
+    "text": "The media has been going absolutely nuts after the announcement at CES."
+  },
+  {
+    "start": 1988.04,
+    "end": 1990.64,
+    "speaker": "SPEAKER_02",
+    "text": "This, I mean, this is basically the new iPhone."
+  },
+  {
+    "start": 1990.64,
+    "end": 1994.04,
+    "speaker": "SPEAKER_02",
+    "text": "People are going crazy."
+  },
+  {
+    "start": 1994.04,
+    "end": 1998.88,
+    "speaker": "SPEAKER_02",
+    "text": "And the media has been asking John Deere for a high level outline of their launch plan."
+  },
+  {
+    "start": 1998.88,
+    "end": 2003.2,
+    "speaker": "SPEAKER_02",
+    "text": "What is your recommendation you'd like to share?"
+  },
+  {
+    "start": 2003.2,
+    "end": 2004.2,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 2004.2,
+    "end": 2008.7600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So, you know, with the goal initially of identifying how John Deere should go to market with our"
+  },
+  {
+    "start": 2008.7600000000002,
+    "end": 2013.72,
+    "speaker": "SPEAKER_01",
+    "text": "autonomous emower, we're recommending targeting the professional landscaping companies."
+  },
+  {
+    "start": 2013.72,
+    "end": 2018.68,
+    "speaker": "SPEAKER_01",
+    "text": "The value prop over placing labor, which by replacing one professional next customer is"
+  },
+  {
+    "start": 2018.68,
+    "end": 2025.4,
+    "speaker": "SPEAKER_01",
+    "text": "a 1.5,000 monthly savings also allows us to then sell 100,000 mowers to reach the 1 billion"
+  },
+  {
+    "start": 2025.4,
+    "end": 2027.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "year one goal."
+  },
+  {
+    "start": 2027.36,
+    "end": 2032.32,
+    "speaker": "SPEAKER_01",
+    "text": "The lowest price point between the 2,000 and 5,000 price points would be far higher."
+  },
+  {
+    "start": 2032.32,
+    "end": 2037.12,
+    "speaker": "SPEAKER_01",
+    "text": "So this allows us to hit our year one goal plus also create a recurring revenue option."
+  },
+  {
+    "start": 2037.12,
+    "end": 2041.84,
+    "speaker": "SPEAKER_01",
+    "text": "There are risks of this though, specifically land companies landscaping companies, not"
+  },
+  {
+    "start": 2041.84,
+    "end": 2047.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "valuing the reduction in labor, also not wanting to adopt this new type of technology."
+  },
+  {
+    "start": 2047.4399999999998,
+    "end": 2052.3199999999997,
+    "speaker": "SPEAKER_01",
+    "text": "To mitigate this, we could assess the professionals price sensitivity, but also the price factors"
+  },
+  {
+    "start": 2052.3199999999997,
+    "end": 2056.92,
+    "speaker": "SPEAKER_01",
+    "text": "that they find most valuable to build that into our marketing moving forward."
+  },
+  {
+    "start": 2056.92,
+    "end": 2061.0,
+    "speaker": "SPEAKER_01",
+    "text": "As the next step, our firm would actually love to assist you in setting up the focus groups"
+  },
+  {
+    "start": 2061.0,
+    "end": 2066.0,
+    "speaker": "SPEAKER_01",
+    "text": "for this market to identify how we can better target them with our future marketing."
+  },
+  {
+    "start": 2066.0,
+    "end": 2067.0,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you."
+  },
+  {
+    "start": 2067.0,
+    "end": 2068.0,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome."
+  },
+  {
+    "start": 2068.0,
+    "end": 2069.0,
+    "speaker": "SPEAKER_00",
+    "text": "All right."
+  },
+  {
+    "start": 2069.0,
+    "end": 2070.0,
+    "speaker": "SPEAKER_00",
+    "text": "Thanks, Ben."
+  },
+  {
+    "start": 2070.0,
+    "end": 2071.0,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you, Rob."
+  },
+  {
+    "start": 2071.0,
+    "end": 2072.0,
+    "speaker": "SPEAKER_00",
+    "text": "Here's some feedback from Rob."
+  },
+  {
+    "start": 2072.0,
+    "end": 2074.8,
+    "speaker": "SPEAKER_00",
+    "text": "Ben did a great job to lead with an answer for his recommendation here."
+  },
+  {
+    "start": 2074.8,
+    "end": 2079.2400000000002,
+    "speaker": "SPEAKER_00",
+    "text": "It was super clear, super crisp, and everything that followed from that was, you know, a secondary"
+  },
+  {
+    "start": 2079.2400000000002,
+    "end": 2082.64,
+    "speaker": "SPEAKER_00",
+    "text": "bullet to the main recommendation that he made."
+  },
+  {
+    "start": 2082.64,
+    "end": 2086.88,
+    "speaker": "SPEAKER_00",
+    "text": "He included some very specific recommendations, including the customer target that we had"
+  },
+  {
+    "start": 2086.88,
+    "end": 2090.36,
+    "speaker": "SPEAKER_00",
+    "text": "that was determined during the case."
+  },
+  {
+    "start": 2090.36,
+    "end": 2094.1600000000003,
+    "speaker": "SPEAKER_00",
+    "text": "He incorporated a number of items that were discussed throughout the case in this final"
+  },
+  {
+    "start": 2094.1600000000003,
+    "end": 2095.1600000000003,
+    "speaker": "SPEAKER_00",
+    "text": "recommendation."
+  },
+  {
+    "start": 2095.1600000000003,
+    "end": 2098.56,
+    "speaker": "SPEAKER_00",
+    "text": "So it wasn't something that would stand alone in a vacuum, but was something that was"
+  },
+  {
+    "start": 2098.56,
+    "end": 2101.96,
+    "speaker": "SPEAKER_00",
+    "text": "created through the joint work that happened during the case."
+  },
+  {
+    "start": 2101.96,
+    "end": 2104.6400000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Then lastly, he ended with some next steps."
+  },
+  {
+    "start": 2104.6400000000003,
+    "end": 2108.48,
+    "speaker": "SPEAKER_00",
+    "text": "That's always important when you're ending a case is to drive it forward and pretend,"
+  },
+  {
+    "start": 2108.48,
+    "end": 2109.96,
+    "speaker": "SPEAKER_00",
+    "text": "you know, it's a real life situation."
+  },
+  {
+    "start": 2109.96,
+    "end": 2113.2400000000002,
+    "speaker": "SPEAKER_00",
+    "text": "And what would you do in this case to, you know, actually move forward with the digital"
+  },
+  {
+    "start": 2113.2400000000002,
+    "end": 2115.88,
+    "speaker": "SPEAKER_00",
+    "text": "work to explore how to launch this product?"
+  },
+  {
+    "start": 2116.12,
+    "end": 2117.12,
+    "speaker": "SPEAKER_00",
+    "text": "Hey, everyone."
+  },
+  {
+    "start": 2117.12,
+    "end": 2118.96,
+    "speaker": "SPEAKER_03",
+    "text": "It's Kent and Giveshi here, the founder of Rock of Blocks."
+  },
+  {
+    "start": 2118.96,
+    "end": 2121.32,
+    "speaker": "SPEAKER_03",
+    "text": "Thank you so much for watching this mock interview video."
+  },
+  {
+    "start": 2121.32,
+    "end": 2126.32,
+    "speaker": "SPEAKER_03",
+    "text": "I hope you found it informative and helpful as you were getting ready to prepare for your"
+  },
+  {
+    "start": 2126.32,
+    "end": 2129.92,
+    "speaker": "SPEAKER_03",
+    "text": "own interviews and hopefully landing that job offer you are excited about."
+  },
+  {
+    "start": 2129.92,
+    "end": 2134.44,
+    "speaker": "SPEAKER_03",
+    "text": "We have a ton of great content on the Rock of Blocks channel coming out on a weekly basis,"
+  },
+  {
+    "start": 2134.44,
+    "end": 2138.48,
+    "speaker": "SPEAKER_03",
+    "text": "mock interviews, mini lessons, and chats with our Rock of Blocks experts."
+  },
+  {
+    "start": 2138.48,
+    "end": 2141.44,
+    "speaker": "SPEAKER_03",
+    "text": "So if you haven't subscribed yet already, please do so."
+  },
+  {
+    "start": 2141.44,
+    "end": 2143.2400000000002,
+    "speaker": "SPEAKER_03",
+    "text": "There is a big red button below."
+  },
+  {
+    "start": 2143.52,
+    "end": 2146.8399999999997,
+    "speaker": "SPEAKER_03",
+    "text": "And if you hit that, you'll get all of our content as soon as it comes up."
+  },
+  {
+    "start": 2146.8399999999997,
+    "end": 2148.4399999999996,
+    "speaker": "SPEAKER_03",
+    "text": "Thanks for watching and have a great day."
+  }
+]

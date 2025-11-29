@@ -1,0 +1,2336 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.28,
+    "speaker": "SPEAKER_00",
+    "text": "But what you'll notice is that there is no Northwest Airlines and there is no continental airlines."
+  },
+  {
+    "start": 6.32,
+    "end": 10.28,
+    "speaker": "SPEAKER_00",
+    "text": "So why do you think those kind of like major players made different decisions?"
+  },
+  {
+    "start": 14.72,
+    "end": 16.92,
+    "speaker": "SPEAKER_00",
+    "text": "Welcome to our interview. How are you feeling this morning?"
+  },
+  {
+    "start": 17.52,
+    "end": 18.76,
+    "speaker": "SPEAKER_02",
+    "text": "Good. Thanks. How are you?"
+  },
+  {
+    "start": 19.04,
+    "end": 20.76,
+    "speaker": "SPEAKER_00",
+    "text": "I am fantastic."
+  },
+  {
+    "start": 21.52,
+    "end": 24.68,
+    "speaker": "SPEAKER_00",
+    "text": "So we are going to do a case interview today."
+  },
+  {
+    "start": 24.68,
+    "end": 29.72,
+    "speaker": "SPEAKER_00",
+    "text": "I want to give you a little bit of prep before we dive in just a couple of things to be mindful of."
+  },
+  {
+    "start": 29.72,
+    "end": 33.68,
+    "speaker": "SPEAKER_00",
+    "text": "So first of all, this is an interviewer driven case."
+  },
+  {
+    "start": 33.68,
+    "end": 40.8,
+    "speaker": "SPEAKER_00",
+    "text": "Right. And so what that means is I might ask you, you know, like companies facing XYZ problem,"
+  },
+  {
+    "start": 40.8,
+    "end": 43.239999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "what's your recommendation in terms of how to investigate?"
+  },
+  {
+    "start": 43.239999999999995,
+    "end": 45.879999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "And you might say, I want to look at eight, right?"
+  },
+  {
+    "start": 46.44,
+    "end": 49.32,
+    "speaker": "SPEAKER_00",
+    "text": "What I will do is say, that's a fine answer, right?"
+  },
+  {
+    "start": 49.32,
+    "end": 51.480000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "If it is, ask you some follow up questions."
+  },
+  {
+    "start": 51.480000000000004,
+    "end": 55.879999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "But then I'm going to ask you to do the next thing that I want us to look at."
+  },
+  {
+    "start": 55.879999999999995,
+    "end": 58.879999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "Right. So I might say, yeah, it is a great idea, but I want to look at B."
+  },
+  {
+    "start": 59.160000000000004,
+    "end": 62.040000000000006,
+    "speaker": "SPEAKER_00",
+    "text": "That does not mean that you are doing a bad job."
+  },
+  {
+    "start": 62.440000000000005,
+    "end": 68.72,
+    "speaker": "SPEAKER_00",
+    "text": "What it means is that I have certain modules and questions that I need to get to to make sure I am evaluating, you know,"
+  },
+  {
+    "start": 68.72,
+    "end": 71.84,
+    "speaker": "SPEAKER_00",
+    "text": "a bunch of different categories of performance. Does that make sense?"
+  },
+  {
+    "start": 72.4,
+    "end": 73.88,
+    "speaker": "SPEAKER_02",
+    "text": "Makes perfect sense. Sounds great."
+  },
+  {
+    "start": 74.2,
+    "end": 77.6,
+    "speaker": "SPEAKER_00",
+    "text": "Cool. Any questions about the structure before we dive in?"
+  },
+  {
+    "start": 78.08,
+    "end": 79.08,
+    "speaker": "SPEAKER_02",
+    "text": "No, I'm ready to go."
+  },
+  {
+    "start": 79.44,
+    "end": 81.32000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome. This is going to be great. All right."
+  },
+  {
+    "start": 81.80000000000001,
+    "end": 87.64,
+    "speaker": "SPEAKER_00",
+    "text": "Your client Alaska Air Group has recently finalized its acquisition of Hawaiian holdings,"
+  },
+  {
+    "start": 87.64,
+    "end": 92.2,
+    "speaker": "SPEAKER_00",
+    "text": "bringing together the distinct brands of Alaska Airlines and Hawaiian Airlines."
+  },
+  {
+    "start": 92.52,
+    "end": 100.6,
+    "speaker": "SPEAKER_00",
+    "text": "The merger opens up new opportunities across an expanded network, promising enhanced customer service and operational efficiency."
+  },
+  {
+    "start": 101.32,
+    "end": 108.52,
+    "speaker": "SPEAKER_00",
+    "text": "The client wants the client wants to make sure it gets the most value out of the merger and has turned to our firm for support."
+  },
+  {
+    "start": 109.12,
+    "end": 116.28,
+    "speaker": "SPEAKER_00",
+    "text": "How should Alaska Air Group proceed to maximize value in the post merger landscape?"
+  },
+  {
+    "start": 117.28,
+    "end": 122.32000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Great. Sounds like a super interesting case. We all love flying to Hawaii and to Alaska."
+  },
+  {
+    "start": 122.32000000000001,
+    "end": 124.6,
+    "speaker": "SPEAKER_02",
+    "text": "So maybe out of this case, we'll get a free trip."
+  },
+  {
+    "start": 125.32000000000001,
+    "end": 128.0,
+    "speaker": "SPEAKER_02",
+    "text": "A couple of questions for you before we dive into the framework."
+  },
+  {
+    "start": 128.32,
+    "end": 130.12,
+    "speaker": "SPEAKER_02",
+    "text": "The first is just regarding the objective."
+  },
+  {
+    "start": 130.12,
+    "end": 134.36,
+    "speaker": "SPEAKER_02",
+    "text": "So you mentioned that the case was focused on how to maximize the value."
+  },
+  {
+    "start": 134.6,
+    "end": 141.12,
+    "speaker": "SPEAKER_02",
+    "text": "Is there any specific objective that they're hoping to maximize or any specific metric that they're going to be aiming for?"
+  },
+  {
+    "start": 141.6,
+    "end": 145.08,
+    "speaker": "SPEAKER_00",
+    "text": "Sure. I mean, this is obviously a for profit case."
+  },
+  {
+    "start": 145.72,
+    "end": 149.32000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "And so kind of the typical for profit objectives, right?"
+  },
+  {
+    "start": 149.4,
+    "end": 151.32000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "Would like to increase revenue."
+  },
+  {
+    "start": 151.96,
+    "end": 159.60000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "Would like to find cost savings. So that means both operational synergies and anything else we can do."
+  },
+  {
+    "start": 159.60000000000002,
+    "end": 162.72000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "And would like to do that in a defensible way, right? Meaning longer term."
+  },
+  {
+    "start": 163.48000000000002,
+    "end": 165.0,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect. Okay. Makes sense."
+  },
+  {
+    "start": 165.60000000000002,
+    "end": 168.24,
+    "speaker": "SPEAKER_02",
+    "text": "And can you clarify for me what the size of each firm is?"
+  },
+  {
+    "start": 168.24,
+    "end": 175.04000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "So maybe in terms of I don't know the flights per day or the revenue that each firm sort of brings in just to ground ourselves in like,"
+  },
+  {
+    "start": 175.24,
+    "end": 177.96,
+    "speaker": "SPEAKER_02",
+    "text": "how big and whether there's a big size difference between the two."
+  },
+  {
+    "start": 178.32000000000002,
+    "end": 190.08,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, absolutely. So Alaska Airlines as befitting its role as the purchaser is certainly the larger of the two operating about 1200 flights a day,"
+  },
+  {
+    "start": 190.48000000000002,
+    "end": 194.0,
+    "speaker": "SPEAKER_00",
+    "text": "revenue of about $8.2 billion annual."
+  },
+  {
+    "start": 195.20000000000002,
+    "end": 199.0,
+    "speaker": "SPEAKER_00",
+    "text": "Hawaiian meanwhile, 300 flights, 2.8 billion in revenue."
+  },
+  {
+    "start": 199.64000000000001,
+    "end": 200.16000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 201.36,
+    "end": 202.16000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "Sounds great."
+  },
+  {
+    "start": 203.12,
+    "end": 205.76,
+    "speaker": "SPEAKER_02",
+    "text": "And then in terms of sort of the markets that each of them serve."
+  },
+  {
+    "start": 205.76,
+    "end": 210.51999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So I'd imagine that Alaska Airlines focuses on Alaska and Hawaiian Airlines focuses on Hawaii."
+  },
+  {
+    "start": 211.2,
+    "end": 213.4,
+    "speaker": "SPEAKER_00",
+    "text": "But you're clearly looking at an expert."
+  },
+  {
+    "start": 214.44,
+    "end": 217.56,
+    "speaker": "SPEAKER_02",
+    "text": "They probably go into some other regions as well."
+  },
+  {
+    "start": 218.04,
+    "end": 222.04,
+    "speaker": "SPEAKER_02",
+    "text": "Do they each serve their specific markets? Is there any overlap in between those markets?"
+  },
+  {
+    "start": 222.04,
+    "end": 224.6,
+    "speaker": "SPEAKER_02",
+    "text": "I think that'll just be helpful to know as we think about synergies."
+  },
+  {
+    "start": 224.84,
+    "end": 229.92,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. So you can think about Alaska Airlines is basically a West US airlines."
+  },
+  {
+    "start": 229.92,
+    "end": 237.92,
+    "speaker": "SPEAKER_00",
+    "text": "So including Alaska with our connections to other states and some international destinations in Canada, Mexico and it serves Costa Rica."
+  },
+  {
+    "start": 239.27999999999997,
+    "end": 242.11999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Hawaiian kind of like a Pacific based, right?"
+  },
+  {
+    "start": 242.11999999999998,
+    "end": 249.0,
+    "speaker": "SPEAKER_00",
+    "text": "So really focused on inner island flights within Hawaii and then direct flights from Hawaii to the US mainland."
+  },
+  {
+    "start": 249.07999999999998,
+    "end": 253.6,
+    "speaker": "SPEAKER_00",
+    "text": "Also has some international routes, Japan, South Korea, Australia, and South Pacific."
+  },
+  {
+    "start": 254.6,
+    "end": 262.6,
+    "speaker": "SPEAKER_00",
+    "text": "And there is some overlap in service, though not a ton, primarily between the routes between Hawaii and the US mainland, mainland."
+  },
+  {
+    "start": 263.6,
+    "end": 267.6,
+    "speaker": "SPEAKER_00",
+    "text": "But otherwise like largely non overlapping networks."
+  },
+  {
+    "start": 268.6,
+    "end": 269.6,
+    "speaker": "SPEAKER_02",
+    "text": "Got it. Okay."
+  },
+  {
+    "start": 269.6,
+    "end": 270.6,
+    "speaker": "SPEAKER_02",
+    "text": "helpful."
+  },
+  {
+    "start": 270.6,
+    "end": 275.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then similarly in terms of the markets, we've left here a little bit about the customer's serve."
+  },
+  {
+    "start": 275.6,
+    "end": 279.6,
+    "speaker": "SPEAKER_02",
+    "text": "So is there any specific information you have on customer segments that they each target?"
+  },
+  {
+    "start": 279.6,
+    "end": 284.6,
+    "speaker": "SPEAKER_02",
+    "text": "It sounds like since Hawaiian is focused on the Hawaii sort of inter-Island."
+  },
+  {
+    "start": 284.6,
+    "end": 288.6,
+    "speaker": "SPEAKER_02",
+    "text": "It might be like more so Hawaiian locals, but probably a lot of tourists as well."
+  },
+  {
+    "start": 288.6,
+    "end": 290.6,
+    "speaker": "SPEAKER_02",
+    "text": "So just would love to hear a bit about that."
+  },
+  {
+    "start": 290.6,
+    "end": 291.6,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 291.6,
+    "end": 293.6,
+    "speaker": "SPEAKER_00",
+    "text": "Tons of tourists on Hawaii."
+  },
+  {
+    "start": 293.6,
+    "end": 296.6,
+    "speaker": "SPEAKER_00",
+    "text": "It's basically a flying daiquiri."
+  },
+  {
+    "start": 296.6,
+    "end": 302.6,
+    "speaker": "SPEAKER_00",
+    "text": "So they are largely certainly like very much focused on that leisure travel segment."
+  },
+  {
+    "start": 302.6,
+    "end": 305.6,
+    "speaker": "SPEAKER_00",
+    "text": "Inter-Island tier point, right?"
+  },
+  {
+    "start": 305.6,
+    "end": 310.6,
+    "speaker": "SPEAKER_00",
+    "text": "So some of that is commuting seam relatives that kind of stuff a little less leisure for the locals."
+  },
+  {
+    "start": 310.6,
+    "end": 317.6,
+    "speaker": "SPEAKER_00",
+    "text": "Alaska, you know, serves certainly like a good amount of leisure as well, but has a broader corporate base."
+  },
+  {
+    "start": 317.6,
+    "end": 323.6,
+    "speaker": "SPEAKER_00",
+    "text": "Given its presence on the west coast and you know, between west coast airports."
+  },
+  {
+    "start": 323.6,
+    "end": 324.6,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 324.6,
+    "end": 329.6,
+    "speaker": "SPEAKER_02",
+    "text": "Would you mind if I take a minute to think about how I would sort of structure at this case?"
+  },
+  {
+    "start": 329.6,
+    "end": 330.6,
+    "speaker": "SPEAKER_00",
+    "text": "Rock and roll."
+  },
+  {
+    "start": 330.6,
+    "end": 331.6,
+    "speaker": "SPEAKER_00",
+    "text": "Let's do it."
+  },
+  {
+    "start": 331.6,
+    "end": 334.6,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 334.6,
+    "end": 341.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I'm just going to sort of turn this around for a second so that you can see the framework that I've come up with here."
+  },
+  {
+    "start": 341.6,
+    "end": 342.6,
+    "speaker": "SPEAKER_02",
+    "text": "Move my face out of the way."
+  },
+  {
+    "start": 342.6,
+    "end": 348.6,
+    "speaker": "SPEAKER_02",
+    "text": "So as we have discussed, the goal of this case is to think about how to maximize merger values."
+  },
+  {
+    "start": 348.6,
+    "end": 350.6,
+    "speaker": "SPEAKER_02",
+    "text": "So that's sort of in this main bucket here."
+  },
+  {
+    "start": 350.6,
+    "end": 356.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then I've split it down into revenue growth and cost efficiencies, which I think are sort of the two main drivers."
+  },
+  {
+    "start": 356.6,
+    "end": 359.6,
+    "speaker": "SPEAKER_02",
+    "text": "So that you can come back to in this case."
+  },
+  {
+    "start": 359.6,
+    "end": 361.6,
+    "speaker": "SPEAKER_02",
+    "text": "So under revenue growth, there are two main pillars."
+  },
+  {
+    "start": 361.6,
+    "end": 369.6,
+    "speaker": "SPEAKER_02",
+    "text": "There's market expansion, which I think could be like any new roots that neither of the airlines currently serve that they might be able to serve."
+  },
+  {
+    "start": 369.6,
+    "end": 370.6,
+    "speaker": "SPEAKER_02",
+    "text": "We can think about partnerships."
+  },
+  {
+    "start": 370.6,
+    "end": 377.6,
+    "speaker": "SPEAKER_02",
+    "text": "So maybe because of this enhanced, you know, the size of the new company, there could be better partnerships."
+  },
+  {
+    "start": 377.6,
+    "end": 379.6,
+    "speaker": "SPEAKER_02",
+    "text": "They could become part of one of the alliances."
+  },
+  {
+    "start": 379.6,
+    "end": 383.6,
+    "speaker": "SPEAKER_02",
+    "text": "I think there's like star alliance and I don't exactly sure what they all are."
+  },
+  {
+    "start": 383.6,
+    "end": 385.6,
+    "speaker": "SPEAKER_02",
+    "text": "Maybe they could think about a new partnership."
+  },
+  {
+    "start": 385.6,
+    "end": 388.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then there's also the ability to do some cargo revenue."
+  },
+  {
+    "start": 388.6,
+    "end": 396.6,
+    "speaker": "SPEAKER_02",
+    "text": "So maybe with these new roots or maybe with some of the roots that they currently do, they can expand to cargo revenue in addition to their passenger revenue."
+  },
+  {
+    "start": 396.6,
+    "end": 397.6,
+    "speaker": "SPEAKER_02",
+    "text": "So that's something to explore."
+  },
+  {
+    "start": 397.6,
+    "end": 412.6,
+    "speaker": "SPEAKER_02",
+    "text": "Then in terms of non flight revenue, I think there's maybe an additional loyalty program that could be taken advantage of bundled services to actually bundling together like whether it be flights and like hotel package or the car rental."
+  },
+  {
+    "start": 412.6,
+    "end": 420.6,
+    "speaker": "SPEAKER_02",
+    "text": "I think you always see that when you book flights these days and I have no idea about what the economics are on that, but they could look into that."
+  },
+  {
+    "start": 420.6,
+    "end": 422.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then the last news may be advertising revenue."
+  },
+  {
+    "start": 422.6,
+    "end": 429.6,
+    "speaker": "SPEAKER_02",
+    "text": "So sort of taking advantage of advertising like other services or things to do within the countries when they get there, you mentioned a lot of tourism."
+  },
+  {
+    "start": 429.6,
+    "end": 431.6,
+    "speaker": "SPEAKER_02",
+    "text": "So that might be a good one."
+  },
+  {
+    "start": 431.6,
+    "end": 440.6,
+    "speaker": "SPEAKER_02",
+    "text": "And in terms of cost efficiencies, I think there's operational synergies and that could be root optimization, for example, or fleet rationalization."
+  },
+  {
+    "start": 440.6,
+    "end": 446.6,
+    "speaker": "SPEAKER_02",
+    "text": "So root optimization being like going from place to place or maybe thinking of a hub and spoke model."
+  },
+  {
+    "start": 446.6,
+    "end": 457.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then fleet rationalization is saying like what is the exact number of flights that we need making sure that there's not too many, but also not too few would probably be easier to do when you just have a bigger airline."
+  },
+  {
+    "start": 457.6,
+    "end": 468.6,
+    "speaker": "SPEAKER_02",
+    "text": "So one is the tech and staffing synergies. So from a tech stack perspective, like making sure that there aren't two booking systems that you're paying a fee on and making sure that there aren't two like route."
+  },
+  {
+    "start": 468.6,
+    "end": 471.6,
+    "speaker": "SPEAKER_02",
+    "text": "I'm sure they're like mapping the routes and mapping the occupancy."
+  },
+  {
+    "start": 471.6,
+    "end": 483.6,
+    "speaker": "SPEAKER_02",
+    "text": "So any type of technology around that. And then similarly around staffing like you only need one CFO probably so you can think about how you can cut some headcount across the organization."
+  },
+  {
+    "start": 483.6,
+    "end": 486.6,
+    "speaker": "SPEAKER_02",
+    "text": "How does that sound to you? Is that sort of along the lines what you're thinking?"
+  },
+  {
+    "start": 486.6,
+    "end": 499.6,
+    "speaker": "SPEAKER_00",
+    "text": "No, I mean, I think like great start makes a lot of sense. I think my kind of like my follow up question would be if we added kind of like the dimension of time, right, like limited resources."
+  },
+  {
+    "start": 499.6,
+    "end": 506.6,
+    "speaker": "SPEAKER_00",
+    "text": "Like where would you start right to start costs to start revenue? Where specifically within that? Like how would you actually start?"
+  },
+  {
+    "start": 506.6,
+    "end": 520.6,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, I would definitely start on the market expansion piece under revenue growth. So I always try and think about these things in terms of like growing the business rather than cutting, especially when it's like there's this new beginning and it's an exciting opportunity."
+  },
+  {
+    "start": 520.6,
+    "end": 526.6,
+    "speaker": "SPEAKER_02",
+    "text": "I think like the opportunity to grow is endless and the opportunity to cut is obviously finite."
+  },
+  {
+    "start": 526.6,
+    "end": 539.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think it's a thing to think about sort of in the more positive light. And just from a man, a market expansion perspective, I think there are so many potential opportunities there to expand routes to think about a new model."
+  },
+  {
+    "start": 539.6,
+    "end": 543.6,
+    "speaker": "SPEAKER_02",
+    "text": "And I think that's like a really exciting way for the company to first start."
+  },
+  {
+    "start": 543.6,
+    "end": 545.6,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome. All right."
+  },
+  {
+    "start": 545.6,
+    "end": 549.6,
+    "speaker": "SPEAKER_00",
+    "text": "So the next question we're going to tackle is one around branding."
+  },
+  {
+    "start": 549.6,
+    "end": 560.6,
+    "speaker": "SPEAKER_00",
+    "text": "So Alaska is currently deliberating a significant branding decision post merger with the integration of Hawaiian holdings. The company is torn between two strategic paths."
+  },
+  {
+    "start": 560.6,
+    "end": 575.6,
+    "speaker": "SPEAKER_00",
+    "text": "Path one rolling both airlines into a single unified brand to streamline operations, strengthen market identity or path to maintaining the distinct brands of Alaska and Hawaiian to preserve their unique market positions."
+  },
+  {
+    "start": 575.6,
+    "end": 578.6,
+    "speaker": "SPEAKER_00",
+    "text": "How should our client make this decision?"
+  },
+  {
+    "start": 578.6,
+    "end": 586.6,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. So it sounds like the two decisions are either combined into one or keep it as two separate brands."
+  },
+  {
+    "start": 586.6,
+    "end": 599.6,
+    "speaker": "SPEAKER_02",
+    "text": "And when I think about that, I want to think back to the framework that we had where we're really thinking about like the whole case is surrounded around maximizing revenue and making the company more valuable."
+  },
+  {
+    "start": 599.6,
+    "end": 604.6,
+    "speaker": "SPEAKER_02",
+    "text": "So when we look at that, let's look at it again from the revenue and the cost perspective."
+  },
+  {
+    "start": 604.6,
+    "end": 609.6,
+    "speaker": "SPEAKER_02",
+    "text": "So as I had mentioned sort of one minute ago in terms of the cost."
+  },
+  {
+    "start": 609.6,
+    "end": 616.6,
+    "speaker": "SPEAKER_02",
+    "text": "I think that although with one brand, there would probably be fewer physical and digital assets."
+  },
+  {
+    "start": 616.6,
+    "end": 620.6,
+    "speaker": "SPEAKER_02",
+    "text": "It's probably a fairly limited amount of synergies that you could create."
+  },
+  {
+    "start": 620.6,
+    "end": 630.6,
+    "speaker": "SPEAKER_02",
+    "text": "So as I mentioned, maybe you can get rid of one of the CFOs, maybe there are a couple like people who you can, but overall you're not going to be able to get that many cost savings."
+  },
+  {
+    "start": 630.6,
+    "end": 633.6,
+    "speaker": "SPEAKER_02",
+    "text": "I really see the biggest potential here on the revenue side."
+  },
+  {
+    "start": 633.6,
+    "end": 635.6,
+    "speaker": "SPEAKER_02",
+    "text": "So that's where it's sort of like to focus."
+  },
+  {
+    "start": 635.6,
+    "end": 646.6,
+    "speaker": "SPEAKER_02",
+    "text": "And if we think about having one brand, I think some of the maybe positives towards revenue are greater customer loyalty, greater scale of the brand."
+  },
+  {
+    "start": 646.6,
+    "end": 656.6,
+    "speaker": "SPEAKER_02",
+    "text": "And actually like have bigger brand reach geographically and greater synergies in Hawaii and Alaska travel. So you can actually have."
+  },
+  {
+    "start": 656.6,
+    "end": 660.6,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, both of them are kind of in unique positions geographically to the US."
+  },
+  {
+    "start": 660.6,
+    "end": 664.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think there are some some interesting synergies you could create there."
+  },
+  {
+    "start": 664.6,
+    "end": 670.6,
+    "speaker": "SPEAKER_02",
+    "text": "But when we look at two brands, I actually think that having like specific names to the locations."
+  },
+  {
+    "start": 670.6,
+    "end": 675.6,
+    "speaker": "SPEAKER_02",
+    "text": "And you're going from island to island being able to go on like Hawaiian Airlines."
+  },
+  {
+    "start": 675.6,
+    "end": 683.6,
+    "speaker": "SPEAKER_02",
+    "text": "It does sound pretty cool and it's it's sort of like that brand reputation would have would carry a little bit more weight tied specifically to that region."
+  },
+  {
+    "start": 683.6,
+    "end": 689.6,
+    "speaker": "SPEAKER_02",
+    "text": "And similarly, it sounds like they have kind of unique offerings and unique propositions to their customers."
+  },
+  {
+    "start": 689.6,
+    "end": 703.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think for me, the revenue of the two brands really outweighs the revenue for the one brand and the cost is fairly negligible."
+  },
+  {
+    "start": 703.6,
+    "end": 712.6,
+    "speaker": "SPEAKER_02",
+    "text": "In order to make like a full decision, what I would want to evaluate in terms of the next steps are trying to tie some financial metrics to each of these more qualitative pieces that I have here."
+  },
+  {
+    "start": 712.6,
+    "end": 723.6,
+    "speaker": "SPEAKER_02",
+    "text": "And also just looking at if there are other airline mergers that we can look at as sort of comparables to see what they did and how it ended up turning it for them."
+  },
+  {
+    "start": 723.6,
+    "end": 725.6,
+    "speaker": "SPEAKER_00",
+    "text": "Great."
+  },
+  {
+    "start": 725.6,
+    "end": 733.6,
+    "speaker": "SPEAKER_00",
+    "text": "I'd love to just kind of like explore that second part that you just mentioned there, which is other airline mergers."
+  },
+  {
+    "start": 733.6,
+    "end": 745.6,
+    "speaker": "SPEAKER_00",
+    "text": "So, you know, the two that kind of spring to mind, you know, like in my lifetime that were like major US mergers, right is delta buying Northwest Airlines."
+  },
+  {
+    "start": 745.6,
+    "end": 748.6,
+    "speaker": "SPEAKER_00",
+    "text": "And United buying continental."
+  },
+  {
+    "start": 748.6,
+    "end": 754.6,
+    "speaker": "SPEAKER_00",
+    "text": "And somebody bought somebody else in American, but I forget what that was."
+  },
+  {
+    "start": 754.6,
+    "end": 760.6,
+    "speaker": "SPEAKER_00",
+    "text": "But what you'll notice is that there is no Northwest Airlines and there is no continental airlines."
+  },
+  {
+    "start": 760.6,
+    "end": 765.6,
+    "speaker": "SPEAKER_00",
+    "text": "So why do you think those kind of like major players made different decisions."
+  },
+  {
+    "start": 765.6,
+    "end": 776.6,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, and I think that that thank you for pointing those out. I actually was not aware of those two mergers. So I think looking into that and fully diagnosing and understanding would be a great next step."
+  },
+  {
+    "start": 776.6,
+    "end": 787.6,
+    "speaker": "SPEAKER_02",
+    "text": "But just off a hunch and off off sort of what I can imagine, I think it's probably because the locations of Hawaii and Alaska actually carry more like weight of the brand of those locations."
+  },
+  {
+    "start": 787.6,
+    "end": 790.6,
+    "speaker": "SPEAKER_02",
+    "text": "Then West."
+  },
+  {
+    "start": 790.6,
+    "end": 800.6,
+    "speaker": "SPEAKER_02",
+    "text": "I'm not even really sure what that I'm not American, but I'm not even sure like exactly what the Northwest is to be honest, whereas everyone knows what Hawaii is and everyone wants to go there."
+  },
+  {
+    "start": 800.6,
+    "end": 806.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think it's just a little bit more of like the brand of the actual place that they represent is more pronounced."
+  },
+  {
+    "start": 806.6,
+    "end": 814.6,
+    "speaker": "SPEAKER_02",
+    "text": "And the airline carrying that brand, they're sort of like taking on the positive effects that the brand of the place actually has in itself."
+  },
+  {
+    "start": 814.6,
+    "end": 822.6,
+    "speaker": "SPEAKER_00",
+    "text": "Got it. So that's why that is why Alaska Hawaii is different than, for example, Northwest Delta."
+  },
+  {
+    "start": 822.6,
+    "end": 823.6,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "start": 823.6,
+    "end": 826.6,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 826.6,
+    "end": 829.6,
+    "speaker": "SPEAKER_00",
+    "text": "I'm ready for our next question."
+  },
+  {
+    "start": 829.6,
+    "end": 831.6,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome. All right."
+  },
+  {
+    "start": 831.6,
+    "end": 834.6,
+    "speaker": "SPEAKER_00",
+    "text": "So we're talking about hubs right now."
+  },
+  {
+    "start": 834.6,
+    "end": 839.6,
+    "speaker": "SPEAKER_00",
+    "text": "So as part of the merger, are you aware kind of of the hub and spoke model."
+  },
+  {
+    "start": 839.6,
+    "end": 841.6,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, generally speaking. Yeah."
+  },
+  {
+    "start": 841.6,
+    "end": 842.6,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. Great."
+  },
+  {
+    "start": 842.6,
+    "end": 849.6,
+    "speaker": "SPEAKER_00",
+    "text": "As part of the merger, the client is looking to transform Honolulu into a hub for service around the Pacific."
+  },
+  {
+    "start": 849.6,
+    "end": 855.6,
+    "speaker": "SPEAKER_00",
+    "text": "A member of your team has run the numbers on what service would look like with and without the hub."
+  },
+  {
+    "start": 855.6,
+    "end": 861.6,
+    "speaker": "SPEAKER_00",
+    "text": "And calculate the revenue and profit impact of using Honolulu as a hub."
+  },
+  {
+    "start": 861.6,
+    "end": 866.6,
+    "speaker": "SPEAKER_00",
+    "text": "And I'm going to share this exhibit with you."
+  },
+  {
+    "start": 866.6,
+    "end": 869.6,
+    "speaker": "SPEAKER_00",
+    "text": "As long as technology cooperates."
+  },
+  {
+    "start": 869.6,
+    "end": 870.6,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 870.6,
+    "end": 872.6,
+    "speaker": "SPEAKER_00",
+    "text": "Can you see it?"
+  },
+  {
+    "start": 872.6,
+    "end": 874.6,
+    "speaker": "SPEAKER_02",
+    "text": "I can. Yes."
+  },
+  {
+    "start": 874.6,
+    "end": 882.6,
+    "speaker": "SPEAKER_00",
+    "text": "And then the specific question is if the improvements to Honolulu Airport require an investment of 500 million."
+  },
+  {
+    "start": 882.6,
+    "end": 886.6,
+    "speaker": "SPEAKER_00",
+    "text": "How long would take to pay back?"
+  },
+  {
+    "start": 886.6,
+    "end": 887.6,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 887.6,
+    "end": 890.6,
+    "speaker": "SPEAKER_02",
+    "text": "Time to pay back."
+  },
+  {
+    "start": 890.6,
+    "end": 891.6,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 891.6,
+    "end": 896.6,
+    "speaker": "SPEAKER_02",
+    "text": "So if we look at this chart that you've put up here, we can see one column is the existing service."
+  },
+  {
+    "start": 896.6,
+    "end": 900.6,
+    "speaker": "SPEAKER_02",
+    "text": "So what they're currently doing. And then one is if they were to switch the Honolulu hub."
+  },
+  {
+    "start": 900.6,
+    "end": 905.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then you can see a number of criteria here. So the flight per day seats for flight."
+  },
+  {
+    "start": 905.6,
+    "end": 911.6,
+    "speaker": "SPEAKER_02",
+    "text": "The load factor, which I guess is the percentage of occupancy on the flight is that they're right way to think about load factor."
+  },
+  {
+    "start": 911.6,
+    "end": 913.6,
+    "speaker": "SPEAKER_00",
+    "text": "How full is it?"
+  },
+  {
+    "start": 913.6,
+    "end": 914.6,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 914.6,
+    "end": 919.6,
+    "speaker": "SPEAKER_02",
+    "text": "Average one way fare fuel cost per flight and operating costs per flight."
+  },
+  {
+    "start": 919.6,
+    "end": 926.6,
+    "speaker": "SPEAKER_02",
+    "text": "So just by quickly looking at this, it looks like a couple of most of the elements are actually the same."
+  },
+  {
+    "start": 926.6,
+    "end": 927.6,
+    "speaker": "SPEAKER_02",
+    "text": "Three of them are the same."
+  },
+  {
+    "start": 927.6,
+    "end": 928.6,
+    "speaker": "SPEAKER_02",
+    "text": "Three of them are different."
+  },
+  {
+    "start": 928.6,
+    "end": 932.6,
+    "speaker": "SPEAKER_02",
+    "text": "So we can see the load factor would be slightly higher with the Honolulu hub."
+  },
+  {
+    "start": 932.6,
+    "end": 934.6,
+    "speaker": "SPEAKER_02",
+    "text": "We can see that the fuel cost."
+  },
+  {
+    "start": 934.6,
+    "end": 937.6,
+    "speaker": "SPEAKER_02",
+    "text": "There's a rise in fuel crisis with the hub, which makes sense."
+  },
+  {
+    "start": 937.6,
+    "end": 940.6,
+    "speaker": "SPEAKER_02",
+    "text": "So it's like it's flying a little bit farther each time."
+  },
+  {
+    "start": 940.6,
+    "end": 944.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then we can see that the operating costs are higher with existing service."
+  },
+  {
+    "start": 944.6,
+    "end": 950.6,
+    "speaker": "SPEAKER_02",
+    "text": "So it looks like what we should do is understand what the differential sort of profit would be from each of these areas."
+  },
+  {
+    "start": 950.6,
+    "end": 955.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then see what the payback period would be on the 500 million investment. Does that send right to you?"
+  },
+  {
+    "start": 955.6,
+    "end": 956.6,
+    "speaker": "SPEAKER_00",
+    "text": "I love it."
+  },
+  {
+    "start": 956.6,
+    "end": 957.6,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 957.6,
+    "end": 960.6,
+    "speaker": "SPEAKER_02",
+    "text": "So what I'm going to do here is I'm going to start with the revenue."
+  },
+  {
+    "start": 960.6,
+    "end": 962.6,
+    "speaker": "SPEAKER_02",
+    "text": "And I'm going to look at no hub."
+  },
+  {
+    "start": 962.6,
+    "end": 965.6,
+    "speaker": "SPEAKER_02",
+    "text": "So our existing service, what we're currently doing."
+  },
+  {
+    "start": 965.6,
+    "end": 967.6,
+    "speaker": "SPEAKER_02",
+    "text": "I'm going to take to calculate the revenue."
+  },
+  {
+    "start": 967.6,
+    "end": 971.6,
+    "speaker": "SPEAKER_02",
+    "text": "I'll take the average fairer times the number of seats."
+  },
+  {
+    "start": 971.6,
+    "end": 974.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then I'm going to multiply that by the load factor."
+  },
+  {
+    "start": 974.6,
+    "end": 978.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then the number of flights per day to get the total flights."
+  },
+  {
+    "start": 978.6,
+    "end": 985.6,
+    "speaker": "SPEAKER_02",
+    "text": "So here I can get $250 per fair for no hub times 150 seats."
+  },
+  {
+    "start": 985.6,
+    "end": 988.6,
+    "speaker": "SPEAKER_02",
+    "text": "Times a 70% load factor."
+  },
+  {
+    "start": 988.6,
+    "end": 992.6,
+    "speaker": "SPEAKER_02",
+    "text": "And that's going to equal 26,000 dollars per flight."
+  },
+  {
+    "start": 992.6,
+    "end": 995.6,
+    "speaker": "SPEAKER_02",
+    "text": "And that's going to be the number of flights per day."
+  },
+  {
+    "start": 995.6,
+    "end": 998.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then we can see that we're making for no hub."
+  },
+  {
+    "start": 998.6,
+    "end": 1003.6,
+    "speaker": "SPEAKER_02",
+    "text": "And we can see that in both scenarios, we actually have 1,500 flights per day."
+  },
+  {
+    "start": 1003.6,
+    "end": 1006.6,
+    "speaker": "SPEAKER_02",
+    "text": "So here we're going to multiply it by 1,500."
+  },
+  {
+    "start": 1006.6,
+    "end": 1009.6,
+    "speaker": "SPEAKER_02",
+    "text": "And that equals roughly 40 million per day."
+  },
+  {
+    "start": 1009.6,
+    "end": 1010.6,
+    "speaker": "SPEAKER_02",
+    "text": "Is that right?"
+  },
+  {
+    "start": 1010.6,
+    "end": 1011.6,
+    "speaker": "SPEAKER_02",
+    "text": "That's right."
+  },
+  {
+    "start": 1011.6,
+    "end": 1012.6,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect."
+  },
+  {
+    "start": 1012.6,
+    "end": 1019.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then if we look at those exact same numbers, use the exact same formula, except just use the numbers in the other column."
+  },
+  {
+    "start": 1019.6,
+    "end": 1022.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then we can see that we're in 50 seats."
+  },
+  {
+    "start": 1022.6,
+    "end": 1025.6,
+    "speaker": "SPEAKER_02",
+    "text": "So that that was the same as above."
+  },
+  {
+    "start": 1025.6,
+    "end": 1032.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then we'll multiply that instead of 70% load factor a bit higher to 80% for the load factor."
+  },
+  {
+    "start": 1032.6,
+    "end": 1035.6,
+    "speaker": "SPEAKER_02",
+    "text": "And that will actually get us to 30,000 dollars per flight."
+  },
+  {
+    "start": 1035.6,
+    "end": 1040.6,
+    "speaker": "SPEAKER_02",
+    "text": "So we can see that instead of 26,000 with no hub, we have 30,000 with a hub."
+  },
+  {
+    "start": 1040.6,
+    "end": 1042.6,
+    "speaker": "SPEAKER_02",
+    "text": "So we know that it's going to be higher."
+  },
+  {
+    "start": 1042.6,
+    "end": 1046.6,
+    "speaker": "SPEAKER_02",
+    "text": "And if we multiply it by 1,500 flights a day, that's actually 45 million."
+  },
+  {
+    "start": 1046.6,
+    "end": 1049.6,
+    "speaker": "SPEAKER_02",
+    "text": "And we can see that we have a lot of money in revenue if we're doing the hub."
+  },
+  {
+    "start": 1049.6,
+    "end": 1054.6,
+    "speaker": "SPEAKER_02",
+    "text": "But we know because of the operating cost that there's actually going to be more costs."
+  },
+  {
+    "start": 1054.6,
+    "end": 1059.6,
+    "speaker": "SPEAKER_02",
+    "text": "So let's try and figure out what the additional costs are so we can determine the profit."
+  },
+  {
+    "start": 1059.6,
+    "end": 1066.6,
+    "speaker": "SPEAKER_02",
+    "text": "So with the cost, we have the fuel cost plus the operating cost, which is 8,000 plus 5,000."
+  },
+  {
+    "start": 1066.6,
+    "end": 1072.6,
+    "speaker": "SPEAKER_02",
+    "text": "So that's 13,000 per flight times 1500 flights a day."
+  },
+  {
+    "start": 1072.6,
+    "end": 1075.6,
+    "speaker": "SPEAKER_02",
+    "text": "So the boat is it okay if I round."
+  },
+  {
+    "start": 1075.6,
+    "end": 1079.6,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, the boat 20 million per day."
+  },
+  {
+    "start": 1079.6,
+    "end": 1089.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then for the hub, it's the same where we're going to add fuel plus operating costs, so 10,000 plus 2500, which equals 12,500 dollars per flight."
+  },
+  {
+    "start": 1089.6,
+    "end": 1093.6,
+    "speaker": "SPEAKER_02",
+    "text": "Multiply one last time by the 1500 flights a day."
+  },
+  {
+    "start": 1093.6,
+    "end": 1096.6,
+    "speaker": "SPEAKER_02",
+    "text": "And we get to also approximately 20 million a day."
+  },
+  {
+    "start": 1096.6,
+    "end": 1102.6,
+    "speaker": "SPEAKER_02",
+    "text": "Not a significant difference on the cost because the fuel and the operating seem to wait each other out."
+  },
+  {
+    "start": 1102.6,
+    "end": 1115.6,
+    "speaker": "SPEAKER_02",
+    "text": "So what that comes down to is that the profit is actually going to be an incremental 5 million dollars per day by using the hub and spoke model, which is quite incredible when you think about it."
+  },
+  {
+    "start": 1115.6,
+    "end": 1128.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then if we look at that versus our 500 million investment, that's about 100 days that we would take to pay back, which is a very, very short period of time, just over three months to pay back that investment."
+  },
+  {
+    "start": 1128.6,
+    "end": 1134.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think as a next step, what I would want to do is really evaluate that 500 million investment."
+  },
+  {
+    "start": 1134.6,
+    "end": 1139.6,
+    "speaker": "SPEAKER_02",
+    "text": "I think oftentimes with infrastructure investments, the initial estimate is not actually met."
+  },
+  {
+    "start": 1139.6,
+    "end": 1143.6,
+    "speaker": "SPEAKER_02",
+    "text": "So we'd want to see like what are the risks, what are the contingencies around that."
+  },
+  {
+    "start": 1143.6,
+    "end": 1147.6,
+    "speaker": "SPEAKER_02",
+    "text": "And I would also really want to look at this, this fairer."
+  },
+  {
+    "start": 1147.6,
+    "end": 1154.6,
+    "speaker": "SPEAKER_02",
+    "text": "I'm thinking if someone would have to like de-board a plane, re-board a plane to get to their same destination, they might not be willing to pay as much."
+  },
+  {
+    "start": 1154.6,
+    "end": 1158.6,
+    "speaker": "SPEAKER_02",
+    "text": "But sort of pressure testing some of those assumptions would be my next step."
+  },
+  {
+    "start": 1158.6,
+    "end": 1159.6,
+    "speaker": "SPEAKER_00",
+    "text": "Sure."
+  },
+  {
+    "start": 1159.6,
+    "end": 1166.6,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, I mean, I think my basic reaction right is so you're telling me that I can invest 500 million dollars."
+  },
+  {
+    "start": 1166.6,
+    "end": 1170.6,
+    "speaker": "SPEAKER_00",
+    "text": "And in 200 days, I can double that investment, right?"
+  },
+  {
+    "start": 1170.6,
+    "end": 1177.6,
+    "speaker": "SPEAKER_00",
+    "text": "Like that feels like what's your immediate reaction if I told you I have a great investment idea for you."
+  },
+  {
+    "start": 1177.6,
+    "end": 1182.6,
+    "speaker": "SPEAKER_00",
+    "text": "I need to I need a half a billion dollars and I'll turn it into a billion dollars and 200 days."
+  },
+  {
+    "start": 1182.6,
+    "end": 1189.6,
+    "speaker": "SPEAKER_02",
+    "text": "I think anybody on the planet who had 500 million dollars would give it to you in a second."
+  },
+  {
+    "start": 1189.6,
+    "end": 1192.6,
+    "speaker": "SPEAKER_02",
+    "text": "If I had 500 million, it would be going to you."
+  },
+  {
+    "start": 1192.6,
+    "end": 1197.6,
+    "speaker": "SPEAKER_00",
+    "text": "Sure, if I could guarantee you, right? But I think my question is like, would you trust it?"
+  },
+  {
+    "start": 1197.6,
+    "end": 1201.6,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, that's that's the thing. I think that's where you really do have to pressure test the numbers."
+  },
+  {
+    "start": 1201.6,
+    "end": 1208.6,
+    "speaker": "SPEAKER_02",
+    "text": "I do think the hub and spoke model to your point earlier where you said like let's compare this to a similar situation."
+  },
+  {
+    "start": 1208.6,
+    "end": 1213.6,
+    "speaker": "SPEAKER_02",
+    "text": "So the main spoke model is used in the airline industry all over the place."
+  },
+  {
+    "start": 1213.6,
+    "end": 1222.6,
+    "speaker": "SPEAKER_02",
+    "text": "It's going to be a pretty easy investment to justify. I'm sure there 100 case studies that you could come up with where you could show the math and how it's worked out."
+  },
+  {
+    "start": 1222.6,
+    "end": 1225.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I do think that it's probably going to be a pretty good investment."
+  },
+  {
+    "start": 1225.6,
+    "end": 1226.6,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, awesome."
+  },
+  {
+    "start": 1226.6,
+    "end": 1227.6,
+    "speaker": "SPEAKER_00",
+    "text": "All right."
+  },
+  {
+    "start": 1227.6,
+    "end": 1231.6,
+    "speaker": "SPEAKER_00",
+    "text": "So good news."
+  },
+  {
+    "start": 1231.6,
+    "end": 1237.6,
+    "speaker": "SPEAKER_00",
+    "text": "Alaska did decide to go forward and is proceeding with plans to make Honolulu a hub."
+  },
+  {
+    "start": 1237.6,
+    "end": 1240.6,
+    "speaker": "SPEAKER_00",
+    "text": "Um, but bad news."
+  },
+  {
+    "start": 1240.6,
+    "end": 1247.6,
+    "speaker": "SPEAKER_00",
+    "text": "Um, we're getting word that we have one passenger in particular that is very negatively impacted."
+  },
+  {
+    "start": 1247.6,
+    "end": 1251.6,
+    "speaker": "SPEAKER_00",
+    "text": "Passengers in San Diego and flies to Maui three times a year."
+  },
+  {
+    "start": 1251.6,
+    "end": 1265.6,
+    "speaker": "SPEAKER_00",
+    "text": "Um, so like now that the flights are routing through Honolulu in the updated hub model, this passengers one time travel will increase from 5.5 hours to 8.5 hours each day."
+  },
+  {
+    "start": 1265.6,
+    "end": 1268.6,
+    "speaker": "SPEAKER_00",
+    "text": "And let me tell you, he's pissed."
+  },
+  {
+    "start": 1268.6,
+    "end": 1269.6,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 1269.6,
+    "end": 1279.6,
+    "speaker": "SPEAKER_00",
+    "text": "It's been a long time loyalty program manager, uh, program member. He's very upset taking to social media to complain about the merger disparaging the airlines."
+  },
+  {
+    "start": 1279.6,
+    "end": 1284.6,
+    "speaker": "SPEAKER_00",
+    "text": "How dare they add three hours to my flight to get to Maui."
+  },
+  {
+    "start": 1284.6,
+    "end": 1287.6,
+    "speaker": "SPEAKER_00",
+    "text": "It's a bunch of dummies over there."
+  },
+  {
+    "start": 1287.6,
+    "end": 1288.6,
+    "speaker": "SPEAKER_00",
+    "text": "He's very mad."
+  },
+  {
+    "start": 1288.6,
+    "end": 1289.6,
+    "speaker": "SPEAKER_00",
+    "text": "What would you do?"
+  },
+  {
+    "start": 1289.6,
+    "end": 1290.6,
+    "speaker": "SPEAKER_02",
+    "text": "Just imagine the tweets."
+  },
+  {
+    "start": 1290.6,
+    "end": 1291.6,
+    "speaker": "SPEAKER_02",
+    "text": "Let me tell you."
+  },
+  {
+    "start": 1291.6,
+    "end": 1299.6,
+    "speaker": "SPEAKER_00",
+    "text": "I'm just a fire storm every time he hops on the point he's live tweeting about us on his flights."
+  },
+  {
+    "start": 1299.6,
+    "end": 1300.6,
+    "speaker": "SPEAKER_00",
+    "text": "It's a mess."
+  },
+  {
+    "start": 1300.6,
+    "end": 1306.6,
+    "speaker": "SPEAKER_02",
+    "text": "I think first they should look into discontinuing the free Wi-Fi for the loyalty members and that case."
+  },
+  {
+    "start": 1306.6,
+    "end": 1307.6,
+    "speaker": "SPEAKER_02",
+    "text": "Just kidding."
+  },
+  {
+    "start": 1307.6,
+    "end": 1308.6,
+    "speaker": "SPEAKER_02",
+    "text": "Just kidding."
+  },
+  {
+    "start": 1308.6,
+    "end": 1309.6,
+    "speaker": "SPEAKER_02",
+    "text": "Um, okay."
+  },
+  {
+    "start": 1309.6,
+    "end": 1312.6,
+    "speaker": "SPEAKER_02",
+    "text": "So it sounds like we need a bit of a PR team on this."
+  },
+  {
+    "start": 1312.6,
+    "end": 1315.6,
+    "speaker": "SPEAKER_02",
+    "text": "So if we look at the steps that we would need to take."
+  },
+  {
+    "start": 1315.6,
+    "end": 1327.6,
+    "speaker": "SPEAKER_02",
+    "text": "Um, for me, the first thing in this type of situation that I think brands should do is always just acknowledge the impact that they've had, you know, an apology costs absolutely nothing."
+  },
+  {
+    "start": 1327.6,
+    "end": 1331.6,
+    "speaker": "SPEAKER_02",
+    "text": "And it's can sometimes go a long way and just say like we're really sorry you've been inconvenienced."
+  },
+  {
+    "start": 1331.6,
+    "end": 1334.6,
+    "speaker": "SPEAKER_02",
+    "text": "We've added three hours times three trips a year."
+  },
+  {
+    "start": 1334.6,
+    "end": 1336.6,
+    "speaker": "SPEAKER_02",
+    "text": "That's nine hours of this guy's life."
+  },
+  {
+    "start": 1336.6,
+    "end": 1337.6,
+    "speaker": "SPEAKER_02",
+    "text": "I get it."
+  },
+  {
+    "start": 1337.6,
+    "end": 1338.6,
+    "speaker": "SPEAKER_02",
+    "text": "It's not."
+  },
+  {
+    "start": 1338.6,
+    "end": 1340.6,
+    "speaker": "SPEAKER_02",
+    "text": "He's not happy about it."
+  },
+  {
+    "start": 1340.6,
+    "end": 1341.6,
+    "speaker": "SPEAKER_02",
+    "text": "I acknowledge it."
+  },
+  {
+    "start": 1341.6,
+    "end": 1345.6,
+    "speaker": "SPEAKER_02",
+    "text": "Tell him that that you know you're sorry about the impact that's had on his life."
+  },
+  {
+    "start": 1345.6,
+    "end": 1350.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then that's where I think more of the like monetary compensation might be able to come in."
+  },
+  {
+    "start": 1350.6,
+    "end": 1353.6,
+    "speaker": "SPEAKER_02",
+    "text": "The first I think is just in the in the respective points."
+  },
+  {
+    "start": 1353.6,
+    "end": 1355.6,
+    "speaker": "SPEAKER_02",
+    "text": "It sounds like he's a loyalty member."
+  },
+  {
+    "start": 1355.6,
+    "end": 1357.6,
+    "speaker": "SPEAKER_02",
+    "text": "We obviously want him to stay loyal."
+  },
+  {
+    "start": 1357.6,
+    "end": 1365.6,
+    "speaker": "SPEAKER_02",
+    "text": "And so saying like here's some free points responding to the tweets and saying here's some points for compensation for your inconvenience."
+  },
+  {
+    "start": 1365.6,
+    "end": 1373.6,
+    "speaker": "SPEAKER_02",
+    "text": "And so that's what I think is that he might help him retain him for his future trips, but also just a couple of free points goes a long way sometimes."
+  },
+  {
+    "start": 1373.6,
+    "end": 1385.6,
+    "speaker": "SPEAKER_02",
+    "text": "And if we still didn't think that was enough, the third sort of step or third option might be even to add a cash cash bonus in there and just say like next time you book on the same route, you get $50 off."
+  },
+  {
+    "start": 1385.6,
+    "end": 1393.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then you get a very little to our bottom line, especially when we're looking at that 50 million 500 million and 100 days sort of target there."
+  },
+  {
+    "start": 1393.6,
+    "end": 1395.6,
+    "speaker": "SPEAKER_02",
+    "text": "It really doesn't impact that."
+  },
+  {
+    "start": 1395.6,
+    "end": 1398.6,
+    "speaker": "SPEAKER_02",
+    "text": "But might go a long way for him and for our brand."
+  },
+  {
+    "start": 1398.6,
+    "end": 1403.6,
+    "speaker": "SPEAKER_02",
+    "text": "But overall, I do just want to clarify that this is one person."
+  },
+  {
+    "start": 1403.6,
+    "end": 1414.6,
+    "speaker": "SPEAKER_02",
+    "text": "There could be thousands of people who are being impacted in a similar way, who maybe just aren't as active on social media or maybe one of the three trips of the year just has not come up yet."
+  },
+  {
+    "start": 1414.6,
+    "end": 1425.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think that what's important is creating some type of like system in which we would be able to intake the complaints and some system that we would use to deal with it in a very standardized way."
+  },
+  {
+    "start": 1425.6,
+    "end": 1432.6,
+    "speaker": "SPEAKER_02",
+    "text": "We don't want to have hundreds of people having to work on this and sort of squash the customer service complaints and be responding on Twitter."
+  },
+  {
+    "start": 1432.6,
+    "end": 1436.6,
+    "speaker": "SPEAKER_02",
+    "text": "We want to be able to have a very like systemized wage respond."
+  },
+  {
+    "start": 1436.6,
+    "end": 1442.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think creating a system and replicating that over and over for all the impact customers."
+  },
+  {
+    "start": 1442.6,
+    "end": 1452.6,
+    "speaker": "SPEAKER_00",
+    "text": "So what would you think about creating a system to deal with angry people versus proactively trying to prevent them."
+  },
+  {
+    "start": 1452.6,
+    "end": 1457.6,
+    "speaker": "SPEAKER_00",
+    "text": "Like which, you know, which method are you going down?"
+  },
+  {
+    "start": 1457.6,
+    "end": 1466.6,
+    "speaker": "SPEAKER_02",
+    "text": "I think that if you're a BTC brand, you will always have customers who are upset about something."
+  },
+  {
+    "start": 1466.6,
+    "end": 1472.6,
+    "speaker": "SPEAKER_02",
+    "text": "Something that's going to work for 80% of people, but not for the 20% and the 20% will always complain."
+  },
+  {
+    "start": 1472.6,
+    "end": 1480.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think yes, there might be a certain like, you know, you have a message on the website. We're sorry for all customers impacted by our new routing."
+  },
+  {
+    "start": 1480.6,
+    "end": 1489.6,
+    "speaker": "SPEAKER_02",
+    "text": "Fine, but I do think you're always going to need a team to sort of help with the individual complaints from customers and sort of the more reactive team."
+  },
+  {
+    "start": 1489.6,
+    "end": 1492.6,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome. Okay, great."
+  },
+  {
+    "start": 1492.6,
+    "end": 1498.6,
+    "speaker": "SPEAKER_00",
+    "text": "So, got a note from the CFO."
+  },
+  {
+    "start": 1498.6,
+    "end": 1500.6,
+    "speaker": "SPEAKER_00",
+    "text": "Now, pretty worried."
+  },
+  {
+    "start": 1500.6,
+    "end": 1506.6,
+    "speaker": "SPEAKER_00",
+    "text": "He is worried that the companies are not adequately preparing for the risks of the integration."
+  },
+  {
+    "start": 1506.6,
+    "end": 1510.6,
+    "speaker": "SPEAKER_00",
+    "text": "In a timeline wise, this has to be post."
+  },
+  {
+    "start": 1510.6,
+    "end": 1516.6,
+    "speaker": "SPEAKER_00",
+    "text": "We've already merged, but we're worried or we've already completed the transaction is your where, right?"
+  },
+  {
+    "start": 1516.6,
+    "end": 1519.6,
+    "speaker": "SPEAKER_00",
+    "text": "So, the teams are not prepared for the risks."
+  },
+  {
+    "start": 1519.6,
+    "end": 1524.6,
+    "speaker": "SPEAKER_00",
+    "text": "What do you need the major risk for this project and how would you mitigate them?"
+  },
+  {
+    "start": 1524.6,
+    "end": 1526.6,
+    "speaker": "SPEAKER_02",
+    "text": "Great question."
+  },
+  {
+    "start": 1526.6,
+    "end": 1531.6,
+    "speaker": "SPEAKER_02",
+    "text": "So the first risk, I would say, is just from an operational perspective."
+  },
+  {
+    "start": 1531.6,
+    "end": 1534.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think one is just from like any efficiencies."
+  },
+  {
+    "start": 1534.6,
+    "end": 1539.6,
+    "speaker": "SPEAKER_02",
+    "text": "People are going to be learning new systems. They're going to be learning new routes."
+  },
+  {
+    "start": 1539.6,
+    "end": 1542.6,
+    "speaker": "SPEAKER_02",
+    "text": "They're going to need to learn the thing they're supposed to say when there's an angry customer."
+  },
+  {
+    "start": 1542.6,
+    "end": 1547.6,
+    "speaker": "SPEAKER_02",
+    "text": "So, there's a lot of new stuff that's going to happen and people are going to be inefficient."
+  },
+  {
+    "start": 1547.6,
+    "end": 1554.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then secondly is from a safety perspective, like we are in the business of flying people in the air from one place to another."
+  },
+  {
+    "start": 1554.6,
+    "end": 1557.6,
+    "speaker": "SPEAKER_02",
+    "text": "It's not the world's safest activity."
+  },
+  {
+    "start": 1557.6,
+    "end": 1561.6,
+    "speaker": "SPEAKER_02",
+    "text": "So just making sure I mean, it's not that unsafe, but you know what I mean?"
+  },
+  {
+    "start": 1561.6,
+    "end": 1568.6,
+    "speaker": "SPEAKER_00",
+    "text": "There have to be protocols that are more dangerous than sitting on your couch eating Cheerios and watching cartoons."
+  },
+  {
+    "start": 1568.6,
+    "end": 1569.6,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you."
+  },
+  {
+    "start": 1569.6,
+    "end": 1572.6,
+    "speaker": "SPEAKER_00",
+    "text": "So if you're less dangerous than base jumping."
+  },
+  {
+    "start": 1572.6,
+    "end": 1574.6,
+    "speaker": "SPEAKER_02",
+    "text": "There you go."
+  },
+  {
+    "start": 1574.6,
+    "end": 1577.6,
+    "speaker": "SPEAKER_02",
+    "text": "Somewhere between those two."
+  },
+  {
+    "start": 1577.6,
+    "end": 1583.6,
+    "speaker": "SPEAKER_02",
+    "text": "So my mitigation for that would be just a phased implementation of this like before the merger."
+  },
+  {
+    "start": 1583.6,
+    "end": 1585.6,
+    "speaker": "SPEAKER_02",
+    "text": "The two companies were operating perfectly fine."
+  },
+  {
+    "start": 1585.6,
+    "end": 1594.6,
+    "speaker": "SPEAKER_02",
+    "text": "If it takes a little bit longer to sort of implement, but it can be done in a way that's methodological and that people are safe and that people understand what's going on."
+  },
+  {
+    "start": 1594.6,
+    "end": 1597.6,
+    "speaker": "SPEAKER_02",
+    "text": "So I think that's a great way to get into that."
+  },
+  {
+    "start": 1597.6,
+    "end": 1600.6,
+    "speaker": "SPEAKER_02",
+    "text": "And I think that's a great way to get into that."
+  },
+  {
+    "start": 1600.6,
+    "end": 1604.6,
+    "speaker": "SPEAKER_02",
+    "text": "Even if it takes like a full year or two to get to the very end."
+  },
+  {
+    "start": 1604.6,
+    "end": 1612.6,
+    "speaker": "SPEAKER_00",
+    "text": "What I would say about the phased integration is just the team sort of prioritizing the elements that will have the biggest impact first and then facing down from there."
+  },
+  {
+    "start": 1612.6,
+    "end": 1614.6,
+    "speaker": "SPEAKER_00",
+    "text": "Great."
+  },
+  {
+    "start": 1614.6,
+    "end": 1616.6,
+    "speaker": "SPEAKER_00",
+    "text": "Excellent recommendation."
+  },
+  {
+    "start": 1616.6,
+    "end": 1617.6,
+    "speaker": "SPEAKER_00",
+    "text": "But bad news."
+  },
+  {
+    "start": 1617.6,
+    "end": 1623.6,
+    "speaker": "SPEAKER_02",
+    "text": "Our CEO friend is still in an absolute huff."
+  },
+  {
+    "start": 1623.6,
+    "end": 1624.6,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 1624.6,
+    "end": 1628.6,
+    "speaker": "SPEAKER_00",
+    "text": "And they are concerned that the merger is not even worthwhile."
+  },
+  {
+    "start": 1628.6,
+    "end": 1631.6,
+    "speaker": "SPEAKER_00",
+    "text": "Not even why do we even do this thing?"
+  },
+  {
+    "start": 1631.6,
+    "end": 1632.6,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 1632.6,
+    "end": 1633.6,
+    "speaker": "SPEAKER_00",
+    "text": "I'm going to unmerge."
+  },
+  {
+    "start": 1633.6,
+    "end": 1634.6,
+    "speaker": "SPEAKER_00",
+    "text": "Demerge."
+  },
+  {
+    "start": 1634.6,
+    "end": 1635.6,
+    "speaker": "SPEAKER_02",
+    "text": "Wow."
+  },
+  {
+    "start": 1635.6,
+    "end": 1636.6,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1636.6,
+    "end": 1638.6,
+    "speaker": "SPEAKER_00",
+    "text": "So."
+  },
+  {
+    "start": 1638.6,
+    "end": 1647.6,
+    "speaker": "SPEAKER_00",
+    "text": "You know, what's your final recommendation on like how to get the most value and kind of reassure the CFO to not take their ball and go home."
+  },
+  {
+    "start": 1647.6,
+    "end": 1649.6,
+    "speaker": "SPEAKER_02",
+    "text": "So, I think that's a great question."
+  },
+  {
+    "start": 1649.6,
+    "end": 1650.6,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1650.6,
+    "end": 1657.6,
+    "speaker": "SPEAKER_02",
+    "text": "Well, I think the first thing is really just reorienting the CFO and ourselves and everyone in terms of what the goal of this merger was."
+  },
+  {
+    "start": 1657.6,
+    "end": 1660.6,
+    "speaker": "SPEAKER_02",
+    "text": "The goal of the merger was not to reduce customer complaints."
+  },
+  {
+    "start": 1660.6,
+    "end": 1667.6,
+    "speaker": "SPEAKER_02",
+    "text": "The goal of the merger was to maximize revenue and profitability of the combined airline."
+  },
+  {
+    "start": 1667.6,
+    "end": 1668.6,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1668.6,
+    "end": 1672.6,
+    "speaker": "SPEAKER_02",
+    "text": "And I think that sort of the way and to do that is to maintain the distinct brands."
+  },
+  {
+    "start": 1672.6,
+    "end": 1677.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then there are some things that need to be maintained as a result of that."
+  },
+  {
+    "start": 1677.6,
+    "end": 1679.6,
+    "speaker": "SPEAKER_02",
+    "text": "Some separate operations."
+  },
+  {
+    "start": 1679.6,
+    "end": 1680.6,
+    "speaker": "SPEAKER_02",
+    "text": "That's okay."
+  },
+  {
+    "start": 1680.6,
+    "end": 1683.6,
+    "speaker": "SPEAKER_02",
+    "text": "You know, they're going to each have their own website, for example."
+  },
+  {
+    "start": 1683.6,
+    "end": 1688.6,
+    "speaker": "SPEAKER_02",
+    "text": "But it's really just maintaining those distinct brands, maintaining the distinct way that they, they currently are."
+  },
+  {
+    "start": 1688.6,
+    "end": 1691.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then second is to transform Honolulu into to a hub."
+  },
+  {
+    "start": 1691.6,
+    "end": 1698.6,
+    "speaker": "SPEAKER_02",
+    "text": "That's really what needs to be done in order to maximize the profitability of the airlines."
+  },
+  {
+    "start": 1698.6,
+    "end": 1701.6,
+    "speaker": "SPEAKER_02",
+    "text": "We saw there with increased revenue by doing that."
+  },
+  {
+    "start": 1701.6,
+    "end": 1706.6,
+    "speaker": "SPEAKER_02",
+    "text": "And I think that that's probably the most important thing to sort of reassure the CFO."
+  },
+  {
+    "start": 1706.6,
+    "end": 1712.6,
+    "speaker": "SPEAKER_02",
+    "text": "And then the third thing I would do to reassure him is just say like, we're with you on this next phase of the journey."
+  },
+  {
+    "start": 1712.6,
+    "end": 1717.6,
+    "speaker": "SPEAKER_02",
+    "text": "And there are some next steps that we can continue to look into to make sure that you're supported as this goes on."
+  },
+  {
+    "start": 1717.6,
+    "end": 1719.6,
+    "speaker": "SPEAKER_02",
+    "text": "No one wants to feel like they're alone."
+  },
+  {
+    "start": 1719.6,
+    "end": 1727.6,
+    "speaker": "SPEAKER_02",
+    "text": "So sort of reassuring the CFO and saying like, let's really look back into those infrastructure investments and let's finalize what we think those were."
+  },
+  {
+    "start": 1727.6,
+    "end": 1737.6,
+    "speaker": "SPEAKER_02",
+    "text": "And let's also initiate the brand loyalty program across the two programs to really, you know, continue to push that branding that customer attention."
+  },
+  {
+    "start": 1737.6,
+    "end": 1744.6,
+    "speaker": "SPEAKER_02",
+    "text": "And make sure that they're all supported in this next phase of the combined company journey."
+  },
+  {
+    "start": 1744.6,
+    "end": 1746.6,
+    "speaker": "SPEAKER_00",
+    "text": "I think you did it."
+  },
+  {
+    "start": 1746.6,
+    "end": 1748.6,
+    "speaker": "SPEAKER_00",
+    "text": "I think they're calming down."
+  },
+  {
+    "start": 1748.6,
+    "end": 1750.6,
+    "speaker": "SPEAKER_00",
+    "text": "They're going to proceed. I think we should feel."
+  },
+  {
+    "start": 1750.6,
+    "end": 1752.6,
+    "speaker": "SPEAKER_00",
+    "text": "All right. Very good."
+  },
+  {
+    "start": 1752.6,
+    "end": 1754.6,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome. Well, Tessa, thank you so much."
+  },
+  {
+    "start": 1754.6,
+    "end": 1756.6,
+    "speaker": "SPEAKER_00",
+    "text": "Really appreciate your time."
+  },
+  {
+    "start": 1756.6,
+    "end": 1760.6,
+    "speaker": "SPEAKER_00",
+    "text": "And we'll be back with you with a final decision."
+  },
+  {
+    "start": 1760.6,
+    "end": 1761.6,
+    "speaker": "SPEAKER_02",
+    "text": "Thank you."
+  },
+  {
+    "start": 1761.6,
+    "end": 1764.6,
+    "speaker": "SPEAKER_01",
+    "text": "Hey, everyone. It's Kent and Givessey here, the founder of Rockablocks."
+  },
+  {
+    "start": 1764.6,
+    "end": 1766.6,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you so much for watching this mock interview video."
+  },
+  {
+    "start": 1766.6,
+    "end": 1774.6,
+    "speaker": "SPEAKER_01",
+    "text": "I hope you found it informative and helpful as you were getting ready to prepare for your own interviews and hopefully landing that job offer."
+  },
+  {
+    "start": 1774.6,
+    "end": 1779.6,
+    "speaker": "SPEAKER_01",
+    "text": "You are excited about we have a ton of great content on the Rockablocks channel coming out on a weekly basis."
+  },
+  {
+    "start": 1779.6,
+    "end": 1783.6,
+    "speaker": "SPEAKER_01",
+    "text": "mock interviews, mini lessons and chats with our Rockablocks experts."
+  },
+  {
+    "start": 1783.6,
+    "end": 1786.6,
+    "speaker": "SPEAKER_01",
+    "text": "So if you haven't subscribed yet already, please do so."
+  },
+  {
+    "start": 1786.6,
+    "end": 1788.6,
+    "speaker": "SPEAKER_01",
+    "text": "There is a big red button below."
+  },
+  {
+    "start": 1788.6,
+    "end": 1791.6,
+    "speaker": "SPEAKER_01",
+    "text": "And if you hit that, you'll get all of our content as soon as it comes out."
+  },
+  {
+    "start": 1791.6,
+    "end": 1793.6,
+    "speaker": "SPEAKER_01",
+    "text": "Thanks for watching and have a great day."
+  }
+]

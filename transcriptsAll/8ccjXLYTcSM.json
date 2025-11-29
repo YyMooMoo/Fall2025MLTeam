@@ -1,0 +1,1796 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.8,
+    "speaker": "SPEAKER_00",
+    "text": "Hello everyone, my name is Kent and Kovesti, I'm an ex-BCG consultant, ex-Googleer, and"
+  },
+  {
+    "start": 6.8,
+    "end": 11.56,
+    "speaker": "SPEAKER_00",
+    "text": "the founder of Rocketblocks and online platform helps candidates prepare for interviews."
+  },
+  {
+    "start": 11.56,
+    "end": 15.52,
+    "speaker": "SPEAKER_00",
+    "text": "In today's Rocketblocks video, we've got an awesome mock case interview featuring two"
+  },
+  {
+    "start": 15.52,
+    "end": 17.400000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "of our Rocketblocks experts."
+  },
+  {
+    "start": 17.400000000000002,
+    "end": 22.240000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "Yathar Sharma is a graduate of the Blue School of Business and a BCG consultant."
+  },
+  {
+    "start": 22.240000000000002,
+    "end": 26.76,
+    "speaker": "SPEAKER_00",
+    "text": "And Daniella Fernandez is a graduate of the Darden School of Business and an incoming"
+  },
+  {
+    "start": 26.76,
+    "end": 28.36,
+    "speaker": "SPEAKER_00",
+    "text": "BCG consultant."
+  },
+  {
+    "start": 28.36,
+    "end": 30.96,
+    "speaker": "SPEAKER_00",
+    "text": "The case that they're working through is a fun case as well."
+  },
+  {
+    "start": 30.96,
+    "end": 35.56,
+    "speaker": "SPEAKER_00",
+    "text": "It's about one snack food company, a peanut company, thinking about acquiring another"
+  },
+  {
+    "start": 35.56,
+    "end": 38.0,
+    "speaker": "SPEAKER_00",
+    "text": "snack food company focused on the all-in space."
+  },
+  {
+    "start": 38.0,
+    "end": 43.2,
+    "speaker": "SPEAKER_00",
+    "text": "There's a lot of fun market-sizing, profitability aspects to this case, so let's go ahead and"
+  },
+  {
+    "start": 43.2,
+    "end": 44.2,
+    "speaker": "SPEAKER_00",
+    "text": "jump in."
+  },
+  {
+    "start": 44.2,
+    "end": 49.0,
+    "speaker": "SPEAKER_03",
+    "text": "Hey Daniella, thanks for taking out the time and for the folks listening in."
+  },
+  {
+    "start": 49.0,
+    "end": 53.64,
+    "speaker": "SPEAKER_03",
+    "text": "My name is Yathar and I am a consultant at BCG Chicago."
+  },
+  {
+    "start": 53.64,
+    "end": 56.32,
+    "speaker": "SPEAKER_01",
+    "text": "Hi everyone, I am Daniella."
+  },
+  {
+    "start": 56.32,
+    "end": 61.12,
+    "speaker": "SPEAKER_01",
+    "text": "I am at our MBA and I'm an incoming consultant at BCG."
+  },
+  {
+    "start": 61.12,
+    "end": 63.480000000000004,
+    "speaker": "SPEAKER_03",
+    "text": "Awesome, thanks for taking out the time Daniella."
+  },
+  {
+    "start": 63.480000000000004,
+    "end": 66.04,
+    "speaker": "SPEAKER_03",
+    "text": "Super excited to run this case with you."
+  },
+  {
+    "start": 66.04,
+    "end": 68.16,
+    "speaker": "SPEAKER_03",
+    "text": "So if you're ready, guess you're proud."
+  },
+  {
+    "start": 68.16,
+    "end": 69.76,
+    "speaker": "SPEAKER_01",
+    "text": "Yes, let's do it."
+  },
+  {
+    "start": 69.76,
+    "end": 70.76,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you."
+  },
+  {
+    "start": 70.76,
+    "end": 71.76,
+    "speaker": "SPEAKER_03",
+    "text": "Awesome."
+  },
+  {
+    "start": 71.76,
+    "end": 79.03999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "So, our client is Peanutco, a US snack foods company specializing in snacking peanuts."
+  },
+  {
+    "start": 79.03999999999999,
+    "end": 85.88,
+    "speaker": "SPEAKER_03",
+    "text": "They're planning to acquire another company specializing in snacking alums and that"
+  },
+  {
+    "start": 85.88,
+    "end": 89.72,
+    "speaker": "SPEAKER_03",
+    "text": "target company is called Armand Co."
+  },
+  {
+    "start": 89.72,
+    "end": 95.36,
+    "speaker": "SPEAKER_03",
+    "text": "Peanutco is currently the market leader in snacking peanuts, but the overall segment is"
+  },
+  {
+    "start": 95.36,
+    "end": 99.88,
+    "speaker": "SPEAKER_03",
+    "text": "drawing slowly compared to the market and they want to diversify."
+  },
+  {
+    "start": 99.88,
+    "end": 103.24,
+    "speaker": "SPEAKER_03",
+    "text": "So they've hired us to tell them whether this is a good idea."
+  },
+  {
+    "start": 103.24,
+    "end": 106.64,
+    "speaker": "SPEAKER_01",
+    "text": "Right, it seems like a very interesting case."
+  },
+  {
+    "start": 106.64,
+    "end": 109.19999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I'm a big snacker, so I'm excited to jump in."
+  },
+  {
+    "start": 109.19999999999999,
+    "end": 110.19999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Do this."
+  },
+  {
+    "start": 110.19999999999999,
+    "end": 112.8,
+    "speaker": "SPEAKER_01",
+    "text": "Just to make sure I got it correctly."
+  },
+  {
+    "start": 112.8,
+    "end": 114.56,
+    "speaker": "SPEAKER_01",
+    "text": "We're trying to spin at Co."
+  },
+  {
+    "start": 114.56,
+    "end": 119.2,
+    "speaker": "SPEAKER_01",
+    "text": "They're a leader in peanuts, but they see slow growth so they came to us to see they should"
+  },
+  {
+    "start": 119.2,
+    "end": 122.64,
+    "speaker": "SPEAKER_01",
+    "text": "purchase Almanco today for a sick by, is that correct?"
+  },
+  {
+    "start": 122.64,
+    "end": 123.64,
+    "speaker": "SPEAKER_02",
+    "text": "Yep."
+  },
+  {
+    "start": 123.64,
+    "end": 124.64,
+    "speaker": "SPEAKER_01",
+    "text": "Awesome."
+  },
+  {
+    "start": 124.64,
+    "end": 129.44,
+    "speaker": "SPEAKER_01",
+    "text": "So I would just love to ask you a few questions if that's okay."
+  },
+  {
+    "start": 129.44,
+    "end": 132.35999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "The first one is what's their business model?"
+  },
+  {
+    "start": 132.35999999999999,
+    "end": 134.24,
+    "speaker": "SPEAKER_01",
+    "text": "Are they vertically integrated?"
+  },
+  {
+    "start": 134.24,
+    "end": 138.44,
+    "speaker": "SPEAKER_01",
+    "text": "Are they playing in other segments other than peanuts?"
+  },
+  {
+    "start": 138.44,
+    "end": 139.44,
+    "speaker": "SPEAKER_03",
+    "text": "That's a great question."
+  },
+  {
+    "start": 139.44,
+    "end": 145.0,
+    "speaker": "SPEAKER_03",
+    "text": "They are focused only on peanuts and they manage the free-day land distribution and manufacturing"
+  },
+  {
+    "start": 145.0,
+    "end": 146.0,
+    "speaker": "SPEAKER_03",
+    "text": "side."
+  },
+  {
+    "start": 146.0,
+    "end": 150.12,
+    "speaker": "SPEAKER_03",
+    "text": "So the supply side is mostly commoditized, so that's pretty standard."
+  },
+  {
+    "start": 150.12,
+    "end": 155.92,
+    "speaker": "SPEAKER_03",
+    "text": "But for the purposes of this case, our client is heavy on manufacturing distribution and"
+  },
+  {
+    "start": 155.92,
+    "end": 156.92,
+    "speaker": "SPEAKER_03",
+    "text": "retail."
+  },
+  {
+    "start": 156.92,
+    "end": 159.12,
+    "speaker": "SPEAKER_01",
+    "text": "All right, that makes sense."
+  },
+  {
+    "start": 159.12,
+    "end": 164.6,
+    "speaker": "SPEAKER_01",
+    "text": "The second question is, this slow growth trend that you talked about is it affecting"
+  },
+  {
+    "start": 164.6,
+    "end": 169.07999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "the entire snacking industry or is it just payments?"
+  },
+  {
+    "start": 169.08,
+    "end": 172.28,
+    "speaker": "SPEAKER_03",
+    "text": "We are actually just seeing this on peanuts."
+  },
+  {
+    "start": 172.28,
+    "end": 177.04000000000002,
+    "speaker": "SPEAKER_03",
+    "text": "So that's why peanut co would like to try out a different area of the snacking industry."
+  },
+  {
+    "start": 177.04000000000002,
+    "end": 178.04000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Interesting."
+  },
+  {
+    "start": 178.04000000000002,
+    "end": 179.04000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "And we'll like it."
+  },
+  {
+    "start": 179.04000000000002,
+    "end": 184.76000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "It makes sense because Alman's are like superfoods and they must be growing."
+  },
+  {
+    "start": 184.76000000000002,
+    "end": 186.60000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "The next one is about the objective."
+  },
+  {
+    "start": 186.60000000000002,
+    "end": 189.8,
+    "speaker": "SPEAKER_01",
+    "text": "So, whether exactly are they looking at?"
+  },
+  {
+    "start": 189.8,
+    "end": 192.88000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Do they want profit, sales, or just keep growing?"
+  },
+  {
+    "start": 192.88000000000002,
+    "end": 194.52,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, good question."
+  },
+  {
+    "start": 194.52,
+    "end": 200.72,
+    "speaker": "SPEAKER_03",
+    "text": "So they primarily want to diversify simply because they are pecans and created in peanuts."
+  },
+  {
+    "start": 200.72,
+    "end": 205.28,
+    "speaker": "SPEAKER_03",
+    "text": "But any other reasons why this may or may not be a good idea, they trust our advice."
+  },
+  {
+    "start": 205.28,
+    "end": 210.60000000000002,
+    "speaker": "SPEAKER_03",
+    "text": "So please feel free to suggest any other metrics that might be fitting in this analysis."
+  },
+  {
+    "start": 210.60000000000002,
+    "end": 212.28,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, that's good."
+  },
+  {
+    "start": 212.28,
+    "end": 216.08,
+    "speaker": "SPEAKER_01",
+    "text": "And the last one, Jessica Clarify, we're talking about US only, right?"
+  },
+  {
+    "start": 216.08,
+    "end": 219.0,
+    "speaker": "SPEAKER_03",
+    "text": "Yep, we're talking about the US markets only."
+  },
+  {
+    "start": 219.0,
+    "end": 221.28,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, perfect."
+  },
+  {
+    "start": 221.32,
+    "end": 225.24,
+    "speaker": "SPEAKER_01",
+    "text": "I would love to take a couple of minutes just to put my ideas in order and then come back to you."
+  },
+  {
+    "start": 225.24,
+    "end": 226.24,
+    "speaker": "SPEAKER_01",
+    "text": "That's okay."
+  },
+  {
+    "start": 226.24,
+    "end": 227.24,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, sure."
+  },
+  {
+    "start": 237.24,
+    "end": 238.24,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 238.24,
+    "end": 246.24,
+    "speaker": "SPEAKER_01",
+    "text": "So in order to recommend if they should acquire Almanco or not, I think I would look into four different things."
+  },
+  {
+    "start": 246.28,
+    "end": 248.8,
+    "speaker": "SPEAKER_01",
+    "text": "The first one is the Alman market."
+  },
+  {
+    "start": 248.8,
+    "end": 253.12,
+    "speaker": "SPEAKER_01",
+    "text": "The second one with the Almanco's profitability."
+  },
+  {
+    "start": 253.12,
+    "end": 258.16,
+    "speaker": "SPEAKER_01",
+    "text": "The third one, synergies and lastly, what's the acquisition terms?"
+  },
+  {
+    "start": 258.16,
+    "end": 264.40000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "So in terms of the market, first I would like to look at the size and trends of the Alman market."
+  },
+  {
+    "start": 264.40000000000003,
+    "end": 269.64,
+    "speaker": "SPEAKER_01",
+    "text": "Who are the competitors and what are their share of market and also what's Almanco's share of market."
+  },
+  {
+    "start": 269.64,
+    "end": 271.96000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "What are the supplier dynamics?"
+  },
+  {
+    "start": 272.0,
+    "end": 279.28,
+    "speaker": "SPEAKER_01",
+    "text": "You said it's commoditized, but I would like to know if what's their power and just water the power of all the suppliers."
+  },
+  {
+    "start": 279.28,
+    "end": 280.88,
+    "speaker": "SPEAKER_01",
+    "text": "And finally, what's regulations?"
+  },
+  {
+    "start": 280.88,
+    "end": 283.0,
+    "speaker": "SPEAKER_01",
+    "text": "I know nots are big allergens."
+  },
+  {
+    "start": 283.0,
+    "end": 287.59999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "So how easy is it to start buying or selling Almans?"
+  },
+  {
+    "start": 287.59999999999997,
+    "end": 290.71999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "Moving into Almanco's profitability."
+  },
+  {
+    "start": 290.71999999999997,
+    "end": 293.2,
+    "speaker": "SPEAKER_01",
+    "text": "I would love to know what's surprising."
+  },
+  {
+    "start": 293.2,
+    "end": 296.56,
+    "speaker": "SPEAKER_01",
+    "text": "I know right now there's many different years."
+  },
+  {
+    "start": 296.56,
+    "end": 301.56,
+    "speaker": "SPEAKER_01",
+    "text": "So there's like super premium Almans or super basic Almans where are we playing?"
+  },
+  {
+    "start": 301.68,
+    "end": 308.44,
+    "speaker": "SPEAKER_01",
+    "text": "What's our costs, our margins and also how do their operations look like?"
+  },
+  {
+    "start": 308.44,
+    "end": 313.64,
+    "speaker": "SPEAKER_01",
+    "text": "Are they as vertically integrated as we are or just distribution?"
+  },
+  {
+    "start": 313.64,
+    "end": 318.56,
+    "speaker": "SPEAKER_01",
+    "text": "Then wrapping up Almanco and then moving to the synergies that we could achieve together."
+  },
+  {
+    "start": 318.56,
+    "end": 323.76,
+    "speaker": "SPEAKER_01",
+    "text": "I would like to know how can we leverage both companies' capabilities?"
+  },
+  {
+    "start": 323.76,
+    "end": 327.6,
+    "speaker": "SPEAKER_01",
+    "text": "If there's going to be any kind of validation, I think that's important."
+  },
+  {
+    "start": 327.64000000000004,
+    "end": 331.64000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "And what are the opportunities for portfolio expansion?"
+  },
+  {
+    "start": 331.64000000000004,
+    "end": 334.72,
+    "speaker": "SPEAKER_01",
+    "text": "When you said that we sell finance and we want to acquire Almancy,"
+  },
+  {
+    "start": 334.72,
+    "end": 338.36,
+    "speaker": "SPEAKER_01",
+    "text": "thought maybe they could do a trail mix or something like that."
+  },
+  {
+    "start": 338.36,
+    "end": 344.44,
+    "speaker": "SPEAKER_01",
+    "text": "And finally, moving to the acquisition terms, what's the price of acquiring Almanco?"
+  },
+  {
+    "start": 344.44,
+    "end": 346.04,
+    "speaker": "SPEAKER_01",
+    "text": "What would be the payback period?"
+  },
+  {
+    "start": 346.04,
+    "end": 351.44,
+    "speaker": "SPEAKER_01",
+    "text": "I think that would be interesting to look at in just the general financial field."
+  },
+  {
+    "start": 351.44,
+    "end": 354.08000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "And if we have the money to buy it."
+  },
+  {
+    "start": 354.08,
+    "end": 361.28,
+    "speaker": "SPEAKER_01",
+    "text": "So wrapping up the acquisition terms, I would love to start with the Alman market."
+  },
+  {
+    "start": 361.28,
+    "end": 367.24,
+    "speaker": "SPEAKER_01",
+    "text": "So do you have any information about the size of the Alman market?"
+  },
+  {
+    "start": 367.24,
+    "end": 369.03999999999996,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that's a great question."
+  },
+  {
+    "start": 369.03999999999996,
+    "end": 373.68,
+    "speaker": "SPEAKER_03",
+    "text": "So I think there is some analysis we probably need to do to understand"
+  },
+  {
+    "start": 373.68,
+    "end": 376.68,
+    "speaker": "SPEAKER_03",
+    "text": "what is the market size of the Alman market."
+  },
+  {
+    "start": 376.68,
+    "end": 380.15999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "So where would you like to get started?"
+  },
+  {
+    "start": 380.15999999999997,
+    "end": 383.12,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so just size them the Alman market."
+  },
+  {
+    "start": 383.12,
+    "end": 389.44,
+    "speaker": "SPEAKER_01",
+    "text": "I think first, I would start thinking of the US consumers of Alman's."
+  },
+  {
+    "start": 389.44,
+    "end": 396.88,
+    "speaker": "SPEAKER_01",
+    "text": "Then I would multiply that times packets or boxes that they consume for week and then for year."
+  },
+  {
+    "start": 396.88,
+    "end": 401.72,
+    "speaker": "SPEAKER_01",
+    "text": "And finally, what's the packet price, the average packet price?"
+  },
+  {
+    "start": 401.72,
+    "end": 404.68,
+    "speaker": "SPEAKER_01",
+    "text": "When I'm thinking of the consumers of Alman's,"
+  },
+  {
+    "start": 404.68,
+    "end": 409.36,
+    "speaker": "SPEAKER_01",
+    "text": "I imagine that there will be very heavy users and very light users."
+  },
+  {
+    "start": 409.40000000000003,
+    "end": 416.6,
+    "speaker": "SPEAKER_01",
+    "text": "So I guess there will be like different amounts of packets that each of these tiers consume."
+  },
+  {
+    "start": 416.6,
+    "end": 420.72,
+    "speaker": "SPEAKER_01",
+    "text": "So if that's all right, I can start putting numbers into that."
+  },
+  {
+    "start": 420.72,
+    "end": 423.48,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that's a good approach."
+  },
+  {
+    "start": 423.48,
+    "end": 424.44,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect."
+  },
+  {
+    "start": 424.44,
+    "end": 429.0,
+    "speaker": "SPEAKER_01",
+    "text": "So the US population, I know we are a little bit over 300 million."
+  },
+  {
+    "start": 429.0,
+    "end": 431.56,
+    "speaker": "SPEAKER_01",
+    "text": "So I will run it to 300 million."
+  },
+  {
+    "start": 431.56,
+    "end": 432.2,
+    "speaker": "SPEAKER_01",
+    "text": "That's all right."
+  },
+  {
+    "start": 432.2,
+    "end": 439.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then for the packets, I don't think I know what's the average size of an Alman packet."
+  },
+  {
+    "start": 439.0,
+    "end": 442.24,
+    "speaker": "SPEAKER_01",
+    "text": "So we have an information about the size and maybe the price."
+  },
+  {
+    "start": 442.24,
+    "end": 443.12,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "start": 443.12,
+    "end": 451.56,
+    "speaker": "SPEAKER_03",
+    "text": "So we know that Alman goes packet size is 16 ounces per packet."
+  },
+  {
+    "start": 451.56,
+    "end": 457.04,
+    "speaker": "SPEAKER_03",
+    "text": "They sell it at a selling price of $2 per packet."
+  },
+  {
+    "start": 457.04,
+    "end": 457.56,
+    "speaker": "SPEAKER_01",
+    "text": "Awesome."
+  },
+  {
+    "start": 457.56,
+    "end": 460.44,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, that's super helpful."
+  },
+  {
+    "start": 460.44,
+    "end": 467.08,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so if I have to put numbers into the percentage of the US population that"
+  },
+  {
+    "start": 468.08,
+    "end": 475.96,
+    "speaker": "SPEAKER_01",
+    "text": "doesn't consume some ASNX just in general Alman's, I think 75% don't consume Almans."
+  },
+  {
+    "start": 475.96,
+    "end": 479.08,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, about three thoughts of the population just does not consume Almans."
+  },
+  {
+    "start": 479.08,
+    "end": 480.44,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that's amazing."
+  },
+  {
+    "start": 480.44,
+    "end": 480.96,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 480.96,
+    "end": 482.2,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 482.2,
+    "end": 487.64,
+    "speaker": "SPEAKER_01",
+    "text": "And that would make one fourth of the population consume the Almans."
+  },
+  {
+    "start": 487.64,
+    "end": 495.68,
+    "speaker": "SPEAKER_01",
+    "text": "And from this 20, 25%, I would say maybe 10% are light consumers."
+  },
+  {
+    "start": 495.76,
+    "end": 499.6,
+    "speaker": "SPEAKER_01",
+    "text": "Maybe another 10% are moderate."
+  },
+  {
+    "start": 499.6,
+    "end": 503.88,
+    "speaker": "SPEAKER_01",
+    "text": "And I know there's people who really consume a lot of Almans."
+  },
+  {
+    "start": 503.88,
+    "end": 505.68,
+    "speaker": "SPEAKER_01",
+    "text": "My boyfriend is one of them."
+  },
+  {
+    "start": 505.68,
+    "end": 511.24,
+    "speaker": "SPEAKER_01",
+    "text": "So I think that it's 5% of the population who are very heavy into that."
+  },
+  {
+    "start": 511.24,
+    "end": 518.24,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, I think that's a reasonable way of essentially segmenting the market."
+  },
+  {
+    "start": 518.24,
+    "end": 524.8,
+    "speaker": "SPEAKER_03",
+    "text": "So yeah, for more clarity, what sort of consumption are you thinking"
+  },
+  {
+    "start": 524.8,
+    "end": 526.88,
+    "speaker": "SPEAKER_03",
+    "text": "in each of these categories?"
+  },
+  {
+    "start": 526.88,
+    "end": 529.52,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I would like to define that too."
+  },
+  {
+    "start": 529.52,
+    "end": 535.8,
+    "speaker": "SPEAKER_01",
+    "text": "So I think cash all consumers could maybe consume two packets per month."
+  },
+  {
+    "start": 535.8,
+    "end": 543.68,
+    "speaker": "SPEAKER_01",
+    "text": "So if it's 16 ounces, I am thinking that maybe, yeah, in a week they would eat half of it."
+  },
+  {
+    "start": 543.68,
+    "end": 544.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, very lightly."
+  },
+  {
+    "start": 544.9599999999999,
+    "end": 547.5999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So I think that I'm conservative."
+  },
+  {
+    "start": 547.5999999999999,
+    "end": 552.0,
+    "speaker": "SPEAKER_01",
+    "text": "The moderate, moderate consumers, maybe one packet per week."
+  },
+  {
+    "start": 552.0,
+    "end": 557.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that would be like 60 packets per year."
+  },
+  {
+    "start": 557.0,
+    "end": 557.44,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 557.44,
+    "end": 561.6,
+    "speaker": "SPEAKER_01",
+    "text": "And then for the very frequent consumers."
+  },
+  {
+    "start": 561.6,
+    "end": 570.8,
+    "speaker": "SPEAKER_01",
+    "text": "So I think I'm even thinking 10 packets per month, just taking the benchmark that I know."
+  },
+  {
+    "start": 570.8,
+    "end": 577.32,
+    "speaker": "SPEAKER_01",
+    "text": "I think it's probably like two packets per week."
+  },
+  {
+    "start": 577.32,
+    "end": 579.36,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that makes sense."
+  },
+  {
+    "start": 579.36,
+    "end": 580.4,
+    "speaker": "SPEAKER_01",
+    "text": "That makes sense."
+  },
+  {
+    "start": 580.4,
+    "end": 585.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that would be 120 packets per year for frequent consumers."
+  },
+  {
+    "start": 585.0,
+    "end": 593.4,
+    "speaker": "SPEAKER_01",
+    "text": "So just to summarize 10% casual consumers, 10% moderate, 10% frequent,"
+  },
+  {
+    "start": 593.4,
+    "end": 598.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the casual consume 25 packets per year, moderate 60 packets per year,"
+  },
+  {
+    "start": 598.1999999999999,
+    "end": 602.04,
+    "speaker": "SPEAKER_01",
+    "text": "and frequent 120 packets per year."
+  },
+  {
+    "start": 602.04,
+    "end": 608.76,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so now I will take what percentage of the population"
+  },
+  {
+    "start": 608.76,
+    "end": 613.12,
+    "speaker": "SPEAKER_01",
+    "text": "would be the total number of people who actually purchase these packets."
+  },
+  {
+    "start": 613.12,
+    "end": 619.8,
+    "speaker": "SPEAKER_01",
+    "text": "So 10% of the 300 million would be 30 million."
+  },
+  {
+    "start": 619.8,
+    "end": 624.72,
+    "speaker": "SPEAKER_01",
+    "text": "And 5% would be 15 million."
+  },
+  {
+    "start": 624.72,
+    "end": 625.24,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 625.24,
+    "end": 630.68,
+    "speaker": "SPEAKER_01",
+    "text": "They five multiply these times the packets that I said that they consume per year."
+  },
+  {
+    "start": 630.68,
+    "end": 636.0,
+    "speaker": "SPEAKER_01",
+    "text": "It would be for the casual consumers, 30 million times 25."
+  },
+  {
+    "start": 636.0,
+    "end": 641.12,
+    "speaker": "SPEAKER_01",
+    "text": "That would be 750 million packets per year."
+  },
+  {
+    "start": 641.12,
+    "end": 642.04,
+    "speaker": "SPEAKER_02",
+    "text": "All right."
+  },
+  {
+    "start": 642.04,
+    "end": 651.68,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, for the moderate consumers, 30 million people consuming 60 packets per year."
+  },
+  {
+    "start": 651.68,
+    "end": 657.16,
+    "speaker": "SPEAKER_01",
+    "text": "That would give me 1800 million packets per year."
+  },
+  {
+    "start": 657.16,
+    "end": 658.16,
+    "speaker": "SPEAKER_02",
+    "text": "All right."
+  },
+  {
+    "start": 658.16,
+    "end": 661.2,
+    "speaker": "SPEAKER_01",
+    "text": "And finally, for the very frequent consumers,"
+  },
+  {
+    "start": 661.2,
+    "end": 667.24,
+    "speaker": "SPEAKER_01",
+    "text": "I would multiply the 15 million people consuming 120 packets per year."
+  },
+  {
+    "start": 667.24,
+    "end": 674.2,
+    "speaker": "SPEAKER_01",
+    "text": "That would give me again, 1800 packets per year."
+  },
+  {
+    "start": 674.2,
+    "end": 674.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 674.8000000000001,
+    "end": 683.96,
+    "speaker": "SPEAKER_01",
+    "text": "So if I add up all these packets, it is 4.5 billion packets."
+  },
+  {
+    "start": 683.96,
+    "end": 686.44,
+    "speaker": "SPEAKER_01",
+    "text": "Can I round that up to 5 billion packets?"
+  },
+  {
+    "start": 686.44,
+    "end": 687.6400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Just to simplify?"
+  },
+  {
+    "start": 687.6400000000001,
+    "end": 688.0400000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 688.0400000000001,
+    "end": 688.24,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 688.24,
+    "end": 693.24,
+    "speaker": "SPEAKER_03",
+    "text": "So let's consider there might be certain outliers, certain outliers from the three-fourths"
+  },
+  {
+    "start": 693.24,
+    "end": 695.04,
+    "speaker": "SPEAKER_03",
+    "text": "of the population that does not consume."
+  },
+  {
+    "start": 695.04,
+    "end": 696.6,
+    "speaker": "SPEAKER_03",
+    "text": "So yeah, it makes sense."
+  },
+  {
+    "start": 696.6,
+    "end": 698.6,
+    "speaker": "SPEAKER_03",
+    "text": "Let's round it up to 5 billion."
+  },
+  {
+    "start": 698.6,
+    "end": 699.6,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 699.6,
+    "end": 701.08,
+    "speaker": "SPEAKER_01",
+    "text": "Sounds good."
+  },
+  {
+    "start": 701.08,
+    "end": 706.44,
+    "speaker": "SPEAKER_01",
+    "text": "So if I multiply that times the $2 per packet that you mentioned, the total market size"
+  },
+  {
+    "start": 706.44,
+    "end": 711.24,
+    "speaker": "SPEAKER_01",
+    "text": "will be up to 10 billion dollars per year."
+  },
+  {
+    "start": 711.24,
+    "end": 713.8,
+    "speaker": "SPEAKER_01",
+    "text": "So I think this gets sound attractive."
+  },
+  {
+    "start": 713.8,
+    "end": 718.04,
+    "speaker": "SPEAKER_01",
+    "text": "Obviously, I would love to test some of these numbers further."
+  },
+  {
+    "start": 718.1999999999999,
+    "end": 724.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "But the potential Almond Co. won't have 100% of this market share."
+  },
+  {
+    "start": 724.1999999999999,
+    "end": 729.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So I would like to know what's their market share if you have any information about that."
+  },
+  {
+    "start": 729.4399999999999,
+    "end": 734.3199999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, we know that Almond Co.'s market share is 10% as of today."
+  },
+  {
+    "start": 734.3199999999999,
+    "end": 735.3199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 735.3199999999999,
+    "end": 745.5999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So 10% of the 10 billion, that means that their annual revenues is 1 billion."
+  },
+  {
+    "start": 745.64,
+    "end": 746.96,
+    "speaker": "SPEAKER_01",
+    "text": "So this sounds good."
+  },
+  {
+    "start": 746.96,
+    "end": 753.12,
+    "speaker": "SPEAKER_01",
+    "text": "And in order to get a metric like a payback period, I would love to know what's their margin."
+  },
+  {
+    "start": 753.12,
+    "end": 756.4,
+    "speaker": "SPEAKER_01",
+    "text": "So we have any permission about their profitability."
+  },
+  {
+    "start": 756.4,
+    "end": 756.9200000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 756.9200000000001,
+    "end": 757.2,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 757.2,
+    "end": 762.0400000000001,
+    "speaker": "SPEAKER_03",
+    "text": "They are at an profit margin of 50% 50%."
+  },
+  {
+    "start": 762.0400000000001,
+    "end": 763.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "50."
+  },
+  {
+    "start": 763.0400000000001,
+    "end": 764.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 764.0400000000001,
+    "end": 769.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So 50% of the 1 billion is 500 million."
+  },
+  {
+    "start": 769.0400000000001,
+    "end": 773.48,
+    "speaker": "SPEAKER_01",
+    "text": "And that's their annual profits."
+  },
+  {
+    "start": 773.48,
+    "end": 779.2,
+    "speaker": "SPEAKER_01",
+    "text": "So are we considering any annual growth rates of this share of markets?"
+  },
+  {
+    "start": 779.2,
+    "end": 780.48,
+    "speaker": "SPEAKER_03",
+    "text": "That's a great question."
+  },
+  {
+    "start": 780.48,
+    "end": 787.0,
+    "speaker": "SPEAKER_03",
+    "text": "For this analysis, let's assume constant growth instead of like any, sorry, let me refresh."
+  },
+  {
+    "start": 787.0,
+    "end": 790.72,
+    "speaker": "SPEAKER_03",
+    "text": "Let's assume constant market size instead of any growth rate."
+  },
+  {
+    "start": 790.72,
+    "end": 791.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 791.0,
+    "end": 793.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So they keep their 10% year after year, right?"
+  },
+  {
+    "start": 793.8000000000001,
+    "end": 794.32,
+    "speaker": "SPEAKER_03",
+    "text": "Yes."
+  },
+  {
+    "start": 794.32,
+    "end": 794.8000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Yes."
+  },
+  {
+    "start": 794.8000000000001,
+    "end": 795.32,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 795.32,
+    "end": 796.36,
+    "speaker": "SPEAKER_01",
+    "text": "That makes sense."
+  },
+  {
+    "start": 796.36,
+    "end": 796.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 796.6800000000001,
+    "end": 802.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So I think the only thing that I am is right now to get the payback period is what the"
+  },
+  {
+    "start": 802.8,
+    "end": 803.8,
+    "speaker": "SPEAKER_01",
+    "text": "purchase price."
+  },
+  {
+    "start": 803.8,
+    "end": 805.8,
+    "speaker": "SPEAKER_01",
+    "text": "Do we have any information about that?"
+  },
+  {
+    "start": 805.8,
+    "end": 806.8,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 806.8,
+    "end": 812.8,
+    "speaker": "SPEAKER_03",
+    "text": "So the purchase price that is being asked is 1.5 billion dollars."
+  },
+  {
+    "start": 812.8,
+    "end": 813.8,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect."
+  },
+  {
+    "start": 813.8,
+    "end": 814.8,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 814.8,
+    "end": 818.88,
+    "speaker": "SPEAKER_01",
+    "text": "So now I have everything that I need."
+  },
+  {
+    "start": 818.88,
+    "end": 827.68,
+    "speaker": "SPEAKER_01",
+    "text": "So to get the payback period, I will divide 1.5 billion over the 500 million that we got"
+  },
+  {
+    "start": 827.68,
+    "end": 829.8,
+    "speaker": "SPEAKER_01",
+    "text": "from margin."
+  },
+  {
+    "start": 829.8,
+    "end": 834.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So if I do that division, it gives me 3."
+  },
+  {
+    "start": 834.9599999999999,
+    "end": 838.4799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So the payback period is 3 years."
+  },
+  {
+    "start": 838.4799999999999,
+    "end": 842.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I think they seem like a very reasonable time to get the investment back."
+  },
+  {
+    "start": 842.9599999999999,
+    "end": 843.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "They back."
+  },
+  {
+    "start": 843.9599999999999,
+    "end": 850.16,
+    "speaker": "SPEAKER_01",
+    "text": "I just think that there's many risks and opportunities that we still have to consider."
+  },
+  {
+    "start": 850.16,
+    "end": 851.16,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 851.16,
+    "end": 852.16,
+    "speaker": "SPEAKER_03",
+    "text": "That makes sense."
+  },
+  {
+    "start": 852.16,
+    "end": 856.92,
+    "speaker": "SPEAKER_03",
+    "text": "Before we talk about further opportunities or risks, I think along the same lines you"
+  },
+  {
+    "start": 856.92,
+    "end": 862.56,
+    "speaker": "SPEAKER_03",
+    "text": "mentioned, certain assumptions that you wanted to understand a little bit further a moment"
+  },
+  {
+    "start": 862.56,
+    "end": 863.56,
+    "speaker": "SPEAKER_03",
+    "text": "ago."
+  },
+  {
+    "start": 863.56,
+    "end": 867.92,
+    "speaker": "SPEAKER_03",
+    "text": "So what are the assumptions that you are most uncomfortable with and which ones would you"
+  },
+  {
+    "start": 867.92,
+    "end": 868.92,
+    "speaker": "SPEAKER_03",
+    "text": "like best further?"
+  },
+  {
+    "start": 868.92,
+    "end": 869.92,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 869.92,
+    "end": 876.36,
+    "speaker": "SPEAKER_01",
+    "text": "I think first the purchase price, I just would like to check how they got to the 1.5 billion."
+  },
+  {
+    "start": 876.36,
+    "end": 880.28,
+    "speaker": "SPEAKER_01",
+    "text": "What's their valuation, what methods did they use?"
+  },
+  {
+    "start": 880.28,
+    "end": 885.88,
+    "speaker": "SPEAKER_01",
+    "text": "And also having, I know we did it for simplifying it, but having a constant share of market"
+  },
+  {
+    "start": 885.88,
+    "end": 890.64,
+    "speaker": "SPEAKER_01",
+    "text": "year after year seems a little bit unrealistic and more annoying that the snacking market"
+  },
+  {
+    "start": 890.64,
+    "end": 892.6,
+    "speaker": "SPEAKER_01",
+    "text": "is growing so fast."
+  },
+  {
+    "start": 892.6,
+    "end": 894.88,
+    "speaker": "SPEAKER_01",
+    "text": "So I would like to test that."
+  },
+  {
+    "start": 894.88,
+    "end": 895.88,
+    "speaker": "SPEAKER_03",
+    "text": "Awesome."
+  },
+  {
+    "start": 895.88,
+    "end": 903.56,
+    "speaker": "SPEAKER_03",
+    "text": "And that actually helps us go into the next part of this interview, which we want to understand"
+  },
+  {
+    "start": 903.56,
+    "end": 909.36,
+    "speaker": "SPEAKER_03",
+    "text": "in which we want to understand what else would you want to consider given peanut goes existing"
+  },
+  {
+    "start": 909.36,
+    "end": 911.36,
+    "speaker": "SPEAKER_03",
+    "text": "snack nuts business?"
+  },
+  {
+    "start": 911.36,
+    "end": 912.36,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 912.84,
+    "end": 916.76,
+    "speaker": "SPEAKER_01",
+    "text": "So I think I would like to consider two things."
+  },
+  {
+    "start": 916.76,
+    "end": 922.08,
+    "speaker": "SPEAKER_01",
+    "text": "And I am thinking of the positives and the negative so benefits and maybe risks for the"
+  },
+  {
+    "start": 922.08,
+    "end": 923.08,
+    "speaker": "SPEAKER_01",
+    "text": "benefits."
+  },
+  {
+    "start": 923.08,
+    "end": 930.24,
+    "speaker": "SPEAKER_01",
+    "text": "I think that we can really take advantage of this from a client perspective and sales perspective."
+  },
+  {
+    "start": 930.24,
+    "end": 933.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "We have our current clients and also we will get Almanco's."
+  },
+  {
+    "start": 933.8000000000001,
+    "end": 939.44,
+    "speaker": "SPEAKER_01",
+    "text": "Also I think they could explore new businesses like restaurants or more industrial clients."
+  },
+  {
+    "start": 939.44,
+    "end": 941.72,
+    "speaker": "SPEAKER_01",
+    "text": "Also I'm thinking of distribution and packaging."
+  },
+  {
+    "start": 941.72,
+    "end": 945.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So there's a lot of cost reduction opportunities, which can be attractive."
+  },
+  {
+    "start": 945.5600000000001,
+    "end": 948.36,
+    "speaker": "SPEAKER_01",
+    "text": "And finally innovation."
+  },
+  {
+    "start": 948.36,
+    "end": 954.0,
+    "speaker": "SPEAKER_01",
+    "text": "Now that we have both what if we explore new flavors, what do we do at trail mix?"
+  },
+  {
+    "start": 954.0,
+    "end": 961.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "We can also do bigger permits, smaller permits, even start doing flower and peanut butter"
+  },
+  {
+    "start": 961.0400000000001,
+    "end": 964.2,
+    "speaker": "SPEAKER_01",
+    "text": "and almond butter, etc."
+  },
+  {
+    "start": 964.2,
+    "end": 969.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So that's for the benefits and for the risk part, I think."
+  },
+  {
+    "start": 969.04,
+    "end": 976.04,
+    "speaker": "SPEAKER_01",
+    "text": "So you mentioned that we are market leaders implements and it seems like Almanco only has"
+  },
+  {
+    "start": 976.04,
+    "end": 977.04,
+    "speaker": "SPEAKER_01",
+    "text": "10%."
+  },
+  {
+    "start": 977.04,
+    "end": 981.4,
+    "speaker": "SPEAKER_01",
+    "text": "So is this going to affect our brand perception?"
+  },
+  {
+    "start": 981.4,
+    "end": 987.0,
+    "speaker": "SPEAKER_01",
+    "text": "And also is there any kind of allization at the end of the day is the same consumer opportunity"
+  },
+  {
+    "start": 987.0,
+    "end": 989.04,
+    "speaker": "SPEAKER_01",
+    "text": "right to have one snack or the other."
+  },
+  {
+    "start": 989.04,
+    "end": 994.28,
+    "speaker": "SPEAKER_01",
+    "text": "So we'll consumer start choosing one over the other."
+  },
+  {
+    "start": 994.28,
+    "end": 998.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I think those are the main benefits and the risk that I can think of."
+  },
+  {
+    "start": 998.04,
+    "end": 999.04,
+    "speaker": "SPEAKER_03",
+    "text": "Awesome, awesome."
+  },
+  {
+    "start": 999.04,
+    "end": 1003.56,
+    "speaker": "SPEAKER_03",
+    "text": "So with all of that, now we will be walking into the room with the CEO."
+  },
+  {
+    "start": 1003.56,
+    "end": 1007.04,
+    "speaker": "SPEAKER_03",
+    "text": "So what would be your recommendation to the CEO of peanut co?"
+  },
+  {
+    "start": 1007.04,
+    "end": 1008.04,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 1008.04,
+    "end": 1015.76,
+    "speaker": "SPEAKER_01",
+    "text": "So my recommendation is let's go for it and acquire Almanco because the payback period is"
+  },
+  {
+    "start": 1015.76,
+    "end": 1019.16,
+    "speaker": "SPEAKER_01",
+    "text": "three years, which seems very reasonable."
+  },
+  {
+    "start": 1019.16,
+    "end": 1023.68,
+    "speaker": "SPEAKER_01",
+    "text": "Also we have the right to win in this segment because we're already playing in snacks,"
+  },
+  {
+    "start": 1023.68,
+    "end": 1027.0,
+    "speaker": "SPEAKER_01",
+    "text": "and the same thing that's very adjacent segments."
+  },
+  {
+    "start": 1027.0,
+    "end": 1032.12,
+    "speaker": "SPEAKER_01",
+    "text": "And there's a lot of potential synergies in operation, sales, cost reductions."
+  },
+  {
+    "start": 1032.12,
+    "end": 1036.96,
+    "speaker": "SPEAKER_01",
+    "text": "The reason I am thinking of is kind of a lot ofization, our current sales."
+  },
+  {
+    "start": 1036.96,
+    "end": 1041.0,
+    "speaker": "SPEAKER_01",
+    "text": "And also they may be a potential brand dilution."
+  },
+  {
+    "start": 1041.0,
+    "end": 1048.08,
+    "speaker": "SPEAKER_01",
+    "text": "But to mitigate this, my next steps recommendation would be to be signed up very robust marketing"
+  },
+  {
+    "start": 1048.08,
+    "end": 1052.56,
+    "speaker": "SPEAKER_01",
+    "text": "strategy to evaluate others, not in segments."
+  },
+  {
+    "start": 1052.56,
+    "end": 1055.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Maybe it's not Alman and maybe something else."
+  },
+  {
+    "start": 1055.6399999999999,
+    "end": 1060.56,
+    "speaker": "SPEAKER_01",
+    "text": "And finally, just check the purchase price of their proposing because we may get a better"
+  },
+  {
+    "start": 1060.56,
+    "end": 1061.56,
+    "speaker": "SPEAKER_01",
+    "text": "deal."
+  },
+  {
+    "start": 1061.56,
+    "end": 1062.56,
+    "speaker": "SPEAKER_03",
+    "text": "Right."
+  },
+  {
+    "start": 1062.56,
+    "end": 1064.36,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that makes a ton of sense."
+  },
+  {
+    "start": 1064.36,
+    "end": 1067.6399999999999,
+    "speaker": "SPEAKER_03",
+    "text": "So thank you so much for this analysis, Daniela."
+  },
+  {
+    "start": 1067.6399999999999,
+    "end": 1069.56,
+    "speaker": "SPEAKER_03",
+    "text": "It was a pleasure working with you."
+  },
+  {
+    "start": 1069.56,
+    "end": 1070.56,
+    "speaker": "SPEAKER_01",
+    "text": "Cheers."
+  },
+  {
+    "start": 1070.56,
+    "end": 1071.56,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you, yes, Ard."
+  },
+  {
+    "start": 1071.56,
+    "end": 1072.56,
+    "speaker": "SPEAKER_00",
+    "text": "Hey, everyone."
+  },
+  {
+    "start": 1072.56,
+    "end": 1074.1599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "It's Ken to give us a hear the founder of Rockablocks."
+  },
+  {
+    "start": 1074.1599999999999,
+    "end": 1076.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you so much for watching this mock interview video."
+  },
+  {
+    "start": 1076.3999999999999,
+    "end": 1081.36,
+    "speaker": "SPEAKER_00",
+    "text": "I hope you found it informative and helpful as you are getting ready to prepare for your"
+  },
+  {
+    "start": 1081.36,
+    "end": 1085.04,
+    "speaker": "SPEAKER_00",
+    "text": "own interviews and hopefully landing that job offer you are excited about."
+  },
+  {
+    "start": 1085.04,
+    "end": 1090.7199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "We have a ton of great content on the Rockablocks channel coming out on a weekly basis, mock interviews,"
+  },
+  {
+    "start": 1090.7199999999998,
+    "end": 1093.6,
+    "speaker": "SPEAKER_00",
+    "text": "mini lessons and chats with our Rockablocks experts."
+  },
+  {
+    "start": 1093.6,
+    "end": 1096.6,
+    "speaker": "SPEAKER_00",
+    "text": "So if you haven't subscribed yet already, please do so."
+  },
+  {
+    "start": 1096.6,
+    "end": 1098.76,
+    "speaker": "SPEAKER_00",
+    "text": "There is a big red button below."
+  },
+  {
+    "start": 1098.76,
+    "end": 1101.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "And if you hit that, you'll get all of our content as soon as it comes out."
+  },
+  {
+    "start": 1101.9199999999998,
+    "end": 1103.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Thanks for watching and have a great day."
+  }
+]

@@ -1,0 +1,1874 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "speaker": "SPEAKER_00",
+    "text": "What's your opinion on the project?"
+  },
+  {
+    "start": 4.0,
+    "end": 8.120000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Well, Camilla, as I've said, normally I would start with a few resume questions to get"
+  },
+  {
+    "start": 8.120000000000001,
+    "end": 13.200000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "us warmed up, but we've already had an introduction and given the nature of this, I thought we'd"
+  },
+  {
+    "start": 13.200000000000001,
+    "end": 18.28,
+    "speaker": "SPEAKER_00",
+    "text": "jump straight into the case if that's okay with you."
+  },
+  {
+    "start": 18.28,
+    "end": 20.400000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "So great."
+  },
+  {
+    "start": 20.400000000000002,
+    "end": 24.96,
+    "speaker": "SPEAKER_00",
+    "text": "So we're going to talk through a case that is based on a real life project that we did"
+  },
+  {
+    "start": 24.96,
+    "end": 26.92,
+    "speaker": "SPEAKER_00",
+    "text": "a few years ago."
+  },
+  {
+    "start": 26.92,
+    "end": 37.92,
+    "speaker": "SPEAKER_00",
+    "text": "The client is a private equity firm that is in the middle of doing a build up and a buy-up"
+  },
+  {
+    "start": 37.92,
+    "end": 40.88,
+    "speaker": "SPEAKER_00",
+    "text": "of various gyms across the US."
+  },
+  {
+    "start": 40.88,
+    "end": 46.8,
+    "speaker": "SPEAKER_00",
+    "text": "So these are kind of personal trainer gyms, not personal trainer gyms, like an equinox"
+  },
+  {
+    "start": 46.8,
+    "end": 49.92,
+    "speaker": "SPEAKER_00",
+    "text": "or a plant fitness type effort."
+  },
+  {
+    "start": 49.92,
+    "end": 54.44,
+    "speaker": "SPEAKER_00",
+    "text": "They're looking to build out a chain and they're doing that by buying up individual independent"
+  },
+  {
+    "start": 54.44,
+    "end": 56.88,
+    "speaker": "SPEAKER_00",
+    "text": "gyms across the US."
+  },
+  {
+    "start": 57.88,
+    "end": 61.92,
+    "speaker": "SPEAKER_00",
+    "text": "And the clients come to us for a couple of core questions."
+  },
+  {
+    "start": 61.92,
+    "end": 66.76,
+    "speaker": "SPEAKER_00",
+    "text": "The first is some of the gyms that they'd been buying and some of the gyms that they'd"
+  },
+  {
+    "start": 66.76,
+    "end": 71.88,
+    "speaker": "SPEAKER_00",
+    "text": "been working with over time had started to see some declining profitability."
+  },
+  {
+    "start": 71.88,
+    "end": 77.16,
+    "speaker": "SPEAKER_00",
+    "text": "And so they were looking to try to understand how to improve profitability of an individual"
+  },
+  {
+    "start": 77.16,
+    "end": 80.84,
+    "speaker": "SPEAKER_00",
+    "text": "gym within their network."
+  },
+  {
+    "start": 80.84,
+    "end": 84.6,
+    "speaker": "SPEAKER_00",
+    "text": "And then the second was as they were evaluating different options and sometimes they could"
+  },
+  {
+    "start": 84.6,
+    "end": 88.67999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "look at two different gyms within a similar neighborhood or city."
+  },
+  {
+    "start": 88.67999999999999,
+    "end": 94.82,
+    "speaker": "SPEAKER_00",
+    "text": "They were struggling to think about how to really evaluate them in an effective way and"
+  },
+  {
+    "start": 94.82,
+    "end": 97.08,
+    "speaker": "SPEAKER_00",
+    "text": "sort of pick the right gyms to invest in."
+  },
+  {
+    "start": 97.08,
+    "end": 103.39999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So that was another question we were tasked to help them work out."
+  },
+  {
+    "start": 103.39999999999999,
+    "end": 108.39999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "And maybe for the purposes of today what I thought is we'd start with that first question."
+  },
+  {
+    "start": 108.39999999999999,
+    "end": 113.24,
+    "speaker": "SPEAKER_00",
+    "text": "So you know, a number of the gyms they'd bought had not been as profitable as they had hoped"
+  },
+  {
+    "start": 113.24,
+    "end": 115.8,
+    "speaker": "SPEAKER_00",
+    "text": "or had started to see declining profitability."
+  },
+  {
+    "start": 115.8,
+    "end": 119.83999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "And they were trying to think about even before you think about kind of the network of gyms"
+  },
+  {
+    "start": 119.83999999999999,
+    "end": 122.19999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "just on an individual gym."
+  },
+  {
+    "start": 122.19999999999999,
+    "end": 127.44,
+    "speaker": "SPEAKER_00",
+    "text": "How should you think about profitability of the gym and what drives profit for an individual"
+  },
+  {
+    "start": 127.44,
+    "end": 133.6,
+    "speaker": "SPEAKER_00",
+    "text": "gym location and what kind of actions could you take to try to increase profit and or"
+  },
+  {
+    "start": 133.6,
+    "end": 136.68,
+    "speaker": "SPEAKER_00",
+    "text": "and or why might profit have been declining?"
+  },
+  {
+    "start": 136.68,
+    "end": 137.68,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 137.68,
+    "end": 140.24,
+    "speaker": "SPEAKER_02",
+    "text": "Well, thank you for this case."
+  },
+  {
+    "start": 141.20000000000002,
+    "end": 146.72,
+    "speaker": "SPEAKER_02",
+    "text": "It's quite interesting that gym business I think everyone, especially nowadays, it's"
+  },
+  {
+    "start": 146.72,
+    "end": 150.0,
+    "speaker": "SPEAKER_02",
+    "text": "becoming more and more conscious about their health."
+  },
+  {
+    "start": 150.0,
+    "end": 152.8,
+    "speaker": "SPEAKER_02",
+    "text": "So do thing."
+  },
+  {
+    "start": 152.8,
+    "end": 154.20000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "It's an interesting business."
+  },
+  {
+    "start": 154.20000000000002,
+    "end": 158.12,
+    "speaker": "SPEAKER_02",
+    "text": "Let's see if we can help the client answer these questions."
+  },
+  {
+    "start": 158.12,
+    "end": 163.88,
+    "speaker": "SPEAKER_02",
+    "text": "I will first just, you know, want to make sure that I understood their challenge correctly."
+  },
+  {
+    "start": 163.88,
+    "end": 168.76000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Then take some time to structure how to go about it and then discuss it with you to make"
+  },
+  {
+    "start": 168.76,
+    "end": 173.72,
+    "speaker": "SPEAKER_02",
+    "text": "sure that we come with the right solution for the client."
+  },
+  {
+    "start": 173.72,
+    "end": 175.84,
+    "speaker": "SPEAKER_02",
+    "text": "So just a quick recap."
+  },
+  {
+    "start": 175.84,
+    "end": 183.04,
+    "speaker": "SPEAKER_02",
+    "text": "This is a private equity firm that has been buying different gyms in order to build a business,"
+  },
+  {
+    "start": 183.04,
+    "end": 184.56,
+    "speaker": "SPEAKER_02",
+    "text": "a gym chain."
+  },
+  {
+    "start": 184.56,
+    "end": 190.44,
+    "speaker": "SPEAKER_02",
+    "text": "However, some of those gyms, they've been saying that they've been having some loss in their"
+  },
+  {
+    "start": 190.44,
+    "end": 194.72,
+    "speaker": "SPEAKER_02",
+    "text": "profitability and they want to understand how they can improve it and you know what really"
+  },
+  {
+    "start": 194.72,
+    "end": 197.92,
+    "speaker": "SPEAKER_02",
+    "text": "drives their profitability."
+  },
+  {
+    "start": 197.92,
+    "end": 205.56,
+    "speaker": "SPEAKER_02",
+    "text": "And secondly, they also want to know for the future acquisitions, what's the right valuation,"
+  },
+  {
+    "start": 205.56,
+    "end": 211.04,
+    "speaker": "SPEAKER_02",
+    "text": "you know, approach to make sure that they choose the right gyms because sometimes they can"
+  },
+  {
+    "start": 211.04,
+    "end": 214.35999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "have multiple alternatives in similar areas."
+  },
+  {
+    "start": 214.35999999999999,
+    "end": 218.35999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Is that correct?"
+  },
+  {
+    "start": 218.35999999999999,
+    "end": 220.35999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "That's absolutely right."
+  },
+  {
+    "start": 220.35999999999999,
+    "end": 224.95999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So I just would like to ask some clarification questions."
+  },
+  {
+    "start": 224.96,
+    "end": 230.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Does profitability that it has been declining as it wants they have acquired those gyms?"
+  },
+  {
+    "start": 230.92000000000002,
+    "end": 235.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, they have implemented a strategy for them and after implementing it, it has been"
+  },
+  {
+    "start": 235.92000000000002,
+    "end": 236.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "declining?"
+  },
+  {
+    "start": 236.92000000000002,
+    "end": 242.4,
+    "speaker": "SPEAKER_00",
+    "text": "No, it's often just as they've been, they've bought them and continued to run them and"
+  },
+  {
+    "start": 242.4,
+    "end": 247.12,
+    "speaker": "SPEAKER_00",
+    "text": "then over time they've seen that the profitability has been degrading a little bit."
+  },
+  {
+    "start": 247.12,
+    "end": 251.16,
+    "speaker": "SPEAKER_00",
+    "text": "At this point, they hadn't done too much sort of, they'd just been buying the gyms and"
+  },
+  {
+    "start": 251.16,
+    "end": 255.76,
+    "speaker": "SPEAKER_00",
+    "text": "running them independently before they'd started to think about a single unified brand."
+  },
+  {
+    "start": 255.76,
+    "end": 256.76,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 256.76,
+    "end": 262.32,
+    "speaker": "SPEAKER_02",
+    "text": "And then to understand how they've been managing it, to understand a bit, you know, what"
+  },
+  {
+    "start": 262.32,
+    "end": 269.76,
+    "speaker": "SPEAKER_02",
+    "text": "the causes of this profitability loss can be, have they standardized anything or you know,"
+  },
+  {
+    "start": 269.76,
+    "end": 276.4,
+    "speaker": "SPEAKER_02",
+    "text": "they each have different ways in which they are operated."
+  },
+  {
+    "start": 276.4,
+    "end": 277.84,
+    "speaker": "SPEAKER_00",
+    "text": "They each have different ways."
+  },
+  {
+    "start": 277.84,
+    "end": 282.32,
+    "speaker": "SPEAKER_00",
+    "text": "So there was a few different gyms that they'd all declined, but they haven't done any standardization"
+  },
+  {
+    "start": 282.32,
+    "end": 283.32,
+    "speaker": "SPEAKER_00",
+    "text": "yet."
+  },
+  {
+    "start": 283.32,
+    "end": 285.11999999999995,
+    "speaker": "SPEAKER_02",
+    "text": "Got it."
+  },
+  {
+    "start": 285.11999999999995,
+    "end": 292.67999999999995,
+    "speaker": "SPEAKER_02",
+    "text": "And do we have any, you know, metrics in terms of this profitability decline or where"
+  },
+  {
+    "start": 292.67999999999995,
+    "end": 297.03999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "do they want to go?"
+  },
+  {
+    "start": 297.03999999999996,
+    "end": 301.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "We have some metrics, but what I might suggest is let's start with more of the generic,"
+  },
+  {
+    "start": 301.71999999999997,
+    "end": 306.35999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "kind of let's walk through some of the drivers of profit and think about where it might be"
+  },
+  {
+    "start": 306.36,
+    "end": 310.0,
+    "speaker": "SPEAKER_00",
+    "text": "coming from and then I can take you through some numbers, but they're sort of, they're"
+  },
+  {
+    "start": 310.0,
+    "end": 314.16,
+    "speaker": "SPEAKER_00",
+    "text": "less interesting than just some brainstorming."
+  },
+  {
+    "start": 314.16,
+    "end": 317.40000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "Got it."
+  },
+  {
+    "start": 317.40000000000003,
+    "end": 320.48,
+    "speaker": "SPEAKER_02",
+    "text": "And just one last question."
+  },
+  {
+    "start": 320.48,
+    "end": 329.08000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "This gyms that have had any profitability loss, are they in specific areas or are there"
+  },
+  {
+    "start": 329.08000000000004,
+    "end": 330.8,
+    "speaker": "SPEAKER_02",
+    "text": "as across the US?"
+  },
+  {
+    "start": 330.8,
+    "end": 335.64,
+    "speaker": "SPEAKER_02",
+    "text": "Have they identified any patterns so far?"
+  },
+  {
+    "start": 335.64,
+    "end": 337.24,
+    "speaker": "SPEAKER_00",
+    "text": "Not geographically, no."
+  },
+  {
+    "start": 337.24,
+    "end": 341.24,
+    "speaker": "SPEAKER_00",
+    "text": "There's no, there's no sort of rhyme or reason necessarily with the geography of where they"
+  },
+  {
+    "start": 341.24,
+    "end": 342.24,
+    "speaker": "SPEAKER_00",
+    "text": "are."
+  },
+  {
+    "start": 342.24,
+    "end": 348.03999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "So then if it's okay with you, I would like to take some time, just to structure, identify"
+  },
+  {
+    "start": 348.03999999999996,
+    "end": 350.03999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "this causes okay."
+  },
+  {
+    "start": 350.03999999999996,
+    "end": 351.03999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "Of course."
+  },
+  {
+    "start": 351.03999999999996,
+    "end": 354.32,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, got it."
+  },
+  {
+    "start": 354.32,
+    "end": 363.76,
+    "speaker": "SPEAKER_02",
+    "text": "So in order to identify what is causing this profitability loss, I see two key questions"
+  },
+  {
+    "start": 363.76,
+    "end": 369.36,
+    "speaker": "SPEAKER_02",
+    "text": "that we need to answer in order to understand the source."
+  },
+  {
+    "start": 369.36,
+    "end": 373.52,
+    "speaker": "SPEAKER_02",
+    "text": "The first is, are there revenue streams being affected?"
+  },
+  {
+    "start": 373.52,
+    "end": 380.76,
+    "speaker": "SPEAKER_02",
+    "text": "And the second one is, have cost has, have been increasing and a higher level than those"
+  },
+  {
+    "start": 380.76,
+    "end": 382.15999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "revenues?"
+  },
+  {
+    "start": 382.15999999999997,
+    "end": 387.08,
+    "speaker": "SPEAKER_02",
+    "text": "So when we think about the revenue streams, we need to look into how are these different"
+  },
+  {
+    "start": 387.08,
+    "end": 390.8,
+    "speaker": "SPEAKER_02",
+    "text": "gyms, you know, driving that revenue."
+  },
+  {
+    "start": 390.8,
+    "end": 396.88,
+    "speaker": "SPEAKER_02",
+    "text": "So are they having just specific, you know, like a basic membership, for example, or"
+  },
+  {
+    "start": 396.88,
+    "end": 399.96000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "are they charging on?"
+  },
+  {
+    "start": 399.96000000000004,
+    "end": 405.44,
+    "speaker": "SPEAKER_02",
+    "text": "Sometimes you can buy just maybe one day pass, for example."
+  },
+  {
+    "start": 405.44,
+    "end": 410.56,
+    "speaker": "SPEAKER_02",
+    "text": "So how are they generating this revenue and has it been declining?"
+  },
+  {
+    "start": 410.56,
+    "end": 412.56,
+    "speaker": "SPEAKER_02",
+    "text": "Second is a customer base."
+  },
+  {
+    "start": 412.56,
+    "end": 415.68,
+    "speaker": "SPEAKER_02",
+    "text": "How has it evolved over time?"
+  },
+  {
+    "start": 415.68,
+    "end": 420.12,
+    "speaker": "SPEAKER_02",
+    "text": "Thirdly, are they offering any additional services?"
+  },
+  {
+    "start": 420.12,
+    "end": 422.32,
+    "speaker": "SPEAKER_02",
+    "text": "And if so, have they been declining?"
+  },
+  {
+    "start": 422.32,
+    "end": 428.2,
+    "speaker": "SPEAKER_02",
+    "text": "Some have, you know, additional like boutiques where you can get clothing or you can get"
+  },
+  {
+    "start": 428.2,
+    "end": 432.6,
+    "speaker": "SPEAKER_02",
+    "text": "some protein to complement the activities that you're doing."
+  },
+  {
+    "start": 432.6,
+    "end": 437.8,
+    "speaker": "SPEAKER_02",
+    "text": "So has these complimentary services been declining?"
+  },
+  {
+    "start": 437.8,
+    "end": 445.56,
+    "speaker": "SPEAKER_02",
+    "text": "And lastly, you know, as competition affecting it and our customers switching to other gyms"
+  },
+  {
+    "start": 445.56,
+    "end": 447.96,
+    "speaker": "SPEAKER_02",
+    "text": "around the area."
+  },
+  {
+    "start": 447.96,
+    "end": 454.56,
+    "speaker": "SPEAKER_02",
+    "text": "And secondly, on the side of the cost, we need to look into how have cost been varying."
+  },
+  {
+    "start": 454.56,
+    "end": 462.44,
+    "speaker": "SPEAKER_02",
+    "text": "So for example, fixed costs, especially, you know, the locations, sometimes paying for"
+  },
+  {
+    "start": 462.44,
+    "end": 467.32,
+    "speaker": "SPEAKER_02",
+    "text": "this rent, for example, if it has been increasing, depending on where they are located, this"
+  },
+  {
+    "start": 467.32,
+    "end": 470.92,
+    "speaker": "SPEAKER_02",
+    "text": "can be driving as well, higher cost."
+  },
+  {
+    "start": 470.92,
+    "end": 477.08000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "And then more on the variable cost, do we have the maintenance, for example, of the"
+  },
+  {
+    "start": 477.08000000000004,
+    "end": 484.64000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "different equipments, investment that has been done with them, and then overhead cost"
+  },
+  {
+    "start": 484.64000000000004,
+    "end": 486.24,
+    "speaker": "SPEAKER_02",
+    "text": "as well."
+  },
+  {
+    "start": 486.24,
+    "end": 490.68,
+    "speaker": "SPEAKER_02",
+    "text": "You mentioned, for example, that they have different trainers, so have their wages been"
+  },
+  {
+    "start": 490.68,
+    "end": 491.68,
+    "speaker": "SPEAKER_02",
+    "text": "going up."
+  },
+  {
+    "start": 491.68,
+    "end": 494.08000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "And what is the number of these employees?"
+  },
+  {
+    "start": 494.08000000000004,
+    "end": 500.76,
+    "speaker": "SPEAKER_02",
+    "text": "Are we really, do we really have the right number of trainers on site?"
+  },
+  {
+    "start": 500.76,
+    "end": 503.2,
+    "speaker": "SPEAKER_02",
+    "text": "And the management that is supporting it."
+  },
+  {
+    "start": 503.2,
+    "end": 508.92,
+    "speaker": "SPEAKER_02",
+    "text": "So those will be the two key areas that I would start looking into."
+  },
+  {
+    "start": 508.92,
+    "end": 517.8,
+    "speaker": "SPEAKER_02",
+    "text": "And I would focus or start focusing more on the revenue side if that's okay with you."
+  },
+  {
+    "start": 517.8,
+    "end": 519.76,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, I think that's a good place."
+  },
+  {
+    "start": 519.76,
+    "end": 525.16,
+    "speaker": "SPEAKER_00",
+    "text": "So let's start, let's sort of delve a bit deeper into the membership base."
+  },
+  {
+    "start": 525.16,
+    "end": 530.68,
+    "speaker": "SPEAKER_00",
+    "text": "So what are some of the things to consider when you think about how to think about membership"
+  },
+  {
+    "start": 530.68,
+    "end": 538.12,
+    "speaker": "SPEAKER_00",
+    "text": "revenue for a gym and what could drive membership revenue over time?"
+  },
+  {
+    "start": 538.12,
+    "end": 545.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So for the membership, I think you can look at two different elements."
+  },
+  {
+    "start": 545.3199999999999,
+    "end": 549.9599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "The first one is precisely how we are generating this revenue."
+  },
+  {
+    "start": 549.9599999999999,
+    "end": 554.4,
+    "speaker": "SPEAKER_02",
+    "text": "So are these memberships, for example, on a monthly basis?"
+  },
+  {
+    "start": 554.4,
+    "end": 555.52,
+    "speaker": "SPEAKER_02",
+    "text": "Some are yearly."
+  },
+  {
+    "start": 555.52,
+    "end": 559.0,
+    "speaker": "SPEAKER_02",
+    "text": "When you have the yearly generally, you have discounts."
+  },
+  {
+    "start": 559.0,
+    "end": 563.08,
+    "speaker": "SPEAKER_02",
+    "text": "So which ones are the ones that people are choosing the most?"
+  },
+  {
+    "start": 563.08,
+    "end": 569.76,
+    "speaker": "SPEAKER_02",
+    "text": "Because of course, the monthly one, for example, could provide higher margin for us."
+  },
+  {
+    "start": 569.76,
+    "end": 577.4,
+    "speaker": "SPEAKER_02",
+    "text": "And the second element that we need to look into is the churn of these customers that are"
+  },
+  {
+    "start": 577.4,
+    "end": 579.44,
+    "speaker": "SPEAKER_02",
+    "text": "coming to our gyms."
+  },
+  {
+    "start": 579.44,
+    "end": 583.88,
+    "speaker": "SPEAKER_02",
+    "text": "So those will be the key things to look into."
+  },
+  {
+    "start": 583.88,
+    "end": 585.76,
+    "speaker": "SPEAKER_02",
+    "text": "We're going into the membership."
+  },
+  {
+    "start": 585.76,
+    "end": 594.96,
+    "speaker": "SPEAKER_02",
+    "text": "And then also, do these gyms have like tier memberships."
+  },
+  {
+    "start": 594.96,
+    "end": 596.84,
+    "speaker": "SPEAKER_02",
+    "text": "So maybe you just have like a basic plan."
+  },
+  {
+    "start": 596.84,
+    "end": 604.96,
+    "speaker": "SPEAKER_02",
+    "text": "You come here, no trainer, or you come here, but you pay for consultation, I don't know,"
+  },
+  {
+    "start": 604.96,
+    "end": 612.28,
+    "speaker": "SPEAKER_02",
+    "text": "two hours during the week, or as you mentioned, personal trainer every time you come here."
+  },
+  {
+    "start": 612.28,
+    "end": 614.28,
+    "speaker": "SPEAKER_02",
+    "text": "So how are those structures?"
+  },
+  {
+    "start": 614.28,
+    "end": 618.12,
+    "speaker": "SPEAKER_02",
+    "text": "Those will be the things that I would look into."
+  },
+  {
+    "start": 618.12,
+    "end": 623.64,
+    "speaker": "SPEAKER_00",
+    "text": "What kind of what other kind of tearing could you do if you think about what's what restricts"
+  },
+  {
+    "start": 623.64,
+    "end": 624.76,
+    "speaker": "SPEAKER_00",
+    "text": "your membership number?"
+  },
+  {
+    "start": 624.76,
+    "end": 629.4,
+    "speaker": "SPEAKER_00",
+    "text": "So what determines how many members you can try to go off to in a gym?"
+  },
+  {
+    "start": 629.4,
+    "end": 633.76,
+    "speaker": "SPEAKER_00",
+    "text": "And how would you think about that?"
+  },
+  {
+    "start": 633.76,
+    "end": 638.92,
+    "speaker": "SPEAKER_02",
+    "text": "So just to make sure that I understood the question."
+  },
+  {
+    "start": 638.92,
+    "end": 643.9599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "How many members can I have for month, right?"
+  },
+  {
+    "start": 643.9599999999999,
+    "end": 646.0,
+    "speaker": "SPEAKER_02",
+    "text": "On the area, for example."
+  },
+  {
+    "start": 646.0,
+    "end": 649.04,
+    "speaker": "SPEAKER_02",
+    "text": "Is it okay if I take a couple of seconds?"
+  },
+  {
+    "start": 649.04,
+    "end": 650.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "I think I'll have."
+  },
+  {
+    "start": 650.5999999999999,
+    "end": 652.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 652.5999999999999,
+    "end": 653.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 653.5999999999999,
+    "end": 658.28,
+    "speaker": "SPEAKER_02",
+    "text": "So to evaluate the number of members that you can have, well, first, you need to try to"
+  },
+  {
+    "start": 658.28,
+    "end": 664.4399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "estimate what could be your potential customer base."
+  },
+  {
+    "start": 664.44,
+    "end": 669.0,
+    "speaker": "SPEAKER_02",
+    "text": "But then you're also going to have some capacity constraints."
+  },
+  {
+    "start": 669.0,
+    "end": 677.0400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So you need to evaluate both of those aspects for the number of customers that could be"
+  },
+  {
+    "start": 677.0400000000001,
+    "end": 678.84,
+    "speaker": "SPEAKER_02",
+    "text": "your potential base."
+  },
+  {
+    "start": 678.84,
+    "end": 681.7600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Probably into your geographic area."
+  },
+  {
+    "start": 681.7600000000001,
+    "end": 688.7600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Also look up to price ranges, for example, to see what the acquisition power of these"
+  },
+  {
+    "start": 688.7600000000001,
+    "end": 690.96,
+    "speaker": "SPEAKER_02",
+    "text": "people are to save the membership."
+  },
+  {
+    "start": 690.96,
+    "end": 695.64,
+    "speaker": "SPEAKER_02",
+    "text": "It's for the right customers."
+  },
+  {
+    "start": 695.64,
+    "end": 703.32,
+    "speaker": "SPEAKER_02",
+    "text": "And then in terms of capacity, you need to look as well at the square food that you have."
+  },
+  {
+    "start": 703.32,
+    "end": 707.76,
+    "speaker": "SPEAKER_02",
+    "text": "Homeany people actually access a gym at the same time."
+  },
+  {
+    "start": 707.76,
+    "end": 712.48,
+    "speaker": "SPEAKER_02",
+    "text": "These will also be constrained by the number of machines, for example, that are available"
+  },
+  {
+    "start": 712.48,
+    "end": 716.1600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "or rooms in case you have different classes."
+  },
+  {
+    "start": 716.16,
+    "end": 720.24,
+    "speaker": "SPEAKER_02",
+    "text": "Having at the same time to see what will be like the max capacity of people that you can"
+  },
+  {
+    "start": 720.24,
+    "end": 723.68,
+    "speaker": "SPEAKER_02",
+    "text": "have at the same time."
+  },
+  {
+    "start": 723.68,
+    "end": 729.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "And that same time is something that's important because people are going to be, you know,"
+  },
+  {
+    "start": 729.1999999999999,
+    "end": 731.64,
+    "speaker": "SPEAKER_02",
+    "text": "traffic is going to vary throughout the day."
+  },
+  {
+    "start": 731.64,
+    "end": 737.48,
+    "speaker": "SPEAKER_02",
+    "text": "So it's really looking for like a window of time, how many people can be there at that"
+  },
+  {
+    "start": 737.48,
+    "end": 738.48,
+    "speaker": "SPEAKER_02",
+    "text": "specific time."
+  },
+  {
+    "start": 738.48,
+    "end": 739.48,
+    "speaker": "SPEAKER_02",
+    "text": "Right."
+  },
+  {
+    "start": 739.48,
+    "end": 743.6,
+    "speaker": "SPEAKER_00",
+    "text": "At the end, how often are people going to go to the gym?"
+  },
+  {
+    "start": 743.6,
+    "end": 746.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Or what's the pattern of when people go?"
+  },
+  {
+    "start": 746.08,
+    "end": 748.2800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Exactly."
+  },
+  {
+    "start": 748.2800000000001,
+    "end": 753.9200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "And so based on that, how many can you have, for example, throw it a month?"
+  },
+  {
+    "start": 753.9200000000001,
+    "end": 756.76,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, no, no, that makes sense."
+  },
+  {
+    "start": 756.76,
+    "end": 761.12,
+    "speaker": "SPEAKER_00",
+    "text": "But given that, does that mean that so your gym is going to be a capacity certain hours"
+  },
+  {
+    "start": 761.12,
+    "end": 763.4000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "but not other hours, right?"
+  },
+  {
+    "start": 763.4000000000001,
+    "end": 764.8000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, sure."
+  },
+  {
+    "start": 764.8000000000001,
+    "end": 769.9200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So, are there other things you can do with membership then to try to increase, to try to go beyond"
+  },
+  {
+    "start": 769.9200000000001,
+    "end": 775.6400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "kind of peak capacity that you've seen some gyms do?"
+  },
+  {
+    "start": 776.24,
+    "end": 784.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "With this, we are seeing, for example, we could offer discounts during non-peak hours to"
+  },
+  {
+    "start": 784.1999999999999,
+    "end": 788.56,
+    "speaker": "SPEAKER_02",
+    "text": "try to drive more traffic at that time."
+  },
+  {
+    "start": 788.56,
+    "end": 794.4,
+    "speaker": "SPEAKER_02",
+    "text": "This will, however, have some constraints because the fact that there are peak hours is normally"
+  },
+  {
+    "start": 794.4,
+    "end": 799.28,
+    "speaker": "SPEAKER_02",
+    "text": "people work, for example, so they can only go either before they start work, during lunch"
+  },
+  {
+    "start": 799.28,
+    "end": 800.72,
+    "speaker": "SPEAKER_02",
+    "text": "or after lunch."
+  },
+  {
+    "start": 800.72,
+    "end": 807.72,
+    "speaker": "SPEAKER_02",
+    "text": "But for those that are more flexible, you can try to bring that additional customer base."
+  },
+  {
+    "start": 807.72,
+    "end": 810.72,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, no, exactly."
+  },
+  {
+    "start": 810.72,
+    "end": 814.72,
+    "speaker": "SPEAKER_00",
+    "text": "But do offer an off-peak membership for students or people who can go in the middle of the day"
+  },
+  {
+    "start": 814.72,
+    "end": 817.72,
+    "speaker": "SPEAKER_00",
+    "text": "and who are constrained by kind of the peak periods."
+  },
+  {
+    "start": 817.72,
+    "end": 820.08,
+    "speaker": "SPEAKER_00",
+    "text": "That makes a lot of sense."
+  },
+  {
+    "start": 820.08,
+    "end": 823.76,
+    "speaker": "SPEAKER_00",
+    "text": "And how might you go if you'd seen so in this instance, what have been happening is that"
+  },
+  {
+    "start": 823.76,
+    "end": 826.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "membership had been declining over time."
+  },
+  {
+    "start": 826.68,
+    "end": 833.68,
+    "speaker": "SPEAKER_00",
+    "text": "So what are some reasons why membership might have been declining?"
+  },
+  {
+    "start": 833.68,
+    "end": 839.68,
+    "speaker": "SPEAKER_02",
+    "text": "Is it okay if I take a couple of seconds to think about that?"
+  },
+  {
+    "start": 839.68,
+    "end": 842.68,
+    "speaker": "SPEAKER_00",
+    "text": "No, of course."
+  },
+  {
+    "start": 842.68,
+    "end": 852.4799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So I can see three key categories of the reasons why the number of memberships have been"
+  },
+  {
+    "start": 852.4799999999999,
+    "end": 853.68,
+    "speaker": "SPEAKER_02",
+    "text": "declining."
+  },
+  {
+    "start": 853.68,
+    "end": 863.68,
+    "speaker": "SPEAKER_02",
+    "text": "As one is pricing, maybe we're becoming too pricey for the area where we are at."
+  },
+  {
+    "start": 863.68,
+    "end": 867.68,
+    "speaker": "SPEAKER_02",
+    "text": "Secondly, as the type of services that we're offering."
+  },
+  {
+    "start": 867.68,
+    "end": 872.68,
+    "speaker": "SPEAKER_02",
+    "text": "So as I mentioned, some gyms can offer different or complimentary services."
+  },
+  {
+    "start": 872.68,
+    "end": 875.68,
+    "speaker": "SPEAKER_02",
+    "text": "You also have additional classes."
+  },
+  {
+    "start": 875.68,
+    "end": 880.68,
+    "speaker": "SPEAKER_02",
+    "text": "For example, you see a lot of new technologies to work out."
+  },
+  {
+    "start": 880.68,
+    "end": 892.68,
+    "speaker": "SPEAKER_02",
+    "text": "So you have the cycling with a lot of colors or working out on bouncing things."
+  },
+  {
+    "start": 892.68,
+    "end": 897.68,
+    "speaker": "SPEAKER_02",
+    "text": "So maybe people are going more towards those alternatives that we're not offering."
+  },
+  {
+    "start": 897.68,
+    "end": 899.68,
+    "speaker": "SPEAKER_02",
+    "text": "So we're lagging behind."
+  },
+  {
+    "start": 899.68,
+    "end": 902.68,
+    "speaker": "SPEAKER_02",
+    "text": "And thirdly is a rise into competition."
+  },
+  {
+    "start": 902.68,
+    "end": 909.68,
+    "speaker": "SPEAKER_02",
+    "text": "So they are actually offering either discounts to try to steal our members."
+  },
+  {
+    "start": 909.68,
+    "end": 915.68,
+    "speaker": "SPEAKER_02",
+    "text": "Or they are actually, you know, with the pandemic, there was also the trend of start working at home."
+  },
+  {
+    "start": 915.68,
+    "end": 921.68,
+    "speaker": "SPEAKER_02",
+    "text": "So some people decided to just follow home routines."
+  },
+  {
+    "start": 921.68,
+    "end": 925.68,
+    "speaker": "SPEAKER_02",
+    "text": "And so they decided not to go again to the gym."
+  },
+  {
+    "start": 925.68,
+    "end": 935.68,
+    "speaker": "SPEAKER_02",
+    "text": "So those are the three major elements that I can see could be the reason for the declining memberships."
+  },
+  {
+    "start": 935.68,
+    "end": 938.68,
+    "speaker": "SPEAKER_00",
+    "text": "No, I think that's absolutely right."
+  },
+  {
+    "start": 938.68,
+    "end": 942.68,
+    "speaker": "SPEAKER_00",
+    "text": "And how do you think about the offering piece?"
+  },
+  {
+    "start": 942.68,
+    "end": 944.68,
+    "speaker": "SPEAKER_00",
+    "text": "So what's the right trade off there?"
+  },
+  {
+    "start": 944.68,
+    "end": 947.68,
+    "speaker": "SPEAKER_00",
+    "text": "And as you say, there's kind of trends change."
+  },
+  {
+    "start": 947.68,
+    "end": 949.68,
+    "speaker": "SPEAKER_00",
+    "text": "People want a good experience."
+  },
+  {
+    "start": 949.68,
+    "end": 952.68,
+    "speaker": "SPEAKER_00",
+    "text": "And ultimately not to spoil the game."
+  },
+  {
+    "start": 952.68,
+    "end": 960.68,
+    "speaker": "SPEAKER_00",
+    "text": "I think that was what had been happening in these gyms is they had just not fall in behind in terms of upkeep of equipment and quality of experience."
+  },
+  {
+    "start": 960.68,
+    "end": 965.68,
+    "speaker": "SPEAKER_00",
+    "text": "That had started to lose them customers."
+  },
+  {
+    "start": 965.68,
+    "end": 971.68,
+    "speaker": "SPEAKER_00",
+    "text": "So what kind of things can you do to try to stay ahead of that game?"
+  },
+  {
+    "start": 971.68,
+    "end": 976.68,
+    "speaker": "SPEAKER_02",
+    "text": "So I think it's very important first because they're trying to build a chain."
+  },
+  {
+    "start": 976.68,
+    "end": 984.68,
+    "speaker": "SPEAKER_02",
+    "text": "If they want some standardization, they also need to really understand what is the customer base that they want to target."
+  },
+  {
+    "start": 984.68,
+    "end": 987.68,
+    "speaker": "SPEAKER_02",
+    "text": "Because some of there are more price sensitive."
+  },
+  {
+    "start": 987.68,
+    "end": 991.68,
+    "speaker": "SPEAKER_02",
+    "text": "Maybe they just want nice machines, you know, that work correctly."
+  },
+  {
+    "start": 991.68,
+    "end": 995.68,
+    "speaker": "SPEAKER_02",
+    "text": "They don't need only fancy additional elements."
+  },
+  {
+    "start": 995.68,
+    "end": 1006.68,
+    "speaker": "SPEAKER_02",
+    "text": "But maybe if they're going more for a high end customer that's really about trends, then you need to make sure that you're trying to innovate and work."
+  },
+  {
+    "start": 1006.68,
+    "end": 1013.68,
+    "speaker": "SPEAKER_02",
+    "text": "For example, you know, have a bit of research and development, you know, have nutritionist have doctors."
+  },
+  {
+    "start": 1013.68,
+    "end": 1022.68,
+    "speaker": "SPEAKER_02",
+    "text": "On your team to really understand what's driving like health trends to make sure that you're catering for those services."
+  },
+  {
+    "start": 1022.68,
+    "end": 1029.6799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So I think the starting point to really decide how to go about it is really understand who your customer is going to be."
+  },
+  {
+    "start": 1029.6799999999998,
+    "end": 1037.6799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "And like what are their needs based on that design the right plan."
+  },
+  {
+    "start": 1037.68,
+    "end": 1041.68,
+    "speaker": "SPEAKER_00",
+    "text": "I think that's a good example. And what might define."
+  },
+  {
+    "start": 1041.68,
+    "end": 1051.68,
+    "speaker": "SPEAKER_00",
+    "text": "So when you say decide who your customers are, what might determine what your customers, what your customers need or which customers you want to target."
+  },
+  {
+    "start": 1051.68,
+    "end": 1058.68,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, so I think for the other price point, there's going to be a key element on that."
+  },
+  {
+    "start": 1058.68,
+    "end": 1072.68,
+    "speaker": "SPEAKER_02",
+    "text": "And based on that, then make sure you go into the right geography, choose the right location, and then, you know, start designing the whole gym to those specifications."
+  },
+  {
+    "start": 1072.68,
+    "end": 1081.68,
+    "speaker": "SPEAKER_02",
+    "text": "So for example, you mentioned students that they probably have a lower price point."
+  },
+  {
+    "start": 1081.68,
+    "end": 1095.68,
+    "speaker": "SPEAKER_02",
+    "text": "People that have a higher power like purchasing power, for example, and are really health conscious will have a higher willingness to pay."
+  },
+  {
+    "start": 1095.68,
+    "end": 1104.68,
+    "speaker": "SPEAKER_02",
+    "text": "So based on that, make sure you choose the right, you know, design for the gym."
+  },
+  {
+    "start": 1104.68,
+    "end": 1119.68,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, that makes sense. Anything else you would consider when you were deciding which one of those you wanted to pick. Right. So you could you know, there's a strategy this as I'm going to be the cheap gym that that targets kind of people who don't want any thrills and they just want some iron to lug around."
+  },
+  {
+    "start": 1119.68,
+    "end": 1133.68,
+    "speaker": "SPEAKER_00",
+    "text": "And all the way through to I want to be equinox and incredibly high end and nutritionists and spa and all of that kind of what are some of the things you'd want to consider when deciding kind of which which you know, let's say we're this private equity company."
+  },
+  {
+    "start": 1133.68,
+    "end": 1144.68,
+    "speaker": "SPEAKER_00",
+    "text": "We bought 100 gyms across the US and then we're trying to decide do we turn them into which type of brand do we want to shoot for."
+  },
+  {
+    "start": 1144.68,
+    "end": 1146.68,
+    "speaker": "SPEAKER_02",
+    "text": "Got it."
+  },
+  {
+    "start": 1146.68,
+    "end": 1153.68,
+    "speaker": "SPEAKER_02",
+    "text": "So I think there are three key aspects to look into."
+  },
+  {
+    "start": 1153.68,
+    "end": 1171.68,
+    "speaker": "SPEAKER_02",
+    "text": "First one is precisely what will be the objective of the PE. So for example, do they want to have high margins or as it more about volume, but maybe they will be okay with having lower margins."
+  },
+  {
+    "start": 1171.68,
+    "end": 1191.68,
+    "speaker": "SPEAKER_02",
+    "text": "And then look into competition on customer. So how is the you know the market and what are those trends. So if competition is really pushing for the low end of the gyms, maybe want to become almost an each player and go for this high end customers."
+  },
+  {
+    "start": 1191.68,
+    "end": 1208.68,
+    "speaker": "SPEAKER_02",
+    "text": "And then also look at the possible customer base because even if we want to become niche, maybe you know, there's a limit to how small we want to be because we are also going to have some fixed costs. So at the end of the day, it's really about how much profit can we generate."
+  },
+  {
+    "start": 1208.68,
+    "end": 1220.68,
+    "speaker": "SPEAKER_02",
+    "text": "But those will be some of the elements to look into, you know, how's the market really performing and what will be our potential revenues and overall profitability."
+  },
+  {
+    "start": 1220.68,
+    "end": 1229.68,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, no, I think that makes a ton of sense. As you say, you've got to, if there's only 10 people who want to pay to your gym, that's probably a bad proposition to go."
+  },
+  {
+    "start": 1229.68,
+    "end": 1231.68,
+    "speaker": "SPEAKER_00",
+    "text": "You have to get the right balance."
+  },
+  {
+    "start": 1231.68,
+    "end": 1237.68,
+    "speaker": "SPEAKER_00",
+    "text": "Cool. Let me, I'd be remiss if I didn't make you do a little bit of math."
+  },
+  {
+    "start": 1237.68,
+    "end": 1244.68,
+    "speaker": "SPEAKER_00",
+    "text": "Although these days with calculators and everything. But let me, let me show you a couple of gyms that they were looking at."
+  },
+  {
+    "start": 1244.68,
+    "end": 1256.68,
+    "speaker": "SPEAKER_00",
+    "text": "And just ask you to sort of calculate which one is, which one is more profitable and then we'll talk about some of the other ways you could have evaluated, we could have evaluated those gyms to help them pick the right gyms to acquire."
+  },
+  {
+    "start": 1256.68,
+    "end": 1268.68,
+    "speaker": "SPEAKER_00",
+    "text": "So, and this is a apologize for being relatively basic math, but we see if I can get this to work technologically. So I'm not in the tech practice."
+  },
+  {
+    "start": 1268.68,
+    "end": 1270.68,
+    "speaker": "SPEAKER_00",
+    "text": "Can you see that?"
+  },
+  {
+    "start": 1270.68,
+    "end": 1290.68,
+    "speaker": "SPEAKER_00",
+    "text": "Yes. Perfect. So we've got two gyms and some information around them for you. And I'm just going to ask you to tell me kind of that what the revenue is of each gym on a monthly basis and what the costs and then, therefore, the profit of those years of each one."
+  },
+  {
+    "start": 1290.68,
+    "end": 1291.68,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect."
+  },
+  {
+    "start": 1291.68,
+    "end": 1306.68,
+    "speaker": "SPEAKER_01",
+    "text": "So let me just look at the info. We have two gyms, a and a and a and we have the number of members."
+  },
+  {
+    "start": 1306.68,
+    "end": 1314.68,
+    "speaker": "SPEAKER_01",
+    "text": "So 700 for the first one and 800 for the second one."
+  },
+  {
+    "start": 1314.68,
+    "end": 1323.68,
+    "speaker": "SPEAKER_02",
+    "text": "The spent per member for the first one will be 80."
+  },
+  {
+    "start": 1323.68,
+    "end": 1329.68,
+    "speaker": "SPEAKER_02",
+    "text": "And for the first gym and for the second one will be 70."
+  },
+  {
+    "start": 1329.68,
+    "end": 1335.68,
+    "speaker": "SPEAKER_01",
+    "text": "So overall,"
+  },
+  {
+    "start": 1335.68,
+    "end": 1349.68,
+    "speaker": "SPEAKER_02",
+    "text": "the revenue, we have $56,000 for the first gym and"
+  },
+  {
+    "start": 1349.68,
+    "end": 1364.68,
+    "speaker": "SPEAKER_02",
+    "text": "for the second one, we actually have the same revenue. It has a lower, you know, lower income per customer, but they actually have 100 customer more."
+  },
+  {
+    "start": 1364.68,
+    "end": 1379.68,
+    "speaker": "SPEAKER_02",
+    "text": "And then when we look at the monthly costs, we have costs. So we have 25,000."
+  },
+  {
+    "start": 1379.68,
+    "end": 1389.68,
+    "speaker": "SPEAKER_01",
+    "text": "So that's 35,000 to 150 for the first winner for the second one."
+  },
+  {
+    "start": 1389.68,
+    "end": 1409.68,
+    "speaker": "SPEAKER_02",
+    "text": "So we have 35,000 to 150 dollars of costs per month for the first gym and we have 45,500 for the second gym."
+  },
+  {
+    "start": 1409.68,
+    "end": 1422.68,
+    "speaker": "SPEAKER_02",
+    "text": "So what we can say is that actually gym B has higher costs than gym A and therefore they're going to have a lower profitability."
+  },
+  {
+    "start": 1422.68,
+    "end": 1434.68,
+    "speaker": "SPEAKER_01",
+    "text": "So we'll look at that."
+  },
+  {
+    "start": 1434.68,
+    "end": 1461.68,
+    "speaker": "SPEAKER_01",
+    "text": "We have 20,750 for the first gym and for the second one, our profitability."
+  },
+  {
+    "start": 1461.68,
+    "end": 1482.68,
+    "speaker": "SPEAKER_02",
+    "text": "And 19,000 for the second one. So the difference is not that large. So for the first one, if we rounded up almost to 21,000, the second one is 19,000 dollars."
+  },
+  {
+    "start": 1482.68,
+    "end": 1487.68,
+    "speaker": "SPEAKER_00",
+    "text": "So I want to check, is it 19,000 to the second one?"
+  },
+  {
+    "start": 1487.68,
+    "end": 1502.68,
+    "speaker": "SPEAKER_01",
+    "text": "Hold on, we have 56 and 5,615 and we have 45,000."
+  },
+  {
+    "start": 1502.68,
+    "end": 1510.68,
+    "speaker": "SPEAKER_01",
+    "text": "Sorry, 9,000."
+  },
+  {
+    "start": 1510.68,
+    "end": 1523.68,
+    "speaker": "SPEAKER_02",
+    "text": "We have probably 12,000 more for the second gym."
+  },
+  {
+    "start": 1523.68,
+    "end": 1534.68,
+    "speaker": "SPEAKER_02",
+    "text": "Sorry for the first gym. So really the difference is about the costs. And when we look at it, the biggest difference is in terms of rent."
+  },
+  {
+    "start": 1534.68,
+    "end": 1553.68,
+    "speaker": "SPEAKER_02",
+    "text": "So I think that's something important to look at as well. We have mentioned at one point, you know, where's the location and how much are these rents that they are paying for impacting because also at the end of the day, there are also fixed costs."
+  },
+  {
+    "start": 1553.68,
+    "end": 1567.68,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. But what else, what's this sort of big missing piece that you can't see with this data, right? So what if I get, if I could get you, if you could ask me for one more number, if you were thinking about, well, I'm going to evaluate whether to buy these or not."
+  },
+  {
+    "start": 1567.68,
+    "end": 1570.68,
+    "speaker": "SPEAKER_00",
+    "text": "What's the number that's going to."
+  },
+  {
+    "start": 1570.68,
+    "end": 1575.68,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to look at the chair as well."
+  },
+  {
+    "start": 1575.68,
+    "end": 1576.68,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 1576.68,
+    "end": 1581.68,
+    "speaker": "SPEAKER_02",
+    "text": "I think that's something important because here we're just seeing it on a per monthly basis."
+  },
+  {
+    "start": 1581.68,
+    "end": 1592.68,
+    "speaker": "SPEAKER_02",
+    "text": "But we cannot actually see how much this, you know, 700 or 800 customers are staying with us."
+  },
+  {
+    "start": 1592.68,
+    "end": 1604.68,
+    "speaker": "SPEAKER_00",
+    "text": "What else don't you know about the 700 or 800 customers? If you think back to when we talked about what you can do with the membership revenue and limitations."
+  },
+  {
+    "start": 1604.68,
+    "end": 1621.68,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah. So here, for example, we're assuming that there's only one type or membership or it was like an average, but we don't actually see, you know, what's the breakdown of these customers and what actual type of memberships that might be buying."
+  },
+  {
+    "start": 1621.68,
+    "end": 1627.68,
+    "speaker": "SPEAKER_02",
+    "text": "And interested in buying as well in case we modify those."
+  },
+  {
+    "start": 1627.68,
+    "end": 1629.68,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1629.68,
+    "end": 1637.68,
+    "speaker": "SPEAKER_00",
+    "text": "And what else, what might you want to do to that membership number and what might stop you from doing that? If you think about it's not just what the profitability is today."
+  },
+  {
+    "start": 1637.68,
+    "end": 1641.68,
+    "speaker": "SPEAKER_00",
+    "text": "It's what I can get the profitability to be."
+  },
+  {
+    "start": 1641.68,
+    "end": 1656.68,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah. So we will want to look as well. I would as you know, the total market share. So how many new members would we actually be able to get if we make some of these changes."
+  },
+  {
+    "start": 1656.68,
+    "end": 1659.68,
+    "speaker": "SPEAKER_02",
+    "text": "So it will be interesting to look."
+  },
+  {
+    "start": 1659.68,
+    "end": 1668.68,
+    "speaker": "SPEAKER_02",
+    "text": "I think Jim's are really, you know, geography based. Of course, you cannot go to Jim another city, you know, take a plane."
+  },
+  {
+    "start": 1668.68,
+    "end": 1676.68,
+    "speaker": "SPEAKER_02",
+    "text": "It's really going to be limited to that. So make sure that in the area, we identify the potential customers."
+  },
+  {
+    "start": 1676.68,
+    "end": 1677.68,
+    "speaker": "SPEAKER_02",
+    "text": "We could actually."
+  },
+  {
+    "start": 1677.68,
+    "end": 1688.68,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. It's the how attractive could they be if we could grow them out? What's what's the customer base look like? And on this one also sort of what how many more customers could I, how many more members could I add?"
+  },
+  {
+    "start": 1688.68,
+    "end": 1697.68,
+    "speaker": "SPEAKER_00",
+    "text": "Because if Jim is tapped out, but Jim be has a lot of space left, then that that gives you opportunity to get more profit over time as well."
+  },
+  {
+    "start": 1697.68,
+    "end": 1705.68,
+    "speaker": "SPEAKER_00",
+    "text": "Great. Well, that's great. Well, we are we are done. You can breathe easy. You can relax."
+  },
+  {
+    "start": 1705.68,
+    "end": 1707.68,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 1707.68,
+    "end": 1718.68,
+    "speaker": "SPEAKER_00",
+    "text": "I thought you did a really nice job. Look, I think that this is a it's a it's an interesting case study. I think because it breaks out quite a lot of different kind of concepts in terms of how."
+  },
+  {
+    "start": 1718.68,
+    "end": 1728.68,
+    "speaker": "SPEAKER_00",
+    "text": "Both kind of structuring of deals instead of building businesses over time, but also thinking about what drives profitability on on a lot of different levels."
+  },
+  {
+    "start": 1728.68,
+    "end": 1741.68,
+    "speaker": "SPEAKER_00",
+    "text": "And there's a lot of different paths it can take in the discussion, right? I was trying to let the candidate take me down a path that is interesting and rather than sort of give me the specific answer I'm looking for."
+  },
+  {
+    "start": 1741.68,
+    "end": 1751.68,
+    "speaker": "SPEAKER_00",
+    "text": "But I thought you you structure it very nicely. You approached it in the right way and sort of hit on some of the key points very quickly."
+  },
+  {
+    "start": 1751.68,
+    "end": 1760.68,
+    "speaker": "SPEAKER_00",
+    "text": "And I thought your ideas were good and you sort of picked up most of my prompts when I kind of tried to steer you in one direction or the other."
+  },
+  {
+    "start": 1760.68,
+    "end": 1773.68,
+    "speaker": "SPEAKER_00",
+    "text": "I think that the thing that is the hardest on zoom interviews is in the old days, not to make myself sound old, but in the pre pandemic days, at least you could always see someone's notepad."
+  },
+  {
+    "start": 1773.68,
+    "end": 1786.68,
+    "speaker": "SPEAKER_00",
+    "text": "And that actually helped to walk someone through the structure of what you're going to talk about. And so my kind of one main advice and it's it's tough is to sort of almost verbalize the notepad a bit more."
+  },
+  {
+    "start": 1786.68,
+    "end": 1799.68,
+    "speaker": "SPEAKER_00",
+    "text": "As you're talking through it, if you're not sitting across the table, because that allows sort of you to that shows a little bit more the structure of how you're thinking about it that I think was there and it was clear that it was there as you talk through it."
+  },
+  {
+    "start": 1799.68,
+    "end": 1807.68,
+    "speaker": "SPEAKER_00",
+    "text": "But there wasn't necessarily, you know, it's kind of the basic of well, I wrote down that revenue is profit, profit is revenue minus costs."
+  },
+  {
+    "start": 1807.68,
+    "end": 1814.68,
+    "speaker": "SPEAKER_00",
+    "text": "And let's talk about revenue. Okay, well, there's these types of revenue and I think you were doing that kind of logical walkthrough."
+  },
+  {
+    "start": 1814.68,
+    "end": 1824.68,
+    "speaker": "SPEAKER_00",
+    "text": "But in a world where you're not doing it on paper in front of someone, it's you sort of have to it's good to be a little bit more pointed in the way that you're doing it."
+  },
+  {
+    "start": 1824.68,
+    "end": 1837.68,
+    "speaker": "SPEAKER_00",
+    "text": "And yeah, you're math, I think you missed a 10,000, but that's doing mental, you could do the mental math, I could tell. So it was it was more and it's never easy to do that when you've got a thousand people watching you."
+  },
+  {
+    "start": 1837.68,
+    "end": 1841.68,
+    "speaker": "SPEAKER_00",
+    "text": "So I think you did a nice job."
+  },
+  {
+    "start": 1841.68,
+    "end": 1844.68,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, great."
+  }
+]

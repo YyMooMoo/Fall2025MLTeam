@@ -1,0 +1,2264 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.6000000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "Hi, I'm John. I'm an I got an offer coach in an X-Band Manager."
+  },
+  {
+    "start": 5.6000000000000005,
+    "end": 8.88,
+    "speaker": "SPEAKER_01",
+    "text": "And today we have Brittany joining us who's going to run us through a case."
+  },
+  {
+    "start": 8.88,
+    "end": 12.08,
+    "speaker": "SPEAKER_01",
+    "text": "So Brittany, maybe you can introduce yourself. Thanks for joining."
+  },
+  {
+    "start": 12.08,
+    "end": 17.2,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, thanks for having me, John. My name is Brittany Gardner. I am also a X-Band consultant."
+  },
+  {
+    "start": 17.2,
+    "end": 22.96,
+    "speaker": "SPEAKER_01",
+    "text": "And I got an offer coach. Great. Thanks, Brittany. So let's jump right in and kick off the case."
+  },
+  {
+    "start": 23.6,
+    "end": 30.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'll start with a situation. So your client is the head of network in one of Greece's largest"
+  },
+  {
+    "start": 30.96,
+    "end": 36.480000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "banks established in the 1950s. She looks after all the bank's physical branches."
+  },
+  {
+    "start": 37.28,
+    "end": 40.56,
+    "speaker": "SPEAKER_01",
+    "text": "The bank used to be stay-doned but has been privatized five years ago."
+  },
+  {
+    "start": 41.760000000000005,
+    "end": 46.16,
+    "speaker": "SPEAKER_01",
+    "text": "Online banking is almost inexistent in Greece at the moment. But your client is concerned that"
+  },
+  {
+    "start": 46.16,
+    "end": 50.88,
+    "speaker": "SPEAKER_01",
+    "text": "the digital trends observed in other countries will eventually unfold in Greece too and have an"
+  },
+  {
+    "start": 50.88,
+    "end": 55.52,
+    "speaker": "SPEAKER_01",
+    "text": "impact on the banks network. The bank is currently facing liquidity issues because of a financial"
+  },
+  {
+    "start": 55.52,
+    "end": 59.760000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "crisis in the country and has limited funds to invest in a digital transformation."
+  },
+  {
+    "start": 60.72,
+    "end": 64.88,
+    "speaker": "SPEAKER_01",
+    "text": "Your client wants to know what to do to be prepared for this and to develop a strategy for the"
+  },
+  {
+    "start": 64.88,
+    "end": 68.88,
+    "speaker": "SPEAKER_01",
+    "text": "future of the bank's physical branches. Awesome. This sounds like a really interesting case."
+  },
+  {
+    "start": 69.6,
+    "end": 75.44,
+    "speaker": "SPEAKER_02",
+    "text": "Do you want to buy quickly recap just the case very quickly so that I can ensure that I got the"
+  },
+  {
+    "start": 75.44,
+    "end": 80.72,
+    "speaker": "SPEAKER_02",
+    "text": "right context down? For sure. So my understanding here is that our client is the head of"
+  },
+  {
+    "start": 80.72,
+    "end": 88.24,
+    "speaker": "SPEAKER_02",
+    "text": "network for a bank in Greece. It's been around for about 75 years. This bank has been privatized"
+  },
+  {
+    "start": 88.24,
+    "end": 94.8,
+    "speaker": "SPEAKER_02",
+    "text": "fairly recently and is a little bit cash-strapped. Our client has had the foresight and noticing"
+  },
+  {
+    "start": 94.8,
+    "end": 100.32,
+    "speaker": "SPEAKER_02",
+    "text": "digital trends in other countries to go about trying to identify what their digital strategy"
+  },
+  {
+    "start": 100.32,
+    "end": 110.32,
+    "speaker": "SPEAKER_02",
+    "text": "should be moving forward and has engaged Bain to come in and help with that."
+  },
+  {
+    "start": 111.2,
+    "end": 114.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, that's right. I think probably the one thing I'd add to that is just that they currently have"
+  },
+  {
+    "start": 114.96,
+    "end": 120.08,
+    "speaker": "SPEAKER_01",
+    "text": "limited funds to invest in a digital transformation. They kind of want to know how they should approach that."
+  },
+  {
+    "start": 121.28,
+    "end": 126.16,
+    "speaker": "SPEAKER_02",
+    "text": "Before I dive into the case here, I'd love to ask a couple clarifying questions if that's all right."
+  },
+  {
+    "start": 126.16,
+    "end": 131.6,
+    "speaker": "SPEAKER_02",
+    "text": "Sure. Sure. So do we have an understanding about how large this particular bank is?"
+  },
+  {
+    "start": 132.24,
+    "end": 136.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, so we don't have specific revenue or lending book size numbers but we do know that it's"
+  },
+  {
+    "start": 136.96,
+    "end": 142.4,
+    "speaker": "SPEAKER_02",
+    "text": "one of the country's largest banks. Okay. So really large bank pointing to to evaluate digital"
+  },
+  {
+    "start": 142.4,
+    "end": 147.76000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "transformation. Does the client have any particular goals or outcomes from this digital transformation"
+  },
+  {
+    "start": 147.76000000000002,
+    "end": 153.12,
+    "speaker": "SPEAKER_01",
+    "text": "that they like to see or timelines? No, I think they don't have any sort of specific metrics"
+  },
+  {
+    "start": 153.12,
+    "end": 157.92000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "and the timeline is for them as kind of as soon as possible but they really want the Bain team's"
+  },
+  {
+    "start": 157.92000000000002,
+    "end": 164.32,
+    "speaker": "SPEAKER_02",
+    "text": "view on how they should think about it. Okay. That makes sense. And do we know what kind of spurred"
+  },
+  {
+    "start": 164.32,
+    "end": 168.79999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "this interest in digital transformation outside of the other countries? So we've seen that"
+  },
+  {
+    "start": 168.79999999999998,
+    "end": 174.4,
+    "speaker": "SPEAKER_02",
+    "text": "competitors in the area have begun moving in this direction? Yeah, I think it's almost been kind of"
+  },
+  {
+    "start": 174.4,
+    "end": 179.28,
+    "speaker": "SPEAKER_01",
+    "text": "an industry-wide phenomenon sort of across countries as you mentioned. In general, there's been a"
+  },
+  {
+    "start": 179.28,
+    "end": 184.88,
+    "speaker": "SPEAKER_01",
+    "text": "trend of younger customers sort of transacting and using their banks online often through kind of a"
+  },
+  {
+    "start": 184.88,
+    "end": 190.64,
+    "speaker": "SPEAKER_01",
+    "text": "mobile app, mobile banking approach first. So our client has sort of realized that that's likely where"
+  },
+  {
+    "start": 190.64,
+    "end": 195.83999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "the industry is going. And so she just wants to make sure that if people are banking in the future"
+  },
+  {
+    "start": 195.83999999999997,
+    "end": 199.76,
+    "speaker": "SPEAKER_01",
+    "text": "not physically in branch and they're doing it all through their phones or through their desktop,"
+  },
+  {
+    "start": 199.76,
+    "end": 203.35999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "she just wants to make sure that this bank is kind of ready ready for that strategy."
+  },
+  {
+    "start": 203.92,
+    "end": 210.0,
+    "speaker": "SPEAKER_01",
+    "text": "Makes sense. It's always good to be prepared. The first thing that Brittany's done well here is"
+  },
+  {
+    "start": 210.64,
+    "end": 215.67999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "showcasing her business intuition by trying to gauge what type of what size of client this is."
+  },
+  {
+    "start": 215.67999999999998,
+    "end": 219.92,
+    "speaker": "SPEAKER_01",
+    "text": "Is this a large bank in Greece? Is this a smaller bank? That's going to be important for how she"
+  },
+  {
+    "start": 219.92,
+    "end": 224.95999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "approaches the case later on. The second thing she does well here is identifying the whether the"
+  },
+  {
+    "start": 224.95999999999998,
+    "end": 229.76,
+    "speaker": "SPEAKER_01",
+    "text": "client has any specific objectives. I always tell candidates that it's important to be as specific"
+  },
+  {
+    "start": 229.76,
+    "end": 233.67999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "as possible here. Is there a quantifiable target? Is there a number in mind that you're trying to"
+  },
+  {
+    "start": 233.67999999999998,
+    "end": 239.83999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "solve for? Lastly, she does a good job of getting helpful context on what is going on in the banking"
+  },
+  {
+    "start": 239.83999999999997,
+    "end": 245.04,
+    "speaker": "SPEAKER_01",
+    "text": "industry in Greece and amongst the bank's competitors. Is digital transformation something that everyone"
+  },
+  {
+    "start": 245.04,
+    "end": 249.35999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "else has done or is just something that they're looking at initially? This is wonderful"
+  },
+  {
+    "start": 250.32000000000002,
+    "end": 253.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Do you mind if I take a minute or two just to dive in, come up with a framework,"
+  },
+  {
+    "start": 254.56,
+    "end": 257.92,
+    "speaker": "SPEAKER_02",
+    "text": "and then we can dive into my approach on how we could solve this problem?"
+  },
+  {
+    "start": 257.92,
+    "end": 259.28000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "For sure, please take your time."
+  },
+  {
+    "start": 268.08000000000004,
+    "end": 269.52000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "Thanks for letting me take that time."
+  },
+  {
+    "start": 271.28000000000003,
+    "end": 277.12,
+    "speaker": "SPEAKER_02",
+    "text": "So I wanted to walk you through my high-level thoughts on how we could approach designing the"
+  },
+  {
+    "start": 277.12,
+    "end": 281.92,
+    "speaker": "SPEAKER_02",
+    "text": "digital transformation strategy for our client. Now when I think about the strategy, I'm really"
+  },
+  {
+    "start": 281.92,
+    "end": 287.84000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "thinking about it in terms of two large buckets. One, the bank and its capabilities and executing"
+  },
+  {
+    "start": 287.84000000000003,
+    "end": 293.44,
+    "speaker": "SPEAKER_02",
+    "text": "upon the strategy. And then second is taking the learnings from the market to understand"
+  },
+  {
+    "start": 293.44,
+    "end": 297.52,
+    "speaker": "SPEAKER_02",
+    "text": "what would be the best path forward given the lessons learned from other entities."
+  },
+  {
+    "start": 298.72,
+    "end": 304.0,
+    "speaker": "SPEAKER_02",
+    "text": "Why don't I go ahead and start outlining kind of the high-level questions I would ask the client"
+  },
+  {
+    "start": 304.08,
+    "end": 309.84,
+    "speaker": "SPEAKER_02",
+    "text": "on the banking side to see where we could go. So there's five considerations I have here."
+  },
+  {
+    "start": 309.84,
+    "end": 315.6,
+    "speaker": "SPEAKER_02",
+    "text": "The first is a physical footprint of the bank, really understanding how how large is this bank? We"
+  },
+  {
+    "start": 315.6,
+    "end": 320.32,
+    "speaker": "SPEAKER_02",
+    "text": "know it's a large institution, but understanding the geographic concentration, the size of the"
+  },
+  {
+    "start": 320.32,
+    "end": 324.8,
+    "speaker": "SPEAKER_02",
+    "text": "individual banks, the traffic that goes through them day in and day out would be important."
+  },
+  {
+    "start": 324.8,
+    "end": 329.52,
+    "speaker": "SPEAKER_02",
+    "text": "Sure. Two is our employees' capabilities and talent. We know that digital transformation"
+  },
+  {
+    "start": 329.59999999999997,
+    "end": 334.32,
+    "speaker": "SPEAKER_02",
+    "text": "hasn't fully entered the Greek market. And because of that, our employees might not be digitally"
+  },
+  {
+    "start": 334.32,
+    "end": 339.35999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "enabled at this point to take on the transformation or manage the day-to-day operations should be"
+  },
+  {
+    "start": 339.35999999999996,
+    "end": 345.76,
+    "speaker": "SPEAKER_02",
+    "text": "moved forward with the strategy. Third is customer demand. Do we have demand for this type of technology"
+  },
+  {
+    "start": 345.76,
+    "end": 350.56,
+    "speaker": "SPEAKER_02",
+    "text": "today? Sounds like we might be growing, but might not fully be there. And understanding that"
+  },
+  {
+    "start": 350.56,
+    "end": 355.44,
+    "speaker": "SPEAKER_02",
+    "text": "impact would be hugely important in deciding on how to execute the strategy in the timeline."
+  },
+  {
+    "start": 356.4,
+    "end": 362.64,
+    "speaker": "SPEAKER_02",
+    "text": "Fourth is going to be IT infrastructure and security. Given that the bank was privatized about"
+  },
+  {
+    "start": 362.64,
+    "end": 367.52,
+    "speaker": "SPEAKER_02",
+    "text": "five years ago and its cash drafts, it's a situation where we would want to make sure that the"
+  },
+  {
+    "start": 367.52,
+    "end": 372.56,
+    "speaker": "SPEAKER_02",
+    "text": "technology is available and implemented correctly to support what it's likely going to be a larger"
+  },
+  {
+    "start": 372.56,
+    "end": 378.4,
+    "speaker": "SPEAKER_02",
+    "text": "technology ecosystem and that we have adequate security to support our team and our businesses"
+  },
+  {
+    "start": 378.4,
+    "end": 383.76,
+    "speaker": "SPEAKER_02",
+    "text": "and our partners to make sure that we don't run into any legal issues or security breaches."
+  },
+  {
+    "start": 384.0,
+    "end": 388.96,
+    "speaker": "SPEAKER_02",
+    "text": "And then lastly, but very importantly, finance, do we have the cash on hand to move forward"
+  },
+  {
+    "start": 388.96,
+    "end": 394.32,
+    "speaker": "SPEAKER_02",
+    "text": "with this strategy? How will a digital transformation strategy impact our cost of the business?"
+  },
+  {
+    "start": 394.32,
+    "end": 399.12,
+    "speaker": "SPEAKER_02",
+    "text": "Impact are revenue potential as well. So that's what I think about in terms of"
+  },
+  {
+    "start": 399.12,
+    "end": 403.76,
+    "speaker": "SPEAKER_02",
+    "text": "are the banks specifically, but the next I'd like to move over to market and those learnings."
+  },
+  {
+    "start": 404.32,
+    "end": 409.76,
+    "speaker": "SPEAKER_02",
+    "text": "There's two things I would evaluate there. The first is our competitors. Do we have any indicators"
+  },
+  {
+    "start": 409.76,
+    "end": 415.92,
+    "speaker": "SPEAKER_02",
+    "text": "telling us that our competitors have begun investigating or even investing in digital transformation?"
+  },
+  {
+    "start": 415.92,
+    "end": 419.68,
+    "speaker": "SPEAKER_02",
+    "text": "Do we know how much? Do we know what kinds of technologies they're investing in and what"
+  },
+  {
+    "start": 419.68,
+    "end": 424.96,
+    "speaker": "SPEAKER_02",
+    "text": "successes they've had? And then second is the trends in other countries. Clearly there is a move"
+  },
+  {
+    "start": 424.96,
+    "end": 430.32,
+    "speaker": "SPEAKER_02",
+    "text": "in other countries in this direction given what our client has indicated, understanding the impact"
+  },
+  {
+    "start": 430.32,
+    "end": 438.32,
+    "speaker": "SPEAKER_02",
+    "text": "on physical footprint, the traffic, customer preferences. There's a lot we can dig in there,"
+  },
+  {
+    "start": 438.32,
+    "end": 442.08,
+    "speaker": "SPEAKER_02",
+    "text": "but really just starting at that high level and understanding what's working, what happened,"
+  },
+  {
+    "start": 442.08,
+    "end": 448.0,
+    "speaker": "SPEAKER_02",
+    "text": "would be a direction I would want to go. But given the that our clients roll, I think specifically"
+  },
+  {
+    "start": 449.36,
+    "end": 454.88,
+    "speaker": "SPEAKER_02",
+    "text": "with their role and the banks financial standing today, I'd be most interested in understanding"
+  },
+  {
+    "start": 454.88,
+    "end": 459.28,
+    "speaker": "SPEAKER_02",
+    "text": "the finance side of things. If that makes sense, maybe we could start digging in there."
+  },
+  {
+    "start": 459.28,
+    "end": 463.68,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I think that sounds good and nice job on the framework. I think that's quite a comprehensive"
+  },
+  {
+    "start": 463.68,
+    "end": 470.56,
+    "speaker": "SPEAKER_01",
+    "text": "view of what we'd want to look at. The first thing Brittany does well here is she's very clear"
+  },
+  {
+    "start": 470.56,
+    "end": 475.52,
+    "speaker": "SPEAKER_01",
+    "text": "in communicating her ideas and ensuring that her framework is incredibly structured as she talks"
+  },
+  {
+    "start": 475.52,
+    "end": 481.2,
+    "speaker": "SPEAKER_01",
+    "text": "me through it. Next, she has quite exhaustive coverage of the ideas that she wants to explore in"
+  },
+  {
+    "start": 481.2,
+    "end": 486.08,
+    "speaker": "SPEAKER_01",
+    "text": "her framework. So there's not much for me as the interviewer that she missed that I'm expecting her"
+  },
+  {
+    "start": 486.08,
+    "end": 491.52,
+    "speaker": "SPEAKER_01",
+    "text": "to bring up. Lastly, she really shows off her bit strong business acumen, both for internal drivers"
+  },
+  {
+    "start": 491.52,
+    "end": 496.4,
+    "speaker": "SPEAKER_01",
+    "text": "that affect the banks specifically, as well as external factors that could be impacting the overall"
+  },
+  {
+    "start": 496.4,
+    "end": 501.52,
+    "speaker": "SPEAKER_01",
+    "text": "Greek banking market. So yeah, let's start, as you said, kind of looking on the financial side."
+  },
+  {
+    "start": 502.79999999999995,
+    "end": 509.52,
+    "speaker": "SPEAKER_01",
+    "text": "We know that our clients team estimates that to create the suite of digital products to kick off"
+  },
+  {
+    "start": 509.52,
+    "end": 513.76,
+    "speaker": "SPEAKER_01",
+    "text": "this transformation is going to require an initial investment of 20 million euros."
+  },
+  {
+    "start": 514.72,
+    "end": 520.3199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "And we know that our client wants to find out how many branches she would need to close"
+  },
+  {
+    "start": 520.3199999999999,
+    "end": 526.3199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "to break even in two years. So the hypothesis being that bank branch closures is going to help"
+  },
+  {
+    "start": 526.3199999999999,
+    "end": 532.0,
+    "speaker": "SPEAKER_01",
+    "text": "to kind of cover the cost of that, that 20 million euros. She's also said that in any given city,"
+  },
+  {
+    "start": 532.0,
+    "end": 536.08,
+    "speaker": "SPEAKER_01",
+    "text": "no more than 20% of branches can be closed to ensure a minimum footprint."
+  },
+  {
+    "start": 537.12,
+    "end": 541.2,
+    "speaker": "SPEAKER_01",
+    "text": "And so her team has provided some data regarding the number of branches and their associated"
+  },
+  {
+    "start": 541.2,
+    "end": 545.44,
+    "speaker": "SPEAKER_01",
+    "text": "expenses. So it's okay with you, I might just all kind of read these off and maybe you can kind of"
+  },
+  {
+    "start": 545.44,
+    "end": 552.08,
+    "speaker": "SPEAKER_01",
+    "text": "just jot them down as we go. Perfect. So in our first column, we have branch location. So beneath that,"
+  },
+  {
+    "start": 552.08,
+    "end": 559.5200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "we have Athens. And then we also have other cities. So there's basically 10 cities in total and"
+  },
+  {
+    "start": 559.5200000000001,
+    "end": 565.2800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "that other bucket. So next column, we've got monthly rent per branch. So we know that for Athens,"
+  },
+  {
+    "start": 565.28,
+    "end": 573.76,
+    "speaker": "SPEAKER_01",
+    "text": "that's 1500 euros. And for other cities, that's 1000 euros. And in terms of number of branches,"
+  },
+  {
+    "start": 573.76,
+    "end": 579.36,
+    "speaker": "SPEAKER_01",
+    "text": "we know that we have 100 branches in both Athens and in the other cities."
+  },
+  {
+    "start": 584.56,
+    "end": 590.24,
+    "speaker": "SPEAKER_01",
+    "text": "And then next, we have number of employees per branch. So that's 15 and Athens and 10 in other cities."
+  },
+  {
+    "start": 590.48,
+    "end": 598.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And then we've got the average monthly salary of employees, which is 2000 euros in Athens and 1500 in other cities."
+  },
+  {
+    "start": 598.5600000000001,
+    "end": 605.76,
+    "speaker": "SPEAKER_01",
+    "text": "And then lastly, we have other monthly expenses, which are 2000 in Athens and 1500 in other cities."
+  },
+  {
+    "start": 605.76,
+    "end": 616.0,
+    "speaker": "SPEAKER_01",
+    "text": "So feel free to kind of take some time to sort of think through that. So again, sort of we can't close"
+  },
+  {
+    "start": 616.08,
+    "end": 622.96,
+    "speaker": "SPEAKER_01",
+    "text": "more than 20% of branches in a particular city. And we think that there will be a kind of 20 million"
+  },
+  {
+    "start": 622.96,
+    "end": 626.8,
+    "speaker": "SPEAKER_01",
+    "text": "euro initial investment to cover the cost of this digital transformation."
+  },
+  {
+    "start": 634.88,
+    "end": 639.92,
+    "speaker": "SPEAKER_02",
+    "text": "Gotcha. And some quick observations as I look at the data here, it seems like the"
+  },
+  {
+    "start": 639.92,
+    "end": 644.4,
+    "speaker": "SPEAKER_02",
+    "text": "Athens branch is perhaps a little bit bigger just because there's a higher number of employees per"
+  },
+  {
+    "start": 644.4,
+    "end": 649.12,
+    "speaker": "SPEAKER_02",
+    "text": "branch. Maybe there's increased competition for good employees because I do see that the salary is"
+  },
+  {
+    "start": 649.12,
+    "end": 654.24,
+    "speaker": "SPEAKER_02",
+    "text": "a little bit higher as well. So when I think about branch closer, I'm going to be thinking with"
+  },
+  {
+    "start": 654.24,
+    "end": 659.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "the hypothesis that perhaps it's best to start with Athens because it's concentrated in one city,"
+  },
+  {
+    "start": 659.1999999999999,
+    "end": 665.84,
+    "speaker": "SPEAKER_02",
+    "text": "it's higher cost. So I think as I approach this problem and formulating the way that I would want to"
+  },
+  {
+    "start": 665.84,
+    "end": 670.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "close the businesses, I'll start there and then move on to our other category."
+  },
+  {
+    "start": 670.4000000000001,
+    "end": 676.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, I think that makes sense. Give me a minute and I'm going to go ahead and draft up kind of a"
+  },
+  {
+    "start": 676.0,
+    "end": 681.36,
+    "speaker": "SPEAKER_02",
+    "text": "high level approach to getting to the branch closures. And I'll walk you through my math before I"
+  },
+  {
+    "start": 681.36,
+    "end": 683.36,
+    "speaker": "SPEAKER_02",
+    "text": "actually start typing. That sounds good."
+  },
+  {
+    "start": 692.0,
+    "end": 697.6800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "I think so that the approach here is going to be pretty straight forward. I'll walk you through it"
+  },
+  {
+    "start": 698.4,
+    "end": 707.52,
+    "speaker": "SPEAKER_02",
+    "text": "basically we need to first arrive at what is the savings per location, savings per location, monthly."
+  },
+  {
+    "start": 708.7199999999999,
+    "end": 714.88,
+    "speaker": "SPEAKER_02",
+    "text": "All these numbers are on monthly values. And then two is going to be annualizing that. So"
+  },
+  {
+    "start": 715.4399999999999,
+    "end": 721.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "analyze savings per month. And then lastly, what we're going to need to do both for Athens and then"
+  },
+  {
+    "start": 721.84,
+    "end": 733.2,
+    "speaker": "SPEAKER_02",
+    "text": "for Greece is determine the max savings per closures, four closures."
+  },
+  {
+    "start": 735.76,
+    "end": 739.2800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So going to the math, I'll start with Athens first."
+  },
+  {
+    "start": 740.08,
+    "end": 746.32,
+    "speaker": "SPEAKER_01",
+    "text": "That's in like a note kind of approach. Yeah, maybe one question is for as I guess a fourth step kind"
+  },
+  {
+    "start": 746.32,
+    "end": 751.52,
+    "speaker": "SPEAKER_01",
+    "text": "of what would you be contrasting the max savings per closures against I guess like what is the"
+  },
+  {
+    "start": 751.52,
+    "end": 758.88,
+    "speaker": "SPEAKER_02",
+    "text": "sort of your target you're trying to solve for? I get where you're going. So the savings that we're"
+  },
+  {
+    "start": 758.88,
+    "end": 764.8,
+    "speaker": "SPEAKER_02",
+    "text": "targeting are 20 million euros across two years. Given that we're looking in this case towards"
+  },
+  {
+    "start": 764.8,
+    "end": 768.64,
+    "speaker": "SPEAKER_02",
+    "text": "annualized savings, we're not going to be looking at the 20 million euro figure. We're going to be"
+  },
+  {
+    "start": 768.64,
+    "end": 775.04,
+    "speaker": "SPEAKER_02",
+    "text": "looking and targeting towards the 10 million euro figure. Yeah, perfect. So with that in mind,"
+  },
+  {
+    "start": 775.04,
+    "end": 779.68,
+    "speaker": "SPEAKER_02",
+    "text": "I'll go ahead and get started on the math. So if we're looking at savings per location, what I'm"
+  },
+  {
+    "start": 779.68,
+    "end": 787.68,
+    "speaker": "SPEAKER_02",
+    "text": "going to do first is for Athens, I'm going to aggregate all of the monthly costs. So monthly rent."
+  },
+  {
+    "start": 789.3599999999999,
+    "end": 796.88,
+    "speaker": "SPEAKER_02",
+    "text": "We're going to add the other expenses in there. And then I'm also going to multiply the number of"
+  },
+  {
+    "start": 796.88,
+    "end": 809.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "employees per branch by the average monthly salary. And that is going to get me to 33,500 euro"
+  },
+  {
+    "start": 809.2,
+    "end": 813.9200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "and apologies. I'm an American. Yeah, I'm telling you don't worry. Let's just pretend it's dollars."
+  },
+  {
+    "start": 813.9200000000001,
+    "end": 819.44,
+    "speaker": "SPEAKER_02",
+    "text": "We'll convert it. Yeah. So that gets us to our savings per location. And then next,"
+  },
+  {
+    "start": 819.44,
+    "end": 825.12,
+    "speaker": "SPEAKER_02",
+    "text": "I'm just going to annualize it. I'm multiplying it by 12. Yeah. And then I'll just to close out"
+  },
+  {
+    "start": 825.12,
+    "end": 833.44,
+    "speaker": "SPEAKER_02",
+    "text": "the Athens group before I move over to the other group. I'm going to take this 400 and 2k."
+  },
+  {
+    "start": 834.1600000000001,
+    "end": 839.9200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "And we know that's for one closure. We can actually close up to 20% of the locations. We're"
+  },
+  {
+    "start": 839.9200000000001,
+    "end": 843.2800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "going to see the majority of that's going to be in Athens because it's a higher cross location."
+  },
+  {
+    "start": 844.0,
+    "end": 854.08,
+    "speaker": "SPEAKER_02",
+    "text": "20% of 100 is going to be 20. So I'm going to multiply this 402k by 20 to get approximately 8 million"
+  },
+  {
+    "start": 854.08,
+    "end": 857.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "euro. Yeah. So that's basically the upper threshold of how much we could save from"
+  },
+  {
+    "start": 858.4,
+    "end": 863.28,
+    "speaker": "SPEAKER_01",
+    "text": "basically maximum, sorry, closing the most that we could in Athens. Absolutely. And that brings us"
+  },
+  {
+    "start": 863.28,
+    "end": 869.36,
+    "speaker": "SPEAKER_02",
+    "text": "over to our other group, our other cities. I know that the client said we could only close a maximum"
+  },
+  {
+    "start": 869.36,
+    "end": 875.52,
+    "speaker": "SPEAKER_02",
+    "text": "of 20% of the locations in a given city. Is it okay in the scenario to assume that other is one city?"
+  },
+  {
+    "start": 876.88,
+    "end": 882.48,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. I think so I think they've got like let's assume there's 100 branches across a number of"
+  },
+  {
+    "start": 882.48,
+    "end": 888.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "cities, but like for the purposes of simplicity, we can basically say up to 20% of those 100 branches."
+  },
+  {
+    "start": 888.8000000000001,
+    "end": 894.8000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, perfect. So I'm going to go through and do the exact same math here. I'm going to"
+  },
+  {
+    "start": 894.8000000000001,
+    "end": 905.28,
+    "speaker": "SPEAKER_02",
+    "text": "determine the savings per location. I'm adding the monthly rent to the other expenses. And then I'm"
+  },
+  {
+    "start": 905.28,
+    "end": 911.2,
+    "speaker": "SPEAKER_02",
+    "text": "going to also be multiplying the number of employees by branch by their monthly salary."
+  },
+  {
+    "start": 911.2,
+    "end": 922.48,
+    "speaker": "SPEAKER_02",
+    "text": "Yep. And that's going to get me to 17,500 euro, multiplying that by 12 to get the annualized cost"
+  },
+  {
+    "start": 922.48,
+    "end": 929.84,
+    "speaker": "SPEAKER_02",
+    "text": "per branch. Yep. And then we know based off of the other numbers here that we don't actually need"
+  },
+  {
+    "start": 929.84,
+    "end": 936.32,
+    "speaker": "SPEAKER_02",
+    "text": "to close 20% of the branches and the other group. So can I just ask how you know that?"
+  },
+  {
+    "start": 936.32,
+    "end": 942.88,
+    "speaker": "SPEAKER_02",
+    "text": "Absolutely. So we know that we need to hit the 10 million euro figure. Yeah. We've already closed"
+  },
+  {
+    "start": 943.5200000000001,
+    "end": 948.1600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "eight million dollars worth of branches and Athens that leaves two million dollars that would need to"
+  },
+  {
+    "start": 948.1600000000001,
+    "end": 954.6400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "be covered by this other category. Yeah. If I were to look at this 210 like figure here,"
+  },
+  {
+    "start": 954.6400000000001,
+    "end": 962.6400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "I would have multiplied that by 20. That's going to get me to closer to four million euro and savings."
+  },
+  {
+    "start": 962.64,
+    "end": 968.56,
+    "speaker": "SPEAKER_02",
+    "text": "And where we don't have to, I would suggest for a client that we don't close bank locations that"
+  },
+  {
+    "start": 968.56,
+    "end": 974.24,
+    "speaker": "SPEAKER_02",
+    "text": "are used and loved by customers. For sure. Okay. Sorry to interrupt. No, that was perfect. I think we"
+  },
+  {
+    "start": 974.24,
+    "end": 980.64,
+    "speaker": "SPEAKER_02",
+    "text": "just did the math in my head here where we should probably only close about 10 locations in the other"
+  },
+  {
+    "start": 980.64,
+    "end": 985.6,
+    "speaker": "SPEAKER_02",
+    "text": "cities. But just to make sure I'm going to go ahead and double check that math. I'm going to"
+  },
+  {
+    "start": 985.6,
+    "end": 993.2,
+    "speaker": "SPEAKER_02",
+    "text": "reply the 210 by 10. And that does in fact get us to the closure figure we're looking for. Okay. Which is"
+  },
+  {
+    "start": 994.96,
+    "end": 1003.36,
+    "speaker": "SPEAKER_02",
+    "text": "the 10, but just above the 10 million euro. Okay. Okay. So, sorry, go ahead. As I look at the 10 million"
+  },
+  {
+    "start": 1003.36,
+    "end": 1008.8000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "euro figure, this is just the savings from closing a location. I think there's some other factors that"
+  },
+  {
+    "start": 1008.8000000000001,
+    "end": 1014.32,
+    "speaker": "SPEAKER_02",
+    "text": "we would want to consider, including if we're going to close locations, what are the associated"
+  },
+  {
+    "start": 1014.32,
+    "end": 1019.36,
+    "speaker": "SPEAKER_02",
+    "text": "other losses that we would take into consideration? Okay. If there are these locations and right now,"
+  },
+  {
+    "start": 1019.36,
+    "end": 1024.64,
+    "speaker": "SPEAKER_02",
+    "text": "we're primarily a physical branch-based business. Yeah. I would assume that we'd also lose customers,"
+  },
+  {
+    "start": 1024.64,
+    "end": 1027.92,
+    "speaker": "SPEAKER_02",
+    "text": "maybe perhaps those services that they wouldn't access. They would go to other competitors."
+  },
+  {
+    "start": 1029.76,
+    "end": 1034.0,
+    "speaker": "SPEAKER_01",
+    "text": "First thing Brittany's done really well here is she's incredibly structured and neat in terms of how"
+  },
+  {
+    "start": 1034.0,
+    "end": 1039.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "she lays up the math. This makes it really easier, easy for the interviewer to follow and also for"
+  },
+  {
+    "start": 1039.1200000000001,
+    "end": 1043.92,
+    "speaker": "SPEAKER_01",
+    "text": "me to help correct her if there are any math mistakes or things that she may have set up incorrectly."
+  },
+  {
+    "start": 1044.32,
+    "end": 1050.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Secondly, she's incredibly clear in how she communicates her logic and how she's approaching the"
+  },
+  {
+    "start": 1050.3999999999999,
+    "end": 1055.6,
+    "speaker": "SPEAKER_01",
+    "text": "math to the interviewer. Finally, what I like here is that Brittany really contextualizes her answer."
+  },
+  {
+    "start": 1055.6,
+    "end": 1059.6,
+    "speaker": "SPEAKER_01",
+    "text": "She thinks through the 10 million euros and whether there are other factors that she needs to consider."
+  },
+  {
+    "start": 1059.6,
+    "end": 1064.8,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah. So, perhaps we look at those associated costs and see if that 10 million euro figure is"
+  },
+  {
+    "start": 1064.8,
+    "end": 1068.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "going to be sufficient to allow us to move forward with the digital transformations. Yeah. Yeah. I"
+  },
+  {
+    "start": 1068.8799999999999,
+    "end": 1074.24,
+    "speaker": "SPEAKER_01",
+    "text": "think that's a great segue into my next question. So, yeah, as you mentioned, they sort of, for each"
+  },
+  {
+    "start": 1074.24,
+    "end": 1078.08,
+    "speaker": "SPEAKER_01",
+    "text": "branch that we close, we'll presumably lose some of the customers that are going to that branch."
+  },
+  {
+    "start": 1078.72,
+    "end": 1084.8,
+    "speaker": "SPEAKER_01",
+    "text": "So, we currently have three types of customers at the bank. So, Prime 1, which are businesses,"
+  },
+  {
+    "start": 1086.24,
+    "end": 1091.92,
+    "speaker": "SPEAKER_01",
+    "text": "Prime 2, which are wealthy individuals, and Standard, which are your average customer."
+  },
+  {
+    "start": 1092.64,
+    "end": 1098.24,
+    "speaker": "SPEAKER_01",
+    "text": "So, we want to quantify the short-term impact of closing branches on our profitability."
+  },
+  {
+    "start": 1098.8,
+    "end": 1102.32,
+    "speaker": "SPEAKER_01",
+    "text": "I can give you some data points for each of those segments. Yeah, that'd be good."
+  },
+  {
+    "start": 1102.32,
+    "end": 1108.08,
+    "speaker": "SPEAKER_01",
+    "text": "So, yeah. So, for our first row will be revenue per customer per month."
+  },
+  {
+    "start": 1110.8,
+    "end": 1116.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "And we know that for businesses, that's 2000 euros. For wealthy individuals, that's 400."
+  },
+  {
+    "start": 1118.24,
+    "end": 1123.84,
+    "speaker": "SPEAKER_01",
+    "text": "And for Standard, that's 20. Next, we've got cost to serve per customer per month."
+  },
+  {
+    "start": 1123.84,
+    "end": 1134.56,
+    "speaker": "SPEAKER_01",
+    "text": "And we know that's 1500 for businesses, 100, wealthy, and 15 for Standard."
+  },
+  {
+    "start": 1136.3999999999999,
+    "end": 1143.1999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Next, we've got number of customers, and that's 600 businesses,"
+  },
+  {
+    "start": 1143.2,
+    "end": 1152.8,
+    "speaker": "SPEAKER_01",
+    "text": "50,000 wealthy, and 1 million Standard. And last, we've got,"
+  },
+  {
+    "start": 1156.0,
+    "end": 1159.92,
+    "speaker": "SPEAKER_01",
+    "text": "last, we've got the likelihood of customers leaving if the branch closes."
+  },
+  {
+    "start": 1163.04,
+    "end": 1169.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So, you can just call that churn, if you want. Sure. Yeah, and that's 40% for businesses,"
+  },
+  {
+    "start": 1170.56,
+    "end": 1178.08,
+    "speaker": "SPEAKER_01",
+    "text": "50% for wealthy, and 70% for Standard. 70% for Standard. Okay. Yeah. Cool."
+  },
+  {
+    "start": 1180.8,
+    "end": 1185.84,
+    "speaker": "SPEAKER_02",
+    "text": "I'm gonna just do some quick formatting. I don't know what it is about formatting, but it helps you think better."
+  },
+  {
+    "start": 1193.36,
+    "end": 1194.56,
+    "speaker": "SPEAKER_01",
+    "text": "It's because you're an ex-consultant."
+  },
+  {
+    "start": 1195.44,
+    "end": 1196.24,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1200.48,
+    "end": 1200.96,
+    "speaker": "SPEAKER_02",
+    "text": "There we go."
+  },
+  {
+    "start": 1204.8,
+    "end": 1210.32,
+    "speaker": "SPEAKER_02",
+    "text": "All right. So, this is really interesting data. It seems when I look at the data that one,"
+  },
+  {
+    "start": 1210.32,
+    "end": 1214.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "we have a majority of our customer standard, and this is going to the segment that we're going to"
+  },
+  {
+    "start": 1214.8799999999999,
+    "end": 1221.6,
+    "speaker": "SPEAKER_02",
+    "text": "likely lose the most with a bank closure. But if I look in terms of profitability,"
+  },
+  {
+    "start": 1221.6,
+    "end": 1226.24,
+    "speaker": "SPEAKER_02",
+    "text": "this wealthy segment seems like it's going to be the most profitable. So, a"
+  },
+  {
+    "start": 1226.8,
+    "end": 1227.6,
+    "speaker": "SPEAKER_01",
+    "text": "base, okay, yeah."
+  },
+  {
+    "start": 1227.6,
+    "end": 1231.84,
+    "speaker": "SPEAKER_02",
+    "text": "Profitability in terms of a percent, not in terms of aggregate, like dollars per customer."
+  },
+  {
+    "start": 1233.6,
+    "end": 1235.1999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "If I look here, this is $500. Yeah."
+  },
+  {
+    "start": 1235.1999999999998,
+    "end": 1235.28,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 1235.28,
+    "end": 1240.32,
+    "speaker": "SPEAKER_02",
+    "text": "This one is 300, but as a percentage, this is 75% profits for,"
+  },
+  {
+    "start": 1241.28,
+    "end": 1242.48,
+    "speaker": "SPEAKER_02",
+    "text": "or revenue. Yeah."
+  },
+  {
+    "start": 1243.52,
+    "end": 1244.56,
+    "speaker": "SPEAKER_02",
+    "text": "75% profit."
+  },
+  {
+    "start": 1245.6,
+    "end": 1250.7199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Well, cool. What do I take a second here? And let me structure the math to help us arrive at"
+  },
+  {
+    "start": 1250.72,
+    "end": 1256.88,
+    "speaker": "SPEAKER_02",
+    "text": "what would be our potential loss of revenue? Should we move away from these bank locations"
+  },
+  {
+    "start": 1256.88,
+    "end": 1260.0,
+    "speaker": "SPEAKER_02",
+    "text": "and move towards the digital services transformation?"
+  },
+  {
+    "start": 1260.0,
+    "end": 1265.84,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. Just to make sure that was missed. We're looking for profit. So, what would be the"
+  },
+  {
+    "start": 1265.84,
+    "end": 1267.52,
+    "speaker": "SPEAKER_01",
+    "text": "potential profit loss instead of revenue?"
+  },
+  {
+    "start": 1268.24,
+    "end": 1272.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yes. Thank you, product loss. Part of my, my verbiage there."
+  },
+  {
+    "start": 1272.0,
+    "end": 1272.64,
+    "speaker": "SPEAKER_01",
+    "text": "No worries."
+  },
+  {
+    "start": 1280.72,
+    "end": 1295.6000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. So, I think for this situation, I would approach the math and forced-up process."
+  },
+  {
+    "start": 1295.6000000000001,
+    "end": 1303.92,
+    "speaker": "SPEAKER_02",
+    "text": "I think first, I would determine the annualized profit per customer, per segment."
+  },
+  {
+    "start": 1304.5600000000002,
+    "end": 1304.72,
+    "speaker": "UNKNOWN",
+    "text": "Yeah."
+  },
+  {
+    "start": 1305.52,
+    "end": 1310.24,
+    "speaker": "SPEAKER_02",
+    "text": "Next, I would determine the annualized profit per segment."
+  },
+  {
+    "start": 1312.24,
+    "end": 1316.64,
+    "speaker": "SPEAKER_02",
+    "text": "Third, there's a couple different ways you can go about this, but third, I think what I would"
+  },
+  {
+    "start": 1316.64,
+    "end": 1321.92,
+    "speaker": "SPEAKER_02",
+    "text": "want to do is determine first, like if we were to lose every single customer"
+  },
+  {
+    "start": 1322.64,
+    "end": 1328.5600000000002,
+    "speaker": "SPEAKER_02",
+    "text": "that where bank location closed, what would that figure look like? Because that is truly like what"
+  },
+  {
+    "start": 1328.56,
+    "end": 1337.9199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "could potentially happen if this went sideways. So, max loss from closure. And then we would calculate"
+  },
+  {
+    "start": 1337.9199999999998,
+    "end": 1342.72,
+    "speaker": "SPEAKER_02",
+    "text": "the, what we'd consider the more standard case, which is given the parameters you've given,"
+  },
+  {
+    "start": 1342.72,
+    "end": 1348.56,
+    "speaker": "SPEAKER_02",
+    "text": "the likelihood of each customer segment leaving, how much would we truly lose in terms of profitability"
+  },
+  {
+    "start": 1348.56,
+    "end": 1350.72,
+    "speaker": "SPEAKER_02",
+    "text": "by closing these 30 locations?"
+  },
+  {
+    "start": 1350.88,
+    "end": 1351.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1355.3600000000001,
+    "end": 1357.04,
+    "speaker": "SPEAKER_02",
+    "text": "I'll call that our typical loss from closure."
+  },
+  {
+    "start": 1360.24,
+    "end": 1367.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So, diving in, let's go ahead and determine the annualized profit per customer, per segment."
+  },
+  {
+    "start": 1367.3600000000001,
+    "end": 1372.8,
+    "speaker": "SPEAKER_02",
+    "text": "And the way I would go about that is I would take revenue, subtract out my costs,"
+  },
+  {
+    "start": 1373.76,
+    "end": 1377.76,
+    "speaker": "SPEAKER_02",
+    "text": "and then I would multiply that resulting value by 12 to get to that annualized figure."
+  },
+  {
+    "start": 1377.76,
+    "end": 1378.8,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. That sounds good."
+  },
+  {
+    "start": 1381.2,
+    "end": 1394.64,
+    "speaker": "SPEAKER_02",
+    "text": "All right. So, if I look at each of these three segments, it's kind of what we would expect,"
+  },
+  {
+    "start": 1394.64,
+    "end": 1399.2,
+    "speaker": "SPEAKER_02",
+    "text": "where the businesses are going to be generating the most profit, followed by wealthy than by standard."
+  },
+  {
+    "start": 1400.56,
+    "end": 1405.6000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "But next, we need to figure out what the concentration of profit is for the bank today,"
+  },
+  {
+    "start": 1405.6,
+    "end": 1412.56,
+    "speaker": "SPEAKER_02",
+    "text": "by multiplying the profit per customer segment, by the profit per customer by segment,"
+  },
+  {
+    "start": 1412.56,
+    "end": 1415.4399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "by the number of customers to get to that total value."
+  },
+  {
+    "start": 1415.4399999999998,
+    "end": 1415.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1421.4399999999998,
+    "end": 1427.6799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "And really interesting here, where we see that even though we do serve businesses, and they make us"
+  },
+  {
+    "start": 1428.7199999999998,
+    "end": 1433.9199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "more money on a per customer basis, there's since there's a much smaller portion of our business,"
+  },
+  {
+    "start": 1433.92,
+    "end": 1438.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "in fact, wealthy is going to be where we generate most of our profit."
+  },
+  {
+    "start": 1438.88,
+    "end": 1443.44,
+    "speaker": "SPEAKER_02",
+    "text": "And just because I was so we kept, because we can, what I'm going to do is I'm actually going to add"
+  },
+  {
+    "start": 1443.44,
+    "end": 1449.44,
+    "speaker": "SPEAKER_02",
+    "text": "up the sum of our profit by segment, just so I can understand what the total profit is for the bank."
+  },
+  {
+    "start": 1451.6000000000001,
+    "end": 1456.5600000000002,
+    "speaker": "SPEAKER_02",
+    "text": "So, we've made it through step one and two. Next, I want to think about what is the max loss from"
+  },
+  {
+    "start": 1456.5600000000002,
+    "end": 1462.48,
+    "speaker": "SPEAKER_02",
+    "text": "closure? And if we jump all the way back, we can recall that we're closing 30 locations out of our"
+  },
+  {
+    "start": 1462.48,
+    "end": 1463.6,
+    "speaker": "SPEAKER_02",
+    "text": "200. Yeah."
+  },
+  {
+    "start": 1464.64,
+    "end": 1471.04,
+    "speaker": "SPEAKER_02",
+    "text": "Is it okay to assume that the wealthy, the businesses, and the standard customer segments are"
+  },
+  {
+    "start": 1471.04,
+    "end": 1476.16,
+    "speaker": "SPEAKER_01",
+    "text": "fairly evenly distributed across? Yeah, that's a good point. And let's make that assumption."
+  },
+  {
+    "start": 1476.16,
+    "end": 1482.24,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. And that case, if I were to think about what is the max profitability loss we'd have,"
+  },
+  {
+    "start": 1482.24,
+    "end": 1489.28,
+    "speaker": "SPEAKER_02",
+    "text": "what I'm going to do is I'm actually going to multiply each of these groups by 15%"
+  },
+  {
+    "start": 1489.76,
+    "end": 1496.56,
+    "speaker": "SPEAKER_02",
+    "text": "to give us that max number. And how did you get 15%? Absolutely. So, if I take 30,"
+  },
+  {
+    "start": 1497.6,
+    "end": 1502.56,
+    "speaker": "SPEAKER_02",
+    "text": "essentially, 30 locations are closed, we have 200, that's 15% of all locations."
+  },
+  {
+    "start": 1502.56,
+    "end": 1502.8,
+    "speaker": "SPEAKER_01",
+    "text": "Cool."
+  },
+  {
+    "start": 1508.96,
+    "end": 1510.8,
+    "speaker": "SPEAKER_02",
+    "text": "All right. So, this is our max loss."
+  },
+  {
+    "start": 1511.52,
+    "end": 1518.0,
+    "speaker": "SPEAKER_02",
+    "text": "There should just, for ease of looking at this, it's always good to label everything, clearly."
+  },
+  {
+    "start": 1519.44,
+    "end": 1524.8,
+    "speaker": "SPEAKER_02",
+    "text": "So, we have max loss from closure. And then from that, let's go ahead and calculate what is our"
+  },
+  {
+    "start": 1524.8,
+    "end": 1531.2,
+    "speaker": "SPEAKER_02",
+    "text": "typical loss of closure that we would be, we would likely experience. Sure. So, at that, we know that"
+  },
+  {
+    "start": 1531.2,
+    "end": 1535.52,
+    "speaker": "SPEAKER_02",
+    "text": "out of everyone who's potentially going to leave, like this is a likelihood of them leaving."
+  },
+  {
+    "start": 1535.52,
+    "end": 1541.28,
+    "speaker": "SPEAKER_02",
+    "text": "So, I'm going to take this number and I'm going to multiply it by that likelihood of leaving."
+  },
+  {
+    "start": 1541.28,
+    "end": 1541.68,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 1541.68,
+    "end": 1545.76,
+    "speaker": "SPEAKER_02",
+    "text": "But I need to, yeah, let's go ahead and do that."
+  },
+  {
+    "start": 1550.24,
+    "end": 1552.8,
+    "speaker": "SPEAKER_02",
+    "text": "All right. I'm going to add this up."
+  },
+  {
+    "start": 1554.32,
+    "end": 1559.76,
+    "speaker": "SPEAKER_02",
+    "text": "I love it when Google Sheets does it for me automatically. And I get 20 million euros,"
+  },
+  {
+    "start": 1559.76,
+    "end": 1565.52,
+    "speaker": "SPEAKER_02",
+    "text": "which is a significant sum. If we recall, by closing the 30 branches, we actually were"
+  },
+  {
+    "start": 1566.3999999999999,
+    "end": 1570.96,
+    "speaker": "SPEAKER_02",
+    "text": "essentially taking on a cost of voidance of 10 million euros. But what that means is not only"
+  },
+  {
+    "start": 1572.0,
+    "end": 1577.68,
+    "speaker": "SPEAKER_02",
+    "text": "we have a cost of voidance that is entirely offset and then, and some, by the loss of"
+  },
+  {
+    "start": 1578.4,
+    "end": 1585.04,
+    "speaker": "SPEAKER_02",
+    "text": "profitability. So, we're losing money. So, I'm going to kind of say a hypothesis here where I just,"
+  },
+  {
+    "start": 1585.04,
+    "end": 1590.4,
+    "speaker": "SPEAKER_02",
+    "text": "I don't think that this is a feasible strategy for the bank at this time given the financial"
+  },
+  {
+    "start": 1591.2,
+    "end": 1595.28,
+    "speaker": "SPEAKER_02",
+    "text": "loss that we would experience. One thing that would be interesting to consider is we've talked about"
+  },
+  {
+    "start": 1595.28,
+    "end": 1600.0,
+    "speaker": "SPEAKER_02",
+    "text": "the loss of business from the physical branches. But what we've not talked about is what is the"
+  },
+  {
+    "start": 1600.0,
+    "end": 1604.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "incremental revenue you would experience from this new digital transformation, from the products"
+  },
+  {
+    "start": 1604.32,
+    "end": 1610.24,
+    "speaker": "SPEAKER_01",
+    "text": "that we would potentially be launching. First thing I like the Britney's done here is that she's"
+  },
+  {
+    "start": 1610.24,
+    "end": 1615.2,
+    "speaker": "SPEAKER_01",
+    "text": "taken a really easy step-by-step approach for setting up her map. And that makes it a lot easier"
+  },
+  {
+    "start": 1615.2,
+    "end": 1619.6,
+    "speaker": "SPEAKER_01",
+    "text": "for the interviewer to follow. Second thing she's done well is she's tied back her final answer"
+  },
+  {
+    "start": 1619.6,
+    "end": 1624.48,
+    "speaker": "SPEAKER_01",
+    "text": "to the other calculations that we did throughout the case. This helps her put it into context and"
+  },
+  {
+    "start": 1624.48,
+    "end": 1629.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "figure out how it ties back to previous insights that she's generated to think through what's the"
+  },
+  {
+    "start": 1629.68,
+    "end": 1637.52,
+    "speaker": "SPEAKER_01",
+    "text": "overall impact on her emerging hypothesis and the overall case. Lastly, I really like Britney's"
+  },
+  {
+    "start": 1637.52,
+    "end": 1642.96,
+    "speaker": "SPEAKER_01",
+    "text": "tactic here of introducing a hypothesis. In general, being hypothesis driven is a great way to"
+  },
+  {
+    "start": 1642.96,
+    "end": 1648.0,
+    "speaker": "SPEAKER_01",
+    "text": "approach cases. It helps you to start formulating potential answers early on and helps you narrow"
+  },
+  {
+    "start": 1648.0,
+    "end": 1653.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "down the list of criteria that could be driving your answer. So, something to keep in mind is"
+  },
+  {
+    "start": 1653.1200000000001,
+    "end": 1657.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "be evaluate the strategy. Yeah, I think that's a really good call out and you're right that basically"
+  },
+  {
+    "start": 1657.6799999999998,
+    "end": 1663.84,
+    "speaker": "SPEAKER_01",
+    "text": "this implies that our annual profit loss or profit reduction of 20 million would more than"
+  },
+  {
+    "start": 1663.84,
+    "end": 1668.7199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "surpass the cost savings of branch closures. So, I think I agree with your hypothesis at this point"
+  },
+  {
+    "start": 1668.7199999999998,
+    "end": 1673.84,
+    "speaker": "SPEAKER_01",
+    "text": "that it doesn't look like it's the right strategy for us to pursue. But maybe we've kind of going"
+  },
+  {
+    "start": 1673.84,
+    "end": 1679.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "back thinking back about your framework, we've only looked at financial impact thus far. So maybe as"
+  },
+  {
+    "start": 1679.4399999999998,
+    "end": 1684.48,
+    "speaker": "SPEAKER_01",
+    "text": "kind of one last step, you can take a moment in brainstorm, what might be some other considerations"
+  },
+  {
+    "start": 1684.48,
+    "end": 1689.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "that you might want to think about, I guess, prose or cotton, prose and cons of this potential"
+  },
+  {
+    "start": 1689.3600000000001,
+    "end": 1695.04,
+    "speaker": "SPEAKER_01",
+    "text": "approach towards digital transformation for the bank? Absolutely. Do you mind if I take a moment"
+  },
+  {
+    "start": 1695.04,
+    "end": 1696.96,
+    "speaker": "SPEAKER_02",
+    "text": "just to drop down a few of my thoughts? For sure."
+  },
+  {
+    "start": 1705.68,
+    "end": 1711.76,
+    "speaker": "SPEAKER_02",
+    "text": "So, off the cup, I can kind of think of five considerations that we would want to keep in mind"
+  },
+  {
+    "start": 1712.72,
+    "end": 1718.16,
+    "speaker": "SPEAKER_02",
+    "text": "if we were to be forth a digital transformation strategy. The first is security. If we're going to be"
+  },
+  {
+    "start": 1718.16,
+    "end": 1722.72,
+    "speaker": "SPEAKER_02",
+    "text": "hosting more information online and making that available to customers, ensuring that their data"
+  },
+  {
+    "start": 1722.72,
+    "end": 1730.24,
+    "speaker": "SPEAKER_02",
+    "text": "is protected and that they have a safe way to access their funds and for form digital transactions"
+  },
+  {
+    "start": 1730.24,
+    "end": 1736.08,
+    "speaker": "SPEAKER_02",
+    "text": "would be incredibly important. The second one is public perception. We do end up closing these"
+  },
+  {
+    "start": 1736.08,
+    "end": 1742.56,
+    "speaker": "SPEAKER_02",
+    "text": "bank locations. There could be some public outcry backlash, loss of brand reputation. Those are"
+  },
+  {
+    "start": 1742.56,
+    "end": 1746.3999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "things that can be quite difficult to recover. So understanding what the repercussions would be"
+  },
+  {
+    "start": 1746.3999999999999,
+    "end": 1752.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "there would be incredibly important. Third is employee sentiment. Not only on the side of the"
+  },
+  {
+    "start": 1752.8799999999999,
+    "end": 1757.6,
+    "speaker": "SPEAKER_02",
+    "text": "bank closures, but also if we move forward the digital transformation strategy, their job roles"
+  },
+  {
+    "start": 1757.6,
+    "end": 1762.32,
+    "speaker": "SPEAKER_02",
+    "text": "are likely to change quite a bit. They were going to move from the day-to-day handling of monetary"
+  },
+  {
+    "start": 1762.32,
+    "end": 1768.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "transactions to perhaps taking on more questions related to how to use an application, how to navigate"
+  },
+  {
+    "start": 1768.8799999999999,
+    "end": 1773.4399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "through this new digital ecosystem. That's going to come with a little bit of pain and a little"
+  },
+  {
+    "start": 1773.4399999999998,
+    "end": 1778.8,
+    "speaker": "SPEAKER_02",
+    "text": "bit of change management. Third, which we didn't talk about for is the cost of employee severance,"
+  },
+  {
+    "start": 1778.8,
+    "end": 1784.08,
+    "speaker": "SPEAKER_02",
+    "text": "the timing to actually close the banks. This could be a very long and lengthy drawn-out process."
+  },
+  {
+    "start": 1784.08,
+    "end": 1791.36,
+    "speaker": "SPEAKER_02",
+    "text": "I'm not as familiar with the Grecian kind of employee economics. I do know in many European"
+  },
+  {
+    "start": 1791.36,
+    "end": 1801.12,
+    "speaker": "SPEAKER_02",
+    "text": "countries it is a incredibly expensive and lengthy thing to do to reduce locations and lay"
+  },
+  {
+    "start": 1801.12,
+    "end": 1809.36,
+    "speaker": "SPEAKER_02",
+    "text": "some people off. An incredibly hard thing to do as well. And then lastly is the demand triggers."
+  },
+  {
+    "start": 1809.36,
+    "end": 1814.4799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Right now it doesn't seem like there is a very strong demand for these digital tools,"
+  },
+  {
+    "start": 1814.4799999999998,
+    "end": 1819.76,
+    "speaker": "SPEAKER_02",
+    "text": "this digital infrastructure, but understanding like what are those triggers that we should"
+  },
+  {
+    "start": 1819.76,
+    "end": 1823.84,
+    "speaker": "SPEAKER_02",
+    "text": "evaluate in the market that say like, hey, we should come back in, we should re-evaluate our"
+  },
+  {
+    "start": 1823.84,
+    "end": 1828.8,
+    "speaker": "SPEAKER_02",
+    "text": "digital transformation strategy. Maybe there's a way to do it without closing these banks, maybe there's"
+  },
+  {
+    "start": 1828.8,
+    "end": 1835.92,
+    "speaker": "SPEAKER_02",
+    "text": "a way that we can gain new customers or retain our existing customers by going about this digital"
+  },
+  {
+    "start": 1835.92,
+    "end": 1841.04,
+    "speaker": "SPEAKER_01",
+    "text": "strategy down the line. The first thing I like that she's done here is that she has brain"
+  },
+  {
+    "start": 1841.04,
+    "end": 1847.36,
+    "speaker": "SPEAKER_01",
+    "text": "strength quite a broad list of potential considerations that could be relevant when branches are closed."
+  },
+  {
+    "start": 1847.36,
+    "end": 1850.9599999999998,
+    "speaker": "SPEAKER_01",
+    "text": "So thinking through how this might impact the business financially, how it could affect their"
+  },
+  {
+    "start": 1850.9599999999998,
+    "end": 1857.04,
+    "speaker": "SPEAKER_01",
+    "text": "employee morale and sentiment, its perception in the market among customers, zero all great ideas"
+  },
+  {
+    "start": 1857.04,
+    "end": 1861.12,
+    "speaker": "SPEAKER_01",
+    "text": "that she's got. Second thing she's done well is that she's provided additional context to help"
+  },
+  {
+    "start": 1861.12,
+    "end": 1866.08,
+    "speaker": "SPEAKER_01",
+    "text": "the interviewer understand the exact ideas that she's written down on paper. So she elaborates,"
+  },
+  {
+    "start": 1866.08,
+    "end": 1870.4799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "as you notice, on the points that she comes up with. Lastly, she's really thought through case"
+  },
+  {
+    "start": 1870.4799999999998,
+    "end": 1875.04,
+    "speaker": "SPEAKER_01",
+    "text": "specific drivers. So when she talks about potential layoffs her employee redundancies,"
+  },
+  {
+    "start": 1875.04,
+    "end": 1880.08,
+    "speaker": "SPEAKER_01",
+    "text": "she even mentions the fact that recemployment labor laws might differ. So that's something that"
+  },
+  {
+    "start": 1880.08,
+    "end": 1886.24,
+    "speaker": "SPEAKER_01",
+    "text": "we would need to look into as a client. Yeah, I think that's a good list. Great, so why don't you"
+  },
+  {
+    "start": 1886.24,
+    "end": 1891.84,
+    "speaker": "SPEAKER_01",
+    "text": "maybe, I think the client is pressing us for an update. So why don't you maybe take a few moments"
+  },
+  {
+    "start": 1891.84,
+    "end": 1896.8,
+    "speaker": "SPEAKER_01",
+    "text": "and pull our recommendations together and then you can kind of talk me through that? Absolutely."
+  },
+  {
+    "start": 1896.8,
+    "end": 1909.6,
+    "speaker": "SPEAKER_02",
+    "text": "Thanks for letting me take that time. If I were to have a conversation with the client around,"
+  },
+  {
+    "start": 1909.6,
+    "end": 1914.3999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "what is this digital strategy? Something that we should move forward with at this time. I was"
+  },
+  {
+    "start": 1914.3999999999999,
+    "end": 1919.28,
+    "speaker": "SPEAKER_02",
+    "text": "strongly recommend that we should not move forward with this at this time. And there's really two"
+  },
+  {
+    "start": 1919.28,
+    "end": 1925.28,
+    "speaker": "SPEAKER_02",
+    "text": "reasons for that. First is the overwhelming cost to do this. It looks like not only would we have to"
+  },
+  {
+    "start": 1925.92,
+    "end": 1929.92,
+    "speaker": "SPEAKER_02",
+    "text": "close potentially close some locations, but we're still not going to make that money back."
+  },
+  {
+    "start": 1929.92,
+    "end": 1934.08,
+    "speaker": "SPEAKER_02",
+    "text": "And it doesn't seem like we have a strong path to fund the digital transformation strategy at this"
+  },
+  {
+    "start": 1934.08,
+    "end": 1941.12,
+    "speaker": "SPEAKER_02",
+    "text": "time. Second is it doesn't seem like there are any both in country trends or even close competitors"
+  },
+  {
+    "start": 1941.12,
+    "end": 1947.28,
+    "speaker": "SPEAKER_02",
+    "text": "in Greece that are moving towards this digital strategy. So there isn't a pressing need for us to"
+  },
+  {
+    "start": 1947.28,
+    "end": 1952.32,
+    "speaker": "SPEAKER_02",
+    "text": "move in this direction, especially given that cost. Yeah. If I were to recommend some next steps,"
+  },
+  {
+    "start": 1952.32,
+    "end": 1957.6799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "there would be two steps I would recommend. One would be forecasting the impacted revenue"
+  },
+  {
+    "start": 1957.6799999999998,
+    "end": 1963.76,
+    "speaker": "SPEAKER_02",
+    "text": "of these digital products, either in terms of cost-retaining customers, getting net new customers,"
+  },
+  {
+    "start": 1963.76,
+    "end": 1969.28,
+    "speaker": "SPEAKER_02",
+    "text": "or having these be additional products that we're able to sell to customers to generate more"
+  },
+  {
+    "start": 1969.28,
+    "end": 1975.04,
+    "speaker": "SPEAKER_02",
+    "text": "revenue. And then the second thing I do is I would determine what the re-evaluation criteria would be."
+  },
+  {
+    "start": 1975.04,
+    "end": 1980.08,
+    "speaker": "SPEAKER_02",
+    "text": "Do we wait until our competitors start moving into this digital transformation space? Do we wait until"
+  },
+  {
+    "start": 1980.08,
+    "end": 1986.0,
+    "speaker": "SPEAKER_02",
+    "text": "it's fully rolled out across the country? Are we a first mover? Are we a late mover?"
+  },
+  {
+    "start": 1986.0,
+    "end": 1990.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Determining what we want that positioning to be is also going to be important for our client."
+  },
+  {
+    "start": 1993.52,
+    "end": 1998.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "First piece of feedback is that Brittany's taking a really clear recommendation that directly answers"
+  },
+  {
+    "start": 1998.3999999999999,
+    "end": 2003.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "the client's question. This is important because so often candidates fail to actually stick to a"
+  },
+  {
+    "start": 2003.4399999999998,
+    "end": 2007.28,
+    "speaker": "SPEAKER_01",
+    "text": "clear recommendation. Remember, you always need to be either recommending that the client"
+  },
+  {
+    "start": 2008.24,
+    "end": 2013.44,
+    "speaker": "SPEAKER_01",
+    "text": "proceed or recommending that they do not proceed. So really make sure that your final"
+  },
+  {
+    "start": 2013.44,
+    "end": 2018.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "recommendation clearly addresses the overall objective that the client has. Second,"
+  },
+  {
+    "start": 2018.3999999999999,
+    "end": 2022.8,
+    "speaker": "SPEAKER_01",
+    "text": "what I like is that she's really grounded her recommendation in the key numbers and the calculations"
+  },
+  {
+    "start": 2022.8,
+    "end": 2028.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "from her case and brought in how some of the financial calculations that she did will actually"
+  },
+  {
+    "start": 2028.3999999999999,
+    "end": 2033.2,
+    "speaker": "SPEAKER_01",
+    "text": "impact the overall answer to the client. Lastly, what I think is really important because so often"
+  },
+  {
+    "start": 2033.28,
+    "end": 2038.4,
+    "speaker": "SPEAKER_01",
+    "text": "in the recommendation section, who are running out of time as a candidate, Brittany is she succinct,"
+  },
+  {
+    "start": 2038.4,
+    "end": 2043.76,
+    "speaker": "SPEAKER_01",
+    "text": "she's structured in her answer and she's right to the point. So it comes across as a very crisp,"
+  },
+  {
+    "start": 2043.76,
+    "end": 2048.88,
+    "speaker": "SPEAKER_01",
+    "text": "clear recommendation. Great. Thanks, Brittany. Nice job on that. Just wanted to see how did you think"
+  },
+  {
+    "start": 2048.88,
+    "end": 2055.04,
+    "speaker": "SPEAKER_01",
+    "text": "that went? Do you have any sort of reflections? Yeah, how did it feel overall? Overall, it felt"
+  },
+  {
+    "start": 2055.04,
+    "end": 2060.48,
+    "speaker": "SPEAKER_02",
+    "text": "pretty good. If I were to kind of put my case coaching hat on and think about what could I have done"
+  },
+  {
+    "start": 2060.56,
+    "end": 2066.8,
+    "speaker": "SPEAKER_02",
+    "text": "to improve this? There's a couple of things. One is when I was going about structuring like creative"
+  },
+  {
+    "start": 2066.8,
+    "end": 2071.2,
+    "speaker": "SPEAKER_02",
+    "text": "the creativity questions, I think I would have liked to make it a little bit more measy."
+  },
+  {
+    "start": 2071.2,
+    "end": 2075.76,
+    "speaker": "SPEAKER_02",
+    "text": "There's a trade-off as a candidate of do you want to move into the creativity questions"
+  },
+  {
+    "start": 2075.76,
+    "end": 2081.68,
+    "speaker": "SPEAKER_02",
+    "text": "very quickly and have you slightly less structured or do you want to take that moment and like put"
+  },
+  {
+    "start": 2081.68,
+    "end": 2086.0,
+    "speaker": "SPEAKER_02",
+    "text": "down a really strong structure? In this case, because we spend a little bit more time on the"
+  },
+  {
+    "start": 2086.0,
+    "end": 2091.12,
+    "speaker": "SPEAKER_02",
+    "text": "math section, I decided to abbreviate that. The second thing that I think is going to be,"
+  },
+  {
+    "start": 2092.08,
+    "end": 2096.88,
+    "speaker": "SPEAKER_02",
+    "text": "I would do a little bit differently is around the math section. Generally, since you're not going"
+  },
+  {
+    "start": 2096.88,
+    "end": 2102.72,
+    "speaker": "SPEAKER_02",
+    "text": "to have access to like a calculator or a Google sheet like we were so lucky to have access to today,"
+  },
+  {
+    "start": 2103.92,
+    "end": 2109.04,
+    "speaker": "SPEAKER_02",
+    "text": "figuring out the balance between walking your interviewer through your math and the actual"
+  },
+  {
+    "start": 2109.04,
+    "end": 2113.52,
+    "speaker": "SPEAKER_02",
+    "text": "details that they can follow along and say and provide corrective action if you can"
+  },
+  {
+    "start": 2113.52,
+    "end": 2120.32,
+    "speaker": "SPEAKER_02",
+    "text": "kind of beer of your elsewhere. I think I could have been a little bit more polished around that"
+  },
+  {
+    "start": 2120.32,
+    "end": 2126.88,
+    "speaker": "SPEAKER_02",
+    "text": "and then third, just natural tendency, I tend to be a little bit more verbose. So I would suggest"
+  },
+  {
+    "start": 2126.88,
+    "end": 2130.64,
+    "speaker": "SPEAKER_02",
+    "text": "for a candidate to be a little bit more succinct to their answers because you're not evaluated"
+  },
+  {
+    "start": 2130.64,
+    "end": 2135.68,
+    "speaker": "SPEAKER_02",
+    "text": "just on cracking the case but also stylistically, did you go about the most efficient route to"
+  },
+  {
+    "start": 2135.68,
+    "end": 2139.92,
+    "speaker": "SPEAKER_01",
+    "text": "craft the case? Sure. Yeah, I don't think you were verbose, so I don't think I would agree with"
+  },
+  {
+    "start": 2139.92,
+    "end": 2145.36,
+    "speaker": "SPEAKER_01",
+    "text": "the last point. I say that as someone who is verbose on especially when I'm solving cases,"
+  },
+  {
+    "start": 2145.36,
+    "end": 2150.08,
+    "speaker": "SPEAKER_01",
+    "text": "it's a candidate, so don't be too hard in yourself. But yeah, great job. I thought it was it was"
+  },
+  {
+    "start": 2150.08,
+    "end": 2155.6800000000003,
+    "speaker": "SPEAKER_01",
+    "text": "really good and agree with your other feedback points as well. Hello, I really hope you found that"
+  },
+  {
+    "start": 2155.6800000000003,
+    "end": 2161.04,
+    "speaker": "SPEAKER_00",
+    "text": "useful. If you did, you can like and subscribe and why not come on iGuyNoffer.com to see more videos"
+  },
+  {
+    "start": 2161.04,
+    "end": 2166.0,
+    "speaker": "SPEAKER_00",
+    "text": "like this, study case interview frameworks and read company guides. There you can also practice"
+  },
+  {
+    "start": 2166.0,
+    "end": 2170.88,
+    "speaker": "SPEAKER_00",
+    "text": "for your upcoming case interviews with coaches from McKinsey, BCG, Vayne and other consulting"
+  },
+  {
+    "start": 2170.88,
+    "end": 2178.4,
+    "speaker": "SPEAKER_00",
+    "text": "fans. Thank you and good luck with your upcoming interviews."
+  }
+]

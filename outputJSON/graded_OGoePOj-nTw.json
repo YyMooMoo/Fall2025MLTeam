@@ -1,0 +1,1806 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 12.780000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "This case is a profitability one where a candidate is expected to diagnose an issue with"
+    },
+    {
+      "start": 12.780000000000001,
+      "end": 14.48,
+      "speaker": "SPEAKER_00",
+      "text": "a business and offer recommendations."
+    },
+    {
+      "start": 14.48,
+      "end": 20.400000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Here the objective is to identify why a petrope of owner is seeing the client's profits."
+    },
+    {
+      "start": 20.400000000000002,
+      "end": 24.28,
+      "speaker": "SPEAKER_00",
+      "text": "Although this candidate starts very strong, a poor structuring towards the latter half"
+    },
+    {
+      "start": 24.28,
+      "end": 27.76,
+      "speaker": "SPEAKER_00",
+      "text": "of the case makes investigating this issue a little challenging."
+    },
+    {
+      "start": 28.76,
+      "end": 32.760000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "Hello Prachi, so let's get underway."
+    },
+    {
+      "start": 32.760000000000005,
+      "end": 39.760000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "Your client is a petrope of owner and they are facing reduced profits."
+    },
+    {
+      "start": 39.760000000000005,
+      "end": 41.760000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "Why is that happening?"
+    },
+    {
+      "start": 41.76,
+      "end": 53.76,
+      "speaker": "SPEAKER_01",
+      "text": "I just have some preliminary questions."
+    },
+    {
+      "start": 53.76,
+      "end": 57.76,
+      "speaker": "SPEAKER_01",
+      "text": "How many petrol pumps do they own in the city or across nation?"
+    },
+    {
+      "start": 57.76,
+      "end": 61.76,
+      "speaker": "SPEAKER_00",
+      "text": "So the client owns just one petrol pump?"
+    },
+    {
+      "start": 61.76,
+      "end": 63.76,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 63.76,
+      "end": 70.75999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Have they been into business in a long time or they just recently joined in?"
+    },
+    {
+      "start": 71.76,
+      "end": 73.76,
+      "speaker": "SPEAKER_00",
+      "text": "They have been in the business for quite some time."
+    },
+    {
+      "start": 73.76,
+      "end": 76.76,
+      "speaker": "SPEAKER_00",
+      "text": "It's been for 15-20 years."
+    },
+    {
+      "start": 79.76,
+      "end": 81.76,
+      "speaker": "SPEAKER_01",
+      "text": "What is their area of operation?"
+    },
+    {
+      "start": 81.76,
+      "end": 86.76,
+      "speaker": "SPEAKER_01",
+      "text": "Do they operate in some city or highway or something like that?"
+    },
+    {
+      "start": 86.76,
+      "end": 88.76,
+      "speaker": "SPEAKER_00",
+      "text": "The operator in a highway."
+    },
+    {
+      "start": 88.76,
+      "end": 91.76,
+      "speaker": "SPEAKER_00",
+      "text": "Why is that relevant?"
+    },
+    {
+      "start": 91.76,
+      "end": 97.76,
+      "speaker": "SPEAKER_01",
+      "text": "Because then the majority of the customer segment would definitely be different because"
+    },
+    {
+      "start": 97.76,
+      "end": 101.76,
+      "speaker": "SPEAKER_01",
+      "text": "in the city you won't have trucks as your customer needs only."
+    },
+    {
+      "start": 101.76,
+      "end": 104.76,
+      "speaker": "SPEAKER_01",
+      "text": "But on the highways you might have bigger vehicles."
+    },
+    {
+      "start": 104.76,
+      "end": 106.76,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 106.76,
+      "end": 110.76,
+      "speaker": "SPEAKER_01",
+      "text": "And there's a petrol pump."
+    },
+    {
+      "start": 110.76,
+      "end": 114.76,
+      "speaker": "SPEAKER_01",
+      "text": "So do they deal with petrol and diesel and other services also?"
+    },
+    {
+      "start": 114.76,
+      "end": 117.76,
+      "speaker": "SPEAKER_01",
+      "text": "Are they restricted to just petrol or diesel?"
+    },
+    {
+      "start": 117.76,
+      "end": 119.76,
+      "speaker": "SPEAKER_00",
+      "text": "Petrol and diesel."
+    },
+    {
+      "start": 119.76,
+      "end": 126.76,
+      "speaker": "SPEAKER_00",
+      "text": "They also have some other services like they have convenience or they have cow wash."
+    },
+    {
+      "start": 128.76,
+      "end": 130.76,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 136.76,
+      "end": 141.76,
+      "speaker": "SPEAKER_01",
+      "text": "And do they provide anything like CNG or something?"
+    },
+    {
+      "start": 141.76,
+      "end": 143.76,
+      "speaker": "SPEAKER_01",
+      "text": "No."
+    },
+    {
+      "start": 143.76,
+      "end": 147.76,
+      "speaker": "SPEAKER_01",
+      "text": "So should I consider taxis to be one of their customers?"
+    },
+    {
+      "start": 147.76,
+      "end": 151.76,
+      "speaker": "SPEAKER_01",
+      "text": "Because these days we have a lot of CNG taxis running around."
+    },
+    {
+      "start": 151.76,
+      "end": 156.76,
+      "speaker": "SPEAKER_01",
+      "text": "So should I consider taxis to be a part of their customer segment?"
+    },
+    {
+      "start": 157.76,
+      "end": 164.76,
+      "speaker": "SPEAKER_00",
+      "text": "I mean they would probably if there are CNG taxis then the CNG taxis wouldn't be using..."
+    },
+    {
+      "start": 164.76,
+      "end": 165.76,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 165.76,
+      "end": 169.76,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, wouldn't be using this particular petrol pump to fill that tank."
+    },
+    {
+      "start": 169.76,
+      "end": 171.76,
+      "speaker": "SPEAKER_00",
+      "text": "They probably use the cow wash."
+    },
+    {
+      "start": 171.76,
+      "end": 174.76,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. They might come over for the other facilities."
+    },
+    {
+      "start": 186.76,
+      "end": 191.76,
+      "speaker": "SPEAKER_01",
+      "text": "So in this take a minute to try over all the ports."
+    },
+    {
+      "start": 216.76,
+      "end": 219.76,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 246.76,
+      "end": 249.76,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 276.76,
+      "end": 279.76,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 279.76,
+      "end": 307.36,
+      "speaker": "SPEAKER_01",
+      "text": "So my overall approach would be to divide profits into revenue and cost."
+    },
+    {
+      "start": 307.36,
+      "end": 316.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "So profits is revenue minus cost. So as I was seeing a decline in profits, one major reason could be either the revenue is going down or their cost is going up."
+    },
+    {
+      "start": 316.96000000000004,
+      "end": 325.46000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "So further divided revenue into some major categories. First is the revenue would be the amount sold into the price."
+    },
+    {
+      "start": 325.46000000000004,
+      "end": 330.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "So I have taken the price per liter of diesel and petrol. We can consider them separately."
+    },
+    {
+      "start": 330.96,
+      "end": 341.06,
+      "speaker": "SPEAKER_01",
+      "text": "The units of diesel sold and the units of petrol sold, they provide other services as well. So we can consider other services and what is the pricing for their other services."
+    },
+    {
+      "start": 341.06,
+      "end": 345.46,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So what exactly do you want to consider under other services because you..."
+    },
+    {
+      "start": 345.46,
+      "end": 351.46,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. The ones that you mentioned that they do car wash and they even have a store. So the revenue that they..."
+    },
+    {
+      "start": 351.56,
+      "end": 357.56,
+      "speaker": "SPEAKER_01",
+      "text": "Like what are the different services that they provide here and what is the approximate and average for."
+    },
+    {
+      "start": 357.56,
+      "end": 366.56,
+      "speaker": "SPEAKER_01",
+      "text": "So for the fixed... I've divided cost further into fixed first and variable cost. The fixed first would be the land rent and this kind of thing."
+    },
+    {
+      "start": 366.56,
+      "end": 376.06,
+      "speaker": "SPEAKER_01",
+      "text": "And the second would be the machines. How many machines are using and the variable cost would be how much they are paying into the company from which they are buying and how much labor they are employed."
+    },
+    {
+      "start": 376.16,
+      "end": 382.66,
+      "speaker": "SPEAKER_01",
+      "text": "And I think because it's a petrol they would need to do some quality checks at certain point of time. So this is another thing."
+    },
+    {
+      "start": 382.66,
+      "end": 385.16,
+      "speaker": "SPEAKER_00",
+      "text": "You think labor would be a variable cost?"
+    },
+    {
+      "start": 385.16,
+      "end": 393.16,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah because they could be possible... they could be possibility that they hire or they're more labor at some point of time."
+    },
+    {
+      "start": 393.16,
+      "end": 395.56,
+      "speaker": "SPEAKER_00",
+      "text": "Based on the demand?"
+    },
+    {
+      "start": 395.56,
+      "end": 401.86,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. They could be possibility that during peak cause they might actually call in more people."
+    },
+    {
+      "start": 401.86,
+      "end": 403.36,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 406.16,
+      "end": 414.06,
+      "speaker": "SPEAKER_00",
+      "text": "The candidate asks good preliminary questions to understand the case context. She does extremely well in presenting the profits driver tree in detail."
+    },
+    {
+      "start": 414.06,
+      "end": 418.56,
+      "speaker": "SPEAKER_00",
+      "text": "The structures fairly me see the presentation is neat and easy to follow."
+    },
+    {
+      "start": 418.56,
+      "end": 423.16,
+      "speaker": "SPEAKER_00",
+      "text": "One should be careful what costs are categorized and fixed and what under variable."
+    },
+    {
+      "start": 423.16,
+      "end": 432.06,
+      "speaker": "SPEAKER_00",
+      "text": "Variable costs are spends that increase with every unit of product sold. It includes the cost of raw material, packaging, certain taxes, etc."
+    },
+    {
+      "start": 432.16,
+      "end": 437.36,
+      "speaker": "SPEAKER_00",
+      "text": "In this case employee costs doesn't really increase with every additional unit of petrol sold."
+    },
+    {
+      "start": 437.36,
+      "end": 441.86,
+      "speaker": "SPEAKER_00",
+      "text": "So categorizing it under the fixed cost header is a better assumption."
+    },
+    {
+      "start": 441.86,
+      "end": 445.36,
+      "speaker": "SPEAKER_00",
+      "text": "In any case it's a good habit to clarify this with the interviewer."
+    },
+    {
+      "start": 446.36,
+      "end": 454.36,
+      "speaker": "SPEAKER_01",
+      "text": "So do we have any idea about what is the major reason for the decline in profits? Is this the revenue or the cost?"
+    },
+    {
+      "start": 454.36,
+      "end": 456.86,
+      "speaker": "SPEAKER_00",
+      "text": "See both have reduced."
+    },
+    {
+      "start": 456.86,
+      "end": 458.36,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 459.36,
+      "end": 463.66,
+      "speaker": "SPEAKER_01",
+      "text": "So the cost reduction is definitely a plus point for us."
+    },
+    {
+      "start": 463.66,
+      "end": 466.46000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "So it should lead to a rising profits."
+    },
+    {
+      "start": 466.46000000000004,
+      "end": 470.16,
+      "speaker": "SPEAKER_01",
+      "text": "But I think because the revenue has decreased this should be one major reason."
+    },
+    {
+      "start": 470.16,
+      "end": 471.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "So should we focus this on more?"
+    },
+    {
+      "start": 471.96000000000004,
+      "end": 472.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 472.96000000000004,
+      "end": 479.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "So amongst this or do we have any kind of idea like is there customers like customers?"
+    },
+    {
+      "start": 479.96000000000004,
+      "end": 486.86,
+      "speaker": "SPEAKER_01",
+      "text": "Are the customers decreased or the one major thing that I could figure out is because it's the price."
+    },
+    {
+      "start": 486.96000000000004,
+      "end": 489.46000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "What are the different things that could be happening?"
+    },
+    {
+      "start": 489.46000000000004,
+      "end": 496.16,
+      "speaker": "SPEAKER_01",
+      "text": "It could be either there's a reduction in the price or it could be a problem with how much of the units they are selling."
+    },
+    {
+      "start": 496.16,
+      "end": 501.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "Or it could be if a majority of the revenue comes from other services we could also look into this."
+    },
+    {
+      "start": 501.96000000000004,
+      "end": 503.46000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 503.46000000000004,
+      "end": 508.46000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "So the price, the price of fuel hasn't changed."
+    },
+    {
+      "start": 508.46000000000004,
+      "end": 509.46000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 510.46,
+      "end": 517.56,
+      "speaker": "SPEAKER_00",
+      "text": "So the number of units of diesel and petrol they are selling has both gone down."
+    },
+    {
+      "start": 517.56,
+      "end": 523.06,
+      "speaker": "SPEAKER_00",
+      "text": "The other services, the price of other services hasn't changed."
+    },
+    {
+      "start": 523.06,
+      "end": 524.06,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 524.06,
+      "end": 530.06,
+      "speaker": "SPEAKER_00",
+      "text": "But yeah the other services, the revenues that you get from the other services has still gone down."
+    },
+    {
+      "start": 530.06,
+      "end": 532.06,
+      "speaker": "SPEAKER_01",
+      "text": "Still gone down?"
+    },
+    {
+      "start": 532.06,
+      "end": 534.06,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, has gone down."
+    },
+    {
+      "start": 539.5600000000001,
+      "end": 552.0600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So also I would like to know your what is the proportion that they are focusing to sell on diesel and petrol."
+    },
+    {
+      "start": 552.0600000000001,
+      "end": 558.0600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Like to this or equal amount through they have equal number of machines for petrol and diesel or they focus on more on something."
+    },
+    {
+      "start": 558.0600000000001,
+      "end": 560.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "No, there is an equal focus on both."
+    },
+    {
+      "start": 560.5600000000001,
+      "end": 561.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 561.5600000000001,
+      "end": 568.0600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And if it is still me about what is the price that they are selling the petrol and diesel at?"
+    },
+    {
+      "start": 568.16,
+      "end": 569.66,
+      "speaker": "SPEAKER_00",
+      "text": "How is that relevant?"
+    },
+    {
+      "start": 569.66,
+      "end": 581.16,
+      "speaker": "SPEAKER_01",
+      "text": "Because we need to then consider if they are selling at 40 as opposed 100 per liter of diesel and petrol at 50 rupees per liter."
+    },
+    {
+      "start": 581.16,
+      "end": 588.16,
+      "speaker": "SPEAKER_01",
+      "text": "And they can then earn more of like they need to focus more on selling diesel than on selling petrol."
+    },
+    {
+      "start": 588.16,
+      "end": 592.3599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Like if they are selling same amount so they need to focus more on selling diesel."
+    },
+    {
+      "start": 592.3599999999999,
+      "end": 593.3599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 593.3599999999999,
+      "end": 595.66,
+      "speaker": "SPEAKER_00",
+      "text": "So what is your question?"
+    },
+    {
+      "start": 595.66,
+      "end": 599.56,
+      "speaker": "SPEAKER_01",
+      "text": "Is there a major price difference between both of the petrol and diesel?"
+    },
+    {
+      "start": 599.56,
+      "end": 601.06,
+      "speaker": "SPEAKER_00",
+      "text": "Yes, there is a price difference."
+    },
+    {
+      "start": 601.06,
+      "end": 603.06,
+      "speaker": "SPEAKER_01",
+      "text": "So diesel is more than petrol."
+    },
+    {
+      "start": 603.06,
+      "end": 604.56,
+      "speaker": "SPEAKER_00",
+      "text": "Diesel is cheaper than petrol."
+    },
+    {
+      "start": 604.56,
+      "end": 605.56,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, diesel is cheaper."
+    },
+    {
+      "start": 612.76,
+      "end": 616.06,
+      "speaker": "SPEAKER_01",
+      "text": "So I just take a minute down to Shukar the break in line."
+    },
+    {
+      "start": 616.06,
+      "end": 626.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I just have one question."
+    },
+    {
+      "start": 626.9599999999999,
+      "end": 631.4599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Do the trucks because they are operating on a highway."
+    },
+    {
+      "start": 631.4599999999999,
+      "end": 637.4599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So I am considering the larger vehicles trucks and tollies they should be their major customer."
+    },
+    {
+      "start": 637.4599999999999,
+      "end": 639.4599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So do they operate on petrol?"
+    },
+    {
+      "start": 639.4599999999999,
+      "end": 640.4599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Not even that."
+    },
+    {
+      "start": 640.4599999999999,
+      "end": 645.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Because it is a highway and it is a long distance travel and generally the larger vehicles travel through the highway."
+    },
+    {
+      "start": 646.86,
+      "end": 650.36,
+      "speaker": "SPEAKER_00",
+      "text": "Does that mean that small vehicles don't have a major customer?"
+    },
+    {
+      "start": 650.36,
+      "end": 653.86,
+      "speaker": "SPEAKER_01",
+      "text": "No, I mean to say that they should be one of the major customers."
+    },
+    {
+      "start": 653.86,
+      "end": 655.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "The small vehicles are also there."
+    },
+    {
+      "start": 655.5600000000001,
+      "end": 656.86,
+      "speaker": "SPEAKER_01",
+      "text": "So do the trucks have a major customer?"
+    },
+    {
+      "start": 656.86,
+      "end": 660.86,
+      "speaker": "SPEAKER_00",
+      "text": "What if I tell you that it is equal?"
+    },
+    {
+      "start": 660.86,
+      "end": 661.86,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 661.86,
+      "end": 664.86,
+      "speaker": "SPEAKER_00",
+      "text": "So why did you assume that?"
+    },
+    {
+      "start": 664.86,
+      "end": 667.86,
+      "speaker": "SPEAKER_01",
+      "text": "Because they generally take more and more heaters."
+    },
+    {
+      "start": 667.86,
+      "end": 671.86,
+      "speaker": "SPEAKER_00",
+      "text": "Now please validate any information or any assumptions that you are making."
+    },
+    {
+      "start": 671.86,
+      "end": 672.86,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 672.86,
+      "end": 673.86,
+      "speaker": "SPEAKER_00",
+      "text": "It is the same."
+    },
+    {
+      "start": 673.86,
+      "end": 674.86,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 674.86,
+      "end": 678.0600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And what are vehicles would be using diesel?"
+    },
+    {
+      "start": 678.0600000000001,
+      "end": 681.0600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "I could think of car and taxi."
+    },
+    {
+      "start": 681.0600000000001,
+      "end": 683.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Taxis some of the cars that they would take."
+    },
+    {
+      "start": 683.5600000000001,
+      "end": 684.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Cars and trucks."
+    },
+    {
+      "start": 684.5600000000001,
+      "end": 685.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Cars and trucks."
+    },
+    {
+      "start": 692.0600000000001,
+      "end": 694.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Do I consider two wheelers to be your?"
+    },
+    {
+      "start": 694.5600000000001,
+      "end": 697.0600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "No, the two wheelers are not allowed in highway."
+    },
+    {
+      "start": 697.0600000000001,
+      "end": 698.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Cars, trucks, buses."
+    },
+    {
+      "start": 699.5600000000001,
+      "end": 702.76,
+      "speaker": "SPEAKER_01",
+      "text": "Do buses use also petrol and diesel?"
+    },
+    {
+      "start": 702.76,
+      "end": 710.66,
+      "speaker": "SPEAKER_01",
+      "text": "So should I consider that all three of these can use either of petrol and diesel?"
+    },
+    {
+      "start": 710.66,
+      "end": 713.66,
+      "speaker": "SPEAKER_00",
+      "text": "Trucks and buses use diesel typically."
+    },
+    {
+      "start": 713.66,
+      "end": 715.66,
+      "speaker": "SPEAKER_00",
+      "text": "Cars use petrol."
+    },
+    {
+      "start": 715.66,
+      "end": 716.66,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 719.16,
+      "end": 727.16,
+      "speaker": "SPEAKER_01",
+      "text": "So because the amount of petrol and diesel that we are selling has gone down."
+    },
+    {
+      "start": 727.16,
+      "end": 732.66,
+      "speaker": "SPEAKER_01",
+      "text": "So definitely there is the amount of customers that we are targeting has gone down."
+    },
+    {
+      "start": 732.76,
+      "end": 736.56,
+      "speaker": "SPEAKER_01",
+      "text": "So what could be the..."
+    },
+    {
+      "start": 736.56,
+      "end": 738.56,
+      "speaker": "SPEAKER_00",
+      "text": "Are you sure that's it?"
+    },
+    {
+      "start": 739.56,
+      "end": 740.56,
+      "speaker": "SPEAKER_01",
+      "text": "No."
+    },
+    {
+      "start": 740.56,
+      "end": 743.56,
+      "speaker": "SPEAKER_00",
+      "text": "Is that the only thing that could be happening?"
+    },
+    {
+      "start": 743.56,
+      "end": 745.56,
+      "speaker": "SPEAKER_01",
+      "text": "No."
+    },
+    {
+      "start": 745.56,
+      "end": 749.06,
+      "speaker": "SPEAKER_01",
+      "text": "I'll just take a minute to think on this."
+    },
+    {
+      "start": 754.26,
+      "end": 757.76,
+      "speaker": "SPEAKER_01",
+      "text": "The amount of diesel sold has gone down."
+    },
+    {
+      "start": 763.56,
+      "end": 769.56,
+      "speaker": "SPEAKER_01",
+      "text": "Are they even providing to some other thought party like they are doesn't really know?"
+    },
+    {
+      "start": 778.56,
+      "end": 781.56,
+      "speaker": "SPEAKER_00",
+      "text": "Why don't you try breaking that down mathematically?"
+    },
+    {
+      "start": 781.56,
+      "end": 784.56,
+      "speaker": "SPEAKER_01",
+      "text": "The cars, trucks and buses."
+    },
+    {
+      "start": 785.4599999999999,
+      "end": 788.4599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Take anyone say,"
+    },
+    {
+      "start": 789.4599999999999,
+      "end": 793.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "amount of petrol or diesel sold to a customer."
+    },
+    {
+      "start": 793.9599999999999,
+      "end": 795.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Can you break it down mathematically?"
+    },
+    {
+      "start": 797.9599999999999,
+      "end": 800.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I mean depending on how much consumption,"
+    },
+    {
+      "start": 800.9599999999999,
+      "end": 803.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "how much is the quantity they need."
+    },
+    {
+      "start": 803.9599999999999,
+      "end": 806.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So should I break it down individually for all of them?"
+    },
+    {
+      "start": 807.36,
+      "end": 810.36,
+      "speaker": "UNKNOWN",
+      "text": "I'm sorry but I really don't know how much is the capacity for that."
+    },
+    {
+      "start": 810.36,
+      "end": 812.36,
+      "speaker": "SPEAKER_01",
+      "text": "No, no that's okay."
+    },
+    {
+      "start": 812.36,
+      "end": 815.36,
+      "speaker": "SPEAKER_01",
+      "text": "Just take, just break it down mathematically."
+    },
+    {
+      "start": 815.36,
+      "end": 818.36,
+      "speaker": "SPEAKER_00",
+      "text": "Just want you to be exhaustive."
+    },
+    {
+      "start": 818.36,
+      "end": 820.36,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 824.36,
+      "end": 833.36,
+      "speaker": "SPEAKER_00",
+      "text": "So, want you to break down the total amount of diesel that is sold at this point?"
+    },
+    {
+      "start": 833.36,
+      "end": 836.76,
+      "speaker": "SPEAKER_00",
+      "text": "How would you break that down mathematically?"
+    },
+    {
+      "start": 836.76,
+      "end": 840.36,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of price, in terms of, you know,"
+    },
+    {
+      "start": 840.36,
+      "end": 847.76,
+      "speaker": "SPEAKER_00",
+      "text": "you're not price, in terms of what components would you break down your total amount of diesel sold?"
+    },
+    {
+      "start": 847.76,
+      "end": 852.76,
+      "speaker": "SPEAKER_00",
+      "text": "The major breakdown will be what are the customers that they're targeting?"
+    },
+    {
+      "start": 852.76,
+      "end": 855.76,
+      "speaker": "SPEAKER_01",
+      "text": "And how much they're selling to each of them?"
+    },
+    {
+      "start": 855.76,
+      "end": 856.76,
+      "speaker": "SPEAKER_01",
+      "text": "Exactly."
+    },
+    {
+      "start": 856.76,
+      "end": 860.76,
+      "speaker": "SPEAKER_01",
+      "text": "So, if the total amount of diesel that's sold,"
+    },
+    {
+      "start": 860.76,
+      "end": 865.16,
+      "speaker": "SPEAKER_00",
+      "text": "the total amount of diesel that's being sold is going down."
+    },
+    {
+      "start": 865.16,
+      "end": 871.96,
+      "speaker": "SPEAKER_01",
+      "text": "It could be because of the total number of customers or the amount that they're selling that going down."
+    },
+    {
+      "start": 871.96,
+      "end": 872.96,
+      "speaker": "SPEAKER_01",
+      "text": "Each."
+    },
+    {
+      "start": 874.96,
+      "end": 876.16,
+      "speaker": "SPEAKER_00",
+      "text": "After laying out the structure,"
+    },
+    {
+      "start": 876.16,
+      "end": 878.96,
+      "speaker": "SPEAKER_00",
+      "text": "the canticate talks about the prices of petrol and diesel,"
+    },
+    {
+      "start": 878.96,
+      "end": 880.96,
+      "speaker": "SPEAKER_00",
+      "text": "which is not relevant."
+    },
+    {
+      "start": 880.96,
+      "end": 884.76,
+      "speaker": "SPEAKER_00",
+      "text": "The change in price and unit sold is all that matters."
+    },
+    {
+      "start": 884.76,
+      "end": 889.16,
+      "speaker": "SPEAKER_00",
+      "text": "She also assumes that the majority of the traffic comprises trucks and buses."
+    },
+    {
+      "start": 889.16,
+      "end": 893.76,
+      "speaker": "SPEAKER_00",
+      "text": "This is an easy mistake to avoid since this is option can be checked with the interview."
+    },
+    {
+      "start": 893.76,
+      "end": 898.16,
+      "speaker": "SPEAKER_00",
+      "text": "Another logical lead the candidate makes is assuming that the number of vehicles has reduced"
+    },
+    {
+      "start": 898.16,
+      "end": 901.56,
+      "speaker": "SPEAKER_00",
+      "text": "because units of fuel sold have reduced."
+    },
+    {
+      "start": 901.56,
+      "end": 908.36,
+      "speaker": "SPEAKER_00",
+      "text": "Reduction of units sold is dependent on both transaction size per vehicle and number of vehicles or customers."
+    },
+    {
+      "start": 908.36,
+      "end": 909.36,
+      "speaker": "SPEAKER_00",
+      "text": "Vehicles or customers?"
+    },
+    {
+      "start": 909.36,
+      "end": 909.76,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 909.76,
+      "end": 911.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "This won't you to break it down that way."
+    },
+    {
+      "start": 911.9599999999999,
+      "end": 917.36,
+      "speaker": "SPEAKER_00",
+      "text": "Anyway, so what's happening is what's actually happening is the number of customers have gone down."
+    },
+    {
+      "start": 920.16,
+      "end": 923.56,
+      "speaker": "SPEAKER_01",
+      "text": "So we have considered what the major customer has to be,"
+    },
+    {
+      "start": 923.56,
+      "end": 925.56,
+      "speaker": "SPEAKER_01",
+      "text": "cars, trucks and buses."
+    },
+    {
+      "start": 925.56,
+      "end": 932.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So do we have any kind of idea what is the customer that have gone down or should we consider on all the possibilities?"
+    },
+    {
+      "start": 935.9599999999999,
+      "end": 937.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So number of cars have reduced."
+    },
+    {
+      "start": 938.96,
+      "end": 939.96,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 944.96,
+      "end": 952.96,
+      "speaker": "SPEAKER_01",
+      "text": "So we need to figure out some alternatives or some methods by which we can target more to the car customers."
+    },
+    {
+      "start": 952.96,
+      "end": 957.96,
+      "speaker": "SPEAKER_01",
+      "text": "Or we can sell more number of units to the car."
+    },
+    {
+      "start": 957.96,
+      "end": 958.96,
+      "speaker": "SPEAKER_01",
+      "text": "To the car."
+    },
+    {
+      "start": 958.96,
+      "end": 959.96,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 959.96,
+      "end": 962.96,
+      "speaker": "SPEAKER_00",
+      "text": "But why is this reduction happening?"
+    },
+    {
+      "start": 963.96,
+      "end": 971.96,
+      "speaker": "SPEAKER_01",
+      "text": "One, are there any competitors around us so that in the proximity they might have?"
+    },
+    {
+      "start": 971.96,
+      "end": 972.96,
+      "speaker": "SPEAKER_01",
+      "text": "We are the only petrol pump."
+    },
+    {
+      "start": 972.96,
+      "end": 973.96,
+      "speaker": "SPEAKER_01",
+      "text": "On the highway."
+    },
+    {
+      "start": 973.96,
+      "end": 974.96,
+      "speaker": "SPEAKER_02",
+      "text": "Yes."
+    },
+    {
+      "start": 984.96,
+      "end": 986.96,
+      "speaker": "SPEAKER_01",
+      "text": "These are the first and most."
+    },
+    {
+      "start": 986.96,
+      "end": 987.96,
+      "speaker": "SPEAKER_01",
+      "text": "I don't know."
+    },
+    {
+      "start": 992.96,
+      "end": 995.96,
+      "speaker": "SPEAKER_01",
+      "text": "Some of the road is destroyed."
+    },
+    {
+      "start": 1016.96,
+      "end": 1023.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Some of the major things that I could think of is we have seen a reduction in the number"
+    },
+    {
+      "start": 1023.8000000000001,
+      "end": 1024.8,
+      "speaker": "SPEAKER_01",
+      "text": "of customers."
+    },
+    {
+      "start": 1024.8,
+      "end": 1025.8,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 1025.8,
+      "end": 1031.32,
+      "speaker": "SPEAKER_01",
+      "text": "So one could be that they do not need a refill in their journey from Delhi to Chandigarh,"
+    },
+    {
+      "start": 1031.32,
+      "end": 1033.32,
+      "speaker": "SPEAKER_01",
+      "text": "highway that we are considering."
+    },
+    {
+      "start": 1033.32,
+      "end": 1042.32,
+      "speaker": "SPEAKER_01",
+      "text": "So one reason could be that and the another because the price per liter is same."
+    },
+    {
+      "start": 1042.32,
+      "end": 1044.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So I don't think the price should matter."
+    },
+    {
+      "start": 1044.12,
+      "end": 1045.12,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 1045.12,
+      "end": 1048.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "It could be some other services that they might be looking for."
+    },
+    {
+      "start": 1048.1999999999998,
+      "end": 1052.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Why do you think suddenly customers don't want to refill petrol?"
+    },
+    {
+      "start": 1052.9599999999998,
+      "end": 1053.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "No."
+    },
+    {
+      "start": 1053.9599999999998,
+      "end": 1054.9599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "No, no."
+    },
+    {
+      "start": 1054.9599999999998,
+      "end": 1062.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "I just said that between our Delhi to Chandigarh highway, the distance might not be too much"
+    },
+    {
+      "start": 1062.6799999999998,
+      "end": 1063.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "for them to have a\u2026"
+    },
+    {
+      "start": 1063.6799999999998,
+      "end": 1066.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "But they have been doing this for a very long time, right?"
+    },
+    {
+      "start": 1066.9199999999998,
+      "end": 1067.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Why suddenly?"
+    },
+    {
+      "start": 1067.9199999999998,
+      "end": 1070.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Why change in behaviour suddenly?"
+    },
+    {
+      "start": 1070.72,
+      "end": 1076.04,
+      "speaker": "SPEAKER_00",
+      "text": "So I will give you a piece of information."
+    },
+    {
+      "start": 1076.04,
+      "end": 1082.0,
+      "speaker": "SPEAKER_00",
+      "text": "This has started happening in the past one year."
+    },
+    {
+      "start": 1082.0,
+      "end": 1083.56,
+      "speaker": "SPEAKER_01",
+      "text": "The reduction in car customers."
+    },
+    {
+      "start": 1083.56,
+      "end": 1092.44,
+      "speaker": "SPEAKER_01",
+      "text": "Is there any specific form?"
+    },
+    {
+      "start": 1092.44,
+      "end": 1096.92,
+      "speaker": "SPEAKER_01",
+      "text": "So the thing that I can't figure out from the OSRT amount of cars that are passing"
+    },
+    {
+      "start": 1096.92,
+      "end": 1098.96,
+      "speaker": "SPEAKER_01",
+      "text": "through the highway has decreased."
+    },
+    {
+      "start": 1098.96,
+      "end": 1099.96,
+      "speaker": "SPEAKER_01",
+      "text": "So."
+    },
+    {
+      "start": 1099.96,
+      "end": 1106.96,
+      "speaker": "SPEAKER_01",
+      "text": "Could there be reason that people are going more on sharing apps or something of that"
+    },
+    {
+      "start": 1106.96,
+      "end": 1107.96,
+      "speaker": "SPEAKER_01",
+      "text": "that the\u2026"
+    },
+    {
+      "start": 1107.96,
+      "end": 1108.96,
+      "speaker": "SPEAKER_01",
+      "text": "What else?"
+    },
+    {
+      "start": 1108.96,
+      "end": 1119.96,
+      "speaker": "SPEAKER_01",
+      "text": "The amount of cars passing through that and the people who need to refill it."
+    },
+    {
+      "start": 1119.96,
+      "end": 1126.96,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 1126.96,
+      "end": 1131.96,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1131.96,
+      "end": 1144.96,
+      "speaker": "SPEAKER_01",
+      "text": "The efficiency of the engine might have increased in the recent years because of technology"
+    },
+    {
+      "start": 1144.96,
+      "end": 1145.96,
+      "speaker": "SPEAKER_01",
+      "text": "of the radiation."
+    },
+    {
+      "start": 1145.96,
+      "end": 1152.96,
+      "speaker": "SPEAKER_00",
+      "text": "In the past one year, not really."
+    },
+    {
+      "start": 1152.96,
+      "end": 1153.96,
+      "speaker": "UNKNOWN",
+      "text": "Do you\u2026"
+    },
+    {
+      "start": 1153.96,
+      "end": 1154.96,
+      "speaker": "UNKNOWN",
+      "text": "Can I be\u2026"
+    },
+    {
+      "start": 1154.96,
+      "end": 1155.96,
+      "speaker": "SPEAKER_00",
+      "text": "I hope you hear."
+    },
+    {
+      "start": 1155.96,
+      "end": 1163.96,
+      "speaker": "SPEAKER_00",
+      "text": "Do you think the total number of people travelling between Delhi and Chandigarh might have"
+    },
+    {
+      "start": 1163.96,
+      "end": 1164.96,
+      "speaker": "SPEAKER_01",
+      "text": "to do it?"
+    },
+    {
+      "start": 1164.96,
+      "end": 1165.96,
+      "speaker": "SPEAKER_00",
+      "text": "May have to do it."
+    },
+    {
+      "start": 1165.96,
+      "end": 1166.96,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1166.96,
+      "end": 1170.96,
+      "speaker": "SPEAKER_00",
+      "text": "But that's not what is happening."
+    },
+    {
+      "start": 1170.96,
+      "end": 1175.72,
+      "speaker": "SPEAKER_00",
+      "text": "That could be one reason."
+    },
+    {
+      "start": 1175.72,
+      "end": 1182.72,
+      "speaker": "SPEAKER_00",
+      "text": "If the total number of people travelling between Delhi and Chandigarh has not reduced."
+    },
+    {
+      "start": 1182.72,
+      "end": 1186.72,
+      "speaker": "SPEAKER_00",
+      "text": "But suddenly there's a dip in the number of cars on highway."
+    },
+    {
+      "start": 1186.72,
+      "end": 1189.72,
+      "speaker": "SPEAKER_01",
+      "text": "So they might be using some other mode of transportation."
+    },
+    {
+      "start": 1189.72,
+      "end": 1194.72,
+      "speaker": "SPEAKER_01",
+      "text": "So they could be using buses or a travel or something."
+    },
+    {
+      "start": 1194.72,
+      "end": 1197.72,
+      "speaker": "SPEAKER_01",
+      "text": "So the amount of people\u2026"
+    },
+    {
+      "start": 1197.72,
+      "end": 1201.72,
+      "speaker": "SPEAKER_01",
+      "text": "The number of people travelling through road would have to be\u2026"
+    },
+    {
+      "start": 1201.72,
+      "end": 1202.72,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 1202.72,
+      "end": 1203.72,
+      "speaker": "SPEAKER_00",
+      "text": "Correct."
+    },
+    {
+      "start": 1204.72,
+      "end": 1210.72,
+      "speaker": "SPEAKER_00",
+      "text": "I haven't been using buses."
+    },
+    {
+      "start": 1210.72,
+      "end": 1227.72,
+      "speaker": "SPEAKER_00",
+      "text": "There's a new airline which started shuttles between Delhi and Chandigarh."
+    },
+    {
+      "start": 1227.72,
+      "end": 1228.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1228.72,
+      "end": 1232.72,
+      "speaker": "SPEAKER_01",
+      "text": "So the majority of people are then opting for airlines."
+    },
+    {
+      "start": 1232.72,
+      "end": 1234.72,
+      "speaker": "SPEAKER_00",
+      "text": "That is the need what is happening."
+    },
+    {
+      "start": 1234.72,
+      "end": 1235.72,
+      "speaker": "SPEAKER_00",
+      "text": "Could you synthesise?"
+    },
+    {
+      "start": 1235.72,
+      "end": 1236.72,
+      "speaker": "SPEAKER_00",
+      "text": "How about it?"
+    },
+    {
+      "start": 1236.72,
+      "end": 1237.72,
+      "speaker": "SPEAKER_00",
+      "text": "Could you wrap up the case?"
+    },
+    {
+      "start": 1237.72,
+      "end": 1239.72,
+      "speaker": "SPEAKER_00",
+      "text": "That is the need what is happening."
+    },
+    {
+      "start": 1239.72,
+      "end": 1240.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1240.72,
+      "end": 1241.72,
+      "speaker": "SPEAKER_00",
+      "text": "Could you wrap up the case?"
+    },
+    {
+      "start": 1241.72,
+      "end": 1242.72,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 1242.72,
+      "end": 1245.72,
+      "speaker": "SPEAKER_01",
+      "text": "And this take a minute to show."
+    },
+    {
+      "start": 1245.72,
+      "end": 1261.72,
+      "speaker": "SPEAKER_00",
+      "text": "Taking shots in the doctor diagnosed the problem gives the interview no comfort whatsoever."
+    },
+    {
+      "start": 1261.72,
+      "end": 1265.72,
+      "speaker": "SPEAKER_00",
+      "text": "Rather than checking with the interview intimately to see if you have the answer."
+    },
+    {
+      "start": 1265.72,
+      "end": 1270.72,
+      "speaker": "SPEAKER_00",
+      "text": "It is advisable to take a mentor to to think through a structured approach, a mathematical breakdown,"
+    },
+    {
+      "start": 1270.72,
+      "end": 1274.72,
+      "speaker": "SPEAKER_00",
+      "text": "or the very least a full set of options before focusing the interviewer."
+    },
+    {
+      "start": 1274.72,
+      "end": 1279.72,
+      "speaker": "SPEAKER_00",
+      "text": "In this case, the reason why few vehicles are taking the highway could be because a,"
+    },
+    {
+      "start": 1279.72,
+      "end": 1285.72,
+      "speaker": "SPEAKER_00",
+      "text": "number of people travelling between Delhi and Chandigarh have to be the taking a different route altogether,"
+    },
+    {
+      "start": 1285.72,
+      "end": 1291.72,
+      "speaker": "SPEAKER_00",
+      "text": "see the carpooling to take few vehicles or are taking public transport,"
+    },
+    {
+      "start": 1291.72,
+      "end": 1295.72,
+      "speaker": "SPEAKER_00",
+      "text": "or D, they are using another refueling station."
+    },
+    {
+      "start": 1334.72,
+      "end": 1363.72,
+      "speaker": "SPEAKER_01",
+      "text": "So for the entire case that we solved here right now, so because the petrol pump has been"
+    },
+    {
+      "start": 1363.72,
+      "end": 1369.72,
+      "speaker": "SPEAKER_01",
+      "text": "facing losses and we figured out that Parvizhu reason was a reduction in revenue."
+    },
+    {
+      "start": 1369.72,
+      "end": 1375.72,
+      "speaker": "SPEAKER_01",
+      "text": "And for the we broke it down and we saw that the amount of diesel that they are sending has gone down."
+    },
+    {
+      "start": 1375.72,
+      "end": 1381.72,
+      "speaker": "SPEAKER_01",
+      "text": "And within that we saw that the amount of car customers has, has seen a reduction."
+    },
+    {
+      "start": 1381.72,
+      "end": 1387.72,
+      "speaker": "SPEAKER_01",
+      "text": "And a majority of travelers are now preferring to go by air rather by road."
+    },
+    {
+      "start": 1387.72,
+      "end": 1390.72,
+      "speaker": "SPEAKER_01",
+      "text": "And so this was one of the things."
+    },
+    {
+      "start": 1390.72,
+      "end": 1396.72,
+      "speaker": "SPEAKER_01",
+      "text": "And through the entire case what I could figure out is that the petrol pump owner should focus more on"
+    },
+    {
+      "start": 1396.72,
+      "end": 1399.72,
+      "speaker": "SPEAKER_01",
+      "text": "other kind of customers if there are lesser of car travelers."
+    },
+    {
+      "start": 1399.72,
+      "end": 1402.72,
+      "speaker": "SPEAKER_01",
+      "text": "So he could have focus on trucks and buses."
+    },
+    {
+      "start": 1402.72,
+      "end": 1408.72,
+      "speaker": "SPEAKER_01",
+      "text": "And he could add some kind of ski, definitely vehicle not be a ski,"
+    },
+    {
+      "start": 1408.72,
+      "end": 1413.72,
+      "speaker": "SPEAKER_01",
+      "text": "but he could provide them with other benefits and services that he has to offer at a reduction and price,"
+    },
+    {
+      "start": 1413.72,
+      "end": 1415.72,
+      "speaker": "SPEAKER_01",
+      "text": "so that they take from him."
+    },
+    {
+      "start": 1415.72,
+      "end": 1419.72,
+      "speaker": "SPEAKER_01",
+      "text": "And he could focus more on improving his other services."
+    },
+    {
+      "start": 1419.72,
+      "end": 1425.72,
+      "speaker": "SPEAKER_01",
+      "text": "He could add on some services and he could because these days a lot of people pay through cars."
+    },
+    {
+      "start": 1425.72,
+      "end": 1431.72,
+      "speaker": "SPEAKER_01",
+      "text": "So he could also try to look out for opportunities wherein he could give benefits for people who pay through cars."
+    },
+    {
+      "start": 1431.72,
+      "end": 1433.72,
+      "speaker": "SPEAKER_01",
+      "text": "This could be one advantage."
+    },
+    {
+      "start": 1433.72,
+      "end": 1442.72,
+      "speaker": "SPEAKER_01",
+      "text": "And generally because it's on a highway, so I think some kind and he has a utility store."
+    },
+    {
+      "start": 1442.72,
+      "end": 1449.72,
+      "speaker": "SPEAKER_01",
+      "text": "So he could focus on that area as well more to get some more share of revenue."
+    },
+    {
+      "start": 1449.72,
+      "end": 1452.72,
+      "speaker": "SPEAKER_00",
+      "text": "All right, thank you."
+    },
+    {
+      "start": 1452.72,
+      "end": 1455.72,
+      "speaker": "SPEAKER_00",
+      "text": "The overall case solving was average."
+    },
+    {
+      "start": 1455.72,
+      "end": 1461.72,
+      "speaker": "SPEAKER_00",
+      "text": "The candidate started out very strong laying out a good drivetry and asking relevant preliminary questions."
+    },
+    {
+      "start": 1461.72,
+      "end": 1467.72,
+      "speaker": "SPEAKER_00",
+      "text": "The clarity in thought was reflected in her paper which was easy for the interviewer to read."
+    },
+    {
+      "start": 1467.72,
+      "end": 1473.72,
+      "speaker": "SPEAKER_00",
+      "text": "As the case progressed though, the candidate structure favored as she was unable to address the right issues,"
+    },
+    {
+      "start": 1473.72,
+      "end": 1476.72,
+      "speaker": "SPEAKER_00",
+      "text": "which should have come out of the structure itself."
+    },
+    {
+      "start": 1476.72,
+      "end": 1483.72,
+      "speaker": "SPEAKER_00",
+      "text": "The synthesis could have simply comprised of the problem, the issue that caused the problem and how the two are related."
+    },
+    {
+      "start": 1483.72,
+      "end": 1489.72,
+      "speaker": "SPEAKER_00",
+      "text": "The recommendations although sensible should have been driven by higher expected profit rather than revenues."
+    },
+    {
+      "start": 1489.72,
+      "end": 1494.72,
+      "speaker": "SPEAKER_00",
+      "text": "More ideas focused on trucks and buses could have been discussed."
+    },
+    {
+      "start": 1494.72,
+      "end": 1501.72,
+      "speaker": "SPEAKER_00",
+      "text": "So opening a tabour of food court to make it an attractive stop, starting a maintenance workshop etc."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 16,
+    "math": 10,
+    "case_difficulty": 11,
+    "final_summary": 12,
+    "overall_thoughts": "You did a great job with the framework and summarizing the case, but need to improve your math skills."
+  }
+}

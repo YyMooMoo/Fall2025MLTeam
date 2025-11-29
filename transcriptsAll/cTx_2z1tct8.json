@@ -1,0 +1,1412 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.36,
+    "speaker": "SPEAKER_01",
+    "text": "Ed, I've got a case today about something I don't know if you've ever thought about."
+  },
+  {
+    "start": 4.0,
+    "end": 10.0,
+    "speaker": "SPEAKER_01",
+    "text": "It's a case on hair products. Oh, interesting. I mean, maybe you have. I shouldn't make assumptions."
+  },
+  {
+    "start": 10.64,
+    "end": 17.36,
+    "speaker": "SPEAKER_01",
+    "text": "But this is it for strategy and it's a healthcare focused case and it's going to be really interesting"
+  },
+  {
+    "start": 17.36,
+    "end": 22.32,
+    "speaker": "SPEAKER_01",
+    "text": "because I don't know if you've seen math like this before, so I'm excited to work through it with you."
+  },
+  {
+    "start": 22.32,
+    "end": 25.28,
+    "speaker": "SPEAKER_01",
+    "text": "Should be a fun case. Ready? Ready? Let's start. Awesome."
+  },
+  {
+    "start": 25.28,
+    "end": 35.52,
+    "speaker": "SPEAKER_01",
+    "text": "So our client is health tech, a US-based pharmaceutical company that has developed a remedy for female"
+  },
+  {
+    "start": 35.52,
+    "end": 41.68,
+    "speaker": "SPEAKER_01",
+    "text": "hair loss and balding called hair restore. Hair restore has been in development for a few years"
+  },
+  {
+    "start": 42.24,
+    "end": 46.8,
+    "speaker": "SPEAKER_01",
+    "text": "and the management team is contemplating whether to roll up the drug to the US market now."
+  },
+  {
+    "start": 47.6,
+    "end": 53.84,
+    "speaker": "SPEAKER_01",
+    "text": "It's very interesting because you might be surprised to know that hair restore has a large"
+  },
+  {
+    "start": 53.84,
+    "end": 59.92,
+    "speaker": "SPEAKER_01",
+    "text": "addressable market. In fact, in some age groups, two-thirds of women explain and complain that"
+  },
+  {
+    "start": 59.92,
+    "end": 66.32000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "they have lost hair in other age groups one-third, but still maybe more than I certainly expected."
+  },
+  {
+    "start": 66.96000000000001,
+    "end": 71.60000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And there are a couple of additional important facts. Hair restore went through a lengthy and delayed"
+  },
+  {
+    "start": 71.60000000000001,
+    "end": 77.52000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "testing process with the FDA before getting approval and hair restore will now be unfortunately"
+  },
+  {
+    "start": 77.52000000000001,
+    "end": 83.68,
+    "speaker": "SPEAKER_01",
+    "text": "off-patent in just a few years. The two questions that we need to answer today are number one,"
+  },
+  {
+    "start": 83.68,
+    "end": 88.48,
+    "speaker": "SPEAKER_01",
+    "text": "how would you determine if hair restore will be profitable? And number two, after all of our"
+  },
+  {
+    "start": 88.48,
+    "end": 98.4,
+    "speaker": "SPEAKER_01",
+    "text": "considerations, should we go ahead with the production? Okay. So a lot of information there. Sounds"
+  },
+  {
+    "start": 98.4,
+    "end": 102.56,
+    "speaker": "SPEAKER_00",
+    "text": "like an interesting case. I'm excited to jump into it. I'm just going to go over what I heard,"
+  },
+  {
+    "start": 102.56,
+    "end": 108.08000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "make sure I've got all the facts right. So our client today is health tech. There are US-based"
+  },
+  {
+    "start": 108.08,
+    "end": 113.84,
+    "speaker": "SPEAKER_00",
+    "text": "company pharmaceuticals and they address female balding. I'm just wondering do they also focus"
+  },
+  {
+    "start": 113.84,
+    "end": 117.52,
+    "speaker": "SPEAKER_00",
+    "text": "on male balding? Is it specifically for female balding? Just female balding and it's specifically"
+  },
+  {
+    "start": 117.52,
+    "end": 124.32,
+    "speaker": "SPEAKER_01",
+    "text": "also focused on hair loss. So not just balding. Okay, but hair thinning, etc. Yes. Okay, interesting."
+  },
+  {
+    "start": 124.32,
+    "end": 128.24,
+    "speaker": "SPEAKER_00",
+    "text": "And they've been in development for a few years and they're basically designing, do we roll this"
+  },
+  {
+    "start": 128.24,
+    "end": 132.88,
+    "speaker": "SPEAKER_00",
+    "text": "drug out right now? Obviously there's some complications. They're going to lose their patent soon"
+  },
+  {
+    "start": 132.96,
+    "end": 139.92,
+    "speaker": "SPEAKER_00",
+    "text": "just because of how long the FDA testing was. They do have a large address for market though."
+  },
+  {
+    "start": 139.92,
+    "end": 144.56,
+    "speaker": "SPEAKER_00",
+    "text": "And so we're here today to decide how do we know this is going to be profitable and should we go ahead"
+  },
+  {
+    "start": 144.56,
+    "end": 149.04,
+    "speaker": "SPEAKER_00",
+    "text": "with it? Great. Wonderful. Do you mind if I just take a minute or two to organize my thoughts?"
+  },
+  {
+    "start": 149.04,
+    "end": 155.92,
+    "speaker": "SPEAKER_00",
+    "text": "You bet. Thank you. Okay, so I've come with some thoughts and I'd love to run them by you."
+  },
+  {
+    "start": 155.92,
+    "end": 161.12,
+    "speaker": "SPEAKER_00",
+    "text": "Go ahead. And we can get into it. So when I was deciding whether or not this should be"
+  },
+  {
+    "start": 161.12,
+    "end": 165.44,
+    "speaker": "SPEAKER_00",
+    "text": "profitable and whether we should go ahead with this, I really wanted to bucket into three areas."
+  },
+  {
+    "start": 165.44,
+    "end": 171.36,
+    "speaker": "SPEAKER_00",
+    "text": "And I want to really focus on the revenues themselves. And within the revenues, we've got the market"
+  },
+  {
+    "start": 171.36,
+    "end": 176.88,
+    "speaker": "SPEAKER_00",
+    "text": "itself in terms of how much market size do we have? The price in which we're selling this at."
+  },
+  {
+    "start": 176.88,
+    "end": 181.44,
+    "speaker": "SPEAKER_00",
+    "text": "Also the frequency of which we're selling this at is just a one once a year thing or as they say,"
+  },
+  {
+    "start": 181.44,
+    "end": 187.36,
+    "speaker": "SPEAKER_00",
+    "text": "once a week thing. In terms of the costs, there's the cost to produce this. There's the cost to"
+  },
+  {
+    "start": 187.36,
+    "end": 193.28,
+    "speaker": "SPEAKER_00",
+    "text": "distribute this SGNA and also there may be more cost with more testing if that's required. I know"
+  },
+  {
+    "start": 193.28,
+    "end": 199.36,
+    "speaker": "SPEAKER_00",
+    "text": "they've been through a lengthy and delayed testing. So making sure that's not going to continue."
+  },
+  {
+    "start": 200.24,
+    "end": 207.68,
+    "speaker": "SPEAKER_00",
+    "text": "And that's the one to create a bucket for external things. So the FDA, the patent itself,"
+  },
+  {
+    "start": 207.68,
+    "end": 211.84,
+    "speaker": "SPEAKER_00",
+    "text": "right? We know that that's expiring soon. So that's going to be a big factor of where looking at"
+  },
+  {
+    "start": 211.84,
+    "end": 217.36,
+    "speaker": "SPEAKER_00",
+    "text": "a timeline beyond just the coming year. Or it's like competitors. Maybe there's other people in"
+  },
+  {
+    "start": 217.36,
+    "end": 223.2,
+    "speaker": "SPEAKER_00",
+    "text": "the market who are we would have to compete against. So maybe this is a proprietary drug. And"
+  },
+  {
+    "start": 223.2,
+    "end": 228.0,
+    "speaker": "SPEAKER_00",
+    "text": "lastly, the threat of substitutes in terms of this is great that this will help with"
+  },
+  {
+    "start": 228.88,
+    "end": 233.6,
+    "speaker": "SPEAKER_00",
+    "text": "balding and hair loss. But maybe there are substitutes for that. And so we need to account for"
+  },
+  {
+    "start": 234.88,
+    "end": 239.36,
+    "speaker": "SPEAKER_00",
+    "text": "customers looking out for those as well. Fantastic. Where do you want to start?"
+  },
+  {
+    "start": 239.36,
+    "end": 244.4,
+    "speaker": "SPEAKER_01",
+    "text": "Let's start with the revenues. Okay. And what specifically would you look at if you dive into the"
+  },
+  {
+    "start": 244.4,
+    "end": 250.08,
+    "speaker": "SPEAKER_00",
+    "text": "data there? What's the data that you'd want here? Yeah. Well, I would love to know, I guess maybe the"
+  },
+  {
+    "start": 250.08,
+    "end": 254.08,
+    "speaker": "SPEAKER_00",
+    "text": "market itself in terms of how many people we think we can market this to and how many people actually"
+  },
+  {
+    "start": 254.08,
+    "end": 259.68,
+    "speaker": "SPEAKER_00",
+    "text": "buy it. And then also multiply that by the price itself and also how frequently are they buying this?"
+  },
+  {
+    "start": 259.68,
+    "end": 265.52000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "Is this a treatment like I said, it's once every day? Or is it once a year? Awesome. And one of the"
+  },
+  {
+    "start": 265.52,
+    "end": 271.59999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "things that we have to think about here because we've such high upfront costs is either a net"
+  },
+  {
+    "start": 271.59999999999997,
+    "end": 277.76,
+    "speaker": "SPEAKER_01",
+    "text": "present value or a breakeven point. You could be factoring time. Yeah. Process here for"
+  },
+  {
+    "start": 277.76,
+    "end": 282.24,
+    "speaker": "SPEAKER_00",
+    "text": "carefully. Is there a, and I guess there's two ways we can do this, is are we looking at this for"
+  },
+  {
+    "start": 282.24,
+    "end": 285.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "the foreseeable future? We're going to launch this drug and we plan to go on it for as long as it"
+  },
+  {
+    "start": 285.59999999999997,
+    "end": 290.0,
+    "speaker": "SPEAKER_00",
+    "text": "works. Or is there a specific timeline that we're looking at in terms of? What do you think? I've"
+  },
+  {
+    "start": 290.0,
+    "end": 294.56,
+    "speaker": "SPEAKER_01",
+    "text": "told you a little bit about this FDA approval process. What are you thinking would factor in there?"
+  },
+  {
+    "start": 294.56,
+    "end": 299.44,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. So it's been lengthy and delayed. And so there's obviously a lot of investment that's"
+  },
+  {
+    "start": 299.44,
+    "end": 303.6,
+    "speaker": "SPEAKER_00",
+    "text": "gone into this already. And also we know that there's an off patent soon. And I would imagine once"
+  },
+  {
+    "start": 303.6,
+    "end": 308.64,
+    "speaker": "SPEAKER_00",
+    "text": "it's off patent, our revenues themselves will decrease a lot because of competitors and people"
+  },
+  {
+    "start": 308.64,
+    "end": 313.92,
+    "speaker": "SPEAKER_00",
+    "text": "coming in, they can just produce cheaper or sell cheaper. So I'd imagine we've got a relatively"
+  },
+  {
+    "start": 313.92,
+    "end": 318.16,
+    "speaker": "SPEAKER_00",
+    "text": "fixed period of time, maybe a couple of years, three to five years, perhaps."
+  },
+  {
+    "start": 318.16,
+    "end": 324.08,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. And so how would you factor in the differences between the on patent and off patent times?"
+  },
+  {
+    "start": 324.08,
+    "end": 328.96,
+    "speaker": "SPEAKER_00",
+    "text": "I really liked what you said about like a net present value in terms of really focusing on"
+  },
+  {
+    "start": 329.76,
+    "end": 334.56,
+    "speaker": "SPEAKER_00",
+    "text": "here's all the money we expect to get while we have the patent. Here's the remaining money that's"
+  },
+  {
+    "start": 334.56,
+    "end": 340.0,
+    "speaker": "SPEAKER_00",
+    "text": "going to kind of trickle down once we've finished that. Here's all the investment that we've had"
+  },
+  {
+    "start": 340.0,
+    "end": 346.56,
+    "speaker": "SPEAKER_00",
+    "text": "at time zero and even before. Let's calculate a value right today of what is all the future profits"
+  },
+  {
+    "start": 346.56,
+    "end": 353.44,
+    "speaker": "SPEAKER_01",
+    "text": "worth. Okay. Awesome. And one more question here. When you're thinking about the different options,"
+  },
+  {
+    "start": 354.16,
+    "end": 359.28,
+    "speaker": "SPEAKER_01",
+    "text": "if we just cut our losses, right? What do we risk from cutting our losses? What do we gain from"
+  },
+  {
+    "start": 359.28,
+    "end": 367.52,
+    "speaker": "SPEAKER_00",
+    "text": "cutting our losses now? Yeah. So if we cut our losses now, one thing we can I guess avoid is the"
+  },
+  {
+    "start": 367.52,
+    "end": 372.32,
+    "speaker": "SPEAKER_00",
+    "text": "potential of taking this trick to market and having not enough people buy it. But even then,"
+  },
+  {
+    "start": 372.32,
+    "end": 379.68,
+    "speaker": "SPEAKER_00",
+    "text": "I think the biggest thing we risk there is one a huge impact and blow to our PR and to our brand"
+  },
+  {
+    "start": 379.68,
+    "end": 385.12,
+    "speaker": "SPEAKER_00",
+    "text": "as a whole. I'm not sure of health tech produces other drugs and other things, but if they do,"
+  },
+  {
+    "start": 385.12,
+    "end": 390.64,
+    "speaker": "SPEAKER_00",
+    "text": "then those may not be not looked upon favorably if we've gone through all this testing process"
+  },
+  {
+    "start": 390.64,
+    "end": 394.72,
+    "speaker": "SPEAKER_00",
+    "text": "and then we scrapped it at the last minute. And also we're just kissing goodbye a huge investment"
+  },
+  {
+    "start": 394.72,
+    "end": 401.12,
+    "speaker": "SPEAKER_00",
+    "text": "that we've made. I know that testing is probably not cheap and so there's probably been a lot of"
+  },
+  {
+    "start": 401.12,
+    "end": 406.8,
+    "speaker": "SPEAKER_01",
+    "text": "money that's been spent on that. Makes sense. Finally, just dive into the cost categories,"
+  },
+  {
+    "start": 406.8,
+    "end": 412.40000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "one of the key costs here in order of importance from your perspective. Yeah, I think the number one"
+  },
+  {
+    "start": 413.36,
+    "end": 420.24,
+    "speaker": "SPEAKER_00",
+    "text": "cost is probably the initial investment in terms of testing and the investment in terms of the"
+  },
+  {
+    "start": 420.24,
+    "end": 426.8,
+    "speaker": "SPEAKER_00",
+    "text": "factories to actually produce this as well as labor. I'm not an expert in the pharmaceutical"
+  },
+  {
+    "start": 426.8,
+    "end": 432.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "industry, but I would imagine that that's probably a large cost as well as distribution probably"
+  },
+  {
+    "start": 432.4,
+    "end": 436.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "wouldn't be something that's huge, same with SGNA. This is probably not something that you need to"
+  },
+  {
+    "start": 436.71999999999997,
+    "end": 441.76,
+    "speaker": "SPEAKER_00",
+    "text": "go and advertise to everyday people. It might be something that people are actually seeking out."
+  },
+  {
+    "start": 442.96,
+    "end": 448.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "But I think probably the actual investment into the machinery and production equipment"
+  },
+  {
+    "start": 448.15999999999997,
+    "end": 453.67999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "as well as the resources that are going into testing and to getting an approved by the FDA."
+  },
+  {
+    "start": 453.67999999999995,
+    "end": 460.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, awesome. Well, I do have a little bit of analysis for you that we've done. We've done some"
+  },
+  {
+    "start": 460.08,
+    "end": 465.44,
+    "speaker": "SPEAKER_01",
+    "text": "detailed financial analysis actually and we've estimated that the present value of all future"
+  },
+  {
+    "start": 465.44,
+    "end": 473.76,
+    "speaker": "SPEAKER_01",
+    "text": "profits, which includes the impact of being on patent is $3 billion. However, we won't realize"
+  },
+  {
+    "start": 473.76,
+    "end": 479.44,
+    "speaker": "SPEAKER_01",
+    "text": "the full amount of profitability because we have profitability weighted outcomes from our different"
+  },
+  {
+    "start": 479.44,
+    "end": 484.16,
+    "speaker": "SPEAKER_01",
+    "text": "trials. Okay. So what that means is that basically the product is not going to work for everybody."
+  },
+  {
+    "start": 484.96000000000004,
+    "end": 491.76000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "We'll work for some people and so this probability weighted trials will kind of help us"
+  },
+  {
+    "start": 491.76000000000005,
+    "end": 497.84000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "understand and target where it will work. And so the way that we think about it is that we have"
+  },
+  {
+    "start": 497.84000000000003,
+    "end": 504.24,
+    "speaker": "SPEAKER_01",
+    "text": "four phases and each one there's kind of a passing group out of that and phase 180 percent"
+  },
+  {
+    "start": 504.8,
+    "end": 513.92,
+    "speaker": "SPEAKER_01",
+    "text": "find the product effective in phase 230 percent in phase 350 percent and in phase 4 75 percent."
+  },
+  {
+    "start": 515.44,
+    "end": 522.0,
+    "speaker": "SPEAKER_01",
+    "text": "So my question to you is what is the profitability weighted profit, sorry, the probability weighted"
+  },
+  {
+    "start": 522.0,
+    "end": 527.36,
+    "speaker": "SPEAKER_01",
+    "text": "profits. Okay, so like an expected product. That's right. Yeah, knowing that the potential return"
+  },
+  {
+    "start": 528.08,
+    "end": 533.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "if 100 percent of people found that successful would be through building dollars. Okay, interesting."
+  },
+  {
+    "start": 533.68,
+    "end": 541.12,
+    "speaker": "SPEAKER_00",
+    "text": "So my thought here would be to essentially multiply five numbers. So all the probabilities by the"
+  },
+  {
+    "start": 542.2399999999999,
+    "end": 548.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "actually no, sorry, yeah, all the probabilities by themselves to get the percentage chance that"
+  },
+  {
+    "start": 548.4799999999999,
+    "end": 552.88,
+    "speaker": "SPEAKER_00",
+    "text": "we get to the end that we actually get all this realized profit. Okay. And then multiply that by"
+  },
+  {
+    "start": 553.76,
+    "end": 559.3599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "excuse me by the maximum possible profit. And then that would be our probability weighted profit."
+  },
+  {
+    "start": 559.36,
+    "end": 565.92,
+    "speaker": "SPEAKER_00",
+    "text": "How does that sound? Sounds good. Okay, so I'm just going to start multiplying these now. 80 percent"
+  },
+  {
+    "start": 565.92,
+    "end": 573.6,
+    "speaker": "SPEAKER_00",
+    "text": "multiplied by 30 percent. 10 percent of 80 percent is 8. So multiply by 3 is 24 percent."
+  },
+  {
+    "start": 575.04,
+    "end": 586.4,
+    "speaker": "SPEAKER_00",
+    "text": "Now 24 percent multiplied by 50 percent is 12 percent. Then 12 percent multiplied by 75 percent"
+  },
+  {
+    "start": 587.04,
+    "end": 595.1999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "is going to be three quarters of 12, which is 9. So 9 percent of 3 billion. Well, 10 percent of"
+  },
+  {
+    "start": 595.1999999999999,
+    "end": 603.28,
+    "speaker": "SPEAKER_00",
+    "text": "3 billion is 300 million. And we need to remove 1 percent, which is 30 million. So that'll leave us with"
+  },
+  {
+    "start": 603.28,
+    "end": 611.12,
+    "speaker": "SPEAKER_00",
+    "text": "270 million dollars of profit, which is our to be expected profit accounting for the fact that we"
+  },
+  {
+    "start": 611.12,
+    "end": 616.4,
+    "speaker": "SPEAKER_00",
+    "text": "could fail and that we could realize it all. It's about 270 million is what we could hope to achieve."
+  },
+  {
+    "start": 616.4,
+    "end": 621.52,
+    "speaker": "SPEAKER_00",
+    "text": "What do you see from these numbers? I mean, 270 million is a lot of money. I'm not sure,"
+  },
+  {
+    "start": 621.52,
+    "end": 628.08,
+    "speaker": "SPEAKER_00",
+    "text": "and that's actually profit, not even revenue. So that's great. And I'm wondering if maybe there's"
+  },
+  {
+    "start": 628.08,
+    "end": 632.96,
+    "speaker": "SPEAKER_00",
+    "text": "something else we need to factor in. Maybe there's competitors, maybe there's other things that we"
+  },
+  {
+    "start": 632.96,
+    "end": 640.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "need to factor in that this might be the probability of getting this profit if every single person"
+  },
+  {
+    "start": 640.56,
+    "end": 645.68,
+    "speaker": "SPEAKER_00",
+    "text": "buys our product because it's got to the end of trial for. But maybe not everyone wants to buy it."
+  },
+  {
+    "start": 645.68,
+    "end": 651.1199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe people want substitutes like I mentioned before. And so I think that number is an awesome"
+  },
+  {
+    "start": 651.1199999999999,
+    "end": 655.92,
+    "speaker": "SPEAKER_00",
+    "text": "goal, but I don't think it's 100 percent realistic. I think it would probably be lower than it would"
+  },
+  {
+    "start": 655.92,
+    "end": 661.92,
+    "speaker": "SPEAKER_01",
+    "text": "hire if that makes sense. Okay. Well, the good news is that we actually don't have any wind of any"
+  },
+  {
+    "start": 661.92,
+    "end": 669.28,
+    "speaker": "SPEAKER_01",
+    "text": "competitors, but we do have a second product that we have in development. Okay. And so we've realized"
+  },
+  {
+    "start": 669.28,
+    "end": 674.3199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "that our management is also considering developing an alternative product to hair restore."
+  },
+  {
+    "start": 675.12,
+    "end": 680.16,
+    "speaker": "SPEAKER_01",
+    "text": "The good news about this is that it would have longer patent protection, but I want you to evaluate"
+  },
+  {
+    "start": 680.16,
+    "end": 685.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the opportunity here. So as part of their assessment, they've estimated the potential success rate"
+  },
+  {
+    "start": 685.4399999999999,
+    "end": 691.04,
+    "speaker": "SPEAKER_01",
+    "text": "of the product development. We don't know yet the answers for this one, but this exhibit will show"
+  },
+  {
+    "start": 691.04,
+    "end": 696.0799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "you some of that information. And so looking at this exhibit, I'm wondering if you can tell me"
+  },
+  {
+    "start": 696.08,
+    "end": 702.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "what critical insights you could gather. And also, yeah, well, let's start there first of all."
+  },
+  {
+    "start": 702.88,
+    "end": 706.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And then based on your insights in my house, I think you're actually. Yeah. Before we go"
+  },
+  {
+    "start": 706.5600000000001,
+    "end": 711.76,
+    "speaker": "SPEAKER_00",
+    "text": "into this, I'm assuming this is the same kind of product. Correct. It's the same outcome. Different"
+  },
+  {
+    "start": 711.76,
+    "end": 716.48,
+    "speaker": "SPEAKER_01",
+    "text": "different. Different. Yeah, different process would have different marketing, different side effects."
+  },
+  {
+    "start": 716.48,
+    "end": 723.5200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "However, the actual goal stated goal is to restore hair for women that have experienced hair loss"
+  },
+  {
+    "start": 723.52,
+    "end": 729.28,
+    "speaker": "SPEAKER_00",
+    "text": "or female volume. Okay. Well, looking at this graph, it looks similar to the numbers you gave me"
+  },
+  {
+    "start": 729.28,
+    "end": 732.56,
+    "speaker": "SPEAKER_00",
+    "text": "earlier. So I'm wondering if maybe there's some sort of comparison we can do of what's going to be"
+  },
+  {
+    "start": 732.56,
+    "end": 738.64,
+    "speaker": "SPEAKER_00",
+    "text": "better, what's going to be worse. In addition to that, I'm just like looking through the process. So"
+  },
+  {
+    "start": 738.64,
+    "end": 744.0,
+    "speaker": "SPEAKER_00",
+    "text": "our current one is 80, 30, 50, 75 in terms of percentage to get to the next stage. Yeah."
+  },
+  {
+    "start": 744.72,
+    "end": 749.6,
+    "speaker": "SPEAKER_00",
+    "text": "Which has a really high percentage chance that it kind of dips at phase two and then it picks back up."
+  },
+  {
+    "start": 749.9200000000001,
+    "end": 757.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "This is a lot more similar, right? 60, 50, 40, 60. There's a lot more steady. How there's no,"
+  },
+  {
+    "start": 757.0400000000001,
+    "end": 762.96,
+    "speaker": "SPEAKER_00",
+    "text": "you know, 30% or 90%. So I'm wondering if maybe this is a slightly more reliable,"
+  },
+  {
+    "start": 762.96,
+    "end": 767.12,
+    "speaker": "SPEAKER_00",
+    "text": "but I think the best way to calculate that is going to to be actually go through and multiply"
+  },
+  {
+    "start": 767.12,
+    "end": 779.12,
+    "speaker": "SPEAKER_00",
+    "text": "those numbers like we did before. Okay. So we have 60% and we have 50%."
+  },
+  {
+    "start": 779.6,
+    "end": 791.84,
+    "speaker": "SPEAKER_00",
+    "text": "We have 40% and 60%. So if we multiply the 60% by 50%, we get 30%. And then if we multiply the 30%"
+  },
+  {
+    "start": 791.84,
+    "end": 802.48,
+    "speaker": "SPEAKER_00",
+    "text": "and the 40%, that's 10% of 40 is 4. Multiple by 3 is 12%. And then if we multiply the 12% and"
+  },
+  {
+    "start": 802.48,
+    "end": 817.76,
+    "speaker": "SPEAKER_00",
+    "text": "the 60%, 10% of 12 is 1.2. And then if we multiply 1.2 by 6, 6 times 1 is 6. And 6 times 0.2 is 1.2."
+  },
+  {
+    "start": 817.76,
+    "end": 826.48,
+    "speaker": "SPEAKER_00",
+    "text": "So we get 7.2%. Now 7.2% is lower than 9%. And I noticed that we do have the same present value"
+  },
+  {
+    "start": 826.48,
+    "end": 830.48,
+    "speaker": "SPEAKER_00",
+    "text": "of 3 billion. How much lower is it than 9%? You're going to calculate that out. Well, I'm just asking,"
+  },
+  {
+    "start": 830.48,
+    "end": 838.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "can you do any quick math to figure that out? Yeah. Well, it's roughly in terms of actual raw"
+  },
+  {
+    "start": 838.8000000000001,
+    "end": 844.48,
+    "speaker": "SPEAKER_00",
+    "text": "percentage points, it's 1.8% lower than in terms of an actual percentage of that is 9%."
+  },
+  {
+    "start": 844.48,
+    "end": 854.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Is that 9%? 7.2% is 80% of 9%. Okay. Great. Does that tell you anything?"
+  },
+  {
+    "start": 856.32,
+    "end": 859.12,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. So we're going to be the number. You can do raw numbers if you want to, but"
+  },
+  {
+    "start": 859.68,
+    "end": 866.16,
+    "speaker": "SPEAKER_00",
+    "text": "yeah, in terms of the actual money that we'll be getting from this. Yeah. So we'd be getting 80%"
+  },
+  {
+    "start": 866.16,
+    "end": 877.6,
+    "speaker": "SPEAKER_00",
+    "text": "of 270 million. So it'd be 270 million minus the 54 million, which is the 20%. And that would"
+  },
+  {
+    "start": 877.6,
+    "end": 886.4,
+    "speaker": "SPEAKER_00",
+    "text": "get us around 216 million. Okay. Still a great number. Still, you know, hundreds of millions of"
+  },
+  {
+    "start": 886.4,
+    "end": 890.8,
+    "speaker": "SPEAKER_00",
+    "text": "dollars, but I will say that it's less attractive than the first, the first opportunity."
+  },
+  {
+    "start": 890.8,
+    "end": 899.36,
+    "speaker": "SPEAKER_01",
+    "text": "Should we just scrap it? Well, can we do both? Well, why would we do something inferior?"
+  },
+  {
+    "start": 900.72,
+    "end": 905.68,
+    "speaker": "SPEAKER_00",
+    "text": "Well, at the end of the day, we do have to worry about cannibalization. We do have to worry about"
+  },
+  {
+    "start": 905.68,
+    "end": 910.64,
+    "speaker": "SPEAKER_00",
+    "text": "a few things if we launch them at the same time, but there's still room for potentially,"
+  },
+  {
+    "start": 911.1999999999999,
+    "end": 917.52,
+    "speaker": "SPEAKER_00",
+    "text": "you know, many millions more profit if we can do both. Now, what I will caveat that with is that"
+  },
+  {
+    "start": 917.52,
+    "end": 924.08,
+    "speaker": "SPEAKER_00",
+    "text": "no matter what, we should do the first one. I will stand by that. We should never do the second one"
+  },
+  {
+    "start": 924.08,
+    "end": 930.16,
+    "speaker": "SPEAKER_00",
+    "text": "in lieu of the first one. Okay. But I think doing them in addition, if we did research and we"
+  },
+  {
+    "start": 930.16,
+    "end": 934.96,
+    "speaker": "SPEAKER_00",
+    "text": "weren't too worried about cannibalization of our own product and we weren't too worried about other"
+  },
+  {
+    "start": 935.76,
+    "end": 941.2800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "external factors, then I think we could go into both. So just because of the longevity of this,"
+  },
+  {
+    "start": 941.2800000000001,
+    "end": 945.84,
+    "speaker": "SPEAKER_00",
+    "text": "right? Like you said, we have longer patent protection and that might give us a chance to"
+  },
+  {
+    "start": 946.5600000000001,
+    "end": 952.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "bigger our brand and get our foot in that space more. So that when the patent protection goes,"
+  },
+  {
+    "start": 952.5600000000001,
+    "end": 956.72,
+    "speaker": "SPEAKER_00",
+    "text": "we've been around for so long with the best product and everyone's to go this. I like where you're"
+  },
+  {
+    "start": 956.72,
+    "end": 965.84,
+    "speaker": "SPEAKER_01",
+    "text": "going. Here's my question on the second one. Can you get me to 270 million? Yeah. Yeah."
+  },
+  {
+    "start": 965.84,
+    "end": 975.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Absolutely. Well, that 7.2% needs to go to 9%. So we would have to change the effectiveness or"
+  },
+  {
+    "start": 975.0400000000001,
+    "end": 980.08,
+    "speaker": "SPEAKER_01",
+    "text": "efficacy of one of the trials. Okay. So our client is considering an investment that will increase"
+  },
+  {
+    "start": 980.08,
+    "end": 986.48,
+    "speaker": "SPEAKER_01",
+    "text": "the phase four trial success rate. The question is how much will the success rate have to be your"
+  },
+  {
+    "start": 986.48,
+    "end": 992.4,
+    "speaker": "SPEAKER_01",
+    "text": "how much will it have to increase for the alternative product to be as successful as Hair Restore?"
+  },
+  {
+    "start": 992.4,
+    "end": 998.16,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. Do you want me to include the cost of this investment or just focus on getting up to that"
+  },
+  {
+    "start": 998.16,
+    "end": 1003.52,
+    "speaker": "SPEAKER_01",
+    "text": "270 million? So just focus on getting the 270 million, recognizing that there could be a cost"
+  },
+  {
+    "start": 1003.52,
+    "end": 1009.36,
+    "speaker": "SPEAKER_00",
+    "text": "in the change. Perfect. Okay. So what I'm going to do here is I know that the success of getting"
+  },
+  {
+    "start": 1009.36,
+    "end": 1016.16,
+    "speaker": "SPEAKER_00",
+    "text": "through two trial four is 12%. And if we know that that's 12% and we need to get to 9%. We know"
+  },
+  {
+    "start": 1016.3199999999999,
+    "end": 1024.96,
+    "speaker": "SPEAKER_00",
+    "text": "12% multiplied by some number x percent is equal to 9%. And just from looking at this, I know that"
+  },
+  {
+    "start": 1026.6399999999999,
+    "end": 1034.32,
+    "speaker": "SPEAKER_00",
+    "text": "three times three is nine and three times four is 12. So nine is 75% of 12. So if we do 12%"
+  },
+  {
+    "start": 1034.96,
+    "end": 1043.04,
+    "speaker": "SPEAKER_00",
+    "text": "multiplied by 75% success rate in the trial, then we would go ahead and we'd get 9%. And I just"
+  },
+  {
+    "start": 1043.04,
+    "end": 1050.56,
+    "speaker": "SPEAKER_00",
+    "text": "want to really quickly verify my numbers, make sure I'm correct on that. 10% of 75% is 7.5%"
+  },
+  {
+    "start": 1051.28,
+    "end": 1065.6,
+    "speaker": "SPEAKER_00",
+    "text": "and then 1% would be 0.75% multiplied by 2% would be 1.5, 7.5 plus 1.5 is 9%. So that works out"
+  },
+  {
+    "start": 1066.1599999999999,
+    "end": 1072.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "if we could get a feasible jump. It's 60% now. So getting up to 75% is a 15%"
+  },
+  {
+    "start": 1072.88,
+    "end": 1078.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "percentage point increase or it's also a 25% increase on the current effectiveness."
+  },
+  {
+    "start": 1078.96,
+    "end": 1084.24,
+    "speaker": "SPEAKER_00",
+    "text": "I'm not an expert in terms of these trials and I'd love to be able to call on something and say,"
+  },
+  {
+    "start": 1084.24,
+    "end": 1090.64,
+    "speaker": "SPEAKER_00",
+    "text": "oh yeah, this is really attainable or not attainable at all. It seems like a sizeable jump. And"
+  },
+  {
+    "start": 1090.64,
+    "end": 1095.2,
+    "speaker": "SPEAKER_00",
+    "text": "again, it would have investment associated with it. There'd be some sort of cost. So I would,"
+  },
+  {
+    "start": 1095.2,
+    "end": 1101.0400000000002,
+    "speaker": "SPEAKER_00",
+    "text": "if we had more time, I'd love to figure that out and weigh that in. But for now, I think that it's"
+  },
+  {
+    "start": 1101.12,
+    "end": 1106.0,
+    "speaker": "SPEAKER_00",
+    "text": "possible. Again, I'm still really leaning on that first one. I think we should definitely go at that."
+  },
+  {
+    "start": 1106.8,
+    "end": 1110.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I don't think this is out the picture. I think really focus on getting that first one to"
+  },
+  {
+    "start": 1110.6399999999999,
+    "end": 1114.96,
+    "speaker": "SPEAKER_00",
+    "text": "market and then this could be a really good opportunity. Great. Our clients ready for a final"
+  },
+  {
+    "start": 1114.96,
+    "end": 1121.92,
+    "speaker": "SPEAKER_00",
+    "text": "recommendation. Great. So obviously today we've noticed that after going through a long and tedious"
+  },
+  {
+    "start": 1121.92,
+    "end": 1127.12,
+    "speaker": "SPEAKER_00",
+    "text": "process with the FDA, our drugs ready to release and the decision today was, was, do we go with that?"
+  },
+  {
+    "start": 1127.1999999999998,
+    "end": 1133.04,
+    "speaker": "SPEAKER_00",
+    "text": "And I think we do. Okay. The reason being is that even with all realized profits being 3 billion"
+  },
+  {
+    "start": 1133.76,
+    "end": 1139.36,
+    "speaker": "SPEAKER_00",
+    "text": "with our probability weighted, we're still getting 270 million. And while that even may go lower to"
+  },
+  {
+    "start": 1139.36,
+    "end": 1145.6,
+    "speaker": "SPEAKER_00",
+    "text": "even whether it goes to half of that, we're still making a lot of money. And as basic finance"
+  },
+  {
+    "start": 1145.6,
+    "end": 1150.32,
+    "speaker": "SPEAKER_00",
+    "text": "tell us when the NPV is positive, you should go with the investment. And I agree with that. And I"
+  },
+  {
+    "start": 1150.32,
+    "end": 1155.76,
+    "speaker": "SPEAKER_00",
+    "text": "think we should go in the investment. Just remembering though that some risks with that are if it is not"
+  },
+  {
+    "start": 1155.76,
+    "end": 1162.24,
+    "speaker": "SPEAKER_00",
+    "text": "adopted by the market as we predicted, that could dramatically alter our profits. Some next steps"
+  },
+  {
+    "start": 1162.24,
+    "end": 1167.04,
+    "speaker": "SPEAKER_00",
+    "text": "with this is I think make sure everything signed with the FDA and it is fully got that seal of"
+  },
+  {
+    "start": 1167.04,
+    "end": 1172.96,
+    "speaker": "SPEAKER_00",
+    "text": "approval and get ready to maybe put some money into SGNA in terms of selling that and getting it out"
+  },
+  {
+    "start": 1172.96,
+    "end": 1181.12,
+    "speaker": "SPEAKER_00",
+    "text": "to market. And don't forget to keep in mind this second option. Fantastic. Thank you. Thank you."
+  },
+  {
+    "start": 1182.08,
+    "end": 1186.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "That was a lot of percentages, huh? Yeah. That was good. What do you think about the case? It's"
+  },
+  {
+    "start": 1186.8799999999999,
+    "end": 1192.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "kind of a different one. It is. It's in here on purpose, different firm, different case style,"
+  },
+  {
+    "start": 1192.3999999999999,
+    "end": 1198.2399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "different math. But tell me just a little bit about what you're thinking about here. Yeah, so just"
+  },
+  {
+    "start": 1198.2399999999998,
+    "end": 1204.7199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "self-assessed. It starts off and it's pretty like your average case. Just I think this one was a"
+  },
+  {
+    "start": 1204.72,
+    "end": 1212.32,
+    "speaker": "SPEAKER_00",
+    "text": "little bit more bureaucracy heavy. I had to really keep an effort in my mind to remember regulations"
+  },
+  {
+    "start": 1212.32,
+    "end": 1220.24,
+    "speaker": "SPEAKER_00",
+    "text": "and FDA and just not remember to or not forget to remove that as in a consideration. But I have to"
+  },
+  {
+    "start": 1220.24,
+    "end": 1225.04,
+    "speaker": "SPEAKER_00",
+    "text": "say the math itself is really interesting. It's I'm not really done percentage by percentage by"
+  },
+  {
+    "start": 1225.04,
+    "end": 1230.8,
+    "speaker": "SPEAKER_00",
+    "text": "percentage calculations. So that was really fun of finding the common denominators there and then"
+  },
+  {
+    "start": 1230.8,
+    "end": 1236.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "bringing it back to a dollar value. It's really difficult when you're looking at $270 million"
+  },
+  {
+    "start": 1236.3999999999999,
+    "end": 1240.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "and you have to remember to caveat it because if you just say, yeah, $270 million go ahead."
+  },
+  {
+    "start": 1242.0,
+    "end": 1246.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "There seems like there has to be something wrong. So just being mindful of other risks that are"
+  },
+  {
+    "start": 1246.3999999999999,
+    "end": 1250.72,
+    "speaker": "SPEAKER_01",
+    "text": "associated with that I think was really important. Yeah, I thought so too. So overall really good"
+  },
+  {
+    "start": 1250.72,
+    "end": 1255.76,
+    "speaker": "SPEAKER_01",
+    "text": "job. Like, you know, when we're thinking about entering a market as you mentioned at the end,"
+  },
+  {
+    "start": 1255.76,
+    "end": 1260.64,
+    "speaker": "SPEAKER_01",
+    "text": "positive MPV is what we're looking for. And so we could have done this in a way other than MPV."
+  },
+  {
+    "start": 1260.64,
+    "end": 1264.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "We could have looked at break even points. We could have looked at time series. I think at the"
+  },
+  {
+    "start": 1264.8799999999999,
+    "end": 1270.08,
+    "speaker": "SPEAKER_01",
+    "text": "beginning, the one thing that was really missing was a sense of timing and with such these"
+  },
+  {
+    "start": 1270.08,
+    "end": 1275.12,
+    "speaker": "SPEAKER_01",
+    "text": "regulatory issues with the long investment costs, just understanding that we're going to have to"
+  },
+  {
+    "start": 1275.12,
+    "end": 1279.36,
+    "speaker": "SPEAKER_01",
+    "text": "look at MPV or some kind of break even point because it's not going to happen in a year and we're"
+  },
+  {
+    "start": 1279.36,
+    "end": 1283.6,
+    "speaker": "SPEAKER_01",
+    "text": "not looking at a one year change. Different than a lot of the other operational type of cases that"
+  },
+  {
+    "start": 1283.6,
+    "end": 1289.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "you might have seen. Overall, your case structure was pretty good. I really wanted you to tie it back"
+  },
+  {
+    "start": 1289.4399999999998,
+    "end": 1294.56,
+    "speaker": "SPEAKER_01",
+    "text": "to that bigger issue. And of course, right revenues costs are going to be important here. But I also"
+  },
+  {
+    "start": 1294.56,
+    "end": 1299.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "think that you could have used more of an external type of structure at the beginning. We knew that"
+  },
+  {
+    "start": 1299.9199999999998,
+    "end": 1305.12,
+    "speaker": "SPEAKER_01",
+    "text": "there was a big addressable market, but we didn't know how much market demand there would be. So"
+  },
+  {
+    "start": 1305.12,
+    "end": 1309.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "maybe just beginning us with how big is this market actually? We know that women experience"
+  },
+  {
+    "start": 1309.92,
+    "end": 1315.28,
+    "speaker": "SPEAKER_01",
+    "text": "balding, but will they purchase it? And talking us through that. And then who are the competitors?"
+  },
+  {
+    "start": 1315.28,
+    "end": 1321.04,
+    "speaker": "SPEAKER_01",
+    "text": "They don't turn out to be any competitors. What are the options for our customer segmentation?"
+  },
+  {
+    "start": 1321.04,
+    "end": 1326.48,
+    "speaker": "SPEAKER_01",
+    "text": "Right? Just thinking through maybe some of that strategically. Nothing wrong with yours, but"
+  },
+  {
+    "start": 1326.48,
+    "end": 1332.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "in a case where I'm directing you into this market type of situation you could have gone there."
+  },
+  {
+    "start": 1332.3200000000002,
+    "end": 1337.52,
+    "speaker": "SPEAKER_01",
+    "text": "I thought you did a really nice job of explaining how you would calculate some of the numbers,"
+  },
+  {
+    "start": 1337.52,
+    "end": 1342.4,
+    "speaker": "SPEAKER_01",
+    "text": "but it felt pretty disorganized. It was just a list of all the things you'd like to know. It was"
+  },
+  {
+    "start": 1342.4,
+    "end": 1347.04,
+    "speaker": "SPEAKER_01",
+    "text": "like a data request list instead of a calculation. So I would encourage you, especially if you're"
+  },
+  {
+    "start": 1347.04,
+    "end": 1352.32,
+    "speaker": "SPEAKER_01",
+    "text": "brainstorming that in an interviewee lead case like this one, right? This is a case for strategy."
+  },
+  {
+    "start": 1352.32,
+    "end": 1358.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so at the beginning, I said, Hey, you're going to walk me through this. If you brainstorm a"
+  },
+  {
+    "start": 1358.0,
+    "end": 1362.4,
+    "speaker": "SPEAKER_01",
+    "text": "bunch of ideas and I don't happen to have it, you don't necessarily remember what you brainstormed"
+  },
+  {
+    "start": 1362.48,
+    "end": 1367.44,
+    "speaker": "SPEAKER_01",
+    "text": "on what you did. So just kind of keep in track of that. I thought that you did a really nice job"
+  },
+  {
+    "start": 1367.44,
+    "end": 1373.44,
+    "speaker": "SPEAKER_01",
+    "text": "with the first math. And I was going to let you go, but for the interest of time, I just kind of"
+  },
+  {
+    "start": 1373.44,
+    "end": 1378.8000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "point out that one shortcut between the two. Looking for those relationships as shortcuts before"
+  },
+  {
+    "start": 1378.8000000000002,
+    "end": 1384.24,
+    "speaker": "SPEAKER_01",
+    "text": "you do the math, you're so good at math, but just be careful not to use shortcuts. We careful to use"
+  },
+  {
+    "start": 1384.24,
+    "end": 1389.44,
+    "speaker": "SPEAKER_01",
+    "text": "shortcuts more frequently when you can so that we can spend our time talking about what really"
+  },
+  {
+    "start": 1389.44,
+    "end": 1395.92,
+    "speaker": "SPEAKER_01",
+    "text": "matters. And then yeah, gosh, what a boon day, right? This 270 million, the 216 million, both"
+  },
+  {
+    "start": 1395.92,
+    "end": 1400.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "are positive. One has long patent protection. Everyone doesn't, but still has great profitability"
+  },
+  {
+    "start": 1400.3200000000002,
+    "end": 1404.64,
+    "speaker": "SPEAKER_01",
+    "text": "potential. I thought you did a really nice job of isolating how we would want to change."
+  },
+  {
+    "start": 1405.44,
+    "end": 1409.52,
+    "speaker": "SPEAKER_01",
+    "text": "It's possible that we could have changed the price of the second one. It's possible that we could"
+  },
+  {
+    "start": 1409.52,
+    "end": 1413.92,
+    "speaker": "SPEAKER_01",
+    "text": "have improved the variable cost based on something else. I felt you could have got a little bit"
+  },
+  {
+    "start": 1413.92,
+    "end": 1417.28,
+    "speaker": "SPEAKER_01",
+    "text": "broader on that. But overall, really nice job tying everything together."
+  }
+]

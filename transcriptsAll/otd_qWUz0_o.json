@@ -1,0 +1,1580 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.44,
+    "speaker": "SPEAKER_00",
+    "text": "Looking back at the framework, there were all of those qualitative considerations."
+  },
+  {
+    "start": 3.44,
+    "end": 7.44,
+    "speaker": "SPEAKER_00",
+    "text": "I think there could be a risk with occupancy that people, when they go on a budget airline,"
+  },
+  {
+    "start": 7.44,
+    "end": 11.6,
+    "speaker": "SPEAKER_00",
+    "text": "they just truly want to pay the lowest cost possible and they don't want to pay $100 more."
+  },
+  {
+    "start": 15.84,
+    "end": 20.48,
+    "speaker": "SPEAKER_00",
+    "text": "Hello everyone, my name is Tessa. I have a background as an associate consultant and a"
+  },
+  {
+    "start": 20.48,
+    "end": 26.0,
+    "speaker": "SPEAKER_00",
+    "text": "senior associate consultant at Bain in the Toronto office. And since then, I've been helping"
+  },
+  {
+    "start": 26.0,
+    "end": 29.04,
+    "speaker": "SPEAKER_00",
+    "text": "organizations with their strategy and transformational efforts."
+  },
+  {
+    "start": 30.0,
+    "end": 34.32,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect and everyone, I'm Ben Wilson. I'm currently a director with Alvaraz and Marstahl."
+  },
+  {
+    "start": 34.32,
+    "end": 39.2,
+    "speaker": "SPEAKER_02",
+    "text": "I'll be playing the role of the interviewer today. Tessa, we have a great case. What do you say we"
+  },
+  {
+    "start": 39.2,
+    "end": 45.44,
+    "speaker": "SPEAKER_02",
+    "text": "jump in? That's jump in? Excellent. Okay. So your client today is Northeast Airlines. And there are"
+  },
+  {
+    "start": 45.44,
+    "end": 50.08,
+    "speaker": "SPEAKER_02",
+    "text": "major U.S. airlines known for their low-cost fares in unassigned seating policy."
+  },
+  {
+    "start": 50.64,
+    "end": 56.64,
+    "speaker": "SPEAKER_02",
+    "text": "Northeast Airlines was founded in 1967 and has since built a strong reputation for affordable"
+  },
+  {
+    "start": 56.64,
+    "end": 61.68,
+    "speaker": "SPEAKER_02",
+    "text": "air travel, excellent customer service, and a unique boarding process that actually allows passengers"
+  },
+  {
+    "start": 61.68,
+    "end": 66.64,
+    "speaker": "SPEAKER_02",
+    "text": "to choose their seats upon boarding. This unassigned seating policy has differentiated"
+  },
+  {
+    "start": 66.64,
+    "end": 71.36,
+    "speaker": "SPEAKER_02",
+    "text": "Northeast from other airlines and contributed to its brand identity. Although,"
+  },
+  {
+    "start": 71.36,
+    "end": 75.75999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Northeast Airlines is exploring new ways to generate additional revenue, the company is"
+  },
+  {
+    "start": 75.76,
+    "end": 81.36,
+    "speaker": "SPEAKER_02",
+    "text": "gauged your firm to help them evaluate the feasibility of a specific idea. One, offering"
+  },
+  {
+    "start": 81.36,
+    "end": 86.08000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "a signed seating at premium seats for the first time in the company's history. They've asked you"
+  },
+  {
+    "start": 86.08000000000001,
+    "end": 91.12,
+    "speaker": "SPEAKER_02",
+    "text": "to study the revenue generating idea and make a recommendation on whether to pursue it or not."
+  },
+  {
+    "start": 93.44,
+    "end": 98.80000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Great. This is really exciting and an interesting and interesting case to be tackling today."
+  },
+  {
+    "start": 99.36000000000001,
+    "end": 103.76,
+    "speaker": "SPEAKER_00",
+    "text": "So I just want to make sure that I fully understand the problem that we're solving."
+  },
+  {
+    "start": 104.4,
+    "end": 108.64,
+    "speaker": "SPEAKER_00",
+    "text": "It sounds like the main thing we're looking into is exploring an additional revenue opportunity."
+  },
+  {
+    "start": 108.64,
+    "end": 114.0,
+    "speaker": "SPEAKER_00",
+    "text": "And specifically thinking about assigning a signed seats versus premium seats, or maybe there's"
+  },
+  {
+    "start": 114.0,
+    "end": 118.56,
+    "speaker": "SPEAKER_00",
+    "text": "an option to even do neither. Is that, am I understanding correctly? I think you're spot on."
+  },
+  {
+    "start": 119.28,
+    "end": 123.92,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect. I wonder if you can tell me a little bit more about exactly how this assigned seating or"
+  },
+  {
+    "start": 123.92,
+    "end": 129.6,
+    "speaker": "SPEAKER_02",
+    "text": "premium seating might work? Yeah, yeah. So kind of premium seating, the idea is that you have kind of"
+  },
+  {
+    "start": 129.84,
+    "end": 137.2,
+    "speaker": "SPEAKER_02",
+    "text": "this 36 inches of legroom instead of 30 inches of legroom. So that expansion and then the inline"
+  },
+  {
+    "start": 137.2,
+    "end": 143.92,
+    "speaker": "SPEAKER_02",
+    "text": "with an increased legroom available on competitor airlines. And so this is also that's the premium"
+  },
+  {
+    "start": 143.92,
+    "end": 148.88,
+    "speaker": "SPEAKER_02",
+    "text": "seating and then kind of the assigned seating piece. Customer receives a seat assigned to them rather"
+  },
+  {
+    "start": 148.88,
+    "end": 153.84,
+    "speaker": "SPEAKER_02",
+    "text": "than you choosing ahead of time or just kind of seating wherever as a first come first serve when"
+  },
+  {
+    "start": 153.84,
+    "end": 159.35999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "you onboard. Okay. So the premium seating sounds like maybe some competitor airlines who are"
+  },
+  {
+    "start": 159.36,
+    "end": 163.20000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "at low cost in the way that they do the premium seats with a bit more legroom. The assigned"
+  },
+  {
+    "start": 163.20000000000002,
+    "end": 167.20000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "seating just sounds pretty standard in terms of a huge bias seat and you know that you're sitting"
+  },
+  {
+    "start": 167.20000000000002,
+    "end": 174.32000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "in that seat. Exactly. That's great. Okay. And do you know if there's any sort of market research or"
+  },
+  {
+    "start": 174.32000000000002,
+    "end": 178.72000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "anything that's been conducted thus far on whether customers would be interested in this?"
+  },
+  {
+    "start": 178.72000000000003,
+    "end": 183.52,
+    "speaker": "SPEAKER_00",
+    "text": "Had there been any customer feedback provided to the airline saying that customers are really seeking"
+  },
+  {
+    "start": 183.52,
+    "end": 188.32000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "these types of options? How did they sort of get to these options in the first place? Yeah, I think"
+  },
+  {
+    "start": 188.32,
+    "end": 193.35999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "that's a fantastic question. So there was market research that was conducted about six months ago"
+  },
+  {
+    "start": 193.35999999999999,
+    "end": 199.84,
+    "speaker": "SPEAKER_02",
+    "text": "on a focus group and via online surveys. And so the results indicated that about 80% of flyers would"
+  },
+  {
+    "start": 199.84,
+    "end": 206.16,
+    "speaker": "SPEAKER_02",
+    "text": "prefer assigned seating to reduce boarding stress. About 50% indicated they'd consider some premium"
+  },
+  {
+    "start": 206.16,
+    "end": 212.0,
+    "speaker": "SPEAKER_02",
+    "text": "seating option if available. And indicated they'd be willing to pay between maybe 80 and 120"
+  },
+  {
+    "start": 212.0,
+    "end": 218.64,
+    "speaker": "SPEAKER_02",
+    "text": "dollars more per seat for a premium seat. Also, you know, while many customers prefer assigned seats,"
+  },
+  {
+    "start": 218.64,
+    "end": 223.76,
+    "speaker": "SPEAKER_02",
+    "text": "the airline did not find any evidence that customers would pay more for an assigned seat."
+  },
+  {
+    "start": 224.48,
+    "end": 230.08,
+    "speaker": "SPEAKER_02",
+    "text": "So also, you know, finally one more point is that repeated surveys and focus groups have"
+  },
+  {
+    "start": 230.08,
+    "end": 235.6,
+    "speaker": "SPEAKER_02",
+    "text": "demonstrated that the vast majority of customers believe Northeast brand identity stems from the"
+  },
+  {
+    "start": 235.6,
+    "end": 240.64,
+    "speaker": "SPEAKER_02",
+    "text": "quality and friendliness of its staff. So booking agents, in flight crew and airport staff."
+  },
+  {
+    "start": 242.16,
+    "end": 247.04,
+    "speaker": "SPEAKER_00",
+    "text": "Interesting. So even though the customer's preferred assigned seating, they're not willing to"
+  },
+  {
+    "start": 247.04,
+    "end": 251.84,
+    "speaker": "SPEAKER_00",
+    "text": "pay anymore for it, but maybe the preferred seating is actually where you can get the increased"
+  },
+  {
+    "start": 252.72,
+    "end": 257.12,
+    "speaker": "SPEAKER_00",
+    "text": "value. But it sounds like the seating option really isn't what people value but the airline"
+  },
+  {
+    "start": 257.12,
+    "end": 261.2,
+    "speaker": "SPEAKER_00",
+    "text": "in the first place. So definitely something for us to keep in mind and an interesting dynamic we"
+  },
+  {
+    "start": 261.28,
+    "end": 267.36,
+    "speaker": "SPEAKER_00",
+    "text": "have today. Those were all of my questions. Is it okay if I jump right into the framework at this time?"
+  },
+  {
+    "start": 268.4,
+    "end": 271.44,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect. I'm going to take a moment to sort of think about that. Okay."
+  },
+  {
+    "start": 275.03999999999996,
+    "end": 278.48,
+    "speaker": "SPEAKER_00",
+    "text": "Great. Are you okay for me to walk you through my framework?"
+  },
+  {
+    "start": 278.48,
+    "end": 284.64,
+    "speaker": "SPEAKER_00",
+    "text": "Please do. So I'm actually going to show it up here. So here we can see we actually have our"
+  },
+  {
+    "start": 284.64,
+    "end": 289.2,
+    "speaker": "SPEAKER_00",
+    "text": "question assigned in premium seating. As I mentioned earlier, we also have the option to not go with"
+  },
+  {
+    "start": 289.2,
+    "end": 293.76,
+    "speaker": "SPEAKER_00",
+    "text": "either of those and just continue the model the same way. And I've broken this down into a"
+  },
+  {
+    "start": 293.76,
+    "end": 298.96,
+    "speaker": "SPEAKER_00",
+    "text": "financial bucket and a non-financial bucket. So let's start first with the finances. I always"
+  },
+  {
+    "start": 298.96,
+    "end": 304.56,
+    "speaker": "SPEAKER_00",
+    "text": "like to start with sort of the data pieces first. In financial, we can see there's revenue potential."
+  },
+  {
+    "start": 305.28,
+    "end": 309.12,
+    "speaker": "SPEAKER_00",
+    "text": "So is there any increased revenue that we might be able to achieve from these two options?"
+  },
+  {
+    "start": 309.84,
+    "end": 314.32,
+    "speaker": "SPEAKER_00",
+    "text": "Earlier, as we were sort of talking through the options you mentioned that for premium seating,"
+  },
+  {
+    "start": 314.32,
+    "end": 318.64,
+    "speaker": "SPEAKER_00",
+    "text": "there probably was an additional revenue potential, but maybe for assigned seating, not quite"
+  },
+  {
+    "start": 318.71999999999997,
+    "end": 325.2,
+    "speaker": "SPEAKER_00",
+    "text": "so much. The next one is the cost implications. So what are the cost implications? And I can really think of"
+  },
+  {
+    "start": 326.32,
+    "end": 330.8,
+    "speaker": "SPEAKER_00",
+    "text": "maybe there's retrofitting that needs to be done to the planes that already exist."
+  },
+  {
+    "start": 330.8,
+    "end": 334.24,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe there's something extra that needs to be added to the premium seating. You mentioned the extra"
+  },
+  {
+    "start": 334.24,
+    "end": 339.91999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "legroom, but I'm curious if there was a free bottle of water or little crackers or chocolates"
+  },
+  {
+    "start": 339.91999999999996,
+    "end": 344.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "that were handed out throughout. I'm not sure, but maybe we're trying to make it like a little extra"
+  },
+  {
+    "start": 344.48,
+    "end": 349.6,
+    "speaker": "SPEAKER_00",
+    "text": "premium. So any cost that would be associated with that. And then finally, sort of putting those two"
+  },
+  {
+    "start": 349.6,
+    "end": 355.04,
+    "speaker": "SPEAKER_00",
+    "text": "together and really doing a profitability analysis. And what I would like to look at is the profitability"
+  },
+  {
+    "start": 355.04,
+    "end": 360.24,
+    "speaker": "SPEAKER_00",
+    "text": "analysis of whether we just stick with the status quo or whether we really do adopt this newer model."
+  },
+  {
+    "start": 361.20000000000005,
+    "end": 367.04,
+    "speaker": "SPEAKER_00",
+    "text": "Then on the other side, maybe I'll put it to this side. We have financial considerations. So the"
+  },
+  {
+    "start": 367.04,
+    "end": 371.76,
+    "speaker": "SPEAKER_00",
+    "text": "first one we have is customer satisfaction. So that's, you know, you mentioned that customer"
+  },
+  {
+    "start": 371.76,
+    "end": 376.0,
+    "speaker": "SPEAKER_00",
+    "text": "satisfaction is actually the main thing that people really love about the airline. So we want to"
+  },
+  {
+    "start": 376.0,
+    "end": 380.08,
+    "speaker": "SPEAKER_00",
+    "text": "make sure that customer are satisfied that they're happy with the customer service and that there's"
+  },
+  {
+    "start": 380.08,
+    "end": 384.32,
+    "speaker": "SPEAKER_00",
+    "text": "nothing that's going to compromise that as, you know, these new changes might be made."
+  },
+  {
+    "start": 385.12,
+    "end": 389.36,
+    "speaker": "SPEAKER_00",
+    "text": "The next is the brand positioning. So you mentioned that they're really positioned as like"
+  },
+  {
+    "start": 389.36,
+    "end": 395.68,
+    "speaker": "SPEAKER_00",
+    "text": "this low budget airline. If that's the case, will this change that brand positioning and actually"
+  },
+  {
+    "start": 395.68,
+    "end": 399.76,
+    "speaker": "SPEAKER_00",
+    "text": "make it so that they're competing more with the other airlines? What will that do to the overall"
+  },
+  {
+    "start": 399.76,
+    "end": 405.92,
+    "speaker": "SPEAKER_00",
+    "text": "perception of the brand? And then finally, I would look at operational challenges. So in terms of"
+  },
+  {
+    "start": 405.92,
+    "end": 410.64,
+    "speaker": "SPEAKER_00",
+    "text": "like assigning seats, is there updates we would need to do to the software? Or is there something"
+  },
+  {
+    "start": 410.64,
+    "end": 414.96,
+    "speaker": "SPEAKER_00",
+    "text": "we would need to think about operationally just to make sure that, you know, the gate agents were"
+  },
+  {
+    "start": 414.96,
+    "end": 419.52,
+    "speaker": "SPEAKER_00",
+    "text": "checking that people were boarding? Are there people who have only flown on airlines that don't"
+  },
+  {
+    "start": 419.52,
+    "end": 422.88,
+    "speaker": "SPEAKER_00",
+    "text": "have a science seating? And this would be like a big change for them and there would be a lot of"
+  },
+  {
+    "start": 422.88,
+    "end": 428.08,
+    "speaker": "SPEAKER_00",
+    "text": "conflict. You always see sort of those videos where people are like, no, you sat in my seat and they're"
+  },
+  {
+    "start": 428.08,
+    "end": 434.08,
+    "speaker": "SPEAKER_00",
+    "text": "they really want the window seats. So I'm not sure exactly what would happen from an operational"
+  },
+  {
+    "start": 434.08,
+    "end": 439.2,
+    "speaker": "SPEAKER_00",
+    "text": "perspective or what would be required there. Does that sound okay to look into? Yeah, I think that's"
+  },
+  {
+    "start": 439.2,
+    "end": 443.59999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "fantastic framework and I really like the way you kind of broke that down. Where would you like to"
+  },
+  {
+    "start": 443.59999999999997,
+    "end": 450.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "potentially start? Yeah, I would love to start in terms of the opportunity sizing. And I love to know"
+  },
+  {
+    "start": 450.71999999999997,
+    "end": 456.88,
+    "speaker": "SPEAKER_00",
+    "text": "sort of a little bit more and sort of look into a little bit more about like the 36 inches versus"
+  },
+  {
+    "start": 456.88,
+    "end": 461.2,
+    "speaker": "SPEAKER_00",
+    "text": "the 30 inches. How many seats would be in each? I think that's sort of the first step to going"
+  },
+  {
+    "start": 461.2,
+    "end": 466.15999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "towards my fifth financial bucket. Yeah, yeah, okay. Fantastic place to start. I can give you a little"
+  },
+  {
+    "start": 466.15999999999997,
+    "end": 471.84,
+    "speaker": "SPEAKER_02",
+    "text": "background and then even specifically kind of what I'm hoping to dig into. So Northease airlines"
+  },
+  {
+    "start": 471.84,
+    "end": 479.76,
+    "speaker": "SPEAKER_02",
+    "text": "operates a kind of one model fleet of 500 Boeing 737-800s. Each plane is currently equipped with 30"
+  },
+  {
+    "start": 479.84,
+    "end": 486.64,
+    "speaker": "SPEAKER_02",
+    "text": "rows of standard seats. Each row has six seats, three on each side of the aisle and has the 30 inch"
+  },
+  {
+    "start": 486.64,
+    "end": 493.36,
+    "speaker": "SPEAKER_02",
+    "text": "of legroom previously mentioned. And the new premium seating configuration. Northease planes"
+  },
+  {
+    "start": 493.36,
+    "end": 499.59999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "will allocate 33% of the seating space to premium seats each with the 36 inches of legroom"
+  },
+  {
+    "start": 499.59999999999997,
+    "end": 504.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "referenced. So specifically kind of what I'm looking for is if Northeast reconfigure their"
+  },
+  {
+    "start": 504.72,
+    "end": 511.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "planes and allocated 33% of the seating space to premium seats. One, how many premium seats and"
+  },
+  {
+    "start": 511.28000000000003,
+    "end": 516.64,
+    "speaker": "SPEAKER_02",
+    "text": "standard seats would each plane have? And then also two kind of like the back half question,"
+  },
+  {
+    "start": 517.2,
+    "end": 520.8000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "how much more revenue per flight would they make with premium seats?"
+  },
+  {
+    "start": 522.32,
+    "end": 528.08,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, got it. All of that makes sense. I think that I have a few clarifying questions unless I"
+  },
+  {
+    "start": 528.08,
+    "end": 534.64,
+    "speaker": "SPEAKER_00",
+    "text": "missed something. But I'd love to hear a little bit more sort of about the rice of a standard seat."
+  },
+  {
+    "start": 534.88,
+    "end": 541.36,
+    "speaker": "SPEAKER_00",
+    "text": "And a price of a premium seat. So I think you had mentioned in the prompt that there was an 80 to"
+  },
+  {
+    "start": 541.36,
+    "end": 549.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "120 premium for an assigned seat or sorry for a premium seat. What would actually that cost of"
+  },
+  {
+    "start": 549.4399999999999,
+    "end": 556.24,
+    "speaker": "SPEAKER_02",
+    "text": "the standard seat be? Yep, so standard seats will sell for about $300 on average,"
+  },
+  {
+    "start": 556.72,
+    "end": 564.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "whereas premium seats will sell for about $400 on average. And then you kind of assume that"
+  },
+  {
+    "start": 564.32,
+    "end": 569.2800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "standard seats will sell for the same price regardless of whether a sign, so a new format or"
+  },
+  {
+    "start": 569.2800000000001,
+    "end": 574.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "unassigned kind of in the older format. Okay, so we are assuming that there's no additional"
+  },
+  {
+    "start": 574.8000000000001,
+    "end": 579.44,
+    "speaker": "SPEAKER_00",
+    "text": "charge for a assigned seat. That's just coming complimentary since customers indicated they didn't"
+  },
+  {
+    "start": 579.44,
+    "end": 584.32,
+    "speaker": "SPEAKER_00",
+    "text": "want to pay for that. Exactly. Make sense. And then we're taking in between that 80 and 120,"
+  },
+  {
+    "start": 584.32,
+    "end": 589.2800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "which makes sense as well. And then sort of as I'm doing the calculation, should I just assume 100"
+  },
+  {
+    "start": 589.2800000000001,
+    "end": 593.84,
+    "speaker": "SPEAKER_00",
+    "text": "percent occupancy on the on the plane? Or is there any different assumptions that I should make"
+  },
+  {
+    "start": 593.84,
+    "end": 600.4,
+    "speaker": "SPEAKER_00",
+    "text": "just to account for the changes that we make BCA? Yeah, yeah, fantastic. Kind of that quantity question."
+  },
+  {
+    "start": 600.4,
+    "end": 605.2,
+    "speaker": "SPEAKER_02",
+    "text": "So assuming that the yields or kind of like the industry term for percentage of seats sold on any"
+  },
+  {
+    "start": 605.2,
+    "end": 610.5600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "given flight is going to be 100 percent for all standard seats. And then you can also assume that"
+  },
+  {
+    "start": 610.5600000000001,
+    "end": 617.44,
+    "speaker": "SPEAKER_02",
+    "text": "it's about 95 percent for more premium seats. Okay, got it. Do you mind if I just take one moment to"
+  },
+  {
+    "start": 617.44,
+    "end": 621.9200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "think about how it's structured this math equation? What I think you're doing is really structuring"
+  },
+  {
+    "start": 622.16,
+    "end": 627.04,
+    "speaker": "SPEAKER_00",
+    "text": "the old setup revenue versus the new setup revenue. But I just sort of want to think through and take"
+  },
+  {
+    "start": 627.04,
+    "end": 630.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "a minute to make sure I'm structuring that in the most efficient way. Excellent."
+  },
+  {
+    "start": 633.5999999999999,
+    "end": 640.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect. Okay, well, if we sort of look here, I think what we should actually do is look at"
+  },
+  {
+    "start": 640.4799999999999,
+    "end": 646.0,
+    "speaker": "SPEAKER_00",
+    "text": "sort of the revenue of the old setup versus the revenue of the new setup. And so what I would do"
+  },
+  {
+    "start": 646.0,
+    "end": 650.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "there is I would look when when looking at the old setup and the new setup, the main difference that"
+  },
+  {
+    "start": 650.96,
+    "end": 655.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "we're comparing is actually the number of seats that are premium and the number of seats that are"
+  },
+  {
+    "start": 655.6800000000001,
+    "end": 660.72,
+    "speaker": "SPEAKER_00",
+    "text": "regular. We're just completely cutting out the consideration for any assigned seats. So when"
+  },
+  {
+    "start": 660.72,
+    "end": 667.2,
+    "speaker": "SPEAKER_00",
+    "text": "we're doing that, we know sort of that the number of seats sold in the old setup was just 30 rows"
+  },
+  {
+    "start": 667.2,
+    "end": 674.88,
+    "speaker": "SPEAKER_00",
+    "text": "times 30 inches per row. So we know that there were 900 inches that were, you know, that are"
+  },
+  {
+    "start": 674.88,
+    "end": 678.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "allocated throughout the plane for seats. I'm assuming there's this plane is actually longer than"
+  },
+  {
+    "start": 678.8,
+    "end": 683.1999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "that for like, you know, the bulkhead area and maybe the bathrooms and stuff like that. But there's"
+  },
+  {
+    "start": 683.1999999999999,
+    "end": 690.24,
+    "speaker": "SPEAKER_00",
+    "text": "900 inches that's that's allocated for seats. Now, if we look sort of at the new model, we can see"
+  },
+  {
+    "start": 690.24,
+    "end": 698.64,
+    "speaker": "SPEAKER_00",
+    "text": "that 33% of those seats would be premium seats. And 33% of the 900 inches would mean that there are"
+  },
+  {
+    "start": 698.64,
+    "end": 708.0,
+    "speaker": "SPEAKER_00",
+    "text": "300 inches that are premium seats. 300 inches divided that would be 8.33 rows that we would have in"
+  },
+  {
+    "start": 708.0,
+    "end": 713.28,
+    "speaker": "SPEAKER_00",
+    "text": "the premium section. But of course, you can't really have .33 of a row. So I think what we'd have"
+  },
+  {
+    "start": 713.28,
+    "end": 718.32,
+    "speaker": "SPEAKER_00",
+    "text": "to do there is actually just say that in the premium section, there are 8 rows. And then the other"
+  },
+  {
+    "start": 718.32,
+    "end": 724.8,
+    "speaker": "SPEAKER_00",
+    "text": "600 sort of inches that we have there that we would actually say is still just regular seats."
+  },
+  {
+    "start": 726.24,
+    "end": 730.08,
+    "speaker": "SPEAKER_00",
+    "text": "So we have the premium section, which is one third, we have the regular section, which is two"
+  },
+  {
+    "start": 730.08,
+    "end": 735.6,
+    "speaker": "SPEAKER_00",
+    "text": "thirds of the plane. So now what we need to do is actually set up the two equations. So that's what"
+  },
+  {
+    "start": 735.6,
+    "end": 741.36,
+    "speaker": "SPEAKER_00",
+    "text": "I was just doing as I took a moment. If we look at the old setup, we have regular seats times the"
+  },
+  {
+    "start": 741.36,
+    "end": 747.44,
+    "speaker": "SPEAKER_00",
+    "text": "regular price. And then if we look at the new setup, we have the premium seats times the premium"
+  },
+  {
+    "start": 747.44,
+    "end": 752.32,
+    "speaker": "SPEAKER_00",
+    "text": "price and then the regular seats times the regular price. So let's start with the actual math of the"
+  },
+  {
+    "start": 752.32,
+    "end": 759.6,
+    "speaker": "SPEAKER_00",
+    "text": "old setup. In the old setup, we have 30 rows of regular seats times six seats per row times 300"
+  },
+  {
+    "start": 759.6,
+    "end": 767.52,
+    "speaker": "SPEAKER_00",
+    "text": "dollars per seat. And that is going to equal $54,000. Did that sound about correct you in terms of"
+  },
+  {
+    "start": 767.52,
+    "end": 774.24,
+    "speaker": "SPEAKER_00",
+    "text": "that math? Great. Okay. And then slightly trickier calculation. So we have the regular seats times"
+  },
+  {
+    "start": 774.24,
+    "end": 780.0,
+    "speaker": "SPEAKER_00",
+    "text": "the regular price. And that's sort of the two thirds. And we can actually just take two thirds of"
+  },
+  {
+    "start": 780.0,
+    "end": 787.76,
+    "speaker": "SPEAKER_00",
+    "text": "that 54,000 that we had before. And that's actually going to be 36,000. And then for the premium"
+  },
+  {
+    "start": 787.76,
+    "end": 793.92,
+    "speaker": "SPEAKER_00",
+    "text": "portion, we'll have eight rows because we had that 8.33, but we're just taking eight times six"
+  },
+  {
+    "start": 793.92,
+    "end": 802.88,
+    "speaker": "SPEAKER_00",
+    "text": "seats per row. And then we have $400 per seat. And that's actually going to be 18,240 there. Does"
+  },
+  {
+    "start": 802.88,
+    "end": 810.0,
+    "speaker": "SPEAKER_00",
+    "text": "that sound right? Yep. I'm way there. Perfect. So now to get to that total, we are going to add the 18,240"
+  },
+  {
+    "start": 810.0,
+    "end": 818.64,
+    "speaker": "SPEAKER_00",
+    "text": "plus the 36,000. And that's actually going to get us 54,240, which is very, very close to the old"
+  },
+  {
+    "start": 818.64,
+    "end": 827.28,
+    "speaker": "SPEAKER_00",
+    "text": "setup actually, strangely close. So there's a slightly higher, we have a slightly higher revenue in"
+  },
+  {
+    "start": 827.28,
+    "end": 832.96,
+    "speaker": "SPEAKER_00",
+    "text": "the new setup, but very, very marginally. Although I know that airlines operate under razor thin margins"
+  },
+  {
+    "start": 832.96,
+    "end": 840.24,
+    "speaker": "SPEAKER_00",
+    "text": "sometimes. So maybe that extra $240 per trip, if we could assume that, you know, there's many trips"
+  },
+  {
+    "start": 840.24,
+    "end": 845.2,
+    "speaker": "SPEAKER_00",
+    "text": "going all the time and we're multiplying that over many trips a day, every day of the year, that"
+  },
+  {
+    "start": 845.2,
+    "end": 851.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "would actually add up. But I actually think what I would want to look at next is like really the"
+  },
+  {
+    "start": 851.0400000000001,
+    "end": 856.64,
+    "speaker": "SPEAKER_00",
+    "text": "profitability of that. So as I mentioned, there might be some retrofitting, there might be other"
+  },
+  {
+    "start": 856.64,
+    "end": 861.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "costs that could be involved. So I think we should really dig deeper into what those other costs"
+  },
+  {
+    "start": 861.04,
+    "end": 866.0,
+    "speaker": "SPEAKER_00",
+    "text": "might be and whether it will be a profitable venture. And the other thing, and I'm not sure if this"
+  },
+  {
+    "start": 866.0,
+    "end": 869.76,
+    "speaker": "SPEAKER_00",
+    "text": "is a great time to mention this, but the only other thing that I would consider is whether the"
+  },
+  {
+    "start": 869.76,
+    "end": 874.7199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "occupancy rates would differ depending on the two models, which just might be something for us to"
+  },
+  {
+    "start": 874.7199999999999,
+    "end": 879.68,
+    "speaker": "SPEAKER_02",
+    "text": "keep in the back of our minds. Yeah, yeah. So one, you know, love the direction of the profitability"
+  },
+  {
+    "start": 879.68,
+    "end": 883.76,
+    "speaker": "SPEAKER_02",
+    "text": "in two. I think you bring up a really good point of that risk component too, any kind of change in"
+  },
+  {
+    "start": 883.76,
+    "end": 888.56,
+    "speaker": "SPEAKER_02",
+    "text": "that utilization. So let's drive the profitability direction first and maybe we can come back to some of"
+  },
+  {
+    "start": 888.56,
+    "end": 894.0799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "the risks associated with. So, you know, the company estimates that retrofitting each plane for"
+  },
+  {
+    "start": 894.0799999999999,
+    "end": 899.92,
+    "speaker": "SPEAKER_02",
+    "text": "new seating formats will be about a hundred thousand dollars per plane. Additionally, they estimate"
+  },
+  {
+    "start": 899.92,
+    "end": 906.4799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "that they will face one time set of costs in the first year. They anticipate that A, so 250"
+  },
+  {
+    "start": 906.4799999999999,
+    "end": 913.76,
+    "speaker": "SPEAKER_02",
+    "text": "million dollars for IT and reservation system upgrades, B, or second, 200 million in staff training"
+  },
+  {
+    "start": 913.76,
+    "end": 920.0,
+    "speaker": "SPEAKER_02",
+    "text": "costs, and then C, or the kind of third, is 400 million in marketing expense to correctly get the"
+  },
+  {
+    "start": 920.0,
+    "end": 926.64,
+    "speaker": "SPEAKER_02",
+    "text": "word out and proactively tell their story around this kind of change. You know, be curious from yourself,"
+  },
+  {
+    "start": 926.64,
+    "end": 931.12,
+    "speaker": "SPEAKER_02",
+    "text": "kind of the direction you were going is, will this seating change end up being profitable in the"
+  },
+  {
+    "start": 931.12,
+    "end": 938.08,
+    "speaker": "SPEAKER_00",
+    "text": "first year for a client? Okay, great. So we're looking at a one year profitability. And as you sort of"
+  },
+  {
+    "start": 938.08,
+    "end": 943.2,
+    "speaker": "SPEAKER_00",
+    "text": "broke down those costs, the way that I really understood it was that we had like a cost per plane"
+  },
+  {
+    "start": 943.2800000000001,
+    "end": 948.24,
+    "speaker": "SPEAKER_00",
+    "text": "to retrofit. And then we had sort of other investment costs, maybe we can call them, which are just"
+  },
+  {
+    "start": 948.24,
+    "end": 954.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "one time fees. They're not based on each plane. So if we sort of do those two calculations, we have"
+  },
+  {
+    "start": 954.5600000000001,
+    "end": 962.72,
+    "speaker": "SPEAKER_00",
+    "text": "800 planes times 100,000 dollars per plane to retrofit, which is 80 million dollars there. And then"
+  },
+  {
+    "start": 962.72,
+    "end": 970.72,
+    "speaker": "SPEAKER_00",
+    "text": "in terms of other investment costs, we have, so we have the 200 million plus 250 plus the 400 for"
+  },
+  {
+    "start": 970.72,
+    "end": 980.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "the marketing and communications piece. And that will total 850 million. And so here we have"
+  },
+  {
+    "start": 980.5600000000001,
+    "end": 986.96,
+    "speaker": "SPEAKER_00",
+    "text": "the total cost. So it's 80 million plus the 850 million. That equals 930 million in total cost."
+  },
+  {
+    "start": 986.96,
+    "end": 992.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Does that sound about right? Yep. Okay, great. So what we would actually want to do to calculate sort"
+  },
+  {
+    "start": 992.5600000000001,
+    "end": 999.36,
+    "speaker": "SPEAKER_00",
+    "text": "of the revenue upside there is we would really want to understand, you know, how many, so we have the,"
+  },
+  {
+    "start": 1000.16,
+    "end": 1007.36,
+    "speaker": "SPEAKER_00",
+    "text": "was it 240 dollars additional for the new. We really want to understand how many flights are flown"
+  },
+  {
+    "start": 1007.36,
+    "end": 1013.2,
+    "speaker": "SPEAKER_00",
+    "text": "per day. And then how many days per year are there being flown, which I would assume for an airline"
+  },
+  {
+    "start": 1013.2,
+    "end": 1019.12,
+    "speaker": "SPEAKER_00",
+    "text": "is 365 days. And we'd want to understand sort of how much additional revenue we're going to be"
+  },
+  {
+    "start": 1019.12,
+    "end": 1024.88,
+    "speaker": "SPEAKER_00",
+    "text": "getting per year. And then we'll divide that by the 930 million in total cost. Does that sound okay?"
+  },
+  {
+    "start": 1024.96,
+    "end": 1030.88,
+    "speaker": "SPEAKER_00",
+    "text": "Excellent. Let's do it. Perfect. And so sorry, could you please just confirm how many flights,"
+  },
+  {
+    "start": 1030.88,
+    "end": 1034.48,
+    "speaker": "SPEAKER_00",
+    "text": "additional flights per day are, or how many flights per day are being flown?"
+  },
+  {
+    "start": 1034.48,
+    "end": 1042.16,
+    "speaker": "SPEAKER_00",
+    "text": "Yep, about 4,000 flights a day right now. 4,000 perfect. Okay, so 4,000 flights per day times the 240"
+  },
+  {
+    "start": 1042.16,
+    "end": 1050.16,
+    "speaker": "SPEAKER_00",
+    "text": "additional equals 960,000 per day, which as I, as we were talking about earlier, like that actually"
+  },
+  {
+    "start": 1050.16,
+    "end": 1055.52,
+    "speaker": "SPEAKER_00",
+    "text": "is quite a significant jump. It seems like such a small amount per flight, but it shows how in the"
+  },
+  {
+    "start": 1055.52,
+    "end": 1061.52,
+    "speaker": "SPEAKER_00",
+    "text": "volume you can actually see almost a million dollars extra per day from just making this switch."
+  },
+  {
+    "start": 1063.1200000000001,
+    "end": 1069.8400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So it would be okay with you rather than calculating 365 times the 960, would you be okay if I just"
+  },
+  {
+    "start": 1069.8400000000001,
+    "end": 1078.3200000000002,
+    "speaker": "SPEAKER_00",
+    "text": "rounded that 960 to 1 million, and then to just say an incremental 365 million. Great. So then"
+  },
+  {
+    "start": 1078.32,
+    "end": 1084.32,
+    "speaker": "SPEAKER_00",
+    "text": "what we can actually see is that the cost, the incremental costs are 930 million, and the incremental"
+  },
+  {
+    "start": 1084.32,
+    "end": 1093.2,
+    "speaker": "SPEAKER_00",
+    "text": "revenue benefit is only 365 million, which is not, that does not indicate a profitable venture or"
+  },
+  {
+    "start": 1093.2,
+    "end": 1100.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "path to go here. However, I would, I would just maybe caution that I think when we sort of looked at"
+  },
+  {
+    "start": 1100.3999999999999,
+    "end": 1106.8,
+    "speaker": "SPEAKER_00",
+    "text": "some of those other costs and some of those like retrofitting costs, maybe looking at it for"
+  },
+  {
+    "start": 1106.8,
+    "end": 1111.04,
+    "speaker": "SPEAKER_00",
+    "text": "one year payback isn't actually the best time frame. I know that's the time frame you all"
+  },
+  {
+    "start": 1111.04,
+    "end": 1116.0,
+    "speaker": "SPEAKER_00",
+    "text": "step to do it in, and maybe for the airline, they're really looking at, you know, they have an"
+  },
+  {
+    "start": 1116.0,
+    "end": 1121.2,
+    "speaker": "SPEAKER_00",
+    "text": "important, something important to be meeting in a certain period of time. But if we could look at"
+  },
+  {
+    "start": 1121.2,
+    "end": 1127.84,
+    "speaker": "SPEAKER_00",
+    "text": "it in a slightly longer payback, perhaps like few to three years, that's when it would actually break"
+  },
+  {
+    "start": 1127.84,
+    "end": 1132.48,
+    "speaker": "SPEAKER_00",
+    "text": "even sort of that two to three year time mark. And I actually think that that's quite a good,"
+  },
+  {
+    "start": 1132.64,
+    "end": 1137.44,
+    "speaker": "SPEAKER_00",
+    "text": "that's actually quite a good like payback period when you look at a general investment."
+  },
+  {
+    "start": 1138.08,
+    "end": 1142.24,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, yeah, and I think that's really interesting and certainly a very interesting point too. So"
+  },
+  {
+    "start": 1142.24,
+    "end": 1145.76,
+    "speaker": "SPEAKER_02",
+    "text": "what you're saying is when kind of summarize, you know, maybe doesn't pay back in the first year,"
+  },
+  {
+    "start": 1145.76,
+    "end": 1149.44,
+    "speaker": "SPEAKER_02",
+    "text": "but somewhere between that two and three year, you're saying that's when we'd really start to break"
+  },
+  {
+    "start": 1149.44,
+    "end": 1157.6,
+    "speaker": "SPEAKER_00",
+    "text": "even. Yeah, exactly, exactly. I would still say though, and I just go back again to what are the"
+  },
+  {
+    "start": 1157.6,
+    "end": 1162.32,
+    "speaker": "SPEAKER_00",
+    "text": "risks associated with changing the whole model? Looking back at the framework, there were all of those"
+  },
+  {
+    "start": 1162.32,
+    "end": 1167.12,
+    "speaker": "SPEAKER_00",
+    "text": "qualitative considerations. I think there could be a risk with occupancy that people, when they go"
+  },
+  {
+    "start": 1167.12,
+    "end": 1171.28,
+    "speaker": "SPEAKER_00",
+    "text": "on a budget airline, they just truly want to pay the lowest cost possible and they don't want to pay"
+  },
+  {
+    "start": 1171.28,
+    "end": 1176.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "a hundred dollars more. It's much easier for maybe a customer to stay in like a survey, oh, I'll pay"
+  },
+  {
+    "start": 1176.6399999999999,
+    "end": 1182.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "a hundred dollars more. But when they actually get into the situation, are they going to make that"
+  },
+  {
+    "start": 1182.3999999999999,
+    "end": 1186.72,
+    "speaker": "SPEAKER_00",
+    "text": "purchase price? There is, you know, even though it's a pretty easy payback, I think that maybe there"
+  },
+  {
+    "start": 1186.72,
+    "end": 1190.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "are some risks that we should be considering. So let's double down on that test. I think that's a"
+  },
+  {
+    "start": 1190.88,
+    "end": 1195.7600000000002,
+    "speaker": "SPEAKER_02",
+    "text": "fantastic place to go. So, you know, just even further contacts before we dive in, long time"
+  },
+  {
+    "start": 1195.7600000000002,
+    "end": 1201.44,
+    "speaker": "SPEAKER_02",
+    "text": "board members of Northeast are actually particularly nervous about crossing this Rubicon into premium"
+  },
+  {
+    "start": 1201.44,
+    "end": 1205.44,
+    "speaker": "SPEAKER_02",
+    "text": "and assigned seating, especially this is, you know, a huge brand differentiator for a long time."
+  },
+  {
+    "start": 1206.4,
+    "end": 1211.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "And it is kind of quirky seating format has really been, you know, what they've doubled down on."
+  },
+  {
+    "start": 1211.1200000000001,
+    "end": 1215.8400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So what are some of the key risks that you anticipate and how do you advise handling them?"
+  },
+  {
+    "start": 1216.8,
+    "end": 1221.84,
+    "speaker": "SPEAKER_00",
+    "text": "That's a great question. So in terms of like the financial considerations that we've done,"
+  },
+  {
+    "start": 1222.56,
+    "end": 1228.8,
+    "speaker": "SPEAKER_00",
+    "text": "I'd say the biggest risk is that we've assumed that 100% of all seats will sell. And I think"
+  },
+  {
+    "start": 1228.8,
+    "end": 1234.0,
+    "speaker": "SPEAKER_00",
+    "text": "that that's like a huge risk that we're making. I think that it's pretty rare that I go in a flight"
+  },
+  {
+    "start": 1234.0,
+    "end": 1239.12,
+    "speaker": "SPEAKER_00",
+    "text": "where 100% of the seats are sold. Maybe that's a little bit different with like truly the most"
+  },
+  {
+    "start": 1239.12,
+    "end": 1244.72,
+    "speaker": "SPEAKER_00",
+    "text": "budget airlines. I know they really try and optimize for for selling all the seats, but it seems,"
+  },
+  {
+    "start": 1244.72,
+    "end": 1248.32,
+    "speaker": "SPEAKER_00",
+    "text": "that seems like a bit of a stretch. And especially because we've also considered that there"
+  },
+  {
+    "start": 1248.32,
+    "end": 1254.16,
+    "speaker": "SPEAKER_00",
+    "text": "would be no discount supplied. There is no like, you know, sale day where somebody can get a discounted"
+  },
+  {
+    "start": 1254.16,
+    "end": 1260.4,
+    "speaker": "SPEAKER_00",
+    "text": "seat. I think that that is like a pretty bold assumption. And I would also say that maybe there"
+  },
+  {
+    "start": 1260.4,
+    "end": 1264.96,
+    "speaker": "SPEAKER_00",
+    "text": "are nuances that we could further dig into if we have, you know, further time to do a sensitivity"
+  },
+  {
+    "start": 1264.96,
+    "end": 1270.8,
+    "speaker": "SPEAKER_00",
+    "text": "analysis. Are there some routes that we can assume 100% occupancy or maybe some days of the week or"
+  },
+  {
+    "start": 1271.6,
+    "end": 1276.48,
+    "speaker": "SPEAKER_00",
+    "text": "and then maybe there are other routes that are less popular or times of the day that are less"
+  },
+  {
+    "start": 1276.48,
+    "end": 1283.04,
+    "speaker": "SPEAKER_00",
+    "text": "popular. And we could sort of dig into doing a bit more of a sensitivity there. I also think that"
+  },
+  {
+    "start": 1283.04,
+    "end": 1289.44,
+    "speaker": "SPEAKER_00",
+    "text": "assuming the $100 premium for a seat was a bit of a, was also a bit of a bold statement."
+  },
+  {
+    "start": 1290.6399999999999,
+    "end": 1295.04,
+    "speaker": "SPEAKER_00",
+    "text": "On the one hand, I don't know if people will pay that extra. On the other hand, maybe if people"
+  },
+  {
+    "start": 1295.04,
+    "end": 1300.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "are happy to pay double their seat price, like we just really don't know that exact range."
+  },
+  {
+    "start": 1300.6399999999999,
+    "end": 1305.92,
+    "speaker": "SPEAKER_00",
+    "text": "I would be interested for that to actually see if there are other airlines and what this sort of"
+  },
+  {
+    "start": 1305.92,
+    "end": 1311.84,
+    "speaker": "SPEAKER_00",
+    "text": "cost differential VHARGE for just a difference in leg room. That could be a good way for us to sort"
+  },
+  {
+    "start": 1311.84,
+    "end": 1318.0,
+    "speaker": "SPEAKER_00",
+    "text": "of pressure test that one. So overall, I would actually say for the financial risks, what I would"
+  },
+  {
+    "start": 1318.0,
+    "end": 1322.32,
+    "speaker": "SPEAKER_00",
+    "text": "do to mitigate that is run a couple of sensitivities based on some different scenarios that we might"
+  },
+  {
+    "start": 1322.32,
+    "end": 1328.08,
+    "speaker": "SPEAKER_00",
+    "text": "be able to imagine and really think about, you know, if everything was to go right, I think we've"
+  },
+  {
+    "start": 1328.08,
+    "end": 1334.08,
+    "speaker": "SPEAKER_00",
+    "text": "calculated that upside. But let's say everything goes 75% according to plan and really understand"
+  },
+  {
+    "start": 1334.08,
+    "end": 1338.72,
+    "speaker": "SPEAKER_00",
+    "text": "what the what the mitigation would be there. Excellent. Excellent. Certainly doesn't feel like it's"
+  },
+  {
+    "start": 1338.72,
+    "end": 1345.04,
+    "speaker": "SPEAKER_02",
+    "text": "a clear path one way or the other here. So, you know, you're actually preparing for an in-term"
+  },
+  {
+    "start": 1345.04,
+    "end": 1350.24,
+    "speaker": "SPEAKER_02",
+    "text": "project with the CFO and their two VPs of finance. The lead partner on the case is asked you to"
+  },
+  {
+    "start": 1350.32,
+    "end": 1356.48,
+    "speaker": "SPEAKER_02",
+    "text": "provide a summer of findings thus far. What do you have to say? Yeah, I mean, really exciting,"
+  },
+  {
+    "start": 1356.48,
+    "end": 1361.2,
+    "speaker": "SPEAKER_00",
+    "text": "super exciting case and super exciting opportunity to present to those senior stakeholders."
+  },
+  {
+    "start": 1362.16,
+    "end": 1367.52,
+    "speaker": "SPEAKER_00",
+    "text": "The first I would say is I would definitely give them a summary in terms of, you know, what the"
+  },
+  {
+    "start": 1367.52,
+    "end": 1373.44,
+    "speaker": "SPEAKER_00",
+    "text": "potential revenue opportunity here is and that the payback period is actually only the two and a"
+  },
+  {
+    "start": 1373.44,
+    "end": 1378.48,
+    "speaker": "SPEAKER_00",
+    "text": "half years if everything was to go right. And sort of I would really break down to them, you know,"
+  },
+  {
+    "start": 1378.48,
+    "end": 1384.4,
+    "speaker": "SPEAKER_00",
+    "text": "what made up that 930 million in upfront costs and how we sort of calculated the differential"
+  },
+  {
+    "start": 1384.4,
+    "end": 1390.64,
+    "speaker": "SPEAKER_00",
+    "text": "in the two areas. And second, I would definitely point out to them that their customers indicated"
+  },
+  {
+    "start": 1390.64,
+    "end": 1396.4,
+    "speaker": "SPEAKER_00",
+    "text": "a strong preference in having some premium and assigned seating. I think that even if we didn't"
+  },
+  {
+    "start": 1396.4,
+    "end": 1401.68,
+    "speaker": "SPEAKER_00",
+    "text": "go with the premium option, there could probably be some assigned seating updates that definitely"
+  },
+  {
+    "start": 1401.68,
+    "end": 1406.96,
+    "speaker": "SPEAKER_00",
+    "text": "wouldn't cost the 930 million. So that would help with the customer service or could be an avenue"
+  },
+  {
+    "start": 1406.96,
+    "end": 1413.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "to explore. And I definitely think that since their customers really value the positive customer"
+  },
+  {
+    "start": 1413.1200000000001,
+    "end": 1418.08,
+    "speaker": "SPEAKER_00",
+    "text": "experience, it's something that we should take seriously and that we should make sure that we're"
+  },
+  {
+    "start": 1418.08,
+    "end": 1422.16,
+    "speaker": "SPEAKER_00",
+    "text": "incorporating as much as we can in what the customer is actually want and what they're asking for."
+  },
+  {
+    "start": 1423.2,
+    "end": 1427.52,
+    "speaker": "SPEAKER_00",
+    "text": "However, I would point out to them that we do want to do a little bit more sensitivity analysis."
+  },
+  {
+    "start": 1427.52,
+    "end": 1431.28,
+    "speaker": "SPEAKER_00",
+    "text": "I would definitely get their thoughts on some of the assumptions that we've made and see what they"
+  },
+  {
+    "start": 1431.28,
+    "end": 1436.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "think about those. And I'm sure that they would have some additional evidence or some other ideas"
+  },
+  {
+    "start": 1436.8799999999999,
+    "end": 1442.56,
+    "speaker": "SPEAKER_00",
+    "text": "that we might not have thought of not being inside the company. Excellent. That was fantastic."
+  },
+  {
+    "start": 1442.56,
+    "end": 1447.04,
+    "speaker": "SPEAKER_02",
+    "text": "And thank you very much for your time tonight. Thank you. Appreciate it. Hey everyone. It's"
+  },
+  {
+    "start": 1447.04,
+    "end": 1451.12,
+    "speaker": "SPEAKER_01",
+    "text": "Henten Givessey here, the founder of Rocketblocks. Thank you so much for watching this mock interview"
+  },
+  {
+    "start": 1451.12,
+    "end": 1456.48,
+    "speaker": "SPEAKER_01",
+    "text": "video. I hope you found it informative and helpful as you are getting ready to prepare for your"
+  },
+  {
+    "start": 1456.48,
+    "end": 1461.04,
+    "speaker": "SPEAKER_01",
+    "text": "own interviews and hopefully landing that job offer you are excited about. We have a ton of"
+  },
+  {
+    "start": 1461.04,
+    "end": 1465.68,
+    "speaker": "SPEAKER_01",
+    "text": "great content on the Rocketblocks channel coming out on a weekly basis, mock interviews,"
+  },
+  {
+    "start": 1465.68,
+    "end": 1470.8,
+    "speaker": "SPEAKER_01",
+    "text": "mini lessons and chats with our Rocketblocks experts. So if you haven't subscribed yet already,"
+  },
+  {
+    "start": 1470.8,
+    "end": 1475.84,
+    "speaker": "SPEAKER_01",
+    "text": "please do so. There is a big red button below. And if you hit that, you'll get all of our content"
+  },
+  {
+    "start": 1475.84,
+    "end": 1478.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "as soon as it comes out. Thanks for watching and have a great day."
+  }
+]

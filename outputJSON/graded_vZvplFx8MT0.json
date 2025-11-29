@@ -1,0 +1,1188 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 4.28,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to give you more of a real case example."
+    },
+    {
+      "start": 4.28,
+      "end": 10.32,
+      "speaker": "SPEAKER_00",
+      "text": "This is something that you absolutely could get in an interview in terms of type of question."
+    },
+    {
+      "start": 10.32,
+      "end": 15.040000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Now the prompt I'm about to give is inspired by one of my favorite cases to give when it"
+    },
+    {
+      "start": 15.040000000000001,
+      "end": 16.68,
+      "speaker": "SPEAKER_00",
+      "text": "comes to structuring."
+    },
+    {
+      "start": 16.68,
+      "end": 19.64,
+      "speaker": "SPEAKER_00",
+      "text": "So it is as follows."
+    },
+    {
+      "start": 19.64,
+      "end": 25.72,
+      "speaker": "SPEAKER_00",
+      "text": "Your client is a Vietnamese suit maker and tailor."
+    },
+    {
+      "start": 25.72,
+      "end": 32.92,
+      "speaker": "SPEAKER_00",
+      "text": "Recently they've been experiencing a huge increase in the demand of their suits from overseas."
+    },
+    {
+      "start": 32.92,
+      "end": 38.04,
+      "speaker": "SPEAKER_00",
+      "text": "And they brought us in because they'd like to increase the output of their suits, but"
+    },
+    {
+      "start": 38.04,
+      "end": 44.28,
+      "speaker": "SPEAKER_00",
+      "text": "they're really cognizant of not reducing the quality of their high quality product."
+    },
+    {
+      "start": 44.28,
+      "end": 48.96,
+      "speaker": "SPEAKER_00",
+      "text": "And you've been brought in to essentially look at this."
+    },
+    {
+      "start": 48.96,
+      "end": 53.4,
+      "speaker": "SPEAKER_00",
+      "text": "Just to re-articulate, you have a Vietnamese suit maker."
+    },
+    {
+      "start": 53.4,
+      "end": 54.92,
+      "speaker": "SPEAKER_00",
+      "text": "They have an increase in the demand."
+    },
+    {
+      "start": 54.92,
+      "end": 60.12,
+      "speaker": "SPEAKER_00",
+      "text": "They need to increase their output or their production, and they can't reduce the quality"
+    },
+    {
+      "start": 60.12,
+      "end": 65.12,
+      "speaker": "SPEAKER_00",
+      "text": "of the high quality suits that they make."
+    },
+    {
+      "start": 65.12,
+      "end": 67.36,
+      "speaker": "SPEAKER_00",
+      "text": "Now you may have some clarifying questions."
+    },
+    {
+      "start": 67.36,
+      "end": 69.44,
+      "speaker": "SPEAKER_00",
+      "text": "I'll give you a couple answers here."
+    },
+    {
+      "start": 69.44,
+      "end": 74.56,
+      "speaker": "SPEAKER_00",
+      "text": "The suits are currently done in workshops and it's quite artisan, so the workers have"
+    },
+    {
+      "start": 74.56,
+      "end": 77.48,
+      "speaker": "SPEAKER_00",
+      "text": "been there for a long time."
+    },
+    {
+      "start": 77.48,
+      "end": 81.44,
+      "speaker": "SPEAKER_00",
+      "text": "The high heliscop workers are difficult to find."
+    },
+    {
+      "start": 81.44,
+      "end": 85.4,
+      "speaker": "SPEAKER_00",
+      "text": "They do require training and that sort of thing."
+    },
+    {
+      "start": 85.4,
+      "end": 91.52000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Right now the process is fairly handmade and each worker makes their own suit."
+    },
+    {
+      "start": 91.52000000000001,
+      "end": 95.16,
+      "speaker": "SPEAKER_00",
+      "text": "Now some of that information may be relevant, some of it may not."
+    },
+    {
+      "start": 95.16,
+      "end": 101.52000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "But I'd like you to think about now, what does this structure going to look like?"
+    },
+    {
+      "start": 101.52000000000001,
+      "end": 103.60000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Think about our objective."
+    },
+    {
+      "start": 103.6,
+      "end": 107.96,
+      "speaker": "SPEAKER_00",
+      "text": "Think about what are the key components and elements that are going to address the"
+    },
+    {
+      "start": 107.96,
+      "end": 110.55999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "subjective."
+    },
+    {
+      "start": 110.55999999999999,
+      "end": 115.67999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And we'll give you a few minutes and we'll come right back."
+    },
+    {
+      "start": 115.67999999999999,
+      "end": 120.88,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, how did it go?"
+    },
+    {
+      "start": 120.88,
+      "end": 124.84,
+      "speaker": "SPEAKER_00",
+      "text": "Hopefully you're able to come up with some sort of framework that would help you answer"
+    },
+    {
+      "start": 124.84,
+      "end": 126.36,
+      "speaker": "SPEAKER_00",
+      "text": "the subjective."
+    },
+    {
+      "start": 126.36,
+      "end": 127.88,
+      "speaker": "SPEAKER_00",
+      "text": "What was the objective?"
+    },
+    {
+      "start": 128.51999999999998,
+      "end": 134.12,
+      "speaker": "SPEAKER_00",
+      "text": "Our objective was to increase our output without affecting quality."
+    },
+    {
+      "start": 134.12,
+      "end": 139.88,
+      "speaker": "SPEAKER_00",
+      "text": "We need to increase the number of suits that we're producing without reducing the quality"
+    },
+    {
+      "start": 139.88,
+      "end": 141.88,
+      "speaker": "SPEAKER_00",
+      "text": "of those suits."
+    },
+    {
+      "start": 141.88,
+      "end": 142.88,
+      "speaker": "SPEAKER_00",
+      "text": "That's step number one."
+    },
+    {
+      "start": 142.88,
+      "end": 146.48,
+      "speaker": "SPEAKER_00",
+      "text": "Now let's talk about how we actually are going to break this down."
+    },
+    {
+      "start": 146.48,
+      "end": 148.92,
+      "speaker": "SPEAKER_00",
+      "text": "Now bear with me."
+    },
+    {
+      "start": 148.92,
+      "end": 152.68,
+      "speaker": "SPEAKER_00",
+      "text": "The first thing I'd like to say is there's no one right answer."
+    },
+    {
+      "start": 152.68,
+      "end": 153.68,
+      "speaker": "SPEAKER_00",
+      "text": "And we're actually going to see this."
+    },
+    {
+      "start": 153.68,
+      "end": 157.84,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to talk through a couple of different frameworks that are actually quite similar"
+    },
+    {
+      "start": 158.20000000000002,
+      "end": 162.12,
+      "speaker": "SPEAKER_00",
+      "text": "and overlap in a sense, but all of them individually are correct."
+    },
+    {
+      "start": 162.12,
+      "end": 164.6,
+      "speaker": "SPEAKER_00",
+      "text": "So first of all, there's no one right answer."
+    },
+    {
+      "start": 164.6,
+      "end": 167.88,
+      "speaker": "SPEAKER_00",
+      "text": "And normally with cases, that is true."
+    },
+    {
+      "start": 167.88,
+      "end": 169.44,
+      "speaker": "SPEAKER_00",
+      "text": "That there is no one right answer."
+    },
+    {
+      "start": 169.44,
+      "end": 173.12,
+      "speaker": "SPEAKER_00",
+      "text": "There's only a set of good ones."
+    },
+    {
+      "start": 173.12,
+      "end": 177.6,
+      "speaker": "SPEAKER_00",
+      "text": "What matters is are they segmented and do they make sense?"
+    },
+    {
+      "start": 177.6,
+      "end": 182.72,
+      "speaker": "SPEAKER_00",
+      "text": "And can they, if answered individually, help you address and answer your problem in a"
+    },
+    {
+      "start": 182.72,
+      "end": 183.72,
+      "speaker": "SPEAKER_00",
+      "text": "me see way?"
+    },
+    {
+      "start": 183.72,
+      "end": 184.72,
+      "speaker": "SPEAKER_00",
+      "text": "Okay?"
+    },
+    {
+      "start": 184.96,
+      "end": 188.16,
+      "speaker": "SPEAKER_00",
+      "text": "So bear with me as I go through what some of these look like."
+    },
+    {
+      "start": 188.16,
+      "end": 192.28,
+      "speaker": "SPEAKER_00",
+      "text": "Now again, we needed to increase output."
+    },
+    {
+      "start": 192.28,
+      "end": 193.28,
+      "speaker": "SPEAKER_00",
+      "text": "How do we do this?"
+    },
+    {
+      "start": 193.28,
+      "end": 199.04,
+      "speaker": "SPEAKER_00",
+      "text": "What are the key components that make up output?"
+    },
+    {
+      "start": 199.04,
+      "end": 207.8,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we can either increase the amount of things we're putting in to produce this output,"
+    },
+    {
+      "start": 207.8,
+      "end": 212.24,
+      "speaker": "SPEAKER_00",
+      "text": "or we can make those things in of themselves more effective, more productive, right?"
+    },
+    {
+      "start": 213.20000000000002,
+      "end": 215.12,
+      "speaker": "SPEAKER_00",
+      "text": "There's not really anything else that we can do."
+    },
+    {
+      "start": 215.12,
+      "end": 223.4,
+      "speaker": "SPEAKER_00",
+      "text": "It's either increase the number of inputs, which in this case is workers or worker hours,"
+    },
+    {
+      "start": 223.4,
+      "end": 227.76000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "or we can make those inputs, you know, the hour is more productive, right?"
+    },
+    {
+      "start": 227.76000000000002,
+      "end": 234.84,
+      "speaker": "SPEAKER_00",
+      "text": "You know, a suit now only takes X amount of hours to produce instead of X plus five."
+    },
+    {
+      "start": 234.84,
+      "end": 237.56,
+      "speaker": "SPEAKER_00",
+      "text": "This is a good structure, right?"
+    },
+    {
+      "start": 237.56,
+      "end": 241.96,
+      "speaker": "SPEAKER_00",
+      "text": "Let's actually tailor it to the case a little bit more and say, okay, great."
+    },
+    {
+      "start": 241.96,
+      "end": 247.84,
+      "speaker": "SPEAKER_00",
+      "text": "On the one hand, we want to look at ways that we can increase worker hours, right?"
+    },
+    {
+      "start": 247.84,
+      "end": 253.56,
+      "speaker": "SPEAKER_00",
+      "text": "And on the other hand, we want to look at ways to reduce the number of worker hours required"
+    },
+    {
+      "start": 253.56,
+      "end": 254.56,
+      "speaker": "SPEAKER_00",
+      "text": "to make a suit."
+    },
+    {
+      "start": 254.56,
+      "end": 257.44,
+      "speaker": "SPEAKER_00",
+      "text": "That's pretty me see."
+    },
+    {
+      "start": 257.44,
+      "end": 259.24,
+      "speaker": "SPEAKER_00",
+      "text": "Let's break down that first bucket, right?"
+    },
+    {
+      "start": 259.24,
+      "end": 260.72,
+      "speaker": "SPEAKER_00",
+      "text": "Worker hours."
+    },
+    {
+      "start": 260.72,
+      "end": 265.24,
+      "speaker": "SPEAKER_00",
+      "text": "How can we, and now we're looking inside the bucket to a second level structure?"
+    },
+    {
+      "start": 265.24,
+      "end": 269.04,
+      "speaker": "SPEAKER_00",
+      "text": "How can we increase worker hours?"
+    },
+    {
+      "start": 269.6,
+      "end": 280.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we could either hire more workers, or we could have our existing workers work more hours, right?"
+    },
+    {
+      "start": 280.40000000000003,
+      "end": 288.12,
+      "speaker": "SPEAKER_00",
+      "text": "Bring in more people to make more suits, or have our existing people work, you know, nine hours a day instead of eight."
+    },
+    {
+      "start": 288.12,
+      "end": 291.92,
+      "speaker": "SPEAKER_00",
+      "text": "What's our concern with that second one, or even the first one, quality?"
+    },
+    {
+      "start": 291.92,
+      "end": 297.36,
+      "speaker": "SPEAKER_00",
+      "text": "So we have to always become, isn't of the full extent of the case, not just the main objective,"
+    },
+    {
+      "start": 297.36,
+      "end": 301.16,
+      "speaker": "SPEAKER_00",
+      "text": "but also the needs, wants and goals of the client, right?"
+    },
+    {
+      "start": 301.16,
+      "end": 302.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 302.32,
+      "end": 305.16,
+      "speaker": "SPEAKER_00",
+      "text": "So if we want increased worker hours, that's pretty simple, right?"
+    },
+    {
+      "start": 305.16,
+      "end": 307.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "I don't think we need to break that down anymore."
+    },
+    {
+      "start": 307.08000000000004,
+      "end": 309.72,
+      "speaker": "SPEAKER_00",
+      "text": "But let's think about increasing workers."
+    },
+    {
+      "start": 309.72,
+      "end": 312.68,
+      "speaker": "SPEAKER_00",
+      "text": "What are our options?"
+    },
+    {
+      "start": 312.68,
+      "end": 318.44,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, well, one we could hire workers that already are of good quality, right?"
+    },
+    {
+      "start": 318.44,
+      "end": 321.48,
+      "speaker": "SPEAKER_00",
+      "text": "We know, you know, they've been doing suits for a long time."
+    },
+    {
+      "start": 321.48,
+      "end": 323.56,
+      "speaker": "SPEAKER_00",
+      "text": "They've been in this industry for a while."
+    },
+    {
+      "start": 323.56,
+      "end": 327.0,
+      "speaker": "SPEAKER_00",
+      "text": "Can we grab them from either the market itself?"
+    },
+    {
+      "start": 327.0,
+      "end": 332.84,
+      "speaker": "SPEAKER_00",
+      "text": "You know, they're not unemployed, or can we post them from competitors, right?"
+    },
+    {
+      "start": 332.84,
+      "end": 340.48,
+      "speaker": "SPEAKER_00",
+      "text": "Alternatively, to get more workers or new workers, what we could do is we could find people that aren't quite there yet, but can be trained, right?"
+    },
+    {
+      "start": 340.48,
+      "end": 345.92,
+      "speaker": "SPEAKER_00",
+      "text": "So this would be, you know, possibly other close makers, right?"
+    },
+    {
+      "start": 345.92,
+      "end": 350.2,
+      "speaker": "SPEAKER_00",
+      "text": "People can make scarves or dresses or whatever it may be."
+    },
+    {
+      "start": 350.2,
+      "end": 352.56,
+      "speaker": "SPEAKER_00",
+      "text": "And can we retrain them?"
+    },
+    {
+      "start": 352.6,
+      "end": 359.76,
+      "speaker": "SPEAKER_00",
+      "text": "Or could it be people that work in a slightly lower tier quality of suits, and can we train them to be better?"
+    },
+    {
+      "start": 359.76,
+      "end": 368.92,
+      "speaker": "SPEAKER_00",
+      "text": "Or could we get people out of, say, college or university or high school and train them to make these suits for us?"
+    },
+    {
+      "start": 368.92,
+      "end": 370.0,
+      "speaker": "SPEAKER_00",
+      "text": "Now what's the concern here?"
+    },
+    {
+      "start": 370.0,
+      "end": 375.4,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we didn't say it in the case, but presumably time is not on our side, right?"
+    },
+    {
+      "start": 375.4,
+      "end": 376.72,
+      "speaker": "SPEAKER_00",
+      "text": "We have a big increase in demand."
+    },
+    {
+      "start": 376.72,
+      "end": 379.6,
+      "speaker": "SPEAKER_00",
+      "text": "We need to increase output and do it pretty quickly."
+    },
+    {
+      "start": 379.64000000000004,
+      "end": 384.0,
+      "speaker": "SPEAKER_00",
+      "text": "So again, as we talk about this, we have to think about one, okay, will it meet our quality standards?"
+    },
+    {
+      "start": 384.0,
+      "end": 389.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "And can this be done in under, you know, six to 12 months, or is this a multi-year thing?"
+    },
+    {
+      "start": 389.40000000000003,
+      "end": 390.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 390.0,
+      "end": 393.76000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "So then my structure, I'm still thinking about the considerations."
+    },
+    {
+      "start": 393.76000000000005,
+      "end": 395.76000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "Let's zoom out, right?"
+    },
+    {
+      "start": 395.76000000000005,
+      "end": 404.12,
+      "speaker": "SPEAKER_00",
+      "text": "We've gone increased number of worker hours by either increasing the workers or the hours worked for a worker."
+    },
+    {
+      "start": 404.12,
+      "end": 411.76,
+      "speaker": "SPEAKER_00",
+      "text": "Within workers, we've talked about, hey, can we hire people who are already good, or can we hire some people that aren't that good, but can be good?"
+    },
+    {
+      "start": 411.76,
+      "end": 412.76,
+      "speaker": "SPEAKER_00",
+      "text": "Structure."
+    },
+    {
+      "start": 413.96,
+      "end": 420.8,
+      "speaker": "SPEAKER_00",
+      "text": "The second bucket, we'll call it, or area, is going to be our productivity, right?"
+    },
+    {
+      "start": 420.8,
+      "end": 426.24,
+      "speaker": "SPEAKER_00",
+      "text": "Can we get our existing and possibly new workforce to work more effectively?"
+    },
+    {
+      "start": 426.24,
+      "end": 432.76,
+      "speaker": "SPEAKER_00",
+      "text": "Fewer hours for the same amount of suits, which means if we work the same hours, we make more suits."
+    },
+    {
+      "start": 432.76,
+      "end": 434.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Let's think about the structure here."
+    },
+    {
+      "start": 434.59999999999997,
+      "end": 439.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, thematically, what could be changed?"
+    },
+    {
+      "start": 439.0,
+      "end": 443.2,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we could make our labor inherently more effective, right?"
+    },
+    {
+      "start": 443.2,
+      "end": 451.88,
+      "speaker": "SPEAKER_00",
+      "text": "This could be training or incentives, you know, mentorship of reorganization, putting people what they're good at, you know, whatever it may be."
+    },
+    {
+      "start": 451.88,
+      "end": 456.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Labor, can we make our labor inherently better?"
+    },
+    {
+      "start": 456.04,
+      "end": 460.0,
+      "speaker": "SPEAKER_00",
+      "text": "Alternatively, you know, what's the contrast to labor, right?"
+    },
+    {
+      "start": 460.0,
+      "end": 464.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "The constant tug of war, labor and capital, okay?"
+    },
+    {
+      "start": 464.52000000000004,
+      "end": 466.44,
+      "speaker": "SPEAKER_00",
+      "text": "Can we employ more capital, right?"
+    },
+    {
+      "start": 466.44,
+      "end": 470.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "This means machines or tools or technology, right?"
+    },
+    {
+      "start": 470.40000000000003,
+      "end": 475.92,
+      "speaker": "SPEAKER_00",
+      "text": "What machines or technology can we bring in to automate some of this process, right?"
+    },
+    {
+      "start": 475.92,
+      "end": 479.68,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe it's in the stage of cutting the fabric."
+    },
+    {
+      "start": 479.68,
+      "end": 481.88,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe it's in the stage of stitching."
+    },
+    {
+      "start": 481.88,
+      "end": 486.92,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe we bring in some better hand stitching machines that can automate, right?"
+    },
+    {
+      "start": 486.92,
+      "end": 490.52,
+      "speaker": "SPEAKER_00",
+      "text": "What does this actually look like in terms of tools and machines that we can bring in?"
+    },
+    {
+      "start": 490.52,
+      "end": 497.12,
+      "speaker": "SPEAKER_00",
+      "text": "They might either replace steps, so replace labor at certain points or they might complement labor, right?"
+    },
+    {
+      "start": 497.12,
+      "end": 499.84,
+      "speaker": "SPEAKER_00",
+      "text": "That could be a substructure, right?"
+    },
+    {
+      "start": 499.84,
+      "end": 502.08,
+      "speaker": "SPEAKER_00",
+      "text": "What do we have to consider here?"
+    },
+    {
+      "start": 502.08,
+      "end": 504.0,
+      "speaker": "SPEAKER_00",
+      "text": "Quality, right?"
+    },
+    {
+      "start": 504.0,
+      "end": 509.52,
+      "speaker": "SPEAKER_00",
+      "text": "We have to make sure that these machines are not going to reduce our quality or our brand."
+    },
+    {
+      "start": 509.52,
+      "end": 512.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so we can make labor better."
+    },
+    {
+      "start": 512.0,
+      "end": 518.24,
+      "speaker": "SPEAKER_00",
+      "text": "We can make our capital, we can employ more capital or technology to improve our output."
+    },
+    {
+      "start": 518.24,
+      "end": 519.72,
+      "speaker": "SPEAKER_00",
+      "text": "And what else?"
+    },
+    {
+      "start": 519.72,
+      "end": 523.84,
+      "speaker": "SPEAKER_00",
+      "text": "Well, actually, we could actually just organize these in a better way, right?"
+    },
+    {
+      "start": 523.84,
+      "end": 526.0,
+      "speaker": "SPEAKER_00",
+      "text": "Let's make our processes better."
+    },
+    {
+      "start": 526.0,
+      "end": 534.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So can we optimize and streamline our processes to be more efficient and effective?"
+    },
+    {
+      "start": 534.1600000000001,
+      "end": 536.64,
+      "speaker": "SPEAKER_00",
+      "text": "This could be steps, right?"
+    },
+    {
+      "start": 536.64,
+      "end": 539.4000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Let's look at step A, step B, make those steps better."
+    },
+    {
+      "start": 540.88,
+      "end": 542.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Or it could be holistic."
+    },
+    {
+      "start": 542.0400000000001,
+      "end": 545.4000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Let's redesign the entire process, right?"
+    },
+    {
+      "start": 545.4000000000001,
+      "end": 548.36,
+      "speaker": "SPEAKER_00",
+      "text": "Again, there's some structure within this structure isn't there."
+    },
+    {
+      "start": 548.36,
+      "end": 550.88,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so this is one approach, right?"
+    },
+    {
+      "start": 550.88,
+      "end": 553.48,
+      "speaker": "SPEAKER_00",
+      "text": "Let's increase my worker hours."
+    },
+    {
+      "start": 553.48,
+      "end": 558.76,
+      "speaker": "SPEAKER_00",
+      "text": "Let's increase my, you know, or decrease my hours per suit."
+    },
+    {
+      "start": 558.76,
+      "end": 561.6400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Let's do this by hiring workers or having them work more hours."
+    },
+    {
+      "start": 561.64,
+      "end": 568.72,
+      "speaker": "SPEAKER_00",
+      "text": "Let's do this by improving our people, improving our machines and technology and improving our processes."
+    },
+    {
+      "start": 568.72,
+      "end": 570.24,
+      "speaker": "SPEAKER_00",
+      "text": "It's one structure."
+    },
+    {
+      "start": 570.24,
+      "end": 573.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Let's think about another one."
+    },
+    {
+      "start": 573.4399999999999,
+      "end": 574.92,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 574.92,
+      "end": 576.4,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we could tweak this one, right?"
+    },
+    {
+      "start": 576.4,
+      "end": 582.04,
+      "speaker": "SPEAKER_00",
+      "text": "We could actually say, hey, let's, let's improve our labor, right?"
+    },
+    {
+      "start": 582.04,
+      "end": 587.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Let's get more workers, sorry, I misspoke a little, let's get our workers."
+    },
+    {
+      "start": 587.4399999999999,
+      "end": 591.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then let's improve our productivity."
+    },
+    {
+      "start": 591.0,
+      "end": 597.88,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so I changed it from man hours to just men, right, to just labor, right?"
+    },
+    {
+      "start": 597.88,
+      "end": 604.88,
+      "speaker": "SPEAKER_00",
+      "text": "And what I can do is I can take that number of hours worked per worker and actually move it over to productivity, couldn't I, right?"
+    },
+    {
+      "start": 604.88,
+      "end": 614.56,
+      "speaker": "SPEAKER_00",
+      "text": "So now our framework is essentially, we can either hire more workers or we can make our workers per worker produce more suits, right?"
+    },
+    {
+      "start": 614.5999999999999,
+      "end": 621.0,
+      "speaker": "SPEAKER_00",
+      "text": "So in order to get more workers, right, you know, we can hire existing skilled workers or train them."
+    },
+    {
+      "start": 621.0,
+      "end": 628.28,
+      "speaker": "SPEAKER_00",
+      "text": "And in order to improve the output per worker, well, we can make our workers inherently better, right?"
+    },
+    {
+      "start": 628.28,
+      "end": 632.92,
+      "speaker": "SPEAKER_00",
+      "text": "We can improve our tools and machines and we can improve our processes."
+    },
+    {
+      "start": 632.92,
+      "end": 637.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And we could have our workers work more hours, right?"
+    },
+    {
+      "start": 637.0799999999999,
+      "end": 643.4,
+      "speaker": "SPEAKER_00",
+      "text": "So that should just move the bucket or sub bucket over into our second level."
+    },
+    {
+      "start": 643.4399999999999,
+      "end": 649.04,
+      "speaker": "SPEAKER_00",
+      "text": "And it's the same thing, it serves the exact same purpose, just the way we've thought about it is different."
+    },
+    {
+      "start": 649.04,
+      "end": 654.6,
+      "speaker": "SPEAKER_00",
+      "text": "So in our first approach, it was increased worker hours, right?"
+    },
+    {
+      "start": 654.6,
+      "end": 661.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And increase or decrease, sorry, the number of hours required per suit."
+    },
+    {
+      "start": 661.4399999999999,
+      "end": 668.96,
+      "speaker": "SPEAKER_00",
+      "text": "And the second approach was increased workers and then essentially decrease the amount of workers required per suit."
+    },
+    {
+      "start": 668.96,
+      "end": 676.64,
+      "speaker": "SPEAKER_00",
+      "text": "So really what we're saying is increase the number of suits made per worker per day or per month, right?"
+    },
+    {
+      "start": 676.64,
+      "end": 679.0,
+      "speaker": "SPEAKER_00",
+      "text": "That's another approach."
+    },
+    {
+      "start": 679.0,
+      "end": 682.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Now we don't necessarily have to be purely mathematical here, right?"
+    },
+    {
+      "start": 682.6800000000001,
+      "end": 686.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We could actually take kind of our second layer and make that our structure."
+    },
+    {
+      "start": 686.9200000000001,
+      "end": 688.64,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so what does this look like?"
+    },
+    {
+      "start": 688.64,
+      "end": 694.72,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we could actually have people, processes and tools, right?"
+    },
+    {
+      "start": 694.72,
+      "end": 701.96,
+      "speaker": "SPEAKER_00",
+      "text": "We could actually say, okay, let's look at our labor and see how we can improve our output via labor."
+    },
+    {
+      "start": 701.96,
+      "end": 707.96,
+      "speaker": "SPEAKER_00",
+      "text": "This means either getting more workers or making the workers better, right?"
+    },
+    {
+      "start": 707.96,
+      "end": 714.08,
+      "speaker": "SPEAKER_00",
+      "text": "Or what we can do is we can improve our machines and our technology and look at ways to both compliment and replace labor"
+    },
+    {
+      "start": 714.08,
+      "end": 716.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "so that we can free up resources and produce more effectively."
+    },
+    {
+      "start": 716.9200000000001,
+      "end": 719.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Or we can streamline our optimizer processes."
+    },
+    {
+      "start": 719.5600000000001,
+      "end": 724.08,
+      "speaker": "SPEAKER_00",
+      "text": "Do you see how now we have a three bucket framework that actually works just the same, right?"
+    },
+    {
+      "start": 724.08,
+      "end": 731.0,
+      "speaker": "SPEAKER_00",
+      "text": "The processes stayed the same, the tools stayed the same, but the labor, I actually just grouped up, right?"
+    },
+    {
+      "start": 731.0,
+      "end": 737.4000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We can either increase the number of workers and worker hours or we can improve their productivity."
+    },
+    {
+      "start": 737.4000000000001,
+      "end": 741.84,
+      "speaker": "SPEAKER_00",
+      "text": "And that can all be within the labor bucket."
+    },
+    {
+      "start": 741.84,
+      "end": 743.88,
+      "speaker": "SPEAKER_00",
+      "text": "Pretty nifty, huh?"
+    },
+    {
+      "start": 743.88,
+      "end": 747.08,
+      "speaker": "SPEAKER_00",
+      "text": "My last point, framework number four."
+    },
+    {
+      "start": 748.08,
+      "end": 752.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "All of what we just discussed could fit in one bucket."
+    },
+    {
+      "start": 752.56,
+      "end": 755.4,
+      "speaker": "SPEAKER_00",
+      "text": "Now, it doesn't matter how you organize it, right?"
+    },
+    {
+      "start": 755.4,
+      "end": 759.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Whether you'd like my first approach, my second approach, and my third approach."
+    },
+    {
+      "start": 760.5999999999999,
+      "end": 767.28,
+      "speaker": "SPEAKER_00",
+      "text": "But however you organize that, that could be categorized under the internal bucket."
+    },
+    {
+      "start": 767.28,
+      "end": 777.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "These are the things we can do internally or organically, you could say, either works to improve our output."
+    },
+    {
+      "start": 778.08,
+      "end": 781.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "If we've exhausted those options or options or if those don't quite work,"
+    },
+    {
+      "start": 781.8000000000001,
+      "end": 785.36,
+      "speaker": "SPEAKER_00",
+      "text": "then our second bucket could be external, right?"
+    },
+    {
+      "start": 785.36,
+      "end": 786.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Can we partner with someone?"
+    },
+    {
+      "start": 786.9200000000001,
+      "end": 787.96,
+      "speaker": "SPEAKER_00",
+      "text": "Can we outsource?"
+    },
+    {
+      "start": 787.96,
+      "end": 789.0,
+      "speaker": "SPEAKER_00",
+      "text": "Can we buy someone?"
+    },
+    {
+      "start": 789.0,
+      "end": 791.08,
+      "speaker": "SPEAKER_00",
+      "text": "Can we hire excess capacity?"
+    },
+    {
+      "start": 791.08,
+      "end": 792.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "What might it be?"
+    },
+    {
+      "start": 792.2800000000001,
+      "end": 793.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Right?"
+    },
+    {
+      "start": 793.2800000000001,
+      "end": 800.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So we have our internal kind of organic solutions or our external inorganic solutions."
+    },
+    {
+      "start": 801.76,
+      "end": 803.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "That's a lot to take in."
+    },
+    {
+      "start": 803.28,
+      "end": 807.64,
+      "speaker": "SPEAKER_00",
+      "text": "I highly recommend you watch this particular section again,"
+    },
+    {
+      "start": 807.64,
+      "end": 813.72,
+      "speaker": "SPEAKER_00",
+      "text": "just to digest the many ways in which we can grab our buckets or our categories."
+    },
+    {
+      "start": 813.72,
+      "end": 819.48,
+      "speaker": "SPEAKER_00",
+      "text": "And actually reorganize them in a way that really allows us to answer our objective"
+    },
+    {
+      "start": 819.48,
+      "end": 823.0,
+      "speaker": "SPEAKER_00",
+      "text": "of how will we increase output?"
+    },
+    {
+      "start": 823.0,
+      "end": 824.48,
+      "speaker": "SPEAKER_00",
+      "text": "Hope you enjoyed."
+    }
+  ],
+  "grading": {
+    "communication": 9,
+    "framework": 10,
+    "math": 12,
+    "case_difficulty": 12,
+    "final_summary": 11,
+    "overall_thoughts": "The framework was well-structured but lacked depth, and the math was a significant struggle."
+  }
+}

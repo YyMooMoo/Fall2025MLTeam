@@ -1,0 +1,2466 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 9.24,
+      "speaker": "SPEAKER_01",
+      "text": "I've got a really good case. Our client is a company called Best Boots and this is an"
+    },
+    {
+      "start": 9.24,
+      "end": 15.200000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "elite K case. So we're going to find a lot of similarities to McKinsey's style, solid"
+    },
+    {
+      "start": 15.200000000000001,
+      "end": 22.16,
+      "speaker": "SPEAKER_01",
+      "text": "math, some really good insights that I'm looking for. But overall a little bit less directed"
+    },
+    {
+      "start": 22.16,
+      "end": 25.2,
+      "speaker": "SPEAKER_01",
+      "text": "by me and a little bit more directed by you. So please make sure you're leading me through"
+    },
+    {
+      "start": 25.2,
+      "end": 26.2,
+      "speaker": "SPEAKER_01",
+      "text": "the case."
+    },
+    {
+      "start": 26.2,
+      "end": 27.2,
+      "speaker": "SPEAKER_01",
+      "text": "Absolutely."
+    },
+    {
+      "start": 27.2,
+      "end": 28.68,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome. If you're ready, you will go for it."
+    },
+    {
+      "start": 28.68,
+      "end": 29.68,
+      "speaker": "SPEAKER_00",
+      "text": "Let's go for it."
+    },
+    {
+      "start": 29.68,
+      "end": 35.4,
+      "speaker": "SPEAKER_01",
+      "text": "Our client is Best Boots, an American footwear company with over a billion dollars in revenue."
+    },
+    {
+      "start": 35.4,
+      "end": 39.96,
+      "speaker": "SPEAKER_01",
+      "text": "The majority of their volume comes from selling boots to various segments of clients. The"
+    },
+    {
+      "start": 39.96,
+      "end": 45.64,
+      "speaker": "SPEAKER_01",
+      "text": "market is mostly comprised of Best Boots and three other competitors. There are different"
+    },
+    {
+      "start": 45.64,
+      "end": 50.64,
+      "speaker": "SPEAKER_01",
+      "text": "types of boots being sold in the market. Work and casual are the most common. There are"
+    },
+    {
+      "start": 50.64,
+      "end": 55.96,
+      "speaker": "SPEAKER_01",
+      "text": "other specialty categories. They're like field boots, hunting boots and winter boots."
+    },
+    {
+      "start": 55.96,
+      "end": 61.32,
+      "speaker": "SPEAKER_01",
+      "text": "Best Boots currently does play across all five segments. A few years ago, one of Best Boots"
+    },
+    {
+      "start": 61.32,
+      "end": 67.68,
+      "speaker": "SPEAKER_01",
+      "text": "competitors, Comfy Shoes, launched a line of very aggressively priced work boots, specifically"
+    },
+    {
+      "start": 67.68,
+      "end": 73.0,
+      "speaker": "SPEAKER_01",
+      "text": "targeting the blue collar segment. The success of Comfy Shoes' new product has caused Best"
+    },
+    {
+      "start": 73.0,
+      "end": 78.48,
+      "speaker": "SPEAKER_01",
+      "text": "Boots management to consider their position in work boots. Specifically, Best Boots Work"
+    },
+    {
+      "start": 78.48,
+      "end": 84.24000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Boots segment has underperformed. Given limited resources, management must decide whether"
+    },
+    {
+      "start": 84.24,
+      "end": 91.24,
+      "speaker": "SPEAKER_01",
+      "text": "to focus on competing with Comfy Shoes or focus their resources on the casual boot segment."
+    },
+    {
+      "start": 91.24,
+      "end": 98.47999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect. Just to make sure I've got all of that information down. It looks like today,"
+    },
+    {
+      "start": 98.47999999999999,
+      "end": 104.36,
+      "speaker": "SPEAKER_00",
+      "text": "our client is Best Boots. They are a footwear manufacturer in America. They generate over"
+    },
+    {
+      "start": 104.36,
+      "end": 110.39999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "a billion dollars of revenue last year, you said. They compete with three other main"
+    },
+    {
+      "start": 110.4,
+      "end": 114.12,
+      "speaker": "SPEAKER_00",
+      "text": "competitors in the market. We can assume there's some other competitors here and there,"
+    },
+    {
+      "start": 114.12,
+      "end": 119.56,
+      "speaker": "SPEAKER_00",
+      "text": "but those are the main four. They make work and casual boots, but they also have a few"
+    },
+    {
+      "start": 119.56,
+      "end": 123.80000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "other specialties. Can I assume that we're just focusing on the work and casual boots today?"
+    },
+    {
+      "start": 123.80000000000001,
+      "end": 128.68,
+      "speaker": "SPEAKER_00",
+      "text": "Yes, that makes sense. Okay. They also compete in all the other five segments. Comfy Shoes,"
+    },
+    {
+      "start": 128.68,
+      "end": 134.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "one of the other three competitors, has launched an aggressively priced boot, competing"
+    },
+    {
+      "start": 134.64000000000001,
+      "end": 137.76,
+      "speaker": "SPEAKER_00",
+      "text": "in the blue collar section in the work boots, correct?"
+    },
+    {
+      "start": 138.76,
+      "end": 143.6,
+      "speaker": "SPEAKER_00",
+      "text": "We want to focus on do we compete with them or do we step back and focus ourselves?"
+    },
+    {
+      "start": 143.6,
+      "end": 144.6,
+      "speaker": "SPEAKER_01",
+      "text": "Exactly."
+    },
+    {
+      "start": 144.6,
+      "end": 150.12,
+      "speaker": "SPEAKER_00",
+      "text": "Great. One other question. Just in terms of the actual scope of this, we are focusing on just"
+    },
+    {
+      "start": 150.12,
+      "end": 154.84,
+      "speaker": "SPEAKER_00",
+      "text": "America. That's exactly right. Great. Well, I'm ready to take a few minutes."
+    },
+    {
+      "start": 154.84,
+      "end": 156.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Go for it."
+    },
+    {
+      "start": 159.32,
+      "end": 165.48,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. I'd love to walk you through my thoughts. The way I've looked at this, I've put it"
+    },
+    {
+      "start": 165.48,
+      "end": 169.95999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "into three buckets. Market, customer and financials. Great."
+    },
+    {
+      "start": 169.95999999999998,
+      "end": 174.56,
+      "speaker": "SPEAKER_00",
+      "text": "I think the most important is probably going to be somewhere between market and customer."
+    },
+    {
+      "start": 174.56,
+      "end": 178.16,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to start with customer just because that's who we're selling to. I think that"
+    },
+    {
+      "start": 178.16,
+      "end": 183.83999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "when it comes to a new dominant player, I like to think of the iPhone coming in, right?"
+    },
+    {
+      "start": 183.83999999999997,
+      "end": 188.51999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "That's a really a big changing thing. If this is an aggressively priced boot and a lot"
+    },
+    {
+      "start": 188.51999999999998,
+      "end": 193.2,
+      "speaker": "SPEAKER_00",
+      "text": "of people are flocking towards it, it'd be really interesting to look at the customer preferences,"
+    },
+    {
+      "start": 193.2,
+      "end": 197.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "maybe the price sensitivity and other factors that might influence their behavior in terms"
+    },
+    {
+      "start": 197.79999999999998,
+      "end": 202.35999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "of whether they would buy us or the competitors products."
+    },
+    {
+      "start": 202.35999999999999,
+      "end": 206.76,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of the market, I think it's one just looking at macroeconomic trends. If people"
+    },
+    {
+      "start": 206.76,
+      "end": 213.12,
+      "speaker": "SPEAKER_00",
+      "text": "are on average starting to buy more work boots or buy less work boots or maybe buy more"
+    },
+    {
+      "start": 213.12,
+      "end": 220.07999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "casual boots or something like that. Also looking at the competitors. If comfy boots or"
+    },
+    {
+      "start": 220.08,
+      "end": 225.12,
+      "speaker": "SPEAKER_00",
+      "text": "comfy shoes is launching an aggressively priced boot, we're not the only company looking"
+    },
+    {
+      "start": 225.12,
+      "end": 228.8,
+      "speaker": "SPEAKER_00",
+      "text": "at that. There's other companies and maybe they're going to join in too. All of a sudden,"
+    },
+    {
+      "start": 228.8,
+      "end": 233.36,
+      "speaker": "SPEAKER_00",
+      "text": "it's going to be a bloodbath of all different competitors. Also looking at innovation, is"
+    },
+    {
+      "start": 233.36,
+      "end": 237.0,
+      "speaker": "SPEAKER_00",
+      "text": "there something that comfy shoes is doing that we're not so that we can do that they're"
+    },
+    {
+      "start": 237.0,
+      "end": 238.0,
+      "speaker": "SPEAKER_00",
+      "text": "not?"
+    },
+    {
+      "start": 238.0,
+      "end": 243.04000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Both of those play into how can we win? Are we playing this market just to compete or are"
+    },
+    {
+      "start": 243.04000000000002,
+      "end": 245.20000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "we playing to win and the strategy behind that?"
+    },
+    {
+      "start": 245.20000000000002,
+      "end": 249.68,
+      "speaker": "SPEAKER_00",
+      "text": "Unless they're financials. The cost of pursuing this, I'm assuming I'm going to have to invest"
+    },
+    {
+      "start": 249.68,
+      "end": 254.56,
+      "speaker": "SPEAKER_00",
+      "text": "a little bit more money. Maybe we have to, if there's a new machinery, the cost of"
+    },
+    {
+      "start": 254.56,
+      "end": 258.96,
+      "speaker": "SPEAKER_00",
+      "text": "we leave it. Perhaps if we leave them and they dominate in the work boots and we lose"
+    },
+    {
+      "start": 258.96,
+      "end": 264.08,
+      "speaker": "SPEAKER_00",
+      "text": "market share there, maybe they start coming after casual boots. That's one thing to consider."
+    },
+    {
+      "start": 264.08,
+      "end": 269.6,
+      "speaker": "SPEAKER_00",
+      "text": "And then last, just the cost of distributing and the marketing efforts of either of these options."
+    },
+    {
+      "start": 269.6,
+      "end": 270.6,
+      "speaker": "SPEAKER_00",
+      "text": "Fantastic."
+    },
+    {
+      "start": 270.6,
+      "end": 273.2,
+      "speaker": "SPEAKER_00",
+      "text": "I know that you want me to take the lead on this."
+    },
+    {
+      "start": 273.2,
+      "end": 274.2,
+      "speaker": "SPEAKER_00",
+      "text": "Sure."
+    },
+    {
+      "start": 274.2,
+      "end": 277.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Let's go ahead and let's maybe dive into customer. We have any information there in terms"
+    },
+    {
+      "start": 277.84,
+      "end": 282.4,
+      "speaker": "SPEAKER_00",
+      "text": "of customer preferences and if not unhappy to jump into the market."
+    },
+    {
+      "start": 282.4,
+      "end": 287.44,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome. I like that you want to look at the customer and I think we are going to get a chance"
+    },
+    {
+      "start": 287.44,
+      "end": 289.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "to take a look at the customer."
+    },
+    {
+      "start": 289.03999999999996,
+      "end": 292.64,
+      "speaker": "SPEAKER_01",
+      "text": "I actually have some exhibits that include both interestingly."
+    },
+    {
+      "start": 292.64,
+      "end": 293.64,
+      "speaker": "SPEAKER_00",
+      "text": "That's even better."
+    },
+    {
+      "start": 293.64,
+      "end": 296.55999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "I know. Everything you ever hoped for more."
+    },
+    {
+      "start": 296.55999999999995,
+      "end": 301.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to give you both of these exhibits. What I'd love first is for you to tell me"
+    },
+    {
+      "start": 301.03999999999996,
+      "end": 304.55999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "what you're going to do and then I'd love for you to walk through the details of."
+    },
+    {
+      "start": 304.55999999999995,
+      "end": 305.55999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "Can I?"
+    },
+    {
+      "start": 305.56,
+      "end": 306.56,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 306.56,
+      "end": 307.56,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 307.56,
+      "end": 316.08,
+      "speaker": "SPEAKER_00",
+      "text": "So let's start with exhibit one. This looks like it's a breakdown of blue collar, white"
+    },
+    {
+      "start": 316.08,
+      "end": 317.08,
+      "speaker": "SPEAKER_00",
+      "text": "collar and students."
+    },
+    {
+      "start": 317.08,
+      "end": 320.96,
+      "speaker": "SPEAKER_00",
+      "text": "So they must be the three main demographics that we're concerned with and we're looking"
+    },
+    {
+      "start": 320.96,
+      "end": 327.4,
+      "speaker": "SPEAKER_00",
+      "text": "at basically the frequency, the price they're paying and the total address of the market."
+    },
+    {
+      "start": 327.4,
+      "end": 332.08,
+      "speaker": "SPEAKER_00",
+      "text": "In terms, before we move on to exhibit two and look at that, I just want to make sure"
+    },
+    {
+      "start": 332.08,
+      "end": 337.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "that top row of percentage that bought work boots, are we talking out of the address"
+    },
+    {
+      "start": 337.03999999999996,
+      "end": 338.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "of our market?"
+    },
+    {
+      "start": 338.03999999999996,
+      "end": 340.68,
+      "speaker": "SPEAKER_00",
+      "text": "How many people we actually buy work boots?"
+    },
+    {
+      "start": 340.68,
+      "end": 344.0,
+      "speaker": "SPEAKER_00",
+      "text": "What is the, because I noticed it also adds up to a hundred."
+    },
+    {
+      "start": 344.0,
+      "end": 347.88,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm wondering, is that just the percentage of our customers or the market?"
+    },
+    {
+      "start": 347.88,
+      "end": 350.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. So we're looking at a market view here."
+    },
+    {
+      "start": 350.32,
+      "end": 351.64,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Great."
+    },
+    {
+      "start": 351.64,
+      "end": 353.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And then exhibit two."
+    },
+    {
+      "start": 353.15999999999997,
+      "end": 357.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "We're looking at the average number of pairs of work boots, born in yet and also casual"
+    },
+    {
+      "start": 357.03999999999996,
+      "end": 358.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "boots."
+    },
+    {
+      "start": 358.03999999999996,
+      "end": 361.32,
+      "speaker": "SPEAKER_00",
+      "text": "So just kind of the frequency there in terms of if they purchase, how many they actually"
+    },
+    {
+      "start": 361.32,
+      "end": 362.32,
+      "speaker": "SPEAKER_00",
+      "text": "purchase?"
+    },
+    {
+      "start": 362.32,
+      "end": 363.32,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect."
+    },
+    {
+      "start": 363.32,
+      "end": 364.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 364.32,
+      "end": 367.28,
+      "speaker": "SPEAKER_00",
+      "text": "So in terms of what I'd want to do with this information, it would be really interesting"
+    },
+    {
+      "start": 367.28,
+      "end": 370.68,
+      "speaker": "SPEAKER_00",
+      "text": "to maybe just actually size the market in dollars."
+    },
+    {
+      "start": 370.68,
+      "end": 375.92,
+      "speaker": "SPEAKER_00",
+      "text": "So looking at the addressable market, multiplied by the percentage that would buy work boots"
+    },
+    {
+      "start": 375.92,
+      "end": 380.76,
+      "speaker": "SPEAKER_00",
+      "text": "and casual boots, we can break it down into work boots and then to casual boots."
+    },
+    {
+      "start": 380.76,
+      "end": 384.36,
+      "speaker": "SPEAKER_00",
+      "text": "And then the subcategories within it are blue collar, white collar and student."
+    },
+    {
+      "start": 384.36,
+      "end": 388.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And then multiplying those as well as the price that they're paying, as well as not"
+    },
+    {
+      "start": 388.72,
+      "end": 391.48,
+      "speaker": "SPEAKER_00",
+      "text": "forgetting to include down here, how many are actually paying?"
+    },
+    {
+      "start": 391.48,
+      "end": 394.56,
+      "speaker": "SPEAKER_00",
+      "text": "For most of them, it looks like it's one, but for blue collar, we just got to remember"
+    },
+    {
+      "start": 394.56,
+      "end": 395.56,
+      "speaker": "SPEAKER_00",
+      "text": "to double that number."
+    },
+    {
+      "start": 395.56,
+      "end": 396.56,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect."
+    },
+    {
+      "start": 396.56,
+      "end": 397.56,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 397.56,
+      "end": 399.32000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to dive into the method of it."
+    },
+    {
+      "start": 399.32000000000005,
+      "end": 400.32000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 400.32000000000005,
+      "end": 403.76000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Before you do that, what do you think we're going to find?"
+    },
+    {
+      "start": 403.76000000000005,
+      "end": 408.20000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Just tell me the gut sense when you look at these numbers at their base before we do any"
+    },
+    {
+      "start": 408.20000000000005,
+      "end": 409.20000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "calculations."
+    },
+    {
+      "start": 409.20000000000005,
+      "end": 416.92,
+      "speaker": "SPEAKER_00",
+      "text": "Blue collar and work boots look like they're going to be not only costing more, but they"
+    },
+    {
+      "start": 416.92,
+      "end": 418.88,
+      "speaker": "SPEAKER_00",
+      "text": "look like there's going to be more quants to do that."
+    },
+    {
+      "start": 418.88,
+      "end": 425.04,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm imagining the market size for blue collar work boots is going to be bigger than most"
+    },
+    {
+      "start": 425.04,
+      "end": 426.44,
+      "speaker": "SPEAKER_00",
+      "text": "of the other markets."
+    },
+    {
+      "start": 426.44,
+      "end": 432.68,
+      "speaker": "SPEAKER_00",
+      "text": "And I would even maybe extrapolate that to the work or to the market size for just work boots"
+    },
+    {
+      "start": 432.68,
+      "end": 433.92,
+      "speaker": "SPEAKER_00",
+      "text": "is bigger than casual boots."
+    },
+    {
+      "start": 433.92,
+      "end": 434.92,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 434.92,
+      "end": 436.32,
+      "speaker": "SPEAKER_00",
+      "text": "But I'm excited to dive into this and just."
+    },
+    {
+      "start": 436.32,
+      "end": 440.04,
+      "speaker": "SPEAKER_01",
+      "text": "So the way that we really want to think about this is the work boot market versus the"
+    },
+    {
+      "start": 440.04,
+      "end": 443.68,
+      "speaker": "SPEAKER_01",
+      "text": "casual boot market broken down by the different users."
+    },
+    {
+      "start": 443.68,
+      "end": 446.48,
+      "speaker": "SPEAKER_01",
+      "text": "So you can do the calculations and set them up that way that would be helpful."
+    },
+    {
+      "start": 446.64000000000004,
+      "end": 447.48,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 447.48,
+      "end": 448.48,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 448.48,
+      "end": 450.76,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to start with the work boots because in my opinion, that's going to be more"
+    },
+    {
+      "start": 450.76,
+      "end": 451.76,
+      "speaker": "SPEAKER_00",
+      "text": "prevalent."
+    },
+    {
+      "start": 451.76,
+      "end": 454.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Then we can go into supporting data with the casual."
+    },
+    {
+      "start": 454.52000000000004,
+      "end": 455.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Go ahead."
+    },
+    {
+      "start": 455.52000000000004,
+      "end": 466.32,
+      "speaker": "SPEAKER_00",
+      "text": "So for the work boot market, I'd like to segment it into blue collar, white collar and student."
+    },
+    {
+      "start": 466.32,
+      "end": 472.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "And we know here that the total addressable market for blue collar is 10 million."
+    },
+    {
+      "start": 472.84,
+      "end": 479.56,
+      "speaker": "SPEAKER_00",
+      "text": "The total addressable market for white collar is 12 million and students."
+    },
+    {
+      "start": 479.56,
+      "end": 483.76,
+      "speaker": "SPEAKER_00",
+      "text": "We also know now that we've got the total addressable market, we know what percentage of them"
+    },
+    {
+      "start": 483.76,
+      "end": 486.08,
+      "speaker": "SPEAKER_00",
+      "text": "are actually going to buy work boots."
+    },
+    {
+      "start": 486.08,
+      "end": 491.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "So for blue collar, it's 60 percent for white collar, it's 25 percent."
+    },
+    {
+      "start": 491.71999999999997,
+      "end": 495.35999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "And for student, it's 15 percent."
+    },
+    {
+      "start": 495.35999999999996,
+      "end": 498.55999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "And so once we know of the total market, how many people are buying it?"
+    },
+    {
+      "start": 498.55999999999995,
+      "end": 501.79999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "Now we need to know how much that's actually going to pay for a work boot."
+    },
+    {
+      "start": 501.8,
+      "end": 502.8,
+      "speaker": "SPEAKER_00",
+      "text": "So that's great."
+    },
+    {
+      "start": 502.8,
+      "end": 505.72,
+      "speaker": "SPEAKER_00",
+      "text": "Here we've got $140."
+    },
+    {
+      "start": 505.72,
+      "end": 507.72,
+      "speaker": "SPEAKER_00",
+      "text": "Here we have $130."
+    },
+    {
+      "start": 507.72,
+      "end": 512.28,
+      "speaker": "SPEAKER_00",
+      "text": "And here we have $110."
+    },
+    {
+      "start": 512.28,
+      "end": 518.64,
+      "speaker": "SPEAKER_00",
+      "text": "Once we've got those information, we just need to remember to include in the exhibit"
+    },
+    {
+      "start": 518.64,
+      "end": 520.52,
+      "speaker": "SPEAKER_00",
+      "text": "too, how many they're buying."
+    },
+    {
+      "start": 520.52,
+      "end": 525.12,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to do this market size in one year, timeline if that's okay."
+    },
+    {
+      "start": 525.12,
+      "end": 526.12,
+      "speaker": "SPEAKER_00",
+      "text": "Absolutely."
+    },
+    {
+      "start": 526.12,
+      "end": 527.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 527.12,
+      "end": 528.12,
+      "speaker": "SPEAKER_00",
+      "text": "So for blue collar, it's going to be two."
+    },
+    {
+      "start": 528.12,
+      "end": 529.92,
+      "speaker": "SPEAKER_00",
+      "text": "And the other is it's going to be one."
+    },
+    {
+      "start": 529.92,
+      "end": 534.88,
+      "speaker": "SPEAKER_00",
+      "text": "So now I'm just going to chain, multiply all of them and then get our answer for that."
+    },
+    {
+      "start": 534.88,
+      "end": 539.28,
+      "speaker": "SPEAKER_00",
+      "text": "And then we can go ahead and add it up in the bottom for our total market."
+    },
+    {
+      "start": 539.28,
+      "end": 544.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So in terms of blue collar work boots, we have 10 million, 60 percent of them are going"
+    },
+    {
+      "start": 544.4399999999999,
+      "end": 545.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "to buy work boots."
+    },
+    {
+      "start": 545.4399999999999,
+      "end": 547.52,
+      "speaker": "SPEAKER_00",
+      "text": "So that's 6 million."
+    },
+    {
+      "start": 547.52,
+      "end": 550.56,
+      "speaker": "SPEAKER_00",
+      "text": "We also know that they're going to pay $140."
+    },
+    {
+      "start": 550.56,
+      "end": 556.8,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm just going to come down here and do 140 multiplied by 6 million."
+    },
+    {
+      "start": 556.8,
+      "end": 562.56,
+      "speaker": "SPEAKER_00",
+      "text": "So we know that 100 by 6 million would be 600 million and then 40 by 6 million would"
+    },
+    {
+      "start": 562.56,
+      "end": 567.3599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "be four times six, which is 24."
+    },
+    {
+      "start": 567.3599999999999,
+      "end": 569.64,
+      "speaker": "SPEAKER_00",
+      "text": "So 240 million."
+    },
+    {
+      "start": 569.64,
+      "end": 573.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "It's going to be 840 million."
+    },
+    {
+      "start": 573.3199999999999,
+      "end": 575.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "But we have to remember that they're going to buy two."
+    },
+    {
+      "start": 575.3199999999999,
+      "end": 579.4,
+      "speaker": "SPEAKER_00",
+      "text": "So we're doubling that for 1.68 million."
+    },
+    {
+      "start": 579.4,
+      "end": 580.4,
+      "speaker": "UNKNOWN",
+      "text": "Million?"
+    },
+    {
+      "start": 580.4,
+      "end": 582.4,
+      "speaker": "SPEAKER_00",
+      "text": "Billion, sorry."
+    },
+    {
+      "start": 582.4,
+      "end": 583.4,
+      "speaker": "SPEAKER_01",
+      "text": "There we go."
+    },
+    {
+      "start": 583.4,
+      "end": 584.4,
+      "speaker": "SPEAKER_00",
+      "text": "Good catch."
+    },
+    {
+      "start": 585.4,
+      "end": 590.4,
+      "speaker": "SPEAKER_00",
+      "text": "For white collar, we've got 12 million multiplied by 25 percent or half of 12 million and 6"
+    },
+    {
+      "start": 590.4,
+      "end": 592.16,
+      "speaker": "SPEAKER_00",
+      "text": "million, half of that's 3 million."
+    },
+    {
+      "start": 592.16,
+      "end": 594.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So we've got 3 million people actually buying."
+    },
+    {
+      "start": 594.9599999999999,
+      "end": 597.48,
+      "speaker": "SPEAKER_00",
+      "text": "They're all going to pay $130."
+    },
+    {
+      "start": 597.48,
+      "end": 605.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So that's going to be $390 million and they are they're just going to buy one."
+    },
+    {
+      "start": 605.3199999999999,
+      "end": 607.04,
+      "speaker": "SPEAKER_00",
+      "text": "So we have 390 million."
+    },
+    {
+      "start": 607.04,
+      "end": 610.56,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we look at students."
+    },
+    {
+      "start": 610.56,
+      "end": 614.76,
+      "speaker": "SPEAKER_00",
+      "text": "We have 7 million and only 15 percent of them are going to buy work boots."
+    },
+    {
+      "start": 614.76,
+      "end": 619.88,
+      "speaker": "SPEAKER_00",
+      "text": "So 7 million multiplied by 15 percent."
+    },
+    {
+      "start": 619.88,
+      "end": 631.5999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "That's going to be 700,000 plus 350,000 for total of 1.05, 1.05 million people."
+    },
+    {
+      "start": 631.5999999999999,
+      "end": 634.3599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Now they're going to spend $110."
+    },
+    {
+      "start": 634.3599999999999,
+      "end": 636.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So they would spend $100."
+    },
+    {
+      "start": 636.2,
+      "end": 643.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "It would be $10.5 million and it would spend the, it would spend, sorry, it would spend"
+    },
+    {
+      "start": 643.6800000000001,
+      "end": 644.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "the $100."
+    },
+    {
+      "start": 644.6800000000001,
+      "end": 647.12,
+      "speaker": "SPEAKER_00",
+      "text": "It would be 105 million."
+    },
+    {
+      "start": 647.12,
+      "end": 654.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So we can add those two numbers up to 115.5 million."
+    },
+    {
+      "start": 654.5600000000001,
+      "end": 659.6,
+      "speaker": "SPEAKER_00",
+      "text": "And before we add up the numbers, I've already noticed that as we predicted, blue collar"
+    },
+    {
+      "start": 659.6,
+      "end": 664.84,
+      "speaker": "SPEAKER_00",
+      "text": "work boots are by far the dominating factor, at least in the work bit market."
+    },
+    {
+      "start": 664.84,
+      "end": 678.4,
+      "speaker": "SPEAKER_00",
+      "text": "So going up to add those up, we have 1.68 billion plus 0.39 billion plus 0.115 billion."
+    },
+    {
+      "start": 678.4,
+      "end": 682.44,
+      "speaker": "SPEAKER_00",
+      "text": "So I know those up."
+    },
+    {
+      "start": 682.44,
+      "end": 691.0,
+      "speaker": "SPEAKER_00",
+      "text": "We have 2.185 billion."
+    },
+    {
+      "start": 691.0,
+      "end": 696.48,
+      "speaker": "SPEAKER_00",
+      "text": "So now that we've got that, let's go ahead and let's move on to the casual boots."
+    },
+    {
+      "start": 696.48,
+      "end": 699.76,
+      "speaker": "SPEAKER_00",
+      "text": "That's good."
+    },
+    {
+      "start": 699.76,
+      "end": 707.48,
+      "speaker": "SPEAKER_00",
+      "text": "So in this we have the same breakdown of blue collar, white collar, student."
+    },
+    {
+      "start": 707.48,
+      "end": 711.48,
+      "speaker": "SPEAKER_00",
+      "text": "We know that the addressable market is the same."
+    },
+    {
+      "start": 711.48,
+      "end": 717.44,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to make sure I've got this one right now."
+    },
+    {
+      "start": 717.44,
+      "end": 721.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And then now when it goes to the actual percentage that bought boots, it's a little bit lower"
+    },
+    {
+      "start": 721.9200000000001,
+      "end": 722.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "in this market."
+    },
+    {
+      "start": 722.9200000000001,
+      "end": 724.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So we have 20% for blue collar."
+    },
+    {
+      "start": 724.9200000000001,
+      "end": 728.7600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We have 35% for white collar."
+    },
+    {
+      "start": 728.7600000000001,
+      "end": 732.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "But we do have 55% for students."
+    },
+    {
+      "start": 732.6800000000001,
+      "end": 737.48,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of how much they're going to pay, it's going to be 120 for blue collar."
+    },
+    {
+      "start": 737.48,
+      "end": 744.24,
+      "speaker": "SPEAKER_00",
+      "text": "It's going to be 110 for white collar and it's going to be 100 for students."
+    },
+    {
+      "start": 744.24,
+      "end": 746.96,
+      "speaker": "SPEAKER_00",
+      "text": "So now we also know that the frequency on here is just one."
+    },
+    {
+      "start": 746.96,
+      "end": 750.96,
+      "speaker": "SPEAKER_00",
+      "text": "I'm just going to leave that out because it's not going to affect it."
+    },
+    {
+      "start": 750.96,
+      "end": 754.0,
+      "speaker": "SPEAKER_00",
+      "text": "Then now let's just go ahead and add it up again."
+    },
+    {
+      "start": 754.0,
+      "end": 761.0,
+      "speaker": "SPEAKER_00",
+      "text": "So 10 million blue collar, people multiply by 20% is 2 million."
+    },
+    {
+      "start": 761.0,
+      "end": 771.92,
+      "speaker": "SPEAKER_00",
+      "text": "2 million multiplied by the 120 dollars is 240 million."
+    },
+    {
+      "start": 771.92,
+      "end": 774.64,
+      "speaker": "SPEAKER_00",
+      "text": "But it comes to the white collar."
+    },
+    {
+      "start": 774.64,
+      "end": 779.36,
+      "speaker": "SPEAKER_00",
+      "text": "We have 12 million multiplied by 35%."
+    },
+    {
+      "start": 779.36,
+      "end": 788.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So if we do 10%, that would be 1.2 million multiplied by 3 is 3.6 million plus the 5% which"
+    },
+    {
+      "start": 788.4399999999999,
+      "end": 792.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "is 0.6 million for 4.2 million."
+    },
+    {
+      "start": 792.9599999999999,
+      "end": 796.36,
+      "speaker": "SPEAKER_00",
+      "text": "We have 4.2 million people spending 110 dollars."
+    },
+    {
+      "start": 796.36,
+      "end": 804.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So 4.2 million multiplied by 10 is 42 million and then also 420 million for the multiply"
+    },
+    {
+      "start": 804.8000000000001,
+      "end": 811.88,
+      "speaker": "SPEAKER_00",
+      "text": "by 100 for 462 million."
+    },
+    {
+      "start": 811.88,
+      "end": 812.96,
+      "speaker": "SPEAKER_00",
+      "text": "So now we have our students."
+    },
+    {
+      "start": 812.96,
+      "end": 813.96,
+      "speaker": "SPEAKER_00",
+      "text": "That's going to be 7 million."
+    },
+    {
+      "start": 813.96,
+      "end": 817.2,
+      "speaker": "SPEAKER_00",
+      "text": "That's going to be by 55%."
+    },
+    {
+      "start": 817.2,
+      "end": 822.84,
+      "speaker": "SPEAKER_00",
+      "text": "So 50% of 7 million is 700,000."
+    },
+    {
+      "start": 822.84,
+      "end": 828.24,
+      "speaker": "SPEAKER_00",
+      "text": "We also actually did this calculation earlier and it was 1.05 million."
+    },
+    {
+      "start": 828.24,
+      "end": 832.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm just going to cut it out there."
+    },
+    {
+      "start": 832.2800000000001,
+      "end": 837.24,
+      "speaker": "SPEAKER_00",
+      "text": "And once we have our 1.05 million, we need to multiply that by 100 and that is super easy."
+    },
+    {
+      "start": 837.24,
+      "end": 841.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So 1.05 million is 55%."
+    },
+    {
+      "start": 841.0400000000001,
+      "end": 842.48,
+      "speaker": "SPEAKER_00",
+      "text": "That's actually completely wrong."
+    },
+    {
+      "start": 842.48,
+      "end": 843.48,
+      "speaker": "SPEAKER_00",
+      "text": "Thank you."
+    },
+    {
+      "start": 843.48,
+      "end": 845.44,
+      "speaker": "SPEAKER_00",
+      "text": "Sorry, I did 10% on that."
+    },
+    {
+      "start": 845.44,
+      "end": 846.44,
+      "speaker": "SPEAKER_00",
+      "text": "So good job."
+    },
+    {
+      "start": 846.44,
+      "end": 848.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I didn't cut out the calculation."
+    },
+    {
+      "start": 848.92,
+      "end": 855.16,
+      "speaker": "SPEAKER_00",
+      "text": "So half of 7 million is 3.5 million and then we're also going to take 10% of that number"
+    },
+    {
+      "start": 855.16,
+      "end": 859.28,
+      "speaker": "SPEAKER_00",
+      "text": "which is 0.35 million for 3.85 million."
+    },
+    {
+      "start": 859.28,
+      "end": 862.52,
+      "speaker": "SPEAKER_02",
+      "text": "Makes more sense."
+    },
+    {
+      "start": 862.52,
+      "end": 868.36,
+      "speaker": "SPEAKER_00",
+      "text": "And then we multiply that by 100 for 385 million."
+    },
+    {
+      "start": 868.36,
+      "end": 872.4,
+      "speaker": "SPEAKER_00",
+      "text": "Now again, before we do, before we add them up, do the same thing we did last time."
+    },
+    {
+      "start": 872.4,
+      "end": 875.52,
+      "speaker": "SPEAKER_00",
+      "text": "It's actually the white collar."
+    },
+    {
+      "start": 875.52,
+      "end": 879.12,
+      "speaker": "SPEAKER_00",
+      "text": "We have a lot of the market segment that's making the most revenue here."
+    },
+    {
+      "start": 879.12,
+      "end": 880.92,
+      "speaker": "SPEAKER_00",
+      "text": "But they're all pretty similar."
+    },
+    {
+      "start": 880.92,
+      "end": 885.12,
+      "speaker": "SPEAKER_00",
+      "text": "But they are also, they're all a little bit lower, other than the student's work."
+    },
+    {
+      "start": 885.12,
+      "end": 886.12,
+      "speaker": "SPEAKER_00",
+      "text": "Which makes sense."
+    },
+    {
+      "start": 886.12,
+      "end": 889.12,
+      "speaker": "SPEAKER_00",
+      "text": "You're not having a lot of students in clunky work."
+    },
+    {
+      "start": 889.12,
+      "end": 890.52,
+      "speaker": "SPEAKER_00",
+      "text": "Let's go ahead and add these up."
+    },
+    {
+      "start": 890.52,
+      "end": 893.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "We have 240 million."
+    },
+    {
+      "start": 893.3199999999999,
+      "end": 896.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "We have 462 million."
+    },
+    {
+      "start": 896.3199999999999,
+      "end": 899.72,
+      "speaker": "SPEAKER_00",
+      "text": "We have 385 million."
+    },
+    {
+      "start": 899.72,
+      "end": 902.72,
+      "speaker": "SPEAKER_00",
+      "text": "And if we add those up, we have..."
+    },
+    {
+      "start": 905.52,
+      "end": 913.72,
+      "speaker": "SPEAKER_00",
+      "text": "We have 1.087 billion."
+    },
+    {
+      "start": 913.72,
+      "end": 916.72,
+      "speaker": "SPEAKER_00",
+      "text": "So pretty much exactly as predicted."
+    },
+    {
+      "start": 916.72,
+      "end": 924.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "The workboot segment of the market is almost double the casual market."
+    },
+    {
+      "start": 924.3199999999999,
+      "end": 930.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And really in particular, the blue collar segment of the workboots market"
+    },
+    {
+      "start": 930.3199999999999,
+      "end": 932.92,
+      "speaker": "SPEAKER_00",
+      "text": "is going to be the most prevalent."
+    },
+    {
+      "start": 932.92,
+      "end": 936.12,
+      "speaker": "SPEAKER_00",
+      "text": "And I know that just tying it back to the beginning here, I know comfy shoes"
+    },
+    {
+      "start": 936.12,
+      "end": 941.92,
+      "speaker": "SPEAKER_00",
+      "text": "is actually targeting the blue collar workboots with an aggressively price shoe."
+    },
+    {
+      "start": 941.92,
+      "end": 942.92,
+      "speaker": "SPEAKER_00",
+      "text": "So that makes sense."
+    },
+    {
+      "start": 942.92,
+      "end": 946.12,
+      "speaker": "SPEAKER_00",
+      "text": "They're really trying to get a piece of that pie."
+    },
+    {
+      "start": 946.12,
+      "end": 952.12,
+      "speaker": "SPEAKER_00",
+      "text": "Moving on from this, it'd be interesting to maybe know a little bit about our distribution channels"
+    },
+    {
+      "start": 952.12,
+      "end": 953.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "or how we could compete with them."
+    },
+    {
+      "start": 953.7199999999999,
+      "end": 954.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I'd love to..."
+    },
+    {
+      "start": 954.7199999999999,
+      "end": 958.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "If we did have information in terms of who we actually selling to in blue collars."
+    },
+    {
+      "start": 958.72,
+      "end": 963.72,
+      "speaker": "SPEAKER_00",
+      "text": "Is it just to... Is it business to customer or is it B2B versus what are they doing as well?"
+    },
+    {
+      "start": 963.72,
+      "end": 965.12,
+      "speaker": "SPEAKER_01",
+      "text": "Let me ask you one question here."
+    },
+    {
+      "start": 965.12,
+      "end": 967.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "It's not related specifically to where we're going."
+    },
+    {
+      "start": 967.9200000000001,
+      "end": 969.32,
+      "speaker": "SPEAKER_01",
+      "text": "But how do we get here?"
+    },
+    {
+      "start": 969.32,
+      "end": 973.12,
+      "speaker": "SPEAKER_01",
+      "text": "How do we not focus on the workboots market?"
+    },
+    {
+      "start": 973.12,
+      "end": 976.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "What do you think would have happened here to kind of get us to where we are?"
+    },
+    {
+      "start": 976.9200000000001,
+      "end": 980.32,
+      "speaker": "SPEAKER_01",
+      "text": "Just sometimes it's important to understand that before we move on to where we should go."
+    },
+    {
+      "start": 980.32,
+      "end": 984.32,
+      "speaker": "SPEAKER_00",
+      "text": "I think a big thing that's possible here is changing and consumer preferences"
+    },
+    {
+      "start": 984.32,
+      "end": 985.72,
+      "speaker": "SPEAKER_00",
+      "text": "or in terms of market trends."
+    },
+    {
+      "start": 985.72,
+      "end": 992.12,
+      "speaker": "SPEAKER_00",
+      "text": "If casual workboots were maybe up and coming a few years ago, we'd really dove into that."
+    },
+    {
+      "start": 992.12,
+      "end": 995.32,
+      "speaker": "SPEAKER_00",
+      "text": "We might have just neglected to look at the workboot market."
+    },
+    {
+      "start": 995.32,
+      "end": 1000.32,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe we haven't been paying attention to our customers as much or our competitors."
+    },
+    {
+      "start": 1000.32,
+      "end": 1006.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so I think the biggest thing that would come to my mind would be just a massive uptrend in this."
+    },
+    {
+      "start": 1006.9200000000001,
+      "end": 1009.32,
+      "speaker": "SPEAKER_00",
+      "text": "Or maybe the price has just increased as well."
+    },
+    {
+      "start": 1009.32,
+      "end": 1014.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so what was once a not very attractive market has now become really attractive."
+    },
+    {
+      "start": 1015.3199999999999,
+      "end": 1019.4799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So now we need to really understand how best boots is falling behind"
+    },
+    {
+      "start": 1019.4799999999999,
+      "end": 1021.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "the computer issues in the workboot segment."
+    },
+    {
+      "start": 1021.3199999999999,
+      "end": 1027.32,
+      "speaker": "SPEAKER_01",
+      "text": "And you kind of developed a couple of ideas of why that could be the case, how we could have missed it."
+    },
+    {
+      "start": 1027.32,
+      "end": 1032.12,
+      "speaker": "SPEAKER_01",
+      "text": "I also have an exhibit to kind of add to what you were just talking about."
+    },
+    {
+      "start": 1032.12,
+      "end": 1036.12,
+      "speaker": "SPEAKER_01",
+      "text": "At the end of this exhibit, I'd really like for you to give me a summary of some of your different ideas"
+    },
+    {
+      "start": 1036.12,
+      "end": 1037.72,
+      "speaker": "SPEAKER_01",
+      "text": "including what you can see here."
+    },
+    {
+      "start": 1037.72,
+      "end": 1038.72,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, okay."
+    },
+    {
+      "start": 1038.72,
+      "end": 1044.72,
+      "speaker": "SPEAKER_00",
+      "text": "So looking at this, it looks like, oh it's Poets, it's exactly what I wanted."
+    },
+    {
+      "start": 1045.1200000000001,
+      "end": 1051.52,
+      "speaker": "SPEAKER_00",
+      "text": "It's a breakdown in terms of where we're actually selling our boots, also where comefish is the sign mass."
+    },
+    {
+      "start": 1051.52,
+      "end": 1057.92,
+      "speaker": "SPEAKER_00",
+      "text": "And the first thing I'm noticing is we don't sell to employ a bought or assigned at all."
+    },
+    {
+      "start": 1057.92,
+      "end": 1062.92,
+      "speaker": "SPEAKER_00",
+      "text": "But comefish shows makes up 40% of their sales in that category."
+    },
+    {
+      "start": 1062.92,
+      "end": 1068.72,
+      "speaker": "SPEAKER_00",
+      "text": "So am I right to assume that that's something like if you're working at a construction site or a fast food restaurant"
+    },
+    {
+      "start": 1068.72,
+      "end": 1074.32,
+      "speaker": "SPEAKER_00",
+      "text": "and they require you to wear boots, they maybe have a contract or some sort of handshake agreement with comefish is saying"
+    },
+    {
+      "start": 1074.32,
+      "end": 1076.12,
+      "speaker": "SPEAKER_00",
+      "text": "we're going to supply them with your boots."
+    },
+    {
+      "start": 1076.12,
+      "end": 1077.12,
+      "speaker": "SPEAKER_01",
+      "text": "Exactly."
+    },
+    {
+      "start": 1077.12,
+      "end": 1078.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1078.12,
+      "end": 1079.12,
+      "speaker": "SPEAKER_00",
+      "text": "And that makes sense, right?"
+    },
+    {
+      "start": 1079.12,
+      "end": 1082.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "In a work boots environment, that would be the first thing I would go."
+    },
+    {
+      "start": 1082.9199999999998,
+      "end": 1087.12,
+      "speaker": "SPEAKER_00",
+      "text": "You're not going to go and prove the shopping catalog with some nice looking work boots."
+    },
+    {
+      "start": 1087.12,
+      "end": 1089.12,
+      "speaker": "SPEAKER_00",
+      "text": "You're going to get what does the job."
+    },
+    {
+      "start": 1091.12,
+      "end": 1096.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, we do sell some in general, few stores and athletic stores and also discount stores."
+    },
+    {
+      "start": 1096.9199999999998,
+      "end": 1103.72,
+      "speaker": "SPEAKER_00",
+      "text": "But again, I think I imagine that 40% of their sales is by dollars or units to me now."
+    },
+    {
+      "start": 1103.72,
+      "end": 1107.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "This one is the percentage of total units sales."
+    },
+    {
+      "start": 1107.1200000000001,
+      "end": 1108.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Of unit sales?"
+    },
+    {
+      "start": 1108.1200000000001,
+      "end": 1109.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1109.1200000000001,
+      "end": 1110.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1110.1200000000001,
+      "end": 1111.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And that makes sense."
+    },
+    {
+      "start": 1111.1200000000001,
+      "end": 1117.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So yeah, I think the biggest thing there would be to try and enter the employer bought assigned if we were to go forth."
+    },
+    {
+      "start": 1117.1200000000001,
+      "end": 1122.32,
+      "speaker": "SPEAKER_00",
+      "text": "Did you want me to come up with some solutions in terms of what we want to do with this?"
+    },
+    {
+      "start": 1122.32,
+      "end": 1123.32,
+      "speaker": "SPEAKER_01",
+      "text": "Totally."
+    },
+    {
+      "start": 1123.32,
+      "end": 1131.52,
+      "speaker": "SPEAKER_01",
+      "text": "I mean, just in general, I think we're looking to understand how and why we haven't competed and then whether or not we should tie it back to the bigger picture."
+    },
+    {
+      "start": 1131.52,
+      "end": 1137.72,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, so I'm thinking we probably just don't have the relationships with those discount stores."
+    },
+    {
+      "start": 1137.72,
+      "end": 1142.32,
+      "speaker": "SPEAKER_00",
+      "text": "Because obviously one thing that you can tell from this graph is where we are compared to them."
+    },
+    {
+      "start": 1142.32,
+      "end": 1145.72,
+      "speaker": "SPEAKER_00",
+      "text": "But one thing we can't see is what their actual total sales are."
+    },
+    {
+      "start": 1145.72,
+      "end": 1155.12,
+      "speaker": "SPEAKER_00",
+      "text": "And maybe maybe that 40% of their employer bought assigned is bigger than 100% of our sales."
+    },
+    {
+      "start": 1155.12,
+      "end": 1157.52,
+      "speaker": "SPEAKER_00",
+      "text": "We don't I don't know the exact information on that."
+    },
+    {
+      "start": 1157.52,
+      "end": 1157.72,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1157.72,
+      "end": 1166.72,
+      "speaker": "SPEAKER_00",
+      "text": "But it'd be really interesting to see like, oh, actually there 40% is making all the revenue in the world compared to our what's assume that they are a smaller player."
+    },
+    {
+      "start": 1166.72,
+      "end": 1167.72,
+      "speaker": "SPEAKER_01",
+      "text": "A smaller player."
+    },
+    {
+      "start": 1167.72,
+      "end": 1167.92,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1167.92,
+      "end": 1174.32,
+      "speaker": "SPEAKER_00",
+      "text": "So they're actually that would look a little bit different if we kind of had that."
+    },
+    {
+      "start": 1174.32,
+      "end": 1180.72,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I think that's the reason behind that would would definitely be close to the fact that we don't have those previous relationships."
+    },
+    {
+      "start": 1180.72,
+      "end": 1183.32,
+      "speaker": "SPEAKER_00",
+      "text": "We haven't formed those connections."
+    },
+    {
+      "start": 1183.32,
+      "end": 1185.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We haven't really tried to enter that."
+    },
+    {
+      "start": 1185.12,
+      "end": 1192.12,
+      "speaker": "SPEAKER_00",
+      "text": "And we've really just been it seems like we've maybe just we've kind of built off of this casual boot."
+    },
+    {
+      "start": 1192.12,
+      "end": 1195.52,
+      "speaker": "SPEAKER_00",
+      "text": "And we've maybe recently introduced our work boots."
+    },
+    {
+      "start": 1195.52,
+      "end": 1199.52,
+      "speaker": "SPEAKER_00",
+      "text": "And so we're saying, oh, we'll sell them in the same places we sell our casual boots."
+    },
+    {
+      "start": 1199.52,
+      "end": 1201.32,
+      "speaker": "SPEAKER_00",
+      "text": "But really it's a completely different market."
+    },
+    {
+      "start": 1201.32,
+      "end": 1203.12,
+      "speaker": "SPEAKER_00",
+      "text": "And you need to be silent in different places."
+    },
+    {
+      "start": 1203.12,
+      "end": 1205.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, fantastic."
+    },
+    {
+      "start": 1205.12,
+      "end": 1209.12,
+      "speaker": "SPEAKER_01",
+      "text": "Good. Anything else here?"
+    },
+    {
+      "start": 1209.12,
+      "end": 1211.12,
+      "speaker": "SPEAKER_01",
+      "text": "Anything outside of what's in exhibit three?"
+    },
+    {
+      "start": 1211.12,
+      "end": 1212.12,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1213.12,
+      "end": 1226.12,
+      "speaker": "SPEAKER_00",
+      "text": "I think when it comes to when it comes to sound the work boots, I would imagine the actual consumer preferences are probably a little bit different in terms of when I shop for shoes."
+    },
+    {
+      "start": 1226.12,
+      "end": 1228.12,
+      "speaker": "SPEAKER_00",
+      "text": "I want something that looks nice."
+    },
+    {
+      "start": 1228.12,
+      "end": 1230.12,
+      "speaker": "SPEAKER_00",
+      "text": "I want something that feels comfy and that's about it."
+    },
+    {
+      "start": 1230.12,
+      "end": 1233.12,
+      "speaker": "SPEAKER_00",
+      "text": "Whereas I would imagine for work boots."
+    },
+    {
+      "start": 1233.12,
+      "end": 1240.12,
+      "speaker": "SPEAKER_00",
+      "text": "It's just going to protect me when a brick falls on my foot or is this going to actually just hold up and survive the wear and tear?"
+    },
+    {
+      "start": 1240.12,
+      "end": 1242.12,
+      "speaker": "SPEAKER_00",
+      "text": "Not necessarily also looking pretty."
+    },
+    {
+      "start": 1242.12,
+      "end": 1250.12,
+      "speaker": "SPEAKER_00",
+      "text": "So just making sure that we are actually addressing the consumers at hand and not just trying to again play to play."
+    },
+    {
+      "start": 1250.12,
+      "end": 1253.12,
+      "speaker": "SPEAKER_00",
+      "text": "We want to play to win this and we want to be trying to dominate this."
+    },
+    {
+      "start": 1253.12,
+      "end": 1254.12,
+      "speaker": "SPEAKER_01",
+      "text": "Great. Awesome."
+    },
+    {
+      "start": 1254.12,
+      "end": 1255.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1255.12,
+      "end": 1257.12,
+      "speaker": "SPEAKER_01",
+      "text": "We're ready for a panel recommendation."
+    },
+    {
+      "start": 1257.12,
+      "end": 1258.12,
+      "speaker": "SPEAKER_01",
+      "text": "We're really looking for guidance."
+    },
+    {
+      "start": 1258.12,
+      "end": 1264.12,
+      "speaker": "SPEAKER_01",
+      "text": "Should we double down in the casual shoe statement or should we enter the work boots segment?"
+    },
+    {
+      "start": 1264.12,
+      "end": 1265.12,
+      "speaker": "SPEAKER_00",
+      "text": "I think we should double down."
+    },
+    {
+      "start": 1266.12,
+      "end": 1279.12,
+      "speaker": "SPEAKER_00",
+      "text": "And the reason being is because we as we looked at in the exhibit one and two, the work boot market is double the size of the casual boot market, which is primarily what we seem to be playing it right now."
+    },
+    {
+      "start": 1279.12,
+      "end": 1282.12,
+      "speaker": "SPEAKER_00",
+      "text": "And so I think we should we should go for for that."
+    },
+    {
+      "start": 1282.12,
+      "end": 1285.12,
+      "speaker": "SPEAKER_01",
+      "text": "So when I said double down, I meant stay where we are."
+    },
+    {
+      "start": 1285.12,
+      "end": 1287.12,
+      "speaker": "SPEAKER_01",
+      "text": "You're saying stay in casual."
+    },
+    {
+      "start": 1287.12,
+      "end": 1292.12,
+      "speaker": "SPEAKER_00",
+      "text": "Or not, sorry, yeah, not double down with that, but double down our efforts to really go for work."
+    },
+    {
+      "start": 1292.12,
+      "end": 1293.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1293.12,
+      "end": 1297.12,
+      "speaker": "SPEAKER_00",
+      "text": "But what I understood it was we were relatively were in the market."
+    },
+    {
+      "start": 1297.12,
+      "end": 1298.12,
+      "speaker": "SPEAKER_00",
+      "text": "We're not really."
+    },
+    {
+      "start": 1298.12,
+      "end": 1300.12,
+      "speaker": "SPEAKER_01",
+      "text": "We'll kind of say you have a private market."
+    },
+    {
+      "start": 1300.12,
+      "end": 1301.12,
+      "speaker": "SPEAKER_01",
+      "text": "I think we should double down that."
+    },
+    {
+      "start": 1301.12,
+      "end": 1304.12,
+      "speaker": "SPEAKER_00",
+      "text": "And I think we should really."
+    },
+    {
+      "start": 1304.12,
+      "end": 1310.12,
+      "speaker": "SPEAKER_00",
+      "text": "Appeal to the customers in that work boot segment just because it's so much bigger and it's it's double the size, right."
+    },
+    {
+      "start": 1310.12,
+      "end": 1312.12,
+      "speaker": "SPEAKER_00",
+      "text": "And so there's a lot of opportunity there."
+    },
+    {
+      "start": 1312.12,
+      "end": 1326.12,
+      "speaker": "SPEAKER_00",
+      "text": "And especially after looking at a exhibit three, if we can start targeting employable assigned and maybe other areas and focus our efforts there, I think we have the opportunity to really compete, especially if we can differentiate ourselves."
+    },
+    {
+      "start": 1326.12,
+      "end": 1334.12,
+      "speaker": "SPEAKER_00",
+      "text": "And I think some next steps with that is maybe even some consumer surveys in terms of actually figuring out those consumer preferences so that we can really focus on what they want."
+    },
+    {
+      "start": 1334.12,
+      "end": 1335.12,
+      "speaker": "SPEAKER_00",
+      "text": "Fantastic."
+    },
+    {
+      "start": 1335.12,
+      "end": 1340.12,
+      "speaker": "SPEAKER_01",
+      "text": "Anything else that you would want to do based on the insights in the case."
+    },
+    {
+      "start": 1340.12,
+      "end": 1347.12,
+      "speaker": "SPEAKER_00",
+      "text": "Um, what do you think?"
+    },
+    {
+      "start": 1347.12,
+      "end": 1354.12,
+      "speaker": "SPEAKER_00",
+      "text": "I think also don't we got ourselves we seem to have got ourselves in this place in the first hand because we focus too much on one."
+    },
+    {
+      "start": 1354.12,
+      "end": 1356.12,
+      "speaker": "SPEAKER_00",
+      "text": "Don't lose the attention on casual foods, right."
+    },
+    {
+      "start": 1356.12,
+      "end": 1360.12,
+      "speaker": "SPEAKER_00",
+      "text": "We should we should maintain both efforts and not just go one on one."
+    },
+    {
+      "start": 1360.12,
+      "end": 1363.12,
+      "speaker": "SPEAKER_00",
+      "text": "Otherwise we're just going to be flipping for a tendency."
+    },
+    {
+      "start": 1363.12,
+      "end": 1364.12,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome."
+    },
+    {
+      "start": 1364.12,
+      "end": 1370.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, Ed, talk me through 30 seconds to a minute of your own feedback on yourself, but come on good exhibits in there."
+    },
+    {
+      "start": 1370.12,
+      "end": 1371.12,
+      "speaker": "SPEAKER_01",
+      "text": "What did you think?"
+    },
+    {
+      "start": 1371.12,
+      "end": 1374.12,
+      "speaker": "SPEAKER_00",
+      "text": "So I love I love a good set of exhibits."
+    },
+    {
+      "start": 1374.12,
+      "end": 1377.12,
+      "speaker": "SPEAKER_00",
+      "text": "It's not always that you get more than one or two."
+    },
+    {
+      "start": 1377.12,
+      "end": 1379.12,
+      "speaker": "SPEAKER_00",
+      "text": "So I really enjoyed going over those."
+    },
+    {
+      "start": 1379.12,
+      "end": 1385.12,
+      "speaker": "SPEAKER_00",
+      "text": "I thought it was a really interesting case and I felt that I did a decent job maintaining structure."
+    },
+    {
+      "start": 1385.12,
+      "end": 1387.12,
+      "speaker": "SPEAKER_00",
+      "text": "I think there was definitely room for improvement."
+    },
+    {
+      "start": 1387.12,
+      "end": 1393.12,
+      "speaker": "SPEAKER_00",
+      "text": "Obviously you can give feedback for that in a second, but I think the biggest thing with this was it was both really fun,"
+    },
+    {
+      "start": 1393.12,
+      "end": 1399.12,
+      "speaker": "SPEAKER_00",
+      "text": "and I think it was a little bit daunting in that, especially when it's when it's a not a clear direction."
+    },
+    {
+      "start": 1399.12,
+      "end": 1402.12,
+      "speaker": "SPEAKER_00",
+      "text": "Combined with a bit more interview, he led."
+    },
+    {
+      "start": 1402.12,
+      "end": 1405.12,
+      "speaker": "SPEAKER_00",
+      "text": "It's quite difficult thinking I've got all his data."
+    },
+    {
+      "start": 1405.12,
+      "end": 1411.12,
+      "speaker": "SPEAKER_00",
+      "text": "I've kind of figured out the numbers I want to, but I don't really know where to push it and what which avenues to explore first."
+    },
+    {
+      "start": 1411.12,
+      "end": 1415.12,
+      "speaker": "SPEAKER_01",
+      "text": "How do you know what to do even if the even if the market's bigger do you still go into it?"
+    },
+    {
+      "start": 1415.12,
+      "end": 1416.12,
+      "speaker": "SPEAKER_01",
+      "text": "Exactly."
+    },
+    {
+      "start": 1416.12,
+      "end": 1417.12,
+      "speaker": "SPEAKER_01",
+      "text": "I think that's good."
+    },
+    {
+      "start": 1417.12,
+      "end": 1419.12,
+      "speaker": "SPEAKER_01",
+      "text": "Look, I think overall you did a really good job."
+    },
+    {
+      "start": 1419.12,
+      "end": 1421.12,
+      "speaker": "SPEAKER_01",
+      "text": "I thought strong performance."
+    },
+    {
+      "start": 1421.12,
+      "end": 1424.12,
+      "speaker": "SPEAKER_01",
+      "text": "I would have of course hired you at the end of it."
+    },
+    {
+      "start": 1424.12,
+      "end": 1427.12,
+      "speaker": "SPEAKER_01",
+      "text": "I thought that your opening was very strong."
+    },
+    {
+      "start": 1427.12,
+      "end": 1431.12,
+      "speaker": "SPEAKER_01",
+      "text": "You were very clear about everything that kind of came out of it."
+    },
+    {
+      "start": 1431.12,
+      "end": 1434.12,
+      "speaker": "SPEAKER_01",
+      "text": "It felt like you had a pretty good grasp of what was going on."
+    },
+    {
+      "start": 1434.12,
+      "end": 1439.12,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe a good clarifying question here would have been whether or not we had a retailer wholesale."
+    },
+    {
+      "start": 1440.12,
+      "end": 1448.12,
+      "speaker": "SPEAKER_01",
+      "text": "There are some places like a for example, right that has a direct consumer retail presence."
+    },
+    {
+      "start": 1448.12,
+      "end": 1451.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so understanding that might have helped us a little bit."
+    },
+    {
+      "start": 1451.12,
+      "end": 1455.12,
+      "speaker": "SPEAKER_01",
+      "text": "But I didn't feel like there was anything really lacking in your core focus."
+    },
+    {
+      "start": 1455.12,
+      "end": 1457.12,
+      "speaker": "SPEAKER_01",
+      "text": "I think that you had some hypotheses."
+    },
+    {
+      "start": 1457.12,
+      "end": 1459.12,
+      "speaker": "SPEAKER_01",
+      "text": "You knew what numbers you wanted."
+    },
+    {
+      "start": 1459.12,
+      "end": 1461.12,
+      "speaker": "SPEAKER_01",
+      "text": "We tested those hypotheses."
+    },
+    {
+      "start": 1461.12,
+      "end": 1463.12,
+      "speaker": "SPEAKER_01",
+      "text": "Some of them panned out."
+    },
+    {
+      "start": 1463.12,
+      "end": 1467.12,
+      "speaker": "SPEAKER_01",
+      "text": "He thought the customer is more important and ended up the market was more important."
+    },
+    {
+      "start": 1467.12,
+      "end": 1473.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so it's hard to say actually is it is it blue collar or work boots that's more important right?"
+    },
+    {
+      "start": 1473.12,
+      "end": 1476.12,
+      "speaker": "SPEAKER_01",
+      "text": "You were kind of thinking about that the two matrices."
+    },
+    {
+      "start": 1476.12,
+      "end": 1482.12,
+      "speaker": "SPEAKER_01",
+      "text": "I would you really let off with a strong structure telling me that you had three categories telling you what the categories were."
+    },
+    {
+      "start": 1482.12,
+      "end": 1483.12,
+      "speaker": "SPEAKER_01",
+      "text": "I felt like from there you could have done anything you wanted."
+    },
+    {
+      "start": 1483.12,
+      "end": 1490.12,
+      "speaker": "SPEAKER_01",
+      "text": "I would have loved to have seen you keep that membered structure as you were talking through each one of your areas."
+    },
+    {
+      "start": 1490.12,
+      "end": 1498.12,
+      "speaker": "SPEAKER_01",
+      "text": "And also though just really do want to call it you highlighted in your structure that there are some maybe changing trends on work boots."
+    },
+    {
+      "start": 1498.12,
+      "end": 1502.12,
+      "speaker": "SPEAKER_01",
+      "text": "And I felt like you're layering and that that was very, very good."
+    },
+    {
+      "start": 1502.12,
+      "end": 1506.12,
+      "speaker": "SPEAKER_01",
+      "text": "Your math was solid though there was that one."
+    },
+    {
+      "start": 1506.12,
+      "end": 1508.12,
+      "speaker": "SPEAKER_01",
+      "text": "Calc, you know, mistaken there."
+    },
+    {
+      "start": 1508.12,
+      "end": 1514.12,
+      "speaker": "SPEAKER_01",
+      "text": "But, but it was I think you would have caught it for experience you have already gone through a lot of math."
+    },
+    {
+      "start": 1514.12,
+      "end": 1517.12,
+      "speaker": "SPEAKER_01",
+      "text": "I helped you because I did not feel like math was a flaw."
+    },
+    {
+      "start": 1517.12,
+      "end": 1521.12,
+      "speaker": "SPEAKER_01",
+      "text": "Right. I would have made you founder if I thought that math was an issue."
+    },
+    {
+      "start": 1521.12,
+      "end": 1523.12,
+      "speaker": "SPEAKER_01",
+      "text": "It's kind of counterintuitive."
+    },
+    {
+      "start": 1523.12,
+      "end": 1529.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so then also good insights on you know kind of on the boots area."
+    },
+    {
+      "start": 1529.12,
+      "end": 1533.12,
+      "speaker": "SPEAKER_01",
+      "text": "A lot of them my favorite thing favorite thing of the whole case is that at the beginning."
+    },
+    {
+      "start": 1533.12,
+      "end": 1537.12,
+      "speaker": "SPEAKER_01",
+      "text": "Before you did the math you told me what the answer was going to be."
+    },
+    {
+      "start": 1537.12,
+      "end": 1547.12,
+      "speaker": "SPEAKER_01",
+      "text": "And you did that consistently even when you got the next exhibit even before you got the numbers you kind of you know we're really really strong on leading me through with hypothesis so great job on that."
+    },
+    {
+      "start": 1547.12,
+      "end": 1555.12,
+      "speaker": "SPEAKER_01",
+      "text": "On your kind of creative insights at the end I wanted more structure that was kind of the one place where the structure kind of flagged."
+    },
+    {
+      "start": 1555.12,
+      "end": 1560.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so if this was a level one case I would have said, OK, we'll pass it on but we'll see in the second round."
+    },
+    {
+      "start": 1560.12,
+      "end": 1568.12,
+      "speaker": "SPEAKER_01",
+      "text": "So really you know just honing that in because you are so strong up until that point just don't leave any questions for me for any doubt."
+    },
+    {
+      "start": 1568.12,
+      "end": 1578.12,
+      "speaker": "SPEAKER_01",
+      "text": "And there were some other things that I felt like we were so focused on right should we go into work works yes you called out one thing that I really liked which was you know do we have a good boot."
+    },
+    {
+      "start": 1578.12,
+      "end": 1588.12,
+      "speaker": "SPEAKER_01",
+      "text": "But but also there could have been are we marketing the boots appropriately are we thinking about tailoring boots to fashion trends right like what are some of the ways that we can leverage."
+    },
+    {
+      "start": 1588.12,
+      "end": 1600.12,
+      "speaker": "SPEAKER_01",
+      "text": "Things that I know about fashion which I don't know everything that I know some things into how else we could think about doing this and and the channel became such a big focus that I want to be a little bit more broad."
+    },
+    {
+      "start": 1600.12,
+      "end": 1617.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then in your conclusion I would just love to have a little bit more of a robust hey here's what else we could do because like you said where do we go with all the state at tell me some more like what else do you want to know before we spend let's call it right we're a billion dollar company before we spend a hundred million dollars."
+    },
+    {
+      "start": 1617.12,
+      "end": 1629.12,
+      "speaker": "SPEAKER_01",
+      "text": "Pursuing the segment like there's clearly more things that we want to know so I felt like there was just a little bit of a real world application for hate in order to go spend this way we really wanted that overall."
+    },
+    {
+      "start": 1629.12,
+      "end": 1639.12,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    }
+  ],
+  "grading": {
+    "communication": 14,
+    "framework": 17,
+    "math": 11,
+    "case_difficulty": 13,
+    "final_summary": 15,
+    "overall_thoughts": "The math could be improved with more practice, but overall a solid effort."
+  }
+}

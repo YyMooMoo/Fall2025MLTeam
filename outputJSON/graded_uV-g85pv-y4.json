@@ -1,0 +1,4254 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 8.28,
+      "speaker": "SPEAKER_00",
+      "text": "So, Sylvia, really appreciate you taking the opportunity to tell us a little bit about"
+    },
+    {
+      "start": 8.28,
+      "end": 9.28,
+      "speaker": "SPEAKER_00",
+      "text": "yourself."
+    },
+    {
+      "start": 9.28,
+      "end": 13.16,
+      "speaker": "SPEAKER_00",
+      "text": "Would love to dive into the case component if you're ready for that."
+    },
+    {
+      "start": 13.16,
+      "end": 14.96,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, I'm ready."
+    },
+    {
+      "start": 14.96,
+      "end": 15.96,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome."
+    },
+    {
+      "start": 15.96,
+      "end": 21.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so here's a little bit about our situation today."
+    },
+    {
+      "start": 21.32,
+      "end": 27.080000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Our client is a private equity firm who's considering taking private, a leading manufacturer"
+    },
+    {
+      "start": 27.080000000000002,
+      "end": 29.240000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "of bicycle helmets."
+    },
+    {
+      "start": 29.24,
+      "end": 34.04,
+      "speaker": "SPEAKER_00",
+      "text": "So they've come to us and request our guidance on whether or not they should take it private."
+    },
+    {
+      "start": 34.04,
+      "end": 39.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great."
+    },
+    {
+      "start": 39.32,
+      "end": 43.92,
+      "speaker": "SPEAKER_01",
+      "text": "So let me just make sure I understand the case."
+    },
+    {
+      "start": 43.92,
+      "end": 49.12,
+      "speaker": "SPEAKER_01",
+      "text": "Essentially, our client is a leading P firm and they're requesting our help to figure"
+    },
+    {
+      "start": 49.12,
+      "end": 54.72,
+      "speaker": "SPEAKER_01",
+      "text": "out whether to take a private manufacturer of bicycle helmets public."
+    },
+    {
+      "start": 54.72,
+      "end": 59.0,
+      "speaker": "SPEAKER_01",
+      "text": "Is there any particular objective we should be mindful as we think about this question?"
+    },
+    {
+      "start": 60.0,
+      "end": 65.08,
+      "speaker": "SPEAKER_00",
+      "text": "There's no specific additional objectives that we know about at this time."
+    },
+    {
+      "start": 65.08,
+      "end": 66.6,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 66.6,
+      "end": 71.16,
+      "speaker": "SPEAKER_01",
+      "text": "And if you don't mind, I just love to ask you a couple of client-fraining questions just"
+    },
+    {
+      "start": 71.16,
+      "end": 75.6,
+      "speaker": "SPEAKER_01",
+      "text": "to figure out a little bit more about the situation."
+    },
+    {
+      "start": 75.6,
+      "end": 85.48,
+      "speaker": "SPEAKER_01",
+      "text": "So do we know where this private manufacturer of bicycle helmet company is based geographically?"
+    },
+    {
+      "start": 86.48,
+      "end": 91.56,
+      "speaker": "SPEAKER_00",
+      "text": "Right now, we don't actually have a lot of information about that."
+    },
+    {
+      "start": 91.56,
+      "end": 92.56,
+      "speaker": "SPEAKER_01",
+      "text": "No."
+    },
+    {
+      "start": 92.56,
+      "end": 93.56,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 93.56,
+      "end": 98.80000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And in terms of a timeline of when they want to take it private, is it more of a short term"
+    },
+    {
+      "start": 98.80000000000001,
+      "end": 102.48,
+      "speaker": "SPEAKER_01",
+      "text": "or long term or do they want to figure that out as soon as possible?"
+    },
+    {
+      "start": 102.48,
+      "end": 107.96000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, we don't know anything about their goals or their time horizon in that sense either."
+    },
+    {
+      "start": 107.96000000000001,
+      "end": 108.96000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 108.96000000000001,
+      "end": 115.28,
+      "speaker": "SPEAKER_01",
+      "text": "So maybe let me just take a couple minutes to jot down a few ideas and then I can share"
+    },
+    {
+      "start": 115.28,
+      "end": 116.28,
+      "speaker": "SPEAKER_01",
+      "text": "them with you if that's okay."
+    },
+    {
+      "start": 116.28,
+      "end": 117.28,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 117.28,
+      "end": 118.28,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good."
+    },
+    {
+      "start": 175.28,
+      "end": 182.28,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 182.28,
+      "end": 194.64,
+      "speaker": "SPEAKER_01",
+      "text": "I can share some ideas just in general as to how we can think about this."
+    },
+    {
+      "start": 194.64,
+      "end": 200.76,
+      "speaker": "SPEAKER_01",
+      "text": "So overall, I have bucketed them into three main buckets."
+    },
+    {
+      "start": 200.76,
+      "end": 205.16,
+      "speaker": "SPEAKER_01",
+      "text": "And essentially the first one will be around profitability or financials."
+    },
+    {
+      "start": 205.16,
+      "end": 210.6,
+      "speaker": "SPEAKER_01",
+      "text": "The second one would be around markets and then I had one for other considerations or"
+    },
+    {
+      "start": 210.6,
+      "end": 213.16,
+      "speaker": "SPEAKER_01",
+      "text": "risks that we should take into account."
+    },
+    {
+      "start": 213.16,
+      "end": 221.23999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "And so in terms of profitability, I'd be interested to look at will this deal be actually profitable?"
+    },
+    {
+      "start": 221.23999999999998,
+      "end": 223.6,
+      "speaker": "SPEAKER_01",
+      "text": "So will be able to make revenues."
+    },
+    {
+      "start": 223.6,
+      "end": 230.68,
+      "speaker": "SPEAKER_01",
+      "text": "How much will be the costs for going into this private, like taking this company public?"
+    },
+    {
+      "start": 230.68,
+      "end": 235.92000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "And also what will be the sources of financing, whether that's going to come from internally"
+    },
+    {
+      "start": 235.92000000000002,
+      "end": 241.44,
+      "speaker": "SPEAKER_01",
+      "text": "or issue in debt or having to race debt in the public?"
+    },
+    {
+      "start": 241.44,
+      "end": 246.76000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "From a market perspective, I'd be very interested in understanding what's the competition"
+    },
+    {
+      "start": 246.76000000000002,
+      "end": 250.68,
+      "speaker": "SPEAKER_01",
+      "text": "like for bicycle helmet manufacturers?"
+    },
+    {
+      "start": 250.68,
+      "end": 255.8,
+      "speaker": "SPEAKER_01",
+      "text": "What is the market size of just bicycle helmet manufacturers in general and what piece"
+    },
+    {
+      "start": 255.8,
+      "end": 259.8,
+      "speaker": "SPEAKER_01",
+      "text": "of the market does the company currently hold?"
+    },
+    {
+      "start": 259.8,
+      "end": 264.88,
+      "speaker": "SPEAKER_01",
+      "text": "And also basically understanding the industry as a whole, like is there growth in the bicycle"
+    },
+    {
+      "start": 264.88,
+      "end": 270.32,
+      "speaker": "SPEAKER_01",
+      "text": "helmet market and what are the things we should take into account?"
+    },
+    {
+      "start": 270.32,
+      "end": 276.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "And then in terms of other considerations or risks, understanding essentially, how is"
+    },
+    {
+      "start": 276.28000000000003,
+      "end": 285.12,
+      "speaker": "SPEAKER_01",
+      "text": "technology influencing the bicycle manufacturer market would be interesting?"
+    },
+    {
+      "start": 285.12,
+      "end": 290.08,
+      "speaker": "SPEAKER_01",
+      "text": "So understanding whether the company produces this themselves or do they source like what"
+    },
+    {
+      "start": 290.08,
+      "end": 292.16,
+      "speaker": "SPEAKER_01",
+      "text": "their supply chain look like?"
+    },
+    {
+      "start": 292.16,
+      "end": 298.92,
+      "speaker": "SPEAKER_01",
+      "text": "And what are some legal risks or implications into taking this company public in terms of"
+    },
+    {
+      "start": 298.92,
+      "end": 304.56,
+      "speaker": "SPEAKER_01",
+      "text": "where it's currently based and where it currently is thinking about expansion?"
+    },
+    {
+      "start": 304.56,
+      "end": 308.12,
+      "speaker": "SPEAKER_01",
+      "text": "I think, sorry, one more that I'm thinking about on this."
+    },
+    {
+      "start": 308.12,
+      "end": 312.88,
+      "speaker": "SPEAKER_01",
+      "text": "We also would be helpful to understand at least what is the cycling industry look like"
+    },
+    {
+      "start": 312.88,
+      "end": 318.04,
+      "speaker": "SPEAKER_01",
+      "text": "as well because helmets seem to be dependent on bicycle."
+    },
+    {
+      "start": 318.04,
+      "end": 323.04,
+      "speaker": "SPEAKER_01",
+      "text": "So there could be a length there that's interesting and also be in terms of security because helmets"
+    },
+    {
+      "start": 323.04,
+      "end": 331.68,
+      "speaker": "SPEAKER_01",
+      "text": "protect the rider, understanding what is the security of riding outside looking like"
+    },
+    {
+      "start": 331.68,
+      "end": 334.8,
+      "speaker": "SPEAKER_01",
+      "text": "or in the future."
+    },
+    {
+      "start": 334.8,
+      "end": 339.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "So out of these three things, I think it'd be helpful."
+    },
+    {
+      "start": 339.16,
+      "end": 343.6,
+      "speaker": "SPEAKER_01",
+      "text": "My hunch is that we should probably just look into the current market for bicycle helmets"
+    },
+    {
+      "start": 343.6,
+      "end": 348.88000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "and what's the market size of this company currently holds to get a census to where it"
+    },
+    {
+      "start": 348.88000000000005,
+      "end": 351.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "stands in terms of its competition."
+    },
+    {
+      "start": 351.40000000000003,
+      "end": 354.0,
+      "speaker": "SPEAKER_01",
+      "text": "If you have some information about that."
+    },
+    {
+      "start": 354.0,
+      "end": 355.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 355.0,
+      "end": 358.04,
+      "speaker": "SPEAKER_00",
+      "text": "Now that makes sense."
+    },
+    {
+      "start": 358.04,
+      "end": 363.56,
+      "speaker": "SPEAKER_00",
+      "text": "So in terms of the overall size of the market, we don't have any data on that."
+    },
+    {
+      "start": 363.56,
+      "end": 366.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "But what else would you want to look at?"
+    },
+    {
+      "start": 366.52,
+      "end": 373.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "I think maybe looking at its competition would be helpful to see who are the top competitors"
+    },
+    {
+      "start": 373.03999999999996,
+      "end": 376.64,
+      "speaker": "SPEAKER_01",
+      "text": "for the bicycle helmet company."
+    },
+    {
+      "start": 376.64,
+      "end": 379.47999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Absolutely."
+    },
+    {
+      "start": 379.47999999999996,
+      "end": 387.2,
+      "speaker": "SPEAKER_00",
+      "text": "This target company is called Hardhead and they are the leader in this space."
+    },
+    {
+      "start": 387.2,
+      "end": 390.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "They've got 60% market share."
+    },
+    {
+      "start": 390.59999999999997,
+      "end": 393.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 393.16,
+      "end": 397.20000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "That's great to know."
+    },
+    {
+      "start": 397.20000000000005,
+      "end": 399.24,
+      "speaker": "SPEAKER_01",
+      "text": "All right."
+    },
+    {
+      "start": 399.24,
+      "end": 405.04,
+      "speaker": "SPEAKER_01",
+      "text": "And do we know in general, do we have any information on its financial?"
+    },
+    {
+      "start": 405.04,
+      "end": 413.12,
+      "speaker": "SPEAKER_01",
+      "text": "So if we were to do this deal, how much will take in this company public would cost?"
+    },
+    {
+      "start": 413.12,
+      "end": 417.20000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "We do have some information about the company's financials."
+    },
+    {
+      "start": 417.20000000000005,
+      "end": 422.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "So to speak that, they're in a pretty good cost position."
+    },
+    {
+      "start": 422.08,
+      "end": 423.8,
+      "speaker": "SPEAKER_00",
+      "text": "They're cost are low."
+    },
+    {
+      "start": 423.8,
+      "end": 425.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "They manufacture in Asia."
+    },
+    {
+      "start": 425.71999999999997,
+      "end": 432.68,
+      "speaker": "SPEAKER_00",
+      "text": "And so it really helps them keep pretty good margins, although we don't have any specific"
+    },
+    {
+      "start": 432.68,
+      "end": 434.28,
+      "speaker": "SPEAKER_00",
+      "text": "profitability data."
+    },
+    {
+      "start": 434.28,
+      "end": 436.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 436.03999999999996,
+      "end": 442.08,
+      "speaker": "SPEAKER_01",
+      "text": "And what are the overall goals of the company in the next five or ten years in terms of its"
+    },
+    {
+      "start": 442.08,
+      "end": 443.08,
+      "speaker": "SPEAKER_01",
+      "text": "growth?"
+    },
+    {
+      "start": 443.08,
+      "end": 449.2,
+      "speaker": "SPEAKER_01",
+      "text": "Are they looking to duplicate its growth or increase their ROI?"
+    },
+    {
+      "start": 449.2,
+      "end": 453.64,
+      "speaker": "SPEAKER_01",
+      "text": "So we have any sense of where to try and go?"
+    },
+    {
+      "start": 453.64,
+      "end": 459.2,
+      "speaker": "SPEAKER_00",
+      "text": "Well, there actually have been some dynamic shifts in the market which have led to some"
+    },
+    {
+      "start": 459.2,
+      "end": 461.44,
+      "speaker": "SPEAKER_00",
+      "text": "recent growth."
+    },
+    {
+      "start": 461.44,
+      "end": 466.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "They don't expect to be able to maintain that growth."
+    },
+    {
+      "start": 466.03999999999996,
+      "end": 472.64,
+      "speaker": "SPEAKER_00",
+      "text": "But no, they're actually, they're not hugely well structured and organized."
+    },
+    {
+      "start": 472.64,
+      "end": 477.56,
+      "speaker": "SPEAKER_00",
+      "text": "We don't know of any other specific targets or metrics that they have around growth moving"
+    },
+    {
+      "start": 477.56,
+      "end": 478.56,
+      "speaker": "SPEAKER_00",
+      "text": "forward."
+    },
+    {
+      "start": 478.56,
+      "end": 479.56,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 479.56,
+      "end": 485.04,
+      "speaker": "SPEAKER_01",
+      "text": "All right."
+    },
+    {
+      "start": 485.04,
+      "end": 493.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "And in terms of how we could finance this deal, basically, do we have any sense as to do"
+    },
+    {
+      "start": 493.84000000000003,
+      "end": 500.6,
+      "speaker": "SPEAKER_01",
+      "text": "they have enough internal financing to go public or the interests of shareholders, interaking"
+    },
+    {
+      "start": 500.6,
+      "end": 501.92,
+      "speaker": "SPEAKER_01",
+      "text": "the company public?"
+    },
+    {
+      "start": 501.92,
+      "end": 506.28,
+      "speaker": "SPEAKER_01",
+      "text": "Well, maybe there's no shareholders yet because it's not public, but the interest of the partners"
+    },
+    {
+      "start": 506.28,
+      "end": 509.28,
+      "speaker": "SPEAKER_01",
+      "text": "of the owners in taking a public."
+    },
+    {
+      "start": 509.28,
+      "end": 510.28,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 510.28,
+      "end": 511.28,
+      "speaker": "SPEAKER_00",
+      "text": "No."
+    },
+    {
+      "start": 511.28,
+      "end": 520.48,
+      "speaker": "SPEAKER_00",
+      "text": "So just to clarify, you know, we're talking about whether or not a PE firm should take this"
+    },
+    {
+      "start": 520.48,
+      "end": 522.28,
+      "speaker": "SPEAKER_00",
+      "text": "company private."
+    },
+    {
+      "start": 522.28,
+      "end": 524.28,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, I'm sorry."
+    },
+    {
+      "start": 524.28,
+      "end": 525.28,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 525.28,
+      "end": 526.28,
+      "speaker": "SPEAKER_00",
+      "text": "No, that's okay."
+    },
+    {
+      "start": 526.28,
+      "end": 527.28,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 528.28,
+      "end": 537.28,
+      "speaker": "SPEAKER_00",
+      "text": "We though don't have a lot of insight at this point in time about what those current"
+    },
+    {
+      "start": 537.28,
+      "end": 540.28,
+      "speaker": "SPEAKER_00",
+      "text": "internal preferences would be."
+    },
+    {
+      "start": 540.28,
+      "end": 541.28,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 541.28,
+      "end": 545.28,
+      "speaker": "SPEAKER_01",
+      "text": "All right."
+    },
+    {
+      "start": 545.28,
+      "end": 551.28,
+      "speaker": "SPEAKER_01",
+      "text": "What other information do you have available that might be helpful for us to look at?"
+    },
+    {
+      "start": 551.28,
+      "end": 552.28,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 552.28,
+      "end": 556.28,
+      "speaker": "SPEAKER_00",
+      "text": "Well, what are some of the other things that you're interested to know?"
+    },
+    {
+      "start": 556.28,
+      "end": 562.8,
+      "speaker": "SPEAKER_01",
+      "text": "Well, if we want to take a company private, we may think about, you know, I talked about"
+    },
+    {
+      "start": 562.8,
+      "end": 568.48,
+      "speaker": "SPEAKER_01",
+      "text": "profitability, market and the competition and other considerations."
+    },
+    {
+      "start": 568.48,
+      "end": 574.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So, you know, we went through whether the company would make additional revenue, the costs"
+    },
+    {
+      "start": 574.8399999999999,
+      "end": 575.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "of it."
+    },
+    {
+      "start": 575.8399999999999,
+      "end": 580.36,
+      "speaker": "SPEAKER_01",
+      "text": "Do we have any information on what it would take to take the company private, like how"
+    },
+    {
+      "start": 580.36,
+      "end": 582.16,
+      "speaker": "SPEAKER_01",
+      "text": "much it would cost?"
+    },
+    {
+      "start": 582.16,
+      "end": 587.16,
+      "speaker": "SPEAKER_00",
+      "text": "No, we don't have any cost information or data in that sense."
+    },
+    {
+      "start": 587.16,
+      "end": 589.16,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 589.16,
+      "end": 600.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And then, let me try to think what else."
+    },
+    {
+      "start": 600.7199999999999,
+      "end": 603.8,
+      "speaker": "SPEAKER_01",
+      "text": "Just maybe give me a couple minutes to think about other ideas."
+    },
+    {
+      "start": 603.8,
+      "end": 604.8,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 612.16,
+      "end": 635.16,
+      "speaker": "SPEAKER_01",
+      "text": "All right."
+    },
+    {
+      "start": 635.16,
+      "end": 636.16,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe."
+    },
+    {
+      "start": 636.16,
+      "end": 639.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So, I thought about three additional things we could look at."
+    },
+    {
+      "start": 639.84,
+      "end": 646.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe if we have information on the management of the firm and how they would react in terms"
+    },
+    {
+      "start": 646.1600000000001,
+      "end": 651.88,
+      "speaker": "SPEAKER_01",
+      "text": "of taking the company private, like who is going to continue being in the management, that"
+    },
+    {
+      "start": 651.88,
+      "end": 653.72,
+      "speaker": "SPEAKER_01",
+      "text": "would be helpful."
+    },
+    {
+      "start": 653.72,
+      "end": 659.32,
+      "speaker": "SPEAKER_01",
+      "text": "Also understanding, you know, what's the shareholder view in taking the company private and maybe"
+    },
+    {
+      "start": 659.32,
+      "end": 665.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "getting a little bit more information on the price of their current, of the current helmets"
+    },
+    {
+      "start": 665.16,
+      "end": 671.24,
+      "speaker": "SPEAKER_01",
+      "text": "that they provide to save their part with competition?"
+    },
+    {
+      "start": 671.24,
+      "end": 677.8399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we don't have a lot of insight right now into the management, to the internal operations"
+    },
+    {
+      "start": 677.8399999999999,
+      "end": 679.0,
+      "speaker": "SPEAKER_00",
+      "text": "of the company."
+    },
+    {
+      "start": 679.0,
+      "end": 681.24,
+      "speaker": "SPEAKER_00",
+      "text": "What was your second bucket?"
+    },
+    {
+      "start": 681.24,
+      "end": 682.24,
+      "speaker": "SPEAKER_01",
+      "text": "Shareholders."
+    },
+    {
+      "start": 682.24,
+      "end": 686.0,
+      "speaker": "SPEAKER_01",
+      "text": "Do we know whether the shareholders would..."
+    },
+    {
+      "start": 686.0,
+      "end": 690.28,
+      "speaker": "SPEAKER_01",
+      "text": "We don't have a lot of insight into the shareholder perspective or support."
+    },
+    {
+      "start": 690.28,
+      "end": 694.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "What was your third bucket about the price of the product?"
+    },
+    {
+      "start": 694.84,
+      "end": 700.2,
+      "speaker": "SPEAKER_01",
+      "text": "So do we know for how much do they produce the helmets right now and is their price"
+    },
+    {
+      "start": 700.2,
+      "end": 703.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "competitive?"
+    },
+    {
+      "start": 703.1600000000001,
+      "end": 708.2,
+      "speaker": "SPEAKER_00",
+      "text": "So we don't have a lot of information about specific pricing."
+    },
+    {
+      "start": 708.2,
+      "end": 711.24,
+      "speaker": "SPEAKER_00",
+      "text": "Although I can tell you a little bit about the channels."
+    },
+    {
+      "start": 711.24,
+      "end": 714.08,
+      "speaker": "SPEAKER_00",
+      "text": "I think that that has a similar dynamic here."
+    },
+    {
+      "start": 714.08,
+      "end": 715.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 715.08,
+      "end": 722.24,
+      "speaker": "SPEAKER_00",
+      "text": "So historically, hardhead has sold primarily through the small specialty shops, mom and"
+    },
+    {
+      "start": 722.32,
+      "end": 725.16,
+      "speaker": "SPEAKER_00",
+      "text": "pop bike retailers."
+    },
+    {
+      "start": 725.16,
+      "end": 732.92,
+      "speaker": "SPEAKER_00",
+      "text": "But their channel mix has somewhat recently moved to 50% discounters, think large stores"
+    },
+    {
+      "start": 732.92,
+      "end": 734.84,
+      "speaker": "SPEAKER_00",
+      "text": "like Walmart."
+    },
+    {
+      "start": 734.84,
+      "end": 739.76,
+      "speaker": "SPEAKER_00",
+      "text": "And it looks like the discounters will continue to dominate in the future."
+    },
+    {
+      "start": 739.76,
+      "end": 745.88,
+      "speaker": "SPEAKER_00",
+      "text": "So I am actually interested in how you think this change in distribution channel would"
+    },
+    {
+      "start": 745.88,
+      "end": 748.84,
+      "speaker": "SPEAKER_00",
+      "text": "affect the company's future prospects."
+    },
+    {
+      "start": 748.84,
+      "end": 749.84,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 749.84,
+      "end": 751.76,
+      "speaker": "SPEAKER_01",
+      "text": "That's interesting."
+    },
+    {
+      "start": 751.76,
+      "end": 753.4,
+      "speaker": "SPEAKER_01",
+      "text": "So probably..."
+    },
+    {
+      "start": 753.4,
+      "end": 759.6,
+      "speaker": "SPEAKER_01",
+      "text": "So if they used to have small specialty shops, probably they had lots of good relationships"
+    },
+    {
+      "start": 759.6,
+      "end": 761.36,
+      "speaker": "SPEAKER_01",
+      "text": "with all of these suppliers."
+    },
+    {
+      "start": 761.36,
+      "end": 763.6,
+      "speaker": "SPEAKER_01",
+      "text": "And now if they're going to go through the..."
+    },
+    {
+      "start": 763.6,
+      "end": 767.2,
+      "speaker": "SPEAKER_01",
+      "text": "And they probably could get a larger profit margin because they couldn't negotiate those"
+    },
+    {
+      "start": 767.2,
+      "end": 768.2,
+      "speaker": "SPEAKER_01",
+      "text": "deals."
+    },
+    {
+      "start": 768.2,
+      "end": 775.12,
+      "speaker": "SPEAKER_01",
+      "text": "But now if they're going to go through the 50% discount stores, they might have to start"
+    },
+    {
+      "start": 775.12,
+      "end": 780.68,
+      "speaker": "SPEAKER_01",
+      "text": "kind of like beginning those relationships again with this new channels and figure out"
+    },
+    {
+      "start": 780.92,
+      "end": 782.92,
+      "speaker": "SPEAKER_01",
+      "text": "what..."
+    },
+    {
+      "start": 782.92,
+      "end": 784.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Like how they could..."
+    },
+    {
+      "start": 784.1999999999999,
+      "end": 789.52,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe this could help in the logistics of transporting the product."
+    },
+    {
+      "start": 789.52,
+      "end": 795.0,
+      "speaker": "SPEAKER_01",
+      "text": "But also in terms of margins, maybe it could lower their margins because they may want"
+    },
+    {
+      "start": 795.0,
+      "end": 801.52,
+      "speaker": "SPEAKER_01",
+      "text": "to take a higher stake, and they may be able to increase the sales of the product because"
+    },
+    {
+      "start": 801.52,
+      "end": 806.64,
+      "speaker": "SPEAKER_01",
+      "text": "of more people actually go to buy at discount stores rather than at mom and pop shops."
+    },
+    {
+      "start": 806.64,
+      "end": 807.64,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 807.64,
+      "end": 810.24,
+      "speaker": "SPEAKER_00",
+      "text": "Those are some good thoughts."
+    },
+    {
+      "start": 810.4,
+      "end": 811.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 811.24,
+      "end": 813.24,
+      "speaker": "SPEAKER_01",
+      "text": "What else can you think of?"
+    },
+    {
+      "start": 813.24,
+      "end": 820.28,
+      "speaker": "SPEAKER_01",
+      "text": "Another thing to have in mind is that we may capture an additional client base that"
+    },
+    {
+      "start": 820.28,
+      "end": 822.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "we didn't have access to before."
+    },
+    {
+      "start": 822.6800000000001,
+      "end": 824.2,
+      "speaker": "SPEAKER_01",
+      "text": "And so with small and pop..."
+    },
+    {
+      "start": 824.2,
+      "end": 828.84,
+      "speaker": "SPEAKER_01",
+      "text": "Like mom and pop shops, maybe we were just going to those markets that were very specific"
+    },
+    {
+      "start": 828.84,
+      "end": 831.04,
+      "speaker": "SPEAKER_01",
+      "text": "in particular to..."
+    },
+    {
+      "start": 831.04,
+      "end": 834.52,
+      "speaker": "SPEAKER_01",
+      "text": "You know, by people who really enjoy cycling."
+    },
+    {
+      "start": 834.52,
+      "end": 841.76,
+      "speaker": "SPEAKER_01",
+      "text": "And now with this other channels in discount stores, we may actually capture a larger portion"
+    },
+    {
+      "start": 841.76,
+      "end": 846.28,
+      "speaker": "SPEAKER_01",
+      "text": "of customers who may enter the store to buy something else and then decide to get the"
+    },
+    {
+      "start": 846.28,
+      "end": 851.56,
+      "speaker": "SPEAKER_01",
+      "text": "helmet just because of adjacency to other products."
+    },
+    {
+      "start": 851.56,
+      "end": 853.56,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 853.56,
+      "end": 855.68,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 855.68,
+      "end": 863.6,
+      "speaker": "SPEAKER_01",
+      "text": "So, I mean, so far we know that there are a leader in the bicycle market."
+    },
+    {
+      "start": 863.6,
+      "end": 866.36,
+      "speaker": "SPEAKER_01",
+      "text": "They have 60% of market share."
+    },
+    {
+      "start": 866.36,
+      "end": 873.16,
+      "speaker": "SPEAKER_01",
+      "text": "We also know that their distribution channels are now going to be shifting to 50% discount"
+    },
+    {
+      "start": 873.16,
+      "end": 874.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "stores."
+    },
+    {
+      "start": 874.8000000000001,
+      "end": 881.44,
+      "speaker": "SPEAKER_01",
+      "text": "And still the goal is for us to figure out whether or not to take the company private"
+    },
+    {
+      "start": 881.44,
+      "end": 883.64,
+      "speaker": "SPEAKER_01",
+      "text": "since the company is now public."
+    },
+    {
+      "start": 883.64,
+      "end": 890.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So do we have any information on the performance of the share of this company over some period"
+    },
+    {
+      "start": 890.9200000000001,
+      "end": 891.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "of time?"
+    },
+    {
+      "start": 891.92,
+      "end": 892.92,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 892.92,
+      "end": 895.24,
+      "speaker": "SPEAKER_00",
+      "text": "Good question."
+    },
+    {
+      "start": 895.24,
+      "end": 899.92,
+      "speaker": "SPEAKER_00",
+      "text": "So we know that they have been growing."
+    },
+    {
+      "start": 899.92,
+      "end": 903.0,
+      "speaker": "SPEAKER_00",
+      "text": "Revenues have been increasing."
+    },
+    {
+      "start": 903.0,
+      "end": 906.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "They have been on upward trajectory with their market share."
+    },
+    {
+      "start": 906.0799999999999,
+      "end": 909.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "But there are some new entrants into the space."
+    },
+    {
+      "start": 909.1999999999999,
+      "end": 916.4,
+      "speaker": "SPEAKER_00",
+      "text": "They're small, but they're growing quickly and recruiting players like Nike and Reebok."
+    },
+    {
+      "start": 916.4,
+      "end": 919.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 919.24,
+      "end": 925.36,
+      "speaker": "SPEAKER_01",
+      "text": "And do we have any information as to how much market share Nike and Reebok have been"
+    },
+    {
+      "start": 925.36,
+      "end": 929.44,
+      "speaker": "SPEAKER_01",
+      "text": "able to capture in the spirit of time?"
+    },
+    {
+      "start": 929.44,
+      "end": 930.44,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 930.44,
+      "end": 935.8,
+      "speaker": "SPEAKER_00",
+      "text": "Now, all other existing competitors have a pretty small share including Nike and Reebok,"
+    },
+    {
+      "start": 935.8,
+      "end": 940.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "but we do expect them to continue to grow fairly dramatically."
+    },
+    {
+      "start": 940.6800000000001,
+      "end": 943.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 943.6800000000001,
+      "end": 946.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 947.68,
+      "end": 954.56,
+      "speaker": "SPEAKER_01",
+      "text": "Let me try to keep thinking about, you know, what else we could consider here if you"
+    },
+    {
+      "start": 954.56,
+      "end": 957.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "just give me an additional moment."
+    },
+    {
+      "start": 957.3199999999999,
+      "end": 963.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I think they're still some good things in your structure we haven't covered yet."
+    },
+    {
+      "start": 963.7199999999999,
+      "end": 964.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 964.7199999999999,
+      "end": 965.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And like which one?"
+    },
+    {
+      "start": 965.7199999999999,
+      "end": 966.7199999999999,
+      "speaker": "UNKNOWN",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 966.7199999999999,
+      "end": 970.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Look through your structure and tell me what you think we're going to do."
+    },
+    {
+      "start": 970.9599999999999,
+      "end": 971.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 972.5600000000001,
+      "end": 976.96,
+      "speaker": "SPEAKER_01",
+      "text": "So my structure included profitability, market share, and then other considerations."
+    },
+    {
+      "start": 976.96,
+      "end": 982.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And so in terms of profitability, we talked about will they make additional revenues?"
+    },
+    {
+      "start": 982.8000000000001,
+      "end": 984.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Do we have information on revenues?"
+    },
+    {
+      "start": 984.8000000000001,
+      "end": 986.3000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Uh, good question."
+    },
+    {
+      "start": 986.3000000000001,
+      "end": 987.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We don't have any revenue data."
+    },
+    {
+      "start": 987.8000000000001,
+      "end": 988.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 988.8000000000001,
+      "end": 991.72,
+      "speaker": "SPEAKER_01",
+      "text": "We talked about how much will the deal cost?"
+    },
+    {
+      "start": 991.72,
+      "end": 995.72,
+      "speaker": "SPEAKER_01",
+      "text": "And I think we already figured out you don't have information on cost."
+    },
+    {
+      "start": 995.72,
+      "end": 999.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And then how will the deal be financed, whether internally or externally?"
+    },
+    {
+      "start": 999.92,
+      "end": 1004.12,
+      "speaker": "SPEAKER_01",
+      "text": "So I don't know if we have information on that."
+    },
+    {
+      "start": 1004.12,
+      "end": 1005.12,
+      "speaker": "SPEAKER_00",
+      "text": "No information on that."
+    },
+    {
+      "start": 1005.12,
+      "end": 1006.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1006.12,
+      "end": 1007.12,
+      "speaker": "SPEAKER_01",
+      "text": "All right."
+    },
+    {
+      "start": 1007.12,
+      "end": 1011.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So in terms of the market, we talked about competition and we said that they're a leader."
+    },
+    {
+      "start": 1011.8399999999999,
+      "end": 1013.88,
+      "speaker": "SPEAKER_01",
+      "text": "They have 60% of market share."
+    },
+    {
+      "start": 1013.88,
+      "end": 1015.52,
+      "speaker": "SPEAKER_01",
+      "text": "So we have the market size."
+    },
+    {
+      "start": 1015.52,
+      "end": 1018.88,
+      "speaker": "SPEAKER_01",
+      "text": "We have ideas in terms of the industry growth that we talked about."
+    },
+    {
+      "start": 1018.88,
+      "end": 1028.44,
+      "speaker": "SPEAKER_01",
+      "text": "So ideas are, you know, the fact that these are two competitions like Nike and Reebok are"
+    },
+    {
+      "start": 1028.44,
+      "end": 1030.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "coming into the space."
+    },
+    {
+      "start": 1030.6000000000001,
+      "end": 1036.72,
+      "speaker": "SPEAKER_01",
+      "text": "And in terms of channels, we also know they're not going to small specialty shops, but now"
+    },
+    {
+      "start": 1036.72,
+      "end": 1039.44,
+      "speaker": "SPEAKER_01",
+      "text": "going to discount stores."
+    },
+    {
+      "start": 1039.44,
+      "end": 1042.2,
+      "speaker": "SPEAKER_01",
+      "text": "And then in terms of other considerations, we talked about legal risks."
+    },
+    {
+      "start": 1042.2,
+      "end": 1046.28,
+      "speaker": "SPEAKER_01",
+      "text": "I don't know if there's information around that."
+    },
+    {
+      "start": 1046.28,
+      "end": 1049.88,
+      "speaker": "SPEAKER_01",
+      "text": "We talked about technology and how technology could be influencing this market."
+    },
+    {
+      "start": 1049.88,
+      "end": 1052.28,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe is there information around that?"
+    },
+    {
+      "start": 1052.28,
+      "end": 1053.28,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1053.28,
+      "end": 1057.64,
+      "speaker": "SPEAKER_00",
+      "text": "I mean, I think in this category, when we talk about legal risks, and you mentioned"
+    },
+    {
+      "start": 1057.64,
+      "end": 1063.2,
+      "speaker": "SPEAKER_00",
+      "text": "kind of a security aspect, it's important to know and mention that."
+    },
+    {
+      "start": 1063.2,
+      "end": 1068.5200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "In the last five years, most states have passed helmet laws."
+    },
+    {
+      "start": 1068.5200000000002,
+      "end": 1072.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So with that new piece of data and information, what do you take from that?"
+    },
+    {
+      "start": 1072.8400000000001,
+      "end": 1076.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "What impact do you think that has?"
+    },
+    {
+      "start": 1076.3600000000001,
+      "end": 1078.64,
+      "speaker": "SPEAKER_01",
+      "text": "And sorry, could I ask you more about that?"
+    },
+    {
+      "start": 1078.64,
+      "end": 1083.44,
+      "speaker": "SPEAKER_01",
+      "text": "So helmet laws as to mandating people to wear helmets."
+    },
+    {
+      "start": 1083.44,
+      "end": 1084.44,
+      "speaker": "SPEAKER_00",
+      "text": "Correct."
+    },
+    {
+      "start": 1084.44,
+      "end": 1087.2,
+      "speaker": "SPEAKER_00",
+      "text": "On a bicycle, mandating helmet usage."
+    },
+    {
+      "start": 1087.2,
+      "end": 1088.2,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1088.2,
+      "end": 1093.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And is it only on bicycles or any motor vehicle?"
+    },
+    {
+      "start": 1093.1200000000001,
+      "end": 1096.2,
+      "speaker": "SPEAKER_00",
+      "text": "This client focuses primarily on bicycle helmets."
+    },
+    {
+      "start": 1096.2,
+      "end": 1099.44,
+      "speaker": "SPEAKER_01",
+      "text": "No, I was just asking about the state law."
+    },
+    {
+      "start": 1099.44,
+      "end": 1103.88,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, well, the majority of states have passed bicycle helmet laws."
+    },
+    {
+      "start": 1103.88,
+      "end": 1107.16,
+      "speaker": "SPEAKER_00",
+      "text": "I don't have any information about motorcycle helmet laws."
+    },
+    {
+      "start": 1107.16,
+      "end": 1108.16,
+      "speaker": "SPEAKER_01",
+      "text": "Got it."
+    },
+    {
+      "start": 1108.16,
+      "end": 1111.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Well, then this means that the market is definitely going to grow."
+    },
+    {
+      "start": 1111.84,
+      "end": 1118.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "If the states have passed these mandatory helmet laws, because we're going to probably"
+    },
+    {
+      "start": 1118.1599999999999,
+      "end": 1123.76,
+      "speaker": "SPEAKER_01",
+      "text": "expect a lot of people to be buying helmets in order to continue using their bicycles,"
+    },
+    {
+      "start": 1123.76,
+      "end": 1129.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "or we may see a shift in them using other transportation methods because of the lack of the helmets."
+    },
+    {
+      "start": 1129.6799999999998,
+      "end": 1130.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1130.6799999999998,
+      "end": 1131.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1131.6799999999998,
+      "end": 1132.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1132.6799999999998,
+      "end": 1140.32,
+      "speaker": "SPEAKER_01",
+      "text": "So do we have any information on consumer data or behavior as to whether they would prefer"
+    },
+    {
+      "start": 1140.32,
+      "end": 1145.12,
+      "speaker": "SPEAKER_01",
+      "text": "riding bicycles or other transportation methods?"
+    },
+    {
+      "start": 1145.12,
+      "end": 1146.12,
+      "speaker": "SPEAKER_00",
+      "text": "We don't."
+    },
+    {
+      "start": 1146.12,
+      "end": 1152.08,
+      "speaker": "SPEAKER_00",
+      "text": "We've certainly seen some of that spike occur over the past five years."
+    },
+    {
+      "start": 1152.08,
+      "end": 1158.84,
+      "speaker": "SPEAKER_00",
+      "text": "And so, yeah, and the client has certainly been a little bit wary and unsure of how"
+    },
+    {
+      "start": 1158.84,
+      "end": 1165.28,
+      "speaker": "SPEAKER_00",
+      "text": "that dynamic of these new regulatory laws, how that's going to continue to impact the"
+    },
+    {
+      "start": 1165.28,
+      "end": 1167.96,
+      "speaker": "SPEAKER_00",
+      "text": "size of the market and their sales."
+    },
+    {
+      "start": 1167.96,
+      "end": 1168.96,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1168.96,
+      "end": 1176.68,
+      "speaker": "SPEAKER_01",
+      "text": "Well, so if they're looking to make the company private, it probably just means that they"
+    },
+    {
+      "start": 1176.68,
+      "end": 1182.64,
+      "speaker": "SPEAKER_01",
+      "text": "want to bring more of the revenue that the company will produce to its inside partners"
+    },
+    {
+      "start": 1182.64,
+      "end": 1188.76,
+      "speaker": "SPEAKER_01",
+      "text": "instead of public shareholders, and they don't want to grow the company that way."
+    },
+    {
+      "start": 1188.76,
+      "end": 1194.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So they may actually be thinking that there might be a market growth because of these"
+    },
+    {
+      "start": 1194.6,
+      "end": 1200.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "laws that could be overshadowed by the new entrances of Nike and Rebook into it."
+    },
+    {
+      "start": 1200.6399999999999,
+      "end": 1208.28,
+      "speaker": "SPEAKER_01",
+      "text": "So we may want to understand in that equation if there's a balance that is net profit or"
+    },
+    {
+      "start": 1208.28,
+      "end": 1216.24,
+      "speaker": "SPEAKER_01",
+      "text": "if it's, you know, those two dynamics may actually net out into a loss for them."
+    },
+    {
+      "start": 1216.24,
+      "end": 1217.24,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1217.24,
+      "end": 1218.24,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1218.24,
+      "end": 1220.24,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1220.24,
+      "end": 1224.08,
+      "speaker": "SPEAKER_00",
+      "text": "We know that one way that the client would like to look at this is in terms of their"
+    },
+    {
+      "start": 1224.08,
+      "end": 1225.36,
+      "speaker": "SPEAKER_00",
+      "text": "customer segments."
+    },
+    {
+      "start": 1225.36,
+      "end": 1226.36,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1226.36,
+      "end": 1234.72,
+      "speaker": "SPEAKER_00",
+      "text": "So the customer segments that hardhead sells to primarily include the adult cycling enthusiast"
+    },
+    {
+      "start": 1234.72,
+      "end": 1241.24,
+      "speaker": "SPEAKER_00",
+      "text": "segment, the casual biker segment, and the under 18 segments."
+    },
+    {
+      "start": 1241.24,
+      "end": 1245.48,
+      "speaker": "SPEAKER_00",
+      "text": "So just on the face of things, how would you expect the purchase behavior to differ between"
+    },
+    {
+      "start": 1245.48,
+      "end": 1246.96,
+      "speaker": "SPEAKER_00",
+      "text": "these segments?"
+    },
+    {
+      "start": 1246.96,
+      "end": 1249.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And what do you think each segment wants an a helmet?"
+    },
+    {
+      "start": 1249.6399999999999,
+      "end": 1250.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "All right."
+    },
+    {
+      "start": 1250.6399999999999,
+      "end": 1251.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect."
+    },
+    {
+      "start": 1251.6399999999999,
+      "end": 1253.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Just give me a moment to think about that."
+    },
+    {
+      "start": 1253.64,
+      "end": 1254.64,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1254.64,
+      "end": 1255.64,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1255.64,
+      "end": 1256.64,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1256.64,
+      "end": 1283.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So you mentioned there were three major customer segments."
+    },
+    {
+      "start": 1284.56,
+      "end": 1290.44,
+      "speaker": "SPEAKER_01",
+      "text": "The adult cycling, casual biker, and then the under 18."
+    },
+    {
+      "start": 1290.44,
+      "end": 1301.28,
+      "speaker": "SPEAKER_01",
+      "text": "I would guess maybe assuming that each segment is probably a third of the customer market."
+    },
+    {
+      "start": 1301.28,
+      "end": 1306.28,
+      "speaker": "SPEAKER_01",
+      "text": "When we think about adult cycling, you know, the priority for them may just be doing it for"
+    },
+    {
+      "start": 1306.28,
+      "end": 1309.16,
+      "speaker": "SPEAKER_01",
+      "text": "sport or for health."
+    },
+    {
+      "start": 1309.16,
+      "end": 1316.56,
+      "speaker": "SPEAKER_01",
+      "text": "And they, you know, I'm not sure if they may want to continue using a helmet."
+    },
+    {
+      "start": 1316.56,
+      "end": 1322.08,
+      "speaker": "SPEAKER_01",
+      "text": "Well, maybe they would, they do continue using a helmet because there's a sport element"
+    },
+    {
+      "start": 1322.08,
+      "end": 1324.2,
+      "speaker": "SPEAKER_01",
+      "text": "or the health priority there."
+    },
+    {
+      "start": 1324.2,
+      "end": 1328.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "From the casual biker perspective, so it sounds like they would be doing it more for a"
+    },
+    {
+      "start": 1328.6399999999999,
+      "end": 1329.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "fun."
+    },
+    {
+      "start": 1329.6399999999999,
+      "end": 1334.84,
+      "speaker": "SPEAKER_01",
+      "text": "And so maybe this is the segment that I may think may shift a little bit in priority because"
+    },
+    {
+      "start": 1334.84,
+      "end": 1344.32,
+      "speaker": "SPEAKER_01",
+      "text": "if the goal was just fun, they may just want to identify other, you know, areas or entertainment"
+    },
+    {
+      "start": 1344.32,
+      "end": 1345.32,
+      "speaker": "SPEAKER_01",
+      "text": "ideas."
+    },
+    {
+      "start": 1345.32,
+      "end": 1350.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And then for the under 18, I think for this one is more around, you know, the smaller,"
+    },
+    {
+      "start": 1350.1599999999999,
+      "end": 1353.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "more around security also could be fun."
+    },
+    {
+      "start": 1353.6399999999999,
+      "end": 1358.84,
+      "speaker": "SPEAKER_01",
+      "text": "But I would probably think they would stay constant because, you know, parents would want"
+    },
+    {
+      "start": 1358.84,
+      "end": 1365.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "to continue taking other children and children may want to keep using their bikes."
+    },
+    {
+      "start": 1365.4399999999998,
+      "end": 1371.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm guessing they may stay the same in terms of usage of their helmets."
+    },
+    {
+      "start": 1371.6399999999999,
+      "end": 1372.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1372.6399999999999,
+      "end": 1378.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So you talked a lot about the usage of helmets based on the regulatory requirements and the"
+    },
+    {
+      "start": 1378.1599999999999,
+      "end": 1385.32,
+      "speaker": "SPEAKER_00",
+      "text": "shift and the legal landscape and the security that helmets provide as well."
+    },
+    {
+      "start": 1385.32,
+      "end": 1390.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "But when we think about these different customer segments, what are other ways in which they"
+    },
+    {
+      "start": 1390.6799999999998,
+      "end": 1396.96,
+      "speaker": "SPEAKER_00",
+      "text": "may, you know, prefer, have differences in their preferences?"
+    },
+    {
+      "start": 1396.96,
+      "end": 1406.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Well, we talked about, so some of them may really prioritize security, whereas others"
+    },
+    {
+      "start": 1406.3999999999999,
+      "end": 1408.2,
+      "speaker": "SPEAKER_01",
+      "text": "won't."
+    },
+    {
+      "start": 1408.2,
+      "end": 1415.12,
+      "speaker": "SPEAKER_01",
+      "text": "So for example, I would think the adult sport segment may really prioritize security versus,"
+    },
+    {
+      "start": 1415.12,
+      "end": 1420.12,
+      "speaker": "SPEAKER_01",
+      "text": "you know, the casual bike or maybe not so much and same for the under 18."
+    },
+    {
+      "start": 1420.12,
+      "end": 1429.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So they, you know, there could be some lack of, you know, growth between those two segments."
+    },
+    {
+      "start": 1429.9199999999998,
+      "end": 1433.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "And your question was, what other ways we can differentiate the three segments?"
+    },
+    {
+      "start": 1433.7199999999998,
+      "end": 1434.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1434.7199999999998,
+      "end": 1439.8,
+      "speaker": "SPEAKER_00",
+      "text": "And you talked through some safety elements and the regulatory impact."
+    },
+    {
+      "start": 1439.8,
+      "end": 1444.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "What are other ways in which these different customer segments may have different preferences?"
+    },
+    {
+      "start": 1445.68,
+      "end": 1446.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1446.68,
+      "end": 1452.0,
+      "speaker": "SPEAKER_01",
+      "text": "Well, there could be a monetary issue here as well."
+    },
+    {
+      "start": 1452.0,
+      "end": 1460.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So, you know, some of them may want more kind of like niche helmet that provides better"
+    },
+    {
+      "start": 1460.8400000000001,
+      "end": 1468.64,
+      "speaker": "SPEAKER_01",
+      "text": "protection that is more fashionable, whereas others may just want the regular style."
+    },
+    {
+      "start": 1468.64,
+      "end": 1474.04,
+      "speaker": "SPEAKER_01",
+      "text": "So there could be a change in demand in terms of how much each customer, each segment is"
+    },
+    {
+      "start": 1474.04,
+      "end": 1478.92,
+      "speaker": "SPEAKER_01",
+      "text": "willing to spend on the bikes."
+    },
+    {
+      "start": 1478.92,
+      "end": 1488.52,
+      "speaker": "SPEAKER_01",
+      "text": "So maybe do we have information on which of these three helmets types cost and what's the"
+    },
+    {
+      "start": 1488.52,
+      "end": 1490.8,
+      "speaker": "SPEAKER_01",
+      "text": "demand for each of them?"
+    },
+    {
+      "start": 1490.8,
+      "end": 1498.44,
+      "speaker": "SPEAKER_00",
+      "text": "No, we don't, but let's actually take a little bit of a closer look at these segments."
+    },
+    {
+      "start": 1498.44,
+      "end": 1503.6,
+      "speaker": "SPEAKER_00",
+      "text": "How might we think about sizing each of these customer segments?"
+    },
+    {
+      "start": 1503.6,
+      "end": 1504.6,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 1504.6,
+      "end": 1510.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "I mean, we could do kind of like a top to bottom approach or a bottom sub."
+    },
+    {
+      "start": 1510.1999999999998,
+      "end": 1512.8,
+      "speaker": "SPEAKER_01",
+      "text": "Do you have any preference on how we go about it?"
+    },
+    {
+      "start": 1512.8,
+      "end": 1517.28,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I'm interested in hearing your thought process off the top of how you would think"
+    },
+    {
+      "start": 1517.28,
+      "end": 1518.28,
+      "speaker": "SPEAKER_00",
+      "text": "through this."
+    },
+    {
+      "start": 1518.28,
+      "end": 1519.28,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 1519.28,
+      "end": 1523.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So assuming that, you know, we don't have a formation on the geography of the company, but"
+    },
+    {
+      "start": 1523.9199999999998,
+      "end": 1530.24,
+      "speaker": "SPEAKER_01",
+      "text": "assuming that they're based in the US and their customer market is in the US, we know"
+    },
+    {
+      "start": 1530.24,
+      "end": 1537.04,
+      "speaker": "SPEAKER_01",
+      "text": "there's approximately 350 million individuals in the US who live here."
+    },
+    {
+      "start": 1537.04,
+      "end": 1545.04,
+      "speaker": "SPEAKER_01",
+      "text": "And we might want to think about, you know, how we can split that according to different"
+    },
+    {
+      "start": 1545.04,
+      "end": 1546.04,
+      "speaker": "SPEAKER_01",
+      "text": "states."
+    },
+    {
+      "start": 1546.04,
+      "end": 1553.48,
+      "speaker": "SPEAKER_01",
+      "text": "So I would think that, you know, let's say there's 20% of the population who have disabilities"
+    },
+    {
+      "start": 1553.48,
+      "end": 1558.92,
+      "speaker": "SPEAKER_01",
+      "text": "and essentially may not engage much in these activities."
+    },
+    {
+      "start": 1558.92,
+      "end": 1566.4,
+      "speaker": "SPEAKER_01",
+      "text": "So let's, we can take out 5% of the population who may not want to do or be able to do biking"
+    },
+    {
+      "start": 1566.4,
+      "end": 1568.44,
+      "speaker": "SPEAKER_01",
+      "text": "or be outdoors."
+    },
+    {
+      "start": 1568.44,
+      "end": 1572.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "We could also think about the different states and the geography."
+    },
+    {
+      "start": 1572.3600000000001,
+      "end": 1578.48,
+      "speaker": "SPEAKER_01",
+      "text": "So in states where you have like more mountains or more outdoors, they may be larger demand"
+    },
+    {
+      "start": 1578.48,
+      "end": 1580.88,
+      "speaker": "SPEAKER_01",
+      "text": "for doing cycling."
+    },
+    {
+      "start": 1580.88,
+      "end": 1587.64,
+      "speaker": "SPEAKER_01",
+      "text": "Although a lot of people still do it in the city, I think in the outdoors, there may be"
+    },
+    {
+      "start": 1587.64,
+      "end": 1588.64,
+      "speaker": "SPEAKER_01",
+      "text": "more."
+    },
+    {
+      "start": 1588.64,
+      "end": 1594.72,
+      "speaker": "SPEAKER_01",
+      "text": "So we may want to segment that by, you know, take out a percentage of states where there"
+    },
+    {
+      "start": 1594.72,
+      "end": 1596.64,
+      "speaker": "SPEAKER_01",
+      "text": "may not be that much activity."
+    },
+    {
+      "start": 1596.64,
+      "end": 1600.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "And they like the way you're thinking about it."
+    },
+    {
+      "start": 1600.5600000000002,
+      "end": 1605.4,
+      "speaker": "SPEAKER_00",
+      "text": "Yet we have learned, you know, we were able to learn fairly early on after the very, the"
+    },
+    {
+      "start": 1605.4,
+      "end": 1606.4,
+      "speaker": "SPEAKER_00",
+      "text": "intro."
+    },
+    {
+      "start": 1606.4,
+      "end": 1608.5200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "We have learned that they operate in the US."
+    },
+    {
+      "start": 1608.5200000000002,
+      "end": 1612.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so, you know, let's go ahead and start with our calculation."
+    },
+    {
+      "start": 1612.6000000000001,
+      "end": 1616.0400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "I understand that you were wanting to segment by geography."
+    },
+    {
+      "start": 1616.04,
+      "end": 1621.24,
+      "speaker": "SPEAKER_00",
+      "text": "Let's go ahead and think about it in terms of households and calculating first for the"
+    },
+    {
+      "start": 1621.24,
+      "end": 1623.32,
+      "speaker": "SPEAKER_00",
+      "text": "under 18 segment."
+    },
+    {
+      "start": 1623.32,
+      "end": 1625.52,
+      "speaker": "SPEAKER_00",
+      "text": "How might you think through those steps?"
+    },
+    {
+      "start": 1625.52,
+      "end": 1626.52,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 1626.52,
+      "end": 1635.44,
+      "speaker": "SPEAKER_01",
+      "text": "So let's say we have 350, maybe let's assume just 300 for the purpose of making it easier."
+    },
+    {
+      "start": 1635.44,
+      "end": 1637.8,
+      "speaker": "SPEAKER_01",
+      "text": "300 million individuals."
+    },
+    {
+      "start": 1637.8,
+      "end": 1643.84,
+      "speaker": "SPEAKER_01",
+      "text": "And let's say that there are five individuals on average per household."
+    },
+    {
+      "start": 1643.84,
+      "end": 1649.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So if we divide 300 over five, we get 60."
+    },
+    {
+      "start": 1649.1999999999998,
+      "end": 1652.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So that means there's 60 million households in the US."
+    },
+    {
+      "start": 1652.6799999999998,
+      "end": 1655.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, let's actually take 100 million households."
+    },
+    {
+      "start": 1655.4399999999998,
+      "end": 1659.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, 100 million households."
+    },
+    {
+      "start": 1659.24,
+      "end": 1666.72,
+      "speaker": "SPEAKER_01",
+      "text": "And then if we were to simplify in terms of the states that are outdoors, rather than"
+    },
+    {
+      "start": 1666.72,
+      "end": 1673.76,
+      "speaker": "SPEAKER_01",
+      "text": "states that have more city population from a geography standpoint, maybe we can"
+    },
+    {
+      "start": 1673.76,
+      "end": 1679.24,
+      "speaker": "SPEAKER_00",
+      "text": "say I understand going through a geography standpoint, but let's actually, let's go from"
+    },
+    {
+      "start": 1679.24,
+      "end": 1682.72,
+      "speaker": "SPEAKER_00",
+      "text": "households and then think about kind of age segmentation."
+    },
+    {
+      "start": 1682.72,
+      "end": 1683.72,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, yes."
+    },
+    {
+      "start": 1683.72,
+      "end": 1686.96,
+      "speaker": "SPEAKER_00",
+      "text": "To be able to think about the adult side of the segment and the children side of the"
+    },
+    {
+      "start": 1686.96,
+      "end": 1687.96,
+      "speaker": "SPEAKER_00",
+      "text": "segment."
+    },
+    {
+      "start": 1687.96,
+      "end": 1688.96,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1688.96,
+      "end": 1694.28,
+      "speaker": "SPEAKER_01",
+      "text": "So if we have 100 million households and five individuals are on the household, I would"
+    },
+    {
+      "start": 1694.28,
+      "end": 1699.68,
+      "speaker": "SPEAKER_01",
+      "text": "say, you know, two of them are probably adults and the rest are children."
+    },
+    {
+      "start": 1699.68,
+      "end": 1704.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "And so we can say that there's three children per household."
+    },
+    {
+      "start": 1704.3200000000002,
+      "end": 1709.92,
+      "speaker": "SPEAKER_00",
+      "text": "And so if we have, let's take two adults per household, yep."
+    },
+    {
+      "start": 1709.92,
+      "end": 1717.76,
+      "speaker": "SPEAKER_00",
+      "text": "And then let's say that 50% of all households have two children and that the remainder"
+    },
+    {
+      "start": 1717.76,
+      "end": 1719.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "have zero children."
+    },
+    {
+      "start": 1719.3600000000001,
+      "end": 1720.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1720.3600000000001,
+      "end": 1726.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So you said 50% of all households, which would be 50 million, have two children, correct?"
+    },
+    {
+      "start": 1726.6000000000001,
+      "end": 1727.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1727.6000000000001,
+      "end": 1728.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1729.4399999999998,
+      "end": 1733.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Let's assume all of these children are under 18 because otherwise they would be living"
+    },
+    {
+      "start": 1733.4399999999998,
+      "end": 1737.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "in college or somewhere else."
+    },
+    {
+      "start": 1737.4399999999998,
+      "end": 1743.8,
+      "speaker": "SPEAKER_01",
+      "text": "And so if we have two children and we have 50 million households, households, then that"
+    },
+    {
+      "start": 1743.8,
+      "end": 1749.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "means we probably have 100 million children under the age of 18."
+    },
+    {
+      "start": 1749.6799999999998,
+      "end": 1757.84,
+      "speaker": "SPEAKER_01",
+      "text": "And so now we probably want to figure out who is actually engaging in using a bicycle versus"
+    },
+    {
+      "start": 1757.84,
+      "end": 1760.28,
+      "speaker": "SPEAKER_01",
+      "text": "who's not."
+    },
+    {
+      "start": 1760.28,
+      "end": 1766.72,
+      "speaker": "SPEAKER_01",
+      "text": "And so like I said, maybe we could take out a 5% who may have a disability and may not"
+    },
+    {
+      "start": 1766.72,
+      "end": 1770.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "be able to go outside."
+    },
+    {
+      "start": 1770.1999999999998,
+      "end": 1780.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "We could also think about, I don't know, people who are overweight and may not enjoy doing"
+    },
+    {
+      "start": 1780.1999999999998,
+      "end": 1782.04,
+      "speaker": "SPEAKER_01",
+      "text": "activities outdoors."
+    },
+    {
+      "start": 1782.04,
+      "end": 1783.04,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1783.04,
+      "end": 1787.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Let's take 75% of children under 18 ride bicycles."
+    },
+    {
+      "start": 1787.68,
+      "end": 1788.68,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1788.68,
+      "end": 1791.8000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "75% right bikes."
+    },
+    {
+      "start": 1791.8000000000002,
+      "end": 1801.72,
+      "speaker": "SPEAKER_01",
+      "text": "So that then means there's 75 million children in the United States who are riding a bicycle."
+    },
+    {
+      "start": 1801.72,
+      "end": 1805.92,
+      "speaker": "SPEAKER_01",
+      "text": "And if there are riding a bicycle, some of them may already have helmets and they may"
+    },
+    {
+      "start": 1805.92,
+      "end": 1814.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "not need to buy new helmets, but some others may need to replace them or get new helmets."
+    },
+    {
+      "start": 1814.12,
+      "end": 1822.36,
+      "speaker": "SPEAKER_01",
+      "text": "So maybe we could say that half of them would be buying helmets."
+    },
+    {
+      "start": 1822.36,
+      "end": 1823.36,
+      "speaker": "SPEAKER_01",
+      "text": "Are new helmets?"
+    },
+    {
+      "start": 1823.36,
+      "end": 1828.52,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, we don't have any specific data about that right now, but it's good to state that"
+    },
+    {
+      "start": 1828.52,
+      "end": 1833.32,
+      "speaker": "SPEAKER_00",
+      "text": "the under 18 segment is 75 million."
+    },
+    {
+      "start": 1833.32,
+      "end": 1837.28,
+      "speaker": "SPEAKER_00",
+      "text": "Now we need to size the cycling enthusiasts."
+    },
+    {
+      "start": 1837.28,
+      "end": 1843.76,
+      "speaker": "SPEAKER_00",
+      "text": "That's 2% of the adult population."
+    },
+    {
+      "start": 1843.76,
+      "end": 1846.2,
+      "speaker": "SPEAKER_01",
+      "text": "2% of the adults."
+    },
+    {
+      "start": 1846.2,
+      "end": 1854.16,
+      "speaker": "SPEAKER_01",
+      "text": "And so we know already that we have two adults per household of the 100 million households,"
+    },
+    {
+      "start": 1854.16,
+      "end": 1858.92,
+      "speaker": "SPEAKER_01",
+      "text": "which would essentially be 200 million adults."
+    },
+    {
+      "start": 1858.92,
+      "end": 1864.12,
+      "speaker": "SPEAKER_01",
+      "text": "And you said that the cycling enthusiasts is 2% of the adult market."
+    },
+    {
+      "start": 1864.12,
+      "end": 1868.2,
+      "speaker": "SPEAKER_01",
+      "text": "So 1% is 2 million and 2% is 4 million."
+    },
+    {
+      "start": 1868.2,
+      "end": 1870.16,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1870.16,
+      "end": 1880.16,
+      "speaker": "SPEAKER_01",
+      "text": "And then in terms of the casual biker, do we have any information around what percentage"
+    },
+    {
+      "start": 1880.16,
+      "end": 1882.16,
+      "speaker": "SPEAKER_01",
+      "text": "of the market they could be?"
+    },
+    {
+      "start": 1882.16,
+      "end": 1885.16,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, that's 20% of adults."
+    },
+    {
+      "start": 1885.16,
+      "end": 1887.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, 20% of adults."
+    },
+    {
+      "start": 1887.1200000000001,
+      "end": 1889.92,
+      "speaker": "SPEAKER_01",
+      "text": "So we know 2% was 4 million."
+    },
+    {
+      "start": 1889.92,
+      "end": 1892.44,
+      "speaker": "SPEAKER_01",
+      "text": "So 20% is 40 million."
+    },
+    {
+      "start": 1892.44,
+      "end": 1893.44,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1893.44,
+      "end": 1898.76,
+      "speaker": "SPEAKER_01",
+      "text": "So far that means we have 75 million of children."
+    },
+    {
+      "start": 1898.76,
+      "end": 1909.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Then we have 4 million cycling enthusiasts and 40 million of the casual bikers."
+    },
+    {
+      "start": 1909.1200000000001,
+      "end": 1922.72,
+      "speaker": "SPEAKER_01",
+      "text": "So altogether is 119 million of customers that we probably have for our helmets."
+    },
+    {
+      "start": 1922.72,
+      "end": 1929.56,
+      "speaker": "SPEAKER_01",
+      "text": "But now we know that hardhead was a leader with 60% of market share."
+    },
+    {
+      "start": 1929.56,
+      "end": 1939.64,
+      "speaker": "SPEAKER_01",
+      "text": "So if we assume just looking at the amount of customers we may have, if we could consider"
+    },
+    {
+      "start": 1939.64,
+      "end": 1945.88,
+      "speaker": "SPEAKER_01",
+      "text": "that they have, well, it's a bit of a long shot, but we could take the 60% of the customers"
+    },
+    {
+      "start": 1945.88,
+      "end": 1953.96,
+      "speaker": "SPEAKER_01",
+      "text": "and then figure out from there or we may want to calculate like the actual consume, like"
+    },
+    {
+      "start": 1953.96,
+      "end": 1957.68,
+      "speaker": "SPEAKER_01",
+      "text": "the amount of consumption of all of these individuals."
+    },
+    {
+      "start": 1957.68,
+      "end": 1958.68,
+      "speaker": "SPEAKER_00",
+      "text": "Hmm, true."
+    },
+    {
+      "start": 1958.68,
+      "end": 1961.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, those might be some good things to do moving forward."
+    },
+    {
+      "start": 1961.8400000000001,
+      "end": 1966.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yet at this point, just looking at the size of these segments, what do you think some"
+    },
+    {
+      "start": 1966.3600000000001,
+      "end": 1969.92,
+      "speaker": "SPEAKER_00",
+      "text": "of the implications are going to be for hardhead's future earnings?"
+    },
+    {
+      "start": 1969.92,
+      "end": 1970.92,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 1970.92,
+      "end": 1975.4,
+      "speaker": "SPEAKER_01",
+      "text": "Well, we said 75% is children."
+    },
+    {
+      "start": 1975.4,
+      "end": 1978.28,
+      "speaker": "SPEAKER_01",
+      "text": "4 million is cycling enthusiasts and 40 are casual bikes."
+    },
+    {
+      "start": 1978.28,
+      "end": 1985.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So it looks like the largest customer's circumcetment is for children under the age of 18."
+    },
+    {
+      "start": 1985.0800000000002,
+      "end": 1990.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And in thinking about the fact that there's a law that would mandate wearing helmets,"
+    },
+    {
+      "start": 1990.8400000000001,
+      "end": 1996.16,
+      "speaker": "SPEAKER_01",
+      "text": "I would think that parents would want to comply with the law and want to continue providing"
+    },
+    {
+      "start": 1996.16,
+      "end": 2000.4,
+      "speaker": "SPEAKER_01",
+      "text": "helmets for their children or buying for those who don't have."
+    },
+    {
+      "start": 2000.4,
+      "end": 2006.64,
+      "speaker": "SPEAKER_01",
+      "text": "And so if this is the largest market segment, then this may mean there's a larger growth"
+    },
+    {
+      "start": 2006.64,
+      "end": 2015.0,
+      "speaker": "SPEAKER_01",
+      "text": "for the 75 million because it represents the largest portion of customers for hardhead."
+    },
+    {
+      "start": 2015.0,
+      "end": 2017.92,
+      "speaker": "SPEAKER_00",
+      "text": "Hmm, okay."
+    },
+    {
+      "start": 2017.92,
+      "end": 2022.68,
+      "speaker": "SPEAKER_00",
+      "text": "So Sylvia, let's say that the partner from the PE firm just walked into the room and"
+    },
+    {
+      "start": 2022.68,
+      "end": 2025.04,
+      "speaker": "SPEAKER_00",
+      "text": "wants to know whether or not they should do the deal."
+    },
+    {
+      "start": 2025.04,
+      "end": 2026.04,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think?"
+    },
+    {
+      "start": 2026.04,
+      "end": 2027.04,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 2027.04,
+      "end": 2032.2,
+      "speaker": "SPEAKER_01",
+      "text": "Well, I would first say that we were brought in to figure out whether or not to take a company"
+    },
+    {
+      "start": 2032.2,
+      "end": 2034.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "private."
+    },
+    {
+      "start": 2034.3600000000001,
+      "end": 2041.16,
+      "speaker": "SPEAKER_01",
+      "text": "And my recommendation is that we do take the company private, given that we've recognized"
+    },
+    {
+      "start": 2041.16,
+      "end": 2047.0,
+      "speaker": "SPEAKER_01",
+      "text": "based on the analysis we've done on customer segments, that the largest customer segment"
+    },
+    {
+      "start": 2047.0,
+      "end": 2052.24,
+      "speaker": "SPEAKER_01",
+      "text": "is for children under 18th and it's worth 75 million."
+    },
+    {
+      "start": 2052.24,
+      "end": 2061.08,
+      "speaker": "SPEAKER_01",
+      "text": "And given there is a legal element of implementing new laws mandating bicycle helmets, we expect"
+    },
+    {
+      "start": 2061.08,
+      "end": 2067.24,
+      "speaker": "SPEAKER_01",
+      "text": "a growth in this particular segment based on the needs for the segment to continue to"
+    },
+    {
+      "start": 2067.24,
+      "end": 2068.24,
+      "speaker": "SPEAKER_01",
+      "text": "have security."
+    },
+    {
+      "start": 2068.24,
+      "end": 2074.72,
+      "speaker": "SPEAKER_01",
+      "text": "And then some of the risks we may have is that parents may actually not want to buy helmets"
+    },
+    {
+      "start": 2074.72,
+      "end": 2079.56,
+      "speaker": "SPEAKER_01",
+      "text": "for their children and get upset about this law and actually find other means of entertaining"
+    },
+    {
+      "start": 2079.56,
+      "end": 2081.64,
+      "speaker": "SPEAKER_01",
+      "text": "children outside of cycling."
+    },
+    {
+      "start": 2081.64,
+      "end": 2084.48,
+      "speaker": "SPEAKER_01",
+      "text": "So we may lose customers."
+    },
+    {
+      "start": 2084.48,
+      "end": 2091.2,
+      "speaker": "SPEAKER_01",
+      "text": "But one way to mitigate that risk is actually engaging in a campaign to promote further"
+    },
+    {
+      "start": 2091.2,
+      "end": 2095.9599999999996,
+      "speaker": "SPEAKER_01",
+      "text": "security and leveraging schools to promote that message."
+    },
+    {
+      "start": 2095.9599999999996,
+      "end": 2100.68,
+      "speaker": "SPEAKER_01",
+      "text": "And in terms of next steps, I think it'd be very helpful to get additional information"
+    },
+    {
+      "start": 2100.68,
+      "end": 2106.96,
+      "speaker": "SPEAKER_01",
+      "text": "on the company and analyze its financial performance to figure out if it's worth actually"
+    },
+    {
+      "start": 2106.96,
+      "end": 2109.68,
+      "speaker": "SPEAKER_01",
+      "text": "taking the company private."
+    },
+    {
+      "start": 2109.68,
+      "end": 2112.68,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 2112.68,
+      "end": 2113.68,
+      "speaker": "SPEAKER_00",
+      "text": "Break."
+    },
+    {
+      "start": 2113.68,
+      "end": 2116.16,
+      "speaker": "SPEAKER_00",
+      "text": "Sylvia, how did that feel?"
+    },
+    {
+      "start": 2116.16,
+      "end": 2117.9199999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Oh my god, terrible."
+    },
+    {
+      "start": 2117.9199999999996,
+      "end": 2120.16,
+      "speaker": "SPEAKER_01",
+      "text": "Why did you do that?"
+    },
+    {
+      "start": 2120.16,
+      "end": 2128.52,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, I was expecting some sort of slides or something with some numbers, but clearly,"
+    },
+    {
+      "start": 2128.52,
+      "end": 2129.68,
+      "speaker": "SPEAKER_01",
+      "text": "you know, that was not coming."
+    },
+    {
+      "start": 2129.68,
+      "end": 2133.68,
+      "speaker": "SPEAKER_01",
+      "text": "So I should have saw that happening much earlier."
+    },
+    {
+      "start": 2133.68,
+      "end": 2138.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "I mean, you can't be sure until you go through it or not."
+    },
+    {
+      "start": 2138.3199999999997,
+      "end": 2140.9199999999996,
+      "speaker": "SPEAKER_00",
+      "text": "If that's going to be part of the conversation."
+    },
+    {
+      "start": 2140.9199999999996,
+      "end": 2142.68,
+      "speaker": "SPEAKER_00",
+      "text": "There was a little bit of a math component."
+    },
+    {
+      "start": 2142.68,
+      "end": 2145.3999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "I had you do a couple of calculations, right?"
+    },
+    {
+      "start": 2145.3999999999996,
+      "end": 2147.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "But not extensively so."
+    },
+    {
+      "start": 2147.7999999999997,
+      "end": 2156.2,
+      "speaker": "SPEAKER_00",
+      "text": "This was chewing on a business problem, like trying to get to what do we actually know?"
+    },
+    {
+      "start": 2156.2,
+      "end": 2157.2,
+      "speaker": "SPEAKER_00",
+      "text": "What do we not know?"
+    },
+    {
+      "start": 2157.2,
+      "end": 2160.2,
+      "speaker": "SPEAKER_00",
+      "text": "What could be relevant and important here?"
+    },
+    {
+      "start": 2160.2,
+      "end": 2161.2,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 2161.2,
+      "end": 2163.2,
+      "speaker": "SPEAKER_00",
+      "text": "So let's take a few minutes."
+    },
+    {
+      "start": 2163.2,
+      "end": 2164.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Let's debrief."
+    },
+    {
+      "start": 2164.8399999999997,
+      "end": 2168.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And then we will get some Q&A from the folks online."
+    },
+    {
+      "start": 2168.8399999999997,
+      "end": 2175.3999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "So overall, we took 35 minutes on this case."
+    },
+    {
+      "start": 2175.3999999999996,
+      "end": 2180.72,
+      "speaker": "SPEAKER_00",
+      "text": "I would expect us to be able to go through this case in 30 minutes or less, right?"
+    },
+    {
+      "start": 2180.72,
+      "end": 2187.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "So we just, we lost some time with kind of a lack of focus and clarity, not being super"
+    },
+    {
+      "start": 2187.7999999999997,
+      "end": 2191.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "efficient of going from one topic to the other."
+    },
+    {
+      "start": 2191.7999999999997,
+      "end": 2195.64,
+      "speaker": "SPEAKER_00",
+      "text": "We started off and the prompt was minuscule, right?"
+    },
+    {
+      "start": 2195.64,
+      "end": 2199.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "I had like no information to give you off the top."
+    },
+    {
+      "start": 2199.3199999999997,
+      "end": 2206.4399999999996,
+      "speaker": "SPEAKER_00",
+      "text": "But especially if I have very little information to give you, like, then I absolutely want"
+    },
+    {
+      "start": 2206.4399999999996,
+      "end": 2209.9599999999996,
+      "speaker": "SPEAKER_00",
+      "text": "you to hear that and apply that correctly."
+    },
+    {
+      "start": 2209.96,
+      "end": 2214.92,
+      "speaker": "SPEAKER_00",
+      "text": "So it's a leading manufacturer of bicycle helmets."
+    },
+    {
+      "start": 2214.92,
+      "end": 2217.52,
+      "speaker": "SPEAKER_00",
+      "text": "Should they take this company private?"
+    },
+    {
+      "start": 2217.52,
+      "end": 2219.52,
+      "speaker": "SPEAKER_00",
+      "text": "So it wasn't the worst thing in the world."
+    },
+    {
+      "start": 2219.52,
+      "end": 2225.32,
+      "speaker": "SPEAKER_00",
+      "text": "I had to kind of reclareify later on that that's what the initial prompt was."
+    },
+    {
+      "start": 2225.32,
+      "end": 2226.76,
+      "speaker": "SPEAKER_00",
+      "text": "But they're upfront."
+    },
+    {
+      "start": 2226.76,
+      "end": 2229.68,
+      "speaker": "SPEAKER_00",
+      "text": "I had a very short background to share with you."
+    },
+    {
+      "start": 2229.68,
+      "end": 2237.16,
+      "speaker": "SPEAKER_00",
+      "text": "And so it's an opportunity for a quick short recap back to me and then a couple of clarifying"
+    },
+    {
+      "start": 2237.16,
+      "end": 2238.36,
+      "speaker": "SPEAKER_00",
+      "text": "questions."
+    },
+    {
+      "start": 2238.36,
+      "end": 2244.28,
+      "speaker": "SPEAKER_00",
+      "text": "So you know, I had made the decision beforehand that I wasn't going to give you any information"
+    },
+    {
+      "start": 2244.28,
+      "end": 2245.28,
+      "speaker": "SPEAKER_00",
+      "text": "upfront."
+    },
+    {
+      "start": 2245.28,
+      "end": 2251.92,
+      "speaker": "SPEAKER_00",
+      "text": "Now, that doesn't mean that once we start the project that we won't know where they operate"
+    },
+    {
+      "start": 2251.92,
+      "end": 2257.52,
+      "speaker": "SPEAKER_00",
+      "text": "or kind of what maybe some of the overall goals would be, et cetera, those become things"
+    },
+    {
+      "start": 2257.52,
+      "end": 2263.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "that if we don't know them now, they have to be areas to investigate moving forward."
+    },
+    {
+      "start": 2263.1600000000003,
+      "end": 2267.4,
+      "speaker": "SPEAKER_00",
+      "text": "And so we should make sure that those individual things are captured in the structure and framework"
+    },
+    {
+      "start": 2267.4,
+      "end": 2270.76,
+      "speaker": "SPEAKER_00",
+      "text": "that you create in the next step."
+    },
+    {
+      "start": 2270.76,
+      "end": 2277.28,
+      "speaker": "SPEAKER_00",
+      "text": "So you know, something like wanting to understand the any other potential objectives around"
+    },
+    {
+      "start": 2277.28,
+      "end": 2283.8,
+      "speaker": "SPEAKER_00",
+      "text": "this like specific goals, target metrics, their financial time horizon, stakeholder interest"
+    },
+    {
+      "start": 2283.8,
+      "end": 2285.28,
+      "speaker": "SPEAKER_00",
+      "text": "preference."
+    },
+    {
+      "start": 2285.28,
+      "end": 2289.32,
+      "speaker": "SPEAKER_00",
+      "text": "I think those are things that you asked about, but didn't end up in the first version"
+    },
+    {
+      "start": 2289.32,
+      "end": 2293.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "of the structure that you laid out in the next step."
+    },
+    {
+      "start": 2293.16,
+      "end": 2299.48,
+      "speaker": "SPEAKER_00",
+      "text": "You only took, I counted about 68 seconds to be able to write out your structure."
+    },
+    {
+      "start": 2299.48,
+      "end": 2305.04,
+      "speaker": "SPEAKER_00",
+      "text": "And so it really, even if I'm not timing it as an experienced interviewer, that would"
+    },
+    {
+      "start": 2305.04,
+      "end": 2306.92,
+      "speaker": "SPEAKER_00",
+      "text": "feel short to me."
+    },
+    {
+      "start": 2306.92,
+      "end": 2311.72,
+      "speaker": "SPEAKER_00",
+      "text": "And it would feel like, gosh, there was an opportunity there to add a little bit more depth"
+    },
+    {
+      "start": 2311.72,
+      "end": 2314.92,
+      "speaker": "SPEAKER_00",
+      "text": "and robustness to this structure."
+    },
+    {
+      "start": 2314.92,
+      "end": 2319.92,
+      "speaker": "SPEAKER_00",
+      "text": "And especially when we're talking about an interview, we lead case, you know, the breadth"
+    },
+    {
+      "start": 2319.92,
+      "end": 2325.8,
+      "speaker": "SPEAKER_00",
+      "text": "and the depth of your structure is a huge component part and factor of your success going"
+    },
+    {
+      "start": 2325.8,
+      "end": 2328.6,
+      "speaker": "SPEAKER_00",
+      "text": "out, you're going through the rest of the conversation."
+    },
+    {
+      "start": 2328.6,
+      "end": 2333.8,
+      "speaker": "SPEAKER_00",
+      "text": "Because what it does is it provides you that roadmap to be able to march piece by piece"
+    },
+    {
+      "start": 2333.8,
+      "end": 2337.8,
+      "speaker": "SPEAKER_00",
+      "text": "through the individual component parts of what you wrote down on that structure."
+    },
+    {
+      "start": 2337.8,
+      "end": 2342.52,
+      "speaker": "SPEAKER_00",
+      "text": "And that's to where I felt like we got tripped up just a little bit because it was like,"
+    },
+    {
+      "start": 2342.52,
+      "end": 2346.6800000000003,
+      "speaker": "SPEAKER_00",
+      "text": "you got like one piece of market data and information."
+    },
+    {
+      "start": 2346.68,
+      "end": 2352.52,
+      "speaker": "SPEAKER_00",
+      "text": "And then it was, you know, well, that wasn't necessarily all the information that I had"
+    },
+    {
+      "start": 2352.52,
+      "end": 2356.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "to give for you, you know, for you in that category."
+    },
+    {
+      "start": 2356.2799999999997,
+      "end": 2361.48,
+      "speaker": "SPEAKER_00",
+      "text": "But then you took the approach to kind of say, oh, well, we talked about the market."
+    },
+    {
+      "start": 2361.48,
+      "end": 2363.44,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, well, we talked about this other part."
+    },
+    {
+      "start": 2363.44,
+      "end": 2366.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "It's like, yeah, we got to one piece of data."
+    },
+    {
+      "start": 2366.7999999999997,
+      "end": 2369.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "But what might be other aspects there?"
+    },
+    {
+      "start": 2369.3199999999997,
+      "end": 2371.24,
+      "speaker": "SPEAKER_00",
+      "text": "Like did you have you gone through?"
+    },
+    {
+      "start": 2371.24,
+      "end": 2376.48,
+      "speaker": "SPEAKER_00",
+      "text": "Did you actually go through and ask bullet point by bullet point?"
+    },
+    {
+      "start": 2376.48,
+      "end": 2380.68,
+      "speaker": "SPEAKER_00",
+      "text": "Whether we had that information, whether or not we had any insights there, et cetera."
+    },
+    {
+      "start": 2380.68,
+      "end": 2385.12,
+      "speaker": "SPEAKER_00",
+      "text": "And so that systematic approach of going through piece by piece and then actually kind of"
+    },
+    {
+      "start": 2385.12,
+      "end": 2391.12,
+      "speaker": "SPEAKER_00",
+      "text": "marking off or crossing off each of those components is going to be a really useful strategy"
+    },
+    {
+      "start": 2391.12,
+      "end": 2398.32,
+      "speaker": "SPEAKER_00",
+      "text": "and tactics to take when you are going through an interview, we led style case delivery."
+    },
+    {
+      "start": 2398.32,
+      "end": 2403.48,
+      "speaker": "SPEAKER_00",
+      "text": "So you know, there, the, I appreciated in your delivery of the structure that it was"
+    },
+    {
+      "start": 2403.48,
+      "end": 2405.08,
+      "speaker": "SPEAKER_00",
+      "text": "a good time frame."
+    },
+    {
+      "start": 2405.08,
+      "end": 2407.92,
+      "speaker": "SPEAKER_00",
+      "text": "It was about two and a half minutes in total."
+    },
+    {
+      "start": 2407.92,
+      "end": 2411.0,
+      "speaker": "SPEAKER_00",
+      "text": "The first sentence out of your mouth was telling me how many categories you had and what"
+    },
+    {
+      "start": 2411.0,
+      "end": 2412.6,
+      "speaker": "SPEAKER_00",
+      "text": "the titles of those were."
+    },
+    {
+      "start": 2412.6,
+      "end": 2413.6,
+      "speaker": "SPEAKER_00",
+      "text": "I loved that."
+    },
+    {
+      "start": 2413.6,
+      "end": 2416.4,
+      "speaker": "SPEAKER_00",
+      "text": "That's what I want to hear in your first sentence of your presentation."
+    },
+    {
+      "start": 2416.4,
+      "end": 2421.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "It gives me that mental roadmap to understand, you know, what the categories are that you're"
+    },
+    {
+      "start": 2421.2799999999997,
+      "end": 2424.12,
+      "speaker": "SPEAKER_00",
+      "text": "going to be talking through over the next couple of minutes."
+    },
+    {
+      "start": 2424.12,
+      "end": 2429.88,
+      "speaker": "SPEAKER_00",
+      "text": "I want then you to continue to provide that structure and clarity to me as you talk through"
+    },
+    {
+      "start": 2429.88,
+      "end": 2435.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "being, being careful that you're going to tell me again, like you're going to walk through"
+    },
+    {
+      "start": 2435.1600000000003,
+      "end": 2439.56,
+      "speaker": "SPEAKER_00",
+      "text": "each category, you're going to tell me when you're moving to the next category."
+    },
+    {
+      "start": 2439.56,
+      "end": 2444.48,
+      "speaker": "SPEAKER_00",
+      "text": "So when I first wrote down your categories, I wrote down financials as the title of the"
+    },
+    {
+      "start": 2444.48,
+      "end": 2445.88,
+      "speaker": "SPEAKER_00",
+      "text": "first category."
+    },
+    {
+      "start": 2445.88,
+      "end": 2450.12,
+      "speaker": "SPEAKER_00",
+      "text": "And then as you started to talk through it, it was like, maybe that was profitability,"
+    },
+    {
+      "start": 2450.12,
+      "end": 2453.92,
+      "speaker": "SPEAKER_00",
+      "text": "which is just a little bit of a side step, right?"
+    },
+    {
+      "start": 2453.92,
+      "end": 2456.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "But maybe we're just going ahead and launching in there."
+    },
+    {
+      "start": 2456.2,
+      "end": 2458.72,
+      "speaker": "SPEAKER_00",
+      "text": "It felt like a little bit of a disconnect."
+    },
+    {
+      "start": 2458.72,
+      "end": 2464.64,
+      "speaker": "SPEAKER_00",
+      "text": "As you went through the content, you know, I thought that what you had was good."
+    },
+    {
+      "start": 2464.64,
+      "end": 2465.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "You did a great job too."
+    },
+    {
+      "start": 2465.7999999999997,
+      "end": 2469.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Hey, as you were presenting through it, you thought of additional things."
+    },
+    {
+      "start": 2469.3599999999997,
+      "end": 2474.08,
+      "speaker": "SPEAKER_00",
+      "text": "And by no means is it off limits to continue to add to your structure as you're talking"
+    },
+    {
+      "start": 2474.08,
+      "end": 2475.08,
+      "speaker": "SPEAKER_00",
+      "text": "through it."
+    },
+    {
+      "start": 2475.08,
+      "end": 2481.96,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, actually, that's made me think also I want to investigate X, Y, or Z, right?"
+    },
+    {
+      "start": 2481.96,
+      "end": 2489.12,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of understanding the target company, understanding this business and its operations,"
+    },
+    {
+      "start": 2489.12,
+      "end": 2492.32,
+      "speaker": "SPEAKER_00",
+      "text": "from a content perspective, that's where I felt like there was the greatest opportunity"
+    },
+    {
+      "start": 2492.32,
+      "end": 2496.4,
+      "speaker": "SPEAKER_00",
+      "text": "for more content in that space in your structure."
+    },
+    {
+      "start": 2496.4,
+      "end": 2500.84,
+      "speaker": "SPEAKER_00",
+      "text": "Whereas you could have had something about really wanting to understand more about that"
+    },
+    {
+      "start": 2500.84,
+      "end": 2505.56,
+      "speaker": "SPEAKER_00",
+      "text": "product and service or the customers."
+    },
+    {
+      "start": 2505.56,
+      "end": 2509.4,
+      "speaker": "SPEAKER_00",
+      "text": "You did have competitors in the market bucket."
+    },
+    {
+      "start": 2509.4,
+      "end": 2514.32,
+      "speaker": "SPEAKER_00",
+      "text": "And so there was an opportunity to dive into that just based on your structure."
+    },
+    {
+      "start": 2514.32,
+      "end": 2518.32,
+      "speaker": "SPEAKER_00",
+      "text": "But you know, something about the product, wanting to better understand the helmet, the"
+    },
+    {
+      "start": 2518.32,
+      "end": 2522.04,
+      "speaker": "SPEAKER_00",
+      "text": "different types of helmets that we sell, the price point of that, right?"
+    },
+    {
+      "start": 2522.04,
+      "end": 2527.96,
+      "speaker": "SPEAKER_00",
+      "text": "And then wanting to understand how we view our customers, you know, how are they geographically"
+    },
+    {
+      "start": 2527.96,
+      "end": 2531.8,
+      "speaker": "SPEAKER_00",
+      "text": "distributed or what we've seen in growth in that, in that, how does our customer think"
+    },
+    {
+      "start": 2531.8,
+      "end": 2533.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "about segments?"
+    },
+    {
+      "start": 2533.2000000000003,
+      "end": 2538.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Those are all things that could have possibly ended up in your upfront structure."
+    },
+    {
+      "start": 2538.2,
+      "end": 2543.96,
+      "speaker": "SPEAKER_00",
+      "text": "So then we have to take the approach to say, okay, this is an interview we led style case."
+    },
+    {
+      "start": 2543.96,
+      "end": 2546.24,
+      "speaker": "SPEAKER_00",
+      "text": "So you got to leave me through the discussion."
+    },
+    {
+      "start": 2546.24,
+      "end": 2550.6,
+      "speaker": "SPEAKER_00",
+      "text": "And that starts with the end of your presentation with your structure."
+    },
+    {
+      "start": 2550.6,
+      "end": 2556.0,
+      "speaker": "SPEAKER_00",
+      "text": "I want you to finish your presentation of your structure by telling me what category"
+    },
+    {
+      "start": 2556.0,
+      "end": 2558.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "you think is most important and where you want to start."
+    },
+    {
+      "start": 2558.7599999999998,
+      "end": 2562.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And you got there, there was just, there was a little bit of a pause I think in getting"
+    },
+    {
+      "start": 2562.2799999999997,
+      "end": 2564.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "there."
+    },
+    {
+      "start": 2564.2799999999997,
+      "end": 2568.04,
+      "speaker": "SPEAKER_00",
+      "text": "And then we start to go through, okay, do we have this information?"
+    },
+    {
+      "start": 2568.04,
+      "end": 2569.16,
+      "speaker": "SPEAKER_00",
+      "text": "No, we don't have that information."
+    },
+    {
+      "start": 2569.16,
+      "end": 2570.16,
+      "speaker": "SPEAKER_00",
+      "text": "Do we have this information?"
+    },
+    {
+      "start": 2570.16,
+      "end": 2571.32,
+      "speaker": "SPEAKER_00",
+      "text": "No."
+    },
+    {
+      "start": 2571.32,
+      "end": 2576.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And then even when I started to give you some data and information, it was a little, a few"
+    },
+    {
+      "start": 2576.2799999999997,
+      "end": 2580.84,
+      "speaker": "SPEAKER_00",
+      "text": "of my answers, there was still some ambiguity to it, right?"
+    },
+    {
+      "start": 2580.84,
+      "end": 2585.48,
+      "speaker": "SPEAKER_00",
+      "text": "So I started to feel like, okay, I'm going to offer some information."
+    },
+    {
+      "start": 2585.48,
+      "end": 2587.96,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe you didn't directly ask me for that."
+    },
+    {
+      "start": 2587.96,
+      "end": 2591.92,
+      "speaker": "SPEAKER_00",
+      "text": "But yes, there have been some, some different dynamics going on in the market that have"
+    },
+    {
+      "start": 2591.92,
+      "end": 2594.96,
+      "speaker": "SPEAKER_00",
+      "text": "led to some growth."
+    },
+    {
+      "start": 2594.96,
+      "end": 2597.2,
+      "speaker": "SPEAKER_00",
+      "text": "Key opportunity for follow up question."
+    },
+    {
+      "start": 2597.2,
+      "end": 2599.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Well, do we know any more about what some of those dynamics were?"
+    },
+    {
+      "start": 2599.7999999999997,
+      "end": 2601.2,
+      "speaker": "SPEAKER_00",
+      "text": "What has been going on in the marketplace?"
+    },
+    {
+      "start": 2601.2,
+      "end": 2603.24,
+      "speaker": "SPEAKER_00",
+      "text": "How much have we been growing, right?"
+    },
+    {
+      "start": 2603.24,
+      "end": 2606.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "And I wouldn't have had the answer to all those questions, but we could have dove, we"
+    },
+    {
+      "start": 2606.7599999999998,
+      "end": 2614.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "could have dove in deeper into and faster, gotten to the aspect of helmet laws and some of"
+    },
+    {
+      "start": 2614.3599999999997,
+      "end": 2618.72,
+      "speaker": "SPEAKER_00",
+      "text": "the aspects around that, moving through that."
+    },
+    {
+      "start": 2618.72,
+      "end": 2620.48,
+      "speaker": "SPEAKER_00",
+      "text": "We got to the channels information."
+    },
+    {
+      "start": 2620.48,
+      "end": 2623.4399999999996,
+      "speaker": "SPEAKER_00",
+      "text": "I felt fairly easily."
+    },
+    {
+      "start": 2623.44,
+      "end": 2629.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "But I started to feel like more and more that I was offering up some of the information."
+    },
+    {
+      "start": 2629.2400000000002,
+      "end": 2633.32,
+      "speaker": "SPEAKER_00",
+      "text": "We weren't kind of hitting it directly with the questions asked, but we were getting to"
+    },
+    {
+      "start": 2633.32,
+      "end": 2637.56,
+      "speaker": "SPEAKER_00",
+      "text": "most of the pieces."
+    },
+    {
+      "start": 2637.56,
+      "end": 2641.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "The changes, and then I asked you a question on changes in distribution channel."
+    },
+    {
+      "start": 2641.7200000000003,
+      "end": 2645.88,
+      "speaker": "SPEAKER_00",
+      "text": "I thought that you had some good insights and ideas there."
+    },
+    {
+      "start": 2645.88,
+      "end": 2651.36,
+      "speaker": "SPEAKER_00",
+      "text": "One other idea that you could have come up with would be, right, if we've already been"
+    },
+    {
+      "start": 2651.36,
+      "end": 2656.28,
+      "speaker": "SPEAKER_00",
+      "text": "able to gain so much market share only through specialty stores."
+    },
+    {
+      "start": 2656.28,
+      "end": 2664.04,
+      "speaker": "SPEAKER_00",
+      "text": "Perhaps that tells me that the specialty retailers and the hands-on experience that these"
+    },
+    {
+      "start": 2664.04,
+      "end": 2668.8,
+      "speaker": "SPEAKER_00",
+      "text": "sales associates likely have with their customers, they're probably pushing customers that come"
+    },
+    {
+      "start": 2668.8,
+      "end": 2672.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "into the store to our brand, to our product."
+    },
+    {
+      "start": 2672.1600000000003,
+      "end": 2676.08,
+      "speaker": "SPEAKER_00",
+      "text": "We're not going to have that dynamic going forward in a discount store."
+    },
+    {
+      "start": 2676.08,
+      "end": 2681.2,
+      "speaker": "SPEAKER_00",
+      "text": "We're not going to have that sales associate expertise to be able to help drive customers"
+    },
+    {
+      "start": 2681.2,
+      "end": 2683.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "to our product."
+    },
+    {
+      "start": 2683.2799999999997,
+      "end": 2687.84,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe we also want to reevaluate our branding and our marketing and the way that we're"
+    },
+    {
+      "start": 2687.84,
+      "end": 2691.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "developing our product packaging material."
+    },
+    {
+      "start": 2691.2799999999997,
+      "end": 2695.24,
+      "speaker": "SPEAKER_00",
+      "text": "Are there any other ways that we can think about really trying to still drive customers"
+    },
+    {
+      "start": 2695.24,
+      "end": 2699.2,
+      "speaker": "SPEAKER_00",
+      "text": "even in a discount retail setting to our product?"
+    },
+    {
+      "start": 2699.2,
+      "end": 2700.88,
+      "speaker": "SPEAKER_00",
+      "text": "What do we know about our brand recognition?"
+    },
+    {
+      "start": 2700.88,
+      "end": 2703.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "What do we know about our product recognition in the marketplace?"
+    },
+    {
+      "start": 2703.8,
+      "end": 2708.28,
+      "speaker": "SPEAKER_00",
+      "text": "There just may really be a different dynamic there as well as being squeezed out on our"
+    },
+    {
+      "start": 2708.28,
+      "end": 2719.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "profit margins because of having to compete on price or having to just be constricted into"
+    },
+    {
+      "start": 2719.2000000000003,
+      "end": 2724.8,
+      "speaker": "SPEAKER_00",
+      "text": "a certain contract with these retailers, et cetera, et cetera."
+    },
+    {
+      "start": 2724.8,
+      "end": 2730.8,
+      "speaker": "SPEAKER_00",
+      "text": "I thought there was just a couple ideas where we could have gone in that part of the conversation."
+    },
+    {
+      "start": 2730.8,
+      "end": 2737.96,
+      "speaker": "SPEAKER_00",
+      "text": "We got to helmet laws, regulatory, what impact does this have in the last five years we've"
+    },
+    {
+      "start": 2737.96,
+      "end": 2740.5600000000004,
+      "speaker": "SPEAKER_00",
+      "text": "passed these helmet laws."
+    },
+    {
+      "start": 2740.5600000000004,
+      "end": 2745.92,
+      "speaker": "SPEAKER_00",
+      "text": "I did state and frame it at one point to say we have seen some of that spike with the"
+    },
+    {
+      "start": 2745.92,
+      "end": 2750.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "increase in revenue, increase in growth."
+    },
+    {
+      "start": 2750.2000000000003,
+      "end": 2755.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Yes, we might expect to continue to see that."
+    },
+    {
+      "start": 2756.12,
+      "end": 2762.92,
+      "speaker": "SPEAKER_00",
+      "text": "There would be an expected dynamic where that would drop off to some degree, yet then the"
+    },
+    {
+      "start": 2762.92,
+      "end": 2769.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "overall growth and size of the market would probably be higher than it was before."
+    },
+    {
+      "start": 2769.3599999999997,
+      "end": 2773.48,
+      "speaker": "SPEAKER_00",
+      "text": "We don't really know at this point, maybe we've already seen the majority of the significant"
+    },
+    {
+      "start": 2773.48,
+      "end": 2777.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "increase in sales as helmets were purchased for the first time after these new helmet"
+    },
+    {
+      "start": 2777.8399999999997,
+      "end": 2781.0,
+      "speaker": "SPEAKER_00",
+      "text": "laws were put into place."
+    },
+    {
+      "start": 2781.0,
+      "end": 2786.0,
+      "speaker": "SPEAKER_00",
+      "text": "I thought that that was a dynamic that could have been mentioned and identified, although"
+    },
+    {
+      "start": 2786.0,
+      "end": 2789.52,
+      "speaker": "SPEAKER_00",
+      "text": "I still think that you had some good ideas there."
+    },
+    {
+      "start": 2789.52,
+      "end": 2794.2,
+      "speaker": "SPEAKER_00",
+      "text": "Then we went in looked into the customer segments and we did a little bit of market sizing."
+    },
+    {
+      "start": 2794.2,
+      "end": 2799.12,
+      "speaker": "SPEAKER_00",
+      "text": "We identified what things might be interesting to the different customer segments."
+    },
+    {
+      "start": 2799.12,
+      "end": 2801.72,
+      "speaker": "SPEAKER_00",
+      "text": "I tried to pull your answer up, right?"
+    },
+    {
+      "start": 2801.72,
+      "end": 2807.24,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, you've told me some great ideas about the impact of regulatory and the safety features"
+    },
+    {
+      "start": 2807.24,
+      "end": 2810.52,
+      "speaker": "SPEAKER_00",
+      "text": "and the aspect of security that they might be interested in."
+    },
+    {
+      "start": 2810.52,
+      "end": 2815.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "What might some other preference areas be?"
+    },
+    {
+      "start": 2815.2799999999997,
+      "end": 2821.2,
+      "speaker": "SPEAKER_00",
+      "text": "Your first instinct was to dive in a little bit deeper into those areas again, which was"
+    },
+    {
+      "start": 2821.2,
+      "end": 2827.0,
+      "speaker": "SPEAKER_00",
+      "text": "okay because you hadn't talked to each of those areas in the full level of depth per customer"
+    },
+    {
+      "start": 2827.0,
+      "end": 2828.0,
+      "speaker": "SPEAKER_00",
+      "text": "segment."
+    },
+    {
+      "start": 2828.0,
+      "end": 2830.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "I still wanted, okay, what are some other things?"
+    },
+    {
+      "start": 2830.8399999999997,
+      "end": 2834.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "If we take those more at a categorical level, what might be some other categories that"
+    },
+    {
+      "start": 2834.7999999999997,
+      "end": 2835.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "matter?"
+    },
+    {
+      "start": 2835.8,
+      "end": 2843.8,
+      "speaker": "SPEAKER_00",
+      "text": "If you take a look at the price, you've got to style, fashion forward, the look and feel,"
+    },
+    {
+      "start": 2843.8,
+      "end": 2851.28,
+      "speaker": "SPEAKER_00",
+      "text": "even things like size of helmets, performance features, these would be some different elements"
+    },
+    {
+      "start": 2851.28,
+      "end": 2857.32,
+      "speaker": "SPEAKER_00",
+      "text": "and areas of preference difference that we would expect between the customer segments."
+    },
+    {
+      "start": 2857.32,
+      "end": 2861.52,
+      "speaker": "SPEAKER_00",
+      "text": "Those were some additional ideas and direction we could have gone there."
+    },
+    {
+      "start": 2861.52,
+      "end": 2864.04,
+      "speaker": "SPEAKER_00",
+      "text": "Even in a little bit of market sizing, right?"
+    },
+    {
+      "start": 2864.04,
+      "end": 2870.8,
+      "speaker": "SPEAKER_00",
+      "text": "If anybody's seen me and heard me led through market sizing estimates, exercises, then you"
+    },
+    {
+      "start": 2870.8,
+      "end": 2875.4,
+      "speaker": "SPEAKER_00",
+      "text": "know that my big thing is, hey, the interviewer is probably going to have all the data to"
+    },
+    {
+      "start": 2875.4,
+      "end": 2879.72,
+      "speaker": "SPEAKER_00",
+      "text": "give you or they're going to have none of the data to give you."
+    },
+    {
+      "start": 2879.72,
+      "end": 2886.36,
+      "speaker": "SPEAKER_00",
+      "text": "When I insert it into your equation that let's go ahead and take 100 million households,"
+    },
+    {
+      "start": 2886.36,
+      "end": 2891.0,
+      "speaker": "SPEAKER_00",
+      "text": "that should be a clear trigger and indicator to you that you should continue to ask for"
+    },
+    {
+      "start": 2891.0,
+      "end": 2896.12,
+      "speaker": "SPEAKER_00",
+      "text": "or confirm your estimates along the way, that I would continue to have that information"
+    },
+    {
+      "start": 2896.12,
+      "end": 2899.32,
+      "speaker": "SPEAKER_00",
+      "text": "and data to give you."
+    },
+    {
+      "start": 2899.32,
+      "end": 2901.24,
+      "speaker": "SPEAKER_00",
+      "text": "We did the math."
+    },
+    {
+      "start": 2901.24,
+      "end": 2905.16,
+      "speaker": "SPEAKER_00",
+      "text": "There was a little bit of a hiccup when you were trying to say, oh, if we have 100 million"
+    },
+    {
+      "start": 2905.16,
+      "end": 2909.28,
+      "speaker": "SPEAKER_00",
+      "text": "households, that means there's five people per household, two adults and three children,"
+    },
+    {
+      "start": 2909.28,
+      "end": 2911.24,
+      "speaker": "SPEAKER_00",
+      "text": "but I'm like, where did that come from?"
+    },
+    {
+      "start": 2911.24,
+      "end": 2913.68,
+      "speaker": "SPEAKER_00",
+      "text": "There's not 500 million people."
+    },
+    {
+      "start": 2913.68,
+      "end": 2917.6,
+      "speaker": "SPEAKER_00",
+      "text": "There was just a little bit of a disconnect there, I think in the rationale and in the math."
+    },
+    {
+      "start": 2917.6,
+      "end": 2921.4,
+      "speaker": "SPEAKER_00",
+      "text": "Then when we got the numbers out, you did the math correctly."
+    },
+    {
+      "start": 2921.4,
+      "end": 2923.56,
+      "speaker": "SPEAKER_00",
+      "text": "I thought you had some good thoughts there."
+    },
+    {
+      "start": 2923.56,
+      "end": 2928.2,
+      "speaker": "SPEAKER_00",
+      "text": "There were other conclusions that people could come to as well."
+    },
+    {
+      "start": 2928.2,
+      "end": 2931.64,
+      "speaker": "SPEAKER_00",
+      "text": "From what you've talked about, what you've been able to identify, about the differences"
+    },
+    {
+      "start": 2931.64,
+      "end": 2936.52,
+      "speaker": "SPEAKER_00",
+      "text": "between these customer segments and then the size of these markets, what are those dynamics?"
+    },
+    {
+      "start": 2936.52,
+      "end": 2940.64,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think the impact is that that has on the client and being able to really pull"
+    },
+    {
+      "start": 2940.64,
+      "end": 2945.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "these pieces of information and disparate pieces of data together to be able to come"
+    },
+    {
+      "start": 2945.4,
+      "end": 2948.1200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "to some sort of conclusion?"
+    },
+    {
+      "start": 2948.1200000000003,
+      "end": 2952.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "The conclusion that you came to was, yes, maybe there's a really good opportunity here"
+    },
+    {
+      "start": 2952.2400000000002,
+      "end": 2957.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "to take it private, continue to grow in this market space, continue to leverage and profit"
+    },
+    {
+      "start": 2957.1600000000003,
+      "end": 2962.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "off of the regulatory environment of increased helmet laws."
+    },
+    {
+      "start": 2962.1600000000003,
+      "end": 2965.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Somebody could have easily made the opposite recommendation as well."
+    },
+    {
+      "start": 2965.2000000000003,
+      "end": 2967.76,
+      "speaker": "SPEAKER_00",
+      "text": "I recommend that we not take this private."
+    },
+    {
+      "start": 2967.76,
+      "end": 2973.04,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe we actually investigate divesting from this moving forward because of the new entrance"
+    },
+    {
+      "start": 2973.04,
+      "end": 2975.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "of Nike and Reebok."
+    },
+    {
+      "start": 2975.3199999999997,
+      "end": 2982.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Because of the high percentage of under 18 customers and how customers move forward may"
+    },
+    {
+      "start": 2982.3199999999997,
+      "end": 2987.04,
+      "speaker": "SPEAKER_00",
+      "text": "be directed towards different products in the discount realm."
+    },
+    {
+      "start": 2987.04,
+      "end": 2990.9599999999996,
+      "speaker": "SPEAKER_00",
+      "text": "To further investigate that and proof point that out, I would want to investigate X, Y,"
+    },
+    {
+      "start": 2990.9599999999996,
+      "end": 2994.6,
+      "speaker": "SPEAKER_00",
+      "text": "and Z. This would be my next steps."
+    },
+    {
+      "start": 2994.6,
+      "end": 2998.68,
+      "speaker": "SPEAKER_00",
+      "text": "There was enough information here where I think you could have made a reasonable conclusion"
+    },
+    {
+      "start": 2998.68,
+      "end": 2999.9199999999996,
+      "speaker": "SPEAKER_00",
+      "text": "either way."
+    },
+    {
+      "start": 2999.9199999999996,
+      "end": 3002.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "It's all about how do you support that?"
+    },
+    {
+      "start": 3002.7999999999997,
+      "end": 3005.0,
+      "speaker": "SPEAKER_00",
+      "text": "What's the rationale towards that conclusion?"
+    },
+    {
+      "start": 3005.0,
+      "end": 3006.48,
+      "speaker": "SPEAKER_00",
+      "text": "You added some risks and next steps."
+    },
+    {
+      "start": 3006.48,
+      "end": 3007.8,
+      "speaker": "SPEAKER_00",
+      "text": "I thought those were good."
+    },
+    {
+      "start": 3007.8,
+      "end": 3010.88,
+      "speaker": "SPEAKER_00",
+      "text": "Of course, there's so many more things you'd want to investigate and analyze because"
+    },
+    {
+      "start": 3010.88,
+      "end": 3013.36,
+      "speaker": "SPEAKER_00",
+      "text": "we only hit the tip of the iceberg today."
+    },
+    {
+      "start": 3013.36,
+      "end": 3018.16,
+      "speaker": "SPEAKER_00",
+      "text": "You kept it within the realm of what we talked about and you had some good rationale there."
+    },
+    {
+      "start": 3018.16,
+      "end": 3020.16,
+      "speaker": "SPEAKER_00",
+      "text": "I felt like at the end that came together pretty well."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 12,
+    "math": 11,
+    "case_difficulty": 10,
+    "final_summary": 14,
+    "overall_thoughts": "You communicated very clearly throughout, but the math was quite shaky. Additionally, try and build out a deeper framework and include risks and mitigatns in your final summary."
+  }
+}

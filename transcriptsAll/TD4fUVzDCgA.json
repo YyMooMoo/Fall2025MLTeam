@@ -1,0 +1,938 @@
+[
+  {
+    "start": 0.0,
+    "end": 11.52,
+    "speaker": "SPEAKER_00",
+    "text": "Well, thank you for coming in today. We're very excited to have you. My name is Zian and I will be your interviewer today."
+  },
+  {
+    "start": 11.52,
+    "end": 14.92,
+    "speaker": "SPEAKER_01",
+    "text": "Awesome, great. I'm super excited to be here. I am Riyavakim."
+  },
+  {
+    "start": 14.92,
+    "end": 18.32,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome. So, do you want to just dive straight into the case?"
+  },
+  {
+    "start": 18.32,
+    "end": 19.52,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I'm ready whenever you are."
+  },
+  {
+    "start": 19.52,
+    "end": 20.52,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, let's do it."
+  },
+  {
+    "start": 20.52,
+    "end": 27.52,
+    "speaker": "SPEAKER_00",
+    "text": "So, for today's case, you actually have a maker of Botox that is considering expanding into the Migraine market."
+  },
+  {
+    "start": 28.32,
+    "end": 31.12,
+    "speaker": "SPEAKER_00",
+    "text": "And they've already begun clinical trials in this area."
+  },
+  {
+    "start": 31.12,
+    "end": 35.36,
+    "speaker": "SPEAKER_00",
+    "text": "The product is expected to receive FDA approval at the end of the year,"
+  },
+  {
+    "start": 35.36,
+    "end": 39.6,
+    "speaker": "SPEAKER_00",
+    "text": "and your team has been hired to assess the viability of the product launch."
+  },
+  {
+    "start": 39.6,
+    "end": 45.92,
+    "speaker": "SPEAKER_00",
+    "text": "So, essentially, the question is, how would you determine if Botox company should enter the Migraine market?"
+  },
+  {
+    "start": 45.92,
+    "end": 49.519999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, awesome. Thank you for sharing that information."
+  },
+  {
+    "start": 49.519999999999996,
+    "end": 54.56,
+    "speaker": "SPEAKER_02",
+    "text": "So, just before I get started, I want to make sure I correctly understand the situation at hand."
+  },
+  {
+    "start": 55.120000000000005,
+    "end": 60.56,
+    "speaker": "SPEAKER_02",
+    "text": "So, our client here is Botox and they are considering expanding into the Migraine market."
+  },
+  {
+    "start": 60.56,
+    "end": 64.64,
+    "speaker": "SPEAKER_02",
+    "text": "And the product they're working with is going through the trial process now,"
+  },
+  {
+    "start": 64.64,
+    "end": 69.28,
+    "speaker": "SPEAKER_02",
+    "text": "waiting for FDA approval. And our main goal here is to figure out whether or not it's"
+  },
+  {
+    "start": 70.08,
+    "end": 72.64,
+    "speaker": "SPEAKER_02",
+    "text": "viable or not to enter the Migraine market."
+  },
+  {
+    "start": 72.64,
+    "end": 73.84,
+    "speaker": "SPEAKER_02",
+    "text": "That's correct."
+  },
+  {
+    "start": 73.84,
+    "end": 79.68,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, awesome. So, before we get started, just wanted a little bit more information about the product."
+  },
+  {
+    "start": 79.68,
+    "end": 81.84,
+    "speaker": "SPEAKER_02",
+    "text": "Do you know exactly what it looks like?"
+  },
+  {
+    "start": 81.92,
+    "end": 87.04,
+    "speaker": "SPEAKER_00",
+    "text": "Sure. So, what I know is that the product is basically an injection that is given every two months."
+  },
+  {
+    "start": 87.84,
+    "end": 93.60000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And it offers similar efficacy to other market options without any side effects."
+  },
+  {
+    "start": 94.56,
+    "end": 98.4,
+    "speaker": "SPEAKER_00",
+    "text": "And as a benefit, it does have some skin care benefits to it."
+  },
+  {
+    "start": 98.4,
+    "end": 102.88,
+    "speaker": "SPEAKER_02",
+    "text": "So, okay, awesome. As a person who loves skin care, that's amazing."
+  },
+  {
+    "start": 103.84,
+    "end": 106.72,
+    "speaker": "SPEAKER_02",
+    "text": "I feel like that's all the information I need. So, is it okay if I take a couple of"
+  },
+  {
+    "start": 106.72,
+    "end": 108.24000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "moments to brainstorm my thoughts?"
+  },
+  {
+    "start": 108.24000000000001,
+    "end": 108.88,
+    "speaker": "SPEAKER_00",
+    "text": "Absolutely."
+  },
+  {
+    "start": 108.88,
+    "end": 109.68,
+    "speaker": "SPEAKER_02",
+    "text": "Awesome. Thank you."
+  },
+  {
+    "start": 112.24000000000001,
+    "end": 117.36,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, great. So, after looking at the situation at hand, in order to figure out whether or not"
+  },
+  {
+    "start": 117.36,
+    "end": 122.4,
+    "speaker": "SPEAKER_02",
+    "text": "Botox should enter the Migraine market, there is three main factors I'm thinking about."
+  },
+  {
+    "start": 122.4,
+    "end": 126.56,
+    "speaker": "SPEAKER_02",
+    "text": "The Migraine market, financial implications, and just overall risks."
+  },
+  {
+    "start": 127.2,
+    "end": 132.24,
+    "speaker": "SPEAKER_02",
+    "text": "So, under the Migraine market, I think it would be really beneficial to understand what the"
+  },
+  {
+    "start": 132.24,
+    "end": 136.0,
+    "speaker": "SPEAKER_02",
+    "text": "size of the Migraine market looks like and what consumer demand is."
+  },
+  {
+    "start": 137.04,
+    "end": 141.04,
+    "speaker": "SPEAKER_02",
+    "text": "Also, diving into how fast it's growing, if it's stagnant, shrinking,"
+  },
+  {
+    "start": 142.0,
+    "end": 143.84,
+    "speaker": "SPEAKER_02",
+    "text": "just like the overall market growth."
+  },
+  {
+    "start": 144.48,
+    "end": 149.28,
+    "speaker": "SPEAKER_02",
+    "text": "And then, I think it would be really beneficial to understand what other treatments are out there"
+  },
+  {
+    "start": 149.28,
+    "end": 153.2,
+    "speaker": "SPEAKER_02",
+    "text": "and what potential competition would look like to see what Botox's market share could be."
+  },
+  {
+    "start": 154.0,
+    "end": 158.4,
+    "speaker": "SPEAKER_02",
+    "text": "So, second, diving into the financial implications, there's kind of two sides I think would be"
+  },
+  {
+    "start": 158.4,
+    "end": 164.48000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "helpful with the revenues and costs. So, under revenues, I think it would be great to understand"
+  },
+  {
+    "start": 164.48000000000002,
+    "end": 169.6,
+    "speaker": "SPEAKER_02",
+    "text": "what the competitors are pricing injections for to determine how Botox should price it."
+  },
+  {
+    "start": 170.56,
+    "end": 176.32,
+    "speaker": "SPEAKER_02",
+    "text": "It'd be also helpful to understand what our customers elasticity is and their willingness to pay"
+  },
+  {
+    "start": 176.32,
+    "end": 180.95999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "to figure out a good price. And then, doing a little bit more analysis into what"
+  },
+  {
+    "start": 180.95999999999998,
+    "end": 188.07999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "number of units sold could look like and how cannibalization of other Botox products would affect"
+  },
+  {
+    "start": 188.07999999999998,
+    "end": 194.48,
+    "speaker": "SPEAKER_02",
+    "text": "this launch. And then, on the cost side, it would be helpful to understand what initial investments"
+  },
+  {
+    "start": 194.48,
+    "end": 200.48,
+    "speaker": "SPEAKER_02",
+    "text": "would be needed, looking at the research and development, maybe potential clinical trial costs,"
+  },
+  {
+    "start": 201.12,
+    "end": 208.64,
+    "speaker": "SPEAKER_02",
+    "text": "and then what ongoing costs there may be for this injection. And third, the risks."
+  },
+  {
+    "start": 210.0,
+    "end": 216.07999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "I see two main areas within the risks, a logistical aspect, and then more regulatory."
+  },
+  {
+    "start": 216.79999999999998,
+    "end": 223.51999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "So, in the logistics, I think something to keep note of is figuring out whether or not Botox has"
+  },
+  {
+    "start": 223.52,
+    "end": 230.08,
+    "speaker": "SPEAKER_02",
+    "text": "the capabilities to add additional supply chain, distribution centers, or production facilities."
+  },
+  {
+    "start": 231.28,
+    "end": 237.04000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Maybe diving a little bit into what our administrative or workforce expertise in schools look like"
+  },
+  {
+    "start": 237.04000000000002,
+    "end": 242.88,
+    "speaker": "SPEAKER_02",
+    "text": "to see if it's capable for us to launch such a big product. And then, lastly, under logistical risks,"
+  },
+  {
+    "start": 242.88,
+    "end": 250.8,
+    "speaker": "SPEAKER_02",
+    "text": "kind of figuring out if this injection matches with Botox's mission and portfolio of their other"
+  },
+  {
+    "start": 250.8,
+    "end": 258.8,
+    "speaker": "SPEAKER_02",
+    "text": "products. And then, lastly, under regulation risks, you had mentioned that we're in the clinical trial"
+  },
+  {
+    "start": 258.8,
+    "end": 265.76,
+    "speaker": "SPEAKER_02",
+    "text": "process looking for FDA approval. So, diving into what the barriers to entry would be looking at"
+  },
+  {
+    "start": 265.76,
+    "end": 272.72,
+    "speaker": "SPEAKER_02",
+    "text": "specifically the FDA approval, maybe if any patents are needed, what progressing clinical trials"
+  },
+  {
+    "start": 272.72,
+    "end": 278.56,
+    "speaker": "SPEAKER_02",
+    "text": "look like. So, after assessing the overall migraine market, financial implications and risks,"
+  },
+  {
+    "start": 278.56,
+    "end": 283.84,
+    "speaker": "SPEAKER_02",
+    "text": "I think we would have a good understanding if this is a viable entry or not. But looking at it,"
+  },
+  {
+    "start": 284.64,
+    "end": 289.12,
+    "speaker": "SPEAKER_02",
+    "text": "I think it'd be beneficial to start off with the market as a whole and see if that's attractive"
+  },
+  {
+    "start": 289.12,
+    "end": 293.04,
+    "speaker": "SPEAKER_00",
+    "text": "or not. Does that sound good? Yeah, let's do that. I actually think that's a good place to start."
+  },
+  {
+    "start": 293.68,
+    "end": 298.24,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe we can go by how big do you think this market is in the first place? Okay, perfect. So,"
+  },
+  {
+    "start": 298.24,
+    "end": 304.16,
+    "speaker": "SPEAKER_02",
+    "text": "just to make sure you want me to market size the overall Botox injection market. Is that specifically"
+  },
+  {
+    "start": 304.16,
+    "end": 308.16,
+    "speaker": "SPEAKER_02",
+    "text": "for the US? That's correct. Just the US. Okay, perfect. Is it okay if I take a couple of moments"
+  },
+  {
+    "start": 308.16,
+    "end": 310.40000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "to brainstorm my thoughts? Absolutely. Awesome."
+  },
+  {
+    "start": 315.52000000000004,
+    "end": 323.76000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, perfect. So, the way that I think about this is to estimate the size of the Botox injection"
+  },
+  {
+    "start": 323.76000000000005,
+    "end": 329.20000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "market, we should start off with the overall US population, then dive into the percentage of people"
+  },
+  {
+    "start": 329.2,
+    "end": 334.47999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "who suffer from headaches, and then the percentage of people who have headaches that are bad enough"
+  },
+  {
+    "start": 334.47999999999996,
+    "end": 340.32,
+    "speaker": "SPEAKER_02",
+    "text": "that they would need these injections. Then, by doing those calculations, we can get the total size"
+  },
+  {
+    "start": 340.32,
+    "end": 347.03999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "of the total number of patients that we'd be working with. And then from there, I'm thinking I could"
+  },
+  {
+    "start": 347.03999999999996,
+    "end": 354.24,
+    "speaker": "SPEAKER_02",
+    "text": "estimate the number of injections per patient and put a price tag to that to figure out the overall"
+  },
+  {
+    "start": 354.24,
+    "end": 360.72,
+    "speaker": "SPEAKER_02",
+    "text": "market size for injections. And then, we're looking specifically at Botox's share. So, then applying"
+  },
+  {
+    "start": 361.44,
+    "end": 367.84000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "what our potential market share would look like to get the overall Botox market size for injections."
+  },
+  {
+    "start": 367.84000000000003,
+    "end": 371.84000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "Does that sound like a good process? Yeah, no, that's a good approach. Okay, awesome. So, I'm just"
+  },
+  {
+    "start": 371.84000000000003,
+    "end": 380.96000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "going to take a moment to put the math to that. Okay, awesome. So, if we start off with the US"
+  },
+  {
+    "start": 380.96,
+    "end": 388.4,
+    "speaker": "SPEAKER_02",
+    "text": "population of 320 million, I would say about thinking from personal experience of my friends,"
+  },
+  {
+    "start": 388.4,
+    "end": 394.47999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "like one in every five, I feel like get headaches, so we could say about 20% of people suffer from"
+  },
+  {
+    "start": 394.47999999999996,
+    "end": 402.32,
+    "speaker": "SPEAKER_02",
+    "text": "headaches. And then, out of those that 20%, I'd say like one in four people have headaches that are"
+  },
+  {
+    "start": 402.32,
+    "end": 408.08,
+    "speaker": "SPEAKER_02",
+    "text": "so bad that they would need some sort of my green injection treatment, so let's take 25% of that."
+  },
+  {
+    "start": 408.71999999999997,
+    "end": 420.0,
+    "speaker": "SPEAKER_02",
+    "text": "So, 20% of 320 million is 64 million, and then a fourth of 64 million is going to be 16 million."
+  },
+  {
+    "start": 420.8,
+    "end": 427.28,
+    "speaker": "SPEAKER_02",
+    "text": "So, that's the number of patients that may be needing an injection. Next, I'm going to think about"
+  },
+  {
+    "start": 427.84,
+    "end": 433.12,
+    "speaker": "SPEAKER_02",
+    "text": "like how many injections a patient would need. I think you would mention that these injections"
+  },
+  {
+    "start": 433.28000000000003,
+    "end": 440.88,
+    "speaker": "SPEAKER_02",
+    "text": "are needed every two months, so a patient would need it six times a year. And then, next, I want to"
+  },
+  {
+    "start": 440.88,
+    "end": 447.6,
+    "speaker": "SPEAKER_02",
+    "text": "think about what a potential price would be. So, I personally have not had any Botox, I'm only 21,"
+  },
+  {
+    "start": 448.64,
+    "end": 454.72,
+    "speaker": "SPEAKER_02",
+    "text": "but I'm thinking that it ranges quite a bit from very cheap options to more expensive."
+  },
+  {
+    "start": 455.92,
+    "end": 461.36,
+    "speaker": "SPEAKER_02",
+    "text": "Off the gun, I think about 200 is a pretty fair price tag to put on it."
+  },
+  {
+    "start": 461.52000000000004,
+    "end": 467.68,
+    "speaker": "SPEAKER_02",
+    "text": "So, that's a good price. Okay, great. So, I'll take the 16 million number of patients times"
+  },
+  {
+    "start": 467.68,
+    "end": 475.84000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "six injections a year times 200 dollars per injection. And I'll just take a moment to crank out"
+  },
+  {
+    "start": 475.84000000000003,
+    "end": 485.92,
+    "speaker": "SPEAKER_02",
+    "text": "that math really quickly. 16 times six is 96 times 200 is going to be 19.2 billion dollars."
+  },
+  {
+    "start": 486.8,
+    "end": 493.84000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "So, I'm getting 19.2 billion dollars for the total market, but we're looking specifically at Botox."
+  },
+  {
+    "start": 495.12,
+    "end": 500.16,
+    "speaker": "SPEAKER_02",
+    "text": "Botox, I know, has like a really big name. They're a well-known company, so I'm assuming they have"
+  },
+  {
+    "start": 500.16,
+    "end": 505.92,
+    "speaker": "SPEAKER_02",
+    "text": "a pretty high market share. Think around 30% is a good bet. Does that sound like a good number?"
+  },
+  {
+    "start": 505.92,
+    "end": 511.36,
+    "speaker": "SPEAKER_02",
+    "text": "I would say so, yeah, 30% is good. Okay, great. So, I'm going to take 30% and is it okay if I"
+  },
+  {
+    "start": 511.36,
+    "end": 521.6,
+    "speaker": "SPEAKER_02",
+    "text": "round that 9.2 billion to 19 billion? Okay, great. So, 30% of 19 billion is going to be, I know 19"
+  },
+  {
+    "start": 521.6,
+    "end": 533.2,
+    "speaker": "SPEAKER_02",
+    "text": "times 3 is 57, so 30% of 19 will be 5.7 billion. So, I'm getting a total number of 5.7 billion dollars"
+  },
+  {
+    "start": 533.2800000000001,
+    "end": 542.08,
+    "speaker": "SPEAKER_02",
+    "text": "for the US Botox injection market. Great. So, looking at that number, I'm trying to figure out whether or"
+  },
+  {
+    "start": 542.08,
+    "end": 547.84,
+    "speaker": "SPEAKER_02",
+    "text": "not it's attractive or not. It seems like a pretty big number, but I think to really determine if"
+  },
+  {
+    "start": 547.84,
+    "end": 553.2,
+    "speaker": "SPEAKER_02",
+    "text": "the market is attractive or not, we could look at what potential growth looks like or what the"
+  },
+  {
+    "start": 553.2,
+    "end": 558.4000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "competitive landscape is. Do we have any information about either of those? Yeah, so we have some"
+  },
+  {
+    "start": 558.4000000000001,
+    "end": 562.6400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "information about it. We know that when it comes to market growth, we expect the market to remain"
+  },
+  {
+    "start": 562.64,
+    "end": 567.68,
+    "speaker": "SPEAKER_00",
+    "text": "somewhat stagnant, so no growth nor is there a decline. And then when it comes to the competitive"
+  },
+  {
+    "start": 567.68,
+    "end": 572.0,
+    "speaker": "SPEAKER_00",
+    "text": "landscape, we actually don't expect there to be a lot of competitors, so we think that it's kind"
+  },
+  {
+    "start": 572.0,
+    "end": 577.12,
+    "speaker": "SPEAKER_00",
+    "text": "of not a very competitive market to go into, so we don't expect any fierce competition of some"
+  },
+  {
+    "start": 577.12,
+    "end": 583.84,
+    "speaker": "SPEAKER_02",
+    "text": "sorts. Okay, perfect. So, knowing that the market is pretty stagnant, pretty large at 5.7 billion"
+  },
+  {
+    "start": 583.84,
+    "end": 589.92,
+    "speaker": "SPEAKER_02",
+    "text": "and not too saturated, it looks like the market as a whole is pretty attractive, but I think I would"
+  },
+  {
+    "start": 589.92,
+    "end": 594.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "still like to discuss a little bit more and dive into maybe the financial implications or"
+  },
+  {
+    "start": 594.3199999999999,
+    "end": 599.4399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "potential risks. Do we have any information about maybe financial implications? Yeah, so we actually"
+  },
+  {
+    "start": 599.4399999999999,
+    "end": 605.5999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "think that the financial side would probably be looking good based off of the 5.7 billion estimate"
+  },
+  {
+    "start": 605.5999999999999,
+    "end": 610.0,
+    "speaker": "SPEAKER_00",
+    "text": "that you have. I'm actually more interested in looking at the risks. Could you maybe brainstorm"
+  },
+  {
+    "start": 610.0,
+    "end": 614.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "a few ideas or potential risks that the Botox company could be facing when they enter the"
+  },
+  {
+    "start": 614.96,
+    "end": 619.52,
+    "speaker": "SPEAKER_02",
+    "text": "migraine market? Yeah, of course. Is it okay if I take a couple moments to think about that one?"
+  },
+  {
+    "start": 619.52,
+    "end": 629.76,
+    "speaker": "SPEAKER_02",
+    "text": "Absolutely. Okay. Okay, great. So, I'm thinking there's three main causes of concern our client should"
+  },
+  {
+    "start": 629.76,
+    "end": 635.76,
+    "speaker": "SPEAKER_02",
+    "text": "think about before entering the Botox market, and that comes with branding, cannibalization,"
+  },
+  {
+    "start": 635.76,
+    "end": 643.6,
+    "speaker": "SPEAKER_02",
+    "text": "and patient concerns. So, first, under branding, I'm thinking even if they use the same name as Botox"
+  },
+  {
+    "start": 643.6,
+    "end": 650.16,
+    "speaker": "SPEAKER_02",
+    "text": "or a different name and different brand, there's risks to both sides. If our client was supposed to"
+  },
+  {
+    "start": 650.16,
+    "end": 656.8000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "use the Botox name, keep that same name. I know that Botox has a very specific connotation to it,"
+  },
+  {
+    "start": 656.8000000000001,
+    "end": 664.4,
+    "speaker": "SPEAKER_02",
+    "text": "that it's cosmetic, kind of controversial sometimes, but we're not servicing a cosmetic product,"
+  },
+  {
+    "start": 664.4,
+    "end": 670.4,
+    "speaker": "SPEAKER_02",
+    "text": "so it might turn some patients away because ours is a migraine injection, not a cosmetic injection."
+  },
+  {
+    "start": 671.36,
+    "end": 677.52,
+    "speaker": "SPEAKER_02",
+    "text": "But then, if we were to use a different name, there's the possibility of there being a lack of"
+  },
+  {
+    "start": 677.52,
+    "end": 682.16,
+    "speaker": "SPEAKER_02",
+    "text": "market traction, because you have to redo all the marketing and branding since Botox already"
+  },
+  {
+    "start": 682.16,
+    "end": 686.24,
+    "speaker": "SPEAKER_02",
+    "text": "has a big name, so if you were to use a different one, a little bit harder to get some traction there."
+  },
+  {
+    "start": 687.04,
+    "end": 693.28,
+    "speaker": "SPEAKER_02",
+    "text": "So, I was the brand inside. Next, we look under cannibalization. So, Botox already has some"
+  },
+  {
+    "start": 693.28,
+    "end": 698.8,
+    "speaker": "SPEAKER_02",
+    "text": "pre-existing products, of course. They have some injections, like lip injections, I think."
+  },
+  {
+    "start": 699.76,
+    "end": 705.52,
+    "speaker": "SPEAKER_02",
+    "text": "So, I'm thinking that if we're launching a new product at a pretty similar price range,"
+  },
+  {
+    "start": 705.52,
+    "end": 711.92,
+    "speaker": "SPEAKER_02",
+    "text": "maybe lower, it might cannibalize some of Botox's pre-existing products. So, it's a concern to look at."
+  },
+  {
+    "start": 711.92,
+    "end": 717.3599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "But I'm thinking that if we do a little bit more investigation into the regulatory process"
+  },
+  {
+    "start": 717.3599999999999,
+    "end": 723.12,
+    "speaker": "SPEAKER_02",
+    "text": "or other mechanisms to kind of keep the market separate, that could be a potential mitigation to it."
+  },
+  {
+    "start": 724.0,
+    "end": 731.04,
+    "speaker": "SPEAKER_02",
+    "text": "And then, lastly, is the patient concerns. I'm thinking that with patient concerns,"
+  },
+  {
+    "start": 731.6,
+    "end": 737.2,
+    "speaker": "SPEAKER_02",
+    "text": "I know that I personally am very scared of shots. So, there may be other patients out there that"
+  },
+  {
+    "start": 737.2,
+    "end": 744.16,
+    "speaker": "SPEAKER_02",
+    "text": "are a little bit adverse to injectable therapies, especially when there might be oral remedies,"
+  },
+  {
+    "start": 745.2,
+    "end": 749.44,
+    "speaker": "SPEAKER_02",
+    "text": "other like Tylenol or Advil or other things that they could take to get rid of their migraine."
+  },
+  {
+    "start": 750.4000000000001,
+    "end": 758.1600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Another patient concern to think about is that the injection is still being approved by the FDA,"
+  },
+  {
+    "start": 758.1600000000001,
+    "end": 765.2,
+    "speaker": "SPEAKER_02",
+    "text": "right? So, they may be a little bit adverse to using a product that has just been approved and"
+  },
+  {
+    "start": 765.2,
+    "end": 772.24,
+    "speaker": "SPEAKER_02",
+    "text": "may be looking to see more research or more trials in the future. And then, the last concern"
+  },
+  {
+    "start": 772.24,
+    "end": 778.32,
+    "speaker": "SPEAKER_02",
+    "text": "with patients is that insurance companies may not necessarily pay for the Botox injections. We"
+  },
+  {
+    "start": 778.32,
+    "end": 782.32,
+    "speaker": "SPEAKER_02",
+    "text": "may have to look a little bit more with insurance companies to make sure that this is something that"
+  },
+  {
+    "start": 782.32,
+    "end": 788.0,
+    "speaker": "SPEAKER_00",
+    "text": "they will put onto their plan. Awesome. All of sounds like good risks to take into account."
+  },
+  {
+    "start": 788.0,
+    "end": 793.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So, CEO of the company walks in and wants a 30-second recommendation. What do you say? Awesome."
+  },
+  {
+    "start": 794.4000000000001,
+    "end": 800.1600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, I would say this sounds like a very viable opportunity. It seems like the market is very"
+  },
+  {
+    "start": 800.1600000000001,
+    "end": 806.5600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "attractive. We did calculations and saw that the market is about $5.7 billion that Botox could"
+  },
+  {
+    "start": 806.56,
+    "end": 812.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "tap into, which seems very attractive since the market is stagnant. It's not too resaturated."
+  },
+  {
+    "start": 813.3599999999999,
+    "end": 818.8,
+    "speaker": "SPEAKER_02",
+    "text": "Just as a potential risk, though, since we're still in the clinical trials and FDA process,"
+  },
+  {
+    "start": 818.8,
+    "end": 826.0799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "it's very dependent on making it past that. So, just continuing to do the clinical trials,"
+  },
+  {
+    "start": 826.0799999999999,
+    "end": 831.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "working with insurance companies to make sure it can get on the plan and marketing the product in a"
+  },
+  {
+    "start": 831.6,
+    "end": 836.5600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "way that alleviates patient concerns for using the product in the future. I feel like"
+  },
+  {
+    "start": 836.5600000000001,
+    "end": 841.76,
+    "speaker": "SPEAKER_02",
+    "text": "are the best ways to go. But, yeah, overall, it seems like a great opportunity. Awesome."
+  },
+  {
+    "start": 841.76,
+    "end": 847.2,
+    "speaker": "SPEAKER_00",
+    "text": "Well, thank you so much for the time. And, yeah, I thought that that was a good case. Awesome. Thank you."
+  },
+  {
+    "start": 848.88,
+    "end": 853.28,
+    "speaker": "SPEAKER_00",
+    "text": "That's exactly how a mock interview goes. When it comes to Rea's performance, I thought that she"
+  },
+  {
+    "start": 853.28,
+    "end": 858.72,
+    "speaker": "SPEAKER_00",
+    "text": "did fantastic. Everything from the beginning all the way to the end. When it came to the prompt,"
+  },
+  {
+    "start": 858.72,
+    "end": 862.48,
+    "speaker": "SPEAKER_00",
+    "text": "she asked thoughtful, clarifying questions and she made sure that she understood the objective."
+  },
+  {
+    "start": 863.12,
+    "end": 867.6,
+    "speaker": "SPEAKER_00",
+    "text": "When it came to the framework, this was a combination of a market entry and a market sizing case,"
+  },
+  {
+    "start": 867.6,
+    "end": 872.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "and I think that she did a good job at structuring both frameworks. On the market entry side,"
+  },
+  {
+    "start": 872.1600000000001,
+    "end": 876.64,
+    "speaker": "SPEAKER_00",
+    "text": "she explained that we needed to look at the market, the financials, and the risks. When it came to"
+  },
+  {
+    "start": 876.64,
+    "end": 881.52,
+    "speaker": "SPEAKER_00",
+    "text": "the market sizing, she laid out a very good approach that was structured and clear on how she would"
+  },
+  {
+    "start": 881.52,
+    "end": 887.2,
+    "speaker": "SPEAKER_00",
+    "text": "calculate the market size. On the analysis side, she did great when it came to the math. All of her"
+  },
+  {
+    "start": 887.2,
+    "end": 892.08,
+    "speaker": "SPEAKER_00",
+    "text": "numbers were sharp and her methodology was very clear and she was able to explain all of the numbers"
+  },
+  {
+    "start": 892.08,
+    "end": 897.6,
+    "speaker": "SPEAKER_00",
+    "text": "to me. Finally, when it came to the brainstorming, she was able to put everything into different"
+  },
+  {
+    "start": 897.6,
+    "end": 902.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "buckets and she remained structured and poised throughout the entire process. So overall, I thought"
+  },
+  {
+    "start": 902.1600000000001,
+    "end": 911.36,
+    "speaker": "SPEAKER_00",
+    "text": "that she did very well and I would definitely accelerate her to the next round."
+  }
+]

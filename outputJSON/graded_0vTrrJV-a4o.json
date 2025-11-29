@@ -1,0 +1,1770 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 8.6,
+      "speaker": "SPEAKER_00",
+      "text": "Hello everyone, my name is Kenting Kovestu, I'm an XBCG consultant, an X Googler, and"
+    },
+    {
+      "start": 8.6,
+      "end": 13.92,
+      "speaker": "SPEAKER_00",
+      "text": "the founder of Rocketblocks, an online platform that helps candidates prepare for interviews."
+    },
+    {
+      "start": 13.92,
+      "end": 18.2,
+      "speaker": "SPEAKER_00",
+      "text": "In today's Rocketblocks video, we've got an awesome mock interview featuring two of our"
+    },
+    {
+      "start": 18.2,
+      "end": 24.580000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Rocketblocks experts, Christopher McRaeham, who is an XBCG project leader and a graduate"
+    },
+    {
+      "start": 24.58,
+      "end": 30.04,
+      "speaker": "SPEAKER_00",
+      "text": "of the London School of Business and Matthew Calvert, who is an XBCG consultant and a graduate"
+    },
+    {
+      "start": 30.04,
+      "end": 32.14,
+      "speaker": "SPEAKER_00",
+      "text": "of the Duke Fuqua School of Business."
+    },
+    {
+      "start": 32.14,
+      "end": 36.06,
+      "speaker": "SPEAKER_00",
+      "text": "In the case that they're walking through, it features a streaming media provider, you"
+    },
+    {
+      "start": 36.06,
+      "end": 41.42,
+      "speaker": "SPEAKER_00",
+      "text": "can think of someone like Netflix that's facing a declining profitability challenge, a"
+    },
+    {
+      "start": 41.42,
+      "end": 45.86,
+      "speaker": "SPEAKER_00",
+      "text": "very relevant, timely topic for that industry, so let's go ahead and jump in."
+    },
+    {
+      "start": 45.86,
+      "end": 51.54,
+      "speaker": "SPEAKER_03",
+      "text": "Hi everyone, this is a video run through for the netfilm profitability puzzle case."
+    },
+    {
+      "start": 51.54,
+      "end": 55.62,
+      "speaker": "SPEAKER_03",
+      "text": "This is a classic profitability case that covers some great brainstorming and qualitative"
+    },
+    {
+      "start": 55.62,
+      "end": 59.82,
+      "speaker": "SPEAKER_03",
+      "text": "reasoning activities, but also there's some quantum in the mix, so it really covers all"
+    },
+    {
+      "start": 59.82,
+      "end": 63.379999999999995,
+      "speaker": "SPEAKER_03",
+      "text": "the major exercises that you can expect in a case interview."
+    },
+    {
+      "start": 63.379999999999995,
+      "end": 67.5,
+      "speaker": "SPEAKER_03",
+      "text": "My name is Christopher McRaeham, and I'm going to be leading the interview."
+    },
+    {
+      "start": 67.5,
+      "end": 71.46000000000001,
+      "speaker": "SPEAKER_03",
+      "text": "Also with me is Maddie Calvert, who'll be playing the interview candidate."
+    },
+    {
+      "start": 71.46000000000001,
+      "end": 75.14,
+      "speaker": "SPEAKER_03",
+      "text": "So yeah, before we dive into this case, let's do some quick interest."
+    },
+    {
+      "start": 75.14,
+      "end": 78.62,
+      "speaker": "SPEAKER_03",
+      "text": "As I mentioned, my name is Chris, and I'm a manager working in Renewable Energy in New"
+    },
+    {
+      "start": 78.66000000000001,
+      "end": 82.58,
+      "speaker": "SPEAKER_03",
+      "text": "York. I do offshore wind with a company called Energy Rees."
+    },
+    {
+      "start": 82.58,
+      "end": 84.58,
+      "speaker": "SPEAKER_03",
+      "text": "Before that, I worked in management consulting."
+    },
+    {
+      "start": 84.58,
+      "end": 89.22,
+      "speaker": "SPEAKER_03",
+      "text": "I was with BCG in the New York office for three years, with the last year of that time as"
+    },
+    {
+      "start": 89.22,
+      "end": 93.34,
+      "speaker": "SPEAKER_03",
+      "text": "a project leader in the climate sustainability practice."
+    },
+    {
+      "start": 93.34,
+      "end": 97.22,
+      "speaker": "SPEAKER_03",
+      "text": "Before that, I was at Accenture Strategy in London, working in their energy department for"
+    },
+    {
+      "start": 97.22,
+      "end": 98.22,
+      "speaker": "SPEAKER_03",
+      "text": "year."
+    },
+    {
+      "start": 98.22,
+      "end": 101.78,
+      "speaker": "SPEAKER_03",
+      "text": "So overall, I spent about four years in management consulting after finishing my MBA"
+    },
+    {
+      "start": 101.78,
+      "end": 103.74000000000001,
+      "speaker": "SPEAKER_03",
+      "text": "at London Business School."
+    },
+    {
+      "start": 103.74000000000001,
+      "end": 107.06,
+      "speaker": "SPEAKER_03",
+      "text": "Before Business School, I was an engineer in the oil and gas industry."
+    },
+    {
+      "start": 107.06,
+      "end": 109.06,
+      "speaker": "SPEAKER_03",
+      "text": "Want to give an intro?"
+    },
+    {
+      "start": 109.06,
+      "end": 110.06,
+      "speaker": "SPEAKER_01",
+      "text": "Absolutely."
+    },
+    {
+      "start": 110.06,
+      "end": 111.06,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks, Chris."
+    },
+    {
+      "start": 111.06,
+      "end": 112.06,
+      "speaker": "SPEAKER_01",
+      "text": "My name is Maddie Calvert."
+    },
+    {
+      "start": 112.06,
+      "end": 116.3,
+      "speaker": "SPEAKER_01",
+      "text": "I'm currently a director of methane results at Cairo's Aerospace."
+    },
+    {
+      "start": 116.3,
+      "end": 122.54,
+      "speaker": "SPEAKER_01",
+      "text": "We are a climate tech company looking to reduce methane emissions from the oil and gas sector."
+    },
+    {
+      "start": 122.54,
+      "end": 127.9,
+      "speaker": "SPEAKER_01",
+      "text": "Prior to that, I spent two years as a consultant in the BCG Chicago office."
+    },
+    {
+      "start": 127.9,
+      "end": 134.9,
+      "speaker": "SPEAKER_01",
+      "text": "Fade a focus mostly on sustainability projects as well."
+    },
+    {
+      "start": 135.9,
+      "end": 138.9,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, so ready to dive into the case?"
+    },
+    {
+      "start": 138.9,
+      "end": 139.9,
+      "speaker": "SPEAKER_03",
+      "text": "Let's do it."
+    },
+    {
+      "start": 139.9,
+      "end": 140.9,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, great."
+    },
+    {
+      "start": 140.9,
+      "end": 143.9,
+      "speaker": "SPEAKER_03",
+      "text": "Here's the case question."
+    },
+    {
+      "start": 143.9,
+      "end": 145.9,
+      "speaker": "SPEAKER_03",
+      "text": "So the client is netfilm."
+    },
+    {
+      "start": 145.9,
+      "end": 151.9,
+      "speaker": "SPEAKER_03",
+      "text": "Netfilm is an online video subscription service that offers a variety of TV shows and movies."
+    },
+    {
+      "start": 151.9,
+      "end": 156.9,
+      "speaker": "SPEAKER_03",
+      "text": "They've been in the market for the past ten years, and have gained a considerable market share."
+    },
+    {
+      "start": 156.9,
+      "end": 161.4,
+      "speaker": "SPEAKER_03",
+      "text": "However, the company's been facing profitability issues in the past year, which has been threatening"
+    },
+    {
+      "start": 161.4,
+      "end": 163.9,
+      "speaker": "SPEAKER_03",
+      "text": "their financial sustainability."
+    },
+    {
+      "start": 163.9,
+      "end": 171.9,
+      "speaker": "SPEAKER_03",
+      "text": "So the question to you is with that info, how would you approach analyzing the company's declining profitability?"
+    },
+    {
+      "start": 171.9,
+      "end": 172.9,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 172.9,
+      "end": 174.9,
+      "speaker": "SPEAKER_01",
+      "text": "It's a really interesting case question."
+    },
+    {
+      "start": 174.9,
+      "end": 177.9,
+      "speaker": "SPEAKER_01",
+      "text": "Chris, I just want to make sure I've got all the details here."
+    },
+    {
+      "start": 177.9,
+      "end": 186.9,
+      "speaker": "SPEAKER_01",
+      "text": "So to confirm our client is netfilm, they've been a strong market competitor for the last number of years, and they're facing a."
+    },
+    {
+      "start": 187.9,
+      "end": 192.9,
+      "speaker": "SPEAKER_01",
+      "text": "So profitability problem over the last couple of years. Is there anything I missed there?"
+    },
+    {
+      "start": 192.9,
+      "end": 195.9,
+      "speaker": "SPEAKER_03",
+      "text": "No, that's right. All the key details there."
+    },
+    {
+      "start": 195.9,
+      "end": 196.9,
+      "speaker": "SPEAKER_01",
+      "text": "Yep."
+    },
+    {
+      "start": 196.9,
+      "end": 201.9,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So when I think about how I would approach this, I think, you know, we're thinking about profitability."
+    },
+    {
+      "start": 201.9,
+      "end": 202.9,
+      "speaker": "SPEAKER_01",
+      "text": "There's two components."
+    },
+    {
+      "start": 202.9,
+      "end": 208.9,
+      "speaker": "SPEAKER_01",
+      "text": "We'd want to look at the revenue and the costs before I jump into building out of framework."
+    },
+    {
+      "start": 208.9,
+      "end": 214.9,
+      "speaker": "SPEAKER_01",
+      "text": "Is there a specific profitability target that they're looking to meet?"
+    },
+    {
+      "start": 214.9,
+      "end": 216.9,
+      "speaker": "SPEAKER_03",
+      "text": "At this point, I wouldn't say so."
+    },
+    {
+      "start": 216.9,
+      "end": 219.9,
+      "speaker": "SPEAKER_03",
+      "text": "I think we should just do a diagnostic first."
+    },
+    {
+      "start": 219.9,
+      "end": 224.9,
+      "speaker": "SPEAKER_01",
+      "text": "Great. So I'll be looking for what the sort of the driver of that profitability issue is."
+    },
+    {
+      "start": 224.9,
+      "end": 226.9,
+      "speaker": "SPEAKER_03",
+      "text": "That's right. Yeah."
+    },
+    {
+      "start": 226.9,
+      "end": 227.9,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 227.9,
+      "end": 233.9,
+      "speaker": "SPEAKER_01",
+      "text": "Do you have any information about how the revenue has been growing over the last number of years?"
+    },
+    {
+      "start": 233.9,
+      "end": 237.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, I would say the growth has been slowing."
+    },
+    {
+      "start": 237.9,
+      "end": 243.9,
+      "speaker": "SPEAKER_03",
+      "text": "It's only had a 5% increase compared to the previous year, but historically, they were growing at about 20% year on year."
+    },
+    {
+      "start": 243.9,
+      "end": 246.9,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Very interesting."
+    },
+    {
+      "start": 246.9,
+      "end": 249.9,
+      "speaker": "SPEAKER_01",
+      "text": "And what about the cost drivers?"
+    },
+    {
+      "start": 249.9,
+      "end": 252.9,
+      "speaker": "SPEAKER_01",
+      "text": "Do you have any information about what their main costs are?"
+    },
+    {
+      "start": 252.9,
+      "end": 257.9,
+      "speaker": "SPEAKER_01",
+      "text": "I would assume it's going to be one is going to be content creation."
+    },
+    {
+      "start": 257.9,
+      "end": 261.9,
+      "speaker": "SPEAKER_01",
+      "text": "Another one would probably be marketing and advertising."
+    },
+    {
+      "start": 261.9,
+      "end": 263.9,
+      "speaker": "SPEAKER_01",
+      "text": "And then general operations."
+    },
+    {
+      "start": 263.9,
+      "end": 266.9,
+      "speaker": "SPEAKER_01",
+      "text": "Would you say those are sort of the three drivers?"
+    },
+    {
+      "start": 266.9,
+      "end": 269.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, that's that's a fair assumption. I would go with those three."
+    },
+    {
+      "start": 269.9,
+      "end": 270.9,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Great."
+    },
+    {
+      "start": 270.9,
+      "end": 276.9,
+      "speaker": "SPEAKER_01",
+      "text": "Well, I think I'm all set. Chris, I'm going to just spend a couple of seconds here organizing my framework and then."
+    },
+    {
+      "start": 276.9,
+      "end": 278.9,
+      "speaker": "SPEAKER_01",
+      "text": "I would love to jump in."
+    },
+    {
+      "start": 278.9,
+      "end": 282.9,
+      "speaker": "SPEAKER_03",
+      "text": "That's great. Let's do it."
+    },
+    {
+      "start": 282.9,
+      "end": 284.9,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Awesome."
+    },
+    {
+      "start": 284.9,
+      "end": 289.9,
+      "speaker": "SPEAKER_01",
+      "text": "So Chris, I think the way I want to approach this problem is first to look at the cost driver."
+    },
+    {
+      "start": 289.9,
+      "end": 293.9,
+      "speaker": "SPEAKER_01",
+      "text": "So we identified that it's marketing, that it's operations and its content creation."
+    },
+    {
+      "start": 293.9,
+      "end": 297.9,
+      "speaker": "SPEAKER_01",
+      "text": "And I want to see if any of those have changed historically."
+    },
+    {
+      "start": 297.9,
+      "end": 300.9,
+      "speaker": "SPEAKER_01",
+      "text": "And where we might be able to optimize costs."
+    },
+    {
+      "start": 300.9,
+      "end": 305.9,
+      "speaker": "SPEAKER_01",
+      "text": "I always think it's easier to control your costs than to control market growth."
+    },
+    {
+      "start": 305.9,
+      "end": 308.9,
+      "speaker": "SPEAKER_01",
+      "text": "Where your revenue growth where that's kind of up to the market."
+    },
+    {
+      "start": 308.9,
+      "end": 313.9,
+      "speaker": "SPEAKER_01",
+      "text": "The next you told me that they have been slowing the revenue growth."
+    },
+    {
+      "start": 313.9,
+      "end": 317.9,
+      "speaker": "SPEAKER_01",
+      "text": "And so I would be interested in figuring out what's causing that is it."
+    },
+    {
+      "start": 317.9,
+      "end": 323.9,
+      "speaker": "SPEAKER_01",
+      "text": "New competitors. I know every legacy TV channel has launched their own streaming service recently."
+    },
+    {
+      "start": 323.9,
+      "end": 325.9,
+      "speaker": "SPEAKER_01",
+      "text": "So there's a lot more competition."
+    },
+    {
+      "start": 325.9,
+      "end": 327.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm curious about that."
+    },
+    {
+      "start": 327.9,
+      "end": 332.9,
+      "speaker": "SPEAKER_01",
+      "text": "Curious about maybe some foreign markets that they're not quite in or they're getting out competed in."
+    },
+    {
+      "start": 332.9,
+      "end": 335.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I would want to first start with costs then look at revenue."
+    },
+    {
+      "start": 335.9,
+      "end": 340.9,
+      "speaker": "SPEAKER_01",
+      "text": "And I think once we've identified what the main issue is either on the cost side or the revenue side."
+    },
+    {
+      "start": 340.9,
+      "end": 345.9,
+      "speaker": "SPEAKER_01",
+      "text": "I want to create a plan to address that issue."
+    },
+    {
+      "start": 345.9,
+      "end": 348.9,
+      "speaker": "SPEAKER_01",
+      "text": "So to start with."
+    },
+    {
+      "start": 348.9,
+      "end": 356.9,
+      "speaker": "SPEAKER_01",
+      "text": "I think I'd like to look at their costs and see if there's any cost history to see if any of those have changed dramatically over the last couple of years."
+    },
+    {
+      "start": 356.9,
+      "end": 359.9,
+      "speaker": "SPEAKER_03",
+      "text": "That's great. That's great. I really like the structure."
+    },
+    {
+      "start": 359.9,
+      "end": 361.9,
+      "speaker": "SPEAKER_03",
+      "text": "It's me see it makes sense to me."
+    },
+    {
+      "start": 361.9,
+      "end": 366.9,
+      "speaker": "SPEAKER_03",
+      "text": "And yeah, let's dive into some some cost info. I actually have some some info here."
+    },
+    {
+      "start": 366.9,
+      "end": 367.9,
+      "speaker": "SPEAKER_03",
+      "text": "I want to show you."
+    },
+    {
+      "start": 367.9,
+      "end": 368.9,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 368.9,
+      "end": 370.9,
+      "speaker": "SPEAKER_03",
+      "text": "I'm going to share my screen here in a second."
+    },
+    {
+      "start": 370.9,
+      "end": 372.9,
+      "speaker": "SPEAKER_03",
+      "text": "Are you able to see."
+    },
+    {
+      "start": 372.9,
+      "end": 374.9,
+      "speaker": "SPEAKER_03",
+      "text": "This. Here we go."
+    },
+    {
+      "start": 374.9,
+      "end": 376.9,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 376.9,
+      "end": 377.9,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 377.9,
+      "end": 378.9,
+      "speaker": "SPEAKER_03",
+      "text": "So helpful."
+    },
+    {
+      "start": 378.9,
+      "end": 381.9,
+      "speaker": "SPEAKER_03",
+      "text": "Great. So I'm glad that's coming through. Okay."
+    },
+    {
+      "start": 381.9,
+      "end": 382.9,
+      "speaker": "SPEAKER_03",
+      "text": "So one thing here."
+    },
+    {
+      "start": 382.9,
+      "end": 385.9,
+      "speaker": "SPEAKER_03",
+      "text": "Now that now that this is up."
+    },
+    {
+      "start": 385.9,
+      "end": 392.9,
+      "speaker": "SPEAKER_03",
+      "text": "I guess I want you to have a look at the difference in profitability between years one and year five."
+    },
+    {
+      "start": 392.9,
+      "end": 394.9,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. Okay."
+    },
+    {
+      "start": 394.9,
+      "end": 399.9,
+      "speaker": "SPEAKER_01",
+      "text": "So looking here. We have information on subscribers."
+    },
+    {
+      "start": 399.9,
+      "end": 404.9,
+      "speaker": "SPEAKER_01",
+      "text": "We have two segments, basically, premium. We have the revenue annualized."
+    },
+    {
+      "start": 404.9,
+      "end": 406.9,
+      "speaker": "SPEAKER_01",
+      "text": "And then we have the costs."
+    },
+    {
+      "start": 406.9,
+      "end": 410.9,
+      "speaker": "SPEAKER_01",
+      "text": "I see here that the content creation and operations."
+    },
+    {
+      "start": 410.9,
+      "end": 416.9,
+      "speaker": "SPEAKER_01",
+      "text": "We're not looking at marketing. So I'm just going to assume that marketing is built into to both of those."
+    },
+    {
+      "start": 416.9,
+      "end": 420.9,
+      "speaker": "SPEAKER_01",
+      "text": "So thinking about the profitability from year one to year five."
+    },
+    {
+      "start": 420.9,
+      "end": 425.9,
+      "speaker": "SPEAKER_01",
+      "text": "I see that our revenue in year one was 144 million."
+    },
+    {
+      "start": 425.9,
+      "end": 428.9,
+      "speaker": "SPEAKER_01",
+      "text": "And so that's going to give me a profit of 65 million."
+    },
+    {
+      "start": 428.9,
+      "end": 431.9,
+      "speaker": "SPEAKER_01",
+      "text": "And so 65 over that 144."
+    },
+    {
+      "start": 431.9,
+      "end": 435.9,
+      "speaker": "SPEAKER_01",
+      "text": "That's about 45% profit margin in year five."
+    },
+    {
+      "start": 435.9,
+      "end": 440.9,
+      "speaker": "SPEAKER_01",
+      "text": "So we had revenue increased to 242."
+    },
+    {
+      "start": 440.9,
+      "end": 443.9,
+      "speaker": "SPEAKER_01",
+      "text": "And our costs."
+    },
+    {
+      "start": 443.9,
+      "end": 444.9,
+      "speaker": "SPEAKER_01",
+      "text": "Wow."
+    },
+    {
+      "start": 444.9,
+      "end": 445.9,
+      "speaker": "SPEAKER_01",
+      "text": "I almost doubled."
+    },
+    {
+      "start": 445.9,
+      "end": 446.9,
+      "speaker": "SPEAKER_01",
+      "text": "So."
+    },
+    {
+      "start": 446.9,
+      "end": 449.9,
+      "speaker": "SPEAKER_01",
+      "text": "I'm up to 64 million or 164 million."
+    },
+    {
+      "start": 449.9,
+      "end": 453.9,
+      "speaker": "SPEAKER_01",
+      "text": "So that is 78 million dollars in profit."
+    },
+    {
+      "start": 453.9,
+      "end": 456.9,
+      "speaker": "SPEAKER_01",
+      "text": "And 78 over that 242."
+    },
+    {
+      "start": 456.9,
+      "end": 458.9,
+      "speaker": "SPEAKER_01",
+      "text": "It's going to be about a 30% margin."
+    },
+    {
+      "start": 458.9,
+      "end": 460.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I see that our margins are."
+    },
+    {
+      "start": 460.9,
+      "end": 465.9,
+      "speaker": "SPEAKER_01",
+      "text": "Down about 15% of the course of the last five years, which is pretty significant drop."
+    },
+    {
+      "start": 465.9,
+      "end": 467.9,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, you're right. It is. That's a."
+    },
+    {
+      "start": 467.9,
+      "end": 468.9,
+      "speaker": "SPEAKER_01",
+      "text": "It's a big drop."
+    },
+    {
+      "start": 468.9,
+      "end": 477.9,
+      "speaker": "SPEAKER_03",
+      "text": "And I guess what trends do you see that could be driving that decline in profitability?"
+    },
+    {
+      "start": 477.9,
+      "end": 478.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah."
+    },
+    {
+      "start": 478.9,
+      "end": 481.9,
+      "speaker": "SPEAKER_01",
+      "text": "I mean, I think that's a really good question."
+    },
+    {
+      "start": 481.9,
+      "end": 484.9,
+      "speaker": "SPEAKER_01",
+      "text": "I'm seeing here one thing."
+    },
+    {
+      "start": 484.9,
+      "end": 487.9,
+      "speaker": "SPEAKER_01",
+      "text": "So this isn't going to answer that profitability thing."
+    },
+    {
+      "start": 487.9,
+      "end": 490.9,
+      "speaker": "SPEAKER_01",
+      "text": "But what's really interesting is our basic."
+    },
+    {
+      "start": 490.9,
+      "end": 494.9,
+      "speaker": "SPEAKER_01",
+      "text": "Really increased to increased 80 million dollars."
+    },
+    {
+      "start": 494.9,
+      "end": 496.9,
+      "speaker": "SPEAKER_01",
+      "text": "When our premium."
+    },
+    {
+      "start": 496.9,
+      "end": 499.9,
+      "speaker": "SPEAKER_01",
+      "text": "You know, it's increased on a percentage basis more."
+    },
+    {
+      "start": 499.9,
+      "end": 501.9,
+      "speaker": "SPEAKER_01",
+      "text": "But that's not really getting it for me."
+    },
+    {
+      "start": 501.9,
+      "end": 504.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I'd like to look more at."
+    },
+    {
+      "start": 504.9,
+      "end": 507.9,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe our."
+    },
+    {
+      "start": 507.9,
+      "end": 509.9,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe our costs here."
+    },
+    {
+      "start": 509.9,
+      "end": 513.9,
+      "speaker": "SPEAKER_01",
+      "text": "It seems like, you know, the top line is growing in our."
+    },
+    {
+      "start": 513.9,
+      "end": 517.9,
+      "speaker": "SPEAKER_01",
+      "text": "And our costs are really, really increasing."
+    },
+    {
+      "start": 517.9,
+      "end": 522.9,
+      "speaker": "SPEAKER_01",
+      "text": "Do we have any more information that what might be leading into that."
+    },
+    {
+      "start": 522.9,
+      "end": 527.9,
+      "speaker": "SPEAKER_01",
+      "text": "That profitability drop where the top line revenue growth is slowing so much."
+    },
+    {
+      "start": 527.9,
+      "end": 533.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, I'm going to pull up another piece of data here for you that I think can help answer some of those questions."
+    },
+    {
+      "start": 533.9,
+      "end": 534.9,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 534.9,
+      "end": 538.9,
+      "speaker": "SPEAKER_03",
+      "text": "So they've shared with us the following survey results."
+    },
+    {
+      "start": 538.9,
+      "end": 542.9,
+      "speaker": "SPEAKER_03",
+      "text": "I'm hoping you can talk me through what these survey results are telling us."
+    },
+    {
+      "start": 542.9,
+      "end": 543.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah."
+    },
+    {
+      "start": 543.9,
+      "end": 549.9,
+      "speaker": "SPEAKER_01",
+      "text": "So here I see percentage of respondents that say I share my password with a family member friend."
+    },
+    {
+      "start": 549.9,
+      "end": 551.9,
+      "speaker": "SPEAKER_01",
+      "text": "I know myself."
+    },
+    {
+      "start": 551.9,
+      "end": 554.9,
+      "speaker": "SPEAKER_01",
+      "text": "I share my Netflix account with her."
+    },
+    {
+      "start": 554.9,
+      "end": 557.9,
+      "speaker": "SPEAKER_01",
+      "text": "You know, my parents and family and my brother."
+    },
+    {
+      "start": 557.9,
+      "end": 559.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I am guilty of this as well."
+    },
+    {
+      "start": 559.9,
+      "end": 562.9,
+      "speaker": "SPEAKER_01",
+      "text": "And I see that in year one."
+    },
+    {
+      "start": 562.9,
+      "end": 567.9,
+      "speaker": "SPEAKER_01",
+      "text": "2% of basic subscribers and 6% of premium subscribers were sharing it."
+    },
+    {
+      "start": 567.9,
+      "end": 570.9,
+      "speaker": "SPEAKER_01",
+      "text": "But now those numbers are all the way up to 25 and 40."
+    },
+    {
+      "start": 570.9,
+      "end": 573.9,
+      "speaker": "SPEAKER_01",
+      "text": "So that is a massive increase."
+    },
+    {
+      "start": 573.9,
+      "end": 577.9,
+      "speaker": "SPEAKER_01",
+      "text": "12X on basic and."
+    },
+    {
+      "start": 577.9,
+      "end": 579.9,
+      "speaker": "SPEAKER_01",
+      "text": "6.5X at the 40."
+    },
+    {
+      "start": 579.9,
+      "end": 583.9,
+      "speaker": "SPEAKER_01",
+      "text": "So that's a significant increase in."
+    },
+    {
+      "start": 583.9,
+      "end": 586.9,
+      "speaker": "SPEAKER_01",
+      "text": "All of those users who are now sharing an account."
+    },
+    {
+      "start": 586.9,
+      "end": 589.9,
+      "speaker": "SPEAKER_01",
+      "text": "That's lost revenue."
+    },
+    {
+      "start": 589.9,
+      "end": 591.9,
+      "speaker": "SPEAKER_03",
+      "text": "Exactly."
+    },
+    {
+      "start": 591.9,
+      "end": 592.9,
+      "speaker": "UNKNOWN",
+      "text": "Exactly."
+    },
+    {
+      "start": 592.9,
+      "end": 596.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I think that's going to be what's driving our issue here."
+    },
+    {
+      "start": 596.9,
+      "end": 600.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I'd like to go ahead and calculate how much revenue loss."
+    },
+    {
+      "start": 600.9,
+      "end": 602.9,
+      "speaker": "SPEAKER_01",
+      "text": "And think about how that might be changing."
+    },
+    {
+      "start": 602.9,
+      "end": 604.9,
+      "speaker": "SPEAKER_01",
+      "text": "So is that something like the right approach?"
+    },
+    {
+      "start": 604.9,
+      "end": 606.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, it does."
+    },
+    {
+      "start": 606.9,
+      "end": 607.9,
+      "speaker": "SPEAKER_03",
+      "text": "It does."
+    },
+    {
+      "start": 607.9,
+      "end": 609.9,
+      "speaker": "SPEAKER_03",
+      "text": "I actually have some data for you on that point to help out."
+    },
+    {
+      "start": 609.9,
+      "end": 610.9,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 610.9,
+      "end": 611.9,
+      "speaker": "SPEAKER_03",
+      "text": "That's a great next step."
+    },
+    {
+      "start": 611.9,
+      "end": 613.9,
+      "speaker": "SPEAKER_03",
+      "text": "So on the basic plan."
+    },
+    {
+      "start": 613.9,
+      "end": 616.9,
+      "speaker": "SPEAKER_03",
+      "text": "We're looking at about $10 a month in revenue net film."
+    },
+    {
+      "start": 616.9,
+      "end": 617.9,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 617.9,
+      "end": 621.9,
+      "speaker": "SPEAKER_03",
+      "text": "And then in the premium segment, it's $20 a month."
+    },
+    {
+      "start": 621.9,
+      "end": 622.9,
+      "speaker": "SPEAKER_01",
+      "text": "That's really helpful."
+    },
+    {
+      "start": 622.9,
+      "end": 623.9,
+      "speaker": "SPEAKER_01",
+      "text": "Right."
+    },
+    {
+      "start": 623.9,
+      "end": 629.9,
+      "speaker": "SPEAKER_03",
+      "text": "So if you look at year five, can we have a sense of how much their profitability is being impacted?"
+    },
+    {
+      "start": 629.9,
+      "end": 630.9,
+      "speaker": "SPEAKER_01",
+      "text": "Yep."
+    },
+    {
+      "start": 630.9,
+      "end": 634.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I just want to walk you through my approach before we get started."
+    },
+    {
+      "start": 634.9,
+      "end": 639.9,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to take the percentage of respondents who are sharing their account."
+    },
+    {
+      "start": 639.9,
+      "end": 643.9,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to multiply that by the number of respondents there are in that category."
+    },
+    {
+      "start": 643.9,
+      "end": 648.9,
+      "speaker": "SPEAKER_01",
+      "text": "So how many basic subscribers, how many premium subscribers to get a number."
+    },
+    {
+      "start": 648.9,
+      "end": 651.9,
+      "speaker": "SPEAKER_01",
+      "text": "And then I'm going to multiply that by the monthly."
+    },
+    {
+      "start": 651.9,
+      "end": 656.9,
+      "speaker": "SPEAKER_01",
+      "text": "And then I'll do that to times 12 months to figure out what our revenue loss is."
+    },
+    {
+      "start": 656.9,
+      "end": 658.9,
+      "speaker": "SPEAKER_03",
+      "text": "Is that something like a right approach?"
+    },
+    {
+      "start": 658.9,
+      "end": 659.9,
+      "speaker": "SPEAKER_03",
+      "text": "That makes sense to me."
+    },
+    {
+      "start": 659.9,
+      "end": 660.9,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 660.9,
+      "end": 665.9,
+      "speaker": "SPEAKER_01",
+      "text": "So for the basic segment, I have 25%."
+    },
+    {
+      "start": 665.9,
+      "end": 668.9,
+      "speaker": "SPEAKER_01",
+      "text": "five times how worked out by G With Is With Is with Share them."
+    },
+    {
+      "start": 668.9,
+      "end": 669.9,
+      "speaker": "SPEAKER_01",
+      "text": "I don't know if for example,"
+    },
+    {
+      "start": 669.9,
+      "end": 679.9,
+      "speaker": "SPEAKER_01",
+      "text": "he had to multiply our credit."
+    },
+    {
+      "start": 679.9,
+      "end": 680.9,
+      "speaker": "SPEAKER_01",
+      "text": "Times."
+    },
+    {
+      "start": 680.9,
+      "end": 681.9,
+      "speaker": "SPEAKER_01",
+      "text": "Time says,"
+    },
+    {
+      "start": 681.9,
+      "end": 684.9,
+      "speaker": "SPEAKER_01",
+      "text": "one point, 2 million 1.7 million users."
+    },
+    {
+      "start": 684.9,
+      "end": 685.9,
+      "speaker": "SPEAKER_01",
+      "text": "Excuse me."
+    },
+    {
+      "start": 685.9,
+      "end": 687.9,
+      "speaker": "SPEAKER_01",
+      "text": "That's going to give us."
+    },
+    {
+      "start": 688.9,
+      "end": 691.9,
+      "speaker": "SPEAKER_01",
+      "text": "425,000 users who are sharing their password."
+    },
+    {
+      "start": 691.9,
+      "end": 694.9,
+      "speaker": "SPEAKER_01",
+      "text": "And 425 times $10 per month is going to give us $ 4 25 million a month."
+    },
+    {
+      "start": 694.9,
+      "end": 712.9,
+      "speaker": "SPEAKER_01",
+      "text": "basic and then if we look at the premium 40% of those subscribers of the 200,000 users in that segment gives us 80,000 users 80,000 times 20 a month gives us 1.6 million a month"
+    },
+    {
+      "start": 712.9,
+      "end": 726.9,
+      "speaker": "SPEAKER_01",
+      "text": "times 12 months. I'm going to say it's about 20 million dollars a year. So in total that's 70 million dollars in last revenue per year and that's about 30% of years 5's"
+    },
+    {
+      "start": 726.9,
+      "end": 736.9,
+      "speaker": "SPEAKER_01",
+      "text": "242 million dollars in revenue. So that's a significant amount of money."
+    },
+    {
+      "start": 736.9,
+      "end": 745.9,
+      "speaker": "SPEAKER_01",
+      "text": "And while we can't assume all of those people would buy a subscription, we can assume that quite a few of them would."
+    },
+    {
+      "start": 745.9,
+      "end": 755.9,
+      "speaker": "SPEAKER_03",
+      "text": "Right, exactly. It feels like, you know, almost a lost opportunity, a big lost opportunity if they don't find some way to address it."
+    },
+    {
+      "start": 755.9,
+      "end": 763.9,
+      "speaker": "SPEAKER_03",
+      "text": "Definitely. That's a great point. Okay. Well, now that we've looked at the math, I want to move into some brainstorming activities here."
+    },
+    {
+      "start": 763.9,
+      "end": 771.9,
+      "speaker": "SPEAKER_03",
+      "text": "The first question is with everything that we just looked at, what do you think are some potential solutions to the account sharing issue?"
+    },
+    {
+      "start": 771.9,
+      "end": 777.9,
+      "speaker": "SPEAKER_01",
+      "text": "Chris, you might have taken one second just to think about this. Absolutely. Yep."
+    },
+    {
+      "start": 777.9,
+      "end": 785.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm thinking there's three buckets here. The first one is going to be to charge for password sharing."
+    },
+    {
+      "start": 785.9,
+      "end": 800.9,
+      "speaker": "SPEAKER_01",
+      "text": "I think another one is going to be creating ways to limit users' abilities to share their passwords. And then finally, I think there's ways to build our product so that people don't want to share their passwords."
+    },
+    {
+      "start": 800.9,
+      "end": 820.9,
+      "speaker": "SPEAKER_01",
+      "text": "Great. And so, and I think about the first bucket, I'm charging for password sharing. I think we could sell a type of account that limits users ability or sorry that allows people to share with three devices, three households, something like that."
+    },
+    {
+      "start": 820.9,
+      "end": 834.9,
+      "speaker": "SPEAKER_01",
+      "text": "I think there's in terms of limiting users' ability to share passwords. This one seems to be have a few more opportunities. You get forced passwords to be reset every few months. And I think the more complicated you make that password."
+    },
+    {
+      "start": 834.9,
+      "end": 839.9,
+      "speaker": "SPEAKER_01",
+      "text": "The harder it is for grandma grandpa to type it in, especially on a TV remote. Right."
+    },
+    {
+      "start": 839.9,
+      "end": 852.9,
+      "speaker": "SPEAKER_01",
+      "text": "So you can do IP tracking, which I've seen some streaming services do. So how many unique IP addresses. You could also do a device limit."
+    },
+    {
+      "start": 852.9,
+      "end": 866.9,
+      "speaker": "SPEAKER_01",
+      "text": "So the number of devices could be restricted to three or five. So you could have your phone, your iPad, your computer, but you're not going to have, you know, 15, 20 devices."
+    },
+    {
+      "start": 866.9,
+      "end": 883.9,
+      "speaker": "SPEAKER_01",
+      "text": "I think if we think about the product one part of the benefit of streaming services, especially the better ones, are they offer you, they know you better than you know yourself. So when I log in on a Friday night, and it has a movie that I don't know about, but I know I'm going to like."
+    },
+    {
+      "start": 883.9,
+      "end": 900.9,
+      "speaker": "SPEAKER_01",
+      "text": "If that's different for my parents or, you know, grandparents, somebody else, they're not going to want to use that. And so I think the better the personalization can be with the fewer accounts that you have on one, on one account or sort of personas."
+    },
+    {
+      "start": 900.9,
+      "end": 908.9,
+      "speaker": "SPEAKER_01",
+      "text": "And the less you're going to want to share it. So those are some ways that I think we could really prevent people from sharing their passwords."
+    },
+    {
+      "start": 908.9,
+      "end": 914.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, that makes sense. I think those are some really great and specific ideas."
+    },
+    {
+      "start": 914.9,
+      "end": 925.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah. And I think I think if we were to implement those, it could go a long way towards reducing passwords sharing, but I think there's also some issues we need to take into account or potential risks."
+    },
+    {
+      "start": 925.9,
+      "end": 933.9,
+      "speaker": "SPEAKER_03",
+      "text": "And if we were to think about these ideas, you just mentioned here, what are some of the potential risks to the solutions."
+    },
+    {
+      "start": 933.9,
+      "end": 943.9,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. So I think if the first one is our customer dissatisfaction, I think with the number of streaming services."
+    },
+    {
+      "start": 943.9,
+      "end": 954.9,
+      "speaker": "SPEAKER_01",
+      "text": "It's a very fractured market right now. And a lot of the streaming services are offering a month free, three months free, things like that."
+    },
+    {
+      "start": 954.9,
+      "end": 963.9,
+      "speaker": "SPEAKER_01",
+      "text": "And potentially make our customers unhappy. And that could lead into the next one, which is an increased churn rate."
+    },
+    {
+      "start": 963.9,
+      "end": 973.9,
+      "speaker": "SPEAKER_01",
+      "text": "You know, our customers churning would eat into our cop line revenue and not really impact our costs. And so that would really hurt our profitability."
+    },
+    {
+      "start": 973.9,
+      "end": 978.9,
+      "speaker": "SPEAKER_01",
+      "text": "I think this next one is just bad publicity."
+    },
+    {
+      "start": 978.9,
+      "end": 987.9,
+      "speaker": "SPEAKER_01",
+      "text": "Again, this is kind of a growth game early on to get people to sign up. And so it was very laissez faire allowing people to share it."
+    },
+    {
+      "start": 987.9,
+      "end": 1000.9,
+      "speaker": "SPEAKER_01",
+      "text": "And if we're the only streaming service that starts to do this, it's could lead to some bad press, which would, you know, increase the customer dissatisfaction and the churn rate potentially."
+    },
+    {
+      "start": 1000.9,
+      "end": 1006.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, love it. I think that all makes a lot of sense."
+    },
+    {
+      "start": 1006.9,
+      "end": 1014.9,
+      "speaker": "SPEAKER_03",
+      "text": "I guess last point then is around how we how we can mitigate some of these, these risks that we talked about."
+    },
+    {
+      "start": 1014.9,
+      "end": 1023.9,
+      "speaker": "SPEAKER_03",
+      "text": "I want to move into like an implementation plan or how, how you would recommend implementing these."
+    },
+    {
+      "start": 1023.9,
+      "end": 1026.9,
+      "speaker": "SPEAKER_03",
+      "text": "The sense of how you do that."
+    },
+    {
+      "start": 1026.9,
+      "end": 1043.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I think the first part, I'm thinking about this in four parts. I think the first part is I would want to do some market testing to understand how customers would feel about some of these ideas, as well as which ones would leave them to limit their password sharing."
+    },
+    {
+      "start": 1043.9,
+      "end": 1053.9,
+      "speaker": "SPEAKER_01",
+      "text": "So some of this would be, I think some beta testing that some of that would really be just trying to figure out what's going to be effective without leading to that churn."
+    },
+    {
+      "start": 1053.9,
+      "end": 1065.9,
+      "speaker": "SPEAKER_01",
+      "text": "The next is going to be a technical solution development. So that's where we're actually, you know, building in the ability to limit IP addresses, say."
+    },
+    {
+      "start": 1065.9,
+      "end": 1071.9,
+      "speaker": "SPEAKER_01",
+      "text": "And then the next one is we're going to have to communicate this and plan the PR."
+    },
+    {
+      "start": 1071.9,
+      "end": 1082.9,
+      "speaker": "SPEAKER_01",
+      "text": "And so we really want to start testing the messaging that we're putting out well in advance, figure out how our users are going to react and maybe start building up."
+    },
+    {
+      "start": 1082.9,
+      "end": 1091.9,
+      "speaker": "SPEAKER_01",
+      "text": "Some some good stories in our pipelines, maybe some new shows, some new movies that will drop to sort of take away from that bad press."
+    },
+    {
+      "start": 1091.9,
+      "end": 1100.9,
+      "speaker": "SPEAKER_01",
+      "text": "And then the next one is going to be that implementation and measurement. We want to see in the first 100 days, 50 days after the rollout."
+    },
+    {
+      "start": 1100.9,
+      "end": 1108.9,
+      "speaker": "SPEAKER_01",
+      "text": "How many people are still password sharing? Are we seeing an increase in churn? Are we seeing actually a growth?"
+    },
+    {
+      "start": 1108.9,
+      "end": 1116.9,
+      "speaker": "SPEAKER_01",
+      "text": "And what can we do to mitigate that so that we're not compounding the current problems that we're facing?"
+    },
+    {
+      "start": 1116.9,
+      "end": 1121.9,
+      "speaker": "SPEAKER_03",
+      "text": "Got it. That makes sense. I really like those four points for for an implementation plan."
+    },
+    {
+      "start": 1121.9,
+      "end": 1127.9,
+      "speaker": "SPEAKER_03",
+      "text": "Do you have a sense of how long each of those would take or what the total kind of roadmap timeline would look like?"
+    },
+    {
+      "start": 1127.9,
+      "end": 1131.9,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. You know, I think that's a good good question."
+    },
+    {
+      "start": 1131.9,
+      "end": 1141.9,
+      "speaker": "SPEAKER_01",
+      "text": "I think from a technical solution development. Or so for the first part, market testing. I think that would be how to allocate about a month."
+    },
+    {
+      "start": 1141.9,
+      "end": 1154.9,
+      "speaker": "SPEAKER_01",
+      "text": "And I think the technical solution development. We've got a really strong team of software engineers here. So I'm going to say, let's say three months is enough time."
+    },
+    {
+      "start": 1154.9,
+      "end": 1163.9,
+      "speaker": "SPEAKER_01",
+      "text": "So that's going on. We can already start developing the communication. I think those can kind of be going on at about the same time."
+    },
+    {
+      "start": 1163.9,
+      "end": 1169.9,
+      "speaker": "SPEAKER_01",
+      "text": "So I would say for about a month of pre planning three months for the development and the communications."
+    },
+    {
+      "start": 1169.9,
+      "end": 1176.9,
+      "speaker": "SPEAKER_01",
+      "text": "And then that implementation is going to be two months where we're implementing and we're measuring at the same time."
+    },
+    {
+      "start": 1176.9,
+      "end": 1179.9,
+      "speaker": "SPEAKER_01",
+      "text": "So all in all about six months."
+    },
+    {
+      "start": 1179.9,
+      "end": 1184.9,
+      "speaker": "SPEAKER_03",
+      "text": "And that makes sense. That makes sense. That feels like a realistic timeline. Yeah."
+    },
+    {
+      "start": 1184.9,
+      "end": 1189.9,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. Awesome. Well, we've covered a lot here, actually."
+    },
+    {
+      "start": 1189.9,
+      "end": 1197.9,
+      "speaker": "SPEAKER_03",
+      "text": "So yeah, we've thrown out some great ideas. I'm hoping you can give me a final synthesis and recommendation on how netfilm should approach the declining profitability."
+    },
+    {
+      "start": 1197.9,
+      "end": 1202.9,
+      "speaker": "SPEAKER_01",
+      "text": "Absolutely. Do you mind giving me just one minute to organize my thoughts?"
+    },
+    {
+      "start": 1202.9,
+      "end": 1206.9,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, of course. Yeah."
+    },
+    {
+      "start": 1206.9,
+      "end": 1218.9,
+      "speaker": "SPEAKER_01",
+      "text": "So netfilm is facing a declining profitability. I looked both at the revenue and the cost trends and go into their some of their data."
+    },
+    {
+      "start": 1218.9,
+      "end": 1223.9,
+      "speaker": "SPEAKER_01",
+      "text": "And it looks to me that the issue is a top line revenue growth."
+    },
+    {
+      "start": 1223.9,
+      "end": 1227.9,
+      "speaker": "SPEAKER_01",
+      "text": "And this seems to be driven by password sharing."
+    },
+    {
+      "start": 1227.9,
+      "end": 1234.9,
+      "speaker": "SPEAKER_01",
+      "text": "And so ultimately, I think netfilm needs to come up with a way to limit users ability to password share."
+    },
+    {
+      "start": 1234.9,
+      "end": 1244.9,
+      "speaker": "SPEAKER_01",
+      "text": "And so ultimately, the most important thing is that if we're planning to make a list of the most effective devices, it would be the most limiting the number of devices within a certain time period would be the most effective strategy."
+    },
+    {
+      "start": 1244.9,
+      "end": 1251.9,
+      "speaker": "SPEAKER_01",
+      "text": "And ultimately, this is going to potentially lead to higher churn rate."
+    },
+    {
+      "start": 1251.9,
+      "end": 1262.9,
+      "speaker": "SPEAKER_01",
+      "text": "But I think if we are able to increase good content and good stories about the company while we're planning this roll out over the next six months that we can mitigate this risk."
+    },
+    {
+      "start": 1262.9,
+      "end": 1267.9,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, that's the end of the case. How did you feel about that?"
+    },
+    {
+      "start": 1267.9,
+      "end": 1280.9,
+      "speaker": "SPEAKER_01",
+      "text": "Good. I thought it was a pretty straightforward case. I like that it had some quantum analysis. It had some data that led from, you know, figuring out one part to the next."
+    },
+    {
+      "start": 1280.9,
+      "end": 1283.9,
+      "speaker": "SPEAKER_01",
+      "text": "And some really interesting brainstorms."
+    },
+    {
+      "start": 1283.9,
+      "end": 1297.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, no, I agree. And I think you did a great job on the case. When I think about the different sections of it, like upfront, your structure, I thought was really good. You asked some really insightful questions as well before you dove into that."
+    },
+    {
+      "start": 1297.9,
+      "end": 1309.9,
+      "speaker": "SPEAKER_03",
+      "text": "And then when we got to the quant section, I really like how you did what's called clearing the chart. Right. So you get, there was three tables that you're presented with. There's a lot of numbers, a lot of data in there and it can feel kind of overwhelming."
+    },
+    {
+      "start": 1309.9,
+      "end": 1319.9,
+      "speaker": "SPEAKER_03",
+      "text": "But you did a really good job of taking it step by step, talking me through what you were seeing in a very logical way. So I knew what you were thinking. I knew the numbers you were looking at."
+    },
+    {
+      "start": 1319.9,
+      "end": 1325.9,
+      "speaker": "SPEAKER_03",
+      "text": "And when you pull the insights together from those charts, I knew exactly where that came from. So that was really good."
+    },
+    {
+      "start": 1325.9,
+      "end": 1330.9,
+      "speaker": "SPEAKER_03",
+      "text": "And then when you're doing the calculations as well, you, you talked me through the math really well."
+    },
+    {
+      "start": 1330.9,
+      "end": 1339.9,
+      "speaker": "SPEAKER_03",
+      "text": "I think this is a really important skill for everyone to have and to develop, especially through interviewing over zoom and not in person."
+    },
+    {
+      "start": 1339.9,
+      "end": 1345.9,
+      "speaker": "SPEAKER_03",
+      "text": "Just being being really good about verbal communication of the math and the steps that you're doing."
+    },
+    {
+      "start": 1345.9,
+      "end": 1351.9,
+      "speaker": "SPEAKER_03",
+      "text": "And then moving into the brainstorming, I think you had really good structure in that first question three."
+    },
+    {
+      "start": 1351.9,
+      "end": 1357.9,
+      "speaker": "SPEAKER_03",
+      "text": "It had some, some really great ideas that you pulled out because of that structure as well."
+    },
+    {
+      "start": 1357.9,
+      "end": 1362.9,
+      "speaker": "SPEAKER_03",
+      "text": "And then yeah, your final synthesis, I think wrapped it up all really nicely."
+    },
+    {
+      "start": 1362.9,
+      "end": 1376.9,
+      "speaker": "SPEAKER_03",
+      "text": "I didn't see very much that I think you could improve on. I think the only thing is question number four. It was that second brainstorming piece around the risks of your ideas to limit account sharing."
+    },
+    {
+      "start": 1376.9,
+      "end": 1384.9,
+      "speaker": "SPEAKER_03",
+      "text": "I think it felt a little bit unstructured like you just kind of pulled out some some ideas that didn't have much of a structure to it."
+    },
+    {
+      "start": 1384.9,
+      "end": 1395.9,
+      "speaker": "SPEAKER_03",
+      "text": "But the ideas you pulled out, I think, were still great. And the initial framework you had in question three before it was solid. So it didn't feel like a big deal to me that there was less structure in question four."
+    },
+    {
+      "start": 1395.9,
+      "end": 1403.9,
+      "speaker": "SPEAKER_03",
+      "text": "But I think that's one area you could improve on. But that, you know, that's something you might expect from from the most advanced candidates."
+    },
+    {
+      "start": 1403.9,
+      "end": 1408.9,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, that's that's some really good advice. Yeah, overall, I think you do fantastic on the case."
+    },
+    {
+      "start": 1408.9,
+      "end": 1411.9,
+      "speaker": "SPEAKER_03",
+      "text": "And anything else to add on your in Maddie."
+    },
+    {
+      "start": 1411.9,
+      "end": 1423.9,
+      "speaker": "SPEAKER_01",
+      "text": "No, I think that that's great feedback. And I think I'll work on on how I can sort of use maybe a common framework for both brainstorms or or match one up as I continue to work on this."
+    },
+    {
+      "start": 1423.9,
+      "end": 1437.9,
+      "speaker": "SPEAKER_00",
+      "text": "Hey, everyone, it's Kent and Givessey here, the founder of Rockablocks. Thank you so much for watching this mock interview video. I hope you found it informative and helpful as you were getting ready to prepare for your own interviews and hopefully landing that job offer you are excited about."
+    },
+    {
+      "start": 1437.9,
+      "end": 1446.9,
+      "speaker": "SPEAKER_00",
+      "text": "We have a ton of great content on the Rockablocks channel coming out on a weekly basis mock interviews, many lessons and chats with our Rockablocks experts."
+    },
+    {
+      "start": 1446.9,
+      "end": 1454.9,
+      "speaker": "SPEAKER_00",
+      "text": "If you haven't subscribed yet already, please do so. There is a big red button below. And if you hit that, you'll get all of our content as soon as it comes up."
+    },
+    {
+      "start": 1454.9,
+      "end": 1456.9,
+      "speaker": "SPEAKER_00",
+      "text": "Thanks for watching and have a great day."
+    }
+  ],
+  "grading": {
+    "communication": 12,
+    "framework": 16,
+    "math": 11,
+    "case_difficulty": 10,
+    "final_summary": 15,
+    "overall_thoughts": "You did a great job on the framework and final summary, but struggled with some math concepts."
+  }
+}

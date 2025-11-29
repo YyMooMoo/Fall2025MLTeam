@@ -1,0 +1,4026 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "speaker": "SPEAKER_01",
+      "text": "All right, Ed, I've got a case for you."
+    },
+    {
+      "start": 1.8,
+      "end": 2.68,
+      "speaker": "SPEAKER_01",
+      "text": "You ready for this?"
+    },
+    {
+      "start": 2.68,
+      "end": 3.52,
+      "speaker": "SPEAKER_01",
+      "text": "I am."
+    },
+    {
+      "start": 3.52,
+      "end": 4.68,
+      "speaker": "SPEAKER_01",
+      "text": "Fantastic."
+    },
+    {
+      "start": 4.68,
+      "end": 7.44,
+      "speaker": "SPEAKER_01",
+      "text": "Our case is going to be a carny case."
+    },
+    {
+      "start": 7.44,
+      "end": 8.28,
+      "speaker": "SPEAKER_01",
+      "text": "We're good."
+    },
+    {
+      "start": 8.28,
+      "end": 10.6,
+      "speaker": "SPEAKER_01",
+      "text": "Heavy on the math, really solid on the analytics."
+    },
+    {
+      "start": 10.6,
+      "end": 14.48,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm looking for really clear linear insights."
+    },
+    {
+      "start": 14.48,
+      "end": 16.32,
+      "speaker": "SPEAKER_01",
+      "text": "Just to make sure that you say superstructure,"
+    },
+    {
+      "start": 16.32,
+      "end": 17.92,
+      "speaker": "SPEAKER_01",
+      "text": "otherwise it could be kind of repeated."
+    },
+    {
+      "start": 17.92,
+      "end": 20.44,
+      "speaker": "SPEAKER_01",
+      "text": "Finish the case in the timing that we've got."
+    },
+    {
+      "start": 20.44,
+      "end": 22.92,
+      "speaker": "SPEAKER_01",
+      "text": "And so I'm going to walk through just the background"
+    },
+    {
+      "start": 22.92,
+      "end": 23.92,
+      "speaker": "SPEAKER_01",
+      "text": "of the case and we'll dive in."
+    },
+    {
+      "start": 23.92,
+      "end": 24.76,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 24.76,
+      "end": 25.76,
+      "speaker": "SPEAKER_01",
+      "text": "That sounds good."
+    },
+    {
+      "start": 25.76,
+      "end": 26.6,
+      "speaker": "UNKNOWN",
+      "text": "Awesome."
+    },
+    {
+      "start": 27.6,
+      "end": 31.6,
+      "speaker": "SPEAKER_01",
+      "text": "So today's case is called Ministry of Travel"
+    },
+    {
+      "start": 31.6,
+      "end": 33.32,
+      "speaker": "SPEAKER_01",
+      "text": "and our client is the Ministry of Tourism"
+    },
+    {
+      "start": 33.32,
+      "end": 35.52,
+      "speaker": "SPEAKER_01",
+      "text": "of a West African country."
+    },
+    {
+      "start": 35.52,
+      "end": 37.04,
+      "speaker": "SPEAKER_01",
+      "text": "We've been hired to produce a plan"
+    },
+    {
+      "start": 37.04,
+      "end": 38.800000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "on how to increase the revenues generated"
+    },
+    {
+      "start": 38.800000000000004,
+      "end": 42.24,
+      "speaker": "SPEAKER_01",
+      "text": "by tourism in the country and hence further contribute"
+    },
+    {
+      "start": 42.24,
+      "end": 43.760000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "to economic development."
+    },
+    {
+      "start": 43.760000000000005,
+      "end": 45.28,
+      "speaker": "SPEAKER_01",
+      "text": "And we refer to revenues generated"
+    },
+    {
+      "start": 45.28,
+      "end": 46.32,
+      "speaker": "SPEAKER_01",
+      "text": "by the tourism industry."
+    },
+    {
+      "start": 46.32,
+      "end": 49.68000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "We actually refer to all spending done by travelers,"
+    },
+    {
+      "start": 49.68000000000001,
+      "end": 54.400000000000006,
+      "speaker": "SPEAKER_01",
+      "text": "including accommodation, food, transportation, activities,"
+    },
+    {
+      "start": 54.4,
+      "end": 58.64,
+      "speaker": "SPEAKER_01",
+      "text": "et cetera, both for business and for the leisure travel segments"
+    },
+    {
+      "start": 58.64,
+      "end": 60.6,
+      "speaker": "SPEAKER_01",
+      "text": "both domestic and international."
+    },
+    {
+      "start": 60.6,
+      "end": 61.44,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 61.44,
+      "end": 62.599999999999994,
+      "speaker": "SPEAKER_01",
+      "text": "So any questions for you?"
+    },
+    {
+      "start": 62.599999999999994,
+      "end": 63.6,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 63.6,
+      "end": 65.12,
+      "speaker": "SPEAKER_00",
+      "text": "So just to clarify, our client today is the Ministry"
+    },
+    {
+      "start": 65.12,
+      "end": 67.32,
+      "speaker": "SPEAKER_00",
+      "text": "of Travel, very accompanied."
+    },
+    {
+      "start": 67.32,
+      "end": 69.4,
+      "speaker": "SPEAKER_00",
+      "text": "Did you say located in West Africa?"
+    },
+    {
+      "start": 69.4,
+      "end": 70.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yep."
+    },
+    {
+      "start": 70.24,
+      "end": 71.08,
+      "speaker": "SPEAKER_01",
+      "text": "West Africa."
+    },
+    {
+      "start": 71.08,
+      "end": 74.88,
+      "speaker": "SPEAKER_00",
+      "text": "And are we assuming that that's the entire scope"
+    },
+    {
+      "start": 74.88,
+      "end": 76.56,
+      "speaker": "SPEAKER_00",
+      "text": "of this engagement is just."
+    },
+    {
+      "start": 76.56,
+      "end": 78.08,
+      "speaker": "SPEAKER_00",
+      "text": "Do you want more?"
+    },
+    {
+      "start": 78.08,
+      "end": 79.24,
+      "speaker": "SPEAKER_00",
+      "text": "Let's keep it simple."
+    },
+    {
+      "start": 79.24,
+      "end": 81.96000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Let's keep it in West Africa."
+    },
+    {
+      "start": 81.96000000000001,
+      "end": 82.96000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, perfect."
+    },
+    {
+      "start": 82.96,
+      "end": 85.36,
+      "speaker": "SPEAKER_00",
+      "text": "And the goal here is to increase tourism revenue."
+    },
+    {
+      "start": 85.36,
+      "end": 88.36,
+      "speaker": "SPEAKER_00",
+      "text": "That's things like accommodation, food, transport,"
+    },
+    {
+      "start": 88.36,
+      "end": 90.96,
+      "speaker": "SPEAKER_00",
+      "text": "anything done by it by tourists and visitors to the area."
+    },
+    {
+      "start": 90.96,
+      "end": 91.96,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 91.96,
+      "end": 92.96,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 92.96,
+      "end": 94.36,
+      "speaker": "SPEAKER_00",
+      "text": "Well, I'm, do you mind if I just take a minute or two"
+    },
+    {
+      "start": 94.36,
+      "end": 95.16,
+      "speaker": "SPEAKER_00",
+      "text": "to organize my thoughts?"
+    },
+    {
+      "start": 95.16,
+      "end": 96.16,
+      "speaker": "SPEAKER_01",
+      "text": "No, go ahead."
+    },
+    {
+      "start": 99.44,
+      "end": 100.44,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 100.44,
+      "end": 104.52,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm ready to walk you through my thoughts here."
+    },
+    {
+      "start": 104.52,
+      "end": 106.88,
+      "speaker": "SPEAKER_00",
+      "text": "Obviously, the main issue here is revenue."
+    },
+    {
+      "start": 106.88,
+      "end": 108.88,
+      "speaker": "SPEAKER_00",
+      "text": "And so I really just wanted to drill down"
+    },
+    {
+      "start": 108.88,
+      "end": 110.19999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "and talk to all the different categories and that."
+    },
+    {
+      "start": 110.19999999999999,
+      "end": 111.83999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And actually, you did me a huge favor"
+    },
+    {
+      "start": 111.84,
+      "end": 114.12,
+      "speaker": "SPEAKER_00",
+      "text": "and you provided me with quite a few in the prompt."
+    },
+    {
+      "start": 114.12,
+      "end": 115.56,
+      "speaker": "SPEAKER_00",
+      "text": "So I wanted to dig a little,"
+    },
+    {
+      "start": 115.56,
+      "end": 119.44,
+      "speaker": "SPEAKER_00",
+      "text": "I wanted to dig a little bit deeper into all of this."
+    },
+    {
+      "start": 119.44,
+      "end": 121.64,
+      "speaker": "SPEAKER_00",
+      "text": "So the four that I outlined,"
+    },
+    {
+      "start": 121.64,
+      "end": 123.2,
+      "speaker": "SPEAKER_00",
+      "text": "and there is a tiny bit of overlap"
+    },
+    {
+      "start": 123.2,
+      "end": 125.4,
+      "speaker": "SPEAKER_00",
+      "text": "between accommodations and food."
+    },
+    {
+      "start": 125.4,
+      "end": 128.4,
+      "speaker": "SPEAKER_00",
+      "text": "But I wanted to look at accommodation, food, transport,"
+    },
+    {
+      "start": 128.4,
+      "end": 129.24,
+      "speaker": "SPEAKER_00",
+      "text": "and other."
+    },
+    {
+      "start": 129.24,
+      "end": 130.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 130.08,
+      "end": 132.08,
+      "speaker": "SPEAKER_00",
+      "text": "So accommodation, we've got hotels"
+    },
+    {
+      "start": 132.08,
+      "end": 133.88,
+      "speaker": "SPEAKER_00",
+      "text": "is probably going to be the biggest one."
+    },
+    {
+      "start": 133.88,
+      "end": 136.68,
+      "speaker": "SPEAKER_00",
+      "text": "And bearing in mind that you could almost"
+    },
+    {
+      "start": 136.68,
+      "end": 140.52,
+      "speaker": "SPEAKER_00",
+      "text": "imagine copying and pasting this structure into two buckets"
+    },
+    {
+      "start": 140.52,
+      "end": 142.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "in terms of people who are here for business"
+    },
+    {
+      "start": 142.64000000000001,
+      "end": 143.8,
+      "speaker": "SPEAKER_00",
+      "text": "and people who are here for pleasure,"
+    },
+    {
+      "start": 143.8,
+      "end": 147.72,
+      "speaker": "SPEAKER_00",
+      "text": "or leisure, I think, is another way that they refer to it."
+    },
+    {
+      "start": 147.72,
+      "end": 149.08,
+      "speaker": "SPEAKER_00",
+      "text": "There's also hostels."
+    },
+    {
+      "start": 149.08,
+      "end": 151.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "There's, I don't know what the official term is for this,"
+    },
+    {
+      "start": 151.64000000000001,
+      "end": 153.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "but things like Airbnb's and verbos."
+    },
+    {
+      "start": 153.64000000000001,
+      "end": 155.24,
+      "speaker": "SPEAKER_00",
+      "text": "I don't know if there's just like rent rent."
+    },
+    {
+      "start": 155.24,
+      "end": 156.08,
+      "speaker": "SPEAKER_00",
+      "text": "The kitchen rental."
+    },
+    {
+      "start": 156.08,
+      "end": 157.08,
+      "speaker": "SPEAKER_00",
+      "text": "The kitchen rentals."
+    },
+    {
+      "start": 158.0,
+      "end": 158.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "And then in terms of food,"
+    },
+    {
+      "start": 158.92000000000002,
+      "end": 161.20000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "I think restaurants are going to be the biggest one."
+    },
+    {
+      "start": 161.20000000000002,
+      "end": 162.20000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "There's bars as well."
+    },
+    {
+      "start": 162.20000000000002,
+      "end": 165.84,
+      "speaker": "SPEAKER_00",
+      "text": "And then one thing that can still be and should still be considered"
+    },
+    {
+      "start": 165.84,
+      "end": 167.20000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "is grocery shopping."
+    },
+    {
+      "start": 167.20000000000002,
+      "end": 168.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I don't think that'll be as common"
+    },
+    {
+      "start": 168.64,
+      "end": 170.88,
+      "speaker": "SPEAKER_00",
+      "text": "except for people who are there for much longer stays."
+    },
+    {
+      "start": 170.88,
+      "end": 172.48,
+      "speaker": "SPEAKER_00",
+      "text": "So it'll be actually interesting to kind of dive"
+    },
+    {
+      "start": 172.48,
+      "end": 174.07999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "into that a little bit later."
+    },
+    {
+      "start": 174.07999999999998,
+      "end": 176.83999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Transport, Uber's taxis."
+    },
+    {
+      "start": 176.83999999999997,
+      "end": 178.72,
+      "speaker": "SPEAKER_00",
+      "text": "And a cloud-fine question I forgot to ask earlier."
+    },
+    {
+      "start": 178.72,
+      "end": 182.72,
+      "speaker": "SPEAKER_00",
+      "text": "Can we include EFA in and out of this area?"
+    },
+    {
+      "start": 182.72,
+      "end": 184.6,
+      "speaker": "SPEAKER_00",
+      "text": "Is that part of tourism spend?"
+    },
+    {
+      "start": 184.6,
+      "end": 185.56,
+      "speaker": "SPEAKER_01",
+      "text": "It's a good question."
+    },
+    {
+      "start": 185.56,
+      "end": 187.44,
+      "speaker": "SPEAKER_01",
+      "text": "I would say that absolutely."
+    },
+    {
+      "start": 187.44,
+      "end": 188.76,
+      "speaker": "SPEAKER_01",
+      "text": "It would contribute to."
+    },
+    {
+      "start": 188.76,
+      "end": 190.39999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Definitely on the way out, at least."
+    },
+    {
+      "start": 190.39999999999998,
+      "end": 194.56,
+      "speaker": "SPEAKER_01",
+      "text": "It just depends on obviously whether or not the owner is,"
+    },
+    {
+      "start": 194.56,
+      "end": 196.56,
+      "speaker": "SPEAKER_01",
+      "text": "right, many countries have their own airline"
+    },
+    {
+      "start": 196.56,
+      "end": 198.0,
+      "speaker": "SPEAKER_01",
+      "text": "or they're a branded airline."
+    },
+    {
+      "start": 198.0,
+      "end": 200.4,
+      "speaker": "SPEAKER_01",
+      "text": "If it's not that one, if it's a British Air Race"
+    },
+    {
+      "start": 200.4,
+      "end": 201.8,
+      "speaker": "SPEAKER_01",
+      "text": "flying into the West African country,"
+    },
+    {
+      "start": 201.8,
+      "end": 203.6,
+      "speaker": "SPEAKER_01",
+      "text": "then it's not probably going to contribute."
+    },
+    {
+      "start": 203.6,
+      "end": 207.0,
+      "speaker": "SPEAKER_01",
+      "text": "So however you want to think about that in the Matrix,"
+    },
+    {
+      "start": 207.0,
+      "end": 208.08,
+      "speaker": "SPEAKER_00",
+      "text": "that helps."
+    },
+    {
+      "start": 208.08,
+      "end": 210.68,
+      "speaker": "SPEAKER_00",
+      "text": "And then just in terms of other things like shopping,"
+    },
+    {
+      "start": 210.68,
+      "end": 213.36,
+      "speaker": "SPEAKER_00",
+      "text": "trinkets and forget-me-nots that you might buy"
+    },
+    {
+      "start": 213.36,
+      "end": 215.2,
+      "speaker": "SPEAKER_00",
+      "text": "from this place, as well as activities."
+    },
+    {
+      "start": 215.2,
+      "end": 216.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "And I think that could actually be a big area"
+    },
+    {
+      "start": 216.92000000000002,
+      "end": 217.6,
+      "speaker": "SPEAKER_00",
+      "text": "we want to explore."
+    },
+    {
+      "start": 217.6,
+      "end": 221.12,
+      "speaker": "SPEAKER_00",
+      "text": "So going jet skiing on the beach or going on a safari"
+    },
+    {
+      "start": 221.12,
+      "end": 223.8,
+      "speaker": "SPEAKER_00",
+      "text": "or doing something fun that's probably going to generate"
+    },
+    {
+      "start": 223.8,
+      "end": 224.6,
+      "speaker": "SPEAKER_00",
+      "text": "a lot of revenue."
+    },
+    {
+      "start": 224.6,
+      "end": 225.96,
+      "speaker": "SPEAKER_00",
+      "text": "And it's probably something that, especially"
+    },
+    {
+      "start": 225.96,
+      "end": 227.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "on the leisure side, a lot of people do."
+    },
+    {
+      "start": 228.64,
+      "end": 231.67999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Do you have anywhere you'd want to dive in particular?"
+    },
+    {
+      "start": 231.67999999999998,
+      "end": 233.04,
+      "speaker": "SPEAKER_00",
+      "text": "Or do you want me to just kind of take this"
+    },
+    {
+      "start": 233.04,
+      "end": 233.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "and remember that?"
+    },
+    {
+      "start": 233.79999999999998,
+      "end": 235.92,
+      "speaker": "SPEAKER_01",
+      "text": "Now, Ed, I've got a lot of good information,"
+    },
+    {
+      "start": 235.92,
+      "end": 239.32,
+      "speaker": "SPEAKER_01",
+      "text": "but I'm actually more curious about where you would want"
+    },
+    {
+      "start": 239.32,
+      "end": 239.92,
+      "speaker": "SPEAKER_01",
+      "text": "to dive in."
+    },
+    {
+      "start": 239.92,
+      "end": 241.92,
+      "speaker": "SPEAKER_01",
+      "text": "If I did let you run with it, I'm not saying it will."
+    },
+    {
+      "start": 241.92,
+      "end": 242.44,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 242.44,
+      "end": 244.92,
+      "speaker": "SPEAKER_00",
+      "text": "Well, I think there's two ways we can look at this."
+    },
+    {
+      "start": 244.92,
+      "end": 248.23999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I think we can either look into accommodation first,"
+    },
+    {
+      "start": 248.23999999999998,
+      "end": 251.72,
+      "speaker": "SPEAKER_00",
+      "text": "or we can just look in terms of if we have any overarching"
+    },
+    {
+      "start": 251.72,
+      "end": 252.23999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "numbers, right?"
+    },
+    {
+      "start": 252.23999999999998,
+      "end": 255.72,
+      "speaker": "SPEAKER_00",
+      "text": "So maybe like, here's what everyone spends all inclusive."
+    },
+    {
+      "start": 255.72,
+      "end": 256.8,
+      "speaker": "SPEAKER_00",
+      "text": "Or if we have a breakdown."
+    },
+    {
+      "start": 256.8,
+      "end": 258.44,
+      "speaker": "SPEAKER_00",
+      "text": "I'd love either of those pieces if you have any."
+    },
+    {
+      "start": 258.44,
+      "end": 258.64,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 258.64,
+      "end": 260.16,
+      "speaker": "SPEAKER_01",
+      "text": "And why accommodation?"
+    },
+    {
+      "start": 260.16,
+      "end": 262.8,
+      "speaker": "SPEAKER_00",
+      "text": "So accommodation, at least in personal experience,"
+    },
+    {
+      "start": 262.8,
+      "end": 264.68,
+      "speaker": "SPEAKER_00",
+      "text": "I'm not extremely well-traveled."
+    },
+    {
+      "start": 264.68,
+      "end": 266.56,
+      "speaker": "SPEAKER_00",
+      "text": "But I know that most of the time,"
+    },
+    {
+      "start": 266.56,
+      "end": 269.24,
+      "speaker": "SPEAKER_00",
+      "text": "it's airfare and accommodation that cost the most."
+    },
+    {
+      "start": 269.24,
+      "end": 271.96000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "And the longer you're there, the more that accommodation becomes"
+    },
+    {
+      "start": 271.96000000000004,
+      "end": 273.8,
+      "speaker": "SPEAKER_00",
+      "text": "the most prevalent thing."
+    },
+    {
+      "start": 273.8,
+      "end": 275.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "And so that's why I'd love to dive into that first."
+    },
+    {
+      "start": 275.28000000000003,
+      "end": 277.2,
+      "speaker": "SPEAKER_00",
+      "text": "And that's probably one of the biggest key drivers"
+    },
+    {
+      "start": 277.2,
+      "end": 279.6,
+      "speaker": "SPEAKER_00",
+      "text": "in terms of the actual tourism route for you."
+    },
+    {
+      "start": 279.6,
+      "end": 280.04,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 280.04,
+      "end": 281.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "I like it."
+    },
+    {
+      "start": 281.08000000000004,
+      "end": 284.16,
+      "speaker": "SPEAKER_01",
+      "text": "So I do have information about accommodation."
+    },
+    {
+      "start": 284.16,
+      "end": 285.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "And it might not be the information"
+    },
+    {
+      "start": 285.96,
+      "end": 287.12,
+      "speaker": "SPEAKER_01",
+      "text": "in a way that you broke it down."
+    },
+    {
+      "start": 287.12,
+      "end": 289.28,
+      "speaker": "SPEAKER_01",
+      "text": "But I'm going to give this exhibit to you."
+    },
+    {
+      "start": 289.28,
+      "end": 292.35999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "I want you to just kind of look through the exhibit, digest it,"
+    },
+    {
+      "start": 292.35999999999996,
+      "end": 295.84,
+      "speaker": "SPEAKER_01",
+      "text": "and also tell me what Matthew would want to do before you do"
+    },
+    {
+      "start": 295.84,
+      "end": 296.35999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "math."
+    },
+    {
+      "start": 296.35999999999996,
+      "end": 296.88,
+      "speaker": "SPEAKER_01",
+      "text": "Before you do."
+    },
+    {
+      "start": 296.88,
+      "end": 299.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "I'll kind of walk you through when the timing is to do that."
+    },
+    {
+      "start": 299.15999999999997,
+      "end": 300.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 300.03999999999996,
+      "end": 300.4,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 300.4,
+      "end": 303.2,
+      "speaker": "SPEAKER_00",
+      "text": "So just looking at this, it's broken up"
+    },
+    {
+      "start": 303.2,
+      "end": 305.12,
+      "speaker": "SPEAKER_00",
+      "text": "into general leisure and business."
+    },
+    {
+      "start": 305.12,
+      "end": 307.56,
+      "speaker": "SPEAKER_00",
+      "text": "Can I assume general is domestic population?"
+    },
+    {
+      "start": 307.56,
+      "end": 308.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly."
+    },
+    {
+      "start": 308.03999999999996,
+      "end": 311.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "So people in other areas that are visiting here and now."
+    },
+    {
+      "start": 311.15999999999997,
+      "end": 315.35999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "So the general, though, doesn't necessarily include that."
+    },
+    {
+      "start": 315.36,
+      "end": 318.56,
+      "speaker": "SPEAKER_01",
+      "text": "The leisure and the business are the purposes."
+    },
+    {
+      "start": 318.56,
+      "end": 320.56,
+      "speaker": "SPEAKER_01",
+      "text": "Those actually include all general."
+    },
+    {
+      "start": 320.56,
+      "end": 322.68,
+      "speaker": "SPEAKER_01",
+      "text": "So general is the summary."
+    },
+    {
+      "start": 322.68,
+      "end": 324.8,
+      "speaker": "SPEAKER_01",
+      "text": "So this is the country's population."
+    },
+    {
+      "start": 324.8,
+      "end": 328.68,
+      "speaker": "SPEAKER_01",
+      "text": "And then this one is the number of stays for all visitors,"
+    },
+    {
+      "start": 328.68,
+      "end": 330.04,
+      "speaker": "SPEAKER_01",
+      "text": "domestic and international."
+    },
+    {
+      "start": 330.04,
+      "end": 333.48,
+      "speaker": "SPEAKER_00",
+      "text": "So general encompasses both business and leisure."
+    },
+    {
+      "start": 333.48,
+      "end": 334.24,
+      "speaker": "SPEAKER_00",
+      "text": "Correct."
+    },
+    {
+      "start": 334.24,
+      "end": 337.32,
+      "speaker": "SPEAKER_00",
+      "text": "Can we assume that business and leisure make up 100% of general?"
+    },
+    {
+      "start": 337.32,
+      "end": 337.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Is that OK?"
+    },
+    {
+      "start": 337.84000000000003,
+      "end": 338.36,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly."
+    },
+    {
+      "start": 338.36,
+      "end": 338.64,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 338.64,
+      "end": 339.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 339.84000000000003,
+      "end": 341.68,
+      "speaker": "SPEAKER_00",
+      "text": "And what I'm looking at here is we're comparing it"
+    },
+    {
+      "start": 341.68,
+      "end": 344.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "to three-payer countries."
+    },
+    {
+      "start": 344.52,
+      "end": 348.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And the first thing I'm noticing is the percentage"
+    },
+    {
+      "start": 348.71999999999997,
+      "end": 351.35999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "of total stays coming from leisure and business"
+    },
+    {
+      "start": 351.35999999999996,
+      "end": 354.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "are pretty similar across the board."
+    },
+    {
+      "start": 354.15999999999997,
+      "end": 358.32,
+      "speaker": "SPEAKER_00",
+      "text": "The average spend per day is much lower for leisure."
+    },
+    {
+      "start": 358.32,
+      "end": 360.79999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "It is actually the highest for business."
+    },
+    {
+      "start": 360.79999999999995,
+      "end": 364.96,
+      "speaker": "SPEAKER_00",
+      "text": "But just diving a little bit further into leisure here."
+    },
+    {
+      "start": 364.96,
+      "end": 367.64,
+      "speaker": "SPEAKER_00",
+      "text": "We have the average spend per stay and per day."
+    },
+    {
+      "start": 367.64,
+      "end": 371.2,
+      "speaker": "SPEAKER_00",
+      "text": "So maybe just I would calculate the actual number of days"
+    },
+    {
+      "start": 371.2,
+      "end": 371.76,
+      "speaker": "SPEAKER_00",
+      "text": "stayed."
+    },
+    {
+      "start": 371.76,
+      "end": 374.84,
+      "speaker": "SPEAKER_00",
+      "text": "That could be something interesting to look into."
+    },
+    {
+      "start": 374.84,
+      "end": 377.44,
+      "speaker": "SPEAKER_00",
+      "text": "I'm happy to do the same on business."
+    },
+    {
+      "start": 377.44,
+      "end": 381.92,
+      "speaker": "SPEAKER_00",
+      "text": "That looks like it's a little bit less of a driver here."
+    },
+    {
+      "start": 381.92,
+      "end": 387.64,
+      "speaker": "SPEAKER_00",
+      "text": "Also just because leisure makes up 80% of our country's visitors."
+    },
+    {
+      "start": 387.64,
+      "end": 390.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "So that's probably going to be the biggest way."
+    },
+    {
+      "start": 390.03999999999996,
+      "end": 390.64,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 390.64,
+      "end": 392.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome."
+    },
+    {
+      "start": 392.03999999999996,
+      "end": 394.08,
+      "speaker": "SPEAKER_01",
+      "text": "If you want to do some math, I'll let you do math now."
+    },
+    {
+      "start": 394.08,
+      "end": 396.96,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 396.96,
+      "end": 399.08,
+      "speaker": "SPEAKER_00",
+      "text": "So just to walk you what I'm doing here,"
+    },
+    {
+      "start": 399.08,
+      "end": 400.52,
+      "speaker": "SPEAKER_00",
+      "text": "the first thing I'm going to do is what I mentioned"
+    },
+    {
+      "start": 400.52,
+      "end": 403.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "and calculate the actual number of days stayed"
+    },
+    {
+      "start": 403.59999999999997,
+      "end": 405.91999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "in all of these pay countries for leisure."
+    },
+    {
+      "start": 405.91999999999996,
+      "end": 407.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And then if we don't find anything interesting,"
+    },
+    {
+      "start": 407.59999999999997,
+      "end": 409.47999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "we can go into business and we can explore it."
+    },
+    {
+      "start": 409.47999999999996,
+      "end": 411.24,
+      "speaker": "SPEAKER_01",
+      "text": "Now instead of just looking for something interesting,"
+    },
+    {
+      "start": 411.24,
+      "end": 412.56,
+      "speaker": "SPEAKER_01",
+      "text": "what are we looking for?"
+    },
+    {
+      "start": 412.56,
+      "end": 415.76,
+      "speaker": "SPEAKER_00",
+      "text": "So yeah, before I go into math back to what we're actually"
+    },
+    {
+      "start": 415.76,
+      "end": 419.28,
+      "speaker": "SPEAKER_00",
+      "text": "looking for, I really want to find almost what"
+    },
+    {
+      "start": 419.28,
+      "end": 420.76,
+      "speaker": "SPEAKER_00",
+      "text": "has the most leverage here."
+    },
+    {
+      "start": 420.76,
+      "end": 424.08,
+      "speaker": "SPEAKER_00",
+      "text": "I'm imagining that they are really looking for something"
+    },
+    {
+      "start": 424.08,
+      "end": 425.96,
+      "speaker": "SPEAKER_00",
+      "text": "that if they can just turn that dial,"
+    },
+    {
+      "start": 425.96,
+      "end": 428.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "the output is much higher and much greater."
+    },
+    {
+      "start": 428.59999999999997,
+      "end": 429.84,
+      "speaker": "SPEAKER_01",
+      "text": "Because the water of the choices,"
+    },
+    {
+      "start": 429.84,
+      "end": 431.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "what are we going to assess?"
+    },
+    {
+      "start": 431.03999999999996,
+      "end": 431.56,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 431.56,
+      "end": 433.67999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "So if we're looking at, we can look at the average spend per day."
+    },
+    {
+      "start": 433.67999999999995,
+      "end": 435.0,
+      "speaker": "SPEAKER_00",
+      "text": "If you increase that, then that's going"
+    },
+    {
+      "start": 435.0,
+      "end": 437.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "to increase for the amount of days you have."
+    },
+    {
+      "start": 437.59999999999997,
+      "end": 441.08,
+      "speaker": "SPEAKER_00",
+      "text": "If you increase the average length of your stain,"
+    },
+    {
+      "start": 441.08,
+      "end": 443.28,
+      "speaker": "SPEAKER_00",
+      "text": "then that's going to increase by the other factors."
+    },
+    {
+      "start": 443.28,
+      "end": 445.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "It's kind of like the reverse there."
+    },
+    {
+      "start": 445.59999999999997,
+      "end": 449.91999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "We can also look at the number of total stays."
+    },
+    {
+      "start": 449.91999999999996,
+      "end": 451.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "So those are like the three things."
+    },
+    {
+      "start": 451.71999999999997,
+      "end": 454.44,
+      "speaker": "SPEAKER_00",
+      "text": "And I'd really like to focus on the number of days stayed"
+    },
+    {
+      "start": 454.44,
+      "end": 456.55999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "and the amount paid per day."
+    },
+    {
+      "start": 456.55999999999995,
+      "end": 457.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 457.03999999999996,
+      "end": 457.88,
+      "speaker": "SPEAKER_01",
+      "text": "Let's try it."
+    },
+    {
+      "start": 457.88,
+      "end": 458.2,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect."
+    },
+    {
+      "start": 458.2,
+      "end": 460.0,
+      "speaker": "SPEAKER_00",
+      "text": "And actually before I jump in there,"
+    },
+    {
+      "start": 460.0,
+      "end": 463.28,
+      "speaker": "SPEAKER_00",
+      "text": "the average spend per day is pretty similar across the board."
+    },
+    {
+      "start": 463.28,
+      "end": 466.92,
+      "speaker": "SPEAKER_00",
+      "text": "We're pretty much exactly, we're just above average."
+    },
+    {
+      "start": 466.92,
+      "end": 469.76,
+      "speaker": "SPEAKER_00",
+      "text": "Or we are exactly average with our competitors."
+    },
+    {
+      "start": 469.76,
+      "end": 472.48,
+      "speaker": "SPEAKER_00",
+      "text": "So reassessing, I really want to look into the number of days."
+    },
+    {
+      "start": 472.48,
+      "end": 473.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 473.71999999999997,
+      "end": 474.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 474.03999999999996,
+      "end": 476.32,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm just going to walk you through what I'm doing here."
+    },
+    {
+      "start": 476.32,
+      "end": 477.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "We're going to start with the client country"
+    },
+    {
+      "start": 477.71999999999997,
+      "end": 479.52,
+      "speaker": "SPEAKER_00",
+      "text": "and then we're going to look at the peer countries."
+    },
+    {
+      "start": 479.52,
+      "end": 483.28,
+      "speaker": "SPEAKER_00",
+      "text": "And I want to look at the number of days spent on average"
+    },
+    {
+      "start": 483.28,
+      "end": 484.08,
+      "speaker": "SPEAKER_00",
+      "text": "in this country."
+    },
+    {
+      "start": 484.08,
+      "end": 484.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 484.68,
+      "end": 489.6,
+      "speaker": "SPEAKER_00",
+      "text": "So to do that, I'm going to divide the average spend per day"
+    },
+    {
+      "start": 489.6,
+      "end": 492.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "per day, divided by the spend per day,"
+    },
+    {
+      "start": 492.08000000000004,
+      "end": 493.96000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "to get a number of days."
+    },
+    {
+      "start": 493.96000000000004,
+      "end": 498.04,
+      "speaker": "SPEAKER_00",
+      "text": "So for our client, that's going to be 300 divided by 100,"
+    },
+    {
+      "start": 498.04,
+      "end": 499.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "which is just three."
+    },
+    {
+      "start": 499.28000000000003,
+      "end": 500.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "So three days."
+    },
+    {
+      "start": 500.52000000000004,
+      "end": 505.6,
+      "speaker": "SPEAKER_00",
+      "text": "For peer country A, we have 630 divided by 90,"
+    },
+    {
+      "start": 505.6,
+      "end": 509.76000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "or 63 divided by 9, there's a factor of 7 there."
+    },
+    {
+      "start": 509.76,
+      "end": 516.6,
+      "speaker": "SPEAKER_00",
+      "text": "For peer country B, we have 660 divided by 110, that's going to be 6."
+    },
+    {
+      "start": 516.6,
+      "end": 521.2,
+      "speaker": "SPEAKER_00",
+      "text": "And for peer country C, we have 800 over 100."
+    },
+    {
+      "start": 521.2,
+      "end": 522.96,
+      "speaker": "SPEAKER_00",
+      "text": "That's just equal to 8."
+    },
+    {
+      "start": 522.96,
+      "end": 526.56,
+      "speaker": "SPEAKER_00",
+      "text": "So before I go any further with any other calculations,"
+    },
+    {
+      "start": 526.56,
+      "end": 531.4,
+      "speaker": "SPEAKER_00",
+      "text": "we are really, really lacking on the average amount of time spent"
+    },
+    {
+      "start": 531.4,
+      "end": 532.52,
+      "speaker": "SPEAKER_00",
+      "text": "here."
+    },
+    {
+      "start": 532.52,
+      "end": 534.36,
+      "speaker": "SPEAKER_00",
+      "text": "And I don't know if we have any information"
+    },
+    {
+      "start": 534.36,
+      "end": 536.68,
+      "speaker": "SPEAKER_00",
+      "text": "as to why that may be or if we want to explore that."
+    },
+    {
+      "start": 536.68,
+      "end": 538.6,
+      "speaker": "SPEAKER_00",
+      "text": "But that's definitely where I'd like to take this case"
+    },
+    {
+      "start": 538.6,
+      "end": 543.4,
+      "speaker": "SPEAKER_00",
+      "text": "as a fact that we are pretty much less than half of the average amount"
+    },
+    {
+      "start": 543.4,
+      "end": 547.76,
+      "speaker": "SPEAKER_00",
+      "text": "of time spent compared to our peer countries, which is really interesting"
+    },
+    {
+      "start": 547.76,
+      "end": 551.16,
+      "speaker": "SPEAKER_00",
+      "text": "because I think to talk about leverage and talk about what a key driver is,"
+    },
+    {
+      "start": 551.16,
+      "end": 552.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "if we can just get up to the average,"
+    },
+    {
+      "start": 552.6800000000001,
+      "end": 555.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "we're doubling the amount of tourism revenues from leisure."
+    },
+    {
+      "start": 555.8000000000001,
+      "end": 558.84,
+      "speaker": "SPEAKER_01",
+      "text": "So just before we leave this exhibit,"
+    },
+    {
+      "start": 558.84,
+      "end": 564.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "you mentioned why you wanted to focus on the leisure side or leisure, as you say."
+    },
+    {
+      "start": 564.0400000000001,
+      "end": 567.64,
+      "speaker": "SPEAKER_01",
+      "text": "And so I'm just curious if you can run the same calculations"
+    },
+    {
+      "start": 567.64,
+      "end": 570.52,
+      "speaker": "SPEAKER_01",
+      "text": "on the business side and just tell us there's any insights there."
+    },
+    {
+      "start": 570.52,
+      "end": 573.6,
+      "speaker": "SPEAKER_01",
+      "text": "I want to make sure that before we move on, we kind of see what's going on there."
+    },
+    {
+      "start": 573.6,
+      "end": 574.08,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 574.08,
+      "end": 576.84,
+      "speaker": "SPEAKER_00",
+      "text": "So just to do the same with business."
+    },
+    {
+      "start": 576.84,
+      "end": 580.12,
+      "speaker": "SPEAKER_00",
+      "text": "For our client, it's 1,000 divided by 500."
+    },
+    {
+      "start": 580.12,
+      "end": 580.76,
+      "speaker": "SPEAKER_00",
+      "text": "Nice and easy."
+    },
+    {
+      "start": 580.76,
+      "end": 581.88,
+      "speaker": "SPEAKER_00",
+      "text": "That's two."
+    },
+    {
+      "start": 581.88,
+      "end": 588.64,
+      "speaker": "SPEAKER_00",
+      "text": "For peer country A, that's 700 divided by 400, which is just under two,"
+    },
+    {
+      "start": 588.64,
+      "end": 590.08,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to say."
+    },
+    {
+      "start": 590.08,
+      "end": 593.08,
+      "speaker": "SPEAKER_00",
+      "text": "And I can get exact numbers if you want any point."
+    },
+    {
+      "start": 593.1600000000001,
+      "end": 597.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Pay country B is 750 divided by 350."
+    },
+    {
+      "start": 597.5600000000001,
+      "end": 598.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Again, just."
+    },
+    {
+      "start": 599.76,
+      "end": 602.24,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, 700, sorry, over 350."
+    },
+    {
+      "start": 602.24,
+      "end": 603.08,
+      "speaker": "SPEAKER_00",
+      "text": "That makes it easier."
+    },
+    {
+      "start": 603.08,
+      "end": 604.08,
+      "speaker": "SPEAKER_00",
+      "text": "That's two."
+    },
+    {
+      "start": 604.08,
+      "end": 607.88,
+      "speaker": "SPEAKER_00",
+      "text": "And then lastly, 900 over 450."
+    },
+    {
+      "start": 607.88,
+      "end": 609.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "That is two as well."
+    },
+    {
+      "start": 610.76,
+      "end": 611.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 611.08,
+      "end": 613.4000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And the only."
+    },
+    {
+      "start": 613.4000000000001,
+      "end": 616.76,
+      "speaker": "SPEAKER_00",
+      "text": "The only thing that's interesting about this is I'm wondering"
+    },
+    {
+      "start": 616.76,
+      "end": 619.44,
+      "speaker": "SPEAKER_00",
+      "text": "for every other calculation, it was an exact number."
+    },
+    {
+      "start": 619.44,
+      "end": 622.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I'm wondering why the average spend per day for business"
+    },
+    {
+      "start": 622.8399999999999,
+      "end": 627.28,
+      "speaker": "SPEAKER_00",
+      "text": "in pay country A is 400 and the average spend per stay is 700."
+    },
+    {
+      "start": 627.28,
+      "end": 628.64,
+      "speaker": "SPEAKER_00",
+      "text": "So that's an interesting thing."
+    },
+    {
+      "start": 628.64,
+      "end": 632.3599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And maybe people are flying out after half a day or something."
+    },
+    {
+      "start": 632.3599999999999,
+      "end": 633.4799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "That's an interesting thing."
+    },
+    {
+      "start": 633.4799999999999,
+      "end": 634.5999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I know since that."
+    },
+    {
+      "start": 634.5999999999999,
+      "end": 636.64,
+      "speaker": "SPEAKER_01",
+      "text": "Well, of course, there will be some people that'll stay longer"
+    },
+    {
+      "start": 636.64,
+      "end": 637.68,
+      "speaker": "SPEAKER_01",
+      "text": "and some that'll stay shorter."
+    },
+    {
+      "start": 637.68,
+      "end": 640.52,
+      "speaker": "SPEAKER_01",
+      "text": "So it could be that as well."
+    },
+    {
+      "start": 640.52,
+      "end": 643.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Which country is our is our favorite?"
+    },
+    {
+      "start": 643.0799999999999,
+      "end": 647.24,
+      "speaker": "SPEAKER_01",
+      "text": "Like if we kind of were like, hey, we want to become like another country."
+    },
+    {
+      "start": 647.24,
+      "end": 650.3599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Not not just all of the other peers, but is there anybody that in particular"
+    },
+    {
+      "start": 650.3599999999999,
+      "end": 652.12,
+      "speaker": "SPEAKER_01",
+      "text": "you can just sit in figuring out?"
+    },
+    {
+      "start": 652.16,
+      "end": 655.48,
+      "speaker": "SPEAKER_00",
+      "text": "I mean, peer country see looks pretty, pretty great in my opinion."
+    },
+    {
+      "start": 655.48,
+      "end": 660.12,
+      "speaker": "SPEAKER_00",
+      "text": "They have the most amount of stays by quite a healthy margin."
+    },
+    {
+      "start": 660.12,
+      "end": 664.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "They're very dominant in terms of leisure compared to all the other"
+    },
+    {
+      "start": 664.5600000000001,
+      "end": 665.76,
+      "speaker": "SPEAKER_00",
+      "text": "and compared to business."
+    },
+    {
+      "start": 665.76,
+      "end": 669.88,
+      "speaker": "SPEAKER_00",
+      "text": "So that is maybe I guess a risk with that in case of some sort of macroeconomic"
+    },
+    {
+      "start": 669.88,
+      "end": 673.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "factor that could cause devastation there."
+    },
+    {
+      "start": 673.5600000000001,
+      "end": 677.96,
+      "speaker": "SPEAKER_00",
+      "text": "But they're staying for eight days and while they're not paying the most,"
+    },
+    {
+      "start": 677.96,
+      "end": 680.28,
+      "speaker": "SPEAKER_00",
+      "text": "they're still paying a very healthy amount."
+    },
+    {
+      "start": 680.28,
+      "end": 684.24,
+      "speaker": "SPEAKER_00",
+      "text": "But they're staying for over a week, which is must be generating so much revenue."
+    },
+    {
+      "start": 684.24,
+      "end": 687.4,
+      "speaker": "SPEAKER_00",
+      "text": "So I really want to want to match country see if we can."
+    },
+    {
+      "start": 687.4,
+      "end": 688.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great."
+    },
+    {
+      "start": 688.72,
+      "end": 690.0,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome. So let's move on."
+    },
+    {
+      "start": 690.0,
+      "end": 691.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "What do you want to look at next?"
+    },
+    {
+      "start": 691.0799999999999,
+      "end": 693.6,
+      "speaker": "SPEAKER_01",
+      "text": "You mentioned a few things earlier, but now that we've talked"
+    },
+    {
+      "start": 693.6,
+      "end": 695.12,
+      "speaker": "SPEAKER_01",
+      "text": "through all of that, what do you want to do?"
+    },
+    {
+      "start": 695.12,
+      "end": 699.68,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. So we've calculated that we have a lower number of stays."
+    },
+    {
+      "start": 699.68,
+      "end": 703.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Is there, I'm just wondering actually going back to the beginning,"
+    },
+    {
+      "start": 703.3199999999999,
+      "end": 705.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I know we want to increase tourism revenue."
+    },
+    {
+      "start": 705.1999999999999,
+      "end": 708.12,
+      "speaker": "SPEAKER_00",
+      "text": "Did we have a goal that we wanted to get to or a timeframe?"
+    },
+    {
+      "start": 708.12,
+      "end": 709.52,
+      "speaker": "SPEAKER_01",
+      "text": "We do actually."
+    },
+    {
+      "start": 709.56,
+      "end": 715.16,
+      "speaker": "SPEAKER_01",
+      "text": "So in the next five years, we believe through the ministry that we can reach a level"
+    },
+    {
+      "start": 715.16,
+      "end": 720.88,
+      "speaker": "SPEAKER_01",
+      "text": "where revenues from the tourism sector amount to about a hundred million US dollars."
+    },
+    {
+      "start": 720.88,
+      "end": 723.04,
+      "speaker": "SPEAKER_00",
+      "text": "And that's, that's for the general right?"
+    },
+    {
+      "start": 723.04,
+      "end": 727.36,
+      "speaker": "SPEAKER_01",
+      "text": "That's for leisure and business and it's specifically for accommodation."
+    },
+    {
+      "start": 727.36,
+      "end": 729.56,
+      "speaker": "SPEAKER_01",
+      "text": "So of course, there are going to be these other"
+    },
+    {
+      "start": 729.56,
+      "end": 731.4,
+      "speaker": "SPEAKER_01",
+      "text": "ancillary factors that you laid out, right?"
+    },
+    {
+      "start": 731.4,
+      "end": 735.68,
+      "speaker": "SPEAKER_01",
+      "text": "Those people will also spend money and they'll rent cars and just accommodation."
+    },
+    {
+      "start": 735.68,
+      "end": 736.52,
+      "speaker": "SPEAKER_00",
+      "text": "That's correct."
+    },
+    {
+      "start": 736.52,
+      "end": 737.52,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 737.76,
+      "end": 742.0,
+      "speaker": "SPEAKER_01",
+      "text": "And so if you can kind of keep us in the focus for what that will look like,"
+    },
+    {
+      "start": 742.0,
+      "end": 743.16,
+      "speaker": "SPEAKER_01",
+      "text": "then that'll be helpful."
+    },
+    {
+      "start": 743.16,
+      "end": 743.96,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect."
+    },
+    {
+      "start": 743.96,
+      "end": 749.64,
+      "speaker": "SPEAKER_01",
+      "text": "And so yeah, so what will be the required average duration per day?"
+    },
+    {
+      "start": 749.64,
+      "end": 753.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Release your travelers if we want to achieve this target and actually have"
+    },
+    {
+      "start": 753.4399999999999,
+      "end": 754.88,
+      "speaker": "SPEAKER_01",
+      "text": "some more data for you on this."
+    },
+    {
+      "start": 754.88,
+      "end": 755.52,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 755.52,
+      "end": 758.36,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm going to put this on top of this one, but you're welcome to move those"
+    },
+    {
+      "start": 758.36,
+      "end": 761.28,
+      "speaker": "SPEAKER_01",
+      "text": "if you want to use any information."
+    },
+    {
+      "start": 761.28,
+      "end": 761.88,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect."
+    },
+    {
+      "start": 761.88,
+      "end": 764.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I'm just going to take a second to look through this, walk you through it,"
+    },
+    {
+      "start": 764.0799999999999,
+      "end": 766.84,
+      "speaker": "SPEAKER_00",
+      "text": "and then we can maybe do what we did on the last question where I can walk you"
+    },
+    {
+      "start": 766.84,
+      "end": 769.0,
+      "speaker": "SPEAKER_00",
+      "text": "through the math that I want to do and we can go ahead and do that."
+    },
+    {
+      "start": 769.0,
+      "end": 770.0,
+      "speaker": "SPEAKER_00",
+      "text": "That's good."
+    },
+    {
+      "start": 770.0,
+      "end": 776.72,
+      "speaker": "SPEAKER_00",
+      "text": "So leisure stays 800 and I'm just actually, I'm going to switch back and forth from them."
+    },
+    {
+      "start": 776.72,
+      "end": 779.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So that's 80,000 stays."
+    },
+    {
+      "start": 779.0400000000001,
+      "end": 780.2,
+      "speaker": "SPEAKER_00",
+      "text": "This is today."
+    },
+    {
+      "start": 780.2,
+      "end": 781.2,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 781.2,
+      "end": 784.36,
+      "speaker": "SPEAKER_00",
+      "text": "And I can see that that's 80% of the 100,000 total."
+    },
+    {
+      "start": 784.36,
+      "end": 785.36,
+      "speaker": "SPEAKER_00",
+      "text": "Correct."
+    },
+    {
+      "start": 785.36,
+      "end": 789.52,
+      "speaker": "SPEAKER_00",
+      "text": "And so business would be 20,000 now."
+    },
+    {
+      "start": 789.52,
+      "end": 793.64,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of the growth, that's 10% per year linear."
+    },
+    {
+      "start": 793.64,
+      "end": 794.64,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 794.64,
+      "end": 796.48,
+      "speaker": "SPEAKER_00",
+      "text": "So that just basically means we can multiply that."
+    },
+    {
+      "start": 796.48,
+      "end": 798.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So over five years, we can just say 50%."
+    },
+    {
+      "start": 798.9200000000001,
+      "end": 799.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "How nice."
+    },
+    {
+      "start": 799.9200000000001,
+      "end": 800.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 800.9200000000001,
+      "end": 804.52,
+      "speaker": "SPEAKER_00",
+      "text": "Very, very kind of a view to do that."
+    },
+    {
+      "start": 804.52,
+      "end": 805.52,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 805.52,
+      "end": 808.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we've got the average duration for business."
+    },
+    {
+      "start": 808.0,
+      "end": 810.84,
+      "speaker": "SPEAKER_00",
+      "text": "We have the average spend for both and we've got our objective."
+    },
+    {
+      "start": 810.84,
+      "end": 813.84,
+      "speaker": "SPEAKER_00",
+      "text": "What I am seeing, I was obviously missing the duration for leisure."
+    },
+    {
+      "start": 813.84,
+      "end": 815.72,
+      "speaker": "SPEAKER_00",
+      "text": "So that's what we're trying to calculate for."
+    },
+    {
+      "start": 815.72,
+      "end": 821.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So what I'd probably do here is take that 100,000,000,000 US dollars, subtract the amount"
+    },
+    {
+      "start": 821.92,
+      "end": 828.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "of money generated or estimated generation from business and then calculate the needed"
+    },
+    {
+      "start": 828.3199999999999,
+      "end": 832.04,
+      "speaker": "SPEAKER_00",
+      "text": "or required length of stay on average."
+    },
+    {
+      "start": 832.04,
+      "end": 837.04,
+      "speaker": "SPEAKER_00",
+      "text": "And to do that, I just, and I can get into that then, but I'd probably divide the amount"
+    },
+    {
+      "start": 837.04,
+      "end": 844.0,
+      "speaker": "SPEAKER_00",
+      "text": "of total revenue divided by, or the amount of total revenue with the total stays divided"
+    },
+    {
+      "start": 844.0,
+      "end": 850.92,
+      "speaker": "SPEAKER_00",
+      "text": "by the, I guess the average duration to find how many total, total days they need to stay."
+    },
+    {
+      "start": 850.92,
+      "end": 851.92,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 851.92,
+      "end": 852.92,
+      "speaker": "SPEAKER_00",
+      "text": "Let's walk me through it."
+    },
+    {
+      "start": 852.92,
+      "end": 853.92,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 853.92,
+      "end": 854.92,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect."
+    },
+    {
+      "start": 854.92,
+      "end": 856.64,
+      "speaker": "SPEAKER_00",
+      "text": "So obviously our goal is that 100 million."
+    },
+    {
+      "start": 856.64,
+      "end": 859.92,
+      "speaker": "SPEAKER_00",
+      "text": "So the first thing I want to do is calculate how much we're getting from businesses."
+    },
+    {
+      "start": 859.92,
+      "end": 860.92,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 860.92,
+      "end": 868.12,
+      "speaker": "SPEAKER_00",
+      "text": "So we know that businesses, as I mentioned before, is going to be 20,000 stays per year."
+    },
+    {
+      "start": 868.12,
+      "end": 872.28,
+      "speaker": "SPEAKER_00",
+      "text": "And we actually know, in fact, actually, sorry, before I go into that, I just want to go"
+    },
+    {
+      "start": 872.28,
+      "end": 875.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "back to that 100,000 and let's increase that at the beginning."
+    },
+    {
+      "start": 875.0799999999999,
+      "end": 876.76,
+      "speaker": "SPEAKER_00",
+      "text": "That might make it a little bit easier."
+    },
+    {
+      "start": 876.76,
+      "end": 878.92,
+      "speaker": "SPEAKER_00",
+      "text": "So 100,000, again, nicely seen number."
+    },
+    {
+      "start": 878.92,
+      "end": 882.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "That's going to be 150,000 total stays."
+    },
+    {
+      "start": 882.9599999999999,
+      "end": 886.04,
+      "speaker": "SPEAKER_00",
+      "text": "And we know that business makes up 20% of that."
+    },
+    {
+      "start": 886.04,
+      "end": 888.8399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm just going to kind of break this up here."
+    },
+    {
+      "start": 888.8399999999999,
+      "end": 895.56,
+      "speaker": "SPEAKER_00",
+      "text": "20% of 150,000, 10% is 15,000, 20% is 30,000."
+    },
+    {
+      "start": 895.56,
+      "end": 899.36,
+      "speaker": "SPEAKER_00",
+      "text": "And that means that when we come back to leisure, we know it's 120,000."
+    },
+    {
+      "start": 899.36,
+      "end": 904.12,
+      "speaker": "SPEAKER_00",
+      "text": "So once we've got that 30,000 stays, we need to multiply it by the actual amount of time"
+    },
+    {
+      "start": 904.12,
+      "end": 905.12,
+      "speaker": "SPEAKER_00",
+      "text": "they're spending there."
+    },
+    {
+      "start": 905.12,
+      "end": 907.12,
+      "speaker": "SPEAKER_00",
+      "text": "So 30,000 multiplied by two days."
+    },
+    {
+      "start": 907.28,
+      "end": 911.04,
+      "speaker": "SPEAKER_00",
+      "text": "I can't, nice and easy numbers here, 60,000."
+    },
+    {
+      "start": 911.04,
+      "end": 915.12,
+      "speaker": "SPEAKER_00",
+      "text": "And then from there, we know that they're spending 500 US dollars a day."
+    },
+    {
+      "start": 915.12,
+      "end": 918.88,
+      "speaker": "SPEAKER_00",
+      "text": "So 60,000 multiplied by five is 300,000."
+    },
+    {
+      "start": 918.88,
+      "end": 922.96,
+      "speaker": "SPEAKER_00",
+      "text": "And then tack on those two zeros, it gets to 30 million."
+    },
+    {
+      "start": 922.96,
+      "end": 925.64,
+      "speaker": "SPEAKER_00",
+      "text": "I'll just make that a little bit more clear."
+    },
+    {
+      "start": 925.64,
+      "end": 926.64,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 926.64,
+      "end": 929.0,
+      "speaker": "SPEAKER_00",
+      "text": "So now we know what we actually need from the leisure section."
+    },
+    {
+      "start": 929.0,
+      "end": 930.4,
+      "speaker": "SPEAKER_00",
+      "text": "We need 70 million."
+    },
+    {
+      "start": 930.4,
+      "end": 934.44,
+      "speaker": "SPEAKER_00",
+      "text": "And to get that, I just did the 100 million total goal minus the 30 million that we're"
+    },
+    {
+      "start": 934.44,
+      "end": 936.0,
+      "speaker": "SPEAKER_00",
+      "text": "getting from business."
+    },
+    {
+      "start": 936.0,
+      "end": 939.68,
+      "speaker": "SPEAKER_00",
+      "text": "So now we have our 70 million that we need."
+    },
+    {
+      "start": 939.68,
+      "end": 943.28,
+      "speaker": "SPEAKER_00",
+      "text": "We know that we have 120,000 stays."
+    },
+    {
+      "start": 943.28,
+      "end": 946.16,
+      "speaker": "SPEAKER_00",
+      "text": "And we know that they're spending 100 dollars a day."
+    },
+    {
+      "start": 946.16,
+      "end": 951.28,
+      "speaker": "SPEAKER_00",
+      "text": "So what I'm first going to do is divide the 70 million by 100 dollars."
+    },
+    {
+      "start": 951.28,
+      "end": 954.04,
+      "speaker": "SPEAKER_00",
+      "text": "And that's going to be 70 million divided by 10, be 7 million."
+    },
+    {
+      "start": 954.04,
+      "end": 958.56,
+      "speaker": "SPEAKER_00",
+      "text": "So we're going down to 700,000 dollars."
+    },
+    {
+      "start": 958.56,
+      "end": 959.56,
+      "speaker": "SPEAKER_00",
+      "text": "So or 700,000."
+    },
+    {
+      "start": 959.56,
+      "end": 963.84,
+      "speaker": "SPEAKER_00",
+      "text": "I'm actually, let me just make sure I've got the right units there."
+    },
+    {
+      "start": 963.84,
+      "end": 966.88,
+      "speaker": "SPEAKER_00",
+      "text": "So 70 million dollars divided by the dollar spent."
+    },
+    {
+      "start": 966.88,
+      "end": 969.0,
+      "speaker": "SPEAKER_00",
+      "text": "So just 700, 700,000."
+    },
+    {
+      "start": 969.0,
+      "end": 972.36,
+      "speaker": "SPEAKER_00",
+      "text": "And then we know that we have 120,000 stays."
+    },
+    {
+      "start": 972.36,
+      "end": 980.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So 120,000 stays multiplied by X number of days on average gets us 700,000."
+    },
+    {
+      "start": 980.2800000000001,
+      "end": 982.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to do 700,000."
+    },
+    {
+      "start": 982.9200000000001,
+      "end": 988.4000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And I'm going to divide that by 120,000."
+    },
+    {
+      "start": 988.4000000000001,
+      "end": 992.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And that is going to be a little bit under six."
+    },
+    {
+      "start": 992.56,
+      "end": 993.56,
+      "speaker": "SPEAKER_00",
+      "text": "But I'm going to round up to six."
+    },
+    {
+      "start": 993.56,
+      "end": 996.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Obviously they can't stay for a quarter of a day."
+    },
+    {
+      "start": 996.0799999999999,
+      "end": 1000.2399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I know there's caveats there with lake checkouts and other things."
+    },
+    {
+      "start": 1000.2399999999999,
+      "end": 1005.8399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So I was saying that's about six days is what we need."
+    },
+    {
+      "start": 1005.8399999999999,
+      "end": 1010.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And before actually we do anything more, I do want to just compare that to the benchmarks"
+    },
+    {
+      "start": 1010.3199999999999,
+      "end": 1011.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "of the competitors."
+    },
+    {
+      "start": 1011.3199999999999,
+      "end": 1012.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I know."
+    },
+    {
+      "start": 1012.3199999999999,
+      "end": 1013.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 1013.3199999999999,
+      "end": 1014.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I remember, yeah."
+    },
+    {
+      "start": 1014.3199999999999,
+      "end": 1016.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So a peer country C is eight days."
+    },
+    {
+      "start": 1016.1999999999999,
+      "end": 1018.88,
+      "speaker": "SPEAKER_00",
+      "text": "So they're actually doing even more than this."
+    },
+    {
+      "start": 1018.88,
+      "end": 1022.52,
+      "speaker": "SPEAKER_00",
+      "text": "This is almost like a conservative estimate here."
+    },
+    {
+      "start": 1022.52,
+      "end": 1025.08,
+      "speaker": "SPEAKER_00",
+      "text": "And the other companies are seven and six days."
+    },
+    {
+      "start": 1025.08,
+      "end": 1028.6,
+      "speaker": "SPEAKER_00",
+      "text": "So we're on the lower end of the average number of stays."
+    },
+    {
+      "start": 1028.6,
+      "end": 1029.76,
+      "speaker": "SPEAKER_00",
+      "text": "I think it's very doable."
+    },
+    {
+      "start": 1029.76,
+      "end": 1033.12,
+      "speaker": "SPEAKER_00",
+      "text": "But maybe we could go into a little bit more in terms of how it's achievable."
+    },
+    {
+      "start": 1033.12,
+      "end": 1034.12,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 1034.12,
+      "end": 1035.12,
+      "speaker": "SPEAKER_00",
+      "text": "Let's talk about it."
+    },
+    {
+      "start": 1035.12,
+      "end": 1036.12,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect."
+    },
+    {
+      "start": 1036.12,
+      "end": 1041.82,
+      "speaker": "SPEAKER_01",
+      "text": "I think the key focus here is just making sure that we can think about how we're going to"
+    },
+    {
+      "start": 1041.82,
+      "end": 1043.12,
+      "speaker": "SPEAKER_01",
+      "text": "increase the average length of stay."
+    },
+    {
+      "start": 1043.12,
+      "end": 1045.84,
+      "speaker": "SPEAKER_01",
+      "text": "And you don't have to limit it to the six days we could go beyond that."
+    },
+    {
+      "start": 1045.84,
+      "end": 1050.2,
+      "speaker": "SPEAKER_01",
+      "text": "So what are some of the levers that you would pull in order to move from where we are now"
+    },
+    {
+      "start": 1050.2,
+      "end": 1052.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "with just a couple of days to the six days?"
+    },
+    {
+      "start": 1052.6000000000001,
+      "end": 1053.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1053.6000000000001,
+      "end": 1058.54,
+      "speaker": "SPEAKER_00",
+      "text": "Well, I mean, just to immediately tie it back to personal experience, I'm almost done with"
+    },
+    {
+      "start": 1058.54,
+      "end": 1059.54,
+      "speaker": "SPEAKER_00",
+      "text": "college."
+    },
+    {
+      "start": 1059.54,
+      "end": 1060.54,
+      "speaker": "SPEAKER_00",
+      "text": "I recently had spring break."
+    },
+    {
+      "start": 1060.54,
+      "end": 1061.54,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 1061.54,
+      "end": 1064.04,
+      "speaker": "SPEAKER_00",
+      "text": "A huge place that everyone loves to go is Carlos and Lucas."
+    },
+    {
+      "start": 1064.04,
+      "end": 1065.04,
+      "speaker": "SPEAKER_00",
+      "text": "Absolutely."
+    },
+    {
+      "start": 1065.04,
+      "end": 1067.04,
+      "speaker": "SPEAKER_00",
+      "text": "And they stay for about five or six days."
+    },
+    {
+      "start": 1067.04,
+      "end": 1068.04,
+      "speaker": "SPEAKER_00",
+      "text": "And so I just want to draw from that."
+    },
+    {
+      "start": 1068.04,
+      "end": 1072.76,
+      "speaker": "SPEAKER_00",
+      "text": "And I think a big reason they do that, and especially at least for the student demographic,"
+    },
+    {
+      "start": 1072.76,
+      "end": 1074.24,
+      "speaker": "SPEAKER_00",
+      "text": "is all inclusive."
+    },
+    {
+      "start": 1074.24,
+      "end": 1077.88,
+      "speaker": "SPEAKER_00",
+      "text": "And so having these sort of bundles where they say, you've got the food, you've got the"
+    },
+    {
+      "start": 1077.88,
+      "end": 1079.92,
+      "speaker": "SPEAKER_00",
+      "text": "activities, you've got all this."
+    },
+    {
+      "start": 1079.92,
+      "end": 1082.8000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "You pay a premium on it, but you stay for longer."
+    },
+    {
+      "start": 1082.8000000000002,
+      "end": 1086.52,
+      "speaker": "SPEAKER_00",
+      "text": "And actually, my roommate and I tried to go for two days and they wouldn't let us."
+    },
+    {
+      "start": 1086.52,
+      "end": 1088.04,
+      "speaker": "SPEAKER_00",
+      "text": "They had a minimum amount."
+    },
+    {
+      "start": 1088.04,
+      "end": 1091.88,
+      "speaker": "SPEAKER_00",
+      "text": "So that's an interesting thing they can add in there is, yeah, we'll do it all inclusive,"
+    },
+    {
+      "start": 1091.88,
+      "end": 1094.0,
+      "speaker": "SPEAKER_00",
+      "text": "but you have to stay for five days minimum."
+    },
+    {
+      "start": 1094.0,
+      "end": 1095.8000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "And it's actually cheaper the longer you stay, right?"
+    },
+    {
+      "start": 1095.8000000000002,
+      "end": 1099.0,
+      "speaker": "SPEAKER_00",
+      "text": "So incentivize them to actually stay longer."
+    },
+    {
+      "start": 1099.0,
+      "end": 1103.72,
+      "speaker": "SPEAKER_00",
+      "text": "And I know we're limiting it to accommodation there, but the longer they stay, the more revenue"
+    },
+    {
+      "start": 1103.72,
+      "end": 1105.8000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "they're generating as well."
+    },
+    {
+      "start": 1105.8000000000002,
+      "end": 1109.72,
+      "speaker": "SPEAKER_00",
+      "text": "Some other things with that as well are maybe, again, with the hotels of their partnering"
+    },
+    {
+      "start": 1109.72,
+      "end": 1110.72,
+      "speaker": "SPEAKER_00",
+      "text": "with other restaurants."
+    },
+    {
+      "start": 1110.72,
+      "end": 1114.28,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, come stay with us and we'll, we'll recommend you some restaurants and we can make it cheaper"
+    },
+    {
+      "start": 1114.28,
+      "end": 1117.76,
+      "speaker": "SPEAKER_00",
+      "text": "there, give some sort of incentives to go out there."
+    },
+    {
+      "start": 1117.76,
+      "end": 1120.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And I just want to make sure I'm focusing on the right point."
+    },
+    {
+      "start": 1120.1200000000001,
+      "end": 1123.24,
+      "speaker": "SPEAKER_00",
+      "text": "Are we talking specifically about accommodation here or in general?"
+    },
+    {
+      "start": 1123.24,
+      "end": 1127.76,
+      "speaker": "SPEAKER_01",
+      "text": "So I think we're assuming that if we improve the accommodation piece, then everything"
+    },
+    {
+      "start": 1127.76,
+      "end": 1128.76,
+      "speaker": "SPEAKER_01",
+      "text": "else will follow."
+    },
+    {
+      "start": 1128.76,
+      "end": 1133.24,
+      "speaker": "SPEAKER_01",
+      "text": "The people also spend more money in restaurants, they'll buy more rental car days."
+    },
+    {
+      "start": 1133.24,
+      "end": 1136.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "They'll do all the additional activities."
+    },
+    {
+      "start": 1136.12,
+      "end": 1140.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "But certainly if there's something that you think will drive the length of stay in some"
+    },
+    {
+      "start": 1140.9199999999998,
+      "end": 1142.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "of those issues, then please tell me that."
+    },
+    {
+      "start": 1142.6799999999998,
+      "end": 1145.6,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I think obviously some marketing."
+    },
+    {
+      "start": 1145.6,
+      "end": 1150.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I've actually never seen anything in West Africa advertised to me."
+    },
+    {
+      "start": 1150.6799999999998,
+      "end": 1153.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I've heard of a lot of tourist spots and I haven't really heard about that."
+    },
+    {
+      "start": 1153.9599999999998,
+      "end": 1155.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So maybe just getting on the map a little bit more."
+    },
+    {
+      "start": 1155.9199999999998,
+      "end": 1160.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I'm not sure where most of the tourists come from or if it's pretty uniform from the"
+    },
+    {
+      "start": 1160.7199999999998,
+      "end": 1165.36,
+      "speaker": "SPEAKER_00",
+      "text": "world, but it'd be interesting to have them go ahead and push out some more marketing"
+    },
+    {
+      "start": 1165.36,
+      "end": 1170.52,
+      "speaker": "SPEAKER_00",
+      "text": "for that really advertised on Instagram and to whether they do couples packages or whether"
+    },
+    {
+      "start": 1170.52,
+      "end": 1172.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "they do family packages."
+    },
+    {
+      "start": 1172.6799999999998,
+      "end": 1176.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I think that could be a huge driver and just getting more traffic as well as maybe just"
+    },
+    {
+      "start": 1176.9599999999998,
+      "end": 1179.84,
+      "speaker": "SPEAKER_00",
+      "text": "highlighting what's so amazing about what is staying right."
+    },
+    {
+      "start": 1179.84,
+      "end": 1185.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So if it's on the beach side, having a beach side result, if it's maybe closer to the"
+    },
+    {
+      "start": 1185.1599999999999,
+      "end": 1191.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "center of this area, then maybe they can advertise safaris or other things and activities"
+    },
+    {
+      "start": 1191.7199999999998,
+      "end": 1193.52,
+      "speaker": "SPEAKER_00",
+      "text": "for groups to do."
+    },
+    {
+      "start": 1194.52,
+      "end": 1196.52,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome. Anything else?"
+    },
+    {
+      "start": 1196.52,
+      "end": 1202.72,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I think as well just like making it really easy for people."
+    },
+    {
+      "start": 1202.72,
+      "end": 1206.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "If people are going around vacation, they probably want things like a shuttle from the"
+    },
+    {
+      "start": 1206.6399999999999,
+      "end": 1213.24,
+      "speaker": "SPEAKER_00",
+      "text": "airport and little amenities that add up and just make your stay way easier and way nicer."
+    },
+    {
+      "start": 1213.24,
+      "end": 1215.72,
+      "speaker": "SPEAKER_00",
+      "text": "I think it could also help them get a lot of more people."
+    },
+    {
+      "start": 1215.72,
+      "end": 1216.72,
+      "speaker": "SPEAKER_00",
+      "text": "What else?"
+    },
+    {
+      "start": 1216.72,
+      "end": 1219.24,
+      "speaker": "SPEAKER_00",
+      "text": "Let me think."
+    },
+    {
+      "start": 1220.24,
+      "end": 1224.64,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe having some sort of, and again, just really focusing on the accommodation here,"
+    },
+    {
+      "start": 1224.64,
+      "end": 1228.84,
+      "speaker": "SPEAKER_00",
+      "text": "having more like in-house restaurants and more, again, just keeping it close to that all"
+    },
+    {
+      "start": 1228.84,
+      "end": 1230.16,
+      "speaker": "SPEAKER_00",
+      "text": "inclusive package."
+    },
+    {
+      "start": 1230.16,
+      "end": 1236.76,
+      "speaker": "SPEAKER_00",
+      "text": "You could also offer like a non-all inclusive package where people can stay for a short"
+    },
+    {
+      "start": 1236.76,
+      "end": 1239.68,
+      "speaker": "SPEAKER_00",
+      "text": "amount of time, but it's maybe perhaps more expensive or something."
+    },
+    {
+      "start": 1239.68,
+      "end": 1242.92,
+      "speaker": "SPEAKER_00",
+      "text": "And just making sure we're catering as well to all demographics."
+    },
+    {
+      "start": 1242.92,
+      "end": 1246.84,
+      "speaker": "SPEAKER_00",
+      "text": "So people who don't want to spend a fortune can still stay here, but people who want to"
+    },
+    {
+      "start": 1246.84,
+      "end": 1250.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "have a luxury or inclusive stay can also pay the premium back."
+    },
+    {
+      "start": 1250.9199999999998,
+      "end": 1255.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Now, assuming that there's going to be alignment but also a difference in purpose, one final"
+    },
+    {
+      "start": 1255.3999999999999,
+      "end": 1256.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "question before we conclude."
+    },
+    {
+      "start": 1256.8799999999999,
+      "end": 1261.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "How would you think about the Ministry of Tourism's role, specifically in accomplishing these"
+    },
+    {
+      "start": 1261.6399999999999,
+      "end": 1262.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "things?"
+    },
+    {
+      "start": 1262.6399999999999,
+      "end": 1263.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, interesting."
+    },
+    {
+      "start": 1263.6399999999999,
+      "end": 1267.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Well, first thing I'm going to give is maybe some sort of like subsidizing so they can"
+    },
+    {
+      "start": 1267.6799999999998,
+      "end": 1271.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "make it easier for hotels and for places to actually attract people."
+    },
+    {
+      "start": 1271.68,
+      "end": 1277.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "I think at the end of the day, a lot of these hotels and accommodation resorts, they're"
+    },
+    {
+      "start": 1277.5600000000002,
+      "end": 1278.8,
+      "speaker": "SPEAKER_00",
+      "text": "a business, they're in it for the money."
+    },
+    {
+      "start": 1278.8,
+      "end": 1283.88,
+      "speaker": "SPEAKER_00",
+      "text": "And so if it's way more expensive for them to make these changes and they're not seeing"
+    },
+    {
+      "start": 1283.88,
+      "end": 1286.72,
+      "speaker": "SPEAKER_00",
+      "text": "an immediate response, they might be a bit more reluctant to."
+    },
+    {
+      "start": 1286.72,
+      "end": 1290.88,
+      "speaker": "SPEAKER_00",
+      "text": "So the Ministry of Tourism can work with them to help make that a little bit of an easier"
+    },
+    {
+      "start": 1290.88,
+      "end": 1291.88,
+      "speaker": "SPEAKER_00",
+      "text": "change."
+    },
+    {
+      "start": 1291.88,
+      "end": 1296.68,
+      "speaker": "SPEAKER_00",
+      "text": "That's probably going to be more incentivizing as well as just helping make sure it's"
+    },
+    {
+      "start": 1296.68,
+      "end": 1297.92,
+      "speaker": "SPEAKER_00",
+      "text": "one, it's a safe environment."
+    },
+    {
+      "start": 1297.92,
+      "end": 1302.88,
+      "speaker": "SPEAKER_00",
+      "text": "I'm not sure how safe or unsafe this area of West Africa is, but just making sure that"
+    },
+    {
+      "start": 1302.88,
+      "end": 1308.24,
+      "speaker": "SPEAKER_00",
+      "text": "tourists know it's safe and know that there's resources there and things like that just"
+    },
+    {
+      "start": 1308.24,
+      "end": 1310.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "to again appeal to all tourists."
+    },
+    {
+      "start": 1310.8400000000001,
+      "end": 1312.88,
+      "speaker": "SPEAKER_00",
+      "text": "I think that's probably something that would help as well."
+    },
+    {
+      "start": 1312.88,
+      "end": 1313.88,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great."
+    },
+    {
+      "start": 1313.88,
+      "end": 1315.04,
+      "speaker": "SPEAKER_01",
+      "text": "Final recommendation."
+    },
+    {
+      "start": 1315.04,
+      "end": 1317.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "What would you think that they should do?"
+    },
+    {
+      "start": 1317.8400000000001,
+      "end": 1321.48,
+      "speaker": "SPEAKER_01",
+      "text": "What else should they do that we haven't been able to cover in the case today?"
+    },
+    {
+      "start": 1321.48,
+      "end": 1326.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, so to summarize, I think the biggest issue here is the length of stay."
+    },
+    {
+      "start": 1326.32,
+      "end": 1328.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So we really need to increase the length of stay."
+    },
+    {
+      "start": 1328.4399999999998,
+      "end": 1333.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I think some ways we can do that is to work with the Ministry of Tourism can work with"
+    },
+    {
+      "start": 1333.1599999999999,
+      "end": 1339.04,
+      "speaker": "SPEAKER_00",
+      "text": "results and hotels in order to both improve the quality as well as some sort of bundles"
+    },
+    {
+      "start": 1339.04,
+      "end": 1344.08,
+      "speaker": "SPEAKER_00",
+      "text": "and other incentives that bring tourists into this country."
+    },
+    {
+      "start": 1344.08,
+      "end": 1350.76,
+      "speaker": "SPEAKER_00",
+      "text": "I think some risks that may come with that are if all this money is spent advertising and"
+    },
+    {
+      "start": 1350.76,
+      "end": 1355.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "it doesn't reach a critical mass of people coming over that almost might have negative"
+    },
+    {
+      "start": 1355.92,
+      "end": 1360.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "PR if people are seeing this place advertised but no one knows anyone who's been there."
+    },
+    {
+      "start": 1360.3200000000002,
+      "end": 1364.28,
+      "speaker": "SPEAKER_00",
+      "text": "That could almost reverse what they are trying to do."
+    },
+    {
+      "start": 1364.28,
+      "end": 1368.52,
+      "speaker": "SPEAKER_00",
+      "text": "But I think some next steps are maybe work, have the Ministry of Tourism work with some"
+    },
+    {
+      "start": 1368.52,
+      "end": 1373.96,
+      "speaker": "SPEAKER_00",
+      "text": "hotels to start building some sort of strategy to both market and improve their hotels."
+    },
+    {
+      "start": 1373.96,
+      "end": 1376.76,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so what do you think?"
+    },
+    {
+      "start": 1376.76,
+      "end": 1378.96,
+      "speaker": "SPEAKER_00",
+      "text": "It was a really interesting case."
+    },
+    {
+      "start": 1378.96,
+      "end": 1380.96,
+      "speaker": "SPEAKER_00",
+      "text": "I quite like that."
+    },
+    {
+      "start": 1380.96,
+      "end": 1384.2,
+      "speaker": "SPEAKER_00",
+      "text": "I always think it's interesting when it's talking about something I don't know."
+    },
+    {
+      "start": 1384.2,
+      "end": 1389.56,
+      "speaker": "SPEAKER_00",
+      "text": "So I have no experience with West Africa, relatively little case experience with hotels."
+    },
+    {
+      "start": 1389.56,
+      "end": 1392.88,
+      "speaker": "SPEAKER_00",
+      "text": "So it's really interesting to dive into some of the components there."
+    },
+    {
+      "start": 1392.88,
+      "end": 1397.92,
+      "speaker": "SPEAKER_00",
+      "text": "And I really like the analytical side of these cases where I have to figure out what"
+    },
+    {
+      "start": 1397.92,
+      "end": 1400.72,
+      "speaker": "SPEAKER_00",
+      "text": "numbers I need to calculate and go there."
+    },
+    {
+      "start": 1400.72,
+      "end": 1404.92,
+      "speaker": "SPEAKER_00",
+      "text": "And I think I did a relatively well structured job of doing that."
+    },
+    {
+      "start": 1404.92,
+      "end": 1408.28,
+      "speaker": "SPEAKER_00",
+      "text": "When it came to the end, I felt like I was maybe babbling a little bit and maybe not"
+    },
+    {
+      "start": 1408.28,
+      "end": 1413.76,
+      "speaker": "SPEAKER_00",
+      "text": "generating enough new creative ideas in terms of how they can solve the problems."
+    },
+    {
+      "start": 1413.76,
+      "end": 1416.0,
+      "speaker": "SPEAKER_00",
+      "text": "But that was just maybe one or two things on that list."
+    },
+    {
+      "start": 1416.0,
+      "end": 1417.0,
+      "speaker": "SPEAKER_01",
+      "text": "Cool."
+    },
+    {
+      "start": 1417.0,
+      "end": 1418.0,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome."
+    },
+    {
+      "start": 1418.0,
+      "end": 1421.04,
+      "speaker": "SPEAKER_01",
+      "text": "So I'll address the babbling when I'm going to be back."
+    },
+    {
+      "start": 1421.04,
+      "end": 1427.48,
+      "speaker": "SPEAKER_01",
+      "text": "But overall, I felt like your math and your focus were two role highlights in this"
+    },
+    {
+      "start": 1427.48,
+      "end": 1428.48,
+      "speaker": "SPEAKER_01",
+      "text": "case."
+    },
+    {
+      "start": 1428.48,
+      "end": 1430.36,
+      "speaker": "SPEAKER_01",
+      "text": "So the math was very fluid."
+    },
+    {
+      "start": 1430.36,
+      "end": 1431.44,
+      "speaker": "SPEAKER_01",
+      "text": "You used it to support it."
+    },
+    {
+      "start": 1431.44,
+      "end": 1434.2,
+      "speaker": "SPEAKER_01",
+      "text": "But you also kept bringing me back to the main thing."
+    },
+    {
+      "start": 1434.2,
+      "end": 1438.44,
+      "speaker": "SPEAKER_01",
+      "text": "I do think that there were a couple of kind of low hanging fruit pieces outside of the"
+    },
+    {
+      "start": 1438.44,
+      "end": 1440.44,
+      "speaker": "SPEAKER_01",
+      "text": "core that you could have focused on."
+    },
+    {
+      "start": 1440.44,
+      "end": 1446.0,
+      "speaker": "SPEAKER_01",
+      "text": "But it left me no question that when given the choice between doing lots and doing the"
+    },
+    {
+      "start": 1446.0,
+      "end": 1447.64,
+      "speaker": "SPEAKER_01",
+      "text": "main thing, you would always choose the main thing."
+    },
+    {
+      "start": 1447.64,
+      "end": 1452.2,
+      "speaker": "SPEAKER_01",
+      "text": "So that's really, I think, a key fun highlight from this case."
+    },
+    {
+      "start": 1452.2,
+      "end": 1456.24,
+      "speaker": "SPEAKER_01",
+      "text": "The first thing is just, I thought you're not taking on your recap at the beginning was"
+    },
+    {
+      "start": 1456.24,
+      "end": 1457.24,
+      "speaker": "SPEAKER_01",
+      "text": "really good."
+    },
+    {
+      "start": 1457.24,
+      "end": 1460.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "But I don't know that you fully understood what a Ministry of Travel did."
+    },
+    {
+      "start": 1460.8400000000001,
+      "end": 1464.8,
+      "speaker": "SPEAKER_01",
+      "text": "And I feel like you could have asked me a clearifying question or two."
+    },
+    {
+      "start": 1464.8,
+      "end": 1469.0,
+      "speaker": "SPEAKER_01",
+      "text": "And really, some Ministry of Travels are actually paid by hotels."
+    },
+    {
+      "start": 1469.0,
+      "end": 1471.48,
+      "speaker": "SPEAKER_01",
+      "text": "There's a hotel tax that funds them."
+    },
+    {
+      "start": 1471.48,
+      "end": 1473.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And so that would have tied us right into the accommodation piece."
+    },
+    {
+      "start": 1473.8799999999999,
+      "end": 1476.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "You got there pretty quickly anyhow."
+    },
+    {
+      "start": 1476.8799999999999,
+      "end": 1479.84,
+      "speaker": "SPEAKER_01",
+      "text": "But other ones are just sponsored by the government."
+    },
+    {
+      "start": 1479.84,
+      "end": 1483.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "But at any rate, they're not incentivized."
+    },
+    {
+      "start": 1483.8799999999999,
+      "end": 1485.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "They don't make more money."
+    },
+    {
+      "start": 1485.6399999999999,
+      "end": 1488.52,
+      "speaker": "SPEAKER_01",
+      "text": "They have a bigger budget, maybe."
+    },
+    {
+      "start": 1488.52,
+      "end": 1490.32,
+      "speaker": "SPEAKER_01",
+      "text": "But they're mandated."
+    },
+    {
+      "start": 1490.32,
+      "end": 1494.76,
+      "speaker": "SPEAKER_01",
+      "text": "It's a different kind of organization that's thinking on a purpose that's a little different"
+    },
+    {
+      "start": 1494.76,
+      "end": 1496.6,
+      "speaker": "SPEAKER_01",
+      "text": "than some other companies."
+    },
+    {
+      "start": 1496.6,
+      "end": 1499.84,
+      "speaker": "SPEAKER_01",
+      "text": "And so just highlighting maybe a few of those differences."
+    },
+    {
+      "start": 1499.84,
+      "end": 1503.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Some of your clarifying questions don't necessarily have to be at the problem here."
+    },
+    {
+      "start": 1503.8799999999999,
+      "end": 1507.68,
+      "speaker": "SPEAKER_01",
+      "text": "Although I think you could have also maybe gone into the problem just a little bit, right?"
+    },
+    {
+      "start": 1507.68,
+      "end": 1511.04,
+      "speaker": "SPEAKER_01",
+      "text": "Are there other countries who are doing really well?"
+    },
+    {
+      "start": 1511.04,
+      "end": 1512.76,
+      "speaker": "SPEAKER_01",
+      "text": "Probably let's look at some of that."
+    },
+    {
+      "start": 1512.76,
+      "end": 1514.44,
+      "speaker": "SPEAKER_01",
+      "text": "There could have been some other things you could ask there."
+    },
+    {
+      "start": 1514.44,
+      "end": 1518.2,
+      "speaker": "SPEAKER_01",
+      "text": "So you basically asked me a clearifying question that just felt like it made me question"
+    },
+    {
+      "start": 1518.2,
+      "end": 1519.56,
+      "speaker": "SPEAKER_01",
+      "text": "whether you had a full understanding of it."
+    },
+    {
+      "start": 1519.56,
+      "end": 1523.08,
+      "speaker": "SPEAKER_01",
+      "text": "And by the time we got to the end, I still wasn't 100% sure."
+    },
+    {
+      "start": 1523.08,
+      "end": 1526.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm going to go back to the number."
+    },
+    {
+      "start": 1526.0,
+      "end": 1533.28,
+      "speaker": "SPEAKER_01",
+      "text": "So I give you a three on the case recap and a three on the clarifying questions because"
+    },
+    {
+      "start": 1533.28,
+      "end": 1537.96,
+      "speaker": "SPEAKER_01",
+      "text": "you asked a question or two just checking to make sure you've gotten everything that you"
+    },
+    {
+      "start": 1537.96,
+      "end": 1540.12,
+      "speaker": "SPEAKER_01",
+      "text": "didn't really dive into that a little bit far."
+    },
+    {
+      "start": 1540.12,
+      "end": 1541.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I put a three for your case structure."
+    },
+    {
+      "start": 1541.8799999999999,
+      "end": 1546.12,
+      "speaker": "SPEAKER_01",
+      "text": "I actually really liked your case structure."
+    },
+    {
+      "start": 1546.12,
+      "end": 1550.12,
+      "speaker": "SPEAKER_01",
+      "text": "The one thing that would have made it a four, so three on content, four on content, three"
+    },
+    {
+      "start": 1550.12,
+      "end": 1552.36,
+      "speaker": "SPEAKER_01",
+      "text": "on just verbal delivery."
+    },
+    {
+      "start": 1552.36,
+      "end": 1554.6,
+      "speaker": "SPEAKER_01",
+      "text": "And again, right now we're sitting in the same room."
+    },
+    {
+      "start": 1554.6,
+      "end": 1555.6,
+      "speaker": "SPEAKER_01",
+      "text": "You wouldn't always do that."
+    },
+    {
+      "start": 1555.6,
+      "end": 1558.36,
+      "speaker": "SPEAKER_01",
+      "text": "Sometimes you'll be on Zoom or remote."
+    },
+    {
+      "start": 1558.36,
+      "end": 1563.6,
+      "speaker": "SPEAKER_01",
+      "text": "But I would have wanted you to actually talk me bucket one, bucket two, bucket three."
+    },
+    {
+      "start": 1563.6,
+      "end": 1567.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "And if I wasn't able to look at your paper sneak peek here, I felt like there could have"
+    },
+    {
+      "start": 1567.1999999999998,
+      "end": 1570.56,
+      "speaker": "SPEAKER_01",
+      "text": "been a little bit of a lack of structure there."
+    },
+    {
+      "start": 1570.56,
+      "end": 1573.52,
+      "speaker": "SPEAKER_01",
+      "text": "In addition, you put a combination first."
+    },
+    {
+      "start": 1573.52,
+      "end": 1575.76,
+      "speaker": "SPEAKER_01",
+      "text": "It was your priority bucket, but you didn't mention that."
+    },
+    {
+      "start": 1575.76,
+      "end": 1577.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "I had to prompt you for that."
+    },
+    {
+      "start": 1577.72,
+      "end": 1580.68,
+      "speaker": "SPEAKER_01",
+      "text": "And so again, right, why is a combination your priority?"
+    },
+    {
+      "start": 1580.68,
+      "end": 1584.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And it wasn't actually first in your paper if you can just look at it really quickly."
+    },
+    {
+      "start": 1584.6000000000001,
+      "end": 1586.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, it was first."
+    },
+    {
+      "start": 1586.6000000000001,
+      "end": 1589.28,
+      "speaker": "SPEAKER_01",
+      "text": "But again, you didn't write, right, you finished your structure."
+    },
+    {
+      "start": 1589.28,
+      "end": 1591.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "You just dove right into the presentation."
+    },
+    {
+      "start": 1591.1200000000001,
+      "end": 1596.88,
+      "speaker": "SPEAKER_01",
+      "text": "I just really encourage you to take a second to five seconds to reflect on is this the"
+    },
+    {
+      "start": 1596.88,
+      "end": 1599.84,
+      "speaker": "SPEAKER_01",
+      "text": "order that I want to present these in."
+    },
+    {
+      "start": 1599.84,
+      "end": 1604.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Because in this case, as a corny case, I'm really directing it."
+    },
+    {
+      "start": 1604.12,
+      "end": 1605.56,
+      "speaker": "SPEAKER_01",
+      "text": "But let's say it wasn't true."
+    },
+    {
+      "start": 1605.56,
+      "end": 1607.6,
+      "speaker": "SPEAKER_01",
+      "text": "Let's say you get a pretty chill interviewer."
+    },
+    {
+      "start": 1607.6,
+      "end": 1608.6,
+      "speaker": "SPEAKER_01",
+      "text": "I'm not chill."
+    },
+    {
+      "start": 1608.6,
+      "end": 1614.12,
+      "speaker": "SPEAKER_01",
+      "text": "But in case you did, then we'd want to make sure that you were really driving so far."
+    },
+    {
+      "start": 1614.12,
+      "end": 1618.36,
+      "speaker": "SPEAKER_01",
+      "text": "Your math was really awesome, flawless, clear."
+    },
+    {
+      "start": 1618.36,
+      "end": 1620.12,
+      "speaker": "SPEAKER_01",
+      "text": "I felt like you laid it out on your paper."
+    },
+    {
+      "start": 1620.12,
+      "end": 1623.36,
+      "speaker": "SPEAKER_01",
+      "text": "I was able to follow what you were thinking."
+    },
+    {
+      "start": 1623.36,
+      "end": 1627.08,
+      "speaker": "SPEAKER_01",
+      "text": "I would have maybe mentioned a few of the bonus pieces."
+    },
+    {
+      "start": 1627.08,
+      "end": 1630.6,
+      "speaker": "SPEAKER_01",
+      "text": "So not just like, hey, let's look at this and look at the next thing."
+    },
+    {
+      "start": 1630.6,
+      "end": 1636.48,
+      "speaker": "SPEAKER_01",
+      "text": "Like, if we had more time or if we have budget or different staff, I would also, you know,"
+    },
+    {
+      "start": 1636.48,
+      "end": 1643.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "like one of the key insights from one of the first chart is that, right, the total spend"
+    },
+    {
+      "start": 1643.1999999999998,
+      "end": 1649.76,
+      "speaker": "SPEAKER_01",
+      "text": "per stay actually across the board is higher in business versus leisure."
+    },
+    {
+      "start": 1649.76,
+      "end": 1656.12,
+      "speaker": "SPEAKER_01",
+      "text": "And so, you know, so even though it's a bigger portion of it and it's more profitable,"
+    },
+    {
+      "start": 1656.12,
+      "end": 1658.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "like if you are able to do something in math."
+    },
+    {
+      "start": 1658.7199999999998,
+      "end": 1659.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Correct."
+    },
+    {
+      "start": 1659.7199999999998,
+      "end": 1660.56,
+      "speaker": "SPEAKER_01",
+      "text": "Correct."
+    },
+    {
+      "start": 1660.56,
+      "end": 1664.8,
+      "speaker": "SPEAKER_01",
+      "text": "So I felt like there were some of those second level insights that I didn't get from you"
+    },
+    {
+      "start": 1664.8,
+      "end": 1666.52,
+      "speaker": "SPEAKER_01",
+      "text": "that I would have loved to have seen."
+    },
+    {
+      "start": 1666.52,
+      "end": 1670.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I didn't need them to, you know, pass you on, right?"
+    },
+    {
+      "start": 1670.3999999999999,
+      "end": 1673.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "This was the case was good enough without it, but just kind of as a bonus."
+    },
+    {
+      "start": 1673.9199999999998,
+      "end": 1678.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "But I gave you a four for the math, for the first math and a four for the second math,"
+    },
+    {
+      "start": 1678.9199999999998,
+      "end": 1679.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "right?"
+    },
+    {
+      "start": 1679.9199999999998,
+      "end": 1680.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Correct answer."
+    },
+    {
+      "start": 1680.9199999999998,
+      "end": 1681.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Approached it quickly."
+    },
+    {
+      "start": 1681.9199999999998,
+      "end": 1682.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Good verbal explanation."
+    },
+    {
+      "start": 1682.9199999999998,
+      "end": 1685.96,
+      "speaker": "SPEAKER_01",
+      "text": "Excellent insights tied back to the big picture."
+    },
+    {
+      "start": 1685.96,
+      "end": 1687.72,
+      "speaker": "SPEAKER_01",
+      "text": "So I thought that was really good."
+    },
+    {
+      "start": 1687.72,
+      "end": 1688.72,
+      "speaker": "SPEAKER_01",
+      "text": "That's the case creative question."
+    },
+    {
+      "start": 1688.72,
+      "end": 1689.72,
+      "speaker": "SPEAKER_01",
+      "text": "I give you a three one actually."
+    },
+    {
+      "start": 1689.72,
+      "end": 1696.96,
+      "speaker": "SPEAKER_01",
+      "text": "It give you two, sorry, no words, the no structure."
+    },
+    {
+      "start": 1696.96,
+      "end": 1697.96,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1697.96,
+      "end": 1698.96,
+      "speaker": "SPEAKER_01",
+      "text": "Right."
+    },
+    {
+      "start": 1698.96,
+      "end": 1700.92,
+      "speaker": "SPEAKER_01",
+      "text": "Good ideas, but no structure to them."
+    },
+    {
+      "start": 1700.92,
+      "end": 1703.0,
+      "speaker": "SPEAKER_01",
+      "text": "You didn't write anything down."
+    },
+    {
+      "start": 1703.0,
+      "end": 1706.92,
+      "speaker": "SPEAKER_01",
+      "text": "So you got kind of in the flow of just explaining your thoughts."
+    },
+    {
+      "start": 1706.92,
+      "end": 1710.08,
+      "speaker": "SPEAKER_01",
+      "text": "So the ideas were good, but then that's, that's why I'm that one."
+    },
+    {
+      "start": 1710.08,
+      "end": 1712.96,
+      "speaker": "SPEAKER_01",
+      "text": "If you notice, I punched you on what else, what else, what else?"
+    },
+    {
+      "start": 1712.96,
+      "end": 1714.76,
+      "speaker": "SPEAKER_01",
+      "text": "Because I was trying to trap you a little bit."
+    },
+    {
+      "start": 1714.76,
+      "end": 1719.24,
+      "speaker": "SPEAKER_01",
+      "text": "I never gotcha, but, but I really wanted to see kind of where the boundaries were of"
+    },
+    {
+      "start": 1719.24,
+      "end": 1720.56,
+      "speaker": "SPEAKER_01",
+      "text": "your mental recall."
+    },
+    {
+      "start": 1720.56,
+      "end": 1724.84,
+      "speaker": "SPEAKER_01",
+      "text": "And I felt like again, you lacked if you didn't do the written brainstorming, the ability"
+    },
+    {
+      "start": 1724.84,
+      "end": 1728.56,
+      "speaker": "SPEAKER_01",
+      "text": "to reprioritize to focus or to dive deeper on any of those areas."
+    },
+    {
+      "start": 1728.56,
+      "end": 1731.36,
+      "speaker": "SPEAKER_01",
+      "text": "And so I just felt like you were bearing your risk that was unnecessary."
+    },
+    {
+      "start": 1731.36,
+      "end": 1736.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So should I have, I guess, a, ask for time and written normal, but I'm so presented"
+    },
+    {
+      "start": 1736.8799999999999,
+      "end": 1739.36,
+      "speaker": "SPEAKER_00",
+      "text": "or be as I'm talking to you, writing them down."
+    },
+    {
+      "start": 1739.36,
+      "end": 1742.6,
+      "speaker": "SPEAKER_01",
+      "text": "I actually really like it when somebody walks through it."
+    },
+    {
+      "start": 1742.6,
+      "end": 1745.84,
+      "speaker": "SPEAKER_01",
+      "text": "You're demonstrating that you're quick on your feet, you're thoughtful, you're creative."
+    },
+    {
+      "start": 1745.84,
+      "end": 1748.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I like it when you don't take the time to write it down."
+    },
+    {
+      "start": 1748.1599999999999,
+      "end": 1749.8,
+      "speaker": "SPEAKER_01",
+      "text": "I don't need it to be that prepared."
+    },
+    {
+      "start": 1749.8,
+      "end": 1755.08,
+      "speaker": "SPEAKER_01",
+      "text": "I just need to know that you remember what you wrote down and that it leads you to further"
+    },
+    {
+      "start": 1755.08,
+      "end": 1756.08,
+      "speaker": "SPEAKER_01",
+      "text": "brainstorming."
+    },
+    {
+      "start": 1756.08,
+      "end": 1757.08,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1757.08,
+      "end": 1759.08,
+      "speaker": "SPEAKER_01",
+      "text": "So I felt like that we were just kind of missing a little piece on that."
+    },
+    {
+      "start": 1759.08,
+      "end": 1761.76,
+      "speaker": "SPEAKER_01",
+      "text": "And then great final recommendation, right?"
+    },
+    {
+      "start": 1761.76,
+      "end": 1765.6,
+      "speaker": "SPEAKER_01",
+      "text": "You've got here, you kind of dove in at the beginning."
+    },
+    {
+      "start": 1765.6,
+      "end": 1769.36,
+      "speaker": "SPEAKER_01",
+      "text": "I'd rather have you just say, look, here's what we're looking at."
+    },
+    {
+      "start": 1769.36,
+      "end": 1773.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "What we're looking at is increasing the total revenue."
+    },
+    {
+      "start": 1773.1599999999999,
+      "end": 1776.4799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "And to do that, we found that one major way is this."
+    },
+    {
+      "start": 1776.4799999999998,
+      "end": 1778.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "I also felt like your next steps could have gone back."
+    },
+    {
+      "start": 1778.7199999999998,
+      "end": 1782.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Had you taken either more notes or developed some of those insights to that there's more"
+    },
+    {
+      "start": 1782.8799999999999,
+      "end": 1785.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "that we can do, right?"
+    },
+    {
+      "start": 1785.1999999999998,
+      "end": 1786.52,
+      "speaker": "SPEAKER_01",
+      "text": "Look, we could look at more days."
+    },
+    {
+      "start": 1786.52,
+      "end": 1788.04,
+      "speaker": "SPEAKER_01",
+      "text": "We could look at additional incentives."
+    },
+    {
+      "start": 1788.04,
+      "end": 1789.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "We could look at business."
+    },
+    {
+      "start": 1789.1999999999998,
+      "end": 1791.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "We could look at right additional peer countries."
+    },
+    {
+      "start": 1791.9199999999998,
+      "end": 1792.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "There's more that we could do."
+    },
+    {
+      "start": 1792.9199999999998,
+      "end": 1796.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I felt like there were, there was a little bit of a broader there."
+    },
+    {
+      "start": 1796.0,
+      "end": 1797.0,
+      "speaker": "SPEAKER_01",
+      "text": "I wouldn't need more structure."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 18,
+    "math": 10,
+    "case_difficulty": 12,
+    "final_summary": 16,
+    "overall_thoughts": "You communicated well, but struggled with the math and framework development."
+  }
+}

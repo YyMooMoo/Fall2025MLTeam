@@ -1,0 +1,2772 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 8.16,
+      "speaker": "SPEAKER_00",
+      "text": "What do you take just a second or two here up front and tell everybody a little bit about"
+    },
+    {
+      "start": 8.16,
+      "end": 10.4,
+      "speaker": "SPEAKER_00",
+      "text": "yourself when you're at in your career journey?"
+    },
+    {
+      "start": 10.4,
+      "end": 12.92,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, hi everyone."
+    },
+    {
+      "start": 12.92,
+      "end": 14.76,
+      "speaker": "SPEAKER_01",
+      "text": "My name is Ed or Edward."
+    },
+    {
+      "start": 14.76,
+      "end": 19.76,
+      "speaker": "SPEAKER_01",
+      "text": "I am a third year in college right now at California, a Polytechnic State University"
+    },
+    {
+      "start": 19.76,
+      "end": 24.0,
+      "speaker": "SPEAKER_01",
+      "text": "of San Luis Obispo or Cal Poly for anyone who's from California."
+    },
+    {
+      "start": 24.0,
+      "end": 29.32,
+      "speaker": "SPEAKER_01",
+      "text": "I'm concentrating in information systems with my major being business."
+    },
+    {
+      "start": 29.32,
+      "end": 39.88,
+      "speaker": "SPEAKER_01",
+      "text": "And I am basically beginning the early preparation for a full-time career in management consulting."
+    },
+    {
+      "start": 39.88,
+      "end": 46.32,
+      "speaker": "SPEAKER_00",
+      "text": "And that means undergrad for those that weren't clear in an American context."
+    },
+    {
+      "start": 46.32,
+      "end": 53.480000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "So you MBAs who are practicing now know that you're not the only ones, right?"
+    },
+    {
+      "start": 53.48,
+      "end": 59.879999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "So there's a lot of other recruiting cycles still to come in the spring."
+    },
+    {
+      "start": 59.879999999999995,
+      "end": 62.559999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "And so Edward, glad to have you here with us today."
+    },
+    {
+      "start": 62.559999999999995,
+      "end": 70.56,
+      "speaker": "SPEAKER_00",
+      "text": "Thanks for volunteering to do this and looking forward to diving into the case here with you."
+    },
+    {
+      "start": 70.56,
+      "end": 73.84,
+      "speaker": "SPEAKER_00",
+      "text": "Any other questions from your end before we get started?"
+    },
+    {
+      "start": 73.84,
+      "end": 78.08,
+      "speaker": "SPEAKER_01",
+      "text": "No, I'm excited, a little nervous, but hey, that's always the case."
+    },
+    {
+      "start": 78.08,
+      "end": 82.12,
+      "speaker": "SPEAKER_01",
+      "text": "So looking forward to this case interview."
+    },
+    {
+      "start": 82.12,
+      "end": 84.92,
+      "speaker": "SPEAKER_00",
+      "text": "Absolutely. Seems reasonable enough."
+    },
+    {
+      "start": 84.92,
+      "end": 90.60000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "All right, Edward, well, thanks for letting me hear a little bit more about you and your background."
+    },
+    {
+      "start": 90.60000000000001,
+      "end": 94.08000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I'd like to transition to the case portion of our time today."
+    },
+    {
+      "start": 94.08000000000001,
+      "end": 96.60000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I have some background information about your clients."
+    },
+    {
+      "start": 96.60000000000001,
+      "end": 97.56,
+      "speaker": "SPEAKER_00",
+      "text": "Are you ready for that?"
+    },
+    {
+      "start": 97.56,
+      "end": 99.60000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, go ahead."
+    },
+    {
+      "start": 99.60000000000001,
+      "end": 103.44,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so your client today is Energy Pop."
+    },
+    {
+      "start": 103.44,
+      "end": 107.08000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "They're a US-based energy drink company."
+    },
+    {
+      "start": 107.12,
+      "end": 113.56,
+      "speaker": "SPEAKER_00",
+      "text": "They manufacture and sell various sugary energy drink products."
+    },
+    {
+      "start": 113.56,
+      "end": 119.52,
+      "speaker": "SPEAKER_00",
+      "text": "They've established market leadership in energy drinks across the US and Europe."
+    },
+    {
+      "start": 119.52,
+      "end": 129.0,
+      "speaker": "SPEAKER_00",
+      "text": "And they've successfully entered various emerging growth markets, such as Mexico, Brazil, and India."
+    },
+    {
+      "start": 129.0,
+      "end": 133.84,
+      "speaker": "SPEAKER_00",
+      "text": "At this moment in time, Energy Pop is interested in expanding into Africa."
+    },
+    {
+      "start": 133.88,
+      "end": 138.28,
+      "speaker": "SPEAKER_00",
+      "text": "And they believe that Nigeria would be a great market to enter."
+    },
+    {
+      "start": 138.28,
+      "end": 146.48000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Before doing so, they've hired our team to provide a go or no go recommendation on this opportunity."
+    },
+    {
+      "start": 146.48000000000002,
+      "end": 152.4,
+      "speaker": "SPEAKER_00",
+      "text": "What are the factors you think Energy Pop should consider when deciding to enter Nigeria?"
+    },
+    {
+      "start": 152.4,
+      "end": 163.28,
+      "speaker": "SPEAKER_01",
+      "text": "Wonderful. So just to clarify, our client is Energy Pop, which is a US-fizzy drink sugary energy drink"
+    },
+    {
+      "start": 163.28,
+      "end": 165.08,
+      "speaker": "SPEAKER_01",
+      "text": "production company."
+    },
+    {
+      "start": 165.08,
+      "end": 168.12,
+      "speaker": "SPEAKER_01",
+      "text": "They're a market leader in the US and in Europe."
+    },
+    {
+      "start": 168.12,
+      "end": 173.08,
+      "speaker": "SPEAKER_01",
+      "text": "And they're also jumping into various growth markets, such as Mexico and India."
+    },
+    {
+      "start": 173.08,
+      "end": 180.32,
+      "speaker": "SPEAKER_01",
+      "text": "And they're basically interested in exploring Africa as a market, and more specifically Nigeria."
+    },
+    {
+      "start": 180.32,
+      "end": 184.52,
+      "speaker": "SPEAKER_01",
+      "text": "And they've asked us to decide whether or not they should do this."
+    },
+    {
+      "start": 184.52,
+      "end": 185.2,
+      "speaker": "SPEAKER_00",
+      "text": "Yep."
+    },
+    {
+      "start": 185.2,
+      "end": 187.72,
+      "speaker": "SPEAKER_01",
+      "text": "Wonderful. And I'm just wondering,"
+    },
+    {
+      "start": 187.72,
+      "end": 196.04,
+      "speaker": "SPEAKER_01",
+      "text": "do they have a goal in terms of a desired profitability or a timeframe that they want to achieve that in maybe?"
+    },
+    {
+      "start": 196.04,
+      "end": 202.32,
+      "speaker": "SPEAKER_00",
+      "text": "The only thing we know so far is that they want to achieve positive NPV."
+    },
+    {
+      "start": 202.32,
+      "end": 204.96,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, positive NPV."
+    },
+    {
+      "start": 204.96,
+      "end": 210.56,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. With that being said, do you mind if I take a minute or two just to organize my thoughts?"
+    },
+    {
+      "start": 210.56,
+      "end": 211.4,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds great."
+    },
+    {
+      "start": 211.4,
+      "end": 212.72,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 212.72,
+      "end": 220.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so just a few things that I was considering in terms of before we maybe dive in 20 specific numbers."
+    },
+    {
+      "start": 220.68,
+      "end": 234.28,
+      "speaker": "SPEAKER_01",
+      "text": "First of all, I'd love to know if you have any information on competitors that are already established in this market in Nigeria."
+    },
+    {
+      "start": 234.28,
+      "end": 242.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "We do know that there is only one small local provider, no other major competitors have entered Nigeria."
+    },
+    {
+      "start": 242.92000000000002,
+      "end": 250.8,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, and that leads me then to wonder, is this because maybe the market isn't as receptive to these energy drinks?"
+    },
+    {
+      "start": 250.8,
+      "end": 257.0,
+      "speaker": "SPEAKER_01",
+      "text": "Or is this just because maybe it's this kind of hidden gem that no one has decided to expand into yet?"
+    },
+    {
+      "start": 257.0,
+      "end": 263.48,
+      "speaker": "SPEAKER_01",
+      "text": "And obviously we can go into that more later and maybe figure out that for sure."
+    },
+    {
+      "start": 263.48,
+      "end": 269.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "I'm also wondering in terms of if we go ahead and decide to go and do this,"
+    },
+    {
+      "start": 269.84000000000003,
+      "end": 272.88,
+      "speaker": "SPEAKER_01",
+      "text": "are we going to be shipping our products to Nigeria?"
+    },
+    {
+      "start": 272.88,
+      "end": 274.68,
+      "speaker": "SPEAKER_01",
+      "text": "Are we going to be building factories there?"
+    },
+    {
+      "start": 274.68,
+      "end": 278.48,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm wondering what I'm trying to get at there is the cost behind this, right?"
+    },
+    {
+      "start": 278.48,
+      "end": 281.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "Is this going to be an expensive move into this market?"
+    },
+    {
+      "start": 281.96000000000004,
+      "end": 291.92,
+      "speaker": "SPEAKER_01",
+      "text": "Or is this something that we can test out with a few products, ship them over there and gain a sense of how receptive people would be?"
+    },
+    {
+      "start": 291.92,
+      "end": 295.2,
+      "speaker": "SPEAKER_01",
+      "text": "And also just going with that and wondering,"
+    },
+    {
+      "start": 295.2,
+      "end": 302.16,
+      "speaker": "SPEAKER_01",
+      "text": "you know, there's some where we can maybe use some numbers to figure out the projected number of units sold or revenue,"
+    },
+    {
+      "start": 302.16,
+      "end": 307.24,
+      "speaker": "SPEAKER_01",
+      "text": "just to kind of figure out the profitability of this, I guess venture wouldn't be the right word,"
+    },
+    {
+      "start": 307.24,
+      "end": 309.48,
+      "speaker": "SPEAKER_01",
+      "text": "but of this move to a new market."
+    },
+    {
+      "start": 309.48,
+      "end": 312.96000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm. I think those are some great questions to have."
+    },
+    {
+      "start": 312.96000000000004,
+      "end": 318.96000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "I anticipate that that will be part of our thinking on this project to help the client figure that out."
+    },
+    {
+      "start": 318.96,
+      "end": 323.12,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, wonderful. Those are some of the main factors I was considering."
+    },
+    {
+      "start": 323.12,
+      "end": 329.68,
+      "speaker": "SPEAKER_01",
+      "text": "Happy to maybe dive into any, maybe just in terms of the small compess,"
+    },
+    {
+      "start": 329.68,
+      "end": 335.08,
+      "speaker": "SPEAKER_01",
+      "text": "I'm not sure if we have any information on how many units they're selling or what their costs are."
+    },
+    {
+      "start": 335.08,
+      "end": 342.71999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe if they're profitable, just to figure out if there's a reason that no one else has jumped into this location."
+    },
+    {
+      "start": 342.72,
+      "end": 351.6,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm. We don't know anything more than the fact that there's just one relatively small local provider."
+    },
+    {
+      "start": 351.6,
+      "end": 360.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Do we have any information on potential costs for this move? I don't know if I'm jumping ahead too much there."
+    },
+    {
+      "start": 360.40000000000003,
+      "end": 366.24,
+      "speaker": "SPEAKER_00",
+      "text": "At this point in time, we have not projected out any cost opportunities."
+    },
+    {
+      "start": 366.24,
+      "end": 368.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 368.56,
+      "end": 374.32,
+      "speaker": "SPEAKER_01",
+      "text": "Have we done anything similar to this in the past by chance?"
+    },
+    {
+      "start": 374.32,
+      "end": 379.68,
+      "speaker": "SPEAKER_00",
+      "text": "Energy pop."
+    },
+    {
+      "start": 379.68,
+      "end": 383.2,
+      "speaker": "SPEAKER_00",
+      "text": "It doesn't seem that we've done any..."
+    },
+    {
+      "start": 383.2,
+      "end": 386.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "We've certainly moved into other emerging and growth markets."
+    },
+    {
+      "start": 386.40000000000003,
+      "end": 387.44,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 387.44,
+      "end": 393.6,
+      "speaker": "SPEAKER_00",
+      "text": "Yes. So in that sense, we've moved outside of our comfort zone of the US and Europe."
+    },
+    {
+      "start": 394.56,
+      "end": 401.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "So that then makes me wonder, is Nigeria are we considering this a growth market?"
+    },
+    {
+      "start": 401.84000000000003,
+      "end": 406.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "Or is this more of just an unknown that we're kind of diving into the depend?"
+    },
+    {
+      "start": 407.68,
+      "end": 411.04,
+      "speaker": "SPEAKER_00",
+      "text": "In general, we are considering this an emerging growth market."
+    },
+    {
+      "start": 411.04,
+      "end": 412.32000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Interesting."
+    },
+    {
+      "start": 412.32,
+      "end": 430.71999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Should we maybe go ahead and figure out the potential number of units that we could sell here?"
+    },
+    {
+      "start": 430.71999999999997,
+      "end": 434.88,
+      "speaker": "SPEAKER_01",
+      "text": "And then from that, we can maybe try and derive some cost and see if this would be profitable."
+    },
+    {
+      "start": 434.88,
+      "end": 435.68,
+      "speaker": "SPEAKER_01",
+      "text": "Would you agree with that?"
+    },
+    {
+      "start": 435.68,
+      "end": 437.68,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 437.68,
+      "end": 438.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Wonderful."
+    },
+    {
+      "start": 438.72,
+      "end": 447.92,
+      "speaker": "SPEAKER_00",
+      "text": "On that note, from a conceptual standpoint, how would you go about sizing the market potential"
+    },
+    {
+      "start": 447.92,
+      "end": 449.92,
+      "speaker": "SPEAKER_00",
+      "text": "for energy pop in Nigeria?"
+    },
+    {
+      "start": 449.92,
+      "end": 457.52,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. So in Nigeria, obviously, first of all, I would have to either know or guess the population"
+    },
+    {
+      "start": 457.52,
+      "end": 464.0,
+      "speaker": "SPEAKER_01",
+      "text": "of Nigeria. And then from there, what I would like to do with segment it into what's sensitive people"
+    },
+    {
+      "start": 464.08,
+      "end": 469.12,
+      "speaker": "SPEAKER_01",
+      "text": "maybe consume energy drinks three to four times a week or three to five times a week."
+    },
+    {
+      "start": 469.68,
+      "end": 475.84,
+      "speaker": "SPEAKER_01",
+      "text": "How many people maybe don't consume it as much? You know, your average adult maybe has one or two"
+    },
+    {
+      "start": 476.56,
+      "end": 483.68,
+      "speaker": "SPEAKER_01",
+      "text": "a week. And then segment it out into the proportions of people who consume it from not at all to"
+    },
+    {
+      "start": 484.32,
+      "end": 490.56,
+      "speaker": "SPEAKER_01",
+      "text": "one or two a day. And then from there, apply that to the population. And then we can get a rough"
+    },
+    {
+      "start": 490.64,
+      "end": 496.88,
+      "speaker": "SPEAKER_01",
+      "text": "estimate of how many energy pops are consumed in Nigeria."
+    },
+    {
+      "start": 498.08,
+      "end": 504.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So with that being said, you have to forgive me. I don't know my populations of Africa very well."
+    },
+    {
+      "start": 506.0,
+      "end": 510.16,
+      "speaker": "SPEAKER_01",
+      "text": "I'm more than willing to guess or to estimate. But if you had any numbers on the population,"
+    },
+    {
+      "start": 510.16,
+      "end": 511.04,
+      "speaker": "SPEAKER_01",
+      "text": "that'd be really helpful."
+    },
+    {
+      "start": 513.04,
+      "end": 518.0,
+      "speaker": "SPEAKER_00",
+      "text": "We do have data to say that there are 50 million households in Nigeria."
+    },
+    {
+      "start": 518.56,
+      "end": 526.16,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. 50 million households. And I'm assuming three how many data on the average number per household"
+    },
+    {
+      "start": 526.16,
+      "end": 533.04,
+      "speaker": "SPEAKER_01",
+      "text": "maybe three, two or three. You know what? We don't have that data. Okay. I'm going to go ahead."
+    },
+    {
+      "start": 534.72,
+      "end": 538.08,
+      "speaker": "SPEAKER_01",
+      "text": "I'm just kind of walking through my thoughts here. I'm assuming that, you know,"
+    },
+    {
+      "start": 538.88,
+      "end": 542.96,
+      "speaker": "SPEAKER_01",
+      "text": "some households may have kids, some households may be single. But on average, I'm going to get"
+    },
+    {
+      "start": 542.96,
+      "end": 550.96,
+      "speaker": "SPEAKER_01",
+      "text": "around two to three individuals per household. So I'm going to go ahead and just assume that it's"
+    },
+    {
+      "start": 550.96,
+      "end": 554.88,
+      "speaker": "SPEAKER_01",
+      "text": "2.5 people per household. If you're okay with that assumption."
+    },
+    {
+      "start": 555.84,
+      "end": 559.2,
+      "speaker": "SPEAKER_00",
+      "text": "Well, where would you go after that? What would you do with that information?"
+    },
+    {
+      "start": 559.2,
+      "end": 566.72,
+      "speaker": "SPEAKER_01",
+      "text": "So that would give me the total population of Nigeria. If we know there's 50 million households"
+    },
+    {
+      "start": 566.72,
+      "end": 577.76,
+      "speaker": "SPEAKER_01",
+      "text": "with 2.5 people per household, that is 125 million people. And then from there, we can,"
+    },
+    {
+      "start": 577.76,
+      "end": 587.52,
+      "speaker": "SPEAKER_01",
+      "text": "I guess, segment it into either population and maybe assume the frequency that each demographic"
+    },
+    {
+      "start": 587.52,
+      "end": 594.64,
+      "speaker": "SPEAKER_01",
+      "text": "consumes an energy drink. Or we can segment it in terms of, you know, 20% of people are your"
+    },
+    {
+      "start": 594.64,
+      "end": 600.16,
+      "speaker": "SPEAKER_01",
+      "text": "average Joe who has two sodas a week. Or segment it from there. And then from there, we'll add those"
+    },
+    {
+      "start": 600.16,
+      "end": 605.84,
+      "speaker": "SPEAKER_01",
+      "text": "up together. And we can get the total number of, you know, energy drinks per week, month or year,"
+    },
+    {
+      "start": 605.84,
+      "end": 613.68,
+      "speaker": "SPEAKER_00",
+      "text": "depending on what we're aiming for. I understand, you know, some of the ways you're thinking to"
+    },
+    {
+      "start": 613.68,
+      "end": 622.8,
+      "speaker": "SPEAKER_00",
+      "text": "segments based on age or gender perhaps. But let's just take the household data. And think about"
+    },
+    {
+      "start": 622.8,
+      "end": 628.4,
+      "speaker": "SPEAKER_00",
+      "text": "getting from there to marketizing. What might be the next step just from that data that you"
+    },
+    {
+      "start": 628.4,
+      "end": 634.4799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "would want to take? Yeah, maybe if we can figure out how many energy drinks the average household"
+    },
+    {
+      "start": 634.4799999999999,
+      "end": 640.88,
+      "speaker": "SPEAKER_01",
+      "text": "consumes in a week, month or year, that's a, I guess, a fast track way to get to our total number."
+    },
+    {
+      "start": 642.4799999999999,
+      "end": 649.28,
+      "speaker": "SPEAKER_00",
+      "text": "So we believe that the households that would consume energy drinks would consume three per month."
+    },
+    {
+      "start": 650.0799999999999,
+      "end": 656.24,
+      "speaker": "SPEAKER_01",
+      "text": "Three per month. Okay. And I noticed you said that the households that do consume. Do you"
+    },
+    {
+      "start": 656.24,
+      "end": 661.68,
+      "speaker": "SPEAKER_01",
+      "text": "have any information on what percentage of households consume energy drinks? We project that"
+    },
+    {
+      "start": 661.68,
+      "end": 670.48,
+      "speaker": "SPEAKER_01",
+      "text": "would be 50%. 50%. Okay. So that's 25 million households. And you said it was three per month."
+    },
+    {
+      "start": 670.8000000000001,
+      "end": 680.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So that's 36 a year. It was three times 12. And then from there we can then do 36 multiplied"
+    },
+    {
+      "start": 680.8000000000001,
+      "end": 691.52,
+      "speaker": "SPEAKER_01",
+      "text": "by 25, which would be, it should be, I just want to make sure I've got my zeros right here, around about"
+    },
+    {
+      "start": 693.76,
+      "end": 694.24,
+      "speaker": "SPEAKER_01",
+      "text": "nine."
+    },
+    {
+      "start": 700.48,
+      "end": 720.32,
+      "speaker": "SPEAKER_01",
+      "text": "About 900 million. I just want to run that number and just make sure it looks right. Yeah, so about"
+    },
+    {
+      "start": 720.32,
+      "end": 726.96,
+      "speaker": "SPEAKER_01",
+      "text": "900 million energy drinks per year in terms of just the households that consume them,"
+    },
+    {
+      "start": 727.6800000000001,
+      "end": 730.88,
+      "speaker": "SPEAKER_01",
+      "text": "assuming that the households that don't consume them consume zero year."
+    },
+    {
+      "start": 733.9200000000001,
+      "end": 744.1600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So from there, do we have, and I guess hopefully, do we have a profit margin or maybe a contribution"
+    },
+    {
+      "start": 744.1600000000001,
+      "end": 756.08,
+      "speaker": "SPEAKER_01",
+      "text": "margin on the actual, per bottle or per can basis? Not a profit margin, but"
+    },
+    {
+      "start": 757.44,
+      "end": 764.64,
+      "speaker": "SPEAKER_00",
+      "text": "maybe a cost or a rail revenue. Yeah. The cost per can is $2 to the consumer."
+    },
+    {
+      "start": 765.36,
+      "end": 773.76,
+      "speaker": "SPEAKER_01",
+      "text": "$2 for the consumer. Okay. So that's 1.8 billion in terms of sales, which is a large number,"
+    },
+    {
+      "start": 773.76,
+      "end": 778.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "but that doesn't mean anything without context. So I'm just wondering, do we have the cost to us"
+    },
+    {
+      "start": 778.8000000000001,
+      "end": 785.44,
+      "speaker": "SPEAKER_00",
+      "text": "for making a can or a bottle? Yeah. Before we get there, still in terms of market sizing. So if we"
+    },
+    {
+      "start": 785.44,
+      "end": 795.12,
+      "speaker": "SPEAKER_00",
+      "text": "think if we're projecting that the market size would be 1.8 billion annually, we think that with"
+    },
+    {
+      "start": 795.12,
+      "end": 801.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "only one small local competitor in the space right now, we're not going to be able to capture all"
+    },
+    {
+      "start": 801.5200000000001,
+      "end": 809.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "of that. So in terms of a short to medium term market size, what's a way that you could think of"
+    },
+    {
+      "start": 810.3199999999999,
+      "end": 814.88,
+      "speaker": "SPEAKER_00",
+      "text": "accounting for that and perhaps more accurately sizing the market?"
+    },
+    {
+      "start": 815.84,
+      "end": 822.96,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. So just to clarify, we don't have any information on this smaller competitor and how much"
+    },
+    {
+      "start": 824.0,
+      "end": 827.76,
+      "speaker": "SPEAKER_01",
+      "text": "of the market that currently, well, you guess right now, they're currently providing 100, but how"
+    },
+    {
+      "start": 827.76,
+      "end": 833.92,
+      "speaker": "SPEAKER_01",
+      "text": "much they would be. So that being said, you said they're much smaller, a bit more of a local store."
+    },
+    {
+      "start": 834.88,
+      "end": 840.4,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. The only player in the space right now is a very small local player."
+    },
+    {
+      "start": 840.4,
+      "end": 846.16,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. Before I even get quantitative that one thing that makes me think of is the loyalty."
+    },
+    {
+      "start": 846.16,
+      "end": 854.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So if they're making this local soda and that's what everyone's consuming and we step in with a"
+    },
+    {
+      "start": 854.0799999999999,
+      "end": 860.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "more established brand like Coca-Cola, I know that's not what we are. I wonder if people,"
+    },
+    {
+      "start": 860.4000000000001,
+      "end": 865.44,
+      "speaker": "SPEAKER_01",
+      "text": "how people would react to that and whether they would stick to their local brand or whether they"
+    },
+    {
+      "start": 865.44,
+      "end": 877.5200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "would be willing to adopt this new competitor in the market. I think even with a conservative"
+    },
+    {
+      "start": 877.5200000000001,
+      "end": 885.12,
+      "speaker": "SPEAKER_01",
+      "text": "estimate of 25%. If we said worst case, they're going to get 75% even though they're only a local"
+    },
+    {
+      "start": 885.2,
+      "end": 891.68,
+      "speaker": "SPEAKER_01",
+      "text": "store. I guess you'd even have to consider as well their ability to produce and whether they"
+    },
+    {
+      "start": 891.68,
+      "end": 899.52,
+      "speaker": "SPEAKER_01",
+      "text": "could even produce 1.8 billion soda a year. But I would think that even if we only had 25% of"
+    },
+    {
+      "start": 900.32,
+      "end": 906.8,
+      "speaker": "SPEAKER_01",
+      "text": "the market share, it's still 450 million dollars or I'm not sure which cones you're working"
+    },
+    {
+      "start": 906.8,
+      "end": 912.4,
+      "speaker": "SPEAKER_01",
+      "text": "here, but that's still pretty attractive. Again, depending on the costs and that's on that,"
+    },
+    {
+      "start": 912.4,
+      "end": 918.24,
+      "speaker": "SPEAKER_00",
+      "text": "I'd love to dive into in a bit. Sure, yeah, and we will go in that direction. But I think you've"
+    },
+    {
+      "start": 918.24,
+      "end": 923.36,
+      "speaker": "SPEAKER_00",
+      "text": "got some good thoughts here around market sizing, thinking about the share that Energy Pot may have"
+    },
+    {
+      "start": 923.36,
+      "end": 931.6,
+      "speaker": "SPEAKER_00",
+      "text": "versus the local competitor. But even outside of that, we've gone through this exercise, 1.8 billion per"
+    },
+    {
+      "start": 931.6,
+      "end": 940.16,
+      "speaker": "SPEAKER_00",
+      "text": "year, US dollars. We'll go ahead and say that we're measuring US dollars. We don't expect that the"
+    },
+    {
+      "start": 940.16,
+      "end": 945.36,
+      "speaker": "SPEAKER_00",
+      "text": "market will capture all of that interest at the beginning as Energy Pot moves into the market."
+    },
+    {
+      "start": 946.16,
+      "end": 954.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "How might you consider accounting for that? Just in terms of how might we account for not having"
+    },
+    {
+      "start": 954.9599999999999,
+      "end": 965.28,
+      "speaker": "SPEAKER_01",
+      "text": "much of the market share? I don't know if this would be a merger or acquisition case and whether"
+    },
+    {
+      "start": 965.36,
+      "end": 974.0,
+      "speaker": "SPEAKER_01",
+      "text": "we would consider partnering with this local store or buying them out or something that's one avenue,"
+    },
+    {
+      "start": 974.0,
+      "end": 984.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "maybe Energy Pot could explore. But if not, maybe just at least making sure that your goal is a"
+    },
+    {
+      "start": 984.3199999999999,
+      "end": 990.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "line and that you're not going in there expecting to have a given market share straight away and"
+    },
+    {
+      "start": 990.96,
+      "end": 994.4000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "understanding that this is something that might grow over time. This might be a long-term"
+    },
+    {
+      "start": 994.4000000000001,
+      "end": 1001.36,
+      "speaker": "SPEAKER_00",
+      "text": "play as opposed to a short to medium play. In terms of that growing over time, one way we can"
+    },
+    {
+      "start": 1001.36,
+      "end": 1006.32,
+      "speaker": "SPEAKER_00",
+      "text": "think about it would be the penetration rate. How much of the interest are we able to capture?"
+    },
+    {
+      "start": 1007.52,
+      "end": 1013.76,
+      "speaker": "SPEAKER_00",
+      "text": "So if we go ahead and we reflect what we've seen in Mexico, let's go ahead and take a penetration"
+    },
+    {
+      "start": 1013.84,
+      "end": 1021.68,
+      "speaker": "SPEAKER_01",
+      "text": "rate of 20%. Okay. And is that just to clarify, is that 20% per year or 20% entry?"
+    },
+    {
+      "start": 1024.0,
+      "end": 1030.08,
+      "speaker": "SPEAKER_00",
+      "text": "That we think the size of the market would capture 20% of the total interest in that space."
+    },
+    {
+      "start": 1031.12,
+      "end": 1041.28,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So just to clarify one more time, the total size of the market, 1.8 billion, we believe that 20%"
+    },
+    {
+      "start": 1041.36,
+      "end": 1048.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "would be interested in our brand. That 1.8 billion, that's an unrealized market."
+    },
+    {
+      "start": 1048.3999999999999,
+      "end": 1053.84,
+      "speaker": "SPEAKER_00",
+      "text": "You know, the small local competitor, yeah, the small local competitor is not addressing that"
+    },
+    {
+      "start": 1053.84,
+      "end": 1060.96,
+      "speaker": "SPEAKER_00",
+      "text": "that total addressable market. And so we'd only really only have access us and all competition to"
+    },
+    {
+      "start": 1060.96,
+      "end": 1073.52,
+      "speaker": "SPEAKER_01",
+      "text": "20%. Okay. So 20% of the maximum 1.8 billion gets 360 million. So that is our atmost between us"
+    },
+    {
+      "start": 1073.52,
+      "end": 1081.2,
+      "speaker": "SPEAKER_01",
+      "text": "and the competitor. So really we're looking at what percentage of this will we actually achieve or"
+    },
+    {
+      "start": 1081.2,
+      "end": 1086.16,
+      "speaker": "SPEAKER_00",
+      "text": "be able to have access to? And then again, with knowing anything about that competitor, what's one"
+    },
+    {
+      "start": 1086.16,
+      "end": 1092.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "way that you might think about us using some sort of a proxy for what market share we might be"
+    },
+    {
+      "start": 1092.0800000000002,
+      "end": 1098.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "able to achieve? Yeah. I really liked what you said about looking at the previous example in Mexico,"
+    },
+    {
+      "start": 1098.0800000000002,
+      "end": 1103.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "maybe if we have any information on how it went there, when we jumped in, if we had similar"
+    },
+    {
+      "start": 1103.8400000000001,
+      "end": 1110.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "competitors, we just had one local competitor and maybe just kind of extrapolating that to this"
+    },
+    {
+      "start": 1110.08,
+      "end": 1118.72,
+      "speaker": "SPEAKER_00",
+      "text": "scenario. Yep. So in fact, we do think it's a relatively similar situation. And our market share"
+    },
+    {
+      "start": 1118.72,
+      "end": 1125.36,
+      "speaker": "SPEAKER_01",
+      "text": "in Mexico is 75%. So it's 75% now. Do we know what it was when we originally came in?"
+    },
+    {
+      "start": 1125.9199999999998,
+      "end": 1130.08,
+      "speaker": "SPEAKER_00",
+      "text": "Yep. In terms of that early state projection, we'll still take 75%."
+    },
+    {
+      "start": 1130.08,
+      "end": 1141.04,
+      "speaker": "SPEAKER_01",
+      "text": "Still take 75%. Okay, perfect. So that would be 270 million. And that would be in terms of,"
+    },
+    {
+      "start": 1141.04,
+      "end": 1149.76,
+      "speaker": "SPEAKER_01",
+      "text": "again, US dollars. Okay, so I'm feeling pretty satisfied with our potential revenue. I'm wondering"
+    },
+    {
+      "start": 1149.76,
+      "end": 1156.8,
+      "speaker": "SPEAKER_01",
+      "text": "if we could dive into costs now to decide whether or not this might be an attractive market to jump"
+    },
+    {
+      "start": 1156.8,
+      "end": 1166.24,
+      "speaker": "SPEAKER_00",
+      "text": "into. Yeah, that's a great push. As we consider different, the costs of various opportunities,"
+    },
+    {
+      "start": 1168.0,
+      "end": 1174.56,
+      "speaker": "SPEAKER_00",
+      "text": "the client would like us though first to really analyze the different strategic options for market"
+    },
+    {
+      "start": 1174.56,
+      "end": 1182.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "entry. They are interested in exploring various market entry strategies. So I think I've already"
+    },
+    {
+      "start": 1182.4,
+      "end": 1186.96,
+      "speaker": "SPEAKER_00",
+      "text": "heard you speak to this a little bit. But what do you think some of those options are and what are"
+    },
+    {
+      "start": 1186.96,
+      "end": 1194.0,
+      "speaker": "SPEAKER_01",
+      "text": "some of the risks and benefits for each of those strategies? Yeah. So are you referencing in terms of"
+    },
+    {
+      "start": 1194.0,
+      "end": 1202.16,
+      "speaker": "SPEAKER_01",
+      "text": "merging versus acquisition and maybe some other opportunities? Exactly. Yeah. So I think a merger"
+    },
+    {
+      "start": 1202.16,
+      "end": 1208.48,
+      "speaker": "SPEAKER_01",
+      "text": "could be could be quite an interesting option just because especially if we're maybe a new product"
+    },
+    {
+      "start": 1209.3600000000001,
+      "end": 1215.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "to this population in this market. Having some sort of merge with their current soda brand could"
+    },
+    {
+      "start": 1215.1200000000001,
+      "end": 1222.0,
+      "speaker": "SPEAKER_01",
+      "text": "be really appealing for us just given that it might lead to higher adoption of our brand"
+    },
+    {
+      "start": 1223.04,
+      "end": 1232.16,
+      "speaker": "SPEAKER_01",
+      "text": "quick more quickly. Maybe some some risks without we might actually be limiting ourselves and"
+    },
+    {
+      "start": 1233.1200000000001,
+      "end": 1238.8000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "we don't know we could come in and we could really take the market by storm and"
+    },
+    {
+      "start": 1239.76,
+      "end": 1243.92,
+      "speaker": "SPEAKER_01",
+      "text": "put the compass out to business straight away and we might be limiting ourselves by doing a merger."
+    },
+    {
+      "start": 1245.8400000000001,
+      "end": 1250.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Acquisition I think is another it could be another really smart play potentially just given that"
+    },
+    {
+      "start": 1251.1200000000001,
+      "end": 1257.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "again if this is the sole provider of the soda in this market right now being able to acquire"
+    },
+    {
+      "start": 1257.36,
+      "end": 1265.52,
+      "speaker": "SPEAKER_01",
+      "text": "them and then maybe either just running that business or expanding the capacity of that business"
+    },
+    {
+      "start": 1266.9599999999998,
+      "end": 1272.0,
+      "speaker": "SPEAKER_01",
+      "text": "to make it more suitable and able to cater to a higher demand might be really useful."
+    },
+    {
+      "start": 1274.0,
+      "end": 1281.12,
+      "speaker": "SPEAKER_01",
+      "text": "Again that might cause some social unrest and that people might not be as happy as this is"
+    },
+    {
+      "start": 1281.12,
+      "end": 1287.76,
+      "speaker": "SPEAKER_01",
+      "text": "that you know a local I'm not sure if it's family run but if it's kind of a more tailored to this"
+    },
+    {
+      "start": 1287.76,
+      "end": 1296.32,
+      "speaker": "SPEAKER_01",
+      "text": "market as opposed to a worldwide player. Yeah it might be something that people aren't as happy with"
+    },
+    {
+      "start": 1296.32,
+      "end": 1303.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "and it might wrestle some feathers here and there. Okay merger acquisition what do you think"
+    },
+    {
+      "start": 1303.1999999999998,
+      "end": 1309.28,
+      "speaker": "SPEAKER_01",
+      "text": "some other options are? I mean one option is it's just going with neither and entering the market"
+    },
+    {
+      "start": 1309.36,
+      "end": 1316.96,
+      "speaker": "SPEAKER_01",
+      "text": "with our own brand and trying to just market our own brand independently of this competitor."
+    },
+    {
+      "start": 1316.96,
+      "end": 1324.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I think that's again another good option just because with that we we're relying on our strength"
+    },
+    {
+      "start": 1324.3999999999999,
+      "end": 1330.08,
+      "speaker": "SPEAKER_01",
+      "text": "and our the fact that we are well established we have entered many other emerging markets and"
+    },
+    {
+      "start": 1330.08,
+      "end": 1336.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I'm assuming it's gone pretty successful and so because of that we we have this almost"
+    },
+    {
+      "start": 1336.4,
+      "end": 1345.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "predictability of how it may how it may go and I did I did actually see it's on say another"
+    },
+    {
+      "start": 1345.8400000000001,
+      "end": 1354.16,
+      "speaker": "SPEAKER_01",
+      "text": "option which would be maybe franchising so having that ability to even almost right offer the"
+    },
+    {
+      "start": 1354.16,
+      "end": 1360.72,
+      "speaker": "SPEAKER_01",
+      "text": "opportunity for people to invest in this population and and have their own franchise such as a"
+    },
+    {
+      "start": 1361.2,
+      "end": 1366.8,
+      "speaker": "SPEAKER_01",
+      "text": "McDonald's where they can paint up for a cost to energy pop and then they get to pretty much run"
+    },
+    {
+      "start": 1366.8,
+      "end": 1373.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "that store themselves and that also adds to this a little bit local in the sense that it is being"
+    },
+    {
+      "start": 1373.1200000000001,
+      "end": 1382.24,
+      "speaker": "SPEAKER_00",
+      "text": "run by by the people who who are in Nigeria. Okay merger acquisition build it ourselves"
+    },
+    {
+      "start": 1382.24,
+      "end": 1389.44,
+      "speaker": "SPEAKER_01",
+      "text": "franchising anything else you can think of? The only and I'm not sure if this is what we're"
+    },
+    {
+      "start": 1389.44,
+      "end": 1395.92,
+      "speaker": "SPEAKER_01",
+      "text": "looking for but maybe some sort of outsourcing in that we and I guess this might fall under"
+    },
+    {
+      "start": 1395.92,
+      "end": 1403.04,
+      "speaker": "SPEAKER_01",
+      "text": "merger acquisition really but maybe contracting this company to produce our soda"
+    },
+    {
+      "start": 1405.52,
+      "end": 1410.48,
+      "speaker": "SPEAKER_01",
+      "text": "instead of their own and that way we don't have to pay for the costs of machinery and"
+    },
+    {
+      "start": 1411.92,
+      "end": 1416.64,
+      "speaker": "SPEAKER_01",
+      "text": "and some of the other startup costs that might that might be incurred if we do any of the other"
+    },
+    {
+      "start": 1416.64,
+      "end": 1424.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "options and whilst they're doing that we can then almost be getting more receptive feedback to"
+    },
+    {
+      "start": 1424.0800000000002,
+      "end": 1429.2,
+      "speaker": "SPEAKER_01",
+      "text": "our soda and people would be starting to adopt it because I'll be the only option and then eventually"
+    },
+    {
+      "start": 1429.2,
+      "end": 1435.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "if it's if it's popular enough we can then move in and and and build our own factory in addition."
+    },
+    {
+      "start": 1437.0400000000002,
+      "end": 1441.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think some other risks and benefits would be of that opportunity specifically?"
+    },
+    {
+      "start": 1442.32,
+      "end": 1449.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah that opportunity we might risk the quality right if we've been producing it a certain way"
+    },
+    {
+      "start": 1449.1999999999998,
+      "end": 1457.28,
+      "speaker": "SPEAKER_01",
+      "text": "for this time having having it be outsourced to them might sacrifice quality it also"
+    },
+    {
+      "start": 1458.1599999999999,
+      "end": 1461.52,
+      "speaker": "SPEAKER_01",
+      "text": "I don't know the information I don't know if we have information on their current"
+    },
+    {
+      "start": 1462.32,
+      "end": 1468.48,
+      "speaker": "SPEAKER_01",
+      "text": "machinery but they might they might not be able to produce it to the capacity that we we desire"
+    },
+    {
+      "start": 1468.72,
+      "end": 1471.52,
+      "speaker": "SPEAKER_01",
+      "text": "which could be an issue."
+    },
+    {
+      "start": 1474.4,
+      "end": 1480.8,
+      "speaker": "SPEAKER_00",
+      "text": "Yep so after considering some of these different types of opportunities the client's most"
+    },
+    {
+      "start": 1480.8,
+      "end": 1486.24,
+      "speaker": "SPEAKER_00",
+      "text": "interested in going after a strategy similar to what you described without sourcing but more like"
+    },
+    {
+      "start": 1486.24,
+      "end": 1494.16,
+      "speaker": "SPEAKER_00",
+      "text": "a joint venture situation like a partnership and they believe that partnering with a beverage"
+    },
+    {
+      "start": 1494.8000000000002,
+      "end": 1502.88,
+      "speaker": "SPEAKER_00",
+      "text": "distributor moving forward is probably their best option they have preliminary plans to share"
+    },
+    {
+      "start": 1502.88,
+      "end": 1510.4,
+      "speaker": "SPEAKER_00",
+      "text": "50% of post-tax profit with this partner but the client's only interested in pursuing this"
+    },
+    {
+      "start": 1510.4,
+      "end": 1518.0,
+      "speaker": "SPEAKER_00",
+      "text": "option so long as it is NPV positive so for the purposes of conducting evaluation what inputs would"
+    },
+    {
+      "start": 1518.16,
+      "end": 1522.16,
+      "speaker": "SPEAKER_00",
+      "text": "you need to determine really if energy pop should pursue this option."
+    },
+    {
+      "start": 1523.04,
+      "end": 1528.72,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah just to clarify what you've said there they're looking at partnering with a beverage distributor"
+    },
+    {
+      "start": 1530.08,
+      "end": 1537.04,
+      "speaker": "SPEAKER_01",
+      "text": "and they would each split the post-tax profit and this would be a good option as long as it's NPV"
+    },
+    {
+      "start": 1537.52,
+      "end": 1546.4,
+      "speaker": "SPEAKER_01",
+      "text": "positive. Okay wonderful just to cloud it can you can you describe a beverage distributor that's"
+    },
+    {
+      "start": 1546.4,
+      "end": 1551.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "we're not talking about our current compests there we're talking about someone who would almost"
+    },
+    {
+      "start": 1551.0400000000002,
+      "end": 1556.96,
+      "speaker": "SPEAKER_01",
+      "text": "be handling we send them the product and they distribute it to Nigeria they distribute it to other"
+    },
+    {
+      "start": 1556.96,
+      "end": 1567.92,
+      "speaker": "SPEAKER_00",
+      "text": "places. It may also include the actual creation production of that so bottling and distribution"
+    },
+    {
+      "start": 1568.64,
+      "end": 1574.4,
+      "speaker": "SPEAKER_00",
+      "text": "it may continue or consider both of those things so in that sense I think it's fairly similar to"
+    },
+    {
+      "start": 1574.4,
+      "end": 1581.52,
+      "speaker": "SPEAKER_01",
+      "text": "what you were describing in terms of outsourcing. Yeah wonderful okay so with that I would love to"
+    },
+    {
+      "start": 1581.52,
+      "end": 1590.88,
+      "speaker": "SPEAKER_01",
+      "text": "know what are the upfront costs maybe any costs any costs incurred down line and also right our"
+    },
+    {
+      "start": 1590.88,
+      "end": 1595.76,
+      "speaker": "SPEAKER_01",
+      "text": "revenue and what we're making and then with that we can all shift it to present value and work out"
+    },
+    {
+      "start": 1595.76,
+      "end": 1600.72,
+      "speaker": "SPEAKER_01",
+      "text": "whether or not that's a positive or a negative to decide whether this is an attractive venture."
+    },
+    {
+      "start": 1601.28,
+      "end": 1608.48,
+      "speaker": "SPEAKER_01",
+      "text": "Okay so what would you like first? Let's go into any upfront costs at time zero that would be"
+    },
+    {
+      "start": 1608.48,
+      "end": 1616.0,
+      "speaker": "SPEAKER_00",
+      "text": "really interesting. So the projected investment cost is 90 million dollars. Okay 90 million"
+    },
+    {
+      "start": 1616.64,
+      "end": 1624.56,
+      "speaker": "SPEAKER_01",
+      "text": "any other costs for four times zero like at the very beginning or no. Okay and then in terms of"
+    },
+    {
+      "start": 1624.8,
+      "end": 1632.0,
+      "speaker": "SPEAKER_01",
+      "text": "the future are there any costs that would be incurred down the line maybe yearly costs monthly costs."
+    },
+    {
+      "start": 1633.28,
+      "end": 1639.28,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah our projected profit margin is 10%. Okay 10% profit margin"
+    },
+    {
+      "start": 1641.44,
+      "end": 1648.08,
+      "speaker": "SPEAKER_01",
+      "text": "and would you like me to try and calculate the revenue from the numbers that we've got in the past?"
+    },
+    {
+      "start": 1648.08,
+      "end": 1654.72,
+      "speaker": "SPEAKER_01",
+      "text": "or do we have more a more specific guess at what we might be making? Yeah our projected revenue"
+    },
+    {
+      "start": 1654.72,
+      "end": 1662.48,
+      "speaker": "SPEAKER_01",
+      "text": "annually is 270 million dollars. Okay so we would be getting 27 million profits which would be the"
+    },
+    {
+      "start": 1662.48,
+      "end": 1669.6,
+      "speaker": "SPEAKER_01",
+      "text": "10% of the 270 million revenue. Okay wonderful and that would be for the foreseeable future or"
+    },
+    {
+      "start": 1670.3999999999999,
+      "end": 1680.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "okay wonderful. Oh and so that would be the total profit for the drink but we are getting 50%"
+    },
+    {
+      "start": 1680.8799999999999,
+      "end": 1688.56,
+      "speaker": "SPEAKER_01",
+      "text": "of the post-taxed profit. So is this 27 million per year a post-taxed? That's pre-tax. Okay and"
+    },
+    {
+      "start": 1688.56,
+      "end": 1696.24,
+      "speaker": "SPEAKER_01",
+      "text": "do you know what the tax rate would be for this particular venture? It would be 25%. 25% okay perfect."
+    },
+    {
+      "start": 1696.24,
+      "end": 1706.96,
+      "speaker": "SPEAKER_01",
+      "text": "So it would be about 1.4 would be going away for taxes. Would you be okay if we went down to 25"
+    },
+    {
+      "start": 1706.96,
+      "end": 1715.52,
+      "speaker": "SPEAKER_00",
+      "text": "million to make it a little easier to calculate? No I'd like you to take the full calculation there."
+    },
+    {
+      "start": 1715.52,
+      "end": 1719.76,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Where are you calculating together in this step? Oh sorry yeah I've actually I was looking"
+    },
+    {
+      "start": 1719.76,
+      "end": 1725.76,
+      "speaker": "SPEAKER_01",
+      "text": "at the wrong numbers there. So the 27 million is profits and we're going to calculate 75% of that"
+    },
+    {
+      "start": 1725.84,
+      "end": 1739.36,
+      "speaker": "SPEAKER_01",
+      "text": "given that 25% we are losing to tax. Correct okay. Okay yeah perfect."
+    },
+    {
+      "start": 1746.96,
+      "end": 1755.36,
+      "speaker": "SPEAKER_01",
+      "text": "Okay so it looks as if we're going to get about 20.25 million in terms of post-tax profit"
+    },
+    {
+      "start": 1755.36,
+      "end": 1761.28,
+      "speaker": "SPEAKER_01",
+      "text": "and again we're only going to get half that so we're actually going to get 10.125 million"
+    },
+    {
+      "start": 1762.1599999999999,
+      "end": 1769.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "post-tax 50% of the profits and we're going to be getting that each year and do we have a desired"
+    },
+    {
+      "start": 1769.1999999999998,
+      "end": 1775.6,
+      "speaker": "SPEAKER_01",
+      "text": "time frame that we're looking to calculate in terms of because obviously if we do this for the"
+    },
+    {
+      "start": 1775.6,
+      "end": 1780.9599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "rest of time we'll break even at some point right do we have a break even time time point?"
+    },
+    {
+      "start": 1781.92,
+      "end": 1787.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "We don't. What's another way that you could think about it? Yeah maybe years to break even"
+    },
+    {
+      "start": 1787.8400000000001,
+      "end": 1793.68,
+      "speaker": "SPEAKER_01",
+      "text": "would be one way that I would look at it so I know we are paying 90 million at the start and"
+    },
+    {
+      "start": 1793.68,
+      "end": 1797.52,
+      "speaker": "SPEAKER_01",
+      "text": "I'm assuming are we taking on all that cost? Are we also splitting the cost?"
+    },
+    {
+      "start": 1800.64,
+      "end": 1804.64,
+      "speaker": "SPEAKER_00",
+      "text": "In a sense we're splitting the cost since we're splitting that post-tax profit. Sure."
+    },
+    {
+      "start": 1805.6000000000001,
+      "end": 1813.5200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Okay but no break even time frame, no time horizon to which we're calculating towards."
+    },
+    {
+      "start": 1814.3200000000002,
+      "end": 1821.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So in a long-term cash flow you know kind of expected maintenance cash flow basis"
+    },
+    {
+      "start": 1823.0400000000002,
+      "end": 1825.44,
+      "speaker": "SPEAKER_00",
+      "text": "to be any other thoughts on how we could think about NPV?"
+    },
+    {
+      "start": 1825.76,
+      "end": 1835.92,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah I mean do we have any information on maybe our interest rates or our IRR and then we can"
+    },
+    {
+      "start": 1837.04,
+      "end": 1845.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "I mean I would probably I'm just trying to think of how to maybe simplify it a little bit do say"
+    },
+    {
+      "start": 1845.12,
+      "end": 1849.12,
+      "speaker": "SPEAKER_01",
+      "text": "and that wouldn't require you know exponents."
+    },
+    {
+      "start": 1853.76,
+      "end": 1858.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Because the first thing I'm looking at is if we're paying 90 million looking at about nine"
+    },
+    {
+      "start": 1858.6399999999999,
+      "end": 1864.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "issues before we can start seeing some true profit if we're splitting the cost about four and a half"
+    },
+    {
+      "start": 1864.7199999999998,
+      "end": 1873.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "five years but you're asking to see a more NPV oriented way of approaching this."
+    },
+    {
+      "start": 1874.4,
+      "end": 1879.04,
+      "speaker": "SPEAKER_00",
+      "text": "Are you familiar with terminal value? I am actually not familiar with that terminal."
+    },
+    {
+      "start": 1880.0,
+      "end": 1884.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay are you familiar with weighted average cost of capital?"
+    },
+    {
+      "start": 1885.04,
+      "end": 1890.8,
+      "speaker": "SPEAKER_01",
+      "text": "Yes it's been a while but I am familiar with the term. Okay tell me what you remember about it."
+    },
+    {
+      "start": 1893.1200000000001,
+      "end": 1900.56,
+      "speaker": "SPEAKER_01",
+      "text": "I know it involves cap M or it's related to that. Yeah it's sorry it's been a while since my"
+    },
+    {
+      "start": 1900.6399999999999,
+      "end": 1908.24,
+      "speaker": "SPEAKER_00",
+      "text": "last finance class. Okay. Okay so from a terminal value standpoint one way that we could look at"
+    },
+    {
+      "start": 1908.24,
+      "end": 1917.84,
+      "speaker": "SPEAKER_00",
+      "text": "this would be to take post-tax profit and divide that by whack weighted average cost of capital"
+    },
+    {
+      "start": 1917.84,
+      "end": 1924.96,
+      "speaker": "SPEAKER_00",
+      "text": "minus growth perpetual ongoing projected growth. And would growth be as a percentage or?"
+    },
+    {
+      "start": 1925.6000000000001,
+      "end": 1934.64,
+      "speaker": "SPEAKER_01",
+      "text": "Yes. Okay so 10.125 million over do we know our growth actually?"
+    },
+    {
+      "start": 1935.52,
+      "end": 1944.24,
+      "speaker": "SPEAKER_01",
+      "text": "projected to be 5% 5% okay 0.05 and you have to excuse us would you remind would you remind me of"
+    },
+    {
+      "start": 1944.24,
+      "end": 1953.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "the formula for for whack? You know what I'll just go ahead and give you 15%. Perfect okay 0.15"
+    },
+    {
+      "start": 1955.76,
+      "end": 1969.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "okay so we have 10.125 million over 0.1 or just 10 by 10. So you get a 101.25 million as"
+    },
+    {
+      "start": 1969.6000000000001,
+      "end": 1980.48,
+      "speaker": "SPEAKER_01",
+      "text": "our I guess that's our NPV right or terminal value. Okay yep NPV. Okay perfect so 101.5 million"
+    },
+    {
+      "start": 1980.56,
+      "end": 1988.8,
+      "speaker": "SPEAKER_00",
+      "text": "give or take go ahead and check that math again oh 101.0.55 or check that one more time."
+    },
+    {
+      "start": 1990.56,
+      "end": 1998.0,
+      "speaker": "SPEAKER_01",
+      "text": "Oh two five I don't know I have I have that written down I don't know I said I'm 1.55 but yeah 101.25"
+    },
+    {
+      "start": 1998.0,
+      "end": 2006.64,
+      "speaker": "SPEAKER_01",
+      "text": "million in terms of NPV. Okay. Which I would say is a very attractive given that it's positive by"
+    },
+    {
+      "start": 2006.72,
+      "end": 2012.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "a fair share. How much is a positive by what therefore is our NPV?"
+    },
+    {
+      "start": 2015.76,
+      "end": 2024.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "101.25 million correct. Well we do we do then strip out the initial costs that's where that comes in."
+    },
+    {
+      "start": 2024.5600000000002,
+      "end": 2031.44,
+      "speaker": "SPEAKER_01",
+      "text": "Oh yes absolutely. Okay but so just just to clarify 101.25 million that is that's the"
+    },
+    {
+      "start": 2031.44,
+      "end": 2035.76,
+      "speaker": "SPEAKER_00",
+      "text": "terminal value. Terminal value okay perfect. That's the terminal value and then we'll strip out"
+    },
+    {
+      "start": 2035.76,
+      "end": 2041.68,
+      "speaker": "SPEAKER_01",
+      "text": "the investment cost and that will give us the NPV. Perfect so we're looking at about 11.25 million."
+    },
+    {
+      "start": 2042.3200000000002,
+      "end": 2050.64,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. What do you think about that? Purely from an NPV standpoint that's a really good number"
+    },
+    {
+      "start": 2050.64,
+      "end": 2060.32,
+      "speaker": "SPEAKER_01",
+      "text": "obviously it's it's positive by several million dollars. I think if it was if it was closer to zero"
+    },
+    {
+      "start": 2060.32,
+      "end": 2066.32,
+      "speaker": "SPEAKER_01",
+      "text": "or even negative that we'd really want to take a second look at this obviously still want to"
+    },
+    {
+      "start": 2066.32,
+      "end": 2072.7200000000003,
+      "speaker": "SPEAKER_01",
+      "text": "to maybe go over some risks and and weaknesses that might come with it but I think an NPV of that"
+    },
+    {
+      "start": 2072.7200000000003,
+      "end": 2079.1200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "value is is very attractive. At this moment in time Edward what would you recommend for energy pop?"
+    },
+    {
+      "start": 2079.92,
+      "end": 2086.4,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah so just going over some of the stuff we've learned obviously they have been pretty successful"
+    },
+    {
+      "start": 2086.4,
+      "end": 2092.96,
+      "speaker": "SPEAKER_01",
+      "text": "in other growth markets such as Mexico and India. We've looked at several opportunities or"
+    },
+    {
+      "start": 2093.76,
+      "end": 2099.12,
+      "speaker": "SPEAKER_01",
+      "text": "ways that we could approach this Nigerian market. It's very attractive and that it's got"
+    },
+    {
+      "start": 2100.48,
+      "end": 2108.48,
+      "speaker": "SPEAKER_01",
+      "text": "you know a pretty high market size and and in terms of going with what we wanted to in terms"
+    },
+    {
+      "start": 2108.48,
+      "end": 2114.08,
+      "speaker": "SPEAKER_01",
+      "text": "of a beverage distributor it looks like it's pretty promising we've got an NPV value of about"
+    },
+    {
+      "start": 2114.08,
+      "end": 2122.56,
+      "speaker": "SPEAKER_01",
+      "text": "11.25 million. I think this is definitely an attractive investment opportunity for energy pop."
+    },
+    {
+      "start": 2123.52,
+      "end": 2130.88,
+      "speaker": "SPEAKER_01",
+      "text": "A few things to consider would just be maybe how the population reacts are there any competitors?"
+    },
+    {
+      "start": 2130.88,
+      "end": 2137.2799999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Obviously we've identified one maybe seeing how we would compete against them whether they"
+    },
+    {
+      "start": 2138.0,
+      "end": 2144.32,
+      "speaker": "SPEAKER_01",
+      "text": "all of a sudden start up in production and advertising and and there's a bit of maybe turmoil"
+    },
+    {
+      "start": 2144.32,
+      "end": 2150.8,
+      "speaker": "SPEAKER_01",
+      "text": "between both energy pop and this competitor but all things aside it looks like a pretty"
+    },
+    {
+      "start": 2153.2000000000003,
+      "end": 2155.2000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "a pretty good good investment opportunity."
+    },
+    {
+      "start": 2157.76,
+      "end": 2165.36,
+      "speaker": "SPEAKER_01",
+      "text": "Okay break how did that feel? That was rough I haven't done many cases with all the"
+    },
+    {
+      "start": 2165.52,
+      "end": 2173.1200000000003,
+      "speaker": "SPEAKER_01",
+      "text": "all the finance terms in it. I've typically had cases that are a little easier than that."
+    },
+    {
+      "start": 2174.8,
+      "end": 2181.44,
+      "speaker": "SPEAKER_00",
+      "text": "I mean there are some tricky elements here for sure. I did get interested when I saw your resume"
+    },
+    {
+      "start": 2181.44,
+      "end": 2186.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "and I saw that you have a finance concentration or something like that. Yeah I did and I changed"
+    },
+    {
+      "start": 2186.7200000000003,
+      "end": 2191.92,
+      "speaker": "SPEAKER_01",
+      "text": "to information system a few weeks ago because I realized that I love those classes more. I'm still"
+    },
+    {
+      "start": 2192.0,
+      "end": 2200.2400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "taking a finance class next quarter but yeah it's been almost a year since my since my intro to"
+    },
+    {
+      "start": 2200.2400000000002,
+      "end": 2206.96,
+      "speaker": "SPEAKER_01",
+      "text": "finance class where we learned about WAC, KAPAM, NPV, all that so it's definitely I like the challenge"
+    },
+    {
+      "start": 2206.96,
+      "end": 2213.12,
+      "speaker": "SPEAKER_01",
+      "text": "there with that it kind of born back to that and tried to incorporate some of those equations"
+    },
+    {
+      "start": 2213.12,
+      "end": 2220.8,
+      "speaker": "SPEAKER_00",
+      "text": "into a case. Good good so I'll make a quick claim out to everybody who's with us that make sure"
+    },
+    {
+      "start": 2220.8,
+      "end": 2224.96,
+      "speaker": "SPEAKER_00",
+      "text": "you're getting in some of your questions if you have things that you want to speak to."
+    },
+    {
+      "start": 2226.32,
+      "end": 2233.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "But even when you're coming across it in class right Edward they're they're the much most often"
+    },
+    {
+      "start": 2233.6000000000004,
+      "end": 2238.4,
+      "speaker": "SPEAKER_00",
+      "text": "it's the it's a more complex version and so even as you are processing through it I'm trying to"
+    },
+    {
+      "start": 2238.4,
+      "end": 2244.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "think of a way to simplify this so that I can not use exponents. I mean that's that's the that's"
+    },
+    {
+      "start": 2244.0800000000004,
+      "end": 2250.5600000000004,
+      "speaker": "SPEAKER_00",
+      "text": "exactly the right way to think that's the exactly the right way to approach it. Was this the smoothest"
+    },
+    {
+      "start": 2250.56,
+      "end": 2257.92,
+      "speaker": "SPEAKER_00",
+      "text": "case from start to finish? No. No. But I think it was a strong case. Okay. I do."
+    },
+    {
+      "start": 2257.92,
+      "end": 2262.48,
+      "speaker": "SPEAKER_01",
+      "text": "Um I know. Are you just doing that to spare my feelings or do you? No. I'm not in fact. Okay."
+    },
+    {
+      "start": 2262.48,
+      "end": 2268.08,
+      "speaker": "SPEAKER_00",
+      "text": "I I I genuinely think it was a strong case. I thought the weakest portion was up front when"
+    },
+    {
+      "start": 2268.7999999999997,
+      "end": 2274.56,
+      "speaker": "SPEAKER_00",
+      "text": "you took about you took a minute and 14 seconds of a pause and then you came into the conversation"
+    },
+    {
+      "start": 2274.56,
+      "end": 2280.96,
+      "speaker": "SPEAKER_00",
+      "text": "and asked about the competitors and you asked about costs and I wasn't sure is that your structure"
+    },
+    {
+      "start": 2280.96,
+      "end": 2288.08,
+      "speaker": "SPEAKER_00",
+      "text": "or were you going to go back into a pause? I think that you recovered from that but"
+    },
+    {
+      "start": 2289.6,
+      "end": 2294.56,
+      "speaker": "SPEAKER_00",
+      "text": "your structure was relatively non-existent because there were there were really only those two"
+    },
+    {
+      "start": 2295.92,
+      "end": 2303.52,
+      "speaker": "SPEAKER_00",
+      "text": "things there. So by far that was the that was the weakest point. But from my perspective with everything"
+    },
+    {
+      "start": 2303.52,
+      "end": 2310.88,
+      "speaker": "SPEAKER_00",
+      "text": "else in consideration, I would put a big I'd put a big red flag next to hey let's make sure this guy's"
+    },
+    {
+      "start": 2310.88,
+      "end": 2317.68,
+      "speaker": "SPEAKER_00",
+      "text": "structure that he can structure. Yes. If in his other first round cases let's say that wasn't an"
+    },
+    {
+      "start": 2317.68,
+      "end": 2324.8,
+      "speaker": "SPEAKER_00",
+      "text": "issue then you know in conjunction with other interviewers I would say yeah let's give him another shot."
+    },
+    {
+      "start": 2325.52,
+      "end": 2333.76,
+      "speaker": "SPEAKER_00",
+      "text": "Oh well. Yeah so let's let's talk about it. So that case took us 36 minutes. That's a good period"
+    },
+    {
+      "start": 2333.76,
+      "end": 2340.88,
+      "speaker": "SPEAKER_00",
+      "text": "of time. Okay. Somewhere I mean it's possible to get through in 30 minutes absolutely. Anything"
+    },
+    {
+      "start": 2340.88,
+      "end": 2347.76,
+      "speaker": "SPEAKER_00",
+      "text": "over 45 is just crazy but somewhere in the 30 to 40 minute range is probably good for this case."
+    },
+    {
+      "start": 2348.7200000000003,
+      "end": 2354.48,
+      "speaker": "SPEAKER_00",
+      "text": "Up front I really liked how you had you immediately started to talk to me and recap after I gave"
+    },
+    {
+      "start": 2354.48,
+      "end": 2360.56,
+      "speaker": "SPEAKER_00",
+      "text": "you the background information there was no pause whatsoever. So that shows me that you know what's"
+    },
+    {
+      "start": 2360.56,
+      "end": 2366.08,
+      "speaker": "SPEAKER_00",
+      "text": "going on and this type of discussion and that you're just launching in and you let it be conversational"
+    },
+    {
+      "start": 2366.08,
+      "end": 2374.0,
+      "speaker": "SPEAKER_00",
+      "text": "off the bat which I really appreciated. You did a good quick recap. You asked a couple of questions"
+    },
+    {
+      "start": 2374.0,
+      "end": 2379.76,
+      "speaker": "SPEAKER_00",
+      "text": "then we went into the structure. You didn't have too much to say coming out of your pause. Your"
+    },
+    {
+      "start": 2379.76,
+      "end": 2385.36,
+      "speaker": "SPEAKER_00",
+      "text": "pause was very short and then you spoke to you asked a question about competitors and then"
+    },
+    {
+      "start": 2385.36,
+      "end": 2390.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "left a long enough pause that I went ahead and just answered the question because I wasn't again"
+    },
+    {
+      "start": 2390.0800000000004,
+      "end": 2394.4,
+      "speaker": "SPEAKER_00",
+      "text": "I wasn't sure if you were going to go back into a pause or if you're going to continue on with a"
+    },
+    {
+      "start": 2394.4,
+      "end": 2400.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "line of thinking around a structure you went in that direction started to talk to costs started to"
+    },
+    {
+      "start": 2400.0800000000004,
+      "end": 2407.76,
+      "speaker": "SPEAKER_00",
+      "text": "talk to some sizing elements and then we went in that direction. So we went in the direction of"
+    },
+    {
+      "start": 2407.76,
+      "end": 2416.48,
+      "speaker": "SPEAKER_00",
+      "text": "market sizing and on the face of it the core math to be done ended up not being that complex."
+    },
+    {
+      "start": 2416.48,
+      "end": 2423.5200000000004,
+      "speaker": "SPEAKER_00",
+      "text": "I had household data and then we had interest interest data kind of frequency of purchase price"
+    },
+    {
+      "start": 2423.5200000000004,
+      "end": 2430.96,
+      "speaker": "SPEAKER_00",
+      "text": "points penetration and market share but it does when I when I don't just hand you that information"
+    },
+    {
+      "start": 2430.96,
+      "end": 2436.32,
+      "speaker": "SPEAKER_00",
+      "text": "it takes a while to get there. However with that being said it took a little long to get there it"
+    },
+    {
+      "start": 2436.32,
+      "end": 2443.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "took about almost 18 minutes to get through that question which of course for any math section"
+    },
+    {
+      "start": 2443.6000000000004,
+      "end": 2448.88,
+      "speaker": "SPEAKER_00",
+      "text": "when it's over 10 we really have to look at it and think about where could I have streamlined where"
+    },
+    {
+      "start": 2448.88,
+      "end": 2456.0,
+      "speaker": "SPEAKER_00",
+      "text": "did I go sideways where was this going wrong. I've seen I've seen this done in other cases it's"
+    },
+    {
+      "start": 2456.0,
+      "end": 2462.32,
+      "speaker": "SPEAKER_00",
+      "text": "like I give you I give you household data and then you kind of wanted to go backwards. Well"
+    },
+    {
+      "start": 2462.96,
+      "end": 2467.28,
+      "speaker": "SPEAKER_00",
+      "text": "how what's the size per household how can then I figure out population and it's like no you"
+    },
+    {
+      "start": 2467.28,
+      "end": 2473.36,
+      "speaker": "SPEAKER_00",
+      "text": "already talked me through in a forward motion like how we might use data like this like go ahead"
+    },
+    {
+      "start": 2473.36,
+      "end": 2479.1200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "and just take the data and run with it and you know that didn't that didn't suck up too much time"
+    },
+    {
+      "start": 2479.1200000000003,
+      "end": 2483.92,
+      "speaker": "SPEAKER_00",
+      "text": "but it was like okay let's just use households what if you just use that as your segmentation step"
+    },
+    {
+      "start": 2483.92,
+      "end": 2491.1200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "what would you do with that moving forward. So okay 50% of of households might be interested at three"
+    },
+    {
+      "start": 2491.12,
+      "end": 2496.72,
+      "speaker": "SPEAKER_00",
+      "text": "per month product cost of two dollars per can so we got through those things pretty quickly"
+    },
+    {
+      "start": 2496.72,
+      "end": 2502.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "and then I did from a business acumen perspective I wanted to push on you a little bit to see if you"
+    },
+    {
+      "start": 2502.3199999999997,
+      "end": 2508.64,
+      "speaker": "SPEAKER_00",
+      "text": "could get to penetration rates or see if you could get to that concept and while we didn't get there"
+    },
+    {
+      "start": 2508.64,
+      "end": 2515.12,
+      "speaker": "SPEAKER_00",
+      "text": "we didn't get there exactly. You still gave some you still gave some good thinking you didn't shrink"
+    },
+    {
+      "start": 2515.12,
+      "end": 2521.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "in that moment you just sat there and engaged on the problem with me and frankly for everybody"
+    },
+    {
+      "start": 2521.2799999999997,
+      "end": 2528.08,
+      "speaker": "SPEAKER_00",
+      "text": "on the call listening I know the majority of you are MBA candidates and so hear me when I say my"
+    },
+    {
+      "start": 2529.52,
+      "end": 2537.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "my bar is different for Edward since he's a junior in an undergrad versus an MBA candidate"
+    },
+    {
+      "start": 2537.3599999999997,
+      "end": 2542.64,
+      "speaker": "SPEAKER_00",
+      "text": "right but I would have expected at least this level of engagement and discussion from an MBA candidate"
+    },
+    {
+      "start": 2542.64,
+      "end": 2547.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "and I would have hoped from an MBA candidate that the getting to and thinking about wrapping your"
+    },
+    {
+      "start": 2547.7599999999998,
+      "end": 2554.64,
+      "speaker": "SPEAKER_00",
+      "text": "head around the the concept of the marketing and sales funnel penetration rates perhaps you know"
+    },
+    {
+      "start": 2554.64,
+      "end": 2562.0,
+      "speaker": "SPEAKER_00",
+      "text": "a little bit more of some of the options around NPV or you know terminal value that those things"
+    },
+    {
+      "start": 2562.0,
+      "end": 2567.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "might have come a little bit easier for this one talking about penetration rate it's like okay"
+    },
+    {
+      "start": 2567.84,
+      "end": 2572.32,
+      "speaker": "SPEAKER_00",
+      "text": "I would have liked it would have been a nice to have for us to get there but that wasn't that"
+    },
+    {
+      "start": 2572.32,
+      "end": 2580.8,
+      "speaker": "SPEAKER_00",
+      "text": "wasn't a deal breaker for an MBA candidate it'd be a little bit closer to a deal breaker you had"
+    },
+    {
+      "start": 2580.8,
+      "end": 2585.28,
+      "speaker": "SPEAKER_00",
+      "text": "already at that point you had jumped in and started to talk about the concept of market share"
+    },
+    {
+      "start": 2585.28,
+      "end": 2592.0,
+      "speaker": "SPEAKER_00",
+      "text": "translating that to Mexico I gave you you did really well to pick up on all the contextual clues"
+    },
+    {
+      "start": 2592.0,
+      "end": 2597.6800000000003,
+      "speaker": "SPEAKER_00",
+      "text": "that I dropped throughout the wording and phrasing the kind of comparison points or examples that I"
+    },
+    {
+      "start": 2597.68,
+      "end": 2604.08,
+      "speaker": "SPEAKER_00",
+      "text": "used well let's go back and look at that again well I heard you say xyz so let's think about it in"
+    },
+    {
+      "start": 2604.08,
+      "end": 2611.04,
+      "speaker": "SPEAKER_00",
+      "text": "that way and that just that that type of active listening is really important and I thought was"
+    },
+    {
+      "start": 2611.04,
+      "end": 2617.52,
+      "speaker": "SPEAKER_00",
+      "text": "very impressive today because that allowed you to fast track along some of these elements so you"
+    },
+    {
+      "start": 2617.52,
+      "end": 2626.64,
+      "speaker": "SPEAKER_00",
+      "text": "did you solve towards that 270 million and then when you get to these calculations I wanted to be"
+    },
+    {
+      "start": 2626.64,
+      "end": 2632.64,
+      "speaker": "SPEAKER_00",
+      "text": "a little bit more of an immediate trigger for you to layer on insights what does this mean what"
+    },
+    {
+      "start": 2632.64,
+      "end": 2636.8799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "put that in context and you did say something like why I don't feel like I can really put this in"
+    },
+    {
+      "start": 2636.8799999999997,
+      "end": 2645.12,
+      "speaker": "SPEAKER_00",
+      "text": "context until I know xyz I just I want you to try and lean into that type of thinking a little bit"
+    },
+    {
+      "start": 2645.12,
+      "end": 2653.12,
+      "speaker": "SPEAKER_00",
+      "text": "faster and especially on the the second math portion when we ended up calculating an NPV of 11.25"
+    },
+    {
+      "start": 2653.12,
+      "end": 2659.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "it was like you gave me just enough time for me to spit out what do you think about that right which"
+    },
+    {
+      "start": 2659.2799999999997,
+      "end": 2665.04,
+      "speaker": "SPEAKER_00",
+      "text": "is like you never you want me to never have to do that like you automatically are moving into let"
+    },
+    {
+      "start": 2665.04,
+      "end": 2672.24,
+      "speaker": "SPEAKER_00",
+      "text": "me put that in context what's the so what what does that mean what's the implication how to you know"
+    },
+    {
+      "start": 2672.24,
+      "end": 2678.64,
+      "speaker": "SPEAKER_00",
+      "text": "does that change my perspective or hypothesis on the case objective etc etc um through the math"
+    },
+    {
+      "start": 2679.6,
+      "end": 2688.0,
+      "speaker": "SPEAKER_00",
+      "text": "a knit that I have for you is you calculated math equations mostly correctly um and then when you"
+    },
+    {
+      "start": 2688.0,
+      "end": 2696.4,
+      "speaker": "SPEAKER_00",
+      "text": "got to some of these final numbers you would say it's about 900 it's about 20.25 it's about 11.25"
+    },
+    {
+      "start": 2696.4,
+      "end": 2703.2,
+      "speaker": "SPEAKER_00",
+      "text": "it's like no it's exactly that I mean because you did the full calculation and so when I hear that"
+    },
+    {
+      "start": 2703.2,
+      "end": 2710.08,
+      "speaker": "SPEAKER_00",
+      "text": "you may not mean anything by it but to me it sounds like you're questioning your your confidence"
+    },
+    {
+      "start": 2710.64,
+      "end": 2716.56,
+      "speaker": "SPEAKER_00",
+      "text": "um and so it will come across to me as having greater executive presence and greater confidence"
+    },
+    {
+      "start": 2716.56,
+      "end": 2723.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "if you can strike that from your language um to not speak to you know not not question yourself"
+    },
+    {
+      "start": 2723.2799999999997,
+      "end": 2728.48,
+      "speaker": "SPEAKER_00",
+      "text": "not have it sound like you're questioning yourself in that moment yeah so the the main reason"
+    },
+    {
+      "start": 2728.56,
+      "end": 2734.96,
+      "speaker": "SPEAKER_01",
+      "text": "I was saying about then and maybe this is me approaching it wrong was obviously we've estimated"
+    },
+    {
+      "start": 2736.0,
+      "end": 2744.08,
+      "speaker": "SPEAKER_01",
+      "text": "the 270 million because we it's not exactly 270 million dollars right so I think from there it was"
+    },
+    {
+      "start": 2744.08,
+      "end": 2751.52,
+      "speaker": "SPEAKER_01",
+      "text": "like about this but you're I guess what you're saying is if it's a calculation on two estimates even"
+    },
+    {
+      "start": 2751.52,
+      "end": 2756.48,
+      "speaker": "SPEAKER_01",
+      "text": "if it's still an estimate if you've done the full calculation I should still say it is this instead"
+    },
+    {
+      "start": 2756.48,
+      "end": 2763.76,
+      "speaker": "SPEAKER_00",
+      "text": "of yeah you could say our estimate is or our projection is right I mean it's not I understand what"
+    },
+    {
+      "start": 2763.76,
+      "end": 2769.84,
+      "speaker": "SPEAKER_00",
+      "text": "you're saying that there's not full certainty in the robustness of the data yet the way that it"
+    },
+    {
+      "start": 2769.84,
+      "end": 2776.16,
+      "speaker": "SPEAKER_00",
+      "text": "comes across is that you would be questioning your approach or your calculations and that's not what"
+    },
+    {
+      "start": 2776.16,
+      "end": 2781.28,
+      "speaker": "SPEAKER_00",
+      "text": "we want so I hear what you're saying though uh two other quick comments and then let's take a"
+    },
+    {
+      "start": 2781.28,
+      "end": 2790.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "couple questions from the group one is on the creative question um we uh let me let me backtrack"
+    },
+    {
+      "start": 2790.0800000000004,
+      "end": 2797.36,
+      "speaker": "SPEAKER_00",
+      "text": "I have three more quick comments so first is on the creative uh you you almost in in in in"
+    },
+    {
+      "start": 2797.36,
+      "end": 2802.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "practicality you almost got to joint venture you talked through outsourcing kind of a"
+    },
+    {
+      "start": 2802.1600000000003,
+      "end": 2807.44,
+      "speaker": "SPEAKER_00",
+      "text": "partnership type model it was like okay I'm not going to press you any further to see if I can"
+    },
+    {
+      "start": 2807.44,
+      "end": 2811.76,
+      "speaker": "SPEAKER_00",
+      "text": "get you to say the words joint venture or partnership because you were getting to all of the key"
+    },
+    {
+      "start": 2811.76,
+      "end": 2817.68,
+      "speaker": "SPEAKER_00",
+      "text": "principles there and I thought that you had a lot of good brainstorming along the way uh as a part"
+    },
+    {
+      "start": 2817.68,
+      "end": 2823.04,
+      "speaker": "SPEAKER_00",
+      "text": "of that one thing that you risk by not writing anything down as you go through a question like that"
+    },
+    {
+      "start": 2823.04,
+      "end": 2829.36,
+      "speaker": "SPEAKER_00",
+      "text": "is that okay in the next step then I tell you oh the client does actually want to do a lot of what"
+    },
+    {
+      "start": 2829.36,
+      "end": 2836.56,
+      "speaker": "SPEAKER_00",
+      "text": "you described in outsourcing you didn't you didn't have access to easy access to some of the key"
+    },
+    {
+      "start": 2836.56,
+      "end": 2841.52,
+      "speaker": "SPEAKER_00",
+      "text": "thoughts that you had in that category to let's say perhaps bring that back into your recommendation"
+    },
+    {
+      "start": 2841.52,
+      "end": 2848.48,
+      "speaker": "SPEAKER_00",
+      "text": "at the very end yes and so I think that that's where writing down just key words and phrases as"
+    },
+    {
+      "start": 2848.48,
+      "end": 2853.04,
+      "speaker": "SPEAKER_00",
+      "text": "you're going through that answer can be really helpful of course in this instance you came up with"
+    },
+    {
+      "start": 2853.04,
+      "end": 2858.88,
+      "speaker": "SPEAKER_00",
+      "text": "the categories first and then you were able to populate within them but especially in a in an"
+    },
+    {
+      "start": 2858.88,
+      "end": 2862.56,
+      "speaker": "SPEAKER_00",
+      "text": "occasion where you're just coming up with the ideas first then I think it's even more important to"
+    },
+    {
+      "start": 2862.56,
+      "end": 2868.72,
+      "speaker": "SPEAKER_00",
+      "text": "take down those key words and phrases as you go through um second thought when we got to terminal"
+    },
+    {
+      "start": 2868.72,
+      "end": 2875.6,
+      "speaker": "SPEAKER_00",
+      "text": "value on the MBA side and the undergrad side I would say it's a nice to have if somebody knew the"
+    },
+    {
+      "start": 2875.6,
+      "end": 2883.2,
+      "speaker": "SPEAKER_00",
+      "text": "calculation and could lean in but in this case uh for a first year MBA candidate I would say"
+    },
+    {
+      "start": 2884.16,
+      "end": 2889.04,
+      "speaker": "SPEAKER_00",
+      "text": "if I have to walk you through that calculation it's not the end of the world but I would hope that"
+    },
+    {
+      "start": 2889.04,
+      "end": 2894.4,
+      "speaker": "SPEAKER_00",
+      "text": "anybody responds the way that Edward did today which is okay yeah no I do remember that it's just"
+    },
+    {
+      "start": 2894.96,
+      "end": 2900.88,
+      "speaker": "SPEAKER_00",
+      "text": "not shriveling not backing not backing down leaning into the conversation with curiosity being"
+    },
+    {
+      "start": 2900.88,
+      "end": 2906.0,
+      "speaker": "SPEAKER_00",
+      "text": "inquisitive about it and just challenging themselves with you know what light ahead in that sense"
+    },
+    {
+      "start": 2906.8,
+      "end": 2912.0,
+      "speaker": "SPEAKER_00",
+      "text": "uh and then finally on the recommendation I want you to be more direct I want you to be more powerful"
+    },
+    {
+      "start": 2912.0,
+      "end": 2918.16,
+      "speaker": "SPEAKER_00",
+      "text": "with and and I I'm fine with how you lean you know you kind of worked up towards the recommendation"
+    },
+    {
+      "start": 2918.8799999999997,
+      "end": 2924.0,
+      "speaker": "SPEAKER_00",
+      "text": "we looked at this we kind of learned to this these some of the dynamics in play so I think it's"
+    },
+    {
+      "start": 2924.0,
+      "end": 2931.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "attractive it's like so I think energy pop should move into the Nigerian market okay but you know"
+    },
+    {
+      "start": 2931.3599999999997,
+      "end": 2935.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "you may have risks and next steps there's of course things that we still need to do to be able to"
+    },
+    {
+      "start": 2935.3599999999997,
+      "end": 2942.64,
+      "speaker": "SPEAKER_01",
+      "text": "figure out whether or not it's truly a good opportunity should I leave with the um with the next like"
+    },
+    {
+      "start": 2942.64,
+      "end": 2947.92,
+      "speaker": "SPEAKER_01",
+      "text": "should I say you should do this because because because or should I give the reasons and then"
+    },
+    {
+      "start": 2947.92,
+      "end": 2952.8799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "the recommendation it doesn't make sense that would be like an answer first or an answer last strategy"
+    },
+    {
+      "start": 2952.8799999999997,
+      "end": 2958.56,
+      "speaker": "SPEAKER_00",
+      "text": "either one you're getting to the clear recommendation within the first you know 45 to 60 seconds"
+    },
+    {
+      "start": 2959.8399999999997,
+      "end": 2965.04,
+      "speaker": "SPEAKER_00",
+      "text": "some firms like it like a McKinsey is gonna really want you to lead with the statement first"
+    },
+    {
+      "start": 2965.04,
+      "end": 2970.64,
+      "speaker": "SPEAKER_00",
+      "text": "okay my current recommendation is energy pop should move into the Nigerian market because XYZ"
+    },
+    {
+      "start": 2971.12,
+      "end": 2977.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "um although that narrative approach to kind of lead up to the recommendation works at most other"
+    },
+    {
+      "start": 2977.3599999999997,
+      "end": 2984.08,
+      "speaker": "SPEAKER_00",
+      "text": "firms as well okay wonderful any other questions that you had before I take a look here at chats"
+    },
+    {
+      "start": 2984.08,
+      "end": 2992.0,
+      "speaker": "SPEAKER_01",
+      "text": "one question yeah definitely this case um I've done a few like this before not many what would be"
+    },
+    {
+      "start": 2992.0,
+      "end": 2996.96,
+      "speaker": "SPEAKER_01",
+      "text": "a good example of maybe a framework to use in the beginning phase because that's normally where I"
+    },
+    {
+      "start": 2996.96,
+      "end": 3002.96,
+      "speaker": "SPEAKER_01",
+      "text": "struggle is those initial setups I thrive a lot I feel like when I'm given the data and I can"
+    },
+    {
+      "start": 3002.96,
+      "end": 3007.84,
+      "speaker": "SPEAKER_01",
+      "text": "do stuff with it but it's those very broad oh you know what should they what should they address"
+    },
+    {
+      "start": 3007.84,
+      "end": 3015.04,
+      "speaker": "SPEAKER_00",
+      "text": "that I struggle with are you familiar with management consultants core frameworks uh I think I've"
+    },
+    {
+      "start": 3015.04,
+      "end": 3019.2,
+      "speaker": "SPEAKER_01",
+      "text": "looked over one or two I'm not sure if I know everything one but that's fine that's fine I mean we"
+    },
+    {
+      "start": 3019.2,
+      "end": 3024.16,
+      "speaker": "SPEAKER_00",
+      "text": "we've got a handful that we would say are the core frameworks one of which is the market study framework"
+    },
+    {
+      "start": 3024.16,
+      "end": 3029.04,
+      "speaker": "SPEAKER_00",
+      "text": "which is where we need to understand not only the elements of you know who a client is but the"
+    },
+    {
+      "start": 3029.04,
+      "end": 3035.04,
+      "speaker": "SPEAKER_00",
+      "text": "broader environment in which they sit so market competitor customer company product slash service"
+    },
+    {
+      "start": 3035.68,
+      "end": 3041.92,
+      "speaker": "SPEAKER_00",
+      "text": "that would be where I would start for this it's a market entry strategy there are more customized"
+    },
+    {
+      "start": 3041.92,
+      "end": 3048.0,
+      "speaker": "SPEAKER_00",
+      "text": "market entry strategy frameworks as well but we take the approach to start with a smaller number"
+    },
+    {
+      "start": 3048.0,
+      "end": 3054.0,
+      "speaker": "SPEAKER_00",
+      "text": "of core frameworks and to be able to customize within those and so from our approach it would be"
+    },
+    {
+      "start": 3054.0,
+      "end": 3065.76,
+      "speaker": "SPEAKER_00",
+      "text": "to start with that that market study framework wonderful perfect thank you"
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 12,
+    "math": 10,
+    "case_difficulty": 8,
+    "final_summary": 14,
+    "overall_thoughts": "You had some great ideas but struggled to implement them effectively in your summary."
+  }
+}

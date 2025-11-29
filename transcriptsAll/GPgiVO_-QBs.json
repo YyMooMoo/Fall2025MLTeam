@@ -1,0 +1,2042 @@
+[
+  {
+    "start": 0.0,
+    "end": 8.4,
+    "speaker": "SPEAKER_01",
+    "text": "Great. So one of the pieces that information about me is I'm a lead in our industrial"
+  },
+  {
+    "start": 8.4,
+    "end": 14.84,
+    "speaker": "SPEAKER_01",
+    "text": "practice. Case for going to step through today is inspired heavily by an actual case"
+  },
+  {
+    "start": 14.84,
+    "end": 19.48,
+    "speaker": "SPEAKER_01",
+    "text": "that we've completed. So it's a good example of how the kind of work that we do. It's"
+  },
+  {
+    "start": 19.48,
+    "end": 26.6,
+    "speaker": "SPEAKER_01",
+    "text": "a interesting one. And when I doubt you would have come across before. But basically, the"
+  },
+  {
+    "start": 26.6,
+    "end": 34.6,
+    "speaker": "SPEAKER_01",
+    "text": "focus in a private equity oriented consulting interview is less about coming to a recommendation"
+  },
+  {
+    "start": 34.6,
+    "end": 41.160000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "around, hey, we should go and, you know, we should build 50 more widgets or we should,"
+  },
+  {
+    "start": 41.160000000000004,
+    "end": 44.84,
+    "speaker": "SPEAKER_01",
+    "text": "you know, move this manufacturing plant there from here to there, something like that."
+  },
+  {
+    "start": 44.84,
+    "end": 49.6,
+    "speaker": "SPEAKER_01",
+    "text": "The focus here is should we or should we not invest in a business? And so just keep"
+  },
+  {
+    "start": 49.6,
+    "end": 56.44,
+    "speaker": "SPEAKER_01",
+    "text": "that in mind as we step through. Okay. Sounds good. Cool. So I'll read this to you."
+  },
+  {
+    "start": 56.44,
+    "end": 63.8,
+    "speaker": "SPEAKER_01",
+    "text": "The focus here is traffic doors. You've got a private equity client who's come to you"
+  },
+  {
+    "start": 63.8,
+    "end": 70.32,
+    "speaker": "SPEAKER_01",
+    "text": "with an unusual situation. And they're interested in investing in a startup that plans to manufacture"
+  },
+  {
+    "start": 70.32,
+    "end": 77.12,
+    "speaker": "SPEAKER_01",
+    "text": "traffic doors. Traffic doors are basically the doors you find at the back of restaurants,"
+  },
+  {
+    "start": 77.12,
+    "end": 83.56,
+    "speaker": "SPEAKER_01",
+    "text": "grocery stores, warehouse, et cetera. They flap the flappy doors. They're very mundane."
+  },
+  {
+    "start": 83.56,
+    "end": 91.88,
+    "speaker": "SPEAKER_01",
+    "text": "As you may not have noticed before all around you. They are the generally sold, I guess,"
+  },
+  {
+    "start": 91.88,
+    "end": 97.16,
+    "speaker": "SPEAKER_01",
+    "text": "just one thing to keep in mind, they're generally sold, you know, through distribution to"
+  },
+  {
+    "start": 97.16,
+    "end": 101.72,
+    "speaker": "SPEAKER_01",
+    "text": "and customers, although the manufacturers have a good sense and keep relationship with"
+  },
+  {
+    "start": 101.72,
+    "end": 107.36,
+    "speaker": "SPEAKER_01",
+    "text": "those end customers. And other thing to keep in mind here is that the startups not claiming"
+  },
+  {
+    "start": 107.36,
+    "end": 113.48,
+    "speaker": "SPEAKER_01",
+    "text": "any particular product advantage over their competitors, they are just saying, hey, we've"
+  },
+  {
+    "start": 113.48,
+    "end": 120.64,
+    "speaker": "SPEAKER_01",
+    "text": "got a new product. Same as everyone else's, maybe slightly different, but we think we"
+  },
+  {
+    "start": 120.64,
+    "end": 125.92,
+    "speaker": "SPEAKER_01",
+    "text": "can make a case here. Their question is basically, how attractive is the traffic door market"
+  },
+  {
+    "start": 125.92,
+    "end": 133.04,
+    "speaker": "SPEAKER_01",
+    "text": "and to should we invest in this particular startup? Okay. That is a very interesting case."
+  },
+  {
+    "start": 133.51999999999998,
+    "end": 137.12,
+    "speaker": "SPEAKER_00",
+    "text": "I've met that I've never seen something like this before, but all the more interesting,"
+  },
+  {
+    "start": 137.12,
+    "end": 142.16,
+    "speaker": "SPEAKER_00",
+    "text": "I suppose. So I'm just going to run through what you said just to hear that if we're on the same"
+  },
+  {
+    "start": 142.16,
+    "end": 151.28,
+    "speaker": "SPEAKER_00",
+    "text": "line here. So we are looking at a traffic door startup manufacturer. Traffic doors being casual,"
+  },
+  {
+    "start": 151.28,
+    "end": 155.2,
+    "speaker": "SPEAKER_00",
+    "text": "day-to-day doors that you might find in restaurants, grocery stores, hotels, et cetera."
+  },
+  {
+    "start": 155.35999999999999,
+    "end": 162.64,
+    "speaker": "SPEAKER_00",
+    "text": "The key word is mundane. There's no actual product advantage for this startup."
+  },
+  {
+    "start": 164.39999999999998,
+    "end": 168.48,
+    "speaker": "SPEAKER_00",
+    "text": "And they sell them to distribution centers who then sell them to the end customers."
+  },
+  {
+    "start": 169.44,
+    "end": 177.92,
+    "speaker": "SPEAKER_00",
+    "text": "And the question for us is, how attractive is the traffic door market? And should this"
+  },
+  {
+    "start": 177.92,
+    "end": 184.64,
+    "speaker": "SPEAKER_00",
+    "text": "PE firm invest in this startup? That's right. So what I'm going to do now is step through a few"
+  },
+  {
+    "start": 184.64,
+    "end": 191.2,
+    "speaker": "SPEAKER_01",
+    "text": "slides with specific questions that build towards the second part of that question there."
+  },
+  {
+    "start": 191.2,
+    "end": 198.48,
+    "speaker": "SPEAKER_01",
+    "text": "All right? Sure. Cool. First question is this, how would you think about sizing the traffic"
+  },
+  {
+    "start": 198.48,
+    "end": 203.67999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "door market? What specifically, what variables would you think about putting into a TAM equation?"
+  },
+  {
+    "start": 204.16,
+    "end": 210.56,
+    "speaker": "SPEAKER_01",
+    "text": "TAM being total addressable market, i.e. the available revenue for all the players who are selling"
+  },
+  {
+    "start": 210.56,
+    "end": 218.32,
+    "speaker": "SPEAKER_00",
+    "text": "into the market in a given year? Okay. So when trying to calculate the TAM for the traffic"
+  },
+  {
+    "start": 218.32,
+    "end": 222.8,
+    "speaker": "SPEAKER_00",
+    "text": "door market, I would look at a few variables. I'm going to run you through them and then actually"
+  },
+  {
+    "start": 222.8,
+    "end": 227.92000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "do the math itself. Just to make sure they're not calculating the wrong numbers. So I would start"
+  },
+  {
+    "start": 228.96,
+    "end": 234.24,
+    "speaker": "SPEAKER_00",
+    "text": "by asking, actually, if this is a domestic market that we're looking at or an international"
+  },
+  {
+    "start": 234.24,
+    "end": 239.68,
+    "speaker": "SPEAKER_00",
+    "text": "market, because that does change the scope of it. Good question. We're going to do U.S."
+  },
+  {
+    "start": 239.76000000000002,
+    "end": 243.12,
+    "speaker": "SPEAKER_01",
+    "text": "And don't worry about numbers just now. I'm going to share a little bit more of that"
+  },
+  {
+    "start": 243.12,
+    "end": 248.16,
+    "speaker": "SPEAKER_01",
+    "text": "than on this next slide. I just want at this point to get your thoughts around how generally"
+  },
+  {
+    "start": 248.16,
+    "end": 254.48000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "would you think about sizing it if you had numbers? Right. So starting with the U.S., I would look"
+  },
+  {
+    "start": 254.48000000000002,
+    "end": 260.32,
+    "speaker": "SPEAKER_00",
+    "text": "at all the businesses that fall under the appropriate target audience or target market. Like you"
+  },
+  {
+    "start": 260.32,
+    "end": 265.84000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "mentioned, these are hotels, grocery stores, restaurants. Then I would look at the average"
+  },
+  {
+    "start": 266.56,
+    "end": 274.64,
+    "speaker": "SPEAKER_00",
+    "text": "need for each one of these institutions for traffic doors. Do they? Is it a double size?"
+  },
+  {
+    "start": 277.84,
+    "end": 283.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "Is it two per room? How many rooms on average are there in these establishments? You probably"
+  },
+  {
+    "start": 283.59999999999997,
+    "end": 288.96,
+    "speaker": "SPEAKER_00",
+    "text": "have to come up with separate buckets for each category. Then you would look at replacement rates."
+  },
+  {
+    "start": 289.91999999999996,
+    "end": 295.76,
+    "speaker": "SPEAKER_00",
+    "text": "So how often these doors break down? And does that change based on the institution itself?"
+  },
+  {
+    "start": 296.56,
+    "end": 298.88,
+    "speaker": "SPEAKER_00",
+    "text": "Between the restaurants and grocery stores and hotels."
+  },
+  {
+    "start": 302.08,
+    "end": 307.52,
+    "speaker": "SPEAKER_00",
+    "text": "And then if so, are there bulk orders, perhaps that you order maybe like 10 for the next"
+  },
+  {
+    "start": 307.52,
+    "end": 314.08,
+    "speaker": "SPEAKER_00",
+    "text": "like five years? Or is it just you replace them as it goes on? And I would use, I would say,"
+  },
+  {
+    "start": 314.08,
+    "end": 320.55999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "that funnel scope to reach some sort of a final number in terms of the 10 on annual basis for the U.S."
+  },
+  {
+    "start": 320.56,
+    "end": 328.48,
+    "speaker": "SPEAKER_01",
+    "text": "Global, some U.S. traffic door market. Great. Awesome. I mean, you hit on a few things that are"
+  },
+  {
+    "start": 328.48,
+    "end": 335.2,
+    "speaker": "SPEAKER_01",
+    "text": "very relevant as we move to the next question here, which is, what bothers in data to help"
+  },
+  {
+    "start": 335.2,
+    "end": 341.68,
+    "speaker": "SPEAKER_01",
+    "text": "us size it. And my asked you is, we talked about this earlier. You're welcome to do this in Excel,"
+  },
+  {
+    "start": 341.68,
+    "end": 348.32,
+    "speaker": "SPEAKER_01",
+    "text": "just quickly given the compressed timeline here. But basically, take a look at this information"
+  },
+  {
+    "start": 348.32,
+    "end": 354.15999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "and tell me what you think as far as the the market size. Yeah. Okay. So we're seeing here the"
+  },
+  {
+    "start": 354.15999999999997,
+    "end": 361.2,
+    "speaker": "SPEAKER_00",
+    "text": "average lifespan of a traffic door is seven years. That's good. Then the wholesale price of a"
+  },
+  {
+    "start": 361.2,
+    "end": 368.64,
+    "speaker": "SPEAKER_00",
+    "text": "traffic door is $1,200. But that's contrast with the average retail price of a door, which is $1,400."
+  },
+  {
+    "start": 370.08,
+    "end": 378.08,
+    "speaker": "SPEAKER_00",
+    "text": "So I can assume here that we have a margin of around $200 for our client, just off the bat there."
+  },
+  {
+    "start": 379.12,
+    "end": 386.24,
+    "speaker": "SPEAKER_00",
+    "text": "The grocery store segment amounts for 50% of traffic door sales. Okay. That's interesting. So the"
+  },
+  {
+    "start": 386.24,
+    "end": 391.68,
+    "speaker": "SPEAKER_00",
+    "text": "other 50% would likely be the other categories he mentioned, like the restaurants or hotels."
+  },
+  {
+    "start": 393.28,
+    "end": 400.0,
+    "speaker": "SPEAKER_00",
+    "text": "And there are around 40,000 grocery stores in the U.S. Okay. On average, each grocery store has"
+  },
+  {
+    "start": 400.0,
+    "end": 405.52,
+    "speaker": "SPEAKER_00",
+    "text": "four traffic doors. Okay. So based on this data, it seems to me that we're zooming in on just"
+  },
+  {
+    "start": 405.52,
+    "end": 411.12,
+    "speaker": "SPEAKER_00",
+    "text": "the grocery store segment if there is a focus for our client there. And that new construction"
+  },
+  {
+    "start": 411.12,
+    "end": 416.56,
+    "speaker": "SPEAKER_00",
+    "text": "typically accounts for 5% of traffic door sales. So the majority is actually the replacement. That"
+  },
+  {
+    "start": 416.56,
+    "end": 427.35999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "is very interesting as well. Okay. So with these numbers, I would start by figuring out how big this"
+  },
+  {
+    "start": 427.35999999999996,
+    "end": 434.32,
+    "speaker": "SPEAKER_00",
+    "text": "grocery store segment is. Right. So it says this is 40k. I'm just going to jot down the numbers and"
+  },
+  {
+    "start": 434.32,
+    "end": 445.36,
+    "speaker": "SPEAKER_00",
+    "text": "then do the actual math in Excel. So that's 50%. So then you could assume that total institutions"
+  },
+  {
+    "start": 445.36,
+    "end": 454.08,
+    "speaker": "SPEAKER_00",
+    "text": "needing traffic doors are maybe 80k. But that is an assumption. And on each grocery store has four"
+  },
+  {
+    "start": 454.15999999999997,
+    "end": 467.44,
+    "speaker": "SPEAKER_00",
+    "text": "traffic doors. Okay. So say we take that 80k number, that would be 32,000 traffic doors. And"
+  },
+  {
+    "start": 469.03999999999996,
+    "end": 473.68,
+    "speaker": "SPEAKER_00",
+    "text": "new construction typically accounts for 5% of traffic door sales. Right. So we go back to the start."
+  },
+  {
+    "start": 474.88,
+    "end": 481.76,
+    "speaker": "SPEAKER_00",
+    "text": "If the average lifespan of the traffic door is seven years, then they need to be replaced every"
+  },
+  {
+    "start": 481.76,
+    "end": 486.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "seven years. So basically I'm going to divide this, I would divide this number by seven."
+  },
+  {
+    "start": 488.08,
+    "end": 496.32,
+    "speaker": "SPEAKER_00",
+    "text": "And then before multiplying that with the $200 margin, I would want to incorporate the 5%."
+  },
+  {
+    "start": 497.52,
+    "end": 506.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "So that's 5%. So the replacement is 95% of traffic door sales. Let's see here."
+  },
+  {
+    "start": 507.04,
+    "end": 510.24,
+    "speaker": "SPEAKER_02",
+    "text": "I'm going to have a full surprise."
+  },
+  {
+    "start": 520.08,
+    "end": 529.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. Okay. So perhaps I would calculate that number. And then I could multiply at times 1.05"
+  },
+  {
+    "start": 530.2399999999999,
+    "end": 536.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "to add on the new construction for the traffic, the other doors that are being constructed new."
+  },
+  {
+    "start": 538.16,
+    "end": 539.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Does that all make sense?"
+  },
+  {
+    "start": 541.68,
+    "end": 547.28,
+    "speaker": "SPEAKER_01",
+    "text": "So I think you mentioned you're going to multiply by margin $200. Tell me about that."
+  },
+  {
+    "start": 547.8399999999999,
+    "end": 550.56,
+    "speaker": "SPEAKER_01",
+    "text": "I really think about that. Is that the best way to do it?"
+  },
+  {
+    "start": 550.64,
+    "end": 560.7199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I guess, no, because that would be going towards more and more sort of a profit analysis for our client."
+  },
+  {
+    "start": 560.7199999999999,
+    "end": 569.28,
+    "speaker": "SPEAKER_00",
+    "text": "And we're just looking at the 10. Thank you for pointing that out. Okay. So trying to understand the"
+  },
+  {
+    "start": 569.28,
+    "end": 573.1199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "difference or how I could utilize the difference between the whole surprise and the retail price."
+  },
+  {
+    "start": 573.76,
+    "end": 584.08,
+    "speaker": "SPEAKER_00",
+    "text": "Given that our client is not selling to the end client, but to the distributors,"
+  },
+  {
+    "start": 585.36,
+    "end": 594.08,
+    "speaker": "SPEAKER_00",
+    "text": "I would utilize the $1,200 price to calculate a 10 for our client. Does that make sense?"
+  },
+  {
+    "start": 595.12,
+    "end": 600.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. I didn't read this, but the prompt that says you don't need to use all the information."
+  },
+  {
+    "start": 600.96,
+    "end": 605.12,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, perfect. That is so it's a red hairing. That is interesting. Okay."
+  },
+  {
+    "start": 606.72,
+    "end": 611.76,
+    "speaker": "SPEAKER_00",
+    "text": "Right. So I would instead of using the $200, I would do $1,200 in this case."
+  },
+  {
+    "start": 615.12,
+    "end": 616.4,
+    "speaker": "SPEAKER_00",
+    "text": "So I would do $1,200."
+  },
+  {
+    "start": 617.36,
+    "end": 629.52,
+    "speaker": "SPEAKER_00",
+    "text": "I would divide that by $12,000 times ADK for the total stores needed in needing traffic doors."
+  },
+  {
+    "start": 630.0799999999999,
+    "end": 636.72,
+    "speaker": "SPEAKER_00",
+    "text": "Then do that times four traffic doors per grocery store. I am making the assumption here,"
+  },
+  {
+    "start": 636.72,
+    "end": 641.84,
+    "speaker": "SPEAKER_00",
+    "text": "though, that the other 50% of traffic door sales are institutions that also make four traffic doors."
+  },
+  {
+    "start": 641.84,
+    "end": 647.12,
+    "speaker": "SPEAKER_00",
+    "text": "So if needed, I can also just focus on the grocery store segment and then make a more broad"
+  },
+  {
+    "start": 647.12,
+    "end": 656.64,
+    "speaker": "SPEAKER_00",
+    "text": "assumption about the other 50% of the sales. And then I would multiply that times 1.05 to account"
+  },
+  {
+    "start": 656.64,
+    "end": 665.36,
+    "speaker": "SPEAKER_01",
+    "text": "for the new construction. Got it. Got it. Okay. And what do you, if you math that out? Okay."
+  },
+  {
+    "start": 665.36,
+    "end": 670.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So you're mapping that out. Let me ask this. So I said not to use all the information, but"
+  },
+  {
+    "start": 670.88,
+    "end": 678.0,
+    "speaker": "SPEAKER_01",
+    "text": "is that is that all the doors that all the value of all doors being sold in the given year,"
+  },
+  {
+    "start": 678.0,
+    "end": 682.16,
+    "speaker": "SPEAKER_01",
+    "text": "or is that the value of all doors over a longer period of time for their calculating right now?"
+  },
+  {
+    "start": 684.24,
+    "end": 691.76,
+    "speaker": "SPEAKER_00",
+    "text": "Well, so if I were to divide that by seven, that would be the annual, I would say, replacement rate"
+  },
+  {
+    "start": 692.24,
+    "end": 701.28,
+    "speaker": "SPEAKER_00",
+    "text": "for the traffic doors. Because I'm assuming yes, there's no, yeah, that's the only year spent mentioned."
+  },
+  {
+    "start": 701.68,
+    "end": 705.28,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. Got it. Okay. So let's map that out and see what we get to."
+  },
+  {
+    "start": 706.0,
+    "end": 715.2,
+    "speaker": "SPEAKER_03",
+    "text": "All right. So starting here with $1,200, folks, I can't see this. I'm doing this next"
+  },
+  {
+    "start": 715.2,
+    "end": 725.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "out right now. I mean, multiply that by, so you up to options, I can multiply just with the grocery"
+  },
+  {
+    "start": 725.6800000000001,
+    "end": 731.36,
+    "speaker": "SPEAKER_00",
+    "text": "store segment, or I can multiply it, assuming that the other segment is the same margin, but I can"
+  },
+  {
+    "start": 731.36,
+    "end": 737.2800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "start with just a grocery store segment. Yeah, that's probably a good idea. Okay. So 40,000,"
+  },
+  {
+    "start": 737.28,
+    "end": 751.8399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "which gives us 4,800,000, then we are going to multiply that by four traffic doors,"
+  },
+  {
+    "start": 758.0799999999999,
+    "end": 761.92,
+    "speaker": "SPEAKER_02",
+    "text": "which gives us 1.92 million. Is that right?"
+  },
+  {
+    "start": 767.76,
+    "end": 777.92,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, that's right. And then we're going to do that times 1.5 to construct. No, not 1.5, we're first"
+  },
+  {
+    "start": 777.92,
+    "end": 791.4399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "going to divide that by seven to count for the lifespan, which gives us a very uneven number."
+  },
+  {
+    "start": 792.08,
+    "end": 804.8800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Two, so that's, let's see here. That's around 274K. Correct. No, it's more."
+  },
+  {
+    "start": 807.7600000000001,
+    "end": 813.2,
+    "speaker": "SPEAKER_00",
+    "text": "Colleges, I think I misread the earlier numbers. The early number would be 19,000, 19.2."
+  },
+  {
+    "start": 813.2,
+    "end": 818.6400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And now we have 2.7 on annual basis, and that's just for the replacements."
+  },
+  {
+    "start": 819.52,
+    "end": 822.8,
+    "speaker": "SPEAKER_00",
+    "text": "So we're going to multiply that times 1.5."
+  },
+  {
+    "start": 825.4399999999999,
+    "end": 831.68,
+    "speaker": "SPEAKER_02",
+    "text": "This is 1.05 for apologies, which gives us 2.88 million."
+  },
+  {
+    "start": 834.8,
+    "end": 844.48,
+    "speaker": "SPEAKER_00",
+    "text": "And that is the, so 2.8 million is the time just for the grocery store traffic doors on annual basis."
+  },
+  {
+    "start": 844.48,
+    "end": 850.4,
+    "speaker": "SPEAKER_00",
+    "text": "If you made the assumption that that's half of the market, that would give you a round number of"
+  },
+  {
+    "start": 851.28,
+    "end": 858.88,
+    "speaker": "SPEAKER_00",
+    "text": "5.6 million on average. But 2.8 is just for the grocery stores."
+  },
+  {
+    "start": 859.52,
+    "end": 862.88,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, let's say it's one more time. So you said 40,000."
+  },
+  {
+    "start": 864.24,
+    "end": 867.28,
+    "speaker": "SPEAKER_01",
+    "text": "Yes. Times four. Times four."
+  },
+  {
+    "start": 867.28,
+    "end": 871.52,
+    "speaker": "SPEAKER_01",
+    "text": "Right. And then you want to buy price, 1200."
+  },
+  {
+    "start": 872.0,
+    "end": 874.56,
+    "speaker": "SPEAKER_01",
+    "text": "Right. And you got to 192 million."
+  },
+  {
+    "start": 875.76,
+    "end": 880.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yes. Got it. And then you multiplied by 1.05. You said?"
+  },
+  {
+    "start": 882.56,
+    "end": 887.52,
+    "speaker": "SPEAKER_00",
+    "text": "Yes. No, I first had to buy it by 7 because I didn't want to incorporate the new construction"
+  },
+  {
+    "start": 887.52,
+    "end": 893.76,
+    "speaker": "SPEAKER_00",
+    "text": "into the replacement rate. So I divided by 7. So that gave me 27 million."
+  },
+  {
+    "start": 894.3199999999999,
+    "end": 902.0,
+    "speaker": "SPEAKER_01",
+    "text": "Got it. And you got to 27 million. And then you applied, then you applied the 0.95,"
+  },
+  {
+    "start": 902.0,
+    "end": 903.84,
+    "speaker": "SPEAKER_01",
+    "text": "0.105."
+  },
+  {
+    "start": 904.56,
+    "end": 907.28,
+    "speaker": "SPEAKER_01",
+    "text": "Correct. And that gave me 28.8 million."
+  },
+  {
+    "start": 907.28,
+    "end": 911.68,
+    "speaker": "SPEAKER_01",
+    "text": "Got it. 28.8 million. Got it. And then you multiplied that by 2 to get the full market."
+  },
+  {
+    "start": 911.68,
+    "end": 914.16,
+    "speaker": "SPEAKER_01",
+    "text": "Correct. Right. I was missed as zero there."
+  },
+  {
+    "start": 914.88,
+    "end": 917.04,
+    "speaker": "SPEAKER_01",
+    "text": "Got it. Okay. That's how I was confused. Great."
+  },
+  {
+    "start": 917.84,
+    "end": 921.12,
+    "speaker": "SPEAKER_01",
+    "text": "Cool. Great. That's where we want to get to."
+  },
+  {
+    "start": 922.08,
+    "end": 924.0,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to move on to the next question here."
+  },
+  {
+    "start": 926.16,
+    "end": 928.88,
+    "speaker": "SPEAKER_01",
+    "text": "Now you know how big the market is. $28 million market."
+  },
+  {
+    "start": 929.76,
+    "end": 931.84,
+    "speaker": "SPEAKER_01",
+    "text": "For grocery, we say double that."
+  },
+  {
+    "start": 931.84,
+    "end": 934.32,
+    "speaker": "SPEAKER_01",
+    "text": "$58 million like that for the whole thing."
+  },
+  {
+    "start": 936.16,
+    "end": 944.16,
+    "speaker": "SPEAKER_01",
+    "text": "Your startup comment target, basically, they're bringing this,"
+  },
+  {
+    "start": 944.16,
+    "end": 946.0,
+    "speaker": "SPEAKER_01",
+    "text": "you've done some homework on the market."
+  },
+  {
+    "start": 946.72,
+    "end": 949.76,
+    "speaker": "SPEAKER_01",
+    "text": "Let's just look at this exhibit here."
+  },
+  {
+    "start": 949.76,
+    "end": 955.12,
+    "speaker": "SPEAKER_01",
+    "text": "And have a think what it might imply about why they want to do this startup"
+  },
+  {
+    "start": 955.6,
+    "end": 959.04,
+    "speaker": "SPEAKER_01",
+    "text": "and what their prospects for succeeding with that startup are."
+  },
+  {
+    "start": 959.84,
+    "end": 962.88,
+    "speaker": "SPEAKER_01",
+    "text": "No math, no, just just read a workshop here."
+  },
+  {
+    "start": 963.76,
+    "end": 970.4,
+    "speaker": "SPEAKER_00",
+    "text": "Right. Okay. So we're seeing here that there's basically four major brands in this market"
+  },
+  {
+    "start": 971.12,
+    "end": 975.52,
+    "speaker": "SPEAKER_00",
+    "text": "that constitute 90% of the total market and 10% rest for the other brand."
+  },
+  {
+    "start": 976.0799999999999,
+    "end": 978.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So that's a pretty consolidated market actually."
+  },
+  {
+    "start": 978.3199999999999,
+    "end": 980.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "If I was a new entrant, that would scare me a little."
+  },
+  {
+    "start": 982.16,
+    "end": 986.16,
+    "speaker": "SPEAKER_00",
+    "text": "Because it would be tough to fight for a piece of the pie when there's just four players"
+  },
+  {
+    "start": 986.16,
+    "end": 987.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "that hold the majority of it."
+  },
+  {
+    "start": 989.84,
+    "end": 994.4,
+    "speaker": "SPEAKER_00",
+    "text": "Now brand A on top of that also almost as close to"
+  },
+  {
+    "start": 996.16,
+    "end": 997.84,
+    "speaker": "SPEAKER_00",
+    "text": "half of that market, so 40%."
+  },
+  {
+    "start": 998.24,
+    "end": 1004.32,
+    "speaker": "SPEAKER_00",
+    "text": "So that seems to be like a monopolized market almost for brand A."
+  },
+  {
+    "start": 1005.9200000000001,
+    "end": 1012.64,
+    "speaker": "SPEAKER_00",
+    "text": "So if I was a new entrant, you would have to break that market share up for any of these new,"
+  },
+  {
+    "start": 1012.64,
+    "end": 1016.88,
+    "speaker": "SPEAKER_00",
+    "text": "these these established players in this market."
+  },
+  {
+    "start": 1017.6,
+    "end": 1021.2800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "But then looking at the other graph, we see customer satisfaction."
+  },
+  {
+    "start": 1022.08,
+    "end": 1026.56,
+    "speaker": "SPEAKER_00",
+    "text": "And here there's some variants where brand B,"
+  },
+  {
+    "start": 1028.1599999999999,
+    "end": 1032.32,
+    "speaker": "SPEAKER_00",
+    "text": "seems to have, let's see what the metrics being used."
+  },
+  {
+    "start": 1032.32,
+    "end": 1034.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So it's sample of customers interviewed by your team."
+  },
+  {
+    "start": 1034.8799999999999,
+    "end": 1039.36,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. With five being highly satisfied and zero being unsatisfied."
+  },
+  {
+    "start": 1040.48,
+    "end": 1043.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "So that's on Y axis and on the X axis."
+  },
+  {
+    "start": 1043.9199999999998,
+    "end": 1046.1599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, it's, I would say the number of interviews done."
+  },
+  {
+    "start": 1047.04,
+    "end": 1056.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. So that's interesting that the sample size also differ differences between the brands."
+  },
+  {
+    "start": 1057.3600000000001,
+    "end": 1063.0400000000002,
+    "speaker": "SPEAKER_00",
+    "text": "And so brand B is not only very popular amongst those interviewed, but is also the most"
+  },
+  {
+    "start": 1063.0400000000002,
+    "end": 1069.2800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "interviewed. So that seems to be more trustworthy than for example brand D who only has two interviews."
+  },
+  {
+    "start": 1071.52,
+    "end": 1075.92,
+    "speaker": "SPEAKER_00",
+    "text": "So that's telling me that for example brand A or"
+  },
+  {
+    "start": 1078.24,
+    "end": 1084.8000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "brand C which are on the lower side might be vulnerable to new entrants who could steal some"
+  },
+  {
+    "start": 1084.8,
+    "end": 1092.32,
+    "speaker": "SPEAKER_00",
+    "text": "market share there. Whereas brand B seems to be very solid. Now brand E, I believe would belong to"
+  },
+  {
+    "start": 1092.32,
+    "end": 1099.84,
+    "speaker": "SPEAKER_00",
+    "text": "the all the other brands and as a poor customer satisfaction comparison to the others."
+  },
+  {
+    "start": 1101.12,
+    "end": 1106.96,
+    "speaker": "SPEAKER_00",
+    "text": "But again, this is relative because all of them are close to five, like around four and up."
+  },
+  {
+    "start": 1108.48,
+    "end": 1112.56,
+    "speaker": "SPEAKER_00",
+    "text": "And that makes sense in my mind because we're talking about traffic doors. There's not a lot of"
+  },
+  {
+    "start": 1113.28,
+    "end": 1118.32,
+    "speaker": "SPEAKER_00",
+    "text": "customer preference or tailoring when you talk about traffic doors. It just needs to do what it needs"
+  },
+  {
+    "start": 1118.32,
+    "end": 1125.2,
+    "speaker": "SPEAKER_00",
+    "text": "to do, which is open and closed properly. So that also might add to an extra barrier to a new"
+  },
+  {
+    "start": 1125.2,
+    "end": 1131.28,
+    "speaker": "SPEAKER_00",
+    "text": "entrance. There's not a lot of room for differentiation here. So if I was a new entrance, I would"
+  },
+  {
+    "start": 1131.28,
+    "end": 1137.12,
+    "speaker": "SPEAKER_00",
+    "text": "want to understand maybe why the other brands are receiving lower ratings than brand B."
+  },
+  {
+    "start": 1137.76,
+    "end": 1145.6,
+    "speaker": "SPEAKER_00",
+    "text": "And to understand if there is some way to offer a better product or to differentiate"
+  },
+  {
+    "start": 1145.6,
+    "end": 1147.84,
+    "speaker": "SPEAKER_00",
+    "text": "even though this is not looking too promising."
+  },
+  {
+    "start": 1149.36,
+    "end": 1156.8,
+    "speaker": "SPEAKER_01",
+    "text": "On the left side of the exhibit with the consolidation that you highlighted before, tell me"
+  },
+  {
+    "start": 1158.2399999999998,
+    "end": 1167.04,
+    "speaker": "SPEAKER_01",
+    "text": "if you are a customer of, let's say your ex Wal-Mart, are you happy about that situation?"
+  },
+  {
+    "start": 1167.84,
+    "end": 1169.04,
+    "speaker": "SPEAKER_01",
+    "text": "Or are you not happy?"
+  },
+  {
+    "start": 1170.08,
+    "end": 1175.52,
+    "speaker": "SPEAKER_00",
+    "text": "No, no. This probably is not in the favor of customers because besides,"
+  },
+  {
+    "start": 1177.28,
+    "end": 1181.76,
+    "speaker": "SPEAKER_00",
+    "text": "they're just being four major brands constituting 90% of the market."
+  },
+  {
+    "start": 1181.76,
+    "end": 1188.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Brand A, B and C are also owned by the same parent company. So they can drive the price up as much"
+  },
+  {
+    "start": 1188.3999999999999,
+    "end": 1195.6,
+    "speaker": "SPEAKER_00",
+    "text": "as they like in the situation. And as a customer, you probably suffer a lot. So that might hint that"
+  },
+  {
+    "start": 1195.6,
+    "end": 1200.7199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "there is room for competitive pricing. But if you were a new entrance and you could"
+  },
+  {
+    "start": 1201.84,
+    "end": 1207.52,
+    "speaker": "SPEAKER_00",
+    "text": "manufacture these doors at cheap cost, you could steal significant percentage from these other brands."
+  },
+  {
+    "start": 1209.4399999999998,
+    "end": 1213.28,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, but so that would be an interesting option to look into."
+  },
+  {
+    "start": 1214.08,
+    "end": 1219.36,
+    "speaker": "SPEAKER_01",
+    "text": "Got it, okay. That's helpful. And based on the right hand side, how do you feel"
+  },
+  {
+    "start": 1219.52,
+    "end": 1225.76,
+    "speaker": "SPEAKER_01",
+    "text": "just taking this as a sort of a flash, a higher level sort of data input?"
+  },
+  {
+    "start": 1226.3999999999999,
+    "end": 1233.04,
+    "speaker": "SPEAKER_01",
+    "text": "How do you feel the brands actually are digesting that potential price risk?"
+  },
+  {
+    "start": 1233.04,
+    "end": 1235.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "What's their perception that price risk right now?"
+  },
+  {
+    "start": 1239.1999999999998,
+    "end": 1246.08,
+    "speaker": "SPEAKER_00",
+    "text": "So let's see. I think given the higher customer satisfaction ratings,"
+  },
+  {
+    "start": 1246.8,
+    "end": 1253.84,
+    "speaker": "SPEAKER_00",
+    "text": "I don't think that they'd see this as a big threat at all. If customers were reacting poorly,"
+  },
+  {
+    "start": 1253.84,
+    "end": 1260.96,
+    "speaker": "SPEAKER_00",
+    "text": "then that would show on this graph. And that would mean that there is a danger for competitive"
+  },
+  {
+    "start": 1260.96,
+    "end": 1268.08,
+    "speaker": "SPEAKER_00",
+    "text": "pricing. But if customers are happy with their product, then perhaps it doesn't matter for them too"
+  },
+  {
+    "start": 1268.08,
+    "end": 1273.84,
+    "speaker": "SPEAKER_00",
+    "text": "much the competitiveness of the price. So that isn't interesting."
+  },
+  {
+    "start": 1274.0,
+    "end": 1281.12,
+    "speaker": "SPEAKER_00",
+    "text": "Remark there that perhaps the customers are not the price in elastic."
+  },
+  {
+    "start": 1283.04,
+    "end": 1290.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Possibly. Is it also possible that this is a benevolent monopoly that's been maintaining price,"
+  },
+  {
+    "start": 1290.6399999999999,
+    "end": 1297.1999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "not taking it? It could be. It could be. I would be surprised as I've not seen too many benevolent"
+  },
+  {
+    "start": 1297.2,
+    "end": 1303.76,
+    "speaker": "SPEAKER_00",
+    "text": "monopolies, but perhaps this is just an industry where the product gets built and gets built well."
+  },
+  {
+    "start": 1304.88,
+    "end": 1311.04,
+    "speaker": "SPEAKER_00",
+    "text": "And it's just done by a few companies all owned by the same parent company. And it's not too much"
+  },
+  {
+    "start": 1311.04,
+    "end": 1316.32,
+    "speaker": "SPEAKER_00",
+    "text": "of a price war anyway. And that serves the customers. It could very much be like that. Yes."
+  },
+  {
+    "start": 1317.04,
+    "end": 1326.8,
+    "speaker": "SPEAKER_01",
+    "text": "Well, moving on to the next question here. The startups founder as preexisting relationships"
+  },
+  {
+    "start": 1326.8,
+    "end": 1332.72,
+    "speaker": "SPEAKER_01",
+    "text": "with several of these large grocery chains. And they claim that these customers have expressed"
+  },
+  {
+    "start": 1332.72,
+    "end": 1338.08,
+    "speaker": "SPEAKER_01",
+    "text": "interest in buying doors from them. With the benefit of these relationships, they think they can hit"
+  },
+  {
+    "start": 1338.08,
+    "end": 1345.52,
+    "speaker": "SPEAKER_01",
+    "text": "$3 million in sales over the next three years. Starting at zero, essentially. Based on the list of"
+  },
+  {
+    "start": 1345.52,
+    "end": 1350.24,
+    "speaker": "SPEAKER_01",
+    "text": "top relationships that the founder, the management team has sort of identified that they're coming"
+  },
+  {
+    "start": 1350.24,
+    "end": 1355.52,
+    "speaker": "SPEAKER_01",
+    "text": "into the startup with based on this list below, what's your assessment of that claim that they can"
+  },
+  {
+    "start": 1355.52,
+    "end": 1363.12,
+    "speaker": "SPEAKER_00",
+    "text": "hit that $3 million in sales? Okay. So I'm seeing here lists of management relationships with"
+  },
+  {
+    "start": 1363.12,
+    "end": 1372.8,
+    "speaker": "SPEAKER_00",
+    "text": "different grocery chains. Some names popping out like Target and Trader Joe's. But it's only"
+  },
+  {
+    "start": 1372.8,
+    "end": 1384.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "really adding up to 4K in total stores. Now, $3 million is not a big number for an average"
+  },
+  {
+    "start": 1384.64,
+    "end": 1391.68,
+    "speaker": "SPEAKER_00",
+    "text": "manufacturing store. If an if the door assume costs something around like $50, $60,"
+  },
+  {
+    "start": 1393.2,
+    "end": 1399.2,
+    "speaker": "SPEAKER_00",
+    "text": "then reaching $3 million only requires you to only produce $200, $300 on a monthly basis. That"
+  },
+  {
+    "start": 1399.2,
+    "end": 1410.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "is very doable in terms of utilizing these relationships. So in three years, I think that is"
+  },
+  {
+    "start": 1410.08,
+    "end": 1416.96,
+    "speaker": "SPEAKER_00",
+    "text": "very doable if these numbers are true and that these stores are willing to display the startups"
+  },
+  {
+    "start": 1416.96,
+    "end": 1424.08,
+    "speaker": "SPEAKER_00",
+    "text": "products. But that would require breaking up that earlier or at least relenting a little bit"
+  },
+  {
+    "start": 1424.08,
+    "end": 1429.4399999999998,
+    "speaker": "SPEAKER_00",
+    "text": "on that earlier monopoly that we saw on the previous graphs. Prove to meet's possible that they"
+  },
+  {
+    "start": 1429.4399999999998,
+    "end": 1437.6,
+    "speaker": "SPEAKER_00",
+    "text": "can hit $3 million just with these accounts. Sure. Okay. So in order to prove that $3 million is"
+  },
+  {
+    "start": 1437.6,
+    "end": 1446.24,
+    "speaker": "SPEAKER_00",
+    "text": "possible in three years, we would have to get some sort of a gauge on profit margins."
+  },
+  {
+    "start": 1447.6799999999998,
+    "end": 1455.6799999999998,
+    "speaker": "SPEAKER_00",
+    "text": "This is just raw sales. This is not profit. So sales, yeah. Okay. So I would have to start making"
+  },
+  {
+    "start": 1455.6799999999998,
+    "end": 1467.12,
+    "speaker": "SPEAKER_00",
+    "text": "some assumptions unless you have data on the average price of the door as well as what the retail"
+  },
+  {
+    "start": 1467.12,
+    "end": 1476.32,
+    "speaker": "SPEAKER_01",
+    "text": "prices within the stores themselves. I do have. I do. It's the ones you already did. Correct. Okay."
+  },
+  {
+    "start": 1479.76,
+    "end": 1485.36,
+    "speaker": "SPEAKER_00",
+    "text": "So we said that $1,200 was the whole so price and the retail price was $1,400."
+  },
+  {
+    "start": 1486.32,
+    "end": 1498.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So 3 million in three years, we could say here at $1 million per year, but not necessarily because"
+  },
+  {
+    "start": 1498.6399999999999,
+    "end": 1504.32,
+    "speaker": "SPEAKER_00",
+    "text": "sales do ramp up over time. Let's just break that down real quick in terms of what that looks like"
+  },
+  {
+    "start": 1505.76,
+    "end": 1510.24,
+    "speaker": "SPEAKER_00",
+    "text": "in terms of amount of doors. So I'm just going to hop into Excel here."
+  },
+  {
+    "start": 1515.9199999999998,
+    "end": 1527.12,
+    "speaker": "SPEAKER_00",
+    "text": "So in terms of wholesale sales, that would be $2,500 in three years."
+  },
+  {
+    "start": 1531.12,
+    "end": 1539.6,
+    "speaker": "SPEAKER_00",
+    "text": "If we look at the relationships that we have, even if we were to sell one door in every single"
+  },
+  {
+    "start": 1540.56,
+    "end": 1547.04,
+    "speaker": "SPEAKER_00",
+    "text": "store with the chain that we have relationships with, we would be well beyond that number."
+  },
+  {
+    "start": 1547.76,
+    "end": 1552.9599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "We have begun 4,000. So in three years, I think that is very feasible."
+  },
+  {
+    "start": 1554.8,
+    "end": 1560.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "How much, so what's the total dollar value annually that these stores are generating? Do you think?"
+  },
+  {
+    "start": 1561.6,
+    "end": 1567.04,
+    "speaker": "SPEAKER_01",
+    "text": "How much revenue for all participants do they generate off these 4,000 stores?"
+  },
+  {
+    "start": 1567.6,
+    "end": 1568.96,
+    "speaker": "SPEAKER_01",
+    "text": "Is it even $3 million?"
+  },
+  {
+    "start": 1571.84,
+    "end": 1579.2,
+    "speaker": "SPEAKER_00",
+    "text": "I see. Okay. So this is a profit question then in terms of counting back the or using the retail price"
+  },
+  {
+    "start": 1581.04,
+    "end": 1586.72,
+    "speaker": "SPEAKER_00",
+    "text": "minus the whole so price. Oh, and don't worry about profit. I don't think profitability is"
+  },
+  {
+    "start": 1586.72,
+    "end": 1594.0,
+    "speaker": "SPEAKER_01",
+    "text": "to factor into this one. Just purely revenue. They could start up reach $3 million in revenue"
+  },
+  {
+    "start": 1594.08,
+    "end": 1600.4,
+    "speaker": "SPEAKER_01",
+    "text": "off the back of these 4,000 stores out of the 40 that we know are out there."
+  },
+  {
+    "start": 1604.8,
+    "end": 1607.28,
+    "speaker": "SPEAKER_01",
+    "text": "Sorry. Could you repeat that question in a different phase?"
+  },
+  {
+    "start": 1608.88,
+    "end": 1619.28,
+    "speaker": "SPEAKER_01",
+    "text": "Do we think that how many dollars in revenue would these 4,000 stores generate for the market"
+  },
+  {
+    "start": 1619.36,
+    "end": 1625.68,
+    "speaker": "SPEAKER_01",
+    "text": "and therefore present time that we can go after? How much time essentially is embedded in these 4,000"
+  },
+  {
+    "start": 1625.68,
+    "end": 1629.12,
+    "speaker": "SPEAKER_01",
+    "text": "stores knowing that we have a time for the 40,000 stores already?"
+  },
+  {
+    "start": 1631.76,
+    "end": 1641.76,
+    "speaker": "SPEAKER_00",
+    "text": "Ah, okay. I see. Okay. So we said for the 40,000 stores that was around a number of 288 million."
+  },
+  {
+    "start": 1642.24,
+    "end": 1651.84,
+    "speaker": "SPEAKER_00",
+    "text": "So that would be 28 million. Sorry, it was a 28 million. So that would be a number of the 2.8 million"
+  },
+  {
+    "start": 1651.84,
+    "end": 1658.16,
+    "speaker": "SPEAKER_00",
+    "text": "just for the 47 stores. So that is slightly below that 3 million target. But that is on a yearly"
+  },
+  {
+    "start": 1658.16,
+    "end": 1668.64,
+    "speaker": "SPEAKER_00",
+    "text": "basis. So 2.8 times 3 gets your little under 9 million. So in that case within three years,"
+  },
+  {
+    "start": 1668.64,
+    "end": 1675.2800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "we are well beyond that sales target. This is just a language thing of the way this is"
+  },
+  {
+    "start": 1675.2800000000002,
+    "end": 1680.24,
+    "speaker": "SPEAKER_01",
+    "text": "phrase, $3 million in sales is meant to be like an annual number. So essentially, you know,"
+  },
+  {
+    "start": 1680.24,
+    "end": 1684.16,
+    "speaker": "SPEAKER_01",
+    "text": "the zero one year, we had $2 million in sales next year, $2 million in sales,"
+  },
+  {
+    "start": 1684.16,
+    "end": 1688.8000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "a third, something like that, right? And you know, so you're saying there's $2.7 million in"
+  },
+  {
+    "start": 1688.8000000000002,
+    "end": 1695.2,
+    "speaker": "SPEAKER_01",
+    "text": "annual revenue based into these stores. We want to hit 3. What do we do? Is that feasible?"
+  },
+  {
+    "start": 1695.2,
+    "end": 1702.8,
+    "speaker": "SPEAKER_01",
+    "text": "You know, and let's say they can go beyond these, obviously, these four accounts to reach the"
+  },
+  {
+    "start": 1702.8,
+    "end": 1712.48,
+    "speaker": "SPEAKER_00",
+    "text": "$3 million. Yeah, we are not far under. But it would, I don't understand, I'm not always"
+  },
+  {
+    "start": 1712.48,
+    "end": 1717.2,
+    "speaker": "SPEAKER_00",
+    "text": "trustful of the strength of these relationships in the sense that these stores would every year"
+  },
+  {
+    "start": 1717.2,
+    "end": 1724.24,
+    "speaker": "SPEAKER_00",
+    "text": "be willing to sell a certain amount of doors and channel all those sales back to our client."
+  },
+  {
+    "start": 1726.0,
+    "end": 1730.96,
+    "speaker": "SPEAKER_00",
+    "text": "So on top of not being able to hit that target number just with these stores,"
+  },
+  {
+    "start": 1732.8,
+    "end": 1736.32,
+    "speaker": "SPEAKER_00",
+    "text": "the strength of the relationship is, I would say I would pull that into question."
+  },
+  {
+    "start": 1737.3600000000001,
+    "end": 1741.3600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So it would be feasible if again, if there was some sort of a differentiating factor,"
+  },
+  {
+    "start": 1741.92,
+    "end": 1751.44,
+    "speaker": "SPEAKER_00",
+    "text": "and we offered somehow a cheaper initial wholesale price than the other competitors. But again,"
+  },
+  {
+    "start": 1751.44,
+    "end": 1758.96,
+    "speaker": "SPEAKER_00",
+    "text": "we didn't see, it didn't seem like price competitiveness mattered. So I would be doubtful that we'd"
+  },
+  {
+    "start": 1758.96,
+    "end": 1767.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "be able to reach that $3 million per year. Got it. And that precedes the last question I have,"
+  },
+  {
+    "start": 1767.8400000000001,
+    "end": 1772.88,
+    "speaker": "SPEAKER_01",
+    "text": "which is based on what you learned, what do you think about this opportunity? And what other"
+  },
+  {
+    "start": 1772.88,
+    "end": 1777.76,
+    "speaker": "SPEAKER_01",
+    "text": "questions haven't we covered that you'd want to investigate before rendering an opinion here?"
+  },
+  {
+    "start": 1778.56,
+    "end": 1780.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "On whether they should fund this investment?"
+  },
+  {
+    "start": 1781.84,
+    "end": 1787.76,
+    "speaker": "SPEAKER_00",
+    "text": "Yes. So I based on the data that we have now would not invest in this business."
+  },
+  {
+    "start": 1788.56,
+    "end": 1793.04,
+    "speaker": "SPEAKER_00",
+    "text": "And I don't think this is an attractive market to pursue based off of, I would say,"
+  },
+  {
+    "start": 1793.04,
+    "end": 1799.84,
+    "speaker": "SPEAKER_00",
+    "text": "three major areas that we've seen. One, it's a very consolidated market for companies all owned,"
+  },
+  {
+    "start": 1799.84,
+    "end": 1802.16,
+    "speaker": "SPEAKER_00",
+    "text": "or three companies all owned by the same parent company."
+  },
+  {
+    "start": 1802.48,
+    "end": 1807.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Two price competitiveness doesn't seem to matter too much based off of the"
+  },
+  {
+    "start": 1808.3200000000002,
+    "end": 1812.96,
+    "speaker": "SPEAKER_00",
+    "text": "cluster satisfaction that we saw, which was relatively high. And so there's no room for"
+  },
+  {
+    "start": 1813.76,
+    "end": 1824.72,
+    "speaker": "SPEAKER_00",
+    "text": "potential new price entrants. And now three, if all things go well and we can sell store, sell"
+  },
+  {
+    "start": 1824.72,
+    "end": 1830.8000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "our doors in the stores with relationships that we have, we would still not hit those that"
+  },
+  {
+    "start": 1830.8799999999999,
+    "end": 1840.0,
+    "speaker": "SPEAKER_00",
+    "text": "3 million every year. So it's looking like this is a shaky investment. And in order to further"
+  },
+  {
+    "start": 1840.0,
+    "end": 1846.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "investigate the opportunity, I would want to see what these relationships are built on."
+  },
+  {
+    "start": 1847.68,
+    "end": 1854.0,
+    "speaker": "SPEAKER_00",
+    "text": "So what does a trust-based relationship mean in terms of just numbers and sales?"
+  },
+  {
+    "start": 1854.08,
+    "end": 1864.0,
+    "speaker": "SPEAKER_00",
+    "text": "And two, I would want to look at ways our door could be in some sort of way competitive or"
+  },
+  {
+    "start": 1864.0,
+    "end": 1870.32,
+    "speaker": "SPEAKER_00",
+    "text": "differentiated. Is there a way that we can in any shape or form be provided something different"
+  },
+  {
+    "start": 1870.32,
+    "end": 1875.52,
+    "speaker": "SPEAKER_00",
+    "text": "than what our competitors are now providing? And again, this is traffic doors. So I'm doubtful."
+  },
+  {
+    "start": 1877.52,
+    "end": 1880.96,
+    "speaker": "SPEAKER_00",
+    "text": "So those would be the follow-ups I would look into."
+  },
+  {
+    "start": 1881.2,
+    "end": 1890.56,
+    "speaker": "SPEAKER_01",
+    "text": "Great. When my client's come to you with an investment idea, they don't like to be told they're stupid."
+  },
+  {
+    "start": 1892.56,
+    "end": 1896.88,
+    "speaker": "SPEAKER_01",
+    "text": "They thought it was a good idea. They kind of tell them, no, I don't like it. It's a bad idea."
+  },
+  {
+    "start": 1898.16,
+    "end": 1905.2,
+    "speaker": "SPEAKER_01",
+    "text": "If you had to offer them sort of an olive branch here and say, there is, you know, what could you offer"
+  },
+  {
+    "start": 1905.2,
+    "end": 1913.44,
+    "speaker": "SPEAKER_01",
+    "text": "them in ways of there is a path to make this an attractive investment? Are there other"
+  },
+  {
+    "start": 1913.44,
+    "end": 1920.0,
+    "speaker": "SPEAKER_01",
+    "text": "themes that you could try to prove out here to say, well, it doesn't work with in the context of"
+  },
+  {
+    "start": 1920.0,
+    "end": 1927.68,
+    "speaker": "SPEAKER_01",
+    "text": "these four accounts, but maybe it works if you believe some other things. What might you want to"
+  },
+  {
+    "start": 1927.68,
+    "end": 1936.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "make it work? You would have to believe that we could build out these relationships with"
+  },
+  {
+    "start": 1936.0800000000002,
+    "end": 1945.52,
+    "speaker": "SPEAKER_00",
+    "text": "more stores and in an actual contractual agreement in terms of sales. And you could possibly look into"
+  },
+  {
+    "start": 1946.72,
+    "end": 1950.88,
+    "speaker": "SPEAKER_00",
+    "text": "the idea that we could that are this startup would get acquired pretty quickly if this is a"
+  },
+  {
+    "start": 1950.88,
+    "end": 1956.64,
+    "speaker": "SPEAKER_00",
+    "text": "consolidated market by the parent company. And that would be attractive to the investors"
+  },
+  {
+    "start": 1957.44,
+    "end": 1962.4,
+    "speaker": "SPEAKER_00",
+    "text": "because it looks like this market is not it's very stable in the sense that it's so consolidated."
+  },
+  {
+    "start": 1964.16,
+    "end": 1967.5200000000002,
+    "speaker": "SPEAKER_00",
+    "text": "So that would give a pretty quick turnaround in terms of the investment."
+  },
+  {
+    "start": 1970.88,
+    "end": 1973.44,
+    "speaker": "SPEAKER_00",
+    "text": "That is what you that is a route to pursue."
+  },
+  {
+    "start": 1975.1200000000001,
+    "end": 1980.72,
+    "speaker": "SPEAKER_01",
+    "text": "Great. Okay. Well, if I think I think we're all done here. That is a really good job."
+  },
+  {
+    "start": 1981.3600000000001,
+    "end": 1987.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Camille, that's fantastic running through that. You know, a couple of things for me, one,"
+  },
+  {
+    "start": 1988.16,
+    "end": 1994.4,
+    "speaker": "SPEAKER_01",
+    "text": "you were very structured in your thinking throughout. You could feel it. I like how you were"
+  },
+  {
+    "start": 1995.2800000000002,
+    "end": 2001.2800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "repeating things very clearly. I could hear where your thoughts were. I made it very easy for me"
+  },
+  {
+    "start": 2001.2800000000002,
+    "end": 2008.8000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "to interpret the strength of your thinking. And I like how you were very regimented at the end."
+  },
+  {
+    "start": 2008.8,
+    "end": 2014.08,
+    "speaker": "SPEAKER_01",
+    "text": "This is why we should do it for these reasons pulling back on some things from from before."
+  },
+  {
+    "start": 2015.6,
+    "end": 2020.56,
+    "speaker": "SPEAKER_01",
+    "text": "I think that from a math perspective, obviously, we got caught a few places."
+  },
+  {
+    "start": 2021.28,
+    "end": 2025.28,
+    "speaker": "SPEAKER_01",
+    "text": "As I said at the beginning, unless concerned about personal, less concerned about the"
+  },
+  {
+    "start": 2027.04,
+    "end": 2033.12,
+    "speaker": "SPEAKER_01",
+    "text": "numeracy things, we have Excel, etc. What I'm concerned about is that you kind of see the data and"
+  },
+  {
+    "start": 2033.1999999999998,
+    "end": 2040.2399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "you know how to bid it together. And you did one small error when you have something like you're trying,"
+  },
+  {
+    "start": 2040.2399999999998,
+    "end": 2044.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "you've got 95% of the market and you're trying to grow stuff through 100. You should take that number"
+  },
+  {
+    "start": 2044.3999999999999,
+    "end": 2053.6,
+    "speaker": "SPEAKER_01",
+    "text": "and divide by 95% not multiply by 1.05. It's almost meaningless, but it's still a little math thing."
+  },
+  {
+    "start": 2055.44,
+    "end": 2061.2799999999997,
+    "speaker": "SPEAKER_01",
+    "text": "I think that in future for you, for someone like this, definitely, this is you've got to crowd"
+  },
+  {
+    "start": 2061.28,
+    "end": 2066.5600000000004,
+    "speaker": "SPEAKER_01",
+    "text": "here. So it's not maybe a normal situation, but definitely feel free to take a little bit more time"
+  },
+  {
+    "start": 2066.5600000000004,
+    "end": 2074.2400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "to really think through the step by step process and just look at the variables on a page as you"
+  },
+  {
+    "start": 2074.2400000000002,
+    "end": 2078.8,
+    "speaker": "SPEAKER_01",
+    "text": "think about multiplying them together. But obviously, you know, you arrived right answer."
+  },
+  {
+    "start": 2078.8,
+    "end": 2082.1600000000003,
+    "speaker": "SPEAKER_01",
+    "text": "The first, and this is why I want to give you the other shocks. I thought you did the math right,"
+  },
+  {
+    "start": 2082.1600000000003,
+    "end": 2088.88,
+    "speaker": "SPEAKER_01",
+    "text": "but then I heard you say 2.8 million instead of 28. So that's why I wanted to go back with you on that."
+  },
+  {
+    "start": 2088.88,
+    "end": 2092.6400000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Excel doesn't automatically sort the zeros. At least I don't have that current,"
+  },
+  {
+    "start": 2092.6400000000003,
+    "end": 2098.2400000000002,
+    "speaker": "SPEAKER_00",
+    "text": "let's default function, which I felt silly counting the zeros. So I kind of immediately assumed what I"
+  },
+  {
+    "start": 2098.2400000000002,
+    "end": 2103.52,
+    "speaker": "SPEAKER_00",
+    "text": "saw, but I saw that wrong. So that was unfortunate. That's all right. We put Gen spot here with Excel."
+  },
+  {
+    "start": 2104.96,
+    "end": 2112.56,
+    "speaker": "SPEAKER_01",
+    "text": "And you know, your point on, you know, 1200 versus 1400, that when you think about this type of a"
+  },
+  {
+    "start": 2112.56,
+    "end": 2118.64,
+    "speaker": "SPEAKER_01",
+    "text": "market, I guess just for everyone's benefit, you know, generally there's going to be a couple stages."
+  },
+  {
+    "start": 2118.64,
+    "end": 2125.04,
+    "speaker": "SPEAKER_01",
+    "text": "You've got the $1,200 sale value to the distributor. The distributor then sells it buys it for 1200,"
+  },
+  {
+    "start": 2125.04,
+    "end": 2130.7999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "sells it for 1400. The $200 is the distributors margin. We don't know actually what the margin of"
+  },
+  {
+    "start": 2131.36,
+    "end": 2138.4,
+    "speaker": "SPEAKER_01",
+    "text": "the startup was on the 1200. They may have put a dollar into making it. They may have put $1,199 into making."
+  },
+  {
+    "start": 2138.4,
+    "end": 2145.6,
+    "speaker": "SPEAKER_01",
+    "text": "They may have lost money on it. We don't know. But you know, when we think about sizing something for"
+  },
+  {
+    "start": 2145.6,
+    "end": 2151.36,
+    "speaker": "SPEAKER_01",
+    "text": "a manufacturer, it's good for you to think about, well, what's the right revenue basis to do it on? Is it"
+  },
+  {
+    "start": 2151.36,
+    "end": 2160.2400000000002,
+    "speaker": "SPEAKER_01",
+    "text": "the value, the price that the door, is it the price that the end customer sees, or is it the price that"
+  },
+  {
+    "start": 2160.2400000000002,
+    "end": 2165.6800000000003,
+    "speaker": "SPEAKER_01",
+    "text": "the intermediary sees who is buying it from the manufacturer on his behalf, you're trying to size?"
+  },
+  {
+    "start": 2165.68,
+    "end": 2168.3999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "That makes sense to me."
+  },
+  {
+    "start": 2168.3999999999996,
+    "end": 2173.7599999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Cool. And then I guess the last thing is I thought, you know, again, very creative just thinking around"
+  },
+  {
+    "start": 2174.24,
+    "end": 2180.8799999999997,
+    "speaker": "SPEAKER_01",
+    "text": "the edges. I like your skepticism of those relationships. I think it's really healthy, you know,"
+  },
+  {
+    "start": 2180.8799999999997,
+    "end": 2186.7999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "attitude to have about when somebody comes to you with a projection, it's like, you know,"
+  },
+  {
+    "start": 2187.52,
+    "end": 2192.56,
+    "speaker": "SPEAKER_01",
+    "text": "can you do that? You know, those relationships are strong. And you know, as you think about,"
+  },
+  {
+    "start": 2192.64,
+    "end": 2198.7999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "one thing I'd, you know, on the last point, what else could you do, you know, with this type of"
+  },
+  {
+    "start": 2200.08,
+    "end": 2204.08,
+    "speaker": "SPEAKER_01",
+    "text": "of a situation? What else could they do beyond the $3 million? Well, that's only 10%, we only know about"
+  },
+  {
+    "start": 2204.08,
+    "end": 2210.32,
+    "speaker": "SPEAKER_01",
+    "text": "10% of the market, right? You know, they have strong relationships with them. Maybe they could get 10%"
+  },
+  {
+    "start": 2210.32,
+    "end": 2214.24,
+    "speaker": "SPEAKER_01",
+    "text": "of those doors. Maybe they get 90% of those doors. We don't know. But we also don't know that they"
+  },
+  {
+    "start": 2214.24,
+    "end": 2219.12,
+    "speaker": "SPEAKER_01",
+    "text": "can't get the, you know, at least a chunk of the rest, you know? So another way to look at it is to"
+  },
+  {
+    "start": 2219.12,
+    "end": 2226.88,
+    "speaker": "SPEAKER_01",
+    "text": "say $3 million bucks out of a $60 million market is, you know, like 5% is that doable? You know,"
+  },
+  {
+    "start": 2226.88,
+    "end": 2233.12,
+    "speaker": "SPEAKER_01",
+    "text": "5%, you know, maybe over the course of five years could they do that? You know, so that's the kind"
+  },
+  {
+    "start": 2233.12,
+    "end": 2240.96,
+    "speaker": "SPEAKER_01",
+    "text": "of question we kind of run into. Right. That makes sense. Cool. And can you give a few back for"
+  },
+  {
+    "start": 2242.96,
+    "end": 2247.7599999999998,
+    "speaker": "SPEAKER_01",
+    "text": "you on this? How did this compare to other things you've done? Yeah, I feel good."
+  },
+  {
+    "start": 2249.12,
+    "end": 2255.2,
+    "speaker": "SPEAKER_00",
+    "text": "I do like the private equity angle to it because it's, it's like a hard yes or no should we invest in"
+  },
+  {
+    "start": 2255.2,
+    "end": 2263.7599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "this? There's, that doesn't end too often in a gray area. It felt silly to get caught into"
+  },
+  {
+    "start": 2263.7599999999998,
+    "end": 2274.64,
+    "speaker": "SPEAKER_00",
+    "text": "these math errors or the zeros. And I think this case felt very conversational, which I appreciate it,"
+  },
+  {
+    "start": 2274.64,
+    "end": 2280.7999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "but it also meant that I maybe didn't take the time where I could have taken time to just like jot"
+  },
+  {
+    "start": 2280.7999999999997,
+    "end": 2289.3599999999997,
+    "speaker": "SPEAKER_00",
+    "text": "down some notes. I was, I was writing as we went along. But again, I, I think I leaned more to the"
+  },
+  {
+    "start": 2289.3599999999997,
+    "end": 2296.72,
+    "speaker": "SPEAKER_00",
+    "text": "side of keeping the conversation going than structuring my thoughts. And in hindsight, I would do that"
+  },
+  {
+    "start": 2296.72,
+    "end": 2306.72,
+    "speaker": "SPEAKER_00",
+    "text": "differently. But overall, I think I'm happy with how it went."
+  }
+]

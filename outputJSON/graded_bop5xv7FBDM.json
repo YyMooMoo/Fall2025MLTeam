@@ -1,0 +1,1110 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 11.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hi everyone, my name is Kenting Kvescu. I'm an ex-BCG consultant, an ex-Googleer, and the founder of RocketBlocks, an online platform that helps candidates prepare for interviews."
+    },
+    {
+      "start": 11.0,
+      "end": 25.0,
+      "speaker": "SPEAKER_01",
+      "text": "In today's RocketBlocks mock interview, we've got an awesome interview covering a scenario where a government has hired a consulting firm to help them figure out if and how they should implement free Wi-Fi for all of their citizens."
+    },
+    {
+      "start": 25.0,
+      "end": 44.0,
+      "speaker": "SPEAKER_01",
+      "text": "It's a really cool case, and we've got two of our RocketBlocks experts, Christopher McRaehan, who's an ex-BCG project leader playing the role of the interviewer, and the candidate is played by Matthew Calvert, who is another ex-BCG consultant, who actually has spent time working in government as well in the US House of Representatives."
+    },
+    {
+      "start": 44.0,
+      "end": 50.0,
+      "speaker": "SPEAKER_01",
+      "text": "So perfect set of experience to walk through this type of case, and I'm really excited to see how they work through it."
+    },
+    {
+      "start": 50.0,
+      "end": 65.0,
+      "speaker": "SPEAKER_00",
+      "text": "So let's go ahead and jump in. Hi everyone, this is a video run through for the wireless city case. This is a very open-ended McKinsey style case that covers some great brainstorming and qualitative reasoning activities, but also has some quantum mix. It's a good one."
+    },
+    {
+      "start": 65.0,
+      "end": 73.0,
+      "speaker": "SPEAKER_00",
+      "text": "My name is Christopher McRaehan, and I'm going to be leading the interview. Also with me is Matti Calvert, who'll be playing the interview candidate."
+    },
+    {
+      "start": 73.0,
+      "end": 76.0,
+      "speaker": "SPEAKER_00",
+      "text": "So before we dive into this case, let's do some quick intros."
+    },
+    {
+      "start": 76.0,
+      "end": 84.0,
+      "speaker": "SPEAKER_00",
+      "text": "So as I mentioned, my name is Chris, and I'm a manager working in renewable energy in New York, doing offshore wind with a company called Energy Re."
+    },
+    {
+      "start": 84.0,
+      "end": 90.0,
+      "speaker": "SPEAKER_00",
+      "text": "Before that, I worked in management consulting. I was with BCG in the New York office for three years."
+    },
+    {
+      "start": 90.0,
+      "end": 95.0,
+      "speaker": "SPEAKER_00",
+      "text": "The last year of that time is a project leader in BCG's climate sustainability practice."
+    },
+    {
+      "start": 95.0,
+      "end": 106.0,
+      "speaker": "SPEAKER_00",
+      "text": "Before that, I was at Accenture Strategy in London, also working in energy for about a year. So overall, I spent four years in management consulting after finishing my MBA in London Business School."
+    },
+    {
+      "start": 106.0,
+      "end": 112.0,
+      "speaker": "SPEAKER_00",
+      "text": "And before Business School, I was an engineer and they were in the gas industry. Matti, do you want to give a quick intro?"
+    },
+    {
+      "start": 112.0,
+      "end": 123.0,
+      "speaker": "SPEAKER_02",
+      "text": "Absolutely, thanks Chris. So I'm Matti Calvert, and currently working in business development for a company working to reduce methane emissions from oil and gas companies called Cairo Saro Space."
+    },
+    {
+      "start": 123.0,
+      "end": 135.0,
+      "speaker": "SPEAKER_02",
+      "text": "So after that, I did Teach America in Chicago, and then got my MBA and that was a public policy adieu, and worked as a consultant for two years at BCG in Chicago."
+    },
+    {
+      "start": 135.0,
+      "end": 147.0,
+      "speaker": "SPEAKER_00",
+      "text": "All right, that's great. So before diving into the case, I'm going to slightly simulate the case transition that you might see in an interview and ask a quick fit question. So good to go, Matti."
+    },
+    {
+      "start": 147.0,
+      "end": 161.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yep, let's do it. All right, let's dive in. So, Matti, it's great to meet you. I have your CV in front of me. It looks like you have some great prior experience. I just wanted to ask, what are you hoping to get out of your time in management consulting?"
+    },
+    {
+      "start": 161.0,
+      "end": 171.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that's a great question, Chris. So before getting my MBA, the majority of my work experience has been as an elementary school teacher."
+    },
+    {
+      "start": 171.0,
+      "end": 186.0,
+      "speaker": "SPEAKER_02",
+      "text": "And so for me, working and consulting is going to give me the opportunity to see a number of different industries and functional areas at a high, you know, high pace to figure out what it is that I like to specialize in while I'm working consulting."
+    },
+    {
+      "start": 186.0,
+      "end": 193.0,
+      "speaker": "SPEAKER_02",
+      "text": "And also what I want to do afterwards. Another thing that I'm looking forward to is the opportunity to continue working a team."
+    },
+    {
+      "start": 193.0,
+      "end": 202.0,
+      "speaker": "SPEAKER_02",
+      "text": "The majority of my work as a teacher has been with the grade level group, where we're, you know, prepping lessons for a number of students across different classes."
+    },
+    {
+      "start": 202.0,
+      "end": 207.0,
+      "speaker": "SPEAKER_02",
+      "text": "And this will allow me to continue that team work experience that I've really enjoyed thus far."
+    },
+    {
+      "start": 207.0,
+      "end": 213.0,
+      "speaker": "SPEAKER_00",
+      "text": "That's great. I love it. I had some similar reasons myself. I can relate."
+    },
+    {
+      "start": 213.0,
+      "end": 217.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so ready to dive into the case. Let's do it."
+    },
+    {
+      "start": 217.0,
+      "end": 221.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, great. Here's the case question."
+    },
+    {
+      "start": 221.0,
+      "end": 229.0,
+      "speaker": "SPEAKER_00",
+      "text": "So our client is the government of a large city. So I would think of someone like some are like Chicago, New York, or LA."
+    },
+    {
+      "start": 229.0,
+      "end": 237.0,
+      "speaker": "SPEAKER_00",
+      "text": "So they plan to provide free wireless connection to all of their residents by building Wi-Fi hotspots covering the entire city."
+    },
+    {
+      "start": 237.0,
+      "end": 244.0,
+      "speaker": "SPEAKER_00",
+      "text": "So they've hired the consulting firm to help them determine whether or not they should do it."
+    },
+    {
+      "start": 244.0,
+      "end": 255.0,
+      "speaker": "SPEAKER_02",
+      "text": "So we're just recapped the truly quick Chris. So we're working with the city of Chicago who's interested in rolling out a free Wi-Fi program for all the city's residents."
+    },
+    {
+      "start": 255.0,
+      "end": 259.0,
+      "speaker": "SPEAKER_02",
+      "text": "And they're trying to just decide whether or not they should do it. Is that correct?"
+    },
+    {
+      "start": 259.0,
+      "end": 262.0,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly. Yeah, it's pretty open ended."
+    },
+    {
+      "start": 262.0,
+      "end": 263.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 263.0,
+      "end": 272.0,
+      "speaker": "SPEAKER_02",
+      "text": "Apart from that sounds really open ended, but is there a goal are they trying to maximize a profit? Are they trying to find excuse me?"
+    },
+    {
+      "start": 272.0,
+      "end": 275.0,
+      "speaker": "SPEAKER_02",
+      "text": "Anything like that or is it just what we discuss?"
+    },
+    {
+      "start": 275.0,
+      "end": 283.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, basically just what they discuss. I would think of this as a pretty early stage view of the decision making."
+    },
+    {
+      "start": 283.0,
+      "end": 290.0,
+      "speaker": "SPEAKER_00",
+      "text": "So there's no decision making criteria or hurdles really like a hurdle rate or a check rate."
+    },
+    {
+      "start": 290.0,
+      "end": 297.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would just think about this as, you know, maximizing Wi-Fi for residents is the goal for this first piece."
+    },
+    {
+      "start": 297.0,
+      "end": 299.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, great. That's really helpful."
+    },
+    {
+      "start": 299.0,
+      "end": 312.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, the only other question I have is, is the city of Chicago considering just residents or they also considering tourists as they make this decision?"
+    },
+    {
+      "start": 312.0,
+      "end": 315.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, it's it's a good question."
+    },
+    {
+      "start": 315.0,
+      "end": 326.0,
+      "speaker": "SPEAKER_00",
+      "text": "I think for now to keep it simple, I would probably just think about residents, but if there's a way you wanted to build that into your thinking or framework, you know, it would be great for you to have a recommendation on that point."
+    },
+    {
+      "start": 326.0,
+      "end": 331.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, that's really helpful. Do you mind giving me a minute while I collect my thoughts?"
+    },
+    {
+      "start": 331.0,
+      "end": 334.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 334.0,
+      "end": 337.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, great."
+    },
+    {
+      "start": 337.0,
+      "end": 344.0,
+      "speaker": "SPEAKER_02",
+      "text": "Well, I said this framework up pretty simply. It seems like it's a pretty open ended case and question."
+    },
+    {
+      "start": 344.0,
+      "end": 348.0,
+      "speaker": "SPEAKER_02",
+      "text": "And so I think we're going to, you know, touch on a number of these things throughout."
+    },
+    {
+      "start": 348.0,
+      "end": 351.0,
+      "speaker": "SPEAKER_02",
+      "text": "So there's three main buckets that I was thinking about."
+    },
+    {
+      "start": 351.0,
+      "end": 354.0,
+      "speaker": "SPEAKER_02",
+      "text": "The first one is just the benefits."
+    },
+    {
+      "start": 354.0,
+      "end": 360.0,
+      "speaker": "SPEAKER_02",
+      "text": "Who is this going to benefit and how the second are the costs involved."
+    },
+    {
+      "start": 360.0,
+      "end": 369.0,
+      "speaker": "SPEAKER_02",
+      "text": "And then third, are there other alternatives the city should consider instead of trying to roll out a free Wi-Fi program?"
+    },
+    {
+      "start": 369.0,
+      "end": 373.0,
+      "speaker": "SPEAKER_02",
+      "text": "So the, in terms of benefits, I'd be thinking about the benefits to individual."
+    },
+    {
+      "start": 373.0,
+      "end": 379.0,
+      "speaker": "SPEAKER_02",
+      "text": "I'd also think how would a free Wi-Fi program benefit the city commercially?"
+    },
+    {
+      "start": 379.0,
+      "end": 382.0,
+      "speaker": "SPEAKER_02",
+      "text": "I'm thinking about city services."
+    },
+    {
+      "start": 382.0,
+      "end": 387.0,
+      "speaker": "SPEAKER_02",
+      "text": "Sanitation, snow removal, things of that nature."
+    },
+    {
+      "start": 387.0,
+      "end": 392.0,
+      "speaker": "SPEAKER_02",
+      "text": "I like this help optimize those services to the city's residents."
+    },
+    {
+      "start": 392.0,
+      "end": 395.0,
+      "speaker": "SPEAKER_02",
+      "text": "Next in terms of costs, I'm thinking about."
+    },
+    {
+      "start": 395.0,
+      "end": 404.0,
+      "speaker": "SPEAKER_02",
+      "text": "What is the initial cost doing something like this would be, you know, pretty, pretty revolutionary at least for a large city in the United States."
+    },
+    {
+      "start": 404.0,
+      "end": 407.0,
+      "speaker": "SPEAKER_02",
+      "text": "So what's that initial cost going to be?"
+    },
+    {
+      "start": 407.0,
+      "end": 410.0,
+      "speaker": "SPEAKER_02",
+      "text": "And then what does it cost to do this ongoing?"
+    },
+    {
+      "start": 410.0,
+      "end": 417.0,
+      "speaker": "SPEAKER_02",
+      "text": "And another thing is I'm thinking about this is, is the city well equipped with its current workforce and structure to do this?"
+    },
+    {
+      "start": 417.0,
+      "end": 422.0,
+      "speaker": "SPEAKER_02",
+      "text": "And finally, in terms of alternatives, I'm thinking, is there another thing they could do?"
+    },
+    {
+      "start": 422.0,
+      "end": 429.0,
+      "speaker": "SPEAKER_02",
+      "text": "Could they offer 4G or 5G wireless services for residents instead of doing Wi-Fi?"
+    },
+    {
+      "start": 429.0,
+      "end": 439.0,
+      "speaker": "SPEAKER_02",
+      "text": "Could they offer some sort of free paid cards that residents could use instead of with various wireless providers?"
+    },
+    {
+      "start": 439.0,
+      "end": 442.0,
+      "speaker": "SPEAKER_02",
+      "text": "That's kind of my thinking there."
+    },
+    {
+      "start": 442.0,
+      "end": 444.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, that makes sense."
+    },
+    {
+      "start": 444.0,
+      "end": 446.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I like all the buckets."
+    },
+    {
+      "start": 446.0,
+      "end": 449.0,
+      "speaker": "SPEAKER_00",
+      "text": "It seems like it's a very me see frame work to me."
+    },
+    {
+      "start": 449.0,
+      "end": 454.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I think we can use this to help guide some questions. Thanks for that."
+    },
+    {
+      "start": 454.0,
+      "end": 455.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 455.0,
+      "end": 458.0,
+      "speaker": "SPEAKER_00",
+      "text": "So the client likes the analysis."
+    },
+    {
+      "start": 458.0,
+      "end": 464.0,
+      "speaker": "SPEAKER_00",
+      "text": "They've actually done some research and they finalize the details of how the Wi-Fi hotspots operate."
+    },
+    {
+      "start": 464.0,
+      "end": 468.0,
+      "speaker": "SPEAKER_00",
+      "text": "So here's here's some info for you on on how these things work."
+    },
+    {
+      "start": 468.0,
+      "end": 471.0,
+      "speaker": "SPEAKER_00",
+      "text": "So each Wi-Fi hotspot can cover a certain area."
+    },
+    {
+      "start": 471.0,
+      "end": 482.0,
+      "speaker": "SPEAKER_00",
+      "text": "So when opened at like any any Wi-Fi capable device enters that area, the Wi-Fi hotspot will notice and begin to trace this location."
+    },
+    {
+      "start": 482.0,
+      "end": 484.0,
+      "speaker": "SPEAKER_00",
+      "text": "So there's a tracking aspect here."
+    },
+    {
+      "start": 484.0,
+      "end": 494.0,
+      "speaker": "SPEAKER_00",
+      "text": "The owner of the Wi-Fi device can log into the wireless network for free using a unique ID and password that gets provided to them by the government of the municipality."
+    },
+    {
+      "start": 494.0,
+      "end": 503.0,
+      "speaker": "SPEAKER_00",
+      "text": "So once logged in, the owner's name and location will be traced by the the Wi-Fi hotspot."
+    },
+    {
+      "start": 503.0,
+      "end": 517.0,
+      "speaker": "SPEAKER_00",
+      "text": "So right, so with with those details in mind, can you can you think about possible uses given the location, the time and the login ID data that's collected by the Wi-Fi hotspots."
+    },
+    {
+      "start": 517.0,
+      "end": 519.0,
+      "speaker": "SPEAKER_02",
+      "text": "Absolutely."
+    },
+    {
+      "start": 519.0,
+      "end": 527.0,
+      "speaker": "SPEAKER_02",
+      "text": "So the first thing I'm thinking about is traffic network design, how you laying out the city."
+    },
+    {
+      "start": 527.0,
+      "end": 543.0,
+      "speaker": "SPEAKER_02",
+      "text": "If you're able to track devices, including what type, who owns the device, you're going to be able to understand the flow of people to a really detailed extent, which can help you set up traffic lights, things of that nature."
+    },
+    {
+      "start": 543.0,
+      "end": 557.0,
+      "speaker": "SPEAKER_02",
+      "text": "And another thing I'm thinking about is helping you set up transportation services. So where might you need more bathrooms, more trains running through the city."
+    },
+    {
+      "start": 557.0,
+      "end": 574.0,
+      "speaker": "SPEAKER_02",
+      "text": "Another one is urban planning. And so are you having tons of people who are moving to certain locations. And you might need want to look at building more parks."
+    },
+    {
+      "start": 574.0,
+      "end": 580.0,
+      "speaker": "SPEAKER_02",
+      "text": "Real estate developers might think about building more real estate in a certain area."
+    },
+    {
+      "start": 580.0,
+      "end": 597.0,
+      "speaker": "SPEAKER_02",
+      "text": "Another thing that I think would be really valuable that the city could take and to monetize and sell would be location data. So again, if you have certain areas of the city where you're getting tons of people, especially at a certain age range or demographic."
+    },
+    {
+      "start": 597.0,
+      "end": 607.0,
+      "speaker": "SPEAKER_02",
+      "text": "That would be really helpful to figure out what types of bars, restaurants, stores, if you go into different locations in the city."
+    },
+    {
+      "start": 607.0,
+      "end": 624.0,
+      "speaker": "SPEAKER_02",
+      "text": "You could also use that for push advertisements. So if you go to a certain part of the city, you're going to get an advertisement for sweet green, if you will, or a Barry's boot camp, if you want to go to the gym, something of that."
+    },
+    {
+      "start": 624.0,
+      "end": 635.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, well, that's great. That's great. I think that covers a lot of say the day to day parts of somebody's life, say, getting up and commuting to the office or walking to lunch."
+    },
+    {
+      "start": 635.0,
+      "end": 640.0,
+      "speaker": "SPEAKER_00",
+      "text": "Are there any other considerations you can think of beyond some of those day to day aspects?"
+    },
+    {
+      "start": 640.0,
+      "end": 658.0,
+      "speaker": "SPEAKER_02",
+      "text": "You know, I think one thing and it's kind of a hot topic, especially in a lot of large cities these days is crime prevention. And so if there's a crime committed in a certain area and it's traceable, you'd be able to figure out who was closest to that."
+    },
+    {
+      "start": 658.0,
+      "end": 666.0,
+      "speaker": "SPEAKER_02",
+      "text": "And maybe could they offer some insight into what happened. Did they see the crime committed?"
+    },
+    {
+      "start": 666.0,
+      "end": 674.0,
+      "speaker": "SPEAKER_00",
+      "text": "Great. Yeah. No, I'm glad you brought that up. Why don't we talk about crime prevention for a little bit here."
+    },
+    {
+      "start": 674.0,
+      "end": 686.0,
+      "speaker": "SPEAKER_00",
+      "text": "It's come up quite a bit in some of the meetings. One government officer suggested that when a crime is reported, the police can narrow down the suspect by looking at the data of the nearby Wi-Fi hotspot."
+    },
+    {
+      "start": 686.0,
+      "end": 691.0,
+      "speaker": "SPEAKER_00",
+      "text": "What are your initial reactions to that? Do you think that's a good idea?"
+    },
+    {
+      "start": 691.0,
+      "end": 705.0,
+      "speaker": "SPEAKER_02",
+      "text": "Well, I think, you know, while that could help in terms of crime prevention, I think having that sort of data could open yourself up to legal challenges and sort of the rights of privacy."
+    },
+    {
+      "start": 705.0,
+      "end": 719.0,
+      "speaker": "SPEAKER_02",
+      "text": "I think that could also if that data was hacked, could expose the city up to liability and a lawsuit potentially."
+    },
+    {
+      "start": 719.0,
+      "end": 734.0,
+      "speaker": "SPEAKER_02",
+      "text": "And I also think it could make residents maybe if they knew that this is happening less liable or less likely, excuse me, to use this service. So I think that could really hurt the usage rates of this."
+    },
+    {
+      "start": 734.0,
+      "end": 742.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Yeah, those are those are some of the negatives and those are strong points. Are there any pros you can think of any any positive reasons for doing it?"
+    },
+    {
+      "start": 742.0,
+      "end": 758.0,
+      "speaker": "SPEAKER_02",
+      "text": "Well, I do think it could potentially help with solving crimes. If people know that it's happening, it could also help with deterring crimes potentially knowing that this sort of information is out there."
+    },
+    {
+      "start": 758.0,
+      "end": 779.0,
+      "speaker": "SPEAKER_02",
+      "text": "And it's a potentially interesting experiment to see if this does have a market decrease or in crime rates or even increase in solving of crimes, other certain type using, you know, an analysis of before and after in the city."
+    },
+    {
+      "start": 779.0,
+      "end": 782.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 782.0,
+      "end": 791.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I mean, if we think about an individual level, like if if somebody was planning to commit a crime."
+    },
+    {
+      "start": 791.0,
+      "end": 804.0,
+      "speaker": "SPEAKER_00",
+      "text": "We've had this this thought that maybe they would just disconnect from the network or, you know, basically prevent this Wi-Fi hotspot from knowing their ID and their location before they were going to do anything."
+    },
+    {
+      "start": 804.0,
+      "end": 825.0,
+      "speaker": "SPEAKER_02",
+      "text": "I think that's definitely a potential is a potential kind of downfall here. And I think another thing is there's pre sophisticated methods of circumventing these things, whether you're using a VPN or another technology of that sort."
+    },
+    {
+      "start": 825.0,
+      "end": 846.0,
+      "speaker": "SPEAKER_02",
+      "text": "So to me, it feels like the potential down sides outweigh the potential upside in terms of really either people working around it or people not trusting the government, the liability opens up the government to or just the, you know, decreasing usage."
+    },
+    {
+      "start": 846.0,
+      "end": 853.0,
+      "speaker": "SPEAKER_00",
+      "text": "Got it. Now I take the point that does seem like there's a lot of risk associated with using it in that way."
+    },
+    {
+      "start": 853.0,
+      "end": 856.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, no, that was really insightful."
+    },
+    {
+      "start": 856.0,
+      "end": 864.0,
+      "speaker": "SPEAKER_00",
+      "text": "Why don't we shift gears a little bit and we'll move away from from the qualitative stuff and get to a bit of math here."
+    },
+    {
+      "start": 864.0,
+      "end": 874.0,
+      "speaker": "SPEAKER_00",
+      "text": "So the client is collected quotes for the total cost of the project and the best quote that came in was for $30 million dollars."
+    },
+    {
+      "start": 874.0,
+      "end": 882.0,
+      "speaker": "SPEAKER_00",
+      "text": "So sort of benchmark that the client is looking to see how much the project will cost if they were to install the Wi-Fi hotspots by themselves."
+    },
+    {
+      "start": 882.0,
+      "end": 891.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I have a few numbers I want to give out to you here. So the size of the city is 40 by 25."
+    },
+    {
+      "start": 891.0,
+      "end": 897.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we can just think of them as generic units for now. So just 40 units by 25 units."
+    },
+    {
+      "start": 897.0,
+      "end": 904.0,
+      "speaker": "SPEAKER_00",
+      "text": "Each hotspot can cover a circular area with a radius of five units."
+    },
+    {
+      "start": 904.0,
+      "end": 906.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 906.0,
+      "end": 912.0,
+      "speaker": "SPEAKER_00",
+      "text": "So what the client wants is to be able to cover 100% of the city area with these wall spots."
+    },
+    {
+      "start": 912.0,
+      "end": 918.0,
+      "speaker": "SPEAKER_00",
+      "text": "There's no, there's no dead zones anywhere in the city basically averse covered."
+    },
+    {
+      "start": 918.0,
+      "end": 925.0,
+      "speaker": "SPEAKER_00",
+      "text": "And we know that each Wi-Fi hotspot costs roughly a million dollars."
+    },
+    {
+      "start": 925.0,
+      "end": 926.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 926.0,
+      "end": 931.0,
+      "speaker": "SPEAKER_00",
+      "text": "So with those data points in mind, I'm hoping you can do some math here and just calculate."
+    },
+    {
+      "start": 931.0,
+      "end": 939.0,
+      "speaker": "SPEAKER_00",
+      "text": "So do you think it's better if the client installs the hotspots for themselves or outsources it to this."
+    },
+    {
+      "start": 939.0,
+      "end": 942.0,
+      "speaker": "SPEAKER_00",
+      "text": "This market participants saying 30 million dollars."
+    },
+    {
+      "start": 942.0,
+      "end": 944.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 944.0,
+      "end": 954.0,
+      "speaker": "SPEAKER_02",
+      "text": "Before we jump in, are there any other costs involved in this? Is there an initial cost for starting this up?"
+    },
+    {
+      "start": 954.0,
+      "end": 957.0,
+      "speaker": "SPEAKER_02",
+      "text": "An ongoing cost and what is the cost of?"
+    },
+    {
+      "start": 957.0,
+      "end": 961.0,
+      "speaker": "SPEAKER_02",
+      "text": "I guess, yeah, if those are costs exist."
+    },
+    {
+      "start": 961.0,
+      "end": 970.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, it's a good question. I would say there's an overall sort of fixed overhead cost here of 20 million dollars."
+    },
+    {
+      "start": 970.0,
+      "end": 978.0,
+      "speaker": "SPEAKER_00",
+      "text": "Just to get things going, I think we can assume that in either case, it'll that that 20 million dollar cost will be there."
+    },
+    {
+      "start": 978.0,
+      "end": 985.0,
+      "speaker": "SPEAKER_00",
+      "text": "So essentially, we just need to consider this one million dollar variable cost per hotspot installation."
+    },
+    {
+      "start": 985.0,
+      "end": 987.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 987.0,
+      "end": 991.0,
+      "speaker": "SPEAKER_02",
+      "text": "Great. Do you mind giving me just one second and I'm going to kind of set up my map here?"
+    },
+    {
+      "start": 991.0,
+      "end": 993.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, no worries."
+    },
+    {
+      "start": 993.0,
+      "end": 995.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 995.0,
+      "end": 1004.0,
+      "speaker": "SPEAKER_02",
+      "text": "So if I'm thinking through this, I want to kind of break this down into into smaller units."
+    },
+    {
+      "start": 1004.0,
+      "end": 1008.0,
+      "speaker": "SPEAKER_02",
+      "text": "So four hotspots."
+    },
+    {
+      "start": 1008.0,
+      "end": 1017.0,
+      "speaker": "SPEAKER_02",
+      "text": "And I know that, you know, I'm thinking about a square or rectangular area and circles to cover the entire geographic area."
+    },
+    {
+      "start": 1017.0,
+      "end": 1021.0,
+      "speaker": "SPEAKER_02",
+      "text": "There's going to be have to be some overlap there."
+    },
+    {
+      "start": 1021.0,
+      "end": 1022.0,
+      "speaker": "SPEAKER_02",
+      "text": "That's right."
+    },
+    {
+      "start": 1022.0,
+      "end": 1024.0,
+      "speaker": "SPEAKER_02",
+      "text": "We don't want any gaps."
+    },
+    {
+      "start": 1024.0,
+      "end": 1035.0,
+      "speaker": "SPEAKER_02",
+      "text": "And so if I think about breaking this 40 by 25 down a bit, I can say that an area covered by four hotspots."
+    },
+    {
+      "start": 1035.0,
+      "end": 1041.0,
+      "speaker": "SPEAKER_02",
+      "text": "Would take 10 times root two and 10 times root two."
+    },
+    {
+      "start": 1041.0,
+      "end": 1045.0,
+      "speaker": "SPEAKER_02",
+      "text": "That's going to give me a square area."
+    },
+    {
+      "start": 1045.0,
+      "end": 1052.0,
+      "speaker": "SPEAKER_02",
+      "text": "Given the radius and of the circles with radius five."
+    },
+    {
+      "start": 1052.0,
+      "end": 1057.0,
+      "speaker": "SPEAKER_02",
+      "text": "And so the 40 by 25 area."
+    },
+    {
+      "start": 1057.0,
+      "end": 1060.0,
+      "speaker": "SPEAKER_02",
+      "text": "If I divide that the 40."
+    },
+    {
+      "start": 1060.0,
+      "end": 1065.0,
+      "speaker": "SPEAKER_02",
+      "text": "I'd buy 14, which is approximately that right number."
+    },
+    {
+      "start": 1065.0,
+      "end": 1072.0,
+      "speaker": "SPEAKER_02",
+      "text": "Doing a little bit of rounding times the 25 divided by 14."
+    },
+    {
+      "start": 1072.0,
+      "end": 1076.0,
+      "speaker": "SPEAKER_02",
+      "text": "That's going to require four of those."
+    },
+    {
+      "start": 1076.0,
+      "end": 1081.0,
+      "speaker": "SPEAKER_02",
+      "text": "That I just described that 10 times root two to 10 times root two."
+    },
+    {
+      "start": 1081.0,
+      "end": 1085.0,
+      "speaker": "SPEAKER_02",
+      "text": "40 divided by 14 is about three."
+    },
+    {
+      "start": 1085.0,
+      "end": 1092.0,
+      "speaker": "SPEAKER_02",
+      "text": "The 25 divided by 14 is about two."
+    },
+    {
+      "start": 1092.0,
+      "end": 1094.0,
+      "speaker": "SPEAKER_02",
+      "text": "And that's four circles."
+    },
+    {
+      "start": 1094.0,
+      "end": 1102.0,
+      "speaker": "SPEAKER_02",
+      "text": "And so that three times two times four is going to give me about 24 hotspots."
+    },
+    {
+      "start": 1102.0,
+      "end": 1110.0,
+      "speaker": "SPEAKER_02",
+      "text": "To cover the entire area and and granted there's going to be some overlap here depending on where you set that up."
+    },
+    {
+      "start": 1110.0,
+      "end": 1117.0,
+      "speaker": "SPEAKER_02",
+      "text": "So I'm going to say, you know, just to be a little conservative, we could say 25."
+    },
+    {
+      "start": 1117.0,
+      "end": 1124.0,
+      "speaker": "SPEAKER_02",
+      "text": "But it's going to be that 24 to 25 range that you're going to be required to cover the city."
+    },
+    {
+      "start": 1124.0,
+      "end": 1132.0,
+      "speaker": "SPEAKER_02",
+      "text": "And I'm looking at 24 25 hotspots 25 hotspots times 1 million per to set up."
+    },
+    {
+      "start": 1132.0,
+      "end": 1135.0,
+      "speaker": "SPEAKER_02",
+      "text": "So that's 25 million dollars."
+    },
+    {
+      "start": 1135.0,
+      "end": 1142.0,
+      "speaker": "SPEAKER_02",
+      "text": "So that's the initial cost of 20 million, but that's the same on those sides."
+    },
+    {
+      "start": 1142.0,
+      "end": 1151.0,
+      "speaker": "SPEAKER_02",
+      "text": "So we're trying to weigh the difference between 25 million dollars, setting this up by and run by the city versus $30 million."
+    },
+    {
+      "start": 1151.0,
+      "end": 1153.0,
+      "speaker": "SPEAKER_02",
+      "text": "Excuse me."
+    },
+    {
+      "start": 1153.0,
+      "end": 1156.0,
+      "speaker": "SPEAKER_02",
+      "text": "For outsourcing."
+    },
+    {
+      "start": 1156.0,
+      "end": 1167.0,
+      "speaker": "SPEAKER_02",
+      "text": "So when I'm thinking about these two options, $5 million is a is you know, it's a 25% of this of this cost."
+    },
+    {
+      "start": 1167.0,
+      "end": 1168.0,
+      "speaker": "SPEAKER_02",
+      "text": "Right."
+    },
+    {
+      "start": 1168.0,
+      "end": 1173.0,
+      "speaker": "SPEAKER_02",
+      "text": "But to me, I'm thinking that outsourcing this might be the better option."
+    },
+    {
+      "start": 1173.0,
+      "end": 1176.0,
+      "speaker": "SPEAKER_02",
+      "text": "I have worked in city government before."
+    },
+    {
+      "start": 1176.0,
+      "end": 1183.0,
+      "speaker": "SPEAKER_02",
+      "text": "And I know what city governments are really good at and what city governments don't have as much experience with."
+    },
+    {
+      "start": 1183.0,
+      "end": 1194.0,
+      "speaker": "SPEAKER_02",
+      "text": "And so for me, I'm thinking that outsourcing this to a vendor who specializes in setting up Wi-Fi and managing networks could be a better option."
+    },
+    {
+      "start": 1194.0,
+      "end": 1204.0,
+      "speaker": "SPEAKER_02",
+      "text": "However, we'd also want to think through how tight the budget is and whether that $5 million pushes it off the table one way or another."
+    },
+    {
+      "start": 1204.0,
+      "end": 1207.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so I think that's what we've got it. Yeah, that recommendation makes sense to me."
+    },
+    {
+      "start": 1207.0,
+      "end": 1214.0,
+      "speaker": "SPEAKER_00",
+      "text": "I mean, there's a financial trade off and if you're working government, you do have a responsibility to, I guess, maximize taxpayer benefits."
+    },
+    {
+      "start": 1214.0,
+      "end": 1226.0,
+      "speaker": "SPEAKER_00",
+      "text": "But at the same time, if you're incurring a significant risk by taking on a piece of work that, you know, your organization doesn't specialize in then that can be seen as irresponsible in itself."
+    },
+    {
+      "start": 1226.0,
+      "end": 1228.0,
+      "speaker": "SPEAKER_00",
+      "text": "That makes a lot of sense."
+    },
+    {
+      "start": 1228.0,
+      "end": 1233.0,
+      "speaker": "SPEAKER_00",
+      "text": "So can you, can you just please sum up everything that we've talked about and give a final recommendation here?"
+    },
+    {
+      "start": 1233.0,
+      "end": 1241.0,
+      "speaker": "SPEAKER_02",
+      "text": "Absolutely. So when I'm thinking through whether or not to do this, I think there's a number of potential benefits that we talked about."
+    },
+    {
+      "start": 1241.0,
+      "end": 1252.0,
+      "speaker": "SPEAKER_02",
+      "text": "I think in terms of urban planning, in terms of supporting existing and new businesses in the city, monitoring traffic and public transportation, there's tons of benefits."
+    },
+    {
+      "start": 1252.0,
+      "end": 1258.0,
+      "speaker": "SPEAKER_02",
+      "text": "And this could really set the city up as an unique, unique way."
+    },
+    {
+      "start": 1258.0,
+      "end": 1266.0,
+      "speaker": "SPEAKER_02",
+      "text": "In terms of the crime question, I would say I don't think it's worth it. I think it could really drive use the rates down and open up the city of the liability."
+    },
+    {
+      "start": 1266.0,
+      "end": 1287.0,
+      "speaker": "SPEAKER_02",
+      "text": "And then finally, I would outsource this while I know that is an additional probably five million dollars more outsourcing it to a company that specializes in this will often offer better service and more reliability and allow the city to specialize in what they're doing."
+    },
+    {
+      "start": 1287.0,
+      "end": 1295.0,
+      "speaker": "SPEAKER_02",
+      "text": "But I think this is overall a great idea and will be a huge benefit for the city."
+    },
+    {
+      "start": 1295.0,
+      "end": 1298.0,
+      "speaker": "SPEAKER_00",
+      "text": "Great. That's awesome."
+    },
+    {
+      "start": 1298.0,
+      "end": 1311.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hey, everyone. It's Ken to give us you here the founder of Rockablocks. Thank you so much for watching this mock interview video. I hope you found it informative and helpful as you are getting ready to prepare for your own interviews and hopefully landing that job offer."
+    },
+    {
+      "start": 1311.0,
+      "end": 1321.0,
+      "speaker": "SPEAKER_01",
+      "text": "And we are excited about we have a ton of great content on the Rockablocks channel coming out on a weekly basis mock interviews, many lessons and chats with our Rockablocks experts."
+    },
+    {
+      "start": 1321.0,
+      "end": 1329.0,
+      "speaker": "SPEAKER_01",
+      "text": "So if you haven't subscribed yet already, please do so. There is a big red button below. And if you hit that, you'll get all of our content as soon as it comes up."
+    },
+    {
+      "start": 1329.0,
+      "end": 1331.0,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks for watching and have a great day."
+    }
+  ],
+  "grading": {
+    "communication": 17,
+    "framework": 14,
+    "math": 9,
+    "case_difficulty": 9,
+    "final_summary": 13,
+    "overall_thoughts": "You demonstrated good communication skills but struggled with the math aspects and lacked a robust framework."
+  }
+}

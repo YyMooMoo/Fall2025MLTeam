@@ -1,0 +1,2520 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "speaker": "SPEAKER_00",
+      "text": "I think you're going to like this one."
+    },
+    {
+      "start": 2.62,
+      "end": 6.72,
+      "speaker": "SPEAKER_00",
+      "text": "We've got a great case here, Sam's peanuts company."
+    },
+    {
+      "start": 6.72,
+      "end": 9.26,
+      "speaker": "SPEAKER_00",
+      "text": "This is a Bane style case out of"
+    },
+    {
+      "start": 9.26,
+      "end": 11.9,
+      "speaker": "SPEAKER_00",
+      "text": "a private equity group at Bane M&A."
+    },
+    {
+      "start": 11.9,
+      "end": 14.86,
+      "speaker": "SPEAKER_00",
+      "text": "Our focus is going to be on a strategic buyer."
+    },
+    {
+      "start": 14.86,
+      "end": 16.02,
+      "speaker": "SPEAKER_00",
+      "text": "Just keep that in mind."
+    },
+    {
+      "start": 16.02,
+      "end": 19.38,
+      "speaker": "SPEAKER_00",
+      "text": "Those two types of M&A cases that you serve in the PE group."
+    },
+    {
+      "start": 19.38,
+      "end": 20.76,
+      "speaker": "SPEAKER_00",
+      "text": "Because this one is strategic,"
+    },
+    {
+      "start": 20.76,
+      "end": 22.86,
+      "speaker": "SPEAKER_00",
+      "text": "that might include some additional things."
+    },
+    {
+      "start": 22.86,
+      "end": 24.6,
+      "speaker": "SPEAKER_00",
+      "text": "Unless you've got questions, we'll dive in."
+    },
+    {
+      "start": 24.6,
+      "end": 25.32,
+      "speaker": "SPEAKER_01",
+      "text": "Let's jump in."
+    },
+    {
+      "start": 25.32,
+      "end": 26.88,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 30.48,
+      "end": 33.76,
+      "speaker": "SPEAKER_00",
+      "text": "We are serving a US snack foods company,"
+    },
+    {
+      "start": 33.76,
+      "end": 38.44,
+      "speaker": "SPEAKER_00",
+      "text": "Sam's peanut company, specializing in snacking peanuts."
+    },
+    {
+      "start": 38.44,
+      "end": 41.08,
+      "speaker": "SPEAKER_00",
+      "text": "They're planning to acquire another company specializing"
+    },
+    {
+      "start": 41.08,
+      "end": 44.04,
+      "speaker": "SPEAKER_00",
+      "text": "in snacking almonds, which we'll call today for the purposes"
+    },
+    {
+      "start": 44.04,
+      "end": 47.8,
+      "speaker": "SPEAKER_00",
+      "text": "of this case very originally, might I add, almond company."
+    },
+    {
+      "start": 47.8,
+      "end": 49.519999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "I thought I was coming."
+    },
+    {
+      "start": 49.519999999999996,
+      "end": 51.92,
+      "speaker": "SPEAKER_00",
+      "text": "Sam's peanut company is currently the market leader"
+    },
+    {
+      "start": 51.92,
+      "end": 52.96,
+      "speaker": "SPEAKER_00",
+      "text": "in snacking peanuts."
+    },
+    {
+      "start": 52.96,
+      "end": 56.400000000000006,
+      "speaker": "SPEAKER_00",
+      "text": "But the overall segment is growing slowly compared to"
+    },
+    {
+      "start": 56.400000000000006,
+      "end": 59.44,
+      "speaker": "SPEAKER_00",
+      "text": "the overall net market and they're interested in diversifying."
+    },
+    {
+      "start": 59.44,
+      "end": 61.839999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "They've hired us to tell them whether they should proceed"
+    },
+    {
+      "start": 61.839999999999996,
+      "end": 64.03999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "with the acquisition opportunity or not."
+    },
+    {
+      "start": 65.32,
+      "end": 66.84,
+      "speaker": "SPEAKER_00",
+      "text": "You can have questions about the background."
+    },
+    {
+      "start": 66.84,
+      "end": 68.08,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 68.08,
+      "end": 73.08,
+      "speaker": "SPEAKER_01",
+      "text": "So just making sure I have all the right information."
+    },
+    {
+      "start": 73.4,
+      "end": 77.68,
+      "speaker": "SPEAKER_01",
+      "text": "So our client today is Sam's peanuts co."
+    },
+    {
+      "start": 77.68,
+      "end": 80.75999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And they are a US snack food company."
+    },
+    {
+      "start": 80.75999999999999,
+      "end": 83.12,
+      "speaker": "SPEAKER_01",
+      "text": "They're actually the market leader in this segment,"
+    },
+    {
+      "start": 83.12,
+      "end": 84.28,
+      "speaker": "SPEAKER_01",
+      "text": "which is growing."
+    },
+    {
+      "start": 84.28,
+      "end": 86.08,
+      "speaker": "SPEAKER_01",
+      "text": "And so because of that, they want to diversify."
+    },
+    {
+      "start": 86.08,
+      "end": 89.08,
+      "speaker": "SPEAKER_01",
+      "text": "And they're looking at acquiring almond co."
+    },
+    {
+      "start": 89.08,
+      "end": 91.44,
+      "speaker": "SPEAKER_01",
+      "text": "And the main goal here is just figuring out how should we"
+    },
+    {
+      "start": 91.44,
+      "end": 96.2,
+      "speaker": "SPEAKER_01",
+      "text": "proceed in terms of addressing this potential by."
+    },
+    {
+      "start": 96.2,
+      "end": 97.28,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 97.28,
+      "end": 100.16,
+      "speaker": "SPEAKER_01",
+      "text": "Just a quick clarification question."
+    },
+    {
+      "start": 100.16,
+      "end": 104.48,
+      "speaker": "SPEAKER_01",
+      "text": "Just given the nature of Sam's company is almond co."
+    },
+    {
+      "start": 104.48,
+      "end": 108.16,
+      "speaker": "SPEAKER_01",
+      "text": "Just almonds, or do they also have multiple different subcatharies"
+    },
+    {
+      "start": 108.16,
+      "end": 108.92,
+      "speaker": "SPEAKER_01",
+      "text": "of snacks as well?"
+    },
+    {
+      "start": 108.92,
+      "end": 109.24,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 109.24,
+      "end": 111.56,
+      "speaker": "SPEAKER_00",
+      "text": "So they only sell almonds, but of course,"
+    },
+    {
+      "start": 111.56,
+      "end": 113.12,
+      "speaker": "SPEAKER_00",
+      "text": "there would be different package types,"
+    },
+    {
+      "start": 113.12,
+      "end": 116.36,
+      "speaker": "SPEAKER_00",
+      "text": "different customers, diversification in some of those elements."
+    },
+    {
+      "start": 116.36,
+      "end": 118.96,
+      "speaker": "SPEAKER_00",
+      "text": "But their only product base is almonds."
+    },
+    {
+      "start": 118.96,
+      "end": 119.47999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 119.47999999999999,
+      "end": 121.47999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And then do we have any timeframes that we're constrained to?"
+    },
+    {
+      "start": 121.47999999999999,
+      "end": 126.19999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Is that are they trying to reach a certain profit bias two years"
+    },
+    {
+      "start": 126.19999999999999,
+      "end": 128.16,
+      "speaker": "SPEAKER_01",
+      "text": "or something or return investment in a certain timeframe?"
+    },
+    {
+      "start": 128.16,
+      "end": 129.56,
+      "speaker": "SPEAKER_00",
+      "text": "What would you think it should be?"
+    },
+    {
+      "start": 129.56,
+      "end": 133.16,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe two years, unless they're in a pressing place."
+    },
+    {
+      "start": 133.16,
+      "end": 134.4,
+      "speaker": "SPEAKER_00",
+      "text": "We'll give them a little longer than that."
+    },
+    {
+      "start": 134.4,
+      "end": 135.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Let's say it needs to be under five."
+    },
+    {
+      "start": 135.79999999999998,
+      "end": 136.48,
+      "speaker": "SPEAKER_01",
+      "text": "Under five."
+    },
+    {
+      "start": 136.48,
+      "end": 137.24,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 137.24,
+      "end": 137.76,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 144.48,
+      "end": 145.2,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 145.2,
+      "end": 146.92,
+      "speaker": "SPEAKER_01",
+      "text": "Do you mind if I take a minute or two to struck to my full?"
+    },
+    {
+      "start": 146.92,
+      "end": 147.64,
+      "speaker": "SPEAKER_01",
+      "text": "Go ahead."
+    },
+    {
+      "start": 147.64,
+      "end": 148.64,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 149.20000000000002,
+      "end": 151.20000000000002,
+      "speaker": "UNKNOWN",
+      "text": "Damn."
+    },
+    {
+      "start": 151.2,
+      "end": 178.83999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 178.84,
+      "end": 181.52,
+      "speaker": "SPEAKER_01",
+      "text": "So I've come with a few thoughts, and I'd love to walk you through them."
+    },
+    {
+      "start": 181.52,
+      "end": 182.68,
+      "speaker": "SPEAKER_01",
+      "text": "Sounds good."
+    },
+    {
+      "start": 182.68,
+      "end": 187.4,
+      "speaker": "SPEAKER_01",
+      "text": "So the main question here is, should we, should we acquire this company?"
+    },
+    {
+      "start": 187.4,
+      "end": 191.72,
+      "speaker": "SPEAKER_01",
+      "text": "And I broke it down to three buckets, the financial considerations, which I think are really"
+    },
+    {
+      "start": 191.72,
+      "end": 197.4,
+      "speaker": "SPEAKER_01",
+      "text": "important, especially when you're looking at acquiring a company, the market conditions,"
+    },
+    {
+      "start": 197.4,
+      "end": 199.2,
+      "speaker": "SPEAKER_01",
+      "text": "and also operational considerations."
+    },
+    {
+      "start": 199.2,
+      "end": 200.2,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 200.2,
+      "end": 204.32,
+      "speaker": "SPEAKER_01",
+      "text": "To dive a little bit deeper into financial, one is as a profitable company, right?"
+    },
+    {
+      "start": 204.32,
+      "end": 207.08,
+      "speaker": "SPEAKER_01",
+      "text": "We, I'm assuming it is if they're looking to acquire them."
+    },
+    {
+      "start": 207.08,
+      "end": 208.08,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 208.08,
+      "end": 210.84,
+      "speaker": "SPEAKER_01",
+      "text": "So, what are the more information in terms of, are they profitable?"
+    },
+    {
+      "start": 210.84,
+      "end": 215.64000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Are they meeting the goals that we are, that we are requiring?"
+    },
+    {
+      "start": 215.64000000000001,
+      "end": 217.04000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Two is the cost to acquire."
+    },
+    {
+      "start": 217.04000000000002,
+      "end": 220.16000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "Obviously, there's going to be a pretty hefty price tag on this, but it can be viewed as"
+    },
+    {
+      "start": 220.16000000000003,
+      "end": 226.68,
+      "speaker": "SPEAKER_01",
+      "text": "an investment as long as it is relatively affordable in terms of how much rich you need yield"
+    },
+    {
+      "start": 226.68,
+      "end": 227.68,
+      "speaker": "SPEAKER_01",
+      "text": "for it."
+    },
+    {
+      "start": 227.68,
+      "end": 228.92000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "And then lastly, the growth."
+    },
+    {
+      "start": 228.92000000000002,
+      "end": 231.92000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "How's Almond co-being growing in the past few years?"
+    },
+    {
+      "start": 231.92000000000002,
+      "end": 233.96,
+      "speaker": "SPEAKER_01",
+      "text": "Or has it been stagnant forever?"
+    },
+    {
+      "start": 233.96,
+      "end": 236.16000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "If, or it has it been declining?"
+    },
+    {
+      "start": 236.16,
+      "end": 239.96,
+      "speaker": "SPEAKER_01",
+      "text": "Either way, is that something that we can shape into what we want it to be?"
+    },
+    {
+      "start": 239.96,
+      "end": 240.96,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 240.96,
+      "end": 245.8,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of the market itself, one, it does diversify us, and I think that that is something that we"
+    },
+    {
+      "start": 245.8,
+      "end": 249.04,
+      "speaker": "SPEAKER_01",
+      "text": "want to keep in mind this whole time is that they're not just buying this to buy it, they're"
+    },
+    {
+      "start": 249.04,
+      "end": 252.35999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "buying it with a primary goal of also diversification."
+    },
+    {
+      "start": 252.35999999999999,
+      "end": 258.84,
+      "speaker": "SPEAKER_01",
+      "text": "And so remembering that throughout the process, competitors, so does Almond co-have competitors"
+    },
+    {
+      "start": 258.84,
+      "end": 262.12,
+      "speaker": "SPEAKER_01",
+      "text": "that we need to be aware of before we acquire them?"
+    },
+    {
+      "start": 262.12,
+      "end": 263.12,
+      "speaker": "SPEAKER_01",
+      "text": "Are they the same competitors?"
+    },
+    {
+      "start": 263.12,
+      "end": 265.4,
+      "speaker": "SPEAKER_01",
+      "text": "Are they different competitors?"
+    },
+    {
+      "start": 265.4,
+      "end": 266.96,
+      "speaker": "SPEAKER_01",
+      "text": "And lastly, consumer preferences."
+    },
+    {
+      "start": 266.96,
+      "end": 267.96,
+      "speaker": "SPEAKER_01",
+      "text": "Right."
+    },
+    {
+      "start": 267.96,
+      "end": 275.29999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "So if people are changing into a more healthy lifestyle or maybe Almond co is actually currently"
+    },
+    {
+      "start": 275.29999999999995,
+      "end": 282.91999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "not distributing where SAMS company is, then perhaps there's room for them joining there,"
+    },
+    {
+      "start": 282.91999999999996,
+      "end": 285.65999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "but just making sure that we're not looking at cannibalization."
+    },
+    {
+      "start": 285.65999999999997,
+      "end": 286.65999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 286.65999999999997,
+      "end": 290.56,
+      "speaker": "SPEAKER_01",
+      "text": "And lastly, in terms of operational considerations, it would be interesting to see if there are"
+    },
+    {
+      "start": 290.56,
+      "end": 296.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "any synergies, any cost savings that we can do by scale of economies and also by combining"
+    },
+    {
+      "start": 296.28000000000003,
+      "end": 298.04,
+      "speaker": "SPEAKER_01",
+      "text": "the two companies."
+    },
+    {
+      "start": 298.04,
+      "end": 299.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "Also looking at capacity."
+    },
+    {
+      "start": 299.28000000000003,
+      "end": 303.64,
+      "speaker": "SPEAKER_01",
+      "text": "If we buy Almond co and all of a sudden our sales go through the roof, do we actually"
+    },
+    {
+      "start": 303.64,
+      "end": 306.08,
+      "speaker": "SPEAKER_01",
+      "text": "have the capacity to provide that?"
+    },
+    {
+      "start": 306.08,
+      "end": 310.32,
+      "speaker": "SPEAKER_01",
+      "text": "And lastly, just looking at regulatory things, so the bureaucracy of things, making sure"
+    },
+    {
+      "start": 310.32,
+      "end": 314.08,
+      "speaker": "SPEAKER_01",
+      "text": "we're not becoming a monopoly, making sure we're not breaking any rules and regulations"
+    },
+    {
+      "start": 314.08,
+      "end": 315.08,
+      "speaker": "SPEAKER_01",
+      "text": "there."
+    },
+    {
+      "start": 315.08,
+      "end": 316.08,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome."
+    },
+    {
+      "start": 316.08,
+      "end": 318.6,
+      "speaker": "SPEAKER_01",
+      "text": "Should we buy them?"
+    },
+    {
+      "start": 318.6,
+      "end": 320.68,
+      "speaker": "SPEAKER_01",
+      "text": "Let's look at the financial considerations for first."
+    },
+    {
+      "start": 320.68,
+      "end": 321.68,
+      "speaker": "SPEAKER_00",
+      "text": "Tom, what do you think?"
+    },
+    {
+      "start": 321.68,
+      "end": 322.68,
+      "speaker": "SPEAKER_01",
+      "text": "Perfect."
+    },
+    {
+      "start": 322.68,
+      "end": 323.68,
+      "speaker": "SPEAKER_00",
+      "text": "So."
+    },
+    {
+      "start": 323.68,
+      "end": 325.6,
+      "speaker": "SPEAKER_00",
+      "text": "No, I mean, tell me what you think before we look at the financial."
+    },
+    {
+      "start": 325.6,
+      "end": 328.88,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, before."
+    },
+    {
+      "start": 328.88,
+      "end": 330.6,
+      "speaker": "SPEAKER_01",
+      "text": "Not including financial considerations."
+    },
+    {
+      "start": 330.6,
+      "end": 332.36,
+      "speaker": "SPEAKER_00",
+      "text": "I mean, of course, we'll look at the numbers."
+    },
+    {
+      "start": 332.36,
+      "end": 333.36,
+      "speaker": "SPEAKER_01",
+      "text": "We will."
+    },
+    {
+      "start": 333.36,
+      "end": 334.36,
+      "speaker": "SPEAKER_01",
+      "text": "Just got feeling."
+    },
+    {
+      "start": 334.36,
+      "end": 335.36,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, got feeling."
+    },
+    {
+      "start": 335.36,
+      "end": 339.56,
+      "speaker": "SPEAKER_01",
+      "text": "I think we should because I think it will diversify us and that did seem to be a main goal."
+    },
+    {
+      "start": 339.56,
+      "end": 345.0,
+      "speaker": "SPEAKER_01",
+      "text": "And also we have five years to break even with them and I'm confident that with Bains"
+    },
+    {
+      "start": 345.0,
+      "end": 347.16,
+      "speaker": "SPEAKER_01",
+      "text": "help, we can get them to that goal."
+    },
+    {
+      "start": 347.16,
+      "end": 348.16,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 348.32000000000005,
+      "end": 349.32000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "Well, let's dive in."
+    },
+    {
+      "start": 349.32000000000005,
+      "end": 350.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Where would you like to start?"
+    },
+    {
+      "start": 350.84000000000003,
+      "end": 355.32000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "Could we have any information on the market itself?"
+    },
+    {
+      "start": 355.32000000000005,
+      "end": 358.88000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "We do, if you tell me first what you want."
+    },
+    {
+      "start": 358.88000000000005,
+      "end": 359.88000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 359.88000000000005,
+      "end": 360.88000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "So I might have some."
+    },
+    {
+      "start": 360.88000000000005,
+      "end": 363.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "I might not have all of it, but tell me specifically what the numbers are that you look"
+    },
+    {
+      "start": 363.08000000000004,
+      "end": 364.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "for here."
+    },
+    {
+      "start": 364.08000000000004,
+      "end": 365.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 365.08000000000004,
+      "end": 366.6,
+      "speaker": "SPEAKER_01",
+      "text": "Let me walk you through how I want to size the market."
+    },
+    {
+      "start": 366.6,
+      "end": 368.12,
+      "speaker": "SPEAKER_01",
+      "text": "And then I can see if you have those numbers."
+    },
+    {
+      "start": 368.12,
+      "end": 369.12,
+      "speaker": "SPEAKER_01",
+      "text": "That's good."
+    },
+    {
+      "start": 369.12,
+      "end": 374.8,
+      "speaker": "SPEAKER_01",
+      "text": "So the first thing I'd want to do is look at the US population."
+    },
+    {
+      "start": 374.8,
+      "end": 378.8,
+      "speaker": "SPEAKER_01",
+      "text": "From there, I'd want to break that down into a couple of different segments."
+    },
+    {
+      "start": 378.8,
+      "end": 383.08,
+      "speaker": "SPEAKER_01",
+      "text": "I'd be happy going really detailed or not as many, but I think three or four categories"
+    },
+    {
+      "start": 383.08,
+      "end": 389.48,
+      "speaker": "SPEAKER_01",
+      "text": "ranging from I don't ever consume any almonds to I consume almonds every day because it's"
+    },
+    {
+      "start": 389.48,
+      "end": 391.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "my favorite food on the planet."
+    },
+    {
+      "start": 391.40000000000003,
+      "end": 392.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "Something in that region."
+    },
+    {
+      "start": 392.84000000000003,
+      "end": 400.88,
+      "speaker": "SPEAKER_01",
+      "text": "So after we've segmented it, then I would then want to multiply the breakdown of the"
+    },
+    {
+      "start": 400.88,
+      "end": 402.72,
+      "speaker": "SPEAKER_01",
+      "text": "segments by how many people are in them."
+    },
+    {
+      "start": 402.72,
+      "end": 408.48,
+      "speaker": "SPEAKER_01",
+      "text": "So oh, you're every day almond deed that makes up 10% of the population."
+    },
+    {
+      "start": 408.48,
+      "end": 412.04,
+      "speaker": "SPEAKER_01",
+      "text": "And so you multiply those to get X amount of people."
+    },
+    {
+      "start": 412.04,
+      "end": 420.56,
+      "speaker": "SPEAKER_01",
+      "text": "So once we've got the number of people, I would love to know how many, how often they're"
+    },
+    {
+      "start": 420.56,
+      "end": 421.56,
+      "speaker": "SPEAKER_01",
+      "text": "buying almonds."
+    },
+    {
+      "start": 421.56,
+      "end": 426.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "So how many packages or packets or pounds of almonds that are buying in a year."
+    },
+    {
+      "start": 426.96000000000004,
+      "end": 429.92,
+      "speaker": "SPEAKER_01",
+      "text": "So the frequency."
+    },
+    {
+      "start": 429.92,
+      "end": 432.04,
+      "speaker": "SPEAKER_01",
+      "text": "And then lastly, I want to know how much they're paying."
+    },
+    {
+      "start": 432.04,
+      "end": 433.04,
+      "speaker": "SPEAKER_01",
+      "text": "What is the dollar amount there?"
+    },
+    {
+      "start": 433.04,
+      "end": 435.56,
+      "speaker": "SPEAKER_01",
+      "text": "And that would size the market for us."
+    },
+    {
+      "start": 435.56,
+      "end": 436.56,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 436.56,
+      "end": 437.56,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome."
+    },
+    {
+      "start": 437.56,
+      "end": 443.64000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Why population and not, for example, restaurants or other ways households, for example,"
+    },
+    {
+      "start": 443.64000000000004,
+      "end": 447.24,
+      "speaker": "SPEAKER_00",
+      "text": "why do you think of populations specifically here?"
+    },
+    {
+      "start": 447.24,
+      "end": 453.88,
+      "speaker": "SPEAKER_01",
+      "text": "Populations were my mind went and it also felt pretty overarching."
+    },
+    {
+      "start": 453.88,
+      "end": 457.76,
+      "speaker": "SPEAKER_01",
+      "text": "It felt like it would gather the whole population, just giving it as the population."
+    },
+    {
+      "start": 457.76,
+      "end": 464.84,
+      "speaker": "SPEAKER_01",
+      "text": "But well, I wouldn't necessarily be easily persuaded to go and calculate it with households."
+    },
+    {
+      "start": 464.84,
+      "end": 469.36,
+      "speaker": "SPEAKER_01",
+      "text": "I would actually be interested in also including the commercial side of almonds."
+    },
+    {
+      "start": 469.36,
+      "end": 471.44,
+      "speaker": "SPEAKER_01",
+      "text": "I actually didn't think about that."
+    },
+    {
+      "start": 471.44,
+      "end": 477.59999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "That being said, they seem to be a more business to customer in terms of I'm buying a packet"
+    },
+    {
+      "start": 477.59999999999997,
+      "end": 482.42,
+      "speaker": "SPEAKER_01",
+      "text": "of trail mix or almonds, not maybe I work at a restaurant and I need 10 pounds of"
+    },
+    {
+      "start": 482.42,
+      "end": 483.42,
+      "speaker": "SPEAKER_01",
+      "text": "almonds."
+    },
+    {
+      "start": 483.42,
+      "end": 486.0,
+      "speaker": "SPEAKER_01",
+      "text": "I think there might be other competitors for that and there might be other places to go"
+    },
+    {
+      "start": 486.0,
+      "end": 487.0,
+      "speaker": "SPEAKER_00",
+      "text": "for that."
+    },
+    {
+      "start": 487.08,
+      "end": 488.6,
+      "speaker": "SPEAKER_00",
+      "text": "These are snacking almonds."
+    },
+    {
+      "start": 488.6,
+      "end": 490.76,
+      "speaker": "SPEAKER_00",
+      "text": "So I think you're probably right on it."
+    },
+    {
+      "start": 490.76,
+      "end": 493.96,
+      "speaker": "SPEAKER_00",
+      "text": "Well, I have some of the data that you asked for here."
+    },
+    {
+      "start": 493.96,
+      "end": 497.32,
+      "speaker": "SPEAKER_00",
+      "text": "I want to size the market for almonds in the United States."
+    },
+    {
+      "start": 497.32,
+      "end": 502.12,
+      "speaker": "SPEAKER_00",
+      "text": "And we're just trying to see both relatively but more importantly, absolutely whether the"
+    },
+    {
+      "start": 502.12,
+      "end": 503.8,
+      "speaker": "SPEAKER_00",
+      "text": "market is big enough here."
+    },
+    {
+      "start": 503.8,
+      "end": 505.96,
+      "speaker": "SPEAKER_00",
+      "text": "There are three segments of the market."
+    },
+    {
+      "start": 505.96,
+      "end": 507.84,
+      "speaker": "SPEAKER_00",
+      "text": "The first segment don't eat nuts."
+    },
+    {
+      "start": 507.84,
+      "end": 511.2,
+      "speaker": "SPEAKER_00",
+      "text": "75% of the US market does not eat nuts."
+    },
+    {
+      "start": 511.2,
+      "end": 515.52,
+      "speaker": "SPEAKER_00",
+      "text": "15% of the segment are what we consider casual nut eaters."
+    },
+    {
+      "start": 515.52,
+      "end": 520.04,
+      "speaker": "SPEAKER_00",
+      "text": "And 10% of the segment are frequent, not eaters."
+    },
+    {
+      "start": 520.04,
+      "end": 526.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "One snack almond packet is 20 ounces and the price of a packet is $3."
+    },
+    {
+      "start": 526.0799999999999,
+      "end": 527.0799999999999,
+      "speaker": "UNKNOWN",
+      "text": "$3."
+    },
+    {
+      "start": 527.0799999999999,
+      "end": 528.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 528.0799999999999,
+      "end": 537.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And you said sorry, it was don't eat casual and the frequent."
+    },
+    {
+      "start": 537.0799999999999,
+      "end": 539.76,
+      "speaker": "SPEAKER_01",
+      "text": "So we've got our US, our we need our US population."
+    },
+    {
+      "start": 539.76,
+      "end": 541.56,
+      "speaker": "SPEAKER_01",
+      "text": "So we have the segment we have."
+    },
+    {
+      "start": 541.56,
+      "end": 543.56,
+      "speaker": "SPEAKER_01",
+      "text": "We can calculate the number of people with that."
+    },
+    {
+      "start": 543.56,
+      "end": 547.64,
+      "speaker": "SPEAKER_01",
+      "text": "Do we now have any information on US population or frequency?"
+    },
+    {
+      "start": 547.64,
+      "end": 548.64,
+      "speaker": "SPEAKER_00",
+      "text": "Yes."
+    },
+    {
+      "start": 548.64,
+      "end": 551.2399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So we can use 300 million for the current US population."
+    },
+    {
+      "start": 551.2399999999999,
+      "end": 554.16,
+      "speaker": "SPEAKER_00",
+      "text": "That'll keep the numbers pretty simple."
+    },
+    {
+      "start": 554.16,
+      "end": 558.04,
+      "speaker": "SPEAKER_00",
+      "text": "And then for the frequency, let's see, I think I actually do have some additional information"
+    },
+    {
+      "start": 558.04,
+      "end": 559.04,
+      "speaker": "SPEAKER_00",
+      "text": "about that."
+    },
+    {
+      "start": 559.04,
+      "end": 560.04,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 560.04,
+      "end": 562.04,
+      "speaker": "SPEAKER_00",
+      "text": "So donate nuts, zero, right?"
+    },
+    {
+      "start": 562.04,
+      "end": 563.04,
+      "speaker": "SPEAKER_00",
+      "text": "They donate nuts."
+    },
+    {
+      "start": 563.04,
+      "end": 569.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So the casual segment however, at 30 almond packs a year, average."
+    },
+    {
+      "start": 569.1999999999999,
+      "end": 571.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And then the frequent 120 almond packs a year."
+    },
+    {
+      "start": 571.72,
+      "end": 574.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Wow, there's a lot."
+    },
+    {
+      "start": 574.0400000000001,
+      "end": 576.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, let's work through it one by one."
+    },
+    {
+      "start": 576.32,
+      "end": 577.84,
+      "speaker": "SPEAKER_01",
+      "text": "And I'll get some markets."
+    },
+    {
+      "start": 577.84,
+      "end": 578.84,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 578.84,
+      "end": 579.84,
+      "speaker": "SPEAKER_01",
+      "text": "So don't eat nuts."
+    },
+    {
+      "start": 579.84,
+      "end": 582.32,
+      "speaker": "SPEAKER_01",
+      "text": "I'm just going to give that a bit cross out because they don't eat nuts."
+    },
+    {
+      "start": 582.32,
+      "end": 583.32,
+      "speaker": "SPEAKER_01",
+      "text": "Right."
+    },
+    {
+      "start": 583.32,
+      "end": 584.76,
+      "speaker": "SPEAKER_01",
+      "text": "Makes it really easy for us."
+    },
+    {
+      "start": 584.76,
+      "end": 590.76,
+      "speaker": "SPEAKER_01",
+      "text": "For casual, that's 15% of the 300 million, which is I believe 45 million."
+    },
+    {
+      "start": 590.76,
+      "end": 595.36,
+      "speaker": "SPEAKER_01",
+      "text": "That would be 10% is the 30 million, 5% 15 almond together."
+    },
+    {
+      "start": 595.36,
+      "end": 600.28,
+      "speaker": "SPEAKER_01",
+      "text": "Those 45 million are consuming 30 packs a year."
+    },
+    {
+      "start": 600.28,
+      "end": 605.88,
+      "speaker": "SPEAKER_01",
+      "text": "So that is 100 or that's 45 times three is 135."
+    },
+    {
+      "start": 605.88,
+      "end": 610.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "But you're going to add on a zero just because it's 30."
+    },
+    {
+      "start": 610.0799999999999,
+      "end": 620.36,
+      "speaker": "SPEAKER_01",
+      "text": "So that's 1.35 billion and multiplied by the $3 is going to be three or sorry, it's going"
+    },
+    {
+      "start": 620.36,
+      "end": 624.16,
+      "speaker": "SPEAKER_01",
+      "text": "to be four point."
+    },
+    {
+      "start": 624.16,
+      "end": 629.16,
+      "speaker": "SPEAKER_01",
+      "text": "Let me just add that up."
+    },
+    {
+      "start": 629.16,
+      "end": 640.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So one second."
+    },
+    {
+      "start": 640.0799999999999,
+      "end": 648.36,
+      "speaker": "SPEAKER_01",
+      "text": "I have 1.1 billion, oh, I have, sorry, 2.1 billion from that."
+    },
+    {
+      "start": 648.36,
+      "end": 653.4,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of our frequent consumers, that's 10% of the population."
+    },
+    {
+      "start": 653.4,
+      "end": 655.6,
+      "speaker": "SPEAKER_01",
+      "text": "That's only 30 million."
+    },
+    {
+      "start": 655.6,
+      "end": 658.0,
+      "speaker": "SPEAKER_01",
+      "text": "And they have it 120 times a year."
+    },
+    {
+      "start": 658.0,
+      "end": 661.76,
+      "speaker": "SPEAKER_01",
+      "text": "So 120 multiplied by three is 360."
+    },
+    {
+      "start": 661.76,
+      "end": 666.28,
+      "speaker": "SPEAKER_01",
+      "text": "But we're going to add on that zero again because it's by 120."
+    },
+    {
+      "start": 666.28,
+      "end": 671.84,
+      "speaker": "SPEAKER_01",
+      "text": "And they're also spending $3 and 3.6 billion multiplied by three."
+    },
+    {
+      "start": 671.84,
+      "end": 675.32,
+      "speaker": "SPEAKER_01",
+      "text": "Well, the 3 billion multiplied by three is 9 billion."
+    },
+    {
+      "start": 675.32,
+      "end": 679.92,
+      "speaker": "SPEAKER_01",
+      "text": "And the 0.6 multiplied by three is 61218."
+    },
+    {
+      "start": 679.92,
+      "end": 681.0,
+      "speaker": "SPEAKER_01",
+      "text": "So 1.8 billion."
+    },
+    {
+      "start": 681.0,
+      "end": 687.96,
+      "speaker": "SPEAKER_01",
+      "text": "So that gives us a total of 10.8 billion, giving us a total market size of two."
+    },
+    {
+      "start": 687.96,
+      "end": 692.72,
+      "speaker": "SPEAKER_01",
+      "text": "So that's 12.9 billion."
+    },
+    {
+      "start": 692.72,
+      "end": 694.36,
+      "speaker": "SPEAKER_01",
+      "text": "And that's dollars per year, sorry."
+    },
+    {
+      "start": 694.36,
+      "end": 695.4000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Let me just clarify that."
+    },
+    {
+      "start": 695.4000000000001,
+      "end": 696.4000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 696.4000000000001,
+      "end": 699.24,
+      "speaker": "SPEAKER_01",
+      "text": "Does that seem right to you?"
+    },
+    {
+      "start": 699.24,
+      "end": 702.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "That's a lot of money being spent on just almonds."
+    },
+    {
+      "start": 702.9200000000001,
+      "end": 703.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Sure is."
+    },
+    {
+      "start": 703.9200000000001,
+      "end": 709.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "That's, but from the calculations I've done, I don't think I've dropped zero zero"
+    },
+    {
+      "start": 709.8000000000001,
+      "end": 715.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "so that's maybe that's being a little bit ambitious in terms of maybe how many people,"
+    },
+    {
+      "start": 715.28,
+      "end": 717.68,
+      "speaker": "SPEAKER_01",
+      "text": "how many times people are buying almond packets."
+    },
+    {
+      "start": 717.68,
+      "end": 720.16,
+      "speaker": "SPEAKER_01",
+      "text": "But I'm happy to go with that number if you are."
+    },
+    {
+      "start": 720.16,
+      "end": 721.16,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm not."
+    },
+    {
+      "start": 721.16,
+      "end": 725.0,
+      "speaker": "SPEAKER_00",
+      "text": "Mostly because I think if you actually look at the relative sizes, there's something off here."
+    },
+    {
+      "start": 725.0,
+      "end": 726.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 726.0,
+      "end": 729.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So there is something off."
+    },
+    {
+      "start": 729.1999999999999,
+      "end": 730.8,
+      "speaker": "SPEAKER_01",
+      "text": "And I have dropped a zero."
+    },
+    {
+      "start": 730.8,
+      "end": 737.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I think a frequent, I've added a zero because the casual right now is at 2.1 billion."
+    },
+    {
+      "start": 737.9599999999999,
+      "end": 744.4,
+      "speaker": "SPEAKER_01",
+      "text": "And they actually make up, they make up 50% more of the population, even though they have"
+    },
+    {
+      "start": 744.4,
+      "end": 746.72,
+      "speaker": "SPEAKER_01",
+      "text": "75% less."
+    },
+    {
+      "start": 746.72,
+      "end": 751.92,
+      "speaker": "SPEAKER_01",
+      "text": "And so I don't think that frequent almond buyers would be getting 12.9."
+    },
+    {
+      "start": 751.92,
+      "end": 752.92,
+      "speaker": "SPEAKER_01",
+      "text": "So I want to run through that again."
+    },
+    {
+      "start": 752.92,
+      "end": 754.88,
+      "speaker": "SPEAKER_01",
+      "text": "I'm assuming it's probably 1.29."
+    },
+    {
+      "start": 754.88,
+      "end": 755.88,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 755.88,
+      "end": 756.88,
+      "speaker": "SPEAKER_01",
+      "text": "Go ahead."
+    },
+    {
+      "start": 756.88,
+      "end": 761.16,
+      "speaker": "SPEAKER_01",
+      "text": "30 million multiplied by 120."
+    },
+    {
+      "start": 761.16,
+      "end": 768.4,
+      "speaker": "SPEAKER_01",
+      "text": "Well, 3 million multiplied by 120 is 36, 360 million."
+    },
+    {
+      "start": 768.4,
+      "end": 773.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I don't know is there still 3.6 billion?"
+    },
+    {
+      "start": 773.32,
+      "end": 781.5200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Which means if they're spending $3, they're still getting over 10 billion."
+    },
+    {
+      "start": 781.5200000000001,
+      "end": 784.12,
+      "speaker": "SPEAKER_01",
+      "text": "So let me just make sure that's correct."
+    },
+    {
+      "start": 784.12,
+      "end": 792.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "3.6 multiplied by 3 is, I believe, still 12.9."
+    },
+    {
+      "start": 792.8000000000001,
+      "end": 795.72,
+      "speaker": "SPEAKER_01",
+      "text": "So then maybe I've actually dropped something on the casual here."
+    },
+    {
+      "start": 795.72,
+      "end": 796.72,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 796.72,
+      "end": 797.72,
+      "speaker": "SPEAKER_01",
+      "text": "Check it."
+    },
+    {
+      "start": 797.72,
+      "end": 806.0,
+      "speaker": "SPEAKER_01",
+      "text": "40% is still that 45 million multiplied by 30 would actually be 4."
+    },
+    {
+      "start": 806.0,
+      "end": 807.32,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, sorry."
+    },
+    {
+      "start": 807.32,
+      "end": 809.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Let's just go over here."
+    },
+    {
+      "start": 809.0400000000001,
+      "end": 820.2,
+      "speaker": "SPEAKER_01",
+      "text": "So 45 million multiplied by 30 or 45 times 3 is 135 million, but you add on zero."
+    },
+    {
+      "start": 820.2,
+      "end": 823.08,
+      "speaker": "SPEAKER_01",
+      "text": "So it's 1.35 billion."
+    },
+    {
+      "start": 823.08,
+      "end": 830.76,
+      "speaker": "SPEAKER_01",
+      "text": "And then you're multiplying that by $3, which would be 3 billion plus the 0.35 multiplied"
+    },
+    {
+      "start": 830.76,
+      "end": 831.76,
+      "speaker": "SPEAKER_01",
+      "text": "by 3."
+    },
+    {
+      "start": 831.76,
+      "end": 838.48,
+      "speaker": "SPEAKER_01",
+      "text": "Well, the 0.3 would be 0.9 billion and the 0.05 would be 0.15 billion."
+    },
+    {
+      "start": 838.48,
+      "end": 844.08,
+      "speaker": "SPEAKER_01",
+      "text": "So that would be a total of 4.05 billion."
+    },
+    {
+      "start": 844.08,
+      "end": 850.72,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm not sure where I dropped the value there, but now we've got 4.05 billion plus the"
+    },
+    {
+      "start": 850.72,
+      "end": 857.08,
+      "speaker": "SPEAKER_01",
+      "text": "12.9 billion is going to be 16.95 billion."
+    },
+    {
+      "start": 857.08,
+      "end": 860.72,
+      "speaker": "SPEAKER_01",
+      "text": "Let's call it plus 12.9."
+    },
+    {
+      "start": 860.72,
+      "end": 861.72,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 861.72,
+      "end": 864.52,
+      "speaker": "SPEAKER_00",
+      "text": "I think the 12.9 included the 2.1 earlier."
+    },
+    {
+      "start": 864.52,
+      "end": 865.52,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, yes."
+    },
+    {
+      "start": 865.52,
+      "end": 866.52,
+      "speaker": "SPEAKER_01",
+      "text": "Sorry."
+    },
+    {
+      "start": 866.52,
+      "end": 867.52,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you for that."
+    },
+    {
+      "start": 867.52,
+      "end": 869.44,
+      "speaker": "SPEAKER_01",
+      "text": "Plus the 10.8 billion."
+    },
+    {
+      "start": 869.44,
+      "end": 873.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And then that'll be 14.85."
+    },
+    {
+      "start": 873.6800000000001,
+      "end": 876.2,
+      "speaker": "SPEAKER_01",
+      "text": "Or if you wanted to round it up, we can say 15 billion."
+    },
+    {
+      "start": 876.2,
+      "end": 877.2,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 877.2,
+      "end": 878.2,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds reasonable to me."
+    },
+    {
+      "start": 878.2,
+      "end": 879.2,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 879.6800000000001,
+      "end": 880.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think?"
+    },
+    {
+      "start": 880.8000000000001,
+      "end": 882.0,
+      "speaker": "SPEAKER_01",
+      "text": "A lot of money spent on all this."
+    },
+    {
+      "start": 882.0,
+      "end": 884.32,
+      "speaker": "SPEAKER_00",
+      "text": "Still a lot of money spent on all this, right?"
+    },
+    {
+      "start": 884.32,
+      "end": 887.48,
+      "speaker": "SPEAKER_01",
+      "text": "Going with what you went with earlier in terms of, do I recommend it?"
+    },
+    {
+      "start": 887.48,
+      "end": 891.72,
+      "speaker": "SPEAKER_01",
+      "text": "I still recommend it, but I'd love to get maybe a little bit more information."
+    },
+    {
+      "start": 891.72,
+      "end": 897.44,
+      "speaker": "SPEAKER_01",
+      "text": "If we go back to how I structured my thoughts, obviously, the market is there."
+    },
+    {
+      "start": 897.44,
+      "end": 898.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And that's great."
+    },
+    {
+      "start": 898.2800000000001,
+      "end": 900.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Tell me what you would want to know."
+    },
+    {
+      "start": 900.2800000000001,
+      "end": 905.88,
+      "speaker": "SPEAKER_01",
+      "text": "I'd want one to know what is there actual percentage of the market that they're capturing"
+    },
+    {
+      "start": 905.88,
+      "end": 907.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "and how profitable they are."
+    },
+    {
+      "start": 907.2800000000001,
+      "end": 908.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 908.28,
+      "end": 910.28,
+      "speaker": "SPEAKER_01",
+      "text": "So let me give you a little bit of detail."
+    },
+    {
+      "start": 910.28,
+      "end": 914.28,
+      "speaker": "SPEAKER_01",
+      "text": "Almond company's current market here is 10%."
+    },
+    {
+      "start": 914.28,
+      "end": 917.28,
+      "speaker": "SPEAKER_01",
+      "text": "Almond company's profit margin is 30%."
+    },
+    {
+      "start": 917.28,
+      "end": 922.28,
+      "speaker": "SPEAKER_01",
+      "text": "And they're currently on the market for $2 billion."
+    },
+    {
+      "start": 922.28,
+      "end": 925.28,
+      "speaker": "SPEAKER_00",
+      "text": "And then we can see what they actually want us to pay for this company."
+    },
+    {
+      "start": 925.28,
+      "end": 930.28,
+      "speaker": "SPEAKER_00",
+      "text": "And I would say if it's under five years of revenue, I'd be happy saying to go forward with this."
+    },
+    {
+      "start": 930.28,
+      "end": 931.28,
+      "speaker": "SPEAKER_00",
+      "text": "OK."
+    },
+    {
+      "start": 931.28,
+      "end": 934.28,
+      "speaker": "SPEAKER_00",
+      "text": "So let me give you a little bit of detail."
+    },
+    {
+      "start": 934.28,
+      "end": 936.28,
+      "speaker": "SPEAKER_00",
+      "text": "The real market for $2 billion."
+    },
+    {
+      "start": 936.28,
+      "end": 938.28,
+      "speaker": "UNKNOWN",
+      "text": "OK."
+    },
+    {
+      "start": 938.28,
+      "end": 941.28,
+      "speaker": "SPEAKER_01",
+      "text": "Let me walk you through what I want to do."
+    },
+    {
+      "start": 941.28,
+      "end": 946.28,
+      "speaker": "SPEAKER_01",
+      "text": "So 10% share in the market of 15 billion eurocave we used this to let us want to do that."
+    },
+    {
+      "start": 946.28,
+      "end": 951.28,
+      "speaker": "SPEAKER_01",
+      "text": "Is this in the total address for like this is the total market science, right?"
+    },
+    {
+      "start": 951.28,
+      "end": 953.28,
+      "speaker": "SPEAKER_01",
+      "text": "Of what of all?"
+    },
+    {
+      "start": 953.28,
+      "end": 954.28,
+      "speaker": "SPEAKER_01",
+      "text": "Of all of us purchased almonds."
+    },
+    {
+      "start": 954.28,
+      "end": 955.28,
+      "speaker": "SPEAKER_01",
+      "text": "Correct."
+    },
+    {
+      "start": 955.28,
+      "end": 957.28,
+      "speaker": "SPEAKER_01",
+      "text": "Snacking ones to be to be precise."
+    },
+    {
+      "start": 957.28,
+      "end": 958.28,
+      "speaker": "SPEAKER_01",
+      "text": "OK."
+    },
+    {
+      "start": 958.28,
+      "end": 965.28,
+      "speaker": "SPEAKER_01",
+      "text": "So 10% share is 1.5 billion and they have a 30% profit margin."
+    },
+    {
+      "start": 965.28,
+      "end": 970.28,
+      "speaker": "SPEAKER_01",
+      "text": "Well 10% of 1.5 billion is 150 million."
+    },
+    {
+      "start": 970.28,
+      "end": 976.28,
+      "speaker": "SPEAKER_01",
+      "text": "Multiply that by 3 is 450 million."
+    },
+    {
+      "start": 976.28,
+      "end": 981.28,
+      "speaker": "SPEAKER_01",
+      "text": "So their annual profit on average is 450 million."
+    },
+    {
+      "start": 981.28,
+      "end": 985.28,
+      "speaker": "SPEAKER_01",
+      "text": "Well, to find out how long we'd have to break even on that,"
+    },
+    {
+      "start": 985.28,
+      "end": 987.28,
+      "speaker": "SPEAKER_01",
+      "text": "and again, I want to keep it under five years."
+    },
+    {
+      "start": 987.28,
+      "end": 1001.28,
+      "speaker": "SPEAKER_01",
+      "text": "We can divide 2 billion by 450 and 2 billion divided by 450 million is just over 4.5."
+    },
+    {
+      "start": 1001.28,
+      "end": 1004.28,
+      "speaker": "SPEAKER_01",
+      "text": "Do you want me to tell you exactly number?"
+    },
+    {
+      "start": 1004.28,
+      "end": 1011.28,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so 2,000 million, I'm just going to say over 450 million."
+    },
+    {
+      "start": 1011.28,
+      "end": 1022.28,
+      "speaker": "SPEAKER_01",
+      "text": "We've got 200 over 45. If we factor out 5, it's over 9 and it's 40 over 9."
+    },
+    {
+      "start": 1022.28,
+      "end": 1030.28,
+      "speaker": "SPEAKER_01",
+      "text": "And then 40 divided by 9, 36 would be equal to 4."
+    },
+    {
+      "start": 1030.28,
+      "end": 1033.28,
+      "speaker": "SPEAKER_01",
+      "text": "And then we've got a remainder of 4 over 9."
+    },
+    {
+      "start": 1033.28,
+      "end": 1039.28,
+      "speaker": "SPEAKER_01",
+      "text": "And we can calculate that as about annual the exact number."
+    },
+    {
+      "start": 1039.28,
+      "end": 1041.28,
+      "speaker": "SPEAKER_00",
+      "text": "No, no, necessarily."
+    },
+    {
+      "start": 1041.28,
+      "end": 1045.28,
+      "speaker": "SPEAKER_01",
+      "text": "But close. Okay. Well 4.5 over 9 is 1.5."
+    },
+    {
+      "start": 1045.28,
+      "end": 1048.28,
+      "speaker": "SPEAKER_01",
+      "text": "So it's probably just under 1.5."
+    },
+    {
+      "start": 1048.28,
+      "end": 1050.28,
+      "speaker": "SPEAKER_01",
+      "text": "3 over 9 is 33%."
+    },
+    {
+      "start": 1050.28,
+      "end": 1054.28,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm guessing it's somewhere in the early 40% range."
+    },
+    {
+      "start": 1054.28,
+      "end": 1060.28,
+      "speaker": "SPEAKER_01",
+      "text": "So what that means is it would take us about 4.4 years."
+    },
+    {
+      "start": 1060.28,
+      "end": 1065.28,
+      "speaker": "SPEAKER_01",
+      "text": "Which means it wouldn't actually quite take us 4.5 years."
+    },
+    {
+      "start": 1065.28,
+      "end": 1068.28,
+      "speaker": "SPEAKER_01",
+      "text": "So we're actually close to that 4 year break even though we are 5 years."
+    },
+    {
+      "start": 1068.28,
+      "end": 1070.28,
+      "speaker": "SPEAKER_00",
+      "text": "So I think about this number."
+    },
+    {
+      "start": 1070.28,
+      "end": 1072.28,
+      "speaker": "SPEAKER_01",
+      "text": "Well, I still, I think it's good."
+    },
+    {
+      "start": 1072.28,
+      "end": 1074.28,
+      "speaker": "SPEAKER_01",
+      "text": "And I think that we're getting a good price."
+    },
+    {
+      "start": 1074.28,
+      "end": 1077.28,
+      "speaker": "SPEAKER_01",
+      "text": "I think they're pretty fairly price is what it seems like."
+    },
+    {
+      "start": 1077.28,
+      "end": 1078.28,
+      "speaker": "SPEAKER_01",
+      "text": "And they've done their research."
+    },
+    {
+      "start": 1078.28,
+      "end": 1082.28,
+      "speaker": "SPEAKER_01",
+      "text": "But I would also say that bearing in mind if we've given them 5 years,"
+    },
+    {
+      "start": 1082.28,
+      "end": 1083.28,
+      "speaker": "SPEAKER_01",
+      "text": "we can't do it in 4."
+    },
+    {
+      "start": 1083.28,
+      "end": 1088.28,
+      "speaker": "SPEAKER_01",
+      "text": "We do still have to probably get to that 5th year for it to start becoming profitable for us."
+    },
+    {
+      "start": 1088.28,
+      "end": 1094.28,
+      "speaker": "SPEAKER_01",
+      "text": "Again, maybe there's some savings here in terms of the synergies and the operational considerations."
+    },
+    {
+      "start": 1094.28,
+      "end": 1096.28,
+      "speaker": "SPEAKER_01",
+      "text": "There's also probably some risks as well, right?"
+    },
+    {
+      "start": 1096.28,
+      "end": 1098.28,
+      "speaker": "SPEAKER_01",
+      "text": "So we're taking out a massive loan."
+    },
+    {
+      "start": 1098.28,
+      "end": 1102.28,
+      "speaker": "SPEAKER_01",
+      "text": "Because if so, then the interest is going to, is going to kill us on, on, on what is it?"
+    },
+    {
+      "start": 1102.28,
+      "end": 1105.28,
+      "speaker": "SPEAKER_01",
+      "text": "450 or $2 billion."
+    },
+    {
+      "start": 1105.28,
+      "end": 1108.28,
+      "speaker": "SPEAKER_01",
+      "text": "So I think you do have to still consider some of the other factors there."
+    },
+    {
+      "start": 1108.28,
+      "end": 1109.28,
+      "speaker": "SPEAKER_01",
+      "text": "But it's a pretty good price."
+    },
+    {
+      "start": 1109.28,
+      "end": 1112.28,
+      "speaker": "SPEAKER_01",
+      "text": "And I still, I'm still all for going for this."
+    },
+    {
+      "start": 1112.28,
+      "end": 1116.28,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome. Let's talk through some of the other factors that we would consider,"
+    },
+    {
+      "start": 1116.28,
+      "end": 1121.28,
+      "speaker": "SPEAKER_00",
+      "text": "especially in the operational risk and the, and the systematic risk here."
+    },
+    {
+      "start": 1121.28,
+      "end": 1124.28,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Interesting terms of brainstorming if you might."
+    },
+    {
+      "start": 1124.28,
+      "end": 1128.28,
+      "speaker": "SPEAKER_00",
+      "text": "Exactly. For example, if you want that number to be lower, to be lower,"
+    },
+    {
+      "start": 1128.28,
+      "end": 1134.28,
+      "speaker": "SPEAKER_00",
+      "text": "or if you want to have a sure thing, or if you want to improve the profit of the business after you purchase it,"
+    },
+    {
+      "start": 1134.28,
+      "end": 1136.28,
+      "speaker": "SPEAKER_01",
+      "text": "what are the ways that you would do that?"
+    },
+    {
+      "start": 1136.28,
+      "end": 1139.28,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. Well, I'd love to just structure this as basic profit."
+    },
+    {
+      "start": 1139.28,
+      "end": 1141.28,
+      "speaker": "SPEAKER_01",
+      "text": "If we want to increase that."
+    },
+    {
+      "start": 1141.28,
+      "end": 1142.28,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 1142.28,
+      "end": 1147.28,
+      "speaker": "SPEAKER_01",
+      "text": "So we know that profit is revenues."
+    },
+    {
+      "start": 1147.28,
+      "end": 1150.28,
+      "speaker": "SPEAKER_01",
+      "text": "They can go up or costs."
+    },
+    {
+      "start": 1150.28,
+      "end": 1157.28,
+      "speaker": "SPEAKER_01",
+      "text": "They can go down. So for the revenues to go up, we can increase the price."
+    },
+    {
+      "start": 1157.28,
+      "end": 1160.28,
+      "speaker": "SPEAKER_01",
+      "text": "And that may decrease the amount of units sold."
+    },
+    {
+      "start": 1160.28,
+      "end": 1166.28,
+      "speaker": "SPEAKER_01",
+      "text": "If we can, if we can increase the units sold as well."
+    },
+    {
+      "start": 1166.28,
+      "end": 1171.28,
+      "speaker": "SPEAKER_01",
+      "text": "And the way we, some ways we could actually do that would be really interesting of if we bundled it with SAMs."
+    },
+    {
+      "start": 1171.28,
+      "end": 1176.28,
+      "speaker": "SPEAKER_01",
+      "text": "Offerings, we could get some sort of trail mix and we can start even making new products."
+    },
+    {
+      "start": 1176.28,
+      "end": 1180.28,
+      "speaker": "SPEAKER_01",
+      "text": "Another thing we could do is even look at lowering the price."
+    },
+    {
+      "start": 1180.28,
+      "end": 1183.28,
+      "speaker": "SPEAKER_01",
+      "text": "I'm not one to do that immediately. I'd rather increase the price."
+    },
+    {
+      "start": 1183.28,
+      "end": 1189.28,
+      "speaker": "SPEAKER_01",
+      "text": "But if lowering the price is going to get significantly more units, that's something we could do."
+    },
+    {
+      "start": 1189.28,
+      "end": 1196.28,
+      "speaker": "SPEAKER_01",
+      "text": "And we could also come up with a new product mix, like I mentioned earlier."
+    },
+    {
+      "start": 1196.28,
+      "end": 1202.28,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of the costs, I think some things we can do is we can look at lowering them through economies of scale."
+    },
+    {
+      "start": 1202.28,
+      "end": 1217.28,
+      "speaker": "SPEAKER_01",
+      "text": "So whether that be merging warehouses, bundling distribution."
+    },
+    {
+      "start": 1217.28,
+      "end": 1221.28,
+      "speaker": "SPEAKER_01",
+      "text": "And by that, I mean, actually, like shipping them in the same container."
+    },
+    {
+      "start": 1221.28,
+      "end": 1226.28,
+      "speaker": "SPEAKER_01",
+      "text": "We could also merge production."
+    },
+    {
+      "start": 1226.28,
+      "end": 1236.28,
+      "speaker": "SPEAKER_01",
+      "text": "The only thing that I would say with that is you have to be really careful because people with really bad peanut allergies probably couldn't even have almonds that were made in the same factory."
+    },
+    {
+      "start": 1236.28,
+      "end": 1240.28,
+      "speaker": "SPEAKER_01",
+      "text": "So you'd have to be considerate of people with allergies and other things that."
+    },
+    {
+      "start": 1240.28,
+      "end": 1246.28,
+      "speaker": "SPEAKER_01",
+      "text": "And another thing that you could even look at is in terms of actual variable costs and bulk costs."
+    },
+    {
+      "start": 1246.28,
+      "end": 1254.28,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe if we can somehow bundle those offerings and buy multiple different types of nuts at once, we can get a better price."
+    },
+    {
+      "start": 1254.28,
+      "end": 1263.28,
+      "speaker": "SPEAKER_01",
+      "text": "Not guaranteed, but it's still still something that."
+    },
+    {
+      "start": 1263.28,
+      "end": 1268.28,
+      "speaker": "SPEAKER_00",
+      "text": "Seems reasonable. So with everything that we've talked about now, would you recommend purchasing or not?"
+    },
+    {
+      "start": 1268.28,
+      "end": 1269.28,
+      "speaker": "SPEAKER_01",
+      "text": "I would recommend purchasing."
+    },
+    {
+      "start": 1269.28,
+      "end": 1271.28,
+      "speaker": "SPEAKER_00",
+      "text": "Explain a little bit more."
+    },
+    {
+      "start": 1271.28,
+      "end": 1276.28,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. So, and is this, am I speaking with the CEO now? Are we ready for that?"
+    },
+    {
+      "start": 1276.28,
+      "end": 1278.28,
+      "speaker": "SPEAKER_00",
+      "text": "Whether you are or not, tell me the answer."
+    },
+    {
+      "start": 1278.28,
+      "end": 1284.28,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I think we absolutely have to buy. And the reason being is that we've looked at the market and it's a very attractive market."
+    },
+    {
+      "start": 1284.28,
+      "end": 1294.28,
+      "speaker": "SPEAKER_01",
+      "text": "On top of that, we've looked at almond coes financials and they're advertised for for fair prices arbitrage that there's actually they are charging less than they probably should."
+    },
+    {
+      "start": 1294.28,
+      "end": 1299.28,
+      "speaker": "SPEAKER_01",
+      "text": "And on top of that, they're only in 10% of the market right now for snacking almonds."
+    },
+    {
+      "start": 1299.28,
+      "end": 1307.28,
+      "speaker": "SPEAKER_01",
+      "text": "I think there's room for improvement there. But more importantly, we when we've looked at the actual ways that we can increase the profitability of almond coo."
+    },
+    {
+      "start": 1307.28,
+      "end": 1317.28,
+      "speaker": "SPEAKER_01",
+      "text": "In just five minutes, we've come up with with eight ideas. And there's probably plenty more where that came from. And there's not even you don't have to pick one. You can pick multiple of them."
+    },
+    {
+      "start": 1317.28,
+      "end": 1319.28,
+      "speaker": "SPEAKER_00",
+      "text": "Fantastic. Thank you."
+    },
+    {
+      "start": 1319.28,
+      "end": 1320.28,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 1320.28,
+      "end": 1322.28,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. What did you think about that one?"
+    },
+    {
+      "start": 1322.28,
+      "end": 1327.28,
+      "speaker": "SPEAKER_01",
+      "text": "I loved that. But it was a very structured case. It felt it felt."
+    },
+    {
+      "start": 1327.28,
+      "end": 1332.28,
+      "speaker": "SPEAKER_01",
+      "text": "It had a nice flow to it. And I think I did a decent job of staying structured throughout the process."
+    },
+    {
+      "start": 1333.28,
+      "end": 1340.28,
+      "speaker": "SPEAKER_00",
+      "text": "I think that's true. So, you know, I think one of the key pieces that was an important piece of context. I think you caught at the beginning."
+    },
+    {
+      "start": 1340.28,
+      "end": 1351.28,
+      "speaker": "SPEAKER_00",
+      "text": "I think that's one of the key things that I really, I think that was a great thing."
+    },
+    {
+      "start": 1351.28,
+      "end": 1355.28,
+      "speaker": "SPEAKER_00",
+      "text": "That was a great, a great thing. And that was a great thing."
+    },
+    {
+      "start": 1355.28,
+      "end": 1363.28,
+      "speaker": "SPEAKER_00",
+      "text": "And I think the last side of it and then came back to the end was that the whole reason for acquiring it all was that they felt like there was slow growth in their core market, right."
+    },
+    {
+      "start": 1363.28,
+      "end": 1369.28,
+      "speaker": "SPEAKER_00",
+      "text": "And so I thought your structure was very good at the beginning. I thought that you really highlighted some of the key."
+    },
+    {
+      "start": 1369.28,
+      "end": 1377.28,
+      "speaker": "SPEAKER_00",
+      "text": "You know, financial focuses. I would say just as a general focus area. If I haven't said that the market is great."
+    },
+    {
+      "start": 1377.28,
+      "end": 1382.28,
+      "speaker": "SPEAKER_00",
+      "text": "That it's that there are no competitors and that it's fast, fast growing."
+    },
+    {
+      "start": 1382.28,
+      "end": 1386.28,
+      "speaker": "SPEAKER_00",
+      "text": "I would recommend the input market first in a PE case."
+    },
+    {
+      "start": 1386.28,
+      "end": 1393.28,
+      "speaker": "SPEAKER_00",
+      "text": "Just because usually we're not going to look at the acquisition target. We're going to look at the market. If it's not a market, we want to be in. We don't look at our target at all."
+    },
+    {
+      "start": 1393.28,
+      "end": 1404.28,
+      "speaker": "SPEAKER_00",
+      "text": "So it's kind of just a rational order, especially for PE cases. So, of course, the case followed that structure because that's the traditional due diligence that you're going to do as well."
+    },
+    {
+      "start": 1404.28,
+      "end": 1413.28,
+      "speaker": "SPEAKER_00",
+      "text": "So that would have been a better alignment. You also said scale of economies, which was kind of funny. I don't know if that was miss broken, but, but economies of scale. Right."
+    },
+    {
+      "start": 1413.28,
+      "end": 1418.28,
+      "speaker": "SPEAKER_00",
+      "text": "So I just wanted to make a triangle that out at the end."
+    },
+    {
+      "start": 1418.28,
+      "end": 1428.28,
+      "speaker": "SPEAKER_00",
+      "text": "You also said cannibalization when you didn't say cannibalism. That was great. Sometimes people have messed that up and that's a little bit funny."
+    },
+    {
+      "start": 1428.28,
+      "end": 1438.28,
+      "speaker": "SPEAKER_00",
+      "text": "So, you know, after your structure, right, I was looking for the numbers, fantastic job of brainstorming and writing down exactly what you wanted in terms of the number."
+    },
+    {
+      "start": 1438.28,
+      "end": 1448.28,
+      "speaker": "SPEAKER_00",
+      "text": "I felt like those numbers were really good. Right. Cross out the one segment. That was fantastic. Some people will do some of that math just by wrote instead of thinking about it. So great job on not doing that."
+    },
+    {
+      "start": 1448.28,
+      "end": 1463.28,
+      "speaker": "SPEAKER_00",
+      "text": "Obviously, a little bit of a math error there. I felt like you maybe could have caught it because you were trying to convince me that even if they were four times as large, but all but but smaller on the population that they could get to five times."
+    },
+    {
+      "start": 1463.28,
+      "end": 1465.28,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1465.28,
+      "end": 1475.28,
+      "speaker": "SPEAKER_00",
+      "text": "To five times the total number. And I was I was really not buying it. So just be careful. If I ask you a question, really make sure that you're light of reasoning makes sense there."
+    },
+    {
+      "start": 1475.28,
+      "end": 1485.28,
+      "speaker": "SPEAKER_00",
+      "text": "And so obviously we got there eventually, but I didn't I didn't have confidence in your math ability in this case until we got to the second question."
+    },
+    {
+      "start": 1485.28,
+      "end": 1497.28,
+      "speaker": "SPEAKER_00",
+      "text": "And I rather not wait right I'd rather have it from the beginning. When we talked about the existing snack next business. I really think that thinking first about what you could do in isolation is good."
+    },
+    {
+      "start": 1497.28,
+      "end": 1505.28,
+      "speaker": "SPEAKER_00",
+      "text": "But I would have wanted you to kind of map each of the revenues and the cost to whether it could be done by any buyer or specifically by us."
+    },
+    {
+      "start": 1505.28,
+      "end": 1506.28,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1506.28,
+      "end": 1516.28,
+      "speaker": "SPEAKER_00",
+      "text": "So we've got the data and peanuts. And so hypothetically, we should be willing to pay more for a business that we can add more value to you."
+    },
+    {
+      "start": 1516.28,
+      "end": 1522.28,
+      "speaker": "SPEAKER_00",
+      "text": "So some of that was it felt a little generic not as tailored to I'm Sam's Peanut Company trying to buy this."
+    },
+    {
+      "start": 1522.28,
+      "end": 1526.28,
+      "speaker": "SPEAKER_00",
+      "text": "And then your final recommendation, I don't know if you just didn't know if it was if I was saying that it was the final recognition."
+    },
+    {
+      "start": 1526.28,
+      "end": 1535.28,
+      "speaker": "SPEAKER_00",
+      "text": "And so you're kind of like, but make sure you still walk me through the full process, right? Here's what I think look and you came up with the supporting data."
+    },
+    {
+      "start": 1535.28,
+      "end": 1542.28,
+      "speaker": "SPEAKER_00",
+      "text": "But then the hey, there's a lot more that we want to look at before we pull the trigger on this. And I think you could have gotten a little bit deeper."
+    },
+    {
+      "start": 1542.28,
+      "end": 1543.28,
+      "speaker": "SPEAKER_00",
+      "text": "Overall, good job."
+    },
+    {
+      "start": 1543.28,
+      "end": 1544.28,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, thank you very much."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 12,
+    "math": 10,
+    "case_difficulty": 11,
+    "final_summary": 14,
+    "overall_thoughts": "You communicated clearly but struggled with the math and framework development; consider building a stronger risk analysis in your final summary."
+  }
+}

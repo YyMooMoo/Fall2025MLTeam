@@ -1,0 +1,2202 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 10.08,
+      "speaker": "SPEAKER_00",
+      "text": "Great. So we'll spend about 30 minutes or so on this Gabriel. As was mentioned earlier,"
+    },
+    {
+      "start": 10.08,
+      "end": 14.6,
+      "speaker": "SPEAKER_00",
+      "text": "this is a McKinsey-styled case. So that means it's more structured and designed to be"
+    },
+    {
+      "start": 14.6,
+      "end": 19.36,
+      "speaker": "SPEAKER_00",
+      "text": "interviewer led as opposed to being candidate led. So I'll kind of walk you through the"
+    },
+    {
+      "start": 19.36,
+      "end": 24.36,
+      "speaker": "SPEAKER_00",
+      "text": "questions in a little bit more procedure than the tip and then a lot of the more open-ended"
+    },
+    {
+      "start": 24.36,
+      "end": 29.36,
+      "speaker": "SPEAKER_00",
+      "text": "candidate led cases from some of the other consulting firms. Make sense? A church."
+    },
+    {
+      "start": 29.919999999999998,
+      "end": 35.04,
+      "speaker": "SPEAKER_00",
+      "text": "All right. And as per usual, you know, try not to use a calculator on this. If you can,"
+    },
+    {
+      "start": 35.68,
+      "end": 40.0,
+      "speaker": "SPEAKER_00",
+      "text": "you have to scratch paper and pencil by your side and we'll get straight into it."
+    },
+    {
+      "start": 40.96,
+      "end": 46.4,
+      "speaker": "SPEAKER_00",
+      "text": "All right. So here's the here's the prompts to start us out. So our client is a national postal"
+    },
+    {
+      "start": 46.4,
+      "end": 52.4,
+      "speaker": "SPEAKER_00",
+      "text": "operator of a Western European country. The client delivers mail and parcels throughout the country."
+    },
+    {
+      "start": 52.96,
+      "end": 57.519999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Over the past decade, the client has seen its profitability decline significantly."
+    },
+    {
+      "start": 58.32,
+      "end": 62.56,
+      "speaker": "SPEAKER_00",
+      "text": "The government, which is the owner of this postal operator, is putting pressure on the"
+    },
+    {
+      "start": 62.56,
+      "end": 68.56,
+      "speaker": "SPEAKER_00",
+      "text": "management team to get back to profitability. The client hired us to figure out the cause of"
+    },
+    {
+      "start": 68.56,
+      "end": 74.88,
+      "speaker": "SPEAKER_00",
+      "text": "the profitability decline and how to reverse this trend. So feel free to ask any clarifying"
+    },
+    {
+      "start": 74.88,
+      "end": 80.80000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "questions that you have. And then once we're past that, the client would love to know what questions"
+    },
+    {
+      "start": 80.80000000000001,
+      "end": 83.28,
+      "speaker": "SPEAKER_00",
+      "text": "you would like to ask and how you would approach solving this problem."
+    },
+    {
+      "start": 83.84,
+      "end": 92.8,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you, Mike. Thank you for having me here to help solve this. So we all use the mail and"
+    },
+    {
+      "start": 93.44,
+      "end": 99.92,
+      "speaker": "SPEAKER_01",
+      "text": "I find it really interesting because I like to know how it all works. So our client is a national"
+    },
+    {
+      "start": 99.92,
+      "end": 106.32,
+      "speaker": "SPEAKER_01",
+      "text": "postal operator and they deliver mail and parcels essentially and that notice the declining"
+    },
+    {
+      "start": 106.32,
+      "end": 113.27999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "profitability and they are they want us to help them reverse this trend and get to be more"
+    },
+    {
+      "start": 113.27999999999999,
+      "end": 121.91999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "profitable. That's correct. So I have a couple of clarifying questions and the first one I would"
+    },
+    {
+      "start": 121.91999999999999,
+      "end": 128.0,
+      "speaker": "SPEAKER_01",
+      "text": "like to know is besides becoming more profitable is there any other goal for our client?"
+    },
+    {
+      "start": 128.4,
+      "end": 138.72,
+      "speaker": "SPEAKER_01",
+      "text": "No, the primary goal is profitability. Okay. I love just to be sure of the business model. So"
+    },
+    {
+      "start": 138.72,
+      "end": 146.48,
+      "speaker": "SPEAKER_01",
+      "text": "essentially how they generate an income or revenue is by is it from fees for milling these or"
+    },
+    {
+      "start": 146.48,
+      "end": 150.8,
+      "speaker": "SPEAKER_01",
+      "text": "today we knew that we're the generate revenue. So basically understanding the business model."
+    },
+    {
+      "start": 151.68,
+      "end": 159.12,
+      "speaker": "SPEAKER_00",
+      "text": "Yep. So they essentially have two kind of product lines with mail and parcel services and"
+    },
+    {
+      "start": 159.84,
+      "end": 167.12,
+      "speaker": "SPEAKER_00",
+      "text": "as far as revenue goes they get revenue from the actual postage fee for the physical letters"
+    },
+    {
+      "start": 167.12,
+      "end": 176.72000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "and for the parcels and then there's some small revenue sources from like international partners"
+    },
+    {
+      "start": 177.68,
+      "end": 185.12,
+      "speaker": "SPEAKER_00",
+      "text": "mail redirection fees that type of thing and then there's some minor revenue from state allowance"
+    },
+    {
+      "start": 185.12,
+      "end": 191.2,
+      "speaker": "SPEAKER_00",
+      "text": "but mostly it's all from that post those two postage postage fees and the stamps and the parcels"
+    },
+    {
+      "start": 191.2,
+      "end": 203.28,
+      "speaker": "SPEAKER_01",
+      "text": "or sorry the mail and the parcels. Okay, so that's very helpful. My other question would be about"
+    },
+    {
+      "start": 203.28,
+      "end": 208.0,
+      "speaker": "SPEAKER_01",
+      "text": "timeline. Do they have any timeline in mind when you're looking to get brought to profitability or"
+    },
+    {
+      "start": 208.0,
+      "end": 215.2,
+      "speaker": "SPEAKER_00",
+      "text": "need timeline targets? Actually they're most interested in the near future so in like the one year"
+    },
+    {
+      "start": 215.2,
+      "end": 220.56,
+      "speaker": "SPEAKER_00",
+      "text": "horizon they're they also are interested in you know medium and long term plays in three to seven"
+    },
+    {
+      "start": 220.56,
+      "end": 229.76,
+      "speaker": "SPEAKER_00",
+      "text": "years but they're being pushed to get to profitability in the next year. So next yeah. So two"
+    },
+    {
+      "start": 229.76,
+      "end": 236.16,
+      "speaker": "SPEAKER_01",
+      "text": "parts question one is what's what's their profitability right currently in terms of numbers and"
+    },
+    {
+      "start": 236.16,
+      "end": 242.23999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "do they have any targets in mind in terms of margins and secondly what's the competitive and space"
+    },
+    {
+      "start": 242.23999999999998,
+      "end": 248.64,
+      "speaker": "SPEAKER_01",
+      "text": "like are they having any problems with like or that postage services like private postage services."
+    },
+    {
+      "start": 249.84,
+      "end": 254.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Yep. So we'll get into the specific numbers on revenue and costs in the next question."
+    },
+    {
+      "start": 255.76000000000002,
+      "end": 261.68,
+      "speaker": "SPEAKER_00",
+      "text": "For the competition they they're the dominant player in the market but there is some minor"
+    },
+    {
+      "start": 261.68,
+      "end": 268.8,
+      "speaker": "SPEAKER_00",
+      "text": "private competition from the kind of private postal industry like your FedEx as UPS is of the world."
+    },
+    {
+      "start": 268.8,
+      "end": 275.68,
+      "speaker": "SPEAKER_00",
+      "text": "It's relatively minor compared to the postal service though. Okay, so I'd like to take one two"
+    },
+    {
+      "start": 275.68,
+      "end": 281.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "minutes to jump jump how it acts up which is and now we'll please do my touch for says. Okay."
+    },
+    {
+      "start": 282.0,
+      "end": 292.96,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so I'm back and to help our client which is the government essentially to solve this"
+    },
+    {
+      "start": 292.96,
+      "end": 297.52,
+      "speaker": "SPEAKER_01",
+      "text": "profitability problem there are three things I would like to share four things I like to"
+    },
+    {
+      "start": 297.52,
+      "end": 303.35999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "consider. So the first thing would be to look at the financials because profitability"
+    },
+    {
+      "start": 303.35999999999996,
+      "end": 308.47999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "stands out as the most important problem to them so under that they are two major things I'd"
+    },
+    {
+      "start": 308.72,
+      "end": 315.52000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "like to consider. One is revenue and two is cost. Under the revenues I would like to look at the"
+    },
+    {
+      "start": 315.52000000000004,
+      "end": 321.92,
+      "speaker": "SPEAKER_01",
+      "text": "postage fees and what they are like and benchmark their margins the competition and also look at the"
+    },
+    {
+      "start": 321.92,
+      "end": 327.52000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "number of meals we are currently sending out currently then under cost I'd like to look at what are"
+    },
+    {
+      "start": 327.52000000000004,
+      "end": 332.72,
+      "speaker": "SPEAKER_01",
+      "text": "the costs as she said with this do we have to settle postal offices or more drop off fines"
+    },
+    {
+      "start": 333.6,
+      "end": 337.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "also look at like labor costs so essentially looking at the fixed and variable"
+    },
+    {
+      "start": 337.84000000000003,
+      "end": 344.64000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "company and of our cost the second thing I would like to consider is the market. So to look at the"
+    },
+    {
+      "start": 344.64000000000004,
+      "end": 350.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "market I would like to understand the market size for the postal service industry also look at"
+    },
+    {
+      "start": 350.8,
+      "end": 356.0,
+      "speaker": "SPEAKER_01",
+      "text": "the goods the trend so is it a green market is it a match or a market or is it a declining market"
+    },
+    {
+      "start": 356.0,
+      "end": 361.6,
+      "speaker": "SPEAKER_01",
+      "text": "so what's happening people now sending more meals like emails rather than physical meals"
+    },
+    {
+      "start": 361.68,
+      "end": 367.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "we do we have so essentially what's happening in the markets overall so looking at the size and the"
+    },
+    {
+      "start": 367.84000000000003,
+      "end": 374.56,
+      "speaker": "SPEAKER_01",
+      "text": "trends the thought bucket electric examine is the competition so we've already said that they are"
+    },
+    {
+      "start": 374.56,
+      "end": 379.36,
+      "speaker": "SPEAKER_01",
+      "text": "the major players however they are other players in the industry so looking at the private"
+    },
+    {
+      "start": 379.36,
+      "end": 384.0,
+      "speaker": "SPEAKER_01",
+      "text": "competition and essentially what is that differentiator what is the unique thing the"
+    },
+    {
+      "start": 384.0,
+      "end": 389.36,
+      "speaker": "SPEAKER_01",
+      "text": "competition is bringing to the table then also benchmarking our profitability against the"
+    },
+    {
+      "start": 389.36,
+      "end": 394.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "profitability of the competition and actually figuring out what exactly they are doing different"
+    },
+    {
+      "start": 394.64,
+      "end": 400.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "the thought and find out what we'd like to examine is basically socioeconomic factors so what's"
+    },
+    {
+      "start": 400.40000000000003,
+      "end": 406.72,
+      "speaker": "SPEAKER_01",
+      "text": "happening in the economy are we in recession people just generally purchasing the"
+    },
+    {
+      "start": 406.72,
+      "end": 412.32,
+      "speaker": "SPEAKER_01",
+      "text": "ads and milling things less or communicating less and also like what's the political climate"
+    },
+    {
+      "start": 412.32,
+      "end": 418.24,
+      "speaker": "SPEAKER_01",
+      "text": "are we as the postal services is there any negative branding as she said with the postal"
+    },
+    {
+      "start": 418.72,
+      "end": 425.2,
+      "speaker": "SPEAKER_01",
+      "text": "service so these are the four things I would like to examine so to start I would like to look"
+    },
+    {
+      "start": 425.2,
+      "end": 429.92,
+      "speaker": "SPEAKER_01",
+      "text": "towards profitability so as I can tell you the revenues and costs which is the industry"
+    },
+    {
+      "start": 429.92,
+      "end": 435.92,
+      "speaker": "SPEAKER_00",
+      "text": "preventing that price line okay great well you sent me a very well then for the next question"
+    },
+    {
+      "start": 436.48,
+      "end": 441.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "so moving into the next question here the team put together two exhibits based on revenue and"
+    },
+    {
+      "start": 441.28000000000003,
+      "end": 446.8,
+      "speaker": "SPEAKER_00",
+      "text": "costs so based on exhibit one and two what can you conclude about the source of the decline"
+    },
+    {
+      "start": 446.88,
+      "end": 451.36,
+      "speaker": "SPEAKER_00",
+      "text": "profitability and what hypotheses do you have on how we can get back to profitability"
+    },
+    {
+      "start": 452.72,
+      "end": 460.88,
+      "speaker": "SPEAKER_01",
+      "text": "okay so it's a bit to run is essentially a bar chat or a stacked bar chat telling us about"
+    },
+    {
+      "start": 462.32,
+      "end": 470.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "how revenues has been divided last five years and just very quickly something that sounds"
+    },
+    {
+      "start": 470.4,
+      "end": 477.59999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "very clearly is that the share of revenue coming from meals has been declining"
+    },
+    {
+      "start": 478.24,
+      "end": 485.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "year by year and the share of revenue coming from parcels has been increasing rapidly we can"
+    },
+    {
+      "start": 485.84,
+      "end": 490.96,
+      "speaker": "SPEAKER_01",
+      "text": "in an opposite fashion so we cannot be odd I think to see is that"
+    },
+    {
+      "start": 490.96,
+      "end": 500.56,
+      "speaker": "SPEAKER_01",
+      "text": "the peak revenue was in 2018 which is five years ago and it has been constantly declining"
+    },
+    {
+      "start": 501.84,
+      "end": 509.28,
+      "speaker": "SPEAKER_01",
+      "text": "over the years so the things that stand out here is we have a revenue problem essentially so"
+    },
+    {
+      "start": 509.28,
+      "end": 515.04,
+      "speaker": "SPEAKER_01",
+      "text": "part of our profitability issues might be related to decreasing revenues in general"
+    },
+    {
+      "start": 515.4399999999999,
+      "end": 522.56,
+      "speaker": "SPEAKER_01",
+      "text": "and so two places to look out would be the price or the fees we tried on out the post office we"
+    },
+    {
+      "start": 522.56,
+      "end": 529.28,
+      "speaker": "SPEAKER_01",
+      "text": "tried as well as the number of meals and parcels we've been able to send over the past five years"
+    },
+    {
+      "start": 529.28,
+      "end": 537.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "and how that trend has been so I will take a few seconds to look at the exhibit too"
+    },
+    {
+      "start": 545.76,
+      "end": 553.92,
+      "speaker": "SPEAKER_01",
+      "text": "okay so this is actually because essentially showing us the cost for the past five years as well"
+    },
+    {
+      "start": 553.92,
+      "end": 558.8,
+      "speaker": "SPEAKER_01",
+      "text": "so the previous will look at revenues and it essentially breaks down the cost into all its"
+    },
+    {
+      "start": 558.8,
+      "end": 565.36,
+      "speaker": "SPEAKER_01",
+      "text": "components and one thing is the first thing that stands out is that the cost of labor has been"
+    },
+    {
+      "start": 565.36,
+      "end": 573.12,
+      "speaker": "SPEAKER_01",
+      "text": "stable over the past years so we know we don't have a head count problem but what we can see very"
+    },
+    {
+      "start": 573.12,
+      "end": 580.4,
+      "speaker": "SPEAKER_01",
+      "text": "clearly is that the amount of cost that located to depreciation has been increasing over the past"
+    },
+    {
+      "start": 580.4,
+      "end": 586.48,
+      "speaker": "SPEAKER_01",
+      "text": "five years so two things stand out or two things you could derive from that would be one it could"
+    },
+    {
+      "start": 586.48,
+      "end": 591.76,
+      "speaker": "SPEAKER_01",
+      "text": "either be the way it's reported on accounting so like the accounting method which by which"
+    },
+    {
+      "start": 592.48,
+      "end": 597.28,
+      "speaker": "SPEAKER_01",
+      "text": "the prestation is reported it could also mean that we are actually the post office everything is"
+    },
+    {
+      "start": 597.28,
+      "end": 603.6,
+      "speaker": "SPEAKER_01",
+      "text": "actually investing and buying a lot of assets over the past five years so it might be our cost"
+    },
+    {
+      "start": 603.6,
+      "end": 609.04,
+      "speaker": "SPEAKER_01",
+      "text": "increase there because we are actually investing more so we might actually need to dig deep into that"
+    },
+    {
+      "start": 609.04,
+      "end": 615.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "to for not understand that then we could also into that before you move on a little bit just to"
+    },
+    {
+      "start": 615.1999999999999,
+      "end": 620.24,
+      "speaker": "SPEAKER_00",
+      "text": "drill into that a little bit it's not a change in accounting it is because we've been making some"
+    },
+    {
+      "start": 620.24,
+      "end": 626.88,
+      "speaker": "SPEAKER_01",
+      "text": "significant investments actually okay so significant investments clearly over the past five years"
+    },
+    {
+      "start": 627.28,
+      "end": 634.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "and that has added up very quickly to our overall cost outside that everything has essentially"
+    },
+    {
+      "start": 634.3199999999999,
+      "end": 639.04,
+      "speaker": "SPEAKER_01",
+      "text": "stayed the same except for the investment cost the second part of the chart is actually"
+    },
+    {
+      "start": 639.04,
+      "end": 648.48,
+      "speaker": "SPEAKER_01",
+      "text": "located labor so even though labor has stayed the same over the years it's been the cost of people"
+    },
+    {
+      "start": 649.8399999999999,
+      "end": 656.64,
+      "speaker": "SPEAKER_01",
+      "text": "people people for parcels like I'm not exactly clear on what does what the legend means but"
+    },
+    {
+      "start": 656.64,
+      "end": 663.12,
+      "speaker": "SPEAKER_01",
+      "text": "clearly something is happening within the cost in terms of the other case. Yeah it's just"
+    },
+    {
+      "start": 663.12,
+      "end": 669.6,
+      "speaker": "SPEAKER_00",
+      "text": "the for the second one the cost of people is essentially the FTE split so the full-time"
+    },
+    {
+      "start": 669.6,
+      "end": 675.52,
+      "speaker": "SPEAKER_00",
+      "text": "equivalent split between people that are dedicated to operating any of our back-end processes"
+    },
+    {
+      "start": 675.52,
+      "end": 680.96,
+      "speaker": "SPEAKER_00",
+      "text": "front-end processes for parcels versus for mail because they're essentially two different types"
+    },
+    {
+      "start": 680.96,
+      "end": 684.8,
+      "speaker": "SPEAKER_00",
+      "text": "of product lines and they involve a lot of differences in terms of how they're managed."
+    },
+    {
+      "start": 685.04,
+      "end": 694.64,
+      "speaker": "SPEAKER_01",
+      "text": "Okay so we can see that the cost of people for parcels has been increasing gradually and"
+    },
+    {
+      "start": 694.64,
+      "end": 701.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "why the cost of people for mail has been decreasing gradually so what that could just mean that our"
+    },
+    {
+      "start": 701.8399999999999,
+      "end": 709.3599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "clients asking all the customers of our clients are asking for all I'm using the parcel service"
+    },
+    {
+      "start": 709.3599999999999,
+      "end": 713.3599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "more than the mail service so essentially people are sending more parcels than they are sending"
+    },
+    {
+      "start": 714.16,
+      "end": 720.96,
+      "speaker": "SPEAKER_01",
+      "text": "and this could also be like a technological issue because people then send more emails and try"
+    },
+    {
+      "start": 720.96,
+      "end": 727.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "to send stuff electronically then sending them for the group so in terms of suggestion for"
+    },
+    {
+      "start": 727.6800000000001,
+      "end": 734.08,
+      "speaker": "SPEAKER_01",
+      "text": "next steps what we can see is that there's a revenue problem also there's a cost problem in terms"
+    },
+    {
+      "start": 734.08,
+      "end": 741.36,
+      "speaker": "SPEAKER_01",
+      "text": "of based on our investment over time so two things I like to look at would be big"
+    },
+    {
+      "start": 741.36,
+      "end": 747.36,
+      "speaker": "SPEAKER_01",
+      "text": "depending to how the revenues are broken down as well as how the or what the investment"
+    },
+    {
+      "start": 747.36,
+      "end": 750.88,
+      "speaker": "SPEAKER_01",
+      "text": "of mail over time and how this split out into our future projections."
+    },
+    {
+      "start": 752.72,
+      "end": 758.96,
+      "speaker": "SPEAKER_00",
+      "text": "Interesting so for revenues over time you mean you mean something or other than this or what do you"
+    },
+    {
+      "start": 758.96,
+      "end": 766.16,
+      "speaker": "SPEAKER_01",
+      "text": "mean by that? So what I mean essentially is we saw peak revenues was it when the peak of revenues"
+    },
+    {
+      "start": 766.24,
+      "end": 772.4,
+      "speaker": "SPEAKER_01",
+      "text": "in the past five years was in 2018 and it's been declining steadily and two components"
+    },
+    {
+      "start": 772.4,
+      "end": 780.24,
+      "speaker": "SPEAKER_01",
+      "text": "plan to revenue which is the Pustal fees or our the price recharge for anything we do for our"
+    },
+    {
+      "start": 780.24,
+      "end": 785.52,
+      "speaker": "SPEAKER_01",
+      "text": "customers and the second part is the total number of parcels we are just sending in general"
+    },
+    {
+      "start": 785.52,
+      "end": 790.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "so actually drilling down to new which of these two components has changed over the past five years."
+    },
+    {
+      "start": 790.8000000000001,
+      "end": 796.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Gotcha okay well I don't know that I have any information specifically on that but I think"
+    },
+    {
+      "start": 796.5600000000001,
+      "end": 803.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "one additional piece of information that will help you on this is the essentially the market split"
+    },
+    {
+      "start": 803.2800000000001,
+      "end": 809.44,
+      "speaker": "SPEAKER_00",
+      "text": "the global market split between mails and parcels at the moment so I have a little bit of information"
+    },
+    {
+      "start": 809.44,
+      "end": 814.96,
+      "speaker": "SPEAKER_00",
+      "text": "on this and I'm curious if this affects your perspective on your thoughts and hypotheses that"
+    },
+    {
+      "start": 815.12,
+      "end": 825.12,
+      "speaker": "SPEAKER_01",
+      "text": "you just provide. So this is like to be definitely showing us the like you said the market split between"
+    },
+    {
+      "start": 825.12,
+      "end": 832.32,
+      "speaker": "SPEAKER_01",
+      "text": "parcels and bills over the past five years and clearly the parcels has been tickling up most"
+    },
+    {
+      "start": 832.32,
+      "end": 841.2,
+      "speaker": "SPEAKER_01",
+      "text": "of their market share from it's the most flipped to do from 5% and for parcels and 95% in 2018 to"
+    },
+    {
+      "start": 841.2,
+      "end": 848.24,
+      "speaker": "SPEAKER_01",
+      "text": "90% for parcels and 10% from mails in 2022 so what that happens is that generally most"
+    },
+    {
+      "start": 848.24,
+      "end": 856.0,
+      "speaker": "SPEAKER_01",
+      "text": "customers who use the Pustal service are using it for parcels rather than mails so most of the revenues"
+    },
+    {
+      "start": 856.0,
+      "end": 864.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "are coming from mails so I would suggest that one way we could look at this is to actually see how"
+    },
+    {
+      "start": 865.52,
+      "end": 873.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "rebranded the capabilities and more like real rather than rebranded so real the capabilities and"
+    },
+    {
+      "start": 873.1999999999999,
+      "end": 878.64,
+      "speaker": "SPEAKER_01",
+      "text": "the employees and everything for the Pustal services to follow the market trend which is more"
+    },
+    {
+      "start": 878.64,
+      "end": 884.8,
+      "speaker": "SPEAKER_01",
+      "text": "people are asking for the Pustal service than they are asking for mails. So essentially shifting"
+    },
+    {
+      "start": 884.8,
+      "end": 888.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "and more into dedication towards parcels and twice as well is what you're suggesting right?"
+    },
+    {
+      "start": 889.36,
+      "end": 894.72,
+      "speaker": "SPEAKER_00",
+      "text": "Yes okay that makes sense any other thoughts on these exhibits before I move on?"
+    },
+    {
+      "start": 896.64,
+      "end": 902.48,
+      "speaker": "SPEAKER_00",
+      "text": "Now I'll let the people out okay so I'm going to leave these on the screen because the you can"
+    },
+    {
+      "start": 902.48,
+      "end": 906.48,
+      "speaker": "SPEAKER_00",
+      "text": "use the rest of these these three exhibits you can use throughout the rest of the case and if you"
+    },
+    {
+      "start": 906.48,
+      "end": 912.32,
+      "speaker": "SPEAKER_00",
+      "text": "need them all up at some point let me know and we can rearrange these so management things at the"
+    },
+    {
+      "start": 913.2800000000001,
+      "end": 919.2,
+      "speaker": "SPEAKER_00",
+      "text": "at the client that there might exist certain redundancies between employees for mail and the"
+    },
+    {
+      "start": 919.2,
+      "end": 924.72,
+      "speaker": "SPEAKER_00",
+      "text": "parcel service lines. So they have the question of by how much should the workforce for mail"
+    },
+    {
+      "start": 924.72,
+      "end": 931.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "delivery specifically the mail delivery subgroup be reduced in order to get back to profitability?"
+    },
+    {
+      "start": 931.6800000000001,
+      "end": 937.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "This is intended as a short term goal so if you had to use only one lever which is the mail delivery"
+    },
+    {
+      "start": 937.0400000000001,
+      "end": 940.48,
+      "speaker": "SPEAKER_00",
+      "text": "how much how much headcount would you need to reduce to get back to profitability?"
+    },
+    {
+      "start": 940.96,
+      "end": 948.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And then with that I can give you a little bit of new information before we move on from here."
+    },
+    {
+      "start": 948.5600000000001,
+      "end": 956.32,
+      "speaker": "SPEAKER_00",
+      "text": "So I can tell you that the salary of a mailman which is the delivery person is 40,000 euros per year"
+    },
+    {
+      "start": 958.96,
+      "end": 967.52,
+      "speaker": "SPEAKER_00",
+      "text": "and I can tell you that the split of mailman versus sorting for the people that work in the"
+    },
+    {
+      "start": 967.52,
+      "end": 974.0,
+      "speaker": "SPEAKER_00",
+      "text": "mail department is 90% mailman delivery and 10% mail sorting."
+    },
+    {
+      "start": 979.92,
+      "end": 987.92,
+      "speaker": "SPEAKER_01",
+      "text": "Okay and so essentially what we're trying to do is to figure out how much of the"
+    },
+    {
+      "start": 988.4,
+      "end": 999.36,
+      "speaker": "SPEAKER_01",
+      "text": "the staff real we should do in terms of moving to is what currently doing mail sevens to parcel sevens."
+    },
+    {
+      "start": 1000.64,
+      "end": 1007.28,
+      "speaker": "SPEAKER_00",
+      "text": "Right it's actually we think that it's actually redundancies that exist now so it's less about moving"
+    },
+    {
+      "start": 1007.28,
+      "end": 1013.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "and the current hypothesis is more about doing significant layoffs in the mail department."
+    },
+    {
+      "start": 1017.92,
+      "end": 1034.48,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm big question the salary was 40,000 or 40,000 euros."
+    },
+    {
+      "start": 1035.44,
+      "end": 1042.48,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks for both whoever is doing mailing and for the book does doing mailing and sorting they end"
+    },
+    {
+      "start": 1042.48,
+      "end": 1049.04,
+      "speaker": "SPEAKER_01",
+      "text": "this same amount of that's correct they both have an average salary of 40,000 per year."
+    },
+    {
+      "start": 1050.4,
+      "end": 1055.76,
+      "speaker": "SPEAKER_01",
+      "text": "Okay and when we say mail and sorting we're looking at just meals right not deposits."
+    },
+    {
+      "start": 1056.96,
+      "end": 1061.68,
+      "speaker": "SPEAKER_00",
+      "text": "That's right we don't want to fire anyone from parcels but we think we can fire or we can lay off"
+    },
+    {
+      "start": 1062.8,
+      "end": 1067.92,
+      "speaker": "SPEAKER_00",
+      "text": "a substantial number of the mail delivery or mailman that are in the mail department."
+    },
+    {
+      "start": 1068.0800000000002,
+      "end": 1076.48,
+      "speaker": "SPEAKER_01",
+      "text": "Okay so do we have any company found on like the numbers you are looking at in terms of any benchmarks."
+    },
+    {
+      "start": 1078.0800000000002,
+      "end": 1083.28,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of benchmarks no so the new information that I have for you is the 40,000"
+    },
+    {
+      "start": 1083.28,
+      "end": 1089.68,
+      "speaker": "SPEAKER_00",
+      "text": "appearing in the 9010 split otherwise we have this cost information available for you."
+    },
+    {
+      "start": 1090.64,
+      "end": 1091.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "The deal."
+    },
+    {
+      "start": 1093.2,
+      "end": 1094.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Let me try to zoom in a bit for you."
+    },
+    {
+      "start": 1106.48,
+      "end": 1116.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So sorry the legend just says 1000 on the y-axis is that in millions is that any like what are the"
+    },
+    {
+      "start": 1116.56,
+      "end": 1125.52,
+      "speaker": "SPEAKER_00",
+      "text": "numbers we're dealing with there is it yes good question I think that is in I think that's in"
+    },
+    {
+      "start": 1125.52,
+      "end": 1133.6,
+      "speaker": "SPEAKER_00",
+      "text": "thousands actually. Sorry that's in millions. Okay so just to declare 500 there means"
+    },
+    {
+      "start": 1134.6399999999999,
+      "end": 1146.0,
+      "speaker": "SPEAKER_01",
+      "text": "5 million or 5 million which one sorry. I'm talking about the y-axis on the cost"
+    },
+    {
+      "start": 1146.56,
+      "end": 1152.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "graph so I'm asking that's 500 million 500 million. Okay so that's right."
+    },
+    {
+      "start": 1154.8799999999999,
+      "end": 1162.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So what I'm trying to do is essentially figure out how much we're spending on labor in general"
+    },
+    {
+      "start": 1162.6399999999999,
+      "end": 1171.2,
+      "speaker": "SPEAKER_01",
+      "text": "which has stayed the same over the years so essentially about 1 billion since it's in millions so"
+    },
+    {
+      "start": 1171.2,
+      "end": 1178.16,
+      "speaker": "SPEAKER_01",
+      "text": "we have we've been spending 1 billion on labor cost over the past 5 years and we have"
+    },
+    {
+      "start": 1178.16,
+      "end": 1187.04,
+      "speaker": "SPEAKER_01",
+      "text": "this cost broken down into parcels and mills and that has changed over the years with parcels getting"
+    },
+    {
+      "start": 1187.04,
+      "end": 1193.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "more of that pie or it'll add up piece of that pie over the past 5 years. So essentially I want to"
+    },
+    {
+      "start": 1193.36,
+      "end": 1202.24,
+      "speaker": "SPEAKER_01",
+      "text": "figure out how much we've been spending on mill man, mill man salaries or mill man cost over"
+    },
+    {
+      "start": 1202.24,
+      "end": 1207.28,
+      "speaker": "SPEAKER_01",
+      "text": "the past 5 years. So essentially maybe I'll just stick to 2022 how much we're currently spending"
+    },
+    {
+      "start": 1207.28,
+      "end": 1212.56,
+      "speaker": "SPEAKER_01",
+      "text": "and how much I want to shift or come up with an hypothesis of how much of that I want to shift"
+    },
+    {
+      "start": 1213.12,
+      "end": 1219.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "to pass through by of course like I said by laying off some of the stuff on the mill site."
+    },
+    {
+      "start": 1220.0800000000002,
+      "end": 1225.68,
+      "speaker": "SPEAKER_00",
+      "text": "Yep I think that's right so we're essentially targeting what's that so we can between the"
+    },
+    {
+      "start": 1225.68,
+      "end": 1231.04,
+      "speaker": "SPEAKER_00",
+      "text": "revenue and the cost here come up with you know what the gap is and then based on that I think we"
+    },
+    {
+      "start": 1231.04,
+      "end": 1236.64,
+      "speaker": "SPEAKER_00",
+      "text": "can come up with essentially our break even number using the only lever that we have which is"
+    },
+    {
+      "start": 1236.64,
+      "end": 1239.76,
+      "speaker": "SPEAKER_00",
+      "text": "laying off a mill delivery employees."
+    },
+    {
+      "start": 1239.76,
+      "end": 1254.8,
+      "speaker": "SPEAKER_01",
+      "text": "So the first thing we're going to try to figure out is how much of this cost goes to"
+    },
+    {
+      "start": 1256.08,
+      "end": 1261.36,
+      "speaker": "SPEAKER_01",
+      "text": "mill man which is currently by the chart it shows 85% and 15%"
+    },
+    {
+      "start": 1261.9199999999998,
+      "end": 1273.04,
+      "speaker": "SPEAKER_01",
+      "text": "I will know that our total cost is 1 billion dollars so it's 5% of that is going to be"
+    },
+    {
+      "start": 1273.04,
+      "end": 1281.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "850 million dollars so that's currently what we spend on mill man and this is just"
+    },
+    {
+      "start": 1281.9199999999998,
+      "end": 1288.56,
+      "speaker": "SPEAKER_00",
+      "text": "to verify that's actually the budget of the entire mail department that's not the labor budget"
+    },
+    {
+      "start": 1288.56,
+      "end": 1293.12,
+      "speaker": "SPEAKER_00",
+      "text": "for mail delivery so if you recall I also gave you a new piece of information at the beginning of"
+    },
+    {
+      "start": 1293.12,
+      "end": 1298.8,
+      "speaker": "SPEAKER_00",
+      "text": "the question that there's a split in the mail department between mail sorting which is 10%"
+    },
+    {
+      "start": 1298.8,
+      "end": 1302.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "and then mail delivery which is 90% of the FTEs."
+    },
+    {
+      "start": 1302.8799999999999,
+      "end": 1310.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Okay so what we actually interested in is 90% of this 855 to million which is the amount of the"
+    },
+    {
+      "start": 1310.64,
+      "end": 1320.64,
+      "speaker": "SPEAKER_01",
+      "text": "cost of the entire department dedicated to a mail man so that brings us to 850 minus 8 to 5"
+    },
+    {
+      "start": 1320.64,
+      "end": 1325.2,
+      "speaker": "SPEAKER_01",
+      "text": "million dollars which is even a second to give you that labor."
+    },
+    {
+      "start": 1332.3200000000002,
+      "end": 1338.4,
+      "speaker": "SPEAKER_01",
+      "text": "So that's with 765 million in terms of total cost we spend on"
+    },
+    {
+      "start": 1339.1200000000001,
+      "end": 1341.76,
+      "speaker": "SPEAKER_01",
+      "text": "mail man labor just the mail man."
+    },
+    {
+      "start": 1344.3200000000002,
+      "end": 1352.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So for the other piece of information that I've been interesting to find would be the revenue from"
+    },
+    {
+      "start": 1352.0800000000002,
+      "end": 1360.24,
+      "speaker": "SPEAKER_00",
+      "text": "the mail department so we don't have well we can be I can give you this actually."
+    },
+    {
+      "start": 1360.24,
+      "end": 1362.24,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1368.0,
+      "end": 1368.8,
+      "speaker": "SPEAKER_00",
+      "text": "I had four years."
+    },
+    {
+      "start": 1377.04,
+      "end": 1384.56,
+      "speaker": "SPEAKER_00",
+      "text": "Okay and keep in mind the management is more interested in getting the profitability for"
+    },
+    {
+      "start": 1384.56,
+      "end": 1387.44,
+      "speaker": "SPEAKER_00",
+      "text": "the entire postal service not just for the mail department."
+    },
+    {
+      "start": 1388.32,
+      "end": 1388.64,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1390.72,
+      "end": 1411.84,
+      "speaker": "SPEAKER_01",
+      "text": "So I'll show these we can see the revenues from the entire postal department is about 1.6"
+    },
+    {
+      "start": 1411.84,
+      "end": 1416.0,
+      "speaker": "SPEAKER_01",
+      "text": "billion so 1.59 is it okay by round up?"
+    },
+    {
+      "start": 1416.8799999999999,
+      "end": 1417.52,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah let's wrap."
+    },
+    {
+      "start": 1419.1999999999998,
+      "end": 1421.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So we have 1.6 billion"
+    },
+    {
+      "start": 1424.24,
+      "end": 1428.9599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "or cost from the overall cost from"
+    },
+    {
+      "start": 1428.96,
+      "end": 1438.08,
+      "speaker": "SPEAKER_01",
+      "text": "the entire postal service is 2.2 billion."
+    },
+    {
+      "start": 1438.08,
+      "end": 1441.76,
+      "speaker": "SPEAKER_01",
+      "text": "Is that okay by round up to 2.2?"
+    },
+    {
+      "start": 1441.76,
+      "end": 1443.44,
+      "speaker": "SPEAKER_01",
+      "text": "It's 2.3 billion."
+    },
+    {
+      "start": 1443.44,
+      "end": 1444.4,
+      "speaker": "SPEAKER_00",
+      "text": "You can round it."
+    },
+    {
+      "start": 1444.4,
+      "end": 1445.2,
+      "speaker": "SPEAKER_00",
+      "text": "You can round it too."
+    },
+    {
+      "start": 1445.2,
+      "end": 1446.56,
+      "speaker": "SPEAKER_00",
+      "text": "It's actually 2.3 billion."
+    },
+    {
+      "start": 1446.56,
+      "end": 1447.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "2.0 billion."
+    },
+    {
+      "start": 1447.3600000000001,
+      "end": 1450.56,
+      "speaker": "SPEAKER_00",
+      "text": "You get 3 billion but that's round it too just in the interest of time."
+    },
+    {
+      "start": 1451.3600000000001,
+      "end": 1456.88,
+      "speaker": "SPEAKER_01",
+      "text": "You get so it's 2.3 billion so we have revenues of 1.6."
+    },
+    {
+      "start": 1456.96,
+      "end": 1461.68,
+      "speaker": "SPEAKER_00",
+      "text": "It's 2.0 billion so it's just round it to 2.0 billion."
+    },
+    {
+      "start": 1461.68,
+      "end": 1462.64,
+      "speaker": "SPEAKER_00",
+      "text": "Just 2.0 billion."
+    },
+    {
+      "start": 1462.64,
+      "end": 1471.92,
+      "speaker": "SPEAKER_01",
+      "text": "We have a cost of 1.6 billion and cost of 2 billion."
+    },
+    {
+      "start": 1471.92,
+      "end": 1478.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So for us to break even we need to get additional revenues of 400 million dollars."
+    },
+    {
+      "start": 1478.5600000000002,
+      "end": 1484.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that's going to take us to break even at least before we can even talk about profitability."
+    },
+    {
+      "start": 1485.04,
+      "end": 1501.04,
+      "speaker": "SPEAKER_01",
+      "text": "So our mailmen currently we spend about 765 million on labor costs for mailmen deliveries."
+    },
+    {
+      "start": 1501.04,
+      "end": 1510.56,
+      "speaker": "SPEAKER_01",
+      "text": "So for us to get 400 million from this at salaries of 40,000 euros per year."
+    },
+    {
+      "start": 1511.36,
+      "end": 1518.56,
+      "speaker": "SPEAKER_01",
+      "text": "So we are trying to cut down 765 million by 400 million and to do that we need to get"
+    },
+    {
+      "start": 1519.2,
+      "end": 1528.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "we need to bring down that cost to 365 and to do that we need to we have 40,000 for"
+    },
+    {
+      "start": 1530.96,
+      "end": 1537.52,
+      "speaker": "SPEAKER_01",
+      "text": "the salaries of the mailmen and we need to get 400 million in additional revenue."
+    },
+    {
+      "start": 1537.52,
+      "end": 1540.16,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm just going to divide 40,000 by 400 million."
+    },
+    {
+      "start": 1540.6399999999999,
+      "end": 1547.28,
+      "speaker": "SPEAKER_01",
+      "text": "400 million right up by 40,000 to figure out the 2000 number of staff to live to actually do that."
+    },
+    {
+      "start": 1556.96,
+      "end": 1559.76,
+      "speaker": "SPEAKER_01",
+      "text": "So what we have is 10,000 staff."
+    },
+    {
+      "start": 1559.84,
+      "end": 1567.28,
+      "speaker": "SPEAKER_01",
+      "text": "So okay, the other sounds right to break even at 2 billion."
+    },
+    {
+      "start": 1567.28,
+      "end": 1572.4,
+      "speaker": "SPEAKER_01",
+      "text": "But we know our clients are interested in profitability not just break even so"
+    },
+    {
+      "start": 1574.56,
+      "end": 1579.36,
+      "speaker": "SPEAKER_01",
+      "text": "the other things to think about to be how to actually go beyond break even to improve"
+    },
+    {
+      "start": 1579.36,
+      "end": 1582.0,
+      "speaker": "SPEAKER_01",
+      "text": "profitability to get to a profitable state."
+    },
+    {
+      "start": 1582.0,
+      "end": 1585.28,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so 10,000 just real quick quick question."
+    },
+    {
+      "start": 1585.36,
+      "end": 1590.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Can you let me know what the 10,000 number is as a percentage of total FTEs that they have right here?"
+    },
+    {
+      "start": 1593.6,
+      "end": 1595.6,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1604.6399999999999,
+      "end": 1612.24,
+      "speaker": "SPEAKER_01",
+      "text": "Sorry, I think I missed the number of people without FTEs."
+    },
+    {
+      "start": 1612.88,
+      "end": 1615.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "I'm not sure if you give me the numbers."
+    },
+    {
+      "start": 1615.1200000000001,
+      "end": 1618.48,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, so you actually could be able to derive that number."
+    },
+    {
+      "start": 1618.48,
+      "end": 1625.04,
+      "speaker": "SPEAKER_00",
+      "text": "So the 765 million that you have, that's actually the budget that you have on mailmen."
+    },
+    {
+      "start": 1625.04,
+      "end": 1627.44,
+      "speaker": "SPEAKER_00",
+      "text": "So you could divide that by by 40,000."
+    },
+    {
+      "start": 1627.44,
+      "end": 1632.08,
+      "speaker": "SPEAKER_00",
+      "text": "But in the interest of time, since we don't have that number readily available and just with an"
+    },
+    {
+      "start": 1632.08,
+      "end": 1636.4,
+      "speaker": "SPEAKER_00",
+      "text": "eye so that we get time for feedback here, I'm just curious, what do you think?"
+    },
+    {
+      "start": 1636.48,
+      "end": 1641.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "What are your thoughts then on the amount of layoffs that we're considering making,"
+    },
+    {
+      "start": 1641.6000000000001,
+      "end": 1646.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "how feasible do you think that is and do you think that actually helps us achieve our long-term goals?"
+    },
+    {
+      "start": 1648.3200000000002,
+      "end": 1653.2,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so I would like to take that second on this structure I thought."
+    },
+    {
+      "start": 1654.0800000000002,
+      "end": 1654.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 1658.8000000000002,
+      "end": 1665.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So if we decide to lay 10,000 staff,"
+    },
+    {
+      "start": 1666.48,
+      "end": 1671.2,
+      "speaker": "SPEAKER_01",
+      "text": "from the mail side, there are two things that would happen."
+    },
+    {
+      "start": 1671.2,
+      "end": 1674.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So I would like to divide it into short-term and long-term."
+    },
+    {
+      "start": 1675.3600000000001,
+      "end": 1682.64,
+      "speaker": "SPEAKER_01",
+      "text": "In short-term, what we would see happen is we would get back to at least we would break even"
+    },
+    {
+      "start": 1682.64,
+      "end": 1685.2800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "and start working towards profitability."
+    },
+    {
+      "start": 1687.1200000000001,
+      "end": 1694.96,
+      "speaker": "SPEAKER_01",
+      "text": "The second thing we could see is probably related to the staff, which is a drop-in moral in terms of"
+    },
+    {
+      "start": 1695.44,
+      "end": 1703.52,
+      "speaker": "SPEAKER_01",
+      "text": "what typically happens for laying layoffs. In the long-term, we could see one,"
+    },
+    {
+      "start": 1703.52,
+      "end": 1709.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "a drop-in profitability again because the drop-in moral we started to short-term could lead to"
+    },
+    {
+      "start": 1711.28,
+      "end": 1716.96,
+      "speaker": "SPEAKER_01",
+      "text": "decreased staff productivity in the long-term. Take us back to the place we were trying to avoid."
+    },
+    {
+      "start": 1718.32,
+      "end": 1724.64,
+      "speaker": "SPEAKER_01",
+      "text": "Also, we could see backlash, which we could end up with some political gruel rigs in terms of"
+    },
+    {
+      "start": 1724.64,
+      "end": 1730.96,
+      "speaker": "SPEAKER_01",
+      "text": "backlash from the populace in terms of them not being happy with their family members, of course,"
+    },
+    {
+      "start": 1730.96,
+      "end": 1736.16,
+      "speaker": "SPEAKER_01",
+      "text": "being laid off. And what we could see is we could further drive down the profitability"
+    },
+    {
+      "start": 1736.16,
+      "end": 1744.0,
+      "speaker": "SPEAKER_01",
+      "text": "in terms of actually making people to maybe bypass the post-house service and decide to go"
+    },
+    {
+      "start": 1744.0,
+      "end": 1751.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "with our private competitors. So by way of probably things to think in the future,"
+    },
+    {
+      "start": 1751.52,
+      "end": 1758.08,
+      "speaker": "SPEAKER_01",
+      "text": "I would probably want to advise that I plan to focus more on the revenue side and see how we can"
+    },
+    {
+      "start": 1758.08,
+      "end": 1763.44,
+      "speaker": "SPEAKER_01",
+      "text": "actually improve our revenues, rather than even if we're going to do a layoff, not a massive"
+    },
+    {
+      "start": 1763.44,
+      "end": 1766.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "layoff of 10,000 staff, maybe more with low impact layoffs."
+    },
+    {
+      "start": 1769.12,
+      "end": 1774.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Now that makes sense. Okay, so we'll wrap up the case here. So this is actually"
+    },
+    {
+      "start": 1774.6399999999999,
+      "end": 1779.28,
+      "speaker": "SPEAKER_00",
+      "text": "as a normal for a McKenzie case, but I would love it if you could prepare a final recommendation,"
+    },
+    {
+      "start": 1779.28,
+      "end": 1784.48,
+      "speaker": "SPEAKER_00",
+      "text": "think of this as, you know, if you know that the CEO is coming in and you're going to have a"
+    },
+    {
+      "start": 1784.48,
+      "end": 1788.32,
+      "speaker": "SPEAKER_00",
+      "text": "quick couple of minutes to be able to pitch them your ideas and talk about what you've been working"
+    },
+    {
+      "start": 1788.32,
+      "end": 1792.8,
+      "speaker": "SPEAKER_00",
+      "text": "up, what are you going to communicate to the CEO or the managing director of the postal service?"
+    },
+    {
+      "start": 1793.76,
+      "end": 1798.56,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. I'd like to take off your side gun to put my thoughts on it."
+    },
+    {
+      "start": 1798.56,
+      "end": 1807.76,
+      "speaker": "SPEAKER_01",
+      "text": "Please do. So our recommendation to our client is for them to"
+    },
+    {
+      "start": 1808.72,
+      "end": 1816.96,
+      "speaker": "SPEAKER_01",
+      "text": "improve their profitability, they should not do layoffs. Instead, they should look on the"
+    },
+    {
+      "start": 1816.96,
+      "end": 1823.2,
+      "speaker": "SPEAKER_01",
+      "text": "revenue side to actually look at increasing the number of meals they could receive, as well as"
+    },
+    {
+      "start": 1824.72,
+      "end": 1829.76,
+      "speaker": "SPEAKER_01",
+      "text": "we're increasing the number of meals, I could send, as well as increasing the fees they charge"
+    },
+    {
+      "start": 1829.76,
+      "end": 1834.08,
+      "speaker": "SPEAKER_01",
+      "text": "for these meals. Some of the requests stated with this recommendation is"
+    },
+    {
+      "start": 1834.6399999999999,
+      "end": 1841.36,
+      "speaker": "SPEAKER_01",
+      "text": "it the market for the meal service might not be growing, so there might not be much"
+    },
+    {
+      "start": 1841.36,
+      "end": 1849.36,
+      "speaker": "SPEAKER_01",
+      "text": "opportunity for increasing market share. So that might actually be a big deal. And by"
+    },
+    {
+      "start": 1849.36,
+      "end": 1857.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "virtual next steps, we would like to recommend for them to hire us to look into their revenues"
+    },
+    {
+      "start": 1857.4399999999998,
+      "end": 1862.96,
+      "speaker": "SPEAKER_01",
+      "text": "to actually figure out how they can expand on their revenues, as well as improve their"
+    },
+    {
+      "start": 1862.96,
+      "end": 1869.76,
+      "speaker": "SPEAKER_00",
+      "text": "profitability long-term. Thank you. Okay. Great. Well, thanks, Eril. That was the end of the case."
+    },
+    {
+      "start": 1870.96,
+      "end": 1874.0,
+      "speaker": "SPEAKER_00",
+      "text": "I'll just ask a quick question for you. How did that feel?"
+    },
+    {
+      "start": 1878.72,
+      "end": 1885.2,
+      "speaker": "SPEAKER_01",
+      "text": "It's an interesting case overall. I would say I struggled a little bit in terms of structuring my"
+    },
+    {
+      "start": 1885.2,
+      "end": 1892.24,
+      "speaker": "SPEAKER_01",
+      "text": "mat at a certain point, actually understanding what we're trying to achieve. But overall, I would say"
+    },
+    {
+      "start": 1892.24,
+      "end": 1901.36,
+      "speaker": "SPEAKER_01",
+      "text": "we still arrived at a clear, recommended, it's good logic behind why we recommended that process."
+    },
+    {
+      "start": 1902.0,
+      "end": 1907.2,
+      "speaker": "SPEAKER_00",
+      "text": "Overall, it was a good case. Yeah, for sure. For sure. No, I think that makes sense. I think"
+    },
+    {
+      "start": 1907.2,
+      "end": 1912.08,
+      "speaker": "SPEAKER_00",
+      "text": "your feedback for yourself is spot on. Just a quick couple of minutes on feedback, and then I'd"
+    },
+    {
+      "start": 1912.08,
+      "end": 1918.48,
+      "speaker": "SPEAKER_00",
+      "text": "love to open it up to the audience for any questions that they have as well. So I won't go through"
+    },
+    {
+      "start": 1918.56,
+      "end": 1924.24,
+      "speaker": "SPEAKER_00",
+      "text": "every single detail of the case since we only have 12, 13 minutes left here. But I would say that"
+    },
+    {
+      "start": 1924.24,
+      "end": 1929.28,
+      "speaker": "SPEAKER_00",
+      "text": "overall, I think you have a real strength in structuring. I think from the very beginning,"
+    },
+    {
+      "start": 1929.28,
+      "end": 1934.96,
+      "speaker": "SPEAKER_00",
+      "text": "you lay out a very nice, clean top level structure, and then you're good at getting into it a little bit."
+    },
+    {
+      "start": 1934.96,
+      "end": 1941.92,
+      "speaker": "SPEAKER_00",
+      "text": "I think one small, minor piece of feedback is I like to have a few more anecdotes to add in to the"
+    },
+    {
+      "start": 1941.92,
+      "end": 1947.04,
+      "speaker": "SPEAKER_00",
+      "text": "structure, just to bring in a little bit more to life. It seemed strong at the high level and your"
+    },
+    {
+      "start": 1947.04,
+      "end": 1954.24,
+      "speaker": "SPEAKER_00",
+      "text": "second level bullets were compelling. But I didn't get a whole lot into the anecdotes until you"
+    },
+    {
+      "start": 1954.24,
+      "end": 1959.36,
+      "speaker": "SPEAKER_00",
+      "text": "got to the socioeconomic factors where you talked a little bit about, could people just literally"
+    },
+    {
+      "start": 1959.36,
+      "end": 1964.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "be mailing less? Could the political climate be having an impact on our negative branding?"
+    },
+    {
+      "start": 1964.1599999999999,
+      "end": 1967.6,
+      "speaker": "SPEAKER_00",
+      "text": "And some of those things kind of like brought it to life a little bit more for me. But I thought"
+    },
+    {
+      "start": 1967.6,
+      "end": 1973.04,
+      "speaker": "SPEAKER_00",
+      "text": "this was a really strong type of answer. And I think that also played into your final answer when"
+    },
+    {
+      "start": 1973.04,
+      "end": 1976.8,
+      "speaker": "SPEAKER_00",
+      "text": "I asked you, Hey, what do you think about that? 10,000 number. And you immediately brought a"
+    },
+    {
+      "start": 1976.8,
+      "end": 1981.84,
+      "speaker": "SPEAKER_00",
+      "text": "structure into it. You've had short-term long-term in the ideas for the future. So I think you're"
+    },
+    {
+      "start": 1981.84,
+      "end": 1985.6,
+      "speaker": "SPEAKER_00",
+      "text": "very natural at just bringing structure into all of your thoughts. I mean, that was very clear"
+    },
+    {
+      "start": 1985.6,
+      "end": 1991.84,
+      "speaker": "SPEAKER_00",
+      "text": "throughout the case. With the kind of first critical reasoning question, which is when I showed you"
+    },
+    {
+      "start": 1991.84,
+      "end": 1999.76,
+      "speaker": "SPEAKER_00",
+      "text": "all the slides, this case is very like McKinsey-esque in that it's like, here's just too much information."
+    },
+    {
+      "start": 1999.76,
+      "end": 2004.32,
+      "speaker": "SPEAKER_00",
+      "text": "That's a bunch of different places. And then even once we get to the math question, you need to use"
+    },
+    {
+      "start": 2004.32,
+      "end": 2008.48,
+      "speaker": "SPEAKER_00",
+      "text": "information that I'm giving you. And you need to use information from two different slides."
+    },
+    {
+      "start": 2011.2,
+      "end": 2016.16,
+      "speaker": "SPEAKER_00",
+      "text": "It's not hard math. The numbers are coming from different places. And you need to figure out"
+    },
+    {
+      "start": 2016.16,
+      "end": 2022.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "what exactly the goal is here. I think your summary of the slides was very well done. I think the"
+    },
+    {
+      "start": 2022.8799999999999,
+      "end": 2028.96,
+      "speaker": "SPEAKER_00",
+      "text": "the kind of description of each one your walkthrough was strong. You like to take a quick second to"
+    },
+    {
+      "start": 2028.96,
+      "end": 2034.96,
+      "speaker": "SPEAKER_00",
+      "text": "review. And then you dig into the slide. Some people just jump in right away and just start kind of,"
+    },
+    {
+      "start": 2036.16,
+      "end": 2041.04,
+      "speaker": "SPEAKER_00",
+      "text": "the speed. They start doing, talk, think, talk a bit more. And where you did a bit better of a"
+    },
+    {
+      "start": 2041.04,
+      "end": 2046.72,
+      "speaker": "SPEAKER_00",
+      "text": "job at slowing down thinking about what you're going to say and then expressing it. I felt a little"
+    },
+    {
+      "start": 2046.72,
+      "end": 2051.36,
+      "speaker": "SPEAKER_00",
+      "text": "bit like I had to kind of nudge you to give me some hypothesis about what all of this meant."
+    },
+    {
+      "start": 2052.0,
+      "end": 2057.6,
+      "speaker": "SPEAKER_00",
+      "text": "And the third slide, I think you kind of struggled because you'd spent so long on the first two"
+    },
+    {
+      "start": 2057.6,
+      "end": 2062.16,
+      "speaker": "SPEAKER_00",
+      "text": "slides. You struggled a little bit to understand like how that third slide was super relevant or how"
+    },
+    {
+      "start": 2062.16,
+      "end": 2067.12,
+      "speaker": "SPEAKER_00",
+      "text": "it impacted some of the thoughts that you had early on. But I think we got to a strong hypothesis"
+    },
+    {
+      "start": 2067.12,
+      "end": 2070.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "of, hey, let's focus on parcels now, which is really where we're trying to get to it this case."
+    },
+    {
+      "start": 2070.7999999999997,
+      "end": 2077.36,
+      "speaker": "SPEAKER_00",
+      "text": "Right. This is all about, hey, focus on parcels. Let's move out of mail. So yeah, I think a little"
+    },
+    {
+      "start": 2077.36,
+      "end": 2081.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "bit earlier hypothesis testing there would have been strong. And then on the math with the math,"
+    },
+    {
+      "start": 2081.8399999999997,
+      "end": 2086.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "this one is just I think good to be aware of. And I think this is good for our audience too. I like to"
+    },
+    {
+      "start": 2086.32,
+      "end": 2093.28,
+      "speaker": "SPEAKER_00",
+      "text": "think of like cases and math. There's there's really like two types of math questions, right?"
+    },
+    {
+      "start": 2093.28,
+      "end": 2100.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "You've either got your, you've got your like table mass or you've got your like algorithm math."
+    },
+    {
+      "start": 2100.0800000000004,
+      "end": 2104.56,
+      "speaker": "SPEAKER_00",
+      "text": "And this is very much more just like table math. If you had just like excels, it would be just the"
+    },
+    {
+      "start": 2104.56,
+      "end": 2108.48,
+      "speaker": "SPEAKER_00",
+      "text": "easiest thing in the world. It's just a little bit annoying because they're all in different places,"
+    },
+    {
+      "start": 2108.48,
+      "end": 2113.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "right? And in some cases, ask for like algorithm style math where you're like solving in a quality"
+    },
+    {
+      "start": 2113.6,
+      "end": 2118.72,
+      "speaker": "SPEAKER_00",
+      "text": "or solving for an unknown factor, which is it really like I guess you're solving for an unknown"
+    },
+    {
+      "start": 2118.72,
+      "end": 2122.96,
+      "speaker": "SPEAKER_00",
+      "text": "factor here, but it's a very simple type of table math here, right? The only challenge here is"
+    },
+    {
+      "start": 2122.96,
+      "end": 2129.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "that it's in a lot of different places. I think my only, my strong recommendation for you here"
+    },
+    {
+      "start": 2129.7599999999998,
+      "end": 2134.88,
+      "speaker": "SPEAKER_00",
+      "text": "is two components. First, you know, feel free to boss me around a little bit more, especially if"
+    },
+    {
+      "start": 2134.88,
+      "end": 2139.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "you do a virtual interview like this. Feel free to ask for exhibit one, ask for exhibit two."
+    },
+    {
+      "start": 2139.8399999999997,
+      "end": 2143.36,
+      "speaker": "SPEAKER_00",
+      "text": "Can you show me that revenue? So I can show me that cost slide a little bit. I felt like some"
+    },
+    {
+      "start": 2143.36,
+      "end": 2147.44,
+      "speaker": "SPEAKER_00",
+      "text": "times like I was kind of guessing where you wanted me to go, even though I feel like you knew which"
+    },
+    {
+      "start": 2147.44,
+      "end": 2152.32,
+      "speaker": "SPEAKER_00",
+      "text": "slide you wanted. You just weren't asking me for it. And when it's in a, when it's in this awkward"
+    },
+    {
+      "start": 2152.32,
+      "end": 2156.6400000000003,
+      "speaker": "SPEAKER_00",
+      "text": "virtual format like this, you are more than welcome to like boss your interview around a little bit"
+    },
+    {
+      "start": 2156.6400000000003,
+      "end": 2161.04,
+      "speaker": "SPEAKER_00",
+      "text": "and say, Hey, can you show me that revenue slide back again? And then the second piece,"
+    },
+    {
+      "start": 2161.76,
+      "end": 2166.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "you did a very good job of starting out with a little bit of this is where I think we're going,"
+    },
+    {
+      "start": 2166.1600000000003,
+      "end": 2171.76,
+      "speaker": "SPEAKER_00",
+      "text": "but then I think as we went through the case, you stopped punctuating your math and you started"
+    },
+    {
+      "start": 2171.76,
+      "end": 2176.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "just telling me what your math was. And then I think you caught yourself a bit at the end and then"
+    },
+    {
+      "start": 2176.2400000000002,
+      "end": 2181.44,
+      "speaker": "SPEAKER_00",
+      "text": "you started summarizing a bit more. And I think the cleanest style of math, at least to keep the"
+    },
+    {
+      "start": 2182.32,
+      "end": 2188.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "the interviewer engaged is you start with your structure, which is what you did, right? And then"
+    },
+    {
+      "start": 2188.2400000000002,
+      "end": 2193.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "you come back to me at like significant moments, right? Like the precious moments, right? But you don't"
+    },
+    {
+      "start": 2193.6000000000004,
+      "end": 2199.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "tell me like every single calculation that you're doing, because unless it's very natural to you,"
+    },
+    {
+      "start": 2199.2,
+      "end": 2204.48,
+      "speaker": "SPEAKER_00",
+      "text": "sometimes like teachers, like some, some high school teachers I've interviewed are just great"
+    },
+    {
+      "start": 2204.48,
+      "end": 2209.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "at talking through every line of math. And for some reason, high school teachers and singers are"
+    },
+    {
+      "start": 2209.3599999999997,
+      "end": 2213.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "really good at being able to tell you everything they're doing and it doesn't sound awkward at all."
+    },
+    {
+      "start": 2213.8399999999997,
+      "end": 2219.68,
+      "speaker": "SPEAKER_00",
+      "text": "But I think for the rest of us, it's a lot easier to start with, use your structure at the top."
+    },
+    {
+      "start": 2219.68,
+      "end": 2223.9199999999996,
+      "speaker": "SPEAKER_00",
+      "text": "And then you come back to you when you've done enough work that you want to test the questions,"
+    },
+    {
+      "start": 2223.9199999999996,
+      "end": 2228.8799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "right? And I think because this one took you a little bit of time to figure out where you wanted to go,"
+    },
+    {
+      "start": 2228.88,
+      "end": 2233.44,
+      "speaker": "SPEAKER_00",
+      "text": "I think you weaved a little bit in and out of which style you were preferring, even though it"
+    },
+    {
+      "start": 2233.44,
+      "end": 2237.76,
+      "speaker": "SPEAKER_00",
+      "text": "seemed like your natural tendency is the former of coming to me with like the precious moments,"
+    },
+    {
+      "start": 2237.76,
+      "end": 2243.36,
+      "speaker": "SPEAKER_00",
+      "text": "the big questions that you had. But we got to the right answer. If we'd have had a little bit more"
+    },
+    {
+      "start": 2243.36,
+      "end": 2248.48,
+      "speaker": "SPEAKER_00",
+      "text": "time, I would have pushed you on not rounding at all, but we were running a little bit short on time."
+    },
+    {
+      "start": 2248.48,
+      "end": 2256.6400000000003,
+      "speaker": "SPEAKER_00",
+      "text": "So I wanted you to get to some of the questions there. And then the only big miss here, and it"
+    },
+    {
+      "start": 2256.64,
+      "end": 2262.4,
+      "speaker": "SPEAKER_00",
+      "text": "wasn't a miss, it was just you kind of skipped a step, is if we'd have done the FTE calculation,"
+    },
+    {
+      "start": 2262.96,
+      "end": 2269.6,
+      "speaker": "SPEAKER_00",
+      "text": "the result here was that we're considering firing something like 42% of the staff or something like"
+    },
+    {
+      "start": 2269.6,
+      "end": 2277.04,
+      "speaker": "SPEAKER_00",
+      "text": "that, which, oh, sorry, the opposite. We're considering firing 58% of the staff, which is a"
+    },
+    {
+      "start": 2277.04,
+      "end": 2285.6,
+      "speaker": "SPEAKER_00",
+      "text": "little bit of a ridiculous number to talk about in the short term. So your final answer, which was,"
+    },
+    {
+      "start": 2285.6,
+      "end": 2289.68,
+      "speaker": "SPEAKER_00",
+      "text": "hey, let's focus a bit more on the revenue side. We can do some layoffs, but we don't want to focus"
+    },
+    {
+      "start": 2289.68,
+      "end": 2294.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "just on the cost side when we have a revenue problem. That was the correct like final recommendation"
+    },
+    {
+      "start": 2294.7999999999997,
+      "end": 2299.2,
+      "speaker": "SPEAKER_00",
+      "text": "and answer. But I just think we skipped a little bit of a step because we didn't have that logic,"
+    },
+    {
+      "start": 2299.2,
+      "end": 2304.16,
+      "speaker": "SPEAKER_00",
+      "text": "because you knew 10,000 was a big number. But I don't think we had that compelling pace of evidence"
+    },
+    {
+      "start": 2304.16,
+      "end": 2309.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "that, hey, this is 58 almost 60% of the staff that we're considering firing right now. And that's"
+    },
+    {
+      "start": 2309.84,
+      "end": 2314.6400000000003,
+      "speaker": "SPEAKER_00",
+      "text": "not feasible for the long term. And if we want to actually maintain operations and, you know,"
+    },
+    {
+      "start": 2314.6400000000003,
+      "end": 2321.28,
+      "speaker": "SPEAKER_00",
+      "text": "not flounder as a company. But otherwise, I think this was a strong case. I think, you know,"
+    },
+    {
+      "start": 2321.28,
+      "end": 2327.28,
+      "speaker": "SPEAKER_00",
+      "text": "in general, for, you know, an interview style and environment, I'd say you're definitely in the"
+    },
+    {
+      "start": 2327.28,
+      "end": 2331.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "stronger end of performance. If you're in a first round interview, I definitely think that you"
+    },
+    {
+      "start": 2331.6000000000004,
+      "end": 2336.5600000000004,
+      "speaker": "SPEAKER_00",
+      "text": "would typically pass this type of case. And then potentially for a second round as well,"
+    },
+    {
+      "start": 2337.44,
+      "end": 2341.2,
+      "speaker": "SPEAKER_00",
+      "text": "do I think there's some things, you know, that we could get a little bit stronger on,"
+    },
+    {
+      "start": 2341.2,
+      "end": 2350.4,
+      "speaker": "SPEAKER_00",
+      "text": "but in general, I think this was a pretty strong case."
+    }
+  ],
+  "grading": {
+    "communication": 14,
+    "framework": 11,
+    "math": 8,
+    "case_difficulty": 10,
+    "final_summary": 12,
+    "overall_thoughts": "You made some good points but struggled with the math and didn't build a strong framework."
+  }
+}

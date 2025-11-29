@@ -1,0 +1,894 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "speaker": "UNKNOWN",
+      "text": "I'm Emily. Nice to meet you."
+    },
+    {
+      "start": 7.0,
+      "end": 20.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, follow me. Okay. So I propose that we just jump right into the case and get started. How does that feel? Yeah, that's good. Okay, okay. So I'm going to keep my computer screen open."
+    },
+    {
+      "start": 20.0,
+      "end": 34.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, okay. So I'm going to keep my computer screen open. And there's a few pieces of data and some graphs that I might want to show you. But otherwise, I'm ready when you are. Yeah, I'm ready. Great."
+    },
+    {
+      "start": 34.0,
+      "end": 48.0,
+      "speaker": "SPEAKER_00",
+      "text": "All right, client is next Gen Tech and they've created a wearable device called the Theo. And Theo is essentially a little computer on your wrist."
+    },
+    {
+      "start": 48.0,
+      "end": 59.0,
+      "speaker": "SPEAKER_00",
+      "text": "It tracks activity. So it tells you your calories, your steps. It also can accept text messages and it's basically a fully connected device."
+    },
+    {
+      "start": 59.0,
+      "end": 72.0,
+      "speaker": "SPEAKER_00",
+      "text": "Next Gen Tech wants Theo to make $1 billion over the next two years in the US. They brought us in because they have a bit of a problem."
+    },
+    {
+      "start": 72.0,
+      "end": 87.0,
+      "speaker": "SPEAKER_00",
+      "text": "Theo has Wi-Fi built in, which is great. But that connectivity is only available currently when it has Wi-Fi. So they want to partner with a cellular carrier to provide that connectivity."
+    },
+    {
+      "start": 87.0,
+      "end": 101.0,
+      "speaker": "SPEAKER_00",
+      "text": "And they've talked to Verizon and AT&T, the two biggest players in the US. And Verizon and AT&T are excited about the opportunity, but they have said that they will only work with next Gen Tech and with Theo if they are the only two providers."
+    },
+    {
+      "start": 101.0,
+      "end": 116.0,
+      "speaker": "SPEAKER_00",
+      "text": "So what next Gen Tech asked us to come in and help the answer is should they go with AT&T and Verizon and an exclusive relationship or should they pursue a partnership with other carriers?"
+    },
+    {
+      "start": 116.0,
+      "end": 131.0,
+      "speaker": "SPEAKER_01",
+      "text": "Great. So let me summarize the case for you to make sure I got all the details. Our client is next Gen Tech. Our client has developed this wearable device called Theo, which is like a computer on your wrist. It tracks your fitness, calories, text from it."
+    },
+    {
+      "start": 131.0,
+      "end": 138.0,
+      "speaker": "SPEAKER_01",
+      "text": "And our goal here is to make Theo a $1 billion revenue. Is that correct?"
+    },
+    {
+      "start": 138.0,
+      "end": 143.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yes, revenue. And in the US only. Yes, we're only talking about the US right now."
+    },
+    {
+      "start": 143.0,
+      "end": 156.0,
+      "speaker": "SPEAKER_01",
+      "text": "One of the complications is that the device has Wi-Fi built in, but our client wants it to work anywhere even when Wi-Fi is not available. So they want to partner with some cellular carriers."
+    },
+    {
+      "start": 156.0,
+      "end": 167.0,
+      "speaker": "SPEAKER_01",
+      "text": "The options we have are basically one AT&T and Verizon partnering with AT&T and Verizon, but they demand exclusivity or following other carriers."
+    },
+    {
+      "start": 167.0,
+      "end": 174.0,
+      "speaker": "SPEAKER_01",
+      "text": "You got it. Can I ask you one more question? Sure. Are we planning to sell this device only through the carriers and stores?"
+    },
+    {
+      "start": 174.0,
+      "end": 180.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, for now that's our distribution channel is going to be through AT&T and Verizon or other carrier stores."
+    },
+    {
+      "start": 180.0,
+      "end": 184.0,
+      "speaker": "SPEAKER_01",
+      "text": "Great. Do you mind if I take some time to organize my thoughts?"
+    },
+    {
+      "start": 184.0,
+      "end": 185.0,
+      "speaker": "SPEAKER_01",
+      "text": "Go for it."
+    },
+    {
+      "start": 185.0,
+      "end": 186.0,
+      "speaker": "UNKNOWN",
+      "text": "All right."
+    },
+    {
+      "start": 191.0,
+      "end": 199.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I would always try to make Theo a $1 billion business in the US in revenue in the next two years."
+    },
+    {
+      "start": 199.0,
+      "end": 208.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. And the options. The question I have to answer is to whether go with AT&T and Verizon and sign an exclusivity contract or follow other carriers."
+    },
+    {
+      "start": 208.0,
+      "end": 209.0,
+      "speaker": "SPEAKER_01",
+      "text": "You got it."
+    },
+    {
+      "start": 209.0,
+      "end": 219.0,
+      "speaker": "SPEAKER_01",
+      "text": "To assess this problem, I would like to look to market size of the carriers to the customer base and the retail footprint of the options."
+    },
+    {
+      "start": 219.0,
+      "end": 236.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So under market size, I would like to understand since the carriers will be the only logistics, the footprint that the stores will be the only way of selling the product, I would like to understand the number of customers we currently have for AT&T and Verizon and the other option."
+    },
+    {
+      "start": 236.0,
+      "end": 239.0,
+      "speaker": "SPEAKER_01",
+      "text": "What is the price we will be selling to the clients?"
+    },
+    {
+      "start": 239.0,
+      "end": 240.0,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 240.0,
+      "end": 243.0,
+      "speaker": "SPEAKER_01",
+      "text": "And what is the growth expected between year one and two?"
+    },
+    {
+      "start": 243.0,
+      "end": 257.0,
+      "speaker": "SPEAKER_01",
+      "text": "Under customer base, I would like to understand the demographics of the customers, understand their price and sensitivity and to assess the likelihood of the customer base to purchase our product."
+    },
+    {
+      "start": 257.0,
+      "end": 258.0,
+      "speaker": "SPEAKER_01",
+      "text": "Makes sense."
+    },
+    {
+      "start": 258.0,
+      "end": 268.0,
+      "speaker": "SPEAKER_01",
+      "text": "And finally, I would like to look at the retail footprint and see what was the number of stores we currently have for the options and what is the sales force available."
+    },
+    {
+      "start": 268.0,
+      "end": 271.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. I like that. Where do you want to start?"
+    },
+    {
+      "start": 271.0,
+      "end": 274.0,
+      "speaker": "SPEAKER_01",
+      "text": "I would like to start by the market size if that's fine."
+    },
+    {
+      "start": 274.0,
+      "end": 275.0,
+      "speaker": "SPEAKER_00",
+      "text": "That works for me."
+    },
+    {
+      "start": 275.0,
+      "end": 278.0,
+      "speaker": "SPEAKER_01",
+      "text": "So first of all, I would like to understand what is the price?"
+    },
+    {
+      "start": 278.0,
+      "end": 285.0,
+      "speaker": "SPEAKER_00",
+      "text": "With AT&T and Verizon, our expectation is that we'll sell the Theo for $400."
+    },
+    {
+      "start": 285.0,
+      "end": 290.0,
+      "speaker": "SPEAKER_00",
+      "text": "And with other carriers, our expectation is that we would sell it for $500."
+    },
+    {
+      "start": 290.0,
+      "end": 291.0,
+      "speaker": "SPEAKER_01",
+      "text": "Is there a reason for that?"
+    },
+    {
+      "start": 291.0,
+      "end": 292.0,
+      "speaker": "SPEAKER_00",
+      "text": "Good question."
+    },
+    {
+      "start": 292.0,
+      "end": 303.0,
+      "speaker": "SPEAKER_00",
+      "text": "So part of what makes AT&T and Verizon good partners is that they would be willing to throw in a little bit of money to bring down the cost that customers would have to pay walking out the door with Theo."
+    },
+    {
+      "start": 303.0,
+      "end": 308.0,
+      "speaker": "SPEAKER_00",
+      "text": "So AT&T and Verizon are essentially helping to subsidize that $400 cost."
+    },
+    {
+      "start": 308.0,
+      "end": 309.0,
+      "speaker": "SPEAKER_01",
+      "text": "Makes sense."
+    },
+    {
+      "start": 309.0,
+      "end": 311.0,
+      "speaker": "SPEAKER_01",
+      "text": "I would like to know the current number of customers we have."
+    },
+    {
+      "start": 311.0,
+      "end": 312.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 312.0,
+      "end": 314.0,
+      "speaker": "SPEAKER_00",
+      "text": "And why do you want to understand that?"
+    },
+    {
+      "start": 314.0,
+      "end": 325.0,
+      "speaker": "SPEAKER_01",
+      "text": "I want to assess the total market, potential market and calculate the penetration rate so we can see how feasible it is to get to 1.0 revenue for each of the options."
+    },
+    {
+      "start": 325.0,
+      "end": 327.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So I have a little bit of data for you then."
+    },
+    {
+      "start": 327.0,
+      "end": 330.0,
+      "speaker": "SPEAKER_00",
+      "text": "Let me share that with you."
+    },
+    {
+      "start": 330.0,
+      "end": 340.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So I have the customer base for AT&T and Verizon and our carrier which includes the sprinting mobile US seller, Krieger."
+    },
+    {
+      "start": 340.0,
+      "end": 343.0,
+      "speaker": "SPEAKER_01",
+      "text": "It's pretty granular."
+    },
+    {
+      "start": 343.0,
+      "end": 346.0,
+      "speaker": "SPEAKER_01",
+      "text": "So this is for the current customer base, right?"
+    },
+    {
+      "start": 346.0,
+      "end": 347.0,
+      "speaker": "SPEAKER_01",
+      "text": "Correct."
+    },
+    {
+      "start": 347.0,
+      "end": 348.0,
+      "speaker": "SPEAKER_01",
+      "text": "Right now."
+    },
+    {
+      "start": 348.0,
+      "end": 351.0,
+      "speaker": "SPEAKER_01",
+      "text": "Do we have the expected customer base next year?"
+    },
+    {
+      "start": 351.0,
+      "end": 352.0,
+      "speaker": "SPEAKER_01",
+      "text": "Why do you want to understand that?"
+    },
+    {
+      "start": 352.0,
+      "end": 361.0,
+      "speaker": "SPEAKER_01",
+      "text": "Because we want to, like our goals, to get to 1.0 revenue in year 2 and up like to calculate the penetration rate next year."
+    },
+    {
+      "start": 361.0,
+      "end": 363.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we do have some growth rates."
+    },
+    {
+      "start": 363.0,
+      "end": 373.0,
+      "speaker": "SPEAKER_00",
+      "text": "We know the growth rate for both AT&T and Verizon as well as for other carriers is about 20%."
+    },
+    {
+      "start": 373.0,
+      "end": 377.0,
+      "speaker": "SPEAKER_00",
+      "text": "Give us back to you how can you see these numbers."
+    },
+    {
+      "start": 377.0,
+      "end": 378.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 378.0,
+      "end": 388.0,
+      "speaker": "SPEAKER_01",
+      "text": "So what I would do to calculate the penetration rates is first of all, I would estimate the potential market by multiplying the number of customers."
+    },
+    {
+      "start": 388.0,
+      "end": 400.0,
+      "speaker": "SPEAKER_01",
+      "text": "And in year 2, which means I will calculate the number of customers with 20% growth rate and divide 1 billion by this number, which is the penetration rate."
+    },
+    {
+      "start": 400.0,
+      "end": 401.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 401.0,
+      "end": 402.0,
+      "speaker": "SPEAKER_00",
+      "text": "That's the way it says you."
+    },
+    {
+      "start": 402.0,
+      "end": 406.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I think so. Why don't you just start showing them you can keep going."
+    },
+    {
+      "start": 406.0,
+      "end": 415.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I have number of customers for option 1, which is AT&T and Verizon and option 2, which is charting our carriers."
+    },
+    {
+      "start": 415.0,
+      "end": 417.0,
+      "speaker": "SPEAKER_01",
+      "text": "So the growth rate is 20%."
+    },
+    {
+      "start": 417.0,
+      "end": 430.0,
+      "speaker": "SPEAKER_01",
+      "text": "We get to the number of customers in year 2, which is 24 million for AT&T and Verizon and 36 million just add it to 1% to each of the numbers."
+    },
+    {
+      "start": 430.0,
+      "end": 433.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So you have to 20 times 1.2."
+    },
+    {
+      "start": 433.0,
+      "end": 434.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 434.0,
+      "end": 449.0,
+      "speaker": "SPEAKER_01",
+      "text": "Now we have the price per device for each of the scenarios and here we have $400, $14, Verizon and $500 for option 2."
+    },
+    {
+      "start": 449.0,
+      "end": 450.0,
+      "speaker": "SPEAKER_01",
+      "text": "Right?"
+    },
+    {
+      "start": 450.0,
+      "end": 457.0,
+      "speaker": "SPEAKER_01",
+      "text": "By multiplying these two, I will get to the potential total market size."
+    },
+    {
+      "start": 457.0,
+      "end": 459.0,
+      "speaker": "SPEAKER_01",
+      "text": "Assuming you have 100% penetration."
+    },
+    {
+      "start": 459.0,
+      "end": 460.0,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 461.0,
+      "end": 468.0,
+      "speaker": "SPEAKER_01",
+      "text": "So this is the total market, 9.6 billion and 1.18 billion for option 2."
+    },
+    {
+      "start": 468.0,
+      "end": 476.0,
+      "speaker": "SPEAKER_01",
+      "text": "Since we want 1 billion revenue in year 2, I will divide 1 billion by 9.6 and my final."
+    },
+    {
+      "start": 476.0,
+      "end": 485.0,
+      "speaker": "SPEAKER_01",
+      "text": "So in this case, I will approximate 10% if that's fine with you and here's 1 billion by 18 again, approximately 5%."
+    },
+    {
+      "start": 485.0,
+      "end": 486.0,
+      "speaker": "SPEAKER_01",
+      "text": "If that's fine."
+    },
+    {
+      "start": 486.0,
+      "end": 487.0,
+      "speaker": "SPEAKER_00",
+      "text": "That sounds good."
+    },
+    {
+      "start": 487.0,
+      "end": 492.0,
+      "speaker": "SPEAKER_01",
+      "text": "So both penetration rates seem relatively low."
+    },
+    {
+      "start": 492.0,
+      "end": 496.0,
+      "speaker": "SPEAKER_01",
+      "text": "Of course, option 2 seems easier to achieve."
+    },
+    {
+      "start": 496.0,
+      "end": 505.0,
+      "speaker": "SPEAKER_01",
+      "text": "However, since we have more carriers, it's more granular, it's harder to probably standardize and go to the market strategy they have."
+    },
+    {
+      "start": 505.0,
+      "end": 506.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I would..."
+    },
+    {
+      "start": 506.0,
+      "end": 511.0,
+      "speaker": "SPEAKER_00",
+      "text": "So in a vacuum, 5% seems better than 10% penetration."
+    },
+    {
+      "start": 511.0,
+      "end": 515.0,
+      "speaker": "SPEAKER_00",
+      "text": "But because option 2 is the other carriers and that's really fragmented, that could be potentially really good."
+    },
+    {
+      "start": 515.0,
+      "end": 516.0,
+      "speaker": "SPEAKER_01",
+      "text": "Exactly."
+    },
+    {
+      "start": 516.0,
+      "end": 519.0,
+      "speaker": "SPEAKER_01",
+      "text": "So we're back to my framework."
+    },
+    {
+      "start": 519.0,
+      "end": 529.0,
+      "speaker": "SPEAKER_01",
+      "text": "The next step I would like to take is to look at the customer base and understand who our customers are."
+    },
+    {
+      "start": 529.0,
+      "end": 536.0,
+      "speaker": "SPEAKER_01",
+      "text": "What they value when acquiring a product from their carriers."
+    },
+    {
+      "start": 536.0,
+      "end": 540.0,
+      "speaker": "SPEAKER_01",
+      "text": "The way to do that would be probably to run a customer survey."
+    },
+    {
+      "start": 540.0,
+      "end": 545.0,
+      "speaker": "SPEAKER_00",
+      "text": "We definitely did do a customer survey and I'm excited to share it with you."
+    },
+    {
+      "start": 545.0,
+      "end": 553.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I can see here that this tells us what is the most important selection criteria for 18 to Verizon and the other carriers."
+    },
+    {
+      "start": 553.0,
+      "end": 558.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm assuming these numbers here are like the sample size, which means the number of customers interviewed in the survey."
+    },
+    {
+      "start": 558.0,
+      "end": 559.0,
+      "speaker": "SPEAKER_00",
+      "text": "You're right."
+    },
+    {
+      "start": 559.0,
+      "end": 560.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yep."
+    },
+    {
+      "start": 560.0,
+      "end": 567.0,
+      "speaker": "SPEAKER_01",
+      "text": "14 to even Verizon, the two most important selection criteria are reliability of the network and customer service."
+    },
+    {
+      "start": 567.0,
+      "end": 572.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm assuming 18 to Verizon provide a better network and a better customer service."
+    },
+    {
+      "start": 572.0,
+      "end": 579.0,
+      "speaker": "SPEAKER_01",
+      "text": "On the other hand, the other carriers are very concerned about price. They're very price-sensitive."
+    },
+    {
+      "start": 579.0,
+      "end": 589.0,
+      "speaker": "SPEAKER_01",
+      "text": "Which tells me that since our product is like a new product and we're looking for early adopters, early adopters are probably not very price sensitive."
+    },
+    {
+      "start": 589.0,
+      "end": 596.0,
+      "speaker": "SPEAKER_01",
+      "text": "So it seems like 18 to Verizon customers have a better fit for our product."
+    },
+    {
+      "start": 596.0,
+      "end": 599.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. That makes sense to me."
+    },
+    {
+      "start": 599.0,
+      "end": 601.0,
+      "speaker": "SPEAKER_00",
+      "text": "So do you feel like you have enough information?"
+    },
+    {
+      "start": 601.0,
+      "end": 611.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yep. Since the distribution channels we're talking about are the carrier stores, I'd like to understand, like take a look at the retail footprint available."
+    },
+    {
+      "start": 611.0,
+      "end": 612.0,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 612.0,
+      "end": 617.0,
+      "speaker": "SPEAKER_01",
+      "text": "And see what what is the number of the off-stores each of the options have, how good is the sales for?"
+    },
+    {
+      "start": 617.0,
+      "end": 619.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yep. And do you have any data on that?"
+    },
+    {
+      "start": 619.0,
+      "end": 622.0,
+      "speaker": "SPEAKER_00",
+      "text": "I do, in fact. Here we go."
+    },
+    {
+      "start": 623.0,
+      "end": 632.0,
+      "speaker": "SPEAKER_01",
+      "text": "So here we have the number of stores in the US and outside of the US, focusing first on the US, I can see that 18 to"
+    },
+    {
+      "start": 632.0,
+      "end": 638.0,
+      "speaker": "SPEAKER_01",
+      "text": "18 to Verizon combined have 4,000 stores and all the other carriers combined have only 3,000 stores."
+    },
+    {
+      "start": 638.0,
+      "end": 645.0,
+      "speaker": "SPEAKER_01",
+      "text": "So we're talking about for option one, 18 to Verizon, we have 33% more stores."
+    },
+    {
+      "start": 645.0,
+      "end": 653.0,
+      "speaker": "SPEAKER_01",
+      "text": "And outside of the US that's not true, however since our goal is in the next few years at least, is to focus only in the US."
+    },
+    {
+      "start": 653.0,
+      "end": 656.0,
+      "speaker": "SPEAKER_01",
+      "text": "I don't think it's a problem right now."
+    },
+    {
+      "start": 656.0,
+      "end": 658.0,
+      "speaker": "SPEAKER_00",
+      "text": "It seems fair."
+    },
+    {
+      "start": 658.0,
+      "end": 663.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, so again, 18 to Verizon seemed a better fit for our product."
+    },
+    {
+      "start": 663.0,
+      "end": 673.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so great. So we have a meeting with the CEO tomorrow and she asked us to come in and let her know what we've learned so far, what our recommendation is based on what we've learned."
+    },
+    {
+      "start": 673.0,
+      "end": 676.0,
+      "speaker": "SPEAKER_00",
+      "text": "Any risks that we perceive and if we have any next steps?"
+    },
+    {
+      "start": 676.0,
+      "end": 678.0,
+      "speaker": "SPEAKER_01",
+      "text": "Great. Do you mind if I take some seconds?"
+    },
+    {
+      "start": 678.0,
+      "end": 679.0,
+      "speaker": "SPEAKER_01",
+      "text": "Go ahead."
+    },
+    {
+      "start": 679.0,
+      "end": 680.0,
+      "speaker": "SPEAKER_01",
+      "text": "Go ahead."
+    },
+    {
+      "start": 680.0,
+      "end": 682.0,
+      "speaker": "UNKNOWN",
+      "text": "My thoughts."
+    },
+    {
+      "start": 682.0,
+      "end": 687.0,
+      "speaker": "SPEAKER_01",
+      "text": "So my final recommendation of B2, go with NT&T Verizon option one."
+    },
+    {
+      "start": 687.0,
+      "end": 688.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 688.0,
+      "end": 692.0,
+      "speaker": "SPEAKER_01",
+      "text": "And the reason for that is that the penetration rate is the same very reasonable for both options."
+    },
+    {
+      "start": 692.0,
+      "end": 708.0,
+      "speaker": "SPEAKER_01",
+      "text": "However, the customer base for 18 to Verizon customers seems a better fit to our product because our customers are the customers are the last price sensitive and are more likely to be early adopters of this device."
+    },
+    {
+      "start": 708.0,
+      "end": 709.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 709.0,
+      "end": 713.0,
+      "speaker": "SPEAKER_01",
+      "text": "The main distribution channel be the carriers stores."
+    },
+    {
+      "start": 713.0,
+      "end": 726.0,
+      "speaker": "SPEAKER_01",
+      "text": "18 to Verizon, they have more stores like 32% more stores and since this device, I feel like customers need to try it on and make sure it fits and look well."
+    },
+    {
+      "start": 726.0,
+      "end": 729.0,
+      "speaker": "SPEAKER_01",
+      "text": "It's a good reason to have more stores."
+    },
+    {
+      "start": 729.0,
+      "end": 730.0,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 730.0,
+      "end": 739.0,
+      "speaker": "SPEAKER_01",
+      "text": "Next steps are first of all fall up on the risks and assess them and finally get the law team to write the contract and get the best service possible for us."
+    },
+    {
+      "start": 739.0,
+      "end": 742.0,
+      "speaker": "SPEAKER_00",
+      "text": "Great. You're done. Good job."
+    },
+    {
+      "start": 742.0,
+      "end": 743.0,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 743.0,
+      "end": 750.0,
+      "speaker": "SPEAKER_00",
+      "text": "So next steps on our side is that we will let you know if you make it through to the next round and you should get a call from us."
+    },
+    {
+      "start": 750.0,
+      "end": 755.0,
+      "speaker": "SPEAKER_00",
+      "text": "Thanks for being excited about Bane and thanks for coming in and doing a case with me."
+    },
+    {
+      "start": 755.0,
+      "end": 756.0,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you. Thank you for having me."
+    },
+    {
+      "start": 756.0,
+      "end": 758.0,
+      "speaker": "SPEAKER_00",
+      "text": "It's really good to meet you."
+    },
+    {
+      "start": 758.0,
+      "end": 760.0,
+      "speaker": "SPEAKER_00",
+      "text": "Danielle did a great job on that case."
+    },
+    {
+      "start": 760.0,
+      "end": 763.0,
+      "speaker": "SPEAKER_00",
+      "text": "There were a few things that I really appreciated about what he did."
+    },
+    {
+      "start": 763.0,
+      "end": 769.0,
+      "speaker": "SPEAKER_00",
+      "text": "First, he listened really intently as I was setting up the case and the complications and the situation."
+    },
+    {
+      "start": 769.0,
+      "end": 772.0,
+      "speaker": "SPEAKER_00",
+      "text": "He wrote great notes and then he asked really important clarifying questions."
+    },
+    {
+      "start": 772.0,
+      "end": 777.0,
+      "speaker": "SPEAKER_00",
+      "text": "It also allowed him to set up a framework where he then was able to drive the rest of the case."
+    },
+    {
+      "start": 777.0,
+      "end": 784.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so all along the way he was referring back to his framework, I was able to refer back to it to keep us on track and stay structured."
+    },
+    {
+      "start": 784.0,
+      "end": 791.0,
+      "speaker": "SPEAKER_00",
+      "text": "There often isn't a perfect answer to a case and what Danielle did a great job of is defending his point of view."
+    },
+    {
+      "start": 791.0,
+      "end": 796.0,
+      "speaker": "SPEAKER_00",
+      "text": "So he found the data points from throughout the case and brought them into his final recommendation."
+    },
+    {
+      "start": 796.0,
+      "end": 802.0,
+      "speaker": "SPEAKER_00",
+      "text": "The last thing I want to mention is that Danielle did a great job of making the interview feel just like a business conversation."
+    },
+    {
+      "start": 802.0,
+      "end": 809.0,
+      "speaker": "SPEAKER_00",
+      "text": "He asked great questions, he shared of his experience, he allowed me to go back and forth with him and I think we had a little bit of fun."
+    },
+    {
+      "start": 809.0,
+      "end": 811.0,
+      "speaker": "SPEAKER_00",
+      "text": "So bravo Danielle, you did a great job."
+    }
+  ],
+  "grading": {
+    "communication": 13,
+    "framework": 10,
+    "math": 8,
+    "case_difficulty": 7,
+    "final_summary": 11,
+    "overall_thoughts": "You did a good job on the framework and final summary, but struggled with some math concepts."
+  }
+}

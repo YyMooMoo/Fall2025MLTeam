@@ -1,0 +1,2648 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "speaker": "SPEAKER_00",
+    "text": "I hope you enjoyed this video."
+  },
+  {
+    "start": 4.0,
+    "end": 7.68,
+    "speaker": "SPEAKER_00",
+    "text": "Harold, hopefully this is an interesting case for both of us"
+  },
+  {
+    "start": 7.68,
+    "end": 9.52,
+    "speaker": "SPEAKER_00",
+    "text": "that would be exciting."
+  },
+  {
+    "start": 9.52,
+    "end": 12.32,
+    "speaker": "SPEAKER_00",
+    "text": "Just in terms of before we kind of dive into the case here,"
+  },
+  {
+    "start": 12.32,
+    "end": 14.76,
+    "speaker": "SPEAKER_00",
+    "text": "just to set up, the way we normally do this"
+  },
+  {
+    "start": 14.76,
+    "end": 18.96,
+    "speaker": "SPEAKER_00",
+    "text": "is we will share, I'll share a prompt,"
+  },
+  {
+    "start": 18.96,
+    "end": 21.080000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "which is essentially a client situation."
+  },
+  {
+    "start": 21.080000000000002,
+    "end": 23.92,
+    "speaker": "SPEAKER_00",
+    "text": "We can pause there, make sure you don't"
+  },
+  {
+    "start": 23.92,
+    "end": 27.080000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "have any clarifying questions before we actually"
+  },
+  {
+    "start": 27.08,
+    "end": 28.599999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "get into solving the case."
+  },
+  {
+    "start": 28.599999999999998,
+    "end": 32.76,
+    "speaker": "SPEAKER_00",
+    "text": "So another way of saying it is doing just directly jump"
+  },
+  {
+    "start": 32.76,
+    "end": 34.44,
+    "speaker": "SPEAKER_00",
+    "text": "into solving the case after the prompt,"
+  },
+  {
+    "start": 34.44,
+    "end": 37.839999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "we can have a structured set of questions that will help us"
+  },
+  {
+    "start": 37.839999999999996,
+    "end": 38.68,
+    "speaker": "SPEAKER_00",
+    "text": "walk through it."
+  },
+  {
+    "start": 38.68,
+    "end": 39.96,
+    "speaker": "SPEAKER_00",
+    "text": "Does that make sense?"
+  },
+  {
+    "start": 39.96,
+    "end": 41.32,
+    "speaker": "SPEAKER_00",
+    "text": "Yep, sounds good."
+  },
+  {
+    "start": 41.32,
+    "end": 44.12,
+    "speaker": "SPEAKER_00",
+    "text": "And then the other kind of set up reference point"
+  },
+  {
+    "start": 44.12,
+    "end": 47.8,
+    "speaker": "SPEAKER_00",
+    "text": "is these cases are venue representative"
+  },
+  {
+    "start": 47.8,
+    "end": 51.64,
+    "speaker": "SPEAKER_00",
+    "text": "of we try to bring actual case experience in the interviews"
+  },
+  {
+    "start": 51.64,
+    "end": 55.04,
+    "speaker": "SPEAKER_00",
+    "text": "just to give a good demonstration of what the work typically"
+  },
+  {
+    "start": 55.04,
+    "end": 58.96,
+    "speaker": "SPEAKER_00",
+    "text": "looks like, obviously for confidentiality purposes"
+  },
+  {
+    "start": 58.96,
+    "end": 60.2,
+    "speaker": "SPEAKER_00",
+    "text": "and whatnot."
+  },
+  {
+    "start": 60.2,
+    "end": 62.72,
+    "speaker": "SPEAKER_00",
+    "text": "All the numbers and the story might be completely different."
+  },
+  {
+    "start": 62.72,
+    "end": 65.6,
+    "speaker": "SPEAKER_00",
+    "text": "So just keep that in mind as you can go through this."
+  },
+  {
+    "start": 65.6,
+    "end": 67.32,
+    "speaker": "SPEAKER_00",
+    "text": "OK, yeah."
+  },
+  {
+    "start": 67.32,
+    "end": 68.2,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome."
+  },
+  {
+    "start": 68.2,
+    "end": 71.0,
+    "speaker": "SPEAKER_00",
+    "text": "So let me just pull up the prompt so that I can share it."
+  },
+  {
+    "start": 71.0,
+    "end": 75.8,
+    "speaker": "SPEAKER_00",
+    "text": "OK, so the prompt here is my client is Cutco, which"
+  },
+  {
+    "start": 75.8,
+    "end": 79.88,
+    "speaker": "SPEAKER_00",
+    "text": "is a portfolio company of a mid-market privately fund."
+  },
+  {
+    "start": 79.88,
+    "end": 83.96000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Cutco is a manufacturer of water jet cutting equipment."
+  },
+  {
+    "start": 85.28,
+    "end": 87.04,
+    "speaker": "SPEAKER_00",
+    "text": "Think about this as the equipment that"
+  },
+  {
+    "start": 87.04,
+    "end": 89.36000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "is installed in industrial settings."
+  },
+  {
+    "start": 89.36000000000001,
+    "end": 91.72,
+    "speaker": "SPEAKER_00",
+    "text": "And so used in a variety of applications"
+  },
+  {
+    "start": 91.72,
+    "end": 95.56,
+    "speaker": "SPEAKER_00",
+    "text": "for cutting mainly in manufacturing."
+  },
+  {
+    "start": 95.56,
+    "end": 98.2,
+    "speaker": "SPEAKER_00",
+    "text": "The client is trying to assess its growth prospects"
+  },
+  {
+    "start": 98.2,
+    "end": 100.96000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "through a variety of different methods."
+  },
+  {
+    "start": 100.96000000000001,
+    "end": 104.04,
+    "speaker": "SPEAKER_00",
+    "text": "And the CEO believes that the growth prospects are"
+  },
+  {
+    "start": 104.04,
+    "end": 106.68,
+    "speaker": "SPEAKER_00",
+    "text": "likely best among the large manufacturers."
+  },
+  {
+    "start": 106.68,
+    "end": 111.24000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So those above a billion dollars in revenue."
+  },
+  {
+    "start": 111.24000000000001,
+    "end": 113.76,
+    "speaker": "SPEAKER_00",
+    "text": "Get a pause there to see if you have"
+  },
+  {
+    "start": 113.76,
+    "end": 118.56,
+    "speaker": "SPEAKER_00",
+    "text": "any clarifying questions about the situation in our company."
+  },
+  {
+    "start": 121.44,
+    "end": 122.52000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 122.52000000000001,
+    "end": 127.48,
+    "speaker": "SPEAKER_01",
+    "text": "So just to recap, where Cutco is that my saying that correct?"
+  },
+  {
+    "start": 127.48,
+    "end": 128.0,
+    "speaker": "SPEAKER_00",
+    "text": "That's right."
+  },
+  {
+    "start": 128.0,
+    "end": 129.0,
+    "speaker": "SPEAKER_01",
+    "text": "Cutco."
+  },
+  {
+    "start": 129.0,
+    "end": 130.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 130.0,
+    "end": 130.20000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "OK."
+  },
+  {
+    "start": 130.20000000000002,
+    "end": 134.68,
+    "speaker": "SPEAKER_01",
+    "text": "And we are a manufacturer of water jet cutting equipment."
+  },
+  {
+    "start": 134.68,
+    "end": 135.32,
+    "speaker": "SPEAKER_01",
+    "text": "That's right."
+  },
+  {
+    "start": 135.32,
+    "end": 141.28,
+    "speaker": "SPEAKER_01",
+    "text": "Our CEO believes that these larger companies tend to do well."
+  },
+  {
+    "start": 141.28,
+    "end": 147.84,
+    "speaker": "SPEAKER_01",
+    "text": "And he wants us to assess the growth prospects"
+  },
+  {
+    "start": 147.84,
+    "end": 149.84,
+    "speaker": "SPEAKER_01",
+    "text": "of this portfolio company."
+  },
+  {
+    "start": 149.84,
+    "end": 151.24,
+    "speaker": "SPEAKER_00",
+    "text": "That's right."
+  },
+  {
+    "start": 151.24,
+    "end": 152.04,
+    "speaker": "SPEAKER_01",
+    "text": "OK."
+  },
+  {
+    "start": 152.04,
+    "end": 156.04,
+    "speaker": "SPEAKER_01",
+    "text": "So I do have a few questions."
+  },
+  {
+    "start": 156.04,
+    "end": 161.32,
+    "speaker": "SPEAKER_01",
+    "text": "Is there any way you could further explain the business model"
+  },
+  {
+    "start": 161.32,
+    "end": 167.0,
+    "speaker": "SPEAKER_01",
+    "text": "and what water jet cutting equipment actually is?"
+  },
+  {
+    "start": 167.0,
+    "end": 167.52,
+    "speaker": "SPEAKER_00",
+    "text": "Absolutely."
+  },
+  {
+    "start": 167.52,
+    "end": 168.52,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 168.52,
+    "end": 169.52,
+    "speaker": "SPEAKER_00",
+    "text": "That's a great question."
+  },
+  {
+    "start": 169.52,
+    "end": 173.16,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, the case is not really focused on your content knowledge."
+  },
+  {
+    "start": 173.16,
+    "end": 174.8,
+    "speaker": "SPEAKER_00",
+    "text": "So it's a great question to ask."
+  },
+  {
+    "start": 174.8,
+    "end": 178.72,
+    "speaker": "SPEAKER_00",
+    "text": "So in terms of water jet cutting, think about this as a machine"
+  },
+  {
+    "start": 178.72,
+    "end": 182.52,
+    "speaker": "SPEAKER_00",
+    "text": "that's you that essentially uses extremely high pressure water"
+  },
+  {
+    "start": 182.52,
+    "end": 188.64000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "and forces it through a variety of materials for cutting purposes."
+  },
+  {
+    "start": 188.64000000000001,
+    "end": 190.68,
+    "speaker": "SPEAKER_00",
+    "text": "So if you have steel and you cut it,"
+  },
+  {
+    "start": 190.68,
+    "end": 193.88,
+    "speaker": "SPEAKER_00",
+    "text": "you're using high pressure water in essence."
+  },
+  {
+    "start": 193.88,
+    "end": 197.32000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "At times, you could also have some additives, chemicals"
+  },
+  {
+    "start": 197.32,
+    "end": 200.79999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "and that water to help make those cuts more precise"
+  },
+  {
+    "start": 200.79999999999998,
+    "end": 204.92,
+    "speaker": "SPEAKER_00",
+    "text": "or more effective or for a variety of reasons."
+  },
+  {
+    "start": 204.92,
+    "end": 207.92,
+    "speaker": "SPEAKER_01",
+    "text": "So we manufacture the machines."
+  },
+  {
+    "start": 207.92,
+    "end": 208.48,
+    "speaker": "SPEAKER_01",
+    "text": "That's right."
+  },
+  {
+    "start": 208.48,
+    "end": 208.72,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 208.72,
+    "end": 210.2,
+    "speaker": "SPEAKER_00",
+    "text": "We manufacture those machines."
+  },
+  {
+    "start": 210.2,
+    "end": 214.12,
+    "speaker": "SPEAKER_00",
+    "text": "And those are then used in a number of manufacturing"
+  },
+  {
+    "start": 214.12,
+    "end": 214.88,
+    "speaker": "SPEAKER_00",
+    "text": "applications."
+  },
+  {
+    "start": 214.88,
+    "end": 219.0,
+    "speaker": "SPEAKER_00",
+    "text": "Think about aerospace, automotive electronics,"
+  },
+  {
+    "start": 219.0,
+    "end": 221.0,
+    "speaker": "SPEAKER_00",
+    "text": "other advanced manufacturing."
+  },
+  {
+    "start": 221.0,
+    "end": 223.64,
+    "speaker": "SPEAKER_00",
+    "text": "And really think about that water jet cutting"
+  },
+  {
+    "start": 223.64,
+    "end": 228.92,
+    "speaker": "SPEAKER_00",
+    "text": "is a method that gives you ready precise cuts"
+  },
+  {
+    "start": 228.92,
+    "end": 232.27999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "compared to what some of the other methods might be."
+  },
+  {
+    "start": 232.27999999999997,
+    "end": 232.77999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "OK."
+  },
+  {
+    "start": 235.88,
+    "end": 241.67999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "And then my second question is more so goal oriented."
+  },
+  {
+    "start": 241.67999999999998,
+    "end": 244.56,
+    "speaker": "SPEAKER_01",
+    "text": "When he says assess, wrote prospects,"
+  },
+  {
+    "start": 244.56,
+    "end": 250.32,
+    "speaker": "SPEAKER_01",
+    "text": "do we have any timeline or revenue goal per set?"
+  },
+  {
+    "start": 250.32,
+    "end": 250.67999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 250.68,
+    "end": 253.96,
+    "speaker": "SPEAKER_00",
+    "text": "No, it's a good question on that."
+  },
+  {
+    "start": 253.96,
+    "end": 257.44,
+    "speaker": "SPEAKER_00",
+    "text": "Let's just assume that we don't know much about it."
+  },
+  {
+    "start": 257.44,
+    "end": 259.84000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "And so we can step back and think a little more"
+  },
+  {
+    "start": 259.84000000000003,
+    "end": 260.84000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "pull a study."
+  },
+  {
+    "start": 260.84000000000003,
+    "end": 264.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "But it's a good question in terms of bounding"
+  },
+  {
+    "start": 264.40000000000003,
+    "end": 267.6,
+    "speaker": "SPEAKER_00",
+    "text": "how to think about your growth options."
+  },
+  {
+    "start": 267.6,
+    "end": 269.32,
+    "speaker": "SPEAKER_01",
+    "text": "OK."
+  },
+  {
+    "start": 269.32,
+    "end": 271.72,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, that's it for me on the question side."
+  },
+  {
+    "start": 271.72,
+    "end": 273.6,
+    "speaker": "SPEAKER_01",
+    "text": "So let's get into it."
+  },
+  {
+    "start": 273.6,
+    "end": 274.76,
+    "speaker": "SPEAKER_00",
+    "text": "That sounds great."
+  },
+  {
+    "start": 274.76,
+    "end": 276.76,
+    "speaker": "SPEAKER_00",
+    "text": "So one of the things that we typically"
+  },
+  {
+    "start": 276.76,
+    "end": 280.08,
+    "speaker": "SPEAKER_00",
+    "text": "try to do in terms of any situation,"
+  },
+  {
+    "start": 280.08,
+    "end": 282.91999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "like this, where someone's talking about growth"
+  },
+  {
+    "start": 282.91999999999996,
+    "end": 286.12,
+    "speaker": "SPEAKER_00",
+    "text": "and where to get it, you want to first size"
+  },
+  {
+    "start": 286.12,
+    "end": 288.52,
+    "speaker": "SPEAKER_00",
+    "text": "and understand what does the market look like?"
+  },
+  {
+    "start": 288.52,
+    "end": 290.76,
+    "speaker": "SPEAKER_00",
+    "text": "There's a bunch of other factors to also consider,"
+  },
+  {
+    "start": 290.76,
+    "end": 294.12,
+    "speaker": "SPEAKER_00",
+    "text": "but just using that as a starting point."
+  },
+  {
+    "start": 294.12,
+    "end": 297.88,
+    "speaker": "SPEAKER_00",
+    "text": "I guess a question for you is how would you approach"
+  },
+  {
+    "start": 297.88,
+    "end": 300.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "finding the size and the growth for the market"
+  },
+  {
+    "start": 300.15999999999997,
+    "end": 305.28,
+    "speaker": "SPEAKER_00",
+    "text": "for water jet cutting machines among large companies?"
+  },
+  {
+    "start": 305.28,
+    "end": 305.79999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "OK."
+  },
+  {
+    "start": 305.79999999999995,
+    "end": 309.59999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "So can I take 30 or so seconds to think about this?"
+  },
+  {
+    "start": 309.6,
+    "end": 310.44,
+    "speaker": "SPEAKER_00",
+    "text": "Sure. That sounds good."
+  },
+  {
+    "start": 310.44,
+    "end": 313.92,
+    "speaker": "SPEAKER_00",
+    "text": "And just for reference, you don't need to put numbers on it."
+  },
+  {
+    "start": 313.92,
+    "end": 316.20000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "I'm just trying to understand what your sizing approach"
+  },
+  {
+    "start": 316.20000000000005,
+    "end": 319.28000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "and what kind of equation variables you're going to use"
+  },
+  {
+    "start": 319.28000000000003,
+    "end": 320.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "for sizing."
+  },
+  {
+    "start": 320.40000000000003,
+    "end": 322.44,
+    "speaker": "SPEAKER_01",
+    "text": "And one quick clarify question."
+  },
+  {
+    "start": 322.44,
+    "end": 324.6,
+    "speaker": "SPEAKER_01",
+    "text": "Are we sizing this market for the world"
+  },
+  {
+    "start": 324.6,
+    "end": 326.48,
+    "speaker": "SPEAKER_01",
+    "text": "or just the United States?"
+  },
+  {
+    "start": 326.48,
+    "end": 328.12,
+    "speaker": "SPEAKER_01",
+    "text": "Let's work with the US."
+  },
+  {
+    "start": 328.12,
+    "end": 328.52000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "US."
+  },
+  {
+    "start": 328.52000000000004,
+    "end": 331.08000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "OK."
+  },
+  {
+    "start": 331.08000000000004,
+    "end": 331.84000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "OK."
+  },
+  {
+    "start": 331.84000000000003,
+    "end": 335.44,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm not too familiar with the market."
+  },
+  {
+    "start": 335.44,
+    "end": 343.04,
+    "speaker": "SPEAKER_01",
+    "text": "But to size it, I think we had to need to look at two main things."
+  },
+  {
+    "start": 343.04,
+    "end": 349.32,
+    "speaker": "SPEAKER_01",
+    "text": "There's those companies that already utilized these machines."
+  },
+  {
+    "start": 349.32,
+    "end": 353.4,
+    "speaker": "SPEAKER_01",
+    "text": "And then there's these companies that could potentially"
+  },
+  {
+    "start": 353.4,
+    "end": 357.84,
+    "speaker": "SPEAKER_01",
+    "text": "utilize these machines if they were given"
+  },
+  {
+    "start": 357.84,
+    "end": 362.28,
+    "speaker": "SPEAKER_01",
+    "text": "if they were advertised to correctly or convinced"
+  },
+  {
+    "start": 362.28,
+    "end": 366.79999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "that this machine would be an asset to them."
+  },
+  {
+    "start": 366.79999999999995,
+    "end": 371.32,
+    "speaker": "SPEAKER_01",
+    "text": "So I would kind of like to look at this in two parts."
+  },
+  {
+    "start": 371.32,
+    "end": 374.52,
+    "speaker": "SPEAKER_01",
+    "text": "First, for those who currently used the machines"
+  },
+  {
+    "start": 374.52,
+    "end": 380.88,
+    "speaker": "SPEAKER_01",
+    "text": "and then for those who could potentially use the machines."
+  },
+  {
+    "start": 380.88,
+    "end": 384.71999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "So for those who currently have the machines,"
+  },
+  {
+    "start": 384.71999999999997,
+    "end": 390.84,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, I do not have any estimate or numbers to give."
+  },
+  {
+    "start": 390.84,
+    "end": 395.67999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "But the key metric that we would need"
+  },
+  {
+    "start": 395.67999999999995,
+    "end": 398.11999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "is the lifespan of the machine."
+  },
+  {
+    "start": 398.11999999999995,
+    "end": 402.15999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "So how long does the machine work for?"
+  },
+  {
+    "start": 402.15999999999997,
+    "end": 406.67999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "So if you were to say that a machine"
+  },
+  {
+    "start": 406.67999999999995,
+    "end": 412.32,
+    "speaker": "SPEAKER_01",
+    "text": "were to last for 10 years, then the market"
+  },
+  {
+    "start": 412.32,
+    "end": 416.96,
+    "speaker": "SPEAKER_01",
+    "text": "would be 110 of all the total machines"
+  },
+  {
+    "start": 416.96,
+    "end": 420.71999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "in use for one year."
+  },
+  {
+    "start": 420.71999999999997,
+    "end": 426.56,
+    "speaker": "SPEAKER_01",
+    "text": "So that's kind of how I would look at sizing that segment of the market."
+  },
+  {
+    "start": 426.56,
+    "end": 434.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "And then saying 110 of the total base would be buying each year."
+  },
+  {
+    "start": 434.71999999999997,
+    "end": 438.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "And then you would multiply that with what"
+  },
+  {
+    "start": 438.15999999999997,
+    "end": 440.24,
+    "speaker": "SPEAKER_00",
+    "text": "do you get to the market size?"
+  },
+  {
+    "start": 440.24,
+    "end": 443.24,
+    "speaker": "SPEAKER_01",
+    "text": "By the price of the machine, which again,"
+  },
+  {
+    "start": 443.24,
+    "end": 446.24,
+    "speaker": "SPEAKER_01",
+    "text": "I have no idea how much machines cost."
+  },
+  {
+    "start": 446.24,
+    "end": 449.04,
+    "speaker": "SPEAKER_01",
+    "text": "I assume they're somewhat expensive."
+  },
+  {
+    "start": 449.04,
+    "end": 453.88,
+    "speaker": "SPEAKER_01",
+    "text": "And then for those who could potentially want the machine,"
+  },
+  {
+    "start": 453.88,
+    "end": 456.72,
+    "speaker": "SPEAKER_01",
+    "text": "this is a bit more difficult."
+  },
+  {
+    "start": 456.72,
+    "end": 460.6,
+    "speaker": "SPEAKER_01",
+    "text": "But I think a decent way we could look at this"
+  },
+  {
+    "start": 460.6,
+    "end": 465.92,
+    "speaker": "SPEAKER_01",
+    "text": "is we could look at the current clientele"
+  },
+  {
+    "start": 465.92,
+    "end": 472.32,
+    "speaker": "SPEAKER_01",
+    "text": "and kind of estimate a percentage of,"
+  },
+  {
+    "start": 472.32,
+    "end": 476.12,
+    "speaker": "SPEAKER_01",
+    "text": "you look at say, I think you said what aerospace"
+  },
+  {
+    "start": 476.12,
+    "end": 485.16,
+    "speaker": "SPEAKER_01",
+    "text": "industry, so you look at, so you could look at one such industry"
+  },
+  {
+    "start": 485.16,
+    "end": 488.16,
+    "speaker": "SPEAKER_01",
+    "text": "and look at the percentage of companies"
+  },
+  {
+    "start": 488.16,
+    "end": 495.28000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "that do utilize the machine and then look within the industry,"
+  },
+  {
+    "start": 495.28000000000003,
+    "end": 498.56,
+    "speaker": "SPEAKER_01",
+    "text": "companies most similar to those companies"
+  },
+  {
+    "start": 498.56,
+    "end": 505.28000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "that utilize the machines and then get an estimate based off that."
+  },
+  {
+    "start": 505.28,
+    "end": 514.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "And potentially based on how obviously you, as Cugco,"
+  },
+  {
+    "start": 514.4399999999999,
+    "end": 516.92,
+    "speaker": "SPEAKER_01",
+    "text": "you're not marketing for the entire industry,"
+  },
+  {
+    "start": 516.92,
+    "end": 518.68,
+    "speaker": "SPEAKER_01",
+    "text": "you're marketing for yourselves."
+  },
+  {
+    "start": 518.68,
+    "end": 523.88,
+    "speaker": "SPEAKER_01",
+    "text": "But if there was some, somehow some industry-wide marketing campaign"
+  },
+  {
+    "start": 523.88,
+    "end": 526.36,
+    "speaker": "SPEAKER_01",
+    "text": "where all the companies just decided,"
+  },
+  {
+    "start": 526.36,
+    "end": 527.76,
+    "speaker": "SPEAKER_01",
+    "text": "we're going to go after these companies"
+  },
+  {
+    "start": 527.76,
+    "end": 535.28,
+    "speaker": "SPEAKER_01",
+    "text": "and you could essentially take a percentage or a success rate"
+  },
+  {
+    "start": 535.28,
+    "end": 538.08,
+    "speaker": "SPEAKER_01",
+    "text": "and multiply that by the number of companies"
+  },
+  {
+    "start": 538.08,
+    "end": 540.2,
+    "speaker": "SPEAKER_01",
+    "text": "that you are marketing to."
+  },
+  {
+    "start": 540.2,
+    "end": 544.68,
+    "speaker": "SPEAKER_01",
+    "text": "And then once again, multiply by the price."
+  },
+  {
+    "start": 544.68,
+    "end": 545.4,
+    "speaker": "SPEAKER_00",
+    "text": "Makes sense."
+  },
+  {
+    "start": 545.4,
+    "end": 547.96,
+    "speaker": "SPEAKER_00",
+    "text": "So if I were to bucket this, you said you're"
+  },
+  {
+    "start": 547.96,
+    "end": 551.24,
+    "speaker": "SPEAKER_00",
+    "text": "going to look at the current base and what's"
+  },
+  {
+    "start": 551.24,
+    "end": 553.76,
+    "speaker": "SPEAKER_00",
+    "text": "that replacement from that on an annual basis,"
+  },
+  {
+    "start": 553.76,
+    "end": 556.96,
+    "speaker": "SPEAKER_00",
+    "text": "you'll look at adoption from those that have not"
+  },
+  {
+    "start": 556.96,
+    "end": 558.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "been adopted or adopted."
+  },
+  {
+    "start": 558.1600000000001,
+    "end": 559.9200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And what's that going to look like?"
+  },
+  {
+    "start": 559.9200000000001,
+    "end": 561.48,
+    "speaker": "SPEAKER_00",
+    "text": "If I were to tell you, you might still"
+  },
+  {
+    "start": 561.48,
+    "end": 566.84,
+    "speaker": "SPEAKER_00",
+    "text": "be missing one more component, what would that be?"
+  },
+  {
+    "start": 566.84,
+    "end": 575.36,
+    "speaker": "SPEAKER_01",
+    "text": "So we have those who have adopted those who might adopt."
+  },
+  {
+    "start": 575.36,
+    "end": 581.08,
+    "speaker": "SPEAKER_01",
+    "text": "OK, so yes, there is, I mean, are you hinting"
+  },
+  {
+    "start": 581.08,
+    "end": 585.44,
+    "speaker": "SPEAKER_01",
+    "text": "at potentially moving into a completely different industry?"
+  },
+  {
+    "start": 585.44,
+    "end": 589.7600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Now, I was thinking, you can replace your existing base,"
+  },
+  {
+    "start": 589.7600000000001,
+    "end": 592.36,
+    "speaker": "SPEAKER_00",
+    "text": "but you might also want to have more capacity."
+  },
+  {
+    "start": 592.36,
+    "end": 596.12,
+    "speaker": "SPEAKER_01",
+    "text": "And so you might grow for capacity as well."
+  },
+  {
+    "start": 596.12,
+    "end": 599.24,
+    "speaker": "SPEAKER_00",
+    "text": "And then just last question, there's a bunch of other areas"
+  },
+  {
+    "start": 599.24,
+    "end": 600.5200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "I want to kind of dig into."
+  },
+  {
+    "start": 600.5200000000001,
+    "end": 603.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "But just some of the install base,"
+  },
+  {
+    "start": 603.1600000000001,
+    "end": 604.8800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "how do you go about figuring that out?"
+  },
+  {
+    "start": 604.8800000000001,
+    "end": 609.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "That seems like crucial component of the sizing here."
+  },
+  {
+    "start": 609.5600000000001,
+    "end": 612.0,
+    "speaker": "SPEAKER_00",
+    "text": "Just curious, what approaches would you"
+  },
+  {
+    "start": 612.0,
+    "end": 616.44,
+    "speaker": "SPEAKER_00",
+    "text": "use? Probably sources, you know, methods to figure out"
+  },
+  {
+    "start": 616.44,
+    "end": 619.2,
+    "speaker": "SPEAKER_00",
+    "text": "what's the install base for water jet cutting equipment?"
+  },
+  {
+    "start": 619.2,
+    "end": 622.04,
+    "speaker": "SPEAKER_01",
+    "text": "So what do you mean by install base?"
+  },
+  {
+    "start": 622.04,
+    "end": 624.2,
+    "speaker": "SPEAKER_00",
+    "text": "I'm sorry, I use the term install base."
+  },
+  {
+    "start": 624.2,
+    "end": 626.24,
+    "speaker": "SPEAKER_00",
+    "text": "What I meant was like the existing base,"
+  },
+  {
+    "start": 626.24,
+    "end": 628.4,
+    "speaker": "SPEAKER_00",
+    "text": "like the ones that are currently using it."
+  },
+  {
+    "start": 628.4,
+    "end": 631.52,
+    "speaker": "SPEAKER_00",
+    "text": "How do we figure out how many companies and how many units"
+  },
+  {
+    "start": 631.52,
+    "end": 635.2,
+    "speaker": "SPEAKER_00",
+    "text": "are being currently used right now in the US?"
+  },
+  {
+    "start": 635.2,
+    "end": 639.56,
+    "speaker": "SPEAKER_01",
+    "text": "OK, so I mean, I probably start with,"
+  },
+  {
+    "start": 639.56,
+    "end": 644.04,
+    "speaker": "SPEAKER_01",
+    "text": "you know, I'd look at our core industries."
+  },
+  {
+    "start": 644.04,
+    "end": 648.76,
+    "speaker": "SPEAKER_01",
+    "text": "And then within each industry,"
+  },
+  {
+    "start": 648.76,
+    "end": 657.88,
+    "speaker": "SPEAKER_01",
+    "text": "we kind of estimate the usage rate of these water jet machines."
+  },
+  {
+    "start": 657.88,
+    "end": 660.88,
+    "speaker": "SPEAKER_01",
+    "text": "What is somewhat difficult is to, you know,"
+  },
+  {
+    "start": 660.88,
+    "end": 666.7199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "kind of know the exact number of machines per company."
+  },
+  {
+    "start": 666.72,
+    "end": 669.88,
+    "speaker": "SPEAKER_01",
+    "text": "So based on some metric,"
+  },
+  {
+    "start": 669.88,
+    "end": 672.32,
+    "speaker": "SPEAKER_01",
+    "text": "I'm not sure whether it would necessarily be,"
+  },
+  {
+    "start": 672.32,
+    "end": 675.28,
+    "speaker": "SPEAKER_01",
+    "text": "it could be, you know, number of employees, you know,"
+  },
+  {
+    "start": 675.28,
+    "end": 678.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "square footage per factory."
+  },
+  {
+    "start": 681.36,
+    "end": 685.2,
+    "speaker": "SPEAKER_01",
+    "text": "I honestly don't know what the most metric would be."
+  },
+  {
+    "start": 685.2,
+    "end": 688.4,
+    "speaker": "SPEAKER_00",
+    "text": "It makes sense, but essentially you're kind of making an assumption"
+  },
+  {
+    "start": 688.4,
+    "end": 691.0,
+    "speaker": "SPEAKER_00",
+    "text": "based on, you know, any kind of secondary data"
+  },
+  {
+    "start": 691.0,
+    "end": 695.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "that you can find around company, company cuts and, you know,"
+  },
+  {
+    "start": 695.16,
+    "end": 699.24,
+    "speaker": "SPEAKER_00",
+    "text": "the size or, you know, whether it's on revenue or capacity"
+  },
+  {
+    "start": 699.24,
+    "end": 702.48,
+    "speaker": "SPEAKER_00",
+    "text": "or manufacturing ability or anything like that."
+  },
+  {
+    "start": 702.48,
+    "end": 704.76,
+    "speaker": "SPEAKER_00",
+    "text": "Makes sense. Yes, exactly."
+  },
+  {
+    "start": 704.76,
+    "end": 705.8399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Cool."
+  },
+  {
+    "start": 705.8399999999999,
+    "end": 709.64,
+    "speaker": "SPEAKER_00",
+    "text": "Let me move to the second part of this case."
+  },
+  {
+    "start": 709.64,
+    "end": 713.56,
+    "speaker": "SPEAKER_00",
+    "text": "I'm going to share a slide with you right now."
+  },
+  {
+    "start": 713.56,
+    "end": 716.48,
+    "speaker": "SPEAKER_00",
+    "text": "I want you to have a look at this slide and tell me"
+  },
+  {
+    "start": 716.48,
+    "end": 718.48,
+    "speaker": "SPEAKER_00",
+    "text": "what do you see in here."
+  },
+  {
+    "start": 718.48,
+    "end": 719.68,
+    "speaker": "SPEAKER_00",
+    "text": "And then we can talk to it."
+  },
+  {
+    "start": 726.16,
+    "end": 728.16,
+    "speaker": "SPEAKER_01",
+    "text": "Just a quick question."
+  },
+  {
+    "start": 728.16,
+    "end": 729.16,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 729.16,
+    "end": 733.16,
+    "speaker": "SPEAKER_01",
+    "text": "So water jet is what we're in."
+  },
+  {
+    "start": 733.16,
+    "end": 735.16,
+    "speaker": "SPEAKER_01",
+    "text": "And these are our three competitors."
+  },
+  {
+    "start": 735.16,
+    "end": 736.16,
+    "speaker": "SPEAKER_01",
+    "text": "Is that correct?"
+  },
+  {
+    "start": 736.16,
+    "end": 739.16,
+    "speaker": "SPEAKER_01",
+    "text": "Laser mechanical and flame alternative approaches?"
+  },
+  {
+    "start": 739.16,
+    "end": 740.16,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 740.16,
+    "end": 741.16,
+    "speaker": "SPEAKER_01",
+    "text": "Alternative approaches."
+  },
+  {
+    "start": 741.16,
+    "end": 742.16,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 742.16,
+    "end": 746.16,
+    "speaker": "UNKNOWN",
+    "text": "So at first glance and what seems to be most substantial,"
+  },
+  {
+    "start": 746.16,
+    "end": 751.16,
+    "speaker": "UNKNOWN",
+    "text": "and, you know, consequential is that these, you know, these figures,"
+  },
+  {
+    "start": 751.16,
+    "end": 756.16,
+    "speaker": "SPEAKER_01",
+    "text": "these projections, they're expecting us to lose, you know,"
+  },
+  {
+    "start": 756.16,
+    "end": 759.16,
+    "speaker": "SPEAKER_01",
+    "text": "a tremendous amount of market share."
+  },
+  {
+    "start": 759.16,
+    "end": 762.16,
+    "speaker": "SPEAKER_01",
+    "text": "And then we can see that we're going to have a lot of money"
+  },
+  {
+    "start": 762.16,
+    "end": 764.16,
+    "speaker": "SPEAKER_01",
+    "text": "and we're going to have to pay for it."
+  },
+  {
+    "start": 764.16,
+    "end": 766.16,
+    "speaker": "SPEAKER_01",
+    "text": "And then we're going to have to pay for it."
+  },
+  {
+    "start": 766.16,
+    "end": 768.16,
+    "speaker": "SPEAKER_01",
+    "text": "And then we're going to have to pay for it."
+  },
+  {
+    "start": 768.16,
+    "end": 774.16,
+    "speaker": "SPEAKER_01",
+    "text": "They're expecting us to lose, you know, a tremendous amount of market share."
+  },
+  {
+    "start": 774.16,
+    "end": 782.16,
+    "speaker": "SPEAKER_01",
+    "text": "More than 50% in some industries and even more in others."
+  },
+  {
+    "start": 782.16,
+    "end": 787.16,
+    "speaker": "SPEAKER_01",
+    "text": "So like the industrial and aerospace industries are expected to lose"
+  },
+  {
+    "start": 787.16,
+    "end": 794.16,
+    "speaker": "SPEAKER_01",
+    "text": "50% market share, automotive industry, even more technology products,"
+  },
+  {
+    "start": 794.16,
+    "end": 802.48,
+    "speaker": "SPEAKER_01",
+    "text": "little less basic materials well over 50% and defense over 50% as well."
+  },
+  {
+    "start": 802.48,
+    "end": 804.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Uh-huh."
+  },
+  {
+    "start": 804.0799999999999,
+    "end": 809.92,
+    "speaker": "SPEAKER_00",
+    "text": "That makes sense, uh, what are just, you know, where it is right now in terms of the"
+  },
+  {
+    "start": 809.92,
+    "end": 815.28,
+    "speaker": "SPEAKER_00",
+    "text": "usage versus where it's expected to be in the future is dropping massively."
+  },
+  {
+    "start": 815.28,
+    "end": 820.8399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "What, what, um, what else do you see on here or what other, uh, thoughts do you have after"
+  },
+  {
+    "start": 820.8399999999999,
+    "end": 822.36,
+    "speaker": "SPEAKER_00",
+    "text": "looking at this slide?"
+  },
+  {
+    "start": 822.84,
+    "end": 823.36,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 823.36,
+    "end": 828.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So I mean, obviously if we're losing this market share, you know, someone's, you know,"
+  },
+  {
+    "start": 828.6800000000001,
+    "end": 832.04,
+    "speaker": "SPEAKER_01",
+    "text": "coming in to fill that demand."
+  },
+  {
+    "start": 832.04,
+    "end": 840.2,
+    "speaker": "SPEAKER_01",
+    "text": "So just looking at these figures, it does seem like it is, you know, a combination of,"
+  },
+  {
+    "start": 840.2,
+    "end": 849.28,
+    "speaker": "SPEAKER_01",
+    "text": "you know, kind of all three, but, um, you know, it's interesting how, uh, I would say"
+  },
+  {
+    "start": 849.28,
+    "end": 857.8399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "that flame in the, the automotive industry is going to go from zero to 20%, um, which"
+  },
+  {
+    "start": 857.8399999999999,
+    "end": 864.72,
+    "speaker": "SPEAKER_01",
+    "text": "is, you know, there has to be some underlying real reason for that to be the case."
+  },
+  {
+    "start": 864.72,
+    "end": 865.72,
+    "speaker": "SPEAKER_01",
+    "text": "Uh-huh."
+  },
+  {
+    "start": 865.72,
+    "end": 872.16,
+    "speaker": "SPEAKER_01",
+    "text": "Um, and it looks like, you know, in that section, like flame is, is the one, you know, most"
+  },
+  {
+    "start": 872.16,
+    "end": 876.24,
+    "speaker": "SPEAKER_01",
+    "text": "directly eroding our market share."
+  },
+  {
+    "start": 876.24,
+    "end": 882.32,
+    "speaker": "SPEAKER_01",
+    "text": "So I think kind of a, you know, a good case study or good thing to look at would be, you"
+  },
+  {
+    "start": 882.32,
+    "end": 889.04,
+    "speaker": "SPEAKER_01",
+    "text": "know, you know, why flame over water jet, you know, not just for the automotive industry,"
+  },
+  {
+    "start": 889.04,
+    "end": 894.28,
+    "speaker": "SPEAKER_01",
+    "text": "but, you know, maybe this can provide insight into, you know, other industries as well."
+  },
+  {
+    "start": 894.28,
+    "end": 895.28,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 895.28,
+    "end": 898.48,
+    "speaker": "SPEAKER_00",
+    "text": "No, I would love to come back to this as time permits."
+  },
+  {
+    "start": 898.48,
+    "end": 901.44,
+    "speaker": "SPEAKER_00",
+    "text": "Um, you know, that would be an interesting idea to probe."
+  },
+  {
+    "start": 901.44,
+    "end": 905.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Uh, but, um, essentially, I think the takeaway that you're getting at here is that the"
+  },
+  {
+    "start": 905.56,
+    "end": 910.28,
+    "speaker": "SPEAKER_00",
+    "text": "install base current versus what's going to be expected in the future is looking massively"
+  },
+  {
+    "start": 910.28,
+    "end": 911.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "different for us, right?"
+  },
+  {
+    "start": 911.4799999999999,
+    "end": 916.3599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So that doesn't, uh, absolutely too rosy for our, uh, client here."
+  },
+  {
+    "start": 916.3599999999999,
+    "end": 922.16,
+    "speaker": "SPEAKER_00",
+    "text": "Um, let me go to the next part of this."
+  },
+  {
+    "start": 922.16,
+    "end": 929.16,
+    "speaker": "SPEAKER_00",
+    "text": "So here you have, uh, just the current usage, it's not by industry on the left side, it's"
+  },
+  {
+    "start": 929.16,
+    "end": 935.28,
+    "speaker": "SPEAKER_00",
+    "text": "all, you know, uh, just set up, um, by, uh, exactly the way you're looking at it."
+  },
+  {
+    "start": 935.28,
+    "end": 940.8399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "It's called, call this as the install base as well, just at a level, uh, and then the"
+  },
+  {
+    "start": 940.8399999999999,
+    "end": 943.6,
+    "speaker": "SPEAKER_00",
+    "text": "right side you have likely heard to add or replace."
+  },
+  {
+    "start": 943.6,
+    "end": 946.12,
+    "speaker": "SPEAKER_00",
+    "text": "I want you to do two things on this one."
+  },
+  {
+    "start": 946.12,
+    "end": 952.56,
+    "speaker": "SPEAKER_00",
+    "text": "If you don't mind, um, yeah, one is just getting at a combined annual purchase rate, uh, for"
+  },
+  {
+    "start": 952.56,
+    "end": 956.16,
+    "speaker": "SPEAKER_00",
+    "text": "this market, not just word, word jet, just overall."
+  },
+  {
+    "start": 956.16,
+    "end": 961.36,
+    "speaker": "SPEAKER_00",
+    "text": "And then, um, more importantly, obviously, kind of, how does your take change from the"
+  },
+  {
+    "start": 961.36,
+    "end": 965.64,
+    "speaker": "SPEAKER_00",
+    "text": "prior slide to this slide, uh, in terms of what you see here?"
+  },
+  {
+    "start": 965.64,
+    "end": 970.48,
+    "speaker": "SPEAKER_01",
+    "text": "So first you want to combine annual purchase rate and then the second thing you, the second"
+  },
+  {
+    "start": 970.48,
+    "end": 976.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "thing you said was, just let take away, uh, you know, in terms of how we are building"
+  },
+  {
+    "start": 976.6800000000001,
+    "end": 978.0,
+    "speaker": "SPEAKER_00",
+    "text": "quality."
+  },
+  {
+    "start": 978.0,
+    "end": 979.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 979.0,
+    "end": 981.32,
+    "speaker": "SPEAKER_01",
+    "text": "So combined annual purchase rate."
+  },
+  {
+    "start": 981.32,
+    "end": 984.44,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm not, I'm not actually familiar with that term."
+  },
+  {
+    "start": 984.44,
+    "end": 985.44,
+    "speaker": "SPEAKER_00",
+    "text": "Sure."
+  },
+  {
+    "start": 985.44,
+    "end": 986.44,
+    "speaker": "SPEAKER_00",
+    "text": "Sure."
+  },
+  {
+    "start": 986.44,
+    "end": 990.6,
+    "speaker": "SPEAKER_00",
+    "text": "It just means that on the left side, what you're seeing is what currently has been like,"
+  },
+  {
+    "start": 990.6,
+    "end": 993.64,
+    "speaker": "SPEAKER_00",
+    "text": "it's existing in these organizations, right?"
+  },
+  {
+    "start": 993.64,
+    "end": 999.96,
+    "speaker": "SPEAKER_00",
+    "text": "If you think about where all are all types of cutting tools used, let's make up an example"
+  },
+  {
+    "start": 999.96,
+    "end": 1006.2,
+    "speaker": "SPEAKER_00",
+    "text": "like there are 100 cutting tools, uh, use total, uh, you know, individual units, uh, 40"
+  },
+  {
+    "start": 1006.2,
+    "end": 1012.36,
+    "speaker": "SPEAKER_00",
+    "text": "of those are water jet, 30 of those are laser, 15 of those are mechanical and so on."
+  },
+  {
+    "start": 1012.36,
+    "end": 1017.08,
+    "speaker": "SPEAKER_00",
+    "text": "And on the right side, it's saying that for every unit that exists right now, what"
+  },
+  {
+    "start": 1017.08,
+    "end": 1023.44,
+    "speaker": "SPEAKER_00",
+    "text": "percentage would end up either adding one moon or replacing it over the course of next"
+  },
+  {
+    "start": 1023.44,
+    "end": 1024.44,
+    "speaker": "SPEAKER_00",
+    "text": "year?"
+  },
+  {
+    "start": 1024.44,
+    "end": 1029.52,
+    "speaker": "SPEAKER_00",
+    "text": "And so what, what I'm asking is essentially, what does this translate to in terms of an"
+  },
+  {
+    "start": 1029.52,
+    "end": 1037.56,
+    "speaker": "SPEAKER_00",
+    "text": "annual purchase, whether it's at a place or, uh, you know, uh, new ad for the market."
+  },
+  {
+    "start": 1037.56,
+    "end": 1044.48,
+    "speaker": "SPEAKER_01",
+    "text": "So we're, we're saying that 35% of our water jet machines will no longer work and need"
+  },
+  {
+    "start": 1044.48,
+    "end": 1047.52,
+    "speaker": "SPEAKER_01",
+    "text": "to be replaced next year is that, is that correct?"
+  },
+  {
+    "start": 1047.52,
+    "end": 1053.72,
+    "speaker": "SPEAKER_00",
+    "text": "Or, or, uh, you know, 35, like combination of four, or the other one."
+  },
+  {
+    "start": 1053.72,
+    "end": 1054.72,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1054.72,
+    "end": 1055.72,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1055.72,
+    "end": 1056.72,
+    "speaker": "SPEAKER_01",
+    "text": "This is what we were talking about earlier."
+  },
+  {
+    "start": 1056.72,
+    "end": 1057.72,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1057.72,
+    "end": 1058.72,
+    "speaker": "SPEAKER_00",
+    "text": "Exactly."
+  },
+  {
+    "start": 1058.72,
+    "end": 1059.72,
+    "speaker": "SPEAKER_00",
+    "text": "So, right."
+  },
+  {
+    "start": 1059.72,
+    "end": 1063.92,
+    "speaker": "SPEAKER_00",
+    "text": "Now you have 40 units, uh, about 15 of those, I'm just making up an example here."
+  },
+  {
+    "start": 1063.92,
+    "end": 1069.4,
+    "speaker": "SPEAKER_00",
+    "text": "15 of those might, uh, you know, get replaced and they'd still would add 20 more."
+  },
+  {
+    "start": 1069.4,
+    "end": 1071.92,
+    "speaker": "SPEAKER_00",
+    "text": "Um, so that, that's where it comes down to."
+  },
+  {
+    "start": 1072.0,
+    "end": 1075.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "What, what I'm trying to figure out is like, what's the annual purchase rate at a full"
+  },
+  {
+    "start": 1075.6000000000001,
+    "end": 1076.3200000000002,
+    "speaker": "SPEAKER_00",
+    "text": "market level?"
+  },
+  {
+    "start": 1077.52,
+    "end": 1078.52,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1079.3200000000002,
+    "end": 1080.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1081.44,
+    "end": 1086.72,
+    "speaker": "SPEAKER_01",
+    "text": "So it seems like we just have to do some multiplication and addition to find this combined"
+  },
+  {
+    "start": 1086.72,
+    "end": 1087.92,
+    "speaker": "SPEAKER_01",
+    "text": "annual purchase rate."
+  },
+  {
+    "start": 1089.64,
+    "end": 1098.0800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So starting with no cutting tools, um, we would take 10% of 10%, which is 1%."
+  },
+  {
+    "start": 1099.08,
+    "end": 1106.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm just going to write no cutting tools, 1% and then moving on to flame."
+  },
+  {
+    "start": 1108.3999999999999,
+    "end": 1115.56,
+    "speaker": "SPEAKER_01",
+    "text": "Um, we have to take 5% of 30% or 30% of 5% doesn't matter, which is 6%."
+  },
+  {
+    "start": 1117.6799999999998,
+    "end": 1120.8,
+    "speaker": "SPEAKER_01",
+    "text": "Then moving on to mechanical."
+  },
+  {
+    "start": 1121.12,
+    "end": 1137.12,
+    "speaker": "SPEAKER_01",
+    "text": "We have to take, um, 1% of 15% which is the repressence."
+  },
+  {
+    "start": 1139.6,
+    "end": 1143.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Um, and I'm realizing I did this, this flame calculation wrong."
+  },
+  {
+    "start": 1143.8799999999999,
+    "end": 1145.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "It should be what one and a half percent."
+  },
+  {
+    "start": 1146.2,
+    "end": 1162.48,
+    "speaker": "SPEAKER_01",
+    "text": "Um, and then, um, for laser, um, we do 30 of 35%."
+  },
+  {
+    "start": 1162.48,
+    "end": 1171.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So that's going to be, it's going to be 10."
+  },
+  {
+    "start": 1172.36,
+    "end": 1176.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "And yet that should be 10 and a half percent."
+  },
+  {
+    "start": 1176.9199999999998,
+    "end": 1184.52,
+    "speaker": "SPEAKER_01",
+    "text": "And then finally, water jets, we're doing 40% of 35%."
+  },
+  {
+    "start": 1184.52,
+    "end": 1195.84,
+    "speaker": "SPEAKER_01",
+    "text": "So that's the 10 and a half percent calculated previously, plus another 3.5%."
+  },
+  {
+    "start": 1195.84,
+    "end": 1198.84,
+    "speaker": "SPEAKER_01",
+    "text": "So that should get us to 14%."
+  },
+  {
+    "start": 1198.84,
+    "end": 1200.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1200.68,
+    "end": 1203.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "And then we just have to add all these up."
+  },
+  {
+    "start": 1204.36,
+    "end": 1213.96,
+    "speaker": "SPEAKER_01",
+    "text": "So we should get 1 plus 1 and a half, it's 2 and a half plus 3 is, or here, let's do it this way."
+  },
+  {
+    "start": 1213.96,
+    "end": 1218.52,
+    "speaker": "SPEAKER_01",
+    "text": "So 10 and a half plus 1 and a half is 12%."
+  },
+  {
+    "start": 1219.48,
+    "end": 1223.96,
+    "speaker": "SPEAKER_01",
+    "text": "Plus 1% plus 3% plus 14%."
+  },
+  {
+    "start": 1225.16,
+    "end": 1229.16,
+    "speaker": "SPEAKER_01",
+    "text": "So 13%, 16%."
+  },
+  {
+    "start": 1229.16,
+    "end": 1233.92,
+    "speaker": "SPEAKER_01",
+    "text": "Plus 14% should get us a 30% combined annual purchase rate."
+  },
+  {
+    "start": 1235.92,
+    "end": 1237.72,
+    "speaker": "SPEAKER_00",
+    "text": "That makes sense."
+  },
+  {
+    "start": 1237.72,
+    "end": 1246.32,
+    "speaker": "SPEAKER_00",
+    "text": "So what do you, what do you make of just what you see on the slide and, um, you know, just your learnings from the prior slide?"
+  },
+  {
+    "start": 1246.4399999999998,
+    "end": 1246.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1246.9199999999998,
+    "end": 1256.52,
+    "speaker": "SPEAKER_01",
+    "text": "So I mean, it, it seems like a 30% combined annual purchase rate is, you know, relatively high."
+  },
+  {
+    "start": 1257.32,
+    "end": 1269.2,
+    "speaker": "SPEAKER_01",
+    "text": "It means that, you know, we're either, you know, replacing a lot of our existing equipment or, you know, cutting tools in general, you know, they're very valuable or whatever industry."
+  },
+  {
+    "start": 1269.2,
+    "end": 1274.8,
+    "speaker": "SPEAKER_01",
+    "text": "And, you know, these industries are growing and they need to, you know, add more cutting tools."
+  },
+  {
+    "start": 1277.04,
+    "end": 1295.36,
+    "speaker": "SPEAKER_01",
+    "text": "You know, for, you know, our situation, specifically with the 35% replacement rate, you know, that is, you know, a bit of, you know, a bit of hope in our, you know, given, you know, kind of the decline that we saw from, from last slide."
+  },
+  {
+    "start": 1297.04,
+    "end": 1303.28,
+    "speaker": "SPEAKER_01",
+    "text": "That being said, you know, the figures from last slide, you know, they didn't, there was no, there was no timeline."
+  },
+  {
+    "start": 1303.36,
+    "end": 1305.92,
+    "speaker": "SPEAKER_01",
+    "text": "So that could be, you know, well into the future."
+  },
+  {
+    "start": 1306.6,
+    "end": 1324.32,
+    "speaker": "SPEAKER_01",
+    "text": "So what, what I can kind of hypothesis, hypothesize out of this for, you know, our, you know, water jet portfolio company is that, you know, while, you know, the client is definitely a fear, just due to like penetration from, you know, alternative methods."
+  },
+  {
+    "start": 1325.04,
+    "end": 1340.32,
+    "speaker": "SPEAKER_01",
+    "text": "Um, you know, this decline could be, you know, relatively slow due to the fact that, you know, the, the add or replace is relatively high at 35% for us and 30% for, you know, the market in total."
+  },
+  {
+    "start": 1341.28,
+    "end": 1359.52,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, from an annual basis, how much does the company care about from its annual revenue standpoint for next year? How much does the company care about, you know, that longer term, that basis moving away versus what they're getting next year."
+  },
+  {
+    "start": 1359.52,
+    "end": 1370.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, and I, I think it's, it's also important to, you know, consider this like within the lens of, you know, private equity, you know, we're likely not holding this business."
+  },
+  {
+    "start": 1370.32,
+    "end": 1383.32,
+    "speaker": "SPEAKER_01",
+    "text": "For 50 more years, you know, you know, the average holding period is going to be, I'm not fear specifically, but, you know, if we can kind of, you know, eat out if we're concerned about, you know, profitability."
+  },
+  {
+    "start": 1383.32,
+    "end": 1394.96,
+    "speaker": "SPEAKER_01",
+    "text": "I know this is more of a growth question, but alternatively, it's potentially safe to say that, you know, this business can remain relatively profitable into the near future."
+  },
+  {
+    "start": 1395.92,
+    "end": 1412.16,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, one thing to remember from a private equity lens is that even though, you know, a given funds investment timeframe might end, they still are thinking about, you know, longer term value creation, because at the end of the day, they are exiting out of it."
+  },
+  {
+    "start": 1412.8,
+    "end": 1420.68,
+    "speaker": "SPEAKER_00",
+    "text": "They need to show the demonstrate, they need to demonstrate the value for a future investor as well. So just in those lens, we can move to the next one."
+  },
+  {
+    "start": 1421.0800000000002,
+    "end": 1430.2,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. I'll come back to the slide on it, but just curious, you know, earlier you were talking about sleep and, you know, some of the other areas."
+  },
+  {
+    "start": 1432.0,
+    "end": 1437.76,
+    "speaker": "SPEAKER_00",
+    "text": "In the spirit of figuring out this trend that longer term, there's going to be a shift away from water jet. What?"
+  },
+  {
+    "start": 1438.28,
+    "end": 1449.28,
+    "speaker": "SPEAKER_00",
+    "text": "How would you look at the adjacencies that we had there, you know, laser mechanical frame, let's assume the world is just those three adjacencies outside of water jet."
+  },
+  {
+    "start": 1449.68,
+    "end": 1458.68,
+    "speaker": "SPEAKER_00",
+    "text": "How do you evaluate, you know, if any of those are worth getting into as a way to cannot de-risk longer term?"
+  },
+  {
+    "start": 1460.04,
+    "end": 1464.2,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. Do you mind if I take like 30 seconds to think about this? Sure."
+  },
+  {
+    "start": 1464.44,
+    "end": 1479.44,
+    "speaker": "SPEAKER_01",
+    "text": "So yeah, so we've kind of already like looked at the market in total and we've seen that, you know, laser mechanical and flame are, you know, all growing and eating in a water jet and we've."
+  },
+  {
+    "start": 1480.04,
+    "end": 1494.0800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "We've also seen that, you know, the what is this term? The annual purchase rate is, you know, relatively high for the market. So what I would like to more so focus on is, you know, if there exists any real sense."
+  },
+  {
+    "start": 1494.2,
+    "end": 1503.2,
+    "speaker": "SPEAKER_01",
+    "text": "There's a lot of energy between, you know, what we do with the water jet company and, you know, between flame mechanical and laser."
+  },
+  {
+    "start": 1504.0,
+    "end": 1517.2,
+    "speaker": "SPEAKER_01",
+    "text": "So what I can think of is, you know, like industry expertise, you know, do we as, you know, private equity operators? Do we, do we know about laser mechanical and flame at all?"
+  },
+  {
+    "start": 1517.2,
+    "end": 1540.2,
+    "speaker": "SPEAKER_01",
+    "text": "Do we have, you know, employees at, you know, some of our portfolio companies who have, you know, such knowledge. And then I think there's, there's some, you know, revenue synergies as well, you know, we probably have a pretty strong existing client base with our, you know, water jet customers."
+  },
+  {
+    "start": 1540.2,
+    "end": 1546.72,
+    "speaker": "SPEAKER_01",
+    "text": "And if, if they're looking to get into laser mechanical flame, perhaps they would be more willing to buy from us."
+  },
+  {
+    "start": 1547.72,
+    "end": 1555.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And then perhaps there could also be some cost synergies on, you know, the manufacturing and distribution side as well."
+  },
+  {
+    "start": 1556.64,
+    "end": 1568.68,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, that, that makes sense. I guess how would you figure out between laser mechanical and flame? Should you offer all three? Should you do only one? And how do you prioritize that one?"
+  },
+  {
+    "start": 1569.68,
+    "end": 1584.68,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I mean, I mean, that's, that's a really good question. I mean, if we could, you know, perhaps, you know, reference the graph. I mean, we don't actually have to, but obviously looking at the one that's, you know, projected to, you know,"
+  },
+  {
+    "start": 1585.4,
+    "end": 1590.52,
+    "speaker": "SPEAKER_01",
+    "text": "eat into the water jet market the most, I mean, that's definitely one main consideration."
+  },
+  {
+    "start": 1591.3600000000001,
+    "end": 1605.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And then essentially going back to the synergies, we could also look at, you know, where there is the most overlap, you know, on the revenue side, I assume that, you know, all of these methods for cutting, you know, they,"
+  },
+  {
+    "start": 1606.56,
+    "end": 1615.32,
+    "speaker": "SPEAKER_01",
+    "text": "they're not, they're not exactly the same, you know, so maybe figuring out the one that is most similar to water jet in terms of, you know, the results."
+  },
+  {
+    "start": 1615.84,
+    "end": 1620.52,
+    "speaker": "SPEAKER_01",
+    "text": "And then, you know, looking to break into that in order to, you know, retain customers."
+  },
+  {
+    "start": 1621.4,
+    "end": 1637.52,
+    "speaker": "SPEAKER_00",
+    "text": "Makes sense. And then apologies in the spirit of time here, just last piece here. So all the stuff that you mentioned, you know, we tried to summarize that here, right, you know, looking at the three categories, the Jason, please, and just looking at a few metrics around it."
+  },
+  {
+    "start": 1638.44,
+    "end": 1646.32,
+    "speaker": "SPEAKER_00",
+    "text": "Looking at this, what would you want to recommend in terms of which, which direction to go into?"
+  },
+  {
+    "start": 1647.2,
+    "end": 1656.2,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so, and these scales, they all represent, you know, the likelihood that we're, we're able to do this."
+  },
+  {
+    "start": 1657.04,
+    "end": 1662.04,
+    "speaker": "SPEAKER_00",
+    "text": "The scale represents the metrics, so, you know, market penetration, high or low."
+  },
+  {
+    "start": 1662.04,
+    "end": 1664.2,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. And likewise, yeah."
+  },
+  {
+    "start": 1664.6799999999998,
+    "end": 1665.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1666.6399999999999,
+    "end": 1675.32,
+    "speaker": "SPEAKER_01",
+    "text": "And a low market penetration means we have a low chance to penetrate this market. It's, it doesn't mean that the market is easily headed."
+  },
+  {
+    "start": 1676.2,
+    "end": 1692.8,
+    "speaker": "SPEAKER_00",
+    "text": "No, it's, it's current state. So this will be similar to the charts, rather than putting the numbers again. It's just summarizing the basically what it says is that mechanical has moderate penetration in the current state, meaning, you know, I'll just make up an example."
+  },
+  {
+    "start": 1693.12,
+    "end": 1700.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "20, 30% of the companies are already using the mechanical cutting tools right now."
+  },
+  {
+    "start": 1701.72,
+    "end": 1710.44,
+    "speaker": "SPEAKER_00",
+    "text": "And then flame has very low market penetration. It's a relative scale. So flame could be 2% as an example. And so, okay."
+  },
+  {
+    "start": 1712.6,
+    "end": 1713.08,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1714.1599999999999,
+    "end": 1715.04,
+    "speaker": "SPEAKER_01",
+    "text": "So,"
+  },
+  {
+    "start": 1715.04,
+    "end": 1738.04,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, I think we can consider all options, but I would probably be most inclined to, you know, go with flame, you know, due to the fact that, you know, although the market is, you know, not incredibly, you know, penetrated."
+  },
+  {
+    "start": 1739.04,
+    "end": 1755.04,
+    "speaker": "SPEAKER_01",
+    "text": "We did see in previous slides that they were expecting, you know, pretty, pretty rapid growth into the future from, you know, zero penetration to a significant share. So that kind of proves that this technology exists. And it works."
+  },
+  {
+    "start": 1756.04,
+    "end": 1778.04,
+    "speaker": "SPEAKER_01",
+    "text": "And that can also be seen by this middle box. And then, yeah, additionally, the trust and fit with, you know, Coco and our current customers is relatively high. And, you know, considering we are a private equity firm and, you know, synergies are pretty important. I think that's, you know, definitely something we need to consider."
+  },
+  {
+    "start": 1779.04,
+    "end": 1794.04,
+    "speaker": "SPEAKER_00",
+    "text": "Makes makes sense. Okay. I think we are, we're going to run out of time here. So I guess just if, well, actually, if you can, uh, uh, uh, we talked about the adjacent side of the growth, right?"
+  },
+  {
+    "start": 1794.04,
+    "end": 1804.04,
+    "speaker": "SPEAKER_00",
+    "text": "If, uh, water jet cutting equipment were the longer term that basis kind of declining, even though near term we are fine. Yeah."
+  },
+  {
+    "start": 1804.04,
+    "end": 1817.04,
+    "speaker": "SPEAKER_00",
+    "text": "That longer term is going away. We might want to get into one of these areas. What could you do in, in the current state, just to shore up your position on the water jet cutting side itself?"
+  },
+  {
+    "start": 1818.04,
+    "end": 1831.04,
+    "speaker": "SPEAKER_00",
+    "text": "Um, sorry, just to be clear, by shore up your position, what I mean is like, you still want to get growth, right? So yes, you'll go longer term. You'd want to pick one of these categories to kind of tap into the higher growth areas."
+  },
+  {
+    "start": 1831.04,
+    "end": 1843.04,
+    "speaker": "SPEAKER_00",
+    "text": "But before you do that, are there anything else on the water jet cutting side that you would consider that can still give you higher growth, you know, in the current state?"
+  },
+  {
+    "start": 1843.04,
+    "end": 1856.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. I mean, I think one, one obvious thing we could do if it, you know, doesn't reduce profitability too much is we could obviously look at lowering prices."
+  },
+  {
+    "start": 1856.04,
+    "end": 1872.04,
+    "speaker": "SPEAKER_01",
+    "text": "Um, and what this does is, you know, it's, it's machinery. It's somewhat long term. So if you can, you know, convince people to buy, you know, a bunch of these machines now, um, you know, you're essentially, you know,"
+  },
+  {
+    "start": 1872.04,
+    "end": 1886.04,
+    "speaker": "SPEAKER_01",
+    "text": "they're dependent on, on those machines for X amount of time. And perhaps that results in, you know, a more long term dependence. So I would look at lowering price as, as one sense."
+  },
+  {
+    "start": 1886.04,
+    "end": 1888.04,
+    "speaker": "SPEAKER_00",
+    "text": "That makes sense."
+  },
+  {
+    "start": 1888.04,
+    "end": 1902.04,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, we definitely run out of time. So let's just, uh, if you can just summarize your tea takeaways, you know, picking more about the client situation. And what do we want to say where we are and what, what we still have to figure out?"
+  },
+  {
+    "start": 1902.04,
+    "end": 1913.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. So, um, you know, uh, you guys represent Cucco. You are the private equity operator of that business."
+  },
+  {
+    "start": 1913.04,
+    "end": 1935.04,
+    "speaker": "SPEAKER_01",
+    "text": "Um, you guys make water jet machines that are used to cut in a variety of different ways. Um, some of our projections and external projections predict that, you know, the water jet method of cutting is going to be, you know, getting eaked out into the future by mechanical flame and laser."
+  },
+  {
+    "start": 1935.04,
+    "end": 1954.04,
+    "speaker": "SPEAKER_01",
+    "text": "This is, you know, obviously is a concern as we want to, you know, grow the business and, you know, add value to it. Um, one key takeaway is that, you know, kind of in the short term, you know, the turnover on these machines is still relatively high. So there still exists demand in the short term."
+  },
+  {
+    "start": 1954.04,
+    "end": 1974.04,
+    "speaker": "SPEAKER_01",
+    "text": "However, long term, you know, this business is destined to struggle. So what I would recommend is, you know, looking to expand into either, you know, mechanical flame or laser, I personally think that flame offers, you know, the best opportunity due to like the low market penetration."
+  },
+  {
+    "start": 1974.04,
+    "end": 1983.04,
+    "speaker": "SPEAKER_01",
+    "text": "Um, you know, the high percentage that we can, you know, penetrate that market and there is also, you know, some fit with with our current customer base."
+  },
+  {
+    "start": 1983.04,
+    "end": 1994.04,
+    "speaker": "SPEAKER_01",
+    "text": "Um, you know, as, as next steps, I'd like to further look into, you know, the mechanical flame and laser markets and do more due diligence to see which one is, you know, truly best to break into."
+  },
+  {
+    "start": 1995.04,
+    "end": 2000.04,
+    "speaker": "SPEAKER_00",
+    "text": "Got it. That sounds great. And that's essentially the end of the case."
+  },
+  {
+    "start": 2000.04,
+    "end": 2015.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. Great. Thank you. Thank you very much. Awesome. So I have some feedback and happy to kind of dive into that piece, but just curious. Any, any reflections in terms of, you know, just how the process went for you."
+  },
+  {
+    "start": 2015.04,
+    "end": 2027.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. I mean, obviously, you know, this was a pretty niche case. I definitely did enjoy it. Um, you know, it's kind of fun to think about a, you know, not unique industry."
+  },
+  {
+    "start": 2027.04,
+    "end": 2040.04,
+    "speaker": "SPEAKER_01",
+    "text": "Um, you know, I would say the market sizing was, you know, a little tough because, you know, usually when you, when you practice this stuff, you know, you just algorithmically go through it and you can't really do that."
+  },
+  {
+    "start": 2040.04,
+    "end": 2051.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. Um, but, but yeah, outside of that, I think it was, you know, you know, pretty interesting. I think I could have been, you know, a little more specific."
+  },
+  {
+    "start": 2051.04,
+    "end": 2059.04,
+    "speaker": "SPEAKER_01",
+    "text": "Um, you know, when some of my recommendations and I don't know, I think some of that was just like it being a really obscure market."
+  },
+  {
+    "start": 2059.04,
+    "end": 2064.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. Overall, it was, it was good and at a good time."
+  },
+  {
+    "start": 2064.04,
+    "end": 2074.04,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. No, I think you hit on the things that I was also thinking about, but good job on this. Um, when just stepping back before I get into some of the fix here,"
+  },
+  {
+    "start": 2074.04,
+    "end": 2086.04,
+    "speaker": "SPEAKER_00",
+    "text": "when, when not just stacks pretty much any consulting firm that does case case interviews as a method of kind of understanding how, you know, candidates think and, you know, how they process information and things like that."
+  },
+  {
+    "start": 2086.04,
+    "end": 2098.04,
+    "speaker": "SPEAKER_00",
+    "text": "The purpose is never about or most cases is not about your existing content knowledge, right? And so that's why you could take this and replace it with the widget, if you will, right?"
+  },
+  {
+    "start": 2098.04,
+    "end": 2111.04,
+    "speaker": "SPEAKER_00",
+    "text": "Um, and it's, uh, it really boils down to six areas that in my view, like most think about one is, you know, do you capture the problems statement like, you know, what is the central issue here?"
+  },
+  {
+    "start": 2111.04,
+    "end": 2117.04,
+    "speaker": "SPEAKER_00",
+    "text": "And I think you did a pretty good job at that in terms of figuring out, okay, we need to figure out how do we grow this business?"
+  },
+  {
+    "start": 2117.04,
+    "end": 2125.04,
+    "speaker": "SPEAKER_00",
+    "text": "And is there a timeline or the certain target that we should look at? Great questions. Um, in this case, we didn't have any problems around that."
+  },
+  {
+    "start": 2125.04,
+    "end": 2136.04,
+    "speaker": "SPEAKER_00",
+    "text": "Uh, the second part is structure and this, this part is a very critical component of any case interview, right? So think about me see like mutually exclusive, collective exhaustive."
+  },
+  {
+    "start": 2136.04,
+    "end": 2152.04,
+    "speaker": "SPEAKER_00",
+    "text": "Um, the idea is that when you're trying to attack a problem, have you identified the distinct buckets that when they add up that in and of itself, they are, you know, distinct and then when you add them up, it can answer the question, right?"
+  },
+  {
+    "start": 2152.04,
+    "end": 2161.04,
+    "speaker": "SPEAKER_00",
+    "text": "Like, I think you did a very good job at that that I can get to, you know, a few components around that, but it's really getting back to like, how do you structure the idea?"
+  },
+  {
+    "start": 2161.04,
+    "end": 2172.04,
+    "speaker": "SPEAKER_00",
+    "text": "The third part is prioritizing, right? You're not going to be able to go into all of those three five areas around growth. How do you quickly, once you have laid out here are the five issues to consider?"
+  },
+  {
+    "start": 2172.04,
+    "end": 2176.04,
+    "speaker": "SPEAKER_00",
+    "text": "How do you quickly say, I want to put time in three of these?"
+  },
+  {
+    "start": 2177.04,
+    "end": 2190.04,
+    "speaker": "SPEAKER_00",
+    "text": "Um, and I think even there, if you think about how the case went, you know, there were times that you were kind of knee out the ideas and then, you know, we would work through kind of how to prioritize and which one to kind of double click on."
+  },
+  {
+    "start": 2190.04,
+    "end": 2196.04,
+    "speaker": "SPEAKER_00",
+    "text": "Obviously, typically cases like these might be even you might have 10 more minutes, for example."
+  },
+  {
+    "start": 2196.04,
+    "end": 2206.04,
+    "speaker": "SPEAKER_00",
+    "text": "Uh, fourth area is one define and the idea here is not just about like, you do math, right? Cause that yeah, your can."
+  },
+  {
+    "start": 2206.04,
+    "end": 2220.04,
+    "speaker": "SPEAKER_00",
+    "text": "It's more about, you know, the comfort with math and like the mental math. So making approximation, you know, I think you did well by just like explaining what you were doing, cause especially in a remote environment, it's not very easy to figure that out."
+  },
+  {
+    "start": 2221.04,
+    "end": 2228.04,
+    "speaker": "SPEAKER_00",
+    "text": "But just thinking about, you know, mental math and how can you quickly get there so that you can press on the issue."
+  },
+  {
+    "start": 2228.04,
+    "end": 2238.04,
+    "speaker": "SPEAKER_00",
+    "text": "And then fifth is around synthesizing. I think this is where you did a very good job. I agree with you that, you know, towards the end when you get to recommendations."
+  },
+  {
+    "start": 2238.04,
+    "end": 2253.04,
+    "speaker": "SPEAKER_00",
+    "text": "I think one of the areas that you treated, uh, that you treated mechanical flame and laser as like all combined, like one of these areas you'd want to get into, you know, we have had data, we looked at it, you had some interesting takeaways from it."
+  },
+  {
+    "start": 2253.04,
+    "end": 2267.04,
+    "speaker": "SPEAKER_00",
+    "text": "Uh, you could go, you could lead with that and say, well, there are a bunch of other areas to get into, but, uh, laser mechanical, sorry, I forgot which one you mentioned, but flame is most interesting here, because it's, you know, it, it's a really high growth."
+  },
+  {
+    "start": 2267.04,
+    "end": 2272.04,
+    "speaker": "SPEAKER_00",
+    "text": "Market and, you know, allows us to fill in that field that revenue out of the longer term."
+  },
+  {
+    "start": 2272.04,
+    "end": 2283.04,
+    "speaker": "SPEAKER_00",
+    "text": "Um, and then just overall comfort and voice, I think you held a bill like comfort poised. I mean, like, how do you communicate and things like that?"
+  },
+  {
+    "start": 2283.04,
+    "end": 2294.04,
+    "speaker": "SPEAKER_00",
+    "text": "And you were very confident in how you were talking about it. And there were a couple of times where you probably, you know, got thrown off by the term or, you know, the data set that you're looking at."
+  },
+  {
+    "start": 2294.04,
+    "end": 2305.04,
+    "speaker": "SPEAKER_00",
+    "text": "And it's all good. The way you handle it is the way to go about it, just like ask questions for clarification, but also try to figure out, you know, do I care about, you know, the detail of it?"
+  },
+  {
+    "start": 2305.04,
+    "end": 2308.04,
+    "speaker": "SPEAKER_00",
+    "text": "Uh, there's a relative balance there."
+  },
+  {
+    "start": 2308.04,
+    "end": 2322.04,
+    "speaker": "SPEAKER_00",
+    "text": "Um, so that, that was all I had the more, uh, the thing, I think you did, uh, I think you did a good job in terms of the upfront part, kind of seeing that friend."
+  },
+  {
+    "start": 2322.04,
+    "end": 2332.04,
+    "speaker": "SPEAKER_00",
+    "text": "Uh, I, I think there it's also, uh, like the first, first slide that I've shown. Um, I think there it's also just like laying out ideas."
+  },
+  {
+    "start": 2332.04,
+    "end": 2337.04,
+    "speaker": "SPEAKER_00",
+    "text": "So obviously when you first see the slide, you're looking at the data and trends and you talk about it."
+  },
+  {
+    "start": 2337.04,
+    "end": 2348.04,
+    "speaker": "SPEAKER_00",
+    "text": "And then you can pause and say, okay, I got this, but that's still not answering growth. For me to answer growth, I need to look at and that's where the thing came in, right?"
+  },
+  {
+    "start": 2348.04,
+    "end": 2351.04,
+    "speaker": "SPEAKER_00",
+    "text": "Uh, just thinking about that in a little."
+  },
+  {
+    "start": 2351.04,
+    "end": 2354.04,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. Yeah. Thanks. Thanks for that feedback."
+  },
+  {
+    "start": 2354.04,
+    "end": 2358.04,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. I don't know if you have any other reactions. I know we're going to that again."
+  },
+  {
+    "start": 2358.04,
+    "end": 2370.04,
+    "speaker": "SPEAKER_01",
+    "text": "Uh, that's against time. But just one last thing I would say is, you know, kind of keeping the objective, which was growth in mind, you know, throughout the entire case, I think there were maybe, you know, a few times where I let that slip."
+  },
+  {
+    "start": 2370.04,
+    "end": 2375.04,
+    "speaker": "SPEAKER_01",
+    "text": "And, you know, I could have, you know, looked at the figure and then connected it back to that a little more precisely."
+  },
+  {
+    "start": 2375.04,
+    "end": 2383.04,
+    "speaker": "SPEAKER_01",
+    "text": "So I feel like that's, that's one thing I could have done better. But yeah, overall, as I said, good case, enjoyed it."
+  },
+  {
+    "start": 2383.04,
+    "end": 2385.04,
+    "speaker": "SPEAKER_01",
+    "text": "And yet, thanks for doing this."
+  },
+  {
+    "start": 2400.04,
+    "end": 2403.04,
+    "speaker": "UNKNOWN",
+    "text": "Thanks for watching."
+  }
+]

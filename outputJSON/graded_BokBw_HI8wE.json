@@ -1,0 +1,1362 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 6.2,
+      "speaker": "SPEAKER_02",
+      "text": "Hello everyone, my name is Kenting Gives you."
+    },
+    {
+      "start": 6.2,
+      "end": 11.48,
+      "speaker": "SPEAKER_02",
+      "text": "I'm an XBCB consultant, an XGoogleer, and the founder of Rocketblocks, an online platform"
+    },
+    {
+      "start": 11.48,
+      "end": 14.72,
+      "speaker": "SPEAKER_02",
+      "text": "that helps candidates prepare for case interviews."
+    },
+    {
+      "start": 14.72,
+      "end": 19.080000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "In today's Rocketblocks mini lesson, we're going to be doing part three on our series of"
+    },
+    {
+      "start": 19.080000000000002,
+      "end": 25.32,
+      "speaker": "SPEAKER_02",
+      "text": "comparing and contrasting different answers and parts of a case interview from a particular"
+    },
+    {
+      "start": 25.32,
+      "end": 26.32,
+      "speaker": "SPEAKER_02",
+      "text": "candidate."
+    },
+    {
+      "start": 26.32,
+      "end": 29.04,
+      "speaker": "SPEAKER_02",
+      "text": "So just like Parts One and Two, we're going to go through and we're going to look at"
+    },
+    {
+      "start": 29.04,
+      "end": 34.519999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "a great answer, an OK answer, and a weak answer and compare and contrast them."
+    },
+    {
+      "start": 34.519999999999996,
+      "end": 39.96,
+      "speaker": "SPEAKER_02",
+      "text": "And this time, the focus of this video is going to be on watching a candidate go through"
+    },
+    {
+      "start": 39.96,
+      "end": 42.72,
+      "speaker": "SPEAKER_02",
+      "text": "a market sizing exercise."
+    },
+    {
+      "start": 42.72,
+      "end": 48.08,
+      "speaker": "SPEAKER_02",
+      "text": "So we'll watch the candidate make some assumptions, do some actual math, and come up with an answer."
+    },
+    {
+      "start": 48.08,
+      "end": 55.8,
+      "speaker": "SPEAKER_00",
+      "text": "So let's go ahead and jump in."
+    },
+    {
+      "start": 55.8,
+      "end": 59.64,
+      "speaker": "SPEAKER_02",
+      "text": "Before we jump into watching the candidate go through three different versions of this"
+    },
+    {
+      "start": 59.64,
+      "end": 63.879999999999995,
+      "speaker": "SPEAKER_02",
+      "text": "market sizing exercise, there are a few things I want to point out and I want you to keep"
+    },
+    {
+      "start": 63.879999999999995,
+      "end": 67.6,
+      "speaker": "SPEAKER_02",
+      "text": "your eye out for as you're watching the candidate go through this."
+    },
+    {
+      "start": 67.6,
+      "end": 72.47999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "The first is how well does the candidate state his assumptions."
+    },
+    {
+      "start": 72.47999999999999,
+      "end": 75.8,
+      "speaker": "SPEAKER_02",
+      "text": "As you're going through any market sizing exercise, it's going to be really critical that"
+    },
+    {
+      "start": 75.8,
+      "end": 80.47999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "you do a good job of making it very clear what assumptions you're making so that the interview"
+    },
+    {
+      "start": 80.47999999999999,
+      "end": 85.36,
+      "speaker": "SPEAKER_02",
+      "text": "or on the other side of the table, one kind of understands the math equation and the"
+    },
+    {
+      "start": 85.36,
+      "end": 90.96,
+      "speaker": "SPEAKER_02",
+      "text": "actual numbers that are leading to the calculation you get and so that they can kind of check"
+    },
+    {
+      "start": 90.96,
+      "end": 94.56,
+      "speaker": "SPEAKER_02",
+      "text": "and interrupt if they think you're making an assumption that's not fair or maybe they"
+    },
+    {
+      "start": 94.56,
+      "end": 96.4,
+      "speaker": "SPEAKER_02",
+      "text": "have another piece of data for it."
+    },
+    {
+      "start": 96.4,
+      "end": 97.84,
+      "speaker": "SPEAKER_02",
+      "text": "So that's the first thing."
+    },
+    {
+      "start": 97.84,
+      "end": 103.03999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "The second thing is you want to do a good job of voicing over your thoughts."
+    },
+    {
+      "start": 103.03999999999999,
+      "end": 109.64,
+      "speaker": "SPEAKER_02",
+      "text": "And what I mean by this is you want to kind of walk the interviewer through your steps"
+    },
+    {
+      "start": 109.64,
+      "end": 114.68,
+      "speaker": "SPEAKER_02",
+      "text": "and your thought process and the calculations as you're doing them so that they have a window"
+    },
+    {
+      "start": 114.68,
+      "end": 116.44000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "into where you're going."
+    },
+    {
+      "start": 116.44000000000001,
+      "end": 120.76,
+      "speaker": "SPEAKER_02",
+      "text": "This helps for a whole bunch of different reasons so really pay attention to which candidates"
+    },
+    {
+      "start": 120.76,
+      "end": 125.76,
+      "speaker": "SPEAKER_02",
+      "text": "are doing a good job of keeping the interviewer in the loop as they're actually going through"
+    },
+    {
+      "start": 125.76,
+      "end": 128.04000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "the market sizing exercise."
+    },
+    {
+      "start": 128.04000000000002,
+      "end": 132.28,
+      "speaker": "SPEAKER_02",
+      "text": "And then the third thing is tying the insights back to the next level."
+    },
+    {
+      "start": 132.28,
+      "end": 138.4,
+      "speaker": "SPEAKER_02",
+      "text": "And any given particular part of a case you want to keep track mentally of what is the"
+    },
+    {
+      "start": 138.4,
+      "end": 143.08,
+      "speaker": "SPEAKER_02",
+      "text": "ultimate question and what am I learning at this very moment that kind of informs what"
+    },
+    {
+      "start": 143.08,
+      "end": 147.84,
+      "speaker": "SPEAKER_02",
+      "text": "the decision is going to be or the recommendation for that client question."
+    },
+    {
+      "start": 147.84,
+      "end": 153.28,
+      "speaker": "SPEAKER_02",
+      "text": "So as you watch these answers keep in mind is in any of them is the candidate doing a particularly"
+    },
+    {
+      "start": 153.28,
+      "end": 158.44,
+      "speaker": "SPEAKER_02",
+      "text": "job of taking a new information learned and tying it back to the key question of the"
+    },
+    {
+      "start": 158.44,
+      "end": 159.44,
+      "speaker": "SPEAKER_02",
+      "text": "case."
+    },
+    {
+      "start": 159.44,
+      "end": 163.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So let's go ahead and start looking at the different answers."
+    },
+    {
+      "start": 163.64000000000001,
+      "end": 164.64000000000001,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 164.64000000000001,
+      "end": 170.72000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to go ahead and calculate the market estimate now."
+    },
+    {
+      "start": 170.72000000000003,
+      "end": 172.04000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 172.04,
+      "end": 177.0,
+      "speaker": "SPEAKER_02",
+      "text": "So first I'm going to assume there are 300 million people in the US."
+    },
+    {
+      "start": 177.0,
+      "end": 180.35999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "But actually they're closer to 330 million."
+    },
+    {
+      "start": 180.35999999999999,
+      "end": 183.0,
+      "speaker": "SPEAKER_02",
+      "text": "Oh yeah, I think that's right."
+    },
+    {
+      "start": 183.0,
+      "end": 186.56,
+      "speaker": "SPEAKER_02",
+      "text": "I was just going to use something like 300 just because it would make the math a little"
+    },
+    {
+      "start": 186.56,
+      "end": 187.56,
+      "speaker": "SPEAKER_02",
+      "text": "simpler."
+    },
+    {
+      "start": 187.56,
+      "end": 188.56,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 188.56,
+      "end": 189.56,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 189.56,
+      "end": 190.56,
+      "speaker": "SPEAKER_02",
+      "text": "So let's say."
+    },
+    {
+      "start": 190.56,
+      "end": 212.12,
+      "speaker": "SPEAKER_02",
+      "text": "I think the annual market size would be around $29,000."
+    },
+    {
+      "start": 212.12,
+      "end": 221.12,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, so I think it would be, I think the annual market size would be around 29 billion."
+    },
+    {
+      "start": 221.12,
+      "end": 226.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, talk to me more about how you were able to get that answer."
+    },
+    {
+      "start": 226.12,
+      "end": 237.12,
+      "speaker": "SPEAKER_02",
+      "text": "Oh, sure. So I started with 300 million Americans and then 25% are breakfast eaters and 50% of them buy breakfast on the way."
+    },
+    {
+      "start": 237.12,
+      "end": 246.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then, you know, I assume that there would be a haircut for what type of eaters would be willing to buy less healthy options like our client offer."
+    },
+    {
+      "start": 246.12,
+      "end": 254.12,
+      "speaker": "SPEAKER_02",
+      "text": "So I assume only 40% would be potentially impressive and that the average price of a meal would be around $6."
+    },
+    {
+      "start": 254.12,
+      "end": 262.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, but based on that, wouldn't your estimate come out to something closer to 90 million?"
+    },
+    {
+      "start": 262.12,
+      "end": 276.12,
+      "speaker": "SPEAKER_02",
+      "text": "Oh, yeah, yeah, so the last assumption I made was that I scaled up for days in a year and I said there are 400 days in here, so 90 million times 400 days in here."
+    },
+    {
+      "start": 276.12,
+      "end": 283.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so if you use those numbers, that would actually give you something closer to 36 billion."
+    },
+    {
+      "start": 283.12,
+      "end": 289.12,
+      "speaker": "SPEAKER_01",
+      "text": "So in your number was 29, what accounts for that difference do you think?"
+    },
+    {
+      "start": 289.12,
+      "end": 294.12,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that's your right."
+    },
+    {
+      "start": 294.12,
+      "end": 309.12,
+      "speaker": "SPEAKER_02",
+      "text": "So the difference is I actually, I forgot to mention, I used 20% for the percent of people that actually eat breakfast because I thought that, you know, the people that are younger than 18 probably can't actually vote with their wallet."
+    },
+    {
+      "start": 309.12,
+      "end": 313.12,
+      "speaker": "SPEAKER_02",
+      "text": "So I changed that and so that accounts for the difference."
+    },
+    {
+      "start": 313.12,
+      "end": 316.12,
+      "speaker": "SPEAKER_01",
+      "text": "I see. Okay."
+    },
+    {
+      "start": 316.12,
+      "end": 322.12,
+      "speaker": "SPEAKER_01",
+      "text": "So just reiterate to me what your final estimate is and whether you think it's reasonable."
+    },
+    {
+      "start": 322.12,
+      "end": 334.12,
+      "speaker": "SPEAKER_02",
+      "text": "So yeah, so my final market size estimate is 29 billion and I do think it's reasonable."
+    },
+    {
+      "start": 334.12,
+      "end": 339.12,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 339.12,
+      "end": 344.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so I'm going to go ahead and do the market estimate now."
+    },
+    {
+      "start": 344.12,
+      "end": 353.12,
+      "speaker": "SPEAKER_02",
+      "text": "And to start, I'm going to make an assumption that there will be 300 million people in the US, which is like no a little low, but I think it will keep the math cleaner."
+    },
+    {
+      "start": 353.12,
+      "end": 359.12,
+      "speaker": "SPEAKER_02",
+      "text": "Great. And then we had 25% of Americans that are breakfast eaters."
+    },
+    {
+      "start": 359.12,
+      "end": 370.12,
+      "speaker": "SPEAKER_02",
+      "text": "So 300 million times 25% that are breakfast eaters means that we've got 75 million Americans that will be interested."
+    },
+    {
+      "start": 370.12,
+      "end": 381.12,
+      "speaker": "SPEAKER_02",
+      "text": "And we talked about earlier how they were 50% of the actual breakfast eaters that actually buy something on the way to work."
+    },
+    {
+      "start": 381.12,
+      "end": 384.12,
+      "speaker": "SPEAKER_02",
+      "text": "So that's our segment that we're particularly concerned with."
+    },
+    {
+      "start": 384.12,
+      "end": 394.12,
+      "speaker": "SPEAKER_02",
+      "text": "So 50% of 75 million would be 37.5 million Americans."
+    },
+    {
+      "start": 394.12,
+      "end": 398.12,
+      "speaker": "SPEAKER_02",
+      "text": "And if you don't mind, I'm going to round that to 38."
+    },
+    {
+      "start": 398.12,
+      "end": 399.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 399.12,
+      "end": 402.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then let's say so we've got 30 million Americans."
+    },
+    {
+      "start": 402.12,
+      "end": 409.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then when we talked, you know, we didn't talk about this necessarily earlier, but there is big health food trend in the US."
+    },
+    {
+      "start": 409.12,
+      "end": 414.12,
+      "speaker": "SPEAKER_02",
+      "text": "And I think that's going to have a pretty large impact. So I'd like to add in a haircut for that."
+    },
+    {
+      "start": 414.12,
+      "end": 425.12,
+      "speaker": "SPEAKER_02",
+      "text": "And I'm going to assume that of the Americans that buy something on the way to work and eat that maybe you know 40% would actually consider a less healthy option like like our clients."
+    },
+    {
+      "start": 425.12,
+      "end": 426.12,
+      "speaker": "SPEAKER_02",
+      "text": "So let's see."
+    },
+    {
+      "start": 426.12,
+      "end": 435.12,
+      "speaker": "SPEAKER_02",
+      "text": "So 40% of 38 million Americans would be that would be just a math."
+    },
+    {
+      "start": 435.12,
+      "end": 442.12,
+      "speaker": "SPEAKER_02",
+      "text": "That would be 16.2. No, sorry, that would be 15.2 million Americans."
+    },
+    {
+      "start": 442.12,
+      "end": 448.12,
+      "speaker": "SPEAKER_02",
+      "text": "And the next step is got to think about what the average price is for these items."
+    },
+    {
+      "start": 448.12,
+      "end": 453.12,
+      "speaker": "SPEAKER_02",
+      "text": "And so I think that you know share average price is probably about $6 for a breakfast."
+    },
+    {
+      "start": 453.12,
+      "end": 454.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 454.12,
+      "end": 456.12,
+      "speaker": "SPEAKER_02",
+      "text": "So say $6."
+    },
+    {
+      "start": 456.12,
+      "end": 460.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then so I'm going to take 15.2 million and round it down to 15."
+    },
+    {
+      "start": 460.12,
+      "end": 464.12,
+      "speaker": "SPEAKER_02",
+      "text": "If that's okay with you. And then times $6."
+    },
+    {
+      "start": 464.12,
+      "end": 469.12,
+      "speaker": "SPEAKER_02",
+      "text": "So that is 90 million daily."
+    },
+    {
+      "start": 469.12,
+      "end": 474.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then okay. So."
+    },
+    {
+      "start": 474.12,
+      "end": 478.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. Great. So that would be about a $36 billion annual market."
+    },
+    {
+      "start": 478.12,
+      "end": 481.12,
+      "speaker": "SPEAKER_01",
+      "text": "So how did you jump to that annual number?"
+    },
+    {
+      "start": 481.12,
+      "end": 486.12,
+      "speaker": "SPEAKER_02",
+      "text": "Oh, so I took you 50 million Americans daily $6 per meal."
+    },
+    {
+      "start": 486.12,
+      "end": 492.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then to scale up to annual, I actually rounded up to 400 just to keep the math a little bit easier."
+    },
+    {
+      "start": 492.12,
+      "end": 493.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 493.12,
+      "end": 496.12,
+      "speaker": "SPEAKER_01",
+      "text": "So how does that overall estimate actually sound?"
+    },
+    {
+      "start": 496.12,
+      "end": 499.12,
+      "speaker": "SPEAKER_02",
+      "text": "I think 36 billion sounds pretty reasonable."
+    },
+    {
+      "start": 499.12,
+      "end": 504.12,
+      "speaker": "SPEAKER_02",
+      "text": "I've heard some estimates that the overall quick service market is around 200 billion annually."
+    },
+    {
+      "start": 504.12,
+      "end": 507.12,
+      "speaker": "SPEAKER_02",
+      "text": "So that seems that seems pretty reasonable."
+    },
+    {
+      "start": 507.12,
+      "end": 514.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Let's move on. Great."
+    },
+    {
+      "start": 514.12,
+      "end": 517.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So I'm going to go ahead and start with the estimate."
+    },
+    {
+      "start": 517.12,
+      "end": 520.12,
+      "speaker": "SPEAKER_02",
+      "text": "And I'll use a bunch of the data that the team's already collected through their research."
+    },
+    {
+      "start": 520.12,
+      "end": 524.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then I'll go ahead and just make a few assumptions along the way to get to the estimate."
+    },
+    {
+      "start": 524.12,
+      "end": 525.12,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 525.12,
+      "end": 529.12,
+      "speaker": "SPEAKER_02",
+      "text": "So the first assumption I'm going to make is that there are 300 million people in the US."
+    },
+    {
+      "start": 529.12,
+      "end": 531.12,
+      "speaker": "SPEAKER_02",
+      "text": "And I know this is a little bit on the low end."
+    },
+    {
+      "start": 531.12,
+      "end": 534.12,
+      "speaker": "SPEAKER_02",
+      "text": "But I think it's just going to help keep some of the math simple as we go through."
+    },
+    {
+      "start": 534.12,
+      "end": 535.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 535.12,
+      "end": 540.12,
+      "speaker": "SPEAKER_02",
+      "text": "The second thing we need to talk about is the percent of Americans that actually eat breakfast."
+    },
+    {
+      "start": 540.12,
+      "end": 543.12,
+      "speaker": "SPEAKER_02",
+      "text": "And through the client study, they found that that was 25 percent."
+    },
+    {
+      "start": 543.12,
+      "end": 548.12,
+      "speaker": "SPEAKER_02",
+      "text": "But given that we're talking about buying items out as the segment that we're really interested in,"
+    },
+    {
+      "start": 548.12,
+      "end": 553.12,
+      "speaker": "SPEAKER_02",
+      "text": "I'm going to assume that maybe 20 percent of those users really don't get to vote with their wallet because they're too young."
+    },
+    {
+      "start": 553.12,
+      "end": 557.12,
+      "speaker": "SPEAKER_02",
+      "text": "So if we take all the people below 18, I'll assume that's 20 percent roughly."
+    },
+    {
+      "start": 557.12,
+      "end": 559.12,
+      "speaker": "SPEAKER_02",
+      "text": "And I'm going to exclude those people."
+    },
+    {
+      "start": 559.12,
+      "end": 560.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 560.12,
+      "end": 567.12,
+      "speaker": "SPEAKER_02",
+      "text": "Then the other thing I wanted to ask about is I know the timeframe that the clients really concerned with is the five-year timeframe."
+    },
+    {
+      "start": 567.12,
+      "end": 570.12,
+      "speaker": "SPEAKER_02",
+      "text": "And being able to make an impact in that timeframe."
+    },
+    {
+      "start": 570.12,
+      "end": 578.12,
+      "speaker": "SPEAKER_02",
+      "text": "And we talked about how some of those numbers are going to shift around in terms of the behaviors of who's eating at home and how those numbers work."
+    },
+    {
+      "start": 578.12,
+      "end": 582.12,
+      "speaker": "SPEAKER_02",
+      "text": "So it was 30 percent today, but we expected to go to 20 percent in the future."
+    },
+    {
+      "start": 582.12,
+      "end": 587.12,
+      "speaker": "SPEAKER_02",
+      "text": "So I'm going to take that 10 percent and assume that those users still eat breakfast,"
+    },
+    {
+      "start": 587.12,
+      "end": 589.12,
+      "speaker": "SPEAKER_02",
+      "text": "but that they get reallocated to the other categories."
+    },
+    {
+      "start": 589.12,
+      "end": 595.12,
+      "speaker": "SPEAKER_02",
+      "text": "So I think 5 percent of them will then just fall into the category where they eat breakfast,"
+    },
+    {
+      "start": 595.12,
+      "end": 597.12,
+      "speaker": "SPEAKER_02",
+      "text": "but they take it out from home and eat it at work."
+    },
+    {
+      "start": 597.12,
+      "end": 604.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then the other 5 percent will fall into the category of folks that buy some food along the way on their weight work."
+    },
+    {
+      "start": 604.12,
+      "end": 610.12,
+      "speaker": "SPEAKER_02",
+      "text": "So that will mean that we actually have 55 percent of people eating on the weight work, which is the segment that we really care about."
+    },
+    {
+      "start": 610.12,
+      "end": 612.12,
+      "speaker": "SPEAKER_01",
+      "text": "I think that makes sense."
+    },
+    {
+      "start": 612.12,
+      "end": 615.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. Great."
+    },
+    {
+      "start": 615.12,
+      "end": 621.12,
+      "speaker": "SPEAKER_02",
+      "text": "Then the last thing that I did want to mention before jumping into all the details is we don't really talk about this,"
+    },
+    {
+      "start": 621.12,
+      "end": 625.12,
+      "speaker": "SPEAKER_02",
+      "text": "but the health trend is big in the US."
+    },
+    {
+      "start": 625.12,
+      "end": 629.12,
+      "speaker": "SPEAKER_02",
+      "text": "I think a lot of American consumers are much more concerned about that."
+    },
+    {
+      "start": 629.12,
+      "end": 633.12,
+      "speaker": "SPEAKER_02",
+      "text": "And so I think this is going to be a big issue for our client."
+    },
+    {
+      "start": 633.12,
+      "end": 636.12,
+      "speaker": "SPEAKER_02",
+      "text": "And we should assume that all the people that are actually buying food on the way to work,"
+    },
+    {
+      "start": 636.12,
+      "end": 642.12,
+      "speaker": "SPEAKER_02",
+      "text": "that a big chunk of them aren't even going to be willing to consider like a quick service option like ours."
+    },
+    {
+      "start": 642.12,
+      "end": 643.12,
+      "speaker": "SPEAKER_02",
+      "text": "That's a little less healthy."
+    },
+    {
+      "start": 643.12,
+      "end": 649.12,
+      "speaker": "SPEAKER_02",
+      "text": "So I'm going to assume that maybe 40 percent would actually consider something like our client."
+    },
+    {
+      "start": 649.12,
+      "end": 654.12,
+      "speaker": "SPEAKER_02",
+      "text": "And I know that's a pretty big haircut, but I think it's better to probably err on the conservative side here."
+    },
+    {
+      "start": 654.12,
+      "end": 660.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then it'll also mean that the client has some potential upside in the future, especially if they can find ways to offer healthier options."
+    },
+    {
+      "start": 660.12,
+      "end": 661.12,
+      "speaker": "SPEAKER_01",
+      "text": "That sounds reasonable."
+    },
+    {
+      "start": 661.12,
+      "end": 664.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. So I'm going to go ahead and run through all the numbers now."
+    },
+    {
+      "start": 664.12,
+      "end": 667.12,
+      "speaker": "SPEAKER_02",
+      "text": "So we have 300 million Americans."
+    },
+    {
+      "start": 667.12,
+      "end": 671.12,
+      "speaker": "SPEAKER_02",
+      "text": "And we know that 25 percent of them are breakfast eaters."
+    },
+    {
+      "start": 671.12,
+      "end": 677.12,
+      "speaker": "SPEAKER_02",
+      "text": "And as I said, we're going to take a 20 percent haircut to exclude those who are below the age of 18,"
+    },
+    {
+      "start": 677.12,
+      "end": 680.12,
+      "speaker": "SPEAKER_02",
+      "text": "because they can't vote with their wallets."
+    },
+    {
+      "start": 680.12,
+      "end": 685.12,
+      "speaker": "SPEAKER_02",
+      "text": "And so if we have 300 million Americans, 25 percent that are eaters,"
+    },
+    {
+      "start": 685.12,
+      "end": 692.12,
+      "speaker": "SPEAKER_02",
+      "text": "and then we just remove 20 percent for those who can't eat."
+    },
+    {
+      "start": 692.12,
+      "end": 696.12,
+      "speaker": "SPEAKER_02",
+      "text": "That leaves us with 60 million Americans."
+    },
+    {
+      "start": 696.12,
+      "end": 699.12,
+      "speaker": "SPEAKER_02",
+      "text": "It's basically 20 percent of 300 million Americans."
+    },
+    {
+      "start": 699.12,
+      "end": 700.12,
+      "speaker": "SPEAKER_02",
+      "text": "So 60 million."
+    },
+    {
+      "start": 701.12,
+      "end": 709.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then we said earlier that there's now going to be 55 percent of those that actually eat or buy something on the way to work and eat."
+    },
+    {
+      "start": 709.12,
+      "end": 712.12,
+      "speaker": "SPEAKER_02",
+      "text": "So 55 percent is the segment we care about."
+    },
+    {
+      "start": 712.12,
+      "end": 719.12,
+      "speaker": "SPEAKER_02",
+      "text": "So 55 percent, 60 million would be 33 million Americans."
+    },
+    {
+      "start": 719.12,
+      "end": 729.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then the next step is we talked about how there are about 40 percent of those that would actually be interested in willing to purchase breakfast that are particular client."
+    },
+    {
+      "start": 729.12,
+      "end": 731.12,
+      "speaker": "SPEAKER_02",
+      "text": "Or something similar."
+    },
+    {
+      "start": 731.12,
+      "end": 736.12,
+      "speaker": "SPEAKER_02",
+      "text": "So 40 percent of 33 million would be,"
+    },
+    {
+      "start": 736.12,
+      "end": 746.12,
+      "speaker": "SPEAKER_02",
+      "text": "that would be 13.2 million, which is a little bit of an odd number somewhere around that down to 13 million."
+    },
+    {
+      "start": 746.12,
+      "end": 747.12,
+      "speaker": "SPEAKER_02",
+      "text": "That's okay with you."
+    },
+    {
+      "start": 747.12,
+      "end": 748.12,
+      "speaker": "SPEAKER_00",
+      "text": "Yep."
+    },
+    {
+      "start": 748.12,
+      "end": 753.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. And then the last part was we need to make an assumption about the price."
+    },
+    {
+      "start": 754.12,
+      "end": 759.12,
+      "speaker": "SPEAKER_02",
+      "text": "And just based up my experience of walking into a Starbucks and buying breakfast,"
+    },
+    {
+      "start": 759.12,
+      "end": 762.12,
+      "speaker": "SPEAKER_02",
+      "text": "an exam, lunch, and a coffee at various places across the country."
+    },
+    {
+      "start": 762.12,
+      "end": 765.12,
+      "speaker": "SPEAKER_02",
+      "text": "It seems like $6 would be a fair estimate there."
+    },
+    {
+      "start": 765.12,
+      "end": 771.12,
+      "speaker": "SPEAKER_02",
+      "text": "I'm going to say $6 for the average breakfast price times 13 million Americans."
+    },
+    {
+      "start": 771.12,
+      "end": 775.12,
+      "speaker": "SPEAKER_02",
+      "text": "So that gives us 70, 8 million."
+    },
+    {
+      "start": 775.12,
+      "end": 777.12,
+      "speaker": "SPEAKER_02",
+      "text": "And that's a daily number."
+    },
+    {
+      "start": 778.12,
+      "end": 781.12,
+      "speaker": "SPEAKER_02",
+      "text": "So if it's okay with you, I'm going to scale to an annual now."
+    },
+    {
+      "start": 781.12,
+      "end": 784.12,
+      "speaker": "SPEAKER_02",
+      "text": "And I'll just use an estimate for the number of days in a year."
+    },
+    {
+      "start": 784.12,
+      "end": 786.12,
+      "speaker": "SPEAKER_02",
+      "text": "So that'll overestimate a little bit."
+    },
+    {
+      "start": 786.12,
+      "end": 792.12,
+      "speaker": "SPEAKER_02",
+      "text": "But I think it will help counterbalance the pretty big haircut I took for the health trend earlier."
+    },
+    {
+      "start": 792.12,
+      "end": 796.12,
+      "speaker": "SPEAKER_02",
+      "text": "So, and I'm going to round 78 million to 80 million."
+    },
+    {
+      "start": 796.12,
+      "end": 799.12,
+      "speaker": "SPEAKER_02",
+      "text": "So let's say 80 million daily."
+    },
+    {
+      "start": 799.12,
+      "end": 802.12,
+      "speaker": "SPEAKER_02",
+      "text": "It's 400 days in a year."
+    },
+    {
+      "start": 803.12,
+      "end": 814.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. So that means that our annual expected market for this category of breakfast in the US would be 32 billion annually."
+    },
+    {
+      "start": 814.12,
+      "end": 818.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Does that seem like it's in the right all-park to you?"
+    },
+    {
+      "start": 818.12,
+      "end": 825.12,
+      "speaker": "SPEAKER_02",
+      "text": "You know, I've heard some numbers before that the overall quick service market in the US is around 200 billion annually."
+    },
+    {
+      "start": 825.12,
+      "end": 830.12,
+      "speaker": "SPEAKER_02",
+      "text": "And so if you think about 32 billion, that's a little more than 15% of it."
+    },
+    {
+      "start": 830.12,
+      "end": 833.12,
+      "speaker": "SPEAKER_02",
+      "text": "So I feel like that does sound like it's in the right all-park."
+    },
+    {
+      "start": 833.12,
+      "end": 836.12,
+      "speaker": "SPEAKER_02",
+      "text": "The other thing that's nice about this number is this is a big sizeable market."
+    },
+    {
+      "start": 836.12,
+      "end": 847.12,
+      "speaker": "SPEAKER_02",
+      "text": "So it does seem like even if our client were able to grab a small share of it, that probably boasts well for their internal target of hitting a 10% incremental revenue."
+    },
+    {
+      "start": 847.12,
+      "end": 848.12,
+      "speaker": "SPEAKER_00",
+      "text": "So that's great."
+    },
+    {
+      "start": 848.12,
+      "end": 849.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Let's move on."
+    },
+    {
+      "start": 849.12,
+      "end": 850.12,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 850.12,
+      "end": 868.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. Great. So now let's do a compare and a contrast of the three answers we just listened to and go through the three key criteria that I wanted you to pay attention as you were listening to these answers."
+    },
+    {
+      "start": 868.12,
+      "end": 871.12,
+      "speaker": "SPEAKER_02",
+      "text": "So the first is stating assumptions."
+    },
+    {
+      "start": 871.12,
+      "end": 875.12,
+      "speaker": "SPEAKER_02",
+      "text": "So let's think about the weak answer that the candidate gave."
+    },
+    {
+      "start": 875.12,
+      "end": 880.12,
+      "speaker": "SPEAKER_02",
+      "text": "The stating of assumptions is really, really bad throughout the answer."
+    },
+    {
+      "start": 880.12,
+      "end": 887.12,
+      "speaker": "SPEAKER_02",
+      "text": "He basically states the initial assumption around the US population size and then goes silent and does the rest of the calculation."
+    },
+    {
+      "start": 887.12,
+      "end": 890.12,
+      "speaker": "SPEAKER_02",
+      "text": "So the interviewer has no idea what assumptions are made."
+    },
+    {
+      "start": 890.12,
+      "end": 896.12,
+      "speaker": "SPEAKER_02",
+      "text": "What numbers were used in the calculation and when he comes up with a number that the interviewer doesn't quite understand."
+    },
+    {
+      "start": 896.12,
+      "end": 899.12,
+      "speaker": "SPEAKER_02",
+      "text": "Obviously the process just kind of breaks down that."
+    },
+    {
+      "start": 899.12,
+      "end": 906.12,
+      "speaker": "SPEAKER_02",
+      "text": "If you contrast that with the okay answer, the candidate here does a pretty good job of stating the assumptions that he's used."
+    },
+    {
+      "start": 906.12,
+      "end": 911.12,
+      "speaker": "SPEAKER_02",
+      "text": "Most of them are stated up, you know, not up front, but as he's going through the answer."
+    },
+    {
+      "start": 911.12,
+      "end": 923.12,
+      "speaker": "SPEAKER_02",
+      "text": "And he does pretty much state all the assumptions he is using with the exception one big one being that he's calculating the market five years out rather than today and he doesn't explicitly state that assumption."
+    },
+    {
+      "start": 923.12,
+      "end": 927.12,
+      "speaker": "SPEAKER_02",
+      "text": "In the great answer, the stating assumptions really good."
+    },
+    {
+      "start": 927.12,
+      "end": 932.12,
+      "speaker": "SPEAKER_02",
+      "text": "The candidate structures them and brings them up all up front and talks through each of them."
+    },
+    {
+      "start": 932.12,
+      "end": 937.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then as he's going through and doing the calculations, each of those assumptions is restated."
+    },
+    {
+      "start": 937.12,
+      "end": 940.12,
+      "speaker": "SPEAKER_02",
+      "text": "It's very clear and the interviewer can follow along."
+    },
+    {
+      "start": 940.12,
+      "end": 947.12,
+      "speaker": "SPEAKER_02",
+      "text": "So a really nice job of laying out what math and what numbers are actually going into the calculation."
+    },
+    {
+      "start": 947.12,
+      "end": 948.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 948.12,
+      "end": 952.12,
+      "speaker": "SPEAKER_02",
+      "text": "The second category is voicing over your thoughts."
+    },
+    {
+      "start": 952.12,
+      "end": 957.12,
+      "speaker": "SPEAKER_02",
+      "text": "Now again, if we look at the weak answer, this is really where things go off the reds."
+    },
+    {
+      "start": 957.12,
+      "end": 960.12,
+      "speaker": "SPEAKER_02",
+      "text": "The candidate doesn't do any voicing over the thoughts."
+    },
+    {
+      "start": 960.12,
+      "end": 963.12,
+      "speaker": "SPEAKER_02",
+      "text": "He basically says, okay, I'm going to do some calculations now."
+    },
+    {
+      "start": 963.12,
+      "end": 968.12,
+      "speaker": "SPEAKER_02",
+      "text": "Does some calculations on the paper and then comes up with an answer that the interviewer doesn't understand."
+    },
+    {
+      "start": 968.12,
+      "end": 974.12,
+      "speaker": "SPEAKER_02",
+      "text": "Because nothing was shared about what that candidate was actually doing as he was doing the calculations,"
+    },
+    {
+      "start": 974.12,
+      "end": 982.12,
+      "speaker": "SPEAKER_02",
+      "text": "the interviewer can't step in, can't help. They have to kind of guess along with what the candidate may have done to come up with that answer."
+    },
+    {
+      "start": 982.12,
+      "end": 988.12,
+      "speaker": "SPEAKER_02",
+      "text": "So it puts the interviewer in a hard position to help the candidate even if he or she wants to."
+    },
+    {
+      "start": 988.12,
+      "end": 993.12,
+      "speaker": "SPEAKER_02",
+      "text": "In the okay answer, the voicing over the thoughts is it's okay."
+    },
+    {
+      "start": 993.12,
+      "end": 999.12,
+      "speaker": "SPEAKER_02",
+      "text": "The candidate does provide enough detail to let the interviewer follow along."
+    },
+    {
+      "start": 999.12,
+      "end": 1005.12,
+      "speaker": "SPEAKER_02",
+      "text": "But it's not great. And again, if you contrast it with the great answer, the voicing over the thoughts is really consistent."
+    },
+    {
+      "start": 1005.12,
+      "end": 1010.12,
+      "speaker": "SPEAKER_02",
+      "text": "It's very clear. It starts with stating all the assumptions upfront as we talked about."
+    },
+    {
+      "start": 1010.12,
+      "end": 1019.12,
+      "speaker": "SPEAKER_02",
+      "text": "And then every single step of the calculation, he's very clear about what he's actually doing and how that leads to the next step and calling out each of those numbers."
+    },
+    {
+      "start": 1019.12,
+      "end": 1023.12,
+      "speaker": "SPEAKER_02",
+      "text": "So it makes it super clear for the interviewer to follow along with."
+    },
+    {
+      "start": 1023.12,
+      "end": 1036.12,
+      "speaker": "SPEAKER_02",
+      "text": "And the benefit of this is that if he were to make a mistake in that process, it's easier for the interviewer to kind of step in and give a little hint because they know exactly where he is in the calculation process."
+    },
+    {
+      "start": 1036.12,
+      "end": 1037.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 1037.12,
+      "end": 1046.12,
+      "speaker": "SPEAKER_02",
+      "text": "Final thing is connecting everything you're learning to the next level, bringing it back to the core of the case and what you're learning at that very moment needs."
+    },
+    {
+      "start": 1046.12,
+      "end": 1054.12,
+      "speaker": "SPEAKER_02",
+      "text": "And if you look at the answer, this just doesn't happen at all. I mean, the answer's gone off the rails long before the candidate even has a chance to do this."
+    },
+    {
+      "start": 1054.12,
+      "end": 1061.12,
+      "speaker": "SPEAKER_02",
+      "text": "And so the weak answer is just not present in the okay answer as well. This is interesting because it doesn't really happen in the okay answer."
+    },
+    {
+      "start": 1061.12,
+      "end": 1066.12,
+      "speaker": "SPEAKER_02",
+      "text": "And this is one big thing that really separates the okay answer from the great answer."
+    },
+    {
+      "start": 1066.12,
+      "end": 1081.12,
+      "speaker": "SPEAKER_02",
+      "text": "If you look at the great answer, where the candidate is a really nice job of connecting what he's learned in the market sizing exercise to the kind of so what and the final implications of the case is when he's, you know, sanity checking that $32 billion"
+    },
+    {
+      "start": 1081.12,
+      "end": 1099.12,
+      "speaker": "SPEAKER_02",
+      "text": "number and whether that market size makes sense, he nicely connects it to a fact he knows about the overall size of the quick service food market and then talks about the fact that this market is big enough that it bows well for the client and their particular goals about driving a 10% incremental revenue."
+    },
+    {
+      "start": 1099.12,
+      "end": 1115.12,
+      "speaker": "SPEAKER_02",
+      "text": "So a really nice job of taking what he just learned in the market sizing exercise and applying it back to that key question from the case so a really good job overall there."
+    },
+    {
+      "start": 1115.12,
+      "end": 1133.12,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, one final thought on the market sizing exercise you'll notice as we went through and did the compare and contrast that we did not talk about the specific numerical answer that the candidate reached whether the candidate ends up with $32 billion or $30 billion is really of secondary importance."
+    },
+    {
+      "start": 1133.12,
+      "end": 1147.12,
+      "speaker": "SPEAKER_02",
+      "text": "So the goal in these exercises is to be directionally accurate your answer has to pass you know the smell check and seem like a sane answer for whatever the particular market is but the things that are really more important is how you arrive at that answer."
+    },
+    {
+      "start": 1147.12,
+      "end": 1155.12,
+      "speaker": "SPEAKER_02",
+      "text": "So like we talked about how you state your assumptions voice over your thoughts and connect those insights to the next level of the case."
+    },
+    {
+      "start": 1155.12,
+      "end": 1170.12,
+      "speaker": "SPEAKER_02",
+      "text": "So thank you for watching we've got more coming up more videos coming up in our compare and contrast case interview series so if you haven't subscribed yet already please do so now there's a big red button below and we look forward to seeing you soon thanks for watching."
+    }
+  ],
+  "grading": {
+    "communication": 18,
+    "framework": 15,
+    "math": 10,
+    "case_difficulty": 10,
+    "final_summary": 14,
+    "overall_thoughts": "You communicated well and showed a good framework, but struggled with the math problems. Try to elaborate more on your final summary and include potential risks and mitigants."
+  }
+}

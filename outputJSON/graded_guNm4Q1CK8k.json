@@ -1,0 +1,2454 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "speaker": "SPEAKER_03",
+      "text": "We've got another real-life business question for Rocketblocks experts to solve in today's"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "speaker": "SPEAKER_03",
+      "text": "mock interview."
+    },
+    {
+      "start": 9.0,
+      "end": 13.8,
+      "speaker": "SPEAKER_03",
+      "text": "Today's case is inspired by a BCG article highlighting the recent profitability struggle"
+    },
+    {
+      "start": 13.8,
+      "end": 16.14,
+      "speaker": "SPEAKER_03",
+      "text": "for auto dealers in the US."
+    },
+    {
+      "start": 16.14,
+      "end": 20.16,
+      "speaker": "SPEAKER_03",
+      "text": "As a reminder, if you want to improve your casing skills, you have to be practicing actively"
+    },
+    {
+      "start": 20.16,
+      "end": 21.32,
+      "speaker": "SPEAKER_03",
+      "text": "and deliberately."
+    },
+    {
+      "start": 21.32,
+      "end": 24.16,
+      "speaker": "SPEAKER_03",
+      "text": "You can start with that sizing question as a pop quiz."
+    },
+    {
+      "start": 24.16,
+      "end": 29.12,
+      "speaker": "SPEAKER_03",
+      "text": "How big do you think the annual revenue is for the largest auto dealer group in Florida?"
+    },
+    {
+      "start": 29.12,
+      "end": 32.160000000000004,
+      "speaker": "SPEAKER_03",
+      "text": "The answer is inside this case and may surprise you."
+    },
+    {
+      "start": 32.160000000000004,
+      "end": 35.36,
+      "speaker": "SPEAKER_03",
+      "text": "When you're ready to practice more questions like this, come to Rocketblocks where you"
+    },
+    {
+      "start": 35.36,
+      "end": 38.64,
+      "speaker": "SPEAKER_03",
+      "text": "can have thousands of drills to build your skills for real."
+    },
+    {
+      "start": 38.64,
+      "end": 41.04,
+      "speaker": "SPEAKER_03",
+      "text": "Good luck and have fun casing."
+    },
+    {
+      "start": 41.04,
+      "end": 46.58,
+      "speaker": "SPEAKER_02",
+      "text": "So your client today is Morgan Automotive Group."
+    },
+    {
+      "start": 46.58,
+      "end": 52.480000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "Morgan Automotive Group, MAG, is Florida's largest auto dealership chain, but it's operating"
+    },
+    {
+      "start": 52.480000000000004,
+      "end": 54.040000000000006,
+      "speaker": "SPEAKER_02",
+      "text": "in a challenging environment."
+    },
+    {
+      "start": 54.04,
+      "end": 59.76,
+      "speaker": "SPEAKER_02",
+      "text": "The company does 8 billion in annual revenue entirely in Florida, but has been facing shrinking"
+    },
+    {
+      "start": 59.76,
+      "end": 63.48,
+      "speaker": "SPEAKER_02",
+      "text": "profit margins across multiple lines of business."
+    },
+    {
+      "start": 63.48,
+      "end": 72.88,
+      "speaker": "SPEAKER_02",
+      "text": "Since 2023, the company has seen overall gross margin shrink from 19.1% to 17.3%."
+    },
+    {
+      "start": 72.88,
+      "end": 78.68,
+      "speaker": "SPEAKER_02",
+      "text": "Your task is to assist Morgan Automotive in identifying strategies to enhance profitability"
+    },
+    {
+      "start": 78.68,
+      "end": 80.48,
+      "speaker": "SPEAKER_02",
+      "text": "under these constraints."
+    },
+    {
+      "start": 80.48,
+      "end": 86.44,
+      "speaker": "SPEAKER_02",
+      "text": "How can they adapt to evolving market conditions to boost their bottom line?"
+    },
+    {
+      "start": 86.44,
+      "end": 88.52000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 88.52000000000001,
+      "end": 95.16,
+      "speaker": "SPEAKER_00",
+      "text": "Before we jump in here, I just want to recap to make sure I understood everything correctly."
+    },
+    {
+      "start": 95.16,
+      "end": 97.64,
+      "speaker": "SPEAKER_00",
+      "text": "So our client is Morgan Automotive Group."
+    },
+    {
+      "start": 97.64,
+      "end": 100.32000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "They're Florida's largest auto dealer chain."
+    },
+    {
+      "start": 100.32000000000001,
+      "end": 103.28,
+      "speaker": "SPEAKER_00",
+      "text": "They generate 8 billion of revenue entirely in Florida."
+    },
+    {
+      "start": 103.28,
+      "end": 106.2,
+      "speaker": "SPEAKER_00",
+      "text": "So really Florida focused."
+    },
+    {
+      "start": 106.2,
+      "end": 111.32000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "They have multiple lines of businesses and they've basically seen profitability decline"
+    },
+    {
+      "start": 111.32000000000001,
+      "end": 114.84,
+      "speaker": "SPEAKER_00",
+      "text": "across all their lines of business in recent years."
+    },
+    {
+      "start": 114.84,
+      "end": 122.16,
+      "speaker": "SPEAKER_00",
+      "text": "Specifically, gross margins have shrunk from 19.1% to 17.3%, so almost a 2% decline."
+    },
+    {
+      "start": 122.16,
+      "end": 127.32000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And they've hired us to help them sort of understand how they can improve margins going"
+    },
+    {
+      "start": 127.32000000000001,
+      "end": 128.32,
+      "speaker": "SPEAKER_00",
+      "text": "forward."
+    },
+    {
+      "start": 128.32,
+      "end": 129.32,
+      "speaker": "SPEAKER_00",
+      "text": "Is that correct?"
+    },
+    {
+      "start": 129.32,
+      "end": 130.32,
+      "speaker": "SPEAKER_02",
+      "text": "That's right."
+    },
+    {
+      "start": 130.32,
+      "end": 131.32,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect."
+    },
+    {
+      "start": 131.32,
+      "end": 134.44,
+      "speaker": "SPEAKER_00",
+      "text": "Just a couple clarifying questions here."
+    },
+    {
+      "start": 134.44,
+      "end": 140.84,
+      "speaker": "SPEAKER_00",
+      "text": "Does Morgan Auto Group have a specific goal in mind other than just improve margins?"
+    },
+    {
+      "start": 140.84,
+      "end": 141.84,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah."
+    },
+    {
+      "start": 141.84,
+      "end": 147.44,
+      "speaker": "SPEAKER_02",
+      "text": "I mean, they are long-term profit maximizing, but they're really focusing on staunching"
+    },
+    {
+      "start": 147.44,
+      "end": 150.92,
+      "speaker": "SPEAKER_02",
+      "text": "the bleeding and then reversing the trend."
+    },
+    {
+      "start": 150.92,
+      "end": 151.92,
+      "speaker": "SPEAKER_00",
+      "text": "Got it."
+    },
+    {
+      "start": 151.92,
+      "end": 154.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So if things just stopped declining, that would be great."
+    },
+    {
+      "start": 154.79999999999998,
+      "end": 155.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "That would be great."
+    },
+    {
+      "start": 155.79999999999998,
+      "end": 156.79999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "That would be great."
+    },
+    {
+      "start": 156.79999999999998,
+      "end": 158.84,
+      "speaker": "SPEAKER_02",
+      "text": "Ideally, we'd get them back, right?"
+    },
+    {
+      "start": 158.84,
+      "end": 160.4,
+      "speaker": "SPEAKER_02",
+      "text": "To where they were."
+    },
+    {
+      "start": 160.4,
+      "end": 165.32,
+      "speaker": "SPEAKER_02",
+      "text": "But yes, step one, stop the bleeding, step two, build back better."
+    },
+    {
+      "start": 165.32,
+      "end": 166.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Makes sense."
+    },
+    {
+      "start": 166.92000000000002,
+      "end": 168.96,
+      "speaker": "SPEAKER_00",
+      "text": "And then you mentioned these multiple lines of businesses."
+    },
+    {
+      "start": 168.96,
+      "end": 173.44,
+      "speaker": "SPEAKER_00",
+      "text": "I'm not super familiar with Auto Dealer and how they operate."
+    },
+    {
+      "start": 173.44,
+      "end": 176.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "I wonder if you can just give me kind of the 101 on how an Auto Dealer makes money,"
+    },
+    {
+      "start": 176.92000000000002,
+      "end": 179.16,
+      "speaker": "SPEAKER_00",
+      "text": "what those business segments might be."
+    },
+    {
+      "start": 179.16,
+      "end": 180.16,
+      "speaker": "SPEAKER_02",
+      "text": "Sure."
+    },
+    {
+      "start": 180.16,
+      "end": 181.16,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah."
+    },
+    {
+      "start": 181.16,
+      "end": 185.72,
+      "speaker": "SPEAKER_02",
+      "text": "So there are, there effectively like two kind of like distinct lines of business that"
+    },
+    {
+      "start": 185.72,
+      "end": 190.6,
+      "speaker": "SPEAKER_02",
+      "text": "take place like at the point of sale, so at the new car sale."
+    },
+    {
+      "start": 190.6,
+      "end": 193.84,
+      "speaker": "SPEAKER_02",
+      "text": "The first one is like the sale itself."
+    },
+    {
+      "start": 193.84,
+      "end": 199.2,
+      "speaker": "SPEAKER_02",
+      "text": "There is a margin that they take as effectively the retailer on that."
+    },
+    {
+      "start": 199.2,
+      "end": 201.8,
+      "speaker": "SPEAKER_02",
+      "text": "And then the second is the financing, right?"
+    },
+    {
+      "start": 201.8,
+      "end": 207.4,
+      "speaker": "SPEAKER_02",
+      "text": "So as long as you actually have the option to finance with various companies when you buy"
+    },
+    {
+      "start": 207.4,
+      "end": 212.72,
+      "speaker": "SPEAKER_02",
+      "text": "a car, but if you choose to finance through Morgan or really through kind of their financial"
+    },
+    {
+      "start": 212.72,
+      "end": 214.6,
+      "speaker": "SPEAKER_02",
+      "text": "partners, they make money off of that."
+    },
+    {
+      "start": 214.6,
+      "end": 219.56,
+      "speaker": "SPEAKER_02",
+      "text": "So those are the two kind of like point of sale bits of margin."
+    },
+    {
+      "start": 219.56,
+      "end": 223.07999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "And then the third one is repairs, right?"
+    },
+    {
+      "start": 223.07999999999998,
+      "end": 225.92,
+      "speaker": "SPEAKER_02",
+      "text": "So you can bring your car into the dealership."
+    },
+    {
+      "start": 225.92,
+      "end": 229.4,
+      "speaker": "SPEAKER_02",
+      "text": "You don't have to have bought it there in order to bring it there."
+    },
+    {
+      "start": 229.4,
+      "end": 233.4,
+      "speaker": "SPEAKER_02",
+      "text": "But you know, so basically service is the is the other one."
+    },
+    {
+      "start": 233.4,
+      "end": 234.4,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 234.4,
+      "end": 236.07999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Well, thank you for that context."
+    },
+    {
+      "start": 236.07999999999998,
+      "end": 240.51999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Is it okay if I just take a few moments to kind of gather my thoughts on how we can"
+    },
+    {
+      "start": 240.51999999999998,
+      "end": 241.51999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "solve this?"
+    },
+    {
+      "start": 241.51999999999998,
+      "end": 242.51999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "Let's do it."
+    },
+    {
+      "start": 242.51999999999998,
+      "end": 243.51999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Perfect."
+    },
+    {
+      "start": 245.6,
+      "end": 246.6,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 246.6,
+      "end": 253.51999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So I think to look at this problem and really understand, you know, how they can improve margins."
+    },
+    {
+      "start": 253.51999999999998,
+      "end": 258.2,
+      "speaker": "SPEAKER_00",
+      "text": "It makes sense to kind of understand what's declining or what's causing it to decline today."
+    },
+    {
+      "start": 258.2,
+      "end": 260.56,
+      "speaker": "SPEAKER_00",
+      "text": "And then kind of also thinking about opportunities."
+    },
+    {
+      "start": 260.56,
+      "end": 264.24,
+      "speaker": "SPEAKER_00",
+      "text": "And so there's a few different buckets of things I'd want to look at to kind of answer both"
+    },
+    {
+      "start": 264.24,
+      "end": 265.24,
+      "speaker": "SPEAKER_00",
+      "text": "of those questions."
+    },
+    {
+      "start": 265.24,
+      "end": 270.36,
+      "speaker": "SPEAKER_00",
+      "text": "I think the first kind of bucket I have is non financial factors."
+    },
+    {
+      "start": 270.36,
+      "end": 273.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And then the second bucket I have is financial factors."
+    },
+    {
+      "start": 273.16,
+      "end": 278.8,
+      "speaker": "SPEAKER_00",
+      "text": "So starting within non financial, there's some internal kind of company operation things"
+    },
+    {
+      "start": 278.8,
+      "end": 279.8,
+      "speaker": "SPEAKER_00",
+      "text": "I want to look at."
+    },
+    {
+      "start": 279.8,
+      "end": 283.16,
+      "speaker": "SPEAKER_00",
+      "text": "So specifically, we want to understand their different segments."
+    },
+    {
+      "start": 283.16,
+      "end": 285.64000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "If there's different trends impacting their segments."
+    },
+    {
+      "start": 285.64000000000004,
+      "end": 289.96000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "If they're going up, down, flat, I would imagine they're mentioning that all the segments"
+    },
+    {
+      "start": 289.96000000000004,
+      "end": 294.68,
+      "speaker": "SPEAKER_00",
+      "text": "are declining across the board, but it is that a different scale, for example, across"
+    },
+    {
+      "start": 294.68,
+      "end": 295.68,
+      "speaker": "SPEAKER_00",
+      "text": "segments."
+    },
+    {
+      "start": 295.68,
+      "end": 299.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "So as news car sales flat and then parts are way down."
+    },
+    {
+      "start": 299.4,
+      "end": 301.79999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "I also want to understand a bit of our customer mix."
+    },
+    {
+      "start": 301.79999999999995,
+      "end": 303.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Are we mostly serving consumers?"
+    },
+    {
+      "start": 303.71999999999997,
+      "end": 309.4,
+      "speaker": "SPEAKER_00",
+      "text": "Are we serving businesses that are buying, you know, trucks or doing leases for their employees?"
+    },
+    {
+      "start": 309.4,
+      "end": 312.76,
+      "speaker": "SPEAKER_00",
+      "text": "For example, because businesses might be more stable than consumer purchases."
+    },
+    {
+      "start": 312.76,
+      "end": 315.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "So just trying to get a sense of that."
+    },
+    {
+      "start": 315.15999999999997,
+      "end": 317.0,
+      "speaker": "SPEAKER_00",
+      "text": "Also would want to understand our employee base."
+    },
+    {
+      "start": 317.0,
+      "end": 321.4,
+      "speaker": "SPEAKER_00",
+      "text": "So maybe how utilization is trending, how our employee retention is looking because things"
+    },
+    {
+      "start": 321.4,
+      "end": 323.88,
+      "speaker": "SPEAKER_00",
+      "text": "like that can impact profitability."
+    },
+    {
+      "start": 323.88,
+      "end": 329.2,
+      "speaker": "SPEAKER_00",
+      "text": "And so really it's just this first step is understanding the company's internal operations."
+    },
+    {
+      "start": 329.2,
+      "end": 333.76,
+      "speaker": "SPEAKER_00",
+      "text": "And if there's any kind of signals that we can gather from just kind of looking at the"
+    },
+    {
+      "start": 333.76,
+      "end": 338.32,
+      "speaker": "SPEAKER_00",
+      "text": "big buckets of the segments, our customers and our employees here."
+    },
+    {
+      "start": 338.32,
+      "end": 342.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And then the second kind of thing I'd want to look at within non financial factors is"
+    },
+    {
+      "start": 342.15999999999997,
+      "end": 343.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "external factors."
+    },
+    {
+      "start": 343.15999999999997,
+      "end": 347.76,
+      "speaker": "SPEAKER_00",
+      "text": "So looking at our competitors, so other dealerships in Florida, how are they performing?"
+    },
+    {
+      "start": 347.76,
+      "end": 350.32,
+      "speaker": "SPEAKER_00",
+      "text": "How are other dealers in the US performing?"
+    },
+    {
+      "start": 350.32,
+      "end": 352.0,
+      "speaker": "SPEAKER_00",
+      "text": "Is this an off specific trend?"
+    },
+    {
+      "start": 352.0,
+      "end": 353.48,
+      "speaker": "SPEAKER_00",
+      "text": "Is this a dealer wide trend?"
+    },
+    {
+      "start": 353.48,
+      "end": 359.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Because that can kind of give us insight as to how much control we have over this."
+    },
+    {
+      "start": 359.8,
+      "end": 363.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "The other thing I would want to look at is just kind of macro trends."
+    },
+    {
+      "start": 363.08000000000004,
+      "end": 367.56,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, I would imagine things like tariffs would impact these guys."
+    },
+    {
+      "start": 367.56,
+      "end": 371.88000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "I would imagine things like interest rates if they were financing arm would impact"
+    },
+    {
+      "start": 371.88000000000005,
+      "end": 376.68,
+      "speaker": "SPEAKER_00",
+      "text": "these guys general consumer sentiment might push down sales of new cars."
+    },
+    {
+      "start": 376.68,
+      "end": 382.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "So things like that, like are there any macro trends that are impacting the company at this time?"
+    },
+    {
+      "start": 382.52000000000004,
+      "end": 386.12,
+      "speaker": "SPEAKER_00",
+      "text": "So that's kind of external things that I would want to look at."
+    },
+    {
+      "start": 386.12,
+      "end": 391.08,
+      "speaker": "SPEAKER_00",
+      "text": "And that kind of wraps up my non financial bucket within financial kind of basic two"
+    },
+    {
+      "start": 391.08,
+      "end": 392.2,
+      "speaker": "SPEAKER_00",
+      "text": "main things I want to look at."
+    },
+    {
+      "start": 392.2,
+      "end": 396.44,
+      "speaker": "SPEAKER_00",
+      "text": "I'd want to look at one top line and two bottom line firstly within top line."
+    },
+    {
+      "start": 396.44,
+      "end": 399.16,
+      "speaker": "SPEAKER_00",
+      "text": "I'd want to look at unit sales."
+    },
+    {
+      "start": 399.16,
+      "end": 402.68,
+      "speaker": "SPEAKER_00",
+      "text": "So that's, you know, that could be units sold of cars."
+    },
+    {
+      "start": 402.68,
+      "end": 407.56,
+      "speaker": "SPEAKER_00",
+      "text": "That could be what's the conversion rate for how much were financing versus people are going elsewhere."
+    },
+    {
+      "start": 408.36,
+      "end": 411.48,
+      "speaker": "SPEAKER_00",
+      "text": "What's our part service sale volume look like?"
+    },
+    {
+      "start": 412.28000000000003,
+      "end": 414.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "As well as the mix of the types of services."
+    },
+    {
+      "start": 414.52000000000004,
+      "end": 419.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "So I would imagine some services are big giant repairs and some are, you know,"
+    },
+    {
+      "start": 419.40000000000003,
+      "end": 421.24,
+      "speaker": "SPEAKER_00",
+      "text": "break fix tiny."
+    },
+    {
+      "start": 421.24,
+      "end": 422.44,
+      "speaker": "SPEAKER_00",
+      "text": "So what's tiny repairs?"
+    },
+    {
+      "start": 422.44,
+      "end": 424.12,
+      "speaker": "SPEAKER_00",
+      "text": "So what's the mix of those?"
+    },
+    {
+      "start": 425.16,
+      "end": 431.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Also, would want to look at within kind of units is our path to purchase funnel."
+    },
+    {
+      "start": 431.08000000000004,
+      "end": 433.48,
+      "speaker": "SPEAKER_00",
+      "text": "So our conversion rates from getting people in the store."
+    },
+    {
+      "start": 433.48,
+      "end": 434.76,
+      "speaker": "SPEAKER_00",
+      "text": "How many are actually buying?"
+    },
+    {
+      "start": 434.76,
+      "end": 437.64000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "If there's any trends there that jump out."
+    },
+    {
+      "start": 438.44,
+      "end": 442.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "And then I'd also want to look at, I think this is most relevant for services."
+    },
+    {
+      "start": 442.03999999999996,
+      "end": 444.68,
+      "speaker": "SPEAKER_00",
+      "text": "But if how we think about general customer retention."
+    },
+    {
+      "start": 444.68,
+      "end": 447.32,
+      "speaker": "SPEAKER_00",
+      "text": "So customer that comes in for their first service with us."
+    },
+    {
+      "start": 448.44,
+      "end": 450.68,
+      "speaker": "SPEAKER_00",
+      "text": "Are they coming in for the second, third, fourth?"
+    },
+    {
+      "start": 450.68,
+      "end": 453.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "And so I've mentioned a bunch of things and kind of jumped around segments."
+    },
+    {
+      "start": 453.71999999999997,
+      "end": 459.08,
+      "speaker": "SPEAKER_00",
+      "text": "But like at a high level, it's unit sales for all the segments and what that means for each segment."
+    },
+    {
+      "start": 459.08,
+      "end": 464.12,
+      "speaker": "SPEAKER_00",
+      "text": "It's our path to purchase funnel and then kind of how we think about customer retention across"
+    },
+    {
+      "start": 464.12,
+      "end": 469.72,
+      "speaker": "SPEAKER_00",
+      "text": "the segments where I think that would be most valuable to look at for the parts and services business."
+    },
+    {
+      "start": 469.72,
+      "end": 472.36,
+      "speaker": "SPEAKER_00",
+      "text": "So that's kind of the top line factors I'd want to look at."
+    },
+    {
+      "start": 472.36,
+      "end": 476.2,
+      "speaker": "SPEAKER_00",
+      "text": "And then on the bottom line or cost factors, I'd want to look at"
+    },
+    {
+      "start": 476.76,
+      "end": 479.88,
+      "speaker": "SPEAKER_00",
+      "text": "cogs and op-ex within cogs kind of looking by segments."
+    },
+    {
+      "start": 480.36,
+      "end": 486.52,
+      "speaker": "SPEAKER_00",
+      "text": "How have, you know, cost of parts, the vehicle procurement cost changed, etc."
+    },
+    {
+      "start": 487.56,
+      "end": 490.36,
+      "speaker": "SPEAKER_00",
+      "text": "And then on op-ex kind of looking at the main line items for,"
+    },
+    {
+      "start": 491.16,
+      "end": 496.68,
+      "speaker": "SPEAKER_00",
+      "text": "for a dealership, I would imagine the big buckets would be rent or you have this big building"
+    },
+    {
+      "start": 496.68,
+      "end": 501.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "that you have to maintain. Like I would think the cost of maintaining that rent and facilities"
+    },
+    {
+      "start": 501.40000000000003,
+      "end": 507.96000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "would be huge. Also marketing. Like I just think you have a lot of ads for dealerships."
+    },
+    {
+      "start": 507.96000000000004,
+      "end": 514.2,
+      "speaker": "SPEAKER_00",
+      "text": "I hear them on podcasts. I see them on TV, etc. Like I would imagine they spend a lot of marketing"
+    },
+    {
+      "start": 514.2,
+      "end": 519.24,
+      "speaker": "SPEAKER_00",
+      "text": "and then salaries and sales comp. Because I think there are people driven businesses where you"
+    },
+    {
+      "start": 519.24,
+      "end": 522.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "sell, you buy in the store. So I would imagine salaries are big ones. So those are kind of my,"
+    },
+    {
+      "start": 522.6800000000001,
+      "end": 527.0,
+      "speaker": "SPEAKER_00",
+      "text": "that's my hypothesis of the big op-ex line items. So I would want to look at op-ex overall,"
+    },
+    {
+      "start": 527.0,
+      "end": 532.12,
+      "speaker": "SPEAKER_00",
+      "text": "but kind of focusing on those ones that I would think would be higher."
+    },
+    {
+      "start": 532.84,
+      "end": 538.04,
+      "speaker": "SPEAKER_00",
+      "text": "And then I think, and once we've looked at cogs and op-ex, I think it also would be important"
+    },
+    {
+      "start": 538.04,
+      "end": 541.64,
+      "speaker": "SPEAKER_00",
+      "text": "to do some benchmarking and get some computers for those buckets to just kind of understand"
+    },
+    {
+      "start": 541.64,
+      "end": 545.8,
+      "speaker": "SPEAKER_00",
+      "text": "when we think about how do we improve margins? Like what's the art of the possible here?"
+    },
+    {
+      "start": 545.9599999999999,
+      "end": 551.64,
+      "speaker": "SPEAKER_00",
+      "text": "What's the maximum that we could theoretically get? You know, these two is from a percentage"
+    },
+    {
+      "start": 551.64,
+      "end": 557.24,
+      "speaker": "SPEAKER_00",
+      "text": "of sales standpoint. So that's kind of the different buckets of things that I would want to look at."
+    },
+    {
+      "start": 557.24,
+      "end": 563.4,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of prioritization, I think it makes sense to start with the thing that I mentioned first,"
+    },
+    {
+      "start": 563.4,
+      "end": 567.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "which is understanding the internal operations of the business, specifically the different segments,"
+    },
+    {
+      "start": 567.9599999999999,
+      "end": 575.4799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "if there's any trends going on there. And so just curious if you have any data on how the"
+    },
+    {
+      "start": 575.48,
+      "end": 580.12,
+      "speaker": "SPEAKER_00",
+      "text": "segments have been performing any segment level financials, anything like that to just get a"
+    },
+    {
+      "start": 580.12,
+      "end": 584.04,
+      "speaker": "SPEAKER_00",
+      "text": "sense of if there's a particular segment that's driving this more or less or not."
+    },
+    {
+      "start": 584.84,
+      "end": 589.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Awesome. Definitely do and definitely want to get to that. I think before we do,"
+    },
+    {
+      "start": 590.9200000000001,
+      "end": 595.32,
+      "speaker": "SPEAKER_02",
+      "text": "one of the things that you mentioned, which I think is pretty interesting is this idea of"
+    },
+    {
+      "start": 595.32,
+      "end": 601.08,
+      "speaker": "SPEAKER_02",
+      "text": "interest rates. Obviously interest rates have been like top of mind, right? How would you think about"
+    },
+    {
+      "start": 601.1600000000001,
+      "end": 606.9200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "the way that rising interest rates impact a car dealership? Yeah, definitely."
+    },
+    {
+      "start": 608.5200000000001,
+      "end": 614.36,
+      "speaker": "SPEAKER_00",
+      "text": "So I think it would have the most impact on vehicle sales and then that financing division,"
+    },
+    {
+      "start": 614.36,
+      "end": 618.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "division, and then there would be an ancillary impact on parts. So I'm going to answer this"
+    },
+    {
+      "start": 618.2800000000001,
+      "end": 622.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "question kind of, I think, by segments. If I think of new vehicle sales, if interest rates are"
+    },
+    {
+      "start": 622.2800000000001,
+      "end": 627.72,
+      "speaker": "SPEAKER_00",
+      "text": "higher, the monthly payment that a customer is going to see when their online look browsing for"
+    },
+    {
+      "start": 627.72,
+      "end": 632.28,
+      "speaker": "SPEAKER_00",
+      "text": "cars, calculating the payment is going to be higher. And so I think customers may defer from buying"
+    },
+    {
+      "start": 632.28,
+      "end": 637.4,
+      "speaker": "SPEAKER_00",
+      "text": "a new car like the life that a customer holds a car may get extended. So I imagine new vehicle"
+    },
+    {
+      "start": 637.4,
+      "end": 643.48,
+      "speaker": "SPEAKER_00",
+      "text": "sales would be going down because of that. If you look at the financing arm, I would imagine that"
+    },
+    {
+      "start": 643.48,
+      "end": 648.44,
+      "speaker": "SPEAKER_00",
+      "text": "there's a couple things that could be happening depending on who your customer base is. You could"
+    },
+    {
+      "start": 648.44,
+      "end": 654.52,
+      "speaker": "SPEAKER_00",
+      "text": "have customers opt to pay cash more frequently. Customers may opt for more used or cheaper end"
+    },
+    {
+      "start": 654.52,
+      "end": 658.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "vehicles because they don't want a huge finance. They don't want to finance a huge bill."
+    },
+    {
+      "start": 659.16,
+      "end": 664.84,
+      "speaker": "SPEAKER_00",
+      "text": "And so you have less kind of amount that you're financing. Customers may opt for leasing more"
+    },
+    {
+      "start": 664.84,
+      "end": 669.64,
+      "speaker": "SPEAKER_00",
+      "text": "than financing because leasing is going to be a little bit cheaper month to month because there is"
+    },
+    {
+      "start": 669.64,
+      "end": 675.56,
+      "speaker": "SPEAKER_00",
+      "text": "the bullet pay down at the end versus financing. You don't have that, right? You pay it down to zero."
+    },
+    {
+      "start": 677.24,
+      "end": 682.28,
+      "speaker": "SPEAKER_00",
+      "text": "And so I think within financing, it's you're probably seeing a rise in leases. You're seeing"
+    },
+    {
+      "start": 683.0,
+      "end": 688.76,
+      "speaker": "SPEAKER_00",
+      "text": "smaller financing amounts. And then I would also think customers are going to be shopping around more"
+    },
+    {
+      "start": 688.76,
+      "end": 693.64,
+      "speaker": "SPEAKER_00",
+      "text": "as well, probably to try to find the best rate because they're just more aware of what rates are"
+    },
+    {
+      "start": 693.64,
+      "end": 699.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "when they are volatile or increasing, et cetera. So that's that. And then within parts, I think"
+    },
+    {
+      "start": 699.9599999999999,
+      "end": 704.8399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "this kind of relates to the new sales bit that I mentioned when it gets extended. When customers"
+    },
+    {
+      "start": 704.8399999999999,
+      "end": 709.48,
+      "speaker": "SPEAKER_00",
+      "text": "are extending their time of hold of a car, I would imagine they're breaking more. They have to fix"
+    },
+    {
+      "start": 709.48,
+      "end": 717.24,
+      "speaker": "SPEAKER_00",
+      "text": "them more. And so maybe part sales could actually be going up as a result of this. But we mentioned"
+    },
+    {
+      "start": 717.24,
+      "end": 723.08,
+      "speaker": "SPEAKER_00",
+      "text": "the beginning that profits kind of going down across the board. But I would hypothesize now kind of"
+    },
+    {
+      "start": 723.08,
+      "end": 726.84,
+      "speaker": "SPEAKER_00",
+      "text": "talking through this that maybe there's the less of an impact on the parts business."
+    },
+    {
+      "start": 727.48,
+      "end": 733.16,
+      "speaker": "SPEAKER_03",
+      "text": "That's great. Here's some feedback from Rob. It's a good idea to ask for a 101 overview of how"
+    },
+    {
+      "start": 733.16,
+      "end": 737.4,
+      "speaker": "SPEAKER_03",
+      "text": "the business works, especially if it's a new to you industry. It's important to understand how a"
+    },
+    {
+      "start": 737.4,
+      "end": 743.0,
+      "speaker": "SPEAKER_03",
+      "text": "company makes money. Abby's structure was simple with a breakdown between financial and non-financial,"
+    },
+    {
+      "start": 743.0,
+      "end": 747.48,
+      "speaker": "SPEAKER_03",
+      "text": "but Abby got creative and went deep on the things she wanted to analyze. Notice the standard"
+    },
+    {
+      "start": 747.48,
+      "end": 752.92,
+      "speaker": "SPEAKER_03",
+      "text": "profitability framework of revenue and costs nested within the financial bucket. It was a great"
+    },
+    {
+      "start": 752.92,
+      "end": 757.72,
+      "speaker": "SPEAKER_03",
+      "text": "use of outside information to reference tariffs, which will definitely impact the overall profitability"
+    },
+    {
+      "start": 757.72,
+      "end": 763.24,
+      "speaker": "SPEAKER_03",
+      "text": "of a company like Morgan. That said, there was an opportunity to reference another huge once in a"
+    },
+    {
+      "start": 763.24,
+      "end": 768.12,
+      "speaker": "SPEAKER_03",
+      "text": "generation event of the COVID pandemic, which may have been artificially inflating profits at the"
+    },
+    {
+      "start": 768.12,
+      "end": 773.8,
+      "speaker": "SPEAKER_03",
+      "text": "start of the case. Abby did well to drive the case in a candidate-led case. You should always be"
+    },
+    {
+      "start": 773.8,
+      "end": 778.2,
+      "speaker": "SPEAKER_03",
+      "text": "suggesting where you want to go and what your first priority is after you complete your framework."
+    },
+    {
+      "start": 779.5600000000001,
+      "end": 783.8,
+      "speaker": "SPEAKER_03",
+      "text": "Abby did well to have a strong structured response to Rob's follow-up question and even"
+    },
+    {
+      "start": 783.8,
+      "end": 788.04,
+      "speaker": "SPEAKER_03",
+      "text": "reference her original framework as she was working through this recent wrinkle in the way she"
+    },
+    {
+      "start": 788.12,
+      "end": 794.76,
+      "speaker": "SPEAKER_02",
+      "text": "was approaching the case. Awesome. Let's dive into this segment trends. We have data on"
+    },
+    {
+      "start": 795.8,
+      "end": 801.8,
+      "speaker": "SPEAKER_02",
+      "text": "not our clients specifically, but overall in the industry, where profit margins have been moving"
+    },
+    {
+      "start": 801.8,
+      "end": 808.92,
+      "speaker": "SPEAKER_02",
+      "text": "by these various lines of business. I'm going to share something with you. Let me know when and"
+    },
+    {
+      "start": 808.92,
+      "end": 816.1999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "if you can see it. Yeah, I see it. Great. Awesome. The question here are what are the key takeaways"
+    },
+    {
+      "start": 816.2,
+      "end": 822.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "from the chart and how do they apply to our client? Okay. Just confirming what we see here, I see we"
+    },
+    {
+      "start": 822.5200000000001,
+      "end": 831.72,
+      "speaker": "SPEAKER_00",
+      "text": "have kind of by quarter going back to 2023 to Q4 of 2024. We have gross margins of large"
+    },
+    {
+      "start": 831.72,
+      "end": 838.36,
+      "speaker": "SPEAKER_00",
+      "text": "auto dealers. I'm assuming this is the gross margin percent going down over time and then we have"
+    },
+    {
+      "start": 838.36,
+      "end": 844.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "the component of that from the different segments that we just discussed. It's okay if I just"
+    },
+    {
+      "start": 844.28,
+      "end": 849.0,
+      "speaker": "SPEAKER_00",
+      "text": "take a few seconds to read the chart quick before coming back with insights. Yeah, please."
+    },
+    {
+      "start": 852.36,
+      "end": 861.64,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So looking at this three things sort of jump out to me. One is that all segments"
+    },
+    {
+      "start": 861.64,
+      "end": 869.56,
+      "speaker": "SPEAKER_00",
+      "text": "accept after sale service and parts are declining in profit. This kind of impacting most of the"
+    },
+    {
+      "start": 869.64,
+      "end": 874.5999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "business and I would say being impacted by by almost all of the segments are causing a"
+    },
+    {
+      "start": 874.5999999999999,
+      "end": 879.16,
+      "speaker": "SPEAKER_00",
+      "text": "decline in profitability. New vehicle sales is having the largest decline, which maybe relates to"
+    },
+    {
+      "start": 879.16,
+      "end": 883.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "some of the things that that we just talked about with interest rates. But there's basically"
+    },
+    {
+      "start": 883.3199999999999,
+      "end": 889.56,
+      "speaker": "SPEAKER_00",
+      "text": "and across the board decline on on three of the four segments on this chart. Biggest decline in"
+    },
+    {
+      "start": 889.56,
+      "end": 895.88,
+      "speaker": "SPEAKER_00",
+      "text": "new vehicles. The second takeaway I'm getting here is this is kind of an industry wide problem."
+    },
+    {
+      "start": 896.12,
+      "end": 903.24,
+      "speaker": "SPEAKER_00",
+      "text": "So this is of all publicly traded US auto dealers. So it's not just more than auto group."
+    },
+    {
+      "start": 904.2,
+      "end": 909.0,
+      "speaker": "SPEAKER_00",
+      "text": "So that kind of gets to this isn't something that our client is doing wrong. This is an industry"
+    },
+    {
+      "start": 909.0,
+      "end": 917.0,
+      "speaker": "SPEAKER_00",
+      "text": "wide issue. And so that maybe we'll change how we approach the problem. And then the third thing"
+    },
+    {
+      "start": 917.0,
+      "end": 922.04,
+      "speaker": "SPEAKER_00",
+      "text": "that jumps out to me is that after sale service and parts are the biggest contributor to profitability"
+    },
+    {
+      "start": 922.04,
+      "end": 930.28,
+      "speaker": "SPEAKER_00",
+      "text": "here for these dealers on average. So if you look at like Q4 for example, it looks like it's 30,"
+    },
+    {
+      "start": 930.28,
+      "end": 936.5999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "40 ish percent of the profit margin. And so that's interesting to me because I would have thought"
+    },
+    {
+      "start": 936.5999999999999,
+      "end": 942.36,
+      "speaker": "SPEAKER_00",
+      "text": "a dealer is just going to be more focused on car sales. So that's interesting. But in terms of kind"
+    },
+    {
+      "start": 942.36,
+      "end": 947.8,
+      "speaker": "SPEAKER_02",
+      "text": "of a next secret, the secret is you got to sell really bad cars. And then they keep coming back."
+    },
+    {
+      "start": 948.68,
+      "end": 953.8,
+      "speaker": "SPEAKER_00",
+      "text": "That's the way to do it. In terms of an next step, I think just given the decline in new"
+    },
+    {
+      "start": 953.8,
+      "end": 960.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "vehicle sales has been so dramatic and used, I would just want to dive into more on what's"
+    },
+    {
+      "start": 960.1999999999999,
+      "end": 966.92,
+      "speaker": "SPEAKER_00",
+      "text": "driving this. Like do we know anything that's causing this 17% keg over the last couple years?"
+    },
+    {
+      "start": 967.56,
+      "end": 975.56,
+      "speaker": "SPEAKER_02",
+      "text": "I mean, we don't have a perfect idea. But we do have some data in terms of like general trends. So,"
+    },
+    {
+      "start": 975.88,
+      "end": 979.7199999999999,
+      "speaker": "SPEAKER_02",
+      "text": "as kind of like one of your classic brick and mortar stores,"
+    },
+    {
+      "start": 981.0,
+      "end": 986.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "car dealerships are certainly subject to the, have you heard of the internet?"
+    },
+    {
+      "start": 987.0,
+      "end": 988.04,
+      "speaker": "SPEAKER_00",
+      "text": "I have, yes."
+    },
+    {
+      "start": 988.04,
+      "end": 994.92,
+      "speaker": "SPEAKER_02",
+      "text": "Apparently it's coming for us. And certainly subject to some of the forces of online shopping. So"
+    },
+    {
+      "start": 994.92,
+      "end": 1001.64,
+      "speaker": "SPEAKER_02",
+      "text": "we do have some data kind of on like online activity of basically like the car purchase."
+    },
+    {
+      "start": 1002.4399999999999,
+      "end": 1010.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "And so I'm going to share that with you now. And so given this, right, what implications,"
+    },
+    {
+      "start": 1010.4399999999999,
+      "end": 1013.64,
+      "speaker": "SPEAKER_02",
+      "text": "you know, what what findings off the chart and what implications for our client?"
+    },
+    {
+      "start": 1014.28,
+      "end": 1020.52,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. So just looking at this confirming, see, we basically have a value chain that looks like"
+    },
+    {
+      "start": 1020.52,
+      "end": 1028.2,
+      "speaker": "SPEAKER_00",
+      "text": "the car purchase process. We have data on the percent of the activity that's conducted online versus"
+    },
+    {
+      "start": 1029.16,
+      "end": 1034.2,
+      "speaker": "SPEAKER_00",
+      "text": "in today versus 2030. So it's a forecast of kind of where we think the market is going."
+    },
+    {
+      "start": 1034.76,
+      "end": 1039.32,
+      "speaker": "SPEAKER_00",
+      "text": "And it appears that must be based on a survey. So I'm just going to take a few moments to"
+    },
+    {
+      "start": 1039.32,
+      "end": 1042.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "to read this quick and then come back with insights."
+    },
+    {
+      "start": 1045.56,
+      "end": 1051.96,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So looking at this sort of two things jump out to me. I think one is that there's just a"
+    },
+    {
+      "start": 1051.96,
+      "end": 1056.2,
+      "speaker": "SPEAKER_00",
+      "text": "general expectation that things are going to go more online across the value chain."
+    },
+    {
+      "start": 1057.16,
+      "end": 1062.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so this could be impacting our client in a few ways. Like there could be less foot traffic"
+    },
+    {
+      "start": 1062.8400000000001,
+      "end": 1067.4,
+      "speaker": "SPEAKER_00",
+      "text": "in the door. So there's less people browsing cars. There could be it could be just more competitive,"
+    },
+    {
+      "start": 1067.4,
+      "end": 1071.48,
+      "speaker": "SPEAKER_00",
+      "text": "right? So if customers can browse many dealers online, they're less likely to just go to the one"
+    },
+    {
+      "start": 1072.2,
+      "end": 1076.76,
+      "speaker": "SPEAKER_00",
+      "text": "that's closest to them. They may, you know, shop around for different deals and prices. And so"
+    },
+    {
+      "start": 1076.76,
+      "end": 1081.72,
+      "speaker": "SPEAKER_00",
+      "text": "just becomes a more competitive environment. I think when people are online, so just increases"
+    },
+    {
+      "start": 1081.72,
+      "end": 1088.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "transparency to customers. I think the second thing that jumps out is if the biggest jump in"
+    },
+    {
+      "start": 1088.1200000000001,
+      "end": 1093.56,
+      "speaker": "SPEAKER_00",
+      "text": "movement online that I see is at the end, this new vehicle order contract paperwork. So the last"
+    },
+    {
+      "start": 1093.56,
+      "end": 1099.64,
+      "speaker": "SPEAKER_00",
+      "text": "step in the value chain here, which could explain why new vehicle sales or partially explain why new"
+    },
+    {
+      "start": 1099.64,
+      "end": 1107.88,
+      "speaker": "SPEAKER_00",
+      "text": "vehicle sales are seen as such a large hit. But I think overall looking at this, if the market's"
+    },
+    {
+      "start": 1107.88,
+      "end": 1113.48,
+      "speaker": "SPEAKER_00",
+      "text": "expecting things to go more online for our client, ideally, you don't want to like push back on"
+    },
+    {
+      "start": 1113.48,
+      "end": 1117.0,
+      "speaker": "SPEAKER_00",
+      "text": "this and try not to fight it off. You want to try to adapt and work with it. And so is there"
+    },
+    {
+      "start": 1117.0,
+      "end": 1121.72,
+      "speaker": "SPEAKER_00",
+      "text": "anything that we can advise our client to do to make the online experience for their potential"
+    },
+    {
+      "start": 1121.72,
+      "end": 1128.7600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "customers and customers better? Whether that be it's easier to, you know, calculate a theoretical"
+    },
+    {
+      "start": 1128.7600000000002,
+      "end": 1134.7600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "lease costs online. You can book your appointment to test drive a car online without having to call."
+    },
+    {
+      "start": 1135.48,
+      "end": 1141.64,
+      "speaker": "SPEAKER_00",
+      "text": "You can do the whole purchase online if you would like. You can reserve a car online almost as"
+    },
+    {
+      "start": 1141.64,
+      "end": 1146.92,
+      "speaker": "SPEAKER_00",
+      "text": "if you bought it. So all you have to do is pick it up and just make that online shopping experience"
+    },
+    {
+      "start": 1146.92,
+      "end": 1151.8,
+      "speaker": "SPEAKER_00",
+      "text": "better. Because I think that could be a differentiator versus peers, perhaps, because I think I'm"
+    },
+    {
+      "start": 1151.8,
+      "end": 1156.12,
+      "speaker": "SPEAKER_00",
+      "text": "I haven't bought a car online recently. But I know if I make a dentist appointment and there's"
+    },
+    {
+      "start": 1156.12,
+      "end": 1162.2,
+      "speaker": "SPEAKER_00",
+      "text": "a dentist that lets me book online without calling, I will go to that dentist. And so I know"
+    },
+    {
+      "start": 1162.3600000000001,
+      "end": 1173.8,
+      "speaker": "SPEAKER_00",
+      "text": "drive an extra three hours. But yeah, I think that this could be an opportunity for our client"
+    },
+    {
+      "start": 1173.8,
+      "end": 1177.64,
+      "speaker": "SPEAKER_00",
+      "text": "to be kind of more digital forward and we could help them with that."
+    },
+    {
+      "start": 1179.72,
+      "end": 1188.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Obviously, this is focused on the kind of that core new purchase, right? Like element. And we don't"
+    },
+    {
+      "start": 1188.84,
+      "end": 1193.72,
+      "speaker": "SPEAKER_02",
+      "text": "have any data on this. But like, how would you think about, you know, given the thing we just said,"
+    },
+    {
+      "start": 1193.72,
+      "end": 1199.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "which is that like services, the, you know, is actually like the the biggest profit driver, right?"
+    },
+    {
+      "start": 1199.6399999999999,
+      "end": 1205.56,
+      "speaker": "SPEAKER_02",
+      "text": "What would you think about online activities in the service space? Like, you know, what's important?"
+    },
+    {
+      "start": 1205.56,
+      "end": 1210.52,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think's probably moving? Yeah, that's a great question. I think it relates to some of"
+    },
+    {
+      "start": 1210.52,
+      "end": 1216.12,
+      "speaker": "SPEAKER_00",
+      "text": "the things I just said. So your ease of booking an appointment if something's wrong. I think your"
+    },
+    {
+      "start": 1216.12,
+      "end": 1220.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "ability to just drop in and get it fixed. I think that's why people go to, let's say,"
+    },
+    {
+      "start": 1220.9199999999998,
+      "end": 1225.2399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "a dollocaine to get their oil change. They don't have to make an appointment as to drive through."
+    },
+    {
+      "start": 1226.76,
+      "end": 1234.28,
+      "speaker": "SPEAKER_00",
+      "text": "But if I think online broadly from a competitive standpoint, I would imagine"
+    },
+    {
+      "start": 1235.56,
+      "end": 1241.4799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "mom and pops that maybe have lower scale than us. Maybe for the first time. I mean, the internet's"
+    },
+    {
+      "start": 1241.48,
+      "end": 1246.84,
+      "speaker": "SPEAKER_00",
+      "text": "not new, but they've accessed a marketplace with a can buy parts for cheaper and they can price"
+    },
+    {
+      "start": 1246.84,
+      "end": 1253.08,
+      "speaker": "SPEAKER_00",
+      "text": "compare and then they can offer lower prices. I think dealers already have a reputation for being"
+    },
+    {
+      "start": 1253.08,
+      "end": 1258.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "kind of higher price service, but you know, you're getting quality, etc. But maybe there is a world"
+    },
+    {
+      "start": 1258.1200000000001,
+      "end": 1263.08,
+      "speaker": "SPEAKER_00",
+      "text": "where it just bigger ability to buy online. There's probably an online marketplace for parts,"
+    },
+    {
+      "start": 1263.08,
+      "end": 1270.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "etc. That your competitors can source parts more cheaply, non-dealer parts. I don't, I think there's"
+    },
+    {
+      "start": 1270.36,
+      "end": 1278.28,
+      "speaker": "SPEAKER_00",
+      "text": "a term for that. But then maybe the price gap between a dealer and a non-dealer is getting wider."
+    },
+    {
+      "start": 1279.8,
+      "end": 1284.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Right. Imagine to be positive for us from a margin standpoint, but also from a top line standpoint,"
+    },
+    {
+      "start": 1284.9199999999998,
+      "end": 1288.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "we may just have less people in the door per service because of that."
+    },
+    {
+      "start": 1289.7199999999998,
+      "end": 1296.1999999999998,
+      "speaker": "SPEAKER_03",
+      "text": "Awesome. Here's some feedback from Rob. Abby did well to describe what the data showed before"
+    },
+    {
+      "start": 1296.3600000000001,
+      "end": 1301.32,
+      "speaker": "SPEAKER_03",
+      "text": "diving in and looking for insights. She took a second to identify her insights and uses that time"
+    },
+    {
+      "start": 1301.32,
+      "end": 1307.96,
+      "speaker": "SPEAKER_03",
+      "text": "to rank and prioritize how she wants to share her finding. Abby continued to do well driving the case."
+    },
+    {
+      "start": 1307.96,
+      "end": 1312.1200000000001,
+      "speaker": "SPEAKER_03",
+      "text": "Here she noted that top line sales were down and that that would be a good place to start the"
+    },
+    {
+      "start": 1312.1200000000001,
+      "end": 1318.44,
+      "speaker": "SPEAKER_03",
+      "text": "investigation. Importantly, Abby is not just neutrally identifying what's in these charts, but she's"
+    },
+    {
+      "start": 1318.44,
+      "end": 1323.24,
+      "speaker": "SPEAKER_03",
+      "text": "using it as a jumping off point for solutioning and highlighting her own creativity and how to approach"
+    },
+    {
+      "start": 1323.24,
+      "end": 1327.72,
+      "speaker": "SPEAKER_02",
+      "text": "a problem like this. Okay. So I've got one more, but I want you to work through here."
+    },
+    {
+      "start": 1328.6,
+      "end": 1338.28,
+      "speaker": "SPEAKER_02",
+      "text": "I'm going to show you kind of like the gross margins or the the contribution to total gross margin"
+    },
+    {
+      "start": 1338.28,
+      "end": 1344.04,
+      "speaker": "SPEAKER_02",
+      "text": "byline of business for for Morgan from kind of year one to year two. And I want you to calculate"
+    },
+    {
+      "start": 1344.04,
+      "end": 1349.08,
+      "speaker": "SPEAKER_02",
+      "text": "the decline that we've seen both kind of byline of business and then overall."
+    },
+    {
+      "start": 1354.2,
+      "end": 1360.84,
+      "speaker": "SPEAKER_00",
+      "text": "Got it. Okay. So what I'm seeing at the bottom is the margins you mentioned at the beginning."
+    },
+    {
+      "start": 1360.84,
+      "end": 1368.6,
+      "speaker": "SPEAKER_00",
+      "text": "So that's 19.1 and 17.3 total margin. And then appears the contribution point that the"
+    },
+    {
+      "start": 1369.72,
+      "end": 1376.76,
+      "speaker": "SPEAKER_00",
+      "text": "rows sum to that margin. That's right. So if I were typically calculating gross margin by segment,"
+    },
+    {
+      "start": 1376.76,
+      "end": 1384.52,
+      "speaker": "SPEAKER_00",
+      "text": "I would have segment level sales, but in this case. Yeah. Think about this as, you know, in the"
+    },
+    {
+      "start": 1384.52,
+      "end": 1390.44,
+      "speaker": "SPEAKER_02",
+      "text": "world's simplest universe where we made 19.1 million dollars of margin. So I mentioned this was"
+    },
+    {
+      "start": 1390.44,
+      "end": 1397.48,
+      "speaker": "SPEAKER_02",
+      "text": "a hundred million dollar business. We made 7.3 million of margin from vehicle sales. So I think about"
+    },
+    {
+      "start": 1397.48,
+      "end": 1403.64,
+      "speaker": "SPEAKER_00",
+      "text": "this contribution in that in that world. Got it. Okay. Makes perfect sense. So then I think to"
+    },
+    {
+      "start": 1403.64,
+      "end": 1410.2,
+      "speaker": "SPEAKER_00",
+      "text": "calculate kind of the impact that this decline in gross margin is had on our business. What I'll do"
+    },
+    {
+      "start": 1410.2,
+      "end": 1418.44,
+      "speaker": "SPEAKER_00",
+      "text": "is I'll take our total sales times the change in margin by segment. I might start with with overall"
+    },
+    {
+      "start": 1418.44,
+      "end": 1425.16,
+      "speaker": "SPEAKER_00",
+      "text": "and then go go by segment. So I would take for example the 8 billion times the 2% change in total"
+    },
+    {
+      "start": 1425.16,
+      "end": 1430.0400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "margin. And that would give us the total impact. And then I'll kind of calculate the make up"
+    },
+    {
+      "start": 1430.2,
+      "end": 1435.24,
+      "speaker": "SPEAKER_00",
+      "text": "the contribution of that by segment. Does that sound like an okay approach to you? Yeah."
+    },
+    {
+      "start": 1436.36,
+      "end": 1447.0,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome. Okay. So if we are doing 8 billion in sales, we used to have 19.1% margins now we have 17.3."
+    },
+    {
+      "start": 1447.0,
+      "end": 1459.24,
+      "speaker": "SPEAKER_00",
+      "text": "So that is like a 1.8% change. I'm going to round that to about 2%. I know that 1% of a billion"
+    },
+    {
+      "start": 1459.24,
+      "end": 1470.2,
+      "speaker": "SPEAKER_00",
+      "text": "is 10 million. So 1% of 8 billion will be 80 million. So 2% about of 8 billion would be about"
+    },
+    {
+      "start": 1470.2,
+      "end": 1475.0,
+      "speaker": "SPEAKER_00",
+      "text": "160 billion. I'm going to haircut that a little bit because I rounded up to 2."
+    },
+    {
+      "start": 1475.0,
+      "end": 1487.56,
+      "speaker": "SPEAKER_00",
+      "text": "160. 161. 160 million. So about 150-ish million would be the total impact. So that's a lot."
+    },
+    {
+      "start": 1487.56,
+      "end": 1492.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So the total impact decline in profit. That's a lot of money for this group. I didn't think that"
+    },
+    {
+      "start": 1492.9199999999998,
+      "end": 1499.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "car dealers that were single state made this much money. So that is impressive to the owner of this group."
+    },
+    {
+      "start": 1500.84,
+      "end": 1503.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah. The Morgan family is doing all right. Yeah. They're doing very well."
+    },
+    {
+      "start": 1503.8799999999999,
+      "end": 1505.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "I don't know if they own the dolphins, but they should."
+    },
+    {
+      "start": 1507.48,
+      "end": 1515.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And then if I go kind of by segment. So starting with vehicle sales. So 7.3 less 5.9. That's"
+    },
+    {
+      "start": 1515.72,
+      "end": 1529.88,
+      "speaker": "SPEAKER_00",
+      "text": "going to be 1.4%. So the 1.4% decline times are 8 billion in sales. We know that 1% is 80 million."
+    },
+    {
+      "start": 1529.88,
+      "end": 1538.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So about 1.5% would be about 120 million. So 120 million of our total 150-ish decline is from"
+    },
+    {
+      "start": 1538.36,
+      "end": 1551.08,
+      "speaker": "SPEAKER_00",
+      "text": "from vehicle sales. No moving on to financing. We have 4.5% less 3.9%. That is 0.6%."
+    },
+    {
+      "start": 1551.8,
+      "end": 1559.4799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So a half a percent. I'm going around to 80 million divided by 2. That's 40 million. So 40"
+    },
+    {
+      "start": 1559.4799999999998,
+      "end": 1566.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "million of the decline is from financing. And then if I go down to service, we have 7.3"
+    },
+    {
+      "start": 1566.8400000000001,
+      "end": 1575.56,
+      "speaker": "SPEAKER_00",
+      "text": "less the or plus the 7.5. So this is actually a positive improvement in margin. A positive 0.2%."
+    },
+    {
+      "start": 1577.0800000000002,
+      "end": 1589.4,
+      "speaker": "SPEAKER_00",
+      "text": "So if 1% is 10 million, 0.1% is going to be 1 million. So times 8. So 0.2% would be 8 times 2,"
+    },
+    {
+      "start": 1589.4,
+      "end": 1597.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "16 million. So there would be a positive impact of 16 million from service. So summing those up,"
+    },
+    {
+      "start": 1598.52,
+      "end": 1608.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "that gets us to about 150-ish million. We have 120 plus 40 minus 16. So that my total math,"
+    },
+    {
+      "start": 1608.3600000000001,
+      "end": 1615.24,
+      "speaker": "SPEAKER_00",
+      "text": "I feel correct was I feel was correct. But my main takeaway from this is that the largest decline"
+    },
+    {
+      "start": 1615.48,
+      "end": 1622.92,
+      "speaker": "SPEAKER_00",
+      "text": "driver is really vehicle sales. And service is actually a bright spot here. We're basically"
+    },
+    {
+      "start": 1622.92,
+      "end": 1626.92,
+      "speaker": "SPEAKER_00",
+      "text": "holding our ground and improving even a little bit, even though it's some marginal improvement."
+    },
+    {
+      "start": 1627.64,
+      "end": 1631.96,
+      "speaker": "SPEAKER_00",
+      "text": "And an overall declining kind of market that the industry overall is facing profitability,"
+    },
+    {
+      "start": 1631.96,
+      "end": 1639.72,
+      "speaker": "SPEAKER_03",
+      "text": "that's kind of promising to me. Awesome. Here's some feedback from Rob. This is a weird set of data."
+    },
+    {
+      "start": 1639.72,
+      "end": 1644.76,
+      "speaker": "SPEAKER_03",
+      "text": "And Abby does a good job to clarify the information she's looking at before diving into the calculations."
+    },
+    {
+      "start": 1645.4,
+      "end": 1649.96,
+      "speaker": "SPEAKER_03",
+      "text": "She did well to use shortcuts to convert from billions to percentage of contribution first"
+    },
+    {
+      "start": 1649.96,
+      "end": 1654.76,
+      "speaker": "SPEAKER_03",
+      "text": "before getting into her math. She only actually had to then convert from dollars one time instead of"
+    },
+    {
+      "start": 1654.76,
+      "end": 1660.1200000000001,
+      "speaker": "SPEAKER_03",
+      "text": "after each and every calculation. Importantly, Abby isn't just doing calculations to demonstrate"
+    },
+    {
+      "start": 1660.1200000000001,
+      "end": 1664.76,
+      "speaker": "SPEAKER_03",
+      "text": "her math skills. She's calculating to look for client impact. In this case, she highlights that"
+    },
+    {
+      "start": 1664.76,
+      "end": 1671.4,
+      "speaker": "SPEAKER_02",
+      "text": "the main takeaways to focus on vehicle sales. Well, I got, I mean, good news for you. You arrived"
+    },
+    {
+      "start": 1671.5600000000002,
+      "end": 1676.44,
+      "speaker": "SPEAKER_02",
+      "text": "at the right answer. Bad news for the project team is that our timeline has been cut short. And we're"
+    },
+    {
+      "start": 1676.44,
+      "end": 1681.24,
+      "speaker": "SPEAKER_02",
+      "text": "only going to be able to focus on one of these lines of business, which line of business would you"
+    },
+    {
+      "start": 1681.24,
+      "end": 1690.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "focus on and why? Okay. I think I see the point and focusing on vehicle sales if it's declining the most."
+    },
+    {
+      "start": 1692.1200000000001,
+      "end": 1696.2,
+      "speaker": "SPEAKER_00",
+      "text": "You'd want to try to turn things around, but I think turning things around in a declining"
+    },
+    {
+      "start": 1696.28,
+      "end": 1702.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "into declining market is going to be hard. I think service, I find interesting that even in"
+    },
+    {
+      "start": 1702.3600000000001,
+      "end": 1709.8,
+      "speaker": "SPEAKER_00",
+      "text": "the declining market, we're increasing. So I think I would narrow it down to between those two,"
+    },
+    {
+      "start": 1709.8,
+      "end": 1714.92,
+      "speaker": "SPEAKER_00",
+      "text": "but I would lean towards service. So I think my current answer would be to go with prioritizing"
+    },
+    {
+      "start": 1714.92,
+      "end": 1721.64,
+      "speaker": "SPEAKER_00",
+      "text": "service for a few reasons. I think one, as I mentioned, if it is increasing in the declining market,"
+    },
+    {
+      "start": 1721.72,
+      "end": 1726.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "maybe there is some opportunity to push pricing to market more, etc. and drive more foot traffic."
+    },
+    {
+      "start": 1727.5600000000002,
+      "end": 1735.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe there are some macro kind of tailwinds. So people holding cars longer, etc. that can push"
+    },
+    {
+      "start": 1735.3200000000002,
+      "end": 1742.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "them in the door for us. I think too, it is the biggest component of profits for dealers overall."
+    },
+    {
+      "start": 1742.1999999999998,
+      "end": 1749.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "But I think looking at that past chart, it is for us as well."
+    },
+    {
+      "start": 1751.2399999999998,
+      "end": 1758.52,
+      "speaker": "SPEAKER_00",
+      "text": "And so I think if it's the biggest component for profit overall, I think that just logically to"
+    },
+    {
+      "start": 1758.52,
+      "end": 1763.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "me make sense as a place to prioritize, because it seems like that's kind of the cash cow of the"
+    },
+    {
+      "start": 1763.1599999999999,
+      "end": 1769.32,
+      "speaker": "SPEAKER_00",
+      "text": "business. So there's kind of less, if you make a mistake in changing things, trying to move"
+    },
+    {
+      "start": 1769.32,
+      "end": 1773.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "profit around, it's less likely to have a huge impact on the business because you just have more"
+    },
+    {
+      "start": 1773.8799999999999,
+      "end": 1778.12,
+      "speaker": "SPEAKER_00",
+      "text": "flexibility there. So that's why I think I would say prioritize service for a couple of reasons."
+    },
+    {
+      "start": 1778.12,
+      "end": 1783.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I think it's one, they're doing all right in the declining market, which shows promise. And two,"
+    },
+    {
+      "start": 1783.3999999999999,
+      "end": 1788.52,
+      "speaker": "SPEAKER_00",
+      "text": "it seems like they're more of a cash cow of the business, big profit generator for us. And so"
+    },
+    {
+      "start": 1788.52,
+      "end": 1792.52,
+      "speaker": "SPEAKER_00",
+      "text": "we maybe have more flexibility to try things to turn things around."
+    },
+    {
+      "start": 1792.6,
+      "end": 1802.12,
+      "speaker": "SPEAKER_02",
+      "text": "I mean, I think the counterpoint to that maybe is like I would say maybe twofold,"
+    },
+    {
+      "start": 1802.12,
+      "end": 1808.76,
+      "speaker": "SPEAKER_02",
+      "text": "right, which is, you know, we talked about like financing and new car sales as though they are"
+    },
+    {
+      "start": 1808.76,
+      "end": 1812.68,
+      "speaker": "SPEAKER_02",
+      "text": "separate, but they're kind of like two parts of a single transaction, right? It's kind of like"
+    },
+    {
+      "start": 1812.68,
+      "end": 1817.56,
+      "speaker": "SPEAKER_02",
+      "text": "they're linked. So that's like one big thing in some ways, right? And then the other thing is"
+    },
+    {
+      "start": 1818.12,
+      "end": 1824.2,
+      "speaker": "SPEAKER_02",
+      "text": "like maybe you do have to sell the car to really get the service, right? So maybe it's actually like"
+    },
+    {
+      "start": 1824.2,
+      "end": 1829.24,
+      "speaker": "SPEAKER_02",
+      "text": "the customer acquisition. What would you, what would you say to that? Yeah, I guess if you combine"
+    },
+    {
+      "start": 1829.24,
+      "end": 1834.6,
+      "speaker": "SPEAKER_00",
+      "text": "the financing with the new vehicle sale, then those two combined are big chunk of our margin."
+    },
+    {
+      "start": 1835.56,
+      "end": 1841.32,
+      "speaker": "SPEAKER_00",
+      "text": "I get that, but to me, they're still separate. Like they're probably different skills or different"
+    },
+    {
+      "start": 1841.32,
+      "end": 1845.72,
+      "speaker": "SPEAKER_00",
+      "text": "people that are doing that. There's probably a finance person in a back office running numbers."
+    },
+    {
+      "start": 1845.88,
+      "end": 1850.76,
+      "speaker": "SPEAKER_00",
+      "text": "You're basically a bank if you're financing arm, and then there's the sales person. And so for"
+    },
+    {
+      "start": 1850.76,
+      "end": 1855.72,
+      "speaker": "SPEAKER_00",
+      "text": "that reason, to me, it feels like two separate businesses and the ability to shop around. Like I"
+    },
+    {
+      "start": 1855.72,
+      "end": 1860.76,
+      "speaker": "SPEAKER_00",
+      "text": "don't know if everyone finances through your dealer, especially with like the rise of SoFi and"
+    },
+    {
+      "start": 1860.76,
+      "end": 1866.2,
+      "speaker": "SPEAKER_00",
+      "text": "things like that online, that makes things easier for people to shop around. And then"
+    },
+    {
+      "start": 1867.16,
+      "end": 1877.0800000000002,
+      "speaker": "SPEAKER_02",
+      "text": "your second point that you made just on, can you? Which is more like it's selling the original"
+    },
+    {
+      "start": 1877.0800000000002,
+      "end": 1882.68,
+      "speaker": "SPEAKER_02",
+      "text": "car is customer acquisition for the service division. Yeah, I think that is totally fair. I think"
+    },
+    {
+      "start": 1882.68,
+      "end": 1890.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "it is however, if new cars are down overall, then I think getting new customers in the door is"
+    },
+    {
+      "start": 1890.3600000000001,
+      "end": 1894.44,
+      "speaker": "SPEAKER_00",
+      "text": "going to be harder for the service bit as well. So is there anything we can do to try to"
+    },
+    {
+      "start": 1895.16,
+      "end": 1900.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "get customers who have already bought cars to come to us versus use of Albulean or a mom and"
+    },
+    {
+      "start": 1900.1200000000001,
+      "end": 1909.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "pop instead? Because I get that if it's declining, like why fight super hard for something that is"
+    },
+    {
+      "start": 1909.0800000000002,
+      "end": 1914.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "declining? When if there is something that is is doing all right, I think there's still opportunity"
+    },
+    {
+      "start": 1914.1200000000001,
+      "end": 1919.0,
+      "speaker": "SPEAKER_00",
+      "text": "to kind of get retain our existing customers rather than go after new."
+    },
+    {
+      "start": 1919.88,
+      "end": 1925.4,
+      "speaker": "SPEAKER_03",
+      "text": "Great. Here's some feedback from Rob. Abby does well to use this as an opportunity to demonstrate"
+    },
+    {
+      "start": 1925.4,
+      "end": 1931.88,
+      "speaker": "SPEAKER_03",
+      "text": "conviction. Rob pushes back on her original answer and she stays strong. Awesome. All right, CEO"
+    },
+    {
+      "start": 1931.88,
+      "end": 1939.24,
+      "speaker": "SPEAKER_02",
+      "text": "walks in the door, slams open the door. He's a very grumpy person, Mr Morgan, demands to know what"
+    },
+    {
+      "start": 1939.24,
+      "end": 1944.52,
+      "speaker": "SPEAKER_02",
+      "text": "your kind of like recommendations are on like where to look for improving profitability."
+    },
+    {
+      "start": 1945.24,
+      "end": 1947.96,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, so if I just take a few moments together, my thoughts."
+    },
+    {
+      "start": 1947.96,
+      "end": 1948.6,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, please do."
+    },
+    {
+      "start": 1953.08,
+      "end": 1960.52,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so to improve profitability, I think I'd recommend that the Morgan Auto Group prioritize"
+    },
+    {
+      "start": 1960.52,
+      "end": 1967.72,
+      "speaker": "SPEAKER_00",
+      "text": "two things. One would be focusing more on how to grow the service segment of the business,"
+    },
+    {
+      "start": 1967.72,
+      "end": 1972.12,
+      "speaker": "SPEAKER_00",
+      "text": "that segment despite kind of overall macro trends, her dean dealerships, the service segment"
+    },
+    {
+      "start": 1972.12,
+      "end": 1977.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "has been doing fine. And so is there anything that we can do there to keep that growing? So maybe"
+    },
+    {
+      "start": 1977.8799999999999,
+      "end": 1982.84,
+      "speaker": "SPEAKER_00",
+      "text": "we increase prices because if customers are still coming in the door, despite a tough macro"
+    },
+    {
+      "start": 1983.3999999999999,
+      "end": 1988.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "environment for cars, broadly, maybe there's an opportunity there to maybe there's more marketing"
+    },
+    {
+      "start": 1988.6799999999998,
+      "end": 1993.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "that we can do with our parts and service business to drive more people in the door. But I think"
+    },
+    {
+      "start": 1993.9599999999998,
+      "end": 2000.36,
+      "speaker": "SPEAKER_00",
+      "text": "just given that that is been okay in a declining market is kind of a silver lining here. And I think"
+    },
+    {
+      "start": 2000.36,
+      "end": 2004.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "if there's anything we can do to double down and potentially grow that more would be a great"
+    },
+    {
+      "start": 2004.6799999999998,
+      "end": 2011.08,
+      "speaker": "SPEAKER_00",
+      "text": "opportunity. The second recommendation would be to invest in more digital capabilities or a website."
+    },
+    {
+      "start": 2011.08,
+      "end": 2016.52,
+      "speaker": "SPEAKER_00",
+      "text": "I think one thing we found is that people are forecasting broadly car buying activities to go"
+    },
+    {
+      "start": 2016.52,
+      "end": 2022.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "online. So people will be probably coming into a dealership less. And so how can we win customers"
+    },
+    {
+      "start": 2023.1599999999999,
+      "end": 2027.24,
+      "speaker": "SPEAKER_00",
+      "text": "online more going forward and think the way to do that would be to have a super modern"
+    },
+    {
+      "start": 2027.24,
+      "end": 2035.0,
+      "speaker": "SPEAKER_00",
+      "text": "easy to use website. And so we would love to help you kind of invest to build that or how"
+    },
+    {
+      "start": 2035.88,
+      "end": 2040.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "give you some advice about how you can improve the website. But I think taking step back to"
+    },
+    {
+      "start": 2040.1200000000001,
+      "end": 2045.8,
+      "speaker": "SPEAKER_00",
+      "text": "main recommendations would be one, you know, prioritize growing service and to invest in digital."
+    },
+    {
+      "start": 2046.68,
+      "end": 2050.36,
+      "speaker": "SPEAKER_00",
+      "text": "And then in terms of next steps, we'd love to help you kind of figure out what's the best way"
+    },
+    {
+      "start": 2050.36,
+      "end": 2055.64,
+      "speaker": "SPEAKER_00",
+      "text": "to do this? Like what exactly could you invest in for digital and how could you grow service?"
+    },
+    {
+      "start": 2055.64,
+      "end": 2060.44,
+      "speaker": "SPEAKER_00",
+      "text": "But that's our recommendation as of now. Awesome. Thanks so much. Thanks."
+    },
+    {
+      "start": 2061.48,
+      "end": 2066.44,
+      "speaker": "SPEAKER_03",
+      "text": "Here's some feedback from Rob. I've had a strong recommendation including great structure to help"
+    },
+    {
+      "start": 2066.44,
+      "end": 2071.16,
+      "speaker": "SPEAKER_03",
+      "text": "walk through the main idea of the case. There's an opportunity here to be a little bit more concise,"
+    },
+    {
+      "start": 2071.16,
+      "end": 2076.04,
+      "speaker": "SPEAKER_03",
+      "text": "but it's not something that he would dinger for. Hey everyone, it's Kent and Givessey here,"
+    },
+    {
+      "start": 2076.04,
+      "end": 2079.96,
+      "speaker": "SPEAKER_01",
+      "text": "the founder of Rockablocks. Thank you so much for watching this mock interview video. I hope you"
+    },
+    {
+      "start": 2079.96,
+      "end": 2085.4,
+      "speaker": "SPEAKER_01",
+      "text": "found it informative and helpful as you are getting ready to prepare for your own interviews and"
+    },
+    {
+      "start": 2085.4,
+      "end": 2090.44,
+      "speaker": "SPEAKER_01",
+      "text": "hopefully landing that job offer you are excited about. We have a ton of great content on the"
+    },
+    {
+      "start": 2090.44,
+      "end": 2095.4,
+      "speaker": "SPEAKER_01",
+      "text": "Rockablocks channel coming out on a weekly basis, mock interviews, mini lessons and chats with"
+    },
+    {
+      "start": 2095.4,
+      "end": 2101.0,
+      "speaker": "SPEAKER_01",
+      "text": "our Rockablocks experts. So if you haven't subscribed yet already, please do so. There is a big red button"
+    },
+    {
+      "start": 2101.0,
+      "end": 2105.8,
+      "speaker": "SPEAKER_01",
+      "text": "below. And if you hit that, you'll get all of our content as soon as it comes up. Thanks for watching"
+    },
+    {
+      "start": 2105.8,
+      "end": 2107.0,
+      "speaker": "SPEAKER_01",
+      "text": "and have a great day."
+    }
+  ],
+  "grading": {
+    "communication": 16,
+    "framework": 15,
+    "math": 10,
+    "case_difficulty": 11,
+    "final_summary": 14,
+    "overall_thoughts": "You communicated well, but struggled with some math concepts."
+  }
+}

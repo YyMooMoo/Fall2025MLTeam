@@ -1,0 +1,1490 @@
+[
+  {
+    "start": 0.0,
+    "end": 8.4,
+    "speaker": "SPEAKER_01",
+    "text": "Hey everyone, welcome to a new exciting Rocketblocks mock interview."
+  },
+  {
+    "start": 8.4,
+    "end": 11.6,
+    "speaker": "SPEAKER_01",
+    "text": "Today we've got a brand new case titled A Sweet Opportunity."
+  },
+  {
+    "start": 11.6,
+    "end": 15.6,
+    "speaker": "SPEAKER_01",
+    "text": "We'll be exploring the world of a massive global beverage company."
+  },
+  {
+    "start": 15.6,
+    "end": 20.52,
+    "speaker": "SPEAKER_01",
+    "text": "This case is all about analyzing a Fortune 100 company's supply chain, distribution network"
+  },
+  {
+    "start": 20.52,
+    "end": 22.8,
+    "speaker": "SPEAKER_01",
+    "text": "and operational processes."
+  },
+  {
+    "start": 22.8,
+    "end": 26.64,
+    "speaker": "SPEAKER_01",
+    "text": "This one's great because it has a lot of fun, market sizing, brainstorming and chart"
+  },
+  {
+    "start": 26.64,
+    "end": 28.72,
+    "speaker": "SPEAKER_01",
+    "text": "work scattered throughout."
+  },
+  {
+    "start": 28.72,
+    "end": 33.28,
+    "speaker": "SPEAKER_01",
+    "text": "Joining us today is Matthew Calvert, who will be stepping into the role of the interviewer."
+  },
+  {
+    "start": 33.28,
+    "end": 37.84,
+    "speaker": "SPEAKER_01",
+    "text": "Matthew is the director of methane results at Cairo's aerospace and brings a wealth of"
+  },
+  {
+    "start": 37.84,
+    "end": 40.519999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "experience from his time at BCG."
+  },
+  {
+    "start": 40.519999999999996,
+    "end": 45.16,
+    "speaker": "SPEAKER_01",
+    "text": "Our brilliant candidate for today is Harshita Bidassaria, currently a consultant at"
+  },
+  {
+    "start": 45.16,
+    "end": 48.4,
+    "speaker": "SPEAKER_01",
+    "text": "L.E.K.N. or recent MBA graduate from Darden."
+  },
+  {
+    "start": 48.4,
+    "end": 50.76,
+    "speaker": "SPEAKER_01",
+    "text": "So without further ado, let's get started."
+  },
+  {
+    "start": 50.76,
+    "end": 53.120000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "Hi everyone, my name is Matthew Calvert."
+  },
+  {
+    "start": 53.12,
+    "end": 56.28,
+    "speaker": "SPEAKER_02",
+    "text": "I am a former consultant at BCG."
+  },
+  {
+    "start": 56.28,
+    "end": 63.0,
+    "speaker": "SPEAKER_02",
+    "text": "I'm currently the director of methane results at Cairo's aerospace, a climate sustainability"
+  },
+  {
+    "start": 63.0,
+    "end": 64.0,
+    "speaker": "SPEAKER_02",
+    "text": "technology startup."
+  },
+  {
+    "start": 64.0,
+    "end": 67.67999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "I'm here with Harshita today and we're going to be doing a case."
+  },
+  {
+    "start": 67.67999999999999,
+    "end": 69.8,
+    "speaker": "SPEAKER_02",
+    "text": "Harshita, would you like to introduce yourself?"
+  },
+  {
+    "start": 69.8,
+    "end": 71.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, thanks, Madi."
+  },
+  {
+    "start": 71.0,
+    "end": 72.56,
+    "speaker": "SPEAKER_00",
+    "text": "I am Harshita Bidassaria."
+  },
+  {
+    "start": 72.56,
+    "end": 79.84,
+    "speaker": "SPEAKER_00",
+    "text": "I was a consultant with Ivo before I went to business school at UVA and then joined L.E.K."
+  },
+  {
+    "start": 79.84,
+    "end": 81.24,
+    "speaker": "SPEAKER_00",
+    "text": "in the consultant practice."
+  },
+  {
+    "start": 81.24,
+    "end": 82.24,
+    "speaker": "SPEAKER_02",
+    "text": "Awesome."
+  },
+  {
+    "start": 82.24,
+    "end": 83.92,
+    "speaker": "SPEAKER_02",
+    "text": "Are you ready to start the case?"
+  },
+  {
+    "start": 83.92,
+    "end": 84.92,
+    "speaker": "SPEAKER_02",
+    "text": "Sure."
+  },
+  {
+    "start": 84.92,
+    "end": 85.91999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 85.91999999999999,
+    "end": 89.39999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So your client is a package beverage giant."
+  },
+  {
+    "start": 89.39999999999999,
+    "end": 94.6,
+    "speaker": "SPEAKER_02",
+    "text": "The backbone of their portfolio is a line of iconic carbonated soft drinks, but they also"
+  },
+  {
+    "start": 94.6,
+    "end": 98.19999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "produce a range of waters, teas and juices."
+  },
+  {
+    "start": 98.19999999999999,
+    "end": 102.32,
+    "speaker": "SPEAKER_02",
+    "text": "Despite the ongoing headwinds affecting the soft drink market, they remain one of the"
+  },
+  {
+    "start": 102.32,
+    "end": 106.67999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "largest companies in the world with a Fortune 100 ranking."
+  },
+  {
+    "start": 106.67999999999999,
+    "end": 110.47999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Your firm has been brought in to investigate the company's supply chain."
+  },
+  {
+    "start": 110.48,
+    "end": 115.68,
+    "speaker": "SPEAKER_02",
+    "text": "Your distribution network is global with sales split almost evenly across North America,"
+  },
+  {
+    "start": 115.68,
+    "end": 119.16,
+    "speaker": "SPEAKER_02",
+    "text": "Latin America, EMEA and Asia Pacific."
+  },
+  {
+    "start": 119.16,
+    "end": 124.48,
+    "speaker": "SPEAKER_02",
+    "text": "The company is a major global buyer of agricultural products and chemical ingredients and sells"
+  },
+  {
+    "start": 124.48,
+    "end": 129.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "its products to more than 20 million retail customers who in turn resell these products"
+  },
+  {
+    "start": 129.92000000000002,
+    "end": 134.52,
+    "speaker": "SPEAKER_02",
+    "text": "to more than a billion consumers in 150 countries worldwide."
+  },
+  {
+    "start": 134.52,
+    "end": 139.64000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "The company's operations are complex with nearly 4,000 products and 1,000 manufacturing"
+  },
+  {
+    "start": 139.64,
+    "end": 145.39999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "facilities around the world."
+  },
+  {
+    "start": 145.39999999999998,
+    "end": 149.27999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "So the company's supply chain is not in crisis."
+  },
+  {
+    "start": 149.27999999999997,
+    "end": 154.0,
+    "speaker": "SPEAKER_02",
+    "text": "Certain components of the supply chain have seen cost inflation while others have experienced"
+  },
+  {
+    "start": 154.0,
+    "end": 159.32,
+    "speaker": "SPEAKER_02",
+    "text": "savings, but management is cautious about an uncertain outlook for consumer package"
+  },
+  {
+    "start": 159.32,
+    "end": 164.6,
+    "speaker": "SPEAKER_02",
+    "text": "goods, a traditional grocery channels falter and volume shifts to discount heavy online"
+  },
+  {
+    "start": 164.6,
+    "end": 166.07999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "retailers."
+  },
+  {
+    "start": 166.08,
+    "end": 170.44000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "The full engagement will span the supply chain and is scoped to last several months, but"
+  },
+  {
+    "start": 170.44000000000003,
+    "end": 176.08,
+    "speaker": "SPEAKER_02",
+    "text": "management is most optimistic about the opportunities and procurement, the purchasing of raw materials"
+  },
+  {
+    "start": 176.08,
+    "end": 177.32000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "and other inputs."
+  },
+  {
+    "start": 177.32000000000002,
+    "end": 179.68,
+    "speaker": "SPEAKER_02",
+    "text": "And so the engagement is starting there."
+  },
+  {
+    "start": 179.68,
+    "end": 184.52,
+    "speaker": "SPEAKER_02",
+    "text": "For this phase one, your scope is limited to developing a cost cutting strategy driven"
+  },
+  {
+    "start": 184.52,
+    "end": 185.8,
+    "speaker": "SPEAKER_02",
+    "text": "by procurement."
+  },
+  {
+    "start": 185.8,
+    "end": 187.52,
+    "speaker": "SPEAKER_02",
+    "text": "What is your approach here?"
+  },
+  {
+    "start": 187.52,
+    "end": 193.16000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, it's interesting as somebody who only drinks still water of talking and thinking"
+  },
+  {
+    "start": 193.16,
+    "end": 197.2,
+    "speaker": "SPEAKER_00",
+    "text": "about package beverage industry in the US, which is so huge is always an interesting"
+  },
+  {
+    "start": 197.2,
+    "end": 198.2,
+    "speaker": "SPEAKER_00",
+    "text": "problem."
+  },
+  {
+    "start": 198.2,
+    "end": 202.48,
+    "speaker": "SPEAKER_00",
+    "text": "Just so have the prompt right, we're looking at this package beverage giant with huge"
+  },
+  {
+    "start": 202.48,
+    "end": 204.12,
+    "speaker": "SPEAKER_00",
+    "text": "presence across countries."
+  },
+  {
+    "start": 204.12,
+    "end": 208.6,
+    "speaker": "SPEAKER_00",
+    "text": "And we're thinking about the entire supply chain, which really starting at the procurement"
+  },
+  {
+    "start": 208.6,
+    "end": 215.8,
+    "speaker": "SPEAKER_00",
+    "text": "stage here and also more category, looking at cost cutting opportunities."
+  },
+  {
+    "start": 215.8,
+    "end": 221.28,
+    "speaker": "SPEAKER_00",
+    "text": "If that, yeah, I think that's about the problem that I got and I think taking a minute to"
+  },
+  {
+    "start": 221.28,
+    "end": 224.52,
+    "speaker": "SPEAKER_00",
+    "text": "think about structuring, if that's fine."
+  },
+  {
+    "start": 224.52,
+    "end": 225.52,
+    "speaker": "SPEAKER_02",
+    "text": "Absolutely."
+  },
+  {
+    "start": 225.52,
+    "end": 229.12,
+    "speaker": "SPEAKER_02",
+    "text": "And you're spot on it with what we're looking at here."
+  },
+  {
+    "start": 229.12,
+    "end": 230.12,
+    "speaker": "SPEAKER_00",
+    "text": "All right."
+  },
+  {
+    "start": 230.12,
+    "end": 231.12,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you."
+  },
+  {
+    "start": 231.12,
+    "end": 234.62,
+    "speaker": "SPEAKER_00",
+    "text": "All right."
+  },
+  {
+    "start": 234.62,
+    "end": 240.16,
+    "speaker": "SPEAKER_00",
+    "text": "So I think to begin with, I would think we'd want to start where we probably will see the"
+  },
+  {
+    "start": 240.16,
+    "end": 247.32,
+    "speaker": "SPEAKER_00",
+    "text": "most meaningful savings and something that's easy as to implement or most feasible to implement."
+  },
+  {
+    "start": 247.32,
+    "end": 251.95999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "So starting with assessing the current cost structure of the company and going from"
+  },
+  {
+    "start": 251.95999999999998,
+    "end": 257.64,
+    "speaker": "SPEAKER_00",
+    "text": "there to identify what we could do to potentially reduce those costs and then going from there"
+  },
+  {
+    "start": 257.64,
+    "end": 263.12,
+    "speaker": "SPEAKER_00",
+    "text": "to see what our preference and prioritize, prioritization might be like."
+  },
+  {
+    "start": 263.12,
+    "end": 264.12,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 264.12,
+    "end": 268.6,
+    "speaker": "SPEAKER_00",
+    "text": "So going into the first category of assessing and classifying the current costs to the"
+  },
+  {
+    "start": 268.6,
+    "end": 272.88,
+    "speaker": "SPEAKER_00",
+    "text": "company and really looking at the total procurement costs and by forgetting that we"
+  },
+  {
+    "start": 272.88,
+    "end": 275.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "direct and indirect."
+  },
+  {
+    "start": 275.15999999999997,
+    "end": 279.0,
+    "speaker": "SPEAKER_00",
+    "text": "Indirect I'm thinking about all the raw materials that they procure to make these beverages and"
+  },
+  {
+    "start": 279.0,
+    "end": 282.04,
+    "speaker": "SPEAKER_00",
+    "text": "also any packaging costs."
+  },
+  {
+    "start": 282.04,
+    "end": 287.0,
+    "speaker": "SPEAKER_00",
+    "text": "And how is that split between vendors is that a house outsourced, what they're buying"
+  },
+  {
+    "start": 287.0,
+    "end": 291.88,
+    "speaker": "SPEAKER_00",
+    "text": "from and looking at those costs and respected it all costs to see there's any potential saving"
+  },
+  {
+    "start": 291.88,
+    "end": 296.68,
+    "speaker": "SPEAKER_00",
+    "text": "opportunities there and then move into the indirect costs."
+  },
+  {
+    "start": 296.68,
+    "end": 299.68,
+    "speaker": "SPEAKER_00",
+    "text": "Splitting that cost between the different categories."
+  },
+  {
+    "start": 299.68,
+    "end": 306.6,
+    "speaker": "SPEAKER_00",
+    "text": "I'm thinking maintenance equipment cost personnel cost and also managing facility."
+  },
+  {
+    "start": 306.6,
+    "end": 311.0,
+    "speaker": "SPEAKER_00",
+    "text": "Those might be the biggest indirect cost and again, house that's spent, those that pay"
+  },
+  {
+    "start": 311.0,
+    "end": 316.96000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "to looking at those categorizations might be helpful to see to further assess where we"
+  },
+  {
+    "start": 316.96000000000004,
+    "end": 319.4,
+    "speaker": "SPEAKER_00",
+    "text": "might be able to identify our opportunities."
+  },
+  {
+    "start": 319.4,
+    "end": 326.2,
+    "speaker": "SPEAKER_00",
+    "text": "So moving into identifying opportunities, we'd like to evaluate what cost reduction opportunities"
+  },
+  {
+    "start": 326.2,
+    "end": 330.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "or tactics we might be able to use."
+  },
+  {
+    "start": 330.15999999999997,
+    "end": 335.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe some sort of supply supply side consolidation or maybe looking at finding better vendors"
+  },
+  {
+    "start": 335.59999999999997,
+    "end": 340.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "might be a possibility and then really sizing those opportunities to see where we might"
+  },
+  {
+    "start": 340.15999999999997,
+    "end": 341.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "be."
+  },
+  {
+    "start": 341.15999999999997,
+    "end": 347.76,
+    "speaker": "SPEAKER_00",
+    "text": "Best position to begin and then moving from there to prioritization like I said in my hypothesis"
+  },
+  {
+    "start": 347.76,
+    "end": 353.08,
+    "speaker": "SPEAKER_00",
+    "text": "looking at the biggest savings and what might be the best for us to start with and that's"
+  },
+  {
+    "start": 353.08,
+    "end": 358.4,
+    "speaker": "SPEAKER_00",
+    "text": "where we'd like to kick off because again, this is going to be a bigger project and looking"
+  },
+  {
+    "start": 358.4,
+    "end": 366.68,
+    "speaker": "SPEAKER_00",
+    "text": "at biggest savings or really on my D something that helped us push for."
+  },
+  {
+    "start": 366.68,
+    "end": 371.28,
+    "speaker": "SPEAKER_00",
+    "text": "So I mean, that to me sounds like where I'd like to take it and I think really starting"
+  },
+  {
+    "start": 371.28,
+    "end": 376.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "with assessing the overall costs and seeing that split between direct and indirect costs"
+  },
+  {
+    "start": 376.47999999999996,
+    "end": 380.24,
+    "speaker": "SPEAKER_00",
+    "text": "would be interesting if we have information there."
+  },
+  {
+    "start": 380.24,
+    "end": 381.24,
+    "speaker": "SPEAKER_00",
+    "text": "Great."
+  },
+  {
+    "start": 381.24,
+    "end": 392.32,
+    "speaker": "SPEAKER_02",
+    "text": "So procurement specialist generally split costs into direct and indirect spend."
+  },
+  {
+    "start": 392.32,
+    "end": 396.44,
+    "speaker": "SPEAKER_02",
+    "text": "Direct spend is money spent on what later becomes cogs while indirect spend is money spent"
+  },
+  {
+    "start": 396.44,
+    "end": 399.40000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "on any other goods or services that are purchased."
+  },
+  {
+    "start": 399.40000000000003,
+    "end": 404.96000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "The clients direct spend totals 12 billion per year and two thirds of that is on ingredients"
+  },
+  {
+    "start": 404.96000000000004,
+    "end": 407.8,
+    "speaker": "SPEAKER_02",
+    "text": "with the balance spent on packaging."
+  },
+  {
+    "start": 407.8,
+    "end": 412.6,
+    "speaker": "SPEAKER_02",
+    "text": "The company manufactures concentrate spaces and serves in house, which are later combined"
+  },
+  {
+    "start": 412.6,
+    "end": 417.72,
+    "speaker": "SPEAKER_02",
+    "text": "into finished beverages and are packaged and merchandise with their party bottling partners."
+  },
+  {
+    "start": 417.72,
+    "end": 421.40000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "Your manager has tasked you to investigate the direct spend bucket."
+  },
+  {
+    "start": 421.40000000000003,
+    "end": 427.0,
+    "speaker": "SPEAKER_02",
+    "text": "Your early analysis yields the charts below, which shows the company's ingredient spend"
+  },
+  {
+    "start": 427.0,
+    "end": 429.76,
+    "speaker": "SPEAKER_02",
+    "text": "spread by supplier and category."
+  },
+  {
+    "start": 429.76,
+    "end": 435.2,
+    "speaker": "SPEAKER_02",
+    "text": "What cost reduction opportunities might exist based on the distribution of spend here?"
+  },
+  {
+    "start": 435.2,
+    "end": 436.72,
+    "speaker": "SPEAKER_00",
+    "text": "Interesting."
+  },
+  {
+    "start": 436.72,
+    "end": 442.68,
+    "speaker": "SPEAKER_00",
+    "text": "So we have a chart here that has the overall ingredients spent split by the category and"
+  },
+  {
+    "start": 442.68,
+    "end": 445.24,
+    "speaker": "SPEAKER_00",
+    "text": "by supplier."
+  },
+  {
+    "start": 445.24,
+    "end": 450.8,
+    "speaker": "SPEAKER_00",
+    "text": "And I'm thinking bigger, the shaded area, bigger the cost to the company."
+  },
+  {
+    "start": 450.8,
+    "end": 457.12,
+    "speaker": "SPEAKER_00",
+    "text": "So really looking at corn syrup and artificial sweetener looks like these are the two like"
+  },
+  {
+    "start": 457.12,
+    "end": 458.92,
+    "speaker": "SPEAKER_00",
+    "text": "biggest cost buckets."
+  },
+  {
+    "start": 458.92,
+    "end": 464.88000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "But also it's interesting that it's spread between these like many vendors, which again can"
+  },
+  {
+    "start": 464.88,
+    "end": 470.8,
+    "speaker": "SPEAKER_00",
+    "text": "be for multiple reasons, maybe these vendors just don't have enough supply possible."
+  },
+  {
+    "start": 470.8,
+    "end": 476.32,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe we want to keep our bargaining power and not consolidate a whole lot or maybe we're"
+  },
+  {
+    "start": 476.32,
+    "end": 477.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "just not doing it efficiently."
+  },
+  {
+    "start": 477.71999999999997,
+    "end": 483.48,
+    "speaker": "SPEAKER_00",
+    "text": "So it might be interesting to see if there's a possibility to shift to volumes to get like"
+  },
+  {
+    "start": 483.48,
+    "end": 488.64,
+    "speaker": "SPEAKER_00",
+    "text": "better bulk discounts, especially starting at the corn syrup stage, which I feel like"
+  },
+  {
+    "start": 488.64,
+    "end": 492.76,
+    "speaker": "SPEAKER_00",
+    "text": "is the biggest cost."
+  },
+  {
+    "start": 492.76,
+    "end": 498.12,
+    "speaker": "SPEAKER_00",
+    "text": "So other ingredients and other suppliers is an interesting space that would be interesting"
+  },
+  {
+    "start": 498.12,
+    "end": 500.36,
+    "speaker": "SPEAKER_00",
+    "text": "to dig further into how these suppliers those are."
+  },
+  {
+    "start": 500.36,
+    "end": 505.12,
+    "speaker": "SPEAKER_00",
+    "text": "And because we're procuring all of these from our bigger suppliers also, is there a way"
+  },
+  {
+    "start": 505.12,
+    "end": 511.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "for us to shift from these multiple suppliers to our current bigger suppliers and just get"
+  },
+  {
+    "start": 511.59999999999997,
+    "end": 515.96,
+    "speaker": "SPEAKER_00",
+    "text": "a little bit more from maybe a better pricing."
+  },
+  {
+    "start": 515.96,
+    "end": 522.36,
+    "speaker": "SPEAKER_00",
+    "text": "But maybe beginning at looking at consolidating opportunities for corn syrup and artificial"
+  },
+  {
+    "start": 522.36,
+    "end": 528.96,
+    "speaker": "SPEAKER_00",
+    "text": "sweetener is I think what I'd like to put my effort into."
+  },
+  {
+    "start": 528.96,
+    "end": 529.96,
+    "speaker": "SPEAKER_02",
+    "text": "That's great."
+  },
+  {
+    "start": 529.96,
+    "end": 532.64,
+    "speaker": "SPEAKER_02",
+    "text": "We have some information there."
+  },
+  {
+    "start": 532.64,
+    "end": 535.1600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So here we have some information."
+  },
+  {
+    "start": 535.1600000000001,
+    "end": 540.0400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "The company spends two billion per year on high fruit discount syrup at a blended average"
+  },
+  {
+    "start": 540.0400000000001,
+    "end": 544.52,
+    "speaker": "SPEAKER_02",
+    "text": "cost of $5 per gallon across all suppliers."
+  },
+  {
+    "start": 544.52,
+    "end": 548.84,
+    "speaker": "SPEAKER_02",
+    "text": "The starting unit price per gallon and the contracted volume discounts for suppliers"
+  },
+  {
+    "start": 548.84,
+    "end": 555.12,
+    "speaker": "SPEAKER_02",
+    "text": "a through C are shown below the way to read this table is that for supplier a the first"
+  },
+  {
+    "start": 555.12,
+    "end": 559.84,
+    "speaker": "SPEAKER_02",
+    "text": "100 million gallons of corn syrup are charged at $5 a gallon."
+  },
+  {
+    "start": 559.84,
+    "end": 566.28,
+    "speaker": "SPEAKER_02",
+    "text": "The gallons over 100 million but under 300 are charged at $450 and the gallons over 300"
+  },
+  {
+    "start": 566.28,
+    "end": 570.12,
+    "speaker": "SPEAKER_02",
+    "text": "million are charged at $4.40 per gallon."
+  },
+  {
+    "start": 570.12,
+    "end": 574.16,
+    "speaker": "SPEAKER_02",
+    "text": "As part of your investigation into direct spend, you decide to double click on the corn"
+  },
+  {
+    "start": 574.16,
+    "end": 576.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "syrup consolidation opportunity."
+  },
+  {
+    "start": 576.3199999999999,
+    "end": 580.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "If the company were able to consolidate its entire spend to one of these three suppliers,"
+  },
+  {
+    "start": 580.8399999999999,
+    "end": 585.12,
+    "speaker": "SPEAKER_02",
+    "text": "what is the size of the maximum savings the client could achieve?"
+  },
+  {
+    "start": 585.12,
+    "end": 591.1999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Looking at this, it looks like we're spending two billion per year on a $5 per gallon cost"
+  },
+  {
+    "start": 591.1999999999999,
+    "end": 597.88,
+    "speaker": "SPEAKER_00",
+    "text": "and helping get the total quantity that we're buying across the vendors."
+  },
+  {
+    "start": 597.88,
+    "end": 604.2,
+    "speaker": "SPEAKER_00",
+    "text": "And then this chart which has different scales will help me figure which is the cheapest"
+  },
+  {
+    "start": 604.2,
+    "end": 605.2,
+    "speaker": "SPEAKER_00",
+    "text": "supplier."
+  },
+  {
+    "start": 605.2,
+    "end": 609.04,
+    "speaker": "SPEAKER_00",
+    "text": "I'm thinking move into the cheapest supplier is the best opportunity here."
+  },
+  {
+    "start": 609.04,
+    "end": 615.96,
+    "speaker": "SPEAKER_00",
+    "text": "So starting with B and C, just rolling out what's more expensive between those two, they're"
+  },
+  {
+    "start": 615.96,
+    "end": 618.92,
+    "speaker": "SPEAKER_00",
+    "text": "both at the same starting point."
+  },
+  {
+    "start": 618.92,
+    "end": 624.2,
+    "speaker": "SPEAKER_00",
+    "text": "But for a 200 range supplier B is cheaper by 25 cents."
+  },
+  {
+    "start": 624.2,
+    "end": 633.6,
+    "speaker": "SPEAKER_00",
+    "text": "And for over 300 range, it's more expensive and two billion just calculating the quantity"
+  },
+  {
+    "start": 633.6,
+    "end": 634.6,
+    "speaker": "SPEAKER_00",
+    "text": "that we're buying."
+  },
+  {
+    "start": 634.6,
+    "end": 645.4000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So we're going back to that two billion divided by $5 per gallon that be 400 million gallons"
+  },
+  {
+    "start": 645.4000000000001,
+    "end": 647.24,
+    "speaker": "SPEAKER_00",
+    "text": "that we're buying."
+  },
+  {
+    "start": 647.24,
+    "end": 650.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So really crossing the pricing scale completely."
+  },
+  {
+    "start": 651.1999999999999,
+    "end": 659.92,
+    "speaker": "SPEAKER_00",
+    "text": "So coming back to B and C, the same starting point, but in the 200 million range B is cheaper"
+  },
+  {
+    "start": 659.92,
+    "end": 665.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "and in the 100 million range which is over 300, B is a little bit more expensive."
+  },
+  {
+    "start": 665.0799999999999,
+    "end": 667.16,
+    "speaker": "SPEAKER_00",
+    "text": "It's the same 25 cents more expensive."
+  },
+  {
+    "start": 667.16,
+    "end": 673.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So clearly B is cheaper between B and C and then comparing that with A."
+  },
+  {
+    "start": 673.4799999999999,
+    "end": 674.4799999999999,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 675.48,
+    "end": 676.48,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 680.48,
+    "end": 685.64,
+    "speaker": "SPEAKER_00",
+    "text": "All right, similarly it looks like is cheaper between A and B, but I can just quickly go"
+  },
+  {
+    "start": 685.64,
+    "end": 695.48,
+    "speaker": "SPEAKER_00",
+    "text": "and calculate the total amount which would be $5 for A. $5 times 100."
+  },
+  {
+    "start": 695.48,
+    "end": 703.48,
+    "speaker": "SPEAKER_00",
+    "text": "Add to that 4.5 times 200 and then 4.4 times 100."
+  },
+  {
+    "start": 703.48,
+    "end": 725.48,
+    "speaker": "SPEAKER_00",
+    "text": "So 1840 is what we be spending with supplier A. And similarly for supplier B, be 5.1 times 100"
+  },
+  {
+    "start": 725.48,
+    "end": 731.48,
+    "speaker": "SPEAKER_00",
+    "text": "plus 4.75 times 200 plus 4.25 times 100."
+  },
+  {
+    "start": 732.48,
+    "end": 742.48,
+    "speaker": "SPEAKER_00",
+    "text": "And that would be 1,885."
+  },
+  {
+    "start": 742.48,
+    "end": 745.48,
+    "speaker": "SPEAKER_00",
+    "text": "So looks like supplier A is cheapest."
+  },
+  {
+    "start": 748.48,
+    "end": 756.48,
+    "speaker": "SPEAKER_00",
+    "text": "And if we were to move all our supplies, we'd spend 160 million lower than what we're spending right now."
+  },
+  {
+    "start": 756.48,
+    "end": 768.48,
+    "speaker": "SPEAKER_00",
+    "text": "So that's 160 million savings right from just consolidating three suppliers worth of units and only for one ingredient"
+  },
+  {
+    "start": 768.48,
+    "end": 782.48,
+    "speaker": "SPEAKER_00",
+    "text": "which looks like a pretty sizable amount for I'm thinking also for a pretty feasible option where given that they have the quantities possible to be supplied."
+  },
+  {
+    "start": 782.48,
+    "end": 784.48,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, absolutely."
+  },
+  {
+    "start": 785.48,
+    "end": 795.48,
+    "speaker": "SPEAKER_02",
+    "text": "So moving on here, although the majority of direct spend is on ingredients, about 4 billion is spent on packaging products such as bottles, cans and labels."
+  },
+  {
+    "start": 795.48,
+    "end": 801.48,
+    "speaker": "SPEAKER_02",
+    "text": "Your manager feels this number is too big to be ignored and wants you to explore packaging costs reduction opportunities."
+  },
+  {
+    "start": 801.48,
+    "end": 806.48,
+    "speaker": "SPEAKER_02",
+    "text": "The company's distribution of spend across suppliers is already optimized."
+  },
+  {
+    "start": 806.48,
+    "end": 810.48,
+    "speaker": "SPEAKER_02",
+    "text": "What are some potential ideas for sourcing cheaper packaging?"
+  },
+  {
+    "start": 811.48,
+    "end": 813.48,
+    "speaker": "SPEAKER_00",
+    "text": "All right, yeah."
+  },
+  {
+    "start": 813.48,
+    "end": 818.48,
+    "speaker": "SPEAKER_00",
+    "text": "So it looks like one thought of the direct cost is in the packaging."
+  },
+  {
+    "start": 818.48,
+    "end": 834.48,
+    "speaker": "SPEAKER_00",
+    "text": "And the first thing that comes to mind is maybe changing the packaging material and maybe there are like alternatives to their either glass bowls that can be replaced with something that's cheaper material, but I also understand this is a big consumer product that sells."
+  },
+  {
+    "start": 835.48,
+    "end": 843.48,
+    "speaker": "SPEAKER_00",
+    "text": "By the way, it looks to a consumer and that might not be the like the first option that we might want to look at."
+  },
+  {
+    "start": 843.48,
+    "end": 850.48,
+    "speaker": "SPEAKER_00",
+    "text": "So if you want to keep the packaging the same, I'm thinking about how can we reduce costs."
+  },
+  {
+    "start": 850.48,
+    "end": 863.48,
+    "speaker": "SPEAKER_00",
+    "text": "So maybe looking at better vendor opportunities, I know across the current supply of you've optimized everything, but maybe looking at procuring from cheaper vendors or vendors who might be new to this space and might be willing to discount."
+  },
+  {
+    "start": 864.48,
+    "end": 877.48,
+    "speaker": "SPEAKER_00",
+    "text": "But then how do that how does a balance with QC or maybe procuring for from cheaper countries geographically in proximity to where we are producing."
+  },
+  {
+    "start": 879.48,
+    "end": 887.48,
+    "speaker": "SPEAKER_00",
+    "text": "And obviously that will entail some logistics costs. So kind of taking all of that into consideration, seeing if it's a cheaper alternative really."
+  },
+  {
+    "start": 888.48,
+    "end": 900.48,
+    "speaker": "SPEAKER_00",
+    "text": "Also thinking how are they moving the packaging right now, is it completely outsourced in the way that they just give their raw materials and then the company also like."
+  },
+  {
+    "start": 900.48,
+    "end": 916.48,
+    "speaker": "SPEAKER_00",
+    "text": "Develops its own packaging and takes a bigger margin cut on what they charge versus can we do that designing and packaging in house and just have like a contracting service where we can pay lower amounts."
+  },
+  {
+    "start": 916.48,
+    "end": 934.48,
+    "speaker": "SPEAKER_00",
+    "text": "Or just really moving everything in house might be a good opportunity again that wouldn't have heavy capital outflow and potentially losing focus on some parts of the business that's I would think."
+  },
+  {
+    "start": 936.48,
+    "end": 943.48,
+    "speaker": "SPEAKER_00",
+    "text": "That might be a second chain of thought after we've considered all the other opportunities."
+  },
+  {
+    "start": 944.48,
+    "end": 951.48,
+    "speaker": "SPEAKER_02",
+    "text": "Great great ideas. Anything you want to add there you ready to move on."
+  },
+  {
+    "start": 951.48,
+    "end": 963.48,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, I think maybe for packaging it'd be most interesting to see if we could we could look at other vendor opportunities just in the same region that to me sounds like the most feasible."
+  },
+  {
+    "start": 963.48,
+    "end": 965.48,
+    "speaker": "SPEAKER_00",
+    "text": "First step."
+  },
+  {
+    "start": 965.48,
+    "end": 972.48,
+    "speaker": "SPEAKER_02",
+    "text": "Well, I want to move us on. I'm going to share another chart with you."
+  },
+  {
+    "start": 972.48,
+    "end": 985.48,
+    "speaker": "SPEAKER_02",
+    "text": "So while you've been leading the charge on direct costs. A colleague has been working on indirect spend. Her data shows that indirect spend is more of a grab value of categories, including it equipment maintenance services accounting."
+  },
+  {
+    "start": 985.48,
+    "end": 991.48,
+    "speaker": "SPEAKER_02",
+    "text": "The total dollars at play and indirect spend are also considerably lower and approximately 10% of direct spend."
+  },
+  {
+    "start": 991.48,
+    "end": 995.48,
+    "speaker": "SPEAKER_02",
+    "text": "He brings the chart into an internal team meeting to discuss."
+  },
+  {
+    "start": 995.48,
+    "end": 1003.48,
+    "speaker": "SPEAKER_02",
+    "text": "MRO refers to maintenance and repair FM and R.E. Referred to Fisselds management and other real estate functions."
+  },
+  {
+    "start": 1003.48,
+    "end": 1011.48,
+    "speaker": "SPEAKER_02",
+    "text": "First now, which refers to procured costs related to labor primarily benefits and not the wages expense itself."
+  },
+  {
+    "start": 1011.48,
+    "end": 1017.48,
+    "speaker": "SPEAKER_02",
+    "text": "What does this suggest about potential cost savings opportunities?"
+  },
+  {
+    "start": 1017.48,
+    "end": 1031.48,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, so this looks like we have a dollar spend percentage versus how many suppliers we're getting that service from percentage some thinking if we."
+  },
+  {
+    "start": 1031.48,
+    "end": 1044.48,
+    "speaker": "SPEAKER_00",
+    "text": "If you're spending small amounts of but but they're like multiple suppliers there is there a way that we can consolidate those suppliers versus if you're spending."
+  },
+  {
+    "start": 1044.48,
+    "end": 1052.48,
+    "speaker": "SPEAKER_00",
+    "text": "Bigger amounts with the smaller supplier base that might be some of we might not be able to have that much for leverage."
+  },
+  {
+    "start": 1052.48,
+    "end": 1073.48,
+    "speaker": "SPEAKER_00",
+    "text": "They might have some some more pricing power so starting with some that jump out I think MRO, which is the maintenance and repair section it looks like we're spending 13% of our tools pen for paying that to 18% of suppliers it's looking a little bit disproportionate there."
+  },
+  {
+    "start": 1073.48,
+    "end": 1082.48,
+    "speaker": "SPEAKER_00",
+    "text": "Also FMR which is facilities management and calling."
+  },
+  {
+    "start": 1082.48,
+    "end": 1089.48,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, no, coding equipment's fine. So yeah, I think MRO and FMR are the tools, paces that look like they're kind of disproportionate."
+  },
+  {
+    "start": 1089.48,
+    "end": 1093.48,
+    "speaker": "SPEAKER_00",
+    "text": "But again, I think MRO I feel like."
+  },
+  {
+    "start": 1093.48,
+    "end": 1107.48,
+    "speaker": "SPEAKER_00",
+    "text": "There's definitely going to be some repair maintenance contracts with these equipment companies, which is the ordering equipment, which might not be possible to move to somebody else they might."
+  },
+  {
+    "start": 1107.48,
+    "end": 1117.48,
+    "speaker": "SPEAKER_00",
+    "text": "They might have tie ends with these companies that they need to like order them for maintenance to maintain maybe warranty and being good standing with them."
+  },
+  {
+    "start": 1117.48,
+    "end": 1125.48,
+    "speaker": "SPEAKER_00",
+    "text": "And the coding equipment cost it again."
+  },
+  {
+    "start": 1125.48,
+    "end": 1130.48,
+    "speaker": "SPEAKER_00",
+    "text": "I was saying maybe we only have a few suppliers in the market to lies and providing these equipment."
+  },
+  {
+    "start": 1130.48,
+    "end": 1143.48,
+    "speaker": "SPEAKER_00",
+    "text": "So a few vendors and it's a substantial cost for us so that might not be a place where we might be able to save much again. I think we're going to facilitate the management."
+  },
+  {
+    "start": 1143.48,
+    "end": 1161.48,
+    "speaker": "SPEAKER_00",
+    "text": "And might be reasons why we're going to different vendors because they have different specialty, maybe security and then maybe somebody else who's doing another job, so it might again be I think difficult to kind of bring any sort of savings in consolidating there."
+  },
+  {
+    "start": 1161.48,
+    "end": 1171.48,
+    "speaker": "SPEAKER_00",
+    "text": "And again, this is 10% of our direct spend so it overall looks like it's a smaller chunk of our overall cost."
+  },
+  {
+    "start": 1171.48,
+    "end": 1178.48,
+    "speaker": "SPEAKER_00",
+    "text": "With not that many opportunities to to save on."
+  },
+  {
+    "start": 1178.48,
+    "end": 1187.48,
+    "speaker": "SPEAKER_00",
+    "text": "But yeah, if I had to like further dig into this, I think looking at the MRO and FM re sections would be where I'd begin."
+  },
+  {
+    "start": 1187.48,
+    "end": 1190.48,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, yeah, that makes a lot of sense."
+  },
+  {
+    "start": 1190.48,
+    "end": 1201.48,
+    "speaker": "SPEAKER_02",
+    "text": "Your manager wants to help the client to build guidelines for running more sophisticated request proposals RFPs in order to better manage indirect spend going forward."
+  },
+  {
+    "start": 1201.48,
+    "end": 1212.48,
+    "speaker": "SPEAKER_02",
+    "text": "And RFP is a structured process for soliciting bids on work that a company needs done or goods at the company needs source is one of the core tools of the procurement function."
+  },
+  {
+    "start": 1212.48,
+    "end": 1225.48,
+    "speaker": "SPEAKER_02",
+    "text": "The notion of the solicit responses from at least three different vendors on the proposal on the approach they would take and the price they would charge to provide the company would be applicable solution, the proposals."
+  },
+  {
+    "start": 1225.48,
+    "end": 1234.48,
+    "speaker": "SPEAKER_02",
+    "text": "This allows companies to vet the expertise and capabilities of vendors as well as to gain visibility into market pricing and gain leverage for negotiating on price."
+  },
+  {
+    "start": 1234.48,
+    "end": 1241.48,
+    "speaker": "SPEAKER_02",
+    "text": "Based on this information, what are some of the characteristics that are likely to be required for successful RFP."
+  },
+  {
+    "start": 1241.48,
+    "end": 1246.48,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1246.48,
+    "end": 1256.48,
+    "speaker": "SPEAKER_00",
+    "text": "Right, so I think the first thing that that I can think of is we're saying we want to look at three different vendors for a proposal."
+  },
+  {
+    "start": 1256.48,
+    "end": 1270.48,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe just like making sure that we have a large enough like samples that that we're collecting from, which is also diverse in the sense that we're getting windows that are maybe geographically different or just different sizing."
+  },
+  {
+    "start": 1270.48,
+    "end": 1275.48,
+    "speaker": "SPEAKER_00",
+    "text": "That past get like the best proposals in."
+  },
+  {
+    "start": 1275.48,
+    "end": 1293.48,
+    "speaker": "SPEAKER_00",
+    "text": "And the second is, but then being specific and what we're asking for and our proposal needs so that we get comparable proposals that we're able to pick from so again, not not making it that different that it's difficult to compare on to the other."
+  },
+  {
+    "start": 1293.48,
+    "end": 1313.48,
+    "speaker": "SPEAKER_00",
+    "text": "I think in maybe making sure that we're always seeking proposals from a legit source or somebody who's done that business before somebody that we have like a reference to just like some familiarity with their expertise might be helpful in making sure that we get valuable proposals."
+  },
+  {
+    "start": 1313.48,
+    "end": 1319.48,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, I think those would make for."
+  },
+  {
+    "start": 1319.48,
+    "end": 1322.48,
+    "speaker": "SPEAKER_00",
+    "text": "Like the solid."
+  },
+  {
+    "start": 1322.48,
+    "end": 1328.48,
+    "speaker": "SPEAKER_02",
+    "text": "Anything else, what do you think are like the most important, I guess, ones of those."
+  },
+  {
+    "start": 1328.48,
+    "end": 1344.48,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, I think also to add to that, maybe having like some sort of hard deadlines about both internally, where when we want to like get this done with because once these come in, we want to assess them and they go forward with one of these proposals."
+  },
+  {
+    "start": 1345.48,
+    "end": 1352.48,
+    "speaker": "SPEAKER_00",
+    "text": "But also with the vendors is really want them to just be in so we can just get started really quickly."
+  },
+  {
+    "start": 1352.48,
+    "end": 1357.48,
+    "speaker": "SPEAKER_00",
+    "text": "I know from my experience that these can take really long in sourcing and implementing."
+  },
+  {
+    "start": 1357.48,
+    "end": 1364.48,
+    "speaker": "SPEAKER_00",
+    "text": "So really making sure that we have some hard deadlines internally and with our vendors."
+  },
+  {
+    "start": 1364.48,
+    "end": 1366.48,
+    "speaker": "SPEAKER_02",
+    "text": "Got it."
+  },
+  {
+    "start": 1366.48,
+    "end": 1371.48,
+    "speaker": "SPEAKER_02",
+    "text": "Well, your manager has asked you to kick off the phase one read out with the client."
+  },
+  {
+    "start": 1371.48,
+    "end": 1384.48,
+    "speaker": "SPEAKER_02",
+    "text": "Each of your associate colleagues will lead one of the subsequent meetings as a supply chain procure project progresses throughout the remaining phases. What are your main takeaways here."
+  },
+  {
+    "start": 1384.48,
+    "end": 1386.48,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 1386.48,
+    "end": 1403.48,
+    "speaker": "SPEAKER_00",
+    "text": "Thanks for bringing us in. We've identified who are cost cutting opportunities that we would be able to reduce about once 60 million in costs just by consolidating our consera suppliers."
+  },
+  {
+    "start": 1403.48,
+    "end": 1412.48,
+    "speaker": "SPEAKER_00",
+    "text": "We also looked at some indirect costs in packaging, though we've not seen the same richness in in the cost cutting opportunities in those spaces."
+  },
+  {
+    "start": 1412.48,
+    "end": 1424.48,
+    "speaker": "SPEAKER_00",
+    "text": "So we'd really recommend for us to start with our consera vendor consolidation and move from there, though with that we realize that some suppliers might not have the."
+  },
+  {
+    "start": 1424.48,
+    "end": 1442.48,
+    "speaker": "SPEAKER_00",
+    "text": "We have the supply capabilities to consolidate so we'd love to work with your team to figure out which might be the most feasible consolidation and really coming in help with that and go from there to other costs saving opportunities that we might identify."
+  },
+  {
+    "start": 1442.48,
+    "end": 1443.48,
+    "speaker": "SPEAKER_02",
+    "text": "Great."
+  },
+  {
+    "start": 1443.48,
+    "end": 1447.48,
+    "speaker": "SPEAKER_02",
+    "text": "Well, Harsita, thank you so much for doing this. This was a really helpful case."
+  },
+  {
+    "start": 1447.48,
+    "end": 1461.48,
+    "speaker": "SPEAKER_03",
+    "text": "Hey, everyone. It's Kent and Giveshi here, the founder of Rockablocks. Thank you so much for watching this mock interview video. I hope you found it informative and helpful as you were getting ready to prepare for your own interviews and hopefully landing that job offer you are excited about."
+  },
+  {
+    "start": 1461.48,
+    "end": 1470.48,
+    "speaker": "SPEAKER_03",
+    "text": "We have a ton of great content on the Rockablocks channel coming out on a weekly basis mock interviews, many lessons and chats with our Rockablocks experts."
+  },
+  {
+    "start": 1470.48,
+    "end": 1478.48,
+    "speaker": "SPEAKER_03",
+    "text": "If you haven't subscribed yet already, please do so. There is a big red button below and if you hit that you'll get all of our content as soon as it comes up."
+  },
+  {
+    "start": 1478.48,
+    "end": 1480.48,
+    "speaker": "SPEAKER_03",
+    "text": "Thanks for watching and have a great day."
+  }
+]

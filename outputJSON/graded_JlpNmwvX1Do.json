@@ -1,0 +1,3228 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "speaker": "SPEAKER_00",
+      "text": "Today we're going to do a Baining Company Round 1 case."
+    },
+    {
+      "start": 3.08,
+      "end": 7.32,
+      "speaker": "SPEAKER_00",
+      "text": "For those of you who don't know me, my name is Matt and I'm a current second year associate at BCG,"
+    },
+    {
+      "start": 7.32,
+      "end": 9.08,
+      "speaker": "SPEAKER_00",
+      "text": "which is a management consulting firm."
+    },
+    {
+      "start": 9.08,
+      "end": 12.4,
+      "speaker": "SPEAKER_00",
+      "text": "I make these videos because I enjoy it, but also because I would wish that somebody would"
+    },
+    {
+      "start": 12.4,
+      "end": 14.0,
+      "speaker": "SPEAKER_00",
+      "text": "have made these for me when I was younger."
+    },
+    {
+      "start": 14.0,
+      "end": 19.2,
+      "speaker": "SPEAKER_00",
+      "text": "Today I'm going to be walking you through a Baining Company Round 1 case and showing you"
+    },
+    {
+      "start": 19.2,
+      "end": 23.88,
+      "speaker": "SPEAKER_00",
+      "text": "my thought process so that hopefully you can tackle this type of case on your own."
+    },
+    {
+      "start": 23.88,
+      "end": 28.96,
+      "speaker": "SPEAKER_00",
+      "text": "And one caveat I want to make before we get into this video is that for best results,"
+    },
+    {
+      "start": 28.96,
+      "end": 32.56,
+      "speaker": "SPEAKER_00",
+      "text": "you should attempt this case on your own before looking through my explanation,"
+    },
+    {
+      "start": 32.56,
+      "end": 37.32,
+      "speaker": "SPEAKER_00",
+      "text": "but if maybe it's your first time doing this or you're too intimidated to try it on your own,"
+    },
+    {
+      "start": 37.32,
+      "end": 39.52,
+      "speaker": "SPEAKER_00",
+      "text": "then just keep watching. Let's get into it."
+    },
+    {
+      "start": 39.52,
+      "end": 44.120000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "So the case that we're going to look at today is called National Logistics."
+    },
+    {
+      "start": 44.120000000000005,
+      "end": 49.24,
+      "speaker": "SPEAKER_00",
+      "text": "It's representative of a Bain Round 1 case and the prompt reads as follows."
+    },
+    {
+      "start": 49.24,
+      "end": 54.120000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "Your client is National Logistics, a large transportation and logistics company"
+    },
+    {
+      "start": 54.120000000000005,
+      "end": 56.72,
+      "speaker": "SPEAKER_00",
+      "text": "that delivers fright to all areas of North America."
+    },
+    {
+      "start": 57.199999999999996,
+      "end": 62.6,
+      "speaker": "SPEAKER_00",
+      "text": "Over the last five years, the company has experienced rising costs due to increases in wages"
+    },
+    {
+      "start": 62.6,
+      "end": 65.03999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "resulting from a shortage of truckers."
+    },
+    {
+      "start": 65.03999999999999,
+      "end": 68.36,
+      "speaker": "SPEAKER_00",
+      "text": "The client is now looking to reduce operational costs in the business."
+    },
+    {
+      "start": 68.36,
+      "end": 70.32,
+      "speaker": "SPEAKER_00",
+      "text": "How would you advise the client?"
+    },
+    {
+      "start": 70.32,
+      "end": 74.4,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so the first thing we want to do whenever we hear the prompt is we want to be taking"
+    },
+    {
+      "start": 74.4,
+      "end": 75.75999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "quick notes."
+    },
+    {
+      "start": 75.75999999999999,
+      "end": 80.8,
+      "speaker": "SPEAKER_00",
+      "text": "And after we take notes, we want to basically restate our understanding of the situation"
+    },
+    {
+      "start": 80.8,
+      "end": 84.16,
+      "speaker": "SPEAKER_00",
+      "text": "to the interviewer and also ask a few clarifying questions."
+    },
+    {
+      "start": 84.24,
+      "end": 87.67999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so I'm going to just take a few seconds now and take some quick notes."
+    },
+    {
+      "start": 89.52,
+      "end": 90.52,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 91.72,
+      "end": 97.6,
+      "speaker": "SPEAKER_00",
+      "text": "So our client is National Logistics."
+    },
+    {
+      "start": 103.92,
+      "end": 109.67999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "They basically deliver fright all over North America."
+    },
+    {
+      "start": 109.68,
+      "end": 128.64000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And over the last five years, costs have increased due to wages."
+    },
+    {
+      "start": 128.64000000000001,
+      "end": 134.32,
+      "speaker": "SPEAKER_00",
+      "text": "And so there's going to shortage of truckers."
+    },
+    {
+      "start": 134.56,
+      "end": 142.07999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So the question is how to reduce costs."
+    },
+    {
+      "start": 142.07999999999998,
+      "end": 144.07999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 144.07999999999998,
+      "end": 151.2,
+      "speaker": "SPEAKER_00",
+      "text": "And so after I take quick notes, the first thing you always want to do is you want to restate"
+    },
+    {
+      "start": 151.2,
+      "end": 154.88,
+      "speaker": "SPEAKER_00",
+      "text": "to the interviewer your understanding of the situation and also to make sure that you"
+    },
+    {
+      "start": 154.88,
+      "end": 156.95999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "haven't missed out on any crucial details."
+    },
+    {
+      "start": 156.95999999999998,
+      "end": 160.28,
+      "speaker": "SPEAKER_00",
+      "text": "And so the way I would go about this is I would say, okay, great."
+    },
+    {
+      "start": 160.28,
+      "end": 162.68,
+      "speaker": "SPEAKER_00",
+      "text": "So it sounds like our client is National Logistics."
+    },
+    {
+      "start": 162.68,
+      "end": 166.76,
+      "speaker": "SPEAKER_00",
+      "text": "They're a fright and shipping company based primarily in North America."
+    },
+    {
+      "start": 166.76,
+      "end": 170.84,
+      "speaker": "SPEAKER_00",
+      "text": "And so the problem that they're facing over the last five years is that due to a shortage"
+    },
+    {
+      "start": 170.84,
+      "end": 175.32,
+      "speaker": "SPEAKER_00",
+      "text": "of truckers in the overall transportation and fright industry, their wages have had"
+    },
+    {
+      "start": 175.32,
+      "end": 178.76,
+      "speaker": "SPEAKER_00",
+      "text": "to increase to attract sufficient number of drivers."
+    },
+    {
+      "start": 178.76,
+      "end": 184.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so they're asking us today, how can we reduce our operational costs to the business,"
+    },
+    {
+      "start": 184.0,
+      "end": 187.8,
+      "speaker": "SPEAKER_00",
+      "text": "which would thereby increase profitability?"
+    },
+    {
+      "start": 187.8,
+      "end": 191.08,
+      "speaker": "SPEAKER_00",
+      "text": "And so the next thing you want to do is you want to have a few key questions prepared."
+    },
+    {
+      "start": 191.08,
+      "end": 195.16000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "And as I mentioned earlier, it's really important to ask these questions for a couple of"
+    },
+    {
+      "start": 195.16000000000003,
+      "end": 198.44,
+      "speaker": "SPEAKER_00",
+      "text": "reasons, but mainly because you also want to demonstrate to the interviewer that you"
+    },
+    {
+      "start": 198.44,
+      "end": 202.36,
+      "speaker": "SPEAKER_00",
+      "text": "are paying attention and that you're thinking thoughtfully about the question."
+    },
+    {
+      "start": 202.36,
+      "end": 207.12,
+      "speaker": "SPEAKER_00",
+      "text": "So even if you maybe don't have any pressing or burning questions, you should try to come"
+    },
+    {
+      "start": 207.12,
+      "end": 211.32000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "up with at least one or two questions to clarify the situation."
+    },
+    {
+      "start": 211.32000000000002,
+      "end": 216.32000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "So a few clarifying questions that I can think of of the top my head, for example, is,"
+    },
+    {
+      "start": 216.32,
+      "end": 227.95999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "geographically, are we limited to North America?"
+    },
+    {
+      "start": 227.95999999999998,
+      "end": 235.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Or is there any plans for potentially international expansion?"
+    },
+    {
+      "start": 235.79999999999998,
+      "end": 240.6,
+      "speaker": "SPEAKER_00",
+      "text": "And then the interviewer might say, no, we're primarily a North America based company."
+    },
+    {
+      "start": 240.6,
+      "end": 242.07999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "We want to stay in the same geography."
+    },
+    {
+      "start": 242.07999999999998,
+      "end": 244.04,
+      "speaker": "SPEAKER_00",
+      "text": "There's no plans to go abroad."
+    },
+    {
+      "start": 244.04,
+      "end": 259.08,
+      "speaker": "SPEAKER_00",
+      "text": "Now you could also ask, have they tried anything already to lower costs?"
+    },
+    {
+      "start": 259.08,
+      "end": 262.8,
+      "speaker": "SPEAKER_00",
+      "text": "Because this is going to help us understand has the company even tried anything before"
+    },
+    {
+      "start": 262.8,
+      "end": 265.88,
+      "speaker": "SPEAKER_00",
+      "text": "and how they're currently thinking about the problem, because maybe management has been"
+    },
+    {
+      "start": 265.88,
+      "end": 267.24,
+      "speaker": "SPEAKER_00",
+      "text": "thinking about this a lot."
+    },
+    {
+      "start": 267.24,
+      "end": 270.48,
+      "speaker": "SPEAKER_00",
+      "text": "And maybe they have tried a few things but have been unsuccessful, which is why they brought"
+    },
+    {
+      "start": 270.48,
+      "end": 271.48,
+      "speaker": "SPEAKER_00",
+      "text": "us on."
+    },
+    {
+      "start": 271.48,
+      "end": 275.36,
+      "speaker": "SPEAKER_00",
+      "text": "Or they maybe have not tried anything and they just want us to help them brainstorm"
+    },
+    {
+      "start": 275.36,
+      "end": 277.92,
+      "speaker": "SPEAKER_00",
+      "text": "a few directions that they could take."
+    },
+    {
+      "start": 277.92,
+      "end": 282.0,
+      "speaker": "SPEAKER_00",
+      "text": "So another question, as I said, we could ask is, have they tried anything already?"
+    },
+    {
+      "start": 282.0,
+      "end": 286.44,
+      "speaker": "SPEAKER_00",
+      "text": "And the interviewer might say, no, they haven't tried anything yet."
+    },
+    {
+      "start": 286.44,
+      "end": 290.56,
+      "speaker": "SPEAKER_00",
+      "text": "Management has only recently come to realize that costs were increasing so dramatically"
+    },
+    {
+      "start": 290.56,
+      "end": 294.16,
+      "speaker": "SPEAKER_00",
+      "text": "over the last five years and therefore they want us to think about as many options as"
+    },
+    {
+      "start": 294.16,
+      "end": 296.72,
+      "speaker": "SPEAKER_00",
+      "text": "possible to lower operational costs."
+    },
+    {
+      "start": 296.72,
+      "end": 300.72,
+      "speaker": "SPEAKER_00",
+      "text": "And I guess just to be holistic, we can try to think of a third clarifying question here."
+    },
+    {
+      "start": 300.72,
+      "end": 308.04,
+      "speaker": "SPEAKER_00",
+      "text": "And so we could ask something like, are there any other costs that are rising?"
+    },
+    {
+      "start": 308.04,
+      "end": 311.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Because we know for a fact that wages in the trucking industry have been going up due"
+    },
+    {
+      "start": 311.52000000000004,
+      "end": 319.44000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "to this shortage, but is there any other cost that is contributing to this increase in operational"
+    },
+    {
+      "start": 319.44000000000005,
+      "end": 323.12,
+      "speaker": "SPEAKER_00",
+      "text": "costs for trucking and shipping businesses?"
+    },
+    {
+      "start": 323.12,
+      "end": 326.48,
+      "speaker": "SPEAKER_00",
+      "text": "Because maybe wages is number one, but maybe number two is something else."
+    },
+    {
+      "start": 326.48,
+      "end": 332.16,
+      "speaker": "SPEAKER_00",
+      "text": "And so we just want to be very sure that we're looking in the right places."
+    },
+    {
+      "start": 332.16,
+      "end": 336.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "And so in response to this, the interviewer might say something like, yeah, there are"
+    },
+    {
+      "start": 336.40000000000003,
+      "end": 342.92,
+      "speaker": "SPEAKER_00",
+      "text": "a few other rising costs to the business, like having to repair and maintain the fleet,"
+    },
+    {
+      "start": 342.92,
+      "end": 346.68,
+      "speaker": "SPEAKER_00",
+      "text": "the costs have gone up recently, but not as significant as the increases in wages over"
+    },
+    {
+      "start": 346.68,
+      "end": 347.68,
+      "speaker": "SPEAKER_00",
+      "text": "the last five years."
+    },
+    {
+      "start": 347.68,
+      "end": 352.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "And so that would tell you that, hey, we really need to be looking into the wages specifically,"
+    },
+    {
+      "start": 352.28,
+      "end": 357.44,
+      "speaker": "SPEAKER_00",
+      "text": "but as like a secondary area to look, we can look into other costs like, for example,"
+    },
+    {
+      "start": 357.44,
+      "end": 359.52,
+      "speaker": "SPEAKER_00",
+      "text": "maintaining and repairing their fleet of trucks."
+    },
+    {
+      "start": 359.52,
+      "end": 363.08,
+      "speaker": "SPEAKER_00",
+      "text": "OK, but now that we've asked our clarifying questions, the next thing you want to immediately"
+    },
+    {
+      "start": 363.08,
+      "end": 366.23999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "do is you want to start coming up with your framework."
+    },
+    {
+      "start": 366.23999999999995,
+      "end": 370.67999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "And so the way you want to go about this is you want to ask the interviewer for 60 to"
+    },
+    {
+      "start": 370.67999999999995,
+      "end": 372.79999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "90 seconds to come up with a framework."
+    },
+    {
+      "start": 372.79999999999995,
+      "end": 376.84,
+      "speaker": "SPEAKER_00",
+      "text": "How you would do this is you would say, OK, great, can I just take 60 seconds to structure"
+    },
+    {
+      "start": 376.84,
+      "end": 377.84,
+      "speaker": "SPEAKER_00",
+      "text": "my thoughts?"
+    },
+    {
+      "start": 377.84,
+      "end": 380.0,
+      "speaker": "SPEAKER_00",
+      "text": "And the interviewer will always say yes."
+    },
+    {
+      "start": 380.0,
+      "end": 386.08,
+      "speaker": "SPEAKER_00",
+      "text": "And this is your cue to kind of go ahead and take some time to think through a framework."
+    },
+    {
+      "start": 386.08,
+      "end": 388.12,
+      "speaker": "SPEAKER_00",
+      "text": "And the interviewer will always say..."
+    },
+    {
+      "start": 388.12,
+      "end": 408.44,
+      "speaker": "SPEAKER_00",
+      "text": "OK, so I've spent about a minute or two putting together a quick framework."
+    },
+    {
+      "start": 408.44,
+      "end": 413.36,
+      "speaker": "SPEAKER_00",
+      "text": "And for this case, I'm just using a simple profitability-esque framework."
+    },
+    {
+      "start": 413.36,
+      "end": 419.76,
+      "speaker": "SPEAKER_00",
+      "text": "So basically the two main buckets that I've segmented out here are sales as well as costs."
+    },
+    {
+      "start": 419.76,
+      "end": 425.44,
+      "speaker": "SPEAKER_00",
+      "text": "And so just to walk you through how you should approach presenting this to the interview,"
+    },
+    {
+      "start": 425.44,
+      "end": 429.24,
+      "speaker": "SPEAKER_00",
+      "text": "you always want to be super clear about the different buckets that you have and you want"
+    },
+    {
+      "start": 429.24,
+      "end": 431.6,
+      "speaker": "SPEAKER_00",
+      "text": "to lay it out to them in an extremely logical manner."
+    },
+    {
+      "start": 431.6,
+      "end": 435.32,
+      "speaker": "SPEAKER_00",
+      "text": "And so it might sound a little bit like robotic almost to say it like this, but the way"
+    },
+    {
+      "start": 435.32,
+      "end": 439.28,
+      "speaker": "SPEAKER_00",
+      "text": "you want to do this is you want to be superstructures and you want to say, so the way that I'm"
+    },
+    {
+      "start": 439.28,
+      "end": 443.88,
+      "speaker": "SPEAKER_00",
+      "text": "thinking about this is I've kind of segmented the two main areas that I want to understand"
+    },
+    {
+      "start": 443.88,
+      "end": 444.88,
+      "speaker": "SPEAKER_00",
+      "text": "a little bit more."
+    },
+    {
+      "start": 444.88,
+      "end": 447.24,
+      "speaker": "SPEAKER_00",
+      "text": "The first is on the revenue side of things."
+    },
+    {
+      "start": 447.24,
+      "end": 448.6,
+      "speaker": "SPEAKER_00",
+      "text": "I want to understand that a little bit more."
+    },
+    {
+      "start": 448.6,
+      "end": 451.88,
+      "speaker": "SPEAKER_00",
+      "text": "And then the second is the cost side of the equation."
+    },
+    {
+      "start": 451.88,
+      "end": 455.52,
+      "speaker": "SPEAKER_00",
+      "text": "And I've included both revenue and costs, even though the question is primarily what can"
+    },
+    {
+      "start": 455.52,
+      "end": 460.12,
+      "speaker": "SPEAKER_00",
+      "text": "we do to costs because I think revenue and costs are linked and I'll both contribute"
+    },
+    {
+      "start": 460.12,
+      "end": 464.08,
+      "speaker": "SPEAKER_00",
+      "text": "to profitability, which I understand is probably being the ultimate goal for the company."
+    },
+    {
+      "start": 464.08,
+      "end": 469.4,
+      "speaker": "SPEAKER_00",
+      "text": "And so going back to the first bucket sales, here I've broken this out into two buckets,"
+    },
+    {
+      "start": 469.4,
+      "end": 472.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "one being pricing and the second being volume."
+    },
+    {
+      "start": 472.71999999999997,
+      "end": 477.36,
+      "speaker": "SPEAKER_00",
+      "text": "And then under costs, I've broke in the costs into two smaller buckets of fixed costs"
+    },
+    {
+      "start": 477.36,
+      "end": 479.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "versus variable costs."
+    },
+    {
+      "start": 479.03999999999996,
+      "end": 481.76,
+      "speaker": "SPEAKER_00",
+      "text": "And so I'll talk a little bit about each of these buckets."
+    },
+    {
+      "start": 481.76,
+      "end": 486.96,
+      "speaker": "SPEAKER_00",
+      "text": "So under revenue with pricing, here I really want to understand a little bit more about"
+    },
+    {
+      "start": 486.96,
+      "end": 488.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "our pricing structure."
+    },
+    {
+      "start": 488.59999999999997,
+      "end": 491.52,
+      "speaker": "SPEAKER_00",
+      "text": "How are we actually pricing each shipment?"
+    },
+    {
+      "start": 491.52,
+      "end": 493.79999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "Is it on a..."
+    },
+    {
+      "start": 493.79999999999995,
+      "end": 498.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "I would assume that we have some sort of contract with our clients."
+    },
+    {
+      "start": 498.15999999999997,
+      "end": 502.2,
+      "speaker": "SPEAKER_00",
+      "text": "So a business, for example, that wants to ship its goods around the US, would come to"
+    },
+    {
+      "start": 502.2,
+      "end": 505.79999999999995,
+      "speaker": "SPEAKER_00",
+      "text": "us and then we would therefore sign a contract with them saying, hey, you're going to pay us"
+    },
+    {
+      "start": 505.79999999999995,
+      "end": 510.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "either on a per shipment basis, so every shipment, or maybe you're going to pay us some sort"
+    },
+    {
+      "start": 510.59999999999997,
+      "end": 515.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "of combination of a fixed fee plus a variable fee based on how much volume we're shipping"
+    },
+    {
+      "start": 515.4399999999999,
+      "end": 519.64,
+      "speaker": "SPEAKER_00",
+      "text": "for you, or maybe based on the weight of the shipments that we're actually moving for"
+    },
+    {
+      "start": 519.64,
+      "end": 520.64,
+      "speaker": "SPEAKER_00",
+      "text": "you."
+    },
+    {
+      "start": 520.64,
+      "end": 524.92,
+      "speaker": "SPEAKER_00",
+      "text": "So we want to better understand how exactly we are pricing our shipments."
+    },
+    {
+      "start": 524.92,
+      "end": 528.84,
+      "speaker": "SPEAKER_00",
+      "text": "On the volume side, I want to understand a little bit more about the number of deliveries,"
+    },
+    {
+      "start": 528.84,
+      "end": 532.72,
+      "speaker": "SPEAKER_00",
+      "text": "the volume of deliveries as well as the number of drivers that we currently have and any"
+    },
+    {
+      "start": 532.72,
+      "end": 536.68,
+      "speaker": "SPEAKER_00",
+      "text": "historical and projected trends for those stats."
+    },
+    {
+      "start": 536.68,
+      "end": 542.96,
+      "speaker": "SPEAKER_00",
+      "text": "And also on volume, I'm kind of interested in what is the average volume in a given shipment."
+    },
+    {
+      "start": 542.96,
+      "end": 546.84,
+      "speaker": "SPEAKER_00",
+      "text": "And the reason I bring this up is because maybe a lot of trucks and a lot of shipments"
+    },
+    {
+      "start": 546.84,
+      "end": 548.8,
+      "speaker": "SPEAKER_00",
+      "text": "are going out without max capacity."
+    },
+    {
+      "start": 548.8,
+      "end": 550.68,
+      "speaker": "SPEAKER_00",
+      "text": "They're only being 50% utilized."
+    },
+    {
+      "start": 550.68,
+      "end": 557.76,
+      "speaker": "SPEAKER_00",
+      "text": "And so maybe there's an opportunity to potentially pack each shipment full with more boxes or"
+    },
+    {
+      "start": 557.76,
+      "end": 558.92,
+      "speaker": "SPEAKER_00",
+      "text": "more products."
+    },
+    {
+      "start": 558.92,
+      "end": 562.56,
+      "speaker": "SPEAKER_00",
+      "text": "But moving to the cost side of things, on the fixed cost side here, I just want to"
+    },
+    {
+      "start": 562.56,
+      "end": 565.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "better understand, what are the main sources of fixed costs here?"
+    },
+    {
+      "start": 565.9599999999999,
+      "end": 570.76,
+      "speaker": "SPEAKER_00",
+      "text": "One that I can think of immediately is any overhead costs related to the corporate side"
+    },
+    {
+      "start": 570.76,
+      "end": 571.76,
+      "speaker": "SPEAKER_00",
+      "text": "of the business."
+    },
+    {
+      "start": 571.76,
+      "end": 576.04,
+      "speaker": "SPEAKER_00",
+      "text": "So salaries, wages, rent for the offices, things like that."
+    },
+    {
+      "start": 576.04,
+      "end": 579.3399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I just want to understand that a little bit better, and whether there's any leeway to"
+    },
+    {
+      "start": 579.3399999999999,
+      "end": 581.12,
+      "speaker": "SPEAKER_00",
+      "text": "lower those costs."
+    },
+    {
+      "start": 581.12,
+      "end": 584.8399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Side note, this is kind of one of the buckets that people think of when they think of consultants"
+    },
+    {
+      "start": 584.8399999999999,
+      "end": 590.52,
+      "speaker": "SPEAKER_00",
+      "text": "going in and advising to lay off a lot of staff at big companies because a major source"
+    },
+    {
+      "start": 590.52,
+      "end": 596.24,
+      "speaker": "SPEAKER_00",
+      "text": "of costs can be within overhead the wages and the salary packages for the employees in"
+    },
+    {
+      "start": 596.24,
+      "end": 597.68,
+      "speaker": "SPEAKER_00",
+      "text": "the corporate side of the business."
+    },
+    {
+      "start": 597.68,
+      "end": 602.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "But moving to the variable side here, I've kind of broken it out into a few main buckets."
+    },
+    {
+      "start": 602.44,
+      "end": 607.96,
+      "speaker": "SPEAKER_00",
+      "text": "The first being labor costs, which we've mentioned, understand that the wages for drivers"
+    },
+    {
+      "start": 607.96,
+      "end": 611.72,
+      "speaker": "SPEAKER_00",
+      "text": "has been increasing over time, but wanted to include that to be holistic."
+    },
+    {
+      "start": 611.72,
+      "end": 614.8800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Second, any input costs related to actually making the shipments."
+    },
+    {
+      "start": 614.8800000000001,
+      "end": 617.6400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So these would be things like fuel, for example."
+    },
+    {
+      "start": 617.6400000000001,
+      "end": 623.08,
+      "speaker": "SPEAKER_00",
+      "text": "Anything that basically increases as you drive a longer distance to complete a shipment."
+    },
+    {
+      "start": 623.08,
+      "end": 626.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so these are also things like maintenance costs related to repairing your trucks, for"
+    },
+    {
+      "start": 626.5200000000001,
+      "end": 630.72,
+      "speaker": "SPEAKER_00",
+      "text": "example, because every, I don't know, 100,000 miles, maybe a truck breaks down and so you"
+    },
+    {
+      "start": 630.72,
+      "end": 635.32,
+      "speaker": "SPEAKER_00",
+      "text": "need to invest a certain amount of money into repairing that truck or replacing it."
+    },
+    {
+      "start": 635.32,
+      "end": 639.4,
+      "speaker": "SPEAKER_00",
+      "text": "And then finally, I've included this kind of other bucket, which would include miscellaneous"
+    },
+    {
+      "start": 639.4,
+      "end": 646.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "costs that also are variable like toll fees, because if you are driving on the highway,"
+    },
+    {
+      "start": 646.0400000000001,
+      "end": 652.52,
+      "speaker": "SPEAKER_00",
+      "text": "for example, you might need to pay certain fees to drive on different roads."
+    },
+    {
+      "start": 652.52,
+      "end": 656.72,
+      "speaker": "SPEAKER_00",
+      "text": "But that's kind of a catch all bucket to include any other potential variable costs that"
+    },
+    {
+      "start": 656.72,
+      "end": 658.2,
+      "speaker": "SPEAKER_00",
+      "text": "we could look at."
+    },
+    {
+      "start": 658.6,
+      "end": 664.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so after this, you would basically want to stop and get the interviewer's thoughts"
+    },
+    {
+      "start": 664.08,
+      "end": 665.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "on this framework."
+    },
+    {
+      "start": 665.0400000000001,
+      "end": 670.0,
+      "speaker": "SPEAKER_00",
+      "text": "And sometimes they will point you in a certain direction and they'll say, great, let's talk"
+    },
+    {
+      "start": 670.0,
+      "end": 672.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "about pricing, for example."
+    },
+    {
+      "start": 672.0400000000001,
+      "end": 674.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "But other times they might not give you as much direction and they might say something"
+    },
+    {
+      "start": 674.6800000000001,
+      "end": 676.24,
+      "speaker": "SPEAKER_00",
+      "text": "like, awesome."
+    },
+    {
+      "start": 676.24,
+      "end": 679.12,
+      "speaker": "SPEAKER_00",
+      "text": "So where would you suggest we start first?"
+    },
+    {
+      "start": 679.12,
+      "end": 681.44,
+      "speaker": "SPEAKER_00",
+      "text": "And this is where don't be intimidated."
+    },
+    {
+      "start": 681.44,
+      "end": 685.08,
+      "speaker": "SPEAKER_00",
+      "text": "They're just opening up the conversation for you and you should just think about which"
+    },
+    {
+      "start": 685.08,
+      "end": 690.88,
+      "speaker": "SPEAKER_00",
+      "text": "of these buckets you think is most interesting or potentially might be most important for"
+    },
+    {
+      "start": 690.88,
+      "end": 691.88,
+      "speaker": "SPEAKER_00",
+      "text": "this project."
+    },
+    {
+      "start": 691.88,
+      "end": 696.64,
+      "speaker": "SPEAKER_00",
+      "text": "Full understanding that the goal with a framework is always typically to go through every single"
+    },
+    {
+      "start": 696.64,
+      "end": 701.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "bucket in the framework until you've gotten to the root cause of the problem."
+    },
+    {
+      "start": 701.6800000000001,
+      "end": 706.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so say, for example, in this question, I'm really interested in specifically the trucks"
+    },
+    {
+      "start": 706.0,
+      "end": 710.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "and how we can lower costs related to the trucks, whether that be the fuel cost related"
+    },
+    {
+      "start": 710.5200000000001,
+      "end": 713.2,
+      "speaker": "SPEAKER_00",
+      "text": "to the trucks or the maintenance costs."
+    },
+    {
+      "start": 713.2,
+      "end": 719.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So maybe that means is there a possibility to invest in more high quality fleets that"
+    },
+    {
+      "start": 719.0400000000001,
+      "end": 720.6400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "are also more fuel efficient?"
+    },
+    {
+      "start": 720.6400000000001,
+      "end": 724.36,
+      "speaker": "SPEAKER_00",
+      "text": "And so what I would say to the interviewer is the first area I want to look into is really"
+    },
+    {
+      "start": 724.36,
+      "end": 726.44,
+      "speaker": "SPEAKER_00",
+      "text": "investigating the fleet a little bit more."
+    },
+    {
+      "start": 726.44,
+      "end": 727.44,
+      "speaker": "SPEAKER_00",
+      "text": "Is there any opportunity?"
+    },
+    {
+      "start": 727.44,
+      "end": 732.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Has management explored the possibility of potentially investing in a more fuel efficient"
+    },
+    {
+      "start": 732.2800000000001,
+      "end": 733.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "fleet?"
+    },
+    {
+      "start": 733.2800000000001,
+      "end": 735.12,
+      "speaker": "SPEAKER_00",
+      "text": "And the interviewer would give you some feedback on that."
+    },
+    {
+      "start": 735.12,
+      "end": 739.72,
+      "speaker": "SPEAKER_00",
+      "text": "Now obviously I know the answer to this case and so I'm guiding us in the right direction."
+    },
+    {
+      "start": 739.72,
+      "end": 743.88,
+      "speaker": "SPEAKER_00",
+      "text": "But if the interviewer says, for example, no, they haven't done anything, but there's"
+    },
+    {
+      "start": 743.88,
+      "end": 747.72,
+      "speaker": "SPEAKER_00",
+      "text": "no plans to look into that in the future or they've already kind of ruled it out as a"
+    },
+    {
+      "start": 747.72,
+      "end": 749.64,
+      "speaker": "SPEAKER_00",
+      "text": "possibility, then don't fret."
+    },
+    {
+      "start": 749.64,
+      "end": 753.0,
+      "speaker": "SPEAKER_00",
+      "text": "Just go back to your framework and ask them about the second bucket that you find most"
+    },
+    {
+      "start": 753.0,
+      "end": 754.0,
+      "speaker": "SPEAKER_00",
+      "text": "interesting."
+    },
+    {
+      "start": 754.0,
+      "end": 755.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And eventually you'll get there."
+    },
+    {
+      "start": 755.8000000000001,
+      "end": 761.4,
+      "speaker": "SPEAKER_00",
+      "text": "But in this case, the interviewer is going to tell us that, yes, we have some data actually"
+    },
+    {
+      "start": 761.4,
+      "end": 765.24,
+      "speaker": "SPEAKER_00",
+      "text": "related to the cost of operating each truck."
+    },
+    {
+      "start": 765.24,
+      "end": 767.44,
+      "speaker": "SPEAKER_00",
+      "text": "And so they're going to flash this exhibit up on the screen."
+    },
+    {
+      "start": 767.44,
+      "end": 771.32,
+      "speaker": "SPEAKER_00",
+      "text": "And the first thing you always want to do is you want to basically, before you even think"
+    },
+    {
+      "start": 771.32,
+      "end": 772.84,
+      "speaker": "SPEAKER_00",
+      "text": "about, okay, what does this even mean?"
+    },
+    {
+      "start": 772.84,
+      "end": 776.2,
+      "speaker": "SPEAKER_00",
+      "text": "You want to talk aloud and explain what you're actually seeing."
+    },
+    {
+      "start": 776.2,
+      "end": 779.08,
+      "speaker": "SPEAKER_00",
+      "text": "And so how do we go about this is I would say, oh, awesome."
+    },
+    {
+      "start": 779.08,
+      "end": 785.2800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So it looks like we have some financial metrics related to the standard trucks that we currently"
+    },
+    {
+      "start": 785.2800000000001,
+      "end": 788.8800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "have as well as these new hybrid trucks, which are supposedly more fuel efficient."
+    },
+    {
+      "start": 788.8800000000001,
+      "end": 792.6400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so we've been given the purchase price maintenance year, insurance year, average"
+    },
+    {
+      "start": 792.64,
+      "end": 795.28,
+      "speaker": "SPEAKER_00",
+      "text": "miles driven per year, miles per gallon, vehicle lifespan."
+    },
+    {
+      "start": 795.28,
+      "end": 800.6,
+      "speaker": "SPEAKER_00",
+      "text": "And right off the bat, I can see that the hybrid trucks are obviously a lot more expensive"
+    },
+    {
+      "start": 800.6,
+      "end": 803.28,
+      "speaker": "SPEAKER_00",
+      "text": "because their purchase price is 50% higher."
+    },
+    {
+      "start": 803.28,
+      "end": 806.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "They're $150,000 per truck."
+    },
+    {
+      "start": 806.3199999999999,
+      "end": 809.48,
+      "speaker": "SPEAKER_00",
+      "text": "But at the same time, they are twice as fuel efficient."
+    },
+    {
+      "start": 809.48,
+      "end": 813.16,
+      "speaker": "SPEAKER_00",
+      "text": "And so the miles per gallon is 20, as opposed to 10 for the standard truck."
+    },
+    {
+      "start": 813.16,
+      "end": 819.04,
+      "speaker": "SPEAKER_00",
+      "text": "And the lifespan looks to be about the same, but the overall costs for the hybrid trucks"
+    },
+    {
+      "start": 819.04,
+      "end": 821.16,
+      "speaker": "SPEAKER_00",
+      "text": "appear to be higher."
+    },
+    {
+      "start": 821.16,
+      "end": 824.4,
+      "speaker": "SPEAKER_00",
+      "text": "And I see that National Express pays an average of $3 per gallon for fuel."
+    },
+    {
+      "start": 824.4,
+      "end": 829.64,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so we have some metrics related to costs for each gallon."
+    },
+    {
+      "start": 829.64,
+      "end": 833.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so after you've given your initial observations about the table, you want to start thinking"
+    },
+    {
+      "start": 833.9599999999999,
+      "end": 839.24,
+      "speaker": "SPEAKER_00",
+      "text": "about any potential questions or analyses that you can run with this data set, that could"
+    },
+    {
+      "start": 839.24,
+      "end": 841.64,
+      "speaker": "SPEAKER_00",
+      "text": "potentially lead to any sort of conclusion."
+    },
+    {
+      "start": 841.64,
+      "end": 845.76,
+      "speaker": "SPEAKER_00",
+      "text": "But usually the interviewer will start guiding you towards the calculation or the question"
+    },
+    {
+      "start": 845.76,
+      "end": 846.9599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "that they actually want to see."
+    },
+    {
+      "start": 846.96,
+      "end": 852.1600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so in this particular case, the question would be, we ran two costs scenarios for the"
+    },
+    {
+      "start": 852.1600000000001,
+      "end": 856.76,
+      "speaker": "SPEAKER_00",
+      "text": "client to compare the cost of operating a hybrid truck versus a standard diesel truck."
+    },
+    {
+      "start": 856.76,
+      "end": 861.1600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "What are the potential cost savings if any from switching to a hybrid truck?"
+    },
+    {
+      "start": 861.1600000000001,
+      "end": 865.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so I'm going to start just writing some of the costs down from the exhibit onto my"
+    },
+    {
+      "start": 865.0,
+      "end": 869.48,
+      "speaker": "SPEAKER_00",
+      "text": "paper just so I can start thinking through how I might be able to calculate this."
+    },
+    {
+      "start": 869.48,
+      "end": 880.0,
+      "speaker": "SPEAKER_00",
+      "text": "First thing we have is maintenance, which for standard is 5K a year."
+    },
+    {
+      "start": 880.0,
+      "end": 884.48,
+      "speaker": "SPEAKER_00",
+      "text": "And then for hybrid it's 8K a year."
+    },
+    {
+      "start": 884.48,
+      "end": 895.48,
+      "speaker": "SPEAKER_00",
+      "text": "Which insurance is 2K a year for standard 3K a year for hybrid."
+    },
+    {
+      "start": 895.48,
+      "end": 908.32,
+      "speaker": "SPEAKER_00",
+      "text": "And so just totaling those up is already 7K a year for standard 11K a year for hybrid."
+    },
+    {
+      "start": 908.32,
+      "end": 916.32,
+      "speaker": "SPEAKER_00",
+      "text": "And then there is our costs related to fuel."
+    },
+    {
+      "start": 916.32,
+      "end": 928.84,
+      "speaker": "SPEAKER_00",
+      "text": "So the average miles driven for a standard truck is 60K and for a hybrid truck it's also"
+    },
+    {
+      "start": 928.84,
+      "end": 929.84,
+      "speaker": "SPEAKER_00",
+      "text": "60K."
+    },
+    {
+      "start": 929.84,
+      "end": 937.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And we basically want to divide that by our miles per gallon."
+    },
+    {
+      "start": 937.5200000000001,
+      "end": 941.5200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Which is 10 and 20."
+    },
+    {
+      "start": 941.52,
+      "end": 956.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so that's basically 6 and then multiply by basically the cost per gallon which in this"
+    },
+    {
+      "start": 956.3199999999999,
+      "end": 964.0799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "case is $3."
+    },
+    {
+      "start": 964.08,
+      "end": 967.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 967.08,
+      "end": 973.48,
+      "speaker": "SPEAKER_00",
+      "text": "So on the standard side we have 60K miles divided by 10 miles per gallon."
+    },
+    {
+      "start": 973.48,
+      "end": 977.6,
+      "speaker": "SPEAKER_00",
+      "text": "So that gets us about 6K times $3 per gallon."
+    },
+    {
+      "start": 977.6,
+      "end": 983.64,
+      "speaker": "SPEAKER_00",
+      "text": "So 6K times 3 is $18K."
+    },
+    {
+      "start": 983.64,
+      "end": 990.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then on the hybrid side we have 60K miles driven divided by 20 miles per gallon which"
+    },
+    {
+      "start": 990.0,
+      "end": 992.68,
+      "speaker": "SPEAKER_00",
+      "text": "gets us about $3,000."
+    },
+    {
+      "start": 992.68,
+      "end": 1001.52,
+      "speaker": "SPEAKER_00",
+      "text": "$3,000 times $3 per gallon is $9,000."
+    },
+    {
+      "start": 1001.52,
+      "end": 1008.2,
+      "speaker": "SPEAKER_00",
+      "text": "And so right now it looks like our costs are just maintenance plus the insurance plus"
+    },
+    {
+      "start": 1008.2,
+      "end": 1010.64,
+      "speaker": "SPEAKER_00",
+      "text": "the fuel costs."
+    },
+    {
+      "start": 1010.64,
+      "end": 1018.36,
+      "speaker": "SPEAKER_00",
+      "text": "But something that we haven't talked about yet is related to the life of each truck."
+    },
+    {
+      "start": 1018.36,
+      "end": 1020.28,
+      "speaker": "SPEAKER_00",
+      "text": "And that is depreciation expense."
+    },
+    {
+      "start": 1020.28,
+      "end": 1023.76,
+      "speaker": "SPEAKER_00",
+      "text": "For those of you who don't know if you haven't taken an accounting class, depreciation expense"
+    },
+    {
+      "start": 1023.76,
+      "end": 1028.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "is basically just a expense related to the age of the vehicle."
+    },
+    {
+      "start": 1028.1200000000001,
+      "end": 1031.7,
+      "speaker": "SPEAKER_00",
+      "text": "If you're confused about depreciation the way you can think about it is just look if"
+    },
+    {
+      "start": 1031.7,
+      "end": 1037.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I buy a car for example the value of that car is going to decrease each year."
+    },
+    {
+      "start": 1037.1200000000001,
+      "end": 1042.56,
+      "speaker": "SPEAKER_00",
+      "text": "And so a 10 year old car is not going to be worth the same as a brand new car right."
+    },
+    {
+      "start": 1042.56,
+      "end": 1045.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so how do you account for that on the financial statements?"
+    },
+    {
+      "start": 1045.0,
+      "end": 1048.44,
+      "speaker": "SPEAKER_00",
+      "text": "Well, it's through something called depreciation expense."
+    },
+    {
+      "start": 1048.44,
+      "end": 1052.6,
+      "speaker": "SPEAKER_00",
+      "text": "And so a good thing to mention here to the interviewer in this situation would be to just ask"
+    },
+    {
+      "start": 1052.6,
+      "end": 1056.32,
+      "speaker": "SPEAKER_00",
+      "text": "like if you're unsure whether or not you should be thinking about this you should literally"
+    },
+    {
+      "start": 1056.32,
+      "end": 1059.92,
+      "speaker": "SPEAKER_00",
+      "text": "just bring it up because the worst thing they can say is no you don't need to factor"
+    },
+    {
+      "start": 1059.92,
+      "end": 1061.08,
+      "speaker": "SPEAKER_00",
+      "text": "that into your calculation."
+    },
+    {
+      "start": 1061.08,
+      "end": 1066.0,
+      "speaker": "SPEAKER_00",
+      "text": "And you want that to happen as opposed to you forgetting to ask or just assuming that"
+    },
+    {
+      "start": 1066.0,
+      "end": 1068.92,
+      "speaker": "SPEAKER_00",
+      "text": "it's not necessary and then it messes up your answer."
+    },
+    {
+      "start": 1068.92,
+      "end": 1074.4,
+      "speaker": "SPEAKER_00",
+      "text": "And so I would ask the interviewer hey I noticed that we might need to account for a depreciation"
+    },
+    {
+      "start": 1074.4,
+      "end": 1078.72,
+      "speaker": "SPEAKER_00",
+      "text": "expense can I assume you know straight line depreciation for the purposes of this"
+    },
+    {
+      "start": 1078.72,
+      "end": 1080.0,
+      "speaker": "SPEAKER_00",
+      "text": "product of this case."
+    },
+    {
+      "start": 1080.0,
+      "end": 1084.76,
+      "speaker": "SPEAKER_00",
+      "text": "Straight line depreciation is just when you divide the purchase price of that vehicle by the"
+    },
+    {
+      "start": 1084.76,
+      "end": 1086.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "number of years that it is useful."
+    },
+    {
+      "start": 1086.8400000000001,
+      "end": 1090.4,
+      "speaker": "SPEAKER_00",
+      "text": "So in this case we know the useful life is the vehicle lifespan of 10 years."
+    },
+    {
+      "start": 1090.4,
+      "end": 1097.2800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "And so we would just divide the purchase price for the standard truck which is $100,000"
+    },
+    {
+      "start": 1097.28,
+      "end": 1114.52,
+      "speaker": "SPEAKER_00",
+      "text": "by 10 years to get us to a depreciation expense of $10,000."
+    },
+    {
+      "start": 1114.52,
+      "end": 1117.48,
+      "speaker": "SPEAKER_00",
+      "text": "Sorry if this is really messy."
+    },
+    {
+      "start": 1117.48,
+      "end": 1125.16,
+      "speaker": "SPEAKER_00",
+      "text": "And on the hybrid truck side we have a purchase price of $150,000 divided by 10 years."
+    },
+    {
+      "start": 1125.16,
+      "end": 1129.28,
+      "speaker": "SPEAKER_00",
+      "text": "So it's about 15K of depreciation there."
+    },
+    {
+      "start": 1129.28,
+      "end": 1140.48,
+      "speaker": "SPEAKER_00",
+      "text": "And so our total costs are actually this plus this plus this."
+    },
+    {
+      "start": 1140.48,
+      "end": 1142.52,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1142.52,
+      "end": 1149.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Which comes out to 11 plus 9 is 20 plus 15 is 35."
+    },
+    {
+      "start": 1149.84,
+      "end": 1160.12,
+      "speaker": "SPEAKER_00",
+      "text": "35K 7 plus 18 is 25 plus 10 is 35."
+    },
+    {
+      "start": 1160.12,
+      "end": 1163.32,
+      "speaker": "SPEAKER_00",
+      "text": "So this is really interesting."
+    },
+    {
+      "start": 1163.32,
+      "end": 1169.48,
+      "speaker": "SPEAKER_00",
+      "text": "What we can see here is that the cost base for each of these trucks is roughly equal."
+    },
+    {
+      "start": 1169.48,
+      "end": 1172.52,
+      "speaker": "SPEAKER_00",
+      "text": "And so right off the bat alarm bells should be going off in your head and you should be"
+    },
+    {
+      "start": 1172.52,
+      "end": 1177.32,
+      "speaker": "SPEAKER_00",
+      "text": "wondering first of all this is really interesting but why and what does this mean in the context"
+    },
+    {
+      "start": 1177.32,
+      "end": 1179.52,
+      "speaker": "SPEAKER_00",
+      "text": "of our project."
+    },
+    {
+      "start": 1179.52,
+      "end": 1182.84,
+      "speaker": "SPEAKER_00",
+      "text": "But you also always want to be telling the interviewer what you're thinking about and"
+    },
+    {
+      "start": 1182.84,
+      "end": 1183.84,
+      "speaker": "SPEAKER_00",
+      "text": "what you're seeing."
+    },
+    {
+      "start": 1183.84,
+      "end": 1186.28,
+      "speaker": "SPEAKER_00",
+      "text": "And so right off the bat you should say, well this is really interesting."
+    },
+    {
+      "start": 1186.28,
+      "end": 1192.36,
+      "speaker": "SPEAKER_00",
+      "text": "What I'm seeing here is that the costs for the standard truck and the hybrid truck are"
+    },
+    {
+      "start": 1192.36,
+      "end": 1195.6,
+      "speaker": "SPEAKER_00",
+      "text": "actually about $35,000 per year each."
+    },
+    {
+      "start": 1195.6,
+      "end": 1201.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so there is no annual cost savings with using either of these at least from a numerical"
+    },
+    {
+      "start": 1201.6399999999999,
+      "end": 1202.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "perspective."
+    },
+    {
+      "start": 1202.6399999999999,
+      "end": 1203.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "There's no benefit."
+    },
+    {
+      "start": 1203.6399999999999,
+      "end": 1206.56,
+      "speaker": "SPEAKER_00",
+      "text": "And so you want to talk to the interviewer about your findings and you want to talk"
+    },
+    {
+      "start": 1206.56,
+      "end": 1207.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "them through what's going through your head."
+    },
+    {
+      "start": 1207.88,
+      "end": 1211.7600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "And so you want to tell them something like, as I mentioned, it looks like there are"
+    },
+    {
+      "start": 1211.7600000000002,
+      "end": 1217.6200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "no associated cost savings or cost advantage to using a standard truck versus a hybrid"
+    },
+    {
+      "start": 1217.6200000000001,
+      "end": 1218.6200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "truck."
+    },
+    {
+      "start": 1218.6200000000001,
+      "end": 1222.72,
+      "speaker": "SPEAKER_00",
+      "text": "At least from a numerical perspective, there's no reason for us to adopt this hybrid fleet."
+    },
+    {
+      "start": 1222.72,
+      "end": 1226.92,
+      "speaker": "SPEAKER_00",
+      "text": "But that said, there are potentially maybe other reasons, more qualitative reasons why"
+    },
+    {
+      "start": 1226.92,
+      "end": 1231.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "you might want to use a hybrid truck as opposed to a standard semi truck."
+    },
+    {
+      "start": 1231.1200000000001,
+      "end": 1236.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe for example, the hybrid truck has a greater carrying capacity for the loads that we want"
+    },
+    {
+      "start": 1236.3200000000002,
+      "end": 1237.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "to bring."
+    },
+    {
+      "start": 1237.32,
+      "end": 1242.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Because that would indirectly lower our number of shipments needed to deliver or complete"
+    },
+    {
+      "start": 1242.6799999999998,
+      "end": 1243.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "a trip."
+    },
+    {
+      "start": 1243.6799999999998,
+      "end": 1248.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "You always want to think beyond just the initial finding because there's often a second"
+    },
+    {
+      "start": 1248.1599999999999,
+      "end": 1252.56,
+      "speaker": "SPEAKER_00",
+      "text": "or third level of insight that may not be apparent right off the bat from just looking"
+    },
+    {
+      "start": 1252.56,
+      "end": 1253.56,
+      "speaker": "SPEAKER_00",
+      "text": "at the numbers."
+    },
+    {
+      "start": 1253.56,
+      "end": 1259.24,
+      "speaker": "SPEAKER_00",
+      "text": "But in this case, the interviewer would say to you, great, well, given the results of"
+    },
+    {
+      "start": 1259.24,
+      "end": 1265.32,
+      "speaker": "SPEAKER_00",
+      "text": "the analysis, would you recommend for national logistics to invest in hybrid trucks?"
+    },
+    {
+      "start": 1265.32,
+      "end": 1267.0,
+      "speaker": "SPEAKER_00",
+      "text": "Why or why not?"
+    },
+    {
+      "start": 1267.52,
+      "end": 1272.84,
+      "speaker": "SPEAKER_00",
+      "text": "So the question is, should they invest in hybrid trucks?"
+    },
+    {
+      "start": 1272.84,
+      "end": 1278.12,
+      "speaker": "SPEAKER_00",
+      "text": "And here I think it's okay to ask for another 30 seconds to think through your response"
+    },
+    {
+      "start": 1278.12,
+      "end": 1279.12,
+      "speaker": "SPEAKER_00",
+      "text": "here."
+    },
+    {
+      "start": 1279.12,
+      "end": 1282.12,
+      "speaker": "SPEAKER_00",
+      "text": "Again, you've been given a lot of data already in information."
+    },
+    {
+      "start": 1282.12,
+      "end": 1286.0,
+      "speaker": "SPEAKER_00",
+      "text": "And sometimes it helps to just take a few seconds to process that information."
+    },
+    {
+      "start": 1286.0,
+      "end": 1289.0,
+      "speaker": "SPEAKER_00",
+      "text": "And as long as you're not taking too long here, most interviews would be okay with you"
+    },
+    {
+      "start": 1289.0,
+      "end": 1291.96,
+      "speaker": "SPEAKER_00",
+      "text": "taking a few seconds to just put together some good thoughts."
+    },
+    {
+      "start": 1291.96,
+      "end": 1296.32,
+      "speaker": "SPEAKER_00",
+      "text": "And so what I'm actually going to do here is I'm going to put together like a yes versus"
+    },
+    {
+      "start": 1296.32,
+      "end": 1297.32,
+      "speaker": "SPEAKER_00",
+      "text": "a no column."
+    },
+    {
+      "start": 1297.32,
+      "end": 1302.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so under yes, I can think of like, potential ideas why you might want to invest in hybrid"
+    },
+    {
+      "start": 1302.8799999999999,
+      "end": 1303.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "trucks."
+    },
+    {
+      "start": 1303.8799999999999,
+      "end": 1307.2,
+      "speaker": "SPEAKER_00",
+      "text": "And under no, you would basically think through reasons that you might not want to invest"
+    },
+    {
+      "start": 1307.2,
+      "end": 1308.76,
+      "speaker": "SPEAKER_00",
+      "text": "in hybrid trucks."
+    },
+    {
+      "start": 1308.76,
+      "end": 1312.32,
+      "speaker": "SPEAKER_00",
+      "text": "This way we can have a little bit more of a holistic perspective on both the reasons that"
+    },
+    {
+      "start": 1312.32,
+      "end": 1317.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "someone would or would not do this."
+    },
+    {
+      "start": 1317.6399999999999,
+      "end": 1324.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so what I've done here is I've taken some time to really think through potential"
+    },
+    {
+      "start": 1324.08,
+      "end": 1329.28,
+      "speaker": "SPEAKER_00",
+      "text": "reasons why someone would want to invest in these hybrid trucks versus would not want"
+    },
+    {
+      "start": 1329.28,
+      "end": 1330.28,
+      "speaker": "SPEAKER_00",
+      "text": "to."
+    },
+    {
+      "start": 1330.28,
+      "end": 1332.32,
+      "speaker": "SPEAKER_00",
+      "text": "And so I'll walk you through each of my thinking behind each."
+    },
+    {
+      "start": 1332.32,
+      "end": 1336.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "And so the first bullet under the yes bucket here reads hybrid trucks may be superior"
+    },
+    {
+      "start": 1336.9199999999998,
+      "end": 1338.12,
+      "speaker": "SPEAKER_00",
+      "text": "in some other way."
+    },
+    {
+      "start": 1338.12,
+      "end": 1342.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so my thinking here was essentially there could be some other intangible advantage"
+    },
+    {
+      "start": 1342.6399999999999,
+      "end": 1345.56,
+      "speaker": "SPEAKER_00",
+      "text": "that we just can't see in the numbers that a hybrid trucks have."
+    },
+    {
+      "start": 1345.56,
+      "end": 1350.84,
+      "speaker": "SPEAKER_00",
+      "text": "For example, a hybrid truck may be able to carry more boxes, as I mentioned earlier"
+    },
+    {
+      "start": 1350.84,
+      "end": 1352.24,
+      "speaker": "SPEAKER_00",
+      "text": "in this video."
+    },
+    {
+      "start": 1352.24,
+      "end": 1355.44,
+      "speaker": "SPEAKER_00",
+      "text": "And that would be a huge benefit if that were true."
+    },
+    {
+      "start": 1355.44,
+      "end": 1359.92,
+      "speaker": "SPEAKER_00",
+      "text": "Also maybe it's more efficient in some other way and would allow the shipment time to"
+    },
+    {
+      "start": 1359.92,
+      "end": 1361.08,
+      "speaker": "SPEAKER_00",
+      "text": "decrease."
+    },
+    {
+      "start": 1361.08,
+      "end": 1362.92,
+      "speaker": "SPEAKER_00",
+      "text": "Now you might be wondering how is this possible?"
+    },
+    {
+      "start": 1362.92,
+      "end": 1366.52,
+      "speaker": "SPEAKER_00",
+      "text": "Well, one thing I can think of is we can also think about the driver's time as being a"
+    },
+    {
+      "start": 1366.52,
+      "end": 1367.52,
+      "speaker": "SPEAKER_00",
+      "text": "source of efficiency."
+    },
+    {
+      "start": 1367.52,
+      "end": 1370.28,
+      "speaker": "SPEAKER_00",
+      "text": "So maybe these trucks are better in terms of navigation."
+    },
+    {
+      "start": 1370.28,
+      "end": 1374.76,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe they have better built-in navigation systems that would allow us to complete trips"
+    },
+    {
+      "start": 1374.76,
+      "end": 1376.04,
+      "speaker": "SPEAKER_00",
+      "text": "in a shorter amount of time."
+    },
+    {
+      "start": 1376.04,
+      "end": 1377.04,
+      "speaker": "SPEAKER_00",
+      "text": "Things like that."
+    },
+    {
+      "start": 1377.04,
+      "end": 1380.84,
+      "speaker": "SPEAKER_00",
+      "text": "And so you really would want to ask the interviewer here like, hey, is there any information"
+    },
+    {
+      "start": 1380.84,
+      "end": 1385.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "about these trucks that would potentially differentiate them in a real big way like"
+    },
+    {
+      "start": 1385.4399999999998,
+      "end": 1386.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "this?"
+    },
+    {
+      "start": 1386.4399999999998,
+      "end": 1390.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And based on the response, you can decide whether or not this is impact for them."
+    },
+    {
+      "start": 1390.1599999999999,
+      "end": 1393.84,
+      "speaker": "SPEAKER_00",
+      "text": "But the goal here is you always want to be thinking again, as I said, beyond just what"
+    },
+    {
+      "start": 1393.84,
+      "end": 1398.48,
+      "speaker": "SPEAKER_00",
+      "text": "the numbers show you and think about any other reasons that could potentially make it a good"
+    },
+    {
+      "start": 1398.48,
+      "end": 1401.28,
+      "speaker": "SPEAKER_00",
+      "text": "reason to invest in this new fleet."
+    },
+    {
+      "start": 1401.28,
+      "end": 1406.56,
+      "speaker": "SPEAKER_00",
+      "text": "A good rule of thumb with casing in general is you always want to think about both sides"
+    },
+    {
+      "start": 1406.56,
+      "end": 1407.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "of the coin."
+    },
+    {
+      "start": 1407.88,
+      "end": 1414.2800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "So even when there is a conclusion or an analysis or a data set that's shown to you that appears"
+    },
+    {
+      "start": 1414.2800000000002,
+      "end": 1418.7600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "to demonstrate a very clear conclusion or something that to you might seem like, oh, that's"
+    },
+    {
+      "start": 1418.7600000000002,
+      "end": 1419.7600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "a no-brainer, right?"
+    },
+    {
+      "start": 1419.7600000000002,
+      "end": 1423.7600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Well, you always want to stop and take a few seconds to think about, okay, well, what if"
+    },
+    {
+      "start": 1423.7600000000002,
+      "end": 1424.7600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "I'm not right?"
+    },
+    {
+      "start": 1424.7600000000002,
+      "end": 1428.0,
+      "speaker": "SPEAKER_00",
+      "text": "What if the answer is the other side of the coin?"
+    },
+    {
+      "start": 1428.0,
+      "end": 1429.0,
+      "speaker": "SPEAKER_00",
+      "text": "Why would that be?"
+    },
+    {
+      "start": 1429.0,
+      "end": 1433.16,
+      "speaker": "SPEAKER_00",
+      "text": "What are some potential reasons why someone who's taking the opposite side of what I think"
+    },
+    {
+      "start": 1433.16,
+      "end": 1435.8000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "is right would use to back up their argument?"
+    },
+    {
+      "start": 1435.8799999999999,
+      "end": 1438.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "If you get in the habit of thinking like that, you're not only going to be very good at"
+    },
+    {
+      "start": 1438.9199999999998,
+      "end": 1442.08,
+      "speaker": "SPEAKER_00",
+      "text": "the job, but you're also going to just get very good at casing."
+    },
+    {
+      "start": 1442.08,
+      "end": 1447.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "But moving on to the second bullet under, yes, I also wrote more efficient and economical"
+    },
+    {
+      "start": 1447.8799999999999,
+      "end": 1449.36,
+      "speaker": "SPEAKER_00",
+      "text": "if fuel prices increase."
+    },
+    {
+      "start": 1449.36,
+      "end": 1450.76,
+      "speaker": "SPEAKER_00",
+      "text": "Now what do I mean by this?"
+    },
+    {
+      "start": 1450.76,
+      "end": 1454.12,
+      "speaker": "SPEAKER_00",
+      "text": "Well, let's go back up and look at our numbers here."
+    },
+    {
+      "start": 1454.12,
+      "end": 1459.04,
+      "speaker": "SPEAKER_00",
+      "text": "Based on the numbers that we were given, we concluded, right, that there was no cost benefit"
+    },
+    {
+      "start": 1459.04,
+      "end": 1464.44,
+      "speaker": "SPEAKER_00",
+      "text": "because it was $35,000 per year in costs for both a standard truck and a hybrid truck."
+    },
+    {
+      "start": 1464.44,
+      "end": 1467.8,
+      "speaker": "SPEAKER_00",
+      "text": "Now most people would have stopped here and they would have just accepted this as, okay,"
+    },
+    {
+      "start": 1467.8,
+      "end": 1469.28,
+      "speaker": "SPEAKER_00",
+      "text": "that's the end all be all, right?"
+    },
+    {
+      "start": 1469.28,
+      "end": 1475.04,
+      "speaker": "SPEAKER_00",
+      "text": "But if we look a little bit closer at the numbers, we can see that in this scenario, the maintenance"
+    },
+    {
+      "start": 1475.04,
+      "end": 1477.48,
+      "speaker": "SPEAKER_00",
+      "text": "and insurance costs appear to be pretty fixed, right?"
+    },
+    {
+      "start": 1477.48,
+      "end": 1480.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "They're not going to change too much on a yearly basis."
+    },
+    {
+      "start": 1480.6000000000001,
+      "end": 1483.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "The depreciation expense is also not going to change that much on a yearly basis unless"
+    },
+    {
+      "start": 1483.6000000000001,
+      "end": 1488.96,
+      "speaker": "SPEAKER_00",
+      "text": "something changes about like the price or the average useful life of each truck."
+    },
+    {
+      "start": 1488.96,
+      "end": 1494.32,
+      "speaker": "SPEAKER_00",
+      "text": "But when it comes to the fuel prices, this is highly variable because it's dependent"
+    },
+    {
+      "start": 1494.32,
+      "end": 1495.32,
+      "speaker": "SPEAKER_00",
+      "text": "on three things."
+    },
+    {
+      "start": 1495.32,
+      "end": 1498.24,
+      "speaker": "SPEAKER_00",
+      "text": "It's dependent on how many miles are being driven by each truck."
+    },
+    {
+      "start": 1498.24,
+      "end": 1502.48,
+      "speaker": "SPEAKER_00",
+      "text": "It's dependent on the miles per gallon and it's also dependent on the cost per gallon."
+    },
+    {
+      "start": 1502.48,
+      "end": 1506.28,
+      "speaker": "SPEAKER_00",
+      "text": "And if we look at all three of these things, let's change colors here."
+    },
+    {
+      "start": 1506.28,
+      "end": 1509.96,
+      "speaker": "SPEAKER_00",
+      "text": "In the scenario that we were given, it was $3 per gallon."
+    },
+    {
+      "start": 1509.96,
+      "end": 1515.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "But just for argument's sake, let's assume that the price per gallon doubled."
+    },
+    {
+      "start": 1515.36,
+      "end": 1524.56,
+      "speaker": "SPEAKER_00",
+      "text": "And so suddenly, instead of $3 per gallon, this went up to, let's say, six."
+    },
+    {
+      "start": 1524.56,
+      "end": 1526.8,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1526.8,
+      "end": 1530.08,
+      "speaker": "SPEAKER_00",
+      "text": "Now what would happen to our total costs?"
+    },
+    {
+      "start": 1530.08,
+      "end": 1534.76,
+      "speaker": "SPEAKER_00",
+      "text": "Well, our maintenance and insurance costs would stay the same."
+    },
+    {
+      "start": 1534.76,
+      "end": 1538.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Miles driven, let's just assume that stays the same as well."
+    },
+    {
+      "start": 1538.7199999999998,
+      "end": 1541.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "And Miles from the gallon, that's not going to change."
+    },
+    {
+      "start": 1541.1999999999998,
+      "end": 1543.24,
+      "speaker": "SPEAKER_00",
+      "text": "And so what's our total cost?"
+    },
+    {
+      "start": 1543.24,
+      "end": 1545.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "What's the change to our total costs?"
+    },
+    {
+      "start": 1545.16,
+      "end": 1549.76,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we still have our 7,000 per year of maintenance and insurance."
+    },
+    {
+      "start": 1549.76,
+      "end": 1557.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Plus our new fuel cost now, 36,000, which is roughly 43,000 plus 10, which is 53,000."
+    },
+    {
+      "start": 1557.3600000000001,
+      "end": 1562.44,
+      "speaker": "SPEAKER_00",
+      "text": "So this, if you're still following along, goes to 53K."
+    },
+    {
+      "start": 1562.44,
+      "end": 1563.92,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1563.92,
+      "end": 1565.52,
+      "speaker": "SPEAKER_00",
+      "text": "And then what happens to your hybrid?"
+    },
+    {
+      "start": 1565.52,
+      "end": 1569.28,
+      "speaker": "SPEAKER_00",
+      "text": "Well, we have still are 11,000 of maintenance and insurance."
+    },
+    {
+      "start": 1569.28,
+      "end": 1578.92,
+      "speaker": "SPEAKER_00",
+      "text": "But plus now a new 18,000 in fuel, which is roughly 44,000, if I did my math correctly."
+    },
+    {
+      "start": 1578.92,
+      "end": 1580.48,
+      "speaker": "SPEAKER_00",
+      "text": "Call me out if I didn't."
+    },
+    {
+      "start": 1580.48,
+      "end": 1587.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "But now you can see that there is a difference and that the hybrid truck is actually more"
+    },
+    {
+      "start": 1587.6399999999999,
+      "end": 1590.84,
+      "speaker": "SPEAKER_00",
+      "text": "worth if the fuel price increases."
+    },
+    {
+      "start": 1590.84,
+      "end": 1594.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so this is where it's a little bit more nuanced than we might have realized before."
+    },
+    {
+      "start": 1594.88,
+      "end": 1601.16,
+      "speaker": "SPEAKER_00",
+      "text": "Because if the cost of fuel increases, then it's worth it to use our hybrid trucks."
+    },
+    {
+      "start": 1601.16,
+      "end": 1607.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "But on the other hand, if let's say the cost per gallon decreased below $3 per gallon,"
+    },
+    {
+      "start": 1607.3200000000002,
+      "end": 1608.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "then what would happen?"
+    },
+    {
+      "start": 1608.3200000000002,
+      "end": 1609.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Well, the opposite would happen."
+    },
+    {
+      "start": 1609.3200000000002,
+      "end": 1614.4,
+      "speaker": "SPEAKER_00",
+      "text": "And actually, the standard diesel trucks would be more economical than these expensive"
+    },
+    {
+      "start": 1614.4,
+      "end": 1615.92,
+      "speaker": "SPEAKER_00",
+      "text": "hybrid trucks."
+    },
+    {
+      "start": 1615.92,
+      "end": 1620.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so this is why if we believe that the cost of fuel is going to increase, then it"
+    },
+    {
+      "start": 1620.8400000000001,
+      "end": 1624.2,
+      "speaker": "SPEAKER_00",
+      "text": "makes sense from a financial perspective to invest in hybrid trucks."
+    },
+    {
+      "start": 1624.2,
+      "end": 1629.28,
+      "speaker": "SPEAKER_00",
+      "text": "But if we believe that the cost of fuel is going to decrease over time, then it makes"
+    },
+    {
+      "start": 1629.28,
+      "end": 1632.48,
+      "speaker": "SPEAKER_00",
+      "text": "sense to stick with normal trucks because they're going to cost less."
+    },
+    {
+      "start": 1632.48,
+      "end": 1634.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so there's no right answer here."
+    },
+    {
+      "start": 1634.6000000000001,
+      "end": 1639.16,
+      "speaker": "SPEAKER_00",
+      "text": "The goal of this kind of question is really to test your thinking and whatever you present"
+    },
+    {
+      "start": 1639.16,
+      "end": 1644.28,
+      "speaker": "SPEAKER_00",
+      "text": "as your recommendation of should we invest in these hybrid trucks or not to the interviewer,"
+    },
+    {
+      "start": 1644.28,
+      "end": 1648.72,
+      "speaker": "SPEAKER_00",
+      "text": "just make sure that it's backed up by data and a clear reasonable line of thinking so"
+    },
+    {
+      "start": 1648.72,
+      "end": 1651.44,
+      "speaker": "SPEAKER_00",
+      "text": "that they can see how you think about this kind of question."
+    },
+    {
+      "start": 1651.44,
+      "end": 1655.0,
+      "speaker": "SPEAKER_00",
+      "text": "I still haven't talked through all of the no buckets, but just to go through them quickly,"
+    },
+    {
+      "start": 1655.0,
+      "end": 1658.96,
+      "speaker": "SPEAKER_00",
+      "text": "I essentially wrote down no cost benefit from the analysis, but then I sort of talked"
+    },
+    {
+      "start": 1658.96,
+      "end": 1662.96,
+      "speaker": "SPEAKER_00",
+      "text": "through why this would change based on the fuel price."
+    },
+    {
+      "start": 1662.96,
+      "end": 1666.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so I had no more economical if fuel decreases."
+    },
+    {
+      "start": 1666.0,
+      "end": 1670.56,
+      "speaker": "SPEAKER_00",
+      "text": "And then the last bullet that I had here was higher maintenance expenses if you use these"
+    },
+    {
+      "start": 1670.56,
+      "end": 1671.56,
+      "speaker": "SPEAKER_00",
+      "text": "hybrid trucks."
+    },
+    {
+      "start": 1671.56,
+      "end": 1675.64,
+      "speaker": "SPEAKER_00",
+      "text": "Because if you remember, if we scroll back up here, it's $8,000 a year."
+    },
+    {
+      "start": 1675.64,
+      "end": 1678.2,
+      "speaker": "SPEAKER_00",
+      "text": "And it's also more expensive from an insurance perspective, actually."
+    },
+    {
+      "start": 1678.2,
+      "end": 1679.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So I should note that down."
+    },
+    {
+      "start": 1679.36,
+      "end": 1683.32,
+      "speaker": "SPEAKER_00",
+      "text": "And oftentimes these newer, more technologically advanced vehicles, like if you think about"
+    },
+    {
+      "start": 1683.32,
+      "end": 1687.36,
+      "speaker": "SPEAKER_00",
+      "text": "electric cars, for example, like a Tesla, the parts can be quite expensive and difficult"
+    },
+    {
+      "start": 1687.36,
+      "end": 1694.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "to maintain because traditional auto shops or dealers or repair stores just don't have the"
+    },
+    {
+      "start": 1694.9599999999998,
+      "end": 1700.4399999999998,
+      "speaker": "SPEAKER_00",
+      "text": "specialized parts for EVs that they would have for traditional diesel or gas vehicles."
+    },
+    {
+      "start": 1700.4399999999998,
+      "end": 1703.04,
+      "speaker": "SPEAKER_00",
+      "text": "And so that's another thing to consider as well."
+    },
+    {
+      "start": 1703.04,
+      "end": 1704.04,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1704.04,
+      "end": 1705.04,
+      "speaker": "SPEAKER_00",
+      "text": "But let's take a step back."
+    },
+    {
+      "start": 1705.04,
+      "end": 1710.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So after we've put together this list of yes and no's, we would then want to basically"
+    },
+    {
+      "start": 1710.1599999999999,
+      "end": 1713.72,
+      "speaker": "SPEAKER_00",
+      "text": "explain to the interviewer each of these points that have just explained to you."
+    },
+    {
+      "start": 1713.72,
+      "end": 1716.42,
+      "speaker": "SPEAKER_00",
+      "text": "And so the way we do this is I would say, okay, great."
+    },
+    {
+      "start": 1716.42,
+      "end": 1721.84,
+      "speaker": "SPEAKER_00",
+      "text": "So I've put together a few points supporting, but also going against the use of these"
+    },
+    {
+      "start": 1721.84,
+      "end": 1722.96,
+      "speaker": "SPEAKER_00",
+      "text": "hybrid trucks."
+    },
+    {
+      "start": 1722.96,
+      "end": 1726.6,
+      "speaker": "SPEAKER_00",
+      "text": "And before I make a recommendation as to whether I think we should or should not, I just"
+    },
+    {
+      "start": 1726.6,
+      "end": 1729.96,
+      "speaker": "SPEAKER_00",
+      "text": "want to lay these out so that you can fully understand what my thought process is and"
+    },
+    {
+      "start": 1729.96,
+      "end": 1731.44,
+      "speaker": "SPEAKER_00",
+      "text": "what's going through my mind."
+    },
+    {
+      "start": 1731.44,
+      "end": 1732.6,
+      "speaker": "SPEAKER_00",
+      "text": "And they'll say, okay, great, go for it."
+    },
+    {
+      "start": 1732.6,
+      "end": 1734.76,
+      "speaker": "SPEAKER_00",
+      "text": "And then you'll talk through each of these points really quickly."
+    },
+    {
+      "start": 1734.76,
+      "end": 1736.56,
+      "speaker": "SPEAKER_00",
+      "text": "Don't be able to much, just keep it high level."
+    },
+    {
+      "start": 1736.56,
+      "end": 1740.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "And then finally, talk about whether you think you should invest in hybrid trucks or not."
+    },
+    {
+      "start": 1740.9199999999998,
+      "end": 1744.76,
+      "speaker": "SPEAKER_00",
+      "text": "And in this scenario, I'm just going to pick the no bucket because I'm going to assume"
+    },
+    {
+      "start": 1744.76,
+      "end": 1748.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "that the hybrid trucks were not superior in any other way that they couldn't carry more"
+    },
+    {
+      "start": 1748.6799999999998,
+      "end": 1749.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "boxes, for example."
+    },
+    {
+      "start": 1749.6799999999998,
+      "end": 1750.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "They weren't more efficient."
+    },
+    {
+      "start": 1750.6799999999998,
+      "end": 1754.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so, and I also didn't think that the fuel prices were going to increase by that"
+    },
+    {
+      "start": 1754.6399999999999,
+      "end": 1757.24,
+      "speaker": "SPEAKER_00",
+      "text": "dramatically given the current economic environment."
+    },
+    {
+      "start": 1757.24,
+      "end": 1759.36,
+      "speaker": "SPEAKER_00",
+      "text": "And so let's just say that I went with no."
+    },
+    {
+      "start": 1759.36,
+      "end": 1761.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And so I would say, okay, great."
+    },
+    {
+      "start": 1761.16,
+      "end": 1765.92,
+      "speaker": "SPEAKER_00",
+      "text": "So, and based on my understanding of all of these points, I would still recommend against"
+    },
+    {
+      "start": 1765.92,
+      "end": 1770.0400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "investing in hybrid trucks because I don't believe that the fuel prices are going to increase"
+    },
+    {
+      "start": 1770.0400000000002,
+      "end": 1772.44,
+      "speaker": "SPEAKER_00",
+      "text": "that dramatically over the long term."
+    },
+    {
+      "start": 1772.44,
+      "end": 1776.24,
+      "speaker": "SPEAKER_00",
+      "text": "And also because the hybrid trucks are much more expensive."
+    },
+    {
+      "start": 1776.24,
+      "end": 1780.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And also because there's minimal advantage to using the hybrid trucks from an efficiency"
+    },
+    {
+      "start": 1780.3600000000001,
+      "end": 1782.48,
+      "speaker": "SPEAKER_00",
+      "text": "and carrying capacity perspective."
+    },
+    {
+      "start": 1782.48,
+      "end": 1787.3200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "And so I don't believe that at least right now it makes sense for us to invest upfront"
+    },
+    {
+      "start": 1787.3200000000002,
+      "end": 1789.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "in these more costly trucks."
+    },
+    {
+      "start": 1789.56,
+      "end": 1792.84,
+      "speaker": "SPEAKER_00",
+      "text": "And so just stop there and get the interviewer's thoughts."
+    },
+    {
+      "start": 1792.84,
+      "end": 1795.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "But usually after this, the interviewer will start guiding you to the next part of the"
+    },
+    {
+      "start": 1795.3999999999999,
+      "end": 1798.2,
+      "speaker": "SPEAKER_00",
+      "text": "question, which in this case is the brainstorm."
+    },
+    {
+      "start": 1798.2,
+      "end": 1802.48,
+      "speaker": "SPEAKER_00",
+      "text": "And so the brainstorming problem reads, the client also wants to get our thoughts on how"
+    },
+    {
+      "start": 1802.48,
+      "end": 1804.96,
+      "speaker": "SPEAKER_00",
+      "text": "they can reduce their shortage of truckers."
+    },
+    {
+      "start": 1804.96,
+      "end": 1807.84,
+      "speaker": "SPEAKER_00",
+      "text": "Brainstorm some ways national logistics can reduce their shortage."
+    },
+    {
+      "start": 1807.84,
+      "end": 1808.84,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1808.84,
+      "end": 1811.8,
+      "speaker": "SPEAKER_00",
+      "text": "So brainstorming sections are quite common in case interviews."
+    },
+    {
+      "start": 1811.8,
+      "end": 1817.96,
+      "speaker": "SPEAKER_00",
+      "text": "And they're really there to test your ability to just come up with ideas on the spot."
+    },
+    {
+      "start": 1817.96,
+      "end": 1822.4,
+      "speaker": "SPEAKER_00",
+      "text": "And it's not so much about coming up with the right answer as it is coming up with a"
+    },
+    {
+      "start": 1822.4,
+      "end": 1826.76,
+      "speaker": "SPEAKER_00",
+      "text": "well thought out array of different answers or different solutions."
+    },
+    {
+      "start": 1826.76,
+      "end": 1832.44,
+      "speaker": "SPEAKER_00",
+      "text": "And so don't be afraid also to take a few seconds here as well to come up with a few ideas"
+    },
+    {
+      "start": 1832.44,
+      "end": 1835.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "if you don't feel like you can just come up with things on the fly."
+    },
+    {
+      "start": 1835.3600000000001,
+      "end": 1838.64,
+      "speaker": "SPEAKER_00",
+      "text": "And so I would ask the interviewer, hey, can I take just another 30 seconds to put together"
+    },
+    {
+      "start": 1838.64,
+      "end": 1839.64,
+      "speaker": "SPEAKER_00",
+      "text": "some thoughts?"
+    },
+    {
+      "start": 1839.64,
+      "end": 1840.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And they would of course say yes."
+    },
+    {
+      "start": 1840.8400000000001,
+      "end": 1841.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So let's do that."
+    },
+    {
+      "start": 1841.8400000000001,
+      "end": 1842.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1842.8400000000001,
+      "end": 1847.16,
+      "speaker": "SPEAKER_00",
+      "text": "So I've thrown together a few ideas here that I'll just walk you through."
+    },
+    {
+      "start": 1848.16,
+      "end": 1852.52,
+      "speaker": "SPEAKER_00",
+      "text": "In no particular order, some things that the company could do here to reduce the trucker"
+    },
+    {
+      "start": 1852.52,
+      "end": 1856.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "shortage is one, they could obviously try to increase wages."
+    },
+    {
+      "start": 1856.6000000000001,
+      "end": 1860.2,
+      "speaker": "SPEAKER_00",
+      "text": "But here we know that that's probably not going to be a very feasible alternative."
+    },
+    {
+      "start": 1860.2,
+      "end": 1862.0,
+      "speaker": "SPEAKER_00",
+      "text": "I've just put it here to be holistic."
+    },
+    {
+      "start": 1862.0,
+      "end": 1866.4,
+      "speaker": "SPEAKER_00",
+      "text": "But two, they could also create other sorts of incentives to really attract people to work"
+    },
+    {
+      "start": 1866.4,
+      "end": 1869.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "at the company and to retain their current employees."
+    },
+    {
+      "start": 1869.0800000000002,
+      "end": 1873.52,
+      "speaker": "SPEAKER_00",
+      "text": "And so these could be things like benefits for existing employees."
+    },
+    {
+      "start": 1873.52,
+      "end": 1878.56,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe that's increasing PTO or better health insurance, better parental leave policies"
+    },
+    {
+      "start": 1878.56,
+      "end": 1881.04,
+      "speaker": "SPEAKER_00",
+      "text": "or more flexible vocation policies, for example."
+    },
+    {
+      "start": 1881.04,
+      "end": 1884.84,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe there's even like bonuses that truckers can get for successfully completing X number"
+    },
+    {
+      "start": 1884.84,
+      "end": 1888.32,
+      "speaker": "SPEAKER_00",
+      "text": "of roots in X amount of time, for example, just throwing ideas out there."
+    },
+    {
+      "start": 1888.32,
+      "end": 1892.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "You could also create some sort of promotion to attract new people to become drivers."
+    },
+    {
+      "start": 1892.8799999999999,
+      "end": 1895.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Whether that's like a referral bonus for your current employees like, hey, we'll pay"
+    },
+    {
+      "start": 1895.8799999999999,
+      "end": 1901.0,
+      "speaker": "SPEAKER_00",
+      "text": "you $4,000 if you refer a friend who gets hired to work at this trucking company."
+    },
+    {
+      "start": 1901.0,
+      "end": 1906.6,
+      "speaker": "SPEAKER_00",
+      "text": "Or also promotions that attract people to come work at your company like, hey, join"
+    },
+    {
+      "start": 1906.6,
+      "end": 1910.32,
+      "speaker": "SPEAKER_00",
+      "text": "this trucking company where you're going to have better benefits than your competitors."
+    },
+    {
+      "start": 1910.32,
+      "end": 1913.52,
+      "speaker": "SPEAKER_00",
+      "text": "And then the final thing that you can also do is you can go beyond just your company and"
+    },
+    {
+      "start": 1913.52,
+      "end": 1920.08,
+      "speaker": "SPEAKER_00",
+      "text": "look outside and you could hire a third party fleet of truckers to support increased"
+    },
+    {
+      "start": 1920.08,
+      "end": 1921.84,
+      "speaker": "SPEAKER_00",
+      "text": "demand during the holiday season, for example."
+    },
+    {
+      "start": 1921.84,
+      "end": 1925.16,
+      "speaker": "SPEAKER_00",
+      "text": "Or whenever you have any sort of shortages, these are just a few ideas that you could think"
+    },
+    {
+      "start": 1925.16,
+      "end": 1926.16,
+      "speaker": "SPEAKER_00",
+      "text": "of."
+    },
+    {
+      "start": 1926.16,
+      "end": 1929.84,
+      "speaker": "SPEAKER_00",
+      "text": "The goal here is you just want to throw out as many ideas as you can and talk the interviewer"
+    },
+    {
+      "start": 1929.84,
+      "end": 1931.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "through each idea."
+    },
+    {
+      "start": 1931.9599999999998,
+      "end": 1934.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "But finally, we've come to the conclusion of the case."
+    },
+    {
+      "start": 1934.1999999999998,
+      "end": 1939.8,
+      "speaker": "SPEAKER_00",
+      "text": "And so at the end of every case, the interviewer will usually ask you to synthesize your findings"
+    },
+    {
+      "start": 1939.8,
+      "end": 1944.72,
+      "speaker": "SPEAKER_00",
+      "text": "and synthesis is basically just looking through everything that you've learned today and"
+    },
+    {
+      "start": 1944.72,
+      "end": 1948.48,
+      "speaker": "SPEAKER_00",
+      "text": "summing it all up in a very concise recommendation in like 30 seconds."
+    },
+    {
+      "start": 1948.48,
+      "end": 1952.84,
+      "speaker": "SPEAKER_00",
+      "text": "And so the typical way that it's presented to you here would be, imagine that the CEO"
+    },
+    {
+      "start": 1952.84,
+      "end": 1956.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "of the company is walking down the hall and you're in a conference room and you have about"
+    },
+    {
+      "start": 1956.96,
+      "end": 1961.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "30 seconds to think through what you would say to the CEO and what you would recommend."
+    },
+    {
+      "start": 1961.6000000000001,
+      "end": 1962.76,
+      "speaker": "SPEAKER_00",
+      "text": "What would you tell them?"
+    },
+    {
+      "start": 1962.76,
+      "end": 1966.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And so you can take about like 20 to 30 seconds to really think through."
+    },
+    {
+      "start": 1966.3600000000001,
+      "end": 1970.68,
+      "speaker": "SPEAKER_00",
+      "text": "And this is where I usually like to scroll back up and look through my notes and really"
+    },
+    {
+      "start": 1970.68,
+      "end": 1973.16,
+      "speaker": "SPEAKER_00",
+      "text": "think through everything that I've learned today, right?"
+    },
+    {
+      "start": 1973.16,
+      "end": 1977.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And a helpful format that I like to follow and that other colleagues of mine have also"
+    },
+    {
+      "start": 1977.1200000000001,
+      "end": 1982.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "recommended is you always want to start with a quick restatement of the problem, state"
+    },
+    {
+      "start": 1982.1200000000001,
+      "end": 1983.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "your findings."
+    },
+    {
+      "start": 1983.12,
+      "end": 1987.28,
+      "speaker": "SPEAKER_00",
+      "text": "You're going to provide a recommendation and then you want to provide some risks and finally"
+    },
+    {
+      "start": 1987.28,
+      "end": 1990.32,
+      "speaker": "SPEAKER_00",
+      "text": "end with next steps."
+    },
+    {
+      "start": 1990.32,
+      "end": 1994.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "And so I know that seems like kind of a lot, but the way that this would sound in practice"
+    },
+    {
+      "start": 1994.1999999999998,
+      "end": 1996.0,
+      "speaker": "SPEAKER_00",
+      "text": "is a lot more succinct."
+    },
+    {
+      "start": 1996.0,
+      "end": 1997.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "And so this is how I would go about it."
+    },
+    {
+      "start": 1997.9599999999998,
+      "end": 1998.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome."
+    },
+    {
+      "start": 1998.9599999999998,
+      "end": 2003.1999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So as a reminder, we were tasked with thinking about how we could lower the operational costs"
+    },
+    {
+      "start": 2003.1999999999998,
+      "end": 2008.28,
+      "speaker": "SPEAKER_00",
+      "text": "of the business and what we found is through our analysis of the different trucking options"
+    },
+    {
+      "start": 2008.28,
+      "end": 2009.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "and paths forward."
+    },
+    {
+      "start": 2009.68,
+      "end": 2014.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "There's currently no advantage from a cost perspective of investing in a hybrid fleet,"
+    },
+    {
+      "start": 2014.6000000000001,
+      "end": 2015.88,
+      "speaker": "SPEAKER_00",
+      "text": "as opposed to a standard fleet."
+    },
+    {
+      "start": 2015.88,
+      "end": 2019.68,
+      "speaker": "SPEAKER_00",
+      "text": "However, this can change based on the fuel prices in the future."
+    },
+    {
+      "start": 2019.68,
+      "end": 2023.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "But since we don't see fuel prices increasing dramatically over the long term, we recommend"
+    },
+    {
+      "start": 2023.8400000000001,
+      "end": 2028.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "sticking with a standard fleet because it's more economical at lower fuel prices."
+    },
+    {
+      "start": 2028.5600000000002,
+      "end": 2032.8,
+      "speaker": "SPEAKER_00",
+      "text": "And we also recommend implementing policies to increase driver retention and attract new"
+    },
+    {
+      "start": 2032.8,
+      "end": 2037.16,
+      "speaker": "SPEAKER_00",
+      "text": "truckers to alleviate the shortage, as well as hiring outside help to support the heavy"
+    },
+    {
+      "start": 2037.16,
+      "end": 2038.16,
+      "speaker": "SPEAKER_00",
+      "text": "season."
+    },
+    {
+      "start": 2038.16,
+      "end": 2043.88,
+      "speaker": "SPEAKER_00",
+      "text": "But the risk to this strategy is obviously gas prices potentially increasing more than"
+    },
+    {
+      "start": 2043.88,
+      "end": 2049.32,
+      "speaker": "SPEAKER_00",
+      "text": "we anticipate, as well as the possibility that our policies or our incentive programs may"
+    },
+    {
+      "start": 2049.32,
+      "end": 2051.16,
+      "speaker": "SPEAKER_00",
+      "text": "not work as well as planned."
+    },
+    {
+      "start": 2051.16,
+      "end": 2055.08,
+      "speaker": "SPEAKER_00",
+      "text": "And we may run into a potential driver shortage, or potentially that hiring outside help"
+    },
+    {
+      "start": 2055.08,
+      "end": 2057.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "may be more costly than anticipated."
+    },
+    {
+      "start": 2057.2400000000002,
+      "end": 2061.76,
+      "speaker": "SPEAKER_00",
+      "text": "But as a potential next step, we would recommend looking into the cost of hiring outside help,"
+    },
+    {
+      "start": 2061.76,
+      "end": 2066.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "just to analyze what it would take to really bring on that outside help and how feasible"
+    },
+    {
+      "start": 2066.24,
+      "end": 2069.72,
+      "speaker": "SPEAKER_00",
+      "text": "the implementation of that would be as well as the other policies that we've mentioned"
+    },
+    {
+      "start": 2069.72,
+      "end": 2073.4799999999996,
+      "speaker": "SPEAKER_00",
+      "text": "with driving user retention and also implementing a new standard fleet of trucks."
+    },
+    {
+      "start": 2073.4799999999996,
+      "end": 2075.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so that was the case."
+    },
+    {
+      "start": 2075.08,
+      "end": 2077.08,
+      "speaker": "SPEAKER_00",
+      "text": "I hope this was helpful, and I'll see you guys in the next one."
+    }
+  ],
+  "grading": {
+    "communication": 13,
+    "framework": 10,
+    "math": 7,
+    "case_difficulty": 8,
+    "final_summary": 12,
+    "overall_thoughts": "You did a good job overall but struggled with some math concepts; make sure to provide more context in your analysis."
+  }
+}

@@ -1,0 +1,1970 @@
+[
+  {
+    "start": 0.0,
+    "end": 9.0,
+    "speaker": "SPEAKER_03",
+    "text": "Hey everyone, welcome back to another exciting Rocketblocksmark interview."
+  },
+  {
+    "start": 9.0,
+    "end": 12.200000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Today we've got a brand new case titled Retail Rumble."
+  },
+  {
+    "start": 12.200000000000001,
+    "end": 17.2,
+    "speaker": "SPEAKER_03",
+    "text": "In this case, a major pharmaceutical chain called Health Plus is grappling with prescription"
+  },
+  {
+    "start": 17.2,
+    "end": 21.44,
+    "speaker": "SPEAKER_03",
+    "text": "drug declines and fierce competition which are impacting profitability."
+  },
+  {
+    "start": 21.44,
+    "end": 25.8,
+    "speaker": "SPEAKER_03",
+    "text": "In this case, the candidate is expected to analyze the challenges, explore strategic"
+  },
+  {
+    "start": 25.8,
+    "end": 30.6,
+    "speaker": "SPEAKER_03",
+    "text": "responses and provide recommendations for Health Plus to improve its bottom line."
+  },
+  {
+    "start": 30.6,
+    "end": 36.44,
+    "speaker": "SPEAKER_03",
+    "text": "Joining us today is Ashwin Shetty, an ex-Bain in company manager and deloitte director."
+  },
+  {
+    "start": 36.44,
+    "end": 41.68,
+    "speaker": "SPEAKER_03",
+    "text": "Our brilliant candidate for today is Abigail Doxan, an ex-BCG consultant who is currently"
+  },
+  {
+    "start": 41.68,
+    "end": 44.68,
+    "speaker": "SPEAKER_03",
+    "text": "completing their MBA for Meele School of Management."
+  },
+  {
+    "start": 44.68,
+    "end": 47.44,
+    "speaker": "SPEAKER_03",
+    "text": "So without further ado, let's get started."
+  },
+  {
+    "start": 47.44,
+    "end": 48.44,
+    "speaker": "SPEAKER_03",
+    "text": "Welcome Abby."
+  },
+  {
+    "start": 48.44,
+    "end": 54.44,
+    "speaker": "SPEAKER_04",
+    "text": "I'm Ashwin, former Bain Manager and the Law Director and I play the role of an interviewer"
+  },
+  {
+    "start": 54.44,
+    "end": 55.44,
+    "speaker": "SPEAKER_04",
+    "text": "today."
+  },
+  {
+    "start": 55.44,
+    "end": 57.04,
+    "speaker": "SPEAKER_00",
+    "text": "Hi everyone."
+  },
+  {
+    "start": 57.04,
+    "end": 58.879999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "My name is Abby."
+  },
+  {
+    "start": 58.879999999999995,
+    "end": 63.92,
+    "speaker": "SPEAKER_00",
+    "text": "I completed some internships at Microsoft in Deloitte, spent a couple years at the Boston"
+  },
+  {
+    "start": 63.92,
+    "end": 69.28,
+    "speaker": "SPEAKER_00",
+    "text": "Consulting Group and then spent a couple years in private equity as well but currently"
+  },
+  {
+    "start": 69.28,
+    "end": 70.75999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "in MBA Canada."
+  },
+  {
+    "start": 70.75999999999999,
+    "end": 72.75999999999999,
+    "speaker": "SPEAKER_04",
+    "text": "Great, thank you."
+  },
+  {
+    "start": 72.75999999999999,
+    "end": 75.52,
+    "speaker": "SPEAKER_04",
+    "text": "Thank you Abby for doing this."
+  },
+  {
+    "start": 75.52,
+    "end": 76.92,
+    "speaker": "SPEAKER_04",
+    "text": "I have a health care case for you."
+  },
+  {
+    "start": 76.92,
+    "end": 83.28,
+    "speaker": "SPEAKER_04",
+    "text": "I hope you enjoy health care as a sector and let me go into the case prompt."
+  },
+  {
+    "start": 83.28,
+    "end": 88.48,
+    "speaker": "SPEAKER_04",
+    "text": "Net Plus, the second largest retail pharmacy chain nationally is feeling the pinch from"
+  },
+  {
+    "start": 88.48,
+    "end": 91.24,
+    "speaker": "SPEAKER_04",
+    "text": "a changing market landscape."
+  },
+  {
+    "start": 91.24,
+    "end": 96.2,
+    "speaker": "SPEAKER_04",
+    "text": "Recently there has been a major change that has shaken up the retail pharmacy industry."
+  },
+  {
+    "start": 96.2,
+    "end": 100.28,
+    "speaker": "SPEAKER_04",
+    "text": "Prescription drug price reimbursements have declined by about 10% resulting in a major"
+  },
+  {
+    "start": 100.28,
+    "end": 102.52000000000001,
+    "speaker": "SPEAKER_04",
+    "text": "hit to the industry's top line."
+  },
+  {
+    "start": 102.52000000000001,
+    "end": 108.0,
+    "speaker": "SPEAKER_04",
+    "text": "Now this decline combined with fierce competition from brick and mortar players and online retailers"
+  },
+  {
+    "start": 108.0,
+    "end": 112.84,
+    "speaker": "SPEAKER_04",
+    "text": "have resulted in significant decrease in health plus's profitability."
+  },
+  {
+    "start": 112.84,
+    "end": 116.84,
+    "speaker": "SPEAKER_04",
+    "text": "That is asking you to recommend how they should respond."
+  },
+  {
+    "start": 116.84,
+    "end": 121.76,
+    "speaker": "SPEAKER_00",
+    "text": "Great, thank you so much."
+  },
+  {
+    "start": 121.76,
+    "end": 124.52000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "For the background there, a couple quick clarifying questions."
+  },
+  {
+    "start": 124.52000000000001,
+    "end": 131.6,
+    "speaker": "SPEAKER_00",
+    "text": "So, recognize they're the second largest retail chain pharmacy retail chain nationally."
+  },
+  {
+    "start": 131.6,
+    "end": 134.64000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Just to give a sense of their breakdown and revenue."
+  },
+  {
+    "start": 134.64000000000001,
+    "end": 140.04,
+    "speaker": "SPEAKER_00",
+    "text": "What are kind of their key segments within revenue or how do they segment their revenue"
+  },
+  {
+    "start": 140.04,
+    "end": 141.04,
+    "speaker": "SPEAKER_04",
+    "text": "streams?"
+  },
+  {
+    "start": 141.76,
+    "end": 147.32,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, so the revenue breakdown is 70% is prescription drugs."
+  },
+  {
+    "start": 147.32,
+    "end": 150.35999999999999,
+    "speaker": "SPEAKER_04",
+    "text": "20% is OTC or over the counter drugs."
+  },
+  {
+    "start": 150.35999999999999,
+    "end": 155.0,
+    "speaker": "SPEAKER_04",
+    "text": "And 10% revenue comes from health consultations."
+  },
+  {
+    "start": 155.0,
+    "end": 157.32,
+    "speaker": "SPEAKER_00",
+    "text": "Fantastic, thank you."
+  },
+  {
+    "start": 157.32,
+    "end": 159.12,
+    "speaker": "SPEAKER_00",
+    "text": "One more quick clarifying question."
+  },
+  {
+    "start": 159.12,
+    "end": 163.28,
+    "speaker": "SPEAKER_00",
+    "text": "Don't have a large background in health care and just wondering if you can provide a bit"
+  },
+  {
+    "start": 163.28,
+    "end": 168.39999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "more insight or detail on how exactly decreased reimbursement rates for prescription"
+  },
+  {
+    "start": 168.4,
+    "end": 171.76000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "drug impacts, health plus's profitability."
+  },
+  {
+    "start": 171.76000000000002,
+    "end": 174.76000000000002,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, that's a good question."
+  },
+  {
+    "start": 174.76000000000002,
+    "end": 179.20000000000002,
+    "speaker": "SPEAKER_04",
+    "text": "Now, health plus like other pharmacies operates on a reimbursement model."
+  },
+  {
+    "start": 179.20000000000002,
+    "end": 183.16,
+    "speaker": "SPEAKER_04",
+    "text": "Whether buy drugs and they get reimbursed by insurance companies."
+  },
+  {
+    "start": 183.16,
+    "end": 185.52,
+    "speaker": "SPEAKER_04",
+    "text": "However, reimbursement rates have been falling."
+  },
+  {
+    "start": 185.52,
+    "end": 191.12,
+    "speaker": "SPEAKER_04",
+    "text": "So last year there was almost a 10% decline or 10% cut."
+  },
+  {
+    "start": 191.12,
+    "end": 194.84,
+    "speaker": "SPEAKER_04",
+    "text": "As a majority of health plus sales that you just saw from the revenue breakdown comes"
+  },
+  {
+    "start": 194.84,
+    "end": 196.6,
+    "speaker": "SPEAKER_04",
+    "text": "from prescription drugs."
+  },
+  {
+    "start": 196.6,
+    "end": 200.44,
+    "speaker": "SPEAKER_04",
+    "text": "This has had a substantial negative effect on their profit margins."
+  },
+  {
+    "start": 200.44,
+    "end": 204.4,
+    "speaker": "SPEAKER_00",
+    "text": "Great, thank you so much."
+  },
+  {
+    "start": 204.4,
+    "end": 207.68,
+    "speaker": "SPEAKER_00",
+    "text": "If you don't mind, I'm just going to take a few seconds to gather my thoughts and kind"
+  },
+  {
+    "start": 207.68,
+    "end": 210.64000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "of write down how we'll go through this problem together."
+  },
+  {
+    "start": 210.64000000000001,
+    "end": 212.88,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, go ahead."
+  },
+  {
+    "start": 212.88,
+    "end": 213.88,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 213.88,
+    "end": 214.88,
+    "speaker": "UNKNOWN",
+    "text": "Yeah."
+  },
+  {
+    "start": 214.88,
+    "end": 223.04,
+    "speaker": "SPEAKER_00",
+    "text": "I have an idea of how to just sort of think through ways to solve this profitability"
+  },
+  {
+    "start": 223.04,
+    "end": 225.79999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "problem or think about the profitability problem."
+  },
+  {
+    "start": 225.79999999999998,
+    "end": 229.56,
+    "speaker": "SPEAKER_00",
+    "text": "And at the core, they really need to increase profits, right?"
+  },
+  {
+    "start": 229.56,
+    "end": 235.16,
+    "speaker": "SPEAKER_00",
+    "text": "And so I'm thinking of dividing this into kind of two buckets."
+  },
+  {
+    "start": 235.16,
+    "end": 239.92,
+    "speaker": "SPEAKER_00",
+    "text": "One, we can either improve their top line or their revenue to increase profits or two,"
+  },
+  {
+    "start": 239.92,
+    "end": 245.04,
+    "speaker": "SPEAKER_00",
+    "text": "we can improve their bottom line or reduce costs to increase profits."
+  },
+  {
+    "start": 245.04,
+    "end": 250.95999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "So within that first bucket, improved top line, two kind of things come to mind."
+  },
+  {
+    "start": 250.96,
+    "end": 254.96,
+    "speaker": "SPEAKER_00",
+    "text": "And the number of A would be increasing the diversification of our revenues."
+  },
+  {
+    "start": 254.96,
+    "end": 260.32,
+    "speaker": "SPEAKER_00",
+    "text": "So 70% of revenue today is from these prescription drugs, as you mentioned, which means they're"
+  },
+  {
+    "start": 260.32,
+    "end": 263.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "going to be fairly impacted by declining reimbursement rates."
+  },
+  {
+    "start": 263.40000000000003,
+    "end": 269.04,
+    "speaker": "SPEAKER_00",
+    "text": "But maybe there's a way to grow their over the counter segment more potentially reaching"
+  },
+  {
+    "start": 269.04,
+    "end": 277.08,
+    "speaker": "SPEAKER_00",
+    "text": "out to new customers or trying to market to customers to really push their OTC sales"
+  },
+  {
+    "start": 277.08,
+    "end": 278.96000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "or grow within their retail stores."
+  },
+  {
+    "start": 278.96,
+    "end": 285.06,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe there's other services that they could offer and grow that 10% kind of services"
+  },
+  {
+    "start": 285.06,
+    "end": 286.64,
+    "speaker": "SPEAKER_00",
+    "text": "bucket that you mentioned."
+  },
+  {
+    "start": 286.64,
+    "end": 291.91999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "So really just diversify revenue away from that 70% from prescriptions is kind of my"
+  },
+  {
+    "start": 291.91999999999996,
+    "end": 296.44,
+    "speaker": "SPEAKER_00",
+    "text": "first thought of a way to increase profits."
+  },
+  {
+    "start": 296.44,
+    "end": 301.12,
+    "speaker": "SPEAKER_00",
+    "text": "Kind of point B, another way that we could improve profits by increasing or improving the"
+  },
+  {
+    "start": 301.12,
+    "end": 305.76,
+    "speaker": "SPEAKER_00",
+    "text": "top line would be perhaps we expand into new sales channels."
+  },
+  {
+    "start": 305.76,
+    "end": 311.08,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe we increase our digital sales or do a digital transformation to try to grow sales"
+  },
+  {
+    "start": 311.08,
+    "end": 315.2,
+    "speaker": "SPEAKER_00",
+    "text": "through an app or through our online website."
+  },
+  {
+    "start": 315.2,
+    "end": 319.4,
+    "speaker": "SPEAKER_00",
+    "text": "Because I imagine the prescriptions are really based on in-store sales."
+  },
+  {
+    "start": 319.4,
+    "end": 323.8,
+    "speaker": "SPEAKER_00",
+    "text": "You go to pick it up, but maybe by kind of increasing our focus on other channels, we can"
+  },
+  {
+    "start": 323.8,
+    "end": 328.56,
+    "speaker": "SPEAKER_00",
+    "text": "grow revenue away from that as well."
+  },
+  {
+    "start": 328.56,
+    "end": 333.4,
+    "speaker": "SPEAKER_00",
+    "text": "So just perhaps a digital transformation improve user functionality of the app that we may"
+  },
+  {
+    "start": 333.4,
+    "end": 336.79999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "already have, build an app if we don't have one."
+  },
+  {
+    "start": 336.79999999999995,
+    "end": 342.12,
+    "speaker": "SPEAKER_00",
+    "text": "So that's kind of my second idea for improving the top line."
+  },
+  {
+    "start": 342.12,
+    "end": 346.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "And then the bucket too, I mentioned improving the bottom line, a couple things come to mind"
+  },
+  {
+    "start": 346.15999999999997,
+    "end": 347.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "within that."
+  },
+  {
+    "start": 347.15999999999997,
+    "end": 354.44,
+    "speaker": "SPEAKER_00",
+    "text": "I guess A would be store optimization or potentially closing some unprofitable stores."
+  },
+  {
+    "start": 354.44,
+    "end": 358.91999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "So if we're having kind of a decline in profits, maybe it's focused within stores in certain"
+  },
+  {
+    "start": 358.92,
+    "end": 365.0,
+    "speaker": "SPEAKER_00",
+    "text": "regions or certain geos and having kind of a look at stores and see if we can reduce"
+  },
+  {
+    "start": 365.0,
+    "end": 369.68,
+    "speaker": "SPEAKER_00",
+    "text": "the few that are unprofitable if it's concentrated in a few stores."
+  },
+  {
+    "start": 369.68,
+    "end": 371.96000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "And that could improve profits."
+  },
+  {
+    "start": 371.96000000000004,
+    "end": 375.8,
+    "speaker": "SPEAKER_00",
+    "text": "The second one I was thinking about kind of within improving bottom line is potentially"
+  },
+  {
+    "start": 375.8,
+    "end": 379.28000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "we increase kind of cost efficiencies on a per-store basis."
+  },
+  {
+    "start": 379.28000000000003,
+    "end": 382.36,
+    "speaker": "SPEAKER_00",
+    "text": "We could improve kind of labor efficiencies per store."
+  },
+  {
+    "start": 382.36,
+    "end": 386.92,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe you hire fewer people at a time working in a store."
+  },
+  {
+    "start": 386.92,
+    "end": 392.64000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe you have supply chain or sourcing efficiencies where you could kind of bulk source your"
+  },
+  {
+    "start": 392.64000000000004,
+    "end": 397.04,
+    "speaker": "SPEAKER_00",
+    "text": "goods for all stores within a region and potentially save on some costs for those retail"
+  },
+  {
+    "start": 397.04,
+    "end": 398.04,
+    "speaker": "SPEAKER_00",
+    "text": "items."
+  },
+  {
+    "start": 398.04,
+    "end": 402.8,
+    "speaker": "SPEAKER_00",
+    "text": "So there's maybe some things that you could do on kind of a per-store cost or profitability"
+  },
+  {
+    "start": 402.8,
+    "end": 403.8,
+    "speaker": "SPEAKER_00",
+    "text": "basis."
+  },
+  {
+    "start": 403.8,
+    "end": 410.28000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "But overall, those are kind of the buckets I was thinking about in terms of how to view"
+  },
+  {
+    "start": 410.28000000000003,
+    "end": 414.0,
+    "speaker": "SPEAKER_00",
+    "text": "or further analyze this profitability problem."
+  },
+  {
+    "start": 414.0,
+    "end": 415.24,
+    "speaker": "SPEAKER_04",
+    "text": "Got it, great."
+  },
+  {
+    "start": 415.24,
+    "end": 418.24,
+    "speaker": "SPEAKER_04",
+    "text": "I like your classification here."
+  },
+  {
+    "start": 418.24,
+    "end": 425.08,
+    "speaker": "SPEAKER_04",
+    "text": "The revenue versus the cost reduction versus the revenue enhancement initiatives."
+  },
+  {
+    "start": 425.08,
+    "end": 429.64,
+    "speaker": "SPEAKER_04",
+    "text": "Which of these initiatives that you have listed or the strategies that you have listed,"
+  },
+  {
+    "start": 429.64,
+    "end": 433.52,
+    "speaker": "SPEAKER_04",
+    "text": "you think we'll have a more immediate impact to the client?"
+  },
+  {
+    "start": 433.52,
+    "end": 434.52,
+    "speaker": "SPEAKER_00",
+    "text": "Good question."
+  },
+  {
+    "start": 434.52,
+    "end": 437.12,
+    "speaker": "SPEAKER_00",
+    "text": "So most immediate impact."
+  },
+  {
+    "start": 437.12,
+    "end": 442.28000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Well if we think about kind of a top-line buckets, revenue diversification or expanding"
+  },
+  {
+    "start": 442.28,
+    "end": 448.44,
+    "speaker": "SPEAKER_00",
+    "text": "channels, imagine those would take some investment up front, kind of hockey stick growth, which"
+  },
+  {
+    "start": 448.44,
+    "end": 450.11999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "means it likely won't be immediate."
+  },
+  {
+    "start": 450.11999999999995,
+    "end": 451.11999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "It would take some time."
+  },
+  {
+    "start": 451.11999999999995,
+    "end": 455.55999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "So it wouldn't instantly kind of solve this profitability problem."
+  },
+  {
+    "start": 455.55999999999995,
+    "end": 456.55999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "So not those."
+  },
+  {
+    "start": 456.55999999999995,
+    "end": 462.08,
+    "speaker": "SPEAKER_00",
+    "text": "If I look at the bottom line buckets, store optimization, their closures, you'd likely"
+  },
+  {
+    "start": 462.08,
+    "end": 466.64,
+    "speaker": "SPEAKER_00",
+    "text": "have to take some action to close stores, but it'd likely be fairly immediate."
+  },
+  {
+    "start": 466.64,
+    "end": 469.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "If you have non-profitable storing, you close it down."
+  },
+  {
+    "start": 469.64000000000004,
+    "end": 474.20000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "The profits per store bit the labor efficiencies or supply chain efficiencies that I mentioned,"
+  },
+  {
+    "start": 474.20000000000005,
+    "end": 479.92,
+    "speaker": "SPEAKER_00",
+    "text": "that might as well take some investment specifically on the supply chain side."
+  },
+  {
+    "start": 479.92,
+    "end": 487.8,
+    "speaker": "SPEAKER_00",
+    "text": "You have to probably invest some time into initiatives to improve these profits per store."
+  },
+  {
+    "start": 487.8,
+    "end": 493.08000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "So kind of reviewing that, I think the store optimization slash closures would be kind"
+  },
+  {
+    "start": 493.08000000000004,
+    "end": 499.16,
+    "speaker": "SPEAKER_00",
+    "text": "of the most immediate avenue to take to improve profitability in the near term."
+  },
+  {
+    "start": 499.16,
+    "end": 500.16,
+    "speaker": "SPEAKER_04",
+    "text": "Got it. Thanks."
+  },
+  {
+    "start": 500.16,
+    "end": 502.44,
+    "speaker": "SPEAKER_04",
+    "text": "Thanks a lot Abby for that."
+  },
+  {
+    "start": 502.44,
+    "end": 506.44,
+    "speaker": "SPEAKER_04",
+    "text": "Now let me share an exhibit with you on client's profitability."
+  },
+  {
+    "start": 506.44,
+    "end": 513.28,
+    "speaker": "SPEAKER_04",
+    "text": "Now what I want you to do is Abby, if you can share key takeaways from this exhibit that"
+  },
+  {
+    "start": 513.28,
+    "end": 515.28,
+    "speaker": "SPEAKER_04",
+    "text": "I'm sharing with you."
+  },
+  {
+    "start": 515.28,
+    "end": 519.6,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, let me quickly scan this."
+  },
+  {
+    "start": 519.6,
+    "end": 525.96,
+    "speaker": "SPEAKER_00",
+    "text": "So looking at the exhibits, I see we have kind of a breakdown by market number of stores,"
+  },
+  {
+    "start": 525.96,
+    "end": 531.96,
+    "speaker": "SPEAKER_00",
+    "text": "for profitable stores, revenue costs and profit by market, and then we have the total"
+  },
+  {
+    "start": 531.96,
+    "end": 536.52,
+    "speaker": "SPEAKER_00",
+    "text": "it appears for the entire company as well."
+  },
+  {
+    "start": 536.52,
+    "end": 542.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So looking at these two tables kind of side by side, the first thing that jumps out to"
+  },
+  {
+    "start": 542.5600000000001,
+    "end": 547.24,
+    "speaker": "SPEAKER_00",
+    "text": "me is one, they've already started closing some stores."
+  },
+  {
+    "start": 547.24,
+    "end": 552.88,
+    "speaker": "SPEAKER_00",
+    "text": "So five years ago, they had two 12, today they have 190."
+  },
+  {
+    "start": 552.88,
+    "end": 557.76,
+    "speaker": "SPEAKER_00",
+    "text": "So they've already closed 20 plus stores and maybe they've already started taking some"
+  },
+  {
+    "start": 557.76,
+    "end": 561.04,
+    "speaker": "SPEAKER_00",
+    "text": "action into closing and profitable stores."
+  },
+  {
+    "start": 561.04,
+    "end": 563.52,
+    "speaker": "SPEAKER_00",
+    "text": "That's kind of first thing that jumps out."
+  },
+  {
+    "start": 563.52,
+    "end": 569.84,
+    "speaker": "SPEAKER_00",
+    "text": "The second thing is when we look at kind of this column of number of profitable stores,"
+  },
+  {
+    "start": 569.84,
+    "end": 576.96,
+    "speaker": "SPEAKER_00",
+    "text": "that means our hypothesis of maybe profits are concentrated in a certain or in particular"
+  },
+  {
+    "start": 576.96,
+    "end": 578.64,
+    "speaker": "SPEAKER_00",
+    "text": "stores is true."
+  },
+  {
+    "start": 578.64,
+    "end": 585.76,
+    "speaker": "SPEAKER_00",
+    "text": "There are only a few profitable stores, specifically if we look at today, it looks like about 61 stores"
+  },
+  {
+    "start": 585.76,
+    "end": 593.12,
+    "speaker": "SPEAKER_00",
+    "text": "are unprofitable or 30-ish percent of stores are unprofitable and going back to our original"
+  },
+  {
+    "start": 593.12,
+    "end": 596.24,
+    "speaker": "SPEAKER_00",
+    "text": "framework, maybe those would be stores we could consider closing."
+  },
+  {
+    "start": 596.24,
+    "end": 600.0,
+    "speaker": "SPEAKER_00",
+    "text": "So that's kind of the second thing that jumps out to me."
+  },
+  {
+    "start": 600.0,
+    "end": 605.88,
+    "speaker": "SPEAKER_00",
+    "text": "The third thing that jumps out to me, if we just look at the total profit today, AB and"
+  },
+  {
+    "start": 606.12,
+    "end": 610.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "E look like at quick glance appear to be the least profitable."
+  },
+  {
+    "start": 610.4399999999999,
+    "end": 616.52,
+    "speaker": "SPEAKER_00",
+    "text": "And E in particular, if we look at five years ago, it was also unprofitable five years ago."
+  },
+  {
+    "start": 616.52,
+    "end": 622.72,
+    "speaker": "SPEAKER_00",
+    "text": "So if we were to maybe prioritize our analysis, maybe we start with E and A and B looking"
+  },
+  {
+    "start": 622.72,
+    "end": 630.88,
+    "speaker": "SPEAKER_00",
+    "text": "at stores in those specific markets to see if there are any that are particularly unprofitable"
+  },
+  {
+    "start": 630.88,
+    "end": 632.68,
+    "speaker": "SPEAKER_00",
+    "text": "that we could look at closing."
+  },
+  {
+    "start": 632.68,
+    "end": 633.68,
+    "speaker": "UNKNOWN",
+    "text": "Got it."
+  },
+  {
+    "start": 633.68,
+    "end": 634.68,
+    "speaker": "SPEAKER_04",
+    "text": "Got it."
+  },
+  {
+    "start": 634.68,
+    "end": 635.68,
+    "speaker": "SPEAKER_04",
+    "text": "So great."
+  },
+  {
+    "start": 635.68,
+    "end": 638.92,
+    "speaker": "SPEAKER_04",
+    "text": "I think good observations there, Abby."
+  },
+  {
+    "start": 638.92,
+    "end": 646.8,
+    "speaker": "SPEAKER_04",
+    "text": "Do you think decline in profitability is largely driven by a decline in revenue or is there"
+  },
+  {
+    "start": 646.8,
+    "end": 650.76,
+    "speaker": "SPEAKER_04",
+    "text": "any other factor that is causing this decline in profitability?"
+  },
+  {
+    "start": 650.76,
+    "end": 653.56,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, that's a great question."
+  },
+  {
+    "start": 653.56,
+    "end": 663.56,
+    "speaker": "SPEAKER_00",
+    "text": "Well, it looks like revenue has declined about, it looks like I want to say that's 500 million"
+  },
+  {
+    "start": 663.56,
+    "end": 669.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "US assuming US dollars here where costs have also declined."
+  },
+  {
+    "start": 669.4799999999999,
+    "end": 671.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So of costs are declining and not going up."
+  },
+  {
+    "start": 671.4799999999999,
+    "end": 675.76,
+    "speaker": "SPEAKER_00",
+    "text": "I'm going to hypothesize that this is more so driven by declining revenue."
+  },
+  {
+    "start": 675.76,
+    "end": 680.64,
+    "speaker": "SPEAKER_04",
+    "text": "So Abby, what I want you to determine is what was the change in average profit first"
+  },
+  {
+    "start": 680.64,
+    "end": 683.68,
+    "speaker": "SPEAKER_04",
+    "text": "or from five years ago to today?"
+  },
+  {
+    "start": 683.68,
+    "end": 684.68,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 684.68,
+    "end": 687.8399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So just structuring this out here."
+  },
+  {
+    "start": 687.84,
+    "end": 689.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So change in average profit."
+  },
+  {
+    "start": 689.6800000000001,
+    "end": 697.36,
+    "speaker": "SPEAKER_00",
+    "text": "So need to calculate five years ago and today, so starting with the five years ago, we"
+  },
+  {
+    "start": 697.36,
+    "end": 707.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "had about 116 million in profit divided by 212 stores."
+  },
+  {
+    "start": 707.6800000000001,
+    "end": 713.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "I'm going to simplify and round and say that's about 120 million in profit divided by 210"
+  },
+  {
+    "start": 713.8,
+    "end": 723.52,
+    "speaker": "SPEAKER_00",
+    "text": "stores, which is equal to, if I narrow that down, about 6 divided by 10.5 or just shy"
+  },
+  {
+    "start": 723.52,
+    "end": 727.52,
+    "speaker": "SPEAKER_00",
+    "text": "of around 60%."
+  },
+  {
+    "start": 727.52,
+    "end": 735.8,
+    "speaker": "SPEAKER_00",
+    "text": "So if I apply that to our original, we just have a multiplier here that should give you"
+  },
+  {
+    "start": 735.8,
+    "end": 741.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "to just shy of 600K profit per store."
+  },
+  {
+    "start": 741.4799999999999,
+    "end": 750.04,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm going to say about 550K of profit per store five years ago."
+  },
+  {
+    "start": 750.04,
+    "end": 752.04,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, that's right."
+  },
+  {
+    "start": 752.04,
+    "end": 753.04,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 753.04,
+    "end": 754.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 754.04,
+    "end": 762.68,
+    "speaker": "SPEAKER_00",
+    "text": "And then if I look at today, we have negative 143 million of total profit divided by 190"
+  },
+  {
+    "start": 762.68,
+    "end": 765.04,
+    "speaker": "SPEAKER_00",
+    "text": "stores."
+  },
+  {
+    "start": 765.04,
+    "end": 774.52,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm going to round and say we have negative 140 million in profit divided by 190 stores,"
+  },
+  {
+    "start": 774.52,
+    "end": 778.5999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "which is equal to about 14 divided by 19."
+  },
+  {
+    "start": 778.5999999999999,
+    "end": 787.48,
+    "speaker": "SPEAKER_00",
+    "text": "Or that's about probably just shy of, or just above 75% 14 divided by 19."
+  },
+  {
+    "start": 787.48,
+    "end": 793.7199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So if I apply that to kind of our original profit estimate for the beginning digits, that's"
+  },
+  {
+    "start": 793.72,
+    "end": 802.12,
+    "speaker": "SPEAKER_00",
+    "text": "about 7 negative 750K profit per store."
+  },
+  {
+    "start": 802.12,
+    "end": 813.4,
+    "speaker": "SPEAKER_00",
+    "text": "So if I'm looking at this, profits per store have declined about 1.3 million per store."
+  },
+  {
+    "start": 813.4,
+    "end": 817.0,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, that's a remarkable decline, isn't it?"
+  },
+  {
+    "start": 817.0,
+    "end": 819.6,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, it's quite large."
+  },
+  {
+    "start": 819.6,
+    "end": 820.6,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah."
+  },
+  {
+    "start": 821.6,
+    "end": 828.2,
+    "speaker": "SPEAKER_04",
+    "text": "So again, staying on this exhibit, can you estimate how much money each unprofitable store"
+  },
+  {
+    "start": 828.2,
+    "end": 830.2,
+    "speaker": "SPEAKER_04",
+    "text": "is losing today?"
+  },
+  {
+    "start": 830.2,
+    "end": 832.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "start": 832.0,
+    "end": 842.16,
+    "speaker": "SPEAKER_00",
+    "text": "So if I just look focus on today, we have a negative 142 million or 143 million of profits."
+  },
+  {
+    "start": 842.16,
+    "end": 847.92,
+    "speaker": "SPEAKER_00",
+    "text": "And then we have unprofitable stores of the 190 minus the 129."
+  },
+  {
+    "start": 847.92,
+    "end": 859.36,
+    "speaker": "SPEAKER_00",
+    "text": "So divided by 61 stores, that's equal to, if I round about 140 million divided by 60"
+  },
+  {
+    "start": 859.36,
+    "end": 871.8,
+    "speaker": "SPEAKER_00",
+    "text": "or 7 thirds, which is going to be about 2.3 to 2.4 million per store."
+  },
+  {
+    "start": 871.8,
+    "end": 877.92,
+    "speaker": "SPEAKER_00",
+    "text": "That's assuming that our profitable stores are just breaking even though, so that's"
+  },
+  {
+    "start": 877.92,
+    "end": 885.24,
+    "speaker": "SPEAKER_00",
+    "text": "kind of the baseline floor of sort of how much profit each of our unprofitable stores"
+  },
+  {
+    "start": 885.24,
+    "end": 886.8,
+    "speaker": "SPEAKER_00",
+    "text": "are losing."
+  },
+  {
+    "start": 886.8,
+    "end": 894.8399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "If I simply assume that each profitable store, so that's about 130 of them, is earning,"
+  },
+  {
+    "start": 894.8399999999999,
+    "end": 899.56,
+    "speaker": "SPEAKER_00",
+    "text": "I'm making this up, but let's say 1 million in profit."
+  },
+  {
+    "start": 899.56,
+    "end": 905.2399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "That means our unprofitable stores will have to counteract that positive profit earned"
+  },
+  {
+    "start": 905.2399999999999,
+    "end": 906.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "from our profitable stores."
+  },
+  {
+    "start": 906.4799999999999,
+    "end": 915.8,
+    "speaker": "SPEAKER_00",
+    "text": "So each store is earning a million in profit, that's 130 stores times 1 million a piece."
+  },
+  {
+    "start": 915.8,
+    "end": 924.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So if we take that 130 million of positive profit divided by our 61 stores that are unprofitable,"
+  },
+  {
+    "start": 924.48,
+    "end": 930.08,
+    "speaker": "SPEAKER_00",
+    "text": "we get about another 2 million in profit loss per store."
+  },
+  {
+    "start": 930.08,
+    "end": 935.76,
+    "speaker": "SPEAKER_00",
+    "text": "So based on that, if we add that 2 million to the original kind of 2.3 to 2.4 million"
+  },
+  {
+    "start": 935.76,
+    "end": 941.72,
+    "speaker": "SPEAKER_00",
+    "text": "per store, that we're losing assuming that our profitable stores are just breaking even,"
+  },
+  {
+    "start": 941.72,
+    "end": 951.9200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "that gets us to about 4.3 to 4.4 million in profit loss per store."
+  },
+  {
+    "start": 951.92,
+    "end": 958.76,
+    "speaker": "SPEAKER_00",
+    "text": "All around there and just say about 4.5 million of profit loss per store is my estimate,"
+  },
+  {
+    "start": 958.76,
+    "end": 963.56,
+    "speaker": "SPEAKER_00",
+    "text": "but that's based on a very preliminary assumption assuming that each kind of profitable store"
+  },
+  {
+    "start": 963.56,
+    "end": 965.12,
+    "speaker": "SPEAKER_00",
+    "text": "is making about a million dollars."
+  },
+  {
+    "start": 965.12,
+    "end": 967.4,
+    "speaker": "SPEAKER_04",
+    "text": "Yeah, but that's a good estimation."
+  },
+  {
+    "start": 967.4,
+    "end": 972.0799999999999,
+    "speaker": "SPEAKER_04",
+    "text": "I think the assumptions that you've taken are reasonable."
+  },
+  {
+    "start": 972.0799999999999,
+    "end": 978.0799999999999,
+    "speaker": "SPEAKER_04",
+    "text": "And let's again go deeper into this specific exhibit."
+  },
+  {
+    "start": 978.08,
+    "end": 981.5600000000001,
+    "speaker": "SPEAKER_04",
+    "text": "You can see that the client is already vegan closing stores."
+  },
+  {
+    "start": 981.5600000000001,
+    "end": 985.64,
+    "speaker": "SPEAKER_04",
+    "text": "There are 30 fewer stores today compared to 5 years ago."
+  },
+  {
+    "start": 985.64,
+    "end": 990.64,
+    "speaker": "SPEAKER_04",
+    "text": "They have to optimize their store, put trend essentially to improve profitability."
+  },
+  {
+    "start": 990.64,
+    "end": 995.2800000000001,
+    "speaker": "SPEAKER_04",
+    "text": "Now what factors should the client consider on a store by store basis to decide whether"
+  },
+  {
+    "start": 995.2800000000001,
+    "end": 999.4000000000001,
+    "speaker": "SPEAKER_04",
+    "text": "or not to close the store?"
+  },
+  {
+    "start": 999.4000000000001,
+    "end": 1001.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, great question."
+  },
+  {
+    "start": 1001.04,
+    "end": 1006.36,
+    "speaker": "SPEAKER_00",
+    "text": "I think three things come to mind."
+  },
+  {
+    "start": 1006.36,
+    "end": 1011.16,
+    "speaker": "SPEAKER_00",
+    "text": "One would be the financial performance or the profits per individual store."
+  },
+  {
+    "start": 1011.16,
+    "end": 1016.16,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe looking at profit margins per store and seeing if there's some that are particularly"
+  },
+  {
+    "start": 1016.16,
+    "end": 1020.48,
+    "speaker": "SPEAKER_00",
+    "text": "unprofitable versus some that are maybe closer to break even."
+  },
+  {
+    "start": 1020.48,
+    "end": 1026.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Just because the store is unprofitable, that could be at varying scales across stores."
+  },
+  {
+    "start": 1026.4,
+    "end": 1032.76,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe looking at financial performance on a per store basis would be the first thing"
+  },
+  {
+    "start": 1032.76,
+    "end": 1036.0400000000002,
+    "speaker": "SPEAKER_00",
+    "text": "that they could look at or consider."
+  },
+  {
+    "start": 1036.0400000000002,
+    "end": 1044.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "The second thing is I would think about market size per store, which speaks to revenue potential"
+  },
+  {
+    "start": 1044.6000000000001,
+    "end": 1046.5600000000002,
+    "speaker": "SPEAKER_00",
+    "text": "per store."
+  },
+  {
+    "start": 1046.5600000000002,
+    "end": 1053.48,
+    "speaker": "SPEAKER_00",
+    "text": "Because if you're in a larger growing market, but the store is unprofitable today, maybe"
+  },
+  {
+    "start": 1053.48,
+    "end": 1054.76,
+    "speaker": "SPEAKER_00",
+    "text": "it has a lot of potential."
+  },
+  {
+    "start": 1054.76,
+    "end": 1059.2,
+    "speaker": "SPEAKER_00",
+    "text": "In one or two years, it could be one of our more profitable stores."
+  },
+  {
+    "start": 1059.2,
+    "end": 1064.76,
+    "speaker": "SPEAKER_00",
+    "text": "You really need to think about potentially the market that each store operates in or the"
+  },
+  {
+    "start": 1064.76,
+    "end": 1071.68,
+    "speaker": "SPEAKER_00",
+    "text": "TAM or total addressable market for each store and how addressable is that."
+  },
+  {
+    "start": 1071.68,
+    "end": 1074.08,
+    "speaker": "SPEAKER_00",
+    "text": "That's kind of the second thing I would consider."
+  },
+  {
+    "start": 1074.08,
+    "end": 1081.4,
+    "speaker": "SPEAKER_00",
+    "text": "Then the third thing would be I would probably look at a geographic map of all of our stores"
+  },
+  {
+    "start": 1081.4,
+    "end": 1087.44,
+    "speaker": "SPEAKER_00",
+    "text": "and consider kind of the locations of the stores relative to each other."
+  },
+  {
+    "start": 1087.44,
+    "end": 1094.8000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "If you have say five unprofitable stores in one suburb, perhaps if you close four of them,"
+  },
+  {
+    "start": 1094.8000000000002,
+    "end": 1099.3200000000002,
+    "speaker": "SPEAKER_00",
+    "text": "the sales from those four could move to one of them and then you get scale effects in"
+  },
+  {
+    "start": 1099.3200000000002,
+    "end": 1103.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "the store that one super store could be profitable."
+  },
+  {
+    "start": 1103.1200000000001,
+    "end": 1109.2,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe there's some scale effects of consolidating smaller footprint stores in one area and rolling"
+  },
+  {
+    "start": 1109.2,
+    "end": 1115.76,
+    "speaker": "SPEAKER_00",
+    "text": "those sales into maybe one more parent store, I'll call it, but that's kind of, I guess,"
+  },
+  {
+    "start": 1115.76,
+    "end": 1119.8,
+    "speaker": "SPEAKER_00",
+    "text": "the third bucket in summary is looking at kind of a geographic footprint of our stores"
+  },
+  {
+    "start": 1119.8,
+    "end": 1122.72,
+    "speaker": "SPEAKER_00",
+    "text": "in particular are unprofitable stores."
+  },
+  {
+    "start": 1122.72,
+    "end": 1125.88,
+    "speaker": "SPEAKER_00",
+    "text": "Those are the three factors that I would consider."
+  },
+  {
+    "start": 1125.88,
+    "end": 1132.52,
+    "speaker": "SPEAKER_04",
+    "text": "I think it's a good way to look at financial performance, potential and the job of footprint."
+  },
+  {
+    "start": 1132.52,
+    "end": 1133.52,
+    "speaker": "SPEAKER_04",
+    "text": "Great."
+  },
+  {
+    "start": 1133.52,
+    "end": 1139.0800000000002,
+    "speaker": "SPEAKER_04",
+    "text": "Let me stop the share of this particular exhibit because I have to share one more exhibit"
+  },
+  {
+    "start": 1139.1599999999999,
+    "end": 1145.32,
+    "speaker": "SPEAKER_04",
+    "text": "with you and let's focus on market E specifically."
+  },
+  {
+    "start": 1145.32,
+    "end": 1146.32,
+    "speaker": "SPEAKER_04",
+    "text": "Right."
+  },
+  {
+    "start": 1146.32,
+    "end": 1157.72,
+    "speaker": "SPEAKER_04",
+    "text": "Now, in terms of this particular market, what I want you to do, Abby, is which stores do"
+  },
+  {
+    "start": 1157.72,
+    "end": 1162.12,
+    "speaker": "SPEAKER_04",
+    "text": "recommend closing and marketing and why?"
+  },
+  {
+    "start": 1162.12,
+    "end": 1163.12,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1163.12,
+    "end": 1169.04,
+    "speaker": "SPEAKER_00",
+    "text": "Let me just quickly scan the exhibits so it looks like we have for market E."
+  },
+  {
+    "start": 1169.08,
+    "end": 1172.84,
+    "speaker": "SPEAKER_00",
+    "text": "Every store, they're revenue costs and profits."
+  },
+  {
+    "start": 1172.84,
+    "end": 1176.68,
+    "speaker": "SPEAKER_00",
+    "text": "So we could probably get profit margin per store from this."
+  },
+  {
+    "start": 1176.68,
+    "end": 1177.68,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1177.68,
+    "end": 1179.6,
+    "speaker": "SPEAKER_00",
+    "text": "So which stores would I recommend?"
+  },
+  {
+    "start": 1179.6,
+    "end": 1185.0,
+    "speaker": "SPEAKER_00",
+    "text": "So going back to the framework that I just mentioned, which is kind of profits or metrics"
+  },
+  {
+    "start": 1185.0,
+    "end": 1193.76,
+    "speaker": "SPEAKER_00",
+    "text": "per store, the TAM, and then maybe some efficiencies or the geographic scale efficiencies."
+  },
+  {
+    "start": 1193.76,
+    "end": 1198.92,
+    "speaker": "SPEAKER_00",
+    "text": "So starting with kind of the per store metrics, if I just look at this chart, if"
+  },
+  {
+    "start": 1199.3200000000002,
+    "end": 1204.52,
+    "speaker": "SPEAKER_00",
+    "text": "we can see that stores 13 through 18 are unprofitable today."
+  },
+  {
+    "start": 1204.52,
+    "end": 1208.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So my initial recommendation based on that original framework would be potentially we"
+  },
+  {
+    "start": 1208.6000000000001,
+    "end": 1214.96,
+    "speaker": "SPEAKER_00",
+    "text": "look at closing stores 13 through 18, maybe then 12 because it's very low profit."
+  },
+  {
+    "start": 1214.96,
+    "end": 1222.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "So those, you know, I know about seven stores it looks like seven stores."
+  },
+  {
+    "start": 1222.0800000000002,
+    "end": 1224.44,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe we consider closing based on that."
+  },
+  {
+    "start": 1224.44,
+    "end": 1228.8400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "But if we go back to the framework, the second thing I talked about was market potential"
+  },
+  {
+    "start": 1228.8799999999999,
+    "end": 1233.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "maybe there's one of these stores in 12 through 18 that just is in a larger market,"
+  },
+  {
+    "start": 1233.3999999999999,
+    "end": 1238.0,
+    "speaker": "SPEAKER_00",
+    "text": "potentially a looking store 14 that has the highest revenue."
+  },
+  {
+    "start": 1238.0,
+    "end": 1242.0,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe we consider keeping that store open because it's in a larger market."
+  },
+  {
+    "start": 1242.0,
+    "end": 1245.28,
+    "speaker": "SPEAKER_00",
+    "text": "So we just need to do further analysis there."
+  },
+  {
+    "start": 1245.28,
+    "end": 1249.6799999999998,
+    "speaker": "SPEAKER_00",
+    "text": "And then that third bucket in kind of the framework I mentioned in terms of geographic"
+  },
+  {
+    "start": 1249.6799999999998,
+    "end": 1255.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "efficiencies, maybe all of these stores are in one location and so we should keep one open."
+  },
+  {
+    "start": 1256.16,
+    "end": 1260.8400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And so we'd want to look at the geographic breakdown or the geographic locations of these"
+  },
+  {
+    "start": 1260.8400000000001,
+    "end": 1262.24,
+    "speaker": "SPEAKER_00",
+    "text": "stores as well."
+  },
+  {
+    "start": 1262.24,
+    "end": 1268.2,
+    "speaker": "SPEAKER_00",
+    "text": "But just given this exhibit and the information we have, I would recommend closing kind of stores"
+  },
+  {
+    "start": 1268.2,
+    "end": 1274.0,
+    "speaker": "SPEAKER_00",
+    "text": "12 through 18 but would like additional information on kind of the market size and the geographic"
+  },
+  {
+    "start": 1274.0,
+    "end": 1276.0,
+    "speaker": "SPEAKER_00",
+    "text": "locations for each of these stores as well."
+  },
+  {
+    "start": 1276.0,
+    "end": 1277.0,
+    "speaker": "UNKNOWN",
+    "text": "Got it."
+  },
+  {
+    "start": 1277.0,
+    "end": 1278.0,
+    "speaker": "SPEAKER_04",
+    "text": "Great."
+  },
+  {
+    "start": 1278.0,
+    "end": 1282.88,
+    "speaker": "SPEAKER_04",
+    "text": "I like the fact that you used the framework that you introduced in the earlier question."
+  },
+  {
+    "start": 1282.88,
+    "end": 1285.5600000000002,
+    "speaker": "SPEAKER_04",
+    "text": "So that's great."
+  },
+  {
+    "start": 1285.56,
+    "end": 1286.56,
+    "speaker": "SPEAKER_04",
+    "text": "So wonderful."
+  },
+  {
+    "start": 1286.56,
+    "end": 1290.12,
+    "speaker": "SPEAKER_04",
+    "text": "I mean, we have gone through a lot of analysis here Abby."
+  },
+  {
+    "start": 1290.12,
+    "end": 1292.0,
+    "speaker": "SPEAKER_04",
+    "text": "What's your final recommendation to decline?"
+  },
+  {
+    "start": 1292.0,
+    "end": 1293.8799999999999,
+    "speaker": "SPEAKER_04",
+    "text": "What should they do next?"
+  },
+  {
+    "start": 1293.8799999999999,
+    "end": 1295.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, definitely."
+  },
+  {
+    "start": 1295.8799999999999,
+    "end": 1301.44,
+    "speaker": "SPEAKER_00",
+    "text": "So if I was talking to the client, I would say you all have experienced this decline in"
+  },
+  {
+    "start": 1301.44,
+    "end": 1302.44,
+    "speaker": "SPEAKER_00",
+    "text": "profitability."
+  },
+  {
+    "start": 1302.44,
+    "end": 1306.84,
+    "speaker": "SPEAKER_00",
+    "text": "It asked us to help you with that exploring options to improve profitability."
+  },
+  {
+    "start": 1306.84,
+    "end": 1311.36,
+    "speaker": "SPEAKER_00",
+    "text": "We explored a few options both in terms of improving the top line such as diversifying"
+  },
+  {
+    "start": 1311.36,
+    "end": 1313.4799999999998,
+    "speaker": "SPEAKER_00",
+    "text": "revenue."
+  },
+  {
+    "start": 1313.4799999999998,
+    "end": 1318.76,
+    "speaker": "SPEAKER_00",
+    "text": "And we also looked at some bottom line improvement options such as store closures or increasing"
+  },
+  {
+    "start": 1318.76,
+    "end": 1320.4799999999998,
+    "speaker": "SPEAKER_00",
+    "text": "profits per stores."
+  },
+  {
+    "start": 1320.4799999999998,
+    "end": 1325.56,
+    "speaker": "SPEAKER_00",
+    "text": "And based on that analysis, we decided that the most immediate kind of action would be store"
+  },
+  {
+    "start": 1325.56,
+    "end": 1326.56,
+    "speaker": "SPEAKER_00",
+    "text": "closures."
+  },
+  {
+    "start": 1326.56,
+    "end": 1333.28,
+    "speaker": "SPEAKER_00",
+    "text": "If you really want a near term impact on profitability, that's kind of the most immediate."
+  },
+  {
+    "start": 1333.28,
+    "end": 1337.6,
+    "speaker": "SPEAKER_00",
+    "text": "And so we did a little bit of deep dive into the profits per store."
+  },
+  {
+    "start": 1337.6,
+    "end": 1343.04,
+    "speaker": "SPEAKER_00",
+    "text": "And we found that the decline in profit or the negative profit was concentrated kind"
+  },
+  {
+    "start": 1343.04,
+    "end": 1345.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "of within market E."
+  },
+  {
+    "start": 1345.9199999999998,
+    "end": 1351.6799999999998,
+    "speaker": "SPEAKER_00",
+    "text": "And within E specifically, there were about five to 10 stores that were contributing to"
+  },
+  {
+    "start": 1351.6799999999998,
+    "end": 1353.48,
+    "speaker": "SPEAKER_00",
+    "text": "the negative profitability."
+  },
+  {
+    "start": 1353.48,
+    "end": 1359.32,
+    "speaker": "SPEAKER_00",
+    "text": "So based on that, we would recommend that you close five to 10 stores within market E."
+  },
+  {
+    "start": 1359.32,
+    "end": 1364.7199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "However, before doing that, we think further analysis would be needed to look at the market"
+  },
+  {
+    "start": 1364.72,
+    "end": 1368.96,
+    "speaker": "SPEAKER_00",
+    "text": "growth potential or the geographic locations to see if there's any priority stores you"
+  },
+  {
+    "start": 1368.96,
+    "end": 1374.28,
+    "speaker": "SPEAKER_00",
+    "text": "want to keep open within those five to 10 unprofitable within market E."
+  },
+  {
+    "start": 1374.28,
+    "end": 1378.44,
+    "speaker": "SPEAKER_00",
+    "text": "And we're happy to help you kind of conduct that further analysis."
+  },
+  {
+    "start": 1378.44,
+    "end": 1383.84,
+    "speaker": "SPEAKER_00",
+    "text": "But based on our work today, our high level recommendation is closing, you know, five to"
+  },
+  {
+    "start": 1383.84,
+    "end": 1385.92,
+    "speaker": "SPEAKER_00",
+    "text": "10 stores in market E."
+  },
+  {
+    "start": 1385.92,
+    "end": 1386.92,
+    "speaker": "UNKNOWN",
+    "text": "Got it."
+  },
+  {
+    "start": 1386.92,
+    "end": 1387.92,
+    "speaker": "SPEAKER_04",
+    "text": "Great."
+  },
+  {
+    "start": 1387.92,
+    "end": 1388.92,
+    "speaker": "SPEAKER_04",
+    "text": "Thank you."
+  },
+  {
+    "start": 1388.92,
+    "end": 1391.44,
+    "speaker": "SPEAKER_04",
+    "text": "Thanks a lot Abby for doing the case with me."
+  },
+  {
+    "start": 1391.44,
+    "end": 1392.44,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you so much."
+  },
+  {
+    "start": 1392.44,
+    "end": 1393.44,
+    "speaker": "SPEAKER_00",
+    "text": "At a great time."
+  },
+  {
+    "start": 1393.68,
+    "end": 1394.68,
+    "speaker": "SPEAKER_01",
+    "text": "Hey, everyone."
+  },
+  {
+    "start": 1394.68,
+    "end": 1396.52,
+    "speaker": "SPEAKER_01",
+    "text": "It's Kent and Givessey here, the founder of Rocketblocks."
+  },
+  {
+    "start": 1396.52,
+    "end": 1398.88,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you so much for watching this mock interview video."
+  },
+  {
+    "start": 1398.88,
+    "end": 1403.88,
+    "speaker": "SPEAKER_01",
+    "text": "I hope you found it informative and helpful as you were getting ready to prepare for your"
+  },
+  {
+    "start": 1403.88,
+    "end": 1407.52,
+    "speaker": "SPEAKER_01",
+    "text": "own interviews and hopefully landing that job offer you are excited about."
+  },
+  {
+    "start": 1407.52,
+    "end": 1412.24,
+    "speaker": "SPEAKER_01",
+    "text": "We have a ton of great content on the Rocketblocks channel coming out on a weekly basis, mock"
+  },
+  {
+    "start": 1412.24,
+    "end": 1416.04,
+    "speaker": "SPEAKER_01",
+    "text": "interviews, many lessons and chats with our Rocketblocks experts."
+  },
+  {
+    "start": 1416.04,
+    "end": 1419.0800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So if you haven't subscribed yet already, please do so."
+  },
+  {
+    "start": 1419.0800000000002,
+    "end": 1421.0800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "There is a big red button below."
+  },
+  {
+    "start": 1421.08,
+    "end": 1424.48,
+    "speaker": "SPEAKER_01",
+    "text": "And if you hit that, you'll get all of our content as soon as it comes up."
+  },
+  {
+    "start": 1424.48,
+    "end": 1426.0,
+    "speaker": "SPEAKER_01",
+    "text": "Thanks for watching and have a great day."
+  }
+]

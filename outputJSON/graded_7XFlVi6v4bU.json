@@ -1,0 +1,1398 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 5.88,
+      "speaker": "SPEAKER_00",
+      "text": "Hi, in this video we'll solve a guesstimate."
+    },
+    {
+      "start": 5.88,
+      "end": 10.96,
+      "speaker": "SPEAKER_00",
+      "text": "The problem is one of my preferred ones and it's basically estimating the number of"
+    },
+    {
+      "start": 10.96,
+      "end": 14.84,
+      "speaker": "SPEAKER_00",
+      "text": "trains that are there in the Delemented-Town Network."
+    },
+    {
+      "start": 14.84,
+      "end": 21.0,
+      "speaker": "SPEAKER_00",
+      "text": "Now before we start solving this case, what we'll do is we'll discuss like I've already"
+    },
+    {
+      "start": 21.0,
+      "end": 26.0,
+      "speaker": "SPEAKER_00",
+      "text": "covered in my guesstimate video, the three main points that you need to consider overall"
+    },
+    {
+      "start": 26.0,
+      "end": 28.68,
+      "speaker": "SPEAKER_00",
+      "text": "before we jump into the case."
+    },
+    {
+      "start": 28.68,
+      "end": 34.6,
+      "speaker": "SPEAKER_00",
+      "text": "So the first would be about clarification, the second would be about having one or more"
+    },
+    {
+      "start": 34.6,
+      "end": 42.12,
+      "speaker": "SPEAKER_00",
+      "text": "strategies in mind and the third is actually the case solving the discussion part of it."
+    },
+    {
+      "start": 42.12,
+      "end": 47.44,
+      "speaker": "SPEAKER_00",
+      "text": "So we need to cover them one after the other and we need to make sure that we spend sufficient"
+    },
+    {
+      "start": 47.44,
+      "end": 52.28,
+      "speaker": "SPEAKER_00",
+      "text": "time trying to analyze all aspects of these three issues."
+    },
+    {
+      "start": 52.28,
+      "end": 58.16,
+      "speaker": "SPEAKER_00",
+      "text": "So in this case estimating the number of trains in the Delemented-Town Network, first"
+    },
+    {
+      "start": 58.16,
+      "end": 62.519999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "we'll try to think of some clarifications."
+    },
+    {
+      "start": 62.519999999999996,
+      "end": 66.84,
+      "speaker": "SPEAKER_00",
+      "text": "Now I would request you to pause the video for a second and try to come up with a few"
+    },
+    {
+      "start": 66.84,
+      "end": 69.36,
+      "speaker": "SPEAKER_00",
+      "text": "clarification questions."
+    },
+    {
+      "start": 69.36,
+      "end": 74.12,
+      "speaker": "SPEAKER_00",
+      "text": "Alright, I hope you have a list."
+    },
+    {
+      "start": 74.12,
+      "end": 78.56,
+      "speaker": "SPEAKER_00",
+      "text": "I'll share a couple of questions that I think are quite relevant to any strategies that"
+    },
+    {
+      "start": 78.56,
+      "end": 81.0,
+      "speaker": "SPEAKER_00",
+      "text": "you can adopt."
+    },
+    {
+      "start": 81.0,
+      "end": 86.12,
+      "speaker": "SPEAKER_00",
+      "text": "The first question would be to understand whether are we considering only the functional"
+    },
+    {
+      "start": 86.12,
+      "end": 90.60000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "trains or are you also considering the trains that are there in the yard."
+    },
+    {
+      "start": 90.60000000000001,
+      "end": 94.96000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So any kind of transportation infrastructure would always have some kind of capacity which"
+    },
+    {
+      "start": 94.96000000000001,
+      "end": 96.28,
+      "speaker": "SPEAKER_00",
+      "text": "is there for emergencies."
+    },
+    {
+      "start": 96.28,
+      "end": 101.28,
+      "speaker": "SPEAKER_00",
+      "text": "So we want to make sure that we are able to scope out our problem perfectly."
+    },
+    {
+      "start": 101.28,
+      "end": 104.52000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So in this case let us say that we are only considering the trains which are running"
+    },
+    {
+      "start": 104.52000000000001,
+      "end": 106.36000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "at any point of time."
+    },
+    {
+      "start": 106.36000000000001,
+      "end": 108.64,
+      "speaker": "SPEAKER_00",
+      "text": "Alright, that would be covered."
+    },
+    {
+      "start": 108.64,
+      "end": 112.4,
+      "speaker": "SPEAKER_00",
+      "text": "The second would be assuming that okay it's an ordinary day."
+    },
+    {
+      "start": 112.4,
+      "end": 117.16000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So there is no reason for any kind of shortfall or an increase in the number of trains that"
+    },
+    {
+      "start": 117.16000000000001,
+      "end": 119.04,
+      "speaker": "SPEAKER_00",
+      "text": "are there on the network."
+    },
+    {
+      "start": 119.04,
+      "end": 124.64,
+      "speaker": "SPEAKER_00",
+      "text": "As far as possible in all your case problems you would want this kind of a uniformity to"
+    },
+    {
+      "start": 124.64,
+      "end": 125.64,
+      "speaker": "SPEAKER_00",
+      "text": "exist."
+    },
+    {
+      "start": 125.64,
+      "end": 128.24,
+      "speaker": "SPEAKER_00",
+      "text": "It will make your calculations simpler."
+    },
+    {
+      "start": 128.24,
+      "end": 132.68,
+      "speaker": "SPEAKER_00",
+      "text": "If it is not forthcoming you would want to put forward this idea that can assume it to"
+    },
+    {
+      "start": 132.68,
+      "end": 134.92000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "be an average day and normal day."
+    },
+    {
+      "start": 134.92000000000002,
+      "end": 138.28,
+      "speaker": "SPEAKER_00",
+      "text": "So that the special cases don't have to be considered."
+    },
+    {
+      "start": 138.28,
+      "end": 142.08,
+      "speaker": "SPEAKER_00",
+      "text": "If the interviewer does not agree with this assumption and asks you to consider the"
+    },
+    {
+      "start": 142.08,
+      "end": 146.0,
+      "speaker": "SPEAKER_00",
+      "text": "special cases also then you will have to do that."
+    },
+    {
+      "start": 146.0,
+      "end": 150.96,
+      "speaker": "SPEAKER_00",
+      "text": "In this case let us assume that it's a uniform day with average operation."
+    },
+    {
+      "start": 150.96,
+      "end": 156.64,
+      "speaker": "SPEAKER_00",
+      "text": "So let us assume that all 365 days are the same for the purpose of this case."
+    },
+    {
+      "start": 156.64,
+      "end": 158.8,
+      "speaker": "SPEAKER_00",
+      "text": "So now how do we go about doing it?"
+    },
+    {
+      "start": 158.8,
+      "end": 163.48,
+      "speaker": "SPEAKER_00",
+      "text": "So the clarifications, the two main clarifications questions are done."
+    },
+    {
+      "start": 163.48,
+      "end": 167.8,
+      "speaker": "SPEAKER_00",
+      "text": "Now we will try to discuss what the different strategies are."
+    },
+    {
+      "start": 167.8,
+      "end": 171.84,
+      "speaker": "SPEAKER_00",
+      "text": "So I would discuss this case along two strategies."
+    },
+    {
+      "start": 171.84,
+      "end": 178.76000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "The first I would say is slightly more difficult because it involves a guesting method itself."
+    },
+    {
+      "start": 178.76000000000002,
+      "end": 185.28,
+      "speaker": "SPEAKER_00",
+      "text": "The can one is more experienced based and I find it more convenient to use."
+    },
+    {
+      "start": 185.28,
+      "end": 188.52,
+      "speaker": "SPEAKER_00",
+      "text": "So let us discuss the first strategy now."
+    },
+    {
+      "start": 188.52,
+      "end": 190.36,
+      "speaker": "SPEAKER_00",
+      "text": "So we are now to the third point of discussion."
+    },
+    {
+      "start": 190.36,
+      "end": 192.08,
+      "speaker": "SPEAKER_00",
+      "text": "We thought of our two strategies."
+    },
+    {
+      "start": 192.08,
+      "end": 195.48000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "We find that one of them would actually be more convenient but for the purpose of this"
+    },
+    {
+      "start": 195.48,
+      "end": 198.95999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "video we are covering both these strategies."
+    },
+    {
+      "start": 198.95999999999998,
+      "end": 202.12,
+      "speaker": "SPEAKER_00",
+      "text": "So the first one is actually quite straightforward."
+    },
+    {
+      "start": 202.12,
+      "end": 208.28,
+      "speaker": "SPEAKER_00",
+      "text": "What we are doing as you can see here is that we try to find out what the total metro usage"
+    },
+    {
+      "start": 208.28,
+      "end": 211.04,
+      "speaker": "SPEAKER_00",
+      "text": "in a day is."
+    },
+    {
+      "start": 211.04,
+      "end": 214.6,
+      "speaker": "SPEAKER_00",
+      "text": "We get to the numbers in a little while but let's see the steps."
+    },
+    {
+      "start": 214.6,
+      "end": 217.32,
+      "speaker": "SPEAKER_00",
+      "text": "So we are first trying to understand the total metro usage."
+    },
+    {
+      "start": 217.32,
+      "end": 224.95999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Now if you remember what we discussed in the bottleneck approach to estimate video"
+    },
+    {
+      "start": 225.6,
+      "end": 230.36,
+      "speaker": "SPEAKER_00",
+      "text": "we find that it's always useful to solve a problem for the peak R."
+    },
+    {
+      "start": 230.36,
+      "end": 236.4,
+      "speaker": "SPEAKER_00",
+      "text": "Because at that point of time you know that the supply is at its peak."
+    },
+    {
+      "start": 236.4,
+      "end": 239.72,
+      "speaker": "SPEAKER_00",
+      "text": "So you only have to consider one of the factors."
+    },
+    {
+      "start": 239.72,
+      "end": 242.56,
+      "speaker": "SPEAKER_00",
+      "text": "The other factor is completely fixed."
+    },
+    {
+      "start": 242.56,
+      "end": 247.0,
+      "speaker": "SPEAKER_00",
+      "text": "So in this case let us assume that we are looking for a particular peak R"
+    },
+    {
+      "start": 247.0,
+      "end": 251.96,
+      "speaker": "SPEAKER_00",
+      "text": "in which the maximum number of trains that could be running at any point of time in the network"
+    },
+    {
+      "start": 251.96,
+      "end": 254.36,
+      "speaker": "SPEAKER_00",
+      "text": "are already on the network."
+    },
+    {
+      "start": 254.36,
+      "end": 260.6,
+      "speaker": "SPEAKER_00",
+      "text": "So let us say that's morning at m to 9 am which is the peak R of the daily metro."
+    },
+    {
+      "start": 260.6,
+      "end": 265.40000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Now let us say that we know the total number of metro users in a day."
+    },
+    {
+      "start": 265.40000000000003,
+      "end": 269.92,
+      "speaker": "SPEAKER_00",
+      "text": "Only a fraction of that would be traveling in the peak R."
+    },
+    {
+      "start": 269.92,
+      "end": 273.32,
+      "speaker": "SPEAKER_00",
+      "text": "What this number would be we'll get in a while."
+    },
+    {
+      "start": 273.32,
+      "end": 278.36,
+      "speaker": "SPEAKER_00",
+      "text": "Out of these people not everyone would be making the journey for the whole R."
+    },
+    {
+      "start": 278.36,
+      "end": 283.52000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "So we would also want to know the average trip time of each person."
+    },
+    {
+      "start": 283.52,
+      "end": 288.52,
+      "speaker": "SPEAKER_00",
+      "text": "Let us say after doing all of that we find that the total number is x."
+    },
+    {
+      "start": 288.52,
+      "end": 290.52,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 290.52,
+      "end": 292.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "These would be the number of people."
+    },
+    {
+      "start": 292.71999999999997,
+      "end": 299.84,
+      "speaker": "SPEAKER_00",
+      "text": "So if I was to take I would was in between 8 to 9 pm if I were between 8 am to 9 am."
+    },
+    {
+      "start": 299.84,
+      "end": 305.2,
+      "speaker": "SPEAKER_00",
+      "text": "If I was to stop the operations of the daily metro and bring everything to a stand still."
+    },
+    {
+      "start": 305.2,
+      "end": 309.24,
+      "speaker": "SPEAKER_00",
+      "text": "I would find exactly x number of people on the trucks."
+    },
+    {
+      "start": 309.24,
+      "end": 312.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. That is the significance of x."
+    },
+    {
+      "start": 312.04,
+      "end": 319.8,
+      "speaker": "SPEAKER_00",
+      "text": "Now if I know what the number of people in each boogie are and I assume that there are"
+    },
+    {
+      "start": 319.8,
+      "end": 322.64000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "total of 6 boogie per train."
+    },
+    {
+      "start": 322.64000000000004,
+      "end": 328.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I would know the number of people that each train can accommodate."
+    },
+    {
+      "start": 328.0,
+      "end": 331.64000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Now my calculation as can be seen in the formula is quite simple."
+    },
+    {
+      "start": 331.64000000000004,
+      "end": 338.64000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "My total number of trains are basically x upon the capacity of one train which is capacity"
+    },
+    {
+      "start": 338.64,
+      "end": 342.24,
+      "speaker": "SPEAKER_00",
+      "text": "of one boogie into average boogie's per train."
+    },
+    {
+      "start": 342.24,
+      "end": 343.24,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 343.24,
+      "end": 345.08,
+      "speaker": "SPEAKER_00",
+      "text": "I hope it is straightforward."
+    },
+    {
+      "start": 345.08,
+      "end": 350.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "If not what we will do is we will now look at the numbers for all of these and I think"
+    },
+    {
+      "start": 350.03999999999996,
+      "end": 352.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "it will make a lot more sense."
+    },
+    {
+      "start": 352.03999999999996,
+      "end": 353.03999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 353.03999999999996,
+      "end": 357.47999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "So we said the first point to consider would be the total metro users per day."
+    },
+    {
+      "start": 357.47999999999996,
+      "end": 363.15999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Let us say that we know this number and that number is 3 million."
+    },
+    {
+      "start": 363.15999999999997,
+      "end": 366.68,
+      "speaker": "SPEAKER_00",
+      "text": "You could solve a guesstimate for this altogether."
+    },
+    {
+      "start": 366.68,
+      "end": 367.68,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 367.68,
+      "end": 370.44,
+      "speaker": "SPEAKER_00",
+      "text": "In this case let us say that we have gotten the number from the interviewer."
+    },
+    {
+      "start": 370.44,
+      "end": 371.44,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 371.44,
+      "end": 374.04,
+      "speaker": "SPEAKER_00",
+      "text": "That's 3 million or 30 like."
+    },
+    {
+      "start": 374.04,
+      "end": 379.16,
+      "speaker": "SPEAKER_00",
+      "text": "Now we have to figure out what fraction of this would be traveling between the ATM and"
+    },
+    {
+      "start": 379.16,
+      "end": 381.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "9 AM window that we have considered."
+    },
+    {
+      "start": 381.84000000000003,
+      "end": 382.84000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 382.84000000000003,
+      "end": 388.08,
+      "speaker": "SPEAKER_00",
+      "text": "So I would say the simplest way of getting to this number would be so let us assume that"
+    },
+    {
+      "start": 388.08,
+      "end": 394.48,
+      "speaker": "SPEAKER_00",
+      "text": "the metro travels for the operates for a total of 15 hours in a day."
+    },
+    {
+      "start": 394.48,
+      "end": 395.48,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 395.48,
+      "end": 404.56,
+      "speaker": "SPEAKER_00",
+      "text": "So that would make if the uniformity existed in terms of the passenger usage we would find"
+    },
+    {
+      "start": 404.56,
+      "end": 409.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "at about 6 6 and a half percent people traveling each hour."
+    },
+    {
+      "start": 409.08000000000004,
+      "end": 410.08000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 410.08000000000004,
+      "end": 412.12,
+      "speaker": "SPEAKER_00",
+      "text": "But we find that that is not the case."
+    },
+    {
+      "start": 412.12,
+      "end": 417.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "The metro train frequency varies from two minutes to six minutes or even more."
+    },
+    {
+      "start": 417.28000000000003,
+      "end": 418.28000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 418.28000000000003,
+      "end": 421.8,
+      "speaker": "SPEAKER_00",
+      "text": "So this is definitely a concept of P car non P car."
+    },
+    {
+      "start": 421.8,
+      "end": 427.6,
+      "speaker": "SPEAKER_00",
+      "text": "So if everything was uniform we would have 6 6 and a half percent per hour."
+    },
+    {
+      "start": 427.6,
+      "end": 429.56,
+      "speaker": "SPEAKER_00",
+      "text": "What I have assumed here is that okay."
+    },
+    {
+      "start": 429.56,
+      "end": 431.96000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "So in a P car let me just double that."
+    },
+    {
+      "start": 431.96000000000004,
+      "end": 432.96000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 432.96000000000004,
+      "end": 434.76,
+      "speaker": "SPEAKER_00",
+      "text": "So let me just assume it to be 15 percent."
+    },
+    {
+      "start": 434.76,
+      "end": 438.32,
+      "speaker": "SPEAKER_00",
+      "text": "15 percent of the total metro usage would happen in P car."
+    },
+    {
+      "start": 438.32,
+      "end": 443.36,
+      "speaker": "SPEAKER_00",
+      "text": "Now whether this number is 10 12 15 20 dozen matter."
+    },
+    {
+      "start": 443.36,
+      "end": 448.12,
+      "speaker": "SPEAKER_00",
+      "text": "The idea is to have some strategy to come closer to this number and then discuss with the"
+    },
+    {
+      "start": 448.12,
+      "end": 451.52,
+      "speaker": "SPEAKER_00",
+      "text": "interview but the interviewer is happy with the assumption or not."
+    },
+    {
+      "start": 451.52,
+      "end": 453.96,
+      "speaker": "SPEAKER_00",
+      "text": "So let us say that we take it to be 15 percent."
+    },
+    {
+      "start": 453.96,
+      "end": 455.88,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 455.88,
+      "end": 460.0,
+      "speaker": "SPEAKER_00",
+      "text": "Now the next point that we have to consider is the average travel time."
+    },
+    {
+      "start": 460.0,
+      "end": 461.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 461.0,
+      "end": 465.2,
+      "speaker": "SPEAKER_00",
+      "text": "So 15 percent of 3 million other total number of people who would be traveling between 8"
+    },
+    {
+      "start": 465.2,
+      "end": 467.0,
+      "speaker": "SPEAKER_00",
+      "text": "to 9 a.m."
+    },
+    {
+      "start": 467.0,
+      "end": 470.76,
+      "speaker": "SPEAKER_00",
+      "text": "But not everyone would be traveling for the duration of this whole one hour."
+    },
+    {
+      "start": 470.76,
+      "end": 471.76,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 471.76,
+      "end": 476.24,
+      "speaker": "SPEAKER_00",
+      "text": "So we have to consider that only a fraction of this one hour would be the average travel"
+    },
+    {
+      "start": 476.24,
+      "end": 478.12,
+      "speaker": "SPEAKER_00",
+      "text": "time for every person."
+    },
+    {
+      "start": 478.12,
+      "end": 481.68,
+      "speaker": "SPEAKER_00",
+      "text": "So from experience you can say 40 minutes."
+    },
+    {
+      "start": 481.68,
+      "end": 482.68,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 482.68,
+      "end": 485.88,
+      "speaker": "SPEAKER_00",
+      "text": "So let us assume it to be 40 minutes for the office."
+    },
+    {
+      "start": 485.88,
+      "end": 486.88,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 486.88,
+      "end": 491.76,
+      "speaker": "SPEAKER_00",
+      "text": "Now our X becomes quite simple."
+    },
+    {
+      "start": 491.76,
+      "end": 498.86,
+      "speaker": "SPEAKER_00",
+      "text": "It's basically 3 million which I have represented here as 3 into 10 to the power 6 into 15"
+    },
+    {
+      "start": 498.86,
+      "end": 506.0,
+      "speaker": "SPEAKER_00",
+      "text": "percent that is 0.15 into 2 by 3 which is 40 minutes is 2 by 3rd fraction of an hour."
+    },
+    {
+      "start": 506.0,
+      "end": 507.68,
+      "speaker": "SPEAKER_00",
+      "text": "So into 2 by 3."
+    },
+    {
+      "start": 507.68,
+      "end": 514.76,
+      "speaker": "SPEAKER_00",
+      "text": "But any point of time I have 3 into 10 to the power 5 people in the metro between that"
+    },
+    {
+      "start": 514.76,
+      "end": 515.76,
+      "speaker": "SPEAKER_00",
+      "text": "period."
+    },
+    {
+      "start": 515.76,
+      "end": 516.76,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 516.76,
+      "end": 520.8,
+      "speaker": "SPEAKER_00",
+      "text": "Now the next point here is to figure out the capacity of 1 boogie."
+    },
+    {
+      "start": 520.8,
+      "end": 521.8,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 521.8,
+      "end": 526.1,
+      "speaker": "SPEAKER_00",
+      "text": "So if you are aware of the layout of the Delhi metro, if you are not you can actually ask"
+    },
+    {
+      "start": 526.1,
+      "end": 528.2,
+      "speaker": "SPEAKER_00",
+      "text": "the interview with this question directly."
+    },
+    {
+      "start": 528.2,
+      "end": 529.2,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 529.2,
+      "end": 534.0,
+      "speaker": "SPEAKER_00",
+      "text": "So there are about 50 people who can sit in 1 boogie."
+    },
+    {
+      "start": 534.0,
+      "end": 535.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 535.08,
+      "end": 539.4,
+      "speaker": "SPEAKER_00",
+      "text": "Now the capacity definitely is going to be many folds greater than that right."
+    },
+    {
+      "start": 539.4,
+      "end": 544.12,
+      "speaker": "SPEAKER_00",
+      "text": "Look for every person who is sitting there many people who are standing right and especially"
+    },
+    {
+      "start": 544.12,
+      "end": 546.16,
+      "speaker": "SPEAKER_00",
+      "text": "in the peak are the champs."
+    },
+    {
+      "start": 546.16,
+      "end": 550.8,
+      "speaker": "SPEAKER_00",
+      "text": "So let us assume that for every person who is sitting there are 4 people who are standing."
+    },
+    {
+      "start": 550.8,
+      "end": 551.8,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 551.8,
+      "end": 556.36,
+      "speaker": "SPEAKER_00",
+      "text": "So for 50 people who are sitting there 200 people who are standing so the capacity of each"
+    },
+    {
+      "start": 556.36,
+      "end": 560.36,
+      "speaker": "SPEAKER_00",
+      "text": "boogie becomes 250 people."
+    },
+    {
+      "start": 560.36,
+      "end": 567.16,
+      "speaker": "SPEAKER_00",
+      "text": "Knowing that 1 train has 6 boogies the capacity of 1 train becomes 1500 or basically 1.5 into"
+    },
+    {
+      "start": 567.16,
+      "end": 569.2,
+      "speaker": "SPEAKER_00",
+      "text": "10 to the power 3."
+    },
+    {
+      "start": 569.2,
+      "end": 570.2,
+      "speaker": "SPEAKER_00",
+      "text": "As I will cover."
+    },
+    {
+      "start": 570.2,
+      "end": 575.44,
+      "speaker": "SPEAKER_00",
+      "text": "So what is the logic of these power notations as we will cover in another video about how"
+    },
+    {
+      "start": 575.44,
+      "end": 579.32,
+      "speaker": "SPEAKER_00",
+      "text": "to do calculations in a more structured and easier fashion."
+    },
+    {
+      "start": 579.32,
+      "end": 584.04,
+      "speaker": "SPEAKER_00",
+      "text": "I always try to represent my answer in the power notation because that way I don't make"
+    },
+    {
+      "start": 584.04,
+      "end": 585.72,
+      "speaker": "SPEAKER_00",
+      "text": "a zero error."
+    },
+    {
+      "start": 585.72,
+      "end": 592.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So now the value of x is 3 into 10 to the power 5 and the denominator is 1.5 into 10 to"
+    },
+    {
+      "start": 592.0400000000001,
+      "end": 593.36,
+      "speaker": "SPEAKER_00",
+      "text": "the power 3."
+    },
+    {
+      "start": 593.36,
+      "end": 597.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So the total number of trains that I have become 200 right."
+    },
+    {
+      "start": 597.6800000000001,
+      "end": 600.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Now that seems to be a reasonable number."
+    },
+    {
+      "start": 600.6800000000001,
+      "end": 601.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 601.6800000000001,
+      "end": 607.96,
+      "speaker": "SPEAKER_00",
+      "text": "Now we look at the second strategy and see whether our numbers kind of match or not."
+    },
+    {
+      "start": 607.96,
+      "end": 608.96,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 608.96,
+      "end": 613.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So the second strategy is kind of similar to the uh strategies that we discussed for"
+    },
+    {
+      "start": 613.56,
+      "end": 616.28,
+      "speaker": "SPEAKER_00",
+      "text": "estimating the area of Delhi."
+    },
+    {
+      "start": 616.28,
+      "end": 618.92,
+      "speaker": "SPEAKER_00",
+      "text": "What we will do is we will take any one metro line."
+    },
+    {
+      "start": 618.92,
+      "end": 619.92,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 619.92,
+      "end": 624.3599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "We will try to figure out the total travel time on that line."
+    },
+    {
+      "start": 624.3599999999999,
+      "end": 629.3599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Feel now assume that during the p-card setting I am stopping all the operations."
+    },
+    {
+      "start": 629.3599999999999,
+      "end": 630.3599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 630.3599999999999,
+      "end": 637.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So we find how far apart in terms of time two trains are on that track."
+    },
+    {
+      "start": 637.1999999999999,
+      "end": 638.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 638.1999999999999,
+      "end": 641.68,
+      "speaker": "SPEAKER_00",
+      "text": "Another way to imagine it is let's say you are standing on a particular station on that"
+    },
+    {
+      "start": 641.68,
+      "end": 642.68,
+      "speaker": "SPEAKER_00",
+      "text": "line."
+    },
+    {
+      "start": 642.68,
+      "end": 647.04,
+      "speaker": "SPEAKER_00",
+      "text": "How frequently during the p-card do you see a train coming?"
+    },
+    {
+      "start": 647.04,
+      "end": 651.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So in the p-card usually it's two minutes or three minutes right."
+    },
+    {
+      "start": 651.4399999999999,
+      "end": 657.4799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Now the train on one side of the track simply becomes the total time taken to travel from"
+    },
+    {
+      "start": 657.4799999999999,
+      "end": 659.64,
+      "speaker": "SPEAKER_00",
+      "text": "one end to the other end."
+    },
+    {
+      "start": 659.64,
+      "end": 665.2399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Upon the time difference between two trains that is observed right."
+    },
+    {
+      "start": 665.2399999999999,
+      "end": 668.76,
+      "speaker": "SPEAKER_00",
+      "text": "So this is what I have represented in the formula here."
+    },
+    {
+      "start": 668.76,
+      "end": 672.28,
+      "speaker": "SPEAKER_00",
+      "text": "Now let us take the case of the yellow line."
+    },
+    {
+      "start": 672.28,
+      "end": 677.2,
+      "speaker": "SPEAKER_00",
+      "text": "So now while we are doing this we are just calculating distance from let's just in"
+    },
+    {
+      "start": 677.2,
+      "end": 680.08,
+      "speaker": "SPEAKER_00",
+      "text": "Jahangir Puri to Huda city center."
+    },
+    {
+      "start": 680.08,
+      "end": 683.76,
+      "speaker": "SPEAKER_00",
+      "text": "But at the same time is the parallel track which is coming from that direction also."
+    },
+    {
+      "start": 683.76,
+      "end": 688.92,
+      "speaker": "SPEAKER_00",
+      "text": "So the total number of trains corresponding to the yellow line will be twice of what we"
+    },
+    {
+      "start": 688.92,
+      "end": 690.4,
+      "speaker": "SPEAKER_00",
+      "text": "get from this formula."
+    },
+    {
+      "start": 690.4,
+      "end": 691.4,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 691.4,
+      "end": 692.4,
+      "speaker": "SPEAKER_00",
+      "text": "Let's straight forward."
+    },
+    {
+      "start": 692.4,
+      "end": 696.72,
+      "speaker": "SPEAKER_00",
+      "text": "Now all we do is we simply assume that okay the traffic is uniformly distributed across"
+    },
+    {
+      "start": 696.72,
+      "end": 697.88,
+      "speaker": "SPEAKER_00",
+      "text": "all lines."
+    },
+    {
+      "start": 697.88,
+      "end": 705.16,
+      "speaker": "SPEAKER_00",
+      "text": "So if the length of this line was a particular number we just use unitary method to expand"
+    },
+    {
+      "start": 705.16,
+      "end": 706.96,
+      "speaker": "SPEAKER_00",
+      "text": "it for all the lines."
+    },
+    {
+      "start": 706.96,
+      "end": 711.12,
+      "speaker": "SPEAKER_00",
+      "text": "Another could be that okay you can say okay that we have six lines or five lines we"
+    },
+    {
+      "start": 711.12,
+      "end": 715.52,
+      "speaker": "SPEAKER_00",
+      "text": "can simply multiply this number by five or six."
+    },
+    {
+      "start": 715.52,
+      "end": 716.52,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 716.52,
+      "end": 719.88,
+      "speaker": "SPEAKER_00",
+      "text": "Now let's look at the numbers for this particular case."
+    },
+    {
+      "start": 719.88,
+      "end": 720.88,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 720.88,
+      "end": 727.6,
+      "speaker": "SPEAKER_00",
+      "text": "So the total travel time for the yellow line on any direction is basically 90 minutes."
+    },
+    {
+      "start": 727.6,
+      "end": 732.36,
+      "speaker": "SPEAKER_00",
+      "text": "Now the p-car I was using that the time headway or the amount of time between two trains is"
+    },
+    {
+      "start": 732.36,
+      "end": 734.2,
+      "speaker": "SPEAKER_00",
+      "text": "roughly three minutes."
+    },
+    {
+      "start": 734.2,
+      "end": 740.9200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So that means train on one side of the track are 90 by three that is only 30 and corresponding"
+    },
+    {
+      "start": 740.9200000000001,
+      "end": 745.36,
+      "speaker": "SPEAKER_00",
+      "text": "to both the sides would be 13 to 260."
+    },
+    {
+      "start": 745.36,
+      "end": 753.88,
+      "speaker": "SPEAKER_00",
+      "text": "Now the total number of trains that I have are basically 60 trains corresponding to the"
+    },
+    {
+      "start": 753.88,
+      "end": 758.0,
+      "speaker": "SPEAKER_00",
+      "text": "yellow line extra polluted to the whole metro network."
+    },
+    {
+      "start": 758.0,
+      "end": 762.68,
+      "speaker": "SPEAKER_00",
+      "text": "Now the yellow line is actually one of the longest lines on the daily metro network."
+    },
+    {
+      "start": 762.68,
+      "end": 767.88,
+      "speaker": "SPEAKER_00",
+      "text": "So even though I know that there are six lines on the daily metro I instead of multiplying"
+    },
+    {
+      "start": 767.88,
+      "end": 772.8,
+      "speaker": "SPEAKER_00",
+      "text": "this number by six on a conservative estimate I have just multiplied it by five."
+    },
+    {
+      "start": 772.8,
+      "end": 774.32,
+      "speaker": "SPEAKER_00",
+      "text": "It's a total number of 300 trains."
+    },
+    {
+      "start": 774.32,
+      "end": 775.32,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 775.32,
+      "end": 778.88,
+      "speaker": "SPEAKER_00",
+      "text": "I got a multiplied by six also and got a 360 as my answer."
+    },
+    {
+      "start": 778.88,
+      "end": 780.44,
+      "speaker": "SPEAKER_00",
+      "text": "Nothing really would change about that."
+    },
+    {
+      "start": 780.44,
+      "end": 787.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "I want to make a more reasonable estimate by using my previous knowledge of the length"
+    },
+    {
+      "start": 787.6800000000001,
+      "end": 795.8800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "of the respective lengths of different network metro lines, different color metro lines."
+    },
+    {
+      "start": 795.8800000000001,
+      "end": 796.8800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 796.8800000000001,
+      "end": 802.36,
+      "speaker": "SPEAKER_00",
+      "text": "Now if we find in our first case we found the answer to be 200 and the second answer is"
+    },
+    {
+      "start": 802.36,
+      "end": 803.36,
+      "speaker": "SPEAKER_00",
+      "text": "300 or 360."
+    },
+    {
+      "start": 803.36,
+      "end": 804.36,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 804.36,
+      "end": 808.7600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So the order of magnitude of both these answers seem to be similar."
+    },
+    {
+      "start": 808.7600000000001,
+      "end": 809.7600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 809.76,
+      "end": 815.8,
+      "speaker": "SPEAKER_00",
+      "text": "So we know that the answer would somehow lie somewhere lie in this range only."
+    },
+    {
+      "start": 815.8,
+      "end": 816.8,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 816.8,
+      "end": 820.96,
+      "speaker": "SPEAKER_00",
+      "text": "So I think that exact number is somewhere around 220 or so."
+    },
+    {
+      "start": 820.96,
+      "end": 821.96,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 821.96,
+      "end": 828.28,
+      "speaker": "SPEAKER_00",
+      "text": "Again, like in most estimates the number don't matter as much as the overall strategy assuming"
+    },
+    {
+      "start": 828.28,
+      "end": 831.96,
+      "speaker": "SPEAKER_00",
+      "text": "that your number is in the ballpark of the correct answer."
+    },
+    {
+      "start": 831.96,
+      "end": 834.08,
+      "speaker": "SPEAKER_00",
+      "text": "So there we have it."
+    },
+    {
+      "start": 834.08,
+      "end": 838.68,
+      "speaker": "SPEAKER_00",
+      "text": "We have discussed two different strategies that we can use to solve this particular estimate"
+    },
+    {
+      "start": 838.68,
+      "end": 841.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "and any other estimate of similar type."
+    },
+    {
+      "start": 841.3199999999999,
+      "end": 846.3599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I hope you find this useful for your case solving and keep looking forward to this channel"
+    },
+    {
+      "start": 846.3599999999999,
+      "end": 848.04,
+      "speaker": "SPEAKER_00",
+      "text": "for more videos in the coming days."
+    }
+  ],
+  "grading": {
+    "communication": 8,
+    "framework": 12,
+    "math": 10,
+    "case_difficulty": 11,
+    "final_summary": 15,
+    "overall_thoughts": "Your framework was well-structured and easy to follow, but the math concepts were not fully grasped."
+  }
+}

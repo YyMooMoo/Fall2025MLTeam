@@ -1,0 +1,1188 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "speaker": "SPEAKER_00",
+      "text": "Hi, how are you?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "speaker": "SPEAKER_02",
+      "text": "I'm fantastic. How are you?"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "speaker": "SPEAKER_00",
+      "text": "Good. Good."
+    },
+    {
+      "start": 9.0,
+      "end": 14.0,
+      "speaker": "SPEAKER_02",
+      "text": "Cool. Well, I'm pretty excited to do this case today."
+    },
+    {
+      "start": 14.0,
+      "end": 20.0,
+      "speaker": "SPEAKER_02",
+      "text": "I want to give you like a two second heads up on just like what to expect before we dive in here."
+    },
+    {
+      "start": 20.0,
+      "end": 26.0,
+      "speaker": "SPEAKER_02",
+      "text": "So this is basically like a interviewer driven case."
+    },
+    {
+      "start": 26.0,
+      "end": 32.0,
+      "speaker": "SPEAKER_02",
+      "text": "Right. And so effectively what that's going to mean is, you know, I might ask you to come up with a structure."
+    },
+    {
+      "start": 32.0,
+      "end": 39.0,
+      "speaker": "SPEAKER_02",
+      "text": "You might say bucket A bucket B bucket C and I'd like to investigate bucket C and I might say that's great. We're actually going to look at a."
+    },
+    {
+      "start": 39.0,
+      "end": 43.0,
+      "speaker": "SPEAKER_02",
+      "text": "I don't want you to think that you have like aired in any way."
+    },
+    {
+      "start": 43.0,
+      "end": 48.0,
+      "speaker": "SPEAKER_02",
+      "text": "I just have certain modules that I'm going to drive through and make sure that like we get to them."
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "speaker": "SPEAKER_02",
+      "text": "Any questions?"
+    },
+    {
+      "start": 50.0,
+      "end": 53.0,
+      "speaker": "SPEAKER_00",
+      "text": "No, that all makes sense. Excited to case with you."
+    },
+    {
+      "start": 53.0,
+      "end": 55.0,
+      "speaker": "SPEAKER_02",
+      "text": "Cool. All right."
+    },
+    {
+      "start": 55.0,
+      "end": 63.0,
+      "speaker": "SPEAKER_02",
+      "text": "Your firm has been hired by the New York City government to help address a growing issue trash disposal."
+    },
+    {
+      "start": 63.0,
+      "end": 65.0,
+      "speaker": "SPEAKER_02",
+      "text": "The current system is unsustainable."
+    },
+    {
+      "start": 65.0,
+      "end": 69.0,
+      "speaker": "SPEAKER_02",
+      "text": "Every day the city generates 44 million pounds of waste."
+    },
+    {
+      "start": 69.0,
+      "end": 77.0,
+      "speaker": "SPEAKER_02",
+      "text": "And our focus will be on the 50% of this waste that is collected by the New York City Department of Sanitation DSN Live."
+    },
+    {
+      "start": 77.0,
+      "end": 83.0,
+      "speaker": "SPEAKER_02",
+      "text": "The main issue to address is that DSNY does not collect waste out of any kind of container."
+    },
+    {
+      "start": 83.0,
+      "end": 91.0,
+      "speaker": "SPEAKER_02",
+      "text": "Rather, citizens of New York simply pile trash bags of trash onto the sidewalk for collection by DSNY."
+    },
+    {
+      "start": 91.0,
+      "end": 101.0,
+      "speaker": "SPEAKER_02",
+      "text": "These piles of trash take up valuable sidewalk space and dense urban neighborhoods create unsightly miles of overflowing trash bags that can reach four to five feet high."
+    },
+    {
+      "start": 101.0,
+      "end": 111.0,
+      "speaker": "SPEAKER_02",
+      "text": "And the resultant mess is exacerbating rodent infestations and sanitation concerns throughout the city."
+    },
+    {
+      "start": 111.0,
+      "end": 120.0,
+      "speaker": "SPEAKER_02",
+      "text": "Is there any time in New York as a as a not in New Yorker like the first time I saw this, I was like, what is going on."
+    },
+    {
+      "start": 120.0,
+      "end": 127.0,
+      "speaker": "SPEAKER_02",
+      "text": "But this is a real, this is a real thing. So we got to we need to help the government of New York very, very much."
+    },
+    {
+      "start": 127.0,
+      "end": 135.0,
+      "speaker": "SPEAKER_02",
+      "text": "Alright, your firm has been asked to create a plan to get the trash off the sidewalks and into containers seems reasonable."
+    },
+    {
+      "start": 135.0,
+      "end": 138.0,
+      "speaker": "SPEAKER_02",
+      "text": "How would you address this request?"
+    },
+    {
+      "start": 138.0,
+      "end": 142.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so just want to take a moment to make sure I understood everything correctly."
+    },
+    {
+      "start": 142.0,
+      "end": 153.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we've been hired by the New York City government specifically the Department of Sanitation to help them sort of understand how to get trash off the streets and sidewalks of New York City."
+    },
+    {
+      "start": 153.0,
+      "end": 172.0,
+      "speaker": "SPEAKER_00",
+      "text": "This is a problem now because they currently have 44 million pounds of waste a day in New York 50% is collected by the Department of Sanitation, but they have no containers for this trash show that these millions of pounds just pile up on the streets of the sidewalk, which causes sanitation issues it blocks sidewalks, etc."
+    },
+    {
+      "start": 173.0,
+      "end": 179.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so really they've they've hired us to just get the trash off the sidewalk. Is that correct?"
+    },
+    {
+      "start": 179.0,
+      "end": 180.0,
+      "speaker": "SPEAKER_02",
+      "text": "That's right."
+    },
+    {
+      "start": 180.0,
+      "end": 185.0,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome. Just a couple clarifying questions if you don't mind."
+    },
+    {
+      "start": 185.0,
+      "end": 192.0,
+      "speaker": "SPEAKER_00",
+      "text": "So do they have a specific goal in mind? Is it just get trash off sidewalk? Do they want to solve the sanitation problem first?"
+    },
+    {
+      "start": 192.0,
+      "end": 196.0,
+      "speaker": "SPEAKER_00",
+      "text": "Do they want to get rid of rodents, etc. Like is there a specific goal?"
+    },
+    {
+      "start": 196.0,
+      "end": 201.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, so you know kind of like you know multifaceted multi stakeholders."
+    },
+    {
+      "start": 201.0,
+      "end": 207.0,
+      "speaker": "SPEAKER_02",
+      "text": "First and foremost, they want to get the trash off the street as quickly, sustainably and cheaply as possible."
+    },
+    {
+      "start": 207.0,
+      "end": 220.0,
+      "speaker": "SPEAKER_02",
+      "text": "And they would like to do so in a matter that creates the most satisfaction for residents by taking the least amount of street space possible and avoid losing space for walking park cars and outdoor dining and parks."
+    },
+    {
+      "start": 220.0,
+      "end": 224.0,
+      "speaker": "SPEAKER_02",
+      "text": "So do it, do it cheaply, don't make them this."
+    },
+    {
+      "start": 224.0,
+      "end": 226.0,
+      "speaker": "SPEAKER_00",
+      "text": "That makes sense."
+    },
+    {
+      "start": 226.0,
+      "end": 237.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then New York obviously has many neighborhoods, different burrows, etc. Does the issue impact all parts of New York or certain parks on impacted by this? Does it impact them all equally?"
+    },
+    {
+      "start": 237.0,
+      "end": 240.0,
+      "speaker": "SPEAKER_00",
+      "text": "Just trying to get a sense of the scope of the problem here."
+    },
+    {
+      "start": 240.0,
+      "end": 248.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I mean, you know, you can think about the problem as exacerbated by trash per square foot of sidewalk produced."
+    },
+    {
+      "start": 248.0,
+      "end": 260.0,
+      "speaker": "SPEAKER_02",
+      "text": "So in very dense neighborhoods in Manhattan and parts of Brooklyn, it's significantly worse, especially where you have, you know, not just single family residences."
+    },
+    {
+      "start": 260.0,
+      "end": 269.0,
+      "speaker": "SPEAKER_00",
+      "text": "Got it. Okay. Super clear. Would you mind if I just take a few moments to structure out of way for us to work through this problem together?"
+    },
+    {
+      "start": 269.0,
+      "end": 274.0,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds great."
+    },
+    {
+      "start": 274.0,
+      "end": 277.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so have some thoughts here."
+    },
+    {
+      "start": 277.0,
+      "end": 286.0,
+      "speaker": "SPEAKER_00",
+      "text": "We'll just sort of talk you through them. And in the way I would think about approaching this problem is sort of threefold. So first, I would want to do some neighborhood research."
+    },
+    {
+      "start": 286.0,
+      "end": 293.0,
+      "speaker": "SPEAKER_00",
+      "text": "Second, I would want to do an evaluation of different solution options or potential solutions."
+    },
+    {
+      "start": 293.0,
+      "end": 303.0,
+      "speaker": "SPEAKER_00",
+      "text": "And third, I'd want to look at kind of how we would develop a change management plan or essentially an implementation plan to get the chosen solution off the ground."
+    },
+    {
+      "start": 303.0,
+      "end": 317.0,
+      "speaker": "SPEAKER_00",
+      "text": "So sort of within the first bucket one neighborhood research, a few things that I would want to look at within this bucket would be things like understanding the population density of different neighborhoods."
+    },
+    {
+      "start": 317.0,
+      "end": 330.0,
+      "speaker": "SPEAKER_00",
+      "text": "And I would like to look at the point of thinking about it in terms of square foot of trash that is disposed like getting a sense of how many people there are within each neighborhood and how dense they are because that will signal how much trash is piling up within certain neighborhoods."
+    },
+    {
+      "start": 330.0,
+      "end": 346.0,
+      "speaker": "SPEAKER_00",
+      "text": "I want to get a sense as well as, you know, what neighborhoods are currently doing for trash disposal today and just kind of understand, you know, is everyone doing this street piling thing do certain buildings have different protocols like our some buildings doing this better than others."
+    },
+    {
+      "start": 346.0,
+      "end": 351.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so, for example, and just get a better grasp on what exactly is being done today."
+    },
+    {
+      "start": 351.0,
+      "end": 364.0,
+      "speaker": "SPEAKER_00",
+      "text": "The other thing I'd want to look at is like layouts of the different streets. So, for example, I think London, you know, things are curvy and it's not super uniform. And so making kind of a trash pickup plan is going to be more complicated."
+    },
+    {
+      "start": 364.0,
+      "end": 377.0,
+      "speaker": "SPEAKER_00",
+      "text": "You know, for a particular style streets where people just, you know, zigzag through throughout the day. So those are some of the things I want to understand from a neighborhood sort of research perspective."
+    },
+    {
+      "start": 377.0,
+      "end": 391.0,
+      "speaker": "SPEAKER_00",
+      "text": "Within the second bucket of solution evaluation, I think first within this I would want to look at identifying options. So before we even evaluate solutions, it's, can we do benchmarking for identifying options of what other cities do."
+    },
+    {
+      "start": 391.0,
+      "end": 399.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then look at other major cities like Paris or London or LA, for example, LA is maybe less dense than New York."
+    },
+    {
+      "start": 399.0,
+      "end": 404.0,
+      "speaker": "SPEAKER_00",
+      "text": "But just trying to get a sense of cities with similar size populations."
+    },
+    {
+      "start": 404.0,
+      "end": 407.0,
+      "speaker": "SPEAKER_00",
+      "text": "What they're doing for trash removal."
+    },
+    {
+      "start": 407.0,
+      "end": 411.0,
+      "speaker": "SPEAKER_00",
+      "text": "Or potentially there are cities that have faced this problem in the past and how they handled it."
+    },
+    {
+      "start": 411.0,
+      "end": 420.0,
+      "speaker": "SPEAKER_00",
+      "text": "So that would be kind of the first step. And then with after we identify solutions, as I mentioned, I want to evaluate them both quantitatively and qualitatively quantitatively would be, you know,"
+    },
+    {
+      "start": 420.0,
+      "end": 437.0,
+      "speaker": "SPEAKER_00",
+      "text": "focused on cost as one of their goals is to do this as cheaply as possible. So trying to understand the startup cost for these different solutions, the ongoing operational costs, etc. But also when they say quantitatively that could be time like the time to stand it up the time to maintain them, etc."
+    },
+    {
+      "start": 437.0,
+      "end": 450.0,
+      "speaker": "SPEAKER_00",
+      "text": "So that's kind of quant metrics and then qualitatively would be things like, you know, are there preferences like what do people want does do the people of the certain neighborhoods have an idea mind of how to do this already."
+    },
+    {
+      "start": 450.0,
+      "end": 459.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would also think about like what's the scalability of the different solutions like how easily you can scale it up across neighborhood things like that."
+    },
+    {
+      "start": 459.0,
+      "end": 469.0,
+      "speaker": "SPEAKER_00",
+      "text": "So that's sort of the solution evaluation and then hopefully if you evaluate them across enough quant and qualitative metrics, you can get a sense of which ones like the best option for the city of New York."
+    },
+    {
+      "start": 469.0,
+      "end": 481.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then within my third bucket that change management or implementation plan, I'd want to really start to just draft or get a sense of how we can stand this up as quickly and efficiently as possible."
+    },
+    {
+      "start": 481.0,
+      "end": 490.0,
+      "speaker": "SPEAKER_00",
+      "text": "So start thinking about how we would design a communications or marketing plan for this to inform the people of New York that this is happening."
+    },
+    {
+      "start": 490.0,
+      "end": 504.0,
+      "speaker": "SPEAKER_00",
+      "text": "I'd also want to think about doing some pilot programs both to test out the solutions and kind of make this, you know, a not forced upon the people, but we can try it out, see how it goes refine as needed, etc."
+    },
+    {
+      "start": 504.0,
+      "end": 523.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then gather feedback through that process before kind of hopefully rolling this out to all of New York, but I think developing a change management plan, which solution would be the easiest to communicate, which solutions would work well with pilot programs and sort of then think about maybe designing a survey to get customer feedback on those solutions."
+    },
+    {
+      "start": 523.0,
+      "end": 540.0,
+      "speaker": "SPEAKER_00",
+      "text": "So within those three buckets of sort of trying to understand this problem, I think starting within the first bucket of neighborhood research, wondering if you have any data on neighborhoods or neighbor could make up, etc, that we can look at to sort of start working through this problem."
+    },
+    {
+      "start": 540.0,
+      "end": 559.0,
+      "speaker": "SPEAKER_02",
+      "text": "Totally do and will definitely drive into that. But before we do, I'd love your thoughts on kind of some of these solution options, right, like anything jump off the page to you that feels, you know, obvious or how would you even think about like what the options really are."
+    },
+    {
+      "start": 559.0,
+      "end": 564.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, so jumping into my second bucket where I said identifying options sort of by benchmarking."
+    },
+    {
+      "start": 564.0,
+      "end": 583.0,
+      "speaker": "SPEAKER_00",
+      "text": "If I think about like where I grew up, I grew up in suburban Minnesota, we had trash bins that we put out on the end of the driveway per individual house. So maybe there's a similar bin system where each apartment is allocated a certain number of bins within New York and then the garbage people come take them dump them out, leave the bins on the sidewalk."
+    },
+    {
+      "start": 583.0,
+      "end": 610.0,
+      "speaker": "SPEAKER_00",
+      "text": "The other thing is I've lived in apartments or in my college dorm, for example, where we have these big containers or crates where everyone in the building kind of puts their trash in them outside. So maybe there's a solution like that where maybe there's a container at the end of a street where it's the expectation where people are supposed to walk to that container, dump it in every day, could be quite a bit of a walk, but people do that in dorms, right, like you have to wander outside these big buildings to get to your trash bin."
+    },
+    {
+      "start": 610.0,
+      "end": 620.0,
+      "speaker": "SPEAKER_00",
+      "text": "So so maybe there are things like that, but again, you know, that's a limited scope with if we had data would love to look at what bigger cities are doing as well."
+    },
+    {
+      "start": 620.0,
+      "end": 627.0,
+      "speaker": "SPEAKER_02",
+      "text": "What do you think about my idea, which is just little micro incinerators on everybody's front steps."
+    },
+    {
+      "start": 627.0,
+      "end": 644.0,
+      "speaker": "SPEAKER_00",
+      "text": "If someone can find a way to insinrate trash without admitting toxic fumes into the air, they would be a billionaire. And so I would love that idea and was want to invest like right away, but I don't know the technology today to do that."
+    },
+    {
+      "start": 644.0,
+      "end": 656.0,
+      "speaker": "SPEAKER_02",
+      "text": "This case, we're going to get right into it. All right, so we do have some kind of like market sizing. We just want to get like a feel for how big this problem is. So I'm going to give you some details that we've collected."
+    },
+    {
+      "start": 656.0,
+      "end": 661.0,
+      "speaker": "SPEAKER_02",
+      "text": "One of the associates on your team has found the following data."
+    },
+    {
+      "start": 661.0,
+      "end": 682.0,
+      "speaker": "SPEAKER_02",
+      "text": "This NLY collects 120,000 cubic yards of waste from Manhattan each day. And we are evaluating two potential containers. One of them is a shared container, the size of a half of a parking space, and it can hold three cubic yards of space."
+    },
+    {
+      "start": 682.0,
+      "end": 697.0,
+      "speaker": "SPEAKER_02",
+      "text": "The alternative is an individual bin, which can hold 0.3 cubic yards of space. How many of each type of container would be required, assuming once daily collection in Manhattan."
+    },
+    {
+      "start": 697.0,
+      "end": 713.0,
+      "speaker": "SPEAKER_00",
+      "text": "So to figure out the number of containers that would be required, I think you would have to take the total number of trash that is collected per day divided by the yards or capacity cubic yard capacity of these containers."
+    },
+    {
+      "start": 713.0,
+      "end": 724.0,
+      "speaker": "SPEAKER_00",
+      "text": "So if I were to do that with the numbers you provided, the Department of Sanitation permit collects 120,000 cubic yards of trash per day."
+    },
+    {
+      "start": 724.0,
+      "end": 737.0,
+      "speaker": "SPEAKER_00",
+      "text": "If I just start with the shared container to begin with, they each hold three cubic yards. So 120 divided by three. That would be about 40 K containers is what you would need of that option."
+    },
+    {
+      "start": 737.0,
+      "end": 748.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then of your second option that you presented the bins that he told 0.3 cubic yards of space. So that would just be the 120 K divided by 0.3."
+    },
+    {
+      "start": 748.0,
+      "end": 777.0,
+      "speaker": "SPEAKER_00",
+      "text": "0.3 is just one tenth the size of three. So that would just be 10 times the original 40 K. We just calculated so 400 K. So you would need 40 K of the shared container and then 400 K of the little bins or the smaller sized bins. But this is that 120. I'm assuming is an average. It's not perfect for every street. And so you're probably going to have some that what might overflow a certain day or some streets that need more bins or less bins, etc."
+    },
+    {
+      "start": 777.0,
+      "end": 792.0,
+      "speaker": "SPEAKER_00",
+      "text": "And they're not going to all fill perfectly. So I'm just going to like simplistically assume a margin of air of 50 ish percent and say probably in the range of 40 to 60 K containers or 400 to 600 K bins is probably what you would need."
+    },
+    {
+      "start": 792.0,
+      "end": 801.0,
+      "speaker": "SPEAKER_02",
+      "text": "Great. Awesome. So let's assume that the shared containers would need to use the space currently reserved for on street parking."
+    },
+    {
+      "start": 801.0,
+      "end": 813.0,
+      "speaker": "SPEAKER_02",
+      "text": "Assuming the average cost of a parking space is in Manhattan is $500 per month. What is the implied opportunity cost of the space needed for the shared containers."
+    },
+    {
+      "start": 813.0,
+      "end": 824.0,
+      "speaker": "SPEAKER_00",
+      "text": "Just to make sure remind me how big is a container relative to a parking spot. I believe you mentioned I want to make sure I got that number correct."
+    },
+    {
+      "start": 824.0,
+      "end": 842.0,
+      "speaker": "SPEAKER_00",
+      "text": "It's a half of a parking space half of a parking space. Okay. So just to think through this, I think you'd want to take number of containers kind of multiplied or the buy by how big it is relative to a parking space and then multiply that by that gives you the opportunity of like parking spaces lost and then multiply that."
+    },
+    {
+      "start": 842.0,
+      "end": 857.0,
+      "speaker": "SPEAKER_00",
+      "text": "By the revenue you would have got from a parking space of the $500 per month. So if I were to just kind of structure out this problem, we would have, I'm going to take the upper end of the range that I just said so 60 K containers just to be conservative in this approach."
+    },
+    {
+      "start": 857.0,
+      "end": 871.0,
+      "speaker": "SPEAKER_00",
+      "text": "If each one is half the size of a parking space, I'm going to multiply that by a half. So that would give us, you know, 30 K parking spaces of opportunity cost times the $500 per month."
+    },
+    {
+      "start": 871.0,
+      "end": 890.0,
+      "speaker": "SPEAKER_00",
+      "text": "30 K times 500 is the same as 3 million times five. So that's just $15 million a month in terms of opportunity cost. And my initial reaction to this is that is quite high. I don't know what the New York City Department's budget is"
+    },
+    {
+      "start": 890.0,
+      "end": 900.0,
+      "speaker": "SPEAKER_00",
+      "text": "for a year, but $15 million a month seems like quite a lot of money to be giving up to provide a service that will also cost money."
+    },
+    {
+      "start": 900.0,
+      "end": 912.0,
+      "speaker": "SPEAKER_00",
+      "text": "So I would probably want to look in terms of next steps, like what is the cost of the containers and kind of what the size of our budget is and if we can absorb that."
+    },
+    {
+      "start": 912.0,
+      "end": 923.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah. What do you think about this half a parking space problem that we have? What do you, what could we park in the other part of it?"
+    },
+    {
+      "start": 923.0,
+      "end": 930.0,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of half a parking space."
+    },
+    {
+      "start": 931.0,
+      "end": 944.0,
+      "speaker": "SPEAKER_00",
+      "text": "Well, you can park motorcycles, you can park bikes, you can park people, etc. So it's not just you're taking away the cars, you're taking away the space that people would have to, you know, use the sidewalks for their leisure, etc."
+    },
+    {
+      "start": 944.0,
+      "end": 951.0,
+      "speaker": "SPEAKER_00",
+      "text": "And it just would having these bins all over the city in addition to the cars that probably aren't going anywhere."
+    },
+    {
+      "start": 951.0,
+      "end": 954.0,
+      "speaker": "SPEAKER_00",
+      "text": "The streets are going to be quite crowded."
+    },
+    {
+      "start": 954.0,
+      "end": 961.0,
+      "speaker": "SPEAKER_02",
+      "text": "Do you think we should give ourselves credit though for saving half a space or is using half a space the same as using a whole space?"
+    },
+    {
+      "start": 961.0,
+      "end": 978.0,
+      "speaker": "SPEAKER_00",
+      "text": "I think it's using half a space is great, but the cars are still going to be there. Right. So I don't think like using one space versus half a space is like credit in that sense because it's not like the space is empty already. Right."
+    },
+    {
+      "start": 978.0,
+      "end": 983.0,
+      "speaker": "SPEAKER_00",
+      "text": "So like the space has a purpose and you're just reallocating it. And so anything you take away."
+    },
+    {
+      "start": 983.0,
+      "end": 991.0,
+      "speaker": "SPEAKER_00",
+      "text": "You're going to have to try to figure out what if that is going to be the best use of the space or not."
+    },
+    {
+      "start": 991.0,
+      "end": 998.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, absolutely. All right. So next thing we're going to do a little like kind of like new market sizing."
+    },
+    {
+      "start": 998.0,
+      "end": 1009.0,
+      "speaker": "SPEAKER_02",
+      "text": "I'd like to estimate the total upfront and ongoing costs to maintain the shared containers, assuming DSNY chose only that option."
+    },
+    {
+      "start": 1009.0,
+      "end": 1016.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So upfront cost. I think I'm going to have to make a lot of assumptions here."
+    },
+    {
+      "start": 1016.0,
+      "end": 1032.0,
+      "speaker": "SPEAKER_00",
+      "text": "So if I assume a container costs anywhere from, you know, $500 to $1,000 per container, I'm just sort of, I'm going off kind of what it takes for me to, I'm going off."
+    },
+    {
+      "start": 1032.0,
+      "end": 1053.0,
+      "speaker": "SPEAKER_00",
+      "text": "I've had garbage people come to my house before and taking containers of stuff and I've been charged for them to do that. And that has been like anywhere from $100 to $200 and they obviously have to put that in the space. And I thought that was pricey. So I think, you know, if they can fill one of their bins with, you know, a multiplication of what they've taken away from my place."
+    },
+    {
+      "start": 1053.0,
+      "end": 1070.0,
+      "speaker": "SPEAKER_00",
+      "text": "I've hundreds of $1,000 maybe make sense. But again, this is a huge estimation. So if I take that times the 60 K containers, that would be 60 million on the upper end of the range and then 30 million on the lower end of the range."
+    },
+    {
+      "start": 1070.0,
+      "end": 1081.0,
+      "speaker": "SPEAKER_00",
+      "text": "So it's really 30 to million, 30 to 60 million in terms of upfront, just like comparing that to the 15 million dollars a month of the parking space revenue."
+    },
+    {
+      "start": 1081.0,
+      "end": 1096.0,
+      "speaker": "SPEAKER_00",
+      "text": "That we would be losing this seems like not that bad in terms of if we're able to bring in 15 million a month from 30 K parking spaces, being able to pay 30 to 60 million upfront seems like a relatively low up from budget."
+    },
+    {
+      "start": 1096.0,
+      "end": 1113.0,
+      "speaker": "SPEAKER_00",
+      "text": "So that's just my hypothesis for now we would have to look into, you know, more data about New York's these budget. So that's my upfront cost in terms of the ongoing costs. I would say, you'd have to clean the containers every year and maintain them."
+    },
+    {
+      "start": 1113.0,
+      "end": 1125.0,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to take a super simple assumption and just say that's going to be about $100 a year. Maybe it's like they have to clean it twice a year, 50 bucks a time in terms of the labor for the people who go do that. It takes them a couple hours."
+    },
+    {
+      "start": 1125.0,
+      "end": 1144.0,
+      "speaker": "SPEAKER_00",
+      "text": "$100 a round number. And then I'm also going to assume that you have to replace the containers. So it's kind of like we have, you know, ongoing SG&H and then replacement maintenance cap X or whatever for these containers. I don't know if that's the right way to think about it, but think about it maybe that way."
+    },
+    {
+      "start": 1144.0,
+      "end": 1154.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so if we have 60 K containers, we have to replace about five ish percent of them a year."
+    },
+    {
+      "start": 1154.0,
+      "end": 1157.0,
+      "speaker": "SPEAKER_00",
+      "text": "So you can say last."
+    },
+    {
+      "start": 1157.0,
+      "end": 1172.0,
+      "speaker": "SPEAKER_00",
+      "text": "I would say that they probably last quite a while. They're still even though people in New York definitely use things pretty intensely and their hard on stuff. I think you can get a lot of use out of some of the things in New York."
+    },
+    {
+      "start": 1172.0,
+      "end": 1191.0,
+      "speaker": "SPEAKER_00",
+      "text": "So like I know some of the subway stations and the subway is themselves are quite old. And so I would just think that they probably would last a decade or two. And so if I think of five percent replacement rate per year, that's essentially assuming we're going to have a 20 year replacement rate. So maybe that's a bit, you know,"
+    },
+    {
+      "start": 1191.0,
+      "end": 1209.0,
+      "speaker": "SPEAKER_00",
+      "text": "a bullish end. So maybe I would say like 10 to 20 year range. So maybe five to 10% of the containers have to be replaced a year. So then if I think about it that way, that would be 10% of the contain of the 60 K would be,"
+    },
+    {
+      "start": 1209.0,
+      "end": 1215.0,
+      "speaker": "SPEAKER_00",
+      "text": "that would be about six K have to be replaced five percent would be three K have to be replaced."
+    },
+    {
+      "start": 1215.0,
+      "end": 1227.0,
+      "speaker": "SPEAKER_00",
+      "text": "If the cost of a container that I just mentioned is 500 to $2,000, I would say then that approximately gets you to about 10 to,"
+    },
+    {
+      "start": 1227.0,
+      "end": 1247.0,
+      "speaker": "SPEAKER_00",
+      "text": "that gets you to about three to six million. So then if I add that to my $100, you know, ongoing maintenance fee 100 times 60 K, that would get me to another about six million. So if I add my like three to six million from replacement to that six million of,"
+    },
+    {
+      "start": 1247.0,
+      "end": 1254.0,
+      "speaker": "SPEAKER_00",
+      "text": "you know, ongoing maintenance, it's about 10 to 15 million dollars in maintenance."
+    },
+    {
+      "start": 1254.0,
+      "end": 1264.0,
+      "speaker": "SPEAKER_02",
+      "text": "And then you mentioned like wanting to kind of put that in some context. So we know from the data that DSN wise capital spend is approximately 250 million a year."
+    },
+    {
+      "start": 1264.0,
+      "end": 1269.0,
+      "speaker": "SPEAKER_02",
+      "text": "And their operating budget is approximately two billion per year."
+    },
+    {
+      "start": 1269.0,
+      "end": 1273.0,
+      "speaker": "SPEAKER_02",
+      "text": "So how do you think about your kind of estimates in that context?"
+    },
+    {
+      "start": 1273.0,
+      "end": 1288.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, so the 30 to 60 million upfront that I calculated, I would say if we think about their 250 million capital budget, that's, that seems a little bit high. That's, you know, 12 to 25% of the capital budget."
+    },
+    {
+      "start": 1288.0,
+      "end": 1300.0,
+      "speaker": "SPEAKER_00",
+      "text": "But so, so that seems like this would be a big investment for the city of New York and they would have to commit and to this and potentially take have expend away from other initiatives."
+    },
+    {
+      "start": 1300.0,
+      "end": 1317.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so I think that's the upfront cost is high, but in terms of the ongoing operating expense, the $2 billion a year is quite hot is, is a big budget relative to the 10 to 15 million ish, I calculated in maintenance. So it's kind of the cost here is,"
+    },
+    {
+      "start": 1317.0,
+      "end": 1325.0,
+      "speaker": "SPEAKER_00",
+      "text": "are they willing to pay this huge upfront cost for a solution that will theoretically make their residents more happier."
+    },
+    {
+      "start": 1325.0,
+      "end": 1328.0,
+      "speaker": "SPEAKER_00",
+      "text": "It will make the streets cleaner, etc."
+    },
+    {
+      "start": 1328.0,
+      "end": 1346.0,
+      "speaker": "SPEAKER_00",
+      "text": "But then the ongoing costs will be quite small. So it's just getting over that initial hurdle. And so I think if they've hired us and they're willing to invest in, you know, our firm to even look at these options, it probably means they're committed to a solution and hopefully they would be open to spending that, you know, large chunk of their capital budget on this."
+    },
+    {
+      "start": 1346.0,
+      "end": 1360.0,
+      "speaker": "SPEAKER_02",
+      "text": "Right. All right. So, friendly associate on the team has pulled together a chart for you, which I'm going to share. And I'd like you to think about the implications for our project."
+    },
+    {
+      "start": 1360.0,
+      "end": 1364.0,
+      "speaker": "SPEAKER_02",
+      "text": "Tell me if you are able to see our chart."
+    },
+    {
+      "start": 1364.0,
+      "end": 1366.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I can see it."
+    },
+    {
+      "start": 1366.0,
+      "end": 1367.0,
+      "speaker": "SPEAKER_00",
+      "text": "Cool."
+    },
+    {
+      "start": 1368.0,
+      "end": 1389.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So just making sure I see this properly. So we have the containerization model evaluation. We have, you know, in the first column, we have a list of home archiotypes. So it looks like it's, you know, the type of home, the number of units per home, etc."
+    },
+    {
+      "start": 1389.0,
+      "end": 1398.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then the second column looks like we have number of street sections and the percentage of streets that each home type makes up."
+    },
+    {
+      "start": 1398.0,
+      "end": 1410.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then we have the total at the bottom. And then the third column is daily waste, kind of per home type. So this goes back to, you know, thinking about populations and how much waste each home type."
+    },
+    {
+      "start": 1410.0,
+      "end": 1418.0,
+      "speaker": "SPEAKER_00",
+      "text": "Or each person may generate here. It's kind of grouped by home, which is easier to way of looking at it than my person."
+    },
+    {
+      "start": 1418.0,
+      "end": 1423.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So that's what we're looking at. Just want to make take a couple seconds to look at the chart."
+    },
+    {
+      "start": 1423.0,
+      "end": 1427.0,
+      "speaker": "SPEAKER_00",
+      "text": "And we'll kind of get back to you with some thoughts."
+    },
+    {
+      "start": 1427.0,
+      "end": 1435.0,
+      "speaker": "SPEAKER_02",
+      "text": "Great."
+    },
+    {
+      "start": 1435.0,
+      "end": 1449.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So looking at this, just have a couple kind of key takeaways. I guess firstly, different home types are going to have different, you know, waste requirements."
+    },
+    {
+      "start": 1449.0,
+      "end": 1459.0,
+      "speaker": "SPEAKER_00",
+      "text": "So for example, a multi family home will generate more trash than a one to two family home, which intuitively makes sense."
+    },
+    {
+      "start": 1459.0,
+      "end": 1486.0,
+      "speaker": "SPEAKER_00",
+      "text": "And the second thing is, you know, the largest trash generators are not necessarily tied to the most number of streets. So I'm looking at, you know, the fourth row multi family buildings with 50 to 150 units has, you know, is 16% of total waste, but only represents 6% of the streets, which just adds a layer of complexity to this problem because you can't just have."
+    },
+    {
+      "start": 1486.0,
+      "end": 1499.0,
+      "speaker": "SPEAKER_00",
+      "text": "And you're talking about the opportunity cost of the bins on the streets and you're asking, okay, relative for taking away parking spot, but you're also taking away the people's walking space, et cetera, bikes, parking, et cetera."
+    },
+    {
+      "start": 1499.0,
+      "end": 1506.0,
+      "speaker": "SPEAKER_00",
+      "text": "You can't just dump a bunch of these bins on the streets if people don't have the streets space for them."
+    },
+    {
+      "start": 1506.0,
+      "end": 1525.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so in terms of kind of thinking about this in context of the problem, I would say like a perfect highlight for a potential solution like this would be someone who has both kind of high street sections, as well as a lot of waste. And you can just see how it goes within that community first."
+    },
+    {
+      "start": 1525.0,
+      "end": 1531.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then that just gives you a greater opportunity for maybe margin of air when you're doing the pilot program."
+    },
+    {
+      "start": 1531.0,
+      "end": 1544.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then you can gather feedback from that, see what works with doesn't work about the containers and then try to make it work in the more complex markets that might be safe, for example, the one to two family homes or not, sorry, that's not a complex one."
+    },
+    {
+      "start": 1544.0,
+      "end": 1552.0,
+      "speaker": "SPEAKER_00",
+      "text": "Let me pick the number four multifamily buildings with 50 to 150 units where they have a lot of trash, but less streets like that to me is a more complex market."
+    },
+    {
+      "start": 1552.0,
+      "end": 1560.0,
+      "speaker": "SPEAKER_00",
+      "text": "So maybe if you had to sequence the order of implementation, try it with a market that might be a bit easier that has lots of streets."
+    },
+    {
+      "start": 1560.0,
+      "end": 1568.0,
+      "speaker": "SPEAKER_00",
+      "text": "You know, also lots of trash. So you're getting a fair representation of what it would be to kind of pick this up and then you scale to markets."
+    },
+    {
+      "start": 1568.0,
+      "end": 1584.0,
+      "speaker": "SPEAKER_00",
+      "text": "Where it might be more difficult. So that's kind of my reactions to looking at this chart. So I guess in terms of next steps, I would maybe want to look at, you know, what would be the perception of the city or how feasible it would be for the city to do a pilot program."
+    },
+    {
+      "start": 1584.0,
+      "end": 1594.0,
+      "speaker": "SPEAKER_00",
+      "text": "And one of these archaeotypes. And if there is any data on if one of these archetypes would be, you know, better or worse for a pilot program."
+    },
+    {
+      "start": 1594.0,
+      "end": 1608.0,
+      "speaker": "SPEAKER_02",
+      "text": "What do you think about like this list of archetypes like is this a valuable list for us like is it fit for purpose are these the groupings you would have chosen."
+    },
+    {
+      "start": 1608.0,
+      "end": 1619.0,
+      "speaker": "SPEAKER_00",
+      "text": "Truthfully, probably not I probably would have preferred to group by, you know, width of street. So for example, there's like I'm just thinking New York."
+    },
+    {
+      "start": 1619.0,
+      "end": 1637.0,
+      "speaker": "SPEAKER_00",
+      "text": "Like some streets are two way streets that would have say more room for a trash bin. Some are going to be one ways that have less room for a trash bin. And so I think we get that somewhat with the street sections, but it's not really in terms of space and thinking about the opportunity cost of the streets."
+    },
+    {
+      "start": 1637.0,
+      "end": 1647.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so I don't really give us a good proxy of how much room there actually is for the bins on the streets. And so I think that would maybe have been a better way to look at it."
+    },
+    {
+      "start": 1647.0,
+      "end": 1654.0,
+      "speaker": "SPEAKER_00",
+      "text": "But given if this is the only data that we have for now, I think this is an okay way to start kind of looking at the problem."
+    },
+    {
+      "start": 1654.0,
+      "end": 1656.0,
+      "speaker": "SPEAKER_02",
+      "text": "Right. Awesome. All right."
+    },
+    {
+      "start": 1656.0,
+      "end": 1666.0,
+      "speaker": "SPEAKER_02",
+      "text": "Due to operational efficiencies at the neighborhood level, only one solution may be chosen between individual bins or shared containers as a solution."
+    },
+    {
+      "start": 1666.0,
+      "end": 1681.0,
+      "speaker": "SPEAKER_02",
+      "text": "Your team has focused on one neighborhood in Queens with the population of 10,000 people are studies indicate that this neighborhood is on the operational borderline between individual bins and shared containers as the appropriate container solution."
+    },
+    {
+      "start": 1681.0,
+      "end": 1695.0,
+      "speaker": "SPEAKER_02",
+      "text": "There's borderline zone means that while the city would see negligible costs or implementation benefit at the neighborhood level from one solution to the other, residents will likely feel the negative effects of either solution more sharply."
+    },
+    {
+      "start": 1695.0,
+      "end": 1708.0,
+      "speaker": "SPEAKER_02",
+      "text": "A recent survey of 500 residents showed that 36% of residents of the neighborhood preferred shared containers and 38 preferred individual bins with the rest undecided."
+    },
+    {
+      "start": 1708.0,
+      "end": 1714.0,
+      "speaker": "SPEAKER_02",
+      "text": "How should the city decide which solution to deploy in this neighborhood."
+    },
+    {
+      "start": 1714.0,
+      "end": 1719.0,
+      "speaker": "SPEAKER_00",
+      "text": "Would you mind if I just take 30 seconds or so to gather my thoughts quickly."
+    },
+    {
+      "start": 1719.0,
+      "end": 1729.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So based on this information, trying to get a sense of which solution they should deploy in the Queens neighborhood."
+    },
+    {
+      "start": 1729.0,
+      "end": 1739.0,
+      "speaker": "SPEAKER_00",
+      "text": "I think kind of a couple things come to mind. First would be understanding this current survey data and a bit more detail and potentially launching additional service."
+    },
+    {
+      "start": 1739.0,
+      "end": 1748.0,
+      "speaker": "SPEAKER_00",
+      "text": "I think that when we think of understanding the current survey data, it's basically showing that more people want bins than containers."
+    },
+    {
+      "start": 1748.0,
+      "end": 1754.0,
+      "speaker": "SPEAKER_00",
+      "text": "But it's based on a relatively low end as a percentage of the overall neighborhood population."
+    },
+    {
+      "start": 1754.0,
+      "end": 1758.0,
+      "speaker": "SPEAKER_00",
+      "text": "So maybe you run additional surveys and that gets wider."
+    },
+    {
+      "start": 1758.0,
+      "end": 1768.0,
+      "speaker": "SPEAKER_00",
+      "text": "And if it does get wider, you have like a more clear answer, because I think the other thing, even though it shows a slight preference to containers, it is kind of within what I would call a margin of error."
+    },
+    {
+      "start": 1768.0,
+      "end": 1777.0,
+      "speaker": "SPEAKER_00",
+      "text": "I don't have you know statistics that's here to, to, you know, under be able to quote exactly what a margin would be, but within two percent, it's kind of a toss."
+    },
+    {
+      "start": 1777.0,
+      "end": 1787.0,
+      "speaker": "SPEAKER_00",
+      "text": "So if we can run additional surveys, I think that's kind of what I would do from a first step and try to just increase the end and widen the gap to see if there is a preference."
+    },
+    {
+      "start": 1787.0,
+      "end": 1799.0,
+      "speaker": "SPEAKER_00",
+      "text": "But if this is the only data we have and it is sort of a toss, I think I would also want to look at, you know, which one has potentially more selling points that we could market to the city. I just think."
+    },
+    {
+      "start": 1799.0,
+      "end": 1810.0,
+      "speaker": "SPEAKER_00",
+      "text": "People are, if people are going to hate either solution, they're going to feel the pains of either solution, no matter what it's as a city, which one can we communicate is going to be better."
+    },
+    {
+      "start": 1810.0,
+      "end": 1821.0,
+      "speaker": "SPEAKER_00",
+      "text": "More clearly and crisply because if they're both going to work, people like them fairly equally is there one that we can sell better and so more people get on board with this, for example."
+    },
+    {
+      "start": 1821.0,
+      "end": 1837.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so would maybe think about that. And so I think, for example, bins might be a harder selling point if everyone has to drag out of bin every day, but if you just have to bring your trash to maybe a container in your basement that one person has to bring on every day, that's maybe easier to market."
+    },
+    {
+      "start": 1837.0,
+      "end": 1845.0,
+      "speaker": "SPEAKER_00",
+      "text": "So that's just, for example, a way that I would think about that. And then I would also maybe think about which solutions more scalable."
+    },
+    {
+      "start": 1845.0,
+      "end": 1862.0,
+      "speaker": "SPEAKER_00",
+      "text": "Because even if people prefer bins today, if we think about like just the number of bins, we would need 600 K versus 60 K and the problem with or the calculations we did earlier, I think bins, maybe people prefer because they're more familiar with it."
+    },
+    {
+      "start": 1862.0,
+      "end": 1869.0,
+      "speaker": "SPEAKER_00",
+      "text": "Like if you grow up in the suburbs, you're familiar with them in, but it's maybe not scalable for New York. And so we just consider factors like that."
+    },
+    {
+      "start": 1869.0,
+      "end": 1878.0,
+      "speaker": "SPEAKER_00",
+      "text": "And so in terms of next steps, I would maybe want to ask if we have additional survey data, or if it would be feasible for us to run another survey."
+    },
+    {
+      "start": 1878.0,
+      "end": 1895.0,
+      "speaker": "SPEAKER_00",
+      "text": "If we don't have additional data already to just see if we can at first try to widen the gap to make sure it's to try to make sure that it's not a toss because right now the points two and three that I mentioned are basically assuming that it is a toss up between the two."
+    },
+    {
+      "start": 1895.0,
+      "end": 1901.0,
+      "speaker": "SPEAKER_00",
+      "text": "But if we can get additional survey data and it's not that would kind of help us answer this question."
+    },
+    {
+      "start": 1901.0,
+      "end": 1917.0,
+      "speaker": "SPEAKER_02",
+      "text": "Great. All right. So, you know, director walks in mayor walks in somebody important walks in wants to know your final recommendation to the city on how to successfully switch to a containerized trash pickup system."
+    },
+    {
+      "start": 1917.0,
+      "end": 1931.0,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So I would recommend that you switch to containers over bins that is first and foremost, our recommendation here in terms of the recommendation of how we operationalize it."
+    },
+    {
+      "start": 1931.0,
+      "end": 1950.0,
+      "speaker": "SPEAKER_00",
+      "text": "We looked at some market data of streets and, you know, populations of different building types. And we found that it would likely be easier to launch in areas where there are more streets and there is also, you know, maybe less trash or better, you know, street to trash ratio for a pilot program."
+    },
+    {
+      "start": 1950.0,
+      "end": 1968.0,
+      "speaker": "SPEAKER_00",
+      "text": "So we would recommend testing it out in a small area of the city first. And then after you test the pilot program gather feedback from your residents collect survey data, see what went well and not went well, refine your pilot and then expand into additional areas beyond the city as well."
+    },
+    {
+      "start": 1968.0,
+      "end": 1997.0,
+      "speaker": "SPEAKER_00",
+      "text": "So do the containers over bins. We think that the container method will work better for New York. If you think about just the cubic feet available on a sidewalk or the space available on a sidewalk having hundreds of thousands of bins throughout the city, you might take up a bit more space than just a container and be more disruptive than a container. So do a container. And then in terms of the roll up and pilot, you know, refine gather feedback and then launch to additional cities."
+    },
+    {
+      "start": 1997.0,
+      "end": 2015.0,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of next steps, we would be happy to help you kind of draft that pilot plan and the implementation plan and conduct, you know, research on the best way to go about launching a pilot. But our main recommendation is containers and do it in a pilot phase approach."
+    },
+    {
+      "start": 2015.0,
+      "end": 2018.0,
+      "speaker": "SPEAKER_02",
+      "text": "Awesome. Thanks so much. Thanks."
+    },
+    {
+      "start": 2018.0,
+      "end": 2033.0,
+      "speaker": "SPEAKER_01",
+      "text": "Hey, everyone. It's Kent and Giveshi here, the founder of Rocketblocks. Thank you so much for watching this mock interview video. I hope you found it informative and helpful as you were getting ready to prepare for your own interviews and hopefully landing that job offer you are excited about."
+    },
+    {
+      "start": 2033.0,
+      "end": 2051.0,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you so much for watching. Thanks for watching and have a great day."
+    }
+  ],
+  "grading": {
+    "communication": 13,
+    "framework": 11,
+    "math": 10,
+    "case_difficulty": 8,
+    "final_summary": 12,
+    "overall_thoughts": "You presented your ideas clearly but struggled with the math portion of the case, and it would be beneficial to include more supporting data in your final summary."
+  }
+}

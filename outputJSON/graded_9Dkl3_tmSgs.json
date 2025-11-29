@@ -1,0 +1,3258 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 8.68,
+      "speaker": "SPEAKER_00",
+      "text": "This is going to be a case representative of Bain's approach."
+    },
+    {
+      "start": 8.68,
+      "end": 14.4,
+      "speaker": "SPEAKER_00",
+      "text": "So Bain has been hired by a private equity firm to evaluate whether they should buy"
+    },
+    {
+      "start": 14.4,
+      "end": 21.16,
+      "speaker": "SPEAKER_00",
+      "text": "a mom and pop pizza chain that runs pizza restaurants primarily in college towns throughout"
+    },
+    {
+      "start": 21.16,
+      "end": 22.16,
+      "speaker": "SPEAKER_00",
+      "text": "the south."
+    },
+    {
+      "start": 22.16,
+      "end": 25.48,
+      "speaker": "SPEAKER_00",
+      "text": "Let's call this pizza chain Gumby."
+    },
+    {
+      "start": 25.48,
+      "end": 29.400000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "The Gumby's owners are retiring and I put the business up for sale."
+    },
+    {
+      "start": 29.4,
+      "end": 36.839999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "Gumby has about 30 stores and annual revenues of $125 million."
+    },
+    {
+      "start": 36.839999999999996,
+      "end": 42.56,
+      "speaker": "SPEAKER_00",
+      "text": "In order for the PE firm to want to buy the chain, they need to be able to double gross"
+    },
+    {
+      "start": 42.56,
+      "end": 45.36,
+      "speaker": "SPEAKER_00",
+      "text": "margin in three years."
+    },
+    {
+      "start": 45.36,
+      "end": 50.32,
+      "speaker": "SPEAKER_00",
+      "text": "They're looking for two to three ideas of how to do that and would like to sell Gumby"
+    },
+    {
+      "start": 50.32,
+      "end": 55.92,
+      "speaker": "SPEAKER_00",
+      "text": "this chain in three years to another set of family owners."
+    },
+    {
+      "start": 55.92,
+      "end": 60.2,
+      "speaker": "SPEAKER_00",
+      "text": "So I'd like you to start by just sketching out a framework for how you would tackle"
+    },
+    {
+      "start": 60.2,
+      "end": 62.08,
+      "speaker": "SPEAKER_00",
+      "text": "this problem."
+    },
+    {
+      "start": 62.08,
+      "end": 68.08,
+      "speaker": "SPEAKER_00",
+      "text": "And as you do that, provide a hypothesis about which side of profitability revenue or costs"
+    },
+    {
+      "start": 68.08,
+      "end": 70.24000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "you would like to focus on."
+    },
+    {
+      "start": 70.24000000000001,
+      "end": 71.24000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 71.24000000000001,
+      "end": 79.8,
+      "speaker": "SPEAKER_01",
+      "text": "So I, if it's okay, I'm going to give a quick brief context just to make sure we're on"
+    },
+    {
+      "start": 79.8,
+      "end": 80.8,
+      "speaker": "SPEAKER_01",
+      "text": "the same page."
+    },
+    {
+      "start": 80.8,
+      "end": 81.8,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 81.8,
+      "end": 86.32,
+      "speaker": "SPEAKER_01",
+      "text": "We're basically working with a PE firm who's our client that really just want to evaluate"
+    },
+    {
+      "start": 86.32,
+      "end": 92.67999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "whether this mom and pop pizza chain called Gumby, what their value is currently and if"
+    },
+    {
+      "start": 92.67999999999999,
+      "end": 97.03999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "it's possible to double their gross margin in three years and ultimately sell to another"
+    },
+    {
+      "start": 97.03999999999999,
+      "end": 99.16,
+      "speaker": "SPEAKER_01",
+      "text": "family."
+    },
+    {
+      "start": 99.16,
+      "end": 105.2,
+      "speaker": "SPEAKER_01",
+      "text": "And so basically they want to evaluate this on what on either a profit revenue or cost"
+    },
+    {
+      "start": 105.2,
+      "end": 106.2,
+      "speaker": "SPEAKER_01",
+      "text": "standpoint."
+    },
+    {
+      "start": 106.2,
+      "end": 108.0,
+      "speaker": "SPEAKER_01",
+      "text": "Is that okay?"
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 109.0,
+      "end": 112.96,
+      "speaker": "SPEAKER_00",
+      "text": "And I would say evaluate it on a profit standpoint since they're looking to grow, goes to gross"
+    },
+    {
+      "start": 112.96,
+      "end": 113.96,
+      "speaker": "SPEAKER_00",
+      "text": "margin."
+    },
+    {
+      "start": 113.96,
+      "end": 114.96,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 114.96,
+      "end": 118.6,
+      "speaker": "SPEAKER_00",
+      "text": "And what I'd be curious to hear from you is you're thinking about the cases."
+    },
+    {
+      "start": 118.6,
+      "end": 122.76,
+      "speaker": "SPEAKER_00",
+      "text": "Would you focus more on the revenue side or the cost side just to start as an initial"
+    },
+    {
+      "start": 122.76,
+      "end": 123.76,
+      "speaker": "SPEAKER_00",
+      "text": "hypothesis?"
+    },
+    {
+      "start": 123.76,
+      "end": 126.2,
+      "speaker": "SPEAKER_01",
+      "text": "I understand."
+    },
+    {
+      "start": 126.2,
+      "end": 131.08,
+      "speaker": "SPEAKER_01",
+      "text": "So just to start off, I do have a couple clarifying questions of that's okay."
+    },
+    {
+      "start": 131.08,
+      "end": 136.16,
+      "speaker": "SPEAKER_01",
+      "text": "Do we have a little more understanding as to why this PE firm is really interested in"
+    },
+    {
+      "start": 136.16,
+      "end": 140.79999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "a pizza chain or do they have it in the portfolio?"
+    },
+    {
+      "start": 140.79999999999998,
+      "end": 141.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 141.79999999999998,
+      "end": 142.8,
+      "speaker": "SPEAKER_00",
+      "text": "It's a good question."
+    },
+    {
+      "start": 142.8,
+      "end": 147.88,
+      "speaker": "SPEAKER_00",
+      "text": "My instinct is they think that food is easier to franchise and grow quickly and they may"
+    },
+    {
+      "start": 147.88,
+      "end": 154.0,
+      "speaker": "SPEAKER_00",
+      "text": "have a hypothesis that they have capabilities across other businesses to grow this fast."
+    },
+    {
+      "start": 154.0,
+      "end": 155.0,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 155.0,
+      "end": 162.32,
+      "speaker": "SPEAKER_01",
+      "text": "And then in terms of just doubling the gross margin and we have a timeline and you know"
+    },
+    {
+      "start": 162.32,
+      "end": 167.12,
+      "speaker": "SPEAKER_01",
+      "text": "the benchmark there, but are they open to maybe expanding to more college towns or is"
+    },
+    {
+      "start": 167.12,
+      "end": 172.64,
+      "speaker": "SPEAKER_01",
+      "text": "there a specific, you know, avenue they would prefer in terms of growing their profit?"
+    },
+    {
+      "start": 172.64,
+      "end": 175.28,
+      "speaker": "SPEAKER_00",
+      "text": "Let's assume no limit on scope."
+    },
+    {
+      "start": 175.28,
+      "end": 179.35999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 179.35999999999999,
+      "end": 185.16,
+      "speaker": "SPEAKER_01",
+      "text": "And then just for our last clarification, college town are assuming just the US, right?"
+    },
+    {
+      "start": 185.16,
+      "end": 186.16,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 186.16,
+      "end": 187.16,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 187.16,
+      "end": 188.16,
+      "speaker": "UNKNOWN",
+      "text": "Perfect."
+    },
+    {
+      "start": 188.16,
+      "end": 191.79999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So I think I have all the questions I need answered right now."
+    },
+    {
+      "start": 191.79999999999998,
+      "end": 195.6,
+      "speaker": "SPEAKER_01",
+      "text": "Is it okay if I just take about two minutes or so to structure my approach and then we"
+    },
+    {
+      "start": 195.6,
+      "end": 197.0,
+      "speaker": "SPEAKER_01",
+      "text": "can go over it together?"
+    },
+    {
+      "start": 197.0,
+      "end": 198.0,
+      "speaker": "SPEAKER_01",
+      "text": "Please."
+    },
+    {
+      "start": 198.0,
+      "end": 199.0,
+      "speaker": "SPEAKER_02",
+      "text": "Hi, everyone."
+    },
+    {
+      "start": 199.0,
+      "end": 200.0,
+      "speaker": "SPEAKER_02",
+      "text": "My name's Lauren Corlewitz."
+    },
+    {
+      "start": 200.0,
+      "end": 201.51999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "I'm missing your consultant."
+    },
+    {
+      "start": 201.51999999999998,
+      "end": 206.2,
+      "speaker": "SPEAKER_02",
+      "text": "That means why we're located in Washington, DC."
+    },
+    {
+      "start": 206.2,
+      "end": 210.92,
+      "speaker": "SPEAKER_02",
+      "text": "And if you're not familiar with econ consulting, I can give just a quick overview."
+    },
+    {
+      "start": 210.92,
+      "end": 216.92,
+      "speaker": "SPEAKER_02",
+      "text": "So we conduct analysis and research for complex real world analytical problems and provide"
+    },
+    {
+      "start": 216.92,
+      "end": 220.28,
+      "speaker": "SPEAKER_02",
+      "text": "support for economic experts and litigation."
+    },
+    {
+      "start": 220.28,
+      "end": 225.23999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "Our clients are typically law firms, fortune 500 companies and government agencies and they'll"
+    },
+    {
+      "start": 225.23999999999998,
+      "end": 229.51999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "hire us to offer economic analysis and expert testimony."
+    },
+    {
+      "start": 229.51999999999998,
+      "end": 234.48,
+      "speaker": "SPEAKER_02",
+      "text": "So as an example, the DOJ might hire us to help evaluate a potential merger between two"
+    },
+    {
+      "start": 234.48,
+      "end": 237.72,
+      "speaker": "SPEAKER_02",
+      "text": "companies and the effects of that merger."
+    },
+    {
+      "start": 237.72,
+      "end": 242.35999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "Or we could be hired by a law firm to analyze the alleged and competitive behavior of a company"
+    },
+    {
+      "start": 242.35999999999999,
+      "end": 245.16,
+      "speaker": "SPEAKER_02",
+      "text": "and calculate resulting damages."
+    },
+    {
+      "start": 245.16,
+      "end": 249.72,
+      "speaker": "SPEAKER_02",
+      "text": "So I've been at Bates White for about a year and a half now and prior to Bates White,"
+    },
+    {
+      "start": 249.72,
+      "end": 252.4,
+      "speaker": "SPEAKER_02",
+      "text": "I actually worked in managing consulting at Accenture."
+    },
+    {
+      "start": 252.4,
+      "end": 256.32,
+      "speaker": "SPEAKER_02",
+      "text": "So I'm sure you've heard of both econ and management consulting."
+    },
+    {
+      "start": 256.32,
+      "end": 261.2,
+      "speaker": "SPEAKER_02",
+      "text": "So I just wanted to spend a little bit of time kind of highlighting the differences between"
+    },
+    {
+      "start": 261.2,
+      "end": 265.96,
+      "speaker": "SPEAKER_02",
+      "text": "the two kind of my experiences in both, but you know kind of what we do at Bates White."
+    },
+    {
+      "start": 265.96,
+      "end": 271.76,
+      "speaker": "SPEAKER_02",
+      "text": "So in management consulting, the work I did was very strategy focused and the work with"
+    },
+    {
+      "start": 271.76,
+      "end": 276.84,
+      "speaker": "SPEAKER_02",
+      "text": "clients to develop new business strategies and create a training for employees and prepare"
+    },
+    {
+      "start": 276.84,
+      "end": 279.76,
+      "speaker": "SPEAKER_02",
+      "text": "businesses for new technology implementations."
+    },
+    {
+      "start": 279.76,
+      "end": 284.44,
+      "speaker": "SPEAKER_02",
+      "text": "And on a day to day level, this involves a lot of research and developing deliverables"
+    },
+    {
+      "start": 284.44,
+      "end": 289.15999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "and excel in PowerPoint, creating and tracking forming metrics and then presenting those"
+    },
+    {
+      "start": 289.15999999999997,
+      "end": 291.59999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "results to clients."
+    },
+    {
+      "start": 291.59999999999997,
+      "end": 297.28,
+      "speaker": "SPEAKER_02",
+      "text": "Whereas an economic consultant, our work is a lot more heavily focused on the quant side."
+    },
+    {
+      "start": 297.28,
+      "end": 301.64,
+      "speaker": "SPEAKER_02",
+      "text": "So I use data to apply economic concepts to real world problems."
+    },
+    {
+      "start": 301.64,
+      "end": 306.84,
+      "speaker": "SPEAKER_02",
+      "text": "Specifically, I'm in the antitrust practice at Bates White and my work has been primarily"
+    },
+    {
+      "start": 306.84,
+      "end": 310.08,
+      "speaker": "SPEAKER_02",
+      "text": "focused on processing and monopolization cases."
+    },
+    {
+      "start": 310.08,
+      "end": 313.91999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "However, we have multiple practices at Bates White and do a lot of other work beyond"
+    },
+    {
+      "start": 313.91999999999996,
+      "end": 316.23999999999995,
+      "speaker": "SPEAKER_02",
+      "text": "just antitrust."
+    },
+    {
+      "start": 316.23999999999995,
+      "end": 320.71999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "And as I previously mentioned, economic consulting is much more heavily focused on the"
+    },
+    {
+      "start": 320.71999999999997,
+      "end": 321.71999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "quant work."
+    },
+    {
+      "start": 321.71999999999997,
+      "end": 326.03999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "So I work with a lot of data in my cases using programming languages such as data and"
+    },
+    {
+      "start": 326.04,
+      "end": 330.20000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "R to conduct economic analyses and build economic models."
+    },
+    {
+      "start": 330.20000000000005,
+      "end": 334.56,
+      "speaker": "SPEAKER_02",
+      "text": "I've also used data bricks to tackle big data."
+    },
+    {
+      "start": 334.56,
+      "end": 337.92,
+      "speaker": "SPEAKER_02",
+      "text": "So as an example, I recently released a price fixing case that I worked on."
+    },
+    {
+      "start": 337.92,
+      "end": 343.20000000000005,
+      "speaker": "SPEAKER_02",
+      "text": "I analyzed industry data to understand the economic impact of the alleged price fixing"
+    },
+    {
+      "start": 343.20000000000005,
+      "end": 349.12,
+      "speaker": "SPEAKER_02",
+      "text": "conduct on consumers and developed an economic model for the bot 4 world, basically asking"
+    },
+    {
+      "start": 349.12,
+      "end": 354.24,
+      "speaker": "SPEAKER_02",
+      "text": "what the economic landscape would have been but for this alleged conduct and calculated"
+    },
+    {
+      "start": 354.24,
+      "end": 356.76,
+      "speaker": "SPEAKER_02",
+      "text": "the resulting damages."
+    },
+    {
+      "start": 356.76,
+      "end": 360.56,
+      "speaker": "SPEAKER_02",
+      "text": "So while the plot work is a really big part of my role, it's not the only thing that"
+    },
+    {
+      "start": 360.56,
+      "end": 361.56,
+      "speaker": "SPEAKER_02",
+      "text": "I do."
+    },
+    {
+      "start": 361.56,
+      "end": 367.2,
+      "speaker": "SPEAKER_02",
+      "text": "I also do a lot of industry research, analyzing documentary evidence and performing economic"
+    },
+    {
+      "start": 367.2,
+      "end": 370.04,
+      "speaker": "SPEAKER_02",
+      "text": "writing for expert reports."
+    },
+    {
+      "start": 370.04,
+      "end": 373.40000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "So if you think you'd be a good fit for this type of work, you'd like the quant side,"
+    },
+    {
+      "start": 373.40000000000003,
+      "end": 375.12,
+      "speaker": "SPEAKER_02",
+      "text": "you'd love econ."
+    },
+    {
+      "start": 375.12,
+      "end": 380.40000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "I really encourage you to apply for one of our open positions, where specifically hiring"
+    },
+    {
+      "start": 380.40000000000003,
+      "end": 382.64,
+      "speaker": "SPEAKER_02",
+      "text": "for experienced hiring positions right now."
+    },
+    {
+      "start": 382.64,
+      "end": 386.03999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "So that's experienced consultants and managers."
+    },
+    {
+      "start": 386.03999999999996,
+      "end": 391.2,
+      "speaker": "SPEAKER_02",
+      "text": "So you can apply the info on the screen on our website."
+    },
+    {
+      "start": 391.2,
+      "end": 395.44,
+      "speaker": "SPEAKER_02",
+      "text": "And if you have any questions or want any more, feel free to reach out to the email that's"
+    },
+    {
+      "start": 395.44,
+      "end": 397.44,
+      "speaker": "SPEAKER_02",
+      "text": "listed here, careersabateswhite.com."
+    },
+    {
+      "start": 397.44,
+      "end": 401.4,
+      "speaker": "SPEAKER_02",
+      "text": "And we'll give back to you to answer our eater questions."
+    },
+    {
+      "start": 401.4,
+      "end": 406.2,
+      "speaker": "SPEAKER_02",
+      "text": "So I hope to see some of you applying in the future and thanks so much for your time."
+    },
+    {
+      "start": 406.2,
+      "end": 407.2,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 407.2,
+      "end": 410.56,
+      "speaker": "SPEAKER_01",
+      "text": "I have a general approach that I'd like to go over with you."
+    },
+    {
+      "start": 410.56,
+      "end": 411.56,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 411.56,
+      "end": 416.62,
+      "speaker": "SPEAKER_01",
+      "text": "So starting off, we know that the overall objective here is to really evaluate this mom and"
+    },
+    {
+      "start": 416.62,
+      "end": 420.04,
+      "speaker": "SPEAKER_01",
+      "text": "pops pizza chain called gumbee."
+    },
+    {
+      "start": 420.04,
+      "end": 425.56,
+      "speaker": "SPEAKER_01",
+      "text": "And do the PE firm really wants to see how we can maximize profits in order to double"
+    },
+    {
+      "start": 425.56,
+      "end": 427.48,
+      "speaker": "SPEAKER_01",
+      "text": "the gross margin in three years."
+    },
+    {
+      "start": 427.48,
+      "end": 431.28,
+      "speaker": "SPEAKER_01",
+      "text": "So in order to do that, I've identified three specific questions that I'd like to dig"
+    },
+    {
+      "start": 431.28,
+      "end": 432.72,
+      "speaker": "SPEAKER_01",
+      "text": "deeper into."
+    },
+    {
+      "start": 432.72,
+      "end": 437.72,
+      "speaker": "SPEAKER_01",
+      "text": "First one is looking at the profit standpoint itself and specifically how to grow its profit"
+    },
+    {
+      "start": 437.72,
+      "end": 439.76,
+      "speaker": "SPEAKER_01",
+      "text": "or maximize the margin."
+    },
+    {
+      "start": 439.76,
+      "end": 447.38,
+      "speaker": "SPEAKER_01",
+      "text": "Secondly is to look at the PE firm in general and within their portfolio and really figure"
+    },
+    {
+      "start": 447.38,
+      "end": 454.2,
+      "speaker": "SPEAKER_01",
+      "text": "out the logistics of how to evaluate this pizza chain shop."
+    },
+    {
+      "start": 454.2,
+      "end": 460.2,
+      "speaker": "SPEAKER_01",
+      "text": "And then lastly, the third question is just looking in a greater standpoint of other considerations"
+    },
+    {
+      "start": 460.2,
+      "end": 465.08,
+      "speaker": "SPEAKER_01",
+      "text": "that could also affect the valuation of gumbee."
+    },
+    {
+      "start": 465.08,
+      "end": 470.24,
+      "speaker": "SPEAKER_01",
+      "text": "So digging deeper into my first question of really wanting to grow our profit, it's"
+    },
+    {
+      "start": 470.24,
+      "end": 475.76,
+      "speaker": "SPEAKER_01",
+      "text": "looking at two specific components, both the revenue and the cost component."
+    },
+    {
+      "start": 475.76,
+      "end": 480.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "So within revenue, I really want to understand the current volume or the number of pizzas"
+    },
+    {
+      "start": 480.15999999999997,
+      "end": 484.91999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "we're selling, what that's average price point is, whether or not we have the opportunity"
+    },
+    {
+      "start": 484.91999999999996,
+      "end": 490.2,
+      "speaker": "SPEAKER_01",
+      "text": "to bring in new customers or ultimately retain old customers as well."
+    },
+    {
+      "start": 490.2,
+      "end": 495.06,
+      "speaker": "SPEAKER_01",
+      "text": "And then I know it's a pizza shop, but usually they sell other foods like cow's zones or"
+    },
+    {
+      "start": 495.06,
+      "end": 496.06,
+      "speaker": "SPEAKER_01",
+      "text": "pasta."
+    },
+    {
+      "start": 496.06,
+      "end": 499.36,
+      "speaker": "SPEAKER_01",
+      "text": "So while there are now, there's the opportunity for us to expand our menu as well that"
+    },
+    {
+      "start": 499.36,
+      "end": 501.56,
+      "speaker": "SPEAKER_01",
+      "text": "will help bring in more revenue."
+    },
+    {
+      "start": 501.56,
+      "end": 508.56,
+      "speaker": "SPEAKER_01",
+      "text": "On a second cost standpoint, I really want to focus in both fixed and the variable cost."
+    },
+    {
+      "start": 508.56,
+      "end": 516.48,
+      "speaker": "SPEAKER_01",
+      "text": "Fix looking at maybe marketing or rent of the actual stores because we know currently"
+    },
+    {
+      "start": 516.48,
+      "end": 521.52,
+      "speaker": "SPEAKER_01",
+      "text": "there are 30 stores, but what exactly the costs associated with those rents are and"
+    },
+    {
+      "start": 521.52,
+      "end": 528.24,
+      "speaker": "SPEAKER_01",
+      "text": "then variable costs is looking at ingredients for the pizza, labor itself, utilities that"
+    },
+    {
+      "start": 528.24,
+      "end": 529.64,
+      "speaker": "SPEAKER_01",
+      "text": "change from store to store."
+    },
+    {
+      "start": 529.64,
+      "end": 533.72,
+      "speaker": "SPEAKER_00",
+      "text": "And then of course, I'm going to pause for a moment, Tomah, and just make sure I'm"
+    },
+    {
+      "start": 533.72,
+      "end": 534.72,
+      "speaker": "SPEAKER_00",
+      "text": "following."
+    },
+    {
+      "start": 534.72,
+      "end": 538.0,
+      "speaker": "SPEAKER_00",
+      "text": "So if I go back to revenue, I heard three pieces."
+    },
+    {
+      "start": 538.0,
+      "end": 540.2,
+      "speaker": "SPEAKER_00",
+      "text": "I heard the volume of pizza we're selling."
+    },
+    {
+      "start": 540.2,
+      "end": 542.08,
+      "speaker": "SPEAKER_00",
+      "text": "I heard something around customers."
+    },
+    {
+      "start": 542.08,
+      "end": 543.48,
+      "speaker": "SPEAKER_00",
+      "text": "I'll call that demand."
+    },
+    {
+      "start": 543.48,
+      "end": 547.2,
+      "speaker": "SPEAKER_00",
+      "text": "I'm like, how much are whatever customers can we get?"
+    },
+    {
+      "start": 547.2,
+      "end": 549.5600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And then I heard something about the product portfolio."
+    },
+    {
+      "start": 549.5600000000001,
+      "end": 551.16,
+      "speaker": "SPEAKER_00",
+      "text": "Is that so and right?"
+    },
+    {
+      "start": 551.16,
+      "end": 552.16,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 552.16,
+      "end": 553.16,
+      "speaker": "SPEAKER_00",
+      "text": "Yes."
+    },
+    {
+      "start": 553.16,
+      "end": 554.16,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 554.16,
+      "end": 557.4,
+      "speaker": "SPEAKER_01",
+      "text": "And then sorry, I also put price in there, just like the average cost of the pizza."
+    },
+    {
+      "start": 557.4,
+      "end": 558.4,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 558.4,
+      "end": 559.4,
+      "speaker": "SPEAKER_01",
+      "text": "Is it gourmet pizza?"
+    },
+    {
+      "start": 559.4,
+      "end": 563.08,
+      "speaker": "SPEAKER_01",
+      "text": "Is it pizza that someone from a college town would be able to afford?"
+    },
+    {
+      "start": 563.08,
+      "end": 564.08,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 564.08,
+      "end": 570.52,
+      "speaker": "SPEAKER_01",
+      "text": "So moving on to my second set of questions looking further into the P firm and being able"
+    },
+    {
+      "start": 570.52,
+      "end": 574.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "to get that valuation for them, I want to see whether or not there's any potential"
+    },
+    {
+      "start": 574.1999999999999,
+      "end": 582.8,
+      "speaker": "SPEAKER_01",
+      "text": "synergy that we may have if they currently believe that their portfolio has some sort"
+    },
+    {
+      "start": 582.8,
+      "end": 588.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "of food franchise in it, we might be able to bring that synergy in and then use that"
+    },
+    {
+      "start": 588.3199999999999,
+      "end": 596.28,
+      "speaker": "SPEAKER_01",
+      "text": "information to then logistically create this deal that they can then sell the franchise"
+    },
+    {
+      "start": 596.28,
+      "end": 600.0,
+      "speaker": "SPEAKER_01",
+      "text": "three years later as their goal to another family."
+    },
+    {
+      "start": 600.0,
+      "end": 606.36,
+      "speaker": "SPEAKER_01",
+      "text": "And then lastly, even maybe calculate net present value for them or AP evaluation numbers"
+    },
+    {
+      "start": 606.36,
+      "end": 611.64,
+      "speaker": "SPEAKER_01",
+      "text": "so that we can see, you know, we can quantify this valuation."
+    },
+    {
+      "start": 611.64,
+      "end": 617.32,
+      "speaker": "SPEAKER_01",
+      "text": "And then on a last just looking at it holistically, other considerations, maybe the competitors"
+    },
+    {
+      "start": 617.32,
+      "end": 619.24,
+      "speaker": "SPEAKER_01",
+      "text": "that are at this college town."
+    },
+    {
+      "start": 619.24,
+      "end": 622.08,
+      "speaker": "SPEAKER_01",
+      "text": "I'm sure there are other pizza shops that are nearby."
+    },
+    {
+      "start": 622.08,
+      "end": 628.36,
+      "speaker": "SPEAKER_01",
+      "text": "So what really makes Gumby stand out, looking at the general market, the trends, the food"
+    },
+    {
+      "start": 628.36,
+      "end": 633.08,
+      "speaker": "SPEAKER_01",
+      "text": "preferences of the college students and, you know, are they going towards more healthy"
+    },
+    {
+      "start": 633.08,
+      "end": 634.88,
+      "speaker": "SPEAKER_01",
+      "text": "food or not?"
+    },
+    {
+      "start": 634.88,
+      "end": 640.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And I think all of that will help us, simply help us determine the valuation of Gumby."
+    },
+    {
+      "start": 640.6800000000001,
+      "end": 646.4,
+      "speaker": "SPEAKER_01",
+      "text": "So I think initially there is my, I initially hypothesized there is room to grow within"
+    },
+    {
+      "start": 646.4,
+      "end": 647.4,
+      "speaker": "SPEAKER_01",
+      "text": "revenue."
+    },
+    {
+      "start": 647.4,
+      "end": 653.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "We can bring in a greater revenue by, you know, looking at the volume, the price, the"
+    },
+    {
+      "start": 653.9200000000001,
+      "end": 656.16,
+      "speaker": "SPEAKER_01",
+      "text": "the demand itself."
+    },
+    {
+      "start": 656.24,
+      "end": 661.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "But I think if we're going to start off to really help our client, maybe digging deep"
+    },
+    {
+      "start": 661.1999999999999,
+      "end": 666.28,
+      "speaker": "SPEAKER_01",
+      "text": "into historical revenue values, if we have information on maybe the number of pizza that"
+    },
+    {
+      "start": 666.28,
+      "end": 672.04,
+      "speaker": "SPEAKER_01",
+      "text": "are sold or at, you know, each of the store, what prices are there or how many customers"
+    },
+    {
+      "start": 672.04,
+      "end": 673.04,
+      "speaker": "SPEAKER_01",
+      "text": "they have."
+    },
+    {
+      "start": 673.04,
+      "end": 674.04,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 674.04,
+      "end": 675.04,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 675.04,
+      "end": 676.04,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good."
+    },
+    {
+      "start": 676.04,
+      "end": 678.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So we do have some data."
+    },
+    {
+      "start": 678.1999999999999,
+      "end": 684.88,
+      "speaker": "SPEAKER_00",
+      "text": "And I think I heard you mention the competitive landscape in the other considerations."
+    },
+    {
+      "start": 684.88,
+      "end": 685.88,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 685.88,
+      "end": 690.68,
+      "speaker": "SPEAKER_00",
+      "text": "Now what kind of hypotheses do you have on the competitive landscape just to start,"
+    },
+    {
+      "start": 690.68,
+      "end": 692.36,
+      "speaker": "SPEAKER_00",
+      "text": "kind of brainstorm together?"
+    },
+    {
+      "start": 692.36,
+      "end": 693.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 693.68,
+      "end": 696.96,
+      "speaker": "SPEAKER_01",
+      "text": "So really you who are competitors maybe?"
+    },
+    {
+      "start": 696.96,
+      "end": 697.96,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 697.96,
+      "end": 702.56,
+      "speaker": "SPEAKER_00",
+      "text": "Any hypotheses you think about if you're evaluating the competitive landscape of the south of"
+    },
+    {
+      "start": 702.56,
+      "end": 703.56,
+      "speaker": "SPEAKER_00",
+      "text": "the US?"
+    },
+    {
+      "start": 703.56,
+      "end": 704.56,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 704.56,
+      "end": 709.32,
+      "speaker": "SPEAKER_01",
+      "text": "So let's say in terms of competitor right off the top of my head, I would think of maybe"
+    },
+    {
+      "start": 709.32,
+      "end": 712.4,
+      "speaker": "SPEAKER_01",
+      "text": "other mom and pop pizza chains."
+    },
+    {
+      "start": 712.4,
+      "end": 719.12,
+      "speaker": "SPEAKER_01",
+      "text": "There's also, you know, the big brand pizza chains like dominoes, Papa John's."
+    },
+    {
+      "start": 719.12,
+      "end": 725.6,
+      "speaker": "SPEAKER_01",
+      "text": "But then we can also expand our competitors to non pizza chain stores, so fast foods,"
+    },
+    {
+      "start": 725.6,
+      "end": 729.84,
+      "speaker": "SPEAKER_01",
+      "text": "McDonald's or even casual fast foods like Chipotle."
+    },
+    {
+      "start": 729.84,
+      "end": 733.76,
+      "speaker": "SPEAKER_01",
+      "text": "So those are all I think competitors that we need to look at, especially since we know"
+    },
+    {
+      "start": 733.76,
+      "end": 737.92,
+      "speaker": "SPEAKER_01",
+      "text": "that gumbies is major in college towns."
+    },
+    {
+      "start": 737.92,
+      "end": 743.0,
+      "speaker": "SPEAKER_01",
+      "text": "And so looking at the competitive landscape, maybe one college town and kind of extrapolating"
+    },
+    {
+      "start": 743.0,
+      "end": 745.5999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "what the competitive landscape would look like."
+    },
+    {
+      "start": 745.5999999999999,
+      "end": 746.5999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 746.5999999999999,
+      "end": 747.5999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 747.5999999999999,
+      "end": 752.16,
+      "speaker": "SPEAKER_00",
+      "text": "So I have some data on our competition that I'm going to show you."
+    },
+    {
+      "start": 752.16,
+      "end": 755.3199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "In a moment, I'm going to share my screen."
+    },
+    {
+      "start": 755.3199999999999,
+      "end": 760.24,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to ask that you just take a screen grab or screenshot and then I'll stop sharing"
+    },
+    {
+      "start": 760.24,
+      "end": 764.92,
+      "speaker": "SPEAKER_00",
+      "text": "once you have the image."
+    },
+    {
+      "start": 764.92,
+      "end": 768.68,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to keep this question very broad."
+    },
+    {
+      "start": 768.68,
+      "end": 772.36,
+      "speaker": "SPEAKER_00",
+      "text": "What can you draw from this exhibit?"
+    },
+    {
+      "start": 772.36,
+      "end": 773.36,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 773.36,
+      "end": 776.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I'm just going to take a couple of seconds to look through this."
+    },
+    {
+      "start": 776.7199999999999,
+      "end": 778.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 778.7199999999999,
+      "end": 780.24,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 780.24,
+      "end": 791.36,
+      "speaker": "SPEAKER_01",
+      "text": "So here we're basically just looking at the average market share about customer segment."
+    },
+    {
+      "start": 791.36,
+      "end": 799.08,
+      "speaker": "SPEAKER_01",
+      "text": "And we're really categorizing between students, faculty, staff and then town folks in this"
+    },
+    {
+      "start": 799.08,
+      "end": 800.96,
+      "speaker": "SPEAKER_01",
+      "text": "specific region."
+    },
+    {
+      "start": 800.96,
+      "end": 808.84,
+      "speaker": "SPEAKER_01",
+      "text": "And we are just benchmarking gumbies to other pizza shops like Papa Junos, Pizza Hut,"
+    },
+    {
+      "start": 808.84,
+      "end": 810.52,
+      "speaker": "SPEAKER_01",
+      "text": "Domino's, I mentioned previously."
+    },
+    {
+      "start": 810.52,
+      "end": 811.52,
+      "speaker": "SPEAKER_01",
+      "text": "Yep."
+    },
+    {
+      "start": 811.52,
+      "end": 820.12,
+      "speaker": "SPEAKER_01",
+      "text": "So just me take aways here is that within the student demographic, we see that gumbies"
+    },
+    {
+      "start": 820.12,
+      "end": 823.24,
+      "speaker": "SPEAKER_01",
+      "text": "definitely lead the market share ads."
+    },
+    {
+      "start": 823.24,
+      "end": 827.36,
+      "speaker": "SPEAKER_01",
+      "text": "We'll see that 60% compared to its competitors."
+    },
+    {
+      "start": 827.36,
+      "end": 832.92,
+      "speaker": "SPEAKER_01",
+      "text": "However, as we go towards adults or I mean older people outside of college, so faculty"
+    },
+    {
+      "start": 832.92,
+      "end": 837.04,
+      "speaker": "SPEAKER_01",
+      "text": "and town folks, they just seem like gumbies lose its attraction."
+    },
+    {
+      "start": 837.04,
+      "end": 844.88,
+      "speaker": "SPEAKER_01",
+      "text": "Whereas some of the other competitors like Pizza Hut or Domino's tends to take the lead."
+    },
+    {
+      "start": 844.88,
+      "end": 853.68,
+      "speaker": "SPEAKER_01",
+      "text": "So what I can potentially do here is we see that students contribute to or, sorry, students"
+    },
+    {
+      "start": 853.68,
+      "end": 859.6,
+      "speaker": "SPEAKER_01",
+      "text": "in general equal up to 15 million."
+    },
+    {
+      "start": 859.6,
+      "end": 862.2,
+      "speaker": "SPEAKER_01",
+      "text": "I want to say that's population, right?"
+    },
+    {
+      "start": 862.2,
+      "end": 868.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So 15 million students."
+    },
+    {
+      "start": 868.4399999999999,
+      "end": 871.68,
+      "speaker": "SPEAKER_01",
+      "text": "So it seems like the market share, sorry, is 15 million."
+    },
+    {
+      "start": 871.68,
+      "end": 881.16,
+      "speaker": "SPEAKER_01",
+      "text": "So if we're saying that about 60% of them are choosing gumbies compared to 20% faculty"
+    },
+    {
+      "start": 881.16,
+      "end": 885.52,
+      "speaker": "SPEAKER_01",
+      "text": "and maybe 10% or 5% of town folks."
+    },
+    {
+      "start": 885.52,
+      "end": 893.52,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, and just to clarify, the 15 million, I'm going to have you hypothesize is that population"
+    },
+    {
+      "start": 893.52,
+      "end": 896.12,
+      "speaker": "SPEAKER_00",
+      "text": "or what is the metric on that?"
+    },
+    {
+      "start": 896.12,
+      "end": 899.04,
+      "speaker": "SPEAKER_01",
+      "text": "15 million."
+    },
+    {
+      "start": 899.04,
+      "end": 901.76,
+      "speaker": "SPEAKER_00",
+      "text": "The 15 and the 6 and the 9, what is that represent?"
+    },
+    {
+      "start": 901.76,
+      "end": 910.52,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I initially thought it was price point or just, you know, monetary value."
+    },
+    {
+      "start": 910.52,
+      "end": 912.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "What do you mean my monetary value?"
+    },
+    {
+      "start": 912.7199999999999,
+      "end": 921.56,
+      "speaker": "SPEAKER_01",
+      "text": "Like the market share itself is 15 million dollars for students and then 6 million for"
+    },
+    {
+      "start": 921.56,
+      "end": 924.76,
+      "speaker": "SPEAKER_01",
+      "text": "faculty and 9 million potentials."
+    },
+    {
+      "start": 924.76,
+      "end": 926.76,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 927.76,
+      "end": 932.2,
+      "speaker": "SPEAKER_01",
+      "text": "Well, I can also leading towards it, it might be the population."
+    },
+    {
+      "start": 932.2,
+      "end": 937.48,
+      "speaker": "SPEAKER_01",
+      "text": "So we have 15 million students versus 6 million faculty and 9 million town folks."
+    },
+    {
+      "start": 937.48,
+      "end": 938.48,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 938.48,
+      "end": 943.04,
+      "speaker": "SPEAKER_00",
+      "text": "That's the, I'm going to say that your first instinct was right since market share represents"
+    },
+    {
+      "start": 943.04,
+      "end": 944.04,
+      "speaker": "SPEAKER_00",
+      "text": "right or revenue figure."
+    },
+    {
+      "start": 944.04,
+      "end": 945.68,
+      "speaker": "SPEAKER_00",
+      "text": "It represents a dollar figure."
+    },
+    {
+      "start": 945.68,
+      "end": 946.84,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, great."
+    },
+    {
+      "start": 946.84,
+      "end": 954.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So in this case, we do see that students have the higher, no, sorry."
+    },
+    {
+      "start": 954.32,
+      "end": 959.2,
+      "speaker": "SPEAKER_01",
+      "text": "So the student segment has the highest revenue at 15 million compared to 6 and 9 for faculty"
+    },
+    {
+      "start": 959.2,
+      "end": 960.2,
+      "speaker": "SPEAKER_01",
+      "text": "and town folks."
+    },
+    {
+      "start": 960.2,
+      "end": 964.72,
+      "speaker": "SPEAKER_01",
+      "text": "And then within that segment, we see that gumbee step mainly takes the lead compared to"
+    },
+    {
+      "start": 964.72,
+      "end": 966.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "its competitors."
+    },
+    {
+      "start": 966.9200000000001,
+      "end": 974.5200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So if we want to take the next steps, if we can maybe dig deeper into me, you know, students"
+    },
+    {
+      "start": 974.5200000000001,
+      "end": 979.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "segment, since that seems to be the most popular segment for gumbees."
+    },
+    {
+      "start": 979.56,
+      "end": 988.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And then either benchmark why they choose gum gumbees over their competitors, if we"
+    },
+    {
+      "start": 988.4399999999999,
+      "end": 994.2399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "want to get a survey or we can dig deeper into the financial aspect and maybe see specifically"
+    },
+    {
+      "start": 994.2399999999999,
+      "end": 997.04,
+      "speaker": "SPEAKER_01",
+      "text": "how much gumbees is selling to students."
+    },
+    {
+      "start": 997.04,
+      "end": 998.04,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 998.04,
+      "end": 1003.4,
+      "speaker": "SPEAKER_00",
+      "text": "What other data might you want to know to figure out where to play for gumbee?"
+    },
+    {
+      "start": 1003.4,
+      "end": 1007.68,
+      "speaker": "SPEAKER_00",
+      "text": "Um, let's see."
+    },
+    {
+      "start": 1008.68,
+      "end": 1015.16,
+      "speaker": "SPEAKER_01",
+      "text": "Um, some other potential data, I think we might, so I really mentioned, um, you know, specific"
+    },
+    {
+      "start": 1015.16,
+      "end": 1023.8,
+      "speaker": "SPEAKER_01",
+      "text": "revenue that gumbees may be receiving from students alone, but some other metrics might"
+    },
+    {
+      "start": 1023.8,
+      "end": 1035.72,
+      "speaker": "SPEAKER_01",
+      "text": "be if we have a little more information on, um, on maybe the potential price points they're"
+    },
+    {
+      "start": 1035.72,
+      "end": 1042.88,
+      "speaker": "SPEAKER_01",
+      "text": "selling there are their products or their pizzas at, um, even moving on to maybe costs"
+    },
+    {
+      "start": 1042.88,
+      "end": 1046.8,
+      "speaker": "SPEAKER_01",
+      "text": "since we were looking at revenue already at 15 million."
+    },
+    {
+      "start": 1046.8,
+      "end": 1047.8,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1047.8,
+      "end": 1048.8,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 1048.8,
+      "end": 1049.8,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome."
+    },
+    {
+      "start": 1049.8,
+      "end": 1055.8,
+      "speaker": "SPEAKER_00",
+      "text": "Um, one thing I might be curious about is just the growth of the market across these segments."
+    },
+    {
+      "start": 1055.8,
+      "end": 1056.8,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1056.8,
+      "end": 1060.64,
+      "speaker": "SPEAKER_00",
+      "text": "Um, so I'm going to show you one more graph."
+    },
+    {
+      "start": 1060.72,
+      "end": 1067.48,
+      "speaker": "SPEAKER_00",
+      "text": "And I'm going to have you do a similar exercise, both in terms of doing the screen grab and"
+    },
+    {
+      "start": 1067.48,
+      "end": 1071.72,
+      "speaker": "SPEAKER_00",
+      "text": "also sharing with me any hypothesis that you can draw."
+    },
+    {
+      "start": 1071.72,
+      "end": 1072.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1072.72,
+      "end": 1074.92,
+      "speaker": "SPEAKER_01",
+      "text": "So I see this second exhibit."
+    },
+    {
+      "start": 1074.92,
+      "end": 1078.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "I'm also going to just take a couple of seconds to look through this."
+    },
+    {
+      "start": 1078.3600000000001,
+      "end": 1079.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Beautiful."
+    },
+    {
+      "start": 1085.3600000000001,
+      "end": 1086.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1086.3600000000001,
+      "end": 1089.76,
+      "speaker": "SPEAKER_01",
+      "text": "So looking at this second exhibit, we're basically, again, looking at the average market share"
+    },
+    {
+      "start": 1089.76,
+      "end": 1090.76,
+      "speaker": "SPEAKER_01",
+      "text": "by segment."
+    },
+    {
+      "start": 1090.76,
+      "end": 1097.68,
+      "speaker": "SPEAKER_01",
+      "text": "And now our segments are categorized as delivery carry out and dining, dining."
+    },
+    {
+      "start": 1097.68,
+      "end": 1102.04,
+      "speaker": "SPEAKER_01",
+      "text": "And that's again, um, benchmarking gumbees to their competitors."
+    },
+    {
+      "start": 1102.04,
+      "end": 1106.8,
+      "speaker": "SPEAKER_01",
+      "text": "So main takeaway here is that gumbee definitely seems to be leading market."
+    },
+    {
+      "start": 1106.8,
+      "end": 1112.68,
+      "speaker": "SPEAKER_01",
+      "text": "Um, sorry, leading the market in terms of delivery where they're at 40% compared to their"
+    },
+    {
+      "start": 1112.68,
+      "end": 1114.24,
+      "speaker": "SPEAKER_01",
+      "text": "competitors."
+    },
+    {
+      "start": 1114.52,
+      "end": 1121.32,
+      "speaker": "SPEAKER_01",
+      "text": "Um, however, it does seem like in dining category, they are, um, slacking."
+    },
+    {
+      "start": 1121.32,
+      "end": 1126.84,
+      "speaker": "SPEAKER_01",
+      "text": "So, uh, some potential things that we can look at is whether or not we can expand their"
+    },
+    {
+      "start": 1126.84,
+      "end": 1133.56,
+      "speaker": "SPEAKER_01",
+      "text": "dining capabilities, um, so that we can raise revenues there or we can continue to focus"
+    },
+    {
+      "start": 1133.56,
+      "end": 1140.0,
+      "speaker": "SPEAKER_01",
+      "text": "on delivery since they are, uh, leading in that category so that we can, um, gain the"
+    },
+    {
+      "start": 1140.0,
+      "end": 1143.16,
+      "speaker": "SPEAKER_01",
+      "text": "market share for even further than that 40%."
+    },
+    {
+      "start": 1144.96,
+      "end": 1145.8,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 1148.08,
+      "end": 1150.72,
+      "speaker": "SPEAKER_00",
+      "text": "Anything else that you'd want to take away from this?"
+    },
+    {
+      "start": 1156.72,
+      "end": 1159.56,
+      "speaker": "SPEAKER_00",
+      "text": "I do see like, sorry that you'd want to know."
+    },
+    {
+      "start": 1161.04,
+      "end": 1161.56,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1161.56,
+      "end": 1163.56,
+      "speaker": "SPEAKER_01",
+      "text": "So since where?"
+    },
+    {
+      "start": 1164.28,
+      "end": 1170.28,
+      "speaker": "SPEAKER_01",
+      "text": "So previously we looked at just general, you know, how gumbees work with their segments"
+    },
+    {
+      "start": 1170.28,
+      "end": 1177.72,
+      "speaker": "SPEAKER_01",
+      "text": "of people versus now their, um, you know, delivery services or like food services, I think"
+    },
+    {
+      "start": 1177.72,
+      "end": 1186.76,
+      "speaker": "SPEAKER_01",
+      "text": "next step maybe to look at, uh, maybe to look at specifically if we can expand on their"
+    },
+    {
+      "start": 1186.76,
+      "end": 1193.0,
+      "speaker": "SPEAKER_01",
+      "text": "delivery, if we want to break that down into, um, how to potentially increase the revenue"
+    },
+    {
+      "start": 1193.0,
+      "end": 1194.0,
+      "speaker": "SPEAKER_01",
+      "text": "delivery either."
+    },
+    {
+      "start": 1194.44,
+      "end": 1198.36,
+      "speaker": "SPEAKER_01",
+      "text": "Um, I know the overall goal here is to maximize profits."
+    },
+    {
+      "start": 1198.6,
+      "end": 1203.32,
+      "speaker": "SPEAKER_01",
+      "text": "So since profits is a component of revenue and cost, you didn't look at the cost component"
+    },
+    {
+      "start": 1203.32,
+      "end": 1208.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "of delivering a single pizza, um, and then seeing if there's a ways that we can drop that,"
+    },
+    {
+      "start": 1208.9199999999998,
+      "end": 1213.0,
+      "speaker": "SPEAKER_01",
+      "text": "or increase that margin so that gumbees can grow their profit."
+    },
+    {
+      "start": 1213.8,
+      "end": 1214.8,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 1222.04,
+      "end": 1224.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So I'm going to take a bit of a step back with this question."
+    },
+    {
+      "start": 1224.8,
+      "end": 1230.08,
+      "speaker": "SPEAKER_00",
+      "text": "So we've looked at the market share by customer segment and we looked at market share by"
+    },
+    {
+      "start": 1230.08,
+      "end": 1234.44,
+      "speaker": "SPEAKER_00",
+      "text": "I'll call it like modality of service delivery, dining carry out."
+    },
+    {
+      "start": 1235.32,
+      "end": 1247.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Um, what other information would you like to see to make a more refined decision on how to grow"
+    },
+    {
+      "start": 1247.1200000000001,
+      "end": 1248.96,
+      "speaker": "SPEAKER_00",
+      "text": "margin for this business?"
+    },
+    {
+      "start": 1249.68,
+      "end": 1251.76,
+      "speaker": "SPEAKER_01",
+      "text": "Um, yeah."
+    },
+    {
+      "start": 1251.76,
+      "end": 1255.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So we looked at a customer before we looked at modality in terms of pizza."
+    },
+    {
+      "start": 1255.8400000000001,
+      "end": 1260.4,
+      "speaker": "SPEAKER_01",
+      "text": "I think one of the most important things that I would like to look at is, um, potentially"
+    },
+    {
+      "start": 1260.4,
+      "end": 1264.8,
+      "speaker": "SPEAKER_01",
+      "text": "surveying what makes gummies, you know, superior or competitive."
+    },
+    {
+      "start": 1265.52,
+      "end": 1271.76,
+      "speaker": "SPEAKER_01",
+      "text": "Um, so that could be either like a taste hat, like, uh, you know, a survey, um, looking at,"
+    },
+    {
+      "start": 1271.76,
+      "end": 1274.4,
+      "speaker": "SPEAKER_01",
+      "text": "you know, their tastes compared to other pizzas."
+    },
+    {
+      "start": 1275.2,
+      "end": 1278.64,
+      "speaker": "SPEAKER_01",
+      "text": "It can also be what their product mixes, what I've mentioned before."
+    },
+    {
+      "start": 1279.2800000000002,
+      "end": 1284.72,
+      "speaker": "SPEAKER_01",
+      "text": "If they have, uh, you know, a wide range of menu where we can then expand on and, you know,"
+    },
+    {
+      "start": 1284.72,
+      "end": 1290.72,
+      "speaker": "SPEAKER_01",
+      "text": "potentially bring in new customers, um, even looking deeper into their, you know, business,"
+    },
+    {
+      "start": 1292.0800000000002,
+      "end": 1292.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "model."
+    },
+    {
+      "start": 1293.2800000000002,
+      "end": 1299.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So I know they have like the delivery carry out with IINN, but is there a potential way that we can"
+    },
+    {
+      "start": 1299.6000000000001,
+      "end": 1301.92,
+      "speaker": "SPEAKER_01",
+      "text": "bring in maybe loyalty or increased loyalty?"
+    },
+    {
+      "start": 1302.0,
+      "end": 1304.72,
+      "speaker": "SPEAKER_01",
+      "text": "And that would eventually bring in more profits or revenue."
+    },
+    {
+      "start": 1306.3200000000002,
+      "end": 1314.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So I think next steps, if we have information, maybe on gummies specifically and maybe"
+    },
+    {
+      "start": 1314.5600000000002,
+      "end": 1323.04,
+      "speaker": "SPEAKER_01",
+      "text": "customer surveys that we can take that can really hit home, um, how a gummies could be more"
+    },
+    {
+      "start": 1323.04,
+      "end": 1324.72,
+      "speaker": "SPEAKER_01",
+      "text": "popular than its competitors."
+    },
+    {
+      "start": 1324.72,
+      "end": 1325.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1325.1200000000001,
+      "end": 1329.68,
+      "speaker": "SPEAKER_01",
+      "text": "And then that can just be something that we can, um, use to help grow revenue."
+    },
+    {
+      "start": 1329.76,
+      "end": 1330.96,
+      "speaker": "SPEAKER_01",
+      "text": "Cool."
+    },
+    {
+      "start": 1330.96,
+      "end": 1335.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Well, unfortunately, we don't have customer call it satisfaction data."
+    },
+    {
+      "start": 1335.76,
+      "end": 1341.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "What we do have, we do have some information on margin for, um, the modalities."
+    },
+    {
+      "start": 1341.6000000000001,
+      "end": 1346.16,
+      "speaker": "SPEAKER_00",
+      "text": "And earlier I heard you mention that you'd like to see like what it costs to just deliver"
+    },
+    {
+      "start": 1346.16,
+      "end": 1346.8,
+      "speaker": "SPEAKER_00",
+      "text": "at pizza, right?"
+    },
+    {
+      "start": 1346.8,
+      "end": 1351.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Ultimately, what is the margin on these things we care about because in this business,"
+    },
+    {
+      "start": 1351.3600000000001,
+      "end": 1352.8,
+      "speaker": "SPEAKER_00",
+      "text": "we ultimately care about margin."
+    },
+    {
+      "start": 1353.6,
+      "end": 1360.24,
+      "speaker": "SPEAKER_00",
+      "text": "So in a moment, I'm going to show you, um, some profitability data."
+    },
+    {
+      "start": 1360.24,
+      "end": 1368.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And I'm going to have you do the same thing as before, which is not only what conclusions could"
+    },
+    {
+      "start": 1368.6399999999999,
+      "end": 1372.48,
+      "speaker": "SPEAKER_00",
+      "text": "you draw, but I'm going to have you kind of do a pretty big synthesis exercise here,"
+    },
+    {
+      "start": 1372.48,
+      "end": 1375.68,
+      "speaker": "SPEAKER_00",
+      "text": "Talma, which is across all the data you've seen."
+    },
+    {
+      "start": 1376.8799999999999,
+      "end": 1381.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "What are two to three kind of crisp ideas you'd have for this P firm?"
+    },
+    {
+      "start": 1382.96,
+      "end": 1386.32,
+      "speaker": "SPEAKER_00",
+      "text": "For how they might double margin over the next three years."
+    },
+    {
+      "start": 1387.36,
+      "end": 1392.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So just to recap, my two questions, one is just kind of same that we've been doing hypothesis,"
+    },
+    {
+      "start": 1392.6399999999999,
+      "end": 1395.52,
+      "speaker": "SPEAKER_00",
+      "text": "you can draw drive from these two new exhibits."
+    },
+    {
+      "start": 1396.24,
+      "end": 1400.96,
+      "speaker": "SPEAKER_00",
+      "text": "And then a broader synthesis of two to three ideas, you'd give this P E firm."
+    },
+    {
+      "start": 1402.32,
+      "end": 1402.8,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1402.8,
+      "end": 1407.12,
+      "speaker": "SPEAKER_00",
+      "text": "To expand this, to expand gum be over the next three years to double margin."
+    },
+    {
+      "start": 1410.96,
+      "end": 1411.28,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1412.96,
+      "end": 1418.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So I'll just go ahead and take a couple seconds to digest the two exhibits that I have."
+    },
+    {
+      "start": 1418.3999999999999,
+      "end": 1426.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Please do."
+    },
+    {
+      "start": 1426.4,
+      "end": 1432.96,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1432.96,
+      "end": 1445.76,
+      "speaker": "SPEAKER_01",
+      "text": "So looking at an exhibit three now, we're just hitting home the revenue by customer segment"
+    },
+    {
+      "start": 1445.76,
+      "end": 1446.4,
+      "speaker": "SPEAKER_01",
+      "text": "and product."
+    },
+    {
+      "start": 1446.4,
+      "end": 1452.16,
+      "speaker": "SPEAKER_01",
+      "text": "So basically looking at students, faculty, staff, and town folks, but specifically they're"
+    },
+    {
+      "start": 1452.16,
+      "end": 1458.0,
+      "speaker": "SPEAKER_01",
+      "text": "perfect or what their revenue or is going towards either pizza sandwiches and drinks or others."
+    },
+    {
+      "start": 1458.64,
+      "end": 1463.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So just looking at this specific exhibit, main takeaway is that within student"
+    },
+    {
+      "start": 1463.92,
+      "end": 1470.48,
+      "speaker": "SPEAKER_01",
+      "text": "to customer segment, the most popular, I guess, product sold by gum bees is pizza really,"
+    },
+    {
+      "start": 1471.6000000000001,
+      "end": 1473.2,
+      "speaker": "SPEAKER_01",
+      "text": "which is as expected."
+    },
+    {
+      "start": 1473.2,
+      "end": 1480.4,
+      "speaker": "SPEAKER_01",
+      "text": "But then they do have some sales coming in from sandwiches and drinks, whereas when we move"
+    },
+    {
+      "start": 1480.4,
+      "end": 1488.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "forward to faculty, staff, and town folks, it does seem like pizza revenue is going down."
+    },
+    {
+      "start": 1488.3200000000002,
+      "end": 1496.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "However, their sandwich revenue still is leading as the most popular product that is being sold."
+    },
+    {
+      "start": 1498.0800000000002,
+      "end": 1505.44,
+      "speaker": "SPEAKER_01",
+      "text": "And then comparing that to the second exhibit, where we're now looking at profitability by"
+    },
+    {
+      "start": 1505.44,
+      "end": 1510.16,
+      "speaker": "SPEAKER_01",
+      "text": "products. And again, it's just looking at the margins between pizza, sandwiches, drinks, and others."
+    },
+    {
+      "start": 1510.16,
+      "end": 1513.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "It really does seem like pizza has the greatest margin."
+    },
+    {
+      "start": 1513.8400000000001,
+      "end": 1516.8000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Or sorry, drinks has the greatest margin."
+    },
+    {
+      "start": 1516.8000000000002,
+      "end": 1517.76,
+      "speaker": "SPEAKER_01",
+      "text": "It's 53%."
+    },
+    {
+      "start": 1517.76,
+      "end": 1522.64,
+      "speaker": "SPEAKER_01",
+      "text": "However, pizza follows slightly below that at 33%."
+    },
+    {
+      "start": 1523.2,
+      "end": 1533.28,
+      "speaker": "SPEAKER_01",
+      "text": "And it seems like the highest cost products within pizza is really the labor and the raw material."
+    },
+    {
+      "start": 1533.76,
+      "end": 1539.76,
+      "speaker": "SPEAKER_01",
+      "text": "And that seems to be similar for the sandwiches and drinks as well."
+    },
+    {
+      "start": 1540.56,
+      "end": 1546.8,
+      "speaker": "SPEAKER_01",
+      "text": "So one of the things that we can potentially look at is if we're expanding on the pizza"
+    },
+    {
+      "start": 1547.44,
+      "end": 1556.32,
+      "speaker": "SPEAKER_01",
+      "text": "product, how we can move forward and basically growing those margins so that ultimately we can"
+    },
+    {
+      "start": 1556.32,
+      "end": 1558.32,
+      "speaker": "SPEAKER_01",
+      "text": "double the gross in three years."
+    },
+    {
+      "start": 1558.3999999999999,
+      "end": 1572.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So if I am some, so if I were to brainstorm some ways to expand, let's say, our margins."
+    },
+    {
+      "start": 1574.72,
+      "end": 1577.76,
+      "speaker": "SPEAKER_01",
+      "text": "So right now we see pizza is"
+    },
+    {
+      "start": 1578.4,
+      "end": 1589.68,
+      "speaker": "SPEAKER_01",
+      "text": "so it seems like pizza itself is costing"
+    },
+    {
+      "start": 1592.32,
+      "end": 1594.4,
+      "speaker": "SPEAKER_01",
+      "text": "would that be $5?"
+    },
+    {
+      "start": 1595.44,
+      "end": 1600.32,
+      "speaker": "SPEAKER_01",
+      "text": "Or sorry, labor within pizza is costing $5, where a raw material is costing"
+    },
+    {
+      "start": 1600.8,
+      "end": 1602.08,
+      "speaker": "SPEAKER_01",
+      "text": "$10?"
+    },
+    {
+      "start": 1603.52,
+      "end": 1604.72,
+      "speaker": "SPEAKER_01",
+      "text": "If I'm looking at that."
+    },
+    {
+      "start": 1604.72,
+      "end": 1605.28,
+      "speaker": "SPEAKER_01",
+      "text": "Properly?"
+    },
+    {
+      "start": 1606.32,
+      "end": 1611.52,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, I hear you on why you're trying to make sense why you're trying to figure out the units here"
+    },
+    {
+      "start": 1611.52,
+      "end": 1616.24,
+      "speaker": "SPEAKER_00",
+      "text": "on the left hand side at this chart. I'm going to ask you to ignore that and just focus on margins."
+    },
+    {
+      "start": 1617.12,
+      "end": 1620.08,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, all right. So we're looking at that margin."
+    },
+    {
+      "start": 1620.8799999999999,
+      "end": 1628.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So yeah, we see that pizza is at 33%, where drinks at the highest margin is at 53%."
+    },
+    {
+      "start": 1628.16,
+      "end": 1633.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So what we can potentially do is look at ways to increase the margins for pizza to similarly how"
+    },
+    {
+      "start": 1633.6000000000001,
+      "end": 1640.24,
+      "speaker": "SPEAKER_01",
+      "text": "we have for sandwiches and drinks. And one of the potential ways to do that is since we see that"
+    },
+    {
+      "start": 1640.24,
+      "end": 1648.8000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "raw material in labor has is contributing to the cost most. One way to look at that is either we"
+    },
+    {
+      "start": 1650.24,
+      "end": 1653.28,
+      "speaker": "SPEAKER_01",
+      "text": "decrease labor or decrease the cost that's going towards labor."
+    },
+    {
+      "start": 1654.24,
+      "end": 1659.84,
+      "speaker": "SPEAKER_01",
+      "text": "And then also if there's potential ways to decrease the cost of raw material as well."
+    },
+    {
+      "start": 1660.32,
+      "end": 1666.96,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so that I'm hearing as one very feasible idea of the next three years to increase margin."
+    },
+    {
+      "start": 1668.8799999999999,
+      "end": 1674.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so to increase overall margins, I would say that two things I would"
+    },
+    {
+      "start": 1674.32,
+      "end": 1678.96,
+      "speaker": "SPEAKER_01",
+      "text": "can potentially do is decrease the cost going towards labor and decrease the cost going towards"
+    },
+    {
+      "start": 1678.96,
+      "end": 1687.44,
+      "speaker": "SPEAKER_01",
+      "text": "raw material. Okay. Another way to go about this, we do see that since drinks have the highest"
+    },
+    {
+      "start": 1687.44,
+      "end": 1698.08,
+      "speaker": "SPEAKER_01",
+      "text": "margin at 53%, maybe potentially sell more drinks. Since we see more margins there, we can potentially"
+    },
+    {
+      "start": 1698.08,
+      "end": 1702.72,
+      "speaker": "SPEAKER_01",
+      "text": "sell at higher volumes or maybe sell at a higher price where we can increase our profits."
+    },
+    {
+      "start": 1703.2,
+      "end": 1712.0,
+      "speaker": "SPEAKER_01",
+      "text": "And sorry, increase our profits and then ultimately help grow or double that gross margin"
+    },
+    {
+      "start": 1712.0,
+      "end": 1718.24,
+      "speaker": "SPEAKER_00",
+      "text": "goal that we have for three years. Okay, great. Anything else? Another idea is you'd want to offer."
+    },
+    {
+      "start": 1720.88,
+      "end": 1721.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1721.1999999999998,
+      "end": 1734.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "So it does seem like sandwiches here. It has lower cost going towards raw material and labor"
+    },
+    {
+      "start": 1734.3999999999999,
+      "end": 1742.4799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "compared to pizza and has very similar profit margins as pizza as well. So one of the things that"
+    },
+    {
+      "start": 1742.4799999999998,
+      "end": 1750.56,
+      "speaker": "SPEAKER_01",
+      "text": "we can potentially do expand the product mix within sandwiches itself so that we can attract more"
+    },
+    {
+      "start": 1750.56,
+      "end": 1758.0,
+      "speaker": "SPEAKER_01",
+      "text": "customers or bring in newer customers. And then that can also help with the selling of pizza and"
+    },
+    {
+      "start": 1758.0,
+      "end": 1762.56,
+      "speaker": "SPEAKER_01",
+      "text": "sandwiches or their products in general to help ultimately dealt with the gross margins."
+    },
+    {
+      "start": 1764.1599999999999,
+      "end": 1773.12,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome. Okay, cool, Tomah. I'm going to call it a close to the case. Okay. Take a deep breath."
+    },
+    {
+      "start": 1773.9199999999998,
+      "end": 1779.84,
+      "speaker": "SPEAKER_01",
+      "text": "How do you feel? I felt a little nervous. I was expecting one math. Maybe I was not doing the"
+    },
+    {
+      "start": 1779.84,
+      "end": 1785.12,
+      "speaker": "SPEAKER_01",
+      "text": "quantifying that I was supposed to do. But it felt a little more qualitative just because we had"
+    },
+    {
+      "start": 1785.12,
+      "end": 1790.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "so many exhibits. Yeah. Good noticing. And I want to make a disclaimer on this case just for the"
+    },
+    {
+      "start": 1790.8799999999999,
+      "end": 1797.12,
+      "speaker": "SPEAKER_00",
+      "text": "group in general. This is a Bane style case. I'll be very open. My familiarity is much more in the"
+    },
+    {
+      "start": 1797.12,
+      "end": 1803.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "interviewer led McKinsey style case. So I would say this candidly in my opinion is not representative."
+    },
+    {
+      "start": 1803.6799999999998,
+      "end": 1808.0,
+      "speaker": "SPEAKER_00",
+      "text": "Definitely not representative of a McKinsey case. It may be more representative of Bane cases."
+    },
+    {
+      "start": 1808.96,
+      "end": 1814.72,
+      "speaker": "SPEAKER_00",
+      "text": "In every case, you will have a direct computational math question. You're right, Tomah, that you"
+    },
+    {
+      "start": 1814.72,
+      "end": 1821.52,
+      "speaker": "SPEAKER_00",
+      "text": "didn't have one here. This was very exhibit heavy. In a typical case, I would expect question one is"
+    },
+    {
+      "start": 1821.52,
+      "end": 1827.2,
+      "speaker": "SPEAKER_00",
+      "text": "your structure question. Question two is maybe looking at data, but then doing a straight"
+    },
+    {
+      "start": 1827.2,
+      "end": 1833.36,
+      "speaker": "SPEAKER_00",
+      "text": "math calculation. Yeah. Question three will be like a data graph that has you draw some hypothesis."
+    },
+    {
+      "start": 1834.0,
+      "end": 1837.6799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "And then question four will be like a synthesis question to bring the case together."
+    },
+    {
+      "start": 1838.3999999999999,
+      "end": 1844.9599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So good observation. Anything you'd want to share before we do a little bit of reflection"
+    },
+    {
+      "start": 1844.9599999999998,
+      "end": 1853.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "together? No, I'd really just love to hear your thoughts. Actually, I was not really sure"
+    },
+    {
+      "start": 1853.4399999999998,
+      "end": 1857.36,
+      "speaker": "SPEAKER_01",
+      "text": "how to drive forward the case. I think that's when I struggled a little bit because I was getting"
+    },
+    {
+      "start": 1857.36,
+      "end": 1862.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "the exhibits. And it's just like where I'm going, trying to relate what I'm seeing the exhibit in"
+    },
+    {
+      "start": 1862.4,
+      "end": 1869.2,
+      "speaker": "SPEAKER_01",
+      "text": "the market standpoint and then having translating that over to financial. Yeah. So what you're"
+    },
+    {
+      "start": 1869.2,
+      "end": 1876.48,
+      "speaker": "SPEAKER_00",
+      "text": "noting is both the beauty and challenge of an interview we lead case. So BCG and Bane tend to be"
+    },
+    {
+      "start": 1876.48,
+      "end": 1881.52,
+      "speaker": "SPEAKER_00",
+      "text": "more interview we lead. McKinsey is more interviewer. And I'm saying this for not just your benefit,"
+    },
+    {
+      "start": 1881.52,
+      "end": 1886.4,
+      "speaker": "SPEAKER_00",
+      "text": "but hopefully for the benefit of the folks on the call. In a case like this where it's interview"
+    },
+    {
+      "start": 1886.5600000000002,
+      "end": 1892.4,
+      "speaker": "SPEAKER_00",
+      "text": "we lead, my guidance is at the end of every question. And this is where synthesis skill becomes"
+    },
+    {
+      "start": 1892.4,
+      "end": 1898.88,
+      "speaker": "SPEAKER_00",
+      "text": "really important. You almost want to have your one to two sentences that synthesize the like what"
+    },
+    {
+      "start": 1898.88,
+      "end": 1904.48,
+      "speaker": "SPEAKER_00",
+      "text": "you've taken what you've learned from that question. And almost have a sentence to say and to this"
+    },
+    {
+      "start": 1904.48,
+      "end": 1909.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "point in the case, you know, we talked about the three areas we would look at to evaluate how to"
+    },
+    {
+      "start": 1909.8400000000001,
+      "end": 1915.1200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "grow gumbee. And what we've learned thus far is the following. Because then you're actually driving"
+    },
+    {
+      "start": 1915.12,
+      "end": 1922.08,
+      "speaker": "SPEAKER_00",
+      "text": "the case forward and frankly allowing yourself to keep I'll call it like the running party line of"
+    },
+    {
+      "start": 1922.08,
+      "end": 1926.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "all the information that you're gathering. Because your point you're getting a lot of disparate"
+    },
+    {
+      "start": 1926.3999999999999,
+      "end": 1931.36,
+      "speaker": "SPEAKER_00",
+      "text": "data one by one. And it's hard to remember like what am I doing with all of this as I go along."
+    },
+    {
+      "start": 1931.9199999999998,
+      "end": 1937.04,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah versus in an interviewer lead, it'll be just much more like I'll pull you along in a way"
+    },
+    {
+      "start": 1937.04,
+      "end": 1943.28,
+      "speaker": "SPEAKER_00",
+      "text": "that I didn't pull you along here. Okay, great. So let me start with a few reflections. I'll start"
+    },
+    {
+      "start": 1943.36,
+      "end": 1949.52,
+      "speaker": "SPEAKER_00",
+      "text": "with a recap. I loved your two like the two questions that you offered. One was, you know, what is"
+    },
+    {
+      "start": 1949.52,
+      "end": 1954.0,
+      "speaker": "SPEAKER_00",
+      "text": "it about pizza that is interesting to this PE firm? Essentially asking the question like should we"
+    },
+    {
+      "start": 1954.0,
+      "end": 1960.08,
+      "speaker": "SPEAKER_00",
+      "text": "be playing in pizza or generally in food? And I liked your question on like are we limited by scope"
+    },
+    {
+      "start": 1960.08,
+      "end": 1965.12,
+      "speaker": "SPEAKER_00",
+      "text": "and geography? So I thought you had really good not just like clarifying questions, but questions that"
+    },
+    {
+      "start": 1965.12,
+      "end": 1969.76,
+      "speaker": "SPEAKER_00",
+      "text": "would move that could move your answer forward, which is what I would call level three question."
+    },
+    {
+      "start": 1970.72,
+      "end": 1976.72,
+      "speaker": "SPEAKER_00",
+      "text": "What I want you to be aware of, and this is hopefully a pretty easy fix, I tell all candidates."
+    },
+    {
+      "start": 1976.72,
+      "end": 1982.16,
+      "speaker": "SPEAKER_00",
+      "text": "There's no need to be polite, meaning you don't need to say that okay that I'm going to do XYZ."
+    },
+    {
+      "start": 1982.16,
+      "end": 1989.36,
+      "speaker": "SPEAKER_00",
+      "text": "I expect you to take a moment. I expect all that and I want to say time is your friend,"
+    },
+    {
+      "start": 1989.36,
+      "end": 1994.0,
+      "speaker": "SPEAKER_00",
+      "text": "Andrew, enemy in an interview so the more that you can keep your language tight, the better."
+    },
+    {
+      "start": 1994.8,
+      "end": 2000.4,
+      "speaker": "SPEAKER_00",
+      "text": "And so even simply putting saying statements and actually encourage candidates, I'm going to put"
+    },
+    {
+      "start": 2000.4,
+      "end": 2005.92,
+      "speaker": "SPEAKER_00",
+      "text": "these in the chat. I encourage candidates to have their like go to phrases that they just like"
+    },
+    {
+      "start": 2005.92,
+      "end": 2011.12,
+      "speaker": "SPEAKER_00",
+      "text": "ink around that they're going to say, whether it's I'm going to recap what I heard or I'm going to"
+    },
+    {
+      "start": 2011.12,
+      "end": 2017.12,
+      "speaker": "SPEAKER_00",
+      "text": "take a few moments and come back to you and that's all you need to say. I'm so be only feedback on"
+    },
+    {
+      "start": 2017.1999999999998,
+      "end": 2023.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "the recap. If it's okay with you, Toma, I'm actually going to jump to the exhibits first for"
+    },
+    {
+      "start": 2023.9199999999998,
+      "end": 2028.8,
+      "speaker": "SPEAKER_00",
+      "text": "feedback and then come back to structure. It's because it's an exhibit heavy question."
+    },
+    {
+      "start": 2030.2399999999998,
+      "end": 2035.12,
+      "speaker": "SPEAKER_00",
+      "text": "So in general, I'm going to encourage you and everyone on the call to think about"
+    },
+    {
+      "start": 2036.56,
+      "end": 2042.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "the approach to exhibits at three levels. So one thing you did, Toma, that I really appreciate it,"
+    },
+    {
+      "start": 2042.16,
+      "end": 2049.76,
+      "speaker": "SPEAKER_00",
+      "text": "that I want everyone to do is take your 30 seconds to absorb the data and then do what you did"
+    },
+    {
+      "start": 2049.76,
+      "end": 2056.56,
+      "speaker": "SPEAKER_00",
+      "text": "would just play back, like literally just play back what the data graph is. So what this data is"
+    },
+    {
+      "start": 2056.56,
+      "end": 2062.16,
+      "speaker": "SPEAKER_00",
+      "text": "showing is market share and I can even share my screen while I'm saying this. Market share by"
+    },
+    {
+      "start": 2066.0,
+      "end": 2070.16,
+      "speaker": "SPEAKER_00",
+      "text": "yeah, what this data is showing is essentially the revenues that we're making"
+    },
+    {
+      "start": 2070.7999999999997,
+      "end": 2077.12,
+      "speaker": "SPEAKER_00",
+      "text": "by the customer segments that we have across, you know, the four products, pizza sandwiches,"
+    },
+    {
+      "start": 2077.12,
+      "end": 2084.0,
+      "speaker": "SPEAKER_00",
+      "text": "drinks, other. So just saying out loud what the data show without any insights, any hypotheses,"
+    },
+    {
+      "start": 2084.0,
+      "end": 2091.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "that's level one. Level two is drawing some takeaways like you did from the graph. So if this"
+    },
+    {
+      "start": 2091.2799999999997,
+      "end": 2096.96,
+      "speaker": "SPEAKER_00",
+      "text": "is what the graph is showing, we see that pizza, you know, students by far are buying pizza,"
+    },
+    {
+      "start": 2097.44,
+      "end": 2102.08,
+      "speaker": "SPEAKER_00",
+      "text": "they have a few drinks to accompany and they may be buy some sandwiches. What we see is like for"
+    },
+    {
+      "start": 2102.08,
+      "end": 2107.76,
+      "speaker": "SPEAKER_00",
+      "text": "town folk, they're kind of a split between pizza and sandwiches and faculty and staff is the same."
+    },
+    {
+      "start": 2107.76,
+      "end": 2113.2,
+      "speaker": "SPEAKER_00",
+      "text": "So no surprise, younger people want pizza, older people want sandwiches and pizza. That's like a"
+    },
+    {
+      "start": 2113.2,
+      "end": 2121.84,
+      "speaker": "SPEAKER_00",
+      "text": "level two, which is just kind of an all call interpretation of the data. The level three is the"
+    },
+    {
+      "start": 2121.84,
+      "end": 2127.76,
+      "speaker": "SPEAKER_00",
+      "text": "distinguishing factor right for any candidate, which is what are hypotheses then or like why"
+    },
+    {
+      "start": 2127.76,
+      "end": 2134.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "does this matter for our client? And this is where making connections not just within a data graph,"
+    },
+    {
+      "start": 2134.7200000000003,
+      "end": 2141.36,
+      "speaker": "SPEAKER_00",
+      "text": "but across data graphs becomes important. So as an example in this case, and I'm not going to share"
+    },
+    {
+      "start": 2141.36,
+      "end": 2145.52,
+      "speaker": "SPEAKER_00",
+      "text": "the screen across the different exhibits because that might get just a bit jarring for folks on"
+    },
+    {
+      "start": 2145.52,
+      "end": 2153.84,
+      "speaker": "SPEAKER_00",
+      "text": "the call. A couple of insights along the graphs were just for Gumby knowing that we primarily"
+    },
+    {
+      "start": 2153.84,
+      "end": 2162.24,
+      "speaker": "SPEAKER_00",
+      "text": "serve students really well and that students are the majority of the market. And that margin,"
+    },
+    {
+      "start": 2162.24,
+      "end": 2168.48,
+      "speaker": "SPEAKER_00",
+      "text": "I get one of the other insights or just a haze was margin on drinks as high, great, but ultimately"
+    },
+    {
+      "start": 2168.48,
+      "end": 2173.28,
+      "speaker": "SPEAKER_00",
+      "text": "pizzas really really want to play. So I loved that you said, how can we basically get more margin"
+    },
+    {
+      "start": 2173.28,
+      "end": 2184.5600000000004,
+      "speaker": "SPEAKER_00",
+      "text": "out of pizza? What I want, I don't want to kind of prescribe a hypothesis that would have connected"
+    },
+    {
+      "start": 2184.5600000000004,
+      "end": 2189.76,
+      "speaker": "SPEAKER_00",
+      "text": "the few graphs. Well, one thing that just came to me when I was thinking about the graphs is"
+    },
+    {
+      "start": 2190.88,
+      "end": 2195.6800000000003,
+      "speaker": "SPEAKER_00",
+      "text": "essentially how do we as Gumby double down on pizza knowing that that's what we do really well"
+    },
+    {
+      "start": 2196.32,
+      "end": 2203.1200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "and that our primary segment students is mostly eating pizza. Oh, and by the way, we also do"
+    },
+    {
+      "start": 2203.2799999999997,
+      "end": 2209.68,
+      "speaker": "SPEAKER_00",
+      "text": "delivery well. And so I'm I can make assumption that delivery and carry out probably of higher margins"
+    },
+    {
+      "start": 2209.68,
+      "end": 2215.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "than sitting in just because I don't need a lot of overhead to do delivery and carry out. And if I"
+    },
+    {
+      "start": 2215.3599999999997,
+      "end": 2220.16,
+      "speaker": "SPEAKER_00",
+      "text": "mostly serve these students are not interested like an older couple is sitting in my restaurant. So"
+    },
+    {
+      "start": 2220.16,
+      "end": 2225.68,
+      "speaker": "SPEAKER_00",
+      "text": "essentially if I'm a PE firm wanting to just like part in my capitalistic language of saying"
+    },
+    {
+      "start": 2225.68,
+      "end": 2233.6,
+      "speaker": "SPEAKER_00",
+      "text": "exploit profit, I essentially want to make pizza really cheap and get get as much volume out as"
+    },
+    {
+      "start": 2233.6,
+      "end": 2239.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I can which is essentially carry out our delivery. And I probably want to up my carry out because my"
+    },
+    {
+      "start": 2239.7599999999998,
+      "end": 2244.64,
+      "speaker": "SPEAKER_00",
+      "text": "margin is likely going to be higher there. And I think that's one thing I was hoping for earlier in"
+    },
+    {
+      "start": 2244.64,
+      "end": 2250.24,
+      "speaker": "SPEAKER_00",
+      "text": "the case, which is you wanting margin data much earlier because what was missing across all the"
+    },
+    {
+      "start": 2250.24,
+      "end": 2256.16,
+      "speaker": "SPEAKER_00",
+      "text": "exhibits until the end was any sort of cost view on any of this information was all top line."
+    },
+    {
+      "start": 2260.08,
+      "end": 2264.72,
+      "speaker": "SPEAKER_00",
+      "text": "Let me pause there on exhibits for any questions from you and then I'll jump to the structure"
+    },
+    {
+      "start": 2265.4399999999996,
+      "end": 2270.3199999999997,
+      "speaker": "SPEAKER_01",
+      "text": "and then we'll open it up for QA. No, I think it makes sense. I think I got"
+    },
+    {
+      "start": 2270.9599999999996,
+      "end": 2276.3999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "bond down by the different exhibits and I need to get in habit of talking but I should also be"
+    },
+    {
+      "start": 2276.4,
+      "end": 2282.56,
+      "speaker": "SPEAKER_01",
+      "text": "writing some of my key takeaways. And I think when we were going over it, it just I remember,"
+    },
+    {
+      "start": 2282.56,
+      "end": 2286.2400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "oh, I forgot about delivery, which I realized I didn't even mention at the end."
+    },
+    {
+      "start": 2287.6800000000003,
+      "end": 2291.6,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, no, I understand that. I want to just honor the fact that looking at a lot of data like this"
+    },
+    {
+      "start": 2291.6,
+      "end": 2297.28,
+      "speaker": "SPEAKER_00",
+      "text": "is very fatiguing and just not that typical. So to the extent that and this is more of a"
+    },
+    {
+      "start": 2297.28,
+      "end": 2301.6,
+      "speaker": "SPEAKER_00",
+      "text": "peak like a note taking strategy, I'll say to the extent that you can ensure that you have one"
+    },
+    {
+      "start": 2301.6,
+      "end": 2308.96,
+      "speaker": "SPEAKER_00",
+      "text": "piece of paper for each question and almost getting the habit of like a takeaway box at the"
+    },
+    {
+      "start": 2308.96,
+      "end": 2312.88,
+      "speaker": "SPEAKER_00",
+      "text": "bottom right of your piece of paper so that when you're looking at the case holistically,"
+    },
+    {
+      "start": 2313.6,
+      "end": 2318.96,
+      "speaker": "SPEAKER_00",
+      "text": "you've already done a bit of the synthesis for yourself and as you're recapping what you've learned"
+    },
+    {
+      "start": 2318.96,
+      "end": 2322.88,
+      "speaker": "SPEAKER_00",
+      "text": "and then trying to draw that into like holistic insights at the end of the case, that'll just make"
+    },
+    {
+      "start": 2322.88,
+      "end": 2329.12,
+      "speaker": "SPEAKER_00",
+      "text": "your job easier. One shot I want to give you on I know I'm jumping on the questions because"
+    },
+    {
+      "start": 2329.2,
+      "end": 2335.52,
+      "speaker": "SPEAKER_00",
+      "text": "there was just a lot of kind of creative and exhibit questions. I liked your just kind of the bigger"
+    },
+    {
+      "start": 2335.52,
+      "end": 2341.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "ideas for data that you would want to see in general before we got to margins. So what makes"
+    },
+    {
+      "start": 2341.3599999999997,
+      "end": 2345.04,
+      "speaker": "SPEAKER_00",
+      "text": "going to be superior for students like what are we doing while that we want to make sure we keep"
+    },
+    {
+      "start": 2345.04,
+      "end": 2351.44,
+      "speaker": "SPEAKER_00",
+      "text": "doing well and maybe exploit for other populations. What is the product mix and how can we expand this?"
+    },
+    {
+      "start": 2351.44,
+      "end": 2356.0,
+      "speaker": "SPEAKER_00",
+      "text": "That was a great question before you actually got some data on the product mix and margin."
+    },
+    {
+      "start": 2356.96,
+      "end": 2361.36,
+      "speaker": "SPEAKER_00",
+      "text": "And then the business model right so what can we do to actually just get more money per customer"
+    },
+    {
+      "start": 2361.36,
+      "end": 2365.04,
+      "speaker": "SPEAKER_00",
+      "text": "not necessarily per product but actually per customer so I liked I liked that."
+    },
+    {
+      "start": 2367.2,
+      "end": 2370.4,
+      "speaker": "SPEAKER_00",
+      "text": "Okay so let's jump back to structure."
+    },
+    {
+      "start": 2374.96,
+      "end": 2381.04,
+      "speaker": "SPEAKER_00",
+      "text": "A few things I'll say before I comment on your specific structure and I'm conscious of our time"
+    },
+    {
+      "start": 2381.04,
+      "end": 2388.16,
+      "speaker": "SPEAKER_00",
+      "text": "and so what I might do actually Toma is give my view on what how to think about structure in"
+    },
+    {
+      "start": 2388.16,
+      "end": 2394.08,
+      "speaker": "SPEAKER_00",
+      "text": "general not just gum be specific and then we can talk about some of your structure pieces if that's"
+    },
+    {
+      "start": 2394.08,
+      "end": 2400.56,
+      "speaker": "SPEAKER_00",
+      "text": "if that's fine. So yeah I'll say in general we all know me see is a bare minimum requirement for"
+    },
+    {
+      "start": 2400.56,
+      "end": 2409.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "your structure. I like to think of structure at three levels level one, level two and level three."
+    },
+    {
+      "start": 2410.2400000000002,
+      "end": 2414.8,
+      "speaker": "SPEAKER_00",
+      "text": "So in your example I like that you frame there's a few questions I want to analyze I'm going to"
+    },
+    {
+      "start": 2414.8,
+      "end": 2425.44,
+      "speaker": "SPEAKER_00",
+      "text": "call those your level ones. So what is the profitability of gum be generally your second level one was"
+    },
+    {
+      "start": 2425.44,
+      "end": 2432.0,
+      "speaker": "SPEAKER_00",
+      "text": "the PE firm and like its portfolio and your third level one was other considerations to do a"
+    },
+    {
+      "start": 2432.0,
+      "end": 2437.6800000000003,
+      "speaker": "SPEAKER_00",
+      "text": "proper evaluation of gum be that's level one. Within level one there's going to be what I'll call"
+    },
+    {
+      "start": 2437.68,
+      "end": 2444.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "level two and I encourage everyone to think about a level two as like a research or analysis"
+    },
+    {
+      "start": 2444.3199999999997,
+      "end": 2451.6,
+      "speaker": "SPEAKER_00",
+      "text": "question and the reason that I encourage that is it will require you to actually think about what"
+    },
+    {
+      "start": 2451.6,
+      "end": 2457.04,
+      "speaker": "SPEAKER_00",
+      "text": "what's the what's the data that I need to ultimately care about what I care about in level one."
+    },
+    {
+      "start": 2458.08,
+      "end": 2462.24,
+      "speaker": "SPEAKER_00",
+      "text": "So you said your first level two was revenue."
+    },
+    {
+      "start": 2462.72,
+      "end": 2470.4799999999996,
+      "speaker": "SPEAKER_00",
+      "text": "So at that point the research question is essentially what is what is the volume of pizza that I'm"
+    },
+    {
+      "start": 2470.4799999999996,
+      "end": 2476.56,
+      "speaker": "SPEAKER_00",
+      "text": "selling and at what price point what does the customer demand look like today and what is a"
+    },
+    {
+      "start": 2476.56,
+      "end": 2483.12,
+      "speaker": "SPEAKER_00",
+      "text": "growth of that thing I heard you say and then finally what is a product portfolio. That was my I"
+    },
+    {
+      "start": 2483.12,
+      "end": 2488.24,
+      "speaker": "SPEAKER_00",
+      "text": "think articulation tome of what you said when you did speak it you kind of spoke it as one big"
+    },
+    {
+      "start": 2488.24,
+      "end": 2494.3999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "sentence the more that you can like signpost for your interviewer within revenue here the three"
+    },
+    {
+      "start": 2494.3999999999996,
+      "end": 2504.0,
+      "speaker": "SPEAKER_00",
+      "text": "questions I care about boom boom boom the better. So that's level two I'm kind of mixing up"
+    },
+    {
+      "start": 2504.0,
+      "end": 2508.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "level two level three here. Level three for me is again this is what distinguishes a candidate"
+    },
+    {
+      "start": 2508.3199999999997,
+      "end": 2517.3599999999997,
+      "speaker": "SPEAKER_00",
+      "text": "like a superstar candidate from a good candidate is the more specific and like offering hypotheses"
+    },
+    {
+      "start": 2517.36,
+      "end": 2526.32,
+      "speaker": "SPEAKER_00",
+      "text": "you can even within specific parts of your tree. So as an example I like under your PE firm portfolio"
+    },
+    {
+      "start": 2526.32,
+      "end": 2533.76,
+      "speaker": "SPEAKER_00",
+      "text": "bucket you talked about like what other synergies do we have so for me an explicit example of that"
+    },
+    {
+      "start": 2533.76,
+      "end": 2540.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "would say if we as a PE firm have had the if we do we have experience just doing franchise"
+    },
+    {
+      "start": 2540.7200000000003,
+      "end": 2545.92,
+      "speaker": "SPEAKER_00",
+      "text": "or growing businesses in general and more specifically you know fast food type businesses where we"
+    },
+    {
+      "start": 2545.92,
+      "end": 2552.4,
+      "speaker": "SPEAKER_00",
+      "text": "know how to leverage talent really quickly we know how to get the like the cheapest high quality"
+    },
+    {
+      "start": 2552.4,
+      "end": 2558.0,
+      "speaker": "SPEAKER_00",
+      "text": "ingredients we know how to optimize like capacity on the supply chain like giving really specific"
+    },
+    {
+      "start": 2558.0,
+      "end": 2563.6,
+      "speaker": "SPEAKER_00",
+      "text": "examples like that with regard to synergy would be what a level three example like examples are"
+    },
+    {
+      "start": 2563.6,
+      "end": 2569.28,
+      "speaker": "SPEAKER_00",
+      "text": "for something that's just called synergies. So level one is the bucket level two is a research"
+    },
+    {
+      "start": 2569.36,
+      "end": 2576.0,
+      "speaker": "SPEAKER_00",
+      "text": "question and then level three or specific examples relative to the client context and time I'm"
+    },
+    {
+      "start": 2576.0,
+      "end": 2579.36,
+      "speaker": "SPEAKER_00",
+      "text": "to conscious I threw a lot of information I use the thank you for bearing with that hopefully it"
+    },
+    {
+      "start": 2579.36,
+      "end": 2584.0,
+      "speaker": "SPEAKER_01",
+      "text": "was useful. No no thank you so much yeah of course I think that's what happens when you get through a"
+    },
+    {
+      "start": 2584.0,
+      "end": 2588.48,
+      "speaker": "SPEAKER_01",
+      "text": "case you start losing a little bit of the structure if you're like especially if you're bogged down"
+    },
+    {
+      "start": 2588.48,
+      "end": 2592.8,
+      "speaker": "SPEAKER_01",
+      "text": "by exhibits or like what you need to see next and I think that's just something that I need to"
+    },
+    {
+      "start": 2592.8,
+      "end": 2597.84,
+      "speaker": "SPEAKER_01",
+      "text": "keep in the back of my like take time take a breather and then just kind of structure what I'm"
+    },
+    {
+      "start": 2597.84,
+      "end": 2604.96,
+      "speaker": "SPEAKER_00",
+      "text": "going to say yes always everyone has the right to time I want to remind everyone that on the call"
+    },
+    {
+      "start": 2604.96,
+      "end": 2608.96,
+      "speaker": "SPEAKER_00",
+      "text": "you know it was ever right to ask for 30 seconds"
+    }
+  ],
+  "grading": {
+    "communication": 13,
+    "framework": 11,
+    "math": 7,
+    "case_difficulty": 8,
+    "final_summary": 12,
+    "overall_thoughts": "You could improve by providing more detailed frameworks and addressing math errors."
+  }
+}

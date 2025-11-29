@@ -1,0 +1,3108 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "speaker": "SPEAKER_00",
+      "text": "I'm excited today to introduce our guest, Billy Oxley. Billy, will you tell us just a little bit"
+    },
+    {
+      "start": 5.28,
+      "end": 10.24,
+      "speaker": "SPEAKER_00",
+      "text": "about yourself, about your background, about how you got interested in consulting and case"
+    },
+    {
+      "start": 10.24,
+      "end": 13.200000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "interviews and finally why you signed up for the session today?"
+    },
+    {
+      "start": 16.240000000000002,
+      "end": 23.44,
+      "speaker": "SPEAKER_01",
+      "text": "Having me, as you said, my name is Billy Oxley. I go to a non-target university in Los Angeles"
+    },
+    {
+      "start": 24.16,
+      "end": 29.76,
+      "speaker": "SPEAKER_01",
+      "text": "and I have some experience in finance and some professional services,"
+    },
+    {
+      "start": 30.64,
+      "end": 36.160000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "professional services background, but that's not what drives me to consulting. The reason I"
+    },
+    {
+      "start": 36.160000000000004,
+      "end": 43.52,
+      "speaker": "SPEAKER_01",
+      "text": "interested in consulting was due to a engagement as the senator of the undergraduate business school."
+    },
+    {
+      "start": 43.52,
+      "end": 50.16,
+      "speaker": "SPEAKER_01",
+      "text": "Am I undergrad school and dealing with a lot of different stakeholders while pushing an"
+    },
+    {
+      "start": 50.16,
+      "end": 56.8,
+      "speaker": "SPEAKER_01",
+      "text": "initiative for social justice? I learned that solving problems and dealing with a lot of"
+    },
+    {
+      "start": 56.8,
+      "end": 62.559999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "different parties was something that I was very interested in and wanted to get better at"
+    },
+    {
+      "start": 62.559999999999995,
+      "end": 70.47999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "to create more change. So we'll mission-driven there and then also the reason I signed up is because"
+    },
+    {
+      "start": 70.47999999999999,
+      "end": 75.6,
+      "speaker": "SPEAKER_01",
+      "text": "of course like a lot of people in here I like to listen to your podcast and they help me with"
+    },
+    {
+      "start": 75.6,
+      "end": 81.83999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "my case interview prep and I figure there's not a lot of time you'll be able to hop on a podcast"
+    },
+    {
+      "start": 81.83999999999999,
+      "end": 87.44,
+      "speaker": "SPEAKER_01",
+      "text": "like this and go through one of these interviews and it will make me you know less nervous for my"
+    },
+    {
+      "start": 87.44,
+      "end": 92.63999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "free-okay interviews. So I appreciate you having me on. Fantastic, we're so glad to have you. How"
+    },
+    {
+      "start": 92.63999999999999,
+      "end": 97.91999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "do you feel today? Ready to go? Nervous? What are you feeling before we dive into the session?"
+    },
+    {
+      "start": 98.88,
+      "end": 106.4,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah a little swityer than usual but you know my Lakers won a championship last night so"
+    },
+    {
+      "start": 107.2,
+      "end": 113.68,
+      "speaker": "SPEAKER_00",
+      "text": "you know I'm feeling great. Nothing could go wrong. Nothing could go wrong. Yeah I don't know."
+    },
+    {
+      "start": 115.04,
+      "end": 120.32000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Awesome well Billy we're excited to have you. Today's case we're going to do PWC style so I"
+    },
+    {
+      "start": 120.32000000000001,
+      "end": 125.92,
+      "speaker": "SPEAKER_00",
+      "text": "understand that you have a pretty wide range of firms that you are approaching. PWC has a very"
+    },
+    {
+      "start": 125.92,
+      "end": 132.24,
+      "speaker": "SPEAKER_00",
+      "text": "similar style of casing to Deloitte and to BCG and so I'm going to leave you in the driver's sheet"
+    },
+    {
+      "start": 132.24,
+      "end": 138.56,
+      "speaker": "SPEAKER_00",
+      "text": "to really make sure that you have a lot of the insights it's up to you to gather the data that you"
+    },
+    {
+      "start": 138.56,
+      "end": 143.76,
+      "speaker": "SPEAKER_00",
+      "text": "want. It's up to you to decide what the pathway is that you want to use to solve the case and I'm"
+    },
+    {
+      "start": 143.76,
+      "end": 148.32,
+      "speaker": "SPEAKER_00",
+      "text": "here to guide you but we really are focused on making sure that you are driving the case forward"
+    },
+    {
+      "start": 148.32,
+      "end": 155.44,
+      "speaker": "SPEAKER_00",
+      "text": "today. So if you're ready to get started I'm ready to get started too. All right great"
+    },
+    {
+      "start": 155.92,
+      "end": 161.44,
+      "speaker": "SPEAKER_00",
+      "text": "so here we go the first thing that we are going to do I'll just introduce the name of the case"
+    },
+    {
+      "start": 161.44,
+      "end": 166.23999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "it's called bubble bottles. All right and I'll give you some of the background about our client."
+    },
+    {
+      "start": 166.56,
+      "end": 171.35999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "In addition I'm starting the timer on my phone and I'm going to be timing each section of the"
+    },
+    {
+      "start": 171.35999999999999,
+      "end": 178.0,
+      "speaker": "SPEAKER_00",
+      "text": "cases you go through it today. So bubble bottles are client designs and distributes plastic bottles"
+    },
+    {
+      "start": 178.0,
+      "end": 185.04,
+      "speaker": "SPEAKER_00",
+      "text": "for the water bottle market. The client is based in northern Mexico and has both Latin and US"
+    },
+    {
+      "start": 185.04,
+      "end": 190.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "and Canadian clients. The client does not label the bottles it only produces the bottles themselves."
+    },
+    {
+      "start": 191.51999999999998,
+      "end": 196.72,
+      "speaker": "SPEAKER_00",
+      "text": "Its customers are small medium and large companies that produce everything from consumer-sized"
+    },
+    {
+      "start": 196.72,
+      "end": 203.84,
+      "speaker": "SPEAKER_00",
+      "text": "water bottles high end think of Fiji to large scale five gallon water bottles that go in offices"
+    },
+    {
+      "start": 203.84,
+      "end": 209.04,
+      "speaker": "SPEAKER_00",
+      "text": "for fresh drinking water or are stored and distributed in emergencies such as hurricanes."
+    },
+    {
+      "start": 209.6,
+      "end": 217.44,
+      "speaker": "SPEAKER_00",
+      "text": "It is the second largest manufacturer in the industry. Our client Rockwell a mid-market private equity"
+    },
+    {
+      "start": 217.44,
+      "end": 222.79999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "firm is thinking about acquiring this company. So they're looking to sell the company in under four"
+    },
+    {
+      "start": 222.79999999999998,
+      "end": 227.92,
+      "speaker": "SPEAKER_00",
+      "text": "years and need to develop a plan to improve its operations and market positioning to get a good"
+    },
+    {
+      "start": 227.92,
+      "end": 231.6,
+      "speaker": "SPEAKER_00",
+      "text": "value at the exit. Do you have any questions about the background?"
+    },
+    {
+      "start": 231.68,
+      "end": 241.04,
+      "speaker": "SPEAKER_01",
+      "text": "I think it's pretty interesting. I like these kind of cases. Do you mind if I recap the main"
+    },
+    {
+      "start": 241.04,
+      "end": 249.51999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "point to the problem? Nope, let's go for it. Our client is a plastic bottle manufacturer"
+    },
+    {
+      "start": 250.07999999999998,
+      "end": 258.08,
+      "speaker": "SPEAKER_01",
+      "text": "anything from a small Fiji bottle to a large gallon type bottle and they're the second largest"
+    },
+    {
+      "start": 258.08,
+      "end": 266.71999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "manufacturer in their market which includes Latin America and North America and they're currently"
+    },
+    {
+      "start": 267.84,
+      "end": 272.32,
+      "speaker": "SPEAKER_01",
+      "text": "impending investment by a Fiji firm or they're owned by a Fiji firm. No, pending investment."
+    },
+    {
+      "start": 273.03999999999996,
+      "end": 278.32,
+      "speaker": "SPEAKER_01",
+      "text": "Pending investment. He's looking to sell the company in four years and wants to improve"
+    },
+    {
+      "start": 279.36,
+      "end": 284.24,
+      "speaker": "SPEAKER_01",
+      "text": "their current standing in the market so that they can sell it for the highest price in the"
+    },
+    {
+      "start": 284.48,
+      "end": 292.8,
+      "speaker": "SPEAKER_01",
+      "text": "industry. Is there a specific return on the investment that private equity firm is looking for?"
+    },
+    {
+      "start": 292.8,
+      "end": 301.44,
+      "speaker": "SPEAKER_00",
+      "text": "Yes, 1 million percent. No, I'm just kidding. They don't have a specific target. I mean,"
+    },
+    {
+      "start": 301.44,
+      "end": 305.92,
+      "speaker": "SPEAKER_00",
+      "text": "they do have targets and hurdles but our job is just to try to figure out whether this is going"
+    },
+    {
+      "start": 305.92,
+      "end": 311.52,
+      "speaker": "SPEAKER_00",
+      "text": "to be a decent return at all versus a specific target of a return percentage."
+    },
+    {
+      "start": 312.47999999999996,
+      "end": 316.96,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, so I just want to make sure that you got everything. So you asked about the percentage,"
+    },
+    {
+      "start": 316.96,
+      "end": 318.71999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "nothing there. Was there anything else that you asked about?"
+    },
+    {
+      "start": 322.15999999999997,
+      "end": 328.4,
+      "speaker": "SPEAKER_01",
+      "text": "No, I just want to make sure I understood the clients and then do we do we manufacture in Northern"
+    },
+    {
+      "start": 328.4,
+      "end": 336.79999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "Mexico as well? Yes. Okay, great. No, if you don't mind, I'd love to take a second to"
+    },
+    {
+      "start": 336.8,
+      "end": 344.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "and train my thought and then I'll get back to you. Sounds great to me."
+    },
+    {
+      "start": 426.8,
+      "end": 449.2,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great. So I have my, I'm going to have the way I'm thinking about this case."
+    },
+    {
+      "start": 450.15999999999997,
+      "end": 456.88,
+      "speaker": "SPEAKER_01",
+      "text": "So there's four distinct buckets that I want to look into. The first being the plastic bottle"
+    },
+    {
+      "start": 456.88,
+      "end": 466.56,
+      "speaker": "SPEAKER_01",
+      "text": "market for our bubble bottles. The second being the current financials for bubble bottles."
+    },
+    {
+      "start": 467.68,
+      "end": 473.76,
+      "speaker": "SPEAKER_01",
+      "text": "The third being the qualitative aspects of bubble bottles. And then the fourth being"
+    },
+    {
+      "start": 474.08,
+      "end": 484.48,
+      "speaker": "SPEAKER_01",
+      "text": "the goal of our client and how they can drive their return on investment. So within the first bucket,"
+    },
+    {
+      "start": 484.48,
+      "end": 491.28,
+      "speaker": "SPEAKER_01",
+      "text": "the plastic bottle market, I would like to know more about how this market is fragmented."
+    },
+    {
+      "start": 491.84,
+      "end": 497.68,
+      "speaker": "SPEAKER_01",
+      "text": "So how are competitors in this market looking like and what is the competitive landscape?"
+    },
+    {
+      "start": 498.32,
+      "end": 503.6,
+      "speaker": "SPEAKER_01",
+      "text": "Second, I would like to look at bubble bottles market share in the plastic bottle market."
+    },
+    {
+      "start": 505.04,
+      "end": 511.92,
+      "speaker": "SPEAKER_01",
+      "text": "And then any possible changes in the market. So have there been regulatory changes? Have there"
+    },
+    {
+      "start": 511.92,
+      "end": 518.8,
+      "speaker": "SPEAKER_01",
+      "text": "just been an overall decline in profitability or revenue, which would be important for our clients"
+    },
+    {
+      "start": 518.8,
+      "end": 526.24,
+      "speaker": "SPEAKER_01",
+      "text": "to look at? Second is the financials of bubble bottles. So what is their revenue and cost breakdown?"
+    },
+    {
+      "start": 526.24,
+      "end": 532.8,
+      "speaker": "SPEAKER_01",
+      "text": "So we know that revenue is a function of quantity and price. So understanding,"
+    },
+    {
+      "start": 532.8,
+      "end": 538.16,
+      "speaker": "SPEAKER_01",
+      "text": "you know, kind of their unit economics. And then secondly, their costs. So you know, a plastic"
+    },
+    {
+      "start": 538.16,
+      "end": 544.08,
+      "speaker": "SPEAKER_01",
+      "text": "bottle manufacturer, I'm assuming a high amount of their costs will be the raw materials associated"
+    },
+    {
+      "start": 544.08,
+      "end": 552.8,
+      "speaker": "SPEAKER_01",
+      "text": "with the plastic bottles. So understanding that breakdown and how, how, you know, that factors into"
+    },
+    {
+      "start": 552.8,
+      "end": 557.5999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "our decision, our client's decision. The next would be the company's qualitative aspect. So"
+    },
+    {
+      "start": 557.5999999999999,
+      "end": 562.64,
+      "speaker": "SPEAKER_01",
+      "text": "the brand, how they stand with their distributors and their customers."
+    },
+    {
+      "start": 564.24,
+      "end": 569.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And if those relationships are, you know, solid or if there's room for improvement there."
+    },
+    {
+      "start": 569.4399999999999,
+      "end": 574.8,
+      "speaker": "SPEAKER_01",
+      "text": "And then also their suppliers. So looking at, you know, who's supplying these,"
+    },
+    {
+      "start": 576.8,
+      "end": 580.4799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "who's supplying their raw materials, which are important for their cost breakdown and"
+    },
+    {
+      "start": 581.2,
+      "end": 587.28,
+      "speaker": "SPEAKER_01",
+      "text": "possible changes we can make there. And then lastly, the PE firm. So what is our clients'"
+    },
+    {
+      "start": 587.28,
+      "end": 594.88,
+      "speaker": "SPEAKER_01",
+      "text": "capabilities? What are their current financial restraints or possible, or possible"
+    },
+    {
+      "start": 596.32,
+      "end": 601.36,
+      "speaker": "SPEAKER_01",
+      "text": "capabilities as PE firm? So do they have they purchased other plastic bottle"
+    },
+    {
+      "start": 601.36,
+      "end": 606.48,
+      "speaker": "SPEAKER_01",
+      "text": "manufacturers and do they have success in this arena? And then is there any synergies they"
+    },
+    {
+      "start": 606.48,
+      "end": 612.16,
+      "speaker": "SPEAKER_01",
+      "text": "can realize after purchasing this firm? So is there any relationships that they have forged,"
+    },
+    {
+      "start": 612.16,
+      "end": 617.52,
+      "speaker": "SPEAKER_01",
+      "text": "that they can, you know, help introduce their new client to to make this an attractive investment"
+    },
+    {
+      "start": 617.52,
+      "end": 623.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "opportunity? How does that sound in terms of attacking this case? Well, it sounds like a pretty good"
+    },
+    {
+      "start": 623.9200000000001,
+      "end": 633.2,
+      "speaker": "SPEAKER_01",
+      "text": "last where you want to go first. I think since we are worried about or were interested in the market"
+    },
+    {
+      "start": 633.2,
+      "end": 639.12,
+      "speaker": "SPEAKER_01",
+      "text": "dynamics, I think the most interesting part would be looking at the current competitive landscape"
+    },
+    {
+      "start": 639.12,
+      "end": 645.36,
+      "speaker": "SPEAKER_01",
+      "text": "that that's are that the bubble bottles is up against because we do know that the second largest"
+    },
+    {
+      "start": 645.36,
+      "end": 653.36,
+      "speaker": "SPEAKER_01",
+      "text": "manufacturer, so maybe understanding the other competitors there. Okay. I like that. And I think"
+    },
+    {
+      "start": 653.36,
+      "end": 661.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "there's a lot to think about here. So I've got some data on just a few things inside the market,"
+    },
+    {
+      "start": 661.68,
+      "end": 664.4799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "but I think that what we're going to have to do first is look at the market itself."
+    },
+    {
+      "start": 666.0799999999999,
+      "end": 669.68,
+      "speaker": "SPEAKER_00",
+      "text": "How would you think about the market itself for what this client is selling?"
+    },
+    {
+      "start": 672.3199999999999,
+      "end": 682.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, so they sell commodity right at the end of the day. Not exactly, because it's not going"
+    },
+    {
+      "start": 682.7199999999999,
+      "end": 689.04,
+      "speaker": "SPEAKER_00",
+      "text": "to be exactly the same. They are value adding on a commodity. Okay. They are manufacturing"
+    },
+    {
+      "start": 689.04,
+      "end": 695.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "to a specific design. So Fiji has a different design than Dessani has, right? So there are different"
+    },
+    {
+      "start": 695.1999999999999,
+      "end": 700.48,
+      "speaker": "SPEAKER_00",
+      "text": "designs. There is some value that they're adding in the process. Okay. Got it. So any"
+    },
+    {
+      "start": 700.48,
+      "end": 704.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "any questions? How would I think about just the overall competitive landscape?"
+    },
+    {
+      "start": 704.7199999999999,
+      "end": 709.4399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "I would yeah, basically like what are some of the factors about the overall, not the competitive,"
+    },
+    {
+      "start": 709.4399999999999,
+      "end": 712.88,
+      "speaker": "SPEAKER_00",
+      "text": "but just the market in general for what they sell that you don't want to think about here?"
+    },
+    {
+      "start": 713.8399999999999,
+      "end": 717.36,
+      "speaker": "SPEAKER_01",
+      "text": "Great. Do you mind if I take a second? Actually, just tell me what you're thinking."
+    },
+    {
+      "start": 718.16,
+      "end": 724.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So the first thing I'm thinking is that marketing will play a big role here."
+    },
+    {
+      "start": 725.44,
+      "end": 733.28,
+      "speaker": "SPEAKER_01",
+      "text": "When I go into a gas station and buy a bottle of water, very rarely is one company going to offer"
+    },
+    {
+      "start": 734.0,
+      "end": 740.48,
+      "speaker": "SPEAKER_01",
+      "text": "a different taste or differentiation. So most of the times I'm just picking up brand that I identify"
+    },
+    {
+      "start": 740.48,
+      "end": 747.6,
+      "speaker": "SPEAKER_01",
+      "text": "with. And then within that is also a quantity sold. So some companies are going to be selling very"
+    },
+    {
+      "start": 747.6,
+      "end": 753.36,
+      "speaker": "SPEAKER_01",
+      "text": "high quantity of water for cheaper prices, whereas a company like Fiji is going to be selling"
+    },
+    {
+      "start": 754.88,
+      "end": 761.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "selling less units, but for higher prices there. And then also within that is just the relationships"
+    },
+    {
+      "start": 761.92,
+      "end": 770.88,
+      "speaker": "SPEAKER_01",
+      "text": "these distributors have with retail, retail partners. So the more distribution channels they have,"
+    },
+    {
+      "start": 770.88,
+      "end": 778.88,
+      "speaker": "SPEAKER_01",
+      "text": "like if I'm in supermarkets throughout the United States, then I will most likely have higher sales"
+    },
+    {
+      "start": 778.88,
+      "end": 784.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "than of another company who is just within liquor stores in the United States if that makes sense."
+    },
+    {
+      "start": 784.9599999999999,
+      "end": 790.8,
+      "speaker": "SPEAKER_00",
+      "text": "Yep. So just to recap though, we're not any of those brands. We're selling to the brands."
+    },
+    {
+      "start": 791.3599999999999,
+      "end": 795.92,
+      "speaker": "SPEAKER_00",
+      "text": "We make the bottles. So we take the raw plastic and we make the bottles for the brands. So does"
+    },
+    {
+      "start": 795.92,
+      "end": 802.24,
+      "speaker": "SPEAKER_00",
+      "text": "does the same thing hold true when you think about the market? Definitely not. I would say that"
+    },
+    {
+      "start": 803.04,
+      "end": 811.28,
+      "speaker": "SPEAKER_01",
+      "text": "for just the raw bottles, it really comes down to our unit cost of manufacturing I would say."
+    },
+    {
+      "start": 811.5999999999999,
+      "end": 817.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "And also our relationships with those distributors, the better relationships we have, the more"
+    },
+    {
+      "start": 818.08,
+      "end": 820.6400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "the more bottled water we're going to be able to sell to them."
+    },
+    {
+      "start": 822.88,
+      "end": 828.72,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good. Well, we want to size the market. Okay. How would we do that? You don't have to come"
+    },
+    {
+      "start": 828.72,
+      "end": 831.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "up with the numbers. I do have numbers for you, but tell me how you would actually do the sizing."
+    },
+    {
+      "start": 832.5600000000001,
+      "end": 838.88,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great. And this is for Latin America, United States and Canada. Yeah. Okay."
+    },
+    {
+      "start": 838.88,
+      "end": 846.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Western hemisphere. Got it. So the first way I would go about it most likely is taking the"
+    },
+    {
+      "start": 846.56,
+      "end": 852.88,
+      "speaker": "SPEAKER_00",
+      "text": "population. Okay. And then you don't have to do any numbers. I've got data for you, but just"
+    },
+    {
+      "start": 852.88,
+      "end": 858.8,
+      "speaker": "SPEAKER_01",
+      "text": "tell me how you would structure it. Okay. So I take the population and then going off of the"
+    },
+    {
+      "start": 858.8,
+      "end": 867.76,
+      "speaker": "SPEAKER_01",
+      "text": "population, I would think about the amount of consumption. Okay. That's each that people are going"
+    },
+    {
+      "start": 867.76,
+      "end": 874.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "to consume in water bottles. Okay. And so since not everyone is going to be drinking water as their"
+    },
+    {
+      "start": 874.08,
+      "end": 879.12,
+      "speaker": "SPEAKER_01",
+      "text": "beverage of choice, that could be a little fragmented, but I'm assuming a lot of people are still"
+    },
+    {
+      "start": 879.12,
+      "end": 886.0,
+      "speaker": "SPEAKER_01",
+      "text": "going to be drinking enough water. So maybe maybe doing a usage amount of bottles per person. Okay."
+    },
+    {
+      "start": 886.5600000000001,
+      "end": 890.88,
+      "speaker": "SPEAKER_01",
+      "text": "And then once finding the amount of bottles per person, I can"
+    },
+    {
+      "start": 892.32,
+      "end": 899.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "multiply that by amount of bottles per person maybe per day. And then we'll"
+    },
+    {
+      "start": 899.28,
+      "end": 905.5999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "that by the amount of days in a year. Sounds good. And then once I have that, I can multiply it by price,"
+    },
+    {
+      "start": 907.12,
+      "end": 911.92,
+      "speaker": "SPEAKER_01",
+      "text": "average price per bottle to get the total market size for the year. Okay. That sounds good."
+    },
+    {
+      "start": 911.92,
+      "end": 917.8399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So and again, we're this is a little bit weird because we're not sizing the end use, we're sizing"
+    },
+    {
+      "start": 917.8399999999999,
+      "end": 922.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "the market for these bottles. So our price is going to be our price that we're selling them to,"
+    },
+    {
+      "start": 922.72,
+      "end": 930.72,
+      "speaker": "SPEAKER_00",
+      "text": "the actual branders for, right? And so I do have some data for you that kind of ties into that."
+    },
+    {
+      "start": 931.52,
+      "end": 938.48,
+      "speaker": "SPEAKER_00",
+      "text": "I've got we have 80 leaders per capita per year are consumed in bottled water in the US annually."
+    },
+    {
+      "start": 941.76,
+      "end": 947.76,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. The average size of a bottle is 0.25 liters."
+    },
+    {
+      "start": 947.92,
+      "end": 959.2,
+      "speaker": "SPEAKER_00",
+      "text": "The Latin American population multiplier is two. And then Latin has an economic discount of one third."
+    },
+    {
+      "start": 960.48,
+      "end": 965.68,
+      "speaker": "SPEAKER_00",
+      "text": "And I'll explain this to you really quickly. So the population multiplier is the size of the"
+    },
+    {
+      "start": 965.68,
+      "end": 970.08,
+      "speaker": "SPEAKER_00",
+      "text": "Latin population versus the US. So we can get the total population. And then the economic"
+    },
+    {
+      "start": 970.08,
+      "end": 974.96,
+      "speaker": "SPEAKER_00",
+      "text": "discount is that not everyone buys as many water bottles in Latin America as they do in the US."
+    },
+    {
+      "start": 975.9200000000001,
+      "end": 979.36,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Great. Do you mind if I recap that?"
+    },
+    {
+      "start": 979.36,
+      "end": 988.72,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, absolutely. So the 80 leaders per capita per year is that per capita would be the"
+    },
+    {
+      "start": 989.9200000000001,
+      "end": 996.32,
+      "speaker": "SPEAKER_00",
+      "text": "population for an area. So per capita is per head, yeah per person. So and basically the per"
+    },
+    {
+      "start": 996.32,
+      "end": 1001.0400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "capita number is like what you said was you want population in the amount of consumption per person"
+    },
+    {
+      "start": 1001.04,
+      "end": 1004.88,
+      "speaker": "SPEAKER_00",
+      "text": "per day per year. But of course there's fluctuations in that. So that just gives us the"
+    },
+    {
+      "start": 1004.88,
+      "end": 1008.56,
+      "speaker": "SPEAKER_00",
+      "text": "average of the total population without having to figure out the percentage of the down."
+    },
+    {
+      "start": 1009.28,
+      "end": 1015.36,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. That makes sense. And then so we know that water bottles is 0.25 liters. And then"
+    },
+    {
+      "start": 1016.48,
+      "end": 1020.9599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "should we assume a population for the United States of 300 million? 320 would be good."
+    },
+    {
+      "start": 1021.52,
+      "end": 1026.0,
+      "speaker": "SPEAKER_01",
+      "text": "320 million? Great. And is that for all North America?"
+    },
+    {
+      "start": 1026.8,
+      "end": 1028.64,
+      "speaker": "SPEAKER_00",
+      "text": "Just for the US. Okay."
+    },
+    {
+      "start": 1032.16,
+      "end": 1039.36,
+      "speaker": "SPEAKER_01",
+      "text": "Great. And then the one third is the amount of bottles for just"
+    },
+    {
+      "start": 1042.64,
+      "end": 1046.32,
+      "speaker": "SPEAKER_00",
+      "text": "I'm sorry, I missed the one third. Yeah, the one third is the economic, we call it the economic"
+    },
+    {
+      "start": 1046.32,
+      "end": 1051.44,
+      "speaker": "SPEAKER_00",
+      "text": "discount. So it's basically like because many of the Latin American markets have different"
+    },
+    {
+      "start": 1051.44,
+      "end": 1056.96,
+      "speaker": "SPEAKER_00",
+      "text": "purchase patterns and are also at a different development level than the US. Only about a third"
+    },
+    {
+      "start": 1056.96,
+      "end": 1061.44,
+      "speaker": "SPEAKER_00",
+      "text": "of the number of bottles are consumed in Latin America per capita versus the US."
+    },
+    {
+      "start": 1062.16,
+      "end": 1067.52,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So it's fair to assume that the 80 liters per capita is for the US."
+    },
+    {
+      "start": 1067.52,
+      "end": 1071.76,
+      "speaker": "SPEAKER_01",
+      "text": "Correct. Yeah. Great. Do you mind if I tell you a second to organize this and I'll come back"
+    },
+    {
+      "start": 1071.76,
+      "end": 1075.04,
+      "speaker": "SPEAKER_00",
+      "text": "to walk you through? Sounds good. I just want to make sure you got all the data. Just make"
+    },
+    {
+      "start": 1075.04,
+      "end": 1080.96,
+      "speaker": "SPEAKER_01",
+      "text": "sure you got all of it really quickly for me. Okay. 80 liters per capita per year in the United"
+    },
+    {
+      "start": 1080.96,
+      "end": 1093.28,
+      "speaker": "SPEAKER_01",
+      "text": "States. Yep. And then we have 0.25 liters per bottle on average. Okay. Great. And then 320 million"
+    },
+    {
+      "start": 1093.28,
+      "end": 1098.88,
+      "speaker": "SPEAKER_01",
+      "text": "people in the United States. And then for Latin America, we'll multiply that by two to get the"
+    },
+    {
+      "start": 1098.88,
+      "end": 1104.08,
+      "speaker": "SPEAKER_01",
+      "text": "Latin American population. Yep. And then we know the economic discount in Latin America is one third."
+    },
+    {
+      "start": 1104.08,
+      "end": 1110.4,
+      "speaker": "SPEAKER_01",
+      "text": "So out of those 80 liters per capita in the United States, it's going to be one third that for Latin"
+    },
+    {
+      "start": 1110.4,
+      "end": 1113.44,
+      "speaker": "SPEAKER_00",
+      "text": "America. Great. I don't think you have to organize it. Just talk me through it now."
+    },
+    {
+      "start": 1115.68,
+      "end": 1122.24,
+      "speaker": "SPEAKER_01",
+      "text": "So what I'm going to do is first, I need to find out"
+    },
+    {
+      "start": 1124.24,
+      "end": 1128.24,
+      "speaker": "SPEAKER_01",
+      "text": "80, I would first want to do 80 times one third. Okay."
+    },
+    {
+      "start": 1128.24,
+      "end": 1134.48,
+      "speaker": "SPEAKER_01",
+      "text": "So out that capita per year per for Latin America. Sounds good."
+    },
+    {
+      "start": 1135.2,
+      "end": 1146.64,
+      "speaker": "SPEAKER_01",
+      "text": "So it's going to be 20, 20, 24 or 23 liters per capita. Okay."
+    },
+    {
+      "start": 1148.56,
+      "end": 1154.64,
+      "speaker": "SPEAKER_00",
+      "text": "The yeah, that sounds about right. Mm-hmm. About one third. Okay. So 20, 24 is okay."
+    },
+    {
+      "start": 1156.16,
+      "end": 1161.28,
+      "speaker": "SPEAKER_00",
+      "text": "Is it 24? What's the third of 80? Uh, the third of 80 is"
+    },
+    {
+      "start": 1165.04,
+      "end": 1172.88,
+      "speaker": "SPEAKER_00",
+      "text": "23.3. I think that's 30. I'm like, I'm 30 percent. It's a little higher."
+    },
+    {
+      "start": 1174.4,
+      "end": 1185.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So like 24. Yeah. Yeah. It's like 26. About 26. Okay. Okay. So 26 liters per capita there."
+    },
+    {
+      "start": 1185.12,
+      "end": 1196.4799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Okay. Great. And then I will have to find out how many bottles now?"
+    },
+    {
+      "start": 1197.04,
+      "end": 1205.28,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Put it up per year. So finding 20, 0.25 of 80 for the United States."
+    },
+    {
+      "start": 1206.7199999999998,
+      "end": 1208.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Just double check and make sure that that's what you want to do."
+    },
+    {
+      "start": 1209.0400000000002,
+      "end": 1214.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Mm-hmm. We're trying to find, um, so we're trying to find per bottle."
+    },
+    {
+      "start": 1217.6000000000001,
+      "end": 1222.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "You know, we're trying to find the total market, about total market sites and per bottle, correct?"
+    },
+    {
+      "start": 1223.0400000000002,
+      "end": 1231.5200000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, we are. But exactly. But if you, if you multiply 80 times 0.25, does that give us the number of bottles?"
+    },
+    {
+      "start": 1232.48,
+      "end": 1240.24,
+      "speaker": "SPEAKER_01",
+      "text": "Try that and see if it makes sense. I mean, yeah. Sorry. I worded that wrong. I mean, dividing."
+    },
+    {
+      "start": 1241.44,
+      "end": 1242.8,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. That makes sense now."
+    },
+    {
+      "start": 1242.8,
+      "end": 1245.76,
+      "speaker": "SPEAKER_01",
+      "text": "The 320 bottles per capita. Okay. Sounds good."
+    },
+    {
+      "start": 1248.16,
+      "end": 1255.44,
+      "speaker": "SPEAKER_01",
+      "text": "And then doing, going through the same process for, uh, for Latin America, it's basically all you"
+    },
+    {
+      "start": 1255.44,
+      "end": 1258.16,
+      "speaker": "SPEAKER_01",
+      "text": "can do is just multiply 26 by four. Okay."
+    },
+    {
+      "start": 1262.0,
+      "end": 1267.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Which is 104 liters or bottles per capita? Okay. Okay."
+    },
+    {
+      "start": 1269.28,
+      "end": 1278.4,
+      "speaker": "SPEAKER_01",
+      "text": "And should we be factoring Canada? Probably so. Okay. Do we have any, uh, numbers on their"
+    },
+    {
+      "start": 1278.4,
+      "end": 1285.2800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "population? Yeah, we do. Um, we, they're, they're like, um, between 30 and 35 million in Canada,"
+    },
+    {
+      "start": 1285.2800000000002,
+      "end": 1290.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "but just for ease of calculation, we can assume 30. Okay. 30. And then they're, I'm assuming they're"
+    },
+    {
+      "start": 1290.5600000000002,
+      "end": 1295.68,
+      "speaker": "SPEAKER_01",
+      "text": "the same leaders per capita per year as the United States. That's reasonable. Canada is a little"
+    },
+    {
+      "start": 1295.68,
+      "end": 1301.0400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "bit more environmentally friendly, but we can assume that it's close. Okay. They're filling up their,"
+    },
+    {
+      "start": 1301.8400000000001,
+      "end": 1303.2,
+      "speaker": "SPEAKER_01",
+      "text": "their jugs. That's right."
+    },
+    {
+      "start": 1308.5600000000002,
+      "end": 1309.3600000000001,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1311.3600000000001,
+      "end": 1314.88,
+      "speaker": "SPEAKER_01",
+      "text": "So what I'm going to do here is a very similar process. I'm going to think that, um,"
+    },
+    {
+      "start": 1316.88,
+      "end": 1323.2,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to say the 80 liters and then multiply that by, uh, four. So I get 320 bottles per capita"
+    },
+    {
+      "start": 1323.2,
+      "end": 1331.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "for Canada. Okay. So then now I have bottles per capita for the United States, Latin America,"
+    },
+    {
+      "start": 1331.04,
+      "end": 1339.2,
+      "speaker": "SPEAKER_01",
+      "text": "and Canada. Okay. And I will now multiply that by the total population numbers. Okay."
+    },
+    {
+      "start": 1339.2,
+      "end": 1344.24,
+      "speaker": "SPEAKER_01",
+      "text": "And I'll have the bottles per per year for each population. Okay. Sounds good."
+    },
+    {
+      "start": 1346.6399999999999,
+      "end": 1355.04,
+      "speaker": "SPEAKER_01",
+      "text": "So 320 and multiply it by 320 million. Yeah. I'm going to take a second to run through the numbers."
+    },
+    {
+      "start": 1355.04,
+      "end": 1362.24,
+      "speaker": "SPEAKER_00",
+      "text": "I don't have to go through each one. I really, I like it when you go through them. Yeah."
+    },
+    {
+      "start": 1363.6,
+      "end": 1368.0,
+      "speaker": "SPEAKER_00",
+      "text": "I do. I do. Okay. So it's like, because you don't want to."
+    },
+    {
+      "start": 1370.6399999999999,
+      "end": 1380.24,
+      "speaker": "SPEAKER_01",
+      "text": "It's okay. Uh, so I will take, so, I've 320 million. So I'm going to take out that million to the side."
+    },
+    {
+      "start": 1380.24,
+      "end": 1387.6,
+      "speaker": "SPEAKER_01",
+      "text": "And then two more zeros. So I'm just going to do 32 times 32 to make it easier. Okay."
+    },
+    {
+      "start": 1397.6,
+      "end": 1402.48,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Great. So I need to add back zeros."
+    },
+    {
+      "start": 1402.8,
+      "end": 1403.68,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 1403.68,
+      "end": 1413.6,
+      "speaker": "SPEAKER_01",
+      "text": "So right here, I, I believe it is going to be, um,"
+    },
+    {
+      "start": 1416.8,
+      "end": 1426.24,
+      "speaker": "SPEAKER_00",
+      "text": "102 trillion dollars or trillion bottles. Okay. Is it, what is it, what is the number that we're multiplying?"
+    },
+    {
+      "start": 1427.2,
+      "end": 1430.48,
+      "speaker": "SPEAKER_01",
+      "text": "We're multiplying 320 million by 320. Okay."
+    },
+    {
+      "start": 1431.92,
+      "end": 1435.6,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. And so, um, so just want me to prove the math. Let's just make sure it's right."
+    },
+    {
+      "start": 1436.64,
+      "end": 1447.44,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So I have 300. So I have the 320 million. Okay. And so that's six zeros. Okay."
+    },
+    {
+      "start": 1448.56,
+      "end": 1455.76,
+      "speaker": "SPEAKER_01",
+      "text": "And then I have my two zeros with 320, the 320s. Okay. So taking those two zeros out,"
+    },
+    {
+      "start": 1456.96,
+      "end": 1468.32,
+      "speaker": "SPEAKER_01",
+      "text": "uh, now I'm going to multiply 32 by 32. Okay. Which gave me 1024. Okay. Okay. Uh, so now I have one K."
+    },
+    {
+      "start": 1469.76,
+      "end": 1477.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And then I'm going to have to add back my million and zeros. Okay. Which is going to give me, uh,"
+    },
+    {
+      "start": 1477.92,
+      "end": 1483.92,
+      "speaker": "SPEAKER_01",
+      "text": "a billion. So it's going to be 102 billion. Wait, is the billion, is the billion trillion?"
+    },
+    {
+      "start": 1484.88,
+      "end": 1493.92,
+      "speaker": "SPEAKER_00",
+      "text": "I believe it's been, how many zeros do we have? A lot of zeros. That is definitely true."
+    },
+    {
+      "start": 1493.92,
+      "end": 1501.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "That's one thing I know. But I know we have, uh, six, eight, we have 11 zeros. Okay."
+    },
+    {
+      "start": 1504.64,
+      "end": 1509.68,
+      "speaker": "SPEAKER_00",
+      "text": "I think, um, so, so, so tell me what your answer is. And then if you want to, you can do one of"
+    },
+    {
+      "start": 1509.68,
+      "end": 1516.72,
+      "speaker": "SPEAKER_01",
+      "text": "the other ones and verify it. Okay. I'm going to say, I mean, 102 trillion seems like a lot,"
+    },
+    {
+      "start": 1516.72,
+      "end": 1521.68,
+      "speaker": "SPEAKER_01",
+      "text": "especially if you're selling a bottle out of dollar, like, let's just say it was a dollar bottle."
+    },
+    {
+      "start": 1522.72,
+      "end": 1526.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Sure, then the GDP's of pretty much all those countries can buy,"
+    },
+    {
+      "start": 1528.16,
+      "end": 1534.4,
+      "speaker": "SPEAKER_01",
+      "text": "country, mine says to be, um, so I think I may have added a couple zeros in here personally."
+    },
+    {
+      "start": 1534.5600000000002,
+      "end": 1541.52,
+      "speaker": "SPEAKER_00",
+      "text": "Just just bonus zeros. Zeroes to Adam. Uh, so I think it's just going to be, so let's do,"
+    },
+    {
+      "start": 1541.52,
+      "end": 1545.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "let's do some of the other ones. And let's see if we can get relative size maybe it's a little bit easier."
+    },
+    {
+      "start": 1546.4,
+      "end": 1554.88,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Great. Uh, so we have 102 104 bottles per capita per year in Latin America."
+    },
+    {
+      "start": 1556.4,
+      "end": 1561.68,
+      "speaker": "SPEAKER_01",
+      "text": "And we'll multiply that by 640 million. Okay."
+    },
+    {
+      "start": 1565.0400000000002,
+      "end": 1571.2800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "And I'm trying to think of it easier way to do this. I think I may, maybe, it may be easier for me to"
+    },
+    {
+      "start": 1571.2800000000002,
+      "end": 1591.52,
+      "speaker": "SPEAKER_01",
+      "text": "deal with the 40 million later in this, uh, this example. Okay. Just use the 600 multiply it by 104."
+    },
+    {
+      "start": 1595.2,
+      "end": 1601.2800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "It's going to give me, uh, 62,400, around 62,000."
+    },
+    {
+      "start": 1604.0800000000002,
+      "end": 1607.2800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "And then I self to multiply the 40 million by 104,"
+    },
+    {
+      "start": 1610.3200000000002,
+      "end": 1619.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "which will give me around 400 million. Okay. So until I could just make that easy on my sub-auto,"
+    },
+    {
+      "start": 1619.36,
+      "end": 1628.08,
+      "speaker": "SPEAKER_01",
+      "text": "giving it, giving around 400 million bottles. Okay. So now you have millions there and, and, um,"
+    },
+    {
+      "start": 1628.08,
+      "end": 1635.12,
+      "speaker": "SPEAKER_00",
+      "text": "and billions and the other side. Does that make sense? No, it doesn't make sense. Uh,"
+    },
+    {
+      "start": 1636.7199999999998,
+      "end": 1643.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "so I mean, just taking it high level, like 300 million times 300 would be around 900 million."
+    },
+    {
+      "start": 1644.64,
+      "end": 1650.16,
+      "speaker": "SPEAKER_01",
+      "text": "So then, if I'm being it up a little bit, obviously, because you have, uh, the, the 20s on the end,"
+    },
+    {
+      "start": 1650.16,
+      "end": 1655.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "I would say it's around 1.2 billion is what I was trying to go for there. Okay. So, so, so,"
+    },
+    {
+      "start": 1655.8400000000001,
+      "end": 1661.44,
+      "speaker": "SPEAKER_01",
+      "text": "I'm just going to recap up where we are right now. Okay. So for the United States, we have 1.2 billion"
+    },
+    {
+      "start": 1661.44,
+      "end": 1670.4,
+      "speaker": "SPEAKER_01",
+      "text": "bottles sold in Latin America. We have 400 million. Okay. And then for, well, Latin America is a third"
+    },
+    {
+      "start": 1670.4,
+      "end": 1680.64,
+      "speaker": "SPEAKER_00",
+      "text": "of the size, but what about the population multiplier? What did you use as the population of Latin America?"
+    },
+    {
+      "start": 1680.64,
+      "end": 1688.48,
+      "speaker": "SPEAKER_01",
+      "text": "I used, I used, uh, 640. Okay. I just wanted to make it. It's 6, so it's 640 million around."
+    },
+    {
+      "start": 1690.3200000000002,
+      "end": 1698.5600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "And then for Canada, we have 30 million people times three and 20 bottles. Okay. For, for"
+    },
+    {
+      "start": 1698.56,
+      "end": 1707.2,
+      "speaker": "SPEAKER_01",
+      "text": "capital. Can you give us a shortcut for that one? Yeah. So 300 times 30, or 3 million times 30, we"
+    },
+    {
+      "start": 1707.2,
+      "end": 1718.48,
+      "speaker": "SPEAKER_01",
+      "text": "give us around, uh, 180 million. Okay. There. So in silly, my thought, Ross is here is that the United"
+    },
+    {
+      "start": 1718.48,
+      "end": 1726.3999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "States market is larger than the Latin American and Canadian market combined. Okay. And the Latin"
+    },
+    {
+      "start": 1726.4,
+      "end": 1732.4,
+      "speaker": "SPEAKER_01",
+      "text": "American market is also pretty large, but it seems like the economic, the economic discount is"
+    },
+    {
+      "start": 1732.4,
+      "end": 1739.2,
+      "speaker": "SPEAKER_01",
+      "text": "really holding that market back. So I do know the Latin American market is kind of growing in their"
+    },
+    {
+      "start": 1739.2,
+      "end": 1746.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "economic power as well. Okay. Great. So do we have a total market size of water bottles? Yes. Do we"
+    },
+    {
+      "start": 1746.5600000000002,
+      "end": 1754.96,
+      "speaker": "SPEAKER_00",
+      "text": "have pricing data about you? We do. And I've got three segments at the market. So we've got"
+    },
+    {
+      "start": 1755.04,
+      "end": 1760.16,
+      "speaker": "SPEAKER_00",
+      "text": "large water bottles that are those kinds that you would see in offices, the big five gallon guys,"
+    },
+    {
+      "start": 1760.16,
+      "end": 1765.44,
+      "speaker": "SPEAKER_00",
+      "text": "or larger, um, 10% of the market. And those, the price is 45 cents per bottle."
+    },
+    {
+      "start": 1767.1200000000001,
+      "end": 1772.48,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. For medium, it's 20% of the market. And the price of those is 25 cents per bottle."
+    },
+    {
+      "start": 1774.56,
+      "end": 1781.28,
+      "speaker": "SPEAKER_00",
+      "text": "And for the small, it's, um, 70% of the market. And the price for those is 10% 10 cents per bottle."
+    },
+    {
+      "start": 1781.84,
+      "end": 1790.32,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Great. And is it fair to assume these percentages are even, are they hold the same throughout"
+    },
+    {
+      "start": 1790.32,
+      "end": 1797.44,
+      "speaker": "SPEAKER_00",
+      "text": "the markets? Um, yeah. So, um, I think that that's fair to assume even though it wouldn't be perfect,"
+    },
+    {
+      "start": 1797.44,
+      "end": 1803.92,
+      "speaker": "SPEAKER_01",
+      "text": "but for the purposes of the case, yes. Okay. Great. So my thought browser is here is adding up all the"
+    },
+    {
+      "start": 1803.92,
+      "end": 1819.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "bottles to get the bottles. So I added 1.2 billion plus 640 million, which gave me 1.84 billion."
+    },
+    {
+      "start": 1820.24,
+      "end": 1831.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "And then I added 180 million to the 1.84. Okay. To give me, uh, around 2.2 billion. Okay."
+    },
+    {
+      "start": 1832.48,
+      "end": 1840.48,
+      "speaker": "SPEAKER_01",
+      "text": "Bottles sold. And then the first thing I'm going to have to do here is multiply by the percentages"
+    },
+    {
+      "start": 1840.48,
+      "end": 1845.36,
+      "speaker": "SPEAKER_01",
+      "text": "of each segment, large, medium and small. Okay. At the total bottle sold in each."
+    },
+    {
+      "start": 1847.1999999999998,
+      "end": 1860.0,
+      "speaker": "SPEAKER_01",
+      "text": "So for large, I have 220 million, 10% times 2.2 billion. Okay. For medium, I have 20% of 2.2 billion,"
+    },
+    {
+      "start": 1860.0,
+      "end": 1869.6,
+      "speaker": "SPEAKER_01",
+      "text": "which is going to be 440 million. Okay. And then I have 70% in the small section, which will be"
+    },
+    {
+      "start": 1869.6,
+      "end": 1888.4,
+      "speaker": "SPEAKER_01",
+      "text": "the leftovers of the 220 and 440 million. Which will give me, um, around 1.5 billion. Is that fair,"
+    },
+    {
+      "start": 1889.1200000000001,
+      "end": 1893.2800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "a fair estimate there? Um, 1.5 billion is that you said is the total number?"
+    },
+    {
+      "start": 1893.2800000000002,
+      "end": 1898.72,
+      "speaker": "SPEAKER_00",
+      "text": "Mm-hmm. Bottles for small, the small market. Oh, gosh, uh, gotcha. Um, 1.5 billion in terms of bottles"
+    },
+    {
+      "start": 1898.72,
+      "end": 1904.0800000000002,
+      "speaker": "SPEAKER_00",
+      "text": "or revenue, sorry. Mm-hmm. Bottles, bottles. I still think I could have the price. Yeah. Um, that seems"
+    },
+    {
+      "start": 1904.0800000000002,
+      "end": 1910.5600000000002,
+      "speaker": "SPEAKER_00",
+      "text": "reasonable. Mm-hmm. Okay. Sorry, you said 10%. Um, Billy, I need to just go back really quickly and"
+    },
+    {
+      "start": 1910.5600000000002,
+      "end": 1915.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "make sure I got the numbers. So what did you say the total bottle number is? So the total bottle"
+    },
+    {
+      "start": 1915.36,
+      "end": 1920.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "market for the whole market is 2.2 billion? 2.2 billion. I think it's bigger than that."
+    },
+    {
+      "start": 1922.0,
+      "end": 1926.4799999999998,
+      "speaker": "SPEAKER_00",
+      "text": "I think it's bigger than that. So just, sorry, because I thought we said that we had 102 billion"
+    },
+    {
+      "start": 1926.4799999999998,
+      "end": 1936.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "for the US. Okay. So, okay, I'm gonna say, uh, let's calculate that wrong. So 102 billion for the US,"
+    },
+    {
+      "start": 1936.72,
+      "end": 1946.0800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "and it was 640 million for Latin America? I think it was 64 billion. Okay. For Latin America?"
+    },
+    {
+      "start": 1946.0800000000002,
+      "end": 1953.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "They're there. Okay. And then it's 18 billion for Canada. Um, I think that one, so I think that's"
+    },
+    {
+      "start": 1953.8400000000001,
+      "end": 1962.16,
+      "speaker": "SPEAKER_00",
+      "text": "like close to 10% of the US. So that seems off. Okay. So the 10 billion. I think that's a good proxy."
+    },
+    {
+      "start": 1963.0400000000002,
+      "end": 1966.72,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Great. And then adding those up."
+    },
+    {
+      "start": 1972.5600000000002,
+      "end": 1978.8000000000002,
+      "speaker": "SPEAKER_00",
+      "text": "176 billion. Total bottles. Sounds good. Yeah, we can make it 180. Okay, 180."
+    },
+    {
+      "start": 1980.16,
+      "end": 1986.72,
+      "speaker": "SPEAKER_01",
+      "text": "And then for the large bottles, we have 18 billion."
+    },
+    {
+      "start": 1987.44,
+      "end": 1999.04,
+      "speaker": "SPEAKER_01",
+      "text": "And then, bottles, uh, medium, we have 36 billion. And the small, we have, uh, the leftover of that,"
+    },
+    {
+      "start": 1999.04,
+      "end": 2001.28,
+      "speaker": "SPEAKER_01",
+      "text": "which I will quickly calculate. Okay."
+    },
+    {
+      "start": 2016.8,
+      "end": 2022.24,
+      "speaker": "SPEAKER_01",
+      "text": "Like it's just 126 billion bottles in the smaller section. Okay."
+    },
+    {
+      "start": 2026.08,
+      "end": 2033.84,
+      "speaker": "SPEAKER_01",
+      "text": "So now I have to multiply, uh, 45 cents by 18 billion. So you get that, uh,"
+    },
+    {
+      "start": 2033.9199999999998,
+      "end": 2036.8,
+      "speaker": "SPEAKER_01",
+      "text": "right size. So"
+    },
+    {
+      "start": 2041.1999999999998,
+      "end": 2043.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "thinking about going about this is, uh,"
+    },
+    {
+      "start": 2046.9599999999998,
+      "end": 2054.88,
+      "speaker": "SPEAKER_01",
+      "text": "is if it were, uh, a dollar, a bottle, it would be 18 billion, but since, uh, it's 45 cents"
+    },
+    {
+      "start": 2054.88,
+      "end": 2061.92,
+      "speaker": "SPEAKER_01",
+      "text": "about half that. So I'm going to say that, um, if you don't mind me rounding to about 8 billion,"
+    },
+    {
+      "start": 2062.48,
+      "end": 2064.48,
+      "speaker": "SPEAKER_01",
+      "text": "a total market size. Sounds good."
+    },
+    {
+      "start": 2064.48,
+      "end": 2070.64,
+      "speaker": "SPEAKER_01",
+      "text": "market. And then for the medium, since it's multiplied by point,"
+    },
+    {
+      "start": 2070.64,
+      "end": 2075.84,
+      "speaker": "SPEAKER_01",
+      "text": "point two, five, 36 billion, it's about a quarter of that market or a quarter,"
+    },
+    {
+      "start": 2078.7200000000003,
+      "end": 2083.52,
+      "speaker": "SPEAKER_01",
+      "text": "I would divide a 36 billion by four to get nine billion. Okay. Yeah, I'm saying."
+    },
+    {
+      "start": 2084.0,
+      "end": 2084.8,
+      "speaker": "UNKNOWN",
+      "text": "Okay."
+    },
+    {
+      "start": 2084.8,
+      "end": 2094.72,
+      "speaker": "SPEAKER_01",
+      "text": "And then since the small market is only 10 cents a bottle, then I will take, uh,"
+    },
+    {
+      "start": 2094.72,
+      "end": 2101.7599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "10, 10% of 126 billion would be the total market for, uh, 100, for the small bottle market."
+    },
+    {
+      "start": 2101.7599999999998,
+      "end": 2106.56,
+      "speaker": "SPEAKER_01",
+      "text": "So that is, uh, 12.6 billion. Okay."
+    },
+    {
+      "start": 2106.56,
+      "end": 2111.2,
+      "speaker": "SPEAKER_00",
+      "text": "And I just wanted to check, do the large market for me one more time."
+    },
+    {
+      "start": 2111.8399999999997,
+      "end": 2116.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Because I'm, um, relatively, I have a little bit of a different answer. So I just want to make"
+    },
+    {
+      "start": 2116.3199999999997,
+      "end": 2124.3199999999997,
+      "speaker": "SPEAKER_01",
+      "text": "sure that we're on the right page there. Okay. Great. So, um, I have 18 billion bottle sold."
+    },
+    {
+      "start": 2125.2,
+      "end": 2134.56,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. And 45 cents a bottle. And so I did rounding. So I, I said that 18 billion times 50 cents"
+    },
+    {
+      "start": 2134.56,
+      "end": 2145.68,
+      "speaker": "SPEAKER_01",
+      "text": "would be nine billion. Okay. 18 billion times 40 cents, uh, would be around, uh, around seven point"
+    },
+    {
+      "start": 2145.68,
+      "end": 2150.4,
+      "speaker": "SPEAKER_01",
+      "text": "five billion. Okay. So I figured that eight billion would be a fair market side. There we go. That's"
+    },
+    {
+      "start": 2150.4,
+      "end": 2155.12,
+      "speaker": "SPEAKER_00",
+      "text": "good. Okay. Perfect. Thanks. All right. So I've got some other data for you."
+    },
+    {
+      "start": 2155.12,
+      "end": 2161.84,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. Um, and I'm going to give you a little context for this. So, um, a bubble bottles is the"
+    },
+    {
+      "start": 2161.84,
+      "end": 2167.36,
+      "speaker": "SPEAKER_00",
+      "text": "second largest player in the market. There's one more player with twice the revenues, one with a third"
+    },
+    {
+      "start": 2167.36,
+      "end": 2172.4,
+      "speaker": "SPEAKER_00",
+      "text": "of the revenues, and the rest of the market is fragmented. And bubble bottles serves the water bottle"
+    },
+    {
+      "start": 2172.4,
+      "end": 2179.44,
+      "speaker": "SPEAKER_00",
+      "text": "market only. So competitors serve other segments besides water bottles. Now bubble bottles has"
+    },
+    {
+      "start": 2179.44,
+      "end": 2183.6800000000003,
+      "speaker": "SPEAKER_00",
+      "text": "expertise in design as well as mainly factoring. They don't do, as I mentioned before, direct"
+    },
+    {
+      "start": 2183.6800000000003,
+      "end": 2191.36,
+      "speaker": "SPEAKER_00",
+      "text": "distribution to retail customers and have never built their own brand. So if I told you that they're,"
+    },
+    {
+      "start": 2191.36,
+      "end": 2195.6,
+      "speaker": "SPEAKER_00",
+      "text": "I've got profit margins for each of the segments, which we did ask for before that kind of cost"
+    },
+    {
+      "start": 2195.6,
+      "end": 2203.1200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "pre-units, and the number of accounts. I'm interested in identifying, um, whether you think that any one"
+    },
+    {
+      "start": 2203.1200000000003,
+      "end": 2209.28,
+      "speaker": "SPEAKER_00",
+      "text": "of the three segments, the large medium and the small is the largest opportunity for growth. All right."
+    },
+    {
+      "start": 2209.28,
+      "end": 2217.44,
+      "speaker": "SPEAKER_00",
+      "text": "So the profit margin for the large is 35%. The profit margin for medium is 25%. And the profit"
+    },
+    {
+      "start": 2217.44,
+      "end": 2228.4,
+      "speaker": "SPEAKER_00",
+      "text": "margin for small is 15%. The number of total accounts, we've got 15 large, 40 medium and 225 small."
+    },
+    {
+      "start": 2230.16,
+      "end": 2236.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "We've got two, um, we have two accounts with the large. So that's the total number of accounts that"
+    },
+    {
+      "start": 2236.7200000000003,
+      "end": 2243.76,
+      "speaker": "SPEAKER_00",
+      "text": "exist in the market. The next number is our accounts. So we have two large accounts, 18 medium accounts,"
+    },
+    {
+      "start": 2243.76,
+      "end": 2254.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "and 125 small accounts. Okay. And then in the each of those segments, we have 1 billion, 2 billion,"
+    },
+    {
+      "start": 2254.0800000000004,
+      "end": 2263.36,
+      "speaker": "SPEAKER_00",
+      "text": "and 3 billion in revenue, respectively in each of the markets. Okay. Great. And I just have a few"
+    },
+    {
+      "start": 2263.36,
+      "end": 2268.6400000000003,
+      "speaker": "SPEAKER_01",
+      "text": "questions off of that. Yeah. With, so the 1 billion, 2 billion, 3 billion that goes from large to"
+    },
+    {
+      "start": 2268.64,
+      "end": 2275.92,
+      "speaker": "SPEAKER_01",
+      "text": "medium to small. That's right. Okay. And then the original, you mentioned the competitor market share"
+    },
+    {
+      "start": 2275.92,
+      "end": 2279.92,
+      "speaker": "SPEAKER_01",
+      "text": "early right away. I'm sorry. I didn't catch that. Yeah. So I didn't get their, I didn't say their"
+    },
+    {
+      "start": 2279.92,
+      "end": 2286.16,
+      "speaker": "SPEAKER_00",
+      "text": "market share. I just had the, um, I just said that we have one player with twice the revenues."
+    },
+    {
+      "start": 2286.72,
+      "end": 2291.2,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. One with a third of the revenues, and then the rest of the market is fragmented."
+    },
+    {
+      "start": 2292.08,
+      "end": 2298.3999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "So out of the three of those, Billy, which one should we focus our growth efforts on?"
+    },
+    {
+      "start": 2300.3999999999996,
+      "end": 2309.2799999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. So my initial thoughts here are that is that the large market, we only do 1 billion of revenue,"
+    },
+    {
+      "start": 2309.2799999999997,
+      "end": 2315.7599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "and we only have two of the 15 accounts. So there could be room for growth there. It seems like"
+    },
+    {
+      "start": 2315.76,
+      "end": 2322.0800000000004,
+      "speaker": "SPEAKER_01",
+      "text": "the small market we've really exhausted at this point. We have more than, the more than half of"
+    },
+    {
+      "start": 2322.0800000000004,
+      "end": 2327.44,
+      "speaker": "SPEAKER_01",
+      "text": "the counts in there as well, and the profit margins aren't as lucrative in that one. And the medium could"
+    },
+    {
+      "start": 2327.44,
+      "end": 2333.0400000000004,
+      "speaker": "SPEAKER_01",
+      "text": "also be a good option, but again, profit margins are there, and we're almost half of the market share"
+    },
+    {
+      "start": 2333.0400000000004,
+      "end": 2339.44,
+      "speaker": "SPEAKER_01",
+      "text": "as well. And do we know where competitors sit within these segments? We don't. I don't have to"
+    },
+    {
+      "start": 2339.52,
+      "end": 2346.8,
+      "speaker": "SPEAKER_01",
+      "text": "do it on that yet. Okay. Okay. Great. Uh, this makes, this makes a lot of sense. Um,"
+    },
+    {
+      "start": 2347.84,
+      "end": 2349.92,
+      "speaker": "SPEAKER_00",
+      "text": "what would you do in the large segment in particular?"
+    },
+    {
+      "start": 2352.7200000000003,
+      "end": 2359.92,
+      "speaker": "SPEAKER_01",
+      "text": "What are, what are strategy, uh, forward? Yeah. I think, you know, the number one thing would be to"
+    },
+    {
+      "start": 2360.8,
+      "end": 2367.28,
+      "speaker": "SPEAKER_01",
+      "text": "find out how we can, um, how we can take more accounts, because there's 13 that, uh, that are"
+    },
+    {
+      "start": 2367.28,
+      "end": 2374.1600000000003,
+      "speaker": "SPEAKER_01",
+      "text": "waiting there. And we, we only have two at this point. Okay. Awesome. Great. Well, our clients ready"
+    },
+    {
+      "start": 2374.1600000000003,
+      "end": 2381.0400000000004,
+      "speaker": "SPEAKER_00",
+      "text": "for a final answer. So what do you think about this market? Should we consider the purchase?"
+    },
+    {
+      "start": 2381.0400000000004,
+      "end": 2384.4,
+      "speaker": "SPEAKER_00",
+      "text": "Should we keep going? Should we cut it off? What do you think we should do at this point?"
+    },
+    {
+      "start": 2385.6800000000003,
+      "end": 2390.4,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah. I mean, obviously, I don't have a abundant amount of information, but if you're"
+    },
+    {
+      "start": 2390.4,
+      "end": 2395.6800000000003,
+      "speaker": "SPEAKER_01",
+      "text": "in mind, can I take a second and then present that's like, no, no seconds. Just die right in."
+    },
+    {
+      "start": 2396.32,
+      "end": 2404.88,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Great. So if our client is interested in, uh, purchasing this water bottle water"
+    },
+    {
+      "start": 2404.88,
+      "end": 2410.88,
+      "speaker": "SPEAKER_01",
+      "text": "manufacturer, I would say it seems like an interesting investment. Uh, and this is mainly due to the"
+    },
+    {
+      "start": 2410.88,
+      "end": 2417.28,
+      "speaker": "SPEAKER_01",
+      "text": "fact that there's a lot of room for growth in the large, uh, in the large water bottle market."
+    },
+    {
+      "start": 2417.28,
+      "end": 2423.44,
+      "speaker": "SPEAKER_01",
+      "text": "And profit margins are very high where we have already exhausted our potential growth in the"
+    },
+    {
+      "start": 2423.44,
+      "end": 2430.32,
+      "speaker": "SPEAKER_01",
+      "text": "smaller and medium markets by having half of the accounts there. So some, uh, some risks associated"
+    },
+    {
+      "start": 2430.32,
+      "end": 2435.92,
+      "speaker": "SPEAKER_01",
+      "text": "with this is the fact that the two largest accounts of our clients, uh, there's not much room for"
+    },
+    {
+      "start": 2435.92,
+      "end": 2442.0,
+      "speaker": "SPEAKER_01",
+      "text": "growth there. So that could hold us back in the long term, especially with only a four-year horizon,"
+    },
+    {
+      "start": 2442.88,
+      "end": 2448.0,
+      "speaker": "SPEAKER_01",
+      "text": "gaining that, if those additional accounts in the large segments, it could be an issue when we're"
+    },
+    {
+      "start": 2448.0,
+      "end": 2455.6,
+      "speaker": "SPEAKER_01",
+      "text": "trying to reach an IRR, most likely of 20%. And then, uh, lastly, some next steps would be to,"
+    },
+    {
+      "start": 2456.56,
+      "end": 2461.52,
+      "speaker": "SPEAKER_01",
+      "text": "you know, start auditing those relationships with the larger bottle manufacturers and seeing if"
+    },
+    {
+      "start": 2461.52,
+      "end": 2468.0,
+      "speaker": "SPEAKER_01",
+      "text": "there's, uh, potential value we can add to take over their current manufacturing, um, capabilities,"
+    },
+    {
+      "start": 2468.0,
+      "end": 2474.64,
+      "speaker": "SPEAKER_01",
+      "text": "and then also, uh, possibly embark on a marketing campaign, or not a marketing campaign, but a,"
+    },
+    {
+      "start": 2475.68,
+      "end": 2481.12,
+      "speaker": "SPEAKER_01",
+      "text": "um, figure out how we can manufacture the large bottles, uh, and figure out if we're going to need"
+    },
+    {
+      "start": 2481.12,
+      "end": 2486.16,
+      "speaker": "SPEAKER_01",
+      "text": "to add factories or we can do it within our current factory space. Sounds good to me. All right,"
+    },
+    {
+      "start": 2486.16,
+      "end": 2493.44,
+      "speaker": "SPEAKER_00",
+      "text": "Kelly, thank you. Okay, you can relax. How's the sweating going? Awful. That's so much sweating."
+    },
+    {
+      "start": 2493.44,
+      "end": 2501.28,
+      "speaker": "SPEAKER_00",
+      "text": "Um, so I have a lot of positive things to say about it. Obviously, the math is, is not going to be"
+    },
+    {
+      "start": 2501.28,
+      "end": 2505.84,
+      "speaker": "SPEAKER_00",
+      "text": "one of those, but we'll get to that when we're talking through the case. Um, but not that you"
+    },
+    {
+      "start": 2505.84,
+      "end": 2509.68,
+      "speaker": "SPEAKER_00",
+      "text": "necessarily did anything particularly wrong. I just think it's really easy to clean up what you"
+    },
+    {
+      "start": 2509.68,
+      "end": 2514.48,
+      "speaker": "SPEAKER_00",
+      "text": "did wrong. Um, and so it was the same things that kept getting you stuck. And so that's the good news"
+    },
+    {
+      "start": 2514.48,
+      "end": 2521.12,
+      "speaker": "SPEAKER_00",
+      "text": "is that I think it's a really fixable question. So first of all, you are so nice. You were smiling"
+    },
+    {
+      "start": 2521.2,
+      "end": 2525.6,
+      "speaker": "SPEAKER_00",
+      "text": "acting delighted as you were going through the case, even when I was pushing back on you in the"
+    },
+    {
+      "start": 2525.6,
+      "end": 2530.72,
+      "speaker": "SPEAKER_00",
+      "text": "math. And I really, I saw that not just in your demeanor, but also in your language. And I want to"
+    },
+    {
+      "start": 2530.72,
+      "end": 2535.2,
+      "speaker": "SPEAKER_00",
+      "text": "compliment you on that. Um, the opening of the case, you had a really great positive start."
+    },
+    {
+      "start": 2535.2,
+      "end": 2539.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "You confirmed, um, because I actually think as I was reading out the case, I might have started by"
+    },
+    {
+      "start": 2539.2799999999997,
+      "end": 2547.12,
+      "speaker": "SPEAKER_00",
+      "text": "saying, or client is, um, this, you know, um, is a bubble bottle. Um, and then you were like,"
+    },
+    {
+      "start": 2547.12,
+      "end": 2550.56,
+      "speaker": "SPEAKER_00",
+      "text": "oh, wait, hold on is the client bubble bottle or is it the private equity firm use? I think the"
+    },
+    {
+      "start": 2550.56,
+      "end": 2554.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "part of private equity firm. So that was just great clarification. It's exactly what you're supposed"
+    },
+    {
+      "start": 2554.3199999999997,
+      "end": 2558.64,
+      "speaker": "SPEAKER_00",
+      "text": "to do at the beginning. Um, and sometimes even your inner ears forget where the heck they are. So"
+    },
+    {
+      "start": 2558.64,
+      "end": 2562.7999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "well done on that. Um, the one thing that you kind of missed in the background that you didn't recap,"
+    },
+    {
+      "start": 2562.7999999999997,
+      "end": 2567.6,
+      "speaker": "SPEAKER_00",
+      "text": "that you didn't catch, and I don't know if you meant to recap it or you didn't catch it and you"
+    },
+    {
+      "start": 2567.6,
+      "end": 2571.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "didn't know to recap it was the segment piece. So I gave you those segments right at the very"
+    },
+    {
+      "start": 2571.84,
+      "end": 2577.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "beginning that there were three types of products, the small, the medium and the large, and that's a"
+    },
+    {
+      "start": 2577.2000000000003,
+      "end": 2582.6400000000003,
+      "speaker": "SPEAKER_00",
+      "text": "hint from your interviewer that they're usually trying to give you insight right away into a key"
+    },
+    {
+      "start": 2582.6400000000003,
+      "end": 2586.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "to the case. If they're going to give you client segments or if they're going to give you product"
+    },
+    {
+      "start": 2586.7200000000003,
+      "end": 2592.8,
+      "speaker": "SPEAKER_00",
+      "text": "segments. Um, and so, you know, just kind of keeping it funky right from the very beginning by focusing"
+    },
+    {
+      "start": 2592.8,
+      "end": 2596.88,
+      "speaker": "SPEAKER_00",
+      "text": "in on what you think those hints are, I think would have been helpful. Um, your question about the"
+    },
+    {
+      "start": 2596.88,
+      "end": 2601.52,
+      "speaker": "SPEAKER_00",
+      "text": "PE firms targets totally within realm. I liked it better when you said at the end that their targets"
+    },
+    {
+      "start": 2601.52,
+      "end": 2606.64,
+      "speaker": "SPEAKER_00",
+      "text": "probably 20% iron are higher. Um, and so if you, if you would have just said like, can I assume that"
+    },
+    {
+      "start": 2606.64,
+      "end": 2610.56,
+      "speaker": "SPEAKER_00",
+      "text": "that's what we're looking at, you know, or is there some other specific target I would have probably"
+    },
+    {
+      "start": 2610.56,
+      "end": 2616.48,
+      "speaker": "SPEAKER_00",
+      "text": "like to even more than getting up the case. Um, you, um, also just did a great job on timing. So your"
+    },
+    {
+      "start": 2616.48,
+      "end": 2621.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "whole first part of the case was well paced, not rushing, but also pretty good. So you opened the"
+    },
+    {
+      "start": 2621.7599999999998,
+      "end": 2627.68,
+      "speaker": "SPEAKER_00",
+      "text": "case in three minutes, including your clarifying questions. Um, and then, um, yeah, three minutes and"
+    },
+    {
+      "start": 2627.68,
+      "end": 2632.48,
+      "speaker": "SPEAKER_00",
+      "text": "45 seconds. So my guidance is under four. So well done. And then your structuring time was a"
+    },
+    {
+      "start": 2632.48,
+      "end": 2637.44,
+      "speaker": "SPEAKER_00",
+      "text": "minute and 44 seconds, which is also pretty good. And I thought your structure was pretty comprehensive."
+    },
+    {
+      "start": 2637.44,
+      "end": 2641.6,
+      "speaker": "SPEAKER_00",
+      "text": "You did a better job. This is pretty typical, but just pay attention to it. You did a better job"
+    },
+    {
+      "start": 2641.6,
+      "end": 2646.64,
+      "speaker": "SPEAKER_00",
+      "text": "of keeping it numbered and clear at the beginning. So your four categories and then your first four"
+    },
+    {
+      "start": 2646.64,
+      "end": 2651.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "buckets. And then after that, it started to go paragraphy on me. So keep that kind of very rigorous"
+    },
+    {
+      "start": 2651.8399999999997,
+      "end": 2656.3999999999996,
+      "speaker": "SPEAKER_00",
+      "text": "right number one and number two. So I had three things in the first category check, check, check,"
+    },
+    {
+      "start": 2657.04,
+      "end": 2661.44,
+      "speaker": "SPEAKER_00",
+      "text": "two things in the second category, three in the third category, and three in the fourth category."
+    },
+    {
+      "start": 2662.1600000000003,
+      "end": 2664.64,
+      "speaker": "SPEAKER_00",
+      "text": "How to do on that? Was that what you got? How do your paper?"
+    },
+    {
+      "start": 2664.64,
+      "end": 2670.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah. Okay. So, um, the one thing in your structure that I'm going to push back on, that I was like,"
+    },
+    {
+      "start": 2670.7200000000003,
+      "end": 2676.4,
+      "speaker": "SPEAKER_00",
+      "text": "ooh, he's cheating. Um, your qualitative bucket. I was like, come on. Um, there is no such thing as"
+    },
+    {
+      "start": 2676.4,
+      "end": 2681.6,
+      "speaker": "SPEAKER_00",
+      "text": "a qualitative bucket and consulting. Um, and here, I just wanted to invite you to get the"
+    },
+    {
+      "start": 2681.6,
+      "end": 2686.08,
+      "speaker": "SPEAKER_00",
+      "text": "idea of how you would measure those things. So for brand, I would measure brand awareness, or"
+    },
+    {
+      "start": 2686.08,
+      "end": 2692.64,
+      "speaker": "SPEAKER_00",
+      "text": "I'd measure likely, likely to recommend, or the NPS score, um, for strong relationships. I would"
+    },
+    {
+      "start": 2692.64,
+      "end": 2699.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "look at the percentage turn of both suppliers and of customers. Um, for suppliers, I would look at"
+    },
+    {
+      "start": 2699.8399999999997,
+      "end": 2706.3199999999997,
+      "speaker": "SPEAKER_00",
+      "text": "the number of supplier accounts per item. Um, usually some sense of consolidation is good for"
+    },
+    {
+      "start": 2706.32,
+      "end": 2711.04,
+      "speaker": "SPEAKER_00",
+      "text": "negotiation, but some too much consolidation is bad because then they get leverage over you."
+    },
+    {
+      "start": 2711.04,
+      "end": 2715.36,
+      "speaker": "SPEAKER_00",
+      "text": "And so, um, again, there, I've done everything that you mentioned. I was like, there are metrics"
+    },
+    {
+      "start": 2715.36,
+      "end": 2720.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "to calculate those. And so I wouldn't cop out, especially if you go into an MVP interview by saying,"
+    },
+    {
+      "start": 2720.0800000000004,
+      "end": 2724.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "like, there's a qualitative bucket. I would just say, I would have called that something like, um,"
+    },
+    {
+      "start": 2724.2400000000002,
+      "end": 2727.6800000000003,
+      "speaker": "SPEAKER_00",
+      "text": "relationship equity or something like that and then talked about how you would have measured those"
+    },
+    {
+      "start": 2727.6800000000003,
+      "end": 2734.1600000000003,
+      "speaker": "SPEAKER_01",
+      "text": "things. Okay. Yeah, because I didn't want to say like company, right? Yeah. Great. So name"
+    },
+    {
+      "start": 2734.16,
+      "end": 2738.24,
+      "speaker": "SPEAKER_00",
+      "text": "something different, but, but measure them, make them measurable and really focus on that."
+    },
+    {
+      "start": 2738.8799999999997,
+      "end": 2744.16,
+      "speaker": "SPEAKER_00",
+      "text": "Then, um, we read out of the structure was too long. It was over three minutes. And I was starting to"
+    },
+    {
+      "start": 2744.16,
+      "end": 2748.8799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "get a little like, just feeling like it wasn't as punchy as it could have been. So I would just try"
+    },
+    {
+      "start": 2748.8799999999997,
+      "end": 2754.64,
+      "speaker": "SPEAKER_00",
+      "text": "to accelerate your pace a little bit and take out just a bit of the explanation per each point so"
+    },
+    {
+      "start": 2754.64,
+      "end": 2759.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "that it's not quite as dramatic there. Um, you're going to get that down to two minutes. And so"
+    },
+    {
+      "start": 2759.2799999999997,
+      "end": 2763.52,
+      "speaker": "SPEAKER_00",
+      "text": "after the case that we worth it to rewrite your structure and repractice talking through that."
+    },
+    {
+      "start": 2763.6,
+      "end": 2767.36,
+      "speaker": "SPEAKER_00",
+      "text": "At that point in the case, you had my heart. It was like, I think, I think he's going to get this,"
+    },
+    {
+      "start": 2767.36,
+      "end": 2772.4,
+      "speaker": "SPEAKER_00",
+      "text": "right? He's, he's going to get the offer for sure, right? And, um, and so, um, then when we went into"
+    },
+    {
+      "start": 2772.4,
+      "end": 2778.48,
+      "speaker": "SPEAKER_00",
+      "text": "the math, um, the first, my first question around the market was a little tricky. And I asked it"
+    },
+    {
+      "start": 2778.48,
+      "end": 2782.64,
+      "speaker": "SPEAKER_00",
+      "text": "because I wasn't sure if you understood what we did. And so I think that could have been maybe a good"
+    },
+    {
+      "start": 2782.64,
+      "end": 2787.6,
+      "speaker": "SPEAKER_00",
+      "text": "background clarifying question. Wait, are we, do we sell water bottles to consumers? Do we"
+    },
+    {
+      "start": 2787.6,
+      "end": 2791.44,
+      "speaker": "SPEAKER_00",
+      "text": "manufacture water bottles to somebody else? So when you were, when you kind of like, you know,"
+    },
+    {
+      "start": 2791.44,
+      "end": 2795.6,
+      "speaker": "SPEAKER_00",
+      "text": "said the whole like, we're a commodity thing. I was like, Oh, like, you know, I'm not sure. I'm"
+    },
+    {
+      "start": 2795.6,
+      "end": 2799.92,
+      "speaker": "SPEAKER_00",
+      "text": "not sure if we actually know what the business bottle is there. So I threw that question in there."
+    },
+    {
+      "start": 2799.92,
+      "end": 2804.0,
+      "speaker": "SPEAKER_00",
+      "text": "It only took you two and a half minutes, though, to get back on track. And so that was good."
+    },
+    {
+      "start": 2804.64,
+      "end": 2809.28,
+      "speaker": "SPEAKER_00",
+      "text": "And then in the math, um, you know, you said like, what's the unit cost of manufacturing? Just"
+    },
+    {
+      "start": 2809.28,
+      "end": 2814.48,
+      "speaker": "SPEAKER_00",
+      "text": "to really narrowly focus it, right? Our number one job as a PE firm is top line growth. Even though"
+    },
+    {
+      "start": 2814.48,
+      "end": 2818.96,
+      "speaker": "SPEAKER_00",
+      "text": "historically, like, you know, profit growth would have been one of the things. If we have no top line"
+    },
+    {
+      "start": 2818.96,
+      "end": 2823.84,
+      "speaker": "SPEAKER_00",
+      "text": "growth, we can't sell it on. And so number one focus is always going to be top line growth. And so"
+    },
+    {
+      "start": 2823.84,
+      "end": 2827.92,
+      "speaker": "SPEAKER_00",
+      "text": "getting to size of the market where we can grow in the market, what segments we can grow in,"
+    },
+    {
+      "start": 2827.92,
+      "end": 2832.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "I thought could have been a better strategic focus for you there. And then when we went into the"
+    },
+    {
+      "start": 2832.2400000000002,
+      "end": 2836.96,
+      "speaker": "SPEAKER_00",
+      "text": "math, so your first math was just off of the three zero. So I wanted to tell you how I did it."
+    },
+    {
+      "start": 2837.68,
+      "end": 2844.16,
+      "speaker": "SPEAKER_00",
+      "text": "So that you could just track with that because, um, number one, uh, you were, you weren't paying"
+    },
+    {
+      "start": 2844.16,
+      "end": 2848.32,
+      "speaker": "SPEAKER_00",
+      "text": "attention to a lot of the shortcuts that I gave you. And that was, I think, one of the key issues."
+    },
+    {
+      "start": 2848.32,
+      "end": 2852.0800000000004,
+      "speaker": "SPEAKER_00",
+      "text": "So one of the ways you can figure out shortcuts is by reflecting on math afterwards. So I just"
+    },
+    {
+      "start": 2852.0800000000004,
+      "end": 2856.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "thought it would be good to go through these, right? So the 80 leaders per capita multiplied by"
+    },
+    {
+      "start": 2856.2400000000002,
+      "end": 2860.56,
+      "speaker": "SPEAKER_00",
+      "text": "the point two five, I probably could have let you do that and figure that out. I don't know if you"
+    },
+    {
+      "start": 2860.56,
+      "end": 2867.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "would have divided by it or multiplied it by it, but, um, but yeah, we get 320. We get the, um,"
+    },
+    {
+      "start": 2867.2000000000003,
+      "end": 2872.2400000000002,
+      "speaker": "SPEAKER_00",
+      "text": "Latin population multiplier. And then you add, you add in Canada in. When you added Canada in and"
+    },
+    {
+      "start": 2872.2400000000002,
+      "end": 2875.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "found out that it was the same as the US, I wouldn't have kept it separate anymore. I would have"
+    },
+    {
+      "start": 2875.6,
+      "end": 2880.56,
+      "speaker": "SPEAKER_00",
+      "text": "added it in to the US calculation so you can slim down the calculations to two. And then your"
+    },
+    {
+      "start": 2880.56,
+      "end": 2887.12,
+      "speaker": "SPEAKER_00",
+      "text": "number would have been 350. And then you can really easily do times 100 times three and then times,"
+    },
+    {
+      "start": 2887.12,
+      "end": 2891.92,
+      "speaker": "SPEAKER_00",
+      "text": "like, you know, an additional half of one of those hundreds, right? So it just makes it a lot easier"
+    },
+    {
+      "start": 2891.92,
+      "end": 2899.44,
+      "speaker": "SPEAKER_00",
+      "text": "if you can keep your numbers simpler. And then, um, the, um, then when it comes to the, like,"
+    },
+    {
+      "start": 2899.44,
+      "end": 2904.4,
+      "speaker": "SPEAKER_00",
+      "text": "millions and billions. So we have drills on the website. You can actually have a free set of them."
+    },
+    {
+      "start": 2904.4,
+      "end": 2910.0,
+      "speaker": "SPEAKER_00",
+      "text": "And then we also have the page rolls inside the, um, the market, um, mental, the mental math force."
+    },
+    {
+      "start": 2910.48,
+      "end": 2915.52,
+      "speaker": "SPEAKER_00",
+      "text": "But basically that's what those are there for is to test those exact questions. But I would have"
+    },
+    {
+      "start": 2915.52,
+      "end": 2920.4,
+      "speaker": "SPEAKER_00",
+      "text": "just recommended instead of asking for time, talk through it. Because when you talk through it,"
+    },
+    {
+      "start": 2920.4,
+      "end": 2924.96,
+      "speaker": "SPEAKER_00",
+      "text": "you got it right later. And then you kind of kept second guessing yourself back and forth. And so,"
+    },
+    {
+      "start": 2925.76,
+      "end": 2931.44,
+      "speaker": "SPEAKER_00",
+      "text": "my, my one big picture takeaway from the whole case is don't take time. Don't take time."
+    },
+    {
+      "start": 2932.08,
+      "end": 2936.96,
+      "speaker": "SPEAKER_00",
+      "text": "Get comfortable talking through your thought process because I think you're going to get better accuracy,"
+    },
+    {
+      "start": 2936.96,
+      "end": 2943.28,
+      "speaker": "SPEAKER_00",
+      "text": "clearer focus, more shortcuts. Um, also you didn't have to multiply the population by two and then"
+    },
+    {
+      "start": 2943.28,
+      "end": 2947.36,
+      "speaker": "SPEAKER_00",
+      "text": "divide it by three. You could have just taken the whole number by two thirds. And that would have"
+    },
+    {
+      "start": 2947.36,
+      "end": 2951.36,
+      "speaker": "SPEAKER_00",
+      "text": "been a lot easier as well. Right. So just like, again, if you're talking through it, I think you're"
+    },
+    {
+      "start": 2951.36,
+      "end": 2955.6,
+      "speaker": "SPEAKER_00",
+      "text": "going to catch more of those things as you're laying it out rather than trying to do it quietly."
+    },
+    {
+      "start": 2956.24,
+      "end": 2962.56,
+      "speaker": "SPEAKER_00",
+      "text": "Um, your large medium and small numbers were right. And so thank you for going through that again."
+    },
+    {
+      "start": 2962.56,
+      "end": 2967.92,
+      "speaker": "SPEAKER_00",
+      "text": "I felt like I kind of blew wind out of your sales again. Um, I actually, in my answer key,"
+    },
+    {
+      "start": 2967.92,
+      "end": 2972.0,
+      "speaker": "SPEAKER_00",
+      "text": "had a different number. And so when you ran me back through it, I was like, oh yeah, he's right,"
+    },
+    {
+      "start": 2972.0,
+      "end": 2977.2,
+      "speaker": "SPEAKER_00",
+      "text": "not me. So that was why I had to go through that one. And so you're polite and, and did a great"
+    },
+    {
+      "start": 2977.2,
+      "end": 2981.2799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "job with that. So when you did the waiting of the market size, um, you did a good job of actually"
+    },
+    {
+      "start": 2981.28,
+      "end": 2985.76,
+      "speaker": "SPEAKER_00",
+      "text": "splitting it up separately. Um, if you needed the total market size, you could have just done the"
+    },
+    {
+      "start": 2985.76,
+      "end": 2991.0400000000004,
+      "speaker": "SPEAKER_00",
+      "text": "waiting by each one of the prices. But, but the fact that you did it as an aggregate was helpful"
+    },
+    {
+      "start": 2991.0400000000004,
+      "end": 2995.52,
+      "speaker": "SPEAKER_00",
+      "text": "for the next step, right, because we were able to identify it. And then finally, when we went into"
+    },
+    {
+      "start": 2995.52,
+      "end": 3000.32,
+      "speaker": "SPEAKER_00",
+      "text": "the last step, I thought you had a really clear eye for what you thought was the highest value,"
+    },
+    {
+      "start": 3000.32,
+      "end": 3005.44,
+      "speaker": "SPEAKER_00",
+      "text": "right. Highest profit, big margins. You didn't go very deep into it. So Billy, you could have"
+    },
+    {
+      "start": 3005.44,
+      "end": 3011.6,
+      "speaker": "SPEAKER_00",
+      "text": "gone a little deeper, right? It isn't easy. If there's only 13 accounts up for grabs, is that easy"
+    },
+    {
+      "start": 3011.6,
+      "end": 3015.68,
+      "speaker": "SPEAKER_00",
+      "text": "to get, you know, we're probably going to have a lot of stiff competition in there. We also have"
+    },
+    {
+      "start": 3015.68,
+      "end": 3021.04,
+      "speaker": "SPEAKER_00",
+      "text": "right now the lowest percentage market share inside that market. So yes, it is good for growth,"
+    },
+    {
+      "start": 3021.04,
+      "end": 3025.76,
+      "speaker": "SPEAKER_00",
+      "text": "but it also might be kind of risky. Um, I liked that you picked one and that you defended it, though,"
+    },
+    {
+      "start": 3025.76,
+      "end": 3031.52,
+      "speaker": "SPEAKER_00",
+      "text": "and I loved that about about you as well. Um, and so honestly, like when it came down to it,"
+    },
+    {
+      "start": 3031.52,
+      "end": 3037.92,
+      "speaker": "SPEAKER_00",
+      "text": "I've, and then your, your conclusion was awesome. You were, you had like full seam ahead, you had"
+    },
+    {
+      "start": 3037.92,
+      "end": 3043.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "all the pieces, right, the recap and the next steps and the clear recommendation. And I liked it."
+    },
+    {
+      "start": 3043.7599999999998,
+      "end": 3049.36,
+      "speaker": "SPEAKER_00",
+      "text": "I thought that overall you, um, you regained a lot of that kind of equity from the middle of the case."
+    },
+    {
+      "start": 3049.36,
+      "end": 3054.64,
+      "speaker": "SPEAKER_00",
+      "text": "So I think if you hadn't asked me for time three times inside the case, and I hadn't felt like you"
+    },
+    {
+      "start": 3054.64,
+      "end": 3059.92,
+      "speaker": "SPEAKER_00",
+      "text": "kept wanting to like slide off into obscurity. Um, and then if you, if we had just cleaned up that"
+    },
+    {
+      "start": 3059.92,
+      "end": 3064.8,
+      "speaker": "SPEAKER_00",
+      "text": "math a little faster, um, even making a mistake within cleaning it up faster, that would have been"
+    },
+    {
+      "start": 3064.8,
+      "end": 3070.88,
+      "speaker": "SPEAKER_00",
+      "text": "a little bit cleaner, simpler and more direct inside the case. So, um, anyhow, I hope that was a"
+    },
+    {
+      "start": 3070.88,
+      "end": 3074.4,
+      "speaker": "SPEAKER_00",
+      "text": "great learning experience for you. And I'm curious if you have questions for me before I open it"
+    },
+    {
+      "start": 3074.4,
+      "end": 3081.04,
+      "speaker": "SPEAKER_01",
+      "text": "to the broader groups. Awesome. No, I mean, obviously struggled the math, but I appreciate you."
+    },
+    {
+      "start": 3081.04,
+      "end": 3087.36,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I know. I just like, I got that 102 trillion. Uh-huh. That was, you were right just in the zeroes"
+    },
+    {
+      "start": 3087.36,
+      "end": 3094.32,
+      "speaker": "SPEAKER_01",
+      "text": "we're off. Yeah. And then I got the six 40 million. And then because I think I like"
+    },
+    {
+      "start": 3094.32,
+      "end": 3100.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "re corrected too much. Yeah, exactly. And so you actually eliminated the millions and did the zeros."
+    },
+    {
+      "start": 3100.7200000000003,
+      "end": 3106.0,
+      "speaker": "SPEAKER_00",
+      "text": "So like, let me just talk really specifically through that one calculation with you. Um,"
+    },
+    {
+      "start": 3106.0,
+      "end": 3111.28,
+      "speaker": "SPEAKER_00",
+      "text": "so that we make sure that we've got that because I like, I think that if you, if that math had even"
+    },
+    {
+      "start": 3111.28,
+      "end": 3116.0,
+      "speaker": "SPEAKER_00",
+      "text": "gotten corrected one time instead of having to do it like three times, um, I would have, I would have"
+    },
+    {
+      "start": 3116.0,
+      "end": 3120.96,
+      "speaker": "SPEAKER_00",
+      "text": "passed you along because I loved your clarity. I loved your structure. I loved your positivity."
+    },
+    {
+      "start": 3120.96,
+      "end": 3125.12,
+      "speaker": "SPEAKER_00",
+      "text": "Um, I really felt like you could do the job. And so that one part was the only part that I was like,"
+    },
+    {
+      "start": 3125.12,
+      "end": 3129.68,
+      "speaker": "SPEAKER_00",
+      "text": "hmm, you know, I thought your insights were good. So if we can clean this up, that's, that's"
+    },
+    {
+      "start": 3129.68,
+      "end": 3134.48,
+      "speaker": "SPEAKER_00",
+      "text": "awesome, right? You know, because you're kind of fixing a big, um, a big piece there. Um, so, yeah,"
+    },
+    {
+      "start": 3134.48,
+      "end": 3140.16,
+      "speaker": "SPEAKER_00",
+      "text": "so eight liters per capita per year, right? Average size of the bottle is 0.25. So I think that"
+    },
+    {
+      "start": 3140.16,
+      "end": 3146.08,
+      "speaker": "SPEAKER_00",
+      "text": "multiplying it to the 320 is a total fine way to go. Right? And then we have 320 times 350."
+    },
+    {
+      "start": 3146.72,
+      "end": 3153.8399999999997,
+      "speaker": "SPEAKER_00",
+      "text": "I would have added like I said, Canada N. And, um, um, and so the 320 times the 350, you know,"
+    },
+    {
+      "start": 3153.8399999999997,
+      "end": 3160.56,
+      "speaker": "SPEAKER_00",
+      "text": "you can pick one. Um, and I would have done the 320 times the 300. So 300, 320 million times"
+    },
+    {
+      "start": 3160.56,
+      "end": 3166.0,
+      "speaker": "SPEAKER_00",
+      "text": "times 100 would have been the first one that I would done. Right. So three, so adding one zero is"
+    },
+    {
+      "start": 3166.0,
+      "end": 3176.08,
+      "speaker": "SPEAKER_00",
+      "text": "3.2 billion and adding two zeros is 32 billion. Right? And then at times three, so that's 96 billion."
+    },
+    {
+      "start": 3176.08,
+      "end": 3186.48,
+      "speaker": "SPEAKER_00",
+      "text": "And then times another half, right, times another 50 of, um, of that. And so if you did it times the,"
+    },
+    {
+      "start": 3186.48,
+      "end": 3192.0,
+      "speaker": "SPEAKER_00",
+      "text": "times the hundred, it was 32 billions. So that would just be times with it with another 16, right?"
+    },
+    {
+      "start": 3192.0,
+      "end": 3200.64,
+      "speaker": "SPEAKER_01",
+      "text": "Billion. Mm-hmm. On top of that. How do you feel about someone who, uh, is, so like, once you get"
+    },
+    {
+      "start": 3200.64,
+      "end": 3208.64,
+      "speaker": "SPEAKER_01",
+      "text": "to a tougher calculation, so like, um, that may take a second. Do you say, hey, can I take a second?"
+    },
+    {
+      "start": 3208.64,
+      "end": 3212.8,
+      "speaker": "SPEAKER_00",
+      "text": "If it's just going to take five seconds, I actually like it un-virtual. And when you just talk"
+    },
+    {
+      "start": 3212.8,
+      "end": 3219.28,
+      "speaker": "SPEAKER_00",
+      "text": "me through the whole thing, because then if you come back and you say like 112 trillion or whatever,"
+    },
+    {
+      "start": 3219.28,
+      "end": 3222.8,
+      "speaker": "SPEAKER_00",
+      "text": "I think your number was smaller than that because you just did US for the first one. But if you come"
+    },
+    {
+      "start": 3222.8,
+      "end": 3228.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "back and say that and I'm like, you know, is it right or is it wrong? Like it's possible that you were"
+    },
+    {
+      "start": 3228.7200000000003,
+      "end": 3233.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "right. I actually went back and checked my math as you were doing it because because I was like,"
+    },
+    {
+      "start": 3233.6000000000004,
+      "end": 3237.36,
+      "speaker": "SPEAKER_00",
+      "text": "you know, maybe I'm wrong. I don't want to, I'm going to assume that I'm wrong. I mean, I've done it"
+    },
+    {
+      "start": 3237.36,
+      "end": 3243.6800000000003,
+      "speaker": "SPEAKER_00",
+      "text": "10 times, but maybe I'm wrong, you know. Um, and so, so you know, if you have somebody going through"
+    },
+    {
+      "start": 3243.6800000000003,
+      "end": 3248.32,
+      "speaker": "SPEAKER_00",
+      "text": "it with you, then they can not only see what the issue is, but they can see like where the specific"
+    },
+    {
+      "start": 3248.32,
+      "end": 3253.6000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "challenge is there. And so I do prefer talking through it. We've also just like as we've gathered"
+    },
+    {
+      "start": 3253.6000000000004,
+      "end": 3258.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "data and we've done this, obviously, I do this a lot. But we've seen that people are more accurate"
+    },
+    {
+      "start": 3258.7200000000003,
+      "end": 3262.48,
+      "speaker": "SPEAKER_00",
+      "text": "when they're talking through it rather than taking the time. So even though it feels like you're"
+    },
+    {
+      "start": 3262.48,
+      "end": 3267.2000000000003,
+      "speaker": "SPEAKER_00",
+      "text": "gathering yourself, you're often making a mistake without the knowledge of the interviewer. And so"
+    },
+    {
+      "start": 3267.2000000000003,
+      "end": 3271.52,
+      "speaker": "SPEAKER_00",
+      "text": "it takes longer to come back around again. Yeah. So my preference is to talk through it directly."
+    },
+    {
+      "start": 3271.52,
+      "end": 3276.88,
+      "speaker": "SPEAKER_01",
+      "text": "Great. Yeah. I mean, what's what's three seconds going to do for me anyway? Right. Exactly. I think"
+    },
+    {
+      "start": 3276.88,
+      "end": 3281.28,
+      "speaker": "SPEAKER_00",
+      "text": "if you take the time to structure it or to like rewrite it on your paper, that's fine. But, um, but"
+    },
+    {
+      "start": 3281.28,
+      "end": 3285.44,
+      "speaker": "SPEAKER_00",
+      "text": "yet you're going to have more interviewers that are going to say what I said, just know, talk me through"
+    },
+    {
+      "start": 3285.44,
+      "end": 3289.92,
+      "speaker": "SPEAKER_00",
+      "text": "it. And so I think just practice practicing like that so that you don't feel thrown off by it."
+    },
+    {
+      "start": 3289.92,
+      "end": 3294.1600000000003,
+      "speaker": "SPEAKER_00",
+      "text": "Because every time you ask and I told you no, I right, that felt like it was kind of ruining a"
+    },
+    {
+      "start": 3294.1600000000003,
+      "end": 3297.6,
+      "speaker": "SPEAKER_00",
+      "text": "little bit of relationship equity that we had already built in the other parts in the case."
+    },
+    {
+      "start": 3298.56,
+      "end": 3304.6400000000003,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Good. Anything else? Yeah. One more question for you. When you asked, like the first question,"
+    },
+    {
+      "start": 3304.64,
+      "end": 3311.12,
+      "speaker": "SPEAKER_01",
+      "text": "right? You were going, you went, um, you know, how would we think about the market? Like just kind"
+    },
+    {
+      "start": 3311.12,
+      "end": 3317.2,
+      "speaker": "SPEAKER_00",
+      "text": "of like the business model overall. What I, what I was trying to get you to there was the calculation."
+    },
+    {
+      "start": 3317.2,
+      "end": 3322.48,
+      "speaker": "SPEAKER_00",
+      "text": "So I was trying to get you to ask for the data to calculate the market size. And in a B,"
+    },
+    {
+      "start": 3322.48,
+      "end": 3327.7599999999998,
+      "speaker": "SPEAKER_00",
+      "text": "BCG or a PWC case, if the direction that you're going isn't as specific as the direction that I was"
+    },
+    {
+      "start": 3327.7599999999998,
+      "end": 3331.2,
+      "speaker": "SPEAKER_00",
+      "text": "going, because you said, I'd like to look at the market and competitors. You kind of like listed off"
+    },
+    {
+      "start": 3331.2,
+      "end": 3336.48,
+      "speaker": "SPEAKER_00",
+      "text": "a whole bunch of things. So if you could have nailed down earlier, like I want to see the size of"
+    },
+    {
+      "start": 3336.48,
+      "end": 3340.8799999999997,
+      "speaker": "SPEAKER_00",
+      "text": "the market first, then I want to see the breakdown of the competitive landscape. And then I want"
+    },
+    {
+      "start": 3340.8799999999997,
+      "end": 3344.24,
+      "speaker": "SPEAKER_00",
+      "text": "to see this. So the first thing I want to get the size of the market, then it would have been easier"
+    },
+    {
+      "start": 3344.24,
+      "end": 3347.6,
+      "speaker": "SPEAKER_00",
+      "text": "for me to say great, how would you size the market? Here was the data that I would gather. You said"
+    },
+    {
+      "start": 3347.6,
+      "end": 3351.4399999999996,
+      "speaker": "SPEAKER_00",
+      "text": "a couple of those things and then I was able to give you the data. So I was trying to accelerate you"
+    },
+    {
+      "start": 3351.4399999999996,
+      "end": 3357.8399999999997,
+      "speaker": "SPEAKER_01",
+      "text": "through the case at that point. So be very specific. Even even if it may be the wrong thing,"
+    },
+    {
+      "start": 3357.84,
+      "end": 3363.36,
+      "speaker": "SPEAKER_00",
+      "text": "just tell them what you want. Exactly. Because you're you kind of say, I want to look at the market"
+    },
+    {
+      "start": 3363.36,
+      "end": 3367.44,
+      "speaker": "SPEAKER_00",
+      "text": "specifically, I'd be interested in the market size. Then if they ask you a follow-up question like"
+    },
+    {
+      "start": 3367.44,
+      "end": 3370.7200000000003,
+      "speaker": "SPEAKER_00",
+      "text": "that, they're trying to point you to maybe a different metric or a different thing that you're"
+    },
+    {
+      "start": 3370.7200000000003,
+      "end": 3374.08,
+      "speaker": "SPEAKER_00",
+      "text": "thinking about. Because you said you wanted to look at market share. And I was thinking, okay,"
+    },
+    {
+      "start": 3374.08,
+      "end": 3377.76,
+      "speaker": "SPEAKER_00",
+      "text": "I've got market size here. And then I have that second piece of data. So I didn't want to give you"
+    },
+    {
+      "start": 3377.76,
+      "end": 3381.76,
+      "speaker": "SPEAKER_00",
+      "text": "all the share information without having sized the market. Because then the context might have been"
+    },
+    {
+      "start": 3381.76,
+      "end": 3385.6800000000003,
+      "speaker": "SPEAKER_01",
+      "text": "missing. Okay. Thanks a lot of sense. Thank you so much. You're so welcome."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 16,
+    "math": 11,
+    "case_difficulty": 12,
+    "final_summary": 14,
+    "overall_thoughts": "The framework was well-structured, and communication was clear, but math concepts were not fully grasped."
+  }
+}

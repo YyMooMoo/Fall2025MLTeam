@@ -1,0 +1,2532 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 10.46,
+      "speaker": "SPEAKER_02",
+      "text": "I'm Carrie. I'm currently a director with AMX Strategy. So American Express's internal"
+    },
+    {
+      "start": 10.46,
+      "end": 14.280000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "strategy arm before that. I spent two and a half years at McKinsey as an engagement"
+    },
+    {
+      "start": 14.280000000000001,
+      "end": 18.14,
+      "speaker": "SPEAKER_02",
+      "text": "manager before that. I joined McKinsey straight out of business school."
+    },
+    {
+      "start": 18.14,
+      "end": 23.26,
+      "speaker": "SPEAKER_02",
+      "text": "Vivek would be great to hear a little bit about you before we jump into the case."
+    },
+    {
+      "start": 24.060000000000002,
+      "end": 31.340000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, for sure. I'm back. As you said, I have a lot of healthcare background coming from"
+    },
+    {
+      "start": 31.340000000000003,
+      "end": 37.44,
+      "speaker": "SPEAKER_01",
+      "text": "like a medicine background and just, you know, currently looking into kind of transitioning"
+    },
+    {
+      "start": 37.44,
+      "end": 43.1,
+      "speaker": "SPEAKER_01",
+      "text": "into healthcare from the industry side and using, you know, I think consulting is my"
+    },
+    {
+      "start": 43.1,
+      "end": 46.540000000000006,
+      "speaker": "SPEAKER_01",
+      "text": "best next step to do that. So I'm really happy to be here with you."
+    },
+    {
+      "start": 47.339999999999996,
+      "end": 54.3,
+      "speaker": "SPEAKER_02",
+      "text": "Great. So Vivek, why don't we jump into the case if you're ready. Just let me know and I'll"
+    },
+    {
+      "start": 54.3,
+      "end": 60.62,
+      "speaker": "SPEAKER_02",
+      "text": "I've got a bit of information for you. So we're not going to be talking about healthcare today."
+    },
+    {
+      "start": 60.62,
+      "end": 67.5,
+      "speaker": "SPEAKER_02",
+      "text": "We're going to be talking about a subject near and dear for me, financial services. So our client"
+    },
+    {
+      "start": 67.5,
+      "end": 74.62,
+      "speaker": "SPEAKER_02",
+      "text": "today is Lincoln Green. Lincoln Green is a financial services company which offers commission-free"
+    },
+    {
+      "start": 74.62,
+      "end": 81.18,
+      "speaker": "SPEAKER_02",
+      "text": "trading of stocks, ETFs and other financial assets through a designated user-friendly app."
+    },
+    {
+      "start": 82.06,
+      "end": 86.94,
+      "speaker": "SPEAKER_02",
+      "text": "In its five years of operations, the company has risen to become one of the largest"
+    },
+    {
+      "start": 86.94,
+      "end": 92.62,
+      "speaker": "SPEAKER_02",
+      "text": "electronic trading platforms in the world and the biggest commission-free trading platform"
+    },
+    {
+      "start": 92.62,
+      "end": 100.46000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "in the world with over 14 million users. Approximately 85% of Lincoln's users are millennials,"
+    },
+    {
+      "start": 100.46,
+      "end": 107.41999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "those who are born between 1981 and 1986. So 1981 to 1996 are millennials."
+    },
+    {
+      "start": 108.38,
+      "end": 114.86,
+      "speaker": "SPEAKER_02",
+      "text": "Millennials represent most of the company's revenues. Lincoln Green currently operates in the US"
+    },
+    {
+      "start": 114.86,
+      "end": 121.41999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "only, but it is considering an expansion to new markets after proof of concept and commercial"
+    },
+    {
+      "start": 121.41999999999999,
+      "end": 130.38,
+      "speaker": "SPEAKER_02",
+      "text": "success in the US and they have approached us for help. So the overall question for our"
+    },
+    {
+      "start": 130.38,
+      "end": 136.38,
+      "speaker": "SPEAKER_02",
+      "text": "case today is how should Lincoln Green consider potential expansion, potential market expansion,"
+    },
+    {
+      "start": 136.38,
+      "end": 143.82,
+      "speaker": "SPEAKER_02",
+      "text": "beyond the US? I'll stop there and see if you have any questions for me. Sure. Awesome. So as I"
+    },
+    {
+      "start": 143.82,
+      "end": 147.9,
+      "speaker": "SPEAKER_01",
+      "text": "understand it, that's really the core question. How can we help them with properly considering how"
+    },
+    {
+      "start": 147.9,
+      "end": 153.26,
+      "speaker": "SPEAKER_01",
+      "text": "to expand to the right market with their current business? Just to make sure that we're both aligned,"
+    },
+    {
+      "start": 153.26,
+      "end": 156.46,
+      "speaker": "SPEAKER_01",
+      "text": "you just told me some of the important information. It sounds like our client is"
+    },
+    {
+      "start": 156.62,
+      "end": 165.9,
+      "speaker": "SPEAKER_01",
+      "text": "Lincoln Green. They offer a commission-free trading via an app, like a phone app and very large."
+    },
+    {
+      "start": 165.9,
+      "end": 171.10000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to be one of the largest companies in the world based in the US, mostly"
+    },
+    {
+      "start": 172.62,
+      "end": 177.82,
+      "speaker": "SPEAKER_01",
+      "text": "you know, service millennials, 85% as you said it and they like to expand to a new market."
+    },
+    {
+      "start": 177.82,
+      "end": 181.82,
+      "speaker": "SPEAKER_01",
+      "text": "Did I get the major facts right there? Do I miss anything? That's correct. That's correct."
+    },
+    {
+      "start": 181.9,
+      "end": 187.26,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Okay. Perfect. That's what I wanted to make sure for now. I do have some clarifying"
+    },
+    {
+      "start": 187.26,
+      "end": 192.06,
+      "speaker": "SPEAKER_01",
+      "text": "questions, but I don't know if I should wait for that or ask it now. You can ask,"
+    },
+    {
+      "start": 192.06,
+      "end": 197.98,
+      "speaker": "SPEAKER_01",
+      "text": "are you clarifying questions now? Sure. One thing I want to understand is just kind of how they're"
+    },
+    {
+      "start": 197.98,
+      "end": 203.57999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "thinking of how they're measuring success and if they have any particular goals in mind with regards"
+    },
+    {
+      "start": 203.57999999999998,
+      "end": 208.94,
+      "speaker": "SPEAKER_01",
+      "text": "to that. My assumption is likely they're trying to increase their revenue, improve their profitability"
+    },
+    {
+      "start": 208.94,
+      "end": 212.85999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "as they go forward. Are there any kind of specific goals and timelines they have looking for to"
+    },
+    {
+      "start": 212.85999999999999,
+      "end": 219.42,
+      "speaker": "SPEAKER_01",
+      "text": "that that we need to make sure? Nothing specific that I know of. Okay. Got it. And then the second"
+    },
+    {
+      "start": 219.42,
+      "end": 223.34,
+      "speaker": "SPEAKER_01",
+      "text": "thing I want to make sure my knowledge in this industry is relatively limited, but I'd love to"
+    },
+    {
+      "start": 223.34,
+      "end": 228.14,
+      "speaker": "SPEAKER_01",
+      "text": "kind of learn more about it and how they actually kind of make money in this business models they have."
+    },
+    {
+      "start": 228.94,
+      "end": 234.38,
+      "speaker": "SPEAKER_01",
+      "text": "So do they make this mostly from like ad revenue in the app itself or their like transaction fees"
+    },
+    {
+      "start": 234.38,
+      "end": 238.85999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "they go into the revenue? Do you mind kind of just educating me on how they make their money through"
+    },
+    {
+      "start": 238.85999999999999,
+      "end": 247.57999999999998,
+      "speaker": "SPEAKER_02",
+      "text": "this service? Well, I have limited information on their structure today and just to repeat"
+    },
+    {
+      "start": 247.57999999999998,
+      "end": 251.26,
+      "speaker": "SPEAKER_02",
+      "text": "something that I had mentioned is that they are the biggest commission-free trading platform"
+    },
+    {
+      "start": 251.98,
+      "end": 258.46,
+      "speaker": "SPEAKER_01",
+      "text": "today. Okay. Got it. Okay. Sounds good. That's the main thing I wanted to clarify. I'm just to get"
+    },
+    {
+      "start": 258.46,
+      "end": 264.94,
+      "speaker": "SPEAKER_02",
+      "text": "a better understanding. That's all I have for now. Great. So the first question is what information"
+    },
+    {
+      "start": 264.94,
+      "end": 270.85999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "would you want to collect in order to approach thinking about a potential new market expansion?"
+    },
+    {
+      "start": 271.65999999999997,
+      "end": 276.38,
+      "speaker": "SPEAKER_01",
+      "text": "Sure. Absolutely. I'd love to just take a couple of minutes to structure my thoughts around this"
+    },
+    {
+      "start": 276.38,
+      "end": 283.9,
+      "speaker": "SPEAKER_01",
+      "text": "and then share it with you. Is that okay? Sure. Yeah. Perfect. Thank you. Okay. A few things that I'm"
+    },
+    {
+      "start": 283.97999999999996,
+      "end": 288.78,
+      "speaker": "SPEAKER_01",
+      "text": "considering and looking at how to best approach this for our client. There's three main areas that I'd"
+    },
+    {
+      "start": 288.78,
+      "end": 294.14,
+      "speaker": "SPEAKER_01",
+      "text": "look at. One is any of the markets that we're considering. I'd like to understand kind of the"
+    },
+    {
+      "start": 294.14,
+      "end": 299.09999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "the nature of the trading market, if you will. In other words, you know, how many people are actually,"
+    },
+    {
+      "start": 299.09999999999997,
+      "end": 304.06,
+      "speaker": "SPEAKER_01",
+      "text": "you know, from a size perspective would be interested in engaging this type of trading. And in"
+    },
+    {
+      "start": 304.06,
+      "end": 309.26,
+      "speaker": "SPEAKER_01",
+      "text": "that, I'd want to make sure I assess the different factors in that. Secondly, look in within our client,"
+    },
+    {
+      "start": 309.34,
+      "end": 315.02,
+      "speaker": "SPEAKER_01",
+      "text": "Lincoln Green itself to understand kind of what the potential is for them. And thirdly, just"
+    },
+    {
+      "start": 315.02,
+      "end": 319.9,
+      "speaker": "SPEAKER_01",
+      "text": "understanding risks in making these moves so that we can kind of understand which areas may be"
+    },
+    {
+      "start": 319.9,
+      "end": 325.9,
+      "speaker": "SPEAKER_01",
+      "text": "lowest risk to do this. Going back to my first area of looking at kind of the trading market,"
+    },
+    {
+      "start": 325.9,
+      "end": 329.98,
+      "speaker": "SPEAKER_01",
+      "text": "the stock trading market, if you will, it doesn't just have to be that they trade stocks in the kind"
+    },
+    {
+      "start": 329.98,
+      "end": 333.82,
+      "speaker": "SPEAKER_01",
+      "text": "of their own economy. I'm assuming this would allow that they would be able to trade stocks in the"
+    },
+    {
+      "start": 333.82,
+      "end": 338.62,
+      "speaker": "SPEAKER_01",
+      "text": "US economy well, but really understanding the size of the millennials within the area that we might"
+    },
+    {
+      "start": 338.62,
+      "end": 341.98,
+      "speaker": "SPEAKER_01",
+      "text": "be looking to expand to and how many of them would actually be interested in engaging this."
+    },
+    {
+      "start": 342.62,
+      "end": 347.82,
+      "speaker": "SPEAKER_01",
+      "text": "Kind of looking at information we have there. And if the millennial population is growing in that"
+    },
+    {
+      "start": 347.82,
+      "end": 352.78000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "specific area or not, secondly, looking at if there's any players already offering a service like"
+    },
+    {
+      "start": 352.78000000000003,
+      "end": 357.66,
+      "speaker": "SPEAKER_01",
+      "text": "this for a stock trading in the area that we're going to. So what the competitive landscape is like."
+    },
+    {
+      "start": 358.62,
+      "end": 363.9,
+      "speaker": "SPEAKER_01",
+      "text": "And then lastly, understanding the preferences of our actual customers wherever we go, how hard is"
+    },
+    {
+      "start": 363.9,
+      "end": 369.26,
+      "speaker": "SPEAKER_01",
+      "text": "it to acquire them? Secondly, kind of what what is their preferences in how they like to engage in"
+    },
+    {
+      "start": 369.26,
+      "end": 375.02,
+      "speaker": "SPEAKER_01",
+      "text": "trading and do we match those preferences? Secondly, looking at within our client linking green"
+    },
+    {
+      "start": 375.02,
+      "end": 381.26,
+      "speaker": "SPEAKER_01",
+      "text": "itself, really getting down into assessing the revenues that they'd be able to gain by expanding"
+    },
+    {
+      "start": 381.26,
+      "end": 386.85999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "to a certain market. I think given the commission free trading, I believe that some a lot of the"
+    },
+    {
+      "start": 386.85999999999996,
+      "end": 391.02,
+      "speaker": "SPEAKER_01",
+      "text": "revenue might come from ads and sort of other source of revenue that aren't directly related to the"
+    },
+    {
+      "start": 391.02,
+      "end": 395.58,
+      "speaker": "SPEAKER_01",
+      "text": "stock trading itself. So we have to kind of look at the potential of that and then understand the"
+    },
+    {
+      "start": 395.58,
+      "end": 400.29999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "costs as well. So what the initial investment and expansion is going to be what the ongoing cost"
+    },
+    {
+      "start": 400.29999999999995,
+      "end": 405.34,
+      "speaker": "SPEAKER_01",
+      "text": "that it is going to be. And see if we operationally, if we expand it to another country, say can we"
+    },
+    {
+      "start": 405.34,
+      "end": 409.97999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "operationally handle that? Do they have a capability to handle that? And then lastly, looking at risks,"
+    },
+    {
+      "start": 409.97999999999996,
+      "end": 415.02,
+      "speaker": "SPEAKER_01",
+      "text": "I'd like to assess several risks such as geopolitical risks and regulatory risks, brand image,"
+    },
+    {
+      "start": 415.02,
+      "end": 419.9,
+      "speaker": "SPEAKER_01",
+      "text": "infrastructure risks as well. So those are kind of the main ways I'm thinking about it."
+    },
+    {
+      "start": 420.53999999999996,
+      "end": 425.5,
+      "speaker": "SPEAKER_01",
+      "text": "All that being said, if you're kind of aligned with that, I kind of first want to understand"
+    },
+    {
+      "start": 427.09999999999997,
+      "end": 431.9,
+      "speaker": "SPEAKER_01",
+      "text": "if our client has wanted to candidates that like they assess for expansion and look at kind of"
+    },
+    {
+      "start": 432.78,
+      "end": 441.41999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "the size and opportunity there in that market. Great. All right. So on that topic,"
+    },
+    {
+      "start": 442.7,
+      "end": 449.26,
+      "speaker": "SPEAKER_02",
+      "text": "after consideration of several optional markets, Lincoln Green has decided to shift its focus"
+    },
+    {
+      "start": 449.26,
+      "end": 455.65999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "on the UK market as a prime candidate for expansion. So I'm going to give you a couple of facts"
+    },
+    {
+      "start": 455.65999999999997,
+      "end": 462.78,
+      "speaker": "SPEAKER_02",
+      "text": "and figures. So the first is the population of the UK is 68 million. That's 68 million."
+    },
+    {
+      "start": 464.86,
+      "end": 475.26,
+      "speaker": "SPEAKER_02",
+      "text": "Of this population, 15, 15% are millennials and only six of them, so 6% of millennials have an"
+    },
+    {
+      "start": 475.26,
+      "end": 482.7,
+      "speaker": "SPEAKER_02",
+      "text": "investment portfolio. However, given the recent growth in investing awareness, this market is"
+    },
+    {
+      "start": 482.7,
+      "end": 495.34,
+      "speaker": "SPEAKER_02",
+      "text": "expected to grow at a rate of 24% per year over the next six years. 10% of millennials in the UK"
+    },
+    {
+      "start": 495.34,
+      "end": 502.21999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "are living in poverty and Lincoln Finance considers them outside the available pool of customers."
+    },
+    {
+      "start": 502.46000000000004,
+      "end": 511.5,
+      "speaker": "SPEAKER_02",
+      "text": "So I have a couple of questions for you, given this information. The first is given the facts that I've"
+    },
+    {
+      "start": 511.5,
+      "end": 520.3000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "just laid out, what is the available market pool of millennials today? How many of them are currently"
+    },
+    {
+      "start": 520.3000000000001,
+      "end": 527.6600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "managing a portfolio? And how many of them are expected to be in the UK in six years?"
+    },
+    {
+      "start": 527.8199999999999,
+      "end": 535.1,
+      "speaker": "SPEAKER_01",
+      "text": "Got it. So there's three separate things just to confirm. I want to make sure I got the right"
+    },
+    {
+      "start": 535.1,
+      "end": 543.3399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "numbers. 68 million is the UK population that's 68. 15, 15% are millennials. Six percent have an"
+    },
+    {
+      "start": 543.3399999999999,
+      "end": 550.86,
+      "speaker": "SPEAKER_01",
+      "text": "investment portfolio expected to grow average yearly 24% for the next six years. And 10% of those"
+    },
+    {
+      "start": 550.86,
+      "end": 556.14,
+      "speaker": "SPEAKER_01",
+      "text": "millennials are essentially out of scope. They're in poverty, so they wouldn't be a part of our"
+    },
+    {
+      "start": 556.14,
+      "end": 559.8199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "available market. And the three questions you have for me to answer, what are the available"
+    },
+    {
+      "start": 559.8199999999999,
+      "end": 564.62,
+      "speaker": "SPEAKER_01",
+      "text": "overall pool? How many currently have an investment portfolio? And what is the overall expected pool"
+    },
+    {
+      "start": 565.34,
+      "end": 571.42,
+      "speaker": "SPEAKER_01",
+      "text": "than to be in six years? Okay. Got it. Makes sense. Well, so I'll start with the first question,"
+    },
+    {
+      "start": 571.42,
+      "end": 576.3,
+      "speaker": "SPEAKER_01",
+      "text": "because I think logically makes sense. Let's kind of get the total addressable pool, if you will."
+    },
+    {
+      "start": 576.3,
+      "end": 581.34,
+      "speaker": "SPEAKER_01",
+      "text": "So in order to do that, the approach that I would take for that is take the overall population,"
+    },
+    {
+      "start": 581.98,
+      "end": 589.5,
+      "speaker": "SPEAKER_01",
+      "text": "multiply it by the percent that you, it's that are millennials, and then take out the percent"
+    },
+    {
+      "start": 589.5,
+      "end": 596.62,
+      "speaker": "SPEAKER_01",
+      "text": "that are in poverty. So the 10% that are in poverty. So in essence, I'd be doing 68 million times"
+    },
+    {
+      "start": 596.62,
+      "end": 601.98,
+      "speaker": "SPEAKER_01",
+      "text": "the 15% because 15% of them are millennials, which gets me to"
+    },
+    {
+      "start": 602.78,
+      "end": 615.82,
+      "speaker": "SPEAKER_01",
+      "text": "10.2 million millennials. Now, if 10% of them are removed from that, I would get,"
+    },
+    {
+      "start": 617.74,
+      "end": 623.82,
+      "speaker": "SPEAKER_01",
+      "text": "I'm rounding a bit here, but I'm getting about 9.2 million millennials. That would be non-poverty"
+    },
+    {
+      "start": 623.82,
+      "end": 628.78,
+      "speaker": "SPEAKER_01",
+      "text": "millennials. In other words, kind of our available pool of millennials in the UK. Does that sound"
+    },
+    {
+      "start": 629.5,
+      "end": 638.78,
+      "speaker": "SPEAKER_01",
+      "text": "some reasonable to me? Is that fair? I'm with you. Okay, perfect. And then in terms of the current"
+    },
+    {
+      "start": 639.74,
+      "end": 647.98,
+      "speaker": "SPEAKER_01",
+      "text": "portfolio, current millennials that have a portfolio, that is 6% of the millennials have a portfolio."
+    },
+    {
+      "start": 647.98,
+      "end": 651.5799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Now, I just want to confirm one thing. When you say 6% of millennials have a portfolio,"
+    },
+    {
+      "start": 651.5799999999999,
+      "end": 656.14,
+      "speaker": "SPEAKER_01",
+      "text": "that's 6% of all millennials, right? You're including like the poverty millennials in there as well."
+    },
+    {
+      "start": 656.14,
+      "end": 663.42,
+      "speaker": "SPEAKER_01",
+      "text": "Correct. Correct. Okay, perfect. So I'm going to take the 10.2 million overall millennials in the UK"
+    },
+    {
+      "start": 663.42,
+      "end": 666.06,
+      "speaker": "SPEAKER_01",
+      "text": "and say 6% of that. So"
+    },
+    {
+      "start": 666.2199999999999,
+      "end": 689.66,
+      "speaker": "SPEAKER_01",
+      "text": "which gives me 612,000 millennials who have a portfolio. I took the 10.2 million multiplied by 6%"
+    },
+    {
+      "start": 689.74,
+      "end": 696.9399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "and I got 612,000. You're still following me, is that right? Yeah. Make sure I'm clear. Okay,"
+    },
+    {
+      "start": 696.9399999999999,
+      "end": 701.3399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "perfect. So that's the ones that have a portfolio. And then lastly, to understand how many"
+    },
+    {
+      "start": 701.9,
+      "end": 706.54,
+      "speaker": "SPEAKER_01",
+      "text": "would be in the pool in six years from now, I would have to take that basically that"
+    },
+    {
+      "start": 706.54,
+      "end": 712.9399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Compat and your growth rate that you gave me of 24% and do that over a six-year period of time."
+    },
+    {
+      "start": 713.58,
+      "end": 722.22,
+      "speaker": "SPEAKER_01",
+      "text": "So I will take the 9.2 million which is which I calculate as the current available pool of millennials."
+    },
+    {
+      "start": 725.2600000000001,
+      "end": 727.9000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Is it okay for ease of calculation if I say that's 9 million?"
+    },
+    {
+      "start": 729.74,
+      "end": 737.4200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "I'll keep it at 9.2. Okay, cool. So 9 million and for six years I'd have to continue to"
+    },
+    {
+      "start": 737.42,
+      "end": 743.9,
+      "speaker": "SPEAKER_01",
+      "text": "multiply it by 24%. Is it okay if I use 25% given that it's an easier calculation? Sure. Okay."
+    },
+    {
+      "start": 745.5799999999999,
+      "end": 745.9799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So"
+    },
+    {
+      "start": 751.74,
+      "end": 761.74,
+      "speaker": "SPEAKER_00",
+      "text": "in one year, I'll expect that to grow to 11.2 million. And then in the second year,"
+    },
+    {
+      "start": 761.74,
+      "end": 770.46,
+      "speaker": "SPEAKER_00",
+      "text": "I'll expect that to grow to about 14 million."
+    },
+    {
+      "start": 775.58,
+      "end": 787.66,
+      "speaker": "SPEAKER_00",
+      "text": "And then in the third year, I'll expect that to grow to about 17.5 million."
+    },
+    {
+      "start": 788.38,
+      "end": 794.6999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. And walk me through how you got that."
+    },
+    {
+      "start": 795.74,
+      "end": 800.3,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I'm just doing that sequentially because it's the best way I have right now of doing the"
+    },
+    {
+      "start": 800.3,
+      "end": 807.8199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Compat and annual growth. So I went from 9 million. I essentially took a quarter"
+    },
+    {
+      "start": 807.8199999999999,
+      "end": 814.4599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "about a quarter of that and added it back to get a 25% growth in the next year. So I got 11.2 million"
+    },
+    {
+      "start": 814.46,
+      "end": 821.9000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "after one year. And then from there, sorry. So to make this easier, I see where you are. To make"
+    },
+    {
+      "start": 821.9000000000001,
+      "end": 829.4200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "this easier, let's just start instead of with the total number of millennials who would be the"
+    },
+    {
+      "start": 829.4200000000001,
+      "end": 834.14,
+      "speaker": "SPEAKER_02",
+      "text": "target market. Let's just use the current active, we can start with the current active number of"
+    },
+    {
+      "start": 834.14,
+      "end": 840.14,
+      "speaker": "SPEAKER_02",
+      "text": "portfolio managing millennials. So believe you calculated that a bit ago. I see. You want me to start"
+    },
+    {
+      "start": 840.14,
+      "end": 846.22,
+      "speaker": "SPEAKER_01",
+      "text": "with the 612,000 that are portfolio and what they would be expanding to in six years."
+    },
+    {
+      "start": 846.22,
+      "end": 851.74,
+      "speaker": "SPEAKER_01",
+      "text": "Correct. Correct. Okay. I misunderstood that. I totally don't when we were talking about the growth"
+    },
+    {
+      "start": 851.74,
+      "end": 860.22,
+      "speaker": "SPEAKER_01",
+      "text": "that it was growth of the overall millennial pool. Okay. Got it. So let me then go back to six."
+    },
+    {
+      "start": 860.22,
+      "end": 865.5,
+      "speaker": "SPEAKER_01",
+      "text": "I'll start with 612,000. And is it okay if I start with 600,000 as easy a calculation?"
+    },
+    {
+      "start": 865.58,
+      "end": 874.22,
+      "speaker": "SPEAKER_01",
+      "text": "That is fine. So if I do 600,000, I'm going to go sequentially and see how much it grows at 25%"
+    },
+    {
+      "start": 874.22,
+      "end": 886.14,
+      "speaker": "SPEAKER_00",
+      "text": "each year essentially. So in the first year, that would grow to 750,000. In the second year,"
+    },
+    {
+      "start": 886.14,
+      "end": 892.86,
+      "speaker": "SPEAKER_00",
+      "text": "that grows to about 940,000 and I'm rounding a little bit here."
+    },
+    {
+      "start": 896.38,
+      "end": 906.3,
+      "speaker": "SPEAKER_00",
+      "text": "And then in the third year, that'll grow to about 1.2 million."
+    },
+    {
+      "start": 906.4599999999999,
+      "end": 918.14,
+      "speaker": "SPEAKER_00",
+      "text": "And the fourth year, we're up to 1.5 million."
+    },
+    {
+      "start": 918.22,
+      "end": 933.1,
+      "speaker": "SPEAKER_00",
+      "text": "About 1.9 million in the fifth year. And then finally for the sixth year,"
+    },
+    {
+      "start": 938.9399999999999,
+      "end": 946.14,
+      "speaker": "SPEAKER_01",
+      "text": "getting about 2.3 million. So I would say by year six, we would grow to about 2.3 million people in"
+    },
+    {
+      "start": 946.14,
+      "end": 949.9,
+      "speaker": "SPEAKER_01",
+      "text": "the UK that have an active investment portfolio out of the millennials, I should say."
+    },
+    {
+      "start": 951.02,
+      "end": 956.78,
+      "speaker": "SPEAKER_01",
+      "text": "Were you able to follow that? I was. Okay. Perfect. And I think that's very encouraging."
+    },
+    {
+      "start": 956.78,
+      "end": 962.46,
+      "speaker": "SPEAKER_01",
+      "text": "You know, 25% growth every year for the next six years is very encouraging. Even though currently"
+    },
+    {
+      "start": 962.46,
+      "end": 966.78,
+      "speaker": "SPEAKER_01",
+      "text": "only a small percentage of the millennials own investment portfolio, I think this is very encouraging"
+    },
+    {
+      "start": 966.78,
+      "end": 970.62,
+      "speaker": "SPEAKER_01",
+      "text": "for the level of interest that folks are having every year and what we could recently capture."
+    },
+    {
+      "start": 971.1,
+      "end": 978.46,
+      "speaker": "SPEAKER_01",
+      "text": "So I think that what I would do next is kind of understand what share of this market that"
+    },
+    {
+      "start": 978.46,
+      "end": 985.34,
+      "speaker": "SPEAKER_02",
+      "text": "our client could reasonably capture if they entered it. Got it. So in going back to our client,"
+    },
+    {
+      "start": 985.34,
+      "end": 992.3,
+      "speaker": "SPEAKER_02",
+      "text": "Lincoln Green, they let us know that they aim to have 3 million customers in the UK in six years."
+    },
+    {
+      "start": 992.3,
+      "end": 997.5,
+      "speaker": "SPEAKER_02",
+      "text": "So six years from now, they have to have 3 million customers. Given this difference, what are some"
+    },
+    {
+      "start": 997.5,
+      "end": 1007.42,
+      "speaker": "SPEAKER_01",
+      "text": "potential ways it can attain this goal? Sure. And it sounds like because they would, based on our"
+    },
+    {
+      "start": 1007.42,
+      "end": 1013.26,
+      "speaker": "SPEAKER_01",
+      "text": "calculations, they would fall short of what we calculated would be the total number of millennials"
+    },
+    {
+      "start": 1013.26,
+      "end": 1019.26,
+      "speaker": "SPEAKER_01",
+      "text": "that would have a portfolio in six years. So I think I'll take a minute if you don't mind,"
+    },
+    {
+      "start": 1019.26,
+      "end": 1024.22,
+      "speaker": "SPEAKER_01",
+      "text": "just to come up with ways we could help kind of encourage more millennials to engage in this."
+    },
+    {
+      "start": 1057.66,
+      "end": 1067.18,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. So there's a couple of ways that I'm thinking about this. One, they can kind of work on"
+    },
+    {
+      "start": 1067.18,
+      "end": 1072.3,
+      "speaker": "SPEAKER_01",
+      "text": "education, so educating people on the value of investing. And second is finding out ways to"
+    },
+    {
+      "start": 1072.3,
+      "end": 1078.3,
+      "speaker": "SPEAKER_01",
+      "text": "incentivize millennials. So one, in going into educating, perhaps they can have a way to"
+    },
+    {
+      "start": 1078.3,
+      "end": 1084.38,
+      "speaker": "SPEAKER_01",
+      "text": "educate or spread the message on the positive value of investing or engaging in kind of investing"
+    },
+    {
+      "start": 1084.38,
+      "end": 1088.5400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "ETFs or stocks. And one thing they can do is perhaps have some testimonials from the success"
+    },
+    {
+      "start": 1088.5400000000002,
+      "end": 1093.0200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "they've had in the US. You know, folks actually talking to this, whether it's influencers or just"
+    },
+    {
+      "start": 1093.0200000000002,
+      "end": 1099.0200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "regular everyday people. And second is showing data, data on what the average growth of ETFs has been,"
+    },
+    {
+      "start": 1099.0200000000002,
+      "end": 1104.38,
+      "speaker": "SPEAKER_01",
+      "text": "even for me, when I look at when I finally started understanding that investing in ETFs would be good,"
+    },
+    {
+      "start": 1104.38,
+      "end": 1109.18,
+      "speaker": "SPEAKER_01",
+      "text": "it was for me seeing the last 10 or 12 years what the average growth rate and return of ETFs"
+    },
+    {
+      "start": 1109.18,
+      "end": 1113.74,
+      "speaker": "SPEAKER_01",
+      "text": "are in the market. So letting them know it's relatively safe and not as risky as they might think."
+    },
+    {
+      "start": 1113.74,
+      "end": 1117.42,
+      "speaker": "SPEAKER_01",
+      "text": "And secondly, looking at incentivizing, perhaps they can do promotions. Hey, if you sign up,"
+    },
+    {
+      "start": 1117.42,
+      "end": 1123.02,
+      "speaker": "SPEAKER_01",
+      "text": "we'll give you like five free stocks. And or we could do some sort of partnerships with current"
+    },
+    {
+      "start": 1123.02,
+      "end": 1128.14,
+      "speaker": "SPEAKER_01",
+      "text": "companies or financial companies. And two, they can maybe use some influencers through social media"
+    },
+    {
+      "start": 1128.14,
+      "end": 1132.6200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "to really help do some affiliate marketing and things of that nature. So those are coming"
+    },
+    {
+      "start": 1132.62,
+      "end": 1135.02,
+      "speaker": "SPEAKER_01",
+      "text": "as some of the initial ideas that I'm thinking about."
+    },
+    {
+      "start": 1135.02,
+      "end": 1162.3799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "I think that another thing they can do in terms of just going until kind of"
+    },
+    {
+      "start": 1162.38,
+      "end": 1169.9,
+      "speaker": "SPEAKER_01",
+      "text": "strategically marketing, I think they can target where millennials work in the UK. They probably work in,"
+    },
+    {
+      "start": 1171.5800000000002,
+      "end": 1177.2600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "my crowd generally works and there's a lot of folks who are in tech companies and maybe even"
+    },
+    {
+      "start": 1177.2600000000002,
+      "end": 1181.5,
+      "speaker": "SPEAKER_01",
+      "text": "millennials that are in schools even you can start in colleges and actually go and advertise,"
+    },
+    {
+      "start": 1181.5,
+      "end": 1186.7800000000002,
+      "speaker": "SPEAKER_01",
+      "text": "have people go on campus in colleges or go into work, have a session like a one hour session at work"
+    },
+    {
+      "start": 1186.7800000000002,
+      "end": 1192.0600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "where our client goes in and educates them on the value of investing. So that could perhaps"
+    },
+    {
+      "start": 1192.06,
+      "end": 1194.62,
+      "speaker": "SPEAKER_01",
+      "text": "work in some targeted millennial advertising."
+    },
+    {
+      "start": 1198.06,
+      "end": 1206.06,
+      "speaker": "SPEAKER_02",
+      "text": "All right, so I've got four things I've got. I've got that they can have partnerships that they"
+    },
+    {
+      "start": 1206.06,
+      "end": 1213.6599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "remind me your first idea again. So I started with the educate. So I had testimonials. I had"
+    },
+    {
+      "start": 1213.6599999999999,
+      "end": 1219.82,
+      "speaker": "SPEAKER_01",
+      "text": "actual data. So approaching it from a subjective and an objective way. And then I went to,"
+    },
+    {
+      "start": 1219.82,
+      "end": 1228.1399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "yeah, when it comes to incentivizing people. So like actually partnerships to market promotions."
+    },
+    {
+      "start": 1231.26,
+      "end": 1237.26,
+      "speaker": "SPEAKER_01",
+      "text": "And then different ways of advertising. So whether you do influencers or targeted through"
+    },
+    {
+      "start": 1237.26,
+      "end": 1244.46,
+      "speaker": "SPEAKER_02",
+      "text": "businesses and colleges and things like that, it should. Okay. And so given all of this that we've"
+    },
+    {
+      "start": 1244.46,
+      "end": 1250.54,
+      "speaker": "SPEAKER_02",
+      "text": "discussed, what would your overall recommendation recommendation be? Sure. I just want to jot down"
+    },
+    {
+      "start": 1250.54,
+      "end": 1254.8600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "my notes real quick and then I'm sure I'm in my recommendation."
+    },
+    {
+      "start": 1274.46,
+      "end": 1287.3400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So we were asked to come in to advise our client on how to consider"
+    },
+    {
+      "start": 1287.9,
+      "end": 1294.8600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "expanding into a market that would be advantages to them for their services. We believe that the UK"
+    },
+    {
+      "start": 1294.8600000000001,
+      "end": 1300.14,
+      "speaker": "SPEAKER_01",
+      "text": "market is a highly encouraging market for them to expand to. And the reasons are because one,"
+    },
+    {
+      "start": 1300.14,
+      "end": 1304.94,
+      "speaker": "SPEAKER_01",
+      "text": "we believe that based on just the current growth rate and millennials that are interested in"
+    },
+    {
+      "start": 1304.94,
+      "end": 1309.8200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "investment, believe they can grow in six years to about 2.3 million millennials that are"
+    },
+    {
+      "start": 1309.8200000000002,
+      "end": 1314.6200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "in interest in investment. But on top of that, there's an overall pool of millennials of about 9.2"
+    },
+    {
+      "start": 1314.6200000000001,
+      "end": 1319.26,
+      "speaker": "SPEAKER_01",
+      "text": "million. So a lot that we can do in terms of actually increasing the number of millennials that"
+    },
+    {
+      "start": 1319.26,
+      "end": 1324.3000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "invest in a way increasing our opportunity in the UK. So we believe, especially with that growth,"
+    },
+    {
+      "start": 1324.46,
+      "end": 1330.3,
+      "speaker": "SPEAKER_01",
+      "text": "it was very encouraging. We believe we can use with our success rate and as a company or brand"
+    },
+    {
+      "start": 1330.3,
+      "end": 1339.1,
+      "speaker": "SPEAKER_01",
+      "text": "in image, we can use many other avenues such as partnerships, promotions, testimonials from the US,"
+    },
+    {
+      "start": 1339.1,
+      "end": 1345.02,
+      "speaker": "SPEAKER_01",
+      "text": "etc. Some ricks we believe we need to we need to make sure we manage and address our maybe geopolitical"
+    },
+    {
+      "start": 1345.02,
+      "end": 1350.06,
+      "speaker": "SPEAKER_01",
+      "text": "risks as well as regulatory risks. We're unsure of the market in the U.S. likely different than the"
+    },
+    {
+      "start": 1350.06,
+      "end": 1354.62,
+      "speaker": "SPEAKER_01",
+      "text": "market in the US. So kind of address those kind of risks. And then lastly, in terms of next steps,"
+    },
+    {
+      "start": 1354.62,
+      "end": 1360.06,
+      "speaker": "SPEAKER_01",
+      "text": "I just want to make sure that we do more due diligence in the financial implications of this for"
+    },
+    {
+      "start": 1360.7,
+      "end": 1367.82,
+      "speaker": "SPEAKER_02",
+      "text": "like degree from a revenue and cost standpoint. Great. All right. That was a"
+    },
+    {
+      "start": 1368.86,
+      "end": 1372.62,
+      "speaker": "SPEAKER_02",
+      "text": "it packed a punch. It was a quicker case. How did that feel?"
+    },
+    {
+      "start": 1374.06,
+      "end": 1378.3799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Uncomfortable. I have to be honest. I'm not very good at financial stuff. I'm uncomfortable."
+    },
+    {
+      "start": 1379.18,
+      "end": 1384.3000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "And that's actually so I'm glad you did that because it's good for me to go outside and"
+    },
+    {
+      "start": 1384.3000000000002,
+      "end": 1390.0600000000002,
+      "speaker": "SPEAKER_01",
+      "text": "to comforts on. So I felt like my ideas maybe were a little dry and that's and like my creativity was"
+    },
+    {
+      "start": 1390.0600000000002,
+      "end": 1396.94,
+      "speaker": "SPEAKER_01",
+      "text": "maybe a little bit dry. But overall, I thought I thought like at least the dynamic between you and me"
+    },
+    {
+      "start": 1396.94,
+      "end": 1403.8200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "was good. That in that conversation was good. So that's that was my initial thought on that that"
+    },
+    {
+      "start": 1403.82,
+      "end": 1410.3,
+      "speaker": "SPEAKER_02",
+      "text": "could love to hear your feedback. Great. So of course, the case is testing you on many components."
+    },
+    {
+      "start": 1410.3,
+      "end": 1413.6599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "And we're going to go through the core, the three core components where you're tested."
+    },
+    {
+      "start": 1415.02,
+      "end": 1419.34,
+      "speaker": "SPEAKER_02",
+      "text": "Beyond those those three core components, as you already know, are your your framework,"
+    },
+    {
+      "start": 1419.34,
+      "end": 1426.06,
+      "speaker": "SPEAKER_02",
+      "text": "your analytical thinking, your ability to show structure to your quantitative thinking. So your"
+    },
+    {
+      "start": 1426.06,
+      "end": 1433.5,
+      "speaker": "SPEAKER_02",
+      "text": "ability to navigate numbers, have a feel for the numbers, show comfort with calculations. And then"
+    },
+    {
+      "start": 1433.5,
+      "end": 1438.54,
+      "speaker": "SPEAKER_02",
+      "text": "three, your conceptual problem solving. So your ability to ideate, to brainstorm, to move through"
+    },
+    {
+      "start": 1438.54,
+      "end": 1445.18,
+      "speaker": "SPEAKER_02",
+      "text": "ambiguous ideas. Beyond that, there are two other things that are kind of soft being tested through"
+    },
+    {
+      "start": 1445.18,
+      "end": 1450.86,
+      "speaker": "SPEAKER_02",
+      "text": "a case. And that would be a just structured communication throughout. Not being too long-winded."
+    },
+    {
+      "start": 1450.86,
+      "end": 1456.62,
+      "speaker": "SPEAKER_02",
+      "text": "I have interviewed a number of people who talk too much and just run out of time to move through"
+    },
+    {
+      "start": 1456.62,
+      "end": 1462.54,
+      "speaker": "SPEAKER_02",
+      "text": "the case so that you did a great job there. And then the other is just grace under pressure. So"
+    },
+    {
+      "start": 1462.54,
+      "end": 1467.6599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "there will be times where you're feeling uncomfortable in the hot seat. I assume that you were feeling"
+    },
+    {
+      "start": 1467.6599999999999,
+      "end": 1473.34,
+      "speaker": "SPEAKER_02",
+      "text": "that way, especially during the math question. And you demonstrated a good amount of grace under pressure"
+    },
+    {
+      "start": 1473.34,
+      "end": 1480.86,
+      "speaker": "SPEAKER_02",
+      "text": "not getting flustered or frustrated. So I have, I'm going to go chronologically, but"
+    },
+    {
+      "start": 1482.7,
+      "end": 1488.3799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "remind me I have a story about the math related to my own McKinsey interview if I forget to tell"
+    },
+    {
+      "start": 1488.38,
+      "end": 1497.42,
+      "speaker": "SPEAKER_02",
+      "text": "you when I give you feedback. I would love to hear that. Yeah. So the first is just going chronologically."
+    },
+    {
+      "start": 1499.0200000000002,
+      "end": 1503.1000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "When it came to the recap, the recap is one of the first opportunities you have to demonstrate"
+    },
+    {
+      "start": 1503.1000000000001,
+      "end": 1508.6200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "the same communication. So not repeating back the entire case, just like the key, the key"
+    },
+    {
+      "start": 1508.6200000000001,
+      "end": 1515.5800000000002,
+      "speaker": "SPEAKER_02",
+      "text": "bullet points. I thought that you did a really good job doing that. One assumption, this is a"
+    },
+    {
+      "start": 1515.58,
+      "end": 1521.26,
+      "speaker": "SPEAKER_02",
+      "text": "knit. One assumption you made, you said. So the question is what other markets we can consider for"
+    },
+    {
+      "start": 1521.26,
+      "end": 1525.8999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "expansion given our current business model. I have in fact at McKinsey done studies where we"
+    },
+    {
+      "start": 1525.8999999999999,
+      "end": 1530.46,
+      "speaker": "SPEAKER_02",
+      "text": "consider new markets for expansion and consider new products or new adjacencies for expansion. So I"
+    },
+    {
+      "start": 1530.46,
+      "end": 1536.06,
+      "speaker": "SPEAKER_02",
+      "text": "wouldn't assume it. It's a fair assumption here, but just a knit. But overall, had a really good"
+    },
+    {
+      "start": 1537.1,
+      "end": 1542.54,
+      "speaker": "SPEAKER_02",
+      "text": "a really good wrap up your clarifying questions. We're right on the money. So typically clarifying"
+    },
+    {
+      "start": 1542.54,
+      "end": 1547.58,
+      "speaker": "SPEAKER_02",
+      "text": "questions, as you probably know, you want to use them to do a couple of things. One, just like"
+    },
+    {
+      "start": 1547.58,
+      "end": 1554.54,
+      "speaker": "SPEAKER_02",
+      "text": "understand, like understand the fundamentals of the business. So okay, so what do they exactly"
+    },
+    {
+      "start": 1554.54,
+      "end": 1560.1399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "sell again? Which products and just to make sure I understand, I'm assuming they make money this way."
+    },
+    {
+      "start": 1560.86,
+      "end": 1565.18,
+      "speaker": "SPEAKER_02",
+      "text": "Is there any more information about that? Again, just not trying to get into data, just trying to"
+    },
+    {
+      "start": 1565.18,
+      "end": 1569.74,
+      "speaker": "SPEAKER_02",
+      "text": "really understand the fundamentals, how the business works. The second thing that you're going to"
+    },
+    {
+      "start": 1569.74,
+      "end": 1576.7,
+      "speaker": "SPEAKER_02",
+      "text": "want to do, you didn't do it here. That's not a bad thing. It's for you is to clarify any definitions"
+    },
+    {
+      "start": 1576.7,
+      "end": 1583.74,
+      "speaker": "SPEAKER_02",
+      "text": "that you may not know. I've done many projects that involved words that I had never heard of before"
+    },
+    {
+      "start": 1583.74,
+      "end": 1588.6200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "I started the project at McKinsey. And so certainly if you were coming in and you said, you know what?"
+    },
+    {
+      "start": 1588.6200000000001,
+      "end": 1594.06,
+      "speaker": "SPEAKER_02",
+      "text": "I actually don't know what an ETF is. Can you explain, let me know what that is very briefly?"
+    },
+    {
+      "start": 1594.62,
+      "end": 1599.58,
+      "speaker": "SPEAKER_02",
+      "text": "That would be okay. And then the third thing which you did was just hitting on the objective."
+    },
+    {
+      "start": 1599.58,
+      "end": 1604.3799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "And you can say really two things. Like, one, I understand this to be the potential objectives,"
+    },
+    {
+      "start": 1604.3799999999999,
+      "end": 1609.74,
+      "speaker": "SPEAKER_02",
+      "text": "or this to be the potential objective. Is there anything else such as XYZ or is there a particular"
+    },
+    {
+      "start": 1609.74,
+      "end": 1615.4199999999998,
+      "speaker": "SPEAKER_02",
+      "text": "time frame that we are looking for? Which again, you did well. Really, this time is for you."
+    },
+    {
+      "start": 1616.1399999999999,
+      "end": 1620.06,
+      "speaker": "SPEAKER_02",
+      "text": "Really, the only watch out is not to be too verbose, which you were not. You're great."
+    },
+    {
+      "start": 1620.3799999999999,
+      "end": 1627.82,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so we jump into the math and I have a lot of feelings here. So a couple of things. First,"
+    },
+    {
+      "start": 1629.26,
+      "end": 1635.4199999999998,
+      "speaker": "SPEAKER_02",
+      "text": "as much as I love management consulted and they were instrumental in helping me get my McKinsey"
+    },
+    {
+      "start": 1635.4199999999998,
+      "end": 1642.46,
+      "speaker": "SPEAKER_02",
+      "text": "offer, I would say that this math is a smidge more challenging than what I have seen in actual"
+    },
+    {
+      "start": 1642.46,
+      "end": 1649.5,
+      "speaker": "SPEAKER_02",
+      "text": "interviews. But it's better that way than the other way. I would say two things. And this is where"
+    },
+    {
+      "start": 1649.66,
+      "end": 1654.86,
+      "speaker": "SPEAKER_02",
+      "text": "my story comes in. Number one, if the math is starting to seem or feel like what I like to call"
+    },
+    {
+      "start": 1654.86,
+      "end": 1659.98,
+      "speaker": "SPEAKER_02",
+      "text": "monkey math, or just you're starting to get into some really gnarly numbers, I would say that's"
+    },
+    {
+      "start": 1659.98,
+      "end": 1664.78,
+      "speaker": "SPEAKER_02",
+      "text": "like a watch out typically because they're not interested in you figuring out like how to do a"
+    },
+    {
+      "start": 1664.78,
+      "end": 1669.66,
+      "speaker": "SPEAKER_02",
+      "text": "compound growth rate. So in this particular case, and I'm going to give a much more detailed"
+    },
+    {
+      "start": 1669.66,
+      "end": 1675.1,
+      "speaker": "SPEAKER_02",
+      "text": "feedback on the math. But in this particular case, the shortcut for you to figure out what"
+    },
+    {
+      "start": 1675.98,
+      "end": 1684.54,
+      "speaker": "SPEAKER_02",
+      "text": "the number of users would be after six years is the rule of 72. So if you take 72 divided by a fixed"
+    },
+    {
+      "start": 1684.54,
+      "end": 1690.06,
+      "speaker": "SPEAKER_02",
+      "text": "growth rate, that tells you the number of years that something will dupal in this case 72 divided"
+    },
+    {
+      "start": 1690.06,
+      "end": 1694.86,
+      "speaker": "SPEAKER_02",
+      "text": "by 24 is three. So you know that it's that the market is going to be 4x the size of what it is"
+    },
+    {
+      "start": 1694.86,
+      "end": 1701.5,
+      "speaker": "SPEAKER_02",
+      "text": "today in six years. Now that's just that's just a funny funny thing here. So I would say like,"
+    },
+    {
+      "start": 1701.58,
+      "end": 1707.26,
+      "speaker": "SPEAKER_02",
+      "text": "your watch out is like, huh, this is like really kind of getting into the weeds and you can even"
+    },
+    {
+      "start": 1707.26,
+      "end": 1712.94,
+      "speaker": "SPEAKER_02",
+      "text": "stop and say your interviewer. So here's my funny story on that. When I had my final round at McKinsey,"
+    },
+    {
+      "start": 1712.94,
+      "end": 1720.46,
+      "speaker": "SPEAKER_02",
+      "text": "I was unsurprisingly very nervous. And I got into a growth rate question. I do not know that I"
+    },
+    {
+      "start": 1720.46,
+      "end": 1726.22,
+      "speaker": "SPEAKER_02",
+      "text": "forget the specifics beyond that. And I started setting up the calculation and I just got stuck."
+    },
+    {
+      "start": 1726.22,
+      "end": 1731.74,
+      "speaker": "SPEAKER_02",
+      "text": "I got stuck. And I couldn't I just I couldn't figure out what to do. And so I said, okay, I know"
+    },
+    {
+      "start": 1731.74,
+      "end": 1736.22,
+      "speaker": "SPEAKER_02",
+      "text": "they're testing me on structure. I have nothing to lose here. I'm just going to let her know. And I"
+    },
+    {
+      "start": 1736.22,
+      "end": 1740.3,
+      "speaker": "SPEAKER_02",
+      "text": "said, here's my structure. Here's my approach. Here's where I'm getting stuck. And I communicated"
+    },
+    {
+      "start": 1740.3,
+      "end": 1744.54,
+      "speaker": "SPEAKER_02",
+      "text": "to her like, this is the place where I'm getting stuck. I think I should do this. But it doesn't sound"
+    },
+    {
+      "start": 1744.54,
+      "end": 1748.78,
+      "speaker": "SPEAKER_02",
+      "text": "right to me. And I just wanted to gut check that with you. And she said, actually, just do this"
+    },
+    {
+      "start": 1748.78,
+      "end": 1755.58,
+      "speaker": "SPEAKER_02",
+      "text": "instead of this. And I moved right past the case. So, you know, not saying that that is like part"
+    },
+    {
+      "start": 1755.58,
+      "end": 1761.66,
+      "speaker": "SPEAKER_02",
+      "text": "of part of every interviewer. But A, if something seems a little too funky, it probably is. And B,"
+    },
+    {
+      "start": 1761.66,
+      "end": 1766.3,
+      "speaker": "SPEAKER_02",
+      "text": "if you're like really, really getting down to the weeds, like you're allowed once to ask for help."
+    },
+    {
+      "start": 1766.3,
+      "end": 1770.54,
+      "speaker": "SPEAKER_02",
+      "text": "Now, if your interviewers get together and all of them say, huh, the vet got needed help during"
+    },
+    {
+      "start": 1770.54,
+      "end": 1774.62,
+      "speaker": "SPEAKER_02",
+      "text": "the math. Like that would be a red flag. But, you know, if something's getting a little funky,"
+    },
+    {
+      "start": 1775.58,
+      "end": 1779.9799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "that's that's that was at least my experience. So with the better thing have been, and actually,"
+    },
+    {
+      "start": 1779.9799999999998,
+      "end": 1784.2199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "I'm glad you told me that formula never knew. That's a good learning opportunity for me. So,"
+    },
+    {
+      "start": 1784.2199999999998,
+      "end": 1790.3,
+      "speaker": "SPEAKER_01",
+      "text": "just to clarify, it sounds like 72 divided by the growth rate or the growth percentage is the time"
+    },
+    {
+      "start": 1790.3,
+      "end": 1796.3799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "it takes to double essentially, right? So, in this case, 72 divided by the 24% would equal 3. That's"
+    },
+    {
+      "start": 1796.3799999999999,
+      "end": 1804.06,
+      "speaker": "SPEAKER_01",
+      "text": "how many years it would take to double the kind of pool. Correct. But it has to be a fixed growth rate."
+    },
+    {
+      "start": 1804.06,
+      "end": 1808.86,
+      "speaker": "SPEAKER_02",
+      "text": "So if I told you it's growing 24% in year one, 8% in year two, then it doesn't, you throw it out the"
+    },
+    {
+      "start": 1808.86,
+      "end": 1813.82,
+      "speaker": "SPEAKER_01",
+      "text": "window. It doesn't work. Okay. Okay. And so in this case, the best way for me to have done is,"
+    },
+    {
+      "start": 1813.82,
+      "end": 1818.06,
+      "speaker": "SPEAKER_01",
+      "text": "be like, hey, I'm going to do, I'm going to do my compound annual growth rate or whatever"
+    },
+    {
+      "start": 1818.06,
+      "end": 1822.7,
+      "speaker": "SPEAKER_01",
+      "text": "calculation this way. I'm going to do year by year and run it by you. Then maybe you would have"
+    },
+    {
+      "start": 1822.7,
+      "end": 1828.94,
+      "speaker": "SPEAKER_01",
+      "text": "been like, that's what you should do 72 divided by the growth rate. That is a beautiful transition"
+    },
+    {
+      "start": 1828.94,
+      "end": 1836.7,
+      "speaker": "SPEAKER_02",
+      "text": "of a VEX. So this is my, it's not mine. It was taught to me. Okay. Kind of math steps. So,"
+    },
+    {
+      "start": 1836.7,
+      "end": 1840.94,
+      "speaker": "SPEAKER_02",
+      "text": "something that I love and that made me so much more comfortable with casing is that, you know,"
+    },
+    {
+      "start": 1840.94,
+      "end": 1846.14,
+      "speaker": "SPEAKER_02",
+      "text": "when I found out two things, like, yes, I need to show my ability to brainstorm and my ability to"
+    },
+    {
+      "start": 1846.14,
+      "end": 1851.98,
+      "speaker": "SPEAKER_02",
+      "text": "move through quantitative calculations. But it's really also about being structured and being able to"
+    },
+    {
+      "start": 1852.22,
+      "end": 1860.14,
+      "speaker": "SPEAKER_02",
+      "text": "clean insights from each area of the case. So I just realized I just skipped over your frameworks."
+    },
+    {
+      "start": 1860.14,
+      "end": 1866.22,
+      "speaker": "SPEAKER_02",
+      "text": "We've got to go back to that. But, but in this particular case, you started out well. You said,"
+    },
+    {
+      "start": 1866.22,
+      "end": 1871.5,
+      "speaker": "SPEAKER_02",
+      "text": "so step one is you just repeat the facts. You will be shocked at how many people miss here numbers,"
+    },
+    {
+      "start": 1871.5,
+      "end": 1875.9,
+      "speaker": "SPEAKER_02",
+      "text": "especially on a Zoom. So step one, always just repeat the facts and the objective."
+    },
+    {
+      "start": 1876.7,
+      "end": 1882.7800000000002,
+      "speaker": "SPEAKER_02",
+      "text": "Step two is tell me what you're going to do in words only. All right. So the first thing I'm"
+    },
+    {
+      "start": 1882.7800000000002,
+      "end": 1887.02,
+      "speaker": "SPEAKER_02",
+      "text": "going to do in stands for question one, that's easy. It's, you know, population multiplied by"
+    },
+    {
+      "start": 1887.02,
+      "end": 1892.46,
+      "speaker": "SPEAKER_02",
+      "text": "X percent, but the second calculation very straightforward. The third calculation, you say,"
+    },
+    {
+      "start": 1892.46,
+      "end": 1896.7800000000002,
+      "speaker": "SPEAKER_02",
+      "text": "all right, so in words, this is what I'm going to do. I'm going to take this number. So I'm going to take"
+    },
+    {
+      "start": 1896.7800000000002,
+      "end": 1903.3400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "the number of active portfolio and then I'm going to multiply it times that, you know, I'm going to"
+    },
+    {
+      "start": 1903.34,
+      "end": 1907.4199999999998,
+      "speaker": "SPEAKER_02",
+      "text": "apply the growth rate each year. And so I'm going to calculate a new growth each year. Does that sound"
+    },
+    {
+      "start": 1907.4199999999998,
+      "end": 1913.02,
+      "speaker": "SPEAKER_02",
+      "text": "good to you? And if your interviewer was feeling generous, they may say, hey, you know, there's actually,"
+    },
+    {
+      "start": 1913.02,
+      "end": 1916.78,
+      "speaker": "SPEAKER_02",
+      "text": "can you think of a faster way? Or they may just say, yes, that's, that's okay."
+    },
+    {
+      "start": 1919.1799999999998,
+      "end": 1923.6599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "And then the third thing that I would do is I would kind of, I would lay out the variables. So"
+    },
+    {
+      "start": 1923.6599999999999,
+      "end": 1928.3,
+      "speaker": "SPEAKER_02",
+      "text": "almost like think that you're building your Excel model. All right. So I've got number of active portfolio"
+    },
+    {
+      "start": 1928.3,
+      "end": 1934.22,
+      "speaker": "SPEAKER_02",
+      "text": "managers times, you know, this particular growth rate. And then I'm going to do this six more times."
+    },
+    {
+      "start": 1934.22,
+      "end": 1938.94,
+      "speaker": "SPEAKER_02",
+      "text": "You plug in the numbers and then you get your answer. And then you stop and you kind of look at"
+    },
+    {
+      "start": 1938.94,
+      "end": 1944.1399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "that answer and you think, where can I turn this into a percentage? And what are some of the early"
+    },
+    {
+      "start": 1944.1399999999999,
+      "end": 1951.1,
+      "speaker": "SPEAKER_02",
+      "text": "implications that number tells me? So in terms of market entry, a great way to think about this would"
+    },
+    {
+      "start": 1951.1,
+      "end": 1958.06,
+      "speaker": "SPEAKER_02",
+      "text": "be what does it denote in terms of market share? And so if I were to be looking at this case, now"
+    },
+    {
+      "start": 1958.06,
+      "end": 1964.22,
+      "speaker": "SPEAKER_02",
+      "text": "you know, I'm on the other side of three years at McKinsey. So I've got an advantage. But if I were"
+    },
+    {
+      "start": 1964.22,
+      "end": 1971.98,
+      "speaker": "SPEAKER_02",
+      "text": "looking at this case and I said, okay, so after six years, we would expect the number to be 2.5 million."
+    },
+    {
+      "start": 1973.02,
+      "end": 1981.26,
+      "speaker": "SPEAKER_02",
+      "text": "Huh. Okay. So given the current population of the UK today, that would expect us to roughly"
+    },
+    {
+      "start": 1981.26,
+      "end": 1988.22,
+      "speaker": "SPEAKER_02",
+      "text": "have share within, you know, a little over one in 30 people in the country. That could be doable,"
+    },
+    {
+      "start": 1988.22,
+      "end": 1994.22,
+      "speaker": "SPEAKER_02",
+      "text": "but I don't even know what it sounds like it could be a bit challenging, especially given that it"
+    },
+    {
+      "start": 1994.22,
+      "end": 1998.3799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "would be new market entry. I would also just want to understand what is our current market share in the"
+    },
+    {
+      "start": 1998.3799999999999,
+      "end": 2004.14,
+      "speaker": "SPEAKER_02",
+      "text": "US, given that that's our home base? That would help us provide a comparison point against our potential"
+    },
+    {
+      "start": 2004.14,
+      "end": 2012.8600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "market share ambitions. Okay. And in fact, and another way to think about this is the next question,"
+    },
+    {
+      "start": 2012.8600000000001,
+      "end": 2017.3400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "and I promise we'll go back to your framework. The next question, linking green investments aims"
+    },
+    {
+      "start": 2017.3400000000001,
+      "end": 2022.7,
+      "speaker": "SPEAKER_02",
+      "text": "to have 3 million customers in the UK, what are potential ways it can attain this goal? It is"
+    },
+    {
+      "start": 2022.7,
+      "end": 2027.5,
+      "speaker": "SPEAKER_02",
+      "text": "completely okay to start this by saying 3 million. Wow, I, that's challenging. Just right up the"
+    },
+    {
+      "start": 2027.5,
+      "end": 2034.54,
+      "speaker": "SPEAKER_02",
+      "text": "bat. I think that that might be really difficult, because again, that would be around one in 25"
+    },
+    {
+      "start": 2034.54,
+      "end": 2041.9,
+      "speaker": "SPEAKER_02",
+      "text": "consumers. That might be difficult to get, especially just right off the bat. So given some of these"
+    },
+    {
+      "start": 2041.9,
+      "end": 2046.38,
+      "speaker": "SPEAKER_02",
+      "text": "challenges, here are a couple of ways that I'm thinking about it. Option A, and this is the approach"
+    },
+    {
+      "start": 2046.38,
+      "end": 2051.74,
+      "speaker": "SPEAKER_02",
+      "text": "you took in your conceptual problem solving, you were just focused on expanding the millennial segment,"
+    },
+    {
+      "start": 2051.74,
+      "end": 2056.22,
+      "speaker": "SPEAKER_02",
+      "text": "and you can do that. Option A is, you know, figure out how to maximize our potential within the"
+    },
+    {
+      "start": 2056.22,
+      "end": 2060.9399999999996,
+      "speaker": "SPEAKER_02",
+      "text": "millennial segment and give some of the ideas you gave. Option B is to move into new segments."
+    },
+    {
+      "start": 2060.9399999999996,
+      "end": 2066.62,
+      "speaker": "SPEAKER_02",
+      "text": "So I think can we go into the Gen Z segment or into the boomer segment? Are there existing"
+    },
+    {
+      "start": 2066.62,
+      "end": 2075.8199999999997,
+      "speaker": "SPEAKER_02",
+      "text": "relationships that that we would have with those consumers? Now, something that I just mentioned in"
+    },
+    {
+      "start": 2075.8199999999997,
+      "end": 2083.02,
+      "speaker": "SPEAKER_02",
+      "text": "the math piece is that after you finish your calculations, you're going to want to step back and"
+    },
+    {
+      "start": 2083.02,
+      "end": 2088.54,
+      "speaker": "SPEAKER_02",
+      "text": "say, what does this number mean to me? Again, at the CEO, we're to walk in right now, and I've calculated"
+    },
+    {
+      "start": 2088.54,
+      "end": 2094.14,
+      "speaker": "SPEAKER_02",
+      "text": "this number. What would I tell him? And you'd be surprised. There are a number of people who I"
+    },
+    {
+      "start": 2094.14,
+      "end": 2099.34,
+      "speaker": "SPEAKER_02",
+      "text": "interview, and they, you know, do their calculation, and they come up, and they say, okay, the answer is 1.5."
+    },
+    {
+      "start": 2099.34,
+      "end": 2105.18,
+      "speaker": "SPEAKER_02",
+      "text": "And like, really, like, so what? You know, I'm never going to like go to a CEO and just say this,"
+    },
+    {
+      "start": 2105.18,
+      "end": 2109.9,
+      "speaker": "SPEAKER_02",
+      "text": "like, one number. I want to say, like, what are the implications of that? The same goes for your"
+    },
+    {
+      "start": 2109.9,
+      "end": 2117.02,
+      "speaker": "SPEAKER_02",
+      "text": "brainstorming. So it's not just enough for you to, for you to have particular answers. It's also"
+    },
+    {
+      "start": 2117.02,
+      "end": 2121.82,
+      "speaker": "SPEAKER_02",
+      "text": "for you to kind of go the next level deeper to talk about some of the implications of your answers."
+    },
+    {
+      "start": 2122.7000000000003,
+      "end": 2127.26,
+      "speaker": "SPEAKER_02",
+      "text": "And in fact, that's really how a lot of these firms are thinking about it is that the phrases,"
+    },
+    {
+      "start": 2127.26,
+      "end": 2131.9,
+      "speaker": "SPEAKER_02",
+      "text": "can you produce second or third level insights or second or third order insights?"
+    },
+    {
+      "start": 2132.54,
+      "end": 2140.54,
+      "speaker": "SPEAKER_02",
+      "text": "Also, a hygiene piece with your conceptual problem solving is typically you want to achieve four."
+    },
+    {
+      "start": 2141.26,
+      "end": 2145.58,
+      "speaker": "SPEAKER_02",
+      "text": "So you heard me when you were brainstorming. I listed out your answers, and then I was like, what"
+    },
+    {
+      "start": 2145.58,
+      "end": 2151.26,
+      "speaker": "SPEAKER_02",
+      "text": "else? If an interviewer is feeling especially spicy that they will really just stare at you and say,"
+    },
+    {
+      "start": 2151.26,
+      "end": 2157.58,
+      "speaker": "SPEAKER_02",
+      "text": "what else? What else? What else? In order to kind of get ahead of this, you minimum four, you really"
+    },
+    {
+      "start": 2157.58,
+      "end": 2163.98,
+      "speaker": "SPEAKER_02",
+      "text": "want to push for five. And by the way, you don't need to have five amazing ready-to-go ideas."
+    },
+    {
+      "start": 2163.98,
+      "end": 2168.06,
+      "speaker": "SPEAKER_02",
+      "text": "You can say, and this is one way to show good business judgment, you can say,"
+    },
+    {
+      "start": 2169.74,
+      "end": 2175.9,
+      "speaker": "SPEAKER_02",
+      "text": "so achieving three million customers in the UK six years from now, that seems like a pretty"
+    },
+    {
+      "start": 2175.9,
+      "end": 2181.74,
+      "speaker": "SPEAKER_02",
+      "text": "lofty goal. I've got a couple of ideas here ranging from most impactful to least impactful,"
+    },
+    {
+      "start": 2182.2999999999997,
+      "end": 2190.06,
+      "speaker": "SPEAKER_02",
+      "text": "and then also kind of like safe bet to a little bit crazy. So here are a couple of ideas, and I'm"
+    },
+    {
+      "start": 2190.06,
+      "end": 2193.74,
+      "speaker": "SPEAKER_02",
+      "text": "going to plot them along this two by two. You don't need to do a two by two, but it's like a way to"
+    },
+    {
+      "start": 2193.74,
+      "end": 2201.8999999999996,
+      "speaker": "SPEAKER_02",
+      "text": "organize your ideas. So the first is we want to deepen our engagement with our current customers,"
+    },
+    {
+      "start": 2202.62,
+      "end": 2207.8199999999997,
+      "speaker": "SPEAKER_02",
+      "text": "and can we do this through engaging our current customer base, through thinking about friends,"
+    },
+    {
+      "start": 2207.82,
+      "end": 2214.2200000000003,
+      "speaker": "SPEAKER_02",
+      "text": "referrals, whatever. Second thing I want to do is I want to think about really working with existing"
+    },
+    {
+      "start": 2214.2200000000003,
+      "end": 2219.5800000000004,
+      "speaker": "SPEAKER_02",
+      "text": "partnerships blah, blah, blah. The third thing I want to look at is thinking about different"
+    },
+    {
+      "start": 2219.5800000000004,
+      "end": 2226.3,
+      "speaker": "SPEAKER_02",
+      "text": "shoulder segments. So could I go into millennials, or could I go into boomers? The other thing I want"
+    },
+    {
+      "start": 2226.3,
+      "end": 2231.42,
+      "speaker": "SPEAKER_02",
+      "text": "to think about is, is there potentially a shoulder product that's close to my product that would be"
+    },
+    {
+      "start": 2231.42,
+      "end": 2237.02,
+      "speaker": "SPEAKER_02",
+      "text": "feasible to launch, that would address some of these other consumers who would not be our target"
+    },
+    {
+      "start": 2237.02,
+      "end": 2241.98,
+      "speaker": "SPEAKER_02",
+      "text": "consumer, given our product suite today. Now of all of those that I've mentioned, some of these are"
+    },
+    {
+      "start": 2241.98,
+      "end": 2247.1,
+      "speaker": "SPEAKER_02",
+      "text": "going to be no regrets, and some quick wins, and some of these are going to be more challenging."
+    },
+    {
+      "start": 2247.1,
+      "end": 2251.02,
+      "speaker": "SPEAKER_02",
+      "text": "For example, the last one that I just mentioned could be very impactful, but I would think that"
+    },
+    {
+      "start": 2251.02,
+      "end": 2256.46,
+      "speaker": "SPEAKER_02",
+      "text": "would be very challenging. Going after boomers or Gen Z could be really difficult because it would"
+    },
+    {
+      "start": 2256.46,
+      "end": 2263.02,
+      "speaker": "SPEAKER_02",
+      "text": "require a lot of resources. Whereas thinking about referral bonuses among our existing consumer"
+    },
+    {
+      "start": 2263.02,
+      "end": 2268.94,
+      "speaker": "SPEAKER_02",
+      "text": "base would be low effort and would also leverage existing customers and capabilities. You're just"
+    },
+    {
+      "start": 2268.94,
+      "end": 2273.74,
+      "speaker": "SPEAKER_02",
+      "text": "going like one level deeper to give some color and some thought behind that."
+    },
+    {
+      "start": 2275.34,
+      "end": 2279.34,
+      "speaker": "SPEAKER_01",
+      "text": "So like ranging your ideas almost in terms of what makes most sense."
+    },
+    {
+      "start": 2279.34,
+      "end": 2285.82,
+      "speaker": "SPEAKER_02",
+      "text": "And I don't think I've ever heard somebody rank ideas. You do not need to do that. It's just showing"
+    },
+    {
+      "start": 2285.82,
+      "end": 2292.86,
+      "speaker": "SPEAKER_02",
+      "text": "like it's showing some thought. Like there's a case that I give often that talks about the difficulties"
+    },
+    {
+      "start": 2292.86,
+      "end": 2298.3,
+      "speaker": "SPEAKER_02",
+      "text": "of the UK market. And so some people say, you know, given these difficulties, I think that we"
+    },
+    {
+      "start": 2298.3,
+      "end": 2303.82,
+      "speaker": "SPEAKER_02",
+      "text": "should enter France. And it's like, that's not a wrong answer, but it's a lot better to say, I think"
+    },
+    {
+      "start": 2303.82,
+      "end": 2308.54,
+      "speaker": "SPEAKER_02",
+      "text": "we should enter France. It's a large and similar market. However, that's extremely difficult and"
+    },
+    {
+      "start": 2308.54,
+      "end": 2313.42,
+      "speaker": "SPEAKER_02",
+      "text": "may not be possible. Right. So it's just adding some a little bit more depth into your particular"
+    },
+    {
+      "start": 2313.42,
+      "end": 2320.86,
+      "speaker": "SPEAKER_02",
+      "text": "answer. Okay. All right. I got excited and I skipped your framework. So let's go back to that."
+    },
+    {
+      "start": 2320.86,
+      "end": 2330.06,
+      "speaker": "SPEAKER_02",
+      "text": "And then I think that will open us up to some audience questions after that. So you got to your"
+    },
+    {
+      "start": 2330.06,
+      "end": 2335.58,
+      "speaker": "SPEAKER_02",
+      "text": "framework. And overall, I thought it was a good framework. Again, here's my push for you."
+    },
+    {
+      "start": 2335.8199999999997,
+      "end": 2345.58,
+      "speaker": "SPEAKER_02",
+      "text": "So your framework, like, thinking about framework score, I would say that there is like the food"
+    },
+    {
+      "start": 2345.58,
+      "end": 2350.06,
+      "speaker": "SPEAKER_02",
+      "text": "water shelter framework. There are like the obvious things that most people get, like the big buckets."
+    },
+    {
+      "start": 2351.58,
+      "end": 2358.46,
+      "speaker": "SPEAKER_02",
+      "text": "The next place you can go in terms of skill or a better answer is the depth of some of your"
+    },
+    {
+      "start": 2358.46,
+      "end": 2362.2999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "sub buckets. So that information you want to look at within your larger buckets."
+    },
+    {
+      "start": 2362.46,
+      "end": 2368.2200000000003,
+      "speaker": "SPEAKER_02",
+      "text": "And then if you really want to get a gold star, you start kind of piecing together some of the"
+    },
+    {
+      "start": 2368.2200000000003,
+      "end": 2373.1800000000003,
+      "speaker": "SPEAKER_02",
+      "text": "trends between those buckets. It's still me see there's still distinct pieces of information that"
+    },
+    {
+      "start": 2373.1800000000003,
+      "end": 2378.0600000000004,
+      "speaker": "SPEAKER_02",
+      "text": "you want to look, but you're starting to put the links together. So in this particular case,"
+    },
+    {
+      "start": 2378.0600000000004,
+      "end": 2384.1400000000003,
+      "speaker": "SPEAKER_02",
+      "text": "and let's I work in financial services. So I've got to leg up. Right. But a couple of things that"
+    },
+    {
+      "start": 2385.26,
+      "end": 2390.78,
+      "speaker": "SPEAKER_02",
+      "text": "that you could do. So first you said, I want to look at the market. And I want to look at their size."
+    },
+    {
+      "start": 2390.78,
+      "end": 2395.02,
+      "speaker": "SPEAKER_02",
+      "text": "I want to look at their growth. And I want to look at their trends. So I want to understand their"
+    },
+    {
+      "start": 2395.02,
+      "end": 2401.1000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "headwinds and tailwinds. What have been some of the more what have been some of the more popular."
+    },
+    {
+      "start": 2402.2200000000003,
+      "end": 2406.6200000000003,
+      "speaker": "SPEAKER_02",
+      "text": "You know, or really what have been some of the tailwinds in in that particular market state."
+    },
+    {
+      "start": 2406.6200000000003,
+      "end": 2412.78,
+      "speaker": "SPEAKER_02",
+      "text": "Be it around regulation, be it around consumer behavior, be it around spending power and just"
+    },
+    {
+      "start": 2412.78,
+      "end": 2418.7000000000003,
+      "speaker": "SPEAKER_02",
+      "text": "disposable income. The other thing and this is a bit of a miss is like I want to understand the"
+    },
+    {
+      "start": 2418.7,
+      "end": 2425.3399999999997,
+      "speaker": "SPEAKER_02",
+      "text": "market in terms of their fragmentation. So just to bring it to a real world real world here. I"
+    },
+    {
+      "start": 2425.3399999999997,
+      "end": 2430.2999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "think about the cereal aisle and any grocery store that's incredibly consolidated. Very challenging"
+    },
+    {
+      "start": 2430.2999999999997,
+      "end": 2435.5,
+      "speaker": "SPEAKER_02",
+      "text": "for some French cereal maker to come in. You know, we would think about a similar thing there."
+    },
+    {
+      "start": 2435.5,
+      "end": 2440.2999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "Like how fragmented is this market? Is it easy to enter? Are there big winners who we would have to"
+    },
+    {
+      "start": 2440.2999999999997,
+      "end": 2448.3799999999997,
+      "speaker": "SPEAKER_02",
+      "text": "be taking on? You talked about the client. You talked about the risk. One thing I would have"
+    },
+    {
+      "start": 2448.38,
+      "end": 2451.7400000000002,
+      "speaker": "SPEAKER_02",
+      "text": "gone a little bit deeper with the customer. So I would have said, you know, I want to look at"
+    },
+    {
+      "start": 2451.7400000000002,
+      "end": 2457.5,
+      "speaker": "SPEAKER_02",
+      "text": "consumers. I want to look at you mentioned preferences. I would before that out say like you mentioned"
+    },
+    {
+      "start": 2457.5,
+      "end": 2461.82,
+      "speaker": "SPEAKER_02",
+      "text": "millennials, but within millennials like what are the big segments? What are their core needs?"
+    },
+    {
+      "start": 2461.82,
+      "end": 2465.82,
+      "speaker": "SPEAKER_02",
+      "text": "And a big thing you want to do throughout this is say like how does this compare? Sometimes"
+    },
+    {
+      "start": 2465.82,
+      "end": 2471.6600000000003,
+      "speaker": "SPEAKER_02",
+      "text": "you're comparing over time. In this case, you would be comparing by geography. So, you know, who are"
+    },
+    {
+      "start": 2471.6600000000003,
+      "end": 2476.54,
+      "speaker": "SPEAKER_02",
+      "text": "the big customer segments? What is their willingness to pay if that applies? What are the different"
+    },
+    {
+      "start": 2476.54,
+      "end": 2481.58,
+      "speaker": "SPEAKER_02",
+      "text": "products that they're looking for? And how does that compare to the US? For example, I know"
+    },
+    {
+      "start": 2481.58,
+      "end": 2487.9,
+      "speaker": "SPEAKER_02",
+      "text": "that consumers in the US have been really interested in crypto and other, you know, components as part"
+    },
+    {
+      "start": 2487.9,
+      "end": 2494.62,
+      "speaker": "SPEAKER_02",
+      "text": "of their investment platform. Is that also is that part of our product suite? And is that also"
+    },
+    {
+      "start": 2494.62,
+      "end": 2499.1,
+      "speaker": "SPEAKER_02",
+      "text": "something that consumers in other markets would want? Does our products that match their their"
+    },
+    {
+      "start": 2499.1,
+      "end": 2508.14,
+      "speaker": "SPEAKER_02",
+      "text": "consideration? And then you can start to think through like how do some of the market forces relate"
+    },
+    {
+      "start": 2508.14,
+      "end": 2514.14,
+      "speaker": "SPEAKER_02",
+      "text": "to different consumers? So again, starting to piece together some of the components from distinct"
+    },
+    {
+      "start": 2514.14,
+      "end": 2520.62,
+      "speaker": "SPEAKER_01",
+      "text": "parts of your framework. Yeah, it makes sense. I have a like a lot of these things you said"
+    },
+    {
+      "start": 2521.18,
+      "end": 2527.18,
+      "speaker": "SPEAKER_01",
+      "text": "like make complete sense. And when I think of all of these things sometimes, I get the one thing I"
+    },
+    {
+      "start": 2527.18,
+      "end": 2533.8199999999997,
+      "speaker": "SPEAKER_01",
+      "text": "get limited by is knowing what I should say now versus say for later because I can't like spend five"
+    },
+    {
+      "start": 2533.8199999999997,
+      "end": 2540.7,
+      "speaker": "SPEAKER_01",
+      "text": "or you know, a long time saying the framework. So like I don't want to like expand on my framework"
+    },
+    {
+      "start": 2540.7,
+      "end": 2545.4199999999996,
+      "speaker": "SPEAKER_01",
+      "text": "too much. Just like get by it and like I don't know two minutes is the goal I have for myself."
+    },
+    {
+      "start": 2545.4199999999996,
+      "end": 2549.8999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "And then like if they want to jump into one area specifically, I have it in my mind to do. Do you"
+    },
+    {
+      "start": 2549.8999999999996,
+      "end": 2555.02,
+      "speaker": "SPEAKER_01",
+      "text": "think is that that's a fair like technique or do you think you should just kind of at least delve"
+    },
+    {
+      "start": 2555.02,
+      "end": 2561.2599999999998,
+      "speaker": "SPEAKER_02",
+      "text": "into one part of it? So the timing for candidates was also, um, like thank you. Yes, we'll go to Q&A"
+    },
+    {
+      "start": 2561.2599999999998,
+      "end": 2565.66,
+      "speaker": "SPEAKER_02",
+      "text": "in a second. So the timing for the framework is really for you writing down the framework in"
+    },
+    {
+      "start": 2565.66,
+      "end": 2570.06,
+      "speaker": "SPEAKER_02",
+      "text": "terms of explanation. I think that taking about two minutes is fine. Think about it this way."
+    },
+    {
+      "start": 2570.86,
+      "end": 2575.58,
+      "speaker": "SPEAKER_02",
+      "text": "Think about where you want to get an A. So I'm not suggesting that you take every piece of your"
+    },
+    {
+      "start": 2575.58,
+      "end": 2581.82,
+      "speaker": "SPEAKER_02",
+      "text": "framework and you like, you know, expound on some of the questions. Just pick a couple of these."
+    },
+    {
+      "start": 2581.82,
+      "end": 2586.78,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. I want to know the market. I want to understand the size, the growth, the headwinds,"
+    },
+    {
+      "start": 2586.78,
+      "end": 2592.46,
+      "speaker": "SPEAKER_02",
+      "text": "the tailwinds, the regulation. I want to understand the players in the market. How fragmented is it?"
+    },
+    {
+      "start": 2592.46,
+      "end": 2597.1800000000003,
+      "speaker": "SPEAKER_02",
+      "text": "How have they been adapting to some of the market tailwinds, headwinds and tailwinds? And how will the"
+    },
+    {
+      "start": 2597.1800000000003,
+      "end": 2604.1400000000003,
+      "speaker": "SPEAKER_02",
+      "text": "players set change over time as some market forces continue to impact the player's space? That could"
+    },
+    {
+      "start": 2604.14,
+      "end": 2612.14,
+      "speaker": "SPEAKER_02",
+      "text": "be an example. Next, I want to look at customer. So, um, got it. That makes sense. Thank you."
+    },
+    {
+      "start": 2612.14,
+      "end": 2620.14,
+      "speaker": "SPEAKER_01",
+      "text": "I hope a lot actually. No, thank you. Well done. Yeah, overall impression. Do you think, uh, like"
+    },
+    {
+      "start": 2621.18,
+      "end": 2628.22,
+      "speaker": "SPEAKER_01",
+      "text": "average good, bad? Just kind of wanted to get your sense. So you did, you exhibited a ton of"
+    },
+    {
+      "start": 2628.22,
+      "end": 2634.2999999999997,
+      "speaker": "SPEAKER_02",
+      "text": "structure across, right? And like your math, uh, one thing, ask for permission to round because"
+    },
+    {
+      "start": 2634.2999999999997,
+      "end": 2640.7799999999997,
+      "speaker": "SPEAKER_02",
+      "text": "it's not always okay. Your math was good, especially given that you, uh, you know, we're taking a"
+    },
+    {
+      "start": 2640.7799999999997,
+      "end": 2647.3399999999997,
+      "speaker": "SPEAKER_02",
+      "text": "route where you're having to wax some, some bushes and branches. Um, I would say really think for"
+    },
+    {
+      "start": 2647.3399999999997,
+      "end": 2653.18,
+      "speaker": "SPEAKER_02",
+      "text": "that next level, like trying to think about the so what and like bringing some depth to some of"
+    },
+    {
+      "start": 2653.18,
+      "end": 2657.8199999999997,
+      "speaker": "SPEAKER_02",
+      "text": "your thoughts across the framework, the math and the brainstorming, it was there. I'm just pushing"
+    },
+    {
+      "start": 2657.82,
+      "end": 2667.82,
+      "speaker": "SPEAKER_02",
+      "text": "you to do that. That will go that will take you from, you know, good to great."
+    }
+  ],
+  "grading": {
+    "communication": 18,
+    "framework": 16,
+    "math": 10,
+    "case_difficulty": 11,
+    "final_summary": 14,
+    "overall_thoughts": "You did a great job explaining your thoughts and approach, but struggled with the math and framework."
+  }
+}

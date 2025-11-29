@@ -1,0 +1,2036 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.6,
+    "speaker": "SPEAKER_01",
+    "text": "Hey Susie, it's James."
+  },
+  {
+    "start": 1.6,
+    "end": 2.6,
+    "speaker": "SPEAKER_02",
+    "text": "Hey, nice to meet you."
+  },
+  {
+    "start": 2.6,
+    "end": 3.6,
+    "speaker": "SPEAKER_01",
+    "text": "How was your weekend?"
+  },
+  {
+    "start": 3.6,
+    "end": 4.8,
+    "speaker": "SPEAKER_02",
+    "text": "It's pretty good, how about you?"
+  },
+  {
+    "start": 4.8,
+    "end": 5.8,
+    "speaker": "SPEAKER_01",
+    "text": "Good, good."
+  },
+  {
+    "start": 5.8,
+    "end": 7.2,
+    "speaker": "SPEAKER_01",
+    "text": "So a little short on time."
+  },
+  {
+    "start": 7.2,
+    "end": 9.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think you're going to be doing a behavioral tomorrow."
+  },
+  {
+    "start": 9.0,
+    "end": 10.8,
+    "speaker": "SPEAKER_01",
+    "text": "So today we're going to jump right into the game."
+  },
+  {
+    "start": 10.8,
+    "end": 11.6,
+    "speaker": "SPEAKER_02",
+    "text": "Sounds good."
+  },
+  {
+    "start": 11.6,
+    "end": 13.200000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Great, great."
+  },
+  {
+    "start": 13.200000000000001,
+    "end": 14.6,
+    "speaker": "SPEAKER_01",
+    "text": "Well said, OK."
+  },
+  {
+    "start": 14.6,
+    "end": 18.0,
+    "speaker": "SPEAKER_01",
+    "text": "So our client is a major retailer of largely appliances"
+  },
+  {
+    "start": 18.0,
+    "end": 20.400000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "for smaller and large."
+  },
+  {
+    "start": 20.400000000000002,
+    "end": 22.6,
+    "speaker": "SPEAKER_01",
+    "text": "They've been experiencing slow growth recently"
+  },
+  {
+    "start": 22.6,
+    "end": 25.8,
+    "speaker": "SPEAKER_01",
+    "text": "and profitability is less than expected."
+  },
+  {
+    "start": 25.8,
+    "end": 28.400000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "The CEO has hired us to determine"
+  },
+  {
+    "start": 28.4,
+    "end": 30.4,
+    "speaker": "SPEAKER_01",
+    "text": "what the cause of the low profitability is"
+  },
+  {
+    "start": 30.4,
+    "end": 34.0,
+    "speaker": "SPEAKER_01",
+    "text": "and if possible, come up with ways to address it."
+  },
+  {
+    "start": 34.0,
+    "end": 36.199999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "For some additional background information,"
+  },
+  {
+    "start": 36.199999999999996,
+    "end": 39.72,
+    "speaker": "SPEAKER_01",
+    "text": "the retailer has 15 stores that are located in shopping malls"
+  },
+  {
+    "start": 39.72,
+    "end": 41.72,
+    "speaker": "SPEAKER_01",
+    "text": "and both urban and suburban areas."
+  },
+  {
+    "start": 46.239999999999995,
+    "end": 49.4,
+    "speaker": "SPEAKER_02",
+    "text": "So in terms of the mix of urban and suburban stores,"
+  },
+  {
+    "start": 49.4,
+    "end": 51.0,
+    "speaker": "SPEAKER_02",
+    "text": "how many are in each?"
+  },
+  {
+    "start": 51.0,
+    "end": 52.04,
+    "speaker": "SPEAKER_01",
+    "text": "It's about 50-50."
+  },
+  {
+    "start": 52.04,
+    "end": 54.599999999999994,
+    "speaker": "SPEAKER_01",
+    "text": "So there are seven stores in urban and eight."
+  },
+  {
+    "start": 54.599999999999994,
+    "end": 55.92,
+    "speaker": "SPEAKER_02",
+    "text": "And so there are seven stores in urban and eight."
+  },
+  {
+    "start": 55.92,
+    "end": 58.92,
+    "speaker": "SPEAKER_02",
+    "text": "And when you mentioned low profitability,"
+  },
+  {
+    "start": 58.92,
+    "end": 60.760000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "what is the current profitability"
+  },
+  {
+    "start": 60.760000000000005,
+    "end": 64.28,
+    "speaker": "SPEAKER_02",
+    "text": "in comparison to what you're in towards?"
+  },
+  {
+    "start": 64.28,
+    "end": 68.24000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So the average per store profitability is $25,000 a year."
+  },
+  {
+    "start": 68.24000000000001,
+    "end": 73.64,
+    "speaker": "SPEAKER_01",
+    "text": "And the industry benchmark is about 100,000 per store."
+  },
+  {
+    "start": 73.64,
+    "end": 75.6,
+    "speaker": "SPEAKER_02",
+    "text": "All right, it's a significant difference"
+  },
+  {
+    "start": 75.6,
+    "end": 78.52000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "in terms of hoping for some drastic improvements here."
+  },
+  {
+    "start": 78.52000000000001,
+    "end": 79.84,
+    "speaker": "SPEAKER_02",
+    "text": "That's great."
+  },
+  {
+    "start": 79.84,
+    "end": 83.84,
+    "speaker": "SPEAKER_02",
+    "text": "All right, so other than just determining what the issues are,"
+  },
+  {
+    "start": 83.84,
+    "end": 85.96000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "you're also guessing looking for solutions"
+  },
+  {
+    "start": 85.96000000000001,
+    "end": 87.2,
+    "speaker": "SPEAKER_02",
+    "text": "to this problem as well."
+  },
+  {
+    "start": 87.2,
+    "end": 87.88000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Exactly."
+  },
+  {
+    "start": 87.88000000000001,
+    "end": 89.68,
+    "speaker": "SPEAKER_02",
+    "text": "All right, so do you want to just take a moment here?"
+  },
+  {
+    "start": 89.68,
+    "end": 90.68,
+    "speaker": "SPEAKER_01",
+    "text": "Sure thing."
+  },
+  {
+    "start": 102.36,
+    "end": 106.12,
+    "speaker": "SPEAKER_02",
+    "text": "All right, so I really see this as a two-part framework"
+  },
+  {
+    "start": 106.12,
+    "end": 109.48,
+    "speaker": "SPEAKER_02",
+    "text": "starting off with why is there this discrepancy"
+  },
+  {
+    "start": 109.48,
+    "end": 112.76,
+    "speaker": "SPEAKER_02",
+    "text": "or lack of strong profitability?"
+  },
+  {
+    "start": 112.76,
+    "end": 114.92,
+    "speaker": "SPEAKER_02",
+    "text": "So looking at the drivers behind profitability"
+  },
+  {
+    "start": 114.92,
+    "end": 117.08000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "to figure out what that issue is."
+  },
+  {
+    "start": 117.08000000000001,
+    "end": 119.72,
+    "speaker": "SPEAKER_02",
+    "text": "And then second to that, once we've figured out"
+  },
+  {
+    "start": 119.72,
+    "end": 121.88000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "the why is how can we improve that?"
+  },
+  {
+    "start": 121.88000000000001,
+    "end": 124.88000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So looking at the drivers and determining ways"
+  },
+  {
+    "start": 124.88000000000001,
+    "end": 129.0,
+    "speaker": "SPEAKER_02",
+    "text": "to hopefully gain some insights on how to get better at it."
+  },
+  {
+    "start": 129.0,
+    "end": 129.8,
+    "speaker": "SPEAKER_01",
+    "text": "Sounds good."
+  },
+  {
+    "start": 129.8,
+    "end": 134.28,
+    "speaker": "SPEAKER_02",
+    "text": "All right, so let's move in right into profitability first off."
+  },
+  {
+    "start": 134.28,
+    "end": 136.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "And we'll start off with taking a look"
+  },
+  {
+    "start": 136.92000000000002,
+    "end": 139.04000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "at the revenue and cost drivers."
+  },
+  {
+    "start": 139.04,
+    "end": 142.84,
+    "speaker": "SPEAKER_02",
+    "text": "So really what I want to get a sense at first"
+  },
+  {
+    "start": 142.84,
+    "end": 144.76,
+    "speaker": "SPEAKER_02",
+    "text": "is just really qualitatively what"
+  },
+  {
+    "start": 144.76,
+    "end": 147.35999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "is driving the business and getting"
+  },
+  {
+    "start": 147.35999999999999,
+    "end": 149.07999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "a better understanding of what's behind the business."
+  },
+  {
+    "start": 149.07999999999998,
+    "end": 150.64,
+    "speaker": "SPEAKER_02",
+    "text": "And then hopefully from there, we"
+  },
+  {
+    "start": 150.64,
+    "end": 152.0,
+    "speaker": "SPEAKER_02",
+    "text": "can move into some of the numbers"
+  },
+  {
+    "start": 152.0,
+    "end": 153.51999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "behind profitability."
+  },
+  {
+    "start": 153.51999999999998,
+    "end": 154.35999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Sounds good."
+  },
+  {
+    "start": 154.35999999999999,
+    "end": 157.28,
+    "speaker": "SPEAKER_02",
+    "text": "OK, so when you mention major retailer of appliances,"
+  },
+  {
+    "start": 157.28,
+    "end": 159.72,
+    "speaker": "SPEAKER_02",
+    "text": "is this similar to like a Best Buy or Future Shop"
+  },
+  {
+    "start": 159.72,
+    "end": 160.79999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "type of company?"
+  },
+  {
+    "start": 160.79999999999998,
+    "end": 161.76,
+    "speaker": "SPEAKER_01",
+    "text": "Pretty close."
+  },
+  {
+    "start": 161.76,
+    "end": 164.2,
+    "speaker": "SPEAKER_01",
+    "text": "Our client doesn't actually sell much electronics."
+  },
+  {
+    "start": 164.2,
+    "end": 166.51999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "You can picture it as largely as safe for larger appliances,"
+  },
+  {
+    "start": 166.52,
+    "end": 169.08,
+    "speaker": "SPEAKER_01",
+    "text": "washers, and refrigerators, small appliances"
+  },
+  {
+    "start": 169.08,
+    "end": 170.36,
+    "speaker": "SPEAKER_01",
+    "text": "or toasters and blinders."
+  },
+  {
+    "start": 170.36,
+    "end": 171.36,
+    "speaker": "SPEAKER_02",
+    "text": "OK."
+  },
+  {
+    "start": 171.36,
+    "end": 175.4,
+    "speaker": "SPEAKER_02",
+    "text": "And you mentioned in terms of actual revenue drivers,"
+  },
+  {
+    "start": 175.4,
+    "end": 177.52,
+    "speaker": "SPEAKER_02",
+    "text": "I imagine these small larger appliances"
+  },
+  {
+    "start": 177.52,
+    "end": 180.20000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "are probably the biggest revenue drivers in the store."
+  },
+  {
+    "start": 180.20000000000002,
+    "end": 183.60000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "But is there anything else, such as extended warranties"
+  },
+  {
+    "start": 183.60000000000002,
+    "end": 186.84,
+    "speaker": "SPEAKER_02",
+    "text": "or things like that that the company offers?"
+  },
+  {
+    "start": 186.84,
+    "end": 187.92000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Interesting."
+  },
+  {
+    "start": 187.92000000000002,
+    "end": 189.60000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "They don't offer warranties."
+  },
+  {
+    "start": 189.60000000000002,
+    "end": 193.24,
+    "speaker": "SPEAKER_01",
+    "text": "They're only revenue drivers or sales at these appliances."
+  },
+  {
+    "start": 193.24,
+    "end": 194.24,
+    "speaker": "SPEAKER_02",
+    "text": "All right."
+  },
+  {
+    "start": 194.24,
+    "end": 197.28,
+    "speaker": "SPEAKER_02",
+    "text": "And how do I mean, we talked about there's"
+  },
+  {
+    "start": 197.28,
+    "end": 200.4,
+    "speaker": "SPEAKER_02",
+    "text": "an urban and suburban stores."
+  },
+  {
+    "start": 200.4,
+    "end": 203.44,
+    "speaker": "SPEAKER_02",
+    "text": "Is there any difference in terms of the competition"
+  },
+  {
+    "start": 203.44,
+    "end": 205.08,
+    "speaker": "SPEAKER_02",
+    "text": "in the urban and suburban market?"
+  },
+  {
+    "start": 205.08,
+    "end": 211.48000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So there's different competition in the areas,"
+  },
+  {
+    "start": 211.48000000000002,
+    "end": 214.68,
+    "speaker": "SPEAKER_01",
+    "text": "but it's the impact of slugging."
+  },
+  {
+    "start": 218.68,
+    "end": 223.16000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "So while we're on the topic of the stores,"
+  },
+  {
+    "start": 223.16,
+    "end": 226.28,
+    "speaker": "SPEAKER_02",
+    "text": "and we talked about competition not being necessarily"
+  },
+  {
+    "start": 226.28,
+    "end": 228.96,
+    "speaker": "SPEAKER_02",
+    "text": "an issue, how did the stores actually work?"
+  },
+  {
+    "start": 228.96,
+    "end": 232.35999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So is there urban stores cater to the urban market?"
+  },
+  {
+    "start": 232.35999999999999,
+    "end": 234.24,
+    "speaker": "SPEAKER_02",
+    "text": "It's a suburban store is catered to suburban markets"
+  },
+  {
+    "start": 234.24,
+    "end": 237.0,
+    "speaker": "SPEAKER_02",
+    "text": "and there's some grocery stores, smaller stores,"
+  },
+  {
+    "start": 237.0,
+    "end": 238.12,
+    "speaker": "SPEAKER_02",
+    "text": "and more grocery stores."
+  },
+  {
+    "start": 238.12,
+    "end": 239.12,
+    "speaker": "SPEAKER_01",
+    "text": "Actually, it's the opposite."
+  },
+  {
+    "start": 239.12,
+    "end": 241.28,
+    "speaker": "SPEAKER_01",
+    "text": "The stores are identical in both locations."
+  },
+  {
+    "start": 241.28,
+    "end": 244.6,
+    "speaker": "SPEAKER_01",
+    "text": "Same floor plan and same mix of products are cared."
+  },
+  {
+    "start": 244.6,
+    "end": 245.64,
+    "speaker": "SPEAKER_02",
+    "text": "OK."
+  },
+  {
+    "start": 245.64,
+    "end": 246.64,
+    "speaker": "SPEAKER_02",
+    "text": "All right."
+  },
+  {
+    "start": 246.64,
+    "end": 248.6,
+    "speaker": "SPEAKER_02",
+    "text": "Potentially could be an opportunity that we maybe"
+  },
+  {
+    "start": 248.6,
+    "end": 251.24,
+    "speaker": "SPEAKER_02",
+    "text": "want to flesh out in more details."
+  },
+  {
+    "start": 251.24,
+    "end": 252.20000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "We should go through the case."
+  },
+  {
+    "start": 252.20000000000002,
+    "end": 257.24,
+    "speaker": "SPEAKER_02",
+    "text": "But I think we have a good idea of what the main revenue"
+  },
+  {
+    "start": 257.24,
+    "end": 259.16,
+    "speaker": "SPEAKER_02",
+    "text": "drivers are and some of the underlying factors"
+  },
+  {
+    "start": 259.16,
+    "end": 261.64,
+    "speaker": "SPEAKER_02",
+    "text": "behind those revenue drivers."
+  },
+  {
+    "start": 261.64,
+    "end": 263.36,
+    "speaker": "SPEAKER_02",
+    "text": "But what I'd like to do now is to take a look"
+  },
+  {
+    "start": 263.36,
+    "end": 264.96000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "at some of the cost drivers."
+  },
+  {
+    "start": 264.96000000000004,
+    "end": 267.2,
+    "speaker": "SPEAKER_02",
+    "text": "And I think an easy way to break this down"
+  },
+  {
+    "start": 267.2,
+    "end": 270.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "is to look at the variable fixed costs for each store"
+  },
+  {
+    "start": 270.28000000000003,
+    "end": 271.44,
+    "speaker": "SPEAKER_02",
+    "text": "location."
+  },
+  {
+    "start": 271.44,
+    "end": 276.44,
+    "speaker": "SPEAKER_02",
+    "text": "So a variable cost, I would imagine, would be things like labor,"
+  },
+  {
+    "start": 276.44,
+    "end": 279.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "things like distribution, transportation,"
+  },
+  {
+    "start": 279.28,
+    "end": 283.59999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "the actual buying the products from suppliers and so on."
+  },
+  {
+    "start": 283.59999999999997,
+    "end": 284.84,
+    "speaker": "SPEAKER_02",
+    "text": "Is that a bad accurate?"
+  },
+  {
+    "start": 284.84,
+    "end": 285.84,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 285.84,
+    "end": 286.67999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "It's primarily."
+  },
+  {
+    "start": 286.67999999999995,
+    "end": 288.71999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "We also include promotional discounts."
+  },
+  {
+    "start": 288.71999999999997,
+    "end": 291.15999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "It's a variable cost and marketing cost."
+  },
+  {
+    "start": 291.15999999999997,
+    "end": 295.11999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "But what you've identified are the important things."
+  },
+  {
+    "start": 295.11999999999995,
+    "end": 296.67999999999995,
+    "speaker": "SPEAKER_02",
+    "text": "And from a fixed cost perspective,"
+  },
+  {
+    "start": 296.67999999999995,
+    "end": 298.91999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "I imagine this would be like renting of the stores"
+  },
+  {
+    "start": 298.91999999999996,
+    "end": 303.03999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "from the shopping malls and probably greater marketing"
+  },
+  {
+    "start": 303.03999999999996,
+    "end": 305.47999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "and min type costs, is that?"
+  },
+  {
+    "start": 305.47999999999996,
+    "end": 306.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 306.0,
+    "end": 307.76,
+    "speaker": "SPEAKER_01",
+    "text": "There's also utilities and insurance"
+  },
+  {
+    "start": 307.76,
+    "end": 311.03999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "to consider as one, but rent is by far the highest"
+  },
+  {
+    "start": 311.03999999999996,
+    "end": 311.56,
+    "speaker": "SPEAKER_01",
+    "text": "cost."
+  },
+  {
+    "start": 314.56,
+    "end": 316.15999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "All right."
+  },
+  {
+    "start": 316.15999999999997,
+    "end": 316.56,
+    "speaker": "SPEAKER_02",
+    "text": "OK."
+  },
+  {
+    "start": 316.56,
+    "end": 318.68,
+    "speaker": "SPEAKER_02",
+    "text": "So given that we have a general sense"
+  },
+  {
+    "start": 318.68,
+    "end": 323.24,
+    "speaker": "SPEAKER_02",
+    "text": "of how the company operates and what some of the main components"
+  },
+  {
+    "start": 323.24,
+    "end": 324.76,
+    "speaker": "SPEAKER_00",
+    "text": "are in terms of revenues and costs."
+  },
+  {
+    "start": 324.76,
+    "end": 341.44,
+    "speaker": "SPEAKER_02",
+    "text": "So what I'd like to do is to take a look at both the urban and suburban stores"
+  },
+  {
+    "start": 341.44,
+    "end": 344.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "and determine what profitability looks like."
+  },
+  {
+    "start": 344.71999999999997,
+    "end": 347.0,
+    "speaker": "SPEAKER_02",
+    "text": "And maybe there are some differences between the stores,"
+  },
+  {
+    "start": 347.0,
+    "end": 349.88,
+    "speaker": "SPEAKER_02",
+    "text": "maybe not, and go from there."
+  },
+  {
+    "start": 349.88,
+    "end": 354.4,
+    "speaker": "SPEAKER_02",
+    "text": "So let's start off with the urban store locations."
+  },
+  {
+    "start": 354.4,
+    "end": 357.28,
+    "speaker": "SPEAKER_02",
+    "text": "And I think the best way to drive it profitability"
+  },
+  {
+    "start": 357.28,
+    "end": 359.84,
+    "speaker": "SPEAKER_02",
+    "text": "is to look at each of the different appliance"
+  },
+  {
+    "start": 359.84,
+    "end": 362.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "types separately, so small and large."
+  },
+  {
+    "start": 362.71999999999997,
+    "end": 365.32,
+    "speaker": "SPEAKER_02",
+    "text": "And then we can look at the now the quantity sold."
+  },
+  {
+    "start": 365.32,
+    "end": 368.88,
+    "speaker": "SPEAKER_02",
+    "text": "We can look at the price charge, the variable cost,"
+  },
+  {
+    "start": 368.88,
+    "end": 371.47999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "and then price minus variable."
+  },
+  {
+    "start": 371.47999999999996,
+    "end": 372.91999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "And then at the end, we can take a look"
+  },
+  {
+    "start": 372.91999999999996,
+    "end": 376.08,
+    "speaker": "SPEAKER_02",
+    "text": "at what some of the fixed costs are associated with events."
+  },
+  {
+    "start": 376.08,
+    "end": 376.58,
+    "speaker": "SPEAKER_02",
+    "text": "Great."
+  },
+  {
+    "start": 376.58,
+    "end": 378.67999999999995,
+    "speaker": "SPEAKER_02",
+    "text": "So in terms of quantity, do we have the information"
+  },
+  {
+    "start": 378.67999999999995,
+    "end": 382.2,
+    "speaker": "SPEAKER_02",
+    "text": "in terms of how many are sold in the urban market?"
+  },
+  {
+    "start": 382.2,
+    "end": 386.36,
+    "speaker": "SPEAKER_01",
+    "text": "So we sell two larger appliances per day on average and 50"
+  },
+  {
+    "start": 386.36,
+    "end": 387.36,
+    "speaker": "SPEAKER_01",
+    "text": "small."
+  },
+  {
+    "start": 387.36,
+    "end": 387.86,
+    "speaker": "SPEAKER_02",
+    "text": "OK."
+  },
+  {
+    "start": 387.86,
+    "end": 388.96,
+    "speaker": "SPEAKER_02",
+    "text": "This is per day."
+  },
+  {
+    "start": 388.96,
+    "end": 390.36,
+    "speaker": "SPEAKER_02",
+    "text": "And what's the price?"
+  },
+  {
+    "start": 390.36,
+    "end": 393.52,
+    "speaker": "SPEAKER_01",
+    "text": "So for larger planes, it's $750."
+  },
+  {
+    "start": 393.52,
+    "end": 397.08,
+    "speaker": "SPEAKER_01",
+    "text": "For small ones on average, 50."
+  },
+  {
+    "start": 397.08,
+    "end": 399.12,
+    "speaker": "SPEAKER_02",
+    "text": "And how about variable cost?"
+  },
+  {
+    "start": 399.12,
+    "end": 402.15999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "On average, for larger planes, it's $600."
+  },
+  {
+    "start": 402.15999999999997,
+    "end": 404.68,
+    "speaker": "SPEAKER_01",
+    "text": "And for small ones, $45."
+  },
+  {
+    "start": 404.68,
+    "end": 404.88,
+    "speaker": "SPEAKER_02",
+    "text": "OK."
+  },
+  {
+    "start": 404.88,
+    "end": 407.48,
+    "speaker": "SPEAKER_02",
+    "text": "So we can see just high level before you've"
+  },
+  {
+    "start": 407.48,
+    "end": 410.56,
+    "speaker": "SPEAKER_02",
+    "text": "been doing any calculations that we obviously"
+  },
+  {
+    "start": 410.56,
+    "end": 414.84,
+    "speaker": "SPEAKER_02",
+    "text": "sell less of the higher cost, higher margin product"
+  },
+  {
+    "start": 414.84,
+    "end": 416.32,
+    "speaker": "SPEAKER_02",
+    "text": "than the lower margin product."
+  },
+  {
+    "start": 416.32,
+    "end": 417.8,
+    "speaker": "SPEAKER_02",
+    "text": "But let's work out the numbers here."
+  },
+  {
+    "start": 417.8,
+    "end": 422.72,
+    "speaker": "SPEAKER_02",
+    "text": "So we know that we're getting $5 per product."
+  },
+  {
+    "start": 422.72,
+    "end": 424.12,
+    "speaker": "SPEAKER_02",
+    "text": "With the small appliances, we're"
+  },
+  {
+    "start": 424.12,
+    "end": 426.52,
+    "speaker": "SPEAKER_02",
+    "text": "getting $150 for the large."
+  },
+  {
+    "start": 426.52,
+    "end": 429.16,
+    "speaker": "SPEAKER_02",
+    "text": "And we tie that by the amount sold per day."
+  },
+  {
+    "start": 429.16,
+    "end": 431.12,
+    "speaker": "SPEAKER_02",
+    "text": "So in the case of small five times 50,"
+  },
+  {
+    "start": 431.12,
+    "end": 435.28,
+    "speaker": "SPEAKER_02",
+    "text": "we get $250, and profitably per day."
+  },
+  {
+    "start": 435.28,
+    "end": 439.64,
+    "speaker": "SPEAKER_02",
+    "text": "And for large, we get $150, turns to sold per day, which"
+  },
+  {
+    "start": 439.64,
+    "end": 441.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "gets us to $300."
+  },
+  {
+    "start": 441.71999999999997,
+    "end": 447.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "So an overall profitability per day before fixed costs"
+  },
+  {
+    "start": 447.71999999999997,
+    "end": 453.12,
+    "speaker": "SPEAKER_02",
+    "text": "are $450 per day."
+  },
+  {
+    "start": 453.12,
+    "end": 458.28,
+    "speaker": "SPEAKER_02",
+    "text": "And if we're to work that out on a yearly basis,"
+  },
+  {
+    "start": 458.28,
+    "end": 460.4,
+    "speaker": "SPEAKER_02",
+    "text": "I'm just going to round up to $600"
+  },
+  {
+    "start": 460.4,
+    "end": 462.8,
+    "speaker": "SPEAKER_02",
+    "text": "just to make calculations easier on myself."
+  },
+  {
+    "start": 462.8,
+    "end": 463.8,
+    "speaker": "SPEAKER_02",
+    "text": "Is that OK?"
+  },
+  {
+    "start": 463.8,
+    "end": 467.68,
+    "speaker": "SPEAKER_02",
+    "text": "And round the days to $360."
+  },
+  {
+    "start": 467.68,
+    "end": 480.0,
+    "speaker": "SPEAKER_02",
+    "text": "And what we get here is $6.3, $18, $21, $21,600."
+  },
+  {
+    "start": 480.0,
+    "end": 483.64,
+    "speaker": "SPEAKER_02",
+    "text": "And in what are the fixed costs associated?"
+  },
+  {
+    "start": 483.64,
+    "end": 485.48,
+    "speaker": "SPEAKER_01",
+    "text": "$300,000 in the ordinary."
+  },
+  {
+    "start": 485.48,
+    "end": 487.84000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "$300,000."
+  },
+  {
+    "start": 487.84000000000003,
+    "end": 488.68,
+    "speaker": "SPEAKER_02",
+    "text": "OK."
+  },
+  {
+    "start": 488.68,
+    "end": 495.24,
+    "speaker": "SPEAKER_02",
+    "text": "So it seems like an awful need big discrepancy."
+  },
+  {
+    "start": 495.24,
+    "end": 496.52,
+    "speaker": "SPEAKER_02",
+    "text": "Let me, if you don't mind, I'm just"
+  },
+  {
+    "start": 496.52,
+    "end": 498.35999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "going to check through my numbers again"
+  },
+  {
+    "start": 498.35999999999996,
+    "end": 501.32,
+    "speaker": "SPEAKER_02",
+    "text": "and make sure it happens to me any errors."
+  },
+  {
+    "start": 501.32,
+    "end": 502.12,
+    "speaker": "SPEAKER_01",
+    "text": "Sounds good."
+  },
+  {
+    "start": 502.12,
+    "end": 509.76,
+    "speaker": "SPEAKER_02",
+    "text": "So we have comfortable with the profit per day."
+  },
+  {
+    "start": 509.76,
+    "end": 510.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "Oh, you know what it is?"
+  },
+  {
+    "start": 510.71999999999997,
+    "end": 514.76,
+    "speaker": "SPEAKER_02",
+    "text": "I think I've missed a zero off of the per year cost."
+  },
+  {
+    "start": 514.76,
+    "end": 521.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So even still running out of loss of $84,000 per store per year."
+  },
+  {
+    "start": 521.1999999999999,
+    "end": 526.4,
+    "speaker": "SPEAKER_02",
+    "text": "Not quite as bad as over almost $8,000."
+  },
+  {
+    "start": 526.4,
+    "end": 527.76,
+    "speaker": "SPEAKER_02",
+    "text": "Almost $300,000."
+  },
+  {
+    "start": 527.76,
+    "end": 531.6,
+    "speaker": "SPEAKER_02",
+    "text": "So definitely we can see that one of the issues"
+  },
+  {
+    "start": 531.6,
+    "end": 533.04,
+    "speaker": "SPEAKER_02",
+    "text": "looks like it's in our urban stores."
+  },
+  {
+    "start": 533.04,
+    "end": 535.68,
+    "speaker": "SPEAKER_02",
+    "text": "If you look at what average poverty per store,"
+  },
+  {
+    "start": 535.68,
+    "end": 537.0799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "you can see it's $25,000."
+  },
+  {
+    "start": 537.0799999999999,
+    "end": 539.9599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "And you can see that urban stores have a loss of $84,000."
+  },
+  {
+    "start": 539.9599999999999,
+    "end": 542.68,
+    "speaker": "SPEAKER_02",
+    "text": "So I think there may be some insights we can gain"
+  },
+  {
+    "start": 542.68,
+    "end": 544.6,
+    "speaker": "SPEAKER_02",
+    "text": "from looking at the rural stores as well."
+  },
+  {
+    "start": 544.6,
+    "end": 546.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Just to see maybe what they're doing right"
+  },
+  {
+    "start": 546.1999999999999,
+    "end": 549.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "and how the urban stores can, in fact,"
+  },
+  {
+    "start": 549.1999999999999,
+    "end": 551.92,
+    "speaker": "SPEAKER_02",
+    "text": "maybe adopt some of their practices."
+  },
+  {
+    "start": 551.92,
+    "end": 554.84,
+    "speaker": "SPEAKER_00",
+    "text": "So let's do the same for the rural segment."
+  },
+  {
+    "start": 556.6,
+    "end": 562.8,
+    "speaker": "SPEAKER_00",
+    "text": "So the profit is $124,000 for the rural stores"
+  },
+  {
+    "start": 562.8,
+    "end": 566.4,
+    "speaker": "SPEAKER_02",
+    "text": "versus loss of $84,000 for the urban stores."
+  },
+  {
+    "start": 566.4,
+    "end": 569.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "And really, I mean, there's two factors to me"
+  },
+  {
+    "start": 569.1999999999999,
+    "end": 572.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "that it looks like are contributing to this."
+  },
+  {
+    "start": 572.1999999999999,
+    "end": 575.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Number one is the product mix."
+  },
+  {
+    "start": 575.1999999999999,
+    "end": 577.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So we can see that there's a big difference"
+  },
+  {
+    "start": 577.1999999999999,
+    "end": 580.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "in terms of what products are sold per day"
+  },
+  {
+    "start": 580.1999999999999,
+    "end": 582.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "in the rural stores versus urban stores."
+  },
+  {
+    "start": 582.1999999999999,
+    "end": 584.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So we can see that there's a big difference"
+  },
+  {
+    "start": 584.2,
+    "end": 586.0,
+    "speaker": "SPEAKER_02",
+    "text": "in terms of what we can see here."
+  },
+  {
+    "start": 586.0,
+    "end": 588.2,
+    "speaker": "SPEAKER_02",
+    "text": "So we can see that there's a lot of different"
+  },
+  {
+    "start": 588.2,
+    "end": 590.0,
+    "speaker": "SPEAKER_02",
+    "text": "types of products that are sold per day"
+  },
+  {
+    "start": 590.0,
+    "end": 592.0,
+    "speaker": "SPEAKER_02",
+    "text": "in the rural stores versus urban stores,"
+  },
+  {
+    "start": 592.0,
+    "end": 594.0,
+    "speaker": "SPEAKER_02",
+    "text": "much more large appliances."
+  },
+  {
+    "start": 594.0,
+    "end": 595.4000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "And also the fixed costs."
+  },
+  {
+    "start": 595.4000000000001,
+    "end": 599.0,
+    "speaker": "SPEAKER_02",
+    "text": "So fixed costs are $100,000 more expensive"
+  },
+  {
+    "start": 599.0,
+    "end": 601.0,
+    "speaker": "SPEAKER_00",
+    "text": "and the urban stores to run."
+  },
+  {
+    "start": 601.0,
+    "end": 604.0,
+    "speaker": "UNKNOWN",
+    "text": "I think this is really biting into the bottom line"
+  },
+  {
+    "start": 604.0,
+    "end": 605.0,
+    "speaker": "UNKNOWN",
+    "text": "for the company."
+  },
+  {
+    "start": 615.2,
+    "end": 619.2,
+    "speaker": "SPEAKER_00",
+    "text": "So what I'd like to do now is given these findings"
+  },
+  {
+    "start": 622.2,
+    "end": 625.2,
+    "speaker": "SPEAKER_02",
+    "text": "is how can we actually improve this situation?"
+  },
+  {
+    "start": 625.2,
+    "end": 629.2,
+    "speaker": "SPEAKER_02",
+    "text": "And we look at the opportunities."
+  },
+  {
+    "start": 629.2,
+    "end": 632.2,
+    "speaker": "SPEAKER_02",
+    "text": "So we look at the opportunity to,"
+  },
+  {
+    "start": 632.2,
+    "end": 635.5,
+    "speaker": "SPEAKER_02",
+    "text": "we'll go back to our original structure of revenue"
+  },
+  {
+    "start": 635.5,
+    "end": 638.2,
+    "speaker": "SPEAKER_02",
+    "text": "and cost drivers and how can we improve"
+  },
+  {
+    "start": 638.2,
+    "end": 640.2,
+    "speaker": "SPEAKER_02",
+    "text": "these various different drivers?"
+  },
+  {
+    "start": 640.3000000000001,
+    "end": 642.3000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So on the revenue side,"
+  },
+  {
+    "start": 642.3000000000001,
+    "end": 643.3000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "we have,"
+  },
+  {
+    "start": 645.6,
+    "end": 648.2,
+    "speaker": "SPEAKER_02",
+    "text": "you know, potentially an opportunity to,"
+  },
+  {
+    "start": 648.2,
+    "end": 651.8000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "like potentially raise price in the urban market"
+  },
+  {
+    "start": 651.8000000000001,
+    "end": 654.3000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "to offset some of the additional costs."
+  },
+  {
+    "start": 654.3000000000001,
+    "end": 655.6,
+    "speaker": "SPEAKER_02",
+    "text": "Is that something that,"
+  },
+  {
+    "start": 655.6,
+    "end": 658.0,
+    "speaker": "SPEAKER_02",
+    "text": "do we have a sense of what customer sensitivity"
+  },
+  {
+    "start": 658.0,
+    "end": 659.5,
+    "speaker": "SPEAKER_02",
+    "text": "is to increase pricing is?"
+  },
+  {
+    "start": 659.5,
+    "end": 660.3000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "We haven't."
+  },
+  {
+    "start": 660.3000000000001,
+    "end": 662.0,
+    "speaker": "SPEAKER_01",
+    "text": "So you've identified one of the issues"
+  },
+  {
+    "start": 662.0,
+    "end": 663.0,
+    "speaker": "SPEAKER_01",
+    "text": "set by raising the price"
+  },
+  {
+    "start": 663.0,
+    "end": 664.4000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "with the drive down the line."
+  },
+  {
+    "start": 665.4000000000001,
+    "end": 667.6,
+    "speaker": "SPEAKER_01",
+    "text": "What are some other ways that we might achieve"
+  },
+  {
+    "start": 667.6,
+    "end": 669.3000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "what you're looking for in higher markets?"
+  },
+  {
+    "start": 669.4,
+    "end": 670.4,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, so I think, I mean,"
+  },
+  {
+    "start": 670.4,
+    "end": 672.5,
+    "speaker": "SPEAKER_02",
+    "text": "like that's obviously one area on the revenue side,"
+  },
+  {
+    "start": 672.5,
+    "end": 675.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "but I think probably the biggest,"
+  },
+  {
+    "start": 675.1999999999999,
+    "end": 679.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "most important area to look at is on this fixed cost side."
+  },
+  {
+    "start": 679.5999999999999,
+    "end": 682.4,
+    "speaker": "SPEAKER_02",
+    "text": "So we can see that our fixed cost"
+  },
+  {
+    "start": 682.4,
+    "end": 684.6999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "are $100,000 more."
+  },
+  {
+    "start": 684.6999999999999,
+    "end": 686.6999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "But, you know,"
+  },
+  {
+    "start": 686.6999999999999,
+    "end": 688.6999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "one thing we talked about a long time ago"
+  },
+  {
+    "start": 688.6999999999999,
+    "end": 690.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "and I started for a reason is that"
+  },
+  {
+    "start": 690.5999999999999,
+    "end": 693.0,
+    "speaker": "SPEAKER_02",
+    "text": "we have the same floor model in the urban"
+  },
+  {
+    "start": 693.0,
+    "end": 695.0,
+    "speaker": "SPEAKER_02",
+    "text": "and suburban landscape."
+  },
+  {
+    "start": 695.0,
+    "end": 696.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "But yet, what the products are"
+  },
+  {
+    "start": 696.5999999999999,
+    "end": 698.0,
+    "speaker": "SPEAKER_02",
+    "text": "that are being sold are very different."
+  },
+  {
+    "start": 698.0,
+    "end": 701.6,
+    "speaker": "SPEAKER_02",
+    "text": "So small appliances need to take up less space."
+  },
+  {
+    "start": 701.6,
+    "end": 702.6,
+    "speaker": "SPEAKER_02",
+    "text": "So is, you know,"
+  },
+  {
+    "start": 702.6,
+    "end": 703.8,
+    "speaker": "SPEAKER_02",
+    "text": "potentially looking at me,"
+  },
+  {
+    "start": 703.8,
+    "end": 705.3,
+    "speaker": "SPEAKER_02",
+    "text": "you're reducing the rent."
+  },
+  {
+    "start": 705.3,
+    "end": 706.8,
+    "speaker": "SPEAKER_02",
+    "text": "So you've mentioned that rent is a huge"
+  },
+  {
+    "start": 706.8,
+    "end": 707.8,
+    "speaker": "SPEAKER_02",
+    "text": "component of fixed costs."
+  },
+  {
+    "start": 707.8,
+    "end": 711.6,
+    "speaker": "SPEAKER_02",
+    "text": "Is there a way to reduce floor space"
+  },
+  {
+    "start": 711.6,
+    "end": 715.4,
+    "speaker": "SPEAKER_02",
+    "text": "and reduce the amount of larger appliances sold in the store?"
+  },
+  {
+    "start": 715.4,
+    "end": 718.4,
+    "speaker": "SPEAKER_02",
+    "text": "So maybe that's a way to reduce cost."
+  },
+  {
+    "start": 718.4,
+    "end": 719.9,
+    "speaker": "SPEAKER_01",
+    "text": "It's a pretty good idea."
+  },
+  {
+    "start": 719.9,
+    "end": 720.8,
+    "speaker": "SPEAKER_01",
+    "text": "Given that currently,"
+  },
+  {
+    "start": 720.8,
+    "end": 724.4,
+    "speaker": "SPEAKER_01",
+    "text": "larger appliances take about three quarters of a floor space."
+  },
+  {
+    "start": 724.4,
+    "end": 725.4,
+    "speaker": "SPEAKER_01",
+    "text": "If we were to cut that down,"
+  },
+  {
+    "start": 725.4,
+    "end": 727.5,
+    "speaker": "SPEAKER_01",
+    "text": "we'd expect perhaps a fixed cost"
+  },
+  {
+    "start": 727.5,
+    "end": 728.7,
+    "speaker": "SPEAKER_01",
+    "text": "to be being cut in half."
+  },
+  {
+    "start": 728.7,
+    "end": 729.2,
+    "speaker": "SPEAKER_02",
+    "text": "Oh wow."
+  },
+  {
+    "start": 729.2,
+    "end": 731.9,
+    "speaker": "SPEAKER_02",
+    "text": "So savings are $150,000."
+  },
+  {
+    "start": 731.9,
+    "end": 733.1,
+    "speaker": "SPEAKER_02",
+    "text": "So let's look at that for a second."
+  },
+  {
+    "start": 733.1,
+    "end": 735.7,
+    "speaker": "SPEAKER_02",
+    "text": "So let's say we saved $150,000."
+  },
+  {
+    "start": 735.7,
+    "end": 738.1,
+    "speaker": "SPEAKER_02",
+    "text": "We're going to take 84 off $150,000."
+  },
+  {
+    "start": 738.1,
+    "end": 740.1,
+    "speaker": "SPEAKER_02",
+    "text": "We're getting about, you know,"
+  },
+  {
+    "start": 740.1,
+    "end": 743.3,
+    "speaker": "SPEAKER_02",
+    "text": "$70,000 in profit."
+  },
+  {
+    "start": 743.3,
+    "end": 744.6,
+    "speaker": "SPEAKER_02",
+    "text": "And if we're going to compare that to"
+  },
+  {
+    "start": 744.6,
+    "end": 746.4,
+    "speaker": "SPEAKER_02",
+    "text": "what we're getting in the rural setting,"
+  },
+  {
+    "start": 746.4,
+    "end": 748.5,
+    "speaker": "SPEAKER_02",
+    "text": "we essentially will be getting on average"
+  },
+  {
+    "start": 748.5,
+    "end": 751.2,
+    "speaker": "SPEAKER_02",
+    "text": "close to what the profit is in the industry."
+  },
+  {
+    "start": 751.2,
+    "end": 754.7,
+    "speaker": "SPEAKER_02",
+    "text": "So that definitely is a huge consideration"
+  },
+  {
+    "start": 754.7,
+    "end": 755.8,
+    "speaker": "SPEAKER_02",
+    "text": "and a huge opportunity."
+  },
+  {
+    "start": 755.8,
+    "end": 759.0999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Now are these long-term rent situations"
+  },
+  {
+    "start": 759.0999999999999,
+    "end": 761.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "where we couldn't get out of our current situation?"
+  },
+  {
+    "start": 761.1999999999999,
+    "end": 762.0,
+    "speaker": "SPEAKER_02",
+    "text": "So is it?"
+  },
+  {
+    "start": 762.0,
+    "end": 763.3,
+    "speaker": "SPEAKER_01",
+    "text": "There are five year leases,"
+  },
+  {
+    "start": 763.3,
+    "end": 764.5,
+    "speaker": "SPEAKER_01",
+    "text": "but as it so happens,"
+  },
+  {
+    "start": 764.5,
+    "end": 767.0,
+    "speaker": "SPEAKER_01",
+    "text": "we're coming up on the end of one period."
+  },
+  {
+    "start": 767.0,
+    "end": 768.0,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 768.0,
+    "end": 769.4,
+    "speaker": "SPEAKER_02",
+    "text": "All right, so that definitely does"
+  },
+  {
+    "start": 769.4,
+    "end": 772.0,
+    "speaker": "SPEAKER_00",
+    "text": "present an opportunity for the company."
+  },
+  {
+    "start": 786.8,
+    "end": 791.8,
+    "speaker": "SPEAKER_00",
+    "text": "All right, so I think I have enough information here"
+  },
+  {
+    "start": 791.8,
+    "end": 794.5,
+    "speaker": "SPEAKER_02",
+    "text": "to provide a recommendation."
+  },
+  {
+    "start": 794.5,
+    "end": 795.0,
+    "speaker": "SPEAKER_02",
+    "text": "If you don't mind,"
+  },
+  {
+    "start": 795.0,
+    "end": 796.0,
+    "speaker": "SPEAKER_02",
+    "text": "if I just take a moment,"
+  },
+  {
+    "start": 796.0,
+    "end": 797.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "just to organize my thoughts."
+  },
+  {
+    "start": 797.1999999999999,
+    "end": 798.0,
+    "speaker": "SPEAKER_02",
+    "text": "That's wonderful."
+  },
+  {
+    "start": 798.0,
+    "end": 799.0,
+    "speaker": "SPEAKER_02",
+    "text": "All right."
+  },
+  {
+    "start": 815.8,
+    "end": 824.8,
+    "speaker": "UNKNOWN",
+    "text": "All right."
+  },
+  {
+    "start": 824.8,
+    "end": 829.0,
+    "speaker": "SPEAKER_00",
+    "text": "Where to look at, you know,"
+  },
+  {
+    "start": 829.0,
+    "end": 830.4,
+    "speaker": "SPEAKER_00",
+    "text": "probably we're trying to address here"
+  },
+  {
+    "start": 830.4,
+    "end": 832.5,
+    "speaker": "SPEAKER_02",
+    "text": "is why profitability has been declining"
+  },
+  {
+    "start": 832.5,
+    "end": 834.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "and how can we do something about that?"
+  },
+  {
+    "start": 834.1999999999999,
+    "end": 838.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So really number one is the product mix sold"
+  },
+  {
+    "start": 838.1999999999999,
+    "end": 839.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "in the Urban and Suburban setting."
+  },
+  {
+    "start": 839.5999999999999,
+    "end": 841.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So there's a difference in how"
+  },
+  {
+    "start": 841.1999999999999,
+    "end": 843.0,
+    "speaker": "SPEAKER_02",
+    "text": "Urban and Growl shoppers shop,"
+  },
+  {
+    "start": 843.0,
+    "end": 847.7,
+    "speaker": "SPEAKER_02",
+    "text": "which in fact causes a reduced profitability in the stores"
+  },
+  {
+    "start": 847.7,
+    "end": 850.8,
+    "speaker": "SPEAKER_02",
+    "text": "as well as the fixed cost of $100,000 higher"
+  },
+  {
+    "start": 850.8,
+    "end": 851.8,
+    "speaker": "SPEAKER_02",
+    "text": "in the Urban setting,"
+  },
+  {
+    "start": 851.8,
+    "end": 853.6,
+    "speaker": "SPEAKER_02",
+    "text": "which is a significant factor"
+  },
+  {
+    "start": 853.6,
+    "end": 856.4,
+    "speaker": "SPEAKER_02",
+    "text": "to why they are currently operating at a loss."
+  },
+  {
+    "start": 856.4,
+    "end": 860.2,
+    "speaker": "SPEAKER_02",
+    "text": "So what my recommendation would be is to get the products"
+  },
+  {
+    "start": 860.2,
+    "end": 863.2,
+    "speaker": "SPEAKER_02",
+    "text": "more in alignment with the customers in the Urban setting."
+  },
+  {
+    "start": 863.2,
+    "end": 864.7,
+    "speaker": "SPEAKER_02",
+    "text": "So reducing store size,"
+  },
+  {
+    "start": 864.7,
+    "end": 867.1,
+    "speaker": "SPEAKER_02",
+    "text": "more emphasis on the small appliances,"
+  },
+  {
+    "start": 867.1,
+    "end": 870.4,
+    "speaker": "SPEAKER_02",
+    "text": "and that will save the company $150,000 per store,"
+  },
+  {
+    "start": 870.4,
+    "end": 874.4,
+    "speaker": "SPEAKER_02",
+    "text": "which is significant to getting to their profit goals."
+  },
+  {
+    "start": 874.4,
+    "end": 875.6,
+    "speaker": "SPEAKER_02",
+    "text": "In terms of next steps though,"
+  },
+  {
+    "start": 875.6,
+    "end": 878.1,
+    "speaker": "SPEAKER_02",
+    "text": "in terms of looking at additional opportunities,"
+  },
+  {
+    "start": 878.1,
+    "end": 880.8,
+    "speaker": "SPEAKER_02",
+    "text": "I think it's really important that the client does go out"
+  },
+  {
+    "start": 880.8,
+    "end": 883.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "and really do a proper price assessment"
+  },
+  {
+    "start": 883.1999999999999,
+    "end": 886.0,
+    "speaker": "SPEAKER_02",
+    "text": "and maybe there's a way to gain more profits"
+  },
+  {
+    "start": 886.0,
+    "end": 888.6,
+    "speaker": "SPEAKER_02",
+    "text": "on the revenue side of the equation."
+  },
+  {
+    "start": 888.6,
+    "end": 891.9,
+    "speaker": "SPEAKER_02",
+    "text": "The other option or maybe more for long-term planning"
+  },
+  {
+    "start": 891.9,
+    "end": 894.9,
+    "speaker": "SPEAKER_02",
+    "text": "is knowing that rural stores are more profitable."
+  },
+  {
+    "start": 894.9,
+    "end": 897.4,
+    "speaker": "SPEAKER_02",
+    "text": "This may be where the company wants to go long-term"
+  },
+  {
+    "start": 897.4,
+    "end": 900.6,
+    "speaker": "SPEAKER_02",
+    "text": "rather than expanding in the Urban setting."
+  },
+  {
+    "start": 900.6,
+    "end": 902.1,
+    "speaker": "SPEAKER_01",
+    "text": "Very interesting."
+  },
+  {
+    "start": 902.1,
+    "end": 904.0,
+    "speaker": "SPEAKER_01",
+    "text": "As it turned out, we did recommend the client"
+  },
+  {
+    "start": 904.0,
+    "end": 907.0,
+    "speaker": "SPEAKER_01",
+    "text": "that they reduce their size of their urban stores."
+  },
+  {
+    "start": 907.0,
+    "end": 908.4,
+    "speaker": "SPEAKER_01",
+    "text": "It's a great recommendation."
+  },
+  {
+    "start": 908.4,
+    "end": 909.4,
+    "speaker": "SPEAKER_02",
+    "text": "All right, thank you very much."
+  },
+  {
+    "start": 909.4,
+    "end": 910.4,
+    "speaker": "SPEAKER_02",
+    "text": "Thank you so much."
+  },
+  {
+    "start": 910.4,
+    "end": 911.4,
+    "speaker": "SPEAKER_02",
+    "text": "Thanks for your time."
+  },
+  {
+    "start": 911.4,
+    "end": 912.4,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, thank you."
+  }
+]

@@ -1,0 +1,1772 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.84,
+    "speaker": "SPEAKER_02",
+    "text": "Hi everyone, I'm Ben Wilson. I'm currently a director with Alvarez Marseille"
+  },
+  {
+    "start": 7.84,
+    "end": 11.92,
+    "speaker": "SPEAKER_02",
+    "text": "and formerly with UI Parthon and today I'll be playing the interview we."
+  },
+  {
+    "start": 11.92,
+    "end": 19.68,
+    "speaker": "SPEAKER_00",
+    "text": "Hi, excited to be casing with you Ben. My name is Abby. I currently work in private equity in the Midwest"
+  },
+  {
+    "start": 19.68,
+    "end": 26.88,
+    "speaker": "SPEAKER_00",
+    "text": "and formerly worked at BCG Seattle and I will be playing the interviewer. So with that we can jump"
+  },
+  {
+    "start": 26.88,
+    "end": 34.08,
+    "speaker": "SPEAKER_00",
+    "text": "right into the case. The prompt here is Nestle, the global Titan in the food industry with"
+  },
+  {
+    "start": 34.08,
+    "end": 41.28,
+    "speaker": "SPEAKER_00",
+    "text": "annual revenues for passing 90 billion and a headcount of 270,000 people, stands at a pivotal moment"
+  },
+  {
+    "start": 41.28,
+    "end": 49.599999999999994,
+    "speaker": "SPEAKER_00",
+    "text": "as a new CEO or on Frex steps into the lead. The outgoing CEO, Mark Schneider, achieved success"
+  },
+  {
+    "start": 49.6,
+    "end": 57.68,
+    "speaker": "SPEAKER_00",
+    "text": "growing operating margins from 16.5% to 17.3% even in the face of COVID era supply crunches,"
+  },
+  {
+    "start": 57.68,
+    "end": 63.52,
+    "speaker": "SPEAKER_00",
+    "text": "which held competitors margins flat. However, this focus on profitability may have led to a stagnation"
+  },
+  {
+    "start": 63.52,
+    "end": 69.12,
+    "speaker": "SPEAKER_00",
+    "text": "in growth. The company posted shrinking revenues from 22 to 23, while competitors saw their top"
+  },
+  {
+    "start": 69.12,
+    "end": 74.96000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "lines increase. Your firm has been brought in to advise the new CEO and the mission is clear."
+  },
+  {
+    "start": 74.96,
+    "end": 80.0,
+    "speaker": "SPEAKER_00",
+    "text": "Re-invigorate Nestle's growth trajectory while maintaining its legacy of quality and innovation."
+  },
+  {
+    "start": 80.0,
+    "end": 85.52,
+    "speaker": "SPEAKER_02",
+    "text": "How would you help the client with this problem? Really interesting, Abby. Antichotally, my"
+  },
+  {
+    "start": 85.52,
+    "end": 92.08,
+    "speaker": "SPEAKER_02",
+    "text": "wife actually used to work for Nestle. I suspect in the back of my head it might be a negative impact"
+  },
+  {
+    "start": 92.08,
+    "end": 97.03999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "similar to the confectionery industry due to the weight loss drugs that have been just cruising"
+  },
+  {
+    "start": 97.03999999999999,
+    "end": 102.16,
+    "speaker": "SPEAKER_02",
+    "text": "across the snacks and crushing a lot of those margins. But I'll be curious to jump in and find out"
+  },
+  {
+    "start": 102.16,
+    "end": 107.75999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "if that's the case. To confirm my understanding, Abby, the goal we want to understand is how do we"
+  },
+  {
+    "start": 110.08,
+    "end": 114.32,
+    "speaker": "SPEAKER_02",
+    "text": "in terms of being engaged by Nestle, how do we advise the new CEO on growth opportunities?"
+  },
+  {
+    "start": 114.32,
+    "end": 122.16,
+    "speaker": "SPEAKER_02",
+    "text": "Nestle, 90 billion annual revenue, 270,000 employees, prior growth in margins, which is fantastic by"
+  },
+  {
+    "start": 122.88,
+    "end": 131.35999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "16.5 to 17.3%. Although that was the case, it sounds like the trade-off was the growth that has"
+  },
+  {
+    "start": 131.36,
+    "end": 136.48000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "recently been declining, even though competitors somehow are able to increase their top lines."
+  },
+  {
+    "start": 136.48000000000002,
+    "end": 141.76000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Is that a correct understanding? Yeah, that's correct. Excellent. So, you know, perhaps maybe before I"
+  },
+  {
+    "start": 141.76000000000002,
+    "end": 146.96,
+    "speaker": "SPEAKER_02",
+    "text": "jump in, I do have a few questions for you. So the first one kind of being a goal or objective."
+  },
+  {
+    "start": 147.60000000000002,
+    "end": 152.08,
+    "speaker": "SPEAKER_02",
+    "text": "Do we understand Nestle's target goal? Understanding they want to grow kind of top-lining growth,"
+  },
+  {
+    "start": 152.08,
+    "end": 158.08,
+    "speaker": "SPEAKER_00",
+    "text": "but do they have some kind of nominal figure in mind? Yeah, Nestle wants to return to growth and at"
+  },
+  {
+    "start": 158.08,
+    "end": 165.20000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "least match competitors growth rates. Since 2019, Nestle is only out of a total of 4% revenue."
+  },
+  {
+    "start": 165.20000000000002,
+    "end": 171.44,
+    "speaker": "SPEAKER_00",
+    "text": "While competitors, Unilever and PepsiCo are up 14 and 36% respectively, Nestle would like to get"
+  },
+  {
+    "start": 171.44,
+    "end": 177.44,
+    "speaker": "SPEAKER_00",
+    "text": "back to an annualized growth rate of 3 to 4% per year. So in the short term, that means adding"
+  },
+  {
+    "start": 177.44,
+    "end": 183.92000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "2 to 4 billion in revenue next year. Okay, wow. Certainly huge growth for our competitors versus"
+  },
+  {
+    "start": 183.92,
+    "end": 189.04,
+    "speaker": "SPEAKER_02",
+    "text": "us and 2 to 4 billion, especially in short-time frame is not an easy target. So that's good to know"
+  },
+  {
+    "start": 189.04,
+    "end": 194.23999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "kind of what we're up against. I would also be curious, certainly given that Unilever and PepsiCo have"
+  },
+  {
+    "start": 194.23999999999998,
+    "end": 201.04,
+    "speaker": "SPEAKER_02",
+    "text": "grown by so much versus us, do we have any kind of a group cause analysis? I know alluded to weight"
+  },
+  {
+    "start": 201.04,
+    "end": 206.79999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "loss, drugs, but of course, you had reference, COVID during the prompt, do we understand"
+  },
+  {
+    "start": 206.79999999999998,
+    "end": 212.23999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "if maybe economic or sessions, do we have any idea what's causing this? Yeah. So Nestle identified"
+  },
+  {
+    "start": 212.24,
+    "end": 218.4,
+    "speaker": "SPEAKER_00",
+    "text": "sort of two main drivers of what's causing the declining growth. One is Nestle pulled back on"
+  },
+  {
+    "start": 218.4,
+    "end": 224.16,
+    "speaker": "SPEAKER_00",
+    "text": "marketing spend, post the pandemic as the company and all others face supply change shortages."
+  },
+  {
+    "start": 225.04000000000002,
+    "end": 229.60000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "The company chose not to invest in marketing products that it couldn't fulfill effectively"
+  },
+  {
+    "start": 229.60000000000002,
+    "end": 235.76000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "essentially. And then secondly, the speed and pace of innovation seemed to slow under the previous"
+  },
+  {
+    "start": 235.76,
+    "end": 241.92,
+    "speaker": "SPEAKER_00",
+    "text": "CEO product rollout timelines were up by 25 to 40 percent compared to historical launches."
+  },
+  {
+    "start": 243.2,
+    "end": 246.79999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "Interesting. So because it's combination of marketing and innovation, it sounds like."
+  },
+  {
+    "start": 247.67999999999998,
+    "end": 251.28,
+    "speaker": "SPEAKER_02",
+    "text": "I'll be curious to jump into kind of the product side of it. If there's perhaps too many products that"
+  },
+  {
+    "start": 251.28,
+    "end": 257.03999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "we can't keep up with marketing, that's necessary for them. Supposing of one last question, it kind of"
+  },
+  {
+    "start": 257.03999999999996,
+    "end": 262.56,
+    "speaker": "SPEAKER_02",
+    "text": "delves into a piece of the first one is specifically consumer preferences. Do we happen to have an"
+  },
+  {
+    "start": 262.56,
+    "end": 268.88,
+    "speaker": "SPEAKER_02",
+    "text": "idea regarding consumer preferences impact on this? And specifically, is it consumer preferences"
+  },
+  {
+    "start": 268.88,
+    "end": 273.92,
+    "speaker": "SPEAKER_02",
+    "text": "changing and not desiring the Nestle products anymore? Or is that even something that I should not"
+  },
+  {
+    "start": 273.92,
+    "end": 279.44,
+    "speaker": "SPEAKER_00",
+    "text": "be considering? Yeah, no great question. So consumer preferences have shifted to more affordable"
+  },
+  {
+    "start": 279.44,
+    "end": 285.92,
+    "speaker": "SPEAKER_00",
+    "text": "options such as private labels, so Kirkland, Walmart brands, etc. Those are gaining traction as"
+  },
+  {
+    "start": 285.92,
+    "end": 291.36,
+    "speaker": "SPEAKER_00",
+    "text": "Nestle's high prices during the cost of living crisis has alienated some shoppers."
+  },
+  {
+    "start": 292.32,
+    "end": 296.8,
+    "speaker": "SPEAKER_02",
+    "text": "Oh, wow. Okay. So kind of like summary of all this, we want a 3 to 4 percent"
+  },
+  {
+    "start": 297.44,
+    "end": 303.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "goal of target, two drivers of some of these issues, marketing innovation, and then even price"
+  },
+  {
+    "start": 303.28000000000003,
+    "end": 308.88,
+    "speaker": "SPEAKER_02",
+    "text": "now, it sounds like could be perhaps another, another root cause as well. I'll be this is great."
+  },
+  {
+    "start": 308.88,
+    "end": 312.56,
+    "speaker": "SPEAKER_02",
+    "text": "If I can just take a moment to kind of gather my thoughts and figure out my approach, and then"
+  },
+  {
+    "start": 312.56,
+    "end": 316.0,
+    "speaker": "SPEAKER_02",
+    "text": "we'd love to brief you on kind of where I want to go with this case. How does that sound? That's"
+  },
+  {
+    "start": 316.0,
+    "end": 324.64,
+    "speaker": "SPEAKER_02",
+    "text": "perfect. Excellent. Now, I'd be thinking to have a direction forward. So the one thing about this"
+  },
+  {
+    "start": 324.64,
+    "end": 330.8,
+    "speaker": "SPEAKER_02",
+    "text": "is kind of like two parts primarily, organic growth, this idea of built and inorganic growth"
+  },
+  {
+    "start": 330.8,
+    "end": 336.0,
+    "speaker": "SPEAKER_02",
+    "text": "are by. So kind of build or buy scenarios. And so for organic growth, I'm thinking about it in"
+  },
+  {
+    "start": 336.0,
+    "end": 341.2,
+    "speaker": "SPEAKER_02",
+    "text": "three primary ways. One of the revenue drivers we can perhaps adjust and whether that's a good idea"
+  },
+  {
+    "start": 342.15999999999997,
+    "end": 346.24,
+    "speaker": "SPEAKER_02",
+    "text": "or not, marketing, which is going to be a huge piece given what we just found out, and then"
+  },
+  {
+    "start": 346.24,
+    "end": 350.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "expansion opportunity. So, you know, diving into each of those revenue drivers, there's"
+  },
+  {
+    "start": 350.71999999999997,
+    "end": 356.15999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "historically, you know, price, quantity, and maybe discounts. So pricing discounts is something"
+  },
+  {
+    "start": 356.15999999999997,
+    "end": 361.2,
+    "speaker": "SPEAKER_02",
+    "text": "that I don't think we have a lot of adjustment to make. Perhaps we can, but given what we just heard,"
+  },
+  {
+    "start": 361.2,
+    "end": 365.12,
+    "speaker": "SPEAKER_02",
+    "text": "it sounds like our price is already too high. So if anything, we want to be lowering our price,"
+  },
+  {
+    "start": 365.12,
+    "end": 369.91999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "which doesn't traditionally then grow that top line number. If we can have a tradeoff,"
+  },
+  {
+    "start": 370.24,
+    "end": 374.96000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "so kind of thinking about elasticity here, if we can drop our price enough so that our quantity"
+  },
+  {
+    "start": 374.96000000000004,
+    "end": 380.56,
+    "speaker": "SPEAKER_02",
+    "text": "overmatches so we can increase that volume, that could perhaps be a great option."
+  },
+  {
+    "start": 381.6,
+    "end": 386.24,
+    "speaker": "SPEAKER_02",
+    "text": "Next is marketing. So marketing, I think this is going to be huge. So can we increase marketing"
+  },
+  {
+    "start": 386.24,
+    "end": 390.48,
+    "speaker": "SPEAKER_02",
+    "text": "for not necessarily all of our products, but the products that have the greatest opportunity for growth,"
+  },
+  {
+    "start": 391.28000000000003,
+    "end": 396.08000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "either that we're over indexing that market currently or have the opportunity to be."
+  },
+  {
+    "start": 396.88,
+    "end": 401.68,
+    "speaker": "SPEAKER_02",
+    "text": "I also want to think about partnering with influencers. This has been a huge area recently,"
+  },
+  {
+    "start": 401.68,
+    "end": 406.24,
+    "speaker": "SPEAKER_02",
+    "text": "not just branding for company and products, but personal brand and them being able to then push"
+  },
+  {
+    "start": 406.24,
+    "end": 412.64,
+    "speaker": "SPEAKER_02",
+    "text": "those nasty products directly to the consumers. Then expansion. So innovation came up during the"
+  },
+  {
+    "start": 412.64,
+    "end": 418.32,
+    "speaker": "SPEAKER_02",
+    "text": "Q&A. It sounds like this is a major opportunity. We can either increase product mix, so especially for"
+  },
+  {
+    "start": 418.32,
+    "end": 422.64,
+    "speaker": "SPEAKER_02",
+    "text": "some of those favor brands that we have and even kind of expanding out perhaps different flavors."
+  },
+  {
+    "start": 423.59999999999997,
+    "end": 428.0,
+    "speaker": "SPEAKER_02",
+    "text": "Also expanding markets. One thing I always think about I used to live in the UK. My friends"
+  },
+  {
+    "start": 428.0,
+    "end": 432.15999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "love when I bring over different flavors of M&Ms they can't get there. So even just taking products"
+  },
+  {
+    "start": 432.15999999999997,
+    "end": 436.47999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "that we have currently and bringing those international markets and really using those supply chains"
+  },
+  {
+    "start": 436.47999999999996,
+    "end": 441.76,
+    "speaker": "SPEAKER_02",
+    "text": "that we have in the distribution. All right. Now I want to think about kind of this other side of"
+  },
+  {
+    "start": 441.76,
+    "end": 447.59999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "inorganic growth, the buy opportunity, given that we need to hit a 3 to 4% target relatively"
+  },
+  {
+    "start": 447.6,
+    "end": 454.64000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "quickly. That's 2 to 4 billion. The buy option sounds very appealing. This can either go through"
+  },
+  {
+    "start": 454.64000000000004,
+    "end": 460.0,
+    "speaker": "SPEAKER_02",
+    "text": "horizontal or vertical. Horizontality. We can focus on private label products. So again,"
+  },
+  {
+    "start": 460.0,
+    "end": 465.44,
+    "speaker": "SPEAKER_02",
+    "text": "doubling down on those brand recognition by thinking about like prime, a drinks, or beastables."
+  },
+  {
+    "start": 465.44,
+    "end": 470.24,
+    "speaker": "SPEAKER_02",
+    "text": "Those are items that I personally don't consume but I've seen really take off in the market."
+  },
+  {
+    "start": 470.24,
+    "end": 474.24,
+    "speaker": "SPEAKER_02",
+    "text": "And again, kind of a doubling down on one of those products that we perhaps get and then just"
+  },
+  {
+    "start": 474.24,
+    "end": 479.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "increase the distribution of them overnight. I imagine also there's an opportunity to"
+  },
+  {
+    "start": 479.28000000000003,
+    "end": 484.08,
+    "speaker": "SPEAKER_02",
+    "text": "divest or sell some of our slower growing products. Thinking about this 80-20 principle. If we had"
+  },
+  {
+    "start": 484.08,
+    "end": 488.64,
+    "speaker": "SPEAKER_02",
+    "text": "to cut marketing on a huge number of products, props are products that we just simply don't want to"
+  },
+  {
+    "start": 488.64,
+    "end": 493.2,
+    "speaker": "SPEAKER_02",
+    "text": "hold and we want to then invest whatever we can take from those into the products that have growth"
+  },
+  {
+    "start": 493.2,
+    "end": 498.16,
+    "speaker": "SPEAKER_02",
+    "text": "opportunities. Then there's also this vertical side is acting as a supplier potentially. I have"
+  },
+  {
+    "start": 498.16,
+    "end": 502.48,
+    "speaker": "SPEAKER_02",
+    "text": "friends from grad school that now own bakeries and own coffee shops and this is something that"
+  },
+  {
+    "start": 502.48,
+    "end": 507.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "constantly struggling with this food costs. So if we can be a big-to-time distributor, either use"
+  },
+  {
+    "start": 507.28000000000003,
+    "end": 511.92,
+    "speaker": "SPEAKER_02",
+    "text": "our distribution or even be a supplier to some of those larger brands, that's an opportunity as"
+  },
+  {
+    "start": 511.92,
+    "end": 518.24,
+    "speaker": "SPEAKER_02",
+    "text": "well kind of sitting behind the scenes. Now, I think about my hypothesis coming in was perhaps it's"
+  },
+  {
+    "start": 518.24,
+    "end": 522.96,
+    "speaker": "SPEAKER_02",
+    "text": "a market-wide problem. Confectionary industry just being impacted. But I'm starting to think"
+  },
+  {
+    "start": 522.96,
+    "end": 529.04,
+    "speaker": "SPEAKER_02",
+    "text": "given what Unilever PepsiCo have done that could be a Nestle problem. Now, I do want to before"
+  },
+  {
+    "start": 529.04,
+    "end": 534.0,
+    "speaker": "SPEAKER_02",
+    "text": "kind of doubling down that hypothesis, I do want to test it. Do we happen to have any information"
+  },
+  {
+    "start": 534.0,
+    "end": 538.8,
+    "speaker": "SPEAKER_02",
+    "text": "kind of comparing us versus these competitors or even market-wide so I can test that out?"
+  },
+  {
+    "start": 539.36,
+    "end": 544.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, we do have some competitor benchmarking data from a sales standpoint."
+  },
+  {
+    "start": 544.9599999999999,
+    "end": 547.36,
+    "speaker": "SPEAKER_00",
+    "text": "And can you see this exhibit okay here?"
+  },
+  {
+    "start": 547.36,
+    "end": 552.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "I can. Yeah, thank you. If you give me maybe one moment just to kind of collect my thoughts."
+  },
+  {
+    "start": 552.3199999999999,
+    "end": 553.1999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, for sure."
+  },
+  {
+    "start": 559.12,
+    "end": 564.16,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, so kind of contextualized looks like we have four companies, one of those companies, of course,"
+  },
+  {
+    "start": 564.16,
+    "end": 571.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "being Nestle compared over about seven years from 2017 to 2023 and comparing that top-line sales"
+  },
+  {
+    "start": 571.8399999999999,
+    "end": 576.88,
+    "speaker": "SPEAKER_02",
+    "text": "growth number. And so what I'm seeing is Nestle remained fairly stable. Yeah, we have a little"
+  },
+  {
+    "start": 576.88,
+    "end": 584.24,
+    "speaker": "SPEAKER_02",
+    "text": "kind of back and forth. And we also see that decline recently from 22 to 23, which I was referenced"
+  },
+  {
+    "start": 584.24,
+    "end": 590.24,
+    "speaker": "SPEAKER_02",
+    "text": "during the early prompt. Now kind of like main takeaway, Nestle is clearly worse than our competitors,"
+  },
+  {
+    "start": 590.24,
+    "end": 596.4,
+    "speaker": "SPEAKER_02",
+    "text": "especially if you look at PepsiCo going from 63 to 91. I mean, they've just had tremendous growth,"
+  },
+  {
+    "start": 596.4,
+    "end": 601.6800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "even Mondale's though when Unilever have seen a bit of growth as well. If I'm even comparing to"
+  },
+  {
+    "start": 601.6800000000001,
+    "end": 611.28,
+    "speaker": "SPEAKER_02",
+    "text": "so in 2018, Nestle was about 50% bigger than PepsiCo 91 versus 64. By 23 though, I mean, they're"
+  },
+  {
+    "start": 611.28,
+    "end": 617.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "effectively the same. So whatever PepsiCo is doing is really taking off. And especially compared to us,"
+  },
+  {
+    "start": 617.8399999999999,
+    "end": 623.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, where does not keeping up? What's also quite interesting is that if you kind of look early on"
+  },
+  {
+    "start": 623.8399999999999,
+    "end": 629.76,
+    "speaker": "SPEAKER_02",
+    "text": "from 2017 to about 2020, most of our competitors remained fairly stable. There wasn't a lot of growth,"
+  },
+  {
+    "start": 629.76,
+    "end": 635.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "but from 21 to 23, that's when you kind of see this lift off, especially for PepsiCo. So if I had"
+  },
+  {
+    "start": 635.1999999999999,
+    "end": 639.28,
+    "speaker": "SPEAKER_02",
+    "text": "to think about what time period I really want to look at what they're doing, it would be there."
+  },
+  {
+    "start": 640.0799999999999,
+    "end": 645.4399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So kind of like main takeaway from this top competitors, especially from 21 to 23,"
+  },
+  {
+    "start": 645.4399999999999,
+    "end": 651.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "are really taking off. And it does then reemphasize what I was thinking that it's not necessarily a"
+  },
+  {
+    "start": 651.8399999999999,
+    "end": 656.0,
+    "speaker": "SPEAKER_02",
+    "text": "market problem, but it's something Nestle is doing, especially very recently."
+  },
+  {
+    "start": 657.36,
+    "end": 662.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, for sure. And sort of based on that, we have a double click kind of into the same theme of"
+  },
+  {
+    "start": 662.3199999999999,
+    "end": 668.16,
+    "speaker": "SPEAKER_00",
+    "text": "data on, you know, market share trends in the last year. And wondering if you can kind of look at"
+  },
+  {
+    "start": 668.16,
+    "end": 673.04,
+    "speaker": "SPEAKER_00",
+    "text": "this exhibit and tell me any key insights that you get from this. Interesting. Yeah, give me just one"
+  },
+  {
+    "start": 673.04,
+    "end": 680.7199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "moment. And okay, I know it's a bit fuzzy. And so just please correct me if I lead a stray. So"
+  },
+  {
+    "start": 681.6,
+    "end": 686.56,
+    "speaker": "SPEAKER_02",
+    "text": "contextually, again, what we're looking at is it looks like about a one year trend from July 23 to"
+  },
+  {
+    "start": 686.56,
+    "end": 693.36,
+    "speaker": "SPEAKER_02",
+    "text": "June of 24. And it looks like just Nestle in this case. So no longer comparing against our competitors."
+  },
+  {
+    "start": 693.36,
+    "end": 697.76,
+    "speaker": "SPEAKER_02",
+    "text": "And this is for that one year when we saw that decline from something like 94 to 93%."
+  },
+  {
+    "start": 698.48,
+    "end": 706.56,
+    "speaker": "SPEAKER_02",
+    "text": "Share segmented for Europe versus the US. So kind of my initial takeaways clearly losing market share"
+  },
+  {
+    "start": 707.28,
+    "end": 713.6,
+    "speaker": "SPEAKER_02",
+    "text": "both US and Europe. I mean, there's only a small period in March to May of 24, where in this"
+  },
+  {
+    "start": 713.6,
+    "end": 720.0,
+    "speaker": "SPEAKER_02",
+    "text": "case, Europe is actually, you know, increased by looks like about 20 basis points. So primarily over"
+  },
+  {
+    "start": 720.0,
+    "end": 726.0,
+    "speaker": "SPEAKER_02",
+    "text": "this time period, we're only losing market share month to month. And it's considerably worse in the"
+  },
+  {
+    "start": 726.0,
+    "end": 731.04,
+    "speaker": "SPEAKER_02",
+    "text": "US compared to Europe. So really, whatever we're doing in the US is not working, but just, you know,"
+  },
+  {
+    "start": 731.04,
+    "end": 736.88,
+    "speaker": "SPEAKER_02",
+    "text": "across both ends of the company, it's not going well. And then if I think so, I'm reading the text"
+  },
+  {
+    "start": 736.88,
+    "end": 743.2,
+    "speaker": "SPEAKER_02",
+    "text": "references right now. And this is, I, you know, even alludes to kind of what you were saying previously"
+  },
+  {
+    "start": 743.2,
+    "end": 748.56,
+    "speaker": "SPEAKER_02",
+    "text": "when I asked questions about it, it seems like price is a primary component. We increased our prices"
+  },
+  {
+    "start": 748.56,
+    "end": 755.52,
+    "speaker": "SPEAKER_02",
+    "text": "during that period. It looks like the consumers did not respond positively to it. So my takeaway from"
+  },
+  {
+    "start": 755.52,
+    "end": 760.96,
+    "speaker": "SPEAKER_02",
+    "text": "this negative reaction to prices just across the board and both the US and Europe. So if I had to"
+  },
+  {
+    "start": 760.96,
+    "end": 766.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "think about kind of like what I'm taking away from the top chart, the first chart and the second"
+  },
+  {
+    "start": 766.3199999999999,
+    "end": 772.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "area chart, it supports the urgency of this new CEO, Lauren, we're losing market share in the US"
+  },
+  {
+    "start": 772.3199999999999,
+    "end": 778.64,
+    "speaker": "SPEAKER_02",
+    "text": "and Europe primarily driven by price. And competitors like PepsiCo, it seems like have taken advantage of"
+  },
+  {
+    "start": 778.72,
+    "end": 786.48,
+    "speaker": "SPEAKER_02",
+    "text": "that opportunity and really taken off primarily in the 21 to 23 timeframe. Now, given price is the"
+  },
+  {
+    "start": 786.48,
+    "end": 792.24,
+    "speaker": "SPEAKER_02",
+    "text": "primary reason, I'd be curious if we have any more data regarding prices versus competitors and"
+  },
+  {
+    "start": 792.24,
+    "end": 798.56,
+    "speaker": "SPEAKER_02",
+    "text": "trying to dive into where are competitors and what prices and what products specifically are they"
+  },
+  {
+    "start": 798.56,
+    "end": 802.8,
+    "speaker": "SPEAKER_02",
+    "text": "doubling down into gain that market share and is there an opportunity to steal a back or even"
+  },
+  {
+    "start": 802.8,
+    "end": 807.76,
+    "speaker": "SPEAKER_02",
+    "text": "potentially do something else to reposition ourselves in this market? Yeah, that's a great idea for"
+  },
+  {
+    "start": 807.76,
+    "end": 813.04,
+    "speaker": "SPEAKER_00",
+    "text": "a potential next step. And unfortunately, I don't have data on that, but have another question for you"
+  },
+  {
+    "start": 814.64,
+    "end": 821.92,
+    "speaker": "SPEAKER_00",
+    "text": "just to answer here kind of a market sizing question. So as part of its investigation into this"
+  },
+  {
+    "start": 821.92,
+    "end": 826.4,
+    "speaker": "SPEAKER_00",
+    "text": "problem, your team has identified that Nestle has bottled water business is underperforming."
+  },
+  {
+    "start": 826.4,
+    "end": 833.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "The water business does 3.2 billion per year in sales, representing about 3.5% of Nestle's total"
+  },
+  {
+    "start": 834.4000000000001,
+    "end": 838.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "revenue, but it has been struggling with supply issues and recalls due to contamination."
+  },
+  {
+    "start": 838.8000000000001,
+    "end": 844.24,
+    "speaker": "SPEAKER_00",
+    "text": "And question for you here is estimate the global market size for bottled water to help understand"
+  },
+  {
+    "start": 844.24,
+    "end": 850.0,
+    "speaker": "SPEAKER_00",
+    "text": "the potential for a turnaround and growth of this business unit. Okay, okay. Certainly not what you"
+  },
+  {
+    "start": 850.0,
+    "end": 855.36,
+    "speaker": "SPEAKER_02",
+    "text": "want to hear in terms of contamination, it comes to water products. So Abby, if I got this right,"
+  },
+  {
+    "start": 855.36,
+    "end": 861.2800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "you know, question is let's determine the global bottled water market. And this is in the context of"
+  },
+  {
+    "start": 861.28,
+    "end": 867.6,
+    "speaker": "SPEAKER_02",
+    "text": "Nestle having 3.2 billion in revenue or roughly 3.5% of its total revenue being in this area."
+  },
+  {
+    "start": 868.24,
+    "end": 871.36,
+    "speaker": "SPEAKER_02",
+    "text": "If you give me a moment, I would just like to figure out kind of how I want to approach this and"
+  },
+  {
+    "start": 871.36,
+    "end": 875.6,
+    "speaker": "SPEAKER_02",
+    "text": "I'll walk you through kind of my equation. What I'm thinking about for some of the numbers and then"
+  },
+  {
+    "start": 875.6,
+    "end": 878.16,
+    "speaker": "SPEAKER_02",
+    "text": "which is kind of ripped through the math. How's that sound? That's great."
+  },
+  {
+    "start": 881.28,
+    "end": 887.36,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, so kind of how I want to approach this is I have a starting point for the equation."
+  },
+  {
+    "start": 887.36,
+    "end": 890.72,
+    "speaker": "SPEAKER_02",
+    "text": "And I want to walk you through maybe some of the assumptions I'm going to use to assign numbers."
+  },
+  {
+    "start": 890.72,
+    "end": 896.0,
+    "speaker": "SPEAKER_02",
+    "text": "So in terms of the sizing, I want to think about the global population in total. I think I then"
+  },
+  {
+    "start": 896.0,
+    "end": 902.0,
+    "speaker": "SPEAKER_02",
+    "text": "want to segment that population down into a few different categories based on consumption of water,"
+  },
+  {
+    "start": 902.0,
+    "end": 906.72,
+    "speaker": "SPEAKER_02",
+    "text": "in this case, bottled water. Then for each of those segments, I'm thinking about it's probably the"
+  },
+  {
+    "start": 906.72,
+    "end": 912.96,
+    "speaker": "SPEAKER_02",
+    "text": "number of bottles they tend to consume the typical price point per bottle and then, you know,"
+  },
+  {
+    "start": 912.96,
+    "end": 917.2,
+    "speaker": "SPEAKER_02",
+    "text": "the time period at which. And I know that, you know, if we're thinking about this on a global scale,"
+  },
+  {
+    "start": 917.2,
+    "end": 921.36,
+    "speaker": "SPEAKER_02",
+    "text": "price of water, especially bottled water is going to drastically change in different areas."
+  },
+  {
+    "start": 921.36,
+    "end": 925.36,
+    "speaker": "SPEAKER_02",
+    "text": "So I'm going to make some broad assumptions and we'll kind of get to the bottom line answer and"
+  },
+  {
+    "start": 925.36,
+    "end": 932.1600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "see where that takes us. So global population, I know it's around 8 billion people. It was just in"
+  },
+  {
+    "start": 932.1600000000001,
+    "end": 937.12,
+    "speaker": "SPEAKER_02",
+    "text": "India over the holiday. So actually Google this because I had to know. So roughly 8 billion people"
+  },
+  {
+    "start": 937.12,
+    "end": 943.28,
+    "speaker": "SPEAKER_02",
+    "text": "globally. If I'm thinking segments, I'm thinking probably in three segments initially. I want to"
+  },
+  {
+    "start": 943.28,
+    "end": 949.76,
+    "speaker": "SPEAKER_02",
+    "text": "think about people that only drink bottled water, people who occasionally and people that never drink."
+  },
+  {
+    "start": 949.76,
+    "end": 954.48,
+    "speaker": "SPEAKER_02",
+    "text": "So hopefully those kind of three segments will cover most of the population. So"
+  },
+  {
+    "start": 956.16,
+    "end": 960.72,
+    "speaker": "SPEAKER_02",
+    "text": "in terms of only drink bottled water, I'm going to probably say about of those 8 billion,"
+  },
+  {
+    "start": 960.72,
+    "end": 965.36,
+    "speaker": "SPEAKER_02",
+    "text": "one billion. And these are people that I'm thinking every day, you know, for either sanitation"
+  },
+  {
+    "start": 965.36,
+    "end": 970.48,
+    "speaker": "SPEAKER_02",
+    "text": "reasons, lacking fresh water, maybe they're just people that love, you know, the smart waters of"
+  },
+  {
+    "start": 970.48,
+    "end": 974.8000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "the world. They're buying bottled water more frequently and they're doing this every single day."
+  },
+  {
+    "start": 974.8000000000001,
+    "end": 979.92,
+    "speaker": "SPEAKER_02",
+    "text": "So, you know, it's time probably about one billion people there. In terms of that second segment,"
+  },
+  {
+    "start": 979.92,
+    "end": 983.76,
+    "speaker": "SPEAKER_02",
+    "text": "occasionally drinking bottled water, I'm thinking it's probably about half, you know, I,"
+  },
+  {
+    "start": 983.76,
+    "end": 988.48,
+    "speaker": "SPEAKER_02",
+    "text": "in one of these people, I'm often drinking a bottled water maybe once a week. I'm buying one"
+  },
+  {
+    "start": 988.48,
+    "end": 993.9200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "because I forget my bottled water, maybe I'm traveling, maybe I'm working in an airport, and that's"
+  },
+  {
+    "start": 993.92,
+    "end": 999.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "my only ability to get something to drink. And so, you know, whether it's athletics, convenience,"
+  },
+  {
+    "start": 999.8399999999999,
+    "end": 1006.0,
+    "speaker": "SPEAKER_02",
+    "text": "or just traveling, they're probably drinking one bottle per week. And then, you know, my final"
+  },
+  {
+    "start": 1006.0,
+    "end": 1010.9599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "category there segment is never drink bottled water. This is just going to be the remaining people."
+  },
+  {
+    "start": 1010.9599999999999,
+    "end": 1015.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So we've had five so far. So it's 3 billion people that they, you know, have good access to tap water."
+  },
+  {
+    "start": 1015.5999999999999,
+    "end": 1019.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "I grew up in Maine. The tap water is the same as the bottled water there. So no one buys it. So"
+  },
+  {
+    "start": 1019.6800000000001,
+    "end": 1023.52,
+    "speaker": "SPEAKER_02",
+    "text": "we're just going to run with those three segments right now. So let me take that first segment."
+  },
+  {
+    "start": 1023.52,
+    "end": 1028.72,
+    "speaker": "SPEAKER_02",
+    "text": "That's the only drink bottled water. They're buying water in bulk. So if we have one billion people"
+  },
+  {
+    "start": 1028.72,
+    "end": 1033.52,
+    "speaker": "SPEAKER_02",
+    "text": "and they're drinking probably one bottle daily, because they're buying in bulk, we'll just call it,"
+  },
+  {
+    "start": 1033.52,
+    "end": 1038.64,
+    "speaker": "SPEAKER_02",
+    "text": "you know, maybe global price about 50 cents per bottle. And then we're doing this every day. So"
+  },
+  {
+    "start": 1038.64,
+    "end": 1045.52,
+    "speaker": "SPEAKER_02",
+    "text": "we're doing 365 days annually. So if I'm going to do that, one billion people, one bottle per day,"
+  },
+  {
+    "start": 1045.52,
+    "end": 1052.8,
+    "speaker": "SPEAKER_02",
+    "text": "one billion, 50 cents, that is of course, 500 million. And if I do 365 times five, I'm just going"
+  },
+  {
+    "start": 1052.8,
+    "end": 1060.24,
+    "speaker": "SPEAKER_02",
+    "text": "to add those zeros on to it. We're looking at 180 billion in terms of that segment."
+  },
+  {
+    "start": 1060.24,
+    "end": 1064.72,
+    "speaker": "SPEAKER_02",
+    "text": "Dollars. All right, let's jump to the next segment of occasionally drink bottled water. We said"
+  },
+  {
+    "start": 1064.72,
+    "end": 1070.4,
+    "speaker": "SPEAKER_02",
+    "text": "this was four billion people currently. And they're drinking one bottle per week. So we're going to"
+  },
+  {
+    "start": 1070.4,
+    "end": 1074.0,
+    "speaker": "SPEAKER_02",
+    "text": "say that because they're not drinking as much, you know, they're paying higher prices in those"
+  },
+  {
+    "start": 1074.0,
+    "end": 1078.24,
+    "speaker": "SPEAKER_02",
+    "text": "hotels or airports and stuff. So rather than 50 cents, you know, maybe we'll double it and just"
+  },
+  {
+    "start": 1078.24,
+    "end": 1084.64,
+    "speaker": "SPEAKER_02",
+    "text": "call it a dollar per bottle. Again, broad generalization globally. And then we're drinking 52 weeks"
+  },
+  {
+    "start": 1084.64,
+    "end": 1089.36,
+    "speaker": "SPEAKER_02",
+    "text": "because it's one bottle per week. So that's four billion people times one times one. So we still got"
+  },
+  {
+    "start": 1089.36,
+    "end": 1097.52,
+    "speaker": "SPEAKER_02",
+    "text": "four billion and then four billion times 52, 52 times four. And we were looking at 208. So 2088"
+  },
+  {
+    "start": 1097.52,
+    "end": 1104.32,
+    "speaker": "SPEAKER_02",
+    "text": "billion dollars. Never drink bottled water. Simple. We just rule out those three billion people. And"
+  },
+  {
+    "start": 1104.32,
+    "end": 1111.6,
+    "speaker": "SPEAKER_02",
+    "text": "so what we have is 180 plus 208. And so we're looking at 288 billion dollars as a global market. So"
+  },
+  {
+    "start": 1112.24,
+    "end": 1117.28,
+    "speaker": "SPEAKER_02",
+    "text": "taking a step back, putting this into context, at the U.S. told me we have 3.2 billion per year in"
+  },
+  {
+    "start": 1117.28,
+    "end": 1124.32,
+    "speaker": "SPEAKER_02",
+    "text": "terms of Nestle's market in this market compared to 288. I mean, it's just pretty low. We're looking at"
+  },
+  {
+    "start": 1124.32,
+    "end": 1129.28,
+    "speaker": "SPEAKER_02",
+    "text": "a couple percentage points that we own of this market globally. I get that Nestle has a great"
+  },
+  {
+    "start": 1129.28,
+    "end": 1135.04,
+    "speaker": "SPEAKER_02",
+    "text": "distribution, but we don't have much of it. So there's a huge opportunity here to potentially expand"
+  },
+  {
+    "start": 1135.04,
+    "end": 1141.12,
+    "speaker": "SPEAKER_02",
+    "text": "our market in Nestle's position in the water market holistically. Yeah. So sort of based on"
+  },
+  {
+    "start": 1141.12,
+    "end": 1146.8,
+    "speaker": "SPEAKER_00",
+    "text": "this information, do you think that water should be a place Nestle should invest in? It's a really"
+  },
+  {
+    "start": 1146.8,
+    "end": 1152.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "good question. You know, when I think I suppose I'm thinking about this from two aspects, branding"
+  },
+  {
+    "start": 1152.88,
+    "end": 1157.2800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "competition. When I think about brand of Nestle, I'm thinking confectionery, I'm thinking sugar,"
+  },
+  {
+    "start": 1157.2800000000002,
+    "end": 1162.8000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "I get that they do other things such as water and cooking products as well, but I think of Nestle"
+  },
+  {
+    "start": 1162.8000000000002,
+    "end": 1167.2,
+    "speaker": "SPEAKER_02",
+    "text": "not bottled water, but as you know, snacks and something else. So from a brand position,"
+  },
+  {
+    "start": 1167.2,
+    "end": 1171.5200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "you know, I could be ignorant, but it sounds like this isn't a perfect fit for my perspective."
+  },
+  {
+    "start": 1171.5200000000002,
+    "end": 1176.64,
+    "speaker": "SPEAKER_02",
+    "text": "Competition wise, I mean, God, we hold only a few percentage points. This is a market where I"
+  },
+  {
+    "start": 1176.64,
+    "end": 1180.96,
+    "speaker": "SPEAKER_02",
+    "text": "recognize you just have razor thin margins. So even if we can get a top line number, what do we"
+  },
+  {
+    "start": 1181.04,
+    "end": 1185.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "have to do in order to gain that market share and how is that going to impact our bottom line?"
+  },
+  {
+    "start": 1186.0,
+    "end": 1190.72,
+    "speaker": "SPEAKER_02",
+    "text": "I mean, you had referenced our prior CEO market was able to increase bottom line margins. So is"
+  },
+  {
+    "start": 1190.72,
+    "end": 1197.2,
+    "speaker": "SPEAKER_02",
+    "text": "this going to drop that back down? Based on those two, I'm not positive about it. I'm not feeling"
+  },
+  {
+    "start": 1197.2,
+    "end": 1201.28,
+    "speaker": "SPEAKER_02",
+    "text": "like this is a market we should jump into. And I think it is potentially something that's going to be"
+  },
+  {
+    "start": 1202.16,
+    "end": 1209.04,
+    "speaker": "SPEAKER_02",
+    "text": "not worth the juice to squeeze, so to speak. So kind of in saying that I would be interested"
+  },
+  {
+    "start": 1209.04,
+    "end": 1214.48,
+    "speaker": "SPEAKER_02",
+    "text": "investigating kind of our whole brand portfolio and trying to determine where we should"
+  },
+  {
+    "start": 1215.12,
+    "end": 1220.72,
+    "speaker": "SPEAKER_02",
+    "text": "overperforming in some brands, where we should invest, perhaps where we are overinvested and should"
+  },
+  {
+    "start": 1220.72,
+    "end": 1225.2,
+    "speaker": "SPEAKER_02",
+    "text": "divest brands and maybe that can allude to whether I'm going down the right direction here."
+  },
+  {
+    "start": 1226.08,
+    "end": 1232.48,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, great ideas. And so sort of have a follow up question for you related to that topic."
+  },
+  {
+    "start": 1232.48,
+    "end": 1238.72,
+    "speaker": "SPEAKER_00",
+    "text": "So Nestle employees over 270,000 people today. And law enfacts the new CEO is concerned about"
+  },
+  {
+    "start": 1238.8,
+    "end": 1243.04,
+    "speaker": "SPEAKER_00",
+    "text": "change management surrounding his plan shift to growth and you know focusing on some of these"
+  },
+  {
+    "start": 1243.04,
+    "end": 1247.44,
+    "speaker": "SPEAKER_00",
+    "text": "initiatives like the one we just talked about. Specifically, he's concerned that the plan changes"
+  },
+  {
+    "start": 1247.44,
+    "end": 1253.92,
+    "speaker": "SPEAKER_00",
+    "text": "will be too slow to take effect and will be met with inertia kind of backlash from within the"
+  },
+  {
+    "start": 1253.92,
+    "end": 1259.76,
+    "speaker": "SPEAKER_00",
+    "text": "organization. And so two questions for you is one, how would you ensure the plan changes get"
+  },
+  {
+    "start": 1259.76,
+    "end": 1266.16,
+    "speaker": "SPEAKER_00",
+    "text": "deployed quickly? And two, in terms of external communication to investors or the media, what timeline"
+  },
+  {
+    "start": 1266.24,
+    "end": 1272.3200000000002,
+    "speaker": "SPEAKER_00",
+    "text": "expectations should flex that when should Nestle expect to start growing for example?"
+  },
+  {
+    "start": 1273.1200000000001,
+    "end": 1278.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Is there really good question? So kind of two parts it sounds like change management, how to"
+  },
+  {
+    "start": 1278.0800000000002,
+    "end": 1284.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "enact it rapidly. And then what's the time frame or timeline that is applicable that to set"
+  },
+  {
+    "start": 1284.3200000000002,
+    "end": 1288.48,
+    "speaker": "SPEAKER_02",
+    "text": "as expectations? I think can I take a moment just to gather my thoughts for you, I'm going to kind"
+  },
+  {
+    "start": 1288.56,
+    "end": 1296.24,
+    "speaker": "SPEAKER_02",
+    "text": "of come back in a bit more structure. Of course. Okay, so I want to take this in two parts,"
+  },
+  {
+    "start": 1296.24,
+    "end": 1300.72,
+    "speaker": "SPEAKER_02",
+    "text": "kind of like the way that you laid it out in terms of change management and then expectations."
+  },
+  {
+    "start": 1300.72,
+    "end": 1305.28,
+    "speaker": "SPEAKER_02",
+    "text": "So let's take change management first. Change management, I'm thinking about it in three ways."
+  },
+  {
+    "start": 1305.28,
+    "end": 1310.4,
+    "speaker": "SPEAKER_02",
+    "text": "There's the incentives, kind of character stick approach. There is alignment of leadership"
+  },
+  {
+    "start": 1310.4,
+    "end": 1315.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "and making sure that it's coming top down. And then kind of simplifying the changes. So kind of"
+  },
+  {
+    "start": 1315.52,
+    "end": 1319.52,
+    "speaker": "SPEAKER_02",
+    "text": "let me walk through each of those. So incentives I have alluded to this sticker care and perspective."
+  },
+  {
+    "start": 1319.52,
+    "end": 1325.04,
+    "speaker": "SPEAKER_02",
+    "text": "And that's the two ways I'm thinking that the CEO can potentially incentivize not just leadership"
+  },
+  {
+    "start": 1325.04,
+    "end": 1330.4799999999998,
+    "speaker": "SPEAKER_02",
+    "text": "but everyone else. So carrot, you know, I'm thinking it's probably urine bonuses, it's promotions,"
+  },
+  {
+    "start": 1330.4799999999998,
+    "end": 1337.12,
+    "speaker": "SPEAKER_02",
+    "text": "it's raises, it's perhaps your organization receiving a larger portion of the budget so you can do"
+  },
+  {
+    "start": 1337.12,
+    "end": 1342.32,
+    "speaker": "SPEAKER_02",
+    "text": "more within organization, whether that's higher people invest in technology. So all positive pieces."
+  },
+  {
+    "start": 1342.32,
+    "end": 1348.48,
+    "speaker": "SPEAKER_02",
+    "text": "There's always the stick approach to not necessarily saying that it's more or less feasible,"
+  },
+  {
+    "start": 1348.48,
+    "end": 1353.28,
+    "speaker": "SPEAKER_02",
+    "text": "but impact your informants. If you don't do this, if you don't enact this by this time frame,"
+  },
+  {
+    "start": 1353.28,
+    "end": 1357.4399999999998,
+    "speaker": "SPEAKER_02",
+    "text": "here's what's going to be the impact to yourself or to those colleagues that you work with."
+  },
+  {
+    "start": 1358.8,
+    "end": 1363.84,
+    "speaker": "SPEAKER_02",
+    "text": "And also imagine then kind of taking a second piece, aligning leadership. So making sure that it's"
+  },
+  {
+    "start": 1363.84,
+    "end": 1370.8,
+    "speaker": "SPEAKER_02",
+    "text": "coming from a top down investment. So leadership at a CEO level and C-suite level are invested"
+  },
+  {
+    "start": 1371.12,
+    "end": 1375.36,
+    "speaker": "SPEAKER_02",
+    "text": "there then getting the middle level management invested. I know personally when I've seen messages"
+  },
+  {
+    "start": 1375.36,
+    "end": 1380.1599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "come down through multiple layers of management and receiving that buy-in, I have more buy-in"
+  },
+  {
+    "start": 1380.1599999999999,
+    "end": 1385.28,
+    "speaker": "SPEAKER_02",
+    "text": "as an employee as well. But then also simplifying the changes. I can't imagine that getting two to"
+  },
+  {
+    "start": 1385.28,
+    "end": 1391.04,
+    "speaker": "SPEAKER_02",
+    "text": "four billion dollars in quality year time frame is going to be easy. So making these changes simple"
+  },
+  {
+    "start": 1391.04,
+    "end": 1396.0,
+    "speaker": "SPEAKER_02",
+    "text": "down to each individual. Here's specifically what you have to do and here's how you have to do it."
+  },
+  {
+    "start": 1396.0,
+    "end": 1400.08,
+    "speaker": "SPEAKER_02",
+    "text": "Simplifying those changes I think it just makes it a higher probability that it's actually going to be"
+  },
+  {
+    "start": 1400.08,
+    "end": 1405.36,
+    "speaker": "SPEAKER_02",
+    "text": "enacted and going to be done correctly. Okay so that's kind of like my perspective on change"
+  },
+  {
+    "start": 1405.36,
+    "end": 1409.1999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "management. Let's jump to expectations. And I think this is probably going to be a little more"
+  },
+  {
+    "start": 1409.1999999999998,
+    "end": 1413.9199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "difficult. And if I think of kind of like contacts to this, you have to inspire confidence with"
+  },
+  {
+    "start": 1413.9199999999998,
+    "end": 1418.96,
+    "speaker": "SPEAKER_02",
+    "text": "investors. You have to give them a time frame to make the changes and then you also and through"
+  },
+  {
+    "start": 1418.96,
+    "end": 1424.0,
+    "speaker": "SPEAKER_02",
+    "text": "all this, have to put an assay in a position to succeed. If I think about you know even dropping"
+  },
+  {
+    "start": 1424.0,
+    "end": 1429.28,
+    "speaker": "SPEAKER_02",
+    "text": "that a layer further just to see you know what do we have to do? We have to enact the change. So we"
+  },
+  {
+    "start": 1429.28,
+    "end": 1433.76,
+    "speaker": "SPEAKER_02",
+    "text": "have to you know to change the prices get those new products in. We have to communicate that to"
+  },
+  {
+    "start": 1433.76,
+    "end": 1438.32,
+    "speaker": "SPEAKER_02",
+    "text": "the market and communicate that to our consumers. We have to probably have an opportunity to"
+  },
+  {
+    "start": 1438.32,
+    "end": 1442.56,
+    "speaker": "SPEAKER_02",
+    "text": "educate consumers what's changed. What's different? Why should you buy your product now? And then"
+  },
+  {
+    "start": 1442.56,
+    "end": 1446.0,
+    "speaker": "SPEAKER_02",
+    "text": "there's probably a period in there where we have to pivot. Maybe we have to pivot marketing. We"
+  },
+  {
+    "start": 1446.0,
+    "end": 1451.28,
+    "speaker": "SPEAKER_02",
+    "text": "have to pivot our brand recognition. We have to do something different and change. To do all that"
+  },
+  {
+    "start": 1451.28,
+    "end": 1457.2,
+    "speaker": "SPEAKER_02",
+    "text": "in a short period of time is extremely difficult. So I think timing we probably need about one year."
+  },
+  {
+    "start": 1457.2,
+    "end": 1462.16,
+    "speaker": "SPEAKER_02",
+    "text": "And if I think about kind of like where this is also happening in the market, the Nike CEO,"
+  },
+  {
+    "start": 1462.16,
+    "end": 1466.88,
+    "speaker": "SPEAKER_02",
+    "text": "brand new, you know, market reactive, positive to him being there. But at the same time, you know,"
+  },
+  {
+    "start": 1466.88,
+    "end": 1471.04,
+    "speaker": "SPEAKER_02",
+    "text": "he hasn't done anything for probably better part of four to six months. He needs time. And I think"
+  },
+  {
+    "start": 1471.04,
+    "end": 1476.32,
+    "speaker": "SPEAKER_02",
+    "text": "we probably need the same time as well. I don't think there's any way getting around. If we try to do"
+  },
+  {
+    "start": 1476.32,
+    "end": 1481.2,
+    "speaker": "SPEAKER_02",
+    "text": "something short term, I know my initial framework approach we said we could go out and buy something"
+  },
+  {
+    "start": 1481.2,
+    "end": 1485.6000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "because it's inorganic at peace. Odds are just giving how desperate we are for this change. We"
+  },
+  {
+    "start": 1485.6,
+    "end": 1490.6399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "probably have to overspend on something. It would be a short term bandage, probably impact the"
+  },
+  {
+    "start": 1490.6399999999999,
+    "end": 1495.52,
+    "speaker": "SPEAKER_02",
+    "text": "company negatively in the long term. So I think probably that six months to a year and a minimum is"
+  },
+  {
+    "start": 1495.52,
+    "end": 1501.1999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "what we need to communicate to investors into the market in terms of time frame we need to make"
+  },
+  {
+    "start": 1501.1999999999998,
+    "end": 1508.1599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "these changes possible. Yeah, great answer. That makes some ton of sense. So your team has a kickoff"
+  },
+  {
+    "start": 1508.1599999999999,
+    "end": 1513.28,
+    "speaker": "SPEAKER_00",
+    "text": "meeting with FREX and the leadership team next week. What would be your summary recommendation to them?"
+  },
+  {
+    "start": 1514.24,
+    "end": 1522.08,
+    "speaker": "SPEAKER_02",
+    "text": "Excellent. Okay. So in terms of kind of what I would recommend, our goal throughout all this"
+  },
+  {
+    "start": 1522.08,
+    "end": 1526.6399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Abbey was to identify a mechanism for Nestle to return to an ANOAS growth rate up three to four"
+  },
+  {
+    "start": 1526.6399999999999,
+    "end": 1532.32,
+    "speaker": "SPEAKER_02",
+    "text": "percent numerically that's two to four billion annually. My recommendation is that given the short"
+  },
+  {
+    "start": 1532.32,
+    "end": 1538.0,
+    "speaker": "SPEAKER_02",
+    "text": "term to reflect this change, we should reduce investment in underperforming brands and markets such as"
+  },
+  {
+    "start": 1538.0,
+    "end": 1542.72,
+    "speaker": "SPEAKER_02",
+    "text": "perhaps bottled water where we're having a more difficult time competing. And instead reinvest in"
+  },
+  {
+    "start": 1542.72,
+    "end": 1546.88,
+    "speaker": "SPEAKER_02",
+    "text": "Nestle's key brands where we either are overperforming currently in the market or have an"
+  },
+  {
+    "start": 1546.88,
+    "end": 1552.4,
+    "speaker": "SPEAKER_02",
+    "text": "greater opportunity to do so. There's a huge risk with this. Number one is pushback from leadership"
+  },
+  {
+    "start": 1552.4,
+    "end": 1556.72,
+    "speaker": "SPEAKER_02",
+    "text": "and not receiving the buy-in that we need, especially if we're cutting the investments of those"
+  },
+  {
+    "start": 1556.72,
+    "end": 1562.16,
+    "speaker": "SPEAKER_02",
+    "text": "leadership's brands. We risk them not buying in and then that trickling down to employees and"
+  },
+  {
+    "start": 1562.16,
+    "end": 1566.4,
+    "speaker": "SPEAKER_02",
+    "text": "knocking in the quick turn that we need in order to be successful in that one year time period."
+  },
+  {
+    "start": 1566.96,
+    "end": 1570.32,
+    "speaker": "SPEAKER_02",
+    "text": "We can mitigate this though. We can mitigate this through a few different measures either a"
+  },
+  {
+    "start": 1570.32,
+    "end": 1576.08,
+    "speaker": "SPEAKER_02",
+    "text": "combination of incentives, leadership alignment and microchanges to make those changes easier."
+  },
+  {
+    "start": 1576.08,
+    "end": 1580.72,
+    "speaker": "SPEAKER_02",
+    "text": "As an immediate next step though, our company has extensive experience with segmenting these"
+  },
+  {
+    "start": 1580.72,
+    "end": 1584.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "products in order to meet those short term goals and we would love to help you do so to understand"
+  },
+  {
+    "start": 1584.8799999999999,
+    "end": 1588.72,
+    "speaker": "SPEAKER_02",
+    "text": "which products we should invest in and grow to meet that three to four percent goal."
+  },
+  {
+    "start": 1589.84,
+    "end": 1595.04,
+    "speaker": "SPEAKER_01",
+    "text": "Great. Thanks Ben. Thank you Abbey. Hey everyone, it's Kent and Givessey here at the founder of"
+  },
+  {
+    "start": 1595.04,
+    "end": 1599.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Rockablocks. Thank you so much for watching this mock interview video. I hope you found it informative"
+  },
+  {
+    "start": 1599.68,
+    "end": 1604.5600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "and helpful as you were getting ready to prepare for your own interviews and hopefully landing"
+  },
+  {
+    "start": 1604.5600000000002,
+    "end": 1609.76,
+    "speaker": "SPEAKER_01",
+    "text": "that job offer you are excited about. We have a ton of great content on the Rockablocks channel"
+  },
+  {
+    "start": 1609.76,
+    "end": 1615.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "coming out on a weekly basis, mock interviews, mini lessons and chats with our Rockablocks experts."
+  },
+  {
+    "start": 1615.1200000000001,
+    "end": 1620.16,
+    "speaker": "SPEAKER_01",
+    "text": "So if you haven't subscribed yet already, please do so. There is a big red button below."
+  },
+  {
+    "start": 1620.16,
+    "end": 1625.44,
+    "speaker": "SPEAKER_01",
+    "text": "And if you hit that, you'll get all of our content as soon as it comes out. Thanks for watching and have a great day."
+  }
+]

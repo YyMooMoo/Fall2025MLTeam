@@ -1,0 +1,1076 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.9,
+    "speaker": "SPEAKER_00",
+    "text": "Hello everyone, my name is Kenton Kvescu. I'm an ex-BCG consultant, an ex-Googleer and"
+  },
+  {
+    "start": 6.9,
+    "end": 11.76,
+    "speaker": "SPEAKER_00",
+    "text": "the founder of Rocketblocks and online platform Helps candidates prepare for interviews."
+  },
+  {
+    "start": 11.76,
+    "end": 17.8,
+    "speaker": "SPEAKER_00",
+    "text": "Today, we have an awesome Rocketblocks mock interview coming at you. It features two of"
+  },
+  {
+    "start": 17.8,
+    "end": 22.72,
+    "speaker": "SPEAKER_00",
+    "text": "our Rocketblocks experts, Matthew Calvert, who is an ex-BCG consultant. He also worked"
+  },
+  {
+    "start": 22.72,
+    "end": 26.84,
+    "speaker": "SPEAKER_00",
+    "text": "in the US House of Representatives. He's going to be playing the role of the interviewer."
+  },
+  {
+    "start": 26.84,
+    "end": 32.14,
+    "speaker": "SPEAKER_00",
+    "text": "Our candidate is Daniella Fernandez. She is a former BCG summer intern. She's returning"
+  },
+  {
+    "start": 32.14,
+    "end": 36.68,
+    "speaker": "SPEAKER_00",
+    "text": "to BCG and she's a graduate of the Darden School of Business as well and she's going"
+  },
+  {
+    "start": 36.68,
+    "end": 41.88,
+    "speaker": "SPEAKER_00",
+    "text": "to be playing the candidate. The case is a really fun and challenging case where a private"
+  },
+  {
+    "start": 41.88,
+    "end": 47.8,
+    "speaker": "SPEAKER_00",
+    "text": "equity firm is thinking about buying a professional sport steep. So lots of fun things to consider."
+  },
+  {
+    "start": 47.8,
+    "end": 53.16,
+    "speaker": "SPEAKER_00",
+    "text": "Let's go ahead and jump in. Hi Daniella, I'm Matti Calvert. I'm really excited to be doing"
+  },
+  {
+    "start": 53.16,
+    "end": 59.12,
+    "speaker": "SPEAKER_01",
+    "text": "this case with you today. A little bit about me. I was a consultant at BCG in Chicago for"
+  },
+  {
+    "start": 59.12,
+    "end": 66.2,
+    "speaker": "SPEAKER_01",
+    "text": "two years. Now I'm working at Cairo's Aerospace and the Climate Text Space as a director of"
+  },
+  {
+    "start": 66.2,
+    "end": 70.67999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "methane results. I'd love to hear a little bit about you and we can jump into the case."
+  },
+  {
+    "start": 70.67999999999999,
+    "end": 75.64,
+    "speaker": "SPEAKER_02",
+    "text": "Hi Matt, great to meet you. I am Daniella, I'm originally from Mexico. I am currently"
+  },
+  {
+    "start": 75.64,
+    "end": 81.0,
+    "speaker": "SPEAKER_02",
+    "text": "at the Jordan MBA and after the MBA I'm going to actually BCG Chicago as a consultant."
+  },
+  {
+    "start": 81.0,
+    "end": 86.12,
+    "speaker": "SPEAKER_01",
+    "text": "Awesome. Are you going to get started on the case? Yeah, let's do it."
+  },
+  {
+    "start": 87.56,
+    "end": 93.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so our client, Alpha Capital, is a private equity firm that is considering buying"
+  },
+  {
+    "start": 93.0,
+    "end": 98.92,
+    "speaker": "SPEAKER_01",
+    "text": "the Philadelphia Phillies who are a baseball team. The current team owners approached Alpha about"
+  },
+  {
+    "start": 98.92,
+    "end": 105.16,
+    "speaker": "SPEAKER_01",
+    "text": "purchasing the team for $1.1 billion dollars. Alpha engaged our firm in the due diligence process"
+  },
+  {
+    "start": 105.64,
+    "end": 112.84,
+    "speaker": "SPEAKER_01",
+    "text": "and wants us to help them understand the following. A, what is the teamwork and B, should they"
+  },
+  {
+    "start": 112.84,
+    "end": 121.4,
+    "speaker": "SPEAKER_02",
+    "text": "make this investment? So I'm interesting. Hi, I think I should start learning more about baseball."
+  },
+  {
+    "start": 121.4,
+    "end": 125.96000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Now that I'm moving to Chicago, so they should be cool. Just to recap and see if I have"
+  },
+  {
+    "start": 125.96000000000001,
+    "end": 132.2,
+    "speaker": "SPEAKER_02",
+    "text": "everything correct, we're talking about Alpha Capital, a P firm considered by Philadelphia Phillies"
+  },
+  {
+    "start": 132.2,
+    "end": 137.95999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "for $1.1 billion and they want our help to see if they should make this investment. Is that correct?"
+  },
+  {
+    "start": 140.51999999999998,
+    "end": 145.64,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect. All right, so I would love to ask you a couple clarifying questions if that's"
+  },
+  {
+    "start": 145.64,
+    "end": 152.83999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "a right before jumping into it. So the first one is what is the goal of this deal? Is it directly"
+  },
+  {
+    "start": 152.83999999999997,
+    "end": 159.23999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "related to the investment or they just want to get into the sports market? That's a great question."
+  },
+  {
+    "start": 159.24,
+    "end": 164.68,
+    "speaker": "SPEAKER_01",
+    "text": "So Alpha Capital wants to maximize the value of their investment. That's really the most"
+  },
+  {
+    "start": 164.68,
+    "end": 170.92000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "important thing and you can also assume that the leaders of the fund are filled with really big"
+  },
+  {
+    "start": 170.92000000000002,
+    "end": 178.92000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "baseball and Phillies fans who want the team to be successful. Perfect. Okay. And then my second"
+  },
+  {
+    "start": 178.92000000000002,
+    "end": 187.24,
+    "speaker": "SPEAKER_02",
+    "text": "question is how does a teamwork Western business model? That's a great question. I'd love to"
+  },
+  {
+    "start": 187.24,
+    "end": 194.28,
+    "speaker": "SPEAKER_01",
+    "text": "hear some ideas that you think on how a sports team will make money. Okay. I think they"
+  },
+  {
+    "start": 194.28,
+    "end": 200.60000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "must sell tickets. They must sell merchandising. Maybe they sell some of their media rights."
+  },
+  {
+    "start": 200.60000000000002,
+    "end": 205.08,
+    "speaker": "SPEAKER_02",
+    "text": "Also, I've seen there's a lot of like player trading, so maybe buying and selling"
+  },
+  {
+    "start": 206.68,
+    "end": 213.96,
+    "speaker": "SPEAKER_01",
+    "text": "players. Is that right? That's a good idea. That's more of like a soccer model where you can"
+  },
+  {
+    "start": 214.92000000000002,
+    "end": 222.28,
+    "speaker": "SPEAKER_01",
+    "text": "buy and sell and transfer players. But another way that they make money is off of concessions."
+  },
+  {
+    "start": 222.28,
+    "end": 227.48000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "And so you can think about selling hot dogs and beers and french fries and things like that."
+  },
+  {
+    "start": 228.44,
+    "end": 231.72,
+    "speaker": "SPEAKER_01",
+    "text": "And another one would be advertising and sponsorships of the team."
+  },
+  {
+    "start": 233.0,
+    "end": 240.52,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect. All right. That's good. And my last question is how is this purchase playing within"
+  },
+  {
+    "start": 240.60000000000002,
+    "end": 243.8,
+    "speaker": "SPEAKER_02",
+    "text": "the fund? Is it part of an existing fund or is it anyone?"
+  },
+  {
+    "start": 245.32000000000002,
+    "end": 250.68,
+    "speaker": "SPEAKER_01",
+    "text": "For this case, you can just assume that it's a brand new fund. There's no whole period constraints"
+  },
+  {
+    "start": 250.68,
+    "end": 258.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "for previous investments to worry about. All right. This is helpful. Perfect. So if you don't mind,"
+  },
+  {
+    "start": 258.28000000000003,
+    "end": 262.36,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to take a couple of minutes just to think through this. Absolutely."
+  },
+  {
+    "start": 262.68,
+    "end": 271.32,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. So in other to determine if this is a good investment, I would love to take a look into"
+  },
+  {
+    "start": 271.32,
+    "end": 277.56,
+    "speaker": "SPEAKER_02",
+    "text": "three different things. The first one is Philly's profitability. The second one is regarding alpha"
+  },
+  {
+    "start": 277.56,
+    "end": 283.08000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "and their capabilities. And the third one is regarding the sports market and other general"
+  },
+  {
+    "start": 283.08000000000004,
+    "end": 288.2,
+    "speaker": "SPEAKER_02",
+    "text": "considerations. So going to the first one, Philly's profitability. Hearing and thinking of three"
+  },
+  {
+    "start": 288.28,
+    "end": 294.84,
+    "speaker": "SPEAKER_02",
+    "text": "things. Revenues, costs, and synergies. For the revenues, as you just mentioned, I am considering tickets,"
+  },
+  {
+    "start": 294.84,
+    "end": 300.92,
+    "speaker": "SPEAKER_02",
+    "text": "concessions, merch, media, sponsorships. For costs, I am thinking of maybe to play your salaries,"
+  },
+  {
+    "start": 301.56,
+    "end": 307.8,
+    "speaker": "SPEAKER_02",
+    "text": "ending costs, stadium costs, in case we're like licensing or the maintenance of the stadiums,"
+  },
+  {
+    "start": 307.8,
+    "end": 314.52,
+    "speaker": "SPEAKER_02",
+    "text": "and also costs. And finally for synergies, I would like to know what's the expectation of"
+  },
+  {
+    "start": 314.52,
+    "end": 321.56,
+    "speaker": "SPEAKER_02",
+    "text": "revenue increase or cost decrease in case we did this purchase. Moving on to alpha's capabilities."
+  },
+  {
+    "start": 321.56,
+    "end": 328.03999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "Here, we'd love to know about the teams. So do we need to hire a new management to deal with this"
+  },
+  {
+    "start": 328.03999999999996,
+    "end": 334.44,
+    "speaker": "SPEAKER_02",
+    "text": "or what's the industry, what's the expertise in the in this sports industry of the current team?"
+  },
+  {
+    "start": 334.44,
+    "end": 340.03999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "Also about the money that we have access to capital to purchase a team or also what's the"
+  },
+  {
+    "start": 340.04,
+    "end": 346.76000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "ability to really achieve this synergy that we are looking at. And finally, in the sports market,"
+  },
+  {
+    "start": 346.76000000000005,
+    "end": 352.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to know just first what's the reactions. I think I'm the team with the word"
+  },
+  {
+    "start": 352.28000000000003,
+    "end": 358.04,
+    "speaker": "SPEAKER_02",
+    "text": "derby tension in this transition. The fan base, will they, will they feel like the team,"
+  },
+  {
+    "start": 358.04,
+    "end": 364.36,
+    "speaker": "SPEAKER_02",
+    "text": "the league, other teams reactions, etc. Then I also thought you have also got me thinking about"
+  },
+  {
+    "start": 364.84000000000003,
+    "end": 370.28000000000003,
+    "speaker": "SPEAKER_02",
+    "text": "the base. Well, I see that there's been lately some changes in their rules to make it more appealing"
+  },
+  {
+    "start": 370.28000000000003,
+    "end": 375.8,
+    "speaker": "SPEAKER_02",
+    "text": "to younger people. So I would like to know how is this really working? Are young people interested?"
+  },
+  {
+    "start": 375.8,
+    "end": 381.56,
+    "speaker": "SPEAKER_02",
+    "text": "Is it growing, decreasing, and what are the risks? And finally, just opportunity costs. If we"
+  },
+  {
+    "start": 381.56,
+    "end": 389.64,
+    "speaker": "SPEAKER_02",
+    "text": "didn't spend the money here, we could spend it. So this is like the brainstorming that I did. I would"
+  },
+  {
+    "start": 389.64,
+    "end": 395.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "love to start with revenues and costs to understand profitability. And then from that, I think I can"
+  },
+  {
+    "start": 395.71999999999997,
+    "end": 401.64,
+    "speaker": "SPEAKER_02",
+    "text": "evaluate if the team is worth the 1.1 billion they are asking for. How does it sound?"
+  },
+  {
+    "start": 403.64,
+    "end": 408.84,
+    "speaker": "SPEAKER_01",
+    "text": "That's a very solid framework. I'm glad you brought in that relevant information about how"
+  },
+  {
+    "start": 408.84,
+    "end": 416.76,
+    "speaker": "SPEAKER_02",
+    "text": "baseball's changing. Yeah, yeah, that's true. I just feel it's a very dynamic moment for that sport."
+  },
+  {
+    "start": 417.71999999999997,
+    "end": 422.52,
+    "speaker": "SPEAKER_02",
+    "text": "So to start with this, I would love to know if you have any information about revenues."
+  },
+  {
+    "start": 422.52,
+    "end": 430.68,
+    "speaker": "SPEAKER_02",
+    "text": "So how many tickets do we sell, prices, etc? Absolutely. So I'm going to rattle off kind of a bunch of"
+  },
+  {
+    "start": 430.68,
+    "end": 437.15999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "information to you here. If at any point you need me to repeat it, just let me know. So the Philadelphia"
+  },
+  {
+    "start": 437.16,
+    "end": 449.32000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "affiliate stadium has 50,000 seats. And the standard of those 50,000 seats, they've about 90% of"
+  },
+  {
+    "start": 449.32000000000005,
+    "end": 461.0,
+    "speaker": "SPEAKER_01",
+    "text": "those seats are what we consider standard seats. Okay. Those are filled on average 55.56% at the time."
+  },
+  {
+    "start": 461.48,
+    "end": 475.56,
+    "speaker": "SPEAKER_01",
+    "text": "And the average price of those tickets is $25. The remaining seats, premium seats, those are"
+  },
+  {
+    "start": 476.2,
+    "end": 487.08,
+    "speaker": "SPEAKER_01",
+    "text": "make up the 10 additional 10%. Those are filled 75% at the time. And their price is $100 per seat."
+  },
+  {
+    "start": 487.15999999999997,
+    "end": 497.15999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "And there is 80 home games per season. And so that's all about second information. Would you like the"
+  },
+  {
+    "start": 497.15999999999997,
+    "end": 504.68,
+    "speaker": "SPEAKER_02",
+    "text": "concession information as well? Yeah, let's get it. And then I'll just like repeat some things to"
+  },
+  {
+    "start": 504.68,
+    "end": 514.84,
+    "speaker": "SPEAKER_01",
+    "text": "confirm. Great. For the concessions, 20,000 fans buy something per game. And they average spending $25."
+  },
+  {
+    "start": 515.8000000000001,
+    "end": 520.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And you can assume again that there's 80 home games per season."
+  },
+  {
+    "start": 523.72,
+    "end": 534.44,
+    "speaker": "SPEAKER_02",
+    "text": "All right. Good. Okay. So I guess I can move forward with this information. And then I'll ask about the other revenue streams."
+  },
+  {
+    "start": 535.48,
+    "end": 541.88,
+    "speaker": "SPEAKER_02",
+    "text": "Just to confirm the tickets, we have 50,000 seats in the stadium. 90% are standard seats,"
+  },
+  {
+    "start": 541.88,
+    "end": 552.84,
+    "speaker": "SPEAKER_02",
+    "text": "10% are premium seats. The standard seats are filled at 55.5% and the price is $25. And the premium seats"
+  },
+  {
+    "start": 552.84,
+    "end": 561.4,
+    "speaker": "SPEAKER_02",
+    "text": "are filled at 75% and the price is $100. So does this all right? That's great. Okay. Perfect. And"
+  },
+  {
+    "start": 561.4,
+    "end": 568.92,
+    "speaker": "SPEAKER_02",
+    "text": "for the concessions, we just considering 20,000 fans buying per game and they average spend $25."
+  },
+  {
+    "start": 569.8,
+    "end": 576.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. Okay. So I would love to calculate the revenue for ticket sales and per concessions."
+  },
+  {
+    "start": 577.16,
+    "end": 584.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "First, for the ticket sales, I will calculate the standard seats. So we have 90% of the 50KR"
+  },
+  {
+    "start": 584.8399999999999,
+    "end": 597.3199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "standards. It's so that would be 45,000 seats. And from this 45,000, 55.56 are filled. Can I"
+  },
+  {
+    "start": 597.32,
+    "end": 606.84,
+    "speaker": "SPEAKER_02",
+    "text": "around this number? Chair. All right. So this will give me if we rounded, this will give me around 25K."
+  },
+  {
+    "start": 608.5200000000001,
+    "end": 615.4000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "And if HMD sits, we sell them at $25, the revenue for standard seats is"
+  },
+  {
+    "start": 617.4000000000001,
+    "end": 627.24,
+    "speaker": "SPEAKER_02",
+    "text": "625K. Now moving to the premium seats, we have 10% of the 50KR premium. So that"
+  },
+  {
+    "start": 627.24,
+    "end": 641.16,
+    "speaker": "SPEAKER_02",
+    "text": "would be 5,000 seats, filled at a 75% for cent rates. That would be 3,750 seats filled. And from"
+  },
+  {
+    "start": 641.16,
+    "end": 648.92,
+    "speaker": "SPEAKER_02",
+    "text": "these, which of these we sell them at $100. So the total revenue for premium is 375,000."
+  },
+  {
+    "start": 649.4,
+    "end": 660.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. So if I add up 625,000 plus 375,000 from the two types of seats, it will give me"
+  },
+  {
+    "start": 662.8399999999999,
+    "end": 672.52,
+    "speaker": "SPEAKER_02",
+    "text": "$1 million as revenue per game. But then you mentioned we have 80 home games per year. So that would be"
+  },
+  {
+    "start": 673.48,
+    "end": 683.4,
+    "speaker": "SPEAKER_02",
+    "text": "80 million dollars from ticket sales. And then moving on to the concessions, we have that 20,000"
+  },
+  {
+    "start": 683.4,
+    "end": 690.36,
+    "speaker": "SPEAKER_02",
+    "text": "vans by per game and each span 25 dollars. So if I multiply that, it would be"
+  },
+  {
+    "start": 691.72,
+    "end": 702.28,
+    "speaker": "SPEAKER_02",
+    "text": "5,000 times the 80 home games that we have that will give me 40 million. Okay. So we have"
+  },
+  {
+    "start": 702.68,
+    "end": 707.8,
+    "speaker": "SPEAKER_02",
+    "text": "80 million for ticket sales for 80 million per concessions. But at the beginning, we mentioned"
+  },
+  {
+    "start": 707.8,
+    "end": 712.68,
+    "speaker": "SPEAKER_02",
+    "text": "that we also have like merch, meteorites, sponsorships, do we have any information about these?"
+  },
+  {
+    "start": 714.92,
+    "end": 724.92,
+    "speaker": "SPEAKER_01",
+    "text": "So for merchandise, they sell a million items per year at $50 per item and the team keeps 20%"
+  },
+  {
+    "start": 725.0,
+    "end": 734.28,
+    "speaker": "SPEAKER_01",
+    "text": "royalty on total sales. For the meteorites, they sell local media and national media. The local media"
+  },
+  {
+    "start": 734.28,
+    "end": 742.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "is 40 million and the national media is 80 million and for the sponsorship at and ads, they sell"
+  },
+  {
+    "start": 742.1999999999999,
+    "end": 754.5999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "$50 million per year. Okay. Perfect. So for merch, we use that 1 million items per year at $50"
+  },
+  {
+    "start": 755.08,
+    "end": 764.84,
+    "speaker": "SPEAKER_02",
+    "text": "each and we just make 20% of this. So that would give me, if I multiply all these numbers, 10 million"
+  },
+  {
+    "start": 765.72,
+    "end": 773.0,
+    "speaker": "SPEAKER_02",
+    "text": "for merch. Then for meteorites, I think you mentioned it's 40,000 40 million for local media and 80"
+  },
+  {
+    "start": 773.0,
+    "end": 781.64,
+    "speaker": "SPEAKER_02",
+    "text": "million for national media. If I add this two together is 120 million and for sponsorships is 50."
+  },
+  {
+    "start": 781.64,
+    "end": 787.48,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. So now that I have all the revenue streams, I would like to add them all up together."
+  },
+  {
+    "start": 788.12,
+    "end": 796.6,
+    "speaker": "SPEAKER_02",
+    "text": "So for ticket sales is 80 million plus 40 million per concessions plus 10 million per merch"
+  },
+  {
+    "start": 797.48,
+    "end": 806.04,
+    "speaker": "SPEAKER_02",
+    "text": "plus 100 Jenny million for meteorites. The last 50 million of sponsorships, this gives me a total"
+  },
+  {
+    "start": 806.04,
+    "end": 817.0799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "of revenue of 300 million. Does that sound right? Awesome. Okay. Now because I want to get"
+  },
+  {
+    "start": 817.0799999999999,
+    "end": 821.9599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "profitability before evaluating, I would love to know if we had any information about costs."
+  },
+  {
+    "start": 823.4,
+    "end": 827.56,
+    "speaker": "SPEAKER_01",
+    "text": "Great question. So we have four cost categories that we're considering here."
+  },
+  {
+    "start": 828.52,
+    "end": 836.5999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "The player salaries is 110 million. The front office and management costs is 20 million."
+  },
+  {
+    "start": 838.04,
+    "end": 844.1199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Sales and advertising is 50 million and our stadium and facility costs are 20 million."
+  },
+  {
+    "start": 846.92,
+    "end": 855.2399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. Just to clarify, this stadium costs encompasses all 80 games, home games, right?"
+  },
+  {
+    "start": 855.48,
+    "end": 862.12,
+    "speaker": "SPEAKER_02",
+    "text": "That's correct. Okay. Cool. So then to get the total cost, I would just add up older numbers"
+  },
+  {
+    "start": 862.12,
+    "end": 871.32,
+    "speaker": "SPEAKER_02",
+    "text": "that I just wrote down here. So it's 110 plus 20 million plus 50 million plus 20 million."
+  },
+  {
+    "start": 871.32,
+    "end": 882.76,
+    "speaker": "SPEAKER_02",
+    "text": "That gives me 200 million for costs. Okay. So now that I have revenues and costs, I think that I"
+  },
+  {
+    "start": 882.84,
+    "end": 889.64,
+    "speaker": "SPEAKER_02",
+    "text": "can get the valuation. I just wanted to ask, are what's the discount rate we're considering?"
+  },
+  {
+    "start": 891.3199999999999,
+    "end": 899.08,
+    "speaker": "SPEAKER_01",
+    "text": "For this, you can assume it's going to be 10 percent. Okay. Cool. Perfect. So 300 million revenues"
+  },
+  {
+    "start": 899.08,
+    "end": 910.2,
+    "speaker": "SPEAKER_02",
+    "text": "minus 200 million costs. That gives me an ebit of 100 million. What's, sorry, are we considering"
+  },
+  {
+    "start": 910.2,
+    "end": 917.6400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "any tax rate? We can assume zero-dology taxes. Zero taxes. Okay. Cool. So then, if I"
+  },
+  {
+    "start": 917.6400000000001,
+    "end": 925.32,
+    "speaker": "SPEAKER_02",
+    "text": "divide this 100 million over the 10 percent discount rate, I will get a valuation of"
+  },
+  {
+    "start": 927.8000000000001,
+    "end": 935.0,
+    "speaker": "SPEAKER_02",
+    "text": "1 billion. So this one billion seems to be a little bit below the valuation that they gave us of"
+  },
+  {
+    "start": 935.0,
+    "end": 943.4,
+    "speaker": "SPEAKER_02",
+    "text": "1 billion. But I think that we could either negotiate it down or include some of the synergies"
+  },
+  {
+    "start": 943.4,
+    "end": 949.88,
+    "speaker": "SPEAKER_02",
+    "text": "that I had to consider in my initial framework regarding improving revenues and reducing costs."
+  },
+  {
+    "start": 949.88,
+    "end": 956.2,
+    "speaker": "SPEAKER_02",
+    "text": "So I would like to know if you have any information about synergies that we can consider?"
+  },
+  {
+    "start": 957.1600000000001,
+    "end": 967.4000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. That's a great question. So I'm going to go ahead and share something with you now."
+  },
+  {
+    "start": 969.24,
+    "end": 972.6,
+    "speaker": "SPEAKER_01",
+    "text": "Great. So here's some information on the synergies that we have."
+  },
+  {
+    "start": 975.0,
+    "end": 982.0400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "All right. So I see that we have considerations for both revenues and costs."
+  },
+  {
+    "start": 983.0,
+    "end": 987.4,
+    "speaker": "SPEAKER_02",
+    "text": "In the part of revenues, it seems like the biggest improvements that we can get"
+  },
+  {
+    "start": 988.52,
+    "end": 994.12,
+    "speaker": "SPEAKER_02",
+    "text": "from implementing a dynamic ticket price, and we're going to share a little media deal."
+  },
+  {
+    "start": 996.4399999999999,
+    "end": 1004.28,
+    "speaker": "SPEAKER_02",
+    "text": "This one, I think it seems to risk here, but I trust this projection. I think that we can also"
+  },
+  {
+    "start": 1004.28,
+    "end": 1010.52,
+    "speaker": "SPEAKER_02",
+    "text": "boost sponsorships and concessions. That's good. And we would only leave merch out as it is right now."
+  },
+  {
+    "start": 1010.52,
+    "end": 1014.6,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, that's perfect. These are all the ones that we've seen."
+  },
+  {
+    "start": 1017.0,
+    "end": 1023.56,
+    "speaker": "SPEAKER_02",
+    "text": "Perfect. Okay, sounds good. And then from the cost side, it seems like the only one that we can"
+  },
+  {
+    "start": 1023.56,
+    "end": 1033.32,
+    "speaker": "SPEAKER_02",
+    "text": "improve really is sales and advertising by around 10 million. Okay. So what I would like to do now"
+  },
+  {
+    "start": 1033.32,
+    "end": 1039.4,
+    "speaker": "SPEAKER_02",
+    "text": "is to calculate all these like extra money that we can get from synergies from both revenues and"
+  },
+  {
+    "start": 1039.4,
+    "end": 1048.2,
+    "speaker": "SPEAKER_02",
+    "text": "costs. So first, for the revenue part, I am thinking of adding up this percentages of synergies"
+  },
+  {
+    "start": 1048.2,
+    "end": 1053.48,
+    "speaker": "SPEAKER_02",
+    "text": "that we are getting because I imagine we're getting it on top of the current revenue of 300 million,"
+  },
+  {
+    "start": 1053.48,
+    "end": 1066.2,
+    "speaker": "SPEAKER_02",
+    "text": "right? Okay. So then I would add up 4% for the tickets plus 3% for media plus 2%, plus 1%,"
+  },
+  {
+    "start": 1066.2,
+    "end": 1073.72,
+    "speaker": "SPEAKER_02",
+    "text": "and that's 10%. So I will calculate 10% of the 300 million that we have to leave for revenues."
+  },
+  {
+    "start": 1073.72,
+    "end": 1083.48,
+    "speaker": "SPEAKER_02",
+    "text": "That gives me an extra 30 million for revenues. And then for costs, it seems like we can all"
+  },
+  {
+    "start": 1083.48,
+    "end": 1090.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "leave degrees it by 10 million. So that would also be some like extra money for our synergies."
+  },
+  {
+    "start": 1090.76,
+    "end": 1101.32,
+    "speaker": "SPEAKER_02",
+    "text": "So if I add up 30 million plus 10 million, it gives me 40 million of extra money from the synergies."
+  },
+  {
+    "start": 1101.32,
+    "end": 1109.08,
+    "speaker": "SPEAKER_02",
+    "text": "And then I will apply the same discontrate just to get how it impacts the valuation. So the discontrate"
+  },
+  {
+    "start": 1109.08,
+    "end": 1119.7199999999998,
+    "speaker": "SPEAKER_02",
+    "text": "is a 10%, it will give me 400 million as an impact to the valuation. So if I add it up to the 1 million"
+  },
+  {
+    "start": 1119.72,
+    "end": 1129.48,
+    "speaker": "SPEAKER_02",
+    "text": "that we had initially, it will be 1.4 billion, the new valuation. So this one looks definitely"
+  },
+  {
+    "start": 1129.48,
+    "end": 1136.52,
+    "speaker": "SPEAKER_02",
+    "text": "better. I still think we could get some additional money from merchandising, honestly. If we innovate"
+  },
+  {
+    "start": 1136.52,
+    "end": 1144.2,
+    "speaker": "SPEAKER_02",
+    "text": "any products, etc. But we'll leave it as it is. So also, I think there's other considerations"
+  },
+  {
+    "start": 1144.68,
+    "end": 1152.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "going back to my initial framework, I would like to know about alpha capabilities,"
+  },
+  {
+    "start": 1152.1200000000001,
+    "end": 1157.4,
+    "speaker": "SPEAKER_02",
+    "text": "they have the money and they have the teams. And also how will be the market reaction?"
+  },
+  {
+    "start": 1159.4,
+    "end": 1164.76,
+    "speaker": "SPEAKER_02",
+    "text": "It's based on really the most attractive support that we can invest on or is this even the"
+  },
+  {
+    "start": 1164.76,
+    "end": 1167.4,
+    "speaker": "SPEAKER_02",
+    "text": "kind of industry that is worth investing on?"
+  },
+  {
+    "start": 1167.88,
+    "end": 1178.68,
+    "speaker": "SPEAKER_01",
+    "text": "That's a great question. I think we're just going to focus on baseball here. It can be hard"
+  },
+  {
+    "start": 1178.68,
+    "end": 1184.52,
+    "speaker": "SPEAKER_01",
+    "text": "to find some of these teams for sales. And so you talked a little bit about some of these other"
+  },
+  {
+    "start": 1184.52,
+    "end": 1190.52,
+    "speaker": "SPEAKER_01",
+    "text": "considerations. What are some of the kind of things that you're thinking maybe about the management"
+  },
+  {
+    "start": 1190.52,
+    "end": 1198.76,
+    "speaker": "SPEAKER_01",
+    "text": "team or their ability to get the job done here? So I think you mentioned at the beginning that"
+  },
+  {
+    "start": 1198.76,
+    "end": 1203.8,
+    "speaker": "SPEAKER_02",
+    "text": "the team is very excited about these because they're big baseball fans. So I'm a little bit"
+  },
+  {
+    "start": 1203.8,
+    "end": 1211.56,
+    "speaker": "SPEAKER_02",
+    "text": "concerned that the emotional attachment can be detrimental at some point. Also, I am wondering if"
+  },
+  {
+    "start": 1211.56,
+    "end": 1217.72,
+    "speaker": "SPEAKER_02",
+    "text": "there are any other leaders that are playing into this negotiation and how the money that they're"
+  },
+  {
+    "start": 1217.72,
+    "end": 1224.92,
+    "speaker": "SPEAKER_02",
+    "text": "offering looks like. And about these other considerations, how about the regulatory part of it,"
+  },
+  {
+    "start": 1225.48,
+    "end": 1228.84,
+    "speaker": "SPEAKER_02",
+    "text": "how long is it going to take? Are there any legal risks?"
+  },
+  {
+    "start": 1230.68,
+    "end": 1237.16,
+    "speaker": "SPEAKER_02",
+    "text": "Also, even like the team would all the team agree on this and we keep all the players. And if not,"
+  },
+  {
+    "start": 1237.16,
+    "end": 1243.0,
+    "speaker": "SPEAKER_02",
+    "text": "we like the consequences of them leaving the team. Yeah, these are really good things that we should"
+  },
+  {
+    "start": 1243.0,
+    "end": 1251.4,
+    "speaker": "SPEAKER_01",
+    "text": "consider. Well, Daniel, the MD at Alpha Capital is walking down the hall and she wants to know what"
+  },
+  {
+    "start": 1251.4,
+    "end": 1258.2,
+    "speaker": "SPEAKER_01",
+    "text": "our initial finding and recommendations are. What do you tell her? All right. So I think this is a"
+  },
+  {
+    "start": 1258.2,
+    "end": 1264.84,
+    "speaker": "SPEAKER_02",
+    "text": "good investment and we should go for it. We are evaluating it in 1.4 billion and they're asking for"
+  },
+  {
+    "start": 1264.84,
+    "end": 1271.96,
+    "speaker": "SPEAKER_02",
+    "text": "1.1. So that's good. If we come to either revenues and cost synergies, so we should really implement these."
+  },
+  {
+    "start": 1273.08,
+    "end": 1277.56,
+    "speaker": "SPEAKER_02",
+    "text": "There's still other considerations to taking to account our around capabilities, reactions,"
+  },
+  {
+    "start": 1277.56,
+    "end": 1283.64,
+    "speaker": "SPEAKER_02",
+    "text": "driven by purchase, these will market, etc. And as a next step, I suggest meeting with Alpha to"
+  },
+  {
+    "start": 1283.64,
+    "end": 1289.0,
+    "speaker": "SPEAKER_02",
+    "text": "have a clear understanding of how they will manage these bridges and how they will try to reduce"
+  },
+  {
+    "start": 1289.0,
+    "end": 1294.76,
+    "speaker": "SPEAKER_01",
+    "text": "a risk. Awesome. Daniel, thank you for doing this. Thank you."
+  },
+  {
+    "start": 1298.76,
+    "end": 1302.52,
+    "speaker": "SPEAKER_00",
+    "text": "Hey, everyone. It's Kented Givessey here at the founder of Rocketblocks. Thank you so much for"
+  },
+  {
+    "start": 1302.52,
+    "end": 1307.72,
+    "speaker": "SPEAKER_00",
+    "text": "watching this mock interview video. I hope you found it informative and helpful as you were getting"
+  },
+  {
+    "start": 1307.72,
+    "end": 1312.6,
+    "speaker": "SPEAKER_00",
+    "text": "ready to prepare for your own interviews and hopefully landing that job offer you are excited about."
+  },
+  {
+    "start": 1312.6,
+    "end": 1317.16,
+    "speaker": "SPEAKER_00",
+    "text": "We have a ton of great content on the Rocketblocks channel coming out on a weekly basis,"
+  },
+  {
+    "start": 1317.16,
+    "end": 1322.6,
+    "speaker": "SPEAKER_00",
+    "text": "mock interviews, mini lessons and chats with our Rocketblocks experts. So if you haven't subscribed yet"
+  },
+  {
+    "start": 1322.6,
+    "end": 1327.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "already, please do so. There is a big red button below and if you hit that, you'll get all of our"
+  },
+  {
+    "start": 1327.88,
+    "end": 1331.8000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "content as soon as it comes up. Thanks for watching and have a great day."
+  }
+]

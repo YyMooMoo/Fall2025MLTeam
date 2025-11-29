@@ -1,0 +1,2096 @@
+[
+  {
+    "start": 0.0,
+    "end": 8.88,
+    "speaker": "SPEAKER_01",
+    "text": "Hey everyone, welcome back to another exciting Rocketblocks mock interview."
+  },
+  {
+    "start": 8.88,
+    "end": 12.48,
+    "speaker": "SPEAKER_01",
+    "text": "Today we've got a brand new case titled Nailing the Market."
+  },
+  {
+    "start": 12.48,
+    "end": 17.76,
+    "speaker": "SPEAKER_01",
+    "text": "In this case, the client is Remodel Rush, a thriving two-sided marketplace connecting"
+  },
+  {
+    "start": 17.76,
+    "end": 20.64,
+    "speaker": "SPEAKER_01",
+    "text": "homeowners with construction companies."
+  },
+  {
+    "start": 20.64,
+    "end": 24.560000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "You've been brought in to help solve Remodel Rush's growth dilemma."
+  },
+  {
+    "start": 24.56,
+    "end": 30.72,
+    "speaker": "SPEAKER_01",
+    "text": "Should they prioritize high volume and low revenue small remodels or low volume high return"
+  },
+  {
+    "start": 30.72,
+    "end": 32.56,
+    "speaker": "SPEAKER_01",
+    "text": "major remodels?"
+  },
+  {
+    "start": 32.56,
+    "end": 37.84,
+    "speaker": "SPEAKER_01",
+    "text": "Our interview for today is Ben Wilson, currently a director at Alvarez and Marseille,"
+  },
+  {
+    "start": 37.84,
+    "end": 42.96,
+    "speaker": "SPEAKER_01",
+    "text": "who completed his MBA from the University of Virginia's Darden School of Business."
+  },
+  {
+    "start": 42.96,
+    "end": 46.239999999999995,
+    "speaker": "SPEAKER_01",
+    "text": "Our candidate for today is Abigail Doxin."
+  },
+  {
+    "start": 46.239999999999995,
+    "end": 50.96,
+    "speaker": "SPEAKER_01",
+    "text": "Abby is an ex-BCG consultant and is currently completing her MBA from Yale."
+  },
+  {
+    "start": 50.96,
+    "end": 53.84,
+    "speaker": "SPEAKER_01",
+    "text": "So without further ado, let's get started."
+  },
+  {
+    "start": 53.84,
+    "end": 59.28,
+    "speaker": "SPEAKER_00",
+    "text": "Hi everyone, my name is Abby and I'm here doing a mock interview with Ben."
+  },
+  {
+    "start": 59.28,
+    "end": 64.32000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "I'm currently an MBA candidate at Yale SOM, prior to Business School."
+  },
+  {
+    "start": 64.32000000000001,
+    "end": 69.28,
+    "speaker": "SPEAKER_00",
+    "text": "I spent a couple years at BCG and worked in private equity as well."
+  },
+  {
+    "start": 69.28,
+    "end": 72.56,
+    "speaker": "SPEAKER_00",
+    "text": "I'm excited to be doing this mock interview with Ben."
+  },
+  {
+    "start": 72.56,
+    "end": 74.32000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "I'll turn it over to Ben to introduce himself."
+  },
+  {
+    "start": 74.32000000000001,
+    "end": 77.36,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent, thanks Abby and this is Ben Wilson."
+  },
+  {
+    "start": 77.36,
+    "end": 82.32000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "I'm currently a director at Alvarez and Marseille and I'll be the interviewer working with Abby today."
+  },
+  {
+    "start": 82.32,
+    "end": 84.08,
+    "speaker": "SPEAKER_03",
+    "text": "So Abby got a great case."
+  },
+  {
+    "start": 84.08,
+    "end": 85.67999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Let's go ahead and jump in."
+  },
+  {
+    "start": 85.67999999999999,
+    "end": 89.6,
+    "speaker": "SPEAKER_03",
+    "text": "So your client today is a remodel rush."
+  },
+  {
+    "start": 89.6,
+    "end": 94.55999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "So remodel rush is a promising two-sided marketplace and they're facing a big strategy"
+  },
+  {
+    "start": 94.55999999999999,
+    "end": 96.24,
+    "speaker": "SPEAKER_03",
+    "text": "question as they grow."
+  },
+  {
+    "start": 96.24,
+    "end": 101.03999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "The company operates a two-sided marketplace that connects residential homeowners with construction"
+  },
+  {
+    "start": 101.03999999999999,
+    "end": 106.16,
+    "speaker": "SPEAKER_03",
+    "text": "companies to complete projects like kitchen remodels, roofing updates, and full-home renovations."
+  },
+  {
+    "start": 106.63999999999999,
+    "end": 110.32,
+    "speaker": "SPEAKER_03",
+    "text": "So the company's business model is to collect a fee from contractors"
+  },
+  {
+    "start": 110.32,
+    "end": 112.39999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "at the project has been completed."
+  },
+  {
+    "start": 112.39999999999999,
+    "end": 117.52,
+    "speaker": "SPEAKER_03",
+    "text": "They charge about 5% of the total project cost and the model line's incentives between the home"
+  },
+  {
+    "start": 117.52,
+    "end": 120.55999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "owner, the contractors, and remodel rush needs apps."
+  },
+  {
+    "start": 120.55999999999999,
+    "end": 124.39999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "So it separates the company from competitors that also charge contractors"
+  },
+  {
+    "start": 124.39999999999999,
+    "end": 129.76,
+    "speaker": "SPEAKER_03",
+    "text": "or small fee to deliver a single lead without worrying about the project necessarily being completed."
+  },
+  {
+    "start": 130.4,
+    "end": 134.88,
+    "speaker": "SPEAKER_03",
+    "text": "So right now the company does about 12 million in revenue per year."
+  },
+  {
+    "start": 134.88,
+    "end": 137.35999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "This is split between two different segments now."
+  },
+  {
+    "start": 137.35999999999999,
+    "end": 139.92,
+    "speaker": "SPEAKER_03",
+    "text": "So the first is small remodels."
+  },
+  {
+    "start": 140.0,
+    "end": 141.83999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "So think like kitchens and baths."
+  },
+  {
+    "start": 141.83999999999997,
+    "end": 147.2,
+    "speaker": "SPEAKER_03",
+    "text": "So they went higher volume of these projects, but there's less revenue kind of on a per-project"
+  },
+  {
+    "start": 147.2,
+    "end": 147.83999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "basis."
+  },
+  {
+    "start": 147.83999999999997,
+    "end": 150.95999999999998,
+    "speaker": "SPEAKER_03",
+    "text": "And then the second case is major remodels."
+  },
+  {
+    "start": 150.95999999999998,
+    "end": 154.56,
+    "speaker": "SPEAKER_03",
+    "text": "So think like homeowner looks to upgrade an entire home."
+  },
+  {
+    "start": 154.56,
+    "end": 159.44,
+    "speaker": "SPEAKER_03",
+    "text": "So remodel rush does a small volume of these projects per year, but it generates a higher"
+  },
+  {
+    "start": 159.44,
+    "end": 161.51999999999998,
+    "speaker": "SPEAKER_03",
+    "text": "revenue when it actually hits."
+  },
+  {
+    "start": 161.51999999999998,
+    "end": 166.88,
+    "speaker": "SPEAKER_03",
+    "text": "So the company is growing and it's clear they have a hard time serving both segments, not the same"
+  },
+  {
+    "start": 167.84,
+    "end": 168.0,
+    "speaker": "SPEAKER_03",
+    "text": "in terms."
+  },
+  {
+    "start": 168.0,
+    "end": 172.88,
+    "speaker": "SPEAKER_03",
+    "text": "So how do you think they should deal with this and prioritize these segments during their groups?"
+  },
+  {
+    "start": 174.96,
+    "end": 175.44,
+    "speaker": "SPEAKER_00",
+    "text": "Great."
+  },
+  {
+    "start": 176.48,
+    "end": 178.0,
+    "speaker": "SPEAKER_00",
+    "text": "Very interesting problem here."
+  },
+  {
+    "start": 178.0,
+    "end": 182.48,
+    "speaker": "SPEAKER_00",
+    "text": "Just want to recap to make sure I understood or heard everything correctly."
+  },
+  {
+    "start": 182.48,
+    "end": 187.28,
+    "speaker": "SPEAKER_00",
+    "text": "So our company is a two-sided marketplace that connects"
+  },
+  {
+    "start": 189.12,
+    "end": 193.92,
+    "speaker": "SPEAKER_00",
+    "text": "customers that want to do home remodels and contractors who will do the remodels."
+  },
+  {
+    "start": 193.92,
+    "end": 195.44,
+    "speaker": "SPEAKER_00",
+    "text": "So they don't do the remodels themselves."
+  },
+  {
+    "start": 195.44,
+    "end": 198.39999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "They're kind of just the marketplace like an Airbnb or an Amazon."
+  },
+  {
+    "start": 200.0,
+    "end": 205.92,
+    "speaker": "SPEAKER_00",
+    "text": "They collect a 5% fee of the project cost upon completion of the project."
+  },
+  {
+    "start": 206.88,
+    "end": 212.23999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "They have two major segments, small remodels, which is more of a volume driven business where"
+  },
+  {
+    "start": 212.23999999999998,
+    "end": 214.07999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "they might do a kitchen or a bathroom model."
+  },
+  {
+    "start": 214.72,
+    "end": 220.23999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "So one room in a house and then major remodels that might be you remodel your entire house."
+  },
+  {
+    "start": 220.24,
+    "end": 224.32000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe you've bought a fixer-opper and you want to remodel the whole thing,"
+  },
+  {
+    "start": 224.96,
+    "end": 227.20000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "which is more of a price-driven business."
+  },
+  {
+    "start": 227.20000000000002,
+    "end": 231.12,
+    "speaker": "SPEAKER_00",
+    "text": "It's these large remodels that are quite pricey."
+  },
+  {
+    "start": 231.12,
+    "end": 233.76000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "And so they have about 12 million in revenue today."
+  },
+  {
+    "start": 233.76000000000002,
+    "end": 239.68,
+    "speaker": "SPEAKER_00",
+    "text": "They want to grow some more and they're just not sure which segment to prioritize for future growth."
+  },
+  {
+    "start": 239.68,
+    "end": 240.8,
+    "speaker": "SPEAKER_00",
+    "text": "Is that correct?"
+  },
+  {
+    "start": 241.60000000000002,
+    "end": 242.48000000000002,
+    "speaker": "SPEAKER_03",
+    "text": "I think you nailed it."
+  },
+  {
+    "start": 243.52,
+    "end": 244.16000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Fantastic."
+  },
+  {
+    "start": 245.36,
+    "end": 247.20000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "Couple clarifying questions here."
+  },
+  {
+    "start": 247.28,
+    "end": 251.51999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "When you said they want to grow, do they have a specific objective in mind?"
+  },
+  {
+    "start": 251.51999999999998,
+    "end": 253.2,
+    "speaker": "SPEAKER_00",
+    "text": "Is it to maximize revenue?"
+  },
+  {
+    "start": 253.2,
+    "end": 255.04,
+    "speaker": "SPEAKER_00",
+    "text": "Is it to maximize market share?"
+  },
+  {
+    "start": 255.04,
+    "end": 255.92,
+    "speaker": "SPEAKER_00",
+    "text": "Hit a profit number."
+  },
+  {
+    "start": 255.92,
+    "end": 259.52,
+    "speaker": "SPEAKER_00",
+    "text": "What's kind of, do they have a specific goal when they say they want to grow?"
+  },
+  {
+    "start": 260.24,
+    "end": 261.59999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that's a great question."
+  },
+  {
+    "start": 261.59999999999997,
+    "end": 262.32,
+    "speaker": "SPEAKER_03",
+    "text": "Yes, they do."
+  },
+  {
+    "start": 262.32,
+    "end": 267.59999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "So the company's aim to grow to about $50 million in revenue as quickly as possible."
+  },
+  {
+    "start": 267.59999999999997,
+    "end": 268.24,
+    "speaker": "SPEAKER_03",
+    "text": "I don't like everyone."
+  },
+  {
+    "start": 269.2,
+    "end": 273.12,
+    "speaker": "SPEAKER_03",
+    "text": "So that would require them to grow to about four extra current softwares."
+  },
+  {
+    "start": 274.8,
+    "end": 275.12,
+    "speaker": "SPEAKER_00",
+    "text": "Great."
+  },
+  {
+    "start": 276.08,
+    "end": 277.76,
+    "speaker": "SPEAKER_00",
+    "text": "And then second question here."
+  },
+  {
+    "start": 277.76,
+    "end": 282.0,
+    "speaker": "SPEAKER_00",
+    "text": "What sort of their geographic scope are they global?"
+  },
+  {
+    "start": 282.0,
+    "end": 282.8,
+    "speaker": "SPEAKER_00",
+    "text": "US only?"
+  },
+  {
+    "start": 282.8,
+    "end": 284.88,
+    "speaker": "SPEAKER_00",
+    "text": "Are they certain regions in the US only?"
+  },
+  {
+    "start": 284.88,
+    "end": 286.88,
+    "speaker": "SPEAKER_00",
+    "text": "What's kind of their geography look like?"
+  },
+  {
+    "start": 287.68,
+    "end": 289.28000000000003,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, great question."
+  },
+  {
+    "start": 289.28000000000003,
+    "end": 292.0,
+    "speaker": "SPEAKER_03",
+    "text": "So the company operates nationwide in the US currently."
+  },
+  {
+    "start": 292.56,
+    "end": 295.84000000000003,
+    "speaker": "SPEAKER_03",
+    "text": "As of right now, I think the strategy is to remain domestic,"
+  },
+  {
+    "start": 295.84000000000003,
+    "end": 298.32,
+    "speaker": "SPEAKER_03",
+    "text": "so you can kind of narrow your scope to that region."
+  },
+  {
+    "start": 299.44,
+    "end": 299.76,
+    "speaker": "SPEAKER_00",
+    "text": "Great."
+  },
+  {
+    "start": 300.4,
+    "end": 301.84000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you, Ben."
+  },
+  {
+    "start": 301.91999999999996,
+    "end": 305.84,
+    "speaker": "SPEAKER_00",
+    "text": "If it's okay, if I just take a few moments to gather my thoughts of how we could work through"
+  },
+  {
+    "start": 305.84,
+    "end": 307.44,
+    "speaker": "SPEAKER_00",
+    "text": "this problem together, that would be great."
+  },
+  {
+    "start": 308.08,
+    "end": 308.71999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "My answer."
+  },
+  {
+    "start": 313.28,
+    "end": 313.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 314.4,
+    "end": 318.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "So have some thoughts about how to think about the key question here,"
+  },
+  {
+    "start": 318.15999999999997,
+    "end": 322.64,
+    "speaker": "SPEAKER_00",
+    "text": "which is how can they grow to $50 million by prioritizing a certain segment?"
+  },
+  {
+    "start": 322.64,
+    "end": 326.88,
+    "speaker": "SPEAKER_00",
+    "text": "So essentially, which segment is better to accelerate growth?"
+  },
+  {
+    "start": 327.52,
+    "end": 331.44,
+    "speaker": "SPEAKER_00",
+    "text": "And there's two key buckets that I have here that I'd like to kind of analyze"
+  },
+  {
+    "start": 331.44,
+    "end": 332.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "this problem form."
+  },
+  {
+    "start": 332.71999999999997,
+    "end": 338.48,
+    "speaker": "SPEAKER_00",
+    "text": "One is internal company factors and two are external market factors."
+  },
+  {
+    "start": 338.48,
+    "end": 342.56,
+    "speaker": "SPEAKER_00",
+    "text": "So first, sort of starting with internal company factors or metrics,"
+  },
+  {
+    "start": 343.28,
+    "end": 346.56,
+    "speaker": "SPEAKER_00",
+    "text": "I'd like to look at kind of a, the financials of each segment,"
+  },
+  {
+    "start": 346.56,
+    "end": 349.52,
+    "speaker": "SPEAKER_00",
+    "text": "and be kind of the operational requirements of each segment."
+  },
+  {
+    "start": 349.52,
+    "end": 354.32,
+    "speaker": "SPEAKER_00",
+    "text": "So a within financials would be looking at things like what are the historical revenue growth"
+  },
+  {
+    "start": 354.32,
+    "end": 355.2,
+    "speaker": "SPEAKER_00",
+    "text": "trends of each segment?"
+  },
+  {
+    "start": 355.2,
+    "end": 358.24,
+    "speaker": "SPEAKER_00",
+    "text": "If one's growing dramatically faster, historically,"
+  },
+  {
+    "start": 358.24,
+    "end": 361.28,
+    "speaker": "SPEAKER_00",
+    "text": "maybe we prioritize that one because it just has more growth"
+  },
+  {
+    "start": 361.28,
+    "end": 366.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "potential, or also what's kind of the gross margins of each segment."
+  },
+  {
+    "start": 366.15999999999997,
+    "end": 369.91999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "So you probably don't want to prioritize growth in one that's negative margins."
+  },
+  {
+    "start": 369.91999999999996,
+    "end": 373.91999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "So just that's a consideration there, even though they're focusing on growth."
+  },
+  {
+    "start": 374.55999999999995,
+    "end": 378.23999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "The other thing would, it would maybe be helpful to look at per-unit metrics, right?"
+  },
+  {
+    "start": 378.23999999999995,
+    "end": 382.23999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "So getting a sense of, okay, a small remodel, you know, what's the,"
+  },
+  {
+    "start": 383.91999999999996,
+    "end": 387.2,
+    "speaker": "SPEAKER_00",
+    "text": "the, when you talked about it, falling in versus price-driven,"
+  },
+  {
+    "start": 387.2,
+    "end": 388.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "they're just different segments."
+  },
+  {
+    "start": 388.72,
+    "end": 392.88000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "So just getting an understanding of how different they are will help us kind of understand"
+  },
+  {
+    "start": 394.88000000000005,
+    "end": 396.56,
+    "speaker": "SPEAKER_00",
+    "text": "if which one might be easier, right?"
+  },
+  {
+    "start": 396.56,
+    "end": 399.36,
+    "speaker": "SPEAKER_00",
+    "text": "Because if it's major remodels, our huge whales,"
+  },
+  {
+    "start": 399.36,
+    "end": 403.28000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "it's like one customer a year that might just be harder to grow."
+  },
+  {
+    "start": 403.28000000000003,
+    "end": 405.84000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "So just understanding those per-unit metrics."
+  },
+  {
+    "start": 405.84000000000003,
+    "end": 410.72,
+    "speaker": "SPEAKER_00",
+    "text": "And then be kind of the operations, the key thing I'd be looking for is kind of the ease of"
+  },
+  {
+    "start": 410.72,
+    "end": 416.24,
+    "speaker": "SPEAKER_00",
+    "text": "scalability. So this might be, you know, is it how much people or services required to grow the"
+  },
+  {
+    "start": 416.24,
+    "end": 420.48,
+    "speaker": "SPEAKER_00",
+    "text": "segments? Do they have to make any investments in technology or their sales force?"
+  },
+  {
+    "start": 420.48,
+    "end": 423.44,
+    "speaker": "SPEAKER_00",
+    "text": "Like which one may have a lower investment requirement?"
+  },
+  {
+    "start": 423.44,
+    "end": 425.44,
+    "speaker": "SPEAKER_00",
+    "text": "Because that could make it easier to grow."
+  },
+  {
+    "start": 425.44,
+    "end": 429.6,
+    "speaker": "SPEAKER_00",
+    "text": "So that's kind of within internal, the two key things I'd like to look at are just a,"
+  },
+  {
+    "start": 429.6,
+    "end": 434.32,
+    "speaker": "SPEAKER_00",
+    "text": "some financials and b, some, some operational requirements of the segments."
+  },
+  {
+    "start": 434.32,
+    "end": 436.08,
+    "speaker": "SPEAKER_00",
+    "text": "So that's kind of internal key metrics."
+  },
+  {
+    "start": 436.08,
+    "end": 441.2,
+    "speaker": "SPEAKER_00",
+    "text": "I think the second, when I talk about external, I think a, looking at their competitive environment"
+  },
+  {
+    "start": 441.28,
+    "end": 447.12,
+    "speaker": "SPEAKER_00",
+    "text": "would be quite helpful and then be looking at kind of their customer relationships or their"
+  },
+  {
+    "start": 447.12,
+    "end": 451.36,
+    "speaker": "SPEAKER_00",
+    "text": "customer perceivability by their customers of their kind of value prop."
+  },
+  {
+    "start": 451.36,
+    "end": 456.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "So if I think about a, their competitive position, key things is, is there one segment where they"
+  },
+  {
+    "start": 456.71999999999997,
+    "end": 461.36,
+    "speaker": "SPEAKER_00",
+    "text": "have maybe higher points of differentiation where it'd be more easier for them to kind of"
+  },
+  {
+    "start": 461.36,
+    "end": 464.8,
+    "speaker": "SPEAKER_00",
+    "text": "differentiate and win against competitors? Because if they have that differentiation,"
+  },
+  {
+    "start": 464.8,
+    "end": 468.08,
+    "speaker": "SPEAKER_00",
+    "text": "they can carve out a niche and maybe grow a bit more in one segment."
+  },
+  {
+    "start": 468.4,
+    "end": 472.71999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "The other thing maybe looking at market share trends, so kind of understanding who are their"
+  },
+  {
+    "start": 472.71999999999997,
+    "end": 477.2,
+    "speaker": "SPEAKER_00",
+    "text": "competitors? What's their market share look like over time? If they're gaining share in one segment,"
+  },
+  {
+    "start": 477.2,
+    "end": 482.88,
+    "speaker": "SPEAKER_00",
+    "text": "maybe they have, you know, that's a trend that they can kind of fall on for future growth."
+  },
+  {
+    "start": 482.88,
+    "end": 488.0,
+    "speaker": "SPEAKER_00",
+    "text": "Also just win rates of each segment, which is sort of related to market share understanding."
+  },
+  {
+    "start": 488.0,
+    "end": 492.88,
+    "speaker": "SPEAKER_00",
+    "text": "If they're winning more in each segment, they're probably better competitively positioned in that"
+  },
+  {
+    "start": 492.88,
+    "end": 497.68,
+    "speaker": "SPEAKER_00",
+    "text": "segment and that might be a better segment to grow. So that's kind of from that competitive side,"
+  },
+  {
+    "start": 497.68,
+    "end": 503.44,
+    "speaker": "SPEAKER_00",
+    "text": "things I'd like to look at. And then from a customer side, you know, somewhat similar to"
+  },
+  {
+    "start": 503.44,
+    "end": 508.96,
+    "speaker": "SPEAKER_00",
+    "text": "differentiation, but what's their customer satisfaction look like? Do they have higher NPS scores in"
+  },
+  {
+    "start": 508.96,
+    "end": 515.36,
+    "speaker": "SPEAKER_00",
+    "text": "one segment? Do customers, you know, like one segment of the business better? Because if customers"
+  },
+  {
+    "start": 515.36,
+    "end": 520.32,
+    "speaker": "SPEAKER_00",
+    "text": "are happier with one segment, that's probably more of a, you know, differentiator for them or"
+  },
+  {
+    "start": 520.32,
+    "end": 525.52,
+    "speaker": "SPEAKER_00",
+    "text": "signals that they have more of a differentiating power in that segment, which will make it easier to"
+  },
+  {
+    "start": 525.52,
+    "end": 532.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "grow. The other thing is just sort of pricing power within each segment. Do they have, you know,"
+  },
+  {
+    "start": 532.96,
+    "end": 538.0,
+    "speaker": "SPEAKER_00",
+    "text": "pricing power that could help drive growth and then kind of upsell potential as well within each"
+  },
+  {
+    "start": 538.0,
+    "end": 546.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "segment? So as they're one where you can maybe sell more, you can help play a part in the remodel,"
+  },
+  {
+    "start": 546.0799999999999,
+    "end": 552.64,
+    "speaker": "SPEAKER_00",
+    "text": "you know, selling higher priced goods or scaling the project up so that if they get 5% of the fee,"
+  },
+  {
+    "start": 552.64,
+    "end": 558.96,
+    "speaker": "SPEAKER_00",
+    "text": "the larger the total project costs, the more that revenue they will get. So kind of that upsell"
+  },
+  {
+    "start": 558.96,
+    "end": 565.36,
+    "speaker": "SPEAKER_00",
+    "text": "driving potential. So those are the factors I'd like to look at in terms of prioritization. I think"
+  },
+  {
+    "start": 565.36,
+    "end": 570.88,
+    "speaker": "SPEAKER_00",
+    "text": "it makes the most sense to start with the financials of each segment and just sort of understand those"
+  },
+  {
+    "start": 570.88,
+    "end": 576.96,
+    "speaker": "SPEAKER_00",
+    "text": "and would love to kind of dig into that if you have any data you could give me on financials."
+  },
+  {
+    "start": 577.9200000000001,
+    "end": 583.36,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, I think fantastic approach and certainly a great way to start. So let me go ahead and share"
+  },
+  {
+    "start": 583.36,
+    "end": 589.76,
+    "speaker": "SPEAKER_03",
+    "text": "my strain. Certainly let me know if there's any issues in terms of visibility but going to show"
+  },
+  {
+    "start": 589.76,
+    "end": 594.88,
+    "speaker": "SPEAKER_03",
+    "text": "exactly what you're looking for, which are those financials, you know, the following data on both"
+  },
+  {
+    "start": 594.88,
+    "end": 600.08,
+    "speaker": "SPEAKER_03",
+    "text": "segments is presented with love to get your understanding of kind of walking through and the purpose."
+  },
+  {
+    "start": 601.2,
+    "end": 606.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, definitely. So just confirming what I, what we have here is it looks like we have some metrics"
+  },
+  {
+    "start": 606.56,
+    "end": 614.56,
+    "speaker": "SPEAKER_00",
+    "text": "for large remodels and small remodels. We have some data on, you know, average product size,"
+  },
+  {
+    "start": 615.52,
+    "end": 622.2399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "time to complete segment performance. So this looks like revenue data and profit data per segment."
+  },
+  {
+    "start": 623.3599999999999,
+    "end": 627.3599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "If you could just give me a moment to quickly read this chart and would love to kind of come back"
+  },
+  {
+    "start": 627.3599999999999,
+    "end": 630.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "with with some insights here briefly."
+  },
+  {
+    "start": 630.08,
+    "end": 630.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Please."
+  },
+  {
+    "start": 634.08,
+    "end": 639.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, so just looking at this chart, I think the first thing that jumps out is this confirm some of"
+  },
+  {
+    "start": 639.0400000000001,
+    "end": 645.2800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "the information that you already told me just we have a data, you know, confirmation of that small"
+  },
+  {
+    "start": 645.2800000000001,
+    "end": 650.48,
+    "speaker": "SPEAKER_00",
+    "text": "is more volume driven just given by the number of, you know, projects one and customer requests"
+  },
+  {
+    "start": 650.48,
+    "end": 659.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "in large is, you know, more price driven just given that they have smaller projects one. But"
+  },
+  {
+    "start": 659.68,
+    "end": 664.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "so for example, it just confirms some of the data you already told me, but beyond that, I think"
+  },
+  {
+    "start": 664.56,
+    "end": 669.92,
+    "speaker": "SPEAKER_00",
+    "text": "my three key insights from this are one, we have a revenue breakdown here, which we didn't have"
+  },
+  {
+    "start": 669.92,
+    "end": 676.8,
+    "speaker": "SPEAKER_00",
+    "text": "before that small is about 60% ish of revenue in largest 40. So small is already a bigger portion"
+  },
+  {
+    "start": 676.8,
+    "end": 682.7199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "of our business. So maybe we're doing better in that one. You know, maybe we've done better in"
+  },
+  {
+    "start": 682.7199999999999,
+    "end": 688.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "that one to just grow it a little bit larger so far. The second insight is the gross margins"
+  },
+  {
+    "start": 688.96,
+    "end": 695.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "small is also kind of a higher gross margin per segment, which signals a couple things that it"
+  },
+  {
+    "start": 695.6800000000001,
+    "end": 701.9200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "might be less people driven more automated, et cetera, also easier to scale. That's just a hypothesis,"
+  },
+  {
+    "start": 701.9200000000001,
+    "end": 707.2,
+    "speaker": "SPEAKER_00",
+    "text": "but if small has higher gross margins, I think a large, you know, input into gross margins is people"
+  },
+  {
+    "start": 707.2,
+    "end": 712.08,
+    "speaker": "SPEAKER_00",
+    "text": "costs. And if small has a higher gross margin, maybe it's, you know, less people dependent,"
+  },
+  {
+    "start": 712.8000000000001,
+    "end": 718.08,
+    "speaker": "SPEAKER_00",
+    "text": "easier to scale. So that's the second insight. The third one is looking at the win rates, our win"
+  },
+  {
+    "start": 718.4000000000001,
+    "end": 725.6,
+    "speaker": "SPEAKER_00",
+    "text": "rate in small is 3x plus the large remodel win rate, which that just sort of jumps out to me is,"
+  },
+  {
+    "start": 725.6,
+    "end": 733.2,
+    "speaker": "SPEAKER_00",
+    "text": "you know, maybe small, we have a better competitive position. And likely it might be easier for us to"
+  },
+  {
+    "start": 733.2,
+    "end": 739.36,
+    "speaker": "SPEAKER_00",
+    "text": "win against competitors with small. But those are kind of my three key insights. And based on this,"
+  },
+  {
+    "start": 739.36,
+    "end": 745.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "it just seems like small, my hypothesis is that small might be a better prioritization for growth,"
+  },
+  {
+    "start": 745.68,
+    "end": 751.5999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "given it's our main segment today, it's higher gross margins, we have a higher win rate, but I think"
+  },
+  {
+    "start": 751.5999999999999,
+    "end": 756.56,
+    "speaker": "SPEAKER_00",
+    "text": "we probably have to do more analysis to confirm that. But that's my kind of thoughts looking at this chart."
+  },
+  {
+    "start": 757.5999999999999,
+    "end": 761.4399999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, yeah, and I think fantastic insights. I'm going to leave this up. It's only have a very"
+  },
+  {
+    "start": 761.4399999999999,
+    "end": 765.92,
+    "speaker": "SPEAKER_03",
+    "text": "targeted question. So given the data that you know, you see here, and they've been able to"
+  },
+  {
+    "start": 765.92,
+    "end": 771.1999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "kind of pull out how many customer requests for each segment would the company need in order to"
+  },
+  {
+    "start": 771.2,
+    "end": 777.6,
+    "speaker": "SPEAKER_03",
+    "text": "receive to generate 50 million from that segment alone. And you know, if you could estimate the"
+  },
+  {
+    "start": 777.6,
+    "end": 781.9200000000001,
+    "speaker": "SPEAKER_03",
+    "text": "company's market share, you know, what it would be each segment, if they hit those numbers, that would"
+  },
+  {
+    "start": 781.9200000000001,
+    "end": 788.4000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "be a fantastic. Yeah, definitely. So we want to estimate, you know, the number of customer requests"
+  },
+  {
+    "start": 788.4000000000001,
+    "end": 796.96,
+    "speaker": "SPEAKER_00",
+    "text": "to hit 50 million in each. So my idea of how to solve this is we want to take a 50 million divided"
+  },
+  {
+    "start": 796.96,
+    "end": 802.32,
+    "speaker": "SPEAKER_00",
+    "text": "by kind of the revenue they get per request. And that will get us the total number requests that"
+  },
+  {
+    "start": 802.32,
+    "end": 809.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "they need to get. So the key thing we have to solve for that first question is is revenue per requests,"
+  },
+  {
+    "start": 809.6800000000001,
+    "end": 816.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "which will just be I think to estimate, we could take total revenue today divided by the total"
+  },
+  {
+    "start": 816.8000000000001,
+    "end": 821.36,
+    "speaker": "SPEAKER_00",
+    "text": "requests per segment. And that will give us kind of a revenue per request for each segment. So I"
+  },
+  {
+    "start": 821.36,
+    "end": 827.44,
+    "speaker": "SPEAKER_00",
+    "text": "think that's kind of how I'm going to approach the first problem here and I'll do it by segment,"
+  },
+  {
+    "start": 827.44,
+    "end": 834.88,
+    "speaker": "SPEAKER_00",
+    "text": "quick, let me just structure out. Okay, so we're going to do large, we're going to do total rev of"
+  },
+  {
+    "start": 834.88,
+    "end": 844.08,
+    "speaker": "SPEAKER_00",
+    "text": "5.4 divided by number of requests. And then for small, we're going to do the total rev of 7 million"
+  },
+  {
+    "start": 844.08,
+    "end": 850.1600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "divided by number of requests today. So I'll just solve those and we'll get to the,"
+  },
+  {
+    "start": 850.96,
+    "end": 855.44,
+    "speaker": "SPEAKER_00",
+    "text": "we'll solve those then divide that by 50 million and we'll get to the answer to your first question."
+  },
+  {
+    "start": 857.2800000000001,
+    "end": 867.5200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So starting with large, we have 5.4 million of revenue divided by 12,000 requests today. I'll"
+  },
+  {
+    "start": 867.52,
+    "end": 879.36,
+    "speaker": "SPEAKER_00",
+    "text": "simplify that down. We have about 5400 divided by 12. So I think given that it's close to 5400 divided"
+  },
+  {
+    "start": 879.36,
+    "end": 889.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "by 10. So it'll probably be just shy of 500. So just shy of 500, I'm just going to say that that is"
+  },
+  {
+    "start": 889.5200000000001,
+    "end": 899.6,
+    "speaker": "SPEAKER_00",
+    "text": "going to be about $450 of revenue per request. Then if we take the 50 million, we need to hit."
+  },
+  {
+    "start": 900.24,
+    "end": 909.6,
+    "speaker": "SPEAKER_00",
+    "text": "So 50 million divided by 450, that's kind of the equivalent to 500,000 divided by 45."
+  },
+  {
+    "start": 912.24,
+    "end": 919.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So we know our answer is going to be in the, or 5 million divided by 45 apologies. So we know our"
+  },
+  {
+    "start": 919.04,
+    "end": 927.5999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "answer is going to be in about the 100,000. 500, 5 million divided by 45 is kind of the first"
+  },
+  {
+    "start": 928.48,
+    "end": 934.24,
+    "speaker": "SPEAKER_00",
+    "text": "couple digits there are 10 ninths, which is about 1.1. And if we know it's going to be in 100,000,"
+  },
+  {
+    "start": 934.24,
+    "end": 946.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "our answer is 110,000 requests for large. So they would have to do 110,000 requests or, you know,"
+  },
+  {
+    "start": 946.4000000000001,
+    "end": 950.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "10X, what they're doing now to hit 50 million in the large remodels."
+  },
+  {
+    "start": 952.0,
+    "end": 958.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And then if I move on to small following the same math, we have 7 million in revenue divided by 25,000"
+  },
+  {
+    "start": 958.8000000000001,
+    "end": 966.08,
+    "speaker": "SPEAKER_00",
+    "text": "requests today to get our revenue per request. That is, it's also going to be in the hundreds."
+  },
+  {
+    "start": 966.48,
+    "end": 979.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And 7 divided by 2.5 is equal to about 14 divided by 5, which is just shy of 3, or it's equal to"
+  },
+  {
+    "start": 980.32,
+    "end": 990.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "2 plus 4 fifths, which is 2.8. So our answer is 280 dollars in terms of revenue per request."
+  },
+  {
+    "start": 991.5999999999999,
+    "end": 996.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "If we then take 50 million, which is the total revenue we want to hit, divided by 280,"
+  },
+  {
+    "start": 996.8,
+    "end": 1000.4,
+    "speaker": "SPEAKER_00",
+    "text": "we're going to round here and say 50 million divided by 300,"
+  },
+  {
+    "start": 1002.4,
+    "end": 1009.28,
+    "speaker": "SPEAKER_00",
+    "text": "which is going to be about 5 thirds. So that is 1 plus 2 thirds or 1.6."
+  },
+  {
+    "start": 1011.1999999999999,
+    "end": 1018.8,
+    "speaker": "SPEAKER_00",
+    "text": "So our answer also in the 100,000 will be 160,000 and maybe 165,000 requests"
+  },
+  {
+    "start": 1019.76,
+    "end": 1029.12,
+    "speaker": "SPEAKER_00",
+    "text": "to hit the 50 million. So another, you know, you need to scale up that small requests a bit as well,"
+  },
+  {
+    "start": 1029.12,
+    "end": 1037.04,
+    "speaker": "SPEAKER_00",
+    "text": "but it's a bit less than the 10X for large. But the answer to your first question 110,000 requests"
+  },
+  {
+    "start": 1037.04,
+    "end": 1044.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "for large to hit 50 million assuming our win rate and etc. stays constant. And then 160,000 for small"
+  },
+  {
+    "start": 1044.48,
+    "end": 1052.0,
+    "speaker": "SPEAKER_00",
+    "text": "assuming our win rate and it stays constant. So that's the first question. And then you said market share"
+  },
+  {
+    "start": 1053.76,
+    "end": 1063.3600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "for if we hit these numbers. So market share, we could either do on a dollar basis or a unit basis."
+  },
+  {
+    "start": 1064.0800000000002,
+    "end": 1069.68,
+    "speaker": "SPEAKER_00",
+    "text": "I think just for today, I'm going to do unit basis out of simplicity, assume that all competitors"
+  },
+  {
+    "start": 1069.68,
+    "end": 1074.72,
+    "speaker": "SPEAKER_00",
+    "text": "charge the same amount just given we don't know enough about other competitors right now."
+  },
+  {
+    "start": 1076.48,
+    "end": 1084.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "So in terms of market share, we have to take the number of jobs we win divided by the total jobs"
+  },
+  {
+    "start": 1084.0800000000002,
+    "end": 1092.96,
+    "speaker": "SPEAKER_00",
+    "text": "possible or the total jobs in the US as you said their scale is US. So if we start with large,"
+  },
+  {
+    "start": 1093.92,
+    "end": 1102.48,
+    "speaker": "SPEAKER_00",
+    "text": "for total number of jobs win. If we said that they have requests of 110 and they're win rate is 5,"
+  },
+  {
+    "start": 1102.8,
+    "end": 1109.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "the numerator is going to be about, you know, 5,000. So that's how many jobs are going to estimate they win"
+  },
+  {
+    "start": 1109.6000000000001,
+    "end": 1115.28,
+    "speaker": "SPEAKER_00",
+    "text": "for large if they hit this 50 million number. And then for the denominator, total jobs in the US,"
+  },
+  {
+    "start": 1115.36,
+    "end": 1123.52,
+    "speaker": "SPEAKER_00",
+    "text": "thinking through this, I think what we'll have to take an assumption here. So total jobs in the US,"
+  },
+  {
+    "start": 1123.52,
+    "end": 1131.52,
+    "speaker": "SPEAKER_00",
+    "text": "if I estimate the US population is 330 million, say about an average household is three people,"
+  },
+  {
+    "start": 1131.52,
+    "end": 1136.08,
+    "speaker": "SPEAKER_00",
+    "text": "some people just live with a partner, some people have children. So about 100 million homes."
+  },
+  {
+    "start": 1136.08,
+    "end": 1146.96,
+    "speaker": "SPEAKER_00",
+    "text": "And if a total remodel per family is done, you know, every 30 years, about how often, how big"
+  },
+  {
+    "start": 1146.96,
+    "end": 1151.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "them have long mortgages, you buy a house, you remodel it and you hold onto it for 30 years."
+  },
+  {
+    "start": 1152.48,
+    "end": 1158.08,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm just going to estimate there's about 3 million total large remodels in the US per year."
+  },
+  {
+    "start": 1158.8799999999999,
+    "end": 1162.96,
+    "speaker": "SPEAKER_00",
+    "text": "So our 5,000 numerator divided by the 3 million denominator,"
+  },
+  {
+    "start": 1163.1200000000001,
+    "end": 1174.64,
+    "speaker": "SPEAKER_00",
+    "text": "it's very small, it's less than 1%, a fraction of that, but I'm just going to say it's less than 1%"
+  },
+  {
+    "start": 1174.64,
+    "end": 1179.44,
+    "speaker": "SPEAKER_00",
+    "text": "from a rounding perspective, which signals to me this is a highly competitive space on large,"
+  },
+  {
+    "start": 1180.88,
+    "end": 1187.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "given our market share is so small. I think moving over to the small side, similar we need to do"
+  },
+  {
+    "start": 1187.1999999999998,
+    "end": 1195.28,
+    "speaker": "SPEAKER_00",
+    "text": "the numerator number of jobs one. So if we calculated about 160,000 requests to hit 50 million,"
+  },
+  {
+    "start": 1195.28,
+    "end": 1210.08,
+    "speaker": "SPEAKER_00",
+    "text": "if our win rate is about 16%, 10% of 160 is 16, plus 5%, is 8, plus 1%, is 2. So that's about 26,000"
+  },
+  {
+    "start": 1210.8799999999999,
+    "end": 1218.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "number of jobs we win is an estimate for 160,000 requests and then for the denominator."
+  },
+  {
+    "start": 1218.6399999999999,
+    "end": 1223.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "So we estimate there's about 100 million homes in the US. If we assume a small remodel is done"
+  },
+  {
+    "start": 1223.9199999999998,
+    "end": 1231.52,
+    "speaker": "SPEAKER_00",
+    "text": "about every 10 years, that would mean that there's, you know, about 10 million small remodel jobs"
+  },
+  {
+    "start": 1231.52,
+    "end": 1239.84,
+    "speaker": "SPEAKER_00",
+    "text": "annually as an estimate, 26K divided by 10 million or 26,000, you know, jobs one divided by 10 million"
+  },
+  {
+    "start": 1239.84,
+    "end": 1249.1999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "total jobs in the US. Again, that gets us to less than 1% market share, closer to 1%, so about 1%,"
+  },
+  {
+    "start": 1249.1999999999998,
+    "end": 1256.9599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "but still it's very small. So from this, I think we can infer that both spaces are highly competitive,"
+  },
+  {
+    "start": 1258.24,
+    "end": 1263.6799999999998,
+    "speaker": "SPEAKER_00",
+    "text": "but we maybe have a slightly larger market share in small, but broadly it's, they're highly,"
+  },
+  {
+    "start": 1263.68,
+    "end": 1267.04,
+    "speaker": "SPEAKER_00",
+    "text": "it's a highly competitive space is my insight from that."
+  },
+  {
+    "start": 1268.24,
+    "end": 1272.3200000000002,
+    "speaker": "SPEAKER_03",
+    "text": "Very good. I appreciate kind of how you broke that down into the two questions."
+  },
+  {
+    "start": 1273.28,
+    "end": 1276.64,
+    "speaker": "SPEAKER_03",
+    "text": "Completely agree with, you know, the assumptions the analysis are getting to a"
+  },
+  {
+    "start": 1276.64,
+    "end": 1282.16,
+    "speaker": "SPEAKER_03",
+    "text": "incredibly competitive space. So how might the company's product and customer experience"
+  },
+  {
+    "start": 1282.16,
+    "end": 1286.3200000000002,
+    "speaker": "SPEAKER_03",
+    "text": "differ depending on the segment it chooses kind of between that small and large where you've been"
+  },
+  {
+    "start": 1287.1200000000001,
+    "end": 1290.48,
+    "speaker": "SPEAKER_03",
+    "text": "diverging between? And what are the implications of these differences?"
+  },
+  {
+    "start": 1290.8,
+    "end": 1296.72,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, definitely. So how would the product and customer experience differ?"
+  },
+  {
+    "start": 1297.76,
+    "end": 1303.6,
+    "speaker": "SPEAKER_00",
+    "text": "So I guess starting with the first one that we talked about, which is large. So this is, you know,"
+  },
+  {
+    "start": 1303.6,
+    "end": 1312.88,
+    "speaker": "SPEAKER_00",
+    "text": "a high price driven business versus volume. So a couple of things from a product standpoint,"
+  },
+  {
+    "start": 1313.6,
+    "end": 1319.04,
+    "speaker": "SPEAKER_00",
+    "text": "it's likely more sophisticated jobs. So you would have to have a marketplace that could handle,"
+  },
+  {
+    "start": 1319.04,
+    "end": 1324.48,
+    "speaker": "SPEAKER_00",
+    "text": "you know, more sophisticated customization options, more sophisticated, you know,"
+  },
+  {
+    "start": 1324.48,
+    "end": 1328.56,
+    "speaker": "SPEAKER_00",
+    "text": "collaboration options. If they're working with a contractor for a year, you need to be able to,"
+  },
+  {
+    "start": 1328.56,
+    "end": 1332.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "like, keep in contact with the contractor and manage multiple requests from the contractor."
+  },
+  {
+    "start": 1332.6399999999999,
+    "end": 1336.32,
+    "speaker": "SPEAKER_00",
+    "text": "For example, what sync do you want? What closet type do you want? There's just many different"
+  },
+  {
+    "start": 1336.32,
+    "end": 1341.12,
+    "speaker": "SPEAKER_00",
+    "text": "requests with a large remodel. So I think from a product standpoint on large, it's just going to be"
+  },
+  {
+    "start": 1341.9199999999998,
+    "end": 1350.8,
+    "speaker": "SPEAKER_00",
+    "text": "a more sophisticated tool or marketplace platform that you'll need likely. From a customer experience"
+  },
+  {
+    "start": 1350.8,
+    "end": 1358.7199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "standpoint, given these are high priced projects, they'll likely value, you know, quality of service"
+  },
+  {
+    "start": 1358.7199999999998,
+    "end": 1364.2399999999998,
+    "speaker": "SPEAKER_00",
+    "text": "and, you know, how quick are our people to respond to them, etc. If they're spending a lot of money"
+  },
+  {
+    "start": 1364.32,
+    "end": 1371.52,
+    "speaker": "SPEAKER_00",
+    "text": "on this project, they want, you know, a marketplace tool that works very well and is clean and is"
+  },
+  {
+    "start": 1371.52,
+    "end": 1376.72,
+    "speaker": "SPEAKER_00",
+    "text": "neat. It's just, it's an expensive thing. And if people are spending a lot of money on a large"
+  },
+  {
+    "start": 1376.72,
+    "end": 1384.24,
+    "speaker": "SPEAKER_00",
+    "text": "remodel, I think the tools they use, they have probably higher expectations for. So I think"
+  },
+  {
+    "start": 1385.1200000000001,
+    "end": 1390.24,
+    "speaker": "SPEAKER_00",
+    "text": "from that standpoint, the service aspect, if there's anything, you know, that customers have"
+  },
+  {
+    "start": 1390.4,
+    "end": 1394.8,
+    "speaker": "SPEAKER_00",
+    "text": "requests, they can't do it in the tool. It's probably more people driven. So they're just going to"
+  },
+  {
+    "start": 1394.8,
+    "end": 1400.64,
+    "speaker": "SPEAKER_00",
+    "text": "probably need more support or service for the large remodel segment to ensure customers can do"
+  },
+  {
+    "start": 1400.64,
+    "end": 1405.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "everything they want in their app. And that also goes back to our chart where we saw that large"
+  },
+  {
+    "start": 1405.1200000000001,
+    "end": 1410.64,
+    "speaker": "SPEAKER_00",
+    "text": "had a lower gross margin. That's kind of my hypothesis is connected to this. It's just a more people"
+  },
+  {
+    "start": 1410.64,
+    "end": 1415.28,
+    "speaker": "SPEAKER_00",
+    "text": "driven, you know, service oriented business. That's from the large standpoint, from the small"
+  },
+  {
+    "start": 1415.28,
+    "end": 1421.68,
+    "speaker": "SPEAKER_00",
+    "text": "standpoint, if it's, you know, a volume driven business, from a product standpoint, they need a"
+  },
+  {
+    "start": 1421.68,
+    "end": 1426.72,
+    "speaker": "SPEAKER_00",
+    "text": "piece of tech that's very scalable and likely more automated because they're not going to be able to"
+  },
+  {
+    "start": 1426.72,
+    "end": 1432.08,
+    "speaker": "SPEAKER_00",
+    "text": "handle, you know, one-on-one requests from customers as easily or if the app goes wrong and you know,"
+  },
+  {
+    "start": 1432.08,
+    "end": 1436.08,
+    "speaker": "SPEAKER_00",
+    "text": "a lot of people using this marketplace or the tool goes wrong apologies, a lot of people are"
+  },
+  {
+    "start": 1436.08,
+    "end": 1440.56,
+    "speaker": "SPEAKER_00",
+    "text": "using the marketplace. It needs to be able to work. So you don't get a bunch of, you know,"
+  },
+  {
+    "start": 1440.6399999999999,
+    "end": 1445.28,
+    "speaker": "SPEAKER_00",
+    "text": "errors or service requests. It just, I think, they'll value speed. So scalability and speed from"
+  },
+  {
+    "start": 1445.28,
+    "end": 1451.44,
+    "speaker": "SPEAKER_00",
+    "text": "a product standpoint are very important. And from a customer experience standpoint, I think"
+  },
+  {
+    "start": 1453.76,
+    "end": 1458.24,
+    "speaker": "SPEAKER_00",
+    "text": "small, they'll probably, similar to the product, just they'll value a seamless experience."
+  },
+  {
+    "start": 1458.24,
+    "end": 1465.36,
+    "speaker": "SPEAKER_00",
+    "text": "They'll just want it to be very fast. Do work, work well and not disrupt their project because I"
+  },
+  {
+    "start": 1465.36,
+    "end": 1469.2,
+    "speaker": "SPEAKER_00",
+    "text": "think if you're remodeling in a bathroom in your house, it's very disruptive. And you want to"
+  },
+  {
+    "start": 1469.28,
+    "end": 1474.96,
+    "speaker": "SPEAKER_00",
+    "text": "done as fast as possible and you don't want the marketplace tool to unwit and anyway, you know,"
+  },
+  {
+    "start": 1474.96,
+    "end": 1483.28,
+    "speaker": "SPEAKER_00",
+    "text": "disrupt that. So I think just speed of service is the core there. So if I think about the implications"
+  },
+  {
+    "start": 1483.28,
+    "end": 1491.2,
+    "speaker": "SPEAKER_00",
+    "text": "of this from a large, if it's more kind of large price projects service required, I'm envisioning it"
+  },
+  {
+    "start": 1491.2,
+    "end": 1496.64,
+    "speaker": "SPEAKER_00",
+    "text": "more as like a tech enabled services platform, which is less scalable than, you know, small, which I'm"
+  },
+  {
+    "start": 1496.64,
+    "end": 1502.0,
+    "speaker": "SPEAKER_00",
+    "text": "thinking is more a tech platform, right? Like the platform can just be scalable, it can handle"
+  },
+  {
+    "start": 1502.0,
+    "end": 1508.96,
+    "speaker": "SPEAKER_00",
+    "text": "large volume, etc. It's more automated. And so from that standpoint, I think from a scalability"
+  },
+  {
+    "start": 1508.96,
+    "end": 1516.8000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "standpoint, smaller might be better, a better fit is my hypothesis here. But looking at these factors,"
+  },
+  {
+    "start": 1516.8000000000002,
+    "end": 1522.64,
+    "speaker": "SPEAKER_00",
+    "text": "but again, we probably need some hard data to confirm that. These are just my hypotheses for now."
+  },
+  {
+    "start": 1523.6000000000001,
+    "end": 1528.8000000000002,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, no, and I think fantastic idea, certainly fantastic hypothesis. So write on with"
+  },
+  {
+    "start": 1528.8000000000002,
+    "end": 1534.5600000000002,
+    "speaker": "SPEAKER_03",
+    "text": "we're expecting, you know, what are the major risks associated with either segment? Certainly some"
+  },
+  {
+    "start": 1534.5600000000002,
+    "end": 1538.88,
+    "speaker": "SPEAKER_03",
+    "text": "benefits that you've really hit on for both of them, but would love to understand some of the risks"
+  },
+  {
+    "start": 1538.88,
+    "end": 1545.92,
+    "speaker": "SPEAKER_00",
+    "text": "associated with it. Yeah, definitely. So from the large standpoint, I think a couple of risks"
+  },
+  {
+    "start": 1546.0,
+    "end": 1552.96,
+    "speaker": "SPEAKER_00",
+    "text": "jump out. One is the, you know, lack of competitive scale here. If they don't have scale, I think"
+  },
+  {
+    "start": 1552.96,
+    "end": 1557.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "they're just going to face intense competition from potentially higher scale players who may be able"
+  },
+  {
+    "start": 1557.6000000000001,
+    "end": 1562.64,
+    "speaker": "SPEAKER_00",
+    "text": "to lower price, etc. Just given that they have a low market share, it signals highly competitive,"
+  },
+  {
+    "start": 1562.64,
+    "end": 1571.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "that brings up a bunch of risks. The second thing is the lower win rate here. So similar to,"
+  },
+  {
+    "start": 1571.6,
+    "end": 1575.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "okay, it's highly competitive and they have a lower win rate, that just signals that it might be"
+  },
+  {
+    "start": 1575.9199999999998,
+    "end": 1582.32,
+    "speaker": "SPEAKER_00",
+    "text": "harder for them to grow in this segment from a competitive standpoint. I think a third insight from"
+  },
+  {
+    "start": 1582.32,
+    "end": 1589.28,
+    "speaker": "SPEAKER_00",
+    "text": "large is just going to be that it's more price driven. So it's kind of like customer concentration"
+  },
+  {
+    "start": 1589.28,
+    "end": 1594.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "risks may be applied. So you have a risk of, if you don't get your target of one giant whale"
+  },
+  {
+    "start": 1594.8799999999999,
+    "end": 1599.1999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "customer in that year, are you going to miss your revenue target? And so you're just dependent"
+  },
+  {
+    "start": 1599.2,
+    "end": 1606.0,
+    "speaker": "SPEAKER_00",
+    "text": "on super large wins. And you have less kind of opportunity to make those up. If you miss,"
+  },
+  {
+    "start": 1606.0,
+    "end": 1610.88,
+    "speaker": "SPEAKER_00",
+    "text": "if your budget is one or two, I'm making this up, but if you do one or two super large remodels to"
+  },
+  {
+    "start": 1610.88,
+    "end": 1615.92,
+    "speaker": "SPEAKER_00",
+    "text": "your budget number, that can, you know, be tricky. If you miss just one, you could be way off your"
+  },
+  {
+    "start": 1615.92,
+    "end": 1621.04,
+    "speaker": "SPEAKER_00",
+    "text": "budget. So I think there's just given that it's not volume driven, it's more large price driven,"
+  },
+  {
+    "start": 1622.0800000000002,
+    "end": 1626.32,
+    "speaker": "SPEAKER_00",
+    "text": "those sorts of, you know, whale customer concentration type risk supply here."
+  },
+  {
+    "start": 1626.72,
+    "end": 1634.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "From a small standpoint, I think, you know, a couple of things. One is the competitive environment"
+  },
+  {
+    "start": 1634.6399999999999,
+    "end": 1641.6,
+    "speaker": "SPEAKER_00",
+    "text": "as well. It's a highly competitive space that also applies here. The second is the volume dependent"
+  },
+  {
+    "start": 1641.6,
+    "end": 1647.2,
+    "speaker": "SPEAKER_00",
+    "text": "business. Like we mean customers might be more price sensitive. So you can't kind of pull"
+  },
+  {
+    "start": 1647.76,
+    "end": 1656.08,
+    "speaker": "SPEAKER_00",
+    "text": "pricing lovers as much. You're just going to try to hit volume. And so that is a positive given"
+  },
+  {
+    "start": 1656.08,
+    "end": 1661.1999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "the customer concentration risks that we just mentioned for large. But also if you want to raise"
+  },
+  {
+    "start": 1661.1999999999998,
+    "end": 1665.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "pricing as a lever for growth, that's probably going to be trickier, trickier in this segment."
+  },
+  {
+    "start": 1668.56,
+    "end": 1673.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "And I think the other thing for small is just given it needs to scale quickly. It's a volume driven,"
+  },
+  {
+    "start": 1673.9199999999998,
+    "end": 1679.52,
+    "speaker": "SPEAKER_00",
+    "text": "there may need to be some investment in tech or the platform before you can kind of scale this up."
+  },
+  {
+    "start": 1679.52,
+    "end": 1687.44,
+    "speaker": "SPEAKER_00",
+    "text": "But I guess yeah, those are the key risks here. And based on that, they both have risks. So based"
+  },
+  {
+    "start": 1687.44,
+    "end": 1692.24,
+    "speaker": "SPEAKER_00",
+    "text": "on the risks, say, I don't know if I have a key hypothesis as to which segment is better or worse."
+  },
+  {
+    "start": 1693.52,
+    "end": 1700.48,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, yeah, well, the CEO for Remodel Rush is in route, you know, given that you kind of led this"
+  },
+  {
+    "start": 1700.48,
+    "end": 1705.84,
+    "speaker": "SPEAKER_03",
+    "text": "analysis throughout with love, if you could provide a conclusion to her and kind of your initial"
+  },
+  {
+    "start": 1705.84,
+    "end": 1711.36,
+    "speaker": "SPEAKER_03",
+    "text": "thoughts and what you're the direction you think is. Yeah, definitely. Just give me a moment here to"
+  },
+  {
+    "start": 1711.36,
+    "end": 1717.1999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "look back at some of the notes of the analysis that we did. And then we'll share kind of a recommendation"
+  },
+  {
+    "start": 1717.1999999999998,
+    "end": 1729.36,
+    "speaker": "SPEAKER_00",
+    "text": "shortly. Great. So I think you asked us to answer the question of how can we help grow this"
+  },
+  {
+    "start": 1729.36,
+    "end": 1736.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "business to $50 million in revenue by prioritizing a key one of your two segments for growth."
+  },
+  {
+    "start": 1736.8799999999999,
+    "end": 1742.9599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "And based on our work, we're recommending that you prioritize the small remodel segment for your"
+  },
+  {
+    "start": 1742.9599999999998,
+    "end": 1749.76,
+    "speaker": "SPEAKER_00",
+    "text": "future growth. We got to that conclusion by doing some data analysis of kind of per segment metrics"
+  },
+  {
+    "start": 1749.76,
+    "end": 1755.6,
+    "speaker": "SPEAKER_00",
+    "text": "and thinking about the risks of each segment. And based on this analysis, three things sort of"
+  },
+  {
+    "start": 1755.6,
+    "end": 1761.04,
+    "speaker": "SPEAKER_00",
+    "text": "jumped out. One small is our core business today. It represents a greater proportion of our revenue,"
+  },
+  {
+    "start": 1761.04,
+    "end": 1766.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "which means we're maybe better skilled or equipped to grow that one. In the future,"
+  },
+  {
+    "start": 1766.6399999999999,
+    "end": 1771.28,
+    "speaker": "SPEAKER_00",
+    "text": "it's just our core segment today. So doubling down on our core might be a good idea. The second"
+  },
+  {
+    "start": 1771.28,
+    "end": 1777.12,
+    "speaker": "SPEAKER_00",
+    "text": "thing is that the small has a better financial profile in the sense that it has higher gross margins."
+  },
+  {
+    "start": 1778.8,
+    "end": 1784.0,
+    "speaker": "SPEAKER_00",
+    "text": "We have a higher win rate in that segment. Kind of if we think about key financial metrics of"
+  },
+  {
+    "start": 1784.0,
+    "end": 1789.6,
+    "speaker": "SPEAKER_00",
+    "text": "the small segment, I think it just is a more attractive business from that standpoint."
+  },
+  {
+    "start": 1790.56,
+    "end": 1796.88,
+    "speaker": "SPEAKER_00",
+    "text": "And the third thing, I think given that the gross margins are a little bit higher,"
+  },
+  {
+    "start": 1796.88,
+    "end": 1801.52,
+    "speaker": "SPEAKER_00",
+    "text": "we hypothesize it's a little bit more automated. And so it's likely going to be easier to scale"
+  },
+  {
+    "start": 1802.32,
+    "end": 1810.8,
+    "speaker": "SPEAKER_00",
+    "text": "and grow because we want to grow. It also has to be kind of feasible. And based on our analysis,"
+  },
+  {
+    "start": 1810.8,
+    "end": 1817.04,
+    "speaker": "SPEAKER_00",
+    "text": "our hypothesis is that small is going to be kind of more feasible to scale. And so based on this,"
+  },
+  {
+    "start": 1818.24,
+    "end": 1824.48,
+    "speaker": "SPEAKER_00",
+    "text": "we love to recommend that you prioritize growth with small, but understand more work will likely"
+  },
+  {
+    "start": 1824.48,
+    "end": 1829.84,
+    "speaker": "SPEAKER_00",
+    "text": "need to be done as to best how scale the small business. And we love to sort of help you"
+  },
+  {
+    "start": 1830.8799999999999,
+    "end": 1836.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "do that further work as well. But our recommendation today in short is we recommend you prioritize"
+  },
+  {
+    "start": 1836.88,
+    "end": 1843.2,
+    "speaker": "SPEAKER_00",
+    "text": "growing the small remodeled segment of your business. Excellent. That would be fantastic."
+  },
+  {
+    "start": 1843.2,
+    "end": 1847.8400000000001,
+    "speaker": "SPEAKER_03",
+    "text": "I really appreciate your help with this case. Thank you. Thank you so much, Ben. It was great."
+  },
+  {
+    "start": 1848.48,
+    "end": 1852.5600000000002,
+    "speaker": "SPEAKER_02",
+    "text": "Hey, everyone. It's Ken Tugvese here, the founder of Rocketblocks. Thank you so much for watching"
+  },
+  {
+    "start": 1852.5600000000002,
+    "end": 1857.7600000000002,
+    "speaker": "SPEAKER_02",
+    "text": "this mock interview video. I hope you found it informative and helpful as you are getting ready"
+  },
+  {
+    "start": 1857.7600000000002,
+    "end": 1862.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "to prepare for your own interviews and hopefully landing that job offer you are excited about."
+  },
+  {
+    "start": 1862.32,
+    "end": 1866.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "We have a ton of great content on the Rocketblocks channel coming out on a weekly basis,"
+  },
+  {
+    "start": 1866.8799999999999,
+    "end": 1872.08,
+    "speaker": "SPEAKER_02",
+    "text": "mock interviews, mini lessons and chats with our Rocketblocks experts. So if you haven't subscribed,"
+  },
+  {
+    "start": 1872.08,
+    "end": 1877.36,
+    "speaker": "SPEAKER_02",
+    "text": "yet already, please do so. There is a big red button below. And if you hit that, you'll get all"
+  },
+  {
+    "start": 1877.36,
+    "end": 1881.2,
+    "speaker": "SPEAKER_02",
+    "text": "our content as soon as it comes out. Thanks for watching and have a great day."
+  }
+]

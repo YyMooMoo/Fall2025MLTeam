@@ -1,0 +1,3074 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "speaker": "SPEAKER_00",
+    "text": "Do you remember the first time you were in a car?"
+  },
+  {
+    "start": 4.0,
+    "end": 5.0,
+    "speaker": "SPEAKER_00",
+    "text": "You were in a car?"
+  },
+  {
+    "start": 5.0,
+    "end": 6.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 6.0,
+    "end": 11.0,
+    "speaker": "SPEAKER_00",
+    "text": "Your client is a pharmaceutical company that is ready to launch a new drug."
+  },
+  {
+    "start": 11.0,
+    "end": 14.0,
+    "speaker": "SPEAKER_00",
+    "text": "It is a drug for severe asthma."
+  },
+  {
+    "start": 14.0,
+    "end": 17.0,
+    "speaker": "SPEAKER_00",
+    "text": "It is essentially the same as what is in the market today,"
+  },
+  {
+    "start": 17.0,
+    "end": 25.0,
+    "speaker": "SPEAKER_00",
+    "text": "but it is stronger, faster, and can treat severe cases that are not properly treated with today's medicine."
+  },
+  {
+    "start": 25.0,
+    "end": 28.0,
+    "speaker": "SPEAKER_00",
+    "text": "The drug is seen as a breakthrough."
+  },
+  {
+    "start": 28.0,
+    "end": 31.0,
+    "speaker": "SPEAKER_00",
+    "text": "The client is planning to launch this drug in Canada."
+  },
+  {
+    "start": 31.0,
+    "end": 35.0,
+    "speaker": "SPEAKER_00",
+    "text": "They are coming to you to determine how they should price the drug."
+  },
+  {
+    "start": 35.0,
+    "end": 38.0,
+    "speaker": "SPEAKER_00",
+    "text": "What would you need to explore to determine a good price?"
+  },
+  {
+    "start": 46.0,
+    "end": 48.0,
+    "speaker": "SPEAKER_01",
+    "text": "Great."
+  },
+  {
+    "start": 48.0,
+    "end": 52.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I just want to make sure I captured all the facts."
+  },
+  {
+    "start": 53.0,
+    "end": 56.0,
+    "speaker": "SPEAKER_01",
+    "text": "Our client is a pharma company."
+  },
+  {
+    "start": 56.0,
+    "end": 63.0,
+    "speaker": "SPEAKER_01",
+    "text": "Our company has made a new drug that treats severe asthma."
+  },
+  {
+    "start": 63.0,
+    "end": 69.0,
+    "speaker": "SPEAKER_01",
+    "text": "This new drug is similar to drugs already existing in the market, however, it is more potent."
+  },
+  {
+    "start": 69.0,
+    "end": 76.0,
+    "speaker": "SPEAKER_01",
+    "text": "It has stronger, faster results, and it is effective against severe cases of asthma."
+  },
+  {
+    "start": 76.0,
+    "end": 82.0,
+    "speaker": "SPEAKER_01",
+    "text": "The company views this drug as a breakthrough, and they want to launch it in the market."
+  },
+  {
+    "start": 82.0,
+    "end": 91.0,
+    "speaker": "SPEAKER_01",
+    "text": "They have come to us to ask how should they price this drug and what factors they should consider to determine its price."
+  },
+  {
+    "start": 91.0,
+    "end": 92.0,
+    "speaker": "SPEAKER_01",
+    "text": "Did I get everything?"
+  },
+  {
+    "start": 92.0,
+    "end": 93.0,
+    "speaker": "SPEAKER_00",
+    "text": "That's right."
+  },
+  {
+    "start": 93.0,
+    "end": 94.0,
+    "speaker": "SPEAKER_01",
+    "text": "Great."
+  },
+  {
+    "start": 94.0,
+    "end": 97.0,
+    "speaker": "SPEAKER_01",
+    "text": "Just a couple of quick questions."
+  },
+  {
+    "start": 97.0,
+    "end": 99.0,
+    "speaker": "SPEAKER_01",
+    "text": "Where is this company based?"
+  },
+  {
+    "start": 99.0,
+    "end": 102.0,
+    "speaker": "SPEAKER_01",
+    "text": "Where are they looking to launch this drug?"
+  },
+  {
+    "start": 102.0,
+    "end": 106.0,
+    "speaker": "SPEAKER_00",
+    "text": "They are looking to launch in Canada and you can assume they are based there too."
+  },
+  {
+    "start": 106.0,
+    "end": 108.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. All right."
+  },
+  {
+    "start": 108.0,
+    "end": 113.0,
+    "speaker": "SPEAKER_01",
+    "text": "Is there a timeline when they are planning on launching this product?"
+  },
+  {
+    "start": 113.0,
+    "end": 116.0,
+    "speaker": "SPEAKER_01",
+    "text": "Is it in the next six months or are they going to take a little more time?"
+  },
+  {
+    "start": 116.0,
+    "end": 117.0,
+    "speaker": "SPEAKER_01",
+    "text": "Or is it immediate?"
+  },
+  {
+    "start": 117.0,
+    "end": 118.0,
+    "speaker": "SPEAKER_00",
+    "text": "As soon as possible."
+  },
+  {
+    "start": 118.0,
+    "end": 121.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. As soon as possible."
+  },
+  {
+    "start": 121.0,
+    "end": 125.0,
+    "speaker": "SPEAKER_01",
+    "text": "Is the company based in Canada or is it based outside Canada?"
+  },
+  {
+    "start": 125.0,
+    "end": 127.0,
+    "speaker": "SPEAKER_00",
+    "text": "You can assume they are based in Canada."
+  },
+  {
+    "start": 127.0,
+    "end": 128.0,
+    "speaker": "SPEAKER_01",
+    "text": "I see."
+  },
+  {
+    "start": 128.0,
+    "end": 133.0,
+    "speaker": "SPEAKER_01",
+    "text": "So they are manufacturing it in Canada and they are also planning on selling it just in Canada."
+  },
+  {
+    "start": 133.0,
+    "end": 134.0,
+    "speaker": "SPEAKER_01",
+    "text": "Great."
+  },
+  {
+    "start": 134.0,
+    "end": 137.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I might have more questions later on, but that's all I have for now."
+  },
+  {
+    "start": 137.0,
+    "end": 140.0,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to take a few moments to structure my thoughts if that's okay."
+  },
+  {
+    "start": 140.0,
+    "end": 141.0,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you."
+  },
+  {
+    "start": 141.0,
+    "end": 143.0,
+    "speaker": "SPEAKER_01",
+    "text": "Great."
+  },
+  {
+    "start": 143.0,
+    "end": 145.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 145.0,
+    "end": 149.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I have a couple of ideas that I think are worth exploring."
+  },
+  {
+    "start": 149.0,
+    "end": 153.0,
+    "speaker": "SPEAKER_01",
+    "text": "So three right now, I have three buckets that I would like to go into."
+  },
+  {
+    "start": 153.0,
+    "end": 156.0,
+    "speaker": "SPEAKER_01",
+    "text": "So the first is in order to determine the pricing."
+  },
+  {
+    "start": 156.0,
+    "end": 160.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think it's important to estimate how much of the drug to be expected to sell."
+  },
+  {
+    "start": 160.0,
+    "end": 163.0,
+    "speaker": "SPEAKER_01",
+    "text": "So basically calculating the volume."
+  },
+  {
+    "start": 163.0,
+    "end": 171.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so for that, we have to basically size the market in Canada that asked them out patients who would be willing to invest in this drug."
+  },
+  {
+    "start": 171.0,
+    "end": 174.0,
+    "speaker": "SPEAKER_01",
+    "text": "So we could either get that from their already current drugs in the market."
+  },
+  {
+    "start": 174.0,
+    "end": 180.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that would give us a sense of how many customers we would be able to target."
+  },
+  {
+    "start": 180.0,
+    "end": 183.0,
+    "speaker": "SPEAKER_01",
+    "text": "Within those customers, there would probably be a segmentation."
+  },
+  {
+    "start": 183.0,
+    "end": 186.0,
+    "speaker": "SPEAKER_01",
+    "text": "Those that have mild asthmatic symptoms."
+  },
+  {
+    "start": 186.0,
+    "end": 188.0,
+    "speaker": "SPEAKER_01",
+    "text": "Those that have stronger symptoms."
+  },
+  {
+    "start": 188.0,
+    "end": 193.0,
+    "speaker": "SPEAKER_01",
+    "text": "The ones that have stronger will probably be able to wear them away towards our product quicker."
+  },
+  {
+    "start": 193.0,
+    "end": 198.0,
+    "speaker": "SPEAKER_01",
+    "text": "I would also like to understand what the frequency of using this drug might be like to do."
+  },
+  {
+    "start": 198.0,
+    "end": 203.0,
+    "speaker": "SPEAKER_01",
+    "text": "To consumers have to use this once a month, once every six months and so on."
+  },
+  {
+    "start": 203.0,
+    "end": 207.0,
+    "speaker": "SPEAKER_01",
+    "text": "So understanding the frequency and then also."
+  },
+  {
+    "start": 207.0,
+    "end": 210.0,
+    "speaker": "SPEAKER_01",
+    "text": "So figuring out how we're going to distribute this."
+  },
+  {
+    "start": 210.0,
+    "end": 215.0,
+    "speaker": "SPEAKER_01",
+    "text": "So if this is a large pharmaceutical company that already has a presence in the Canadian market,"
+  },
+  {
+    "start": 215.0,
+    "end": 228.0,
+    "speaker": "SPEAKER_01",
+    "text": "then it might be easier to promote this new product versus coming up with new distribution channels or just building awareness about the company and the product from the ground up."
+  },
+  {
+    "start": 228.0,
+    "end": 231.0,
+    "speaker": "SPEAKER_01",
+    "text": "The other thing is looking into the costs."
+  },
+  {
+    "start": 231.0,
+    "end": 234.0,
+    "speaker": "SPEAKER_01",
+    "text": "Obviously that's important when we're figuring out the price."
+  },
+  {
+    "start": 234.0,
+    "end": 237.0,
+    "speaker": "SPEAKER_01",
+    "text": "So looking at fixed costs and then looking at variable costs."
+  },
+  {
+    "start": 237.0,
+    "end": 240.0,
+    "speaker": "SPEAKER_01",
+    "text": "So within fixed fixed costs."
+  },
+  {
+    "start": 240.0,
+    "end": 247.0,
+    "speaker": "SPEAKER_01",
+    "text": "You know, the equipment that they're using to manufacture this drug is this was this already pre installed equipment."
+  },
+  {
+    "start": 247.0,
+    "end": 253.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then they just had to add like other components or what, but what is the cost of manufacturing this drug."
+  },
+  {
+    "start": 253.0,
+    "end": 261.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then again, like I think any sort of marketing things that might come irrespective of how much volume of the drug that we are producing."
+  },
+  {
+    "start": 261.0,
+    "end": 269.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then within variable costs, you know, looking at just the cost of the raw materials, any labor costs."
+  },
+  {
+    "start": 269.0,
+    "end": 273.0,
+    "speaker": "SPEAKER_01",
+    "text": "Obviously there would be scientists involved in creating this drug."
+  },
+  {
+    "start": 273.0,
+    "end": 278.0,
+    "speaker": "SPEAKER_01",
+    "text": "So, you know, what are the costs associated with that? Any other sort of variable costs."
+  },
+  {
+    "start": 278.0,
+    "end": 281.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, so just to summarize three factors."
+  },
+  {
+    "start": 281.0,
+    "end": 284.0,
+    "speaker": "SPEAKER_01",
+    "text": "So determining what the market size is, what is the volume of the drug?"
+  },
+  {
+    "start": 284.0,
+    "end": 286.0,
+    "speaker": "SPEAKER_01",
+    "text": "How much would we expect to be able to sell?"
+  },
+  {
+    "start": 286.0,
+    "end": 290.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then looking into the fixed and the variable costs."
+  },
+  {
+    "start": 290.0,
+    "end": 301.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I think what I would be most interested in exploring first is understanding what the market size is and how much we expect to sell."
+  },
+  {
+    "start": 301.0,
+    "end": 306.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, yeah, that's good. That's a good place to start."
+  },
+  {
+    "start": 306.0,
+    "end": 316.0,
+    "speaker": "SPEAKER_00",
+    "text": "So to answer some of your questions, you can assume that the current asthma drug in Canada that our client sells is five dollars per bottle."
+  },
+  {
+    "start": 316.0,
+    "end": 319.0,
+    "speaker": "SPEAKER_00",
+    "text": "Last for two months."
+  },
+  {
+    "start": 319.0,
+    "end": 326.0,
+    "speaker": "SPEAKER_00",
+    "text": "Alright, so like you said, let's figure out what the total market size is per year in Canada for this drug."
+  },
+  {
+    "start": 326.0,
+    "end": 331.0,
+    "speaker": "SPEAKER_00",
+    "text": "So how would you like to begin that?"
+  },
+  {
+    "start": 331.0,
+    "end": 336.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, so I just, I'm just going to repeat the fact so each asthma bottle."
+  },
+  {
+    "start": 336.0,
+    "end": 342.0,
+    "speaker": "SPEAKER_01",
+    "text": "It's sold as a bottle is five dollars and it lasts for two months."
+  },
+  {
+    "start": 342.0,
+    "end": 349.0,
+    "speaker": "SPEAKER_01",
+    "text": "And we just want to calculate what the market size is in Canada for one single year."
+  },
+  {
+    "start": 349.0,
+    "end": 351.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I don't know the population of Canada."
+  },
+  {
+    "start": 351.0,
+    "end": 354.0,
+    "speaker": "SPEAKER_01",
+    "text": "I'm assuming it's a little less than the US."
+  },
+  {
+    "start": 354.0,
+    "end": 357.0,
+    "speaker": "SPEAKER_01",
+    "text": "So US is about 300 million."
+  },
+  {
+    "start": 357.0,
+    "end": 361.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I don't know, maybe Canada is 250 million or 200 million."
+  },
+  {
+    "start": 361.0,
+    "end": 366.0,
+    "speaker": "SPEAKER_01",
+    "text": "I don't know what if you have a preference in the assumption that I'm here."
+  },
+  {
+    "start": 366.0,
+    "end": 369.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, it's a lot less than US. Let's just say 30 million."
+  },
+  {
+    "start": 369.0,
+    "end": 374.0,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, okay, that was way off. Sorry, excuse my ignorance."
+  },
+  {
+    "start": 374.0,
+    "end": 382.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so in order to calculate the market size, I already have this total population."
+  },
+  {
+    "start": 382.0,
+    "end": 387.0,
+    "speaker": "SPEAKER_01",
+    "text": "I would need to understand how much of that population is asthmatic."
+  },
+  {
+    "start": 387.0,
+    "end": 390.0,
+    "speaker": "SPEAKER_01",
+    "text": "So either as mild or severe symptoms."
+  },
+  {
+    "start": 390.0,
+    "end": 398.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then from that population, I would know the total not so assuming one person."
+  },
+  {
+    "start": 398.0,
+    "end": 401.0,
+    "speaker": "SPEAKER_01",
+    "text": "Uses one bottle and that bottle isn't shared amongst individuals."
+  },
+  {
+    "start": 401.0,
+    "end": 406.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that population size would give me the number of bottles that are used."
+  },
+  {
+    "start": 406.0,
+    "end": 410.0,
+    "speaker": "SPEAKER_01",
+    "text": "And if a bottle lasts every two months, so that means 12 divided by two."
+  },
+  {
+    "start": 410.0,
+    "end": 412.0,
+    "speaker": "SPEAKER_01",
+    "text": "So six times they're replenishing it."
+  },
+  {
+    "start": 412.0,
+    "end": 414.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that would be multiplied by six."
+  },
+  {
+    "start": 414.0,
+    "end": 418.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then I would just have to multiplied by the cost per bottle."
+  },
+  {
+    "start": 418.0,
+    "end": 421.0,
+    "speaker": "SPEAKER_01",
+    "text": "And that would give me the number."
+  },
+  {
+    "start": 421.0,
+    "end": 422.0,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 423.0,
+    "end": 434.0,
+    "speaker": "SPEAKER_01",
+    "text": "So what I need to know to do this calculation is what percentage of the 30 million population I should assume has asthmatic."
+  },
+  {
+    "start": 434.0,
+    "end": 438.0,
+    "speaker": "SPEAKER_00",
+    "text": "Just off the top of your head, what are you thinking?"
+  },
+  {
+    "start": 438.0,
+    "end": 443.0,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, I'm from India, so I know pollution is a big issue in India."
+  },
+  {
+    "start": 443.0,
+    "end": 447.0,
+    "speaker": "SPEAKER_01",
+    "text": "So if this is India, I would probably think like 40 or 50%."
+  },
+  {
+    "start": 447.0,
+    "end": 452.0,
+    "speaker": "SPEAKER_01",
+    "text": "And in Canada, I don't know, maybe 20% of the population."
+  },
+  {
+    "start": 452.0,
+    "end": 453.0,
+    "speaker": "SPEAKER_00",
+    "text": "Good guess."
+  },
+  {
+    "start": 453.0,
+    "end": 456.0,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, let's just say, let's just say five."
+  },
+  {
+    "start": 456.0,
+    "end": 457.0,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, okay."
+  },
+  {
+    "start": 457.0,
+    "end": 458.0,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 458.0,
+    "end": 460.0,
+    "speaker": "SPEAKER_01",
+    "text": "I'm overshooting with numbers today."
+  },
+  {
+    "start": 460.0,
+    "end": 467.0,
+    "speaker": "SPEAKER_01",
+    "text": "So five is 5% of."
+  },
+  {
+    "start": 467.0,
+    "end": 475.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 475.0,
+    "end": 480.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that's 5% of 30 million is 1.5 million."
+  },
+  {
+    "start": 480.0,
+    "end": 484.0,
+    "speaker": "SPEAKER_01",
+    "text": "So basically, now I have my target population."
+  },
+  {
+    "start": 484.0,
+    "end": 491.0,
+    "speaker": "SPEAKER_01",
+    "text": "So this is a number of asthmatic patients."
+  },
+  {
+    "start": 491.0,
+    "end": 492.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 492.0,
+    "end": 503.0,
+    "speaker": "SPEAKER_01",
+    "text": "Times a number of bottles per patient."
+  },
+  {
+    "start": 503.0,
+    "end": 507.0,
+    "speaker": "SPEAKER_01",
+    "text": "Times price per bottle."
+  },
+  {
+    "start": 507.0,
+    "end": 511.0,
+    "speaker": "SPEAKER_01",
+    "text": "So a number of asthmatic patients is 1.5 million."
+  },
+  {
+    "start": 511.0,
+    "end": 514.0,
+    "speaker": "SPEAKER_01",
+    "text": "The number of bottles per patient."
+  },
+  {
+    "start": 514.0,
+    "end": 516.0,
+    "speaker": "SPEAKER_01",
+    "text": "So every two months, one bottle."
+  },
+  {
+    "start": 516.0,
+    "end": 518.0,
+    "speaker": "SPEAKER_01",
+    "text": "So in 12 months, six bottles."
+  },
+  {
+    "start": 518.0,
+    "end": 526.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that's 1.5 times six times the price per bottle, which is $5."
+  },
+  {
+    "start": 526.0,
+    "end": 530.0,
+    "speaker": "SPEAKER_01",
+    "text": "That's 1.5 times 30."
+  },
+  {
+    "start": 530.0,
+    "end": 536.0,
+    "speaker": "SPEAKER_01",
+    "text": "That's $45 million."
+  },
+  {
+    "start": 536.0,
+    "end": 538.0,
+    "speaker": "SPEAKER_01",
+    "text": "$45 million."
+  },
+  {
+    "start": 538.0,
+    "end": 541.0,
+    "speaker": "SPEAKER_01",
+    "text": "So the total market size is $45 million."
+  },
+  {
+    "start": 541.0,
+    "end": 542.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah."
+  },
+  {
+    "start": 542.0,
+    "end": 544.0,
+    "speaker": "SPEAKER_02",
+    "text": "For this job."
+  },
+  {
+    "start": 544.0,
+    "end": 551.0,
+    "speaker": "SPEAKER_01",
+    "text": "And I'm assuming that our company is not going to capture all of the 1.5 million asthmatic patients."
+  },
+  {
+    "start": 551.0,
+    "end": 554.0,
+    "speaker": "SPEAKER_01",
+    "text": "So do we have any data on the industry trend?"
+  },
+  {
+    "start": 554.0,
+    "end": 555.0,
+    "speaker": "SPEAKER_01",
+    "text": "Like what is the segmentation?"
+  },
+  {
+    "start": 555.0,
+    "end": 556.0,
+    "speaker": "SPEAKER_01",
+    "text": "Like I've already done."
+  },
+  {
+    "start": 556.0,
+    "end": 560.0,
+    "speaker": "SPEAKER_01",
+    "text": "Players, how does our industry stand compared to them?"
+  },
+  {
+    "start": 560.0,
+    "end": 561.0,
+    "speaker": "UNKNOWN",
+    "text": "Yeah."
+  },
+  {
+    "start": 561.0,
+    "end": 562.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 562.0,
+    "end": 563.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 563.0,
+    "end": 564.0,
+    "speaker": "SPEAKER_00",
+    "text": "That's a good way to go."
+  },
+  {
+    "start": 564.0,
+    "end": 569.0,
+    "speaker": "SPEAKER_00",
+    "text": "So before we go there, what do you think about the $45 million market size?"
+  },
+  {
+    "start": 569.0,
+    "end": 573.0,
+    "speaker": "SPEAKER_00",
+    "text": "Does it seem like a lot little?"
+  },
+  {
+    "start": 573.0,
+    "end": 575.0,
+    "speaker": "SPEAKER_01",
+    "text": "I wouldn't say it's negligible."
+  },
+  {
+    "start": 575.0,
+    "end": 579.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think there is a real potential over here."
+  },
+  {
+    "start": 579.0,
+    "end": 584.0,
+    "speaker": "SPEAKER_01",
+    "text": "But again, to make a good assessment, I would also have to understand what the costs are."
+  },
+  {
+    "start": 584.0,
+    "end": 591.0,
+    "speaker": "SPEAKER_01",
+    "text": "And again, what, yeah, I think the cost would give me a better sense of whether this is something they should be excited about."
+  },
+  {
+    "start": 591.0,
+    "end": 592.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 592.0,
+    "end": 593.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 593.0,
+    "end": 594.0,
+    "speaker": "SPEAKER_00",
+    "text": "Makes sense."
+  },
+  {
+    "start": 594.0,
+    "end": 602.0,
+    "speaker": "SPEAKER_00",
+    "text": "So before we go into how much they can capture, like you mentioned, we know that Canada has a single payer system."
+  },
+  {
+    "start": 602.0,
+    "end": 603.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 603.0,
+    "end": 609.0,
+    "speaker": "SPEAKER_00",
+    "text": "So assume for simplicity sake, the government will pay for the drug for those that need it."
+  },
+  {
+    "start": 609.0,
+    "end": 610.0,
+    "speaker": "SPEAKER_00",
+    "text": "All right."
+  },
+  {
+    "start": 610.0,
+    "end": 612.0,
+    "speaker": "SPEAKER_00",
+    "text": "So can you brainstorm for me?"
+  },
+  {
+    "start": 612.0,
+    "end": 619.0,
+    "speaker": "SPEAKER_00",
+    "text": "What are some ways that you would suggest our client negotiates a higher drug price from the government?"
+  },
+  {
+    "start": 619.0,
+    "end": 626.0,
+    "speaker": "UNKNOWN",
+    "text": "So the fact over here that I need to know is that Canada has a single payer system."
+  },
+  {
+    "start": 627.0,
+    "end": 635.0,
+    "speaker": "SPEAKER_01",
+    "text": "So the fact over here that I need to know is that Canada has a single payer system."
+  },
+  {
+    "start": 635.0,
+    "end": 645.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so what that means is that for every patient, so each of these 1.5 million individuals that we have, the government will pay for the drug."
+  },
+  {
+    "start": 645.0,
+    "end": 654.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so now we have to negotiate with the government to make sure that our drug is priced to our advantage."
+  },
+  {
+    "start": 655.0,
+    "end": 656.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 656.0,
+    "end": 657.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 657.0,
+    "end": 658.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 658.0,
+    "end": 663.0,
+    "speaker": "SPEAKER_01",
+    "text": "So let me just take a couple of moments to think about this."
+  },
+  {
+    "start": 663.0,
+    "end": 664.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 664.0,
+    "end": 676.0,
+    "speaker": "SPEAKER_01",
+    "text": "So just three things that I've been able to come up with of the bad are, I think there would be like some sort of convincing and bold in which we really show them the data about the quality of the product."
+  },
+  {
+    "start": 677.0,
+    "end": 686.0,
+    "speaker": "SPEAKER_01",
+    "text": "So you mentioned early on that this is really a breakthrough drug in which people with severe asthma also it alleviates their symptoms."
+  },
+  {
+    "start": 686.0,
+    "end": 693.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I think really emphasizing the value of that the product brings to patients is of importance."
+  },
+  {
+    "start": 693.0,
+    "end": 702.0,
+    "speaker": "SPEAKER_01",
+    "text": "And maybe that will help can just the hard data will have convinced the government that this is worth the price that we ask."
+  },
+  {
+    "start": 702.0,
+    "end": 710.0,
+    "speaker": "SPEAKER_01",
+    "text": "Then I'm thinking, I don't know like if there are other products that this pharmaceutical company makes."
+  },
+  {
+    "start": 710.0,
+    "end": 717.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so if there's some product that we've had in the market for 10 years, we've made a lot of profits from that."
+  },
+  {
+    "start": 717.0,
+    "end": 721.0,
+    "speaker": "SPEAKER_01",
+    "text": "If there's something for that, we can like maybe lower the price for that."
+  },
+  {
+    "start": 721.0,
+    "end": 724.0,
+    "speaker": "SPEAKER_01",
+    "text": "The government is also going to buy that that drug that we have."
+  },
+  {
+    "start": 724.0,
+    "end": 730.0,
+    "speaker": "SPEAKER_01",
+    "text": "So perhaps like looking at other adjacent products that we have and considering like whether we can lower profits for that."
+  },
+  {
+    "start": 731.0,
+    "end": 734.0,
+    "speaker": "SPEAKER_01",
+    "text": "In order to keep prices for this."
+  },
+  {
+    "start": 734.0,
+    "end": 743.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then I don't know if there's some sort of multi your negotiation that we can make with the government like suppose we do have to compromise on the price."
+  },
+  {
+    "start": 743.0,
+    "end": 756.0,
+    "speaker": "SPEAKER_01",
+    "text": "If we can get into a contract in which we're assured that like our drug is maybe like gets a certain sort of spot in the market and continues for several years."
+  },
+  {
+    "start": 756.0,
+    "end": 761.0,
+    "speaker": "SPEAKER_00",
+    "text": "That makes sense. That makes sense. That's a good list. What else can you think of?"
+  },
+  {
+    "start": 761.0,
+    "end": 768.0,
+    "speaker": "SPEAKER_01",
+    "text": "I'm just going to go back to my structure over here."
+  },
+  {
+    "start": 768.0,
+    "end": 776.0,
+    "speaker": "SPEAKER_01",
+    "text": "I guess the other thing that comes to me is that if we could also get government support in reducing our costs."
+  },
+  {
+    "start": 776.0,
+    "end": 779.0,
+    "speaker": "SPEAKER_01",
+    "text": "So whether that's."
+  },
+  {
+    "start": 780.0,
+    "end": 785.0,
+    "speaker": "SPEAKER_01",
+    "text": "If there if the government is concerned with the absolute price that they have to pay."
+  },
+  {
+    "start": 785.0,
+    "end": 791.0,
+    "speaker": "SPEAKER_01",
+    "text": "Then you know, we could still keep our profit margin similar if our costs are reduced."
+  },
+  {
+    "start": 791.0,
+    "end": 803.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I don't know if like there are some policies the government makes that would help reduce costs of raw materials or our supply supply chain networks distribution channels."
+  },
+  {
+    "start": 803.0,
+    "end": 806.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that's another thing."
+  },
+  {
+    "start": 806.0,
+    "end": 814.0,
+    "speaker": "SPEAKER_01",
+    "text": "The government could also help increase overall volume typically when volume increases and price tends to fall."
+  },
+  {
+    "start": 814.0,
+    "end": 824.0,
+    "speaker": "SPEAKER_01",
+    "text": "So if we capture a large share of the 1.5 million 1.5 million customers, as some are patients, then."
+  },
+  {
+    "start": 825.0,
+    "end": 836.0,
+    "speaker": "SPEAKER_01",
+    "text": "With the government's help if like this are help us with the branding and promotion of this perhaps that would also help drive our price down, which would be suitable for the government."
+  },
+  {
+    "start": 836.0,
+    "end": 841.0,
+    "speaker": "SPEAKER_01",
+    "text": "But then it could also help in terms of our overall revenue."
+  },
+  {
+    "start": 841.0,
+    "end": 843.0,
+    "speaker": "SPEAKER_00",
+    "text": "Got it. Got it. Makes sense."
+  },
+  {
+    "start": 843.0,
+    "end": 851.0,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. So, you know, earlier you mentioned, you know, how much of the market would our client be able to capture?"
+  },
+  {
+    "start": 851.0,
+    "end": 858.0,
+    "speaker": "SPEAKER_00",
+    "text": "So after doing market research, the client is considering three different price points for the bottles."
+  },
+  {
+    "start": 858.0,
+    "end": 865.0,
+    "speaker": "SPEAKER_00",
+    "text": "Those three price points are $10, $15 and $20."
+  },
+  {
+    "start": 865.0,
+    "end": 873.0,
+    "speaker": "SPEAKER_00",
+    "text": "At $10, the client anticipates 50% of existing customers will switch to their drug."
+  },
+  {
+    "start": 873.0,
+    "end": 882.0,
+    "speaker": "SPEAKER_00",
+    "text": "So at $15, anticipate 30% and at $20, anticipate 15%."
+  },
+  {
+    "start": 882.0,
+    "end": 887.0,
+    "speaker": "SPEAKER_00",
+    "text": "So purely based off revenues, which price makes the most sense?"
+  },
+  {
+    "start": 887.0,
+    "end": 888.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 888.0,
+    "end": 893.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm just going to again make sure I got all that information."
+  },
+  {
+    "start": 893.0,
+    "end": 896.0,
+    "speaker": "SPEAKER_01",
+    "text": "Our company has come up with three different price structures."
+  },
+  {
+    "start": 896.0,
+    "end": 902.0,
+    "speaker": "SPEAKER_01",
+    "text": "The first is a $10 per bottle. So right now the bottle is priced at $5."
+  },
+  {
+    "start": 902.0,
+    "end": 906.0,
+    "speaker": "SPEAKER_01",
+    "text": "This is just like a generic bottle for asthmatic patients."
+  },
+  {
+    "start": 906.0,
+    "end": 912.0,
+    "speaker": "SPEAKER_01",
+    "text": "So we're considering to sell our product at $10 and so that would be 50% will switch to our product."
+  },
+  {
+    "start": 912.0,
+    "end": 917.0,
+    "speaker": "SPEAKER_01",
+    "text": "$15, 30% customers will switch $20, $15% will switch."
+  },
+  {
+    "start": 917.0,
+    "end": 919.0,
+    "speaker": "SPEAKER_01",
+    "text": "Did I get those numbers right?"
+  },
+  {
+    "start": 919.0,
+    "end": 920.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "start": 920.0,
+    "end": 922.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. All right."
+  },
+  {
+    "start": 922.0,
+    "end": 929.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I need to calculate the revenue for each of these associated with each of these costs."
+  },
+  {
+    "start": 929.0,
+    "end": 932.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so revenue is just price tens volume."
+  },
+  {
+    "start": 932.0,
+    "end": 938.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm just going to go through each price and then calculate the associated volume for it."
+  },
+  {
+    "start": 938.0,
+    "end": 944.0,
+    "speaker": "SPEAKER_01",
+    "text": "So for a $10 price, 50% of customers will switch."
+  },
+  {
+    "start": 944.0,
+    "end": 951.0,
+    "speaker": "SPEAKER_01",
+    "text": "So 50% of 1.5 million is $7.5 million, I think."
+  },
+  {
+    "start": 951.0,
+    "end": 954.0,
+    "speaker": "SPEAKER_01",
+    "text": "So $10 times."
+  },
+  {
+    "start": 954.0,
+    "end": 957.0,
+    "speaker": "SPEAKER_00",
+    "text": "I think you mean $1,750,000."
+  },
+  {
+    "start": 957.0,
+    "end": 959.0,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, sorry. Yeah."
+  },
+  {
+    "start": 959.0,
+    "end": 960.0,
+    "speaker": "SPEAKER_01",
+    "text": "Times."
+  },
+  {
+    "start": 960.0,
+    "end": 968.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. So 750 key."
+  },
+  {
+    "start": 968.0,
+    "end": 976.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that's $7.5 million would be our revenue if we use the $10 pricing strategy."
+  },
+  {
+    "start": 976.0,
+    "end": 979.0,
+    "speaker": "SPEAKER_00",
+    "text": "So what's the thing about that?"
+  },
+  {
+    "start": 979.0,
+    "end": 984.0,
+    "speaker": "SPEAKER_00",
+    "text": "So you have, you got the number of the correct number of patients, right?"
+  },
+  {
+    "start": 984.0,
+    "end": 986.0,
+    "speaker": "SPEAKER_00",
+    "text": "So how much?"
+  },
+  {
+    "start": 986.0,
+    "end": 987.0,
+    "speaker": "SPEAKER_00",
+    "text": "Go ahead."
+  },
+  {
+    "start": 987.0,
+    "end": 988.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I got it."
+  },
+  {
+    "start": 988.0,
+    "end": 992.0,
+    "speaker": "SPEAKER_01",
+    "text": "So sorry, it's $10 per bottle, but we're not selling one bottle."
+  },
+  {
+    "start": 992.0,
+    "end": 995.0,
+    "speaker": "SPEAKER_01",
+    "text": "We're selling six bottles."
+  },
+  {
+    "start": 995.0,
+    "end": 997.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I just have to multiply this by six."
+  },
+  {
+    "start": 997.0,
+    "end": 1002.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that should be above 42, 35."
+  },
+  {
+    "start": 1002.0,
+    "end": 1006.0,
+    "speaker": "SPEAKER_01",
+    "text": "So actually, that's exactly 45 million."
+  },
+  {
+    "start": 1007.0,
+    "end": 1008.0,
+    "speaker": "SPEAKER_01",
+    "text": "Is that right?"
+  },
+  {
+    "start": 1008.0,
+    "end": 1009.0,
+    "speaker": "SPEAKER_01",
+    "text": "OK."
+  },
+  {
+    "start": 1009.0,
+    "end": 1010.0,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 1010.0,
+    "end": 1023.0,
+    "speaker": "SPEAKER_01",
+    "text": "So then for the second $15 times 6, 15 times 6 is the total per customer cost."
+  },
+  {
+    "start": 1023.0,
+    "end": 1032.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so from 1.5 million, we will draw 30 million, sorry, 30% customers."
+  },
+  {
+    "start": 1032.0,
+    "end": 1037.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that is 15 times 6 is 90."
+  },
+  {
+    "start": 1037.0,
+    "end": 1042.0,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, sorry, 15 times 6 is 80."
+  },
+  {
+    "start": 1042.0,
+    "end": 1050.0,
+    "speaker": "SPEAKER_01",
+    "text": "4.5 divided by 10."
+  },
+  {
+    "start": 1050.0,
+    "end": 1058.0,
+    "speaker": "UNKNOWN",
+    "text": "I think this is 36 million."
+  },
+  {
+    "start": 1058.0,
+    "end": 1063.0,
+    "speaker": "SPEAKER_01",
+    "text": "Is that right?"
+  },
+  {
+    "start": 1063.0,
+    "end": 1067.0,
+    "speaker": "SPEAKER_00",
+    "text": "No, you're going to the $15 price point, right?"
+  },
+  {
+    "start": 1067.0,
+    "end": 1068.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1068.0,
+    "end": 1069.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, 15."
+  },
+  {
+    "start": 1069.0,
+    "end": 1073.0,
+    "speaker": "SPEAKER_01",
+    "text": "OK, so sorry, I'll just, I think I might have stood up on the mat."
+  },
+  {
+    "start": 1073.0,
+    "end": 1079.0,
+    "speaker": "SPEAKER_01",
+    "text": "So $15 times 6 is 80."
+  },
+  {
+    "start": 1079.0,
+    "end": 1080.0,
+    "speaker": "SPEAKER_01",
+    "text": "80."
+  },
+  {
+    "start": 1080.0,
+    "end": 1087.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then we're looking at 30% of 1.5 million customers, right?"
+  },
+  {
+    "start": 1087.0,
+    "end": 1092.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so I get 80 times 4.5."
+  },
+  {
+    "start": 1092.0,
+    "end": 1098.0,
+    "speaker": "SPEAKER_01",
+    "text": "I did by 10, 5, 500."
+  },
+  {
+    "start": 1098.0,
+    "end": 1103.0,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, still getting 36 million."
+  },
+  {
+    "start": 1103.0,
+    "end": 1110.0,
+    "speaker": "SPEAKER_01",
+    "text": "So let's back up."
+  },
+  {
+    "start": 1110.0,
+    "end": 1115.0,
+    "speaker": "UNKNOWN",
+    "text": "So you did 15 times 6, right?"
+  },
+  {
+    "start": 1115.0,
+    "end": 1121.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then that times 450K."
+  },
+  {
+    "start": 1121.0,
+    "end": 1124.0,
+    "speaker": "SPEAKER_00",
+    "text": "I didn't calculate the 250K."
+  },
+  {
+    "start": 1124.0,
+    "end": 1128.0,
+    "speaker": "SPEAKER_01",
+    "text": "I just did 310s of 1.5 million."
+  },
+  {
+    "start": 1128.0,
+    "end": 1133.0,
+    "speaker": "SPEAKER_00",
+    "text": "So what would you get for 15 times 6?"
+  },
+  {
+    "start": 1133.0,
+    "end": 1134.0,
+    "speaker": "SPEAKER_01",
+    "text": "80."
+  },
+  {
+    "start": 1134.0,
+    "end": 1142.0,
+    "speaker": "SPEAKER_00",
+    "text": "It should be 90, right?"
+  },
+  {
+    "start": 1142.0,
+    "end": 1146.0,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, whoops, whoops, sorry, 90."
+  },
+  {
+    "start": 1146.0,
+    "end": 1157.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, 90 times 45, 9, 45, 36, 40."
+  },
+  {
+    "start": 1157.0,
+    "end": 1162.0,
+    "speaker": "SPEAKER_01",
+    "text": "So this is 40.5 million."
+  },
+  {
+    "start": 1162.0,
+    "end": 1187.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, 40.5 million."
+  },
+  {
+    "start": 1187.0,
+    "end": 1193.0,
+    "speaker": "SPEAKER_01",
+    "text": "OK, sorry, that took me long for the third-pest and strategy."
+  },
+  {
+    "start": 1193.0,
+    "end": 1196.0,
+    "speaker": "SPEAKER_01",
+    "text": "I have $20 times 6."
+  },
+  {
+    "start": 1196.0,
+    "end": 1205.0,
+    "speaker": "SPEAKER_01",
+    "text": "That's $120 times 15% of 1.5 million."
+  },
+  {
+    "start": 1205.0,
+    "end": 1225.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that's $27 million."
+  },
+  {
+    "start": 1225.0,
+    "end": 1228.0,
+    "speaker": "SPEAKER_01",
+    "text": "That's right."
+  },
+  {
+    "start": 1229.0,
+    "end": 1231.0,
+    "speaker": "SPEAKER_01",
+    "text": "OK, all right."
+  },
+  {
+    "start": 1231.0,
+    "end": 1235.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm just going to put this all together in my head."
+  },
+  {
+    "start": 1235.0,
+    "end": 1238.0,
+    "speaker": "SPEAKER_01",
+    "text": "So for the first pricing strategy, which is $10,"
+  },
+  {
+    "start": 1238.0,
+    "end": 1242.0,
+    "speaker": "SPEAKER_01",
+    "text": "in which we attract 50% customers, our total revenue is $45 million."
+  },
+  {
+    "start": 1242.0,
+    "end": 1247.0,
+    "speaker": "SPEAKER_01",
+    "text": "For the second at $15, our total revenue is $40.5 million."
+  },
+  {
+    "start": 1247.0,
+    "end": 1251.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then for the third at $20, our pricing strategy,"
+  },
+  {
+    "start": 1251.0,
+    "end": 1254.0,
+    "speaker": "SPEAKER_01",
+    "text": "our revenue is $27 million."
+  },
+  {
+    "start": 1254.0,
+    "end": 1257.0,
+    "speaker": "SPEAKER_01",
+    "text": "So just going to absolute numbers."
+  },
+  {
+    "start": 1257.0,
+    "end": 1261.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think the first option, pricing of $10 is best."
+  },
+  {
+    "start": 1261.0,
+    "end": 1266.0,
+    "speaker": "SPEAKER_01",
+    "text": "And also we're capturing a large amount of patience."
+  },
+  {
+    "start": 1266.0,
+    "end": 1267.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that's 50%."
+  },
+  {
+    "start": 1267.0,
+    "end": 1273.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I would suggest that our company goes with the first pricing strategy."
+  },
+  {
+    "start": 1273.0,
+    "end": 1274.0,
+    "speaker": "SPEAKER_00",
+    "text": "Great, great."
+  },
+  {
+    "start": 1274.0,
+    "end": 1277.0,
+    "speaker": "SPEAKER_00",
+    "text": "So what's your recommendation to our client?"
+  },
+  {
+    "start": 1277.0,
+    "end": 1283.0,
+    "speaker": "SPEAKER_01",
+    "text": "My recommendation to the client is that their product is very encouraging"
+  },
+  {
+    "start": 1283.0,
+    "end": 1290.0,
+    "speaker": "SPEAKER_01",
+    "text": "in terms of its impact and that the Canadian market for an"
+  },
+  {
+    "start": 1290.0,
+    "end": 1295.0,
+    "speaker": "SPEAKER_01",
+    "text": "asthmatic drug is substantial $45 million."
+  },
+  {
+    "start": 1295.0,
+    "end": 1299.0,
+    "speaker": "SPEAKER_01",
+    "text": "And they can also use the right pricing strategy."
+  },
+  {
+    "start": 1299.0,
+    "end": 1304.0,
+    "speaker": "SPEAKER_01",
+    "text": "They can attract that level of revenue also."
+  },
+  {
+    "start": 1304.0,
+    "end": 1307.0,
+    "speaker": "SPEAKER_01",
+    "text": "And since this is a single-payer system,"
+  },
+  {
+    "start": 1307.0,
+    "end": 1312.0,
+    "speaker": "SPEAKER_01",
+    "text": "the company will probably have to explore if the government will be OK"
+  },
+  {
+    "start": 1312.0,
+    "end": 1314.0,
+    "speaker": "SPEAKER_01",
+    "text": "with its $10 pricing strategy."
+  },
+  {
+    "start": 1314.0,
+    "end": 1318.0,
+    "speaker": "SPEAKER_01",
+    "text": "And in case it's not, then there are a couple of things that the company can explore,"
+  },
+  {
+    "start": 1318.0,
+    "end": 1324.0,
+    "speaker": "SPEAKER_01",
+    "text": "whether it's in terms of really convincing the government officials in terms of the"
+  },
+  {
+    "start": 1324.0,
+    "end": 1328.0,
+    "speaker": "SPEAKER_01",
+    "text": "quality of the product just to their raw data, given how impactful this drug is."
+  },
+  {
+    "start": 1328.0,
+    "end": 1334.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then also consider other sort of adjacent products that they can potentially use"
+  },
+  {
+    "start": 1334.0,
+    "end": 1339.0,
+    "speaker": "SPEAKER_01",
+    "text": "to offset any sort of reductions in profits for this product."
+  },
+  {
+    "start": 1339.0,
+    "end": 1344.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then also maybe getting to some sort of contract with the government where"
+  },
+  {
+    "start": 1344.0,
+    "end": 1347.0,
+    "speaker": "SPEAKER_01",
+    "text": "again, we can consider the $10 pricing."
+  },
+  {
+    "start": 1347.0,
+    "end": 1353.0,
+    "speaker": "SPEAKER_01",
+    "text": "But overall, a $10 price for this asthmatic drug seems good for capturing"
+  },
+  {
+    "start": 1353.0,
+    "end": 1355.0,
+    "speaker": "SPEAKER_01",
+    "text": "a large amount of the market."
+  },
+  {
+    "start": 1355.0,
+    "end": 1356.0,
+    "speaker": "SPEAKER_00",
+    "text": "Great, great."
+  },
+  {
+    "start": 1356.0,
+    "end": 1357.0,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you."
+  },
+  {
+    "start": 1357.0,
+    "end": 1358.0,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you."
+  },
+  {
+    "start": 1358.0,
+    "end": 1359.0,
+    "speaker": "SPEAKER_00",
+    "text": "All right."
+  },
+  {
+    "start": 1359.0,
+    "end": 1360.0,
+    "speaker": "SPEAKER_00",
+    "text": "We're all done."
+  },
+  {
+    "start": 1360.0,
+    "end": 1365.0,
+    "speaker": "SPEAKER_00",
+    "text": "Any initial thoughts before I go into feedback?"
+  },
+  {
+    "start": 1366.0,
+    "end": 1368.0,
+    "speaker": "SPEAKER_01",
+    "text": "No, it's 15 times 6."
+  },
+  {
+    "start": 1368.0,
+    "end": 1369.0,
+    "speaker": "SPEAKER_01",
+    "text": "I said 90."
+  },
+  {
+    "start": 1369.0,
+    "end": 1372.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then I don't know why I tested 80."
+  },
+  {
+    "start": 1372.0,
+    "end": 1375.0,
+    "speaker": "SPEAKER_01",
+    "text": "So sorry about the silly matter."
+  },
+  {
+    "start": 1375.0,
+    "end": 1376.0,
+    "speaker": "SPEAKER_00",
+    "text": "No, that's all right."
+  },
+  {
+    "start": 1376.0,
+    "end": 1377.0,
+    "speaker": "SPEAKER_00",
+    "text": "It happens."
+  },
+  {
+    "start": 1377.0,
+    "end": 1378.0,
+    "speaker": "SPEAKER_00",
+    "text": "It happens."
+  },
+  {
+    "start": 1378.0,
+    "end": 1380.0,
+    "speaker": "SPEAKER_00",
+    "text": "Going on."
+  },
+  {
+    "start": 1380.0,
+    "end": 1382.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I have one more thing."
+  },
+  {
+    "start": 1382.0,
+    "end": 1387.0,
+    "speaker": "SPEAKER_01",
+    "text": "So usually I know when we're coming up with our structure and after we've come up with it and"
+  },
+  {
+    "start": 1387.0,
+    "end": 1392.0,
+    "speaker": "SPEAKER_01",
+    "text": "describe it, it's usually recommended that you sort of go in a horizontal way"
+  },
+  {
+    "start": 1392.0,
+    "end": 1394.0,
+    "speaker": "SPEAKER_01",
+    "text": "and you describe all your three buckets first."
+  },
+  {
+    "start": 1394.0,
+    "end": 1397.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then you go into each of those factors."
+  },
+  {
+    "start": 1397.0,
+    "end": 1398.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I didn't do it."
+  },
+  {
+    "start": 1398.0,
+    "end": 1400.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think it was just nerves."
+  },
+  {
+    "start": 1400.0,
+    "end": 1403.0,
+    "speaker": "SPEAKER_01",
+    "text": "And I just went into volume without telling you what the other two factors were."
+  },
+  {
+    "start": 1403.0,
+    "end": 1405.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I factor to do it again."
+  },
+  {
+    "start": 1405.0,
+    "end": 1406.0,
+    "speaker": "SPEAKER_01",
+    "text": "I would change that."
+  },
+  {
+    "start": 1406.0,
+    "end": 1412.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then also in terms of your question on, you know, how should the company negotiate"
+  },
+  {
+    "start": 1412.0,
+    "end": 1414.0,
+    "speaker": "SPEAKER_01",
+    "text": "for a higher drug price for the government?"
+  },
+  {
+    "start": 1414.0,
+    "end": 1420.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think my, the things that I suggested were a little weak."
+  },
+  {
+    "start": 1420.0,
+    "end": 1424.0,
+    "speaker": "SPEAKER_01",
+    "text": "But that could be, I'm still developing my business understanding."
+  },
+  {
+    "start": 1424.0,
+    "end": 1429.0,
+    "speaker": "SPEAKER_01",
+    "text": "So in the future, I would like to improve, you know, like when companies are negotiating"
+  },
+  {
+    "start": 1429.0,
+    "end": 1433.0,
+    "speaker": "SPEAKER_01",
+    "text": "with the X party and what are the different things that they should do."
+  },
+  {
+    "start": 1433.0,
+    "end": 1434.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1434.0,
+    "end": 1435.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1435.0,
+    "end": 1436.0,
+    "speaker": "SPEAKER_00",
+    "text": "No, those are two great call outs."
+  },
+  {
+    "start": 1436.0,
+    "end": 1439.0,
+    "speaker": "SPEAKER_00",
+    "text": "And I have those in my notes here as well."
+  },
+  {
+    "start": 1439.0,
+    "end": 1442.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, you know, so I'm from the top, your recap."
+  },
+  {
+    "start": 1442.0,
+    "end": 1444.0,
+    "speaker": "SPEAKER_00",
+    "text": "I thought it was good."
+  },
+  {
+    "start": 1444.0,
+    "end": 1446.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, feel free to continue to push on making it your own."
+  },
+  {
+    "start": 1446.0,
+    "end": 1454.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, like in 100% your own words, don't be afraid to, you know, speak it back"
+  },
+  {
+    "start": 1454.0,
+    "end": 1459.0,
+    "speaker": "SPEAKER_00",
+    "text": "and decadence and flow that you normally use in regular conversation."
+  },
+  {
+    "start": 1459.0,
+    "end": 1464.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, next we want to clarify in questions."
+  },
+  {
+    "start": 1464.0,
+    "end": 1473.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, clarifying questions, this was something I struggled with a lot when I was preparing for interviews."
+  },
+  {
+    "start": 1473.0,
+    "end": 1483.0,
+    "speaker": "SPEAKER_00",
+    "text": "There's a framework that I used to think of clarifying questions because it's a very, you know, odd thing."
+  },
+  {
+    "start": 1483.0,
+    "end": 1485.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, you don't want to ask for too much data."
+  },
+  {
+    "start": 1485.0,
+    "end": 1488.0,
+    "speaker": "SPEAKER_00",
+    "text": "You don't want to just like jump right in and ask for too little."
+  },
+  {
+    "start": 1488.0,
+    "end": 1490.0,
+    "speaker": "SPEAKER_00",
+    "text": "You want to make sure you hit the right balance."
+  },
+  {
+    "start": 1490.0,
+    "end": 1495.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, you know, in general, you shouldn't really be asking more than three approximately."
+  },
+  {
+    "start": 1495.0,
+    "end": 1500.0,
+    "speaker": "SPEAKER_00",
+    "text": "If you find that you're asking a ton more than that, then you're asking the wrong things."
+  },
+  {
+    "start": 1500.0,
+    "end": 1503.0,
+    "speaker": "SPEAKER_00",
+    "text": "Where are you going into too much detail?"
+  },
+  {
+    "start": 1503.0,
+    "end": 1505.0,
+    "speaker": "SPEAKER_00",
+    "text": "I thought yours were generally good."
+  },
+  {
+    "start": 1505.0,
+    "end": 1511.0,
+    "speaker": "SPEAKER_00",
+    "text": "One little one you asked about the location, you know, where they were selling and that was said in the prompt."
+  },
+  {
+    "start": 1511.0,
+    "end": 1514.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, just be careful with stuff like that."
+  },
+  {
+    "start": 1514.0,
+    "end": 1517.0,
+    "speaker": "SPEAKER_00",
+    "text": "Like Canada was talked about in the prompt."
+  },
+  {
+    "start": 1517.0,
+    "end": 1521.0,
+    "speaker": "SPEAKER_00",
+    "text": "But, you know, the framework for clarifying questions that I usually use is one."
+  },
+  {
+    "start": 1521.0,
+    "end": 1524.0,
+    "speaker": "SPEAKER_00",
+    "text": "Understand how the client, you know, makes their money, right?"
+  },
+  {
+    "start": 1524.0,
+    "end": 1530.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so, that doesn't always have to be framed as, you know, how do they make money or what do they sell?"
+  },
+  {
+    "start": 1530.0,
+    "end": 1533.0,
+    "speaker": "SPEAKER_00",
+    "text": "It can be framed as an assumption, right?"
+  },
+  {
+    "start": 1533.0,
+    "end": 1538.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, when you think of a pharmaceutical company, you can say, okay, I think of, you know, flies really have multiple drugs."
+  },
+  {
+    "start": 1538.0,
+    "end": 1542.0,
+    "speaker": "SPEAKER_00",
+    "text": "And, you know, they're used to doing this, you know."
+  },
+  {
+    "start": 1542.0,
+    "end": 1544.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then I say, yes or no."
+  },
+  {
+    "start": 1544.0,
+    "end": 1547.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then that way, you know, you have a good idea of what the company actually is."
+  },
+  {
+    "start": 1547.0,
+    "end": 1550.0,
+    "speaker": "SPEAKER_00",
+    "text": "The second is their goal, right?"
+  },
+  {
+    "start": 1550.0,
+    "end": 1555.0,
+    "speaker": "SPEAKER_00",
+    "text": "What are they looking to do? Like, what are you driving toward in the case?"
+  },
+  {
+    "start": 1555.0,
+    "end": 1563.0,
+    "speaker": "SPEAKER_00",
+    "text": "That's crucial because, especially like in the actual job, there's a million different ways you could go in any case."
+  },
+  {
+    "start": 1563.0,
+    "end": 1565.0,
+    "speaker": "SPEAKER_00",
+    "text": "The only thing that really guides you is what the end goal is."
+  },
+  {
+    "start": 1565.0,
+    "end": 1568.0,
+    "speaker": "SPEAKER_00",
+    "text": "And making sure you're marching towards something as the case goes on."
+  },
+  {
+    "start": 1568.0,
+    "end": 1574.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then the third clarifying question can pretty much be anything that you need clarification on."
+  },
+  {
+    "start": 1574.0,
+    "end": 1578.0,
+    "speaker": "SPEAKER_00",
+    "text": "That differs case by case, right?"
+  },
+  {
+    "start": 1578.0,
+    "end": 1581.0,
+    "speaker": "SPEAKER_00",
+    "text": "So that's kind of like the framework I use to think of clarifying questions."
+  },
+  {
+    "start": 1581.0,
+    "end": 1589.0,
+    "speaker": "SPEAKER_00",
+    "text": "And, you know, there's some leeway depending on the case, but that's generally how I think about it."
+  },
+  {
+    "start": 1589.0,
+    "end": 1594.0,
+    "speaker": "SPEAKER_00",
+    "text": "After that went to the framework."
+  },
+  {
+    "start": 1594.0,
+    "end": 1597.0,
+    "speaker": "SPEAKER_00",
+    "text": "Your timing was pretty good."
+  },
+  {
+    "start": 1597.0,
+    "end": 1600.0,
+    "speaker": "SPEAKER_00",
+    "text": "It was just a tad long, maybe just by like 15 seconds."
+  },
+  {
+    "start": 1600.0,
+    "end": 1603.0,
+    "speaker": "SPEAKER_00",
+    "text": "There's just a little bit over the two and a half minute mark."
+  },
+  {
+    "start": 1603.0,
+    "end": 1606.0,
+    "speaker": "SPEAKER_00",
+    "text": "But, you know, with, I know this is probably your seventh live case."
+  },
+  {
+    "start": 1606.0,
+    "end": 1608.0,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm not worried about the timing, you know, whatsoever."
+  },
+  {
+    "start": 1608.0,
+    "end": 1612.0,
+    "speaker": "SPEAKER_00",
+    "text": "I think you'll be totally fine on that."
+  },
+  {
+    "start": 1612.0,
+    "end": 1622.0,
+    "speaker": "SPEAKER_00",
+    "text": "You're right in mentioning calling out the three buckets first because the way I have your framework written here,"
+  },
+  {
+    "start": 1622.0,
+    "end": 1627.0,
+    "speaker": "SPEAKER_00",
+    "text": "I missed the transition between like market size and volume, right?"
+  },
+  {
+    "start": 1627.0,
+    "end": 1638.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so, you know, that's really important, especially in the virtual world because you want to paint the picture in the interviewer's mind that your framework is structured."
+  },
+  {
+    "start": 1638.0,
+    "end": 1645.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? You don't want to take that chance that they think you're not having, you're not going about it in a structured way."
+  },
+  {
+    "start": 1645.0,
+    "end": 1651.0,
+    "speaker": "SPEAKER_00",
+    "text": "That being said, you know, the content of your framework, it was robust."
+  },
+  {
+    "start": 1651.0,
+    "end": 1655.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, like you talk through a lot of detail, which is really good."
+  },
+  {
+    "start": 1655.0,
+    "end": 1661.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, I'm sure by now we're one on the call has heard the term, Misi before."
+  },
+  {
+    "start": 1661.0,
+    "end": 1665.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? So, you know, mutually exclusive collective exhaustive."
+  },
+  {
+    "start": 1665.0,
+    "end": 1672.0,
+    "speaker": "SPEAKER_00",
+    "text": "There's, in my opinion, too much emphasis on the first two, the mutually exclusive piece."
+  },
+  {
+    "start": 1672.0,
+    "end": 1678.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? And so, like people focus on, you know, having their buckets being, you know, independent and overlapped."
+  },
+  {
+    "start": 1678.0,
+    "end": 1684.0,
+    "speaker": "SPEAKER_00",
+    "text": "But the thing that really makes the biggest difference, you know, like the mutually exclusive, please, that's table stakes."
+  },
+  {
+    "start": 1684.0,
+    "end": 1688.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? Like you learn that and then like, you know, keep doing your framework."
+  },
+  {
+    "start": 1688.0,
+    "end": 1691.0,
+    "speaker": "SPEAKER_00",
+    "text": "But a lot of people don't focus on the collective exhaustive piece."
+  },
+  {
+    "start": 1691.0,
+    "end": 1699.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so, getting down to granular level of insight and making the framework really tailored to the problem happens in the content there."
+  },
+  {
+    "start": 1699.0,
+    "end": 1701.0,
+    "speaker": "SPEAKER_00",
+    "text": "And you did a good job of that."
+  },
+  {
+    "start": 1701.0,
+    "end": 1705.0,
+    "speaker": "SPEAKER_00",
+    "text": "I think there's a couple things that I would have added."
+  },
+  {
+    "start": 1705.0,
+    "end": 1710.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, I think, you know, things like regulation is a really big piece here."
+  },
+  {
+    "start": 1710.0,
+    "end": 1715.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? Like, it's, you know, your main factor in the drug and, you know, prescription drug at that."
+  },
+  {
+    "start": 1715.0,
+    "end": 1720.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, you need to have a really good understanding of, you know, the regulation, maybe how that could change over time."
+  },
+  {
+    "start": 1720.0,
+    "end": 1723.0,
+    "speaker": "SPEAKER_00",
+    "text": "Any, you know, pending legislation, recent legislation."
+  },
+  {
+    "start": 1723.0,
+    "end": 1729.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, and then another thing that could have been good to mention was, you know, what's the lifetime of this patent?"
+  },
+  {
+    "start": 1729.0,
+    "end": 1734.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, like in the, in the U.S., we have a certain way of, you know, you hold the patent for, I think it's, you know, 20 years."
+  },
+  {
+    "start": 1734.0,
+    "end": 1736.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then, you know, generic's coming to the market."
+  },
+  {
+    "start": 1736.0,
+    "end": 1746.0,
+    "speaker": "SPEAKER_00",
+    "text": "How are they thinking about that or how does that kind of got their pricing decision while they're the only ones presumably that can make this drug?"
+  },
+  {
+    "start": 1746.0,
+    "end": 1751.0,
+    "speaker": "SPEAKER_00",
+    "text": "Does that make sense? Any questions on that? Okay."
+  },
+  {
+    "start": 1751.0,
+    "end": 1753.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I think regulatory is big."
+  },
+  {
+    "start": 1753.0,
+    "end": 1758.0,
+    "speaker": "SPEAKER_01",
+    "text": "I'm, I'm in biology, so I understand how important so that."
+  },
+  {
+    "start": 1758.0,
+    "end": 1760.0,
+    "speaker": "SPEAKER_01",
+    "text": "And again, I missed it."
+  },
+  {
+    "start": 1760.0,
+    "end": 1766.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, yeah, I mean, I'm, I'll go, I mean, like I said, I thought your, your framework was robust."
+  },
+  {
+    "start": 1766.0,
+    "end": 1771.0,
+    "speaker": "SPEAKER_00",
+    "text": "I'm looking through to see if there's anything else I would, I would add."
+  },
+  {
+    "start": 1771.0,
+    "end": 1786.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, one, one other thing, and this is, this is, you know, a little bit, you know, nitpicky, but one thing I like to add, especially in cases like this, are any, you know, not competing as much drugs, but any, you know, replacement therapies."
+  },
+  {
+    "start": 1786.0,
+    "end": 1799.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? So like anything that someone may, you know, if they're not choosing between this drug and then, you know, three other competitors, are there any other options outside of that realm that could be considered or, you know, that, that the client should be aware of."
+  },
+  {
+    "start": 1799.0,
+    "end": 1807.0,
+    "speaker": "SPEAKER_00",
+    "text": "But that's, that's probably the last thing I would mention on that."
+  },
+  {
+    "start": 1807.0,
+    "end": 1815.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, after that, you know, your first step after the framework going into the market size and the exercise is really good, you know, very, very logical."
+  },
+  {
+    "start": 1815.0,
+    "end": 1817.0,
+    "speaker": "SPEAKER_00",
+    "text": "You're very clear about it."
+  },
+  {
+    "start": 1817.0,
+    "end": 1820.0,
+    "speaker": "SPEAKER_00",
+    "text": "Say did really well."
+  },
+  {
+    "start": 1820.0,
+    "end": 1824.0,
+    "speaker": "SPEAKER_00",
+    "text": "I want to say, you know, your general demeanor drive the case was excellent."
+  },
+  {
+    "start": 1824.0,
+    "end": 1829.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, like I don't want, you know, it's not all about the skills, right?"
+  },
+  {
+    "start": 1829.0,
+    "end": 1836.0,
+    "speaker": "SPEAKER_00",
+    "text": "I mean, when they're interviewing you, they're definitely seeing if, you know, they would like to be, you know, working with you for, however many hours,"
+  },
+  {
+    "start": 1836.0,
+    "end": 1845.0,
+    "speaker": "SPEAKER_00",
+    "text": "a day or whatever it may be. And so your general demeanor, it was, you know, very, you know, seemed very comfortable, very friendly."
+  },
+  {
+    "start": 1845.0,
+    "end": 1851.0,
+    "speaker": "SPEAKER_00",
+    "text": "It was really good throughout the whole case, you know, even during, you know, the, the math mistake or two that was made."
+  },
+  {
+    "start": 1851.0,
+    "end": 1855.0,
+    "speaker": "SPEAKER_00",
+    "text": "So I really want to highlight that because that's hugely, hugely important."
+  },
+  {
+    "start": 1855.0,
+    "end": 1862.0,
+    "speaker": "SPEAKER_00",
+    "text": "The other great thing you did when we moved to the, to the first map piece is you framed up what you wanted to do before diving in."
+  },
+  {
+    "start": 1862.0,
+    "end": 1868.0,
+    "speaker": "SPEAKER_00",
+    "text": "You talked clearly about how you would estimate the market for the Zazma drug in Canada itself."
+  },
+  {
+    "start": 1868.0,
+    "end": 1875.0,
+    "speaker": "SPEAKER_00",
+    "text": "And it doesn't matter that, you know, you didn't, I actually, I don't know if 30 million is the right population."
+  },
+  {
+    "start": 1875.0,
+    "end": 1876.0,
+    "speaker": "SPEAKER_00",
+    "text": "Can it just set it in the case?"
+  },
+  {
+    "start": 1876.0,
+    "end": 1883.0,
+    "speaker": "SPEAKER_00",
+    "text": "So it doesn't matter that, you know, you guessed, you know, whatever it was that you, you know, that you guess it was all very logical."
+  },
+  {
+    "start": 1883.0,
+    "end": 1886.0,
+    "speaker": "SPEAKER_00",
+    "text": "You, you structured the problem really well, all that sort of stuff."
+  },
+  {
+    "start": 1886.0,
+    "end": 1889.0,
+    "speaker": "SPEAKER_00",
+    "text": "So that was a really, really good job."
+  },
+  {
+    "start": 1889.0,
+    "end": 1895.0,
+    "speaker": "SPEAKER_00",
+    "text": "And it was good having that initial opinion on the population of Canada."
+  },
+  {
+    "start": 1895.0,
+    "end": 1902.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, you didn't just kind of say like, well, what is it? You made a guess. And not only that, you backed it up with some reasoning."
+  },
+  {
+    "start": 1902.0,
+    "end": 1903.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 1903.0,
+    "end": 1909.0,
+    "speaker": "SPEAKER_00",
+    "text": "I would have liked to have done that on the, you know, like without being prompted on the asthmatic portion."
+  },
+  {
+    "start": 1909.0,
+    "end": 1914.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, because I asked like, what do you think, like, what do you think the rate is of asthmatic Canada?"
+  },
+  {
+    "start": 1914.0,
+    "end": 1926.0,
+    "speaker": "SPEAKER_00",
+    "text": "So if you had just gone from, you know, I think the population of Canada's X and then going to that as mad at peace, you know, like I'm based on, you know, like I think I thought the, the call to India was great."
+  },
+  {
+    "start": 1926.0,
+    "end": 1929.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, if you had like gone that through that flu, that would have been perfect."
+  },
+  {
+    "start": 1929.0,
+    "end": 1930.0,
+    "speaker": "SPEAKER_00",
+    "text": "I would have been absolutely perfect."
+  },
+  {
+    "start": 1930.0,
+    "end": 1933.0,
+    "speaker": "SPEAKER_00",
+    "text": "But all in all, you did really well on that."
+  },
+  {
+    "start": 1933.0,
+    "end": 1937.0,
+    "speaker": "SPEAKER_00",
+    "text": "I would work on, you know, talking through the math a little bit."
+  },
+  {
+    "start": 1937.0,
+    "end": 1939.0,
+    "speaker": "SPEAKER_00",
+    "text": "There were a couple of silences there."
+  },
+  {
+    "start": 1939.0,
+    "end": 1941.0,
+    "speaker": "SPEAKER_00",
+    "text": "It was a tad too long."
+  },
+  {
+    "start": 1941.0,
+    "end": 1948.0,
+    "speaker": "SPEAKER_00",
+    "text": "And it was when you were doing calculations, you know, it feels very odd to talk through math calculations."
+  },
+  {
+    "start": 1948.0,
+    "end": 1952.0,
+    "speaker": "SPEAKER_00",
+    "text": "It was something that I struggled with, mightily."
+  },
+  {
+    "start": 1952.0,
+    "end": 1958.0,
+    "speaker": "SPEAKER_00",
+    "text": "But even just giving context to the interviewer about, you know, what you're multiplying and what you get and stuff like that."
+  },
+  {
+    "start": 1958.0,
+    "end": 1968.0,
+    "speaker": "SPEAKER_00",
+    "text": "It also helps guard against some, some mistakes occasionally, because the interviewer can kind of catch if, you know, you're off by zero or something along, along those lines."
+  },
+  {
+    "start": 1968.0,
+    "end": 1979.0,
+    "speaker": "SPEAKER_00",
+    "text": "So finally, on the first math piece, it's important to always have an opinion on, you know, the answers you get in the work you do."
+  },
+  {
+    "start": 1979.0,
+    "end": 1988.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, you know, when you got the $45 million size of the market, it's okay to have, you know, an opinion about that."
+  },
+  {
+    "start": 1988.0,
+    "end": 1991.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, that's part of being, you know, kind of hypothesis driven."
+  },
+  {
+    "start": 1991.0,
+    "end": 1994.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? Like you can say, like, oh, the field's big."
+  },
+  {
+    "start": 1994.0,
+    "end": 1997.0,
+    "speaker": "SPEAKER_00",
+    "text": "It feels small. It doesn't really matter if you're right or wrong."
+  },
+  {
+    "start": 1997.0,
+    "end": 2000.0,
+    "speaker": "SPEAKER_00",
+    "text": "It's just your gut reaction to it, you know, when that's something they expect on the job as well."
+  },
+  {
+    "start": 2000.0,
+    "end": 2003.0,
+    "speaker": "SPEAKER_00",
+    "text": "So you don't always have an opinion on your work."
+  },
+  {
+    "start": 2003.0,
+    "end": 2015.0,
+    "speaker": "SPEAKER_00",
+    "text": "It doesn't, it being accurate. I mean, like you go to prove that later, but just knowing that you formulated some sort of thought and like critical thinking around, around what you got."
+  },
+  {
+    "start": 2015.0,
+    "end": 2018.0,
+    "speaker": "SPEAKER_00",
+    "text": "After that, we moved into the brainstorm."
+  },
+  {
+    "start": 2018.0,
+    "end": 2025.0,
+    "speaker": "SPEAKER_00",
+    "text": "I've got to say this is, this was a really tough brainstorm. It was really, really difficult."
+  },
+  {
+    "start": 2025.0,
+    "end": 2030.0,
+    "speaker": "SPEAKER_00",
+    "text": "But with brainstorms, you know, you want to be as structured as possible."
+  },
+  {
+    "start": 2030.0,
+    "end": 2037.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? So generally you bucket into two buckets, you know, like structuring the brainstorm is more like checking a box."
+  },
+  {
+    "start": 2037.0,
+    "end": 2047.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? You know, they're, what you name, your buckets and your brainstorm is not going to be evaluated as heavily as what you say in the brainstorm."
+  },
+  {
+    "start": 2047.0,
+    "end": 2056.0,
+    "speaker": "SPEAKER_00",
+    "text": "So in this particular case, the example they have here is bucketing into, you know, cost saving and life saving."
+  },
+  {
+    "start": 2056.0,
+    "end": 2065.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? So on the cost saving side, you can save the government money by having a drug that's so much more effective than what's currently in the market."
+  },
+  {
+    "start": 2065.0,
+    "end": 2070.0,
+    "speaker": "SPEAKER_00",
+    "text": "On the life saving side, you know, there are, you know, people who unfortunately die from asthma attacks."
+  },
+  {
+    "start": 2070.0,
+    "end": 2080.0,
+    "speaker": "SPEAKER_00",
+    "text": "And hopefully this drug can help save lives, you know, those are two great reasons to ask for a higher price."
+  },
+  {
+    "start": 2080.0,
+    "end": 2086.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? So, you know, the way to go about the brainstorm, this is to say, you know, I'm thinking about this in two ways."
+  },
+  {
+    "start": 2086.0,
+    "end": 2090.0,
+    "speaker": "SPEAKER_00",
+    "text": "In the first bucket, in the second bucket, and then go back and fill in those buckets."
+  },
+  {
+    "start": 2090.0,
+    "end": 2098.0,
+    "speaker": "SPEAKER_00",
+    "text": "You want to have kind of three to four creative ideas in each bucket, if possible."
+  },
+  {
+    "start": 2098.0,
+    "end": 2102.0,
+    "speaker": "SPEAKER_00",
+    "text": "And just looking back at my notes to see if there's anything else."
+  },
+  {
+    "start": 2102.0,
+    "end": 2112.0,
+    "speaker": "SPEAKER_00",
+    "text": "You said some really good things there, you know, like the multi-year negotiation was excellent."
+  },
+  {
+    "start": 2112.0,
+    "end": 2120.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, one thing towards the end, and this usually happens, you know, when you ask someone, you know, what else?"
+  },
+  {
+    "start": 2120.0,
+    "end": 2125.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, because that's kind of like anxiety-inducing, you know, like a lot of people make mistakes after you ask that."
+  },
+  {
+    "start": 2125.0,
+    "end": 2128.0,
+    "speaker": "SPEAKER_00",
+    "text": "But you mentioned volume, which isn't a bad thing to mention."
+  },
+  {
+    "start": 2128.0,
+    "end": 2136.0,
+    "speaker": "SPEAKER_00",
+    "text": "But in relation to volume, you mentioned actually a lower price, talking about decreasing the price when the question was about how to increase it."
+  },
+  {
+    "start": 2136.0,
+    "end": 2142.0,
+    "speaker": "SPEAKER_00",
+    "text": "Right? Now, what your caveat around revenue wasn't bad, you know."
+  },
+  {
+    "start": 2142.0,
+    "end": 2148.0,
+    "speaker": "SPEAKER_00",
+    "text": "But I would have maybe one, if you could think of something else, I would have said something else."
+  },
+  {
+    "start": 2148.0,
+    "end": 2157.0,
+    "speaker": "SPEAKER_00",
+    "text": "But I would have called out that, that caveat first to make it known to the interviewer that like, hey, this isn't exactly what you're asking."
+  },
+  {
+    "start": 2157.0,
+    "end": 2163.0,
+    "speaker": "SPEAKER_00",
+    "text": "But it can be a consideration."
+  },
+  {
+    "start": 2163.0,
+    "end": 2166.0,
+    "speaker": "SPEAKER_00",
+    "text": "Any questions about brainstorm?"
+  },
+  {
+    "start": 2166.0,
+    "end": 2171.0,
+    "speaker": "SPEAKER_01",
+    "text": "No, I haven't talked about brainstorming so far in structured buckets."
+  },
+  {
+    "start": 2171.0,
+    "end": 2175.0,
+    "speaker": "SPEAKER_01",
+    "text": "I've only thought of that in terms of the initial remote that we set out."
+  },
+  {
+    "start": 2175.0,
+    "end": 2178.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that's very useful to know."
+  },
+  {
+    "start": 2178.0,
+    "end": 2182.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, yeah. And also, you know, when it comes to the brainstorm, I guess that this is a tough one."
+  },
+  {
+    "start": 2182.0,
+    "end": 2185.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so the structure here was difficult, you know, cost saving and life saving."
+  },
+  {
+    "start": 2185.0,
+    "end": 2187.0,
+    "speaker": "SPEAKER_00",
+    "text": "And that's just one way to do it."
+  },
+  {
+    "start": 2187.0,
+    "end": 2194.0,
+    "speaker": "SPEAKER_00",
+    "text": "But also don't be afraid, you know, to use like a very kind of, you know, internal external type of framework in a brainstorm."
+  },
+  {
+    "start": 2194.0,
+    "end": 2197.0,
+    "speaker": "SPEAKER_00",
+    "text": "The most important thing is that you get to very creative ideas. Right?"
+  },
+  {
+    "start": 2197.0,
+    "end": 2204.0,
+    "speaker": "SPEAKER_00",
+    "text": "That's the timing you can really add value to your case because you can say something that the interviewer has never heard before."
+  },
+  {
+    "start": 2204.0,
+    "end": 2206.0,
+    "speaker": "SPEAKER_00",
+    "text": "And that's a good way to make an impression."
+  },
+  {
+    "start": 2206.0,
+    "end": 2210.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, you can only be so fast on the map and there's a right answer to the math."
+  },
+  {
+    "start": 2210.0,
+    "end": 2214.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, I mean, there's not a ton of upside there."
+  },
+  {
+    "start": 2214.0,
+    "end": 2217.0,
+    "speaker": "SPEAKER_00",
+    "text": "It's more downside to, you know, because you can make mistakes."
+  },
+  {
+    "start": 2217.0,
+    "end": 2219.0,
+    "speaker": "SPEAKER_00",
+    "text": "But with brainstorming, there's so much upside there."
+  },
+  {
+    "start": 2219.0,
+    "end": 2225.0,
+    "speaker": "SPEAKER_00",
+    "text": "So it's a very, very important piece of the case that is also sometimes overlooked."
+  },
+  {
+    "start": 2225.0,
+    "end": 2231.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then we move into the second step of the math."
+  },
+  {
+    "start": 2231.0,
+    "end": 2241.0,
+    "speaker": "SPEAKER_00",
+    "text": "And it seems like you have good organization because you were able to recall the numbers from the previous math section, like pretty easily."
+  },
+  {
+    "start": 2241.0,
+    "end": 2245.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, organization is a big thing when you're, you know, writing it down and all that."
+  },
+  {
+    "start": 2245.0,
+    "end": 2248.0,
+    "speaker": "SPEAKER_00",
+    "text": "Like, I want to emphasize, you know, organize the math."
+  },
+  {
+    "start": 2248.0,
+    "end": 2254.0,
+    "speaker": "SPEAKER_00",
+    "text": "No, maybe you'll organize some tables, but you never know you're going to have to recall something."
+  },
+  {
+    "start": 2254.0,
+    "end": 2259.0,
+    "speaker": "SPEAKER_00",
+    "text": "One thing is, you know, be very, you know, be confident in your math answers."
+  },
+  {
+    "start": 2259.0,
+    "end": 2265.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, if you feel like, you know, they're not right, you know, take another second or two to double check."
+  },
+  {
+    "start": 2265.0,
+    "end": 2273.0,
+    "speaker": "SPEAKER_00",
+    "text": "But, you know, when you got the first answer, which was 45 million for the $10 price point, you frame the 45 million, like as a question."
+  },
+  {
+    "start": 2273.0,
+    "end": 2277.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, and so, you know, but you were right the whole time."
+  },
+  {
+    "start": 2277.0,
+    "end": 2280.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, so, you know, be confident in your math answers."
+  },
+  {
+    "start": 2280.0,
+    "end": 2293.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, if you, if that's like a point of contention, then, you know, take the extra time you need, you know, whether in normally it's only a couple of seconds to really feel comfortable in what you're saying."
+  },
+  {
+    "start": 2293.0,
+    "end": 2304.0,
+    "speaker": "SPEAKER_00",
+    "text": "I like that you were getting exact numbers. I would not round ever unless you're prompted by the interviewer because some interviewers look at that as taking shortcuts."
+  },
+  {
+    "start": 2304.0,
+    "end": 2310.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, what you can do is say, you know, oh, you know, ballpark, it'll be this figure, but I'll get the exact answer."
+  },
+  {
+    "start": 2310.0,
+    "end": 2316.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, that's when they can tell you you can round or something, but I wouldn't assume that you can round."
+  },
+  {
+    "start": 2316.0,
+    "end": 2321.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then, you know, we went to, after that, we got into the recommendation."
+  },
+  {
+    "start": 2321.0,
+    "end": 2324.0,
+    "speaker": "SPEAKER_00",
+    "text": "Overall, you had all the, all the good components."
+  },
+  {
+    "start": 2324.0,
+    "end": 2328.0,
+    "speaker": "SPEAKER_00",
+    "text": "You want your recommendation to be, you know, very confident and succinct."
+  },
+  {
+    "start": 2328.0,
+    "end": 2332.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so, I think about the recommendation of four pieces."
+  },
+  {
+    "start": 2332.0,
+    "end": 2336.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then, you know, the recommendation is the decision, right? Like, what's the answer to the question?"
+  },
+  {
+    "start": 2336.0,
+    "end": 2341.0,
+    "speaker": "SPEAKER_00",
+    "text": "In this case, it would be, you know, the client should end the market at the $10 price point, you know, for the new Asmr group."
+  },
+  {
+    "start": 2341.0,
+    "end": 2344.0,
+    "speaker": "SPEAKER_00",
+    "text": "Second, is a support for it."
+  },
+  {
+    "start": 2344.0,
+    "end": 2353.0,
+    "speaker": "SPEAKER_00",
+    "text": "You know, you know, $45 million potential if they get 50% of the current, you know, Asmr customers."
+  },
+  {
+    "start": 2353.0,
+    "end": 2358.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then, you, you want to go into risks, you know, you mentioned some good risks in a while you were going through it."
+  },
+  {
+    "start": 2358.0,
+    "end": 2361.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then, you want to finish out with next steps."
+  },
+  {
+    "start": 2361.0,
+    "end": 2364.0,
+    "speaker": "SPEAKER_00",
+    "text": "All right, you want to go through those four things, you know, succinctly, confidently."
+  },
+  {
+    "start": 2364.0,
+    "end": 2376.0,
+    "speaker": "SPEAKER_00",
+    "text": "And, you know, you don't want your recommendation to ram along because quite frankly, you know, 99% of the time by the time you get to the recommendation, they've seen enough to, to make a judgment on one of your candidacy."
+  },
+  {
+    "start": 2376.0,
+    "end": 2381.0,
+    "speaker": "SPEAKER_00",
+    "text": "So, you don't want to draw it out any longer than it needs to be."
+  },
+  {
+    "start": 2381.0,
+    "end": 2384.0,
+    "speaker": "SPEAKER_00",
+    "text": "But overall, good job."
+  },
+  {
+    "start": 2384.0,
+    "end": 2387.0,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you for picking me for what I was extremely nervous."
+  },
+  {
+    "start": 2387.0,
+    "end": 2389.0,
+    "speaker": "SPEAKER_01",
+    "text": "It's all right."
+  },
+  {
+    "start": 2389.0,
+    "end": 2390.0,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you, Deca."
+  }
+]

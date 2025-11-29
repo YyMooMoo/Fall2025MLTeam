@@ -1,0 +1,1506 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 9.6,
+      "speaker": "SPEAKER_01",
+      "text": "Hi everyone, my name is Taras and today I'll be taking the role of an interview."
+    },
+    {
+      "start": 9.6,
+      "end": 14.200000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Hi everyone, my name is Guy Treet, today I'm going to be playing the role of an interviewer."
+    },
+    {
+      "start": 14.200000000000001,
+      "end": 17.8,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to run a classic case interview for you."
+    },
+    {
+      "start": 17.8,
+      "end": 19.8,
+      "speaker": "SPEAKER_01",
+      "text": "The structure is very simple."
+    },
+    {
+      "start": 19.8,
+      "end": 23.8,
+      "speaker": "SPEAKER_01",
+      "text": "Our lovely interviewer is going to read the prompt."
+    },
+    {
+      "start": 23.8,
+      "end": 26.8,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to ask a few clarifying questions."
+    },
+    {
+      "start": 26.8,
+      "end": 31.8,
+      "speaker": "SPEAKER_01",
+      "text": "Take a couple of minutes to structure my thoughts and present a case interview framework"
+    },
+    {
+      "start": 31.8,
+      "end": 33.8,
+      "speaker": "SPEAKER_01",
+      "text": "for the first main question."
+    },
+    {
+      "start": 33.8,
+      "end": 39.4,
+      "speaker": "SPEAKER_01",
+      "text": "Then Guy Treet is going to run a few follow-up questions which I'll be expected to solve"
+    },
+    {
+      "start": 39.4,
+      "end": 45.08,
+      "speaker": "SPEAKER_01",
+      "text": "on the spot and we'll conclude with a summary and final recommendations for this particular"
+    },
+    {
+      "start": 45.08,
+      "end": 46.08,
+      "speaker": "SPEAKER_01",
+      "text": "case."
+    },
+    {
+      "start": 46.08,
+      "end": 49.32,
+      "speaker": "SPEAKER_01",
+      "text": "Let's get started."
+    },
+    {
+      "start": 49.32,
+      "end": 55.08,
+      "speaker": "SPEAKER_00",
+      "text": "Our client, a global luxury hotel chain, is evaluating the feasibility of entering"
+    },
+    {
+      "start": 55.08,
+      "end": 58.6,
+      "speaker": "SPEAKER_00",
+      "text": "the luxury accommodations market in a new city."
+    },
+    {
+      "start": 58.6,
+      "end": 65.24,
+      "speaker": "SPEAKER_00",
+      "text": "The hotel chain is considering two options for the market entry, establishing a stand-alone"
+    },
+    {
+      "start": 65.24,
+      "end": 72.12,
+      "speaker": "SPEAKER_00",
+      "text": "luxury resort or developing a mixed-use resort that offers both luxury and standard accommodations."
+    },
+    {
+      "start": 72.12,
+      "end": 77.88,
+      "speaker": "SPEAKER_00",
+      "text": "The CEO of the hotel company has hired you to provide a few recommendations on the feasibility"
+    },
+    {
+      "start": 77.88,
+      "end": 80.12,
+      "speaker": "SPEAKER_00",
+      "text": "of both options."
+    },
+    {
+      "start": 80.12,
+      "end": 85.48,
+      "speaker": "SPEAKER_00",
+      "text": "What should the CEO prioritize while evaluating the feasibility of entering this market for"
+    },
+    {
+      "start": 85.48,
+      "end": 88.84,
+      "speaker": "SPEAKER_00",
+      "text": "both potential new accommodations?"
+    },
+    {
+      "start": 88.84,
+      "end": 94.32000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Before I ask a few clarifying questions, let me just summarize the case to make sure"
+    },
+    {
+      "start": 94.32000000000001,
+      "end": 98.92,
+      "speaker": "SPEAKER_01",
+      "text": "that I captured all the information correctly."
+    },
+    {
+      "start": 98.92,
+      "end": 106.36000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Our client is a CEO of a global luxury hotel chain and they are looking to enter a new city"
+    },
+    {
+      "start": 106.36000000000001,
+      "end": 107.36000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "market."
+    },
+    {
+      "start": 107.36,
+      "end": 113.48,
+      "speaker": "SPEAKER_01",
+      "text": "Are you considering two options either construct a stand-alone luxury hotel or to create a more"
+    },
+    {
+      "start": 113.48,
+      "end": 119.03999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "mixed-use property where it's going to be both luxury options and standard options?"
+    },
+    {
+      "start": 119.03999999999999,
+      "end": 123.28,
+      "speaker": "SPEAKER_01",
+      "text": "We need to evaluate the feasibility for both cases and potentially provide recommendations"
+    },
+    {
+      "start": 123.28,
+      "end": 124.88,
+      "speaker": "SPEAKER_01",
+      "text": "which one is better fit."
+    },
+    {
+      "start": 124.88,
+      "end": 126.4,
+      "speaker": "SPEAKER_01",
+      "text": "Is that correct, Summary?"
+    },
+    {
+      "start": 126.4,
+      "end": 127.4,
+      "speaker": "SPEAKER_00",
+      "text": "Yes."
+    },
+    {
+      "start": 127.4,
+      "end": 128.4,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 128.4,
+      "end": 132.72,
+      "speaker": "SPEAKER_01",
+      "text": "Can I ask what type of cities that the population, the type of the market?"
+    },
+    {
+      "start": 132.72,
+      "end": 135.16,
+      "speaker": "SPEAKER_00",
+      "text": "It's a rapidly developing city."
+    },
+    {
+      "start": 135.56,
+      "end": 140.6,
+      "speaker": "SPEAKER_01",
+      "text": "When we evaluate our project, is there any timeline that I should take into consideration?"
+    },
+    {
+      "start": 140.6,
+      "end": 142.6,
+      "speaker": "SPEAKER_01",
+      "text": "There is no timeline."
+    },
+    {
+      "start": 142.6,
+      "end": 149.0,
+      "speaker": "SPEAKER_01",
+      "text": "Besides financial profitability, is there any other considerations that I need to look for?"
+    },
+    {
+      "start": 149.0,
+      "end": 154.2,
+      "speaker": "SPEAKER_00",
+      "text": "Profitability is a primary concern but you are welcome to consider other factors."
+    },
+    {
+      "start": 154.2,
+      "end": 155.96,
+      "speaker": "SPEAKER_01",
+      "text": "Got it."
+    },
+    {
+      "start": 155.96,
+      "end": 162.07999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "What is our competition in this city both for luxury hotel business and for a normal hotel?"
+    },
+    {
+      "start": 162.08,
+      "end": 165.28,
+      "speaker": "SPEAKER_00",
+      "text": "The luxury accommodation market in this city is quite limited."
+    },
+    {
+      "start": 165.28,
+      "end": 166.28,
+      "speaker": "SPEAKER_01",
+      "text": "Got it."
+    },
+    {
+      "start": 166.28,
+      "end": 168.28,
+      "speaker": "SPEAKER_01",
+      "text": "Do we have any information about normal hotels?"
+    },
+    {
+      "start": 168.28,
+      "end": 169.28,
+      "speaker": "SPEAKER_00",
+      "text": "I know."
+    },
+    {
+      "start": 169.28,
+      "end": 170.28,
+      "speaker": "SPEAKER_01",
+      "text": "Got it."
+    },
+    {
+      "start": 170.28,
+      "end": 172.8,
+      "speaker": "SPEAKER_01",
+      "text": "Is that okay if I take a couple of minutes and stretch my thoughts?"
+    },
+    {
+      "start": 172.8,
+      "end": 173.8,
+      "speaker": "SPEAKER_00",
+      "text": "Sure."
+    },
+    {
+      "start": 173.8,
+      "end": 181.04000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "After the prompt, the base case scenario is that if you have a couple of very good questions"
+    },
+    {
+      "start": 181.04000000000002,
+      "end": 183.88000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "that you would like to ask on the spot."
+    },
+    {
+      "start": 183.88000000000002,
+      "end": 188.60000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "This is probably some of the most important minutes of the case entry because it is crucial"
+    },
+    {
+      "start": 188.6,
+      "end": 193.23999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "for you to align on the type of the problem that you have been asked."
+    },
+    {
+      "start": 193.23999999999998,
+      "end": 196.56,
+      "speaker": "SPEAKER_01",
+      "text": "This is why I am rehearsing the case that I just heard."
+    },
+    {
+      "start": 196.56,
+      "end": 198.48,
+      "speaker": "SPEAKER_01",
+      "text": "This time you will be writing it down."
+    },
+    {
+      "start": 198.48,
+      "end": 203.0,
+      "speaker": "SPEAKER_01",
+      "text": "If you have any numbers or any key factors playing all such as who are the stakeholders"
+    },
+    {
+      "start": 203.0,
+      "end": 207.28,
+      "speaker": "SPEAKER_01",
+      "text": "in this particular endeavor, what is the timeline, what is the key issues that we need"
+    },
+    {
+      "start": 207.28,
+      "end": 208.44,
+      "speaker": "SPEAKER_01",
+      "text": "to consider?"
+    },
+    {
+      "start": 208.44,
+      "end": 212.88,
+      "speaker": "SPEAKER_01",
+      "text": "These are usually the type of questions that I will ask after I hear the prompt."
+    },
+    {
+      "start": 212.88,
+      "end": 215.12,
+      "speaker": "SPEAKER_01",
+      "text": "All right."
+    },
+    {
+      "start": 215.12,
+      "end": 218.8,
+      "speaker": "SPEAKER_01",
+      "text": "I think I am ready to talk a little bit about my framework."
+    },
+    {
+      "start": 218.8,
+      "end": 221.64000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "There are five main things I would like to talk about."
+    },
+    {
+      "start": 221.64000000000001,
+      "end": 228.44,
+      "speaker": "SPEAKER_01",
+      "text": "Demand in the market for our potential clients, the revenue breakdown for both options, the"
+    },
+    {
+      "start": 228.44,
+      "end": 234.48000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "cost breakdown for both options, the strategic fit with our overall hotel brand, and then"
+    },
+    {
+      "start": 234.48000000000002,
+      "end": 238.32,
+      "speaker": "SPEAKER_01",
+      "text": "I will briefly mention about the key risks that we also need to consider."
+    },
+    {
+      "start": 238.32,
+      "end": 239.32,
+      "speaker": "SPEAKER_01",
+      "text": "Sounds good?"
+    },
+    {
+      "start": 239.32,
+      "end": 240.32,
+      "speaker": "SPEAKER_01",
+      "text": "Yep."
+    },
+    {
+      "start": 240.32,
+      "end": 241.32,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 241.32,
+      "end": 245.79999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "In the market demand, we need to identify potential customers who will be using our luxury"
+    },
+    {
+      "start": 245.79999999999998,
+      "end": 247.68,
+      "speaker": "SPEAKER_01",
+      "text": "hotels in the first place."
+    },
+    {
+      "start": 247.68,
+      "end": 252.4,
+      "speaker": "SPEAKER_01",
+      "text": "Here, just to be simple, I separated into two and a half brackets."
+    },
+    {
+      "start": 252.4,
+      "end": 259.48,
+      "speaker": "SPEAKER_01",
+      "text": "First, there are domestic clients, so there are people who live in the city and its proximity."
+    },
+    {
+      "start": 259.48,
+      "end": 262.56,
+      "speaker": "SPEAKER_01",
+      "text": "We are going to look at the frequency of their vacations."
+    },
+    {
+      "start": 262.56,
+      "end": 269.44,
+      "speaker": "SPEAKER_01",
+      "text": "We are going to look at the customer loyalty for already existing spots, Airbnb, other"
+    },
+    {
+      "start": 269.44,
+      "end": 274.56,
+      "speaker": "SPEAKER_01",
+      "text": "luxury hotels, and is there even in the culture for them to use this type of services in the"
+    },
+    {
+      "start": 274.56,
+      "end": 275.56,
+      "speaker": "SPEAKER_01",
+      "text": "first place?"
+    },
+    {
+      "start": 275.56,
+      "end": 283.2,
+      "speaker": "SPEAKER_01",
+      "text": "The second are not non-domestic visitors, which includes tourists and people traveling"
+    },
+    {
+      "start": 283.2,
+      "end": 284.2,
+      "speaker": "SPEAKER_01",
+      "text": "for business purposes."
+    },
+    {
+      "start": 284.2,
+      "end": 288.48,
+      "speaker": "SPEAKER_01",
+      "text": "I think it is important to consider both groups because it will allow us to understand"
+    },
+    {
+      "start": 288.48,
+      "end": 290.6,
+      "speaker": "SPEAKER_01",
+      "text": "the type of market a little bit better."
+    },
+    {
+      "start": 290.6,
+      "end": 295.52,
+      "speaker": "SPEAKER_01",
+      "text": "Here we are going to look at the number of visitors, how many of them are attracted to luxury"
+    },
+    {
+      "start": 295.52,
+      "end": 296.92,
+      "speaker": "SPEAKER_01",
+      "text": "offerings in the first place."
+    },
+    {
+      "start": 297.24,
+      "end": 303.52000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "Here is the city popular among the tourists, the popular among business travelers."
+    },
+    {
+      "start": 303.52000000000004,
+      "end": 307.52000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "The second bracket will be to look at revenue opportunities."
+    },
+    {
+      "start": 307.52000000000004,
+      "end": 313.12,
+      "speaker": "SPEAKER_01",
+      "text": "Here, again, separating into two main categories is the revenue that comes from room booking."
+    },
+    {
+      "start": 313.12,
+      "end": 318.0,
+      "speaker": "SPEAKER_01",
+      "text": "Here we are going to look at the average daily rate per occupied room for every type of room"
+    },
+    {
+      "start": 318.0,
+      "end": 323.68,
+      "speaker": "SPEAKER_01",
+      "text": "that exists within our hotels and occupancy rate per year because it is going to highly"
+    },
+    {
+      "start": 323.68,
+      "end": 328.56,
+      "speaker": "SPEAKER_01",
+      "text": "vary during top peak season and off season."
+    },
+    {
+      "start": 328.56,
+      "end": 333.08,
+      "speaker": "SPEAKER_01",
+      "text": "I would like to look at supplementary services because they are typically still an important"
+    },
+    {
+      "start": 333.08,
+      "end": 338.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "consideration when we are talking about the revenue streams for our hotel."
+    },
+    {
+      "start": 338.28000000000003,
+      "end": 342.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "There are four main groups, food and beverages services."
+    },
+    {
+      "start": 342.28000000000003,
+      "end": 349.32,
+      "speaker": "SPEAKER_01",
+      "text": "That is our restaurants, cafes, room services such as minibars and normal bars as well."
+    },
+    {
+      "start": 349.32,
+      "end": 353.08,
+      "speaker": "SPEAKER_01",
+      "text": "Customs and recreation, which is spa services, fitness centers."
+    },
+    {
+      "start": 353.08,
+      "end": 357.36,
+      "speaker": "SPEAKER_01",
+      "text": "A lot of the times these are included in the amenities of our hotel, especially when"
+    },
+    {
+      "start": 357.36,
+      "end": 362.24,
+      "speaker": "SPEAKER_01",
+      "text": "we are talking about luxury option, but there are always some extra opportunities such as"
+    },
+    {
+      "start": 362.24,
+      "end": 366.08,
+      "speaker": "SPEAKER_01",
+      "text": "personal massages that will probably cost you a little bit extra."
+    },
+    {
+      "start": 366.08,
+      "end": 370.12,
+      "speaker": "SPEAKER_01",
+      "text": "Third is event hosting and bankbed facilities."
+    },
+    {
+      "start": 370.12,
+      "end": 376.0,
+      "speaker": "SPEAKER_01",
+      "text": "So any weddings, corporate events, conferences, seminars, these are the types of events that"
+    },
+    {
+      "start": 376.0,
+      "end": 381.0,
+      "speaker": "SPEAKER_01",
+      "text": "are usually attracted by the luxury recommendations, especially if there are no many options in"
+    },
+    {
+      "start": 381.0,
+      "end": 382.0,
+      "speaker": "SPEAKER_01",
+      "text": "the city."
+    },
+    {
+      "start": 382.0,
+      "end": 386.88,
+      "speaker": "SPEAKER_01",
+      "text": "And finally, the last one is any special retail amenities, so that would be gift shops,"
+    },
+    {
+      "start": 386.88,
+      "end": 393.56,
+      "speaker": "SPEAKER_01",
+      "text": "merchandise, tours, anything that we can provide extra or we can franchise to other businesses"
+    },
+    {
+      "start": 393.56,
+      "end": 398.56,
+      "speaker": "SPEAKER_01",
+      "text": "to use some of our facilities that we can collect revenue from."
+    },
+    {
+      "start": 398.56,
+      "end": 402.6,
+      "speaker": "SPEAKER_01",
+      "text": "Third part would be an overview of our breakdown for costs."
+    },
+    {
+      "start": 402.6,
+      "end": 404.84,
+      "speaker": "SPEAKER_01",
+      "text": "Again, two times of costs."
+    },
+    {
+      "start": 404.84,
+      "end": 411.59999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "There's a one-time costs which will be only incurring in the first couple of years of us"
+    },
+    {
+      "start": 411.59999999999997,
+      "end": 416.23999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "starting our business, so it will be the cost of construction, the cost of land acquisition,"
+    },
+    {
+      "start": 416.23999999999995,
+      "end": 423.15999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "and any legal expenses such as getting permits, lawyers, anything to make the hotel start running."
+    },
+    {
+      "start": 423.15999999999997,
+      "end": 428.4,
+      "speaker": "SPEAKER_01",
+      "text": "The second is our annual cost, which is basically an operational expenses, anything that we are"
+    },
+    {
+      "start": 428.4,
+      "end": 432.79999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "expected to pay annually, semi-annually or something like that."
+    },
+    {
+      "start": 432.8,
+      "end": 437.56,
+      "speaker": "SPEAKER_01",
+      "text": "So the main brackets would be salaries for staff, utilities for light water and other"
+    },
+    {
+      "start": 437.56,
+      "end": 444.2,
+      "speaker": "SPEAKER_01",
+      "text": "amenities, depreciation and accommodation of our furniture equipment that we purchased,"
+    },
+    {
+      "start": 444.2,
+      "end": 449.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "taxes for both types of potential accommodations, considering if we want to pay them and any"
+    },
+    {
+      "start": 449.40000000000003,
+      "end": 455.52,
+      "speaker": "SPEAKER_01",
+      "text": "legal expenses such as the payments for compliance, insurance and so on."
+    },
+    {
+      "start": 455.52,
+      "end": 461.64,
+      "speaker": "SPEAKER_01",
+      "text": "The fourth part would be strategic fit and alignment with our bigger brand."
+    },
+    {
+      "start": 461.64,
+      "end": 467.4,
+      "speaker": "SPEAKER_01",
+      "text": "Would we like to reinforce the image of us being a luxury only brand?"
+    },
+    {
+      "start": 467.4,
+      "end": 469.52,
+      "speaker": "SPEAKER_01",
+      "text": "Or do we want to expand to a wider audience?"
+    },
+    {
+      "start": 469.52,
+      "end": 473.28,
+      "speaker": "SPEAKER_01",
+      "text": "Both options are feasible, but it's a very different strategy, so you need to make sure that"
+    },
+    {
+      "start": 473.28,
+      "end": 482.24,
+      "speaker": "SPEAKER_01",
+      "text": "the opening of this specific luxury hotel aligns with a wider strategy of our big business."
+    },
+    {
+      "start": 482.24,
+      "end": 489.4,
+      "speaker": "SPEAKER_01",
+      "text": "And finally, last fifth part, I want to talk about the key risks."
+    },
+    {
+      "start": 489.4,
+      "end": 494.91999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "So three main buckets here is economic risks, which is market volatility, how much does"
+    },
+    {
+      "start": 494.91999999999996,
+      "end": 500.84,
+      "speaker": "SPEAKER_01",
+      "text": "it vary based on the city and based on the luxury demand within this particular region?"
+    },
+    {
+      "start": 500.84,
+      "end": 505.84,
+      "speaker": "SPEAKER_01",
+      "text": "Regular risks, which is a second bracket, so any restrictions to foreign businesses,"
+    },
+    {
+      "start": 505.84,
+      "end": 512.0,
+      "speaker": "SPEAKER_01",
+      "text": "any zoning lows, any tax implications, any current risks, basically how hard it is to"
+    },
+    {
+      "start": 512.0,
+      "end": 516.8,
+      "speaker": "SPEAKER_01",
+      "text": "make business within this specific region."
+    },
+    {
+      "start": 516.8,
+      "end": 521.8,
+      "speaker": "SPEAKER_01",
+      "text": "And lastly, the competition, I would like to look at the level competition both in the"
+    },
+    {
+      "start": 521.8,
+      "end": 527.8399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "luxury market and in non-luxury market, considering what other options do people have when they"
+    },
+    {
+      "start": 527.8399999999999,
+      "end": 533.64,
+      "speaker": "SPEAKER_01",
+      "text": "come to the city and how loyal they are to the alternatives that exist on the market."
+    },
+    {
+      "start": 533.64,
+      "end": 538.88,
+      "speaker": "SPEAKER_01",
+      "text": "So to summarize, five main groups, there's market demand by potential customers, there's"
+    },
+    {
+      "start": 538.88,
+      "end": 544.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "a revenue breakdown for both options, there's a cost overview which is separated into"
+    },
+    {
+      "start": 544.44,
+      "end": 550.2,
+      "speaker": "SPEAKER_01",
+      "text": "one time cost and operational expenses, there's a strategic fit and brand positioning with"
+    },
+    {
+      "start": 550.2,
+      "end": 555.6400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "our overall brand and there are three key risks, economic, regulatory and compliance."
+    },
+    {
+      "start": 555.6400000000001,
+      "end": 560.24,
+      "speaker": "SPEAKER_01",
+      "text": "These five things I would like to look for."
+    },
+    {
+      "start": 560.24,
+      "end": 567.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Moving on, how would you estimate the annual market demand for luxury hotel rooms by a number"
+    },
+    {
+      "start": 567.6800000000001,
+      "end": 568.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "of guests?"
+    },
+    {
+      "start": 568.92,
+      "end": 570.68,
+      "speaker": "SPEAKER_01",
+      "text": "It's going to be a second."
+    },
+    {
+      "start": 570.68,
+      "end": 572.68,
+      "speaker": "SPEAKER_01",
+      "text": "It's going to be a second."
+    },
+    {
+      "start": 572.68,
+      "end": 574.68,
+      "speaker": "UNKNOWN",
+      "text": "It's going to be a second."
+    },
+    {
+      "start": 574.68,
+      "end": 576.68,
+      "speaker": "UNKNOWN",
+      "text": "It's going to be a second."
+    },
+    {
+      "start": 576.68,
+      "end": 578.68,
+      "speaker": "SPEAKER_01",
+      "text": "It's going to be a second."
+    },
+    {
+      "start": 578.68,
+      "end": 580.68,
+      "speaker": "SPEAKER_01",
+      "text": "It's going to be a second."
+    },
+    {
+      "start": 580.68,
+      "end": 584.68,
+      "speaker": "SPEAKER_01",
+      "text": "You'll market demand for luxury hotels by a number of guests."
+    },
+    {
+      "start": 584.68,
+      "end": 585.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, a couple of questions."
+    },
+    {
+      "start": 585.68,
+      "end": 589.68,
+      "speaker": "SPEAKER_00",
+      "text": "Do we have any information about the number of locals who use luxury accommodations?"
+    },
+    {
+      "start": 589.68,
+      "end": 592.68,
+      "speaker": "SPEAKER_01",
+      "text": "One percent of the city of 10 million."
+    },
+    {
+      "start": 592.68,
+      "end": 596.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, and do we have information about non-locals?"
+    },
+    {
+      "start": 596.68,
+      "end": 598.68,
+      "speaker": "SPEAKER_00",
+      "text": "18 million tourists per year."
+    },
+    {
+      "start": 598.68,
+      "end": 605.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, and any information about what number of them use specifically luxury accommodations?"
+    },
+    {
+      "start": 605.68,
+      "end": 607.68,
+      "speaker": "SPEAKER_00",
+      "text": "Five percent of them."
+    },
+    {
+      "start": 607.68,
+      "end": 610.68,
+      "speaker": "SPEAKER_01",
+      "text": "Five percent, great."
+    },
+    {
+      "start": 610.68,
+      "end": 616.3599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Besides tourists and locals, is there any other groups that you would like me to consider"
+    },
+    {
+      "start": 616.3599999999999,
+      "end": 619.68,
+      "speaker": "SPEAKER_01",
+      "text": "when we talk about the number of guests?"
+    },
+    {
+      "start": 619.68,
+      "end": 620.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 620.68,
+      "end": 624.68,
+      "speaker": "SPEAKER_01",
+      "text": "Is there any important other considerations that you think I might missed?"
+    },
+    {
+      "start": 624.68,
+      "end": 627.68,
+      "speaker": "SPEAKER_00",
+      "text": "I'll see if everyone uses hotels on average once a year."
+    },
+    {
+      "start": 627.68,
+      "end": 628.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great."
+    },
+    {
+      "start": 628.68,
+      "end": 629.68,
+      "speaker": "SPEAKER_01",
+      "text": "Once per year."
+    },
+    {
+      "start": 629.68,
+      "end": 632.68,
+      "speaker": "SPEAKER_01",
+      "text": "All right, so here's what I'm going to do."
+    },
+    {
+      "start": 632.68,
+      "end": 635.68,
+      "speaker": "SPEAKER_01",
+      "text": "We're going to first look at the two main market segments that we have identified."
+    },
+    {
+      "start": 635.68,
+      "end": 640.68,
+      "speaker": "SPEAKER_01",
+      "text": "This is domestic market, and then this is non-domestic market."
+    },
+    {
+      "start": 640.68,
+      "end": 642.68,
+      "speaker": "SPEAKER_01",
+      "text": "So for, sorry."
+    },
+    {
+      "start": 642.68,
+      "end": 647.68,
+      "speaker": "SPEAKER_01",
+      "text": "For domestic market, we're going to look at the population size that you mentioned,"
+    },
+    {
+      "start": 647.68,
+      "end": 648.68,
+      "speaker": "SPEAKER_01",
+      "text": "10 million."
+    },
+    {
+      "start": 648.68,
+      "end": 651.68,
+      "speaker": "SPEAKER_01",
+      "text": "And we're going to multiply this number but with a percentage of people who use luxury accommodations."
+    },
+    {
+      "start": 651.68,
+      "end": 658.68,
+      "speaker": "SPEAKER_01",
+      "text": "So 10 million multiplied by 1% is 100,000 local people who potentially can use luxury accommodations."
+    },
+    {
+      "start": 658.68,
+      "end": 668.68,
+      "speaker": "SPEAKER_01",
+      "text": "Moving to the non-domestic market, we identified that 18 million people are tourists for this particular region,"
+    },
+    {
+      "start": 668.68,
+      "end": 674.68,
+      "speaker": "SPEAKER_01",
+      "text": "but only 5% of them use luxury accommodations or potential clients for luxury accommodations."
+    },
+    {
+      "start": 674.68,
+      "end": 679.68,
+      "speaker": "SPEAKER_01",
+      "text": "So we're going to take an 18 million multiplied by 5%, identifying 900,000 people"
+    },
+    {
+      "start": 679.68,
+      "end": 684.68,
+      "speaker": "SPEAKER_01",
+      "text": "are going to be the non-domestic people who are going to be potentially using luxury accommodations."
+    },
+    {
+      "start": 684.68,
+      "end": 689.68,
+      "speaker": "SPEAKER_01",
+      "text": "Adding these numbers together, 100,000 plus 900,000, we get a beautiful number of 1 million,"
+    },
+    {
+      "start": 689.68,
+      "end": 694.68,
+      "speaker": "SPEAKER_01",
+      "text": "which is approximately the size of the market for luxury accommodation."
+    },
+    {
+      "start": 694.68,
+      "end": 701.68,
+      "speaker": "SPEAKER_01",
+      "text": "A couple of things to point out that I would like to point out is that 90% of our potential customer's base is international,"
+    },
+    {
+      "start": 701.68,
+      "end": 705.68,
+      "speaker": "SPEAKER_01",
+      "text": "which is an important consideration when we're considering what type of property to build."
+    },
+    {
+      "start": 706.68,
+      "end": 712.68,
+      "speaker": "SPEAKER_01",
+      "text": "And this is a pretty significant market considering that there's no real competition in the city."
+    },
+    {
+      "start": 712.68,
+      "end": 720.68,
+      "speaker": "SPEAKER_01",
+      "text": "So by only capturing 10% of the market, which is going to be 100,000 potential customers for our property,"
+    },
+    {
+      "start": 720.68,
+      "end": 721.68,
+      "speaker": "SPEAKER_01",
+      "text": "which is a huge number."
+    },
+    {
+      "start": 721.68,
+      "end": 725.68,
+      "speaker": "SPEAKER_01",
+      "text": "So again, these are relatively simple calculations."
+    },
+    {
+      "start": 725.68,
+      "end": 732.68,
+      "speaker": "SPEAKER_01",
+      "text": "You just keep reinforcing it to the interviewer and while you're thinking on the spot of how to solve it."
+    },
+    {
+      "start": 732.68,
+      "end": 740.68,
+      "speaker": "SPEAKER_01",
+      "text": "It's also very nice in the end to say a couple of things from yourself demonstrating their ability to think outside of a given question,"
+    },
+    {
+      "start": 740.68,
+      "end": 747.68,
+      "speaker": "SPEAKER_01",
+      "text": "but still providing relevant recommendation that will be useful if this was a real-time scenario you were talking to an actual client."
+    },
+    {
+      "start": 749.68,
+      "end": 751.68,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, moving on, next question."
+    },
+    {
+      "start": 751.68,
+      "end": 758.68,
+      "speaker": "SPEAKER_00",
+      "text": "What are the projected revenue and cost structures for the standalone luxury resort and the mixed-use luxury resort?"
+    },
+    {
+      "start": 759.68,
+      "end": 764.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, great. Do we have information about the revenue that we expected to bring?"
+    },
+    {
+      "start": 764.68,
+      "end": 766.68,
+      "speaker": "SPEAKER_01",
+      "text": "Let's say per room for every time."
+    },
+    {
+      "start": 767.68,
+      "end": 773.68,
+      "speaker": "SPEAKER_00",
+      "text": "So the average daily weight per room for standalone is $400 per night."
+    },
+    {
+      "start": 773.68,
+      "end": 780.68,
+      "speaker": "SPEAKER_00",
+      "text": "For mixed luxury room is $300 per night and for mixed standard room is $150 per night."
+    },
+    {
+      "start": 781.68,
+      "end": 786.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so we have $400 per night in a luxury only room and then for the mixed one,"
+    },
+    {
+      "start": 786.68,
+      "end": 790.68,
+      "speaker": "SPEAKER_01",
+      "text": "$300 for a luxury room and $150 for a standard room."
+    },
+    {
+      "start": 790.68,
+      "end": 796.68,
+      "speaker": "SPEAKER_01",
+      "text": "What about the occupancy rate? How many days on average we expect normal room and average room to be occupied?"
+    },
+    {
+      "start": 796.68,
+      "end": 799.68,
+      "speaker": "SPEAKER_00",
+      "text": "250 days per year for both options."
+    },
+    {
+      "start": 799.68,
+      "end": 804.68,
+      "speaker": "SPEAKER_01",
+      "text": "Both options, okay. So you know, I'm 70% in a 365 days a year."
+    },
+    {
+      "start": 804.68,
+      "end": 807.68,
+      "speaker": "SPEAKER_01",
+      "text": "What is the size of a hotel in both cases?"
+    },
+    {
+      "start": 807.68,
+      "end": 809.68,
+      "speaker": "SPEAKER_00",
+      "text": "300 rooms in each."
+    },
+    {
+      "start": 809.68,
+      "end": 813.68,
+      "speaker": "SPEAKER_01",
+      "text": "300 rooms in each and in the mixed one is that separate to 50-50?"
+    },
+    {
+      "start": 814.68,
+      "end": 817.68,
+      "speaker": "SPEAKER_00",
+      "text": "No, there's 100 luxury rooms and 200 standard rooms."
+    },
+    {
+      "start": 817.68,
+      "end": 820.68,
+      "speaker": "SPEAKER_01",
+      "text": "Got it, 100 luxury rooms and 200 standard rooms."
+    },
+    {
+      "start": 820.68,
+      "end": 824.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, now let me ask you a few questions about the costs."
+    },
+    {
+      "start": 824.68,
+      "end": 828.68,
+      "speaker": "SPEAKER_01",
+      "text": "Any information that we have about potential cost breakdown?"
+    },
+    {
+      "start": 829.68,
+      "end": 836.68,
+      "speaker": "SPEAKER_00",
+      "text": "So the fixed cost for standalone is $10 million and for mixed is $8 million."
+    },
+    {
+      "start": 836.68,
+      "end": 842.68,
+      "speaker": "SPEAKER_00",
+      "text": "The variable cost is $100 per occupied room in standalone and in the mixed it's $8 million."
+    },
+    {
+      "start": 842.68,
+      "end": 847.68,
+      "speaker": "SPEAKER_00",
+      "text": "It's $80 for luxury and $54 standard."
+    },
+    {
+      "start": 847.68,
+      "end": 850.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, so we separate into fixed variable."
+    },
+    {
+      "start": 850.68,
+      "end": 853.68,
+      "speaker": "SPEAKER_01",
+      "text": "For the fixed, it's $10 million for a standalone option."
+    },
+    {
+      "start": 853.68,
+      "end": 856.68,
+      "speaker": "SPEAKER_01",
+      "text": "A little less expensive in the mixed one."
+    },
+    {
+      "start": 856.68,
+      "end": 858.68,
+      "speaker": "SPEAKER_01",
+      "text": "Makes sense, $8 million for fixed costs."
+    },
+    {
+      "start": 858.68,
+      "end": 864.68,
+      "speaker": "SPEAKER_01",
+      "text": "In the variable costs, we are spending $100 per occupied room per night."
+    },
+    {
+      "start": 864.68,
+      "end": 870.68,
+      "speaker": "SPEAKER_01",
+      "text": "And then in the mixed use, we're spending $80 in the luxury room and $50 for a normal room."
+    },
+    {
+      "start": 871.68,
+      "end": 873.68,
+      "speaker": "SPEAKER_01",
+      "text": "What about the construction costs?"
+    },
+    {
+      "start": 873.68,
+      "end": 875.68,
+      "speaker": "SPEAKER_01",
+      "text": "You don't need that."
+    },
+    {
+      "start": 875.68,
+      "end": 876.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 876.68,
+      "end": 880.68,
+      "speaker": "SPEAKER_01",
+      "text": "And what about any potential revenue from non-room occupied services?"
+    },
+    {
+      "start": 880.68,
+      "end": 882.68,
+      "speaker": "SPEAKER_01",
+      "text": "Any other extra services that we mentioned?"
+    },
+    {
+      "start": 882.68,
+      "end": 884.68,
+      "speaker": "SPEAKER_00",
+      "text": "They're same for both the option."
+    },
+    {
+      "start": 884.68,
+      "end": 885.68,
+      "speaker": "SPEAKER_01",
+      "text": "Got it."
+    },
+    {
+      "start": 885.68,
+      "end": 891.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, if they are same for both options, we can for now exclude them."
+    },
+    {
+      "start": 891.68,
+      "end": 898.68,
+      "speaker": "SPEAKER_01",
+      "text": "Alright, let's look at the standalone luxury option, luxury only option because it's a little bit easier to calculate at first."
+    },
+    {
+      "start": 899.68,
+      "end": 906.68,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm going to first look at the profit per night of an occupied room that we're going to calculate an annual profit"
+    },
+    {
+      "start": 906.68,
+      "end": 911.68,
+      "speaker": "SPEAKER_01",
+      "text": "by multiplying this number by the number of days in average room is occupied and the number of rooms."
+    },
+    {
+      "start": 911.68,
+      "end": 916.68,
+      "speaker": "SPEAKER_01",
+      "text": "Then we're going to take into consideration the fixed costs which we're going to bring us a net profit."
+    },
+    {
+      "start": 916.68,
+      "end": 926.68,
+      "speaker": "SPEAKER_01",
+      "text": "So we are earning $400 per occupied room, but we're also spending $100 per running an occupied room per night, which brings us a net profit of $300."
+    },
+    {
+      "start": 926.68,
+      "end": 931.68,
+      "speaker": "SPEAKER_01",
+      "text": "Sorry, yeah, net profit of $300 per occupied room per night."
+    },
+    {
+      "start": 931.68,
+      "end": 934.68,
+      "speaker": "SPEAKER_01",
+      "text": "So now let's look at the annual consideration."
+    },
+    {
+      "start": 934.68,
+      "end": 941.68,
+      "speaker": "SPEAKER_01",
+      "text": "We have 250 days per year and average room is occupied and there are 300 rooms within the luxury accommodation."
+    },
+    {
+      "start": 941.68,
+      "end": 953.68,
+      "speaker": "SPEAKER_01",
+      "text": "So we're multiplying an average profit per room of 300 by an average number of rooms, sorry, by the number of rooms, 300 again, and by the number of days an average room is occupied, 250."
+    },
+    {
+      "start": 953.68,
+      "end": 968.68,
+      "speaker": "SPEAKER_01",
+      "text": "300 by 300 is 90,000 and then 90,000 multiplied by 250 is 9 million plus 9 million plus 4.5, which brings us to 22.5 million profit before fixed costs."
+    },
+    {
+      "start": 968.68,
+      "end": 980.68,
+      "speaker": "SPEAKER_01",
+      "text": "Our fixed costs are 10 million, so we're going to subtract this number 22.5 minus 10, brings us to a profit of 12.5 million dollars per year for a luxury only accommodation."
+    },
+    {
+      "start": 980.68,
+      "end": 988.68,
+      "speaker": "SPEAKER_01",
+      "text": "Now for a mixed use property, I'm going to use the same logic and I'm going to just calculate it separately for luxury rooms and for standard rooms."
+    },
+    {
+      "start": 988.68,
+      "end": 997.68,
+      "speaker": "SPEAKER_01",
+      "text": "So for luxury rooms, we are looking at the profit of $300 per night and we're spending $80 per occupied room per night."
+    },
+    {
+      "start": 997.68,
+      "end": 1005.68,
+      "speaker": "SPEAKER_01",
+      "text": "So with $220, $300 minus 80 for an occupied room in a luxury mixed use property."
+    },
+    {
+      "start": 1005.68,
+      "end": 1017.68,
+      "speaker": "SPEAKER_01",
+      "text": "For a standard room, the numbers are 150 per occupied room in revenue and $50 in costs, which brings us to $100 of net profit per occupied room per night."
+    },
+    {
+      "start": 1017.68,
+      "end": 1021.68,
+      "speaker": "SPEAKER_01",
+      "text": "So coming back to luxury rooms, we have again three numbers."
+    },
+    {
+      "start": 1021.68,
+      "end": 1025.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "220 dollars is our profit per room."
+    },
+    {
+      "start": 1025.6799999999998,
+      "end": 1032.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "We are occupied the same number 250 days per year and there are 100 luxury rooms."
+    },
+    {
+      "start": 1032.68,
+      "end": 1045.68,
+      "speaker": "SPEAKER_01",
+      "text": "So I'm going to multiply 250 days per 100 rooms, which brings us to 25,000 multiplied by 220 dollars."
+    },
+    {
+      "start": 1045.68,
+      "end": 1058.68,
+      "speaker": "SPEAKER_01",
+      "text": "So that's 2,000, 200,000 plus 200,000 plus 100,000 separated into 120, which brings us to 5.5 million dollars of profit for luxury rooms."
+    },
+    {
+      "start": 1058.68,
+      "end": 1070.68,
+      "speaker": "SPEAKER_01",
+      "text": "And then using the same logic for standard rooms, using the same logic for standard rooms, we have again three numbers, 200 rooms, 250 days in occupied and $100 of profit."
+    },
+    {
+      "start": 1070.68,
+      "end": 1078.68,
+      "speaker": "SPEAKER_01",
+      "text": "So 200 by 100 is 20,000 multiplied by 250 days open."
+    },
+    {
+      "start": 1078.68,
+      "end": 1081.68,
+      "speaker": "SPEAKER_01",
+      "text": "It's going to bring us to number of 5 million."
+    },
+    {
+      "start": 1081.68,
+      "end": 1092.68,
+      "speaker": "SPEAKER_01",
+      "text": "So we add these two numbers together, 5,500,500, we're going to give us a profit of 10,500,000 excluding fixed costs."
+    },
+    {
+      "start": 1092.68,
+      "end": 1102.68,
+      "speaker": "SPEAKER_01",
+      "text": "We mentioned that the fixed costs is 8,000, so 10,500,000 minus 8,000, brings us a net final profit for a mixed use property of 2,500,000."
+    },
+    {
+      "start": 1102.68,
+      "end": 1106.68,
+      "speaker": "SPEAKER_01",
+      "text": "So to summarize what we have found, we have two numbers now."
+    },
+    {
+      "start": 1106.68,
+      "end": 1115.68,
+      "speaker": "SPEAKER_01",
+      "text": "The profit for a luxury only option is 12,500,000, the profit for a mixed use property is 2,500,000."
+    },
+    {
+      "start": 1115.68,
+      "end": 1130.68,
+      "speaker": "SPEAKER_01",
+      "text": "So it's $10 million less, and the luxury only option is 5 times of 500% more profitable than our mixed option, which is a great margin to have."
+    },
+    {
+      "start": 1130.68,
+      "end": 1142.68,
+      "speaker": "SPEAKER_01",
+      "text": "But at the same time, just a small consideration, because of higher fixed costs, luxury only option will be a little bit more risky, but it's only 20% more in terms of a fixed cost."
+    },
+    {
+      "start": 1142.68,
+      "end": 1148.68,
+      "speaker": "SPEAKER_01",
+      "text": "So looking at this, one option makes more sense immediately."
+    },
+    {
+      "start": 1148.68,
+      "end": 1159.68,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Final question. Given the financials, customer segments and operational risks, which model would you recommend and why?"
+    },
+    {
+      "start": 1159.68,
+      "end": 1170.68,
+      "speaker": "SPEAKER_01",
+      "text": "So looking at the financials and looking at other factors, I think standalone option, how would standalone luxury only option would definitely make more sense."
+    },
+    {
+      "start": 1170.68,
+      "end": 1182.68,
+      "speaker": "SPEAKER_01",
+      "text": "As I mentioned, it's 5 times more profitable, and it also seems to align more with our overall brand as being a luxury only or primarily luxury hotel type of business."
+    },
+    {
+      "start": 1182.68,
+      "end": 1194.68,
+      "speaker": "SPEAKER_01",
+      "text": "Considering that there are no other luxury amenities existing in the city, we calculated that just capturing 10% of the market would bring us a potential customer base of 100,000 people."
+    },
+    {
+      "start": 1194.68,
+      "end": 1201.68,
+      "speaker": "SPEAKER_01",
+      "text": "And considering that this option is also more profitable, I think it makes sense for us to keep a luxury only recommendation for this city."
+    },
+    {
+      "start": 1201.68,
+      "end": 1204.68,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Thank you. That concludes the case interview."
+    },
+    {
+      "start": 1204.68,
+      "end": 1205.68,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you very much."
+    }
+  ],
+  "grading": {
+    "communication": 15,
+    "framework": 12,
+    "math": 8,
+    "case_difficulty": 10,
+    "final_summary": 11,
+    "overall_thoughts": "You did a good job presenting the communication, but you could improve on building out a stronger framework and addressing potential risks in your final summary."
+  }
+}

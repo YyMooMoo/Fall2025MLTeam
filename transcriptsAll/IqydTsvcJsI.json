@@ -1,0 +1,3818 @@
+[
+  {
+    "start": 0.0,
+    "end": 8.1,
+    "speaker": "SPEAKER_02",
+    "text": "Hello everyone and welcome to another Rocketblocks mock interview."
+  },
+  {
+    "start": 8.1,
+    "end": 14.14,
+    "speaker": "SPEAKER_02",
+    "text": "This is a really exciting case called Stella's Stardom and it features a pop star who is"
+  },
+  {
+    "start": 14.14,
+    "end": 20.16,
+    "speaker": "SPEAKER_02",
+    "text": "making a key decision about whether to spend her time recording a new album or instead"
+  },
+  {
+    "start": 20.16,
+    "end": 21.48,
+    "speaker": "SPEAKER_02",
+    "text": "going on tour."
+  },
+  {
+    "start": 21.48,
+    "end": 23.62,
+    "speaker": "SPEAKER_02",
+    "text": "That's really great case."
+  },
+  {
+    "start": 23.62,
+    "end": 29.02,
+    "speaker": "SPEAKER_02",
+    "text": "It's got market sizing elements, new product launch elements all wrapped up in it and today"
+  },
+  {
+    "start": 29.02,
+    "end": 34.68,
+    "speaker": "SPEAKER_02",
+    "text": "we've got Oshwin Shetty, a Rocketblocks expert playing the role of the interviewer."
+  },
+  {
+    "start": 34.68,
+    "end": 41.9,
+    "speaker": "SPEAKER_02",
+    "text": "He is an ex-manager from Bain & Company as well as an ex-director from Delight."
+  },
+  {
+    "start": 41.9,
+    "end": 46.3,
+    "speaker": "SPEAKER_02",
+    "text": "Playing the role of candidate we've got Ben Wilson who is a recent graduate of the University"
+  },
+  {
+    "start": 46.3,
+    "end": 48.54,
+    "speaker": "SPEAKER_02",
+    "text": "of Virginia's Darden School of Business."
+  },
+  {
+    "start": 48.54,
+    "end": 54.58,
+    "speaker": "SPEAKER_02",
+    "text": "He was a summer consultant at EY Parthenon and is currently a director at the specialized"
+  },
+  {
+    "start": 54.58,
+    "end": 58.06,
+    "speaker": "SPEAKER_02",
+    "text": "consulting firm Alvarez and Marcell."
+  },
+  {
+    "start": 58.06,
+    "end": 60.06,
+    "speaker": "SPEAKER_02",
+    "text": "So let's go ahead and jump in."
+  },
+  {
+    "start": 60.06,
+    "end": 62.18,
+    "speaker": "SPEAKER_00",
+    "text": "Hello Ben, welcome to the interview."
+  },
+  {
+    "start": 62.18,
+    "end": 67.34,
+    "speaker": "SPEAKER_00",
+    "text": "I'm Ashwin, a former Delight director and a former Bain manager and I'll be playing the"
+  },
+  {
+    "start": 67.34,
+    "end": 69.98,
+    "speaker": "SPEAKER_00",
+    "text": "role of the interviewer on this session today."
+  },
+  {
+    "start": 69.98,
+    "end": 74.82000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Thanks, and Ashwin, this is Ben Wilson, a current lead director and Alvarez Marcell and"
+  },
+  {
+    "start": 74.82000000000001,
+    "end": 77.1,
+    "speaker": "SPEAKER_03",
+    "text": "I will be the interviewer during this mock interview."
+  },
+  {
+    "start": 77.1,
+    "end": 80.26,
+    "speaker": "SPEAKER_00",
+    "text": "Great, wonderful to meet you Ben."
+  },
+  {
+    "start": 80.26,
+    "end": 83.18,
+    "speaker": "SPEAKER_00",
+    "text": "Are you a fan of pop music Ben?"
+  },
+  {
+    "start": 83.18,
+    "end": 86.22,
+    "speaker": "SPEAKER_00",
+    "text": "You know, a little bit, I probably shouldn't admit to that but I am."
+  },
+  {
+    "start": 86.22,
+    "end": 90.02,
+    "speaker": "SPEAKER_00",
+    "text": "So this case is about a pop star, right?"
+  },
+  {
+    "start": 90.02,
+    "end": 97.9,
+    "speaker": "SPEAKER_00",
+    "text": "Stella Harmony, a pop sensation, recognizes one of the successful artists, most successful"
+  },
+  {
+    "start": 97.9,
+    "end": 102.06,
+    "speaker": "SPEAKER_00",
+    "text": "artists in fact in the last 20 years, millions of fans around the world."
+  },
+  {
+    "start": 102.06,
+    "end": 105.5,
+    "speaker": "SPEAKER_00",
+    "text": "She's debating two options and she wants you help here."
+  },
+  {
+    "start": 105.5,
+    "end": 112.1,
+    "speaker": "SPEAKER_00",
+    "text": "First she could embark on an 18 month old tour performing at stadiums across the globe."
+  },
+  {
+    "start": 112.1,
+    "end": 116.53999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Alternatively, she could stay at home and write a new album, right?"
+  },
+  {
+    "start": 116.53999999999999,
+    "end": 118.58,
+    "speaker": "SPEAKER_00",
+    "text": "And she would love to stay at her mansion."
+  },
+  {
+    "start": 118.58,
+    "end": 123.1,
+    "speaker": "SPEAKER_00",
+    "text": "She just bought a 50 million dollar mansion and stay at home and write a new album."
+  },
+  {
+    "start": 123.1,
+    "end": 129.45999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Now she knows that you help a large company through certain strategic decisions so she"
+  },
+  {
+    "start": 129.45999999999998,
+    "end": 132.54,
+    "speaker": "SPEAKER_00",
+    "text": "would love your help to approach this particular problem."
+  },
+  {
+    "start": 132.54,
+    "end": 134.54,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent, excellent."
+  },
+  {
+    "start": 134.54,
+    "end": 137.66,
+    "speaker": "SPEAKER_03",
+    "text": "Well, certainly very excited to get going on this project."
+  },
+  {
+    "start": 137.66,
+    "end": 140.14,
+    "speaker": "SPEAKER_03",
+    "text": "She sounds incredible, successful."
+  },
+  {
+    "start": 140.14,
+    "end": 144.42,
+    "speaker": "SPEAKER_03",
+    "text": "So to kind of read it back, it sounds like the primary problem in trying to solve is whether"
+  },
+  {
+    "start": 144.42,
+    "end": 149.57999999999998,
+    "speaker": "SPEAKER_03",
+    "text": "she should go on tour or do a new album, a tour of being 18 months long and this is for"
+  },
+  {
+    "start": 149.57999999999998,
+    "end": 150.57999999999998,
+    "speaker": "SPEAKER_03",
+    "text": "Stella Harmony."
+  },
+  {
+    "start": 150.57999999999998,
+    "end": 155.82,
+    "speaker": "SPEAKER_03",
+    "text": "It sounds like incredibly successful in the last 20 years, not just in terms of pop artists"
+  },
+  {
+    "start": 155.82,
+    "end": 161.33999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "but in terms of being able to monetize that success and that tour of being 18 months versus"
+  },
+  {
+    "start": 161.33999999999997,
+    "end": 164.82,
+    "speaker": "SPEAKER_03",
+    "text": "not necessarily a timeframe established for the album."
+  },
+  {
+    "start": 164.82,
+    "end": 169.54,
+    "speaker": "SPEAKER_03",
+    "text": "I've been in looking at this, I don't have a few initial questions I'd like to gauge"
+  },
+  {
+    "start": 169.54,
+    "end": 171.26,
+    "speaker": "SPEAKER_03",
+    "text": "with yourself."
+  },
+  {
+    "start": 171.26,
+    "end": 175.17999999999998,
+    "speaker": "SPEAKER_03",
+    "text": "In terms of Stella's goal, does she have kind of a goal in mind?"
+  },
+  {
+    "start": 175.17999999999998,
+    "end": 176.98,
+    "speaker": "SPEAKER_03",
+    "text": "Is it financial security?"
+  },
+  {
+    "start": 176.98,
+    "end": 178.38,
+    "speaker": "SPEAKER_03",
+    "text": "Is it engaging with the fans?"
+  },
+  {
+    "start": 178.38,
+    "end": 179.38,
+    "speaker": "SPEAKER_03",
+    "text": "Is it something else?"
+  },
+  {
+    "start": 179.38,
+    "end": 182.34,
+    "speaker": "SPEAKER_03",
+    "text": "Try to understand where her mind's at right now?"
+  },
+  {
+    "start": 182.34,
+    "end": 186.06,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, short term, Ben, she would love to make a lot of money."
+  },
+  {
+    "start": 186.06,
+    "end": 190.7,
+    "speaker": "SPEAKER_00",
+    "text": "She is in fact set aside 200 million dollar mansion, right?"
+  },
+  {
+    "start": 190.7,
+    "end": 195.38,
+    "speaker": "SPEAKER_00",
+    "text": "So maximizing money over the short term is one goal of hers."
+  },
+  {
+    "start": 195.38,
+    "end": 199.62,
+    "speaker": "SPEAKER_00",
+    "text": "She's right now in early 30s, she has a long career in front of her."
+  },
+  {
+    "start": 199.62,
+    "end": 204.7,
+    "speaker": "SPEAKER_00",
+    "text": "So she would love to have a successful and productive long career, right?"
+  },
+  {
+    "start": 204.7,
+    "end": 209.78,
+    "speaker": "SPEAKER_00",
+    "text": "And third thing I would say is having met her, what I understand is she truly loves her"
+  },
+  {
+    "start": 209.78,
+    "end": 213.14,
+    "speaker": "SPEAKER_00",
+    "text": "fans and she wants to give them what they want."
+  },
+  {
+    "start": 213.14,
+    "end": 215.14,
+    "speaker": "SPEAKER_03",
+    "text": "Okay, excellent, excellent."
+  },
+  {
+    "start": 215.14,
+    "end": 221.42,
+    "speaker": "SPEAKER_03",
+    "text": "A lot to work with there is certainly some dynamics of the role but fantastic to understand."
+  },
+  {
+    "start": 221.42,
+    "end": 225.38,
+    "speaker": "SPEAKER_03",
+    "text": "The other question comes from my mind was the dynamics of it."
+  },
+  {
+    "start": 225.38,
+    "end": 229.22,
+    "speaker": "SPEAKER_03",
+    "text": "I know right, economics have changed over time, especially for streaming."
+  },
+  {
+    "start": 229.22,
+    "end": 233.98,
+    "speaker": "SPEAKER_03",
+    "text": "And I know that streaming can either be a cost per song or perhaps you just buy a whole"
+  },
+  {
+    "start": 233.98,
+    "end": 235.66,
+    "speaker": "SPEAKER_03",
+    "text": "bundle of the songs altogether."
+  },
+  {
+    "start": 235.66,
+    "end": 239.66,
+    "speaker": "SPEAKER_03",
+    "text": "Do you have any understanding how that works out?"
+  },
+  {
+    "start": 239.66,
+    "end": 248.38,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, so a one-stream net-s and artist typically around $0.005."
+  },
+  {
+    "start": 248.38,
+    "end": 254.14,
+    "speaker": "SPEAKER_00",
+    "text": "Most streamed songs can hit around 1 to 2 billion streams."
+  },
+  {
+    "start": 254.14,
+    "end": 259.1,
+    "speaker": "SPEAKER_00",
+    "text": "And globally around 80 million physical albums were sold in 2021."
+  },
+  {
+    "start": 259.1,
+    "end": 264.9,
+    "speaker": "SPEAKER_00",
+    "text": "So I think these are some of the rough numbers maybe you can work with while looking at the"
+  },
+  {
+    "start": 264.9,
+    "end": 270.86,
+    "speaker": "SPEAKER_00",
+    "text": "revenue she can generate or money she can generate through, let's say, producing a new album."
+  },
+  {
+    "start": 270.86,
+    "end": 271.86,
+    "speaker": "SPEAKER_00",
+    "text": "Amazing."
+  },
+  {
+    "start": 271.86,
+    "end": 272.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 272.86,
+    "end": 278.14,
+    "speaker": "SPEAKER_03",
+    "text": "Certainly more physical albums still being sold and expected but fantastic to hear that."
+  },
+  {
+    "start": 278.62,
+    "end": 279.62,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 279.62,
+    "end": 284.65999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "And certainly another area that I was trying to investigate while you were reading off the"
+  },
+  {
+    "start": 284.65999999999997,
+    "end": 290.65999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "introduction was the historical monetization that Stella Harmony has been able to accomplish."
+  },
+  {
+    "start": 290.65999999999997,
+    "end": 294.65999999999997,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, it sounds like she's been very successful in this field but you know, has she been"
+  },
+  {
+    "start": 294.65999999999997,
+    "end": 299.34,
+    "speaker": "SPEAKER_03",
+    "text": "pouring lately, has she been streaming on lately and how perhaps that's divided if we know?"
+  },
+  {
+    "start": 299.34,
+    "end": 304.02,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, so she toured last six years back."
+  },
+  {
+    "start": 304.02,
+    "end": 305.02,
+    "speaker": "SPEAKER_00",
+    "text": "Right?"
+  },
+  {
+    "start": 305.02,
+    "end": 310.94,
+    "speaker": "SPEAKER_00",
+    "text": "So six years back she had it, it lasted around 12 months, quite a successful tour."
+  },
+  {
+    "start": 310.94,
+    "end": 316.9,
+    "speaker": "SPEAKER_00",
+    "text": "You know, she was able to sell individual tickets for around $200 per person, premium tickets"
+  },
+  {
+    "start": 316.9,
+    "end": 318.78,
+    "speaker": "SPEAKER_00",
+    "text": "for price at $500."
+  },
+  {
+    "start": 318.78,
+    "end": 324.5,
+    "speaker": "SPEAKER_00",
+    "text": "So today I would say she's more successful and more popular compared to what she was"
+  },
+  {
+    "start": 324.5,
+    "end": 326.46,
+    "speaker": "SPEAKER_00",
+    "text": "six years ago."
+  },
+  {
+    "start": 326.46,
+    "end": 331.14,
+    "speaker": "SPEAKER_00",
+    "text": "In terms of album, her last music album came out two years back."
+  },
+  {
+    "start": 331.14,
+    "end": 336.82,
+    "speaker": "SPEAKER_00",
+    "text": "I would say that was the most or one of the most extreme albums on Spotify for 90 days"
+  },
+  {
+    "start": 336.82,
+    "end": 337.82,
+    "speaker": "SPEAKER_00",
+    "text": "after launch."
+  },
+  {
+    "start": 337.82,
+    "end": 338.82,
+    "speaker": "SPEAKER_00",
+    "text": "Right?"
+  },
+  {
+    "start": 338.82,
+    "end": 345.14,
+    "speaker": "SPEAKER_00",
+    "text": "So you can assume that it's hit around one to two billion streams in the 90 days after"
+  },
+  {
+    "start": 345.14,
+    "end": 346.14,
+    "speaker": "SPEAKER_00",
+    "text": "launch."
+  },
+  {
+    "start": 346.14,
+    "end": 347.14,
+    "speaker": "SPEAKER_03",
+    "text": "Wow."
+  },
+  {
+    "start": 347.14,
+    "end": 348.14,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 348.14,
+    "end": 349.14,
+    "speaker": "SPEAKER_03",
+    "text": "So incredibly successful."
+  },
+  {
+    "start": 349.14,
+    "end": 350.14,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 350.14,
+    "end": 355.34,
+    "speaker": "SPEAKER_03",
+    "text": "That's very good to know especially as we consider potential ticket prices downstream."
+  },
+  {
+    "start": 355.34,
+    "end": 359.5,
+    "speaker": "SPEAKER_03",
+    "text": "And in Ashman's only one last question, you know, I've been asking a lot about professional"
+  },
+  {
+    "start": 359.5,
+    "end": 365.9,
+    "speaker": "SPEAKER_03",
+    "text": "goals and professional historic expenses, but has still given us any kind of personal interest,"
+  },
+  {
+    "start": 365.9,
+    "end": 369.74,
+    "speaker": "SPEAKER_03",
+    "text": "personal references to what her preferences might be?"
+  },
+  {
+    "start": 369.74,
+    "end": 373.78,
+    "speaker": "SPEAKER_00",
+    "text": "As I said, I mean, I talked about the objectives I talked about."
+  },
+  {
+    "start": 373.78,
+    "end": 375.78,
+    "speaker": "SPEAKER_00",
+    "text": "She would love to make more money."
+  },
+  {
+    "start": 375.78,
+    "end": 378.78,
+    "speaker": "SPEAKER_00",
+    "text": "She would love to have a long and productive career."
+  },
+  {
+    "start": 378.78,
+    "end": 380.78,
+    "speaker": "SPEAKER_00",
+    "text": "She truly cares about her fans."
+  },
+  {
+    "start": 380.78,
+    "end": 385.78,
+    "speaker": "SPEAKER_00",
+    "text": "I think, so Ben, I think she's also conflicted and that's why she wants to help."
+  },
+  {
+    "start": 385.78,
+    "end": 386.78,
+    "speaker": "SPEAKER_00",
+    "text": "Right?"
+  },
+  {
+    "start": 386.78,
+    "end": 389.85999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "So certain decisions might make her more money."
+  },
+  {
+    "start": 389.85999999999996,
+    "end": 394.85999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "But I think there is also other aspects that she wants to consider, for example, growth,"
+  },
+  {
+    "start": 394.85999999999996,
+    "end": 395.85999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "right?"
+  },
+  {
+    "start": 395.85999999999996,
+    "end": 396.85999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "Growth as an artist."
+  },
+  {
+    "start": 396.85999999999996,
+    "end": 402.02,
+    "speaker": "SPEAKER_00",
+    "text": "For example, creating a music album is also an outlet for all these factors are something"
+  },
+  {
+    "start": 402.02,
+    "end": 406.41999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "which come into play when she is thinking about this particular decision."
+  },
+  {
+    "start": 406.41999999999996,
+    "end": 407.41999999999996,
+    "speaker": "UNKNOWN",
+    "text": "Excellent."
+  },
+  {
+    "start": 407.41999999999996,
+    "end": 408.41999999999996,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 408.41999999999996,
+    "end": 410.41999999999996,
+    "speaker": "SPEAKER_03",
+    "text": "This is certainly fantastic."
+  },
+  {
+    "start": 410.41999999999996,
+    "end": 414.53999999999996,
+    "speaker": "SPEAKER_03",
+    "text": "If I could have, you know, perhaps a minute or two to kind of gather my thoughts and think"
+  },
+  {
+    "start": 414.54,
+    "end": 419.06,
+    "speaker": "SPEAKER_03",
+    "text": "about the approach and then come back to and kind of discuss how I might want to look"
+  },
+  {
+    "start": 419.06,
+    "end": 420.38,
+    "speaker": "SPEAKER_03",
+    "text": "at this problem in more detail."
+  },
+  {
+    "start": 420.38,
+    "end": 422.38,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, it's good."
+  },
+  {
+    "start": 422.38,
+    "end": 428.46000000000004,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, I think I certainly have a visual starting approach."
+  },
+  {
+    "start": 428.46000000000004,
+    "end": 431.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so the way I want to look at this is kind of almost in a matrix that hold this"
+  },
+  {
+    "start": 431.86,
+    "end": 432.86,
+    "speaker": "SPEAKER_03",
+    "text": "or that approach."
+  },
+  {
+    "start": 432.86,
+    "end": 437.94,
+    "speaker": "SPEAKER_03",
+    "text": "So I want to look at, you know, if Stella harmony tours versus if she builds the album"
+  },
+  {
+    "start": 437.94,
+    "end": 441.3,
+    "speaker": "SPEAKER_03",
+    "text": "and I want to look at this in terms of financial considerations, primarily in the short"
+  },
+  {
+    "start": 441.3,
+    "end": 444.86,
+    "speaker": "SPEAKER_03",
+    "text": "term, brand image and then also intangible costs."
+  },
+  {
+    "start": 444.86,
+    "end": 450.7,
+    "speaker": "SPEAKER_03",
+    "text": "And one thing I'm certainly going to make sure I stay away from during this is any revenue"
+  },
+  {
+    "start": 450.7,
+    "end": 452.86,
+    "speaker": "SPEAKER_03",
+    "text": "or cost or anything that would stay the same between them."
+  },
+  {
+    "start": 452.86,
+    "end": 458.42,
+    "speaker": "SPEAKER_03",
+    "text": "So perhaps old album sales, old streaming might have a boost, but it probably would have"
+  },
+  {
+    "start": 458.42,
+    "end": 461.74,
+    "speaker": "SPEAKER_03",
+    "text": "an immaterial boost between the two options when she starts going to tour or build a new"
+  },
+  {
+    "start": 461.74,
+    "end": 462.74,
+    "speaker": "SPEAKER_03",
+    "text": "album."
+  },
+  {
+    "start": 462.74,
+    "end": 466.26,
+    "speaker": "SPEAKER_03",
+    "text": "So I'm certainly going to ignore it throughout this."
+  },
+  {
+    "start": 466.26,
+    "end": 469.22,
+    "speaker": "SPEAKER_03",
+    "text": "I'll certainly start in terms of financial considerations for the tour."
+  },
+  {
+    "start": 469.22,
+    "end": 472.94000000000005,
+    "speaker": "SPEAKER_03",
+    "text": "And I'm going to look at this in terms of revenue and cost from a revenue perspective."
+  },
+  {
+    "start": 472.94000000000005,
+    "end": 476.94000000000005,
+    "speaker": "SPEAKER_03",
+    "text": "I want to look at this initial in terms of the number of venues with shows that she is"
+  },
+  {
+    "start": 476.94000000000005,
+    "end": 477.94000000000005,
+    "speaker": "SPEAKER_03",
+    "text": "going to put on."
+  },
+  {
+    "start": 477.94000000000005,
+    "end": 482.78000000000003,
+    "speaker": "SPEAKER_03",
+    "text": "So how many on a per week basis and then how much how many does that intend to go over"
+  },
+  {
+    "start": 482.78000000000003,
+    "end": 483.78000000000003,
+    "speaker": "SPEAKER_03",
+    "text": "the whole 18 months?"
+  },
+  {
+    "start": 483.78000000000003,
+    "end": 485.98,
+    "speaker": "SPEAKER_03",
+    "text": "I also want to look at ticket sold."
+  },
+  {
+    "start": 485.98,
+    "end": 489.74,
+    "speaker": "SPEAKER_03",
+    "text": "And this is probably going to be primarily a turn terms of the venue size."
+  },
+  {
+    "start": 489.74,
+    "end": 492.34000000000003,
+    "speaker": "SPEAKER_03",
+    "text": "And then also the price for ticket you had referenced earlier."
+  },
+  {
+    "start": 492.34000000000003,
+    "end": 497.5,
+    "speaker": "SPEAKER_03",
+    "text": "And we had this individual premium style 200 500, but perhaps that cost is going to increase"
+  },
+  {
+    "start": 497.5,
+    "end": 498.78000000000003,
+    "speaker": "SPEAKER_03",
+    "text": "given that she's more popular now."
+  },
+  {
+    "start": 499.5,
+    "end": 503.02,
+    "speaker": "SPEAKER_03",
+    "text": "I also want to look at this in terms of add on rock."
+  },
+  {
+    "start": 503.02,
+    "end": 506.85999999999996,
+    "speaker": "SPEAKER_03",
+    "text": "So I guess, you know, album sold whether that's physical merchandise that she can sell"
+  },
+  {
+    "start": 506.85999999999996,
+    "end": 509.38,
+    "speaker": "SPEAKER_03",
+    "text": "while she's on tour at the tour venue."
+  },
+  {
+    "start": 509.38,
+    "end": 511.61999999999995,
+    "speaker": "SPEAKER_03",
+    "text": "And then also potential sponsors of the tour."
+  },
+  {
+    "start": 511.61999999999995,
+    "end": 515.22,
+    "speaker": "SPEAKER_03",
+    "text": "Can we get some big companies to actually put a little money and we put up, you know,"
+  },
+  {
+    "start": 515.22,
+    "end": 518.3,
+    "speaker": "SPEAKER_03",
+    "text": "banners and, you know, brand of them throughout."
+  },
+  {
+    "start": 518.3,
+    "end": 522.66,
+    "speaker": "SPEAKER_03",
+    "text": "Then from the cost side of the tour financial considerations, look at this in terms of fixed"
+  },
+  {
+    "start": 522.66,
+    "end": 523.66,
+    "speaker": "SPEAKER_03",
+    "text": "in there."
+  },
+  {
+    "start": 523.66,
+    "end": 525.62,
+    "speaker": "SPEAKER_03",
+    "text": "From a fixed perspective, we have the venue."
+  },
+  {
+    "start": 525.62,
+    "end": 529.22,
+    "speaker": "SPEAKER_03",
+    "text": "We have the hotel transport insurance marketing."
+  },
+  {
+    "start": 529.22,
+    "end": 531.74,
+    "speaker": "SPEAKER_03",
+    "text": "So big expenditures just throughout."
+  },
+  {
+    "start": 531.74,
+    "end": 535.26,
+    "speaker": "SPEAKER_03",
+    "text": "But then from the variable cost, you know, I imagine a large portion of this is going"
+  },
+  {
+    "start": 535.26,
+    "end": 541.9,
+    "speaker": "SPEAKER_03",
+    "text": "to be labor, either for set up and tear down at the different venues and sessions security."
+  },
+  {
+    "start": 541.9,
+    "end": 545.7,
+    "speaker": "SPEAKER_03",
+    "text": "I now want to move over and compare this to financial considerations for the album."
+  },
+  {
+    "start": 545.7,
+    "end": 550.7,
+    "speaker": "SPEAKER_03",
+    "text": "So again, same thing broken down in terms of revenue and cost from a revenue perspective."
+  },
+  {
+    "start": 550.7,
+    "end": 552.34,
+    "speaker": "SPEAKER_03",
+    "text": "That's the price per stream."
+  },
+  {
+    "start": 552.34,
+    "end": 556.62,
+    "speaker": "SPEAKER_03",
+    "text": "So we know that was about $4.005 per stream."
+  },
+  {
+    "start": 556.62,
+    "end": 561.3000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "So how did that then scale as we have more songs from this album?"
+  },
+  {
+    "start": 561.3000000000001,
+    "end": 564.98,
+    "speaker": "SPEAKER_03",
+    "text": "I also want to look at the royalties paid, whether that's going to necessarily factor in"
+  },
+  {
+    "start": 564.98,
+    "end": 567.86,
+    "speaker": "SPEAKER_03",
+    "text": "as well for Stella and then does go up themselves."
+  },
+  {
+    "start": 567.86,
+    "end": 572.0600000000001,
+    "speaker": "SPEAKER_03",
+    "text": "You know, that was something I was starting surprised about was quite a large number."
+  },
+  {
+    "start": 572.0600000000001,
+    "end": 574.46,
+    "speaker": "SPEAKER_03",
+    "text": "Now in terms of cost side of the bell."
+  },
+  {
+    "start": 574.46,
+    "end": 578.1800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "So in terms of fixed costs, there's going to be probably huge costs in terms of studio"
+  },
+  {
+    "start": 578.18,
+    "end": 582.14,
+    "speaker": "SPEAKER_03",
+    "text": "rental, the producers, manufacturing the album marketing as well."
+  },
+  {
+    "start": 582.14,
+    "end": 584.9399999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Maybe we have to pay a management fee too."
+  },
+  {
+    "start": 584.9399999999999,
+    "end": 587.62,
+    "speaker": "SPEAKER_03",
+    "text": "And then from a variable cost side, you know, a primary similar."
+  },
+  {
+    "start": 587.62,
+    "end": 593.66,
+    "speaker": "SPEAKER_03",
+    "text": "We have royalties for writers, featured artists on it, studio equipment, distribution"
+  },
+  {
+    "start": 593.66,
+    "end": 596.18,
+    "speaker": "SPEAKER_03",
+    "text": "that we might have to write out."
+  },
+  {
+    "start": 596.18,
+    "end": 599.02,
+    "speaker": "SPEAKER_03",
+    "text": "So that's kind of like financial considerations across both ends."
+  },
+  {
+    "start": 599.02,
+    "end": 603.4599999999999,
+    "speaker": "SPEAKER_03",
+    "text": "I also now want to jump down to brand image and how that might differ between the options."
+  },
+  {
+    "start": 603.4599999999999,
+    "end": 607.62,
+    "speaker": "SPEAKER_03",
+    "text": "In terms of brand image for the tour, it's the opportunity to really expand internationally"
+  },
+  {
+    "start": 607.74,
+    "end": 608.62,
+    "speaker": "SPEAKER_03",
+    "text": "for better."
+  },
+  {
+    "start": 608.62,
+    "end": 611.66,
+    "speaker": "SPEAKER_03",
+    "text": "You know, let's can we grab more fan base as we do this."
+  },
+  {
+    "start": 611.66,
+    "end": 614.9,
+    "speaker": "SPEAKER_03",
+    "text": "Can we engage with the fan base, even better, which was something Stella had brought her"
+  },
+  {
+    "start": 614.9,
+    "end": 616.22,
+    "speaker": "SPEAKER_03",
+    "text": "previously."
+  },
+  {
+    "start": 616.22,
+    "end": 618.02,
+    "speaker": "SPEAKER_03",
+    "text": "And then there's also a downside to this."
+  },
+  {
+    "start": 618.02,
+    "end": 619.42,
+    "speaker": "SPEAKER_03",
+    "text": "Could it be overexposed?"
+  },
+  {
+    "start": 619.42,
+    "end": 621.1,
+    "speaker": "SPEAKER_03",
+    "text": "She's no longer as much as her."
+  },
+  {
+    "start": 621.1,
+    "end": 625.3,
+    "speaker": "SPEAKER_03",
+    "text": "She towards six years ago, maybe we're just going to have too much exposure, but comparing"
+  },
+  {
+    "start": 625.3,
+    "end": 627.94,
+    "speaker": "SPEAKER_03",
+    "text": "this to brand image for the album."
+  },
+  {
+    "start": 627.94,
+    "end": 630.62,
+    "speaker": "SPEAKER_03",
+    "text": "The album is really interesting because it could be fresh or image."
+  },
+  {
+    "start": 630.62,
+    "end": 635.62,
+    "speaker": "SPEAKER_03",
+    "text": "It could bring about more notoriety in the larger market, but it could also jeopardize"
+  },
+  {
+    "start": 635.62,
+    "end": 638.42,
+    "speaker": "SPEAKER_03",
+    "text": "her if it expands too far off what people know her for."
+  },
+  {
+    "start": 638.42,
+    "end": 642.46,
+    "speaker": "SPEAKER_03",
+    "text": "And on the big edge, she or in Van A No Edg Sheeran was certainly hit with some of this"
+  },
+  {
+    "start": 642.46,
+    "end": 644.66,
+    "speaker": "SPEAKER_03",
+    "text": "early on as album that was very different sounds."
+  },
+  {
+    "start": 644.66,
+    "end": 649.78,
+    "speaker": "SPEAKER_03",
+    "text": "So our a lot of the fan base initially weren't as receptive to that as they probably could"
+  },
+  {
+    "start": 649.78,
+    "end": 650.78,
+    "speaker": "SPEAKER_03",
+    "text": "have been."
+  },
+  {
+    "start": 650.78,
+    "end": 653.86,
+    "speaker": "SPEAKER_03",
+    "text": "And then finally, to finish off, intangible costs."
+  },
+  {
+    "start": 653.86,
+    "end": 657.98,
+    "speaker": "SPEAKER_03",
+    "text": "So these intangible things from the tour to 18 months, I have to imagine your physical"
+  },
+  {
+    "start": 657.98,
+    "end": 660.98,
+    "speaker": "SPEAKER_03",
+    "text": "health, your mental health will really take a toll."
+  },
+  {
+    "start": 660.98,
+    "end": 664.94,
+    "speaker": "SPEAKER_03",
+    "text": "And then looking at this from the album, it's a stress-run new release, expectations,"
+  },
+  {
+    "start": 664.94,
+    "end": 667.2600000000001,
+    "speaker": "SPEAKER_03",
+    "text": "like you said from the fans."
+  },
+  {
+    "start": 667.2600000000001,
+    "end": 671.94,
+    "speaker": "SPEAKER_03",
+    "text": "So those really kind of like three increments of financial consideration, brand image, intangible"
+  },
+  {
+    "start": 671.94,
+    "end": 673.6600000000001,
+    "speaker": "SPEAKER_03",
+    "text": "costs, really how we want to look at these."
+  },
+  {
+    "start": 673.6600000000001,
+    "end": 678.1400000000001,
+    "speaker": "SPEAKER_03",
+    "text": "But I think we really want to start with financial consideration, given that that's probably"
+  },
+  {
+    "start": 678.1400000000001,
+    "end": 683.0200000000001,
+    "speaker": "SPEAKER_03",
+    "text": "going to have a big driver in terms of still wanting that kind of like maximize short term"
+  },
+  {
+    "start": 683.0200000000001,
+    "end": 684.0200000000001,
+    "speaker": "SPEAKER_03",
+    "text": "value."
+  },
+  {
+    "start": 684.0200000000001,
+    "end": 687.4200000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Have they given us any considerations or any information regarding them currently?"
+  },
+  {
+    "start": 687.4200000000001,
+    "end": 688.4200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Got it."
+  },
+  {
+    "start": 688.4200000000001,
+    "end": 691.1800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So I like the structural optimization, but thanks for that."
+  },
+  {
+    "start": 691.18,
+    "end": 696.9399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I like the acquisition of financial assessment as well as the two other criteria that you"
+  },
+  {
+    "start": 696.9399999999999,
+    "end": 697.9399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "bring in."
+  },
+  {
+    "start": 697.9399999999999,
+    "end": 699.3399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Just want to some curious over here."
+  },
+  {
+    "start": 699.3399999999999,
+    "end": 707.3,
+    "speaker": "SPEAKER_00",
+    "text": "When you talk of brand and image for Stella, how would you analyze whether either a touring"
+  },
+  {
+    "start": 707.3,
+    "end": 711.62,
+    "speaker": "SPEAKER_00",
+    "text": "might enhance a brand or let's say production of a musical, but then I answer that."
+  },
+  {
+    "start": 711.62,
+    "end": 714.7399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "How do you think through that specific question?"
+  },
+  {
+    "start": 714.7399999999999,
+    "end": 715.74,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 715.74,
+    "end": 719.9799999999999,
+    "speaker": "SPEAKER_03",
+    "text": "So just to clarify, you're asking brand image in terms of those two options, whether"
+  },
+  {
+    "start": 719.98,
+    "end": 722.22,
+    "speaker": "SPEAKER_03",
+    "text": "you would enhance or decline it."
+  },
+  {
+    "start": 722.22,
+    "end": 723.22,
+    "speaker": "SPEAKER_00",
+    "text": "Absolutely."
+  },
+  {
+    "start": 723.22,
+    "end": 724.22,
+    "speaker": "SPEAKER_00",
+    "text": "That's right."
+  },
+  {
+    "start": 724.22,
+    "end": 725.22,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, it's a great question."
+  },
+  {
+    "start": 725.22,
+    "end": 731.54,
+    "speaker": "SPEAKER_03",
+    "text": "I know there's a number of consulting firms that specifically focus on brand."
+  },
+  {
+    "start": 731.54,
+    "end": 734.86,
+    "speaker": "SPEAKER_03",
+    "text": "L2 was one that certainly claims to mind, Garner does it as well."
+  },
+  {
+    "start": 734.86,
+    "end": 739.1800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "So it'd be really interesting to gauge across their weighted metrics to see what we should"
+  },
+  {
+    "start": 739.1800000000001,
+    "end": 742.0600000000001,
+    "speaker": "SPEAKER_03",
+    "text": "be focusing on and how we would certainly rank that."
+  },
+  {
+    "start": 742.0600000000001,
+    "end": 746.1800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "If I had to think about like how I would personally rank that, I'd want to be able to survey"
+  },
+  {
+    "start": 746.18,
+    "end": 750.3399999999999,
+    "speaker": "SPEAKER_03",
+    "text": "a lot of our fan base material number before and after."
+  },
+  {
+    "start": 750.3399999999999,
+    "end": 755.66,
+    "speaker": "SPEAKER_03",
+    "text": "I'd also want to gauge in terms of chat rooms and websites where we're really promoting"
+  },
+  {
+    "start": 755.66,
+    "end": 759.4599999999999,
+    "speaker": "SPEAKER_03",
+    "text": "how that is being ranked as well as in a positive sentiment, is it negative sentiment"
+  },
+  {
+    "start": 759.4599999999999,
+    "end": 761.2199999999999,
+    "speaker": "SPEAKER_03",
+    "text": "kind of over time."
+  },
+  {
+    "start": 761.2199999999999,
+    "end": 764.54,
+    "speaker": "SPEAKER_03",
+    "text": "And then as well, you can finally look in terms of financial growth afterwards."
+  },
+  {
+    "start": 764.54,
+    "end": 768.4599999999999,
+    "speaker": "SPEAKER_03",
+    "text": "I imagine there's going to be a time frame where you have to wait maybe a short time"
+  },
+  {
+    "start": 768.4599999999999,
+    "end": 769.9799999999999,
+    "speaker": "SPEAKER_03",
+    "text": "from where people are still very excited."
+  },
+  {
+    "start": 769.9799999999999,
+    "end": 775.0999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "But over the long term, are we still able to have financial success after say this"
+  },
+  {
+    "start": 775.1,
+    "end": 779.3000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "album or this or likely we were able to last album been last four or six years ago."
+  },
+  {
+    "start": 779.3000000000001,
+    "end": 784.1800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "So how to be trained after six months, is it returning the same or even more successful"
+  },
+  {
+    "start": 784.1800000000001,
+    "end": 788.34,
+    "speaker": "SPEAKER_03",
+    "text": "or is it really declining or seeing a negative sentiment in our fan base?"
+  },
+  {
+    "start": 788.34,
+    "end": 789.34,
+    "speaker": "SPEAKER_00",
+    "text": "Got it."
+  },
+  {
+    "start": 789.34,
+    "end": 790.34,
+    "speaker": "SPEAKER_00",
+    "text": "Great."
+  },
+  {
+    "start": 790.34,
+    "end": 794.62,
+    "speaker": "SPEAKER_00",
+    "text": "Thanks a lot for that insight and that analysis."
+  },
+  {
+    "start": 794.62,
+    "end": 800.86,
+    "speaker": "SPEAKER_00",
+    "text": "Now in terms of financial analysis that you wanted to make, what could make more money"
+  },
+  {
+    "start": 800.86,
+    "end": 804.98,
+    "speaker": "SPEAKER_00",
+    "text": "for stylized, during or is it production of a music album?"
+  },
+  {
+    "start": 804.98,
+    "end": 806.54,
+    "speaker": "SPEAKER_00",
+    "text": "So let's start with the story."
+  },
+  {
+    "start": 806.54,
+    "end": 813.62,
+    "speaker": "SPEAKER_00",
+    "text": "So how would you estimate how much profits stylized would make in an 18 month tour?"
+  },
+  {
+    "start": 813.62,
+    "end": 818.54,
+    "speaker": "SPEAKER_00",
+    "text": "What are the factors that you would consider in terms of revenue as well as in terms of cost"
+  },
+  {
+    "start": 818.54,
+    "end": 819.54,
+    "speaker": "SPEAKER_00",
+    "text": "aspects?"
+  },
+  {
+    "start": 819.54,
+    "end": 820.54,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 820.54,
+    "end": 821.54,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, very interesting."
+  },
+  {
+    "start": 821.54,
+    "end": 823.66,
+    "speaker": "SPEAKER_03",
+    "text": "So I want to focus on one at a time."
+  },
+  {
+    "start": 823.66,
+    "end": 828.1,
+    "speaker": "SPEAKER_03",
+    "text": "So let me focus on perhaps revenue first for this one."
+  },
+  {
+    "start": 828.1,
+    "end": 831.5,
+    "speaker": "SPEAKER_03",
+    "text": "So I want to look at on a per show basis."
+  },
+  {
+    "start": 831.5,
+    "end": 835.22,
+    "speaker": "SPEAKER_03",
+    "text": "I imagine the revenue is going to be a factor of the number of shows."
+  },
+  {
+    "start": 835.22,
+    "end": 839.98,
+    "speaker": "SPEAKER_03",
+    "text": "So how many shows is she doing the number of tickets sold per show?"
+  },
+  {
+    "start": 839.98,
+    "end": 842.58,
+    "speaker": "SPEAKER_03",
+    "text": "So that really kind of that venue size of factor."
+  },
+  {
+    "start": 842.58,
+    "end": 847.58,
+    "speaker": "SPEAKER_03",
+    "text": "I was on a multiply by the revenue for a ticket and how we're going to divide that out."
+  },
+  {
+    "start": 847.58,
+    "end": 851.22,
+    "speaker": "SPEAKER_03",
+    "text": "I know we referenced individual premium earlier."
+  },
+  {
+    "start": 851.22,
+    "end": 855.02,
+    "speaker": "SPEAKER_03",
+    "text": "And then I also want to add other revenue options, other revenue options being the merchant"
+  },
+  {
+    "start": 855.02,
+    "end": 857.1800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "dice and album sales."
+  },
+  {
+    "start": 857.18,
+    "end": 860.62,
+    "speaker": "SPEAKER_03",
+    "text": "So perhaps I can start breaking each of those down."
+  },
+  {
+    "start": 860.62,
+    "end": 861.62,
+    "speaker": "SPEAKER_00",
+    "text": "Good."
+  },
+  {
+    "start": 861.62,
+    "end": 862.62,
+    "speaker": "SPEAKER_00",
+    "text": "I think that's good."
+  },
+  {
+    "start": 862.62,
+    "end": 867.6999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I think we can start through those four factors that you've just listed."
+  },
+  {
+    "start": 867.6999999999999,
+    "end": 873.26,
+    "speaker": "SPEAKER_00",
+    "text": "Now in terms of the number of shows, what I can tell you is that, you know, Stella makes"
+  },
+  {
+    "start": 873.26,
+    "end": 880.06,
+    "speaker": "SPEAKER_00",
+    "text": "it look effortless, but actually it's quite physically and emotionally demanding."
+  },
+  {
+    "start": 880.06,
+    "end": 884.74,
+    "speaker": "SPEAKER_00",
+    "text": "So in a show, for example, you have to remember the lines, you have to sing, you have to"
+  },
+  {
+    "start": 884.74,
+    "end": 886.14,
+    "speaker": "SPEAKER_00",
+    "text": "dance, engage with your fans."
+  },
+  {
+    "start": 886.14,
+    "end": 887.14,
+    "speaker": "SPEAKER_00",
+    "text": "It's not easy."
+  },
+  {
+    "start": 887.14,
+    "end": 888.14,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 888.14,
+    "end": 893.74,
+    "speaker": "SPEAKER_00",
+    "text": "So I would say she can perhaps do three to four shows a week and but not more than that."
+  },
+  {
+    "start": 893.74,
+    "end": 894.74,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 894.74,
+    "end": 897.74,
+    "speaker": "SPEAKER_03",
+    "text": "So that's fantastic to know."
+  },
+  {
+    "start": 897.74,
+    "end": 901.42,
+    "speaker": "SPEAKER_03",
+    "text": "And so in terms of that kind of three to four shows per week, what I'd want to do is"
+  },
+  {
+    "start": 901.42,
+    "end": 903.42,
+    "speaker": "SPEAKER_03",
+    "text": "probably average that to about 3.5."
+  },
+  {
+    "start": 903.42,
+    "end": 906.42,
+    "speaker": "SPEAKER_03",
+    "text": "We'll see how that comes out at the end of the calculation because of course you can't"
+  },
+  {
+    "start": 906.42,
+    "end": 907.42,
+    "speaker": "SPEAKER_03",
+    "text": "have a half a show."
+  },
+  {
+    "start": 907.42,
+    "end": 908.42,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 908.42,
+    "end": 914.7,
+    "speaker": "SPEAKER_03",
+    "text": "And so understanding that we have 18 month tour by roughly four weeks per month."
+  },
+  {
+    "start": 914.74,
+    "end": 917.74,
+    "speaker": "SPEAKER_03",
+    "text": "So that would give us 72 weeks."
+  },
+  {
+    "start": 917.74,
+    "end": 921.98,
+    "speaker": "SPEAKER_03",
+    "text": "And so what some months or longer some are short about what kind of like skew on the"
+  },
+  {
+    "start": 921.98,
+    "end": 923.7,
+    "speaker": "SPEAKER_03",
+    "text": "old or the longer app."
+  },
+  {
+    "start": 923.7,
+    "end": 927.34,
+    "speaker": "SPEAKER_03",
+    "text": "So you know what I'm going to use is about 75 weeks for this tour."
+  },
+  {
+    "start": 927.34,
+    "end": 928.74,
+    "speaker": "SPEAKER_03",
+    "text": "Start it out."
+  },
+  {
+    "start": 928.74,
+    "end": 935.7800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "And so what I want to do is 75 weeks times 3.5 shows per week that 3.5 average that we have"
+  },
+  {
+    "start": 935.7800000000001,
+    "end": 936.7800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "referenced."
+  },
+  {
+    "start": 936.7800000000001,
+    "end": 942.82,
+    "speaker": "SPEAKER_03",
+    "text": "And that is so I know 75 times three is 225 and 75 half of that is 37 and a half."
+  },
+  {
+    "start": 942.86,
+    "end": 948.4200000000001,
+    "speaker": "SPEAKER_03",
+    "text": "So that's going to be 262 and a half shows over the total time."
+  },
+  {
+    "start": 948.4200000000001,
+    "end": 952.82,
+    "speaker": "SPEAKER_03",
+    "text": "Now again, to my earlier point, and of course, naturally we can not have a half a show."
+  },
+  {
+    "start": 952.82,
+    "end": 957.1800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "That would say that also feels high and that's fine for me rounding previously, rounding"
+  },
+  {
+    "start": 957.1800000000001,
+    "end": 958.1800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "up."
+  },
+  {
+    "start": 958.1800000000001,
+    "end": 963.38,
+    "speaker": "SPEAKER_03",
+    "text": "So I'd like to use about 260 shows that she might have heard of that sounds to yourself"
+  },
+  {
+    "start": 963.38,
+    "end": 964.38,
+    "speaker": "SPEAKER_03",
+    "text": "in terms of."
+  },
+  {
+    "start": 964.38,
+    "end": 965.38,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, that's fine."
+  },
+  {
+    "start": 965.38,
+    "end": 966.38,
+    "speaker": "SPEAKER_00",
+    "text": "That makes sense."
+  },
+  {
+    "start": 966.38,
+    "end": 968.3800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 968.3800000000001,
+    "end": 969.3800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 969.3800000000001,
+    "end": 972.3800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "So that gives me the first piece of that equation, a number of shows."
+  },
+  {
+    "start": 972.42,
+    "end": 975.74,
+    "speaker": "SPEAKER_03",
+    "text": "I also now want to move on to number of ticket sold."
+  },
+  {
+    "start": 975.74,
+    "end": 979.9,
+    "speaker": "SPEAKER_03",
+    "text": "So in Tumberns numbers ticket sold on a first show basis."
+  },
+  {
+    "start": 979.9,
+    "end": 986.78,
+    "speaker": "SPEAKER_03",
+    "text": "I want to look at so I know prize benchmark average size of a football stadium in the US,"
+  },
+  {
+    "start": 986.78,
+    "end": 989.86,
+    "speaker": "SPEAKER_03",
+    "text": "which is part of me on the larger end is about 60 to 70,000 seats."
+  },
+  {
+    "start": 989.86,
+    "end": 994.66,
+    "speaker": "SPEAKER_03",
+    "text": "Now again, America, it's time to be a little over the top with our stadium sizes."
+  },
+  {
+    "start": 994.66,
+    "end": 999.82,
+    "speaker": "SPEAKER_03",
+    "text": "So I imagine that Estella performs internationally."
+  },
+  {
+    "start": 999.82,
+    "end": 1003.58,
+    "speaker": "SPEAKER_03",
+    "text": "And across these many different stadiums of different sizes, I imagine probably something"
+  },
+  {
+    "start": 1003.58,
+    "end": 1008.3000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "a little smaller, maybe on average about 50,000 seats and she's a big time artist."
+  },
+  {
+    "start": 1008.3000000000001,
+    "end": 1011.34,
+    "speaker": "SPEAKER_03",
+    "text": "So I imagine that's the majority is going to be a 100% build out."
+  },
+  {
+    "start": 1011.34,
+    "end": 1014.5,
+    "speaker": "SPEAKER_03",
+    "text": "I'm thinking like a Beyonce and Taylor Swift poor like you're always scream when you get"
+  },
+  {
+    "start": 1014.5,
+    "end": 1015.5,
+    "speaker": "SPEAKER_03",
+    "text": "those tickets."
+  },
+  {
+    "start": 1015.5,
+    "end": 1017.3000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Is that 50,000 kind of a good average?"
+  },
+  {
+    "start": 1017.3000000000001,
+    "end": 1019.0200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And that's about right then."
+  },
+  {
+    "start": 1019.0200000000001,
+    "end": 1023.1400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "You can assume 50,000 tickets sold for a show."
+  },
+  {
+    "start": 1023.1400000000001,
+    "end": 1024.14,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1024.14,
+    "end": 1025.14,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1025.14,
+    "end": 1027.5,
+    "speaker": "SPEAKER_03",
+    "text": "And so now I want to look at ticket revenue."
+  },
+  {
+    "start": 1027.5,
+    "end": 1033.34,
+    "speaker": "SPEAKER_03",
+    "text": "So you would reference earlier the kind of two tickets approach to that individual"
+  },
+  {
+    "start": 1033.34,
+    "end": 1034.34,
+    "speaker": "SPEAKER_03",
+    "text": "and premium."
+  },
+  {
+    "start": 1034.34,
+    "end": 1040.14,
+    "speaker": "SPEAKER_03",
+    "text": "The individual at the time was about 200 and then the premium was about 500."
+  },
+  {
+    "start": 1040.14,
+    "end": 1044.22,
+    "speaker": "SPEAKER_03",
+    "text": "But we said that we could probably bump up those ticket prices."
+  },
+  {
+    "start": 1044.22,
+    "end": 1052.42,
+    "speaker": "SPEAKER_03",
+    "text": "I also imagine in terms of if we had to gauge the premium versus individual, I can certainly"
+  },
+  {
+    "start": 1052.42,
+    "end": 1055.3,
+    "speaker": "SPEAKER_03",
+    "text": "take a benchmark and you know, understanding what that split is."
+  },
+  {
+    "start": 1055.3,
+    "end": 1058.86,
+    "speaker": "SPEAKER_03",
+    "text": "So have they given us any kind of information to understand what that split in individual"
+  },
+  {
+    "start": 1058.86,
+    "end": 1061.62,
+    "speaker": "SPEAKER_03",
+    "text": "premium seats as a percentage might be?"
+  },
+  {
+    "start": 1061.62,
+    "end": 1062.62,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1062.62,
+    "end": 1065.06,
+    "speaker": "SPEAKER_00",
+    "text": "So typically it's 80, 20, right?"
+  },
+  {
+    "start": 1065.06,
+    "end": 1070.7,
+    "speaker": "SPEAKER_00",
+    "text": "80% of the seats is basic seats, normal seats and 20% of premium seats."
+  },
+  {
+    "start": 1070.7,
+    "end": 1072.8999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "That's what we see with a lot of pop artists."
+  },
+  {
+    "start": 1072.8999999999999,
+    "end": 1073.8999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1073.8999999999999,
+    "end": 1075.6599999999999,
+    "speaker": "SPEAKER_03",
+    "text": "So that really helps a lot."
+  },
+  {
+    "start": 1075.6599999999999,
+    "end": 1081.6599999999999,
+    "speaker": "SPEAKER_03",
+    "text": "So understanding if we run with the 50,000 seats, that 80% individual would be about 40,000"
+  },
+  {
+    "start": 1081.66,
+    "end": 1088.3000000000002,
+    "speaker": "SPEAKER_03",
+    "text": "seats and then that kind of 20% premium would be the additional 10,000 seats in the stadium."
+  },
+  {
+    "start": 1088.3000000000002,
+    "end": 1089.3000000000002,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1089.3000000000002,
+    "end": 1094.94,
+    "speaker": "SPEAKER_03",
+    "text": "And so then using those ticket prices previously, 200, 300, what I want to do is start gauging"
+  },
+  {
+    "start": 1094.94,
+    "end": 1097.42,
+    "speaker": "SPEAKER_03",
+    "text": "how much more we can price those up."
+  },
+  {
+    "start": 1097.42,
+    "end": 1102.74,
+    "speaker": "SPEAKER_03",
+    "text": "When I imagine that if we think about the individual seats, prime, far more price conscious"
+  },
+  {
+    "start": 1102.74,
+    "end": 1107.0600000000002,
+    "speaker": "SPEAKER_03",
+    "text": "consumer, still crazy fans still want to go, but aren't going to be paying, you know,"
+  },
+  {
+    "start": 1107.0600000000002,
+    "end": 1108.38,
+    "speaker": "SPEAKER_03",
+    "text": "a substantial amount more."
+  },
+  {
+    "start": 1108.94,
+    "end": 1113.94,
+    "speaker": "SPEAKER_03",
+    "text": "Thinking about maybe $100 more, so about $300 per ticket, does that sound, you know,"
+  },
+  {
+    "start": 1113.94,
+    "end": 1115.8200000000002,
+    "speaker": "SPEAKER_03",
+    "text": "rep out right for yourself?"
+  },
+  {
+    "start": 1115.8200000000002,
+    "end": 1116.8200000000002,
+    "speaker": "SPEAKER_03",
+    "text": "That makes sense."
+  },
+  {
+    "start": 1116.8200000000002,
+    "end": 1118.8200000000002,
+    "speaker": "SPEAKER_00",
+    "text": "You can assume 300."
+  },
+  {
+    "start": 1118.8200000000002,
+    "end": 1119.8200000000002,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1119.8200000000002,
+    "end": 1123.7800000000002,
+    "speaker": "SPEAKER_03",
+    "text": "Then the premium, and I know, you know, I'm living in Chicago, the onsenus came back"
+  },
+  {
+    "start": 1123.7800000000002,
+    "end": 1124.7800000000002,
+    "speaker": "SPEAKER_03",
+    "text": "through."
+  },
+  {
+    "start": 1124.7800000000002,
+    "end": 1129.2600000000002,
+    "speaker": "SPEAKER_03",
+    "text": "I knew some of those prices were just, you know, I imagine these consumer's premium seats"
+  },
+  {
+    "start": 1129.2600000000002,
+    "end": 1134.18,
+    "speaker": "SPEAKER_03",
+    "text": "might be willing to spend it considerably more and, you know, if I had to benchmark how"
+  },
+  {
+    "start": 1134.18,
+    "end": 1138.3000000000002,
+    "speaker": "SPEAKER_03",
+    "text": "much more I want to say, price something in the world of like a thousand dollars a ticket"
+  },
+  {
+    "start": 1138.3,
+    "end": 1141.34,
+    "speaker": "SPEAKER_03",
+    "text": "so something, you know, double the price of that previous fabric."
+  },
+  {
+    "start": 1141.34,
+    "end": 1142.98,
+    "speaker": "SPEAKER_03",
+    "text": "How's that kind of sound for yourself?"
+  },
+  {
+    "start": 1142.98,
+    "end": 1143.98,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1143.98,
+    "end": 1144.98,
+    "speaker": "SPEAKER_00",
+    "text": "So you're right, Ben."
+  },
+  {
+    "start": 1144.98,
+    "end": 1151.3799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I think there will be a lot of VIPs attending stellar shows and they will be paying a lot"
+  },
+  {
+    "start": 1151.3799999999999,
+    "end": 1152.3799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "more money."
+  },
+  {
+    "start": 1152.3799999999999,
+    "end": 1157.26,
+    "speaker": "SPEAKER_00",
+    "text": "So I think $1,000, since about right, that's, you can assume $1,000 to be the premium"
+  },
+  {
+    "start": 1157.26,
+    "end": 1158.98,
+    "speaker": "SPEAKER_00",
+    "text": "price for the premium seat."
+  },
+  {
+    "start": 1158.98,
+    "end": 1159.98,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1159.98,
+    "end": 1160.98,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1160.98,
+    "end": 1161.98,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1161.98,
+    "end": 1163.5,
+    "speaker": "SPEAKER_03",
+    "text": "So now let me kind of put that together."
+  },
+  {
+    "start": 1163.5,
+    "end": 1170.22,
+    "speaker": "SPEAKER_03",
+    "text": "So we have the $300 individual seat times 40,000 individual seats altogether, three times"
+  },
+  {
+    "start": 1170.22,
+    "end": 1171.22,
+    "speaker": "SPEAKER_03",
+    "text": "four or 12."
+  },
+  {
+    "start": 1171.22,
+    "end": 1173.98,
+    "speaker": "SPEAKER_03",
+    "text": "That's going to be 12 million, once you add them to zeros."
+  },
+  {
+    "start": 1173.98,
+    "end": 1180.02,
+    "speaker": "SPEAKER_03",
+    "text": "And I want to add that 12 million on to the $1,000 per premium seat times 10,000 premium"
+  },
+  {
+    "start": 1180.02,
+    "end": 1181.18,
+    "speaker": "SPEAKER_03",
+    "text": "chairs."
+  },
+  {
+    "start": 1181.18,
+    "end": 1183.74,
+    "speaker": "SPEAKER_03",
+    "text": "And that is going to be not going to zero."
+  },
+  {
+    "start": 1183.74,
+    "end": 1184.74,
+    "speaker": "SPEAKER_03",
+    "text": "That's going to be 10 million."
+  },
+  {
+    "start": 1184.74,
+    "end": 1189.5,
+    "speaker": "SPEAKER_03",
+    "text": "So we're going to have this 12 million dollar from individual seats plus 10 million"
+  },
+  {
+    "start": 1189.5,
+    "end": 1190.5,
+    "speaker": "SPEAKER_03",
+    "text": "for premium seats."
+  },
+  {
+    "start": 1190.5,
+    "end": 1196.94,
+    "speaker": "SPEAKER_03",
+    "text": "And that now actually gives me $22 million per show for the revenue from tickets."
+  },
+  {
+    "start": 1196.94,
+    "end": 1197.94,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1197.94,
+    "end": 1202.82,
+    "speaker": "SPEAKER_03",
+    "text": "And what I want to do is before I calculate, props the additional revenue options to"
+  },
+  {
+    "start": 1202.82,
+    "end": 1205.38,
+    "speaker": "SPEAKER_03",
+    "text": "the side, I might want to use a percentage of this."
+  },
+  {
+    "start": 1205.38,
+    "end": 1209.1,
+    "speaker": "SPEAKER_03",
+    "text": "What I want to do is the full revenue for all those shows, because we had calculated"
+  },
+  {
+    "start": 1209.1,
+    "end": 1211.7,
+    "speaker": "SPEAKER_03",
+    "text": "having roughly 260 shows."
+  },
+  {
+    "start": 1211.7,
+    "end": 1218.5,
+    "speaker": "SPEAKER_03",
+    "text": "So that's going to be $22 million per show from tickets times the 2260 shows that was"
+  },
+  {
+    "start": 1218.5,
+    "end": 1219.5,
+    "speaker": "SPEAKER_03",
+    "text": "all together."
+  },
+  {
+    "start": 1219.5,
+    "end": 1224.18,
+    "speaker": "SPEAKER_03",
+    "text": "Effectively, I know 22, I'm just going to cut this down into pieces 22 times 200."
+  },
+  {
+    "start": 1224.18,
+    "end": 1228.5,
+    "speaker": "SPEAKER_03",
+    "text": "That's going to be 4.4 billion 22 times 60."
+  },
+  {
+    "start": 1228.5,
+    "end": 1232.5,
+    "speaker": "SPEAKER_03",
+    "text": "That's going to be 132."
+  },
+  {
+    "start": 1232.5,
+    "end": 1233.5,
+    "speaker": "SPEAKER_03",
+    "text": "So 1.32 billion."
+  },
+  {
+    "start": 1233.5,
+    "end": 1238.14,
+    "speaker": "SPEAKER_03",
+    "text": "So I'm just going to add those two up is what I'm doing is breaking down that use to make"
+  },
+  {
+    "start": 1238.14,
+    "end": 1239.14,
+    "speaker": "SPEAKER_03",
+    "text": "you into 260."
+  },
+  {
+    "start": 1239.14,
+    "end": 1242.38,
+    "speaker": "SPEAKER_03",
+    "text": "So that's 4.4 billion plus 1.32 billion."
+  },
+  {
+    "start": 1242.38,
+    "end": 1247.18,
+    "speaker": "SPEAKER_03",
+    "text": "That gives me about 5.7 billion and kind of knocking off that last two."
+  },
+  {
+    "start": 1247.18,
+    "end": 1248.18,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that's right."
+  },
+  {
+    "start": 1248.18,
+    "end": 1249.18,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1249.18,
+    "end": 1250.18,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1250.18,
+    "end": 1255.66,
+    "speaker": "SPEAKER_03",
+    "text": "So we're at 5.7 billion for revenue from shows."
+  },
+  {
+    "start": 1255.66,
+    "end": 1256.66,
+    "speaker": "SPEAKER_03",
+    "text": "Huge number."
+  },
+  {
+    "start": 1256.66,
+    "end": 1257.66,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1257.66,
+    "end": 1259.66,
+    "speaker": "SPEAKER_03",
+    "text": "Additional revenue is finished as one out before we get to cost."
+  },
+  {
+    "start": 1259.66,
+    "end": 1264.54,
+    "speaker": "SPEAKER_03",
+    "text": "I imagine in terms of additional revenue options like merchant dice, the physical albums"
+  },
+  {
+    "start": 1264.54,
+    "end": 1268.94,
+    "speaker": "SPEAKER_03",
+    "text": "that you might sell while you're on the tour, other little pieces that fans might want"
+  },
+  {
+    "start": 1268.94,
+    "end": 1269.94,
+    "speaker": "SPEAKER_03",
+    "text": "to engage with."
+  },
+  {
+    "start": 1269.94,
+    "end": 1273.5800000000002,
+    "speaker": "SPEAKER_03",
+    "text": "I imagine it's not going to be a huge show, but certainly something you want to add."
+  },
+  {
+    "start": 1273.58,
+    "end": 1279.3,
+    "speaker": "SPEAKER_03",
+    "text": "I would assume something around the ballpark of like 10% of fans would buy items and"
+  },
+  {
+    "start": 1279.3,
+    "end": 1282.3799999999999,
+    "speaker": "SPEAKER_03",
+    "text": "you know, maybe their basket sizes around like $100 each."
+  },
+  {
+    "start": 1282.3799999999999,
+    "end": 1288.78,
+    "speaker": "SPEAKER_03",
+    "text": "So not extreme, but certainly, you know, a fraction of third of an individual ticket premium,"
+  },
+  {
+    "start": 1288.78,
+    "end": 1290.3799999999999,
+    "speaker": "SPEAKER_03",
+    "text": "you know, it's a 10% of that."
+  },
+  {
+    "start": 1290.3799999999999,
+    "end": 1291.3799999999999,
+    "speaker": "SPEAKER_03",
+    "text": "How is that?"
+  },
+  {
+    "start": 1291.3799999999999,
+    "end": 1292.62,
+    "speaker": "SPEAKER_03",
+    "text": "Does that seem right to yourself?"
+  },
+  {
+    "start": 1292.62,
+    "end": 1294.34,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, I think that seems right."
+  },
+  {
+    "start": 1294.34,
+    "end": 1296.06,
+    "speaker": "SPEAKER_00",
+    "text": "When in fact, it used to be lower earlier."
+  },
+  {
+    "start": 1296.06,
+    "end": 1301.1,
+    "speaker": "SPEAKER_00",
+    "text": "So what we have done now is Stella has added a lot of merchant dice, for example, she's"
+  },
+  {
+    "start": 1301.1,
+    "end": 1302.1,
+    "speaker": "SPEAKER_00",
+    "text": "telling candles."
+  },
+  {
+    "start": 1302.1,
+    "end": 1307.9399999999998,
+    "speaker": "SPEAKER_00",
+    "text": "She's selling backpacks, she's selling cups, branded cups, bottle semen."
+  },
+  {
+    "start": 1307.9399999999998,
+    "end": 1312.3799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So I think that's gradually going up, but $100 seems about right, right?"
+  },
+  {
+    "start": 1312.3799999999999,
+    "end": 1314.8999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "And 10% buying the merchandise seems about right."
+  },
+  {
+    "start": 1314.8999999999999,
+    "end": 1315.8999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Okay, excellent."
+  },
+  {
+    "start": 1315.8999999999999,
+    "end": 1318.3799999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Well, good for her for some candles and backpacks."
+  },
+  {
+    "start": 1318.3799999999999,
+    "end": 1320.1799999999998,
+    "speaker": "SPEAKER_03",
+    "text": "So we're not expected that."
+  },
+  {
+    "start": 1320.1799999999998,
+    "end": 1321.1799999999998,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1321.1799999999998,
+    "end": 1327.1,
+    "speaker": "SPEAKER_03",
+    "text": "So if you have the finish of that math, it's 10% of fans for those 50,000 stadium seats"
+  },
+  {
+    "start": 1327.1,
+    "end": 1332.6999999999998,
+    "speaker": "SPEAKER_03",
+    "text": "that's about 5,000 fans that are going to buy at $100 per basket size."
+  },
+  {
+    "start": 1332.6999999999998,
+    "end": 1335.6599999999999,
+    "speaker": "SPEAKER_03",
+    "text": "So that gives us $500,000 per show."
+  },
+  {
+    "start": 1335.6599999999999,
+    "end": 1340.74,
+    "speaker": "SPEAKER_03",
+    "text": "So now I'm going to multiply the $500,000 per show times the 260 shows that we checked"
+  },
+  {
+    "start": 1340.74,
+    "end": 1343.8999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "later earlier, 26 and five."
+  },
+  {
+    "start": 1343.8999999999999,
+    "end": 1351.4599999999998,
+    "speaker": "SPEAKER_03",
+    "text": "So that's going to give me 130 million in revenue, additional, which because I've got everything"
+  },
+  {
+    "start": 1351.4599999999998,
+    "end": 1352.8999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "in billions, I'm just going to put in billions."
+  },
+  {
+    "start": 1352.9,
+    "end": 1360.02,
+    "speaker": "SPEAKER_03",
+    "text": "So to kind of get a collective number, they give me $5.7 billion plus 1.3 billion in"
+  },
+  {
+    "start": 1360.02,
+    "end": 1361.02,
+    "speaker": "SPEAKER_03",
+    "text": "additional revenue."
+  },
+  {
+    "start": 1361.02,
+    "end": 1366.5,
+    "speaker": "SPEAKER_03",
+    "text": "So that's going to give me about $5.8 billion collectively."
+  },
+  {
+    "start": 1366.5,
+    "end": 1367.5,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1367.5,
+    "end": 1368.5,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1368.5,
+    "end": 1369.5,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1369.5,
+    "end": 1371.8200000000002,
+    "speaker": "SPEAKER_03",
+    "text": "Here's another."
+  },
+  {
+    "start": 1371.8200000000002,
+    "end": 1375.94,
+    "speaker": "SPEAKER_03",
+    "text": "And you know, kind of where I'm at right now, I want to engage to your earlier question,"
+  },
+  {
+    "start": 1375.94,
+    "end": 1377.26,
+    "speaker": "SPEAKER_03",
+    "text": "understanding the profit of this."
+  },
+  {
+    "start": 1377.26,
+    "end": 1379.66,
+    "speaker": "SPEAKER_03",
+    "text": "I want to get an understanding of the cost side."
+  },
+  {
+    "start": 1379.66,
+    "end": 1382.66,
+    "speaker": "SPEAKER_03",
+    "text": "And so that's kind of like where I'm claiming that."
+  },
+  {
+    "start": 1382.66,
+    "end": 1383.66,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 1383.66,
+    "end": 1390.26,
+    "speaker": "SPEAKER_00",
+    "text": "So in terms of costs, why don't you tell me what could be the key cost categories over here?"
+  },
+  {
+    "start": 1390.26,
+    "end": 1391.26,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 1391.26,
+    "end": 1394.02,
+    "speaker": "SPEAKER_00",
+    "text": "If she were to talk, what will be the key cost categories?"
+  },
+  {
+    "start": 1394.02,
+    "end": 1398.5,
+    "speaker": "SPEAKER_00",
+    "text": "And perhaps then we can take a particular cross margin over here."
+  },
+  {
+    "start": 1398.5,
+    "end": 1399.5,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 1399.5,
+    "end": 1400.5,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1400.5,
+    "end": 1401.5,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 1401.5,
+    "end": 1406.5400000000002,
+    "speaker": "SPEAKER_03",
+    "text": "So initial costs and kind of looking back to my framework as well that I used."
+  },
+  {
+    "start": 1406.54,
+    "end": 1408.46,
+    "speaker": "SPEAKER_03",
+    "text": "I'm thinking the production costs."
+  },
+  {
+    "start": 1408.46,
+    "end": 1413.06,
+    "speaker": "SPEAKER_03",
+    "text": "I'm thinking that's a stage set up that's tear down lighting that sound."
+  },
+  {
+    "start": 1413.06,
+    "end": 1416.1,
+    "speaker": "SPEAKER_03",
+    "text": "So a lot of kind of behind the scenes going on."
+  },
+  {
+    "start": 1416.1,
+    "end": 1417.86,
+    "speaker": "SPEAKER_03",
+    "text": "A lot of travel and hotel."
+  },
+  {
+    "start": 1417.86,
+    "end": 1422.34,
+    "speaker": "SPEAKER_03",
+    "text": "So not just the bus between, but also the flights, the hotels for everyone that's traveling"
+  },
+  {
+    "start": 1422.34,
+    "end": 1423.34,
+    "speaker": "SPEAKER_03",
+    "text": "with you."
+  },
+  {
+    "start": 1423.34,
+    "end": 1428.18,
+    "speaker": "SPEAKER_03",
+    "text": "I imagine there's probably going to be a salary consideration for your crew, for your"
+  },
+  {
+    "start": 1428.18,
+    "end": 1431.62,
+    "speaker": "SPEAKER_03",
+    "text": "performers, whether that be dancers, backup singers."
+  },
+  {
+    "start": 1431.62,
+    "end": 1433.94,
+    "speaker": "SPEAKER_03",
+    "text": "And then a big cost for insurance and marketing."
+  },
+  {
+    "start": 1433.94,
+    "end": 1437.38,
+    "speaker": "SPEAKER_03",
+    "text": "What if someone gets injured, what if someone kind of hurts themselves as well?"
+  },
+  {
+    "start": 1437.38,
+    "end": 1442.14,
+    "speaker": "SPEAKER_03",
+    "text": "So does that kind of sound like a good trim of cost in the face and about?"
+  },
+  {
+    "start": 1442.14,
+    "end": 1444.18,
+    "speaker": "SPEAKER_00",
+    "text": "I think that's that's reasonable."
+  },
+  {
+    "start": 1444.18,
+    "end": 1451.5,
+    "speaker": "SPEAKER_00",
+    "text": "When I think you've covered a lot of cost elements that Stella will bear when she to's right."
+  },
+  {
+    "start": 1451.5,
+    "end": 1457.42,
+    "speaker": "SPEAKER_00",
+    "text": "And what would be your kind of assumption if you have to make a taken assumption that"
+  },
+  {
+    "start": 1457.42,
+    "end": 1461.6200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "the kind of cross profit that she could be making if she's doing considering all the"
+  },
+  {
+    "start": 1461.6200000000001,
+    "end": 1463.8600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "costs that you've listed?"
+  },
+  {
+    "start": 1463.86,
+    "end": 1465.86,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, great question."
+  },
+  {
+    "start": 1465.86,
+    "end": 1468.86,
+    "speaker": "SPEAKER_03",
+    "text": "So I know that some of these costs, we consider it really high."
+  },
+  {
+    "start": 1468.86,
+    "end": 1469.86,
+    "speaker": "SPEAKER_03",
+    "text": "Others quite small."
+  },
+  {
+    "start": 1469.86,
+    "end": 1474.4199999999998,
+    "speaker": "SPEAKER_03",
+    "text": "Maybe labor costs were paying on an hourly basis versus insurance marketing."
+  },
+  {
+    "start": 1474.4199999999998,
+    "end": 1476.3,
+    "speaker": "SPEAKER_03",
+    "text": "It's probably fixed in quite large."
+  },
+  {
+    "start": 1476.3,
+    "end": 1480.86,
+    "speaker": "SPEAKER_03",
+    "text": "I imagine something along 50% to 70% of revenue."
+  },
+  {
+    "start": 1480.86,
+    "end": 1484.2199999999998,
+    "speaker": "SPEAKER_03",
+    "text": "50% to 70% of what we make."
+  },
+  {
+    "start": 1484.2199999999998,
+    "end": 1488.6999999999998,
+    "speaker": "SPEAKER_03",
+    "text": "And so probably averaging somewhere around 60% of the revenue initially."
+  },
+  {
+    "start": 1488.6999999999998,
+    "end": 1493.1399999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Before we kind of factor in, maybe other costs that I wasn't necessarily thinking about,"
+  },
+  {
+    "start": 1493.14,
+    "end": 1496.7800000000002,
+    "speaker": "SPEAKER_03",
+    "text": "it turns its manager label agent."
+  },
+  {
+    "start": 1496.7800000000002,
+    "end": 1499.5800000000002,
+    "speaker": "SPEAKER_03",
+    "text": "So how's that kind of sound for yourself?"
+  },
+  {
+    "start": 1499.5800000000002,
+    "end": 1500.5800000000002,
+    "speaker": "SPEAKER_03",
+    "text": "That sounds okay."
+  },
+  {
+    "start": 1500.5800000000002,
+    "end": 1502.5800000000002,
+    "speaker": "SPEAKER_03",
+    "text": "Then it can take 60% here."
+  },
+  {
+    "start": 1502.5800000000002,
+    "end": 1504.22,
+    "speaker": "SPEAKER_03",
+    "text": "Okay, so let's do that math done."
+  },
+  {
+    "start": 1504.22,
+    "end": 1510.7800000000002,
+    "speaker": "SPEAKER_03",
+    "text": "So we got the 5.8 billion that we calculated from the revenue previously times 60%."
+  },
+  {
+    "start": 1510.7800000000002,
+    "end": 1514.3400000000001,
+    "speaker": "SPEAKER_03",
+    "text": "So what I do is drop that to 10% multiplied by 6."
+  },
+  {
+    "start": 1514.3400000000001,
+    "end": 1518.14,
+    "speaker": "SPEAKER_03",
+    "text": "So I've got 5.8 billion dollars times 10%."
+  },
+  {
+    "start": 1518.14,
+    "end": 1521.8600000000001,
+    "speaker": "SPEAKER_03",
+    "text": "That gives me for 180 million just dropping a decimal point."
+  },
+  {
+    "start": 1521.86,
+    "end": 1526.3799999999999,
+    "speaker": "SPEAKER_03",
+    "text": "And then I want to multiply that 5.8 billion by 6 to do the full 60%."
+  },
+  {
+    "start": 1526.3799999999999,
+    "end": 1532.86,
+    "speaker": "SPEAKER_03",
+    "text": "That is going to be 3.4 billion dollars."
+  },
+  {
+    "start": 1532.86,
+    "end": 1535.86,
+    "speaker": "SPEAKER_03",
+    "text": "And if it's okay with you, can I round that to 3.5 billion?"
+  },
+  {
+    "start": 1535.86,
+    "end": 1537.86,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that's fine."
+  },
+  {
+    "start": 1537.86,
+    "end": 1538.86,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1538.86,
+    "end": 1540.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay, so that gives me 3.5 billion."
+  },
+  {
+    "start": 1540.86,
+    "end": 1547.86,
+    "speaker": "SPEAKER_03",
+    "text": "That's my primary contribution margin, but I know I referenced kind of like taxes manager agent as well."
+  },
+  {
+    "start": 1547.86,
+    "end": 1551.86,
+    "speaker": "SPEAKER_03",
+    "text": "Is it okay if I kind of asked me if that is percent perhaps as well of that?"
+  },
+  {
+    "start": 1551.86,
+    "end": 1553.86,
+    "speaker": "SPEAKER_03",
+    "text": "And that I point a billion on that."
+  },
+  {
+    "start": 1553.86,
+    "end": 1556.86,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, you can."
+  },
+  {
+    "start": 1556.86,
+    "end": 1557.86,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1557.86,
+    "end": 1558.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1558.86,
+    "end": 1562.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so looking at that in apology."
+  },
+  {
+    "start": 1562.86,
+    "end": 1565.86,
+    "speaker": "SPEAKER_03",
+    "text": "So it did a calculated the 60% of 3.5 billion."
+  },
+  {
+    "start": 1565.86,
+    "end": 1570.86,
+    "speaker": "SPEAKER_03",
+    "text": "What I want to do is subtract that from 5.8 before I turned 30% to 30%."
+  },
+  {
+    "start": 1570.86,
+    "end": 1571.86,
+    "speaker": "SPEAKER_03",
+    "text": "So let me do that."
+  },
+  {
+    "start": 1571.86,
+    "end": 1573.86,
+    "speaker": "SPEAKER_03",
+    "text": "So we have the 5.8 billion revenue that we calculated."
+  },
+  {
+    "start": 1573.86,
+    "end": 1578.86,
+    "speaker": "SPEAKER_03",
+    "text": "So we have the 3.5 billion, which is the 60% of congress."
+  },
+  {
+    "start": 1578.86,
+    "end": 1579.86,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 1579.86,
+    "end": 1582.86,
+    "speaker": "SPEAKER_03",
+    "text": "And that gives me 2.3 billion dollars contribution."
+  },
+  {
+    "start": 1582.86,
+    "end": 1583.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1583.86,
+    "end": 1587.86,
+    "speaker": "SPEAKER_03",
+    "text": "Now what I want to do is estimate what that is when I turn out cons."
+  },
+  {
+    "start": 1587.86,
+    "end": 1593.86,
+    "speaker": "SPEAKER_03",
+    "text": "For the taxes by manager agent label, you know, I want to imagine something around 30%."
+  },
+  {
+    "start": 1593.86,
+    "end": 1596.86,
+    "speaker": "SPEAKER_03",
+    "text": "Because I imagine taxes are by around 20 to 25 throughout this."
+  },
+  {
+    "start": 1596.86,
+    "end": 1602.86,
+    "speaker": "SPEAKER_03",
+    "text": "And then your agents by getting something around less than 10% by similar with managers as well."
+  },
+  {
+    "start": 1602.86,
+    "end": 1606.86,
+    "speaker": "SPEAKER_03",
+    "text": "So probably somewhere around that range of 30%."
+  },
+  {
+    "start": 1606.86,
+    "end": 1607.86,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1607.86,
+    "end": 1608.86,
+    "speaker": "SPEAKER_00",
+    "text": "That makes sense."
+  },
+  {
+    "start": 1608.86,
+    "end": 1609.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1609.86,
+    "end": 1611.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so to avoid the mistake I made last time, right?"
+  },
+  {
+    "start": 1611.86,
+    "end": 1616.86,
+    "speaker": "SPEAKER_03",
+    "text": "You know, use the 30 to 60% of talk I was acceptable because I'm estimating those costs at 30%."
+  },
+  {
+    "start": 1616.86,
+    "end": 1619.86,
+    "speaker": "SPEAKER_03",
+    "text": "I'm going to multiply by 2.3 billion by 70%."
+  },
+  {
+    "start": 1619.86,
+    "end": 1624.86,
+    "speaker": "SPEAKER_03",
+    "text": "And that number should give me whatever is the kind of leftover."
+  },
+  {
+    "start": 1624.86,
+    "end": 1625.86,
+    "speaker": "SPEAKER_03",
+    "text": "Prof in this case for sale."
+  },
+  {
+    "start": 1625.86,
+    "end": 1628.86,
+    "speaker": "SPEAKER_03",
+    "text": "So 2.3 billion times 70%."
+  },
+  {
+    "start": 1628.86,
+    "end": 1633.86,
+    "speaker": "SPEAKER_03",
+    "text": "I'm going to do the same thing and then drop it to 10% and then multiply by 7."
+  },
+  {
+    "start": 1633.86,
+    "end": 1635.86,
+    "speaker": "SPEAKER_03",
+    "text": "So 2.3 billion times 10%."
+  },
+  {
+    "start": 1635.86,
+    "end": 1637.86,
+    "speaker": "SPEAKER_03",
+    "text": "It's 230 million just dropping a decimal place."
+  },
+  {
+    "start": 1637.86,
+    "end": 1640.86,
+    "speaker": "SPEAKER_03",
+    "text": "Now the 230 million times seven."
+  },
+  {
+    "start": 1640.86,
+    "end": 1642.86,
+    "speaker": "SPEAKER_03",
+    "text": "So really just 23 times seven."
+  },
+  {
+    "start": 1642.86,
+    "end": 1645.86,
+    "speaker": "SPEAKER_03",
+    "text": "Add those zeros back on."
+  },
+  {
+    "start": 1645.86,
+    "end": 1648.86,
+    "speaker": "SPEAKER_03",
+    "text": "That's going to give me 1.6 billion."
+  },
+  {
+    "start": 1648.86,
+    "end": 1657.86,
+    "speaker": "SPEAKER_03",
+    "text": "So what I am talking right now is that the tour after the revenue and cost to get the profit is going to leave stellar 1.6 billion dollars in left."
+  },
+  {
+    "start": 1657.86,
+    "end": 1663.86,
+    "speaker": "SPEAKER_03",
+    "text": "Which few to turn, especially to that initial goal of trying to maximize her short term."
+  },
+  {
+    "start": 1663.86,
+    "end": 1667.86,
+    "speaker": "SPEAKER_03",
+    "text": "Is that something like a pretty accurate number to yourself?"
+  },
+  {
+    "start": 1667.86,
+    "end": 1669.86,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, that sounds."
+  },
+  {
+    "start": 1669.86,
+    "end": 1670.86,
+    "speaker": "SPEAKER_00",
+    "text": "That sounds fine."
+  },
+  {
+    "start": 1670.86,
+    "end": 1674.86,
+    "speaker": "SPEAKER_00",
+    "text": "I think I think Stella will be very happy listening to this number."
+  },
+  {
+    "start": 1674.86,
+    "end": 1678.86,
+    "speaker": "SPEAKER_00",
+    "text": "We'll have to see will be able to convert that, but I think she can't, right?"
+  },
+  {
+    "start": 1678.86,
+    "end": 1680.86,
+    "speaker": "SPEAKER_00",
+    "text": "She's very popular now."
+  },
+  {
+    "start": 1680.86,
+    "end": 1685.86,
+    "speaker": "SPEAKER_00",
+    "text": "And and fans have been eager, eagerly waiting for her tour."
+  },
+  {
+    "start": 1685.86,
+    "end": 1688.86,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm sure she'll be able to generate this amount of money."
+  },
+  {
+    "start": 1688.86,
+    "end": 1689.86,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1689.86,
+    "end": 1690.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1690.86,
+    "end": 1697.86,
+    "speaker": "SPEAKER_03",
+    "text": "But certainly know what I'm thinking about on the side is, you know, how this potentially compares to the album."
+  },
+  {
+    "start": 1697.86,
+    "end": 1701.86,
+    "speaker": "SPEAKER_03",
+    "text": "So certainly what I'd wanted to perhaps next is kind of gauge."
+  },
+  {
+    "start": 1701.86,
+    "end": 1708.86,
+    "speaker": "SPEAKER_03",
+    "text": "You know, what is that rock that she get from the album and then being doing it for pairs that hasn't sound to yourself."
+  },
+  {
+    "start": 1708.86,
+    "end": 1709.86,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that makes sense."
+  },
+  {
+    "start": 1709.86,
+    "end": 1710.86,
+    "speaker": "SPEAKER_03",
+    "text": "Let's do that."
+  },
+  {
+    "start": 1710.86,
+    "end": 1711.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1711.86,
+    "end": 1712.86,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1712.86,
+    "end": 1718.86,
+    "speaker": "SPEAKER_03",
+    "text": "So in terms of understanding the revenue that can come from the album."
+  },
+  {
+    "start": 1718.86,
+    "end": 1724.86,
+    "speaker": "SPEAKER_03",
+    "text": "You know, I expect this to be probably a bit lower, but I'd also expect the cost to be considerably lower to."
+  },
+  {
+    "start": 1724.86,
+    "end": 1728.86,
+    "speaker": "SPEAKER_03",
+    "text": "So I'm curious if that's going to kind of pan out as my initial hypothesis looking forward."
+  },
+  {
+    "start": 1728.86,
+    "end": 1735.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so my approach, what I'm thinking about is I want to do the number of streams that she can."
+  },
+  {
+    "start": 1735.86,
+    "end": 1740.86,
+    "speaker": "SPEAKER_03",
+    "text": "Um, cumulance, how many songs, so hers are going to be streamed on like the Spotify's Apple music."
+  },
+  {
+    "start": 1740.86,
+    "end": 1750.86,
+    "speaker": "SPEAKER_03",
+    "text": "I want to multiply that by the revenue per stream, which I know we said was about 0.005 dollars and certainly more to just kind of get that there is calculation."
+  },
+  {
+    "start": 1750.86,
+    "end": 1754.86,
+    "speaker": "SPEAKER_03",
+    "text": "And that probably also want to ride the number of album souls."
+  },
+  {
+    "start": 1754.86,
+    "end": 1759.86,
+    "speaker": "SPEAKER_03",
+    "text": "And then any additional revenue like we did before, how does that kind of sound in terms of getting a direction."
+  },
+  {
+    "start": 1759.86,
+    "end": 1761.86,
+    "speaker": "SPEAKER_00",
+    "text": "That makes sense."
+  },
+  {
+    "start": 1761.86,
+    "end": 1764.86,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent. Okay. So let's kind of break each of those down that."
+  },
+  {
+    "start": 1764.86,
+    "end": 1767.86,
+    "speaker": "SPEAKER_03",
+    "text": "And I want to look at number of streams first."
+  },
+  {
+    "start": 1767.86,
+    "end": 1771.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so you would reference she's a top global artist."
+  },
+  {
+    "start": 1771.86,
+    "end": 1776.86,
+    "speaker": "SPEAKER_03",
+    "text": "I imagine she has similar sex as a Beyonce as like a tell us about Dazzling Adele."
+  },
+  {
+    "start": 1776.86,
+    "end": 1785.86,
+    "speaker": "SPEAKER_03",
+    "text": "And you would also reference something on the lines of her pop hits being, you know, anywhere or anyone's being, you know, one to two billion streams."
+  },
+  {
+    "start": 1785.86,
+    "end": 1793.86,
+    "speaker": "SPEAKER_03",
+    "text": "So again, I'd probably want to take an average of that similar to the average that was taking previously with those kind of three to four shows for pouring."
+  },
+  {
+    "start": 1793.86,
+    "end": 1797.86,
+    "speaker": "SPEAKER_03",
+    "text": "And we want to look at you know, perhaps you can estimate about 1.5 billion streams."
+  },
+  {
+    "start": 1797.86,
+    "end": 1800.86,
+    "speaker": "SPEAKER_03",
+    "text": "Does that sound, you know, like a fairly accurate ballpark."
+  },
+  {
+    "start": 1800.86,
+    "end": 1803.86,
+    "speaker": "SPEAKER_00",
+    "text": "I think that's a good ballpark."
+  },
+  {
+    "start": 1803.86,
+    "end": 1810.86,
+    "speaker": "SPEAKER_00",
+    "text": "Okay. As you her album, I think that'll be multiple songs, but let's assume her album gets stream 1.5 billion times, right?"
+  },
+  {
+    "start": 1810.86,
+    "end": 1814.86,
+    "speaker": "SPEAKER_00",
+    "text": "So each stream she will make 0.005 dollars."
+  },
+  {
+    "start": 1814.86,
+    "end": 1819.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so that gives me then my certainly next piece, which is revenue person."
+  },
+  {
+    "start": 1819.86,
+    "end": 1826.86,
+    "speaker": "SPEAKER_03",
+    "text": "So 0.005 person. So let me calculate that out to give me that initial kind of two pieces of my equation."
+  },
+  {
+    "start": 1826.86,
+    "end": 1829.86,
+    "speaker": "SPEAKER_03",
+    "text": "So I want to do 1.5 billion streams."
+  },
+  {
+    "start": 1829.86,
+    "end": 1833.86,
+    "speaker": "SPEAKER_03",
+    "text": "I want to multiply that by 0.005 dollars per stream."
+  },
+  {
+    "start": 1833.86,
+    "end": 1838.86,
+    "speaker": "SPEAKER_03",
+    "text": "So I know that's going to be break this down 1.5 billion times 0.001."
+  },
+  {
+    "start": 1838.86,
+    "end": 1841.86,
+    "speaker": "SPEAKER_03",
+    "text": "That's going to be 1.5 million, but then I want to multiply that by 5."
+  },
+  {
+    "start": 1841.86,
+    "end": 1845.86,
+    "speaker": "SPEAKER_03",
+    "text": "I'm just breaking down that like 0.005 into two parts."
+  },
+  {
+    "start": 1845.86,
+    "end": 1848.86,
+    "speaker": "SPEAKER_03",
+    "text": "So 1.5 million and that's going to be times 5."
+  },
+  {
+    "start": 1848.86,
+    "end": 1850.86,
+    "speaker": "SPEAKER_03",
+    "text": "So then that's easy enough 7.5 million."
+  },
+  {
+    "start": 1850.86,
+    "end": 1857.86,
+    "speaker": "SPEAKER_03",
+    "text": "So I know that my first half of the equation is going to be 7.5 million dollars."
+  },
+  {
+    "start": 1857.86,
+    "end": 1861.86,
+    "speaker": "SPEAKER_03",
+    "text": "For the album streams, which you know, I'm taking a step back real quick."
+  },
+  {
+    "start": 1861.86,
+    "end": 1866.86,
+    "speaker": "SPEAKER_03",
+    "text": "I'm already saying that's considerably lower than the billion still is making."
+  },
+  {
+    "start": 1866.86,
+    "end": 1874.86,
+    "speaker": "SPEAKER_03",
+    "text": "So I'm hoping that album sold and additional revenue perhaps bump that number up considered like that's kind of my initial reaction to it."
+  },
+  {
+    "start": 1874.86,
+    "end": 1876.86,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1876.86,
+    "end": 1879.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay. Now I want to look at album sold."
+  },
+  {
+    "start": 1879.86,
+    "end": 1881.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so in terms of album sold."
+  },
+  {
+    "start": 1881.86,
+    "end": 1886.86,
+    "speaker": "SPEAKER_03",
+    "text": "I want to assume that you know, perhaps she's going to sell about."
+  },
+  {
+    "start": 1886.86,
+    "end": 1891.86,
+    "speaker": "SPEAKER_03",
+    "text": "And then I want to say that it's going to be 500,000 to a million albums."
+  },
+  {
+    "start": 1891.86,
+    "end": 1896.86,
+    "speaker": "SPEAKER_03",
+    "text": "You know, she's a top artist. So perhaps we can skew a bit higher for it's the million albums."
+  },
+  {
+    "start": 1896.86,
+    "end": 1901.86,
+    "speaker": "SPEAKER_03",
+    "text": "Is that kind of, you know, a good range that we should be thinking for top artists like Stella."
+  },
+  {
+    "start": 1901.86,
+    "end": 1904.86,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that's a good assumption to me."
+  },
+  {
+    "start": 1904.86,
+    "end": 1905.86,
+    "speaker": "SPEAKER_03",
+    "text": "First of all."
+  },
+  {
+    "start": 1905.86,
+    "end": 1906.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay."
+  },
+  {
+    "start": 1906.86,
+    "end": 1907.86,
+    "speaker": "SPEAKER_03",
+    "text": "I'm going to be honest with you Ashwin."
+  },
+  {
+    "start": 1907.86,
+    "end": 1909.86,
+    "speaker": "SPEAKER_03",
+    "text": "It's been a while since I bought a physical album."
+  },
+  {
+    "start": 1909.86,
+    "end": 1915.86,
+    "speaker": "SPEAKER_03",
+    "text": "So, you know, I imagine it's still prize a bit of a high cost to produce the album."
+  },
+  {
+    "start": 1915.86,
+    "end": 1920.86,
+    "speaker": "SPEAKER_03",
+    "text": "And I can't imagine we're getting the economies of scale from putting out so many of them."
+  },
+  {
+    "start": 1920.86,
+    "end": 1925.86,
+    "speaker": "SPEAKER_03",
+    "text": "I'd imagine tip of them sell around $20 for album is that you know fair and accurate measure."
+  },
+  {
+    "start": 1925.86,
+    "end": 1927.86,
+    "speaker": "SPEAKER_00",
+    "text": "That's a reasonable assumption to make here."
+  },
+  {
+    "start": 1927.86,
+    "end": 1928.86,
+    "speaker": "SPEAKER_00",
+    "text": "And you're right."
+  },
+  {
+    "start": 1928.86,
+    "end": 1931.86,
+    "speaker": "SPEAKER_00",
+    "text": "That's that's that's where it's priced it out."
+  },
+  {
+    "start": 1931.86,
+    "end": 1933.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay. Excellent."
+  },
+  {
+    "start": 1933.86,
+    "end": 1936.86,
+    "speaker": "SPEAKER_03",
+    "text": "So that if I'm going to do for the kind of album sold."
+  },
+  {
+    "start": 1936.86,
+    "end": 1939.86,
+    "speaker": "SPEAKER_03",
+    "text": "One million albums times $20 for album."
+  },
+  {
+    "start": 1939.86,
+    "end": 1942.86,
+    "speaker": "SPEAKER_03",
+    "text": "That gives me additional 20 million dollars for album sold."
+  },
+  {
+    "start": 1942.86,
+    "end": 1949.86,
+    "speaker": "SPEAKER_03",
+    "text": "Not the huge post that we wanted towards that 1.6 billion, but we start on one more factor to go."
+  },
+  {
+    "start": 1949.86,
+    "end": 1950.86,
+    "speaker": "SPEAKER_03",
+    "text": "It's the additional revenue."
+  },
+  {
+    "start": 1950.86,
+    "end": 1954.86,
+    "speaker": "SPEAKER_03",
+    "text": "Maybe be burdened by a whole lot of herch and don't think it's going to get us there."
+  },
+  {
+    "start": 1954.86,
+    "end": 1958.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay, but additional revenue."
+  },
+  {
+    "start": 1958.86,
+    "end": 1964.86,
+    "speaker": "SPEAKER_03",
+    "text": "Hey, you know, I want to use similar assumptions that we did on the prior estimate where we are saying, you know,"
+  },
+  {
+    "start": 1964.86,
+    "end": 1969.86,
+    "speaker": "SPEAKER_03",
+    "text": "try about 10% of fans when they go on poor will buy merchandise."
+  },
+  {
+    "start": 1969.86,
+    "end": 1979.86,
+    "speaker": "SPEAKER_03",
+    "text": "Hey, imagine maybe similar 10% of fans will buy merch for the album and just kind of continuing with that same assumption."
+  },
+  {
+    "start": 1979.86,
+    "end": 1984.86,
+    "speaker": "SPEAKER_03",
+    "text": "And if we went with that assumption, you know, certainly would be much lower before I dive in to that."
+  },
+  {
+    "start": 1984.86,
+    "end": 1986.86,
+    "speaker": "SPEAKER_03",
+    "text": "Does that seem fair?"
+  },
+  {
+    "start": 1986.86,
+    "end": 1987.86,
+    "speaker": "SPEAKER_00",
+    "text": "That's that seems okay, then."
+  },
+  {
+    "start": 1987.86,
+    "end": 1991.86,
+    "speaker": "SPEAKER_00",
+    "text": "I think I think I think you can use you can use that assumption for additional revenue."
+  },
+  {
+    "start": 1991.86,
+    "end": 1996.86,
+    "speaker": "SPEAKER_00",
+    "text": "I think you can try to get the overall revenue she would make from the musical production."
+  },
+  {
+    "start": 1996.86,
+    "end": 1997.86,
+    "speaker": "SPEAKER_03",
+    "text": "Excellent."
+  },
+  {
+    "start": 1997.86,
+    "end": 2000.86,
+    "speaker": "SPEAKER_03",
+    "text": "Okay. And so if we say that's the case, then."
+  },
+  {
+    "start": 2000.86,
+    "end": 2004.86,
+    "speaker": "SPEAKER_03",
+    "text": "So I know I'm just going to add up all these pieces now that we've had."
+  },
+  {
+    "start": 2004.86,
+    "end": 2013.86,
+    "speaker": "SPEAKER_03",
+    "text": "So we have the 7.5 million for revenue from streaming with $20 million from the additional album sales."
+  },
+  {
+    "start": 2013.86,
+    "end": 2016.86,
+    "speaker": "SPEAKER_03",
+    "text": "And then in terms of."
+  },
+  {
+    "start": 2016.86,
+    "end": 2019.86,
+    "speaker": "SPEAKER_03",
+    "text": "I mean, I give me 27.5 million dollars from songs."
+  },
+  {
+    "start": 2019.86,
+    "end": 2029.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so then if I take the 10% on top of 27, and that's million that gives me 2.75 million for additional revenue."
+  },
+  {
+    "start": 2029.86,
+    "end": 2042.86,
+    "speaker": "SPEAKER_03",
+    "text": "So I can call that roughly $3 million, where that gets me is, you know, about 30 million dollars in total for revenue from albums sales, which again, before you in fact,"
+  },
+  {
+    "start": 2042.86,
+    "end": 2045.86,
+    "speaker": "SPEAKER_03",
+    "text": "in the cost associated with this, which again will be lower."
+  },
+  {
+    "start": 2045.86,
+    "end": 2055.8599999999997,
+    "speaker": "SPEAKER_03",
+    "text": "It's over a year, the $1.6 million profit, but just to get a fair and accurate estimate, when I'd like to do next is probably curricate the cost side of this roughly 30 million dollars."
+  },
+  {
+    "start": 2055.8599999999997,
+    "end": 2058.8599999999997,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. So so I think I think let's let's leave out the cost side, right?"
+  },
+  {
+    "start": 2058.8599999999997,
+    "end": 2067.8599999999997,
+    "speaker": "SPEAKER_00",
+    "text": "Because as you're really pointed out, rightly pointed out that the revenue that Stella makes from musical production is much lower than what she's making touring."
+  },
+  {
+    "start": 2067.86,
+    "end": 2070.86,
+    "speaker": "SPEAKER_00",
+    "text": "So let's let's ignore the cost analysis for now."
+  },
+  {
+    "start": 2070.86,
+    "end": 2073.86,
+    "speaker": "SPEAKER_00",
+    "text": "And let's move on to the other question, right?"
+  },
+  {
+    "start": 2073.86,
+    "end": 2082.86,
+    "speaker": "SPEAKER_00",
+    "text": "Because you've looked at the financial analysis of both, right? Both options of just touring and producing a music album."
+  },
+  {
+    "start": 2082.86,
+    "end": 2088.86,
+    "speaker": "SPEAKER_00",
+    "text": "So financial perspective, what's your initial synthesis?"
+  },
+  {
+    "start": 2088.86,
+    "end": 2093.86,
+    "speaker": "SPEAKER_03",
+    "text": "I'm sorry, Ash, but I don't think I heard it correctly. Can you help me? What was that? What was that question?"
+  },
+  {
+    "start": 2093.86,
+    "end": 2100.86,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, my question was, Ben, from a financial perspective, what's your initial synthesis between the two options?"
+  },
+  {
+    "start": 2100.86,
+    "end": 2112.86,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, financial synthesis, you know, this 30 million dollars in only revenue for the album versus 1.6 million profit for the actual tour."
+  },
+  {
+    "start": 2112.86,
+    "end": 2124.86,
+    "speaker": "SPEAKER_03",
+    "text": "I'm very much doing towards the tour and I know one of the first things I think Stella had kind of a three-part goal, but whatever real big goals was, she wants to create financial success in this short term."
+  },
+  {
+    "start": 2124.86,
+    "end": 2130.86,
+    "speaker": "SPEAKER_03",
+    "text": "So short term, it seems like, you know, that is certainly the direction to go. I'm fully biased in that way."
+  },
+  {
+    "start": 2130.86,
+    "end": 2144.86,
+    "speaker": "SPEAKER_00",
+    "text": "Got it. Great. Other than the financial aspect, right? What are the other potential benefits to a tour? Are there any potential risks that Stella should consider if she chooses to touring as an option?"
+  },
+  {
+    "start": 2144.86,
+    "end": 2151.86,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, yeah, certainly quite a few. So, you know, I want to look at this in terms of in terms of benefits and risks that tour."
+  },
+  {
+    "start": 2151.86,
+    "end": 2158.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so in benefits, you know, I'm just certainly still a few back and then going to deeper detail from my framework."
+  },
+  {
+    "start": 2158.86,
+    "end": 2171.86,
+    "speaker": "SPEAKER_03",
+    "text": "First one thinking about is brand. So from Stella's brand, it's greater exposure globally. So she'll be able to engage and interact with the fans, which is fantastic. And that's something that she certainly referenced in her primary goal."
+  },
+  {
+    "start": 2171.86,
+    "end": 2187.86,
+    "speaker": "SPEAKER_03",
+    "text": "So again, I'm going to keep making analogies to artists that I follow, Taylor Swift, does a great job engaging in fans, washes up or kind of giving them special experiences and events. And that's certainly builds up her customer base, which then of course works into a long term financial success."
+  },
+  {
+    "start": 2187.86,
+    "end": 2198.86,
+    "speaker": "SPEAKER_03",
+    "text": "So I'm thinking of brand peace. But I'm also thinking personally, she gets to go out and see the world. She gets to see, you know, travel, have these very unique personal experiences as well that."
+  },
+  {
+    "start": 2198.86,
+    "end": 2209.86,
+    "speaker": "SPEAKER_03",
+    "text": "If she was back home, you know, Brian, her fairly large mansion, just building an album, she wouldn't get to so that's certainly something that gets to broaden her horizons personally."
+  },
+  {
+    "start": 2209.86,
+    "end": 2223.86,
+    "speaker": "SPEAKER_03",
+    "text": "And then you know, in terms of the wrist side, I want to think about whether these costs could grow. And I took a very rough assumption at about a 50 to 70% cost and then 30% for additional like managers, agents taxes."
+  },
+  {
+    "start": 2223.86,
+    "end": 2233.86,
+    "speaker": "SPEAKER_03",
+    "text": "But those can certainly grow considerably. And I've heard from a lot of people who spend music industry that course can actually end up being uncoffable, if not done in large scale."
+  },
+  {
+    "start": 2233.86,
+    "end": 2242.86,
+    "speaker": "SPEAKER_03",
+    "text": "And so I want to get a better understanding of whether those costs truly could and whether that 1.6 billion is just simply inflated in terms of potential proper."
+  },
+  {
+    "start": 2242.86,
+    "end": 2256.86,
+    "speaker": "SPEAKER_03",
+    "text": "There's also this kind of other side to brand, where you know, I'd reference in the framework, maybe we're providing too much exposure for a still and maybe it's no longer such a luxurious item to get a ticket or go to a concert."
+  },
+  {
+    "start": 2256.86,
+    "end": 2264.86,
+    "speaker": "SPEAKER_03",
+    "text": "If she's doing too many tours over this kind of 18 months of time frame. So maybe that impacts her financial success in the future."
+  },
+  {
+    "start": 2264.86,
+    "end": 2280.86,
+    "speaker": "SPEAKER_03",
+    "text": "And then you know, what I'm thinking of last is that health and safety, not just from the 18 month tour, but if you're doing all these tours, do we have to worry about potential safety concerns per with fans that might be going over the top or a little crazy as well and how much security is going to that."
+  },
+  {
+    "start": 2280.86,
+    "end": 2291.86,
+    "speaker": "SPEAKER_03",
+    "text": "I know we referenced it, but it was kind of off handed. And whether we really need to double down on that. So that's how I'm thinking about in terms of initial benefits and risks to discover outside of financial considerations."
+  },
+  {
+    "start": 2291.86,
+    "end": 2296.86,
+    "speaker": "SPEAKER_00",
+    "text": "Got a great, great, mental, what's the final recommend to tell us what would you tell her?"
+  },
+  {
+    "start": 2296.86,
+    "end": 2304.86,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, so in terms of a goal of whether or not Stella Harmonies should pursue her 18 month tour or building a album."
+  },
+  {
+    "start": 2304.86,
+    "end": 2312.86,
+    "speaker": "SPEAKER_03",
+    "text": "My recommendation is giving the tremendous upside of the 1.6 billion dollars take up to pursue the tour right now."
+  },
+  {
+    "start": 2312.86,
+    "end": 2318.86,
+    "speaker": "SPEAKER_03",
+    "text": "And that's, you know, in comparison to only about 30 million dollar revenue. So certainly huge upside."
+  },
+  {
+    "start": 2318.86,
+    "end": 2328.86,
+    "speaker": "SPEAKER_03",
+    "text": "There's a number of risks with this, which we have referenced. So you know, she wants a longer term career, but a focus on short term earnings knows usually kind of go in different directions."
+  },
+  {
+    "start": 2328.86,
+    "end": 2333.86,
+    "speaker": "SPEAKER_03",
+    "text": "And this could impact her long term gains and health in terms of going on the tour."
+  },
+  {
+    "start": 2333.86,
+    "end": 2343.86,
+    "speaker": "SPEAKER_03",
+    "text": "You know, we can start on a look at mitigation options. So Stella needs, you know, a structured schedule five and breaks that terms of identifying how to make sure this is done long term."
+  },
+  {
+    "start": 2343.86,
+    "end": 2350.86,
+    "speaker": "SPEAKER_03",
+    "text": "And I don't think that the Nestle mutually exclusive. So perhaps she can also build starts to build the new album wall she is on for."
+  },
+  {
+    "start": 2350.86,
+    "end": 2362.86,
+    "speaker": "SPEAKER_03",
+    "text": "But in terms of immediate next steps, you know, we would love to help Stella in optimizing her approach and making sure that she can capitalize on this market size revenue profitability opportunity that we've assessed today."
+  },
+  {
+    "start": 2362.86,
+    "end": 2366.86,
+    "speaker": "SPEAKER_00",
+    "text": "Great, Ben. So lovely. Thanks a lot for your time."
+  },
+  {
+    "start": 2366.86,
+    "end": 2370.86,
+    "speaker": "SPEAKER_00",
+    "text": "And look forward to having you in future rounds. Thanks a lot."
+  },
+  {
+    "start": 2370.86,
+    "end": 2383.86,
+    "speaker": "SPEAKER_02",
+    "text": "Hey, everyone. It's Kent and Givessey here. The founder of Rockablocks. Thank you so much for watching this mock interview video. I hope you found it informative and helpful as you were getting ready to prepare for your own interviews and hopefully landing that job offer."
+  },
+  {
+    "start": 2383.86,
+    "end": 2393.86,
+    "speaker": "SPEAKER_02",
+    "text": "You are excited about we have a ton of great content on the Rockablocks channel coming out on a weekly basis mock interviews, many lessons and chats with our Rockablocks experts."
+  },
+  {
+    "start": 2393.86,
+    "end": 2403.86,
+    "speaker": "SPEAKER_02",
+    "text": "If you haven't subscribed yet already, please do so. There is a big red button below. And if you hit that, you'll get all of our content as soon as it comes up. Thanks for watching and have a great day."
+  }
+]

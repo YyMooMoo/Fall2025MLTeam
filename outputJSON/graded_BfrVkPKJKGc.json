@@ -1,0 +1,1470 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "speaker": "SPEAKER_00",
+      "text": "Hey everyone, welcome back to another exciting Rocketbox mock interview."
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "speaker": "SPEAKER_00",
+      "text": "Today we've got a brand new case titled overnight opportunity."
+    },
+    {
+      "start": 11.0,
+      "end": 17.0,
+      "speaker": "SPEAKER_00",
+      "text": "In this scenario, a major international hotel chain called Oasis is presented with a unique"
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "speaker": "SPEAKER_00",
+      "text": "opportunity due to New York City's unexpected ban on short-term rentals."
+    },
+    {
+      "start": 22.0,
+      "end": 29.0,
+      "speaker": "SPEAKER_00",
+      "text": "The Canada is expected to analyze the market conditions resulting from this ban, including the impact on the broader hotel market in New York City."
+    },
+    {
+      "start": 29.0,
+      "end": 33.0,
+      "speaker": "SPEAKER_00",
+      "text": "And joining us today is Matthew Calvert, who will be stepping into the interviewer shoes."
+    },
+    {
+      "start": 33.0,
+      "end": 39.0,
+      "speaker": "SPEAKER_00",
+      "text": "He's currently the director of methane results at Cairo's aerospace and previously worked as a consultant at BCG."
+    },
+    {
+      "start": 39.0,
+      "end": 49.0,
+      "speaker": "SPEAKER_00",
+      "text": "A brilliant candidate for today is Ben Wilson, currently a director at Alvarez and Marsal, who completed his MBA from University of Virginia's Darden School of Business."
+    },
+    {
+      "start": 49.0,
+      "end": 51.0,
+      "speaker": "SPEAKER_00",
+      "text": "So without further ado, let's get started."
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "speaker": "SPEAKER_02",
+      "text": "Hi, my name is Maddie Calvert."
+    },
+    {
+      "start": 53.0,
+      "end": 58.0,
+      "speaker": "SPEAKER_02",
+      "text": "I am currently the director of methane results at Cairo's aerospace."
+    },
+    {
+      "start": 58.0,
+      "end": 64.0,
+      "speaker": "SPEAKER_02",
+      "text": "Prior to that, I worked as a consultant in BCG Chicago office for a couple years."
+    },
+    {
+      "start": 64.0,
+      "end": 69.0,
+      "speaker": "SPEAKER_02",
+      "text": "Before that, I got my MBA and Masters in Public Policy from Duke."
+    },
+    {
+      "start": 69.0,
+      "end": 73.0,
+      "speaker": "SPEAKER_02",
+      "text": "I will be playing the interviewer today and today I've got Ben Wilson with me."
+    },
+    {
+      "start": 73.0,
+      "end": 75.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ben would love for you to introduce yourself."
+    },
+    {
+      "start": 75.0,
+      "end": 77.0,
+      "speaker": "SPEAKER_03",
+      "text": "Thanks Maddie."
+    },
+    {
+      "start": 77.0,
+      "end": 82.0,
+      "speaker": "SPEAKER_03",
+      "text": "Ben Wilson, currently a director with Alvarez and Marsal based at Chicago."
+    },
+    {
+      "start": 82.0,
+      "end": 87.0,
+      "speaker": "SPEAKER_03",
+      "text": "Prior to that was at Darden, received a Masters in Business as well as data science."
+    },
+    {
+      "start": 87.0,
+      "end": 94.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then prior to that, had a mix of careers with UI personal and brain forwarding this whole thing."
+    },
+    {
+      "start": 94.0,
+      "end": 95.0,
+      "speaker": "SPEAKER_03",
+      "text": "Awesome."
+    },
+    {
+      "start": 95.0,
+      "end": 97.0,
+      "speaker": "SPEAKER_02",
+      "text": "Ben, you ready to jump into the case?"
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "speaker": "SPEAKER_03",
+      "text": "Absolutely."
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "speaker": "SPEAKER_03",
+      "text": "Let's do it."
+    },
+    {
+      "start": 99.0,
+      "end": 102.0,
+      "speaker": "SPEAKER_02",
+      "text": "Great. So this is going to be a little bit of an interviewer lead case."
+    },
+    {
+      "start": 102.0,
+      "end": 106.0,
+      "speaker": "SPEAKER_02",
+      "text": "So I'll be kind of transitioning us between segments."
+    },
+    {
+      "start": 106.0,
+      "end": 108.0,
+      "speaker": "SPEAKER_03",
+      "text": "Thanks a lot."
+    },
+    {
+      "start": 108.0,
+      "end": 111.0,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 111.0,
+      "end": 116.0,
+      "speaker": "SPEAKER_02",
+      "text": "So Wases Hotels is a major international hotel chain with four properties in New York City."
+    },
+    {
+      "start": 116.0,
+      "end": 119.0,
+      "speaker": "SPEAKER_02",
+      "text": "And they're facing a unique opportunity."
+    },
+    {
+      "start": 119.0,
+      "end": 130.0,
+      "speaker": "SPEAKER_02",
+      "text": "New York City just outlawed short term rentals, resulting in 22,000 short term properties being made illegal and becoming unavailable for lodgers effectively overnight."
+    },
+    {
+      "start": 130.0,
+      "end": 132.0,
+      "speaker": "SPEAKER_02",
+      "text": "Now, Wases would like your help."
+    },
+    {
+      "start": 132.0,
+      "end": 137.0,
+      "speaker": "SPEAKER_02",
+      "text": "First, they want to know what the impact this might have on the hotel market in New York generally."
+    },
+    {
+      "start": 137.0,
+      "end": 141.0,
+      "speaker": "SPEAKER_02",
+      "text": "And then they want your recommendations on how they should respond to the shifting landscape."
+    },
+    {
+      "start": 141.0,
+      "end": 145.0,
+      "speaker": "SPEAKER_02",
+      "text": "How would you help Wases respond to this change?"
+    },
+    {
+      "start": 145.0,
+      "end": 146.0,
+      "speaker": "SPEAKER_03",
+      "text": "Excellent."
+    },
+    {
+      "start": 146.0,
+      "end": 147.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay. Thanks, Mike."
+    },
+    {
+      "start": 147.0,
+      "end": 152.0,
+      "speaker": "SPEAKER_03",
+      "text": "So to kind of read that back to our primary client is always hotels."
+    },
+    {
+      "start": 152.0,
+      "end": 154.0,
+      "speaker": "SPEAKER_03",
+      "text": "They have two primary objectives."
+    },
+    {
+      "start": 154.0,
+      "end": 159.0,
+      "speaker": "SPEAKER_03",
+      "text": "The first they want to understand the impact that this change is having on their market."
+    },
+    {
+      "start": 159.0,
+      "end": 160.0,
+      "speaker": "SPEAKER_03",
+      "text": "I'll get to that in a moment."
+    },
+    {
+      "start": 160.0,
+      "end": 163.0,
+      "speaker": "SPEAKER_03",
+      "text": "And they also second one to know how they should respond."
+    },
+    {
+      "start": 163.0,
+      "end": 166.0,
+      "speaker": "SPEAKER_03",
+      "text": "What actions should be taken specifically this activity that is occurred is to be."
+    },
+    {
+      "start": 166.0,
+      "end": 173.0,
+      "speaker": "SPEAKER_03",
+      "text": "The activity that is occurred is 22,000 short term rentals rental properties of the medieval specifically New York City market."
+    },
+    {
+      "start": 173.0,
+      "end": 176.0,
+      "speaker": "SPEAKER_03",
+      "text": "Does that does that make sense to have that right?"
+    },
+    {
+      "start": 176.0,
+      "end": 178.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yep, that sounds right to me."
+    },
+    {
+      "start": 178.0,
+      "end": 179.0,
+      "speaker": "SPEAKER_02",
+      "text": "Excellent."
+    },
+    {
+      "start": 179.0,
+      "end": 183.0,
+      "speaker": "SPEAKER_02",
+      "text": "A little bit more about their goals just to make sure we're on top of this."
+    },
+    {
+      "start": 183.0,
+      "end": 185.0,
+      "speaker": "SPEAKER_02",
+      "text": "They want to capitalize on this."
+    },
+    {
+      "start": 185.0,
+      "end": 189.0,
+      "speaker": "SPEAKER_02",
+      "text": "And so their primary goal is to increase their market share and revenue."
+    },
+    {
+      "start": 189.0,
+      "end": 193.0,
+      "speaker": "SPEAKER_02",
+      "text": "By attracting former users of short term rental services."
+    },
+    {
+      "start": 193.0,
+      "end": 198.0,
+      "speaker": "SPEAKER_02",
+      "text": "And they also want to maintain their brand imaging customer satisfaction levels."
+    },
+    {
+      "start": 198.0,
+      "end": 202.0,
+      "speaker": "SPEAKER_02",
+      "text": "While managing their potential increase in demand."
+    },
+    {
+      "start": 202.0,
+      "end": 203.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 203.0,
+      "end": 208.0,
+      "speaker": "SPEAKER_03",
+      "text": "Make sense, you know, good goal for them as well in terms of that market share around new makes sense."
+    },
+    {
+      "start": 208.0,
+      "end": 212.0,
+      "speaker": "SPEAKER_03",
+      "text": "And also in terms of brand image customer satisfaction, fantastic."
+    },
+    {
+      "start": 212.0,
+      "end": 215.0,
+      "speaker": "SPEAKER_03",
+      "text": "Think of a few more questions if I could, you know, kind of dive in with you."
+    },
+    {
+      "start": 215.0,
+      "end": 222.0,
+      "speaker": "SPEAKER_03",
+      "text": "I understand I have a very short career in hospitality and one of the typical drivers is average daily rate."
+    },
+    {
+      "start": 222.0,
+      "end": 225.0,
+      "speaker": "SPEAKER_03",
+      "text": "So how much you're actually pricing out each hotel room."
+    },
+    {
+      "start": 225.0,
+      "end": 232.0,
+      "speaker": "SPEAKER_03",
+      "text": "Do we have any understanding for us hotels New York City market as well as the competitors what they might be pricing at currently."
+    },
+    {
+      "start": 232.0,
+      "end": 233.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, it's a great question."
+    },
+    {
+      "start": 233.0,
+      "end": 239.0,
+      "speaker": "SPEAKER_02",
+      "text": "So the ADR for Oasis hotels in New York City is $350."
+    },
+    {
+      "start": 239.0,
+      "end": 243.0,
+      "speaker": "SPEAKER_02",
+      "text": "And the city's average ADR is $250."
+    },
+    {
+      "start": 243.0,
+      "end": 247.0,
+      "speaker": "SPEAKER_02",
+      "text": "So Oasis hotels is a little bit more upscale."
+    },
+    {
+      "start": 247.0,
+      "end": 250.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, excellent. A little bit of pricing power than perhaps."
+    },
+    {
+      "start": 250.0,
+      "end": 251.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 251.0,
+      "end": 257.0,
+      "speaker": "SPEAKER_03",
+      "text": "So understanding that there's also the other side of the revenue driver equation, which is usually the capacity."
+    },
+    {
+      "start": 257.0,
+      "end": 260.0,
+      "speaker": "SPEAKER_03",
+      "text": "So how many people are actually housing?"
+    },
+    {
+      "start": 260.0,
+      "end": 267.0,
+      "speaker": "SPEAKER_03",
+      "text": "Have they given us any understanding of how many or what the max capacity there hotels can actually house in New York City?"
+    },
+    {
+      "start": 267.0,
+      "end": 273.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yep. So they have a thousand rooms across four properties in New York City."
+    },
+    {
+      "start": 273.0,
+      "end": 275.0,
+      "speaker": "SPEAKER_03",
+      "text": "Excellent. Okay. Fantastic."
+    },
+    {
+      "start": 275.0,
+      "end": 280.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then kind of a final question just to kind of solidify the revenue piece."
+    },
+    {
+      "start": 280.0,
+      "end": 294.0,
+      "speaker": "SPEAKER_03",
+      "text": "Do we have an understanding of what their total revenue is given that kind of $350 price at the ADR and the 1000 rooms, you know, whether I don't know how many of them are actually being used or what the typical volume capacity is."
+    },
+    {
+      "start": 294.0,
+      "end": 302.0,
+      "speaker": "SPEAKER_02",
+      "text": "So their average occupancy rate is 75% across the 365 days a year."
+    },
+    {
+      "start": 302.0,
+      "end": 304.0,
+      "speaker": "SPEAKER_03",
+      "text": "Excellent. Okay."
+    },
+    {
+      "start": 304.0,
+      "end": 309.0,
+      "speaker": "SPEAKER_03",
+      "text": "Fantastic. I'll probably want to do some quick math on that later to understand kind of where they reside in the revenue."
+    },
+    {
+      "start": 309.0,
+      "end": 314.0,
+      "speaker": "SPEAKER_03",
+      "text": "But, you know, if I could grab maybe a minute or two and plan out my approach, I'd be fantastic."
+    },
+    {
+      "start": 314.0,
+      "end": 316.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, take your time."
+    },
+    {
+      "start": 316.0,
+      "end": 320.0,
+      "speaker": "SPEAKER_02",
+      "text": "Excellent. Thank you."
+    },
+    {
+      "start": 320.0,
+      "end": 326.0,
+      "speaker": "SPEAKER_03",
+      "text": "Alright. So I think I have an initial approach and kind of what I want to look at this is three primary categories."
+    },
+    {
+      "start": 326.0,
+      "end": 331.0,
+      "speaker": "SPEAKER_03",
+      "text": "First, I want to look at the New York hotel market kind of holistically."
+    },
+    {
+      "start": 331.0,
+      "end": 336.0,
+      "speaker": "SPEAKER_03",
+      "text": "Next, I want to think about always hotels both from a financial not finished perspective can we compete?"
+    },
+    {
+      "start": 336.0,
+      "end": 338.0,
+      "speaker": "SPEAKER_03",
+      "text": "Can we take advantage of this opportunity?"
+    },
+    {
+      "start": 338.0,
+      "end": 342.0,
+      "speaker": "SPEAKER_03",
+      "text": "They also want to think about kind of like other considerations will dive into that momentarily."
+    },
+    {
+      "start": 342.0,
+      "end": 345.0,
+      "speaker": "SPEAKER_03",
+      "text": "So I really want to start with the hotel markets specifically."
+    },
+    {
+      "start": 345.0,
+      "end": 349.0,
+      "speaker": "SPEAKER_03",
+      "text": "I want to look at the market size in New York. So what's the total industry revenue?"
+    },
+    {
+      "start": 349.0,
+      "end": 353.0,
+      "speaker": "SPEAKER_03",
+      "text": "What's the total size of the hospitality market in New York?"
+    },
+    {
+      "start": 353.0,
+      "end": 357.0,
+      "speaker": "SPEAKER_03",
+      "text": "You know, we kind of talked to a few drivers occupancy rate revenue for room."
+    },
+    {
+      "start": 357.0,
+      "end": 360.0,
+      "speaker": "SPEAKER_03",
+      "text": "There's usually a loyalty and kind of food and bad pieces there as well."
+    },
+    {
+      "start": 360.0,
+      "end": 363.0,
+      "speaker": "SPEAKER_03",
+      "text": "But what's that opportunity size look like?"
+    },
+    {
+      "start": 363.0,
+      "end": 367.0,
+      "speaker": "SPEAKER_03",
+      "text": "And where does this 22,000 rooms kind of fit into that? How is that pie for?"
+    },
+    {
+      "start": 367.0,
+      "end": 370.0,
+      "speaker": "SPEAKER_03",
+      "text": "Further on that, I also want to look at the competition."
+    },
+    {
+      "start": 370.0,
+      "end": 375.0,
+      "speaker": "SPEAKER_03",
+      "text": "So outside of ourselves, there's actually a number of large hotels in New York."
+    },
+    {
+      "start": 375.0,
+      "end": 380.0,
+      "speaker": "SPEAKER_03",
+      "text": "There's the traditional big players like the fairfields and Ariots, but who else is there?"
+    },
+    {
+      "start": 380.0,
+      "end": 385.0,
+      "speaker": "SPEAKER_03",
+      "text": "How are they actually competing? What's the market share about how they differentiate in this market as well?"
+    },
+    {
+      "start": 385.0,
+      "end": 388.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then further, I want to look at the customers."
+    },
+    {
+      "start": 388.0,
+      "end": 392.0,
+      "speaker": "SPEAKER_03",
+      "text": "This is kind of like point center customer primarily for the short term rentals."
+    },
+    {
+      "start": 392.0,
+      "end": 395.0,
+      "speaker": "SPEAKER_03",
+      "text": "What does that demographic look like? What features do they prioritize?"
+    },
+    {
+      "start": 395.0,
+      "end": 399.0,
+      "speaker": "SPEAKER_03",
+      "text": "And how does that fit in with traditional customers that are coming to New York?"
+    },
+    {
+      "start": 399.0,
+      "end": 403.0,
+      "speaker": "SPEAKER_03",
+      "text": "Perhaps less business focused and traveling through the week. Are they more traveling in the weekends?"
+    },
+    {
+      "start": 403.0,
+      "end": 405.0,
+      "speaker": "SPEAKER_03",
+      "text": "What appeals to them?"
+    },
+    {
+      "start": 405.0,
+      "end": 408.0,
+      "speaker": "SPEAKER_03",
+      "text": "So next, I want to think about the way so tell offering."
+    },
+    {
+      "start": 408.0,
+      "end": 413.0,
+      "speaker": "SPEAKER_03",
+      "text": "Can we really compete with this? Specifically, I want to first look at financials from a revenue perspective."
+    },
+    {
+      "start": 413.0,
+      "end": 418.0,
+      "speaker": "SPEAKER_03",
+      "text": "R.O.V. pricing competitively. We're $100 above. It sounds like the average in the market."
+    },
+    {
+      "start": 418.0,
+      "end": 424.0,
+      "speaker": "SPEAKER_03",
+      "text": "So does that price appeal to this demographic? Can we actually take advantage of that?"
+    },
+    {
+      "start": 424.0,
+      "end": 430.0,
+      "speaker": "SPEAKER_03",
+      "text": "We talked about we have 1000 rooms and 75%. So we have 25% occupancy left from volume perspective."
+    },
+    {
+      "start": 430.0,
+      "end": 434.0,
+      "speaker": "SPEAKER_03",
+      "text": "Is that enough? Do we need more occupancy? Do we need more volume?"
+    },
+    {
+      "start": 434.0,
+      "end": 438.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then also want to think about kind of the mix. So do we offer experiences?"
+    },
+    {
+      "start": 438.0,
+      "end": 444.0,
+      "speaker": "SPEAKER_03",
+      "text": "Other features that these short term rentals might want to come and do, you know, do we give tours and such?"
+    },
+    {
+      "start": 444.0,
+      "end": 450.0,
+      "speaker": "SPEAKER_03",
+      "text": "I also want to think about from a cost perspective. Do we have any large debt that we're paying now primarily from a fixed cost perspective?"
+    },
+    {
+      "start": 450.0,
+      "end": 454.0,
+      "speaker": "SPEAKER_03",
+      "text": "So if we need to increase the volume size, do we have the bill to do that?"
+    },
+    {
+      "start": 454.0,
+      "end": 463.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then even from a variable cost perspective, we're going to have an increase in volume of people, whether regardless we increase the capacity or not."
+    },
+    {
+      "start": 463.0,
+      "end": 469.0,
+      "speaker": "SPEAKER_03",
+      "text": "So do we have the staff? Do we have everything that we need to actually be able to take advantage of it?"
+    },
+    {
+      "start": 469.0,
+      "end": 473.0,
+      "speaker": "SPEAKER_03",
+      "text": "Further, I want to think about how we differentiate. So we're $100 above. And price."
+    },
+    {
+      "start": 473.0,
+      "end": 479.0,
+      "speaker": "SPEAKER_03",
+      "text": "So we differentiate in other way. You know, it sounds like quality perhaps, but, you know, do we have brand or feature?"
+    },
+    {
+      "start": 479.0,
+      "end": 484.0,
+      "speaker": "SPEAKER_03",
+      "text": "What makes us so unique and special in the New York market?"
+    },
+    {
+      "start": 484.0,
+      "end": 494.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then finally, I want to think about other considerations. So the considerations primarily go towards the approach that kind of second question that we have to talk about."
+    },
+    {
+      "start": 494.0,
+      "end": 504.0,
+      "speaker": "SPEAKER_03",
+      "text": "So initially, I want to think about digital marketing. Is this something in terms of promotion campaigns and attracting new customers that works for this kind of 22,000 short term rental market?"
+    },
+    {
+      "start": 504.0,
+      "end": 509.0,
+      "speaker": "SPEAKER_03",
+      "text": "I also want to think about what types of experiences and packages would appeal."
+    },
+    {
+      "start": 509.0,
+      "end": 516.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then further, kind of the online presence. I imagine this is most likely younger demographic. They probably appeal with online."
+    },
+    {
+      "start": 516.0,
+      "end": 523.0,
+      "speaker": "SPEAKER_03",
+      "text": "So what can we do to actually work and attract this group further and something where does to keep in mind?"
+    },
+    {
+      "start": 523.0,
+      "end": 531.0,
+      "speaker": "SPEAKER_03",
+      "text": "In the past week, you saw Biden really pushed into the affordability of apartments in New York and how there's a short term crisis."
+    },
+    {
+      "start": 531.0,
+      "end": 537.0,
+      "speaker": "SPEAKER_03",
+      "text": "So where is that going to grow or shrink this potential market in the future as we think about this?"
+    },
+    {
+      "start": 537.0,
+      "end": 544.0,
+      "speaker": "SPEAKER_03",
+      "text": "You know, if I think about where I really want to start though, it'd be really in terms of the hotel market and getting a better understanding of where they're."
+    },
+    {
+      "start": 544.0,
+      "end": 550.0,
+      "speaker": "SPEAKER_03",
+      "text": "Where are these 22,000 properties? Be or like kind of exist in this greater market."
+    },
+    {
+      "start": 550.0,
+      "end": 556.0,
+      "speaker": "SPEAKER_03",
+      "text": "Do you have any kind of understanding of what this hotel market looks like in New York, currently?"
+    },
+    {
+      "start": 556.0,
+      "end": 570.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, can you tell me a little bit more about like what you're looking for in terms of what the hotel market would be? Are you looking for the size, you know, trends? What kind of what are you looking for here?"
+    },
+    {
+      "start": 570.0,
+      "end": 577.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, so specifically what I want to think about is what's the total revenue size to capture in this market and how that 22,000 fits it."
+    },
+    {
+      "start": 577.0,
+      "end": 583.0,
+      "speaker": "SPEAKER_03",
+      "text": "So I'm thinking about the total number of rooms and the average occupancy rates across."
+    },
+    {
+      "start": 583.0,
+      "end": 587.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then also even kind of the average ADR, we know it's about 250."
+    },
+    {
+      "start": 587.0,
+      "end": 599.0,
+      "speaker": "SPEAKER_03",
+      "text": "And so where does that look like in terms of being able to price out what the total millions or billions that could be this New York hotel market and you know happy to market size if that would assist."
+    },
+    {
+      "start": 599.0,
+      "end": 606.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that's a great question. And actually the partner on the case wants to help always is get a good kind of lay of the land."
+    },
+    {
+      "start": 606.0,
+      "end": 616.0,
+      "speaker": "SPEAKER_02",
+      "text": "And so I think estimating the size of the market for hotels New York City, both in terms of total capacity as well as industry revenue per year would be super helpful to start off with."
+    },
+    {
+      "start": 616.0,
+      "end": 621.0,
+      "speaker": "SPEAKER_02",
+      "text": "It would be no interesting to understand how big we are and."
+    },
+    {
+      "start": 621.0,
+      "end": 625.0,
+      "speaker": "SPEAKER_02",
+      "text": "You know what what piece of the pie we own in the New York market."
+    },
+    {
+      "start": 625.0,
+      "end": 634.0,
+      "speaker": "SPEAKER_03",
+      "text": "Excellent. Okay, let's let's do it. So the way I want to kind of structure this in terms of approaches, I'll tell you kind of the equation, I think I'll use."
+    },
+    {
+      "start": 634.0,
+      "end": 639.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then I'll fill in each of those dots and then calculate from there."
+    },
+    {
+      "start": 639.0,
+      "end": 644.0,
+      "speaker": "SPEAKER_03",
+      "text": "So in terms of moving forward, I want to think about initially the number of New York hotels."
+    },
+    {
+      "start": 644.0,
+      "end": 650.0,
+      "speaker": "SPEAKER_03",
+      "text": "I would probably multiply that by the average number of rooms per hotel. We kind of know where we are, but we'll extrapolate that across."
+    },
+    {
+      "start": 650.0,
+      "end": 653.0,
+      "speaker": "SPEAKER_03",
+      "text": "That would give us total number of rooms."
+    },
+    {
+      "start": 653.0,
+      "end": 662.0,
+      "speaker": "SPEAKER_03",
+      "text": "I then probably want to think about the average occupancy rate in terms of a percentage and multiplying that across the number of days per year given that it's New York."
+    },
+    {
+      "start": 662.0,
+      "end": 670.0,
+      "speaker": "SPEAKER_03",
+      "text": "I imagine 365, you know, the holidays are a big time for people to come. So I'm assuming that the entire year is open for business."
+    },
+    {
+      "start": 670.0,
+      "end": 678.0,
+      "speaker": "SPEAKER_03",
+      "text": "That should give us the total number of rooms, total room nights sold per year, I think it would be the better way to categorize that."
+    },
+    {
+      "start": 678.0,
+      "end": 691.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then multiplying that by the average ADR, I know that's eventually going to be 250 should hopefully give us what this market looks like. Okay, so let's dive into each of those. I want to start out with the number of New York hotels specifically."
+    },
+    {
+      "start": 691.0,
+      "end": 696.0,
+      "speaker": "SPEAKER_03",
+      "text": "I'd like to be able to use one small area in New York and then perhaps extrapolate out from there."
+    },
+    {
+      "start": 696.0,
+      "end": 711.0,
+      "speaker": "SPEAKER_03",
+      "text": "I would like to use Manhattan given that it's kind of a center of business and tourism and then work out from that direction. So I'm going to use some rough assumptions. I haven't been to New York in quite a while, but please let me know if I run a straight map."
+    },
+    {
+      "start": 712.0,
+      "end": 716.0,
+      "speaker": "SPEAKER_03",
+      "text": "So I know that Manhattan is about 200 streets up and down."
+    },
+    {
+      "start": 716.0,
+      "end": 726.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then if I had to kind of think about from a cross perspective about 10 avenues, so 200 times 10 that's going to give me about 200, I'm sorry, 2000 blocks."
+    },
+    {
+      "start": 726.0,
+      "end": 727.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah."
+    },
+    {
+      "start": 727.0,
+      "end": 738.0,
+      "speaker": "SPEAKER_03",
+      "text": "Understanding that I also want to think about probably in terms of number of hotels per block. And I imagine it's probably one hotel for every four to five blocks. I'm going to kind of skew towards five."
+    },
+    {
+      "start": 738.0,
+      "end": 746.0,
+      "speaker": "SPEAKER_03",
+      "text": "And so that would give me kind of a 2000 blocks times point to hotels per block on a, you know, per block basis here."
+    },
+    {
+      "start": 746.0,
+      "end": 755.0,
+      "speaker": "SPEAKER_03",
+      "text": "And that would work into 400 hotels in this general area. So that would give me Manhattan and then being able to extrapolate beyond that."
+    },
+    {
+      "start": 755.0,
+      "end": 763.0,
+      "speaker": "SPEAKER_03",
+      "text": "I'm going to assume that you know, Manhattan is this business hub towards public with reference pretty slight anticipate that I want to assign a percentage to that."
+    },
+    {
+      "start": 763.0,
+      "end": 771.0,
+      "speaker": "SPEAKER_03",
+      "text": "So I'm going to assume that probably about 70% of New York city hotels specifically reside within Manhattan."
+    },
+    {
+      "start": 771.0,
+      "end": 773.0,
+      "speaker": "SPEAKER_03",
+      "text": "Does that does that seem fair to you?"
+    },
+    {
+      "start": 773.0,
+      "end": 785.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, I think those assumptions all make sense. I really liked how you got to those assumptions and didn't just throw them out at me. You, you know, walked me through your thinking. So I appreciate that."
+    },
+    {
+      "start": 785.0,
+      "end": 786.0,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you."
+    },
+    {
+      "start": 786.0,
+      "end": 796.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, and so next up we have the 400 hotels in Manhattan. 70% divided by that 70% of hotels residing there."
+    },
+    {
+      "start": 796.0,
+      "end": 806.0,
+      "speaker": "SPEAKER_03",
+      "text": "Quick map that gives me 570 hotels in New York together collectively. So that's kind of my population of hotels that I'll use."
+    },
+    {
+      "start": 806.0,
+      "end": 818.0,
+      "speaker": "SPEAKER_03",
+      "text": "Also then reference being up to multiply that by my average number of rooms per hotel. I'm going to go ahead and assume that tipglotel is a bit smaller about 200 rooms per hotel."
+    },
+    {
+      "start": 818.0,
+      "end": 826.0,
+      "speaker": "SPEAKER_03",
+      "text": "I think, you know, given that we have four properties and 1000 rooms. That would mean that each of these hotel the bit smaller than our average property."
+    },
+    {
+      "start": 826.0,
+      "end": 839.0,
+      "speaker": "SPEAKER_03",
+      "text": "So we use 200 rooms. So we have the 570 New York hotels times 200 rooms per hotel. That's going to give me 114,000 rooms across New York."
+    },
+    {
+      "start": 839.0,
+      "end": 847.0,
+      "speaker": "SPEAKER_03",
+      "text": "We know that our occupancy currently 75%. I'm going to go ahead and use that just as kind of a directional point."
+    },
+    {
+      "start": 847.0,
+      "end": 865.0,
+      "speaker": "SPEAKER_03",
+      "text": "And so what I want to do next is 114,000 rooms times 75% times 365 days per year. That's going to give me kind of my next chunk analysis and give me just one moment with that math please."
+    },
+    {
+      "start": 865.0,
+      "end": 883.0,
+      "speaker": "SPEAKER_03",
+      "text": "So what I'm looking at is from a total room night, soul per year, the summation of the 114,000 75% 365. We're looking at about 31 31.2 million room night, soul per year."
+    },
+    {
+      "start": 883.0,
+      "end": 890.0,
+      "speaker": "SPEAKER_03",
+      "text": "Which is hell of a number. But of course, we also want to attach a kind of financial figure to that."
+    },
+    {
+      "start": 890.0,
+      "end": 902.0,
+      "speaker": "SPEAKER_03",
+      "text": "That average ADR, there will be a reference in the kind of Q and A is about 250. So I'm going to use that as the baseline here. So it's going to be 31.2 million room night, soul per year."
+    },
+    {
+      "start": 902.0,
+      "end": 905.0,
+      "speaker": "SPEAKER_03",
+      "text": "I'm going to multiply that by the 250."
+    },
+    {
+      "start": 905.0,
+      "end": 911.0,
+      "speaker": "SPEAKER_03",
+      "text": "Give me just one moment, 31.2 times 25, 5, 0 on it."
+    },
+    {
+      "start": 911.0,
+      "end": 928.0,
+      "speaker": "SPEAKER_03",
+      "text": "That is about 7.8 billion dollars annually from this direct hotel market in New York. And you know, I think about kind of where the 22,000 rooms sits with that, you know, 22,000."
+    },
+    {
+      "start": 928.0,
+      "end": 943.0,
+      "speaker": "SPEAKER_03",
+      "text": "I'm going to compare that to the 114,000 rooms that we benchmarked earlier. It's nearly 20% of the overall market. So certainly material portion of it in a fast all of a sudden getting shrunk. So supplies decreasing from the traditional economics class."
+    },
+    {
+      "start": 943.0,
+      "end": 946.0,
+      "speaker": "SPEAKER_03",
+      "text": "This is a big portion of revenue that's now up for grabs."
+    },
+    {
+      "start": 946.0,
+      "end": 957.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, that's a great. It's a great point and really like your approach there. Then my question now is, how do you think a way so should respond to this opportunity?"
+    },
+    {
+      "start": 957.0,
+      "end": 960.0,
+      "speaker": "SPEAKER_02",
+      "text": "Keeping in mind what we discussed earlier."
+    },
+    {
+      "start": 960.0,
+      "end": 963.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, yeah, great question."
+    },
+    {
+      "start": 963.0,
+      "end": 978.0,
+      "speaker": "SPEAKER_03",
+      "text": "You know, I'm going to pull from some of my prior analysis and my framework as well. And the way I'm thinking about this is kind of internal operational enhancements and changes that we can make versus more external facing efforts, traditionally run marketing."
+    },
+    {
+      "start": 978.0,
+      "end": 989.0,
+      "speaker": "SPEAKER_03",
+      "text": "So perhaps I can kind of hit you with the internal operational enhancements first. So initially I'm thinking capacity expansion. We only have 25% of our average kind of occupancy left."
+    },
+    {
+      "start": 989.0,
+      "end": 999.0,
+      "speaker": "SPEAKER_03",
+      "text": "And it seems like we can probably fill more. There's a greater opportunity. So understand there would be construction involved in what's we kind of work with more inorganic growth and purchase someone."
+    },
+    {
+      "start": 999.0,
+      "end": 1014.0,
+      "speaker": "SPEAKER_03",
+      "text": "We really think about this is more of a long term solution. And more short term solution. I also want to think about pricing strategy specifically it seems like there's an opportunity given the decreasing supply yet same demand to increase our price."
+    },
+    {
+      "start": 1014.0,
+      "end": 1026.0,
+      "speaker": "SPEAKER_03",
+      "text": "I want to understand how much pricing power we have, but also be considering, you know, can we keep our existing customer base or are we going to alienate them if we choose to increase price."
+    },
+    {
+      "start": 1026.0,
+      "end": 1037.0,
+      "speaker": "SPEAKER_03",
+      "text": "And it seems like there's a pricing strategy piece here that we should take advantage of. I also want to think about kind of more external marketing efforts. So specifically marketing digital marketing."
+    },
+    {
+      "start": 1037.0,
+      "end": 1050.0,
+      "speaker": "SPEAKER_03",
+      "text": "So can we ramp up our online efforts, can we use targeted marketing campaigns. I'm thinking both social and non social maybe search as well to be able to lure in this new customer base."
+    },
+    {
+      "start": 1050.0,
+      "end": 1066.0,
+      "speaker": "SPEAKER_03",
+      "text": "I think about more unique experiences. This is something I referenced previously, but you know, I know when I travel, I always do the Airbnb experiences. I think it's a fantastic way to get involved with local businesses and meet more local people, especially supports. And I imagine that, you know, my demographic probably appeals there similarly."
+    },
+    {
+      "start": 1066.0,
+      "end": 1087.0,
+      "speaker": "SPEAKER_03",
+      "text": "So I would love to see what we can do in terms of that and how that builds into our marketing. And then further and finally, I think I probably want to emphasize our differentiators. So what differentiates us from the other hotels in the market, the other nearly 80% and where do we actually see ourselves being able to compete and pushing that through our digital marketing efforts."
+    },
+    {
+      "start": 1087.0,
+      "end": 1093.0,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, those those are all great, great options. And I think we'll really help Oasis."
+    },
+    {
+      "start": 1093.0,
+      "end": 1103.0,
+      "speaker": "SPEAKER_02",
+      "text": "And now your team's financial model suggests that occupancy for Oasis properties could jump from 75 up to 100% essentially overnight."
+    },
+    {
+      "start": 1103.0,
+      "end": 1114.0,
+      "speaker": "SPEAKER_02",
+      "text": "What's more is that the model suggests Oasis could support 100% occupancy while increasing price from 350 night to 500 a night on average."
+    },
+    {
+      "start": 1114.0,
+      "end": 1119.0,
+      "speaker": "SPEAKER_02",
+      "text": "What would the potential revenue impact of this change look like for Oasis?"
+    },
+    {
+      "start": 1119.0,
+      "end": 1127.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay, very interesting is certainly kind of a ludes back to the points we're making about potential price and volume increase."
+    },
+    {
+      "start": 1127.0,
+      "end": 1135.0,
+      "speaker": "SPEAKER_03",
+      "text": "So reading that back, we have an increase in price of 150 dollars per night from the traditional 350 to our new price of 500."
+    },
+    {
+      "start": 1135.0,
+      "end": 1140.0,
+      "speaker": "SPEAKER_03",
+      "text": "But then also additionally an increase in occupancy from that 75% to 100%."
+    },
+    {
+      "start": 1140.0,
+      "end": 1146.0,
+      "speaker": "SPEAKER_03",
+      "text": "So the way I want to do this, I know that we have occupancy, I'm going to put the two models together."
+    },
+    {
+      "start": 1146.0,
+      "end": 1152.0,
+      "speaker": "SPEAKER_03",
+      "text": "So our new model of 100% versus our original model of 75% I want to multiply that by the number of rooms."
+    },
+    {
+      "start": 1152.0,
+      "end": 1156.0,
+      "speaker": "SPEAKER_03",
+      "text": "Our rooms are going to stay the same for each piece at 1000."
+    },
+    {
+      "start": 1156.0,
+      "end": 1162.0,
+      "speaker": "SPEAKER_03",
+      "text": "I also want to then multiply that by the number of days per year, which is going to be 365 for each piece."
+    },
+    {
+      "start": 1162.0,
+      "end": 1170.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then further on that, I want to multiply by the price and I know the price for the new models me 500 versus the traditional original model, which is 350."
+    },
+    {
+      "start": 1170.0,
+      "end": 1172.0,
+      "speaker": "SPEAKER_03",
+      "text": "So let's kind of work through this."
+    },
+    {
+      "start": 1172.0,
+      "end": 1183.0,
+      "speaker": "SPEAKER_03",
+      "text": "So new model, I know 100% times 1000 times 365 that's going to be for even 65,000 when I multiply that by 500 so 365 times five and then I'll add on the zeros."
+    },
+    {
+      "start": 1183.0,
+      "end": 1203.0,
+      "speaker": "SPEAKER_03",
+      "text": "I am getting roughly 182 looks like 182.5 million dollars for our new model without price increase of 500 and that increase in occupancy in terms of their original model and I'm kicking myself because I pull myself out and do this quick map earlier."
+    },
+    {
+      "start": 1203.0,
+      "end": 1205.0,
+      "speaker": "SPEAKER_03",
+      "text": "Let's see what that looks like."
+    },
+    {
+      "start": 1205.0,
+      "end": 1209.0,
+      "speaker": "SPEAKER_03",
+      "text": "So 75% in 1000."
+    },
+    {
+      "start": 1209.0,
+      "end": 1211.0,
+      "speaker": "SPEAKER_03",
+      "text": "65."
+    },
+    {
+      "start": 1211.0,
+      "end": 1216.0,
+      "speaker": "SPEAKER_03",
+      "text": "35."
+    },
+    {
+      "start": 1216.0,
+      "end": 1218.0,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 1218.0,
+      "end": 1227.0,
+      "speaker": "SPEAKER_03",
+      "text": "And it looks like with this new model of the original model and sorry we're coming out to about 96, 96 million dollars."
+    },
+    {
+      "start": 1227.0,
+      "end": 1235.0,
+      "speaker": "SPEAKER_03",
+      "text": "So it's almost double a quick math given let me just get the difference between those two."
+    },
+    {
+      "start": 1235.0,
+      "end": 1247.0,
+      "speaker": "SPEAKER_03",
+      "text": "We are looking at about 86 and a half million dollar increase from both that price increase as well as the volume increase that's attributed due to this short and supply."
+    },
+    {
+      "start": 1247.0,
+      "end": 1253.0,
+      "speaker": "SPEAKER_03",
+      "text": "So nearly 100% increase, you know, fantastic opportunity increase price and take advantage of this."
+    },
+    {
+      "start": 1253.0,
+      "end": 1263.0,
+      "speaker": "SPEAKER_02",
+      "text": "I appreciate you walking through this now what risks might the company encounter with such a dramatic price increase."
+    },
+    {
+      "start": 1263.0,
+      "end": 1265.0,
+      "speaker": "SPEAKER_03",
+      "text": "Great question."
+    },
+    {
+      "start": 1265.0,
+      "end": 1282.0,
+      "speaker": "SPEAKER_03",
+      "text": "You know, I think we might have highlighted some earlier so my initial piece would be customer backlash. I know when I worked in the hospitality industry, we were looking at dynamic pricing and differentiated pricing and that's certainly alienated a number of customers, especially when they kind of found out about that."
+    },
+    {
+      "start": 1282.0,
+      "end": 1287.0,
+      "speaker": "SPEAKER_03",
+      "text": "Dynamic pricing and storms happen or, you know, supply shrink."
+    },
+    {
+      "start": 1287.0,
+      "end": 1296.0,
+      "speaker": "SPEAKER_03",
+      "text": "So as we think about increasing the price, I imagine we might alienate that traditional customer base perhaps it's something like myself that's traveling there on the week dates for work."
+    },
+    {
+      "start": 1296.0,
+      "end": 1301.0,
+      "speaker": "SPEAKER_03",
+      "text": "And I might be less inclined or perhaps my work is going to steer me towards a different property."
+    },
+    {
+      "start": 1301.0,
+      "end": 1313.0,
+      "speaker": "SPEAKER_03",
+      "text": "I also imagine the brand position might be potentially compromised and one thing about that is if we increase our price from 350 to 500, we already on the high and for our category."
+    },
+    {
+      "start": 1313.0,
+      "end": 1320.0,
+      "speaker": "SPEAKER_03",
+      "text": "This might then start moving us into a different category. I don't think that we would all of a sudden, you know, be in the luxury New York City hotel market."
+    },
+    {
+      "start": 1320.0,
+      "end": 1324.0,
+      "speaker": "SPEAKER_03",
+      "text": "I anticipate that someone that doesn't go there for those prices are higher."
+    },
+    {
+      "start": 1324.0,
+      "end": 1329.0,
+      "speaker": "SPEAKER_03",
+      "text": "But if it does move us into the next category, can we even compete there?"
+    },
+    {
+      "start": 1329.0,
+      "end": 1335.0,
+      "speaker": "SPEAKER_03",
+      "text": "Will people still want to stay at our hotels, given that that brand has kind of changed?"
+    },
+    {
+      "start": 1335.0,
+      "end": 1342.0,
+      "speaker": "SPEAKER_03",
+      "text": "I also didn't think about the operational risk and I know we kind of talked about operations previously, but I think increasing capacity."
+    },
+    {
+      "start": 1342.0,
+      "end": 1352.0,
+      "speaker": "SPEAKER_03",
+      "text": "This kind of goes back to our cost side. Do we have the staff and the team that's available? There's been labor shortages for the last few years in the market. So can we actually take advantage?"
+    },
+    {
+      "start": 1352.0,
+      "end": 1361.0,
+      "speaker": "SPEAKER_03",
+      "text": "But then also from kind of booking hotels 100% what if we do want to increase the volume of our property? What if we do need to take our website down for a time?"
+    },
+    {
+      "start": 1361.0,
+      "end": 1363.0,
+      "speaker": "SPEAKER_03",
+      "text": "How does this impact us?"
+    },
+    {
+      "start": 1363.0,
+      "end": 1367.0,
+      "speaker": "SPEAKER_03",
+      "text": "And then further, I suppose kind of my last point would be around regulation."
+    },
+    {
+      "start": 1367.0,
+      "end": 1378.0,
+      "speaker": "SPEAKER_03",
+      "text": "We've seen rent controls in New York, but that's primarily around apartments. So would this also be potential price controls in the hotel market, especially with the shrinking?"
+    },
+    {
+      "start": 1378.0,
+      "end": 1390.0,
+      "speaker": "SPEAKER_03",
+      "text": "If they can go ahead and make short-term rentals illegal, can they potentially put price controls for us and then, you know, how does that eventually impact our brand back with Appis?"
+    },
+    {
+      "start": 1391.0,
+      "end": 1395.0,
+      "speaker": "SPEAKER_02",
+      "text": "These are all really good risks."
+    },
+    {
+      "start": 1395.0,
+      "end": 1404.0,
+      "speaker": "SPEAKER_02",
+      "text": "I think, you know, I like how you brought in a lot of your personal experience as well as, you know, some really recent current events."
+    },
+    {
+      "start": 1404.0,
+      "end": 1414.0,
+      "speaker": "SPEAKER_02",
+      "text": "Well, we're coming to the end of time here. What is your recommendation of the client on what to do next given this shift in the market?"
+    },
+    {
+      "start": 1414.0,
+      "end": 1429.0,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah. So with initial goal from always to tells to understand impact the New York City hotel market and how they might respond tangibly due to 22,000 mentors being maybe legal, you know, more or less overnight."
+    },
+    {
+      "start": 1429.0,
+      "end": 1433.0,
+      "speaker": "SPEAKER_03",
+      "text": "I suppose my recommendations would be short-term and long term from a short term perspective."
+    },
+    {
+      "start": 1433.0,
+      "end": 1446.0,
+      "speaker": "SPEAKER_03",
+      "text": "I think we should have a gradual pricing increase from the initial 350 to 500 gradually doing this will hopefully avoid alienating any customers, but also be able to take advantage of the pricing power that we have."
+    },
+    {
+      "start": 1446.0,
+      "end": 1456.0,
+      "speaker": "SPEAKER_03",
+      "text": "So, I think that we should be able to use digital marketing to target this core demographic to bring them into our properties from a long term effort."
+    },
+    {
+      "start": 1456.0,
+      "end": 1463.0,
+      "speaker": "SPEAKER_03",
+      "text": "I think you can take a monitor this market specifically from a regulation standpoint to make sure that nothing changes and it hinders us being able to capture the opportunity."
+    },
+    {
+      "start": 1463.0,
+      "end": 1470.0,
+      "speaker": "SPEAKER_03",
+      "text": "But then we should also consider a capacity expansion, IE being able to build more rooms and build more properties."
+    },
+    {
+      "start": 1470.0,
+      "end": 1482.0,
+      "speaker": "SPEAKER_03",
+      "text": "So, I think it is risk associated with this primarily around brand positioning by doing so and increasing our prices that move us into a new category where perhaps we're going to alienating existing customers not being able to compete."
+    },
+    {
+      "start": 1482.0,
+      "end": 1494.0,
+      "speaker": "SPEAKER_03",
+      "text": "There are mitigation tactics though we that we can take, I would identify the features that overlap with the new customer base and short-term rentals as well as our existing customer base and be able to push that out in the digital marketing."
+    },
+    {
+      "start": 1494.0,
+      "end": 1502.0,
+      "speaker": "SPEAKER_03",
+      "text": "So, I think that we should avoid those weaknesses that they may use to perhaps stop staying with us or alienating us in terms of more immediate next steps though."
+    },
+    {
+      "start": 1502.0,
+      "end": 1511.0,
+      "speaker": "SPEAKER_03",
+      "text": "What we would love to do is assist you in building the targeting marketing that's going to go into this digital marketing to be able to capture this new customer base. Thank you."
+    },
+    {
+      "start": 1511.0,
+      "end": 1517.0,
+      "speaker": "SPEAKER_02",
+      "text": "Awesome. Then you did a great job. Thank you for helping. I saw this oasis case."
+    },
+    {
+      "start": 1517.0,
+      "end": 1532.0,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you, Maddie. Hey, everyone. It's Kent and Gives you here, the founder of Rocketblocks. Thank you so much for watching this mock interview video. I hope you found it informative and helpful as you are getting ready to prepare for your own interviews and hopefully landing that job offer you are excited about."
+    },
+    {
+      "start": 1532.0,
+      "end": 1541.0,
+      "speaker": "SPEAKER_01",
+      "text": "We have a ton of great content on the Rocketblocks channel coming out on a weekly basis, mock interviews, mini lessons and chats with our Rocketblocks experts."
+    },
+    {
+      "start": 1541.0,
+      "end": 1549.0,
+      "speaker": "SPEAKER_01",
+      "text": "If you haven't subscribed yet already, please do so. There is a big red button below. If you hit that, you'll get all of our content as soon as it comes up."
+    },
+    {
+      "start": 1549.0,
+      "end": 1551.0,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks for watching and have a great day."
+    }
+  ],
+  "grading": {
+    "communication": 17,
+    "framework": 14,
+    "math": 9,
+    "case_difficulty": 9,
+    "final_summary": 13,
+    "overall_thoughts": "You communicated effectively and provided a clear framework, but the math was shaky."
+  }
+}

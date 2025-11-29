@@ -1,0 +1,2252 @@
+[
+  {
+    "start": 0.0,
+    "end": 7.640000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Hello everyone, my name is Ken Dukvestu, I'm an XBCG consultant, an XGoogleer and the founder"
+  },
+  {
+    "start": 7.640000000000001,
+    "end": 11.84,
+    "speaker": "SPEAKER_01",
+    "text": "of Rocketblocks, an online platform that helps candidates prepare for interviews."
+  },
+  {
+    "start": 11.84,
+    "end": 16.48,
+    "speaker": "SPEAKER_01",
+    "text": "In today's Rocketblocks mock interview, we've got a cool operations case focused on"
+  },
+  {
+    "start": 16.48,
+    "end": 21.56,
+    "speaker": "SPEAKER_01",
+    "text": "a grocery business, and we've got two of our Rocketblocks experts sitting down."
+  },
+  {
+    "start": 21.56,
+    "end": 24.2,
+    "speaker": "SPEAKER_01",
+    "text": "The interviewer is going to be played by Matthew."
+  },
+  {
+    "start": 24.2,
+    "end": 29.759999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "He is a XBCG consultant and a graduate of Duke's Food Quot School of Business, and the"
+  },
+  {
+    "start": 29.759999999999998,
+    "end": 31.8,
+    "speaker": "SPEAKER_01",
+    "text": "candidate is played by Dan Yella."
+  },
+  {
+    "start": 31.8,
+    "end": 34.64,
+    "speaker": "SPEAKER_01",
+    "text": "She currently works at Google in Strategy and Operations."
+  },
+  {
+    "start": 34.64,
+    "end": 39.519999999999996,
+    "speaker": "SPEAKER_01",
+    "text": "She's a former McKinsey intern, and she was a graduate of the Columbia Business School."
+  },
+  {
+    "start": 39.519999999999996,
+    "end": 40.96,
+    "speaker": "SPEAKER_01",
+    "text": "So let's go ahead and dive in."
+  },
+  {
+    "start": 40.96,
+    "end": 41.96,
+    "speaker": "SPEAKER_03",
+    "text": "Hi, Danny."
+  },
+  {
+    "start": 41.96,
+    "end": 44.16,
+    "speaker": "SPEAKER_03",
+    "text": "Thank you so much for joining me this morning."
+  },
+  {
+    "start": 44.16,
+    "end": 46.8,
+    "speaker": "SPEAKER_03",
+    "text": "It's really a pleasure to have you here today."
+  },
+  {
+    "start": 46.8,
+    "end": 48.120000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "Hello, Matthew."
+  },
+  {
+    "start": 48.120000000000005,
+    "end": 49.64,
+    "speaker": "SPEAKER_00",
+    "text": "It's plighted to have you."
+  },
+  {
+    "start": 49.64,
+    "end": 53.760000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "I'm really excited to start this case."
+  },
+  {
+    "start": 53.76,
+    "end": 54.76,
+    "speaker": "SPEAKER_03",
+    "text": "Likewise."
+  },
+  {
+    "start": 54.76,
+    "end": 58.4,
+    "speaker": "SPEAKER_03",
+    "text": "So, by way of introduction, my name is Maddie Calvert."
+  },
+  {
+    "start": 58.4,
+    "end": 63.92,
+    "speaker": "SPEAKER_03",
+    "text": "I was a consultant at BCG in Chicago for a couple of years, and I now work for Cairo"
+  },
+  {
+    "start": 63.92,
+    "end": 65.28,
+    "speaker": "SPEAKER_03",
+    "text": "Sarah Space."
+  },
+  {
+    "start": 65.28,
+    "end": 71.47999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "We are a pharmac tech company and working still in Chicago."
+  },
+  {
+    "start": 71.47999999999999,
+    "end": 74.47999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Amazing, really great background."
+  },
+  {
+    "start": 74.47999999999999,
+    "end": 75.47999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "My name is Danny."
+  },
+  {
+    "start": 75.47999999999999,
+    "end": 80.28,
+    "speaker": "SPEAKER_00",
+    "text": "I am working in private equity firm in Brazil with healthcare."
+  },
+  {
+    "start": 80.28,
+    "end": 84.24,
+    "speaker": "SPEAKER_00",
+    "text": "Then did my summer doing my MBA at McKinsey."
+  },
+  {
+    "start": 84.24,
+    "end": 87.6,
+    "speaker": "SPEAKER_00",
+    "text": "Received a full time offer for them to join the New York office."
+  },
+  {
+    "start": 87.6,
+    "end": 92.44,
+    "speaker": "SPEAKER_00",
+    "text": "However, decided to join this strategy and off the Met Google to work in growing our"
+  },
+  {
+    "start": 92.44,
+    "end": 95.08,
+    "speaker": "SPEAKER_00",
+    "text": "revenue in the advertising business."
+  },
+  {
+    "start": 95.08,
+    "end": 96.08,
+    "speaker": "SPEAKER_03",
+    "text": "Awesome."
+  },
+  {
+    "start": 96.08,
+    "end": 97.08,
+    "speaker": "SPEAKER_03",
+    "text": "Well, really excited."
+  },
+  {
+    "start": 97.08,
+    "end": 101.08,
+    "speaker": "SPEAKER_03",
+    "text": "Let's go ahead and jump right into the case."
+  },
+  {
+    "start": 101.08,
+    "end": 103.08,
+    "speaker": "SPEAKER_03",
+    "text": "Perfect."
+  },
+  {
+    "start": 103.08,
+    "end": 110.0,
+    "speaker": "SPEAKER_03",
+    "text": "So, Danny, after returning from a trade show, the CEO of a large grocery distribution center"
+  },
+  {
+    "start": 110.0,
+    "end": 111.6,
+    "speaker": "SPEAKER_03",
+    "text": "calls you."
+  },
+  {
+    "start": 111.6,
+    "end": 117.12,
+    "speaker": "SPEAKER_03",
+    "text": "And he enthusiastically describes a new technology which could be used to automate part of his"
+  },
+  {
+    "start": 117.12,
+    "end": 118.96000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "company's process."
+  },
+  {
+    "start": 118.96000000000001,
+    "end": 122.92,
+    "speaker": "SPEAKER_03",
+    "text": "He asks whether you think this would be a good idea for his business."
+  },
+  {
+    "start": 122.92,
+    "end": 129.2,
+    "speaker": "SPEAKER_03",
+    "text": "Now knowing that CEO is a tech enthusiast who loves innovation for the novelty of it,"
+  },
+  {
+    "start": 129.2,
+    "end": 131.08,
+    "speaker": "SPEAKER_03",
+    "text": "you ponder the implications."
+  },
+  {
+    "start": 131.08,
+    "end": 134.28,
+    "speaker": "SPEAKER_03",
+    "text": "How would you tackle this problem?"
+  },
+  {
+    "start": 134.28,
+    "end": 135.28,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 135.28,
+    "end": 137.44,
+    "speaker": "SPEAKER_00",
+    "text": "I took some notes here."
+  },
+  {
+    "start": 137.44,
+    "end": 142.32,
+    "speaker": "SPEAKER_00",
+    "text": "Just to recap what you said to make sure I understand correctly."
+  },
+  {
+    "start": 142.32,
+    "end": 150.32,
+    "speaker": "SPEAKER_00",
+    "text": "So our client is a CEO of a large distribution grocery company and he asked you to assess."
+  },
+  {
+    "start": 150.32,
+    "end": 158.72,
+    "speaker": "SPEAKER_00",
+    "text": "It will be a good idea for them to invest in a new technology as part of his company process"
+  },
+  {
+    "start": 158.72,
+    "end": 160.72,
+    "speaker": "SPEAKER_00",
+    "text": "to implement that."
+  },
+  {
+    "start": 160.72,
+    "end": 162.32,
+    "speaker": "SPEAKER_00",
+    "text": "It seems really exciting."
+  },
+  {
+    "start": 162.32,
+    "end": 168.44,
+    "speaker": "SPEAKER_00",
+    "text": "I think might be a good opportunity for them to automate some of the process."
+  },
+  {
+    "start": 168.44,
+    "end": 174.56,
+    "speaker": "SPEAKER_00",
+    "text": "Just for me to have a better understanding of our client business and also this new"
+  },
+  {
+    "start": 174.56,
+    "end": 175.56,
+    "speaker": "SPEAKER_00",
+    "text": "technology."
+  },
+  {
+    "start": 175.56,
+    "end": 178.12,
+    "speaker": "SPEAKER_00",
+    "text": "Do you know how big they are?"
+  },
+  {
+    "start": 178.12,
+    "end": 180.8,
+    "speaker": "SPEAKER_00",
+    "text": "You mentioned that they were a large company."
+  },
+  {
+    "start": 180.8,
+    "end": 181.8,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 181.8,
+    "end": 189.0,
+    "speaker": "SPEAKER_03",
+    "text": "So, they shipped to roughly 50 grocery stores in the immediate area and overall they do"
+  },
+  {
+    "start": 189.0,
+    "end": 191.72,
+    "speaker": "SPEAKER_03",
+    "text": "about 1 million shipments per year."
+  },
+  {
+    "start": 191.72,
+    "end": 192.72,
+    "speaker": "UNKNOWN",
+    "text": "Perfect."
+  },
+  {
+    "start": 192.72,
+    "end": 198.32,
+    "speaker": "SPEAKER_00",
+    "text": "So, it's 50 grocery stores and they shipped around 1 million per year."
+  },
+  {
+    "start": 198.32,
+    "end": 199.32,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "start": 199.32,
+    "end": 204.28,
+    "speaker": "SPEAKER_00",
+    "text": "The relevant size of a distribution grocery business."
+  },
+  {
+    "start": 204.28,
+    "end": 211.04,
+    "speaker": "SPEAKER_00",
+    "text": "And in terms of this technology, this new technology, there is any investments that would"
+  },
+  {
+    "start": 211.04,
+    "end": 215.32,
+    "speaker": "SPEAKER_00",
+    "text": "be required for us in order to implement it."
+  },
+  {
+    "start": 216.32,
+    "end": 217.32,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah."
+  },
+  {
+    "start": 217.32,
+    "end": 221.76,
+    "speaker": "SPEAKER_03",
+    "text": "Now, when you say investments, what do you think about there?"
+  },
+  {
+    "start": 221.76,
+    "end": 225.79999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Usually, I imagine that a distribution process."
+  },
+  {
+    "start": 225.79999999999998,
+    "end": 227.6,
+    "speaker": "SPEAKER_00",
+    "text": "It's a three-sap process."
+  },
+  {
+    "start": 227.6,
+    "end": 232.95999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "You start receiving the grocery that you bought from your suppliers."
+  },
+  {
+    "start": 232.95999999999998,
+    "end": 243.44,
+    "speaker": "SPEAKER_00",
+    "text": "You go for holding and putting this inside of the warehouse and then you get those groceries"
+  },
+  {
+    "start": 243.44,
+    "end": 249.6,
+    "speaker": "SPEAKER_00",
+    "text": "and package and ship them for your final clients that are supermarket."
+  },
+  {
+    "start": 249.6,
+    "end": 255.44,
+    "speaker": "SPEAKER_00",
+    "text": "So, I imagine that this new technology probably is going to optimize part of the process."
+  },
+  {
+    "start": 255.44,
+    "end": 256.44,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 256.44,
+    "end": 263.04,
+    "speaker": "SPEAKER_00",
+    "text": "And I imagine that probably you would have a new show investment or acquiring a machine"
+  },
+  {
+    "start": 263.04,
+    "end": 272.44,
+    "speaker": "SPEAKER_00",
+    "text": "and probably a recurring investment or cost, sorry, to maintain and repair it."
+  },
+  {
+    "start": 272.44,
+    "end": 273.44,
+    "speaker": "SPEAKER_03",
+    "text": "Great."
+  },
+  {
+    "start": 273.44,
+    "end": 276.84,
+    "speaker": "SPEAKER_03",
+    "text": "Well, you just did a really nice job of kind of walking me through how you were thinking"
+  },
+  {
+    "start": 276.84,
+    "end": 283.48,
+    "speaker": "SPEAKER_03",
+    "text": "through the steps of the process as well as the one time and the recurring costs."
+  },
+  {
+    "start": 283.48,
+    "end": 284.8,
+    "speaker": "SPEAKER_03",
+    "text": "And both are spun on."
+  },
+  {
+    "start": 284.8,
+    "end": 291.44,
+    "speaker": "SPEAKER_03",
+    "text": "So, the cost to automate would be a one-time cost of $4 million."
+  },
+  {
+    "start": 291.44,
+    "end": 297.4,
+    "speaker": "SPEAKER_03",
+    "text": "Plus recurring costs for overhead, training, maintenance."
+  },
+  {
+    "start": 297.4,
+    "end": 301.44,
+    "speaker": "SPEAKER_03",
+    "text": "And that's going to be about an additional 1 million per year."
+  },
+  {
+    "start": 301.44,
+    "end": 302.44,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 302.44,
+    "end": 308.44,
+    "speaker": "SPEAKER_00",
+    "text": "So, we would have on one time 4 million investments and a recurring cost of additional 1 million."
+  },
+  {
+    "start": 308.44,
+    "end": 312.44,
+    "speaker": "SPEAKER_00",
+    "text": "It seems to be very expensive and a high investment."
+  },
+  {
+    "start": 312.44,
+    "end": 317.84,
+    "speaker": "SPEAKER_00",
+    "text": "But let me take a minute to think about how I would approach this problem and I share with"
+  },
+  {
+    "start": 317.84,
+    "end": 318.84,
+    "speaker": "SPEAKER_00",
+    "text": "you."
+  },
+  {
+    "start": 318.84,
+    "end": 319.84,
+    "speaker": "SPEAKER_02",
+    "text": "Sounds great."
+  },
+  {
+    "start": 319.84,
+    "end": 320.84,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 320.84,
+    "end": 331.04,
+    "speaker": "SPEAKER_00",
+    "text": "I put some thoughts here and in order for us to decide if our"
+  },
+  {
+    "start": 331.04,
+    "end": 338.08000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "clients should invest or not in this new technology, I would assess 3 main things."
+  },
+  {
+    "start": 338.08000000000004,
+    "end": 342.24,
+    "speaker": "SPEAKER_00",
+    "text": "The first would be the economics consideration."
+  },
+  {
+    "start": 342.24,
+    "end": 349.16,
+    "speaker": "SPEAKER_00",
+    "text": "The second would be the product considerations and the third would be potential risk."
+  },
+  {
+    "start": 349.16,
+    "end": 356.6,
+    "speaker": "SPEAKER_00",
+    "text": "Inside of the first that would be economics considerations, I would assess 3 main things."
+  },
+  {
+    "start": 356.6,
+    "end": 359.64000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "First, what is our existing cost?"
+  },
+  {
+    "start": 359.64000000000004,
+    "end": 362.76000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "So what is our current fixed cost?"
+  },
+  {
+    "start": 362.76000000000005,
+    "end": 364.0,
+    "speaker": "SPEAKER_00",
+    "text": "Probably a lot of it."
+  },
+  {
+    "start": 364.0,
+    "end": 367.8,
+    "speaker": "SPEAKER_00",
+    "text": "It's rents overhead and salaries."
+  },
+  {
+    "start": 367.8,
+    "end": 372.6,
+    "speaker": "SPEAKER_00",
+    "text": "Second, what is our variable cost right now?"
+  },
+  {
+    "start": 372.6,
+    "end": 376.36,
+    "speaker": "SPEAKER_00",
+    "text": "Probably a lot to be inventory cost."
+  },
+  {
+    "start": 376.36,
+    "end": 381.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Also shipping, I imagine."
+  },
+  {
+    "start": 381.4,
+    "end": 387.79999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "One thing that I would assess inside the economics consideration would be what is the incremental"
+  },
+  {
+    "start": 387.79999999999995,
+    "end": 389.12,
+    "speaker": "SPEAKER_00",
+    "text": "cost?"
+  },
+  {
+    "start": 389.12,
+    "end": 397.4,
+    "speaker": "SPEAKER_00",
+    "text": "You told me that we have these one time initial investments and also ongoing cost of 1 million"
+  },
+  {
+    "start": 397.4,
+    "end": 399.28,
+    "speaker": "SPEAKER_00",
+    "text": "dollars."
+  },
+  {
+    "start": 399.28,
+    "end": 403.79999999999995,
+    "speaker": "SPEAKER_00",
+    "text": "The third that I would assess is what would be the net cost savings."
+  },
+  {
+    "start": 403.79999999999995,
+    "end": 410.15999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "So considering our cost today, our cost after implementing the technology plus the additional"
+  },
+  {
+    "start": 410.16,
+    "end": 416.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "million, what are we are in that savings and the return on this investment."
+  },
+  {
+    "start": 416.40000000000003,
+    "end": 420.36,
+    "speaker": "SPEAKER_00",
+    "text": "Inside the product considerations, I would look to 2 main things."
+  },
+  {
+    "start": 420.36,
+    "end": 428.84000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "The impact on the quality of our products and also the possibility of distributing other"
+  },
+  {
+    "start": 428.84000000000003,
+    "end": 430.96000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "kind of products."
+  },
+  {
+    "start": 430.96000000000004,
+    "end": 438.96000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "So these two things are qualitative things that are relevant for our decision."
+  },
+  {
+    "start": 438.96,
+    "end": 444.08,
+    "speaker": "SPEAKER_00",
+    "text": "Only all the risk, potential risks, I would assess 2 main things."
+  },
+  {
+    "start": 444.08,
+    "end": 446.44,
+    "speaker": "SPEAKER_00",
+    "text": "The first would be stakeholder management."
+  },
+  {
+    "start": 446.44,
+    "end": 452.64,
+    "speaker": "SPEAKER_00",
+    "text": "So what would be the impact of this new technology inside our relationship with suppliers, relationships"
+  },
+  {
+    "start": 452.64,
+    "end": 457.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "with employees because probably we need to fire some of them."
+  },
+  {
+    "start": 457.47999999999996,
+    "end": 462.47999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "In the second, what would be the implementation risks associated with?"
+  },
+  {
+    "start": 462.48,
+    "end": 466.44,
+    "speaker": "SPEAKER_00",
+    "text": "So are we needed to stop our production?"
+  },
+  {
+    "start": 466.44,
+    "end": 473.48,
+    "speaker": "SPEAKER_00",
+    "text": "There is any downturn associated with that that I would start to think about."
+  },
+  {
+    "start": 473.48,
+    "end": 479.64000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "So based on those 3 things, I would assess if our clients should invest or not."
+  },
+  {
+    "start": 479.64000000000004,
+    "end": 485.88,
+    "speaker": "SPEAKER_00",
+    "text": "I think a good way for us to start here is with economics because if economically it's"
+  },
+  {
+    "start": 485.88,
+    "end": 492.44,
+    "speaker": "SPEAKER_00",
+    "text": "not a good investment, I don't think we need to go deeper on product and risks."
+  },
+  {
+    "start": 492.44,
+    "end": 495.96,
+    "speaker": "SPEAKER_03",
+    "text": "Great, that sounds like a really good place to start, Danny."
+  },
+  {
+    "start": 495.96,
+    "end": 499.64,
+    "speaker": "SPEAKER_03",
+    "text": "One question for you, you mentioned costs, but you didn't talk about revenue."
+  },
+  {
+    "start": 499.64,
+    "end": 502.04,
+    "speaker": "SPEAKER_03",
+    "text": "Can you tell me a little bit why?"
+  },
+  {
+    "start": 502.04,
+    "end": 509.32,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, of course, probably could have potential revenue synergies, for example."
+  },
+  {
+    "start": 509.32,
+    "end": 514.04,
+    "speaker": "SPEAKER_00",
+    "text": "If we implement this technology, this could allow us to sell different products that we"
+  },
+  {
+    "start": 514.04,
+    "end": 516.16,
+    "speaker": "SPEAKER_00",
+    "text": "currently don't sell."
+  },
+  {
+    "start": 516.16,
+    "end": 522.64,
+    "speaker": "SPEAKER_00",
+    "text": "But I imagine that my main hypothesis is that the main benefit of implementing this new"
+  },
+  {
+    "start": 522.64,
+    "end": 529.24,
+    "speaker": "SPEAKER_00",
+    "text": "technology is a cost synergy, cost reduction and cost savings."
+  },
+  {
+    "start": 529.24,
+    "end": 532.4,
+    "speaker": "SPEAKER_00",
+    "text": "So that's why I didn't look deeper on revenue."
+  },
+  {
+    "start": 532.4,
+    "end": 534.3199999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that's right."
+  },
+  {
+    "start": 534.3199999999999,
+    "end": 537.88,
+    "speaker": "SPEAKER_03",
+    "text": "If you also think about it, the warehouses are going to be at the same capacity."
+  },
+  {
+    "start": 537.88,
+    "end": 540.0799999999999,
+    "speaker": "SPEAKER_03",
+    "text": "It's not expanding their capacity."
+  },
+  {
+    "start": 540.0799999999999,
+    "end": 542.56,
+    "speaker": "SPEAKER_03",
+    "text": "So we don't really think it's going to drive additional revenue."
+  },
+  {
+    "start": 542.56,
+    "end": 547.2399999999999,
+    "speaker": "SPEAKER_03",
+    "text": "I think cost is definitely the right place to look."
+  },
+  {
+    "start": 547.2399999999999,
+    "end": 552.28,
+    "speaker": "SPEAKER_03",
+    "text": "Before we jump into it, you talked a little bit about the three steps of the process."
+  },
+  {
+    "start": 552.28,
+    "end": 557.4,
+    "speaker": "SPEAKER_03",
+    "text": "So we have receiving, holding and picking and then shipping."
+  },
+  {
+    "start": 557.4,
+    "end": 561.5999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Could you walk me through what you think some of the potential costs are associated with"
+  },
+  {
+    "start": 561.5999999999999,
+    "end": 563.28,
+    "speaker": "SPEAKER_03",
+    "text": "each of those three phases?"
+  },
+  {
+    "start": 563.28,
+    "end": 564.28,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 564.28,
+    "end": 571.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I assume that most of the variable costs are associated to this process."
+  },
+  {
+    "start": 571.32,
+    "end": 576.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm going to not assess the fixed costs right now in each of the steps."
+  },
+  {
+    "start": 576.8000000000001,
+    "end": 582.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So looking to the variable cost, I think probably when we look to receiving a lot of the cost"
+  },
+  {
+    "start": 582.5600000000001,
+    "end": 584.96,
+    "speaker": "SPEAKER_00",
+    "text": "it's related to labor hour."
+  },
+  {
+    "start": 584.96,
+    "end": 593.6400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So having the employees to take it out the things from the truck and also put those groceries"
+  },
+  {
+    "start": 593.6400000000001,
+    "end": 596.84,
+    "speaker": "SPEAKER_00",
+    "text": "inside our distribution center."
+  },
+  {
+    "start": 596.84,
+    "end": 602.12,
+    "speaker": "SPEAKER_00",
+    "text": "We also have probably stopped the costs associated to equipment, so maintenance of those"
+  },
+  {
+    "start": 602.12,
+    "end": 605.76,
+    "speaker": "SPEAKER_00",
+    "text": "equipment and also storage of the inventory."
+  },
+  {
+    "start": 605.76,
+    "end": 612.2800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So holding those inventory costs us some variable cost."
+  },
+  {
+    "start": 612.2800000000001,
+    "end": 615.64,
+    "speaker": "SPEAKER_00",
+    "text": "The second would be on holding and picking."
+  },
+  {
+    "start": 615.64,
+    "end": 623.96,
+    "speaker": "SPEAKER_00",
+    "text": "A lot of it probably would be equipment and labor, but also probably we have some raw material"
+  },
+  {
+    "start": 623.96,
+    "end": 628.52,
+    "speaker": "SPEAKER_00",
+    "text": "cost of packaging associated with."
+  },
+  {
+    "start": 628.52,
+    "end": 634.96,
+    "speaker": "SPEAKER_00",
+    "text": "In the third would be shipping that I imagine that most of it would be freight for shipping"
+  },
+  {
+    "start": 634.96,
+    "end": 638.2,
+    "speaker": "SPEAKER_00",
+    "text": "those groceries to our final clients."
+  },
+  {
+    "start": 638.2,
+    "end": 641.9200000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, I think those are all those make sense."
+  },
+  {
+    "start": 641.9200000000001,
+    "end": 642.9200000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Great."
+  },
+  {
+    "start": 642.9200000000001,
+    "end": 645.0400000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Well, where would you like to start?"
+  },
+  {
+    "start": 645.0400000000001,
+    "end": 650.52,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, I would love to start by understanding what is the existing cost as I mentioned on"
+  },
+  {
+    "start": 650.52,
+    "end": 652.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "my framework."
+  },
+  {
+    "start": 652.04,
+    "end": 659.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "And then after that going to what is the incremental cost associated with this technology to calculate"
+  },
+  {
+    "start": 659.3199999999999,
+    "end": 660.56,
+    "speaker": "SPEAKER_00",
+    "text": "the next savings."
+  },
+  {
+    "start": 660.56,
+    "end": 663.36,
+    "speaker": "SPEAKER_00",
+    "text": "I don't know if you have any information about that."
+  },
+  {
+    "start": 663.36,
+    "end": 668.7199999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, well, I have some information about the time it takes to do each of the processes."
+  },
+  {
+    "start": 668.7199999999999,
+    "end": 673.76,
+    "speaker": "SPEAKER_03",
+    "text": "So let me go ahead and share an exhibit with you."
+  },
+  {
+    "start": 673.76,
+    "end": 675.76,
+    "speaker": "SPEAKER_03",
+    "text": "Perfect."
+  },
+  {
+    "start": 675.76,
+    "end": 676.76,
+    "speaker": "UNKNOWN",
+    "text": "Great."
+  },
+  {
+    "start": 677.76,
+    "end": 678.76,
+    "speaker": "SPEAKER_00",
+    "text": "Great."
+  },
+  {
+    "start": 678.76,
+    "end": 682.88,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm seeing your exhibit just from each walk through it."
+  },
+  {
+    "start": 682.88,
+    "end": 692.48,
+    "speaker": "SPEAKER_00",
+    "text": "So these shows the three steps process and how many hours it takes per week to do each"
+  },
+  {
+    "start": 692.48,
+    "end": 693.6,
+    "speaker": "SPEAKER_00",
+    "text": "of the pieces."
+  },
+  {
+    "start": 693.6,
+    "end": 700.76,
+    "speaker": "SPEAKER_00",
+    "text": "So receiving it takes 2,000 hours per week to do, holding in package 10,000 hours and"
+  },
+  {
+    "start": 700.76,
+    "end": 703.12,
+    "speaker": "SPEAKER_00",
+    "text": "shipping 3,000 hours."
+  },
+  {
+    "start": 703.12,
+    "end": 711.52,
+    "speaker": "SPEAKER_00",
+    "text": "So probably holding in package is where we spend most of our time, our cost also and probably"
+  },
+  {
+    "start": 711.52,
+    "end": 716.88,
+    "speaker": "SPEAKER_00",
+    "text": "where is most of the bottleneck of this process I would imagine."
+  },
+  {
+    "start": 716.88,
+    "end": 723.04,
+    "speaker": "SPEAKER_00",
+    "text": "So with this information, I can calculate what is the cost per week in each of the steps"
+  },
+  {
+    "start": 723.04,
+    "end": 729.64,
+    "speaker": "SPEAKER_00",
+    "text": "of the process to understand where we could implement this new technology to save costs for"
+  },
+  {
+    "start": 729.64,
+    "end": 730.64,
+    "speaker": "SPEAKER_00",
+    "text": "customer."
+  },
+  {
+    "start": 731.36,
+    "end": 733.36,
+    "speaker": "SPEAKER_02",
+    "text": "So yes."
+  },
+  {
+    "start": 733.36,
+    "end": 734.36,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "start": 734.36,
+    "end": 741.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So for me to calculate the cost in each of the steps, I already have the hours per week."
+  },
+  {
+    "start": 741.3199999999999,
+    "end": 749.24,
+    "speaker": "SPEAKER_00",
+    "text": "So I would just need to divide that by how many hours each of our employees work to have"
+  },
+  {
+    "start": 749.24,
+    "end": 755.8,
+    "speaker": "SPEAKER_00",
+    "text": "the total number of employees and multiply that by what is the cost per week per each"
+  },
+  {
+    "start": 755.8,
+    "end": 761.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "of the employee to have what would be our total cost per week."
+  },
+  {
+    "start": 761.4799999999999,
+    "end": 762.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome."
+  },
+  {
+    "start": 762.4799999999999,
+    "end": 763.4799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 763.4799999999999,
+    "end": 771.12,
+    "speaker": "SPEAKER_00",
+    "text": "So do we have any information of how many hours each of our employees work for each?"
+  },
+  {
+    "start": 771.12,
+    "end": 772.12,
+    "speaker": "SPEAKER_03",
+    "text": "Yep."
+  },
+  {
+    "start": 772.12,
+    "end": 775.9599999999999,
+    "speaker": "SPEAKER_03",
+    "text": "I just want to say that was a really great observation about the majority of the time"
+  },
+  {
+    "start": 775.9599999999999,
+    "end": 776.9599999999999,
+    "speaker": "SPEAKER_03",
+    "text": "of holding in package."
+  },
+  {
+    "start": 776.9599999999999,
+    "end": 781.8399999999999,
+    "speaker": "SPEAKER_03",
+    "text": "It does seem like that's the area where we could really make the biggest impact."
+  },
+  {
+    "start": 781.84,
+    "end": 786.76,
+    "speaker": "SPEAKER_03",
+    "text": "Once in your questions, each employee works 40 hours per week."
+  },
+  {
+    "start": 786.76,
+    "end": 787.76,
+    "speaker": "SPEAKER_03",
+    "text": "Perfect."
+  },
+  {
+    "start": 787.76,
+    "end": 791.88,
+    "speaker": "SPEAKER_03",
+    "text": "And employee pay per hour is as follows."
+  },
+  {
+    "start": 791.88,
+    "end": 795.64,
+    "speaker": "SPEAKER_03",
+    "text": "For receiving, it's $12 an hour."
+  },
+  {
+    "start": 795.64,
+    "end": 799.0,
+    "speaker": "SPEAKER_03",
+    "text": "For holding and picking, it's $17 per hour."
+  },
+  {
+    "start": 799.0,
+    "end": 801.96,
+    "speaker": "SPEAKER_03",
+    "text": "And for shipping, it's $14 per hour."
+  },
+  {
+    "start": 801.96,
+    "end": 802.96,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 802.96,
+    "end": 806.08,
+    "speaker": "SPEAKER_00",
+    "text": "So each employee has worked 40 hours a week."
+  },
+  {
+    "start": 806.08,
+    "end": 814.32,
+    "speaker": "SPEAKER_00",
+    "text": "We have $12 for receiving $17 for Brodian packaging and $14 for shipping."
+  },
+  {
+    "start": 814.32,
+    "end": 815.32,
+    "speaker": "SPEAKER_03",
+    "text": "Perfect."
+  },
+  {
+    "start": 815.32,
+    "end": 819.24,
+    "speaker": "SPEAKER_03",
+    "text": "And I would love for you to calculate the total number of employees required each function"
+  },
+  {
+    "start": 819.24,
+    "end": 822.96,
+    "speaker": "SPEAKER_03",
+    "text": "and the total annual cost of labor."
+  },
+  {
+    "start": 822.96,
+    "end": 825.88,
+    "speaker": "SPEAKER_03",
+    "text": "And please use 52 weeks instead of 50 weeks."
+  },
+  {
+    "start": 825.88,
+    "end": 826.88,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 826.88,
+    "end": 827.88,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 827.88,
+    "end": 831.72,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm going to start with the total number of employees and then I go for the annual"
+  },
+  {
+    "start": 831.72,
+    "end": 835.6,
+    "speaker": "SPEAKER_00",
+    "text": "cost for all the treat process."
+  },
+  {
+    "start": 835.6,
+    "end": 839.72,
+    "speaker": "SPEAKER_00",
+    "text": "So for me to calculate the total number of employees very easy, as I mentioned, I'm"
+  },
+  {
+    "start": 839.72,
+    "end": 846.12,
+    "speaker": "SPEAKER_00",
+    "text": "just going to get the number of hours and divide by the 40 to 40 hours per week that each"
+  },
+  {
+    "start": 846.12,
+    "end": 847.72,
+    "speaker": "SPEAKER_00",
+    "text": "of the employee works."
+  },
+  {
+    "start": 847.72,
+    "end": 853.0,
+    "speaker": "SPEAKER_00",
+    "text": "So starting from the process one that it's receiving, we have 2,000 hours."
+  },
+  {
+    "start": 853.0,
+    "end": 856.9200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So divided by 40, we would have 15 employees."
+  },
+  {
+    "start": 856.9200000000001,
+    "end": 860.24,
+    "speaker": "SPEAKER_00",
+    "text": "For holding and package, we have 10,000 hours."
+  },
+  {
+    "start": 860.24,
+    "end": 866.6,
+    "speaker": "SPEAKER_00",
+    "text": "So divided by 40, sorry, 250."
+  },
+  {
+    "start": 866.6,
+    "end": 873.28,
+    "speaker": "SPEAKER_00",
+    "text": "The final one is shipping, which is 3,000 hours per week divided by 40, 75."
+  },
+  {
+    "start": 873.28,
+    "end": 884.12,
+    "speaker": "SPEAKER_00",
+    "text": "So adding this up, 50 plus 250, 300 plus 75, we would have 375 employees in the entire"
+  },
+  {
+    "start": 884.12,
+    "end": 885.6,
+    "speaker": "SPEAKER_00",
+    "text": "process."
+  },
+  {
+    "start": 885.6,
+    "end": 890.48,
+    "speaker": "SPEAKER_00",
+    "text": "Which seems a lot, but also the large company, right?"
+  },
+  {
+    "start": 890.48,
+    "end": 891.96,
+    "speaker": "SPEAKER_00",
+    "text": "They do one meal at shipping."
+  },
+  {
+    "start": 891.96,
+    "end": 898.2,
+    "speaker": "SPEAKER_00",
+    "text": "So it's not that much for a company of this size."
+  },
+  {
+    "start": 898.2,
+    "end": 902.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So after that, I'm going to calculate what is the total cost."
+  },
+  {
+    "start": 902.6800000000001,
+    "end": 910.64,
+    "speaker": "SPEAKER_00",
+    "text": "To do the total cost, I know that it's 12 hours per week."
+  },
+  {
+    "start": 910.64,
+    "end": 916.64,
+    "speaker": "SPEAKER_00",
+    "text": "So I can just multiply that by the total number of hours."
+  },
+  {
+    "start": 916.64,
+    "end": 920.16,
+    "speaker": "SPEAKER_00",
+    "text": "And then I can have what is the total cost per week."
+  },
+  {
+    "start": 920.16,
+    "end": 924.3199999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So starting from receiving, I know that it's 2,000 hours per week."
+  },
+  {
+    "start": 924.3199999999999,
+    "end": 929.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I know that it's 12 hours per week."
+  },
+  {
+    "start": 929.4399999999999,
+    "end": 930.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So basic."
+  },
+  {
+    "start": 930.4399999999999,
+    "end": 931.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "That's $12 per hour."
+  },
+  {
+    "start": 931.4399999999999,
+    "end": 932.4399999999999,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, 12 hours per hour."
+  },
+  {
+    "start": 932.4399999999999,
+    "end": 935.8,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, 12 dollars per hour."
+  },
+  {
+    "start": 935.8,
+    "end": 944.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Just multiplying that we have 24, sorry, 24,000 cost per week for process one for process"
+  },
+  {
+    "start": 944.9599999999999,
+    "end": 953.8399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "two, hold the packaging, 10,000 hours per week, time 17, 170,000 dollars."
+  },
+  {
+    "start": 953.8399999999999,
+    "end": 961.16,
+    "speaker": "SPEAKER_00",
+    "text": "And finally, shipping, 3000 dollars times 14, it's going to be $42,000."
+  },
+  {
+    "start": 961.16,
+    "end": 973.9599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So adding all this up, 24,000 plus 170 plus 42, we are going to have $236,000 per week."
+  },
+  {
+    "start": 973.9599999999999,
+    "end": 977.04,
+    "speaker": "SPEAKER_00",
+    "text": "As I mentioned, we have 52 weeks."
+  },
+  {
+    "start": 977.04,
+    "end": 988.16,
+    "speaker": "SPEAKER_00",
+    "text": "So multiplying that 236,000, multiplied by 100, we have 23.6 million."
+  },
+  {
+    "start": 988.16,
+    "end": 997.04,
+    "speaker": "SPEAKER_00",
+    "text": "And 2236, multiplied by four, we have 944,000."
+  },
+  {
+    "start": 997.04,
+    "end": 1005.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Adding those things up, we have 24.5 divided by two, we have 12.2."
+  },
+  {
+    "start": 1005.0799999999999,
+    "end": 1012.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So our total cost is going to be around 12.2 million dollars per year."
+  },
+  {
+    "start": 1012.88,
+    "end": 1019.6800000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Yep, we have about 12,272,000 dollars per year in labor, that's correct."
+  },
+  {
+    "start": 1019.6800000000001,
+    "end": 1021.88,
+    "speaker": "SPEAKER_00",
+    "text": "Yes."
+  },
+  {
+    "start": 1021.88,
+    "end": 1024.76,
+    "speaker": "SPEAKER_00",
+    "text": "So it seems to be a lot."
+  },
+  {
+    "start": 1024.76,
+    "end": 1031.4,
+    "speaker": "SPEAKER_00",
+    "text": "So I would love to understand where, if we have information of where we are going to implement"
+  },
+  {
+    "start": 1031.4,
+    "end": 1037.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "this new technology and how much this new technology is going to save us in terms of either hours"
+  },
+  {
+    "start": 1037.6000000000001,
+    "end": 1039.48,
+    "speaker": "SPEAKER_00",
+    "text": "or employees."
+  },
+  {
+    "start": 1039.48,
+    "end": 1040.16,
+    "speaker": "SPEAKER_03",
+    "text": "Definitely."
+  },
+  {
+    "start": 1040.16,
+    "end": 1046.96,
+    "speaker": "SPEAKER_03",
+    "text": "So we do have some information on how it will change each of the three steps on an hourly basis."
+  },
+  {
+    "start": 1046.96,
+    "end": 1049.16,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1049.16,
+    "end": 1050.16,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 1050.16,
+    "end": 1056.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So based on this stack on the information in receiving that is the first step, we won't"
+  },
+  {
+    "start": 1056.1200000000001,
+    "end": 1057.44,
+    "speaker": "SPEAKER_00",
+    "text": "be saving anything."
+  },
+  {
+    "start": 1057.44,
+    "end": 1062.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "It will be the same to 1000 hours for holding and package."
+  },
+  {
+    "start": 1062.1200000000001,
+    "end": 1069.0400000000002,
+    "speaker": "SPEAKER_00",
+    "text": "We would be reducing about like 47% of the amount of hours."
+  },
+  {
+    "start": 1069.04,
+    "end": 1073.68,
+    "speaker": "SPEAKER_00",
+    "text": "And for shipping, we would be actually doubling."
+  },
+  {
+    "start": 1073.68,
+    "end": 1078.0,
+    "speaker": "SPEAKER_00",
+    "text": "Instead of 3000 hours, we would have 5000 hours."
+  },
+  {
+    "start": 1078.0,
+    "end": 1086.72,
+    "speaker": "SPEAKER_00",
+    "text": "It seems to be a lot in terms of shipping, but because we are saving on where we have"
+  },
+  {
+    "start": 1086.72,
+    "end": 1094.04,
+    "speaker": "SPEAKER_00",
+    "text": "where most of our cost is that it's in holding package, these mine generate for as a positive"
+  },
+  {
+    "start": 1094.04,
+    "end": 1095.48,
+    "speaker": "SPEAKER_00",
+    "text": "net savings."
+  },
+  {
+    "start": 1095.48,
+    "end": 1099.08,
+    "speaker": "SPEAKER_00",
+    "text": "For me to confirm, I'm going to calculate."
+  },
+  {
+    "start": 1099.08,
+    "end": 1104.28,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm going to focus on calculating just the change that we're going to have because"
+  },
+  {
+    "start": 1104.28,
+    "end": 1106.48,
+    "speaker": "SPEAKER_00",
+    "text": "I think it's going to be easier."
+  },
+  {
+    "start": 1106.48,
+    "end": 1113.28,
+    "speaker": "SPEAKER_00",
+    "text": "So I know that the change from holding from receiving it's zero."
+  },
+  {
+    "start": 1113.28,
+    "end": 1116.52,
+    "speaker": "SPEAKER_00",
+    "text": "So we wouldn't save anything."
+  },
+  {
+    "start": 1116.52,
+    "end": 1125.44,
+    "speaker": "SPEAKER_00",
+    "text": "For the holding and package, I know that we're going to be reducing in 47.5%."
+  },
+  {
+    "start": 1125.44,
+    "end": 1135.52,
+    "speaker": "SPEAKER_00",
+    "text": "Because 500,000, 250 divided by 10,000, it's going to be probably around 53."
+  },
+  {
+    "start": 1135.52,
+    "end": 1143.48,
+    "speaker": "SPEAKER_00",
+    "text": "So if we minus that of 100, we would be saving 47.5%."
+  },
+  {
+    "start": 1143.48,
+    "end": 1151.44,
+    "speaker": "SPEAKER_00",
+    "text": "And shipping, we would be saving 3000 hours divided by 600."
+  },
+  {
+    "start": 1151.44,
+    "end": 1155.64,
+    "speaker": "SPEAKER_00",
+    "text": "By the initial 3000 hours, this is 100."
+  },
+  {
+    "start": 1155.64,
+    "end": 1165.24,
+    "speaker": "SPEAKER_00",
+    "text": "So we would be increasing our number of hours and consequently our cost by 100% on shipping"
+  },
+  {
+    "start": 1165.24,
+    "end": 1171.3600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "and reducing in holding package by 47.5%."
+  },
+  {
+    "start": 1171.3600000000001,
+    "end": 1176.52,
+    "speaker": "SPEAKER_00",
+    "text": "So for me to calculate the total cost, I'm just going to multiply those percentage by"
+  },
+  {
+    "start": 1176.52,
+    "end": 1181.4,
+    "speaker": "SPEAKER_00",
+    "text": "the total cost that I had for each of those tax to see what is going to be the net savings."
+  },
+  {
+    "start": 1181.4,
+    "end": 1182.4,
+    "speaker": "SPEAKER_00",
+    "text": "So."
+  },
+  {
+    "start": 1182.4,
+    "end": 1187.2800000000002,
+    "speaker": "SPEAKER_03",
+    "text": "And before you jump into that, do you mind telling me how many, what the number of employees"
+  },
+  {
+    "start": 1187.2800000000002,
+    "end": 1188.52,
+    "speaker": "SPEAKER_03",
+    "text": "that change is?"
+  },
+  {
+    "start": 1188.52,
+    "end": 1192.64,
+    "speaker": "SPEAKER_03",
+    "text": "You told me in a percent, but it would be helpful for me to contextualize just to think"
+  },
+  {
+    "start": 1192.64,
+    "end": 1196.4,
+    "speaker": "SPEAKER_03",
+    "text": "about how many additional or fewer employees will make."
+  },
+  {
+    "start": 1196.4,
+    "end": 1202.44,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, I can also just multiply those percentage by the number of employees because each of"
+  },
+  {
+    "start": 1202.44,
+    "end": 1207.0,
+    "speaker": "SPEAKER_00",
+    "text": "the employees work the same amount of hours that it's 40 hours per week."
+  },
+  {
+    "start": 1207.0,
+    "end": 1214.16,
+    "speaker": "SPEAKER_00",
+    "text": "So I know that for holding and package, we had 215 employees."
+  },
+  {
+    "start": 1214.16,
+    "end": 1227.48,
+    "speaker": "SPEAKER_00",
+    "text": "So we'll find that by 47.5, we are going to have around 119 employees that we would reduce"
+  },
+  {
+    "start": 1227.48,
+    "end": 1230.44,
+    "speaker": "SPEAKER_00",
+    "text": "from our workforce."
+  },
+  {
+    "start": 1230.44,
+    "end": 1235.28,
+    "speaker": "SPEAKER_00",
+    "text": "And for shipping, I know that we had 75 employees."
+  },
+  {
+    "start": 1235.28,
+    "end": 1241.8400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "If I increase 100%, I will need to add 75 employees."
+  },
+  {
+    "start": 1241.8400000000001,
+    "end": 1258.04,
+    "speaker": "SPEAKER_00",
+    "text": "So adding those things up, 119 minus 119 plus 75, we are going to have 44 minus 44 employees."
+  },
+  {
+    "start": 1258.04,
+    "end": 1268.76,
+    "speaker": "SPEAKER_00",
+    "text": "So believe we would reduce our entire workforce from 375 in 44 employees."
+  },
+  {
+    "start": 1268.76,
+    "end": 1271.8,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, that's really helpful."
+  },
+  {
+    "start": 1271.8,
+    "end": 1272.8,
+    "speaker": "SPEAKER_03",
+    "text": "Thank you for that."
+  },
+  {
+    "start": 1272.8,
+    "end": 1277.76,
+    "speaker": "SPEAKER_03",
+    "text": "And now you can go ahead and calculate what the cost savings would be on an annual basis"
+  },
+  {
+    "start": 1277.76,
+    "end": 1280.24,
+    "speaker": "SPEAKER_03",
+    "text": "from reducing from the automation."
+  },
+  {
+    "start": 1280.24,
+    "end": 1281.24,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 1281.24,
+    "end": 1283.24,
+    "speaker": "SPEAKER_00",
+    "text": "I'm just going to do the same process."
+  },
+  {
+    "start": 1283.24,
+    "end": 1288.08,
+    "speaker": "SPEAKER_00",
+    "text": "However, I'm going to apply the percentage on the total cost."
+  },
+  {
+    "start": 1288.08,
+    "end": 1294.44,
+    "speaker": "SPEAKER_00",
+    "text": "So for step two, I know that we had 17170,000 per week."
+  },
+  {
+    "start": 1294.44,
+    "end": 1310.08,
+    "speaker": "SPEAKER_00",
+    "text": "So multiplying that by minus 47.5%, we are going to have something around 80.75,000 minus 80.7"
+  },
+  {
+    "start": 1310.08,
+    "end": 1316.56,
+    "speaker": "SPEAKER_00",
+    "text": "and 5,000 because these would be a savings that we are going to have."
+  },
+  {
+    "start": 1316.56,
+    "end": 1324.8,
+    "speaker": "SPEAKER_00",
+    "text": "For the third part of the process that is shipping, I know that we had 42,000 per week as a cost,"
+  },
+  {
+    "start": 1324.8,
+    "end": 1327.8,
+    "speaker": "SPEAKER_00",
+    "text": "we are going to increase in 100%."
+  },
+  {
+    "start": 1327.8,
+    "end": 1331.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "So we're going to be at 42,000."
+  },
+  {
+    "start": 1331.64,
+    "end": 1343.92,
+    "speaker": "SPEAKER_00",
+    "text": "So minus 80.75,000 plus 42, we are going to have around 38.75,000 minus because this"
+  },
+  {
+    "start": 1343.92,
+    "end": 1345.92,
+    "speaker": "SPEAKER_00",
+    "text": "would be a saving for us."
+  },
+  {
+    "start": 1345.92,
+    "end": 1354.88,
+    "speaker": "SPEAKER_00",
+    "text": "I'm going to multiply that by 52 to have our annual cost."
+  },
+  {
+    "start": 1355.88,
+    "end": 1371.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "We are going to have 2.015,000 as a total annual savings that we would have with this new technology."
+  },
+  {
+    "start": 1371.6000000000001,
+    "end": 1372.6000000000001,
+    "speaker": "SPEAKER_03",
+    "text": "Yep."
+  },
+  {
+    "start": 1372.6000000000001,
+    "end": 1374.64,
+    "speaker": "SPEAKER_00",
+    "text": "So we're going to be right back to the clean."
+  },
+  {
+    "start": 1374.64,
+    "end": 1378.64,
+    "speaker": "SPEAKER_00",
+    "text": "That the client would save with this new technology."
+  },
+  {
+    "start": 1378.64,
+    "end": 1384.8000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "I think looking back on this number, I think this seems to be a good opportunity because"
+  },
+  {
+    "start": 1384.8,
+    "end": 1390.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "you're saving 2,000 and as you mentioned, we would have 1,000,000, I think recurring costs"
+  },
+  {
+    "start": 1390.8799999999999,
+    "end": 1398.32,
+    "speaker": "SPEAKER_00",
+    "text": "with this technology, with leaders with like almost 1,000,000 annual savings."
+  },
+  {
+    "start": 1398.32,
+    "end": 1403.0,
+    "speaker": "SPEAKER_00",
+    "text": "So I think this could be a good opportunity for our client."
+  },
+  {
+    "start": 1403.0,
+    "end": 1408.32,
+    "speaker": "SPEAKER_00",
+    "text": "I think the only thing that he might need to take in consideration is that we would be"
+  },
+  {
+    "start": 1408.32,
+    "end": 1415.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "firing 44% in distress."
+  },
+  {
+    "start": 1415.8799999999999,
+    "end": 1417.3999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "I think that's a really good point."
+  },
+  {
+    "start": 1417.3999999999999,
+    "end": 1421.76,
+    "speaker": "SPEAKER_03",
+    "text": "Before we go any further, would you mind calculating a break even in years for this investment?"
+  },
+  {
+    "start": 1421.76,
+    "end": 1427.24,
+    "speaker": "SPEAKER_03",
+    "text": "So we have somebody to figure out how long this is going to take to pay us back."
+  },
+  {
+    "start": 1427.24,
+    "end": 1428.24,
+    "speaker": "SPEAKER_00",
+    "text": "Perfect."
+  },
+  {
+    "start": 1428.24,
+    "end": 1437.12,
+    "speaker": "SPEAKER_00",
+    "text": "So for me to calculate the break even, basically just doing what would be the net savings divided"
+  },
+  {
+    "start": 1437.12,
+    "end": 1441.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "by the one-time investments that we would need."
+  },
+  {
+    "start": 1441.3999999999999,
+    "end": 1448.4799999999998,
+    "speaker": "SPEAKER_00",
+    "text": "This would give us the number of years that the client would need in order to pay back"
+  },
+  {
+    "start": 1448.4799999999998,
+    "end": 1450.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "this investment."
+  },
+  {
+    "start": 1450.6399999999999,
+    "end": 1459.9599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "I know that we had 2.015,000 in savings for implementing the technology."
+  },
+  {
+    "start": 1459.96,
+    "end": 1468.96,
+    "speaker": "SPEAKER_00",
+    "text": "To be attracting the 1,000 in incremental cost, we would be around 1.015,000 that is around"
+  },
+  {
+    "start": 1468.96,
+    "end": 1473.0,
+    "speaker": "SPEAKER_00",
+    "text": "1,000 in net savings."
+  },
+  {
+    "start": 1473.0,
+    "end": 1481.72,
+    "speaker": "SPEAKER_00",
+    "text": "Dividing this by the 4,000 that you mentioned that it's the initial one-time investment, we"
+  },
+  {
+    "start": 1481.72,
+    "end": 1493.16,
+    "speaker": "SPEAKER_00",
+    "text": "would be approximately 3.9 years to get the pay back of this initial investment."
+  },
+  {
+    "start": 1493.16,
+    "end": 1501.52,
+    "speaker": "SPEAKER_00",
+    "text": "I think it looks, I don't know what it's a client benchmark, and also desire returns, but"
+  },
+  {
+    "start": 1501.52,
+    "end": 1505.68,
+    "speaker": "SPEAKER_00",
+    "text": "it's less than five years to return an investment."
+  },
+  {
+    "start": 1505.68,
+    "end": 1509.04,
+    "speaker": "SPEAKER_00",
+    "text": "So for me, it seems to be a really good investment."
+  },
+  {
+    "start": 1509.04,
+    "end": 1514.52,
+    "speaker": "SPEAKER_00",
+    "text": "Of course, we would need to take in consideration a couple of things that I didn't include."
+  },
+  {
+    "start": 1514.52,
+    "end": 1516.84,
+    "speaker": "SPEAKER_00",
+    "text": "What is the capital?"
+  },
+  {
+    "start": 1516.84,
+    "end": 1523.76,
+    "speaker": "SPEAKER_00",
+    "text": "If the client has the capital required for this, if he's going to get bank credit or low"
+  },
+  {
+    "start": 1523.76,
+    "end": 1528.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "ones to this, we also would need to take in consideration other opportunities that the"
+  },
+  {
+    "start": 1528.8799999999999,
+    "end": 1533.32,
+    "speaker": "SPEAKER_00",
+    "text": "client would have to invest to compare those returns."
+  },
+  {
+    "start": 1533.32,
+    "end": 1536.48,
+    "speaker": "SPEAKER_00",
+    "text": "And also the cost of capital."
+  },
+  {
+    "start": 1536.48,
+    "end": 1540.56,
+    "speaker": "SPEAKER_00",
+    "text": "We didn't took in consideration what is the cost of capital of the client."
+  },
+  {
+    "start": 1540.56,
+    "end": 1544.0,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, those are all really good points."
+  },
+  {
+    "start": 1544.0,
+    "end": 1550.0,
+    "speaker": "SPEAKER_03",
+    "text": "One other thing to think about, if the CEO is so interested in new technologies, do you"
+  },
+  {
+    "start": 1550.0,
+    "end": 1554.6,
+    "speaker": "SPEAKER_03",
+    "text": "think there might be something over the course the next five years that he might fall in"
+  },
+  {
+    "start": 1554.6,
+    "end": 1557.1599999999999,
+    "speaker": "SPEAKER_03",
+    "text": "love with and you want to think about instead?"
+  },
+  {
+    "start": 1557.1599999999999,
+    "end": 1563.28,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, probably there is a lot of other technologies that he might have."
+  },
+  {
+    "start": 1563.28,
+    "end": 1566.28,
+    "speaker": "SPEAKER_00",
+    "text": "I think about it."
+  },
+  {
+    "start": 1566.28,
+    "end": 1577.24,
+    "speaker": "SPEAKER_00",
+    "text": "Maybe something related to using leveraging AI or like more advanced technology to optimize"
+  },
+  {
+    "start": 1577.24,
+    "end": 1585.24,
+    "speaker": "SPEAKER_00",
+    "text": "more of the process or either including other products that could lead to new technologies."
+  },
+  {
+    "start": 1585.24,
+    "end": 1586.24,
+    "speaker": "SPEAKER_00",
+    "text": "I would imagine."
+  },
+  {
+    "start": 1586.24,
+    "end": 1590.04,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah, those are great points as well."
+  },
+  {
+    "start": 1590.04,
+    "end": 1593.3999999999999,
+    "speaker": "SPEAKER_03",
+    "text": "So the CEO is not calling you that for your recommendation."
+  },
+  {
+    "start": 1593.3999999999999,
+    "end": 1594.84,
+    "speaker": "SPEAKER_03",
+    "text": "Now what would you say?"
+  },
+  {
+    "start": 1594.84,
+    "end": 1603.96,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, my recommendation for if we should invest or not in this new technology would be yes,"
+  },
+  {
+    "start": 1603.96,
+    "end": 1607.56,
+    "speaker": "SPEAKER_00",
+    "text": "I believe we should invest for three main reasons."
+  },
+  {
+    "start": 1607.56,
+    "end": 1616.24,
+    "speaker": "SPEAKER_00",
+    "text": "So the first one, it would require us 3.9 years as a initial return, which seems to be"
+  },
+  {
+    "start": 1616.24,
+    "end": 1618.84,
+    "speaker": "SPEAKER_00",
+    "text": "good return for us."
+  },
+  {
+    "start": 1618.84,
+    "end": 1626.16,
+    "speaker": "SPEAKER_00",
+    "text": "And also I to return the initial investment of 4 million second, we would be saving around"
+  },
+  {
+    "start": 1626.16,
+    "end": 1630.48,
+    "speaker": "SPEAKER_00",
+    "text": "$1 million of our cost every year."
+  },
+  {
+    "start": 1630.48,
+    "end": 1638.32,
+    "speaker": "SPEAKER_00",
+    "text": "By also reducing 2 million in our fixed cost and adding 1 million of additional cost of"
+  },
+  {
+    "start": 1638.32,
+    "end": 1642.1599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "maintaining this new technology."
+  },
+  {
+    "start": 1642.1599999999999,
+    "end": 1649.84,
+    "speaker": "SPEAKER_00",
+    "text": "And third, it would be opportunity for us to automatize part of our process that it's"
+  },
+  {
+    "start": 1649.84,
+    "end": 1652.1599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "holding and picking."
+  },
+  {
+    "start": 1652.1599999999999,
+    "end": 1656.24,
+    "speaker": "SPEAKER_00",
+    "text": "And this would require us to work with like less employees."
+  },
+  {
+    "start": 1656.24,
+    "end": 1664.28,
+    "speaker": "SPEAKER_00",
+    "text": "We would need to fire 44 employees from our current number of employees."
+  },
+  {
+    "start": 1664.28,
+    "end": 1670.16,
+    "speaker": "SPEAKER_00",
+    "text": "I think has the next steps here for us, it would be to assess the capital structure for"
+  },
+  {
+    "start": 1670.16,
+    "end": 1676.96,
+    "speaker": "SPEAKER_00",
+    "text": "clients to understand how we would finance these opportunities and also impacting the product"
+  },
+  {
+    "start": 1676.96,
+    "end": 1681.56,
+    "speaker": "SPEAKER_00",
+    "text": "and also the stakeholders management."
+  },
+  {
+    "start": 1681.56,
+    "end": 1682.76,
+    "speaker": "SPEAKER_02",
+    "text": "Danny, that was great."
+  },
+  {
+    "start": 1682.76,
+    "end": 1686.56,
+    "speaker": "SPEAKER_02",
+    "text": "Thank you so much for solving that problem for us."
+  },
+  {
+    "start": 1686.56,
+    "end": 1687.56,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you, Mattia."
+  },
+  {
+    "start": 1687.56,
+    "end": 1691.56,
+    "speaker": "SPEAKER_00",
+    "text": "It was great to do this case with you."
+  },
+  {
+    "start": 1692.56,
+    "end": 1693.56,
+    "speaker": "SPEAKER_01",
+    "text": "Hey, everyone."
+  },
+  {
+    "start": 1693.56,
+    "end": 1696.2,
+    "speaker": "SPEAKER_01",
+    "text": "It's Kent and Givessey here, the founder of Rocketblocks."
+  },
+  {
+    "start": 1696.2,
+    "end": 1698.56,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you so much for watching this mock interview video."
+  },
+  {
+    "start": 1698.56,
+    "end": 1703.6,
+    "speaker": "SPEAKER_01",
+    "text": "I hope you found it informative and helpful as you are getting ready to prepare for your"
+  },
+  {
+    "start": 1703.6,
+    "end": 1707.28,
+    "speaker": "SPEAKER_01",
+    "text": "own interviews and hopefully landing that job offer you are excited about."
+  },
+  {
+    "start": 1707.28,
+    "end": 1712.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "We have a ton of great content on the Rocketblocks channel coming out on a weekly basis, mock interviews,"
+  },
+  {
+    "start": 1712.8799999999999,
+    "end": 1715.84,
+    "speaker": "SPEAKER_01",
+    "text": "mini lessons and chats with our Rocketblocks experts."
+  },
+  {
+    "start": 1715.84,
+    "end": 1718.84,
+    "speaker": "SPEAKER_01",
+    "text": "So if you haven't subscribed yet already, please do so."
+  },
+  {
+    "start": 1718.84,
+    "end": 1723.0,
+    "speaker": "SPEAKER_01",
+    "text": "There is a big red button below and if you hit that, you'll get all of our content"
+  },
+  {
+    "start": 1723.0,
+    "end": 1724.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "as soon as it comes up."
+  },
+  {
+    "start": 1724.1599999999999,
+    "end": 1725.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Thanks for watching and have a great day."
+  }
+]

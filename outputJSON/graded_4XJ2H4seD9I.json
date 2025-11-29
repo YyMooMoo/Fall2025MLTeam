@@ -1,0 +1,2718 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 11.44,
+      "speaker": "SPEAKER_01",
+      "text": "Hi, this is Saransh here."
+    },
+    {
+      "start": 11.44,
+      "end": 17.080000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "In the next case I will be interviewing a candidate for a market entry case."
+    },
+    {
+      "start": 17.080000000000002,
+      "end": 22.48,
+      "speaker": "SPEAKER_01",
+      "text": "The candidate makes a strong start but struggles later on in an estimation involved during"
+    },
+    {
+      "start": 22.48,
+      "end": 23.88,
+      "speaker": "SPEAKER_01",
+      "text": "the case."
+    },
+    {
+      "start": 23.88,
+      "end": 27.48,
+      "speaker": "SPEAKER_01",
+      "text": "The candidate could have been more prudent with this time by taking pauses at the right"
+    },
+    {
+      "start": 27.48,
+      "end": 28.48,
+      "speaker": "SPEAKER_01",
+      "text": "intervals."
+    },
+    {
+      "start": 29.04,
+      "end": 33.0,
+      "speaker": "SPEAKER_01",
+      "text": "So I have to have thought through his approach before diving into it."
+    },
+    {
+      "start": 33.0,
+      "end": 36.24,
+      "speaker": "SPEAKER_01",
+      "text": "I hope you will find this case useful from a learning point of view."
+    },
+    {
+      "start": 36.24,
+      "end": 37.24,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks."
+    },
+    {
+      "start": 37.24,
+      "end": 38.24,
+      "speaker": "SPEAKER_01",
+      "text": "Hi, Avinash."
+    },
+    {
+      "start": 38.24,
+      "end": 39.24,
+      "speaker": "SPEAKER_01",
+      "text": "How are you doing?"
+    },
+    {
+      "start": 39.24,
+      "end": 40.24,
+      "speaker": "SPEAKER_01",
+      "text": "I am doing great, I will see what about you."
+    },
+    {
+      "start": 40.24,
+      "end": 41.24,
+      "speaker": "SPEAKER_01",
+      "text": "I am doing great as well."
+    },
+    {
+      "start": 41.24,
+      "end": 42.24,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks for coming in."
+    },
+    {
+      "start": 42.24,
+      "end": 43.24,
+      "speaker": "SPEAKER_01",
+      "text": "Let's get started with your case."
+    },
+    {
+      "start": 43.24,
+      "end": 44.24,
+      "speaker": "SPEAKER_01",
+      "text": "Shut up."
+    },
+    {
+      "start": 44.24,
+      "end": 49.519999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "So our client is a German manufacturer."
+    },
+    {
+      "start": 49.519999999999996,
+      "end": 54.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "And they are looking to enter the Indian market with a solar lantern which is their main"
+    },
+    {
+      "start": 54.120000000000005,
+      "end": 55.120000000000005,
+      "speaker": "SPEAKER_01",
+      "text": "product."
+    },
+    {
+      "start": 56.12,
+      "end": 57.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 57.12,
+      "end": 61.12,
+      "speaker": "SPEAKER_00",
+      "text": "So what is their metric to enter the market?"
+    },
+    {
+      "start": 61.12,
+      "end": 66.56,
+      "speaker": "SPEAKER_00",
+      "text": "Are they looking at profits or is there some other consideration for entering the market?"
+    },
+    {
+      "start": 66.56,
+      "end": 67.56,
+      "speaker": "SPEAKER_01",
+      "text": "Right."
+    },
+    {
+      "start": 67.56,
+      "end": 73.24,
+      "speaker": "SPEAKER_01",
+      "text": "So I guess we can estimate what would be the expected profits over a couple of years"
+    },
+    {
+      "start": 73.24,
+      "end": 77.92,
+      "speaker": "SPEAKER_01",
+      "text": "time and based on that we can make an assessment if this is an attractive opportunity or not."
+    },
+    {
+      "start": 77.92,
+      "end": 84.44,
+      "speaker": "SPEAKER_01",
+      "text": "Additionally, we would also like you to suggest us what should we are operating model."
+    },
+    {
+      "start": 84.44,
+      "end": 87.88,
+      "speaker": "SPEAKER_01",
+      "text": "This was a good preliminary question that the candidate asked."
+    },
+    {
+      "start": 87.88,
+      "end": 93.36,
+      "speaker": "SPEAKER_01",
+      "text": "Market entry questions can often be very ambiguous with their goals, especially when the interviewer"
+    },
+    {
+      "start": 93.36,
+      "end": 95.72,
+      "speaker": "SPEAKER_01",
+      "text": "first asks the question."
+    },
+    {
+      "start": 95.72,
+      "end": 100.88,
+      "speaker": "SPEAKER_01",
+      "text": "Hence it's a good idea to ask the question on what parameter should we decide whether"
+    },
+    {
+      "start": 100.88,
+      "end": 103.52,
+      "speaker": "SPEAKER_01",
+      "text": "the client should enter the market or not."
+    },
+    {
+      "start": 103.52,
+      "end": 107.47999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "This helps in identifying the goal that the client is trying to achieve and also the"
+    },
+    {
+      "start": 107.47999999999999,
+      "end": 112.4,
+      "speaker": "SPEAKER_01",
+      "text": "metric based on which the client would evaluate their success."
+    },
+    {
+      "start": 112.4,
+      "end": 117.08000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "In this case specifically, the candidate has uncovered that the client is looking to maximize"
+    },
+    {
+      "start": 117.08000000000001,
+      "end": 122.28,
+      "speaker": "SPEAKER_01",
+      "text": "profits and would like to get an estimation of what kind of profits they could expect in"
+    },
+    {
+      "start": 122.28,
+      "end": 124.52000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "the first couple of years."
+    },
+    {
+      "start": 124.52000000000001,
+      "end": 129.4,
+      "speaker": "SPEAKER_01",
+      "text": "There can also be market entry questions with a very different set of goals where profits"
+    },
+    {
+      "start": 129.4,
+      "end": 133.32,
+      "speaker": "SPEAKER_01",
+      "text": "might not be the priority but capturing market share would be."
+    },
+    {
+      "start": 142.4,
+      "end": 147.72,
+      "speaker": "SPEAKER_00",
+      "text": "Can I ask you a few preliminary questions of course."
+    },
+    {
+      "start": 147.72,
+      "end": 151.0,
+      "speaker": "SPEAKER_00",
+      "text": "Can you give me some idea about the product?"
+    },
+    {
+      "start": 151.0,
+      "end": 152.0,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 152.0,
+      "end": 160.28,
+      "speaker": "SPEAKER_01",
+      "text": "This is a solar lantern which runs on 6 hours of solar power and that charges it up completely."
+    },
+    {
+      "start": 160.28,
+      "end": 165.96,
+      "speaker": "SPEAKER_01",
+      "text": "Based on this it's able to provide illumination for around 8 hours and it can be used at night"
+    },
+    {
+      "start": 165.96,
+      "end": 166.96,
+      "speaker": "SPEAKER_01",
+      "text": "time."
+    },
+    {
+      "start": 166.96,
+      "end": 169.48000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "The illumination is sufficient for a small room."
+    },
+    {
+      "start": 169.48,
+      "end": 176.56,
+      "speaker": "SPEAKER_00",
+      "text": "So how much is the product priced at?"
+    },
+    {
+      "start": 176.56,
+      "end": 183.44,
+      "speaker": "SPEAKER_01",
+      "text": "As of now you are thinking of a price of around 6000 rupees for the product."
+    },
+    {
+      "start": 183.44,
+      "end": 185.67999999999998,
+      "speaker": "SPEAKER_00",
+      "text": "So where are we placed at the value chain?"
+    },
+    {
+      "start": 185.67999999999998,
+      "end": 189.35999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Are we only involved in the manufacturing or do we have\u2026"
+    },
+    {
+      "start": 189.35999999999999,
+      "end": 193.44,
+      "speaker": "SPEAKER_01",
+      "text": "So we have not thought of that yet and as part of the operating model we would like you"
+    },
+    {
+      "start": 193.44,
+      "end": 197.51999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "to tell us how we should be placed in the value chain."
+    },
+    {
+      "start": 197.52,
+      "end": 204.52,
+      "speaker": "SPEAKER_00",
+      "text": "And are we located exclusively in Germany or do we have other centers of operation"
+    },
+    {
+      "start": 204.52,
+      "end": 205.52,
+      "speaker": "SPEAKER_00",
+      "text": "as well?"
+    },
+    {
+      "start": 205.52,
+      "end": 208.92000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "We have centers of operation all around the world but we are not present in India and"
+    },
+    {
+      "start": 208.92000000000002,
+      "end": 212.08,
+      "speaker": "SPEAKER_01",
+      "text": "I have not yet catered to the Indian market."
+    },
+    {
+      "start": 212.08,
+      "end": 213.08,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 213.08,
+      "end": 217.28,
+      "speaker": "SPEAKER_00",
+      "text": "Can I just have a minute to get a method?"
+    },
+    {
+      "start": 217.28,
+      "end": 218.28,
+      "speaker": "SPEAKER_00",
+      "text": "Of course."
+    },
+    {
+      "start": 218.28,
+      "end": 233.64,
+      "speaker": "SPEAKER_00",
+      "text": "So I think I will have a two-pronged approach for this case."
+    },
+    {
+      "start": 233.64,
+      "end": 240.84,
+      "speaker": "SPEAKER_00",
+      "text": "First I will estimate the profits by first causing the size of the market and figuring out"
+    },
+    {
+      "start": 240.84,
+      "end": 247.12,
+      "speaker": "SPEAKER_00",
+      "text": "what the costs are variable and fixed and then figure out the profit from there."
+    },
+    {
+      "start": 247.12,
+      "end": 268.92,
+      "speaker": "SPEAKER_00",
+      "text": "After asking good preliminary questions the candidate has now outlined his overall approach"
+    },
+    {
+      "start": 268.92,
+      "end": 270.72,
+      "speaker": "SPEAKER_01",
+      "text": "to solve the case."
+    },
+    {
+      "start": 270.72,
+      "end": 275.48,
+      "speaker": "SPEAKER_01",
+      "text": "While he has done a good job by stating his approach he could have structured it better."
+    },
+    {
+      "start": 275.48,
+      "end": 279.76,
+      "speaker": "SPEAKER_01",
+      "text": "So instead of just saying that profits would be computed by evaluating market size and"
+    },
+    {
+      "start": 279.76,
+      "end": 284.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "then looking into the costs to arrive at a final number he could have said that I would"
+    },
+    {
+      "start": 284.28000000000003,
+      "end": 289.08000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "like to break down profits as market size multiplied by market share multiplied by the"
+    },
+    {
+      "start": 289.08000000000004,
+      "end": 296.28000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "profit per unit subtracted by the total fixed investments that might go into this project."
+    },
+    {
+      "start": 296.28000000000003,
+      "end": 301.56,
+      "speaker": "SPEAKER_01",
+      "text": "This is a more comprehensive mathematical formula for the profits to be evaluated."
+    },
+    {
+      "start": 301.56,
+      "end": 306.2,
+      "speaker": "SPEAKER_01",
+      "text": "Similarly for the operating model he could have said I would like to look across three parts"
+    },
+    {
+      "start": 306.2,
+      "end": 312.72,
+      "speaker": "SPEAKER_01",
+      "text": "of the value chain namely manufacturing distribution and sales and marketing and figure out the"
+    },
+    {
+      "start": 312.72,
+      "end": 318.24,
+      "speaker": "SPEAKER_01",
+      "text": "potential hurdles that the client might face and then based on it take a call of which parts"
+    },
+    {
+      "start": 318.24,
+      "end": 322.4,
+      "speaker": "SPEAKER_01",
+      "text": "of the value chain should be done in-house versus which parts we might have to go in"
+    },
+    {
+      "start": 322.4,
+      "end": 327.32,
+      "speaker": "SPEAKER_01",
+      "text": "for an acquisition joint venture or outsourcing to third parties."
+    },
+    {
+      "start": 327.32,
+      "end": 331.92,
+      "speaker": "SPEAKER_00",
+      "text": "So first about the market size."
+    },
+    {
+      "start": 331.92,
+      "end": 337.12,
+      "speaker": "SPEAKER_00",
+      "text": "I think since this is a product which gave us to the customers directly we will have to"
+    },
+    {
+      "start": 337.12,
+      "end": 345.0,
+      "speaker": "SPEAKER_00",
+      "text": "identify customers and divide them based on the income bracket which would then help us"
+    },
+    {
+      "start": 345.0,
+      "end": 350.64,
+      "speaker": "SPEAKER_00",
+      "text": "identify how much of each of the brackets will opt for our product."
+    },
+    {
+      "start": 350.64,
+      "end": 355.4,
+      "speaker": "SPEAKER_01",
+      "text": "So why don't you think through how we should estimate the market size and then we could"
+    },
+    {
+      "start": 355.4,
+      "end": 359.76,
+      "speaker": "SPEAKER_01",
+      "text": "go ahead with time."
+    },
+    {
+      "start": 359.76,
+      "end": 366.08,
+      "speaker": "SPEAKER_01",
+      "text": "The case has now moved to an estimation problem to evaluate the market size for solar lanterns."
+    },
+    {
+      "start": 366.08,
+      "end": 370.2,
+      "speaker": "SPEAKER_01",
+      "text": "Over here the candidate should have thought through his approach to compute the total market"
+    },
+    {
+      "start": 370.2,
+      "end": 373.79999999999995,
+      "speaker": "SPEAKER_01",
+      "text": "size before discussing with the interviewer."
+    },
+    {
+      "start": 373.79999999999995,
+      "end": 378.88,
+      "speaker": "SPEAKER_01",
+      "text": "Since he has not done this he struggles with it later during the interview."
+    },
+    {
+      "start": 378.88,
+      "end": 382.64,
+      "speaker": "SPEAKER_01",
+      "text": "Dear viewer if you are seeing this case for the first time it would be a good idea for"
+    },
+    {
+      "start": 383.36,
+      "end": 390.84,
+      "speaker": "SPEAKER_01",
+      "text": "you to try and estimate the total size yourself before you see the rest of the case."
+    },
+    {
+      "start": 390.84,
+      "end": 396.8,
+      "speaker": "SPEAKER_00",
+      "text": "So I think there are three classifications and which we can divide them based on their"
+    },
+    {
+      "start": 396.8,
+      "end": 397.8,
+      "speaker": "SPEAKER_00",
+      "text": "incomes."
+    },
+    {
+      "start": 397.8,
+      "end": 405.8,
+      "speaker": "SPEAKER_00",
+      "text": "One is the low or say poor income families."
+    },
+    {
+      "start": 405.8,
+      "end": 409.59999999999997,
+      "speaker": "SPEAKER_00",
+      "text": "Poor or low income families."
+    },
+    {
+      "start": 409.6,
+      "end": 414.68,
+      "speaker": "SPEAKER_00",
+      "text": "And then is the low or middle class families."
+    },
+    {
+      "start": 414.68,
+      "end": 418.84000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "So lower income is the poor section and lower middle class."
+    },
+    {
+      "start": 418.84000000000003,
+      "end": 422.20000000000005,
+      "speaker": "SPEAKER_00",
+      "text": "Low or middle class."
+    },
+    {
+      "start": 422.20000000000005,
+      "end": 426.44,
+      "speaker": "SPEAKER_00",
+      "text": "And then we will have the upper middle class and the upper middle class."
+    },
+    {
+      "start": 426.44,
+      "end": 431.8,
+      "speaker": "SPEAKER_01",
+      "text": "Let us just call them poor lower middle class and middle class."
+    },
+    {
+      "start": 431.8,
+      "end": 434.64000000000004,
+      "speaker": "SPEAKER_00",
+      "text": "Sure."
+    },
+    {
+      "start": 434.64000000000004,
+      "end": 439.56,
+      "speaker": "SPEAKER_00",
+      "text": "And middle class."
+    },
+    {
+      "start": 439.56,
+      "end": 451.04,
+      "speaker": "SPEAKER_00",
+      "text": "So ideally the income of a poor and a poor person would be less than 3 lakhs and"
+    },
+    {
+      "start": 451.04,
+      "end": 454.04,
+      "speaker": "SPEAKER_01",
+      "text": "anum of a poor income household."
+    },
+    {
+      "start": 454.04,
+      "end": 455.04,
+      "speaker": "SPEAKER_00",
+      "text": "Alright."
+    },
+    {
+      "start": 455.04,
+      "end": 456.04,
+      "speaker": "SPEAKER_00",
+      "text": "3 lakhs and anum."
+    },
+    {
+      "start": 456.04,
+      "end": 458.04,
+      "speaker": "SPEAKER_01",
+      "text": "So that is an over estimation."
+    },
+    {
+      "start": 458.04,
+      "end": 463.24,
+      "speaker": "SPEAKER_01",
+      "text": "Let us keep the lowest segmented around less than even 1 lakh per annum."
+    },
+    {
+      "start": 463.24,
+      "end": 464.24,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 464.24,
+      "end": 466.08,
+      "speaker": "SPEAKER_01",
+      "text": "So we can actually give you the spits for it."
+    },
+    {
+      "start": 466.08,
+      "end": 470.68,
+      "speaker": "SPEAKER_01",
+      "text": "So poor is less than 1 lakh per annum."
+    },
+    {
+      "start": 470.68,
+      "end": 474.71999999999997,
+      "speaker": "SPEAKER_01",
+      "text": "Middle is between 2 to 4 lakhs."
+    },
+    {
+      "start": 474.71999999999997,
+      "end": 479.56,
+      "speaker": "SPEAKER_01",
+      "text": "And let us say I mean lower middle is 2 to 4 lakhs and middle class is 4 lakhs and"
+    },
+    {
+      "start": 479.56,
+      "end": 493.88,
+      "speaker": "SPEAKER_01",
+      "text": "above."
+    },
+    {
+      "start": 493.88,
+      "end": 498.2,
+      "speaker": "SPEAKER_00",
+      "text": "So what is the, can I ask you another preliminary question."
+    },
+    {
+      "start": 498.2,
+      "end": 506.44,
+      "speaker": "SPEAKER_00",
+      "text": "So yeah what is the estimation on the power that a household would save by using this product?"
+    },
+    {
+      "start": 506.44,
+      "end": 512.6,
+      "speaker": "SPEAKER_01",
+      "text": "They wouldn't really be saving any power because they are essentially, it is a solar powered"
+    },
+    {
+      "start": 512.6,
+      "end": 513.6,
+      "speaker": "SPEAKER_01",
+      "text": "lantern."
+    },
+    {
+      "start": 513.6,
+      "end": 516.28,
+      "speaker": "SPEAKER_01",
+      "text": "So it doesn't really run on electricity."
+    },
+    {
+      "start": 516.28,
+      "end": 517.28,
+      "speaker": "SPEAKER_00",
+      "text": "Do you mean in terms of?"
+    },
+    {
+      "start": 517.28,
+      "end": 523.44,
+      "speaker": "SPEAKER_00",
+      "text": "In terms of opting for this product as opposed to say a product which is run on electricity."
+    },
+    {
+      "start": 523.44,
+      "end": 528.8800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So I think this wouldn't be a substitute for something like a tube like."
+    },
+    {
+      "start": 528.8800000000001,
+      "end": 534.7600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "But it would be more useful in places where there is no electricity or there is insufficient"
+    },
+    {
+      "start": 534.7600000000001,
+      "end": 539.6,
+      "speaker": "SPEAKER_01",
+      "text": "electricity or the outages where the solar lantern can help."
+    },
+    {
+      "start": 539.6,
+      "end": 540.6,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 540.6,
+      "end": 561.2,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 561.2,
+      "end": 575.36,
+      "speaker": "SPEAKER_00",
+      "text": "So we can, just give me one more."
+    },
+    {
+      "start": 575.36,
+      "end": 582.4000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So in a market like India because there are a lot of subsidies to the government of"
+    },
+    {
+      "start": 582.4,
+      "end": 583.4,
+      "speaker": "SPEAKER_00",
+      "text": "our own."
+    },
+    {
+      "start": 583.4,
+      "end": 589.4,
+      "speaker": "SPEAKER_00",
+      "text": "So we can, we can, we can say, you mean collaborate with the government in order to provide, like,"
+    },
+    {
+      "start": 589.4,
+      "end": 592.4,
+      "speaker": "SPEAKER_00",
+      "text": "you can explore that."
+    },
+    {
+      "start": 592.4,
+      "end": 610.4,
+      "speaker": "SPEAKER_01",
+      "text": "But for the timing we have to assume that it will be at an MP of 6,000 rupees for the customer."
+    },
+    {
+      "start": 610.4,
+      "end": 619.04,
+      "speaker": "SPEAKER_00",
+      "text": "So in that case, I think less than 5% of the poor income bracket would be able to afford"
+    },
+    {
+      "start": 619.04,
+      "end": 626.56,
+      "speaker": "SPEAKER_00",
+      "text": "that, afford a product even though it is going to be useful to them, even though they"
+    },
+    {
+      "start": 626.56,
+      "end": 630.1999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "will be reaping the most amount of benefits from it."
+    },
+    {
+      "start": 630.1999999999999,
+      "end": 636.8,
+      "speaker": "SPEAKER_01",
+      "text": "Why 5% and why not like, let's say 40%."
+    },
+    {
+      "start": 636.8,
+      "end": 639.76,
+      "speaker": "SPEAKER_01",
+      "text": "Any justification for that."
+    },
+    {
+      "start": 639.76,
+      "end": 643.88,
+      "speaker": "SPEAKER_01",
+      "text": "What makes you believe that they won't be able to afford it?"
+    },
+    {
+      "start": 643.88,
+      "end": 655.16,
+      "speaker": "SPEAKER_00",
+      "text": "Because it's, A because the amount of, they, so it's almost equivalent to their monthly"
+    },
+    {
+      "start": 655.16,
+      "end": 656.16,
+      "speaker": "SPEAKER_00",
+      "text": "income."
+    },
+    {
+      "start": 656.16,
+      "end": 657.16,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 657.16,
+      "end": 662.76,
+      "speaker": "SPEAKER_00",
+      "text": "The product is almost equivalent to their monthly income and given that, they'll have to,"
+    },
+    {
+      "start": 662.76,
+      "end": 668.36,
+      "speaker": "SPEAKER_00",
+      "text": "like given that the dispensable amount of money that they'll have after utilities and"
+    },
+    {
+      "start": 668.36,
+      "end": 672.36,
+      "speaker": "SPEAKER_00",
+      "text": "other daily and monthly expenses, they'll have little to spare."
+    },
+    {
+      "start": 672.36,
+      "end": 673.36,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 673.36,
+      "end": 678.96,
+      "speaker": "SPEAKER_01",
+      "text": "It's, when doing an estimation exercise, at some point you'll have to make assumptions"
+    },
+    {
+      "start": 678.96,
+      "end": 679.96,
+      "speaker": "SPEAKER_01",
+      "text": "on numbers."
+    },
+    {
+      "start": 679.96,
+      "end": 686.08,
+      "speaker": "SPEAKER_01",
+      "text": "But always try and give reasonable justifications as to why you're choosing a particular number."
+    },
+    {
+      "start": 686.08,
+      "end": 689.92,
+      "speaker": "SPEAKER_01",
+      "text": "Here the candidate made one such assumption regarding the percentage of the poor population"
+    },
+    {
+      "start": 689.92,
+      "end": 692.6,
+      "speaker": "SPEAKER_01",
+      "text": "which would be able to afford the solar lantern."
+    },
+    {
+      "start": 692.6,
+      "end": 696.32,
+      "speaker": "SPEAKER_01",
+      "text": "However, he did not give any justification one for the same."
+    },
+    {
+      "start": 696.32,
+      "end": 700.12,
+      "speaker": "SPEAKER_01",
+      "text": "But when prodded by the interviewer, he was able to come up with a reasonable one."
+    },
+    {
+      "start": 700.12,
+      "end": 704.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Ideally the candidate should have given it without the need for the interviewer's prodding."
+    },
+    {
+      "start": 704.9200000000001,
+      "end": 705.9200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "It's fat."
+    },
+    {
+      "start": 705.9200000000001,
+      "end": 708.0,
+      "speaker": "SPEAKER_01",
+      "text": "I think that's a, that's fat, was human."
+    },
+    {
+      "start": 708.0,
+      "end": 714.08,
+      "speaker": "SPEAKER_01",
+      "text": "In fact, based on what you're saying, we could come to a conclusion that the poor won't"
+    },
+    {
+      "start": 714.08,
+      "end": 715.48,
+      "speaker": "SPEAKER_01",
+      "text": "be able to afford it."
+    },
+    {
+      "start": 715.48,
+      "end": 721.72,
+      "speaker": "SPEAKER_01",
+      "text": "But let's say if we had to make it affordable to them, this is a product that has a life"
+    },
+    {
+      "start": 721.72,
+      "end": 723.72,
+      "speaker": "SPEAKER_01",
+      "text": "of two years."
+    },
+    {
+      "start": 723.72,
+      "end": 729.48,
+      "speaker": "SPEAKER_01",
+      "text": "Is there any mechanism you could suggest apart from the government's obsidian aspect?"
+    },
+    {
+      "start": 729.48,
+      "end": 736.32,
+      "speaker": "SPEAKER_00",
+      "text": "So another thing, like, so off the top of my head, what I can think of is asking them to"
+    },
+    {
+      "start": 736.32,
+      "end": 749.64,
+      "speaker": "SPEAKER_00",
+      "text": "pay a monthly premium of say, of say 10% of their monthly income would, no, five to 10%"
+    },
+    {
+      "start": 749.64,
+      "end": 753.6800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "of their monthly income would make it more affordable for them."
+    },
+    {
+      "start": 753.68,
+      "end": 757.8,
+      "speaker": "SPEAKER_01",
+      "text": "Given an dividing the cost of the lantern over a period of time."
+    },
+    {
+      "start": 757.8,
+      "end": 759.7199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah, dividing it over a period of time."
+    },
+    {
+      "start": 759.7199999999999,
+      "end": 760.88,
+      "speaker": "SPEAKER_01",
+      "text": "We could actually explore it."
+    },
+    {
+      "start": 760.88,
+      "end": 768.04,
+      "speaker": "SPEAKER_01",
+      "text": "So let's say that the lantern that costs around 6,000 rupees, the customer has an option"
+    },
+    {
+      "start": 768.04,
+      "end": 770.8,
+      "speaker": "SPEAKER_01",
+      "text": "of paying it over the life of the product."
+    },
+    {
+      "start": 770.8,
+      "end": 772.88,
+      "speaker": "SPEAKER_01",
+      "text": "So let's say two years."
+    },
+    {
+      "start": 772.88,
+      "end": 773.88,
+      "speaker": "SPEAKER_01",
+      "text": "Two years."
+    },
+    {
+      "start": 773.88,
+      "end": 781.12,
+      "speaker": "SPEAKER_01",
+      "text": "So on a monthly basis, let's see what it comes out to be for a customer, the price."
+    },
+    {
+      "start": 781.12,
+      "end": 782.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 782.12,
+      "end": 791.12,
+      "speaker": "SPEAKER_01",
+      "text": "So around 25 rupees."
+    },
+    {
+      "start": 791.12,
+      "end": 799.36,
+      "speaker": "SPEAKER_00",
+      "text": "Around 25 rupees?"
+    },
+    {
+      "start": 799.36,
+      "end": 800.36,
+      "speaker": "SPEAKER_00",
+      "text": "A month."
+    },
+    {
+      "start": 800.36,
+      "end": 801.36,
+      "speaker": "SPEAKER_00",
+      "text": "Yes, 250."
+    },
+    {
+      "start": 801.36,
+      "end": 802.36,
+      "speaker": "SPEAKER_00",
+      "text": "Or 250 a month."
+    },
+    {
+      "start": 802.36,
+      "end": 803.36,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 803.36,
+      "end": 804.36,
+      "speaker": "SPEAKER_00",
+      "text": "250 a month."
+    },
+    {
+      "start": 804.36,
+      "end": 805.36,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 805.36,
+      "end": 818.96,
+      "speaker": "SPEAKER_00",
+      "text": "So like 250 on 75, around 7,000 rupees of monthly income is something that they can"
+    },
+    {
+      "start": 818.96,
+      "end": 819.96,
+      "speaker": "SPEAKER_00",
+      "text": "afford."
+    },
+    {
+      "start": 819.96,
+      "end": 826.4,
+      "speaker": "SPEAKER_00",
+      "text": "Given that they would be equally investing it in other forms of like, in other forms,"
+    },
+    {
+      "start": 826.4,
+      "end": 829.8000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "other forms of energy like buying kerosene for their lanterns."
+    },
+    {
+      "start": 829.8000000000001,
+      "end": 835.24,
+      "speaker": "SPEAKER_00",
+      "text": "So I think 250 rupees would be a affordable amount of money and then we'd be able to capture"
+    },
+    {
+      "start": 835.24,
+      "end": 837.48,
+      "speaker": "SPEAKER_00",
+      "text": "this particular segment of the market."
+    },
+    {
+      "start": 837.48,
+      "end": 840.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So what is the monthly income of the poor segment?"
+    },
+    {
+      "start": 840.6800000000001,
+      "end": 849.2,
+      "speaker": "SPEAKER_01",
+      "text": "Let's take a, let's say an average income of 60 grand per year."
+    },
+    {
+      "start": 849.2,
+      "end": 852.84,
+      "speaker": "SPEAKER_01",
+      "text": "So on a monthly basis that comes out to be."
+    },
+    {
+      "start": 852.84,
+      "end": 856.24,
+      "speaker": "SPEAKER_01",
+      "text": "So that's 5,000 income that they have on a monthly basis."
+    },
+    {
+      "start": 856.24,
+      "end": 862.6,
+      "speaker": "SPEAKER_01",
+      "text": "So on a, do you think 300 rupees is something or rather 250 rupees per month is something"
+    },
+    {
+      "start": 862.6,
+      "end": 864.64,
+      "speaker": "SPEAKER_01",
+      "text": "that they will be able to afford?"
+    },
+    {
+      "start": 864.64,
+      "end": 870.28,
+      "speaker": "SPEAKER_00",
+      "text": "I think they, because they'll, anyways have to invest, like, so they, this 5,000 would"
+    },
+    {
+      "start": 870.28,
+      "end": 876.6,
+      "speaker": "SPEAKER_00",
+      "text": "go in, like, would, would be invested in buying utilities for their family."
+    },
+    {
+      "start": 876.6,
+      "end": 880.4,
+      "speaker": "SPEAKER_00",
+      "text": "For example, buying kerosene for the lanterns that they'd otherwise use."
+    },
+    {
+      "start": 880.4,
+      "end": 886.72,
+      "speaker": "SPEAKER_00",
+      "text": "So 250 rupees would approximately be equal to the amount of money, amount of money that"
+    },
+    {
+      "start": 886.72,
+      "end": 889.16,
+      "speaker": "SPEAKER_00",
+      "text": "they are otherwise be spending on kerosene."
+    },
+    {
+      "start": 889.16,
+      "end": 890.16,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 890.16,
+      "end": 892.12,
+      "speaker": "SPEAKER_00",
+      "text": "So it will make it affordable for them."
+    },
+    {
+      "start": 892.12,
+      "end": 898.36,
+      "speaker": "SPEAKER_01",
+      "text": "So let's say 20% of the poor population would be able to go ahead with our lantern."
+    },
+    {
+      "start": 898.36,
+      "end": 905.8,
+      "speaker": "SPEAKER_00",
+      "text": "And do we have a number on how much of, how many families or how many families are in"
+    },
+    {
+      "start": 905.8,
+      "end": 906.8,
+      "speaker": "SPEAKER_00",
+      "text": "this bracket?"
+    },
+    {
+      "start": 906.8,
+      "end": 909.64,
+      "speaker": "SPEAKER_01",
+      "text": "Why don't you give us an estimate of that?"
+    },
+    {
+      "start": 909.64,
+      "end": 922.08,
+      "speaker": "SPEAKER_00",
+      "text": "So in a country like India, I expect around 60% of the population, like 60% of the population"
+    },
+    {
+      "start": 922.08,
+      "end": 924.72,
+      "speaker": "SPEAKER_00",
+      "text": "to be in this bracket."
+    },
+    {
+      "start": 924.72,
+      "end": 930.64,
+      "speaker": "SPEAKER_00",
+      "text": "And 60% of 2 billion."
+    },
+    {
+      "start": 930.64,
+      "end": 933.0400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe 60% is overestimation."
+    },
+    {
+      "start": 933.0400000000001,
+      "end": 936.2,
+      "speaker": "SPEAKER_00",
+      "text": "Let's say 30%."
+    },
+    {
+      "start": 936.2,
+      "end": 941.24,
+      "speaker": "SPEAKER_00",
+      "text": "So 30% of 2 billion."
+    },
+    {
+      "start": 941.24,
+      "end": 943.72,
+      "speaker": "SPEAKER_00",
+      "text": "And 4 people in a family, right?"
+    },
+    {
+      "start": 943.72,
+      "end": 947.88,
+      "speaker": "SPEAKER_01",
+      "text": "Let's say 5 in rural India, 10 families, 10 to be larger."
+    },
+    {
+      "start": 947.88,
+      "end": 951.12,
+      "speaker": "SPEAKER_00",
+      "text": "And yeah, 5 people in a family."
+    },
+    {
+      "start": 951.12,
+      "end": 961.72,
+      "speaker": "SPEAKER_00",
+      "text": "So that makes it around 1.2 million families."
+    },
+    {
+      "start": 961.72,
+      "end": 962.72,
+      "speaker": "SPEAKER_00",
+      "text": "All right."
+    },
+    {
+      "start": 962.72,
+      "end": 963.72,
+      "speaker": "SPEAKER_01",
+      "text": "Fine."
+    },
+    {
+      "start": 963.72,
+      "end": 966.96,
+      "speaker": "SPEAKER_01",
+      "text": "1.2 million families."
+    },
+    {
+      "start": 966.96,
+      "end": 968.64,
+      "speaker": "SPEAKER_01",
+      "text": "1.2 million."
+    },
+    {
+      "start": 968.64,
+      "end": 972.68,
+      "speaker": "SPEAKER_01",
+      "text": "So we've got 1.3 billion as a total population."
+    },
+    {
+      "start": 972.68,
+      "end": 975.44,
+      "speaker": "SPEAKER_01",
+      "text": "1.2 billion is a total population of India."
+    },
+    {
+      "start": 975.44,
+      "end": 977.44,
+      "speaker": "SPEAKER_01",
+      "text": "Multiplied by 2 billion."
+    },
+    {
+      "start": 977.44,
+      "end": 978.44,
+      "speaker": "SPEAKER_01",
+      "text": "1.2 billion."
+    },
+    {
+      "start": 978.44,
+      "end": 980.92,
+      "speaker": "SPEAKER_01",
+      "text": "1.2 billion is a population."
+    },
+    {
+      "start": 980.92,
+      "end": 981.92,
+      "speaker": "SPEAKER_01",
+      "text": "Yes, yes."
+    },
+    {
+      "start": 981.92,
+      "end": 982.92,
+      "speaker": "SPEAKER_01",
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 982.92,
+      "end": 985.4,
+      "speaker": "SPEAKER_01",
+      "text": "So why don't you just re-calculate?"
+    },
+    {
+      "start": 985.4,
+      "end": 988.4,
+      "speaker": "SPEAKER_01",
+      "text": "Sorry."
+    },
+    {
+      "start": 988.4,
+      "end": 993.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "For estimation problems, it's a good idea to remember certain key numbers, such as the"
+    },
+    {
+      "start": 993.1999999999999,
+      "end": 996.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "population of your country."
+    },
+    {
+      "start": 996.1999999999999,
+      "end": 1000.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "The population of the city you live in, the area in square kilometers of your city, even"
+    },
+    {
+      "start": 1000.7199999999999,
+      "end": 1007.7199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "the population split across income segments, populations split by urban rural geographies."
+    },
+    {
+      "start": 1007.72,
+      "end": 1011.84,
+      "speaker": "SPEAKER_01",
+      "text": "Once you've done several guestments, you would get a good hang of which are these key"
+    },
+    {
+      "start": 1011.84,
+      "end": 1014.84,
+      "speaker": "SPEAKER_01",
+      "text": "numbers that you should try and remember."
+    },
+    {
+      "start": 1014.84,
+      "end": 1018.36,
+      "speaker": "SPEAKER_01",
+      "text": "For a list of some of these numbers, you can also refer to the case interviews crack"
+    },
+    {
+      "start": 1018.36,
+      "end": 1018.88,
+      "speaker": "SPEAKER_01",
+      "text": "book."
+    },
+    {
+      "start": 1037.72,
+      "end": 1038.72,
+      "speaker": "SPEAKER_00",
+      "text": "36."
+    },
+    {
+      "start": 1038.72,
+      "end": 1039.72,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1039.72,
+      "end": 1040.72,
+      "speaker": "UNKNOWN",
+      "text": "26."
+    },
+    {
+      "start": 1040.72,
+      "end": 1041.72,
+      "speaker": "UNKNOWN",
+      "text": "12."
+    },
+    {
+      "start": 1041.72,
+      "end": 1042.72,
+      "speaker": "UNKNOWN",
+      "text": "7.2 million."
+    },
+    {
+      "start": 1042.72,
+      "end": 1044.72,
+      "speaker": "SPEAKER_00",
+      "text": "Are you sure about that?"
+    },
+    {
+      "start": 1044.72,
+      "end": 1057.84,
+      "speaker": "SPEAKER_01",
+      "text": "We've got 1,300 million as the total number of citizens."
+    },
+    {
+      "start": 1057.84,
+      "end": 1064.68,
+      "speaker": "SPEAKER_01",
+      "text": "During the heat of an interview, when it's a high pressure situation, it's very easy"
+    },
+    {
+      "start": 1064.68,
+      "end": 1066.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "to go wrong with calculation."
+    },
+    {
+      "start": 1066.36,
+      "end": 1071.76,
+      "speaker": "SPEAKER_01",
+      "text": "However, calculations are a basic qualification consideration during case interviews and"
+    },
+    {
+      "start": 1071.76,
+      "end": 1074.04,
+      "speaker": "SPEAKER_01",
+      "text": "you have to ensure that you get them right."
+    },
+    {
+      "start": 1074.04,
+      "end": 1079.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So it's advisable to take your time when you're making a calculation, write all your calculation"
+    },
+    {
+      "start": 1079.6799999999998,
+      "end": 1086.32,
+      "speaker": "SPEAKER_01",
+      "text": "steps neatly so that you're able to systematically solve it and then discuss it with the interviewer."
+    },
+    {
+      "start": 1086.32,
+      "end": 1090.76,
+      "speaker": "SPEAKER_01",
+      "text": "So we have 1,200 million families."
+    },
+    {
+      "start": 1090.76,
+      "end": 1100.36,
+      "speaker": "SPEAKER_01",
+      "text": "You need to divide by 5 so that gives you 240 million households and that gets multiplied"
+    },
+    {
+      "start": 1100.36,
+      "end": 1103.52,
+      "speaker": "SPEAKER_01",
+      "text": "by 30 percent of the household."
+    },
+    {
+      "start": 1103.52,
+      "end": 1107.52,
+      "speaker": "SPEAKER_01",
+      "text": "So that's around 80 million."
+    },
+    {
+      "start": 1107.52,
+      "end": 1108.52,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1108.52,
+      "end": 1110.52,
+      "speaker": "SPEAKER_01",
+      "text": "So this is fine."
+    },
+    {
+      "start": 1110.52,
+      "end": 1118.64,
+      "speaker": "SPEAKER_01",
+      "text": "Let's say we do the same analysis across income segments and across the three income"
+    },
+    {
+      "start": 1118.64,
+      "end": 1119.64,
+      "speaker": "SPEAKER_01",
+      "text": "segments."
+    },
+    {
+      "start": 1119.64,
+      "end": 1125.8000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "Let's say a total of 10 percent of the population or around 20 percent of the population is going"
+    },
+    {
+      "start": 1125.8000000000002,
+      "end": 1130.44,
+      "speaker": "SPEAKER_01",
+      "text": "to use our solar land."
+    },
+    {
+      "start": 1130.44,
+      "end": 1135.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "From an affordability standpoint, what other factors do you think will depend?"
+    },
+    {
+      "start": 1135.8400000000001,
+      "end": 1140.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So let's say of the total households that we have are 240 million households."
+    },
+    {
+      "start": 1140.0400000000002,
+      "end": 1144.0400000000002,
+      "speaker": "SPEAKER_01",
+      "text": "We have about 20 percent of the households which are interested in our product."
+    },
+    {
+      "start": 1144.0400000000002,
+      "end": 1147.76,
+      "speaker": "SPEAKER_01",
+      "text": "So let's say around 50 million households can afford the product."
+    },
+    {
+      "start": 1147.76,
+      "end": 1152.56,
+      "speaker": "SPEAKER_01",
+      "text": "What other considerations would you have on the market side?"
+    },
+    {
+      "start": 1152.56,
+      "end": 1158.68,
+      "speaker": "SPEAKER_00",
+      "text": "So one of the biggest problems would be that this is a product that people would not buy"
+    },
+    {
+      "start": 1158.68,
+      "end": 1162.4,
+      "speaker": "SPEAKER_00",
+      "text": "more than once."
+    },
+    {
+      "start": 1162.4,
+      "end": 1174.2,
+      "speaker": "SPEAKER_00",
+      "text": "So the initial fixed cost that we fixed cost of the whole plant."
+    },
+    {
+      "start": 1174.2,
+      "end": 1175.68,
+      "speaker": "SPEAKER_01",
+      "text": "That's a separate issue."
+    },
+    {
+      "start": 1175.68,
+      "end": 1177.6000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "That's a issue for us."
+    },
+    {
+      "start": 1177.6000000000001,
+      "end": 1181.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of do you think everyone who will afford, you can afford the solar land and will"
+    },
+    {
+      "start": 1181.8400000000001,
+      "end": 1182.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "buy a product?"
+    },
+    {
+      "start": 1182.8400000000001,
+      "end": 1185.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "It's affordability the only."
+    },
+    {
+      "start": 1185.8400000000001,
+      "end": 1191.8,
+      "speaker": "SPEAKER_00",
+      "text": "So I think that there is an apprehension towards new technologies in general and people tend"
+    },
+    {
+      "start": 1191.8,
+      "end": 1197.24,
+      "speaker": "SPEAKER_00",
+      "text": "to like oppose the usage of new technologies that being like the..."
+    },
+    {
+      "start": 1197.24,
+      "end": 1202.16,
+      "speaker": "SPEAKER_01",
+      "text": "Let I guess in this situation that wouldn't be really the concern because it's a simple"
+    },
+    {
+      "start": 1202.16,
+      "end": 1203.16,
+      "speaker": "SPEAKER_01",
+      "text": "solution."
+    },
+    {
+      "start": 1203.16,
+      "end": 1206.24,
+      "speaker": "SPEAKER_01",
+      "text": "So the solar land is nothing to worry about unlike GM crops."
+    },
+    {
+      "start": 1206.24,
+      "end": 1208.24,
+      "speaker": "SPEAKER_00",
+      "text": "But let's say..."
+    },
+    {
+      "start": 1208.24,
+      "end": 1215.3600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And another thing is obviously like the solar, the sun shining in a at a particular place."
+    },
+    {
+      "start": 1215.3600000000001,
+      "end": 1217.92,
+      "speaker": "SPEAKER_01",
+      "text": "That's not a problem in most cases of India."
+    },
+    {
+      "start": 1217.92,
+      "end": 1227.44,
+      "speaker": "SPEAKER_01",
+      "text": "What else do you think could be a criterion?"
+    },
+    {
+      "start": 1227.44,
+      "end": 1229.96,
+      "speaker": "SPEAKER_01",
+      "text": "What about need for the product?"
+    },
+    {
+      "start": 1229.96,
+      "end": 1232.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "Does everyone need this product?"
+    },
+    {
+      "start": 1232.12,
+      "end": 1239.12,
+      "speaker": "UNKNOWN",
+      "text": "Well..."
+    },
+    {
+      "start": 1239.12,
+      "end": 1240.12,
+      "speaker": "SPEAKER_00",
+      "text": "So..."
+    },
+    {
+      "start": 1240.12,
+      "end": 1242.12,
+      "speaker": "SPEAKER_00",
+      "text": "Emergency..."
+    },
+    {
+      "start": 1242.12,
+      "end": 1252.12,
+      "speaker": "SPEAKER_00",
+      "text": "Like given the erratic nature of power supply in India, I do believe that there is a need"
+    },
+    {
+      "start": 1252.12,
+      "end": 1254.12,
+      "speaker": "SPEAKER_00",
+      "text": "for such..."
+    },
+    {
+      "start": 1254.12,
+      "end": 1258.12,
+      "speaker": "SPEAKER_01",
+      "text": "I understand what you're saying but..."
+    },
+    {
+      "start": 1258.12,
+      "end": 1259.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "What about urban consumers?"
+    },
+    {
+      "start": 1259.8799999999999,
+      "end": 1261.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Urban versus rural who do you think would..."
+    },
+    {
+      "start": 1261.8799999999999,
+      "end": 1268.32,
+      "speaker": "SPEAKER_00",
+      "text": "I think rural consumers would prefer our product much more than the urban user."
+    },
+    {
+      "start": 1268.32,
+      "end": 1271.32,
+      "speaker": "SPEAKER_00",
+      "text": "Is there any need scenario in urban..."
+    },
+    {
+      "start": 1271.32,
+      "end": 1278.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So like off the top of my head what we can do is like refurbish the product in a way"
+    },
+    {
+      "start": 1278.3999999999999,
+      "end": 1283.6,
+      "speaker": "SPEAKER_00",
+      "text": "that it serves as a reading lamp for users in the urban area."
+    },
+    {
+      "start": 1283.6,
+      "end": 1285.6,
+      "speaker": "SPEAKER_01",
+      "text": "But there are several alternatives that they have right?"
+    },
+    {
+      "start": 1285.6,
+      "end": 1286.6,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1286.6,
+      "end": 1288.6,
+      "speaker": "SPEAKER_01",
+      "text": "Reasonably good and not at reason."
+    },
+    {
+      "start": 1288.6,
+      "end": 1293.84,
+      "speaker": "SPEAKER_01",
+      "text": "So I guess we can exclude urban consumers because electricity outage is not really an issue"
+    },
+    {
+      "start": 1293.84,
+      "end": 1296.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "and focus on rural consumers."
+    },
+    {
+      "start": 1296.4399999999998,
+      "end": 1301.1999999999998,
+      "speaker": "SPEAKER_01",
+      "text": "And within rural consumers do you think there would be some people who need it more, some"
+    },
+    {
+      "start": 1301.1999999999998,
+      "end": 1302.84,
+      "speaker": "SPEAKER_01",
+      "text": "people who need it less?"
+    },
+    {
+      "start": 1302.84,
+      "end": 1303.84,
+      "speaker": "SPEAKER_00",
+      "text": "Oh yeah."
+    },
+    {
+      "start": 1303.84,
+      "end": 1312.76,
+      "speaker": "SPEAKER_00",
+      "text": "So even in rural areas, even in rural areas, so I think the split can be done in a way"
+    },
+    {
+      "start": 1312.76,
+      "end": 1313.76,
+      "speaker": "SPEAKER_00",
+      "text": "that there are..."
+    },
+    {
+      "start": 1313.76,
+      "end": 1325.76,
+      "speaker": "SPEAKER_00",
+      "text": "So in a way that rural areas can further be classified into sort of like very rural areas"
+    },
+    {
+      "start": 1325.76,
+      "end": 1330.92,
+      "speaker": "SPEAKER_00",
+      "text": "and somewhat developed rural areas."
+    },
+    {
+      "start": 1330.92,
+      "end": 1331.92,
+      "speaker": "SPEAKER_01",
+      "text": "In the sense that..."
+    },
+    {
+      "start": 1331.92,
+      "end": 1335.12,
+      "speaker": "SPEAKER_01",
+      "text": "How will you decide which ones come under..."
+    },
+    {
+      "start": 1335.12,
+      "end": 1338.92,
+      "speaker": "SPEAKER_01",
+      "text": "That's a semi-rural areas and rural areas?"
+    },
+    {
+      "start": 1338.92,
+      "end": 1341.32,
+      "speaker": "SPEAKER_01",
+      "text": "What would be the distinguishing factor for them?"
+    },
+    {
+      "start": 1341.32,
+      "end": 1352.76,
+      "speaker": "SPEAKER_00",
+      "text": "So A is the amount of electricity and the proliferation of other nationalized commodities."
+    },
+    {
+      "start": 1352.76,
+      "end": 1354.24,
+      "speaker": "SPEAKER_00",
+      "text": "So that proves how..."
+    },
+    {
+      "start": 1354.24,
+      "end": 1357.56,
+      "speaker": "SPEAKER_01",
+      "text": "I think electricity is a very important point that you mentioned."
+    },
+    {
+      "start": 1357.56,
+      "end": 1364.36,
+      "speaker": "SPEAKER_01",
+      "text": "So why not let's divide the rural population by the availability of electricity."
+    },
+    {
+      "start": 1364.36,
+      "end": 1368.24,
+      "speaker": "SPEAKER_01",
+      "text": "So let's have two classes of rural population."
+    },
+    {
+      "start": 1368.24,
+      "end": 1373.68,
+      "speaker": "SPEAKER_01",
+      "text": "One is that on the grid which are connected to the electricity supply."
+    },
+    {
+      "start": 1373.68,
+      "end": 1375.76,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1375.76,
+      "end": 1380.08,
+      "speaker": "SPEAKER_01",
+      "text": "And another segment which is off the grid which is not connected to electricity supply."
+    },
+    {
+      "start": 1380.08,
+      "end": 1388.2,
+      "speaker": "SPEAKER_01",
+      "text": "And let's put numbers out there in terms of what is the difference in percentage."
+    },
+    {
+      "start": 1388.2,
+      "end": 1396.52,
+      "speaker": "SPEAKER_00",
+      "text": "So out of the total number of families, we can come to an estimate or estimate that the"
+    },
+    {
+      "start": 1396.52,
+      "end": 1399.52,
+      "speaker": "SPEAKER_00",
+      "text": "number of rural people living in rural areas is around..."
+    },
+    {
+      "start": 1399.52,
+      "end": 1401.12,
+      "speaker": "SPEAKER_00",
+      "text": "Let's go with 70%."
+    },
+    {
+      "start": 1401.12,
+      "end": 1404.92,
+      "speaker": "SPEAKER_00",
+      "text": "70% so this is 70% of the total number of families."
+    },
+    {
+      "start": 1404.92,
+      "end": 1409.24,
+      "speaker": "SPEAKER_01",
+      "text": "Why don't we just do the math for that?"
+    },
+    {
+      "start": 1409.24,
+      "end": 1413.24,
+      "speaker": "SPEAKER_00",
+      "text": "So 70% or 240 right?"
+    },
+    {
+      "start": 1413.24,
+      "end": 1414.24,
+      "speaker": "SPEAKER_01",
+      "text": "Right."
+    },
+    {
+      "start": 1414.24,
+      "end": 1415.24,
+      "speaker": "SPEAKER_01",
+      "text": "Of 240."
+    },
+    {
+      "start": 1415.24,
+      "end": 1416.24,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 1416.24,
+      "end": 1417.24,
+      "speaker": "UNKNOWN",
+      "text": "Of 240."
+    },
+    {
+      "start": 1426.52,
+      "end": 1427.52,
+      "speaker": "UNKNOWN",
+      "text": "160."
+    },
+    {
+      "start": 1427.52,
+      "end": 1433.52,
+      "speaker": "SPEAKER_01",
+      "text": "Let's just round that to 150 million."
+    },
+    {
+      "start": 1433.52,
+      "end": 1434.52,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 1434.52,
+      "end": 1437.52,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1437.52,
+      "end": 1438.52,
+      "speaker": "SPEAKER_00",
+      "text": "And..."
+    },
+    {
+      "start": 1438.52,
+      "end": 1439.52,
+      "speaker": "UNKNOWN",
+      "text": "And..."
+    },
+    {
+      "start": 1439.52,
+      "end": 1450.52,
+      "speaker": "SPEAKER_00",
+      "text": "So in a country like India around 80% of all the places are electrified."
+    },
+    {
+      "start": 1450.52,
+      "end": 1459.52,
+      "speaker": "SPEAKER_00",
+      "text": "So we can assume that out of the rural population around 20% to 30% is off the grid."
+    },
+    {
+      "start": 1459.52,
+      "end": 1460.52,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1460.52,
+      "end": 1463.52,
+      "speaker": "SPEAKER_00",
+      "text": "So what do you think is the difference?"
+    },
+    {
+      "start": 1463.52,
+      "end": 1465.52,
+      "speaker": "SPEAKER_01",
+      "text": "That's a fine assumption."
+    },
+    {
+      "start": 1465.52,
+      "end": 1466.52,
+      "speaker": "SPEAKER_01",
+      "text": "20% off the grid."
+    },
+    {
+      "start": 1466.52,
+      "end": 1468.52,
+      "speaker": "SPEAKER_01",
+      "text": "80% on the grid."
+    },
+    {
+      "start": 1468.52,
+      "end": 1471.52,
+      "speaker": "SPEAKER_01",
+      "text": "20% on the grid."
+    },
+    {
+      "start": 1471.52,
+      "end": 1476.52,
+      "speaker": "UNKNOWN",
+      "text": "20% on the grid."
+    },
+    {
+      "start": 1476.52,
+      "end": 1483.04,
+      "speaker": "SPEAKER_01",
+      "text": "Here the candidate makes an assumption of what is the split between how much of India is"
+    },
+    {
+      "start": 1483.04,
+      "end": 1487.52,
+      "speaker": "SPEAKER_01",
+      "text": "on the grid versus how much is off the grid and he quickly checks the assumption with"
+    },
+    {
+      "start": 1487.52,
+      "end": 1488.84,
+      "speaker": "SPEAKER_01",
+      "text": "the interviewer."
+    },
+    {
+      "start": 1488.84,
+      "end": 1494.28,
+      "speaker": "SPEAKER_01",
+      "text": "This is an example of a situation where it's okay to ask the interviewer for help and"
+    },
+    {
+      "start": 1494.28,
+      "end": 1505.04,
+      "speaker": "SPEAKER_01",
+      "text": "get his inputs and then go ahead with the case."
+    },
+    {
+      "start": 1505.04,
+      "end": 1506.04,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 1506.04,
+      "end": 1515.04,
+      "speaker": "SPEAKER_00",
+      "text": "And so, yeah, pricing it at our original model of 250 rupees per month will be able to..."
+    },
+    {
+      "start": 1515.04,
+      "end": 1518.04,
+      "speaker": "SPEAKER_00",
+      "text": "We will be able to capture the..."
+    },
+    {
+      "start": 1518.04,
+      "end": 1519.04,
+      "speaker": "SPEAKER_00",
+      "text": "This..."
+    },
+    {
+      "start": 1519.04,
+      "end": 1522.04,
+      "speaker": "SPEAKER_00",
+      "text": "The 30 million families living in off..."
+    },
+    {
+      "start": 1522.04,
+      "end": 1525.52,
+      "speaker": "SPEAKER_00",
+      "text": "Like living off the grid."
+    },
+    {
+      "start": 1525.52,
+      "end": 1531.8,
+      "speaker": "SPEAKER_00",
+      "text": "And on the grid we definitely need some amount of incentives that we have to offer them"
+    },
+    {
+      "start": 1531.8,
+      "end": 1533.32,
+      "speaker": "SPEAKER_00",
+      "text": "for them to convert."
+    },
+    {
+      "start": 1533.32,
+      "end": 1542.24,
+      "speaker": "SPEAKER_00",
+      "text": "Because in rural areas the amount that they pay for electricity is in fact not much."
+    },
+    {
+      "start": 1542.24,
+      "end": 1545.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "They are given at a very subsidized price."
+    },
+    {
+      "start": 1545.8799999999999,
+      "end": 1552.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So the initial consideration that we had that they will be willing to spend 250 rupees because"
+    },
+    {
+      "start": 1552.1599999999999,
+      "end": 1553.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "they are otherwise..."
+    },
+    {
+      "start": 1553.1599999999999,
+      "end": 1555.32,
+      "speaker": "SPEAKER_01",
+      "text": "We've already considered affordability, right?"
+    },
+    {
+      "start": 1555.32,
+      "end": 1561.96,
+      "speaker": "SPEAKER_01",
+      "text": "And we've said that of the total households, 20% would be able to afford the solar land."
+    },
+    {
+      "start": 1561.96,
+      "end": 1562.96,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 1562.96,
+      "end": 1563.96,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 1563.96,
+      "end": 1569.8400000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So, of the total families we've already considered affordability."
+    },
+    {
+      "start": 1569.8400000000001,
+      "end": 1571.92,
+      "speaker": "SPEAKER_01",
+      "text": "Now we are looking at need."
+    },
+    {
+      "start": 1571.92,
+      "end": 1575.56,
+      "speaker": "SPEAKER_01",
+      "text": "And in need of what would you suggest?"
+    },
+    {
+      "start": 1575.56,
+      "end": 1580.56,
+      "speaker": "SPEAKER_01",
+      "text": "So we've said that rural families would need it more and within on grid and off grid what"
+    },
+    {
+      "start": 1580.56,
+      "end": 1581.56,
+      "speaker": "SPEAKER_01",
+      "text": "would you suggest?"
+    },
+    {
+      "start": 1581.56,
+      "end": 1587.0,
+      "speaker": "SPEAKER_00",
+      "text": "So, of the people, like of the families living off the grid, I think we'd be able to capture"
+    },
+    {
+      "start": 1587.0,
+      "end": 1589.0,
+      "speaker": "SPEAKER_00",
+      "text": "the whole market."
+    },
+    {
+      "start": 1589.0,
+      "end": 1590.0,
+      "speaker": "SPEAKER_00",
+      "text": "Right."
+    },
+    {
+      "start": 1590.0,
+      "end": 1601.48,
+      "speaker": "SPEAKER_00",
+      "text": "And on the grid..."
+    },
+    {
+      "start": 1601.48,
+      "end": 1608.84,
+      "speaker": "SPEAKER_00",
+      "text": "So on the grid people will already be using the need that would exist for a solar land"
+    },
+    {
+      "start": 1608.84,
+      "end": 1613.84,
+      "speaker": "SPEAKER_00",
+      "text": "term would be much less than the people living off the grid."
+    },
+    {
+      "start": 1613.84,
+      "end": 1614.84,
+      "speaker": "SPEAKER_00",
+      "text": "And..."
+    },
+    {
+      "start": 1614.84,
+      "end": 1615.84,
+      "speaker": "SPEAKER_01",
+      "text": "Alright."
+    },
+    {
+      "start": 1615.84,
+      "end": 1616.84,
+      "speaker": "SPEAKER_01",
+      "text": "So, fair enough."
+    },
+    {
+      "start": 1616.9199999999998,
+      "end": 1621.84,
+      "speaker": "SPEAKER_01",
+      "text": "Based on this, why don't you give us a final number in terms of how many..."
+    },
+    {
+      "start": 1621.84,
+      "end": 1628.24,
+      "speaker": "SPEAKER_01",
+      "text": "What is the total number of land terms we can expect to sell?"
+    },
+    {
+      "start": 1628.24,
+      "end": 1632.36,
+      "speaker": "SPEAKER_00",
+      "text": "So we can assume that we'd be able to sell it to each family."
+    },
+    {
+      "start": 1632.36,
+      "end": 1634.8799999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Like we'd be able to sell at least one or two."
+    },
+    {
+      "start": 1634.8799999999999,
+      "end": 1638.48,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, let's assume we can sell one to all of the grid families and we can't sell any"
+    },
+    {
+      "start": 1638.48,
+      "end": 1639.76,
+      "speaker": "SPEAKER_01",
+      "text": "to one of the grid families."
+    },
+    {
+      "start": 1639.76,
+      "end": 1645.6,
+      "speaker": "SPEAKER_01",
+      "text": "So that makes it 13 million?"
+    },
+    {
+      "start": 1645.6,
+      "end": 1650.48,
+      "speaker": "SPEAKER_01",
+      "text": "Can you just recheck all your steps and see if you've made all considerations from the"
+    },
+    {
+      "start": 1650.48,
+      "end": 1667.56,
+      "speaker": "SPEAKER_01",
+      "text": "beginning?"
+    },
+    {
+      "start": 1667.56,
+      "end": 1669.76,
+      "speaker": "SPEAKER_01",
+      "text": "I think we are missing affordability, right?"
+    },
+    {
+      "start": 1669.76,
+      "end": 1675.92,
+      "speaker": "SPEAKER_01",
+      "text": "So, 240 million are the total households in India of which 70% are rural, which is 150"
+    },
+    {
+      "start": 1675.92,
+      "end": 1682.72,
+      "speaker": "SPEAKER_01",
+      "text": "million, of which off-grid are 30 million and of which we said that around 20% kind of"
+    },
+    {
+      "start": 1682.72,
+      "end": 1683.72,
+      "speaker": "SPEAKER_01",
+      "text": "affordability."
+    },
+    {
+      "start": 1683.72,
+      "end": 1695.0,
+      "speaker": "SPEAKER_01",
+      "text": "Let's go with 50% kind of afford because these off-grid families tend to be..."
+    },
+    {
+      "start": 1695.0,
+      "end": 1697.0,
+      "speaker": "SPEAKER_01",
+      "text": "It's 15 million."
+    },
+    {
+      "start": 1697.0,
+      "end": 1699.96,
+      "speaker": "SPEAKER_01",
+      "text": "It's leading it a lot more fair enough."
+    },
+    {
+      "start": 1699.96,
+      "end": 1705.88,
+      "speaker": "SPEAKER_01",
+      "text": "All right, so we've got 15 million who can purchase our product."
+    },
+    {
+      "start": 1705.88,
+      "end": 1706.88,
+      "speaker": "SPEAKER_01",
+      "text": "Yes."
+    },
+    {
+      "start": 1706.88,
+      "end": 1708.4,
+      "speaker": "SPEAKER_01",
+      "text": "So I guess that's the market size."
+    },
+    {
+      "start": 1708.4,
+      "end": 1709.88,
+      "speaker": "SPEAKER_01",
+      "text": "What would you like to do next?"
+    },
+    {
+      "start": 1709.88,
+      "end": 1716.6,
+      "speaker": "SPEAKER_00",
+      "text": "So since we don't have any competitors, we can assume that we'll be having the complete"
+    },
+    {
+      "start": 1716.6,
+      "end": 1724.28,
+      "speaker": "SPEAKER_00",
+      "text": "market share for this 15 million, a 15 million of the products that we'll be able to sell."
+    },
+    {
+      "start": 1724.28,
+      "end": 1729.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And can you tell me the variable cost that's associated for the unit of the land run that"
+    },
+    {
+      "start": 1729.6399999999999,
+      "end": 1730.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "we are producing?"
+    },
+    {
+      "start": 1730.6399999999999,
+      "end": 1731.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Sure."
+    },
+    {
+      "start": 1731.6399999999999,
+      "end": 1740.2,
+      "speaker": "SPEAKER_01",
+      "text": "So we have some estimations and based on that our total variable cost is 90% of our selling"
+    },
+    {
+      "start": 1740.2,
+      "end": 1741.2,
+      "speaker": "SPEAKER_01",
+      "text": "price."
+    },
+    {
+      "start": 1741.2,
+      "end": 1746.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, it's 90%."
+    },
+    {
+      "start": 1746.3999999999999,
+      "end": 1748.6399999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And the selling price is 60, 6 thousand."
+    },
+    {
+      "start": 1748.6399999999999,
+      "end": 1750.16,
+      "speaker": "SPEAKER_00",
+      "text": "Six thousand of these years."
+    },
+    {
+      "start": 1750.16,
+      "end": 1751.16,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 1751.16,
+      "end": 1753.16,
+      "speaker": "SPEAKER_01",
+      "text": "And what is the fixed cost?"
+    },
+    {
+      "start": 1753.16,
+      "end": 1756.72,
+      "speaker": "SPEAKER_01",
+      "text": "Our fixed cost..."
+    },
+    {
+      "start": 1756.72,
+      "end": 1763.24,
+      "speaker": "SPEAKER_01",
+      "text": "We have an estimation of that but for the timing let's exclude that and compute our profits."
+    },
+    {
+      "start": 1763.24,
+      "end": 1770.8400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "So profit, profits are not easy equal to like the market share."
+    },
+    {
+      "start": 1770.8400000000001,
+      "end": 1778.6000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "Multiply by the cost minus the fixed cost variable cost."
+    },
+    {
+      "start": 1778.6,
+      "end": 1782.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So it's..."
+    },
+    {
+      "start": 1782.1599999999999,
+      "end": 1783.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "It's..."
+    },
+    {
+      "start": 1783.1599999999999,
+      "end": 1784.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "Oh yeah."
+    },
+    {
+      "start": 1784.1599999999999,
+      "end": 1791.32,
+      "speaker": "SPEAKER_00",
+      "text": "It's going to be 90% of the price."
+    },
+    {
+      "start": 1791.32,
+      "end": 1796.32,
+      "speaker": "UNKNOWN",
+      "text": "Alright."
+    },
+    {
+      "start": 1796.32,
+      "end": 1808.32,
+      "speaker": "SPEAKER_01",
+      "text": "So this looks good, Avinash."
+    },
+    {
+      "start": 1808.32,
+      "end": 1816.8,
+      "speaker": "SPEAKER_01",
+      "text": "Let's synthesize the case as of now and tell us what you found out so far."
+    },
+    {
+      "start": 1816.8,
+      "end": 1825.76,
+      "speaker": "SPEAKER_00",
+      "text": "So I found out that the market is not completely open for our product."
+    },
+    {
+      "start": 1825.76,
+      "end": 1833.08,
+      "speaker": "SPEAKER_00",
+      "text": "We can look forward to selling our products in the lower income families where they tend"
+    },
+    {
+      "start": 1833.08,
+      "end": 1835.36,
+      "speaker": "SPEAKER_00",
+      "text": "to use the product more."
+    },
+    {
+      "start": 1835.36,
+      "end": 1844.8,
+      "speaker": "SPEAKER_00",
+      "text": "And also the pricing options have to be altered according to the income range of the customer."
+    },
+    {
+      "start": 1844.8,
+      "end": 1851.68,
+      "speaker": "SPEAKER_00",
+      "text": "And for lower income families it's much better to price them over a period of two years"
+    },
+    {
+      "start": 1851.68,
+      "end": 1862.2,
+      "speaker": "SPEAKER_00",
+      "text": "as opposed to say as an up, like a large sum of amount at up front in the beginning."
+    },
+    {
+      "start": 1862.2,
+      "end": 1864.3999999999999,
+      "speaker": "SPEAKER_00",
+      "text": "And also like we..."
+    },
+    {
+      "start": 1864.3999999999999,
+      "end": 1869.36,
+      "speaker": "SPEAKER_00",
+      "text": "And then I found out that there are two major segments of rural population who would"
+    },
+    {
+      "start": 1869.36,
+      "end": 1871.52,
+      "speaker": "SPEAKER_00",
+      "text": "be interested in my my product."
+    },
+    {
+      "start": 1871.52,
+      "end": 1878.1599999999999,
+      "speaker": "SPEAKER_00",
+      "text": "One would be the people who are living off the grid or the ones that live in areas which"
+    },
+    {
+      "start": 1878.1599999999999,
+      "end": 1879.76,
+      "speaker": "SPEAKER_00",
+      "text": "are not electrified."
+    },
+    {
+      "start": 1879.76,
+      "end": 1885.9199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "And the other ones are the ones who live in areas which are electrified but do not receive"
+    },
+    {
+      "start": 1885.9199999999998,
+      "end": 1887.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "continuous supply of energy."
+    },
+    {
+      "start": 1887.7199999999998,
+      "end": 1888.7199999999998,
+      "speaker": "SPEAKER_00",
+      "text": "Alright."
+    },
+    {
+      "start": 1888.7199999999998,
+      "end": 1889.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So..."
+    },
+    {
+      "start": 1889.7199999999998,
+      "end": 1890.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Alright, that's great."
+    },
+    {
+      "start": 1890.7199999999998,
+      "end": 1891.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Thanks a lot Avinash."
+    },
+    {
+      "start": 1891.7199999999998,
+      "end": 1892.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "We'll let you know what happens."
+    },
+    {
+      "start": 1892.7199999999998,
+      "end": 1893.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    },
+    {
+      "start": 1893.7199999999998,
+      "end": 1897.1599999999999,
+      "speaker": "SPEAKER_01",
+      "text": "In conclusion, let's look at the learnings from this case."
+    },
+    {
+      "start": 1897.16,
+      "end": 1901.76,
+      "speaker": "SPEAKER_01",
+      "text": "In terms of positives, the candidate asked good preliminary questions regarding the goal"
+    },
+    {
+      "start": 1901.76,
+      "end": 1908.24,
+      "speaker": "SPEAKER_01",
+      "text": "of the market entry which part of the value chain is the client looking to enter etc."
+    },
+    {
+      "start": 1908.24,
+      "end": 1912.24,
+      "speaker": "SPEAKER_01",
+      "text": "He also explained his overall approach to solve the market entry by dividing it into two"
+    },
+    {
+      "start": 1912.24,
+      "end": 1917.8000000000002,
+      "speaker": "SPEAKER_01",
+      "text": "parts to estimate profits and then to decide what should be the operating model."
+    },
+    {
+      "start": 1917.8000000000002,
+      "end": 1920.88,
+      "speaker": "SPEAKER_01",
+      "text": "Let's now look at the areas of improvement for the candidate."
+    },
+    {
+      "start": 1920.88,
+      "end": 1926.2,
+      "speaker": "SPEAKER_01",
+      "text": "The estimation involved in the market sizing could have had a much better approach if the"
+    },
+    {
+      "start": 1926.2,
+      "end": 1930.64,
+      "speaker": "SPEAKER_01",
+      "text": "candidate would have thought out his entire structure before proceeding ahead and then"
+    },
+    {
+      "start": 1930.64,
+      "end": 1933.16,
+      "speaker": "SPEAKER_01",
+      "text": "make doing the calculations."
+    },
+    {
+      "start": 1933.16,
+      "end": 1937.76,
+      "speaker": "SPEAKER_01",
+      "text": "The candidate also made several calculation mistakes which have to be avoided during"
+    },
+    {
+      "start": 1937.76,
+      "end": 1939.44,
+      "speaker": "SPEAKER_01",
+      "text": "a case interview."
+    },
+    {
+      "start": 1939.44,
+      "end": 1944.44,
+      "speaker": "SPEAKER_01",
+      "text": "The candidate also lost considerable amount of time while doing the estimation which meant"
+    },
+    {
+      "start": 1944.44,
+      "end": 1946.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "he could not complete the case."
+    },
+    {
+      "start": 1946.3600000000001,
+      "end": 1952.3600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "If the candidate had a better structure to solve the estimation problem which was aligned"
+    },
+    {
+      "start": 1952.36,
+      "end": 1957.32,
+      "speaker": "SPEAKER_01",
+      "text": "with the interviewer beforehand, then he could have quickly gone through the calculations"
+    },
+    {
+      "start": 1957.32,
+      "end": 1958.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "and arrived at a final answer."
+    }
+  ],
+  "grading": {
+    "communication": 14,
+    "framework": 17,
+    "math": 16,
+    "case_difficulty": 13,
+    "final_summary": 15,
+    "overall_thoughts": "The math was a bit tricky but well-explained."
+  }
+}

@@ -1,0 +1,3026 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.48,
+    "speaker": "SPEAKER_01",
+    "text": "Hi, I'm Marguerran Los. I'm the founder of Case Coach."
+  },
+  {
+    "start": 3.48,
+    "end": 7.12,
+    "speaker": "SPEAKER_01",
+    "text": "I'm a former manager and interviewer with McKinsey."
+  },
+  {
+    "start": 7.12,
+    "end": 11.28,
+    "speaker": "SPEAKER_01",
+    "text": "In this video, I will be interviewed by Rob, another McKinsey alumnus."
+  },
+  {
+    "start": 11.28,
+    "end": 15.280000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "We'll be going through a case similar to the ones you'll be asked to solve"
+  },
+  {
+    "start": 15.280000000000001,
+    "end": 20.88,
+    "speaker": "SPEAKER_01",
+    "text": "in an interview at McKinsey, Bain, BCG, or another top consulting firm."
+  },
+  {
+    "start": 20.88,
+    "end": 25.12,
+    "speaker": "SPEAKER_01",
+    "text": "Rob will interrupt from time to time to share his feedback."
+  },
+  {
+    "start": 25.12,
+    "end": 26.88,
+    "speaker": "SPEAKER_01",
+    "text": "Let's get started."
+  },
+  {
+    "start": 26.959999999999997,
+    "end": 29.84,
+    "speaker": "SPEAKER_00",
+    "text": "That's all of my questions with regard to your background."
+  },
+  {
+    "start": 29.84,
+    "end": 32.64,
+    "speaker": "SPEAKER_00",
+    "text": "There'll be a bit of time at the end if you have questions for me as well."
+  },
+  {
+    "start": 32.64,
+    "end": 36.48,
+    "speaker": "SPEAKER_00",
+    "text": "But I thought it would be good to go into a case this stage and just try and solve"
+  },
+  {
+    "start": 36.48,
+    "end": 38.56,
+    "speaker": "SPEAKER_00",
+    "text": "a more business problem as it were."
+  },
+  {
+    "start": 38.56,
+    "end": 39.6,
+    "speaker": "SPEAKER_00",
+    "text": "Sounds good."
+  },
+  {
+    "start": 39.6,
+    "end": 43.519999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "So with this one, let me give you an overview of the client and the problem"
+  },
+  {
+    "start": 43.519999999999996,
+    "end": 44.56,
+    "speaker": "SPEAKER_00",
+    "text": "before we get started."
+  },
+  {
+    "start": 44.56,
+    "end": 47.519999999999996,
+    "speaker": "SPEAKER_00",
+    "text": "With this one, our client is a company called FlashFash."
+  },
+  {
+    "start": 47.519999999999996,
+    "end": 48.16,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 48.16,
+    "end": 54.56,
+    "speaker": "SPEAKER_00",
+    "text": "There are US multinational parallel company with revenue of around $25 billion."
+  },
+  {
+    "start": 54.56,
+    "end": 56.56,
+    "speaker": "SPEAKER_00",
+    "text": "It's $25 billion."
+  },
+  {
+    "start": 56.56,
+    "end": 58.080000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "It's $25 billion."
+  },
+  {
+    "start": 58.080000000000005,
+    "end": 61.6,
+    "speaker": "SPEAKER_00",
+    "text": "They own some of the best-known mid-market brands in North America and the West."
+  },
+  {
+    "start": 61.6,
+    "end": 66.32000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Generally, they sell 70% of their products through their own network of corporate"
+  },
+  {
+    "start": 66.32000000000001,
+    "end": 67.32000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "own stores."
+  },
+  {
+    "start": 67.32000000000001,
+    "end": 68.32000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 68.32000000000001,
+    "end": 69.32000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Their own stores, basically."
+  },
+  {
+    "start": 69.32000000000001,
+    "end": 71.84,
+    "speaker": "SPEAKER_00",
+    "text": "Then the remaining 30% they sell through multi-brand retailers."
+  },
+  {
+    "start": 71.84,
+    "end": 72.84,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 72.84,
+    "end": 77.2,
+    "speaker": "SPEAKER_00",
+    "text": "So to be like a gap or a thorough hour, exactly that kind of style."
+  },
+  {
+    "start": 77.2,
+    "end": 80.96000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "But in addition to what I described, they operate a relatively distinctive business model,"
+  },
+  {
+    "start": 80.96,
+    "end": 85.28,
+    "speaker": "SPEAKER_00",
+    "text": "where instead of committing large percentages of their volume up front ahead of the season"
+  },
+  {
+    "start": 85.28,
+    "end": 90.72,
+    "speaker": "SPEAKER_00",
+    "text": "for production, they commit a small amount and then use customer feedback and their relatively"
+  },
+  {
+    "start": 90.72,
+    "end": 96.55999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "flexible production processes to then ramp up products and replenish stores weekly in response"
+  },
+  {
+    "start": 96.55999999999999,
+    "end": 97.96,
+    "speaker": "SPEAKER_00",
+    "text": "to what they see happening in the market."
+  },
+  {
+    "start": 97.96,
+    "end": 98.96,
+    "speaker": "SPEAKER_00",
+    "text": "So they're super fast."
+  },
+  {
+    "start": 98.96,
+    "end": 99.96,
+    "speaker": "SPEAKER_00",
+    "text": "They're super fast."
+  },
+  {
+    "start": 99.96,
+    "end": 103.28,
+    "speaker": "SPEAKER_00",
+    "text": "Actually, it only takes 15 days for them to go from design to production."
+  },
+  {
+    "start": 103.28,
+    "end": 104.28,
+    "speaker": "SPEAKER_00",
+    "text": "Oh, wow."
+  },
+  {
+    "start": 104.28,
+    "end": 108.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so they can observe what's happening with customer feedback and then respond to them."
+  },
+  {
+    "start": 108.72,
+    "end": 113.48,
+    "speaker": "SPEAKER_00",
+    "text": "As part of this client's growth strategy, flash-fash are considering the acquisition of"
+  },
+  {
+    "start": 113.48,
+    "end": 114.76,
+    "speaker": "SPEAKER_00",
+    "text": "a company called Lamote."
+  },
+  {
+    "start": 114.76,
+    "end": 115.76,
+    "speaker": "SPEAKER_00",
+    "text": "Yep."
+  },
+  {
+    "start": 115.76,
+    "end": 120.24,
+    "speaker": "SPEAKER_00",
+    "text": "Now, Lamote are the leading independent retailer of luxury brands online and they account"
+  },
+  {
+    "start": 120.24,
+    "end": 124.24000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "for around 3% of all online apparel sales in North America."
+  },
+  {
+    "start": 124.24000000000001,
+    "end": 125.24000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Sorry."
+  },
+  {
+    "start": 125.24000000000001,
+    "end": 131.16,
+    "speaker": "SPEAKER_01",
+    "text": "3% of online apparel sales in North America."
+  },
+  {
+    "start": 131.16,
+    "end": 132.16,
+    "speaker": "SPEAKER_01",
+    "text": "That's right."
+  },
+  {
+    "start": 132.16,
+    "end": 133.48,
+    "speaker": "SPEAKER_01",
+    "text": "And you say they're in independence?"
+  },
+  {
+    "start": 133.48,
+    "end": 134.48,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 134.48,
+    "end": 136.36,
+    "speaker": "SPEAKER_01",
+    "text": "So they're an independent retailer of luxury fashion."
+  },
+  {
+    "start": 136.36,
+    "end": 138.04000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So they're not, it's not their own brand."
+  },
+  {
+    "start": 138.04000000000002,
+    "end": 139.92000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "They're basically selling other people's brand."
+  },
+  {
+    "start": 139.92000000000002,
+    "end": 143.92000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "Mostly, although they have recently launched their own brand, which comprises around 5%"
+  },
+  {
+    "start": 143.92000000000002,
+    "end": 145.32000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "of their revenue."
+  },
+  {
+    "start": 145.32000000000002,
+    "end": 149.76000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "But their model is in addition to being a luxury player, they operate a curation model."
+  },
+  {
+    "start": 149.76000000000002,
+    "end": 154.04000000000002,
+    "speaker": "SPEAKER_00",
+    "text": "So they curate products from the best brands they can find and then presented large collection"
+  },
+  {
+    "start": 154.04000000000002,
+    "end": 157.84,
+    "speaker": "SPEAKER_00",
+    "text": "of around 30,000 items, all kind of in that luxury high in second."
+  },
+  {
+    "start": 157.84,
+    "end": 158.84,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 158.84,
+    "end": 163.76000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So basically flash-fash is more mean market at, but Lamote is really top-end."
+  },
+  {
+    "start": 163.76000000000002,
+    "end": 164.76000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "That's right."
+  },
+  {
+    "start": 164.76,
+    "end": 167.56,
+    "speaker": "SPEAKER_01",
+    "text": "You know, $1,000 and bag and that's kind of thing."
+  },
+  {
+    "start": 167.56,
+    "end": 169.56,
+    "speaker": "SPEAKER_01",
+    "text": "That's exactly, I mean, for, I guess, close."
+  },
+  {
+    "start": 169.56,
+    "end": 170.56,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, yes."
+  },
+  {
+    "start": 170.56,
+    "end": 171.56,
+    "speaker": "SPEAKER_00",
+    "text": "That's men and women."
+  },
+  {
+    "start": 171.56,
+    "end": 173.64,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, both men's wear and women's wear."
+  },
+  {
+    "start": 173.64,
+    "end": 176.95999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "And so flash-fash have just asked us whether they should acquire Lamote."
+  },
+  {
+    "start": 176.95999999999998,
+    "end": 177.95999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 177.95999999999998,
+    "end": 182.32,
+    "speaker": "SPEAKER_01",
+    "text": "Sounds good."
+  },
+  {
+    "start": 182.32,
+    "end": 186.79999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "And so that's really the question, should we go or should we acquire it or not this business?"
+  },
+  {
+    "start": 186.79999999999998,
+    "end": 187.79999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "That's right."
+  },
+  {
+    "start": 187.79999999999998,
+    "end": 190.23999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "And do you know why they would like to acquire it?"
+  },
+  {
+    "start": 190.23999999999998,
+    "end": 192.28,
+    "speaker": "SPEAKER_01",
+    "text": "Is it, you know, what's the IT behind it?"
+  },
+  {
+    "start": 192.28,
+    "end": 194.84,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, so they have a growth strategy right now."
+  },
+  {
+    "start": 194.84,
+    "end": 196.12,
+    "speaker": "SPEAKER_00",
+    "text": "They're obviously a reasonably large player."
+  },
+  {
+    "start": 196.12,
+    "end": 197.12,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 197.12,
+    "end": 199.12,
+    "speaker": "SPEAKER_00",
+    "text": "They're looking to grow to a larger scale."
+  },
+  {
+    "start": 199.12,
+    "end": 200.12,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 200.12,
+    "end": 204.52,
+    "speaker": "SPEAKER_00",
+    "text": "They're looking basically for long-term sustainable profits and returns to shareholders."
+  },
+  {
+    "start": 204.52,
+    "end": 205.52,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 205.52,
+    "end": 207.72,
+    "speaker": "SPEAKER_00",
+    "text": "And they see acquisitions as one potentially before that."
+  },
+  {
+    "start": 207.72,
+    "end": 209.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 209.04,
+    "end": 213.04,
+    "speaker": "SPEAKER_01",
+    "text": "So they feel like, I mean, they're a more traditional business, probably not going as fast"
+  },
+  {
+    "start": 213.04,
+    "end": 217.84,
+    "speaker": "SPEAKER_01",
+    "text": "as Lamote and that could be a way to, to, to, to accelerate their growth."
+  },
+  {
+    "start": 217.84,
+    "end": 218.84,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 218.84,
+    "end": 219.84,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 219.84,
+    "end": 220.64,
+    "speaker": "SPEAKER_01",
+    "text": "That's exactly it makes sense."
+  },
+  {
+    "start": 220.64,
+    "end": 224.0,
+    "speaker": "SPEAKER_01",
+    "text": "And do they want us to look at alternatives or should we just focus on this business?"
+  },
+  {
+    "start": 224.0,
+    "end": 225.2,
+    "speaker": "SPEAKER_01",
+    "text": "We should just focus on this business."
+  },
+  {
+    "start": 225.2,
+    "end": 226.2,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 226.2,
+    "end": 228.39999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Do you mind if I take a few seconds to put myself on paper?"
+  },
+  {
+    "start": 228.39999999999998,
+    "end": 229.39999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Absolutely."
+  },
+  {
+    "start": 229.39999999999998,
+    "end": 231.04,
+    "speaker": "SPEAKER_00",
+    "text": "Take your time."
+  },
+  {
+    "start": 231.04,
+    "end": 234.32,
+    "speaker": "SPEAKER_00",
+    "text": "There are a couple of good things about this opening to the case."
+  },
+  {
+    "start": 234.32,
+    "end": 238.44,
+    "speaker": "SPEAKER_00",
+    "text": "First, you'll notice how the candidates done a good job to really clearly specify the"
+  },
+  {
+    "start": 238.44,
+    "end": 239.44,
+    "speaker": "SPEAKER_00",
+    "text": "problem."
+  },
+  {
+    "start": 239.44,
+    "end": 243.72,
+    "speaker": "SPEAKER_00",
+    "text": "He's not just determined that the candidate is considering an acquisition."
+  },
+  {
+    "start": 243.72,
+    "end": 245.79999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "He's asked why they're considering it."
+  },
+  {
+    "start": 245.79999999999998,
+    "end": 250.11999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "He's asked whether this is a binary decision or whether we are looking at other acquisitions"
+  },
+  {
+    "start": 250.12,
+    "end": 251.12,
+    "speaker": "SPEAKER_00",
+    "text": "as part of this."
+  },
+  {
+    "start": 251.12,
+    "end": 255.88,
+    "speaker": "SPEAKER_00",
+    "text": "So he's taken a lot of care to really clearly specify and understand what the problem is."
+  },
+  {
+    "start": 255.88,
+    "end": 259.48,
+    "speaker": "SPEAKER_00",
+    "text": "Second, notice how right off the bat he's driving the thinking."
+  },
+  {
+    "start": 259.48,
+    "end": 262.12,
+    "speaker": "SPEAKER_00",
+    "text": "He's suggesting particular hypotheses."
+  },
+  {
+    "start": 262.12,
+    "end": 263.12,
+    "speaker": "SPEAKER_00",
+    "text": "He's making assumptions."
+  },
+  {
+    "start": 263.12,
+    "end": 264.12,
+    "speaker": "SPEAKER_00",
+    "text": "He's asking questions."
+  },
+  {
+    "start": 264.12,
+    "end": 265.12,
+    "speaker": "SPEAKER_00",
+    "text": "He's probing."
+  },
+  {
+    "start": 265.12,
+    "end": 267.92,
+    "speaker": "SPEAKER_00",
+    "text": "So right from the start, he's leading the thinking."
+  },
+  {
+    "start": 267.92,
+    "end": 273.32,
+    "speaker": "SPEAKER_00",
+    "text": "He's showing good case leadership and good drive to try and solve this problem."
+  },
+  {
+    "start": 273.32,
+    "end": 274.32,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 274.32,
+    "end": 275.32,
+    "speaker": "UNKNOWN",
+    "text": "All right."
+  },
+  {
+    "start": 275.32,
+    "end": 276.32,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 276.32,
+    "end": 284.15999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "So basically, you want us to figure out whether FlashFash should acquire Lamode."
+  },
+  {
+    "start": 284.15999999999997,
+    "end": 285.15999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 285.15999999999997,
+    "end": 287.8,
+    "speaker": "SPEAKER_01",
+    "text": "There are three areas that we'd like to look at."
+  },
+  {
+    "start": 287.8,
+    "end": 293.08,
+    "speaker": "SPEAKER_01",
+    "text": "First one is I would like to understand Lamode as a business and its standalone value."
+  },
+  {
+    "start": 293.08,
+    "end": 302.12,
+    "speaker": "SPEAKER_01",
+    "text": "So is it an attractive company in general without any link to us?"
+  },
+  {
+    "start": 302.12,
+    "end": 303.12,
+    "speaker": "SPEAKER_01",
+    "text": "Yes, we figured that out."
+  },
+  {
+    "start": 303.12,
+    "end": 306.4,
+    "speaker": "SPEAKER_01",
+    "text": "Look at synergies because we combine those two business."
+  },
+  {
+    "start": 306.4,
+    "end": 310.12,
+    "speaker": "SPEAKER_01",
+    "text": "Can we do more than just add in them up?"
+  },
+  {
+    "start": 310.12,
+    "end": 311.36,
+    "speaker": "SPEAKER_01",
+    "text": "And finally, our capabilities."
+  },
+  {
+    "start": 311.36,
+    "end": 314.32,
+    "speaker": "SPEAKER_01",
+    "text": "Are we able to integrate those two business?"
+  },
+  {
+    "start": 314.32,
+    "end": 318.76,
+    "speaker": "SPEAKER_01",
+    "text": "Do we have the skills, the money, etc.?"
+  },
+  {
+    "start": 318.76,
+    "end": 324.72,
+    "speaker": "SPEAKER_01",
+    "text": "If I go to the value of Lamode as a business, I think the one question is what's the market"
+  },
+  {
+    "start": 324.72,
+    "end": 334.32000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "growth of this kind of online, apparel, luxury market?"
+  },
+  {
+    "start": 334.32000000000005,
+    "end": 341.64000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "I would assume that there's probably a lot of growth in Asia where emerging countries"
+  },
+  {
+    "start": 341.64000000000004,
+    "end": 346.96000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "where you have a bigger middle class that can afford those type of clothes."
+  },
+  {
+    "start": 346.96000000000004,
+    "end": 350.44000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "So I'd like to check that."
+  },
+  {
+    "start": 351.44,
+    "end": 355.12,
+    "speaker": "SPEAKER_01",
+    "text": "And once we've done that, I also want to understand whether that business model is a winning"
+  },
+  {
+    "start": 355.12,
+    "end": 356.12,
+    "speaker": "SPEAKER_01",
+    "text": "business model."
+  },
+  {
+    "start": 356.12,
+    "end": 362.72,
+    "speaker": "SPEAKER_01",
+    "text": "Is the company equipped to maintain or grow its share over time?"
+  },
+  {
+    "start": 362.72,
+    "end": 367.52,
+    "speaker": "SPEAKER_01",
+    "text": "Is it going to face competition from the online stores of the luxury retailers?"
+  },
+  {
+    "start": 367.52,
+    "end": 370.76,
+    "speaker": "SPEAKER_01",
+    "text": "Is Chanel and all these others?"
+  },
+  {
+    "start": 370.76,
+    "end": 376.96,
+    "speaker": "SPEAKER_01",
+    "text": "Are they going to distribute directly online rather than going through people like Lamode?"
+  },
+  {
+    "start": 376.96,
+    "end": 380.12,
+    "speaker": "SPEAKER_01",
+    "text": "I think that's an important question."
+  },
+  {
+    "start": 380.12,
+    "end": 386.92,
+    "speaker": "SPEAKER_01",
+    "text": "If we figure out that there's something here and the value of the business is below"
+  },
+  {
+    "start": 386.92,
+    "end": 390.32,
+    "speaker": "SPEAKER_01",
+    "text": "what it could get to given the growth of the market and their positioning, then that's"
+  },
+  {
+    "start": 390.32,
+    "end": 392.16,
+    "speaker": "SPEAKER_01",
+    "text": "interesting."
+  },
+  {
+    "start": 392.16,
+    "end": 395.32,
+    "speaker": "SPEAKER_01",
+    "text": "But we'd want to look after that to the synergies, as I said."
+  },
+  {
+    "start": 395.32,
+    "end": 398.0,
+    "speaker": "SPEAKER_01",
+    "text": "What do you have in mind for synergies?"
+  },
+  {
+    "start": 398.0,
+    "end": 402.92,
+    "speaker": "SPEAKER_01",
+    "text": "Well, we want to understand whether if we combine the business, can we accelerate our growth?"
+  },
+  {
+    "start": 402.92,
+    "end": 409.6,
+    "speaker": "SPEAKER_01",
+    "text": "For instance, maybe we can sell our products to their websites and their brand and maybe"
+  },
+  {
+    "start": 409.6,
+    "end": 413.08000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "that will help us grow our core business."
+  },
+  {
+    "start": 413.08000000000004,
+    "end": 417.32000000000005,
+    "speaker": "SPEAKER_01",
+    "text": "I have to say I'm a little skeptical about this because they have a luxury positioning."
+  },
+  {
+    "start": 417.32000000000005,
+    "end": 421.24,
+    "speaker": "SPEAKER_01",
+    "text": "We have a mid-market positioning, so I'm not sure there's synergies there."
+  },
+  {
+    "start": 421.24,
+    "end": 427.40000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "There could be some synergies in time of cost because I'm sure we will have some overlapping"
+  },
+  {
+    "start": 427.40000000000003,
+    "end": 428.40000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "footprint."
+  },
+  {
+    "start": 428.40000000000003,
+    "end": 436.52000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "So I would think, for instance, our online operations, logistics, delivery, customer service, maybe"
+  },
+  {
+    "start": 436.52,
+    "end": 440.44,
+    "speaker": "SPEAKER_01",
+    "text": "there is a way to combine those and decrease our cost."
+  },
+  {
+    "start": 440.44,
+    "end": 444.56,
+    "speaker": "SPEAKER_01",
+    "text": "So I would look in the depths of the synergies, both in cost and revenue."
+  },
+  {
+    "start": 444.56,
+    "end": 452.4,
+    "speaker": "SPEAKER_01",
+    "text": "And capabilities, here I mentioned a few ideas before, around our skills and our know-how."
+  },
+  {
+    "start": 452.4,
+    "end": 456.56,
+    "speaker": "SPEAKER_01",
+    "text": "Obviously, it looks like our know-how flash flash is really about being super quick at"
+  },
+  {
+    "start": 456.56,
+    "end": 457.76,
+    "speaker": "SPEAKER_01",
+    "text": "manufacturing new styles."
+  },
+  {
+    "start": 457.76,
+    "end": 458.76,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 458.76,
+    "end": 463.59999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "Not sure to what extent that would be helpful to the mod."
+  },
+  {
+    "start": 463.6,
+    "end": 466.6,
+    "speaker": "SPEAKER_01",
+    "text": "I'm not sure we're leveraging our core capability with it."
+  },
+  {
+    "start": 466.6,
+    "end": 467.6,
+    "speaker": "SPEAKER_00",
+    "text": "OK, make sense."
+  },
+  {
+    "start": 467.6,
+    "end": 470.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "I think there's all sound like reasonable areas to explore."
+  },
+  {
+    "start": 470.40000000000003,
+    "end": 474.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Here the candidates performing very well on each of the dimensions that we recommend."
+  },
+  {
+    "start": 474.40000000000003,
+    "end": 477.68,
+    "speaker": "SPEAKER_00",
+    "text": "We've already talked about how he's identified the problem very well."
+  },
+  {
+    "start": 477.68,
+    "end": 484.08000000000004,
+    "speaker": "SPEAKER_00",
+    "text": "But if we look at the other elements, he's divided this problem neatly into three categories."
+  },
+  {
+    "start": 484.08000000000004,
+    "end": 485.76000000000005,
+    "speaker": "SPEAKER_00",
+    "text": "These are mutually exclusive."
+  },
+  {
+    "start": 485.76000000000005,
+    "end": 488.68,
+    "speaker": "SPEAKER_00",
+    "text": "You can solve for one of them without overlapping with the others."
+  },
+  {
+    "start": 488.68,
+    "end": 492.40000000000003,
+    "speaker": "SPEAKER_00",
+    "text": "Obviously, this is a very effective way to go about solving the problem."
+  },
+  {
+    "start": 492.4,
+    "end": 496.44,
+    "speaker": "SPEAKER_00",
+    "text": "Next, he's encompassed all of the core factors that could be important here."
+  },
+  {
+    "start": 496.44,
+    "end": 501.52,
+    "speaker": "SPEAKER_00",
+    "text": "He's talked about everything from synergies to standalone value to capabilities."
+  },
+  {
+    "start": 501.52,
+    "end": 505.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "He's already specified that for this problem, we're not looking at opportunity cost of"
+  },
+  {
+    "start": 505.59999999999997,
+    "end": 507.0,
+    "speaker": "SPEAKER_00",
+    "text": "other acquisition options."
+  },
+  {
+    "start": 507.0,
+    "end": 511.59999999999997,
+    "speaker": "SPEAKER_00",
+    "text": "So really, he's captured pretty much everything you'd need to solve a problem at this time."
+  },
+  {
+    "start": 511.59999999999997,
+    "end": 514.64,
+    "speaker": "SPEAKER_00",
+    "text": "Then he's adapted his structure to the situation."
+  },
+  {
+    "start": 514.64,
+    "end": 519.64,
+    "speaker": "SPEAKER_00",
+    "text": "In some respects, this is a relatively standard framework for solving M&A questions."
+  },
+  {
+    "start": 519.64,
+    "end": 524.36,
+    "speaker": "SPEAKER_00",
+    "text": "But he's adapted it well by suggesting, for example, specific cost synergy options,"
+  },
+  {
+    "start": 524.36,
+    "end": 528.56,
+    "speaker": "SPEAKER_00",
+    "text": "such as logistics, which would be important for any commerce player of this type."
+  },
+  {
+    "start": 528.56,
+    "end": 532.76,
+    "speaker": "SPEAKER_00",
+    "text": "Then lastly, he's begun to suggest specific insights and ideas."
+  },
+  {
+    "start": 532.76,
+    "end": 537.24,
+    "speaker": "SPEAKER_00",
+    "text": "Within each of his buckets, he's got sub-elements, sub-drivers, and even specific thoughts"
+  },
+  {
+    "start": 537.24,
+    "end": 542.04,
+    "speaker": "SPEAKER_00",
+    "text": "and suggestions, which can initially signpost his thinking even at this stage."
+  },
+  {
+    "start": 542.04,
+    "end": 546.28,
+    "speaker": "SPEAKER_00",
+    "text": "And as with the introduction to the case, he's again showing his strong case leadership"
+  },
+  {
+    "start": 546.28,
+    "end": 551.0799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "in beginning to suggest thoughts and ideas and suggestions of his own at this stage."
+  },
+  {
+    "start": 551.0799999999999,
+    "end": 554.88,
+    "speaker": "SPEAKER_00",
+    "text": "Let's maybe start with one of the areas you touched upon in passing."
+  },
+  {
+    "start": 554.88,
+    "end": 558.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "I think you mentioned Asia as a potential area to look at."
+  },
+  {
+    "start": 558.4399999999999,
+    "end": 561.68,
+    "speaker": "SPEAKER_00",
+    "text": "And this is something that we've been interested to explore as well."
+  },
+  {
+    "start": 561.68,
+    "end": 566.12,
+    "speaker": "SPEAKER_00",
+    "text": "Now, the client believes that there's an opportunity for Le Maud to realize a third of its global"
+  },
+  {
+    "start": 566.12,
+    "end": 569.88,
+    "speaker": "SPEAKER_00",
+    "text": "sales in Asia within five years."
+  },
+  {
+    "start": 569.88,
+    "end": 575.48,
+    "speaker": "SPEAKER_01",
+    "text": "They believe this partly because, excuse me, a third of Le Maud's sales would come from"
+  },
+  {
+    "start": 575.48,
+    "end": 577.6,
+    "speaker": "SPEAKER_01",
+    "text": "Asia."
+  },
+  {
+    "start": 577.6,
+    "end": 580.28,
+    "speaker": "SPEAKER_00",
+    "text": "That's the client's belief, or at least their initial hypothesis."
+  },
+  {
+    "start": 580.28,
+    "end": 581.28,
+    "speaker": "SPEAKER_00",
+    "text": "In five years."
+  },
+  {
+    "start": 581.28,
+    "end": 582.28,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 582.28,
+    "end": 585.28,
+    "speaker": "SPEAKER_00",
+    "text": "Now, that sounds like an aggressive number, but the reason they believe that is partly because"
+  },
+  {
+    "start": 585.28,
+    "end": 591.04,
+    "speaker": "SPEAKER_00",
+    "text": "of the growth rate of online apparel in Asia, where the overall apparel market is expected"
+  },
+  {
+    "start": 591.04,
+    "end": 593.16,
+    "speaker": "SPEAKER_00",
+    "text": "to double in this timeframe."
+  },
+  {
+    "start": 593.16,
+    "end": 596.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And at the same time, the share of purchases made online is expected to triple."
+  },
+  {
+    "start": 596.5600000000001,
+    "end": 599.52,
+    "speaker": "SPEAKER_00",
+    "text": "So really, it's a relatively fast growth rate."
+  },
+  {
+    "start": 599.52,
+    "end": 606.72,
+    "speaker": "SPEAKER_01",
+    "text": "So that means that the online apparel market in Asia should be multiplied by six or five"
+  },
+  {
+    "start": 606.72,
+    "end": 607.72,
+    "speaker": "SPEAKER_00",
+    "text": "years."
+  },
+  {
+    "start": 607.72,
+    "end": 608.72,
+    "speaker": "SPEAKER_00",
+    "text": "Exactly."
+  },
+  {
+    "start": 608.72,
+    "end": 613.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so the question for us is simply, what share of the Asia online apparel market Le Maud"
+  },
+  {
+    "start": 613.0,
+    "end": 616.16,
+    "speaker": "SPEAKER_00",
+    "text": "would need to reach in order to capture this opportunity?"
+  },
+  {
+    "start": 616.16,
+    "end": 617.92,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 617.92,
+    "end": 619.72,
+    "speaker": "SPEAKER_01",
+    "text": "That makes sense."
+  },
+  {
+    "start": 619.72,
+    "end": 627.4,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so I think if I want to find out our share of the Asia online apparel market in"
+  },
+  {
+    "start": 627.4,
+    "end": 635.76,
+    "speaker": "SPEAKER_01",
+    "text": "five years, that means I need to have our sales in Asia in five years."
+  },
+  {
+    "start": 635.76,
+    "end": 642.24,
+    "speaker": "SPEAKER_01",
+    "text": "And the size of the market in Asia in five years."
+  },
+  {
+    "start": 642.24,
+    "end": 654.4,
+    "speaker": "SPEAKER_01",
+    "text": "Which we already know that number is six times the size of the market in Asia now."
+  },
+  {
+    "start": 654.4,
+    "end": 660.0799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So I think we need a few more elements here."
+  },
+  {
+    "start": 660.0799999999999,
+    "end": 664.92,
+    "speaker": "SPEAKER_01",
+    "text": "First do we have an idea of the sales that we would achieve?"
+  },
+  {
+    "start": 664.92,
+    "end": 668.48,
+    "speaker": "SPEAKER_00",
+    "text": "Right, so we know that at the moment Le Maud is at around two billion."
+  },
+  {
+    "start": 668.48,
+    "end": 672.4399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "We believe in this time period they can be expected to triple."
+  },
+  {
+    "start": 672.4399999999999,
+    "end": 673.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 673.4399999999999,
+    "end": 679.8,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so basically two billion now multiplied by three and then divided by three to get"
+  },
+  {
+    "start": 679.8,
+    "end": 680.8,
+    "speaker": "SPEAKER_01",
+    "text": "the Asia share."
+  },
+  {
+    "start": 680.8,
+    "end": 684.36,
+    "speaker": "SPEAKER_01",
+    "text": "So that's two billion, follow-up mood."
+  },
+  {
+    "start": 684.36,
+    "end": 687.96,
+    "speaker": "SPEAKER_01",
+    "text": "And do you have an idea of the size of the market in Asia now?"
+  },
+  {
+    "start": 687.96,
+    "end": 689.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "We do, it's eight billion."
+  },
+  {
+    "start": 689.6800000000001,
+    "end": 691.36,
+    "speaker": "SPEAKER_01",
+    "text": "It's eight billion."
+  },
+  {
+    "start": 691.36,
+    "end": 696.92,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, six billion today, sorry, eight billion multiplied by six."
+  },
+  {
+    "start": 696.92,
+    "end": 700.04,
+    "speaker": "SPEAKER_01",
+    "text": "That will be our market size in five years."
+  },
+  {
+    "start": 700.04,
+    "end": 703.6,
+    "speaker": "SPEAKER_01",
+    "text": "So I put two billion of it this."
+  },
+  {
+    "start": 703.6,
+    "end": 709.76,
+    "speaker": "SPEAKER_01",
+    "text": "So that's going to be two billion billion."
+  },
+  {
+    "start": 709.76,
+    "end": 718.56,
+    "speaker": "SPEAKER_01",
+    "text": "That's going to be one out of 24, which is going to be 4.2%."
+  },
+  {
+    "start": 718.56,
+    "end": 726.24,
+    "speaker": "SPEAKER_01",
+    "text": "So that means that we would need to have a 4.2% share of the Asia online market in five"
+  },
+  {
+    "start": 726.24,
+    "end": 727.24,
+    "speaker": "SPEAKER_01",
+    "text": "years."
+  },
+  {
+    "start": 727.24,
+    "end": 728.24,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 728.24,
+    "end": 729.24,
+    "speaker": "SPEAKER_00",
+    "text": "Sounds aggressive, no?"
+  },
+  {
+    "start": 729.24,
+    "end": 736.72,
+    "speaker": "SPEAKER_01",
+    "text": "Well yeah, because I think you said we had three percent of the online apparel market"
+  },
+  {
+    "start": 736.72,
+    "end": 738.76,
+    "speaker": "SPEAKER_01",
+    "text": "in the US right now."
+  },
+  {
+    "start": 738.76,
+    "end": 741.6,
+    "speaker": "SPEAKER_01",
+    "text": "And it looks like this is our call market."
+  },
+  {
+    "start": 741.6,
+    "end": 746.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So it means not only we're going to have to go into Asia, which is not our call market"
+  },
+  {
+    "start": 746.1600000000001,
+    "end": 750.52,
+    "speaker": "SPEAKER_01",
+    "text": "and take shares that are where above what we currently have in our market."
+  },
+  {
+    "start": 750.52,
+    "end": 755.74,
+    "speaker": "SPEAKER_01",
+    "text": "So again, I would be curious to see how we're going to achieve this because that sounds"
+  },
+  {
+    "start": 755.74,
+    "end": 756.74,
+    "speaker": "SPEAKER_01",
+    "text": "extremely ambitious."
+  },
+  {
+    "start": 756.74,
+    "end": 758.52,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, no, I mean great."
+  },
+  {
+    "start": 758.52,
+    "end": 762.24,
+    "speaker": "SPEAKER_00",
+    "text": "It sounds somewhat aspirational on the face of it."
+  },
+  {
+    "start": 762.24,
+    "end": 766.24,
+    "speaker": "SPEAKER_00",
+    "text": "This is on the whole a very strong quantitative section of the interview."
+  },
+  {
+    "start": 766.24,
+    "end": 769.96,
+    "speaker": "SPEAKER_00",
+    "text": "Now of course the candidates computed the numbers quickly and proficiently, but there"
+  },
+  {
+    "start": 769.96,
+    "end": 772.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "are many other things he's done quite well here."
+  },
+  {
+    "start": 772.6800000000001,
+    "end": 777.48,
+    "speaker": "SPEAKER_00",
+    "text": "Notice how he opened the section by describing what he's going to calculate and how he's"
+  },
+  {
+    "start": 777.48,
+    "end": 778.88,
+    "speaker": "SPEAKER_00",
+    "text": "going to calculate it."
+  },
+  {
+    "start": 778.88,
+    "end": 782.2,
+    "speaker": "SPEAKER_00",
+    "text": "By laying out the approach first, he's able to show structure."
+  },
+  {
+    "start": 782.2,
+    "end": 785.52,
+    "speaker": "SPEAKER_00",
+    "text": "He's also able to allow the interviewer to engage and intervene."
+  },
+  {
+    "start": 785.52,
+    "end": 788.8,
+    "speaker": "SPEAKER_00",
+    "text": "If perhaps the structure he's setting up is not the right one."
+  },
+  {
+    "start": 788.8,
+    "end": 792.72,
+    "speaker": "SPEAKER_00",
+    "text": "Next notice how he sanity checks his numbers as he's going through."
+  },
+  {
+    "start": 792.72,
+    "end": 796.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "He's testing them to see if they make sense, whether intuitively they feel right."
+  },
+  {
+    "start": 796.8000000000001,
+    "end": 800.0400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So he can minimize the risk of any errors coming through."
+  },
+  {
+    "start": 800.0400000000001,
+    "end": 804.08,
+    "speaker": "SPEAKER_00",
+    "text": "Last notice how he describes not just what the answer is, but what it means."
+  },
+  {
+    "start": 804.08,
+    "end": 806.36,
+    "speaker": "SPEAKER_00",
+    "text": "He thinks this answer is aggressive."
+  },
+  {
+    "start": 806.36,
+    "end": 811.32,
+    "speaker": "SPEAKER_00",
+    "text": "And he connects that to particular information he's gleaned from earlier on in the interview."
+  },
+  {
+    "start": 811.32,
+    "end": 815.9200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Stylistically notice how it's also very open and conversational."
+  },
+  {
+    "start": 815.9200000000001,
+    "end": 820.0,
+    "speaker": "SPEAKER_00",
+    "text": "It's tempting in these sections of the interviews to go away, calculate numbers, and then come"
+  },
+  {
+    "start": 820.0,
+    "end": 821.0,
+    "speaker": "SPEAKER_00",
+    "text": "back."
+  },
+  {
+    "start": 821.0,
+    "end": 825.8,
+    "speaker": "SPEAKER_00",
+    "text": "And whilst being equal, you want to be doing your calculations visibly and out loud."
+  },
+  {
+    "start": 825.8,
+    "end": 828.52,
+    "speaker": "SPEAKER_00",
+    "text": "This allows your interviewer to see what you're doing."
+  },
+  {
+    "start": 828.52,
+    "end": 832.68,
+    "speaker": "SPEAKER_00",
+    "text": "And if nothing else, it allows them to jump in and correct you if perhaps you might be making"
+  },
+  {
+    "start": 832.68,
+    "end": 836.12,
+    "speaker": "SPEAKER_00",
+    "text": "a mistake, which otherwise you would only announce at the end."
+  },
+  {
+    "start": 836.12,
+    "end": 839.64,
+    "speaker": "SPEAKER_00",
+    "text": "So it's quite a useful style and it's effective in this instance."
+  },
+  {
+    "start": 839.64,
+    "end": 841.64,
+    "speaker": "SPEAKER_00",
+    "text": "OK, let's move on."
+  },
+  {
+    "start": 841.64,
+    "end": 845.04,
+    "speaker": "SPEAKER_00",
+    "text": "So you touched upon a couple of other elements of your structure."
+  },
+  {
+    "start": 845.04,
+    "end": 848.2,
+    "speaker": "SPEAKER_00",
+    "text": "And I think one aspect that's interesting to look at is synergies."
+  },
+  {
+    "start": 848.2,
+    "end": 849.2,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, sure."
+  },
+  {
+    "start": 849.2,
+    "end": 851.2,
+    "speaker": "SPEAKER_00",
+    "text": "There's a reasonable amount of data on this."
+  },
+  {
+    "start": 851.2,
+    "end": 858.08,
+    "speaker": "SPEAKER_00",
+    "text": "And we've compiled this exhibit with information on both our client and the target."
+  },
+  {
+    "start": 858.08,
+    "end": 863.96,
+    "speaker": "SPEAKER_00",
+    "text": "I'd like you to have a look at this and let me know your thoughts on whether overall there"
+  },
+  {
+    "start": 863.96,
+    "end": 867.36,
+    "speaker": "SPEAKER_00",
+    "text": "seems to be potential synergies which seem appealing between the companies based on the"
+  },
+  {
+    "start": 867.36,
+    "end": 868.5600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "information that you have."
+  },
+  {
+    "start": 868.5600000000001,
+    "end": 873.36,
+    "speaker": "SPEAKER_01",
+    "text": "OK, so here we have some information about flash flash and Lamoud."
+  },
+  {
+    "start": 873.36,
+    "end": 879.88,
+    "speaker": "SPEAKER_01",
+    "text": "We have the sales by geography and then the idea of annual growth."
+  },
+  {
+    "start": 879.88,
+    "end": 883.36,
+    "speaker": "SPEAKER_01",
+    "text": "We have the share of the online sales."
+  },
+  {
+    "start": 883.36,
+    "end": 888.12,
+    "speaker": "SPEAKER_01",
+    "text": "Then we have some information about the transaction cost, average purchase."
+  },
+  {
+    "start": 888.12,
+    "end": 891.32,
+    "speaker": "SPEAKER_01",
+    "text": "So that's the average purchase of a client, I assume."
+  },
+  {
+    "start": 891.32,
+    "end": 892.8000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "That's right."
+  },
+  {
+    "start": 892.8000000000001,
+    "end": 896.92,
+    "speaker": "SPEAKER_00",
+    "text": "And the transaction cost just so you know is a combination of fulfillment costs, customer"
+  },
+  {
+    "start": 896.92,
+    "end": 899.6,
+    "speaker": "SPEAKER_00",
+    "text": "service, payment processing primarily."
+  },
+  {
+    "start": 899.6,
+    "end": 900.6,
+    "speaker": "SPEAKER_01",
+    "text": "OK."
+  },
+  {
+    "start": 900.6,
+    "end": 902.08,
+    "speaker": "SPEAKER_01",
+    "text": "And then cost of goods sold."
+  },
+  {
+    "start": 902.08,
+    "end": 904.84,
+    "speaker": "SPEAKER_01",
+    "text": "OK, so we understand the cost."
+  },
+  {
+    "start": 904.84,
+    "end": 908.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And then our own brand."
+  },
+  {
+    "start": 908.1600000000001,
+    "end": 914.84,
+    "speaker": "SPEAKER_01",
+    "text": "OK, so much within ourselves come from our own brand which is 100% at flash flash, of"
+  },
+  {
+    "start": 914.84,
+    "end": 917.5200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "course."
+  },
+  {
+    "start": 917.5200000000001,
+    "end": 918.5200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Sounds good."
+  },
+  {
+    "start": 918.5200000000001,
+    "end": 924.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "OK, so if we look at synergies, so the first thing is there is definitely, Lamoud is really"
+  },
+  {
+    "start": 924.5600000000001,
+    "end": 930.84,
+    "speaker": "SPEAKER_01",
+    "text": "concentrated in North America and Europe and pretty much absent from Asia."
+  },
+  {
+    "start": 930.84,
+    "end": 935.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So again, like that 12 and half percent seems even more aggressive when you look at this"
+  },
+  {
+    "start": 935.8000000000001,
+    "end": 937.76,
+    "speaker": "SPEAKER_01",
+    "text": "when if we have zero presence at the moment."
+  },
+  {
+    "start": 937.76,
+    "end": 938.96,
+    "speaker": "SPEAKER_01",
+    "text": "They're very from scratch there."
+  },
+  {
+    "start": 938.96,
+    "end": 941.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, so I think you would need probably to acquire an existing business or do something"
+  },
+  {
+    "start": 941.8000000000001,
+    "end": 942.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "else."
+  },
+  {
+    "start": 942.8000000000001,
+    "end": 949.84,
+    "speaker": "SPEAKER_01",
+    "text": "But so in any case, there is an opportunity for flash flash to help Lamoud grow outside"
+  },
+  {
+    "start": 949.84,
+    "end": 957.72,
+    "speaker": "SPEAKER_01",
+    "text": "of North America and Europe, definitely."
+  },
+  {
+    "start": 957.72,
+    "end": 961.76,
+    "speaker": "SPEAKER_01",
+    "text": "Lamoud is growing faster than flash flash 31% against 4%."
+  },
+  {
+    "start": 961.76,
+    "end": 962.76,
+    "speaker": "SPEAKER_01",
+    "text": "That doesn't surprise me."
+  },
+  {
+    "start": 962.76,
+    "end": 963.76,
+    "speaker": "SPEAKER_01",
+    "text": "It's an online business."
+  },
+  {
+    "start": 963.76,
+    "end": 966.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "It's probably a growing market."
+  },
+  {
+    "start": 966.0400000000001,
+    "end": 970.32,
+    "speaker": "SPEAKER_01",
+    "text": "It would be interesting to know whether it grows faster than the market."
+  },
+  {
+    "start": 970.32,
+    "end": 975.44,
+    "speaker": "SPEAKER_01",
+    "text": "But I don't think that means that we have particular synergies here."
+  },
+  {
+    "start": 975.44,
+    "end": 978.24,
+    "speaker": "SPEAKER_01",
+    "text": "Online presence."
+  },
+  {
+    "start": 978.24,
+    "end": 984.6,
+    "speaker": "SPEAKER_01",
+    "text": "So obviously, Lamoud does two billion online and we do 22% of our business online, which"
+  },
+  {
+    "start": 984.6,
+    "end": 989.12,
+    "speaker": "SPEAKER_01",
+    "text": "actually is, yeah, so it's like above five billion."
+  },
+  {
+    "start": 989.12,
+    "end": 993.84,
+    "speaker": "SPEAKER_01",
+    "text": "So it's interesting because flash flash which is meant to be a more traditional business,"
+  },
+  {
+    "start": 993.84,
+    "end": 1000.32,
+    "speaker": "SPEAKER_01",
+    "text": "actually does two to three times more sales online than Lamoud."
+  },
+  {
+    "start": 1000.32,
+    "end": 1005.0,
+    "speaker": "SPEAKER_01",
+    "text": "I was expecting maybe we could gain expertise on the online marketing, etc. from Lamoud, but"
+  },
+  {
+    "start": 1005.0,
+    "end": 1008.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "we're probably, you know, as knowledgeable as them about this."
+  },
+  {
+    "start": 1008.6800000000001,
+    "end": 1009.6800000000001,
+    "speaker": "SPEAKER_00",
+    "text": "No, that's right."
+  },
+  {
+    "start": 1009.6800000000001,
+    "end": 1013.36,
+    "speaker": "SPEAKER_00",
+    "text": "In absolute terms, we're doing far greater sales online and we have decent expertise in"
+  },
+  {
+    "start": 1013.36,
+    "end": 1014.36,
+    "speaker": "SPEAKER_01",
+    "text": "that area."
+  },
+  {
+    "start": 1014.36,
+    "end": 1017.92,
+    "speaker": "SPEAKER_01",
+    "text": "So, not sure, you know, there is something there."
+  },
+  {
+    "start": 1017.92,
+    "end": 1021.36,
+    "speaker": "SPEAKER_01",
+    "text": "What's interesting in the transaction cost is we can see like the average purchase is"
+  },
+  {
+    "start": 1021.36,
+    "end": 1024.2,
+    "speaker": "SPEAKER_01",
+    "text": "very different."
+  },
+  {
+    "start": 1024.2,
+    "end": 1029.8,
+    "speaker": "SPEAKER_01",
+    "text": "$413 for Lamoud's $78 for flash flash, we're in very different market."
+  },
+  {
+    "start": 1029.8,
+    "end": 1033.16,
+    "speaker": "SPEAKER_01",
+    "text": "So that's kind of confirming that our clients are probably not the same."
+  },
+  {
+    "start": 1033.16,
+    "end": 1036.92,
+    "speaker": "SPEAKER_01",
+    "text": "I don't think the flash flash products being distributed by Lamoud makes sense."
+  },
+  {
+    "start": 1036.92,
+    "end": 1043.64,
+    "speaker": "SPEAKER_01",
+    "text": "You know, it's just not the same level in the market."
+  },
+  {
+    "start": 1044.64,
+    "end": 1049.16,
+    "speaker": "SPEAKER_01",
+    "text": "Cost of goods sold and transaction cost."
+  },
+  {
+    "start": 1049.16,
+    "end": 1053.8000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "What's really fascinating is Lamoud's transaction cost is $48 against six for flash flash."
+  },
+  {
+    "start": 1053.8000000000002,
+    "end": 1060.64,
+    "speaker": "SPEAKER_01",
+    "text": "So it looks like because we're luxury online retailer, we'll probably give a five-star service"
+  },
+  {
+    "start": 1060.64,
+    "end": 1063.96,
+    "speaker": "SPEAKER_01",
+    "text": "to our clients in terms of delivery that must be super fast."
+  },
+  {
+    "start": 1063.96,
+    "end": 1069.48,
+    "speaker": "SPEAKER_01",
+    "text": "They assume, you know, like free returns for like a month, you know, like customer service"
+  },
+  {
+    "start": 1069.48,
+    "end": 1073.64,
+    "speaker": "SPEAKER_01",
+    "text": "that is like tip top where you can call someone and get some help."
+  },
+  {
+    "start": 1073.64,
+    "end": 1075.64,
+    "speaker": "SPEAKER_01",
+    "text": "You know, it makes sense."
+  },
+  {
+    "start": 1075.64,
+    "end": 1076.64,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1076.64,
+    "end": 1080.48,
+    "speaker": "SPEAKER_01",
+    "text": "So everything from the packaging itself to the delivery experience to the support experiences"
+  },
+  {
+    "start": 1080.48,
+    "end": 1081.48,
+    "speaker": "SPEAKER_01",
+    "text": "really in the premium tier."
+  },
+  {
+    "start": 1081.48,
+    "end": 1086.44,
+    "speaker": "SPEAKER_01",
+    "text": "So what's interesting is because our cost of goods sold is 46% as flash flash."
+  },
+  {
+    "start": 1086.44,
+    "end": 1089.2,
+    "speaker": "SPEAKER_01",
+    "text": "And our purchase average is $78."
+  },
+  {
+    "start": 1089.2,
+    "end": 1096.08,
+    "speaker": "SPEAKER_01",
+    "text": "It means that in terms of, you know, margin, we probably, we make around $40 at flash"
+  },
+  {
+    "start": 1096.48,
+    "end": 1102.84,
+    "speaker": "SPEAKER_01",
+    "text": "on a sale, which is less than the transaction cost of Lamoud."
+  },
+  {
+    "start": 1102.84,
+    "end": 1109.12,
+    "speaker": "SPEAKER_01",
+    "text": "So that means that even if the clients wanted to buy flash flash products on the Lamoud website,"
+  },
+  {
+    "start": 1109.12,
+    "end": 1113.72,
+    "speaker": "SPEAKER_01",
+    "text": "if we delivered the same quality of service, we would be basically losing money."
+  },
+  {
+    "start": 1113.72,
+    "end": 1114.72,
+    "speaker": "SPEAKER_01",
+    "text": "That's right."
+  },
+  {
+    "start": 1114.72,
+    "end": 1120.28,
+    "speaker": "SPEAKER_01",
+    "text": "So we can't really serve the flash flash clients profitably with the Lamoud model."
+  },
+  {
+    "start": 1120.28,
+    "end": 1125.08,
+    "speaker": "SPEAKER_01",
+    "text": "So again, something against that's the idea that we can all of a sudden distribute our"
+  },
+  {
+    "start": 1125.08,
+    "end": 1127.24,
+    "speaker": "SPEAKER_00",
+    "text": "products to their work."
+  },
+  {
+    "start": 1127.24,
+    "end": 1133.36,
+    "speaker": "SPEAKER_00",
+    "text": "Are there any potential opportunities in terms of cost synergies between these two players?"
+  },
+  {
+    "start": 1133.36,
+    "end": 1143.56,
+    "speaker": "SPEAKER_01",
+    "text": "There might be, there might be, I'm thinking obviously in the own brand, you know, we"
+  },
+  {
+    "start": 1143.56,
+    "end": 1145.24,
+    "speaker": "SPEAKER_01",
+    "text": "do that really, you know, that's what we do, right?"
+  },
+  {
+    "start": 1145.24,
+    "end": 1148.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I assume Lamoud is outsourcing a lot of the production of their products."
+  },
+  {
+    "start": 1149.88,
+    "end": 1157.24,
+    "speaker": "SPEAKER_01",
+    "text": "Maybe we can help them decrease their cost of goods sold on their own brand products."
+  },
+  {
+    "start": 1157.24,
+    "end": 1164.0800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "But overall, you know, when I look at this, my conclusion is in terms of revenue synergies"
+  },
+  {
+    "start": 1164.0800000000002,
+    "end": 1165.92,
+    "speaker": "SPEAKER_01",
+    "text": "is a pretty weak case."
+  },
+  {
+    "start": 1165.92,
+    "end": 1170.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "There might be something in terms of international development."
+  },
+  {
+    "start": 1170.8400000000001,
+    "end": 1175.92,
+    "speaker": "SPEAKER_01",
+    "text": "But the idea of combining the two businesses to distribute the products of one and the"
+  },
+  {
+    "start": 1175.92,
+    "end": 1178.68,
+    "speaker": "SPEAKER_01",
+    "text": "other doesn't make a lot of sense to me."
+  },
+  {
+    "start": 1178.68,
+    "end": 1184.4,
+    "speaker": "SPEAKER_01",
+    "text": "So at this stage, I would say, on the basis of this analysis, it's kind of confirming that"
+  },
+  {
+    "start": 1184.4,
+    "end": 1188.0,
+    "speaker": "SPEAKER_01",
+    "text": "it's probably not a good acquisition target for us."
+  },
+  {
+    "start": 1188.0,
+    "end": 1193.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "The candidate starts this section by kind of describing what he sees in the exhibit."
+  },
+  {
+    "start": 1193.0800000000002,
+    "end": 1198.2,
+    "speaker": "SPEAKER_00",
+    "text": "This is useful as a means to check his understanding, but it also buys time."
+  },
+  {
+    "start": 1198.2,
+    "end": 1202.76,
+    "speaker": "SPEAKER_00",
+    "text": "By opening the discussion around just what's on the exhibit, discussing this with the interviewer"
+  },
+  {
+    "start": 1202.76,
+    "end": 1206.64,
+    "speaker": "SPEAKER_00",
+    "text": "and so on, he's able to buy himself time to start thinking about what the insights are"
+  },
+  {
+    "start": 1206.64,
+    "end": 1210.2,
+    "speaker": "SPEAKER_00",
+    "text": "in this exhibit, which he then goes on to comment on."
+  },
+  {
+    "start": 1210.2,
+    "end": 1213.96,
+    "speaker": "SPEAKER_00",
+    "text": "When it comes to how he describes the insights he's able to glean from the exhibit, you'll"
+  },
+  {
+    "start": 1213.96,
+    "end": 1220.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "notice how the candidate is not only generating standalone insights from particular data points,"
+  },
+  {
+    "start": 1220.0800000000002,
+    "end": 1221.24,
+    "speaker": "SPEAKER_00",
+    "text": "but he's combining them."
+  },
+  {
+    "start": 1221.24,
+    "end": 1225.5600000000002,
+    "speaker": "SPEAKER_00",
+    "text": "He's looking for opportunities to spot connections between data points or comparisons."
+  },
+  {
+    "start": 1225.5600000000002,
+    "end": 1231.24,
+    "speaker": "SPEAKER_00",
+    "text": "For example, when he comments on the absolute sales online that he's seen with Flash Fashion."
+  },
+  {
+    "start": 1231.24,
+    "end": 1236.2,
+    "speaker": "SPEAKER_00",
+    "text": "Then notice again how at every stage the candidate is commenting on not just what the numbers"
+  },
+  {
+    "start": 1236.2,
+    "end": 1241.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "are, but what they mean in the context of his emerging hypothesis and the question he's"
+  },
+  {
+    "start": 1241.0800000000002,
+    "end": 1242.0800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "been asked."
+  },
+  {
+    "start": 1242.0800000000002,
+    "end": 1246.52,
+    "speaker": "SPEAKER_00",
+    "text": "You can see throughout that generally the candidate is seeing that this exhibit supports"
+  },
+  {
+    "start": 1246.52,
+    "end": 1251.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "his emerging view that this acquisition is not going to be very compatible from a"
+  },
+  {
+    "start": 1251.1200000000001,
+    "end": 1252.92,
+    "speaker": "SPEAKER_00",
+    "text": "synergy's perspective."
+  },
+  {
+    "start": 1252.92,
+    "end": 1256.0,
+    "speaker": "SPEAKER_00",
+    "text": "No, I do it's a reasonable assessment."
+  },
+  {
+    "start": 1256.0,
+    "end": 1257.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "They have very different structures."
+  },
+  {
+    "start": 1257.1200000000001,
+    "end": 1260.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "They operate in quite a different way."
+  },
+  {
+    "start": 1260.1200000000001,
+    "end": 1264.68,
+    "speaker": "SPEAKER_00",
+    "text": "Let's switch gears again to look at just a broader area."
+  },
+  {
+    "start": 1264.68,
+    "end": 1269.0,
+    "speaker": "SPEAKER_00",
+    "text": "Beyond potential synergies with Flash Fashion, which we've looked at, what ideas do you have"
+  },
+  {
+    "start": 1269.0,
+    "end": 1272.16,
+    "speaker": "SPEAKER_00",
+    "text": "to accelerate the organic growth of the mode?"
+  },
+  {
+    "start": 1272.16,
+    "end": 1274.48,
+    "speaker": "SPEAKER_01",
+    "text": "Accelerate the organic of Lamode."
+  },
+  {
+    "start": 1274.48,
+    "end": 1279.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, that's interesting because it's already going pretty fast."
+  },
+  {
+    "start": 1279.04,
+    "end": 1281.72,
+    "speaker": "SPEAKER_01",
+    "text": "They're doing pretty well already."
+  },
+  {
+    "start": 1281.72,
+    "end": 1294.0,
+    "speaker": "SPEAKER_01",
+    "text": "If we step back a little bit, Lamode is an online retailer of fashion, luxury product."
+  },
+  {
+    "start": 1294.0,
+    "end": 1301.08,
+    "speaker": "SPEAKER_01",
+    "text": "That's right, mostly in the developed world."
+  },
+  {
+    "start": 1301.08,
+    "end": 1305.0,
+    "speaker": "SPEAKER_01",
+    "text": "So the question is, can we do more?"
+  },
+  {
+    "start": 1305.0,
+    "end": 1308.84,
+    "speaker": "SPEAKER_01",
+    "text": "I think we talked about the first one is obviously the geography."
+  },
+  {
+    "start": 1308.84,
+    "end": 1315.8,
+    "speaker": "SPEAKER_01",
+    "text": "So I accelerate that geographical footprint is clear."
+  },
+  {
+    "start": 1315.8,
+    "end": 1320.76,
+    "speaker": "SPEAKER_01",
+    "text": "Luxury, there is a question, could we use that model, maybe launch a different brand,"
+  },
+  {
+    "start": 1320.76,
+    "end": 1324.44,
+    "speaker": "SPEAKER_01",
+    "text": "and launch a slightly less up market version of Lamode."
+  },
+  {
+    "start": 1324.44,
+    "end": 1327.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Start to go more mass market."
+  },
+  {
+    "start": 1327.8799999999999,
+    "end": 1331.12,
+    "speaker": "SPEAKER_01",
+    "text": "So drift slightly in that direction but still be towards the premium."
+  },
+  {
+    "start": 1331.12,
+    "end": 1334.32,
+    "speaker": "SPEAKER_01",
+    "text": "Well, I think what you would do is you probably launch a different brand, to be honest."
+  },
+  {
+    "start": 1334.32,
+    "end": 1337.72,
+    "speaker": "SPEAKER_01",
+    "text": "You use some of the same infrastructure, not all because obviously the service level is"
+  },
+  {
+    "start": 1337.72,
+    "end": 1339.04,
+    "speaker": "SPEAKER_01",
+    "text": "not going to be the same."
+  },
+  {
+    "start": 1339.04,
+    "end": 1343.32,
+    "speaker": "SPEAKER_01",
+    "text": "But you could, presumably you've gained some expertise in this."
+  },
+  {
+    "start": 1343.32,
+    "end": 1346.08,
+    "speaker": "SPEAKER_01",
+    "text": "And you could imagine a slightly less expensive copycat."
+  },
+  {
+    "start": 1346.08,
+    "end": 1347.6,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, make sense."
+  },
+  {
+    "start": 1347.6,
+    "end": 1348.6,
+    "speaker": "SPEAKER_01",
+    "text": "So that's one."
+  },
+  {
+    "start": 1348.6,
+    "end": 1352.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Obviously at the moment we're doing fashion."
+  },
+  {
+    "start": 1352.9199999999998,
+    "end": 1356.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "I'm wondering to what extent we could penetrate other categories."
+  },
+  {
+    "start": 1356.6799999999998,
+    "end": 1364.48,
+    "speaker": "SPEAKER_01",
+    "text": "You see how big brands like Almanie, who are fashion brands, obviously perfume is one"
+  },
+  {
+    "start": 1364.48,
+    "end": 1365.48,
+    "speaker": "SPEAKER_01",
+    "text": "thing."
+  },
+  {
+    "start": 1365.48,
+    "end": 1367.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "So they cosmetics."
+  },
+  {
+    "start": 1367.9199999999998,
+    "end": 1373.1999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "But now they start doing furniture as well."
+  },
+  {
+    "start": 1373.1999999999998,
+    "end": 1378.56,
+    "speaker": "SPEAKER_01",
+    "text": "So you could imagine selling furniture and all sorts of fashion accessories."
+  },
+  {
+    "start": 1378.56,
+    "end": 1385.08,
+    "speaker": "SPEAKER_01",
+    "text": "So there are some luxury categories beyond fashion where I sing because of our positioning"
+  },
+  {
+    "start": 1385.08,
+    "end": 1387.12,
+    "speaker": "SPEAKER_01",
+    "text": "we could be legitimate."
+  },
+  {
+    "start": 1387.12,
+    "end": 1388.12,
+    "speaker": "SPEAKER_01",
+    "text": "Yes."
+  },
+  {
+    "start": 1388.12,
+    "end": 1394.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "And then online, at the moment we're pure online player, could we start having some flagship"
+  },
+  {
+    "start": 1394.6799999999998,
+    "end": 1401.6,
+    "speaker": "SPEAKER_01",
+    "text": "stores in airports, for instance, where we're going to meet some of our, the same clients"
+  },
+  {
+    "start": 1401.6,
+    "end": 1409.08,
+    "speaker": "SPEAKER_01",
+    "text": "who are, you know, by expensive fashion and like the current in model because they don't"
+  },
+  {
+    "start": 1409.08,
+    "end": 1410.08,
+    "speaker": "SPEAKER_01",
+    "text": "have a lot of time."
+  },
+  {
+    "start": 1410.08,
+    "end": 1415.04,
+    "speaker": "SPEAKER_01",
+    "text": "So they like to be able to go somewhere and find some really good things."
+  },
+  {
+    "start": 1415.04,
+    "end": 1419.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "So I think physical retail is another idea."
+  },
+  {
+    "start": 1419.9199999999998,
+    "end": 1424.28,
+    "speaker": "SPEAKER_01",
+    "text": "So these are all kind of new business ideas."
+  },
+  {
+    "start": 1424.28,
+    "end": 1429.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "There might be another categories around how can we do what we already do but better?"
+  },
+  {
+    "start": 1429.1599999999999,
+    "end": 1431.36,
+    "speaker": "SPEAKER_01",
+    "text": "How can we sell more to our existing clients?"
+  },
+  {
+    "start": 1431.36,
+    "end": 1436.32,
+    "speaker": "SPEAKER_01",
+    "text": "I can react to our client acquisition."
+  },
+  {
+    "start": 1436.32,
+    "end": 1438.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "How about you go about doing that?"
+  },
+  {
+    "start": 1438.4399999999998,
+    "end": 1442.32,
+    "speaker": "SPEAKER_01",
+    "text": "Well I would think like in terms of selling more to existing clients, you know, there's"
+  },
+  {
+    "start": 1442.32,
+    "end": 1444.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "a lot of things happening with data science."
+  },
+  {
+    "start": 1444.6399999999999,
+    "end": 1448.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "We're now able to pinpoint exactly what's the next product that one person is going to"
+  },
+  {
+    "start": 1448.6399999999999,
+    "end": 1452.4799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "be likely to want to buy because of their past purchase and online behavior."
+  },
+  {
+    "start": 1452.4799999999998,
+    "end": 1455.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "You know, are we doing this?"
+  },
+  {
+    "start": 1455.44,
+    "end": 1462.0800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "In terms of acquiring a new client, you know, I'd love to see our online marketing is"
+  },
+  {
+    "start": 1462.0800000000002,
+    "end": 1463.0800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "working."
+  },
+  {
+    "start": 1463.0800000000002,
+    "end": 1466.88,
+    "speaker": "SPEAKER_01",
+    "text": "You know, are we is advertising really, are spent optimized?"
+  },
+  {
+    "start": 1466.88,
+    "end": 1469.8,
+    "speaker": "SPEAKER_01",
+    "text": "And again, I think some new technology is going to help with that."
+  },
+  {
+    "start": 1469.8,
+    "end": 1472.52,
+    "speaker": "SPEAKER_01",
+    "text": "So you know, here it's hard to tell whether it has an opportunity."
+  },
+  {
+    "start": 1472.52,
+    "end": 1476.4,
+    "speaker": "SPEAKER_01",
+    "text": "We'd like we need to look at their current practices but we'd want to check their state"
+  },
+  {
+    "start": 1476.4,
+    "end": 1477.4,
+    "speaker": "SPEAKER_01",
+    "text": "over the art."
+  },
+  {
+    "start": 1477.4,
+    "end": 1480.0,
+    "speaker": "SPEAKER_01",
+    "text": "It's definitely something to explore, I think."
+  },
+  {
+    "start": 1480.0,
+    "end": 1483.8,
+    "speaker": "SPEAKER_00",
+    "text": "So this of course was a creative thinking section and the candidate handles it quite"
+  },
+  {
+    "start": 1483.8,
+    "end": 1484.8,
+    "speaker": "SPEAKER_00",
+    "text": "well."
+  },
+  {
+    "start": 1484.8,
+    "end": 1490.52,
+    "speaker": "SPEAKER_00",
+    "text": "This suggests ideas in a number of categories from new product categories to opening physical"
+  },
+  {
+    "start": 1490.52,
+    "end": 1496.0,
+    "speaker": "SPEAKER_00",
+    "text": "retail stores to simply finding ways to extract more growth opportunity from our current customer"
+  },
+  {
+    "start": 1496.0,
+    "end": 1497.0,
+    "speaker": "SPEAKER_00",
+    "text": "base."
+  },
+  {
+    "start": 1497.0,
+    "end": 1499.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "The way he sets up these categories is quite effective."
+  },
+  {
+    "start": 1499.9199999999998,
+    "end": 1502.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "It can be hard to generate ideas in a vacuum."
+  },
+  {
+    "start": 1502.6399999999999,
+    "end": 1507.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "But if you're able to come up with categories of ideas, going from those to generate specifics"
+  },
+  {
+    "start": 1507.3999999999999,
+    "end": 1509.12,
+    "speaker": "SPEAKER_00",
+    "text": "is relatively easy."
+  },
+  {
+    "start": 1509.12,
+    "end": 1513.8,
+    "speaker": "SPEAKER_00",
+    "text": "This provides a platform for him to generate quite creative insights such as perhaps moving"
+  },
+  {
+    "start": 1513.8,
+    "end": 1520.08,
+    "speaker": "SPEAKER_00",
+    "text": "from purely fashion products through to perhaps launching perfume or other products using"
+  },
+  {
+    "start": 1520.08,
+    "end": 1521.96,
+    "speaker": "SPEAKER_00",
+    "text": "our luxury brand to help with that."
+  },
+  {
+    "start": 1521.96,
+    "end": 1525.04,
+    "speaker": "SPEAKER_00",
+    "text": "So overall, it's a strong performance on this section of the interview."
+  },
+  {
+    "start": 1525.04,
+    "end": 1526.04,
+    "speaker": "SPEAKER_00",
+    "text": "Good."
+  },
+  {
+    "start": 1526.04,
+    "end": 1527.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1527.04,
+    "end": 1529.52,
+    "speaker": "SPEAKER_00",
+    "text": "So look, I think we've covered a fair amount of ground."
+  },
+  {
+    "start": 1529.52,
+    "end": 1530.52,
+    "speaker": "SPEAKER_00",
+    "text": "Yep."
+  },
+  {
+    "start": 1530.52,
+    "end": 1533.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "There's more that we would want to look at if we were doing this as a longer project."
+  },
+  {
+    "start": 1533.6399999999999,
+    "end": 1538.52,
+    "speaker": "SPEAKER_00",
+    "text": "But based on what you've seen so far, what's your overall message to the client at this"
+  },
+  {
+    "start": 1538.52,
+    "end": 1539.52,
+    "speaker": "SPEAKER_00",
+    "text": "stage?"
+  },
+  {
+    "start": 1540.0,
+    "end": 1545.6,
+    "speaker": "SPEAKER_01",
+    "text": "So I mean, you've asked us whether it makes sense for you to acquire Lamod."
+  },
+  {
+    "start": 1545.6,
+    "end": 1547.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "At this stage, we don't think so."
+  },
+  {
+    "start": 1547.8799999999999,
+    "end": 1551.84,
+    "speaker": "SPEAKER_01",
+    "text": "At least not because of the existing growth plan and synergies."
+  },
+  {
+    "start": 1551.84,
+    "end": 1556.44,
+    "speaker": "SPEAKER_01",
+    "text": "We think that the growth plan in Asia is probably overly optimistic."
+  },
+  {
+    "start": 1556.44,
+    "end": 1561.56,
+    "speaker": "SPEAKER_01",
+    "text": "You need to capture a 4.2% share in five years of a market where you have zero percent"
+  },
+  {
+    "start": 1561.56,
+    "end": 1562.56,
+    "speaker": "SPEAKER_01",
+    "text": "share."
+  },
+  {
+    "start": 1563.3999999999999,
+    "end": 1569.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Now, in terms of synergies, we really haven't found many revenue synergies beyond like"
+  },
+  {
+    "start": 1569.9199999999998,
+    "end": 1579.8,
+    "speaker": "SPEAKER_01",
+    "text": "accelerating your geographical penetration of developing countries, which is not a lot."
+  },
+  {
+    "start": 1579.8,
+    "end": 1582.44,
+    "speaker": "SPEAKER_01",
+    "text": "So on that front, it doesn't seem to make sense."
+  },
+  {
+    "start": 1582.44,
+    "end": 1585.0,
+    "speaker": "SPEAKER_01",
+    "text": "Now, Lamod is an interesting business."
+  },
+  {
+    "start": 1585.0,
+    "end": 1587.12,
+    "speaker": "SPEAKER_01",
+    "text": "It's growing pretty fast."
+  },
+  {
+    "start": 1587.12,
+    "end": 1593.8,
+    "speaker": "SPEAKER_01",
+    "text": "We have identified ways to develop that franchise beyond this immediate scope."
+  },
+  {
+    "start": 1593.8,
+    "end": 1600.52,
+    "speaker": "SPEAKER_01",
+    "text": "So you could still realize that it's a good acquisition just for pure financial standpoint."
+  },
+  {
+    "start": 1600.52,
+    "end": 1602.9599999999998,
+    "speaker": "SPEAKER_01",
+    "text": "And we would happily look into this."
+  },
+  {
+    "start": 1602.9599999999998,
+    "end": 1606.6,
+    "speaker": "SPEAKER_00",
+    "text": "The concluding synthesis here is short and effective."
+  },
+  {
+    "start": 1606.6,
+    "end": 1610.84,
+    "speaker": "SPEAKER_00",
+    "text": "The candidate uses a standard framework we've discussed elsewhere in the materials."
+  },
+  {
+    "start": 1610.84,
+    "end": 1616.28,
+    "speaker": "SPEAKER_00",
+    "text": "He starts after reminding us of the question by giving the overall answer itself."
+  },
+  {
+    "start": 1616.28,
+    "end": 1619.24,
+    "speaker": "SPEAKER_00",
+    "text": "And this doesn't seem to make sense as an acquisition target."
+  },
+  {
+    "start": 1619.24,
+    "end": 1624.32,
+    "speaker": "SPEAKER_00",
+    "text": "Next, he lists out his key supporting points and reasons for why this is the case."
+  },
+  {
+    "start": 1624.32,
+    "end": 1626.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Then last, he concludes with some next steps."
+  },
+  {
+    "start": 1626.8799999999999,
+    "end": 1630.48,
+    "speaker": "SPEAKER_00",
+    "text": "And the idea that this might be good as a standalone acquisition is a fair comment to"
+  },
+  {
+    "start": 1630.48,
+    "end": 1631.48,
+    "speaker": "SPEAKER_00",
+    "text": "end the case on."
+  },
+  {
+    "start": 1631.48,
+    "end": 1633.48,
+    "speaker": "SPEAKER_00",
+    "text": "So again, this is a model interview."
+  },
+  {
+    "start": 1633.48,
+    "end": 1637.84,
+    "speaker": "SPEAKER_00",
+    "text": "But this performance reflects an outstanding overall case performance."
+  },
+  {
+    "start": 1637.84,
+    "end": 1641.6,
+    "speaker": "SPEAKER_00",
+    "text": "And the rare example of a case that's really strong across the board."
+  },
+  {
+    "start": 1641.6,
+    "end": 1647.4399999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Now, if we look first at the way he develops for poor and presence, really this is a good"
+  },
+  {
+    "start": 1647.4399999999998,
+    "end": 1648.4399999999998,
+    "speaker": "SPEAKER_00",
+    "text": "example."
+  },
+  {
+    "start": 1648.4399999999998,
+    "end": 1654.28,
+    "speaker": "SPEAKER_00",
+    "text": "The candidate does a good job of showing poise, showing confidence, and pushing the thinking"
+  },
+  {
+    "start": 1654.28,
+    "end": 1659.0,
+    "speaker": "SPEAKER_00",
+    "text": "in such a way that he comes across almost as a consultant working on a problem rather"
+  },
+  {
+    "start": 1659.0,
+    "end": 1660.32,
+    "speaker": "SPEAKER_00",
+    "text": "than an interviewer."
+  },
+  {
+    "start": 1660.32,
+    "end": 1663.04,
+    "speaker": "SPEAKER_00",
+    "text": "So he performs very well when it comes to presence."
+  },
+  {
+    "start": 1663.04,
+    "end": 1665.28,
+    "speaker": "SPEAKER_00",
+    "text": "Communication, the same applies."
+  },
+  {
+    "start": 1665.28,
+    "end": 1668.4399999999998,
+    "speaker": "SPEAKER_00",
+    "text": "The candidate is very concise, very clear, very organized in his thinking."
+  },
+  {
+    "start": 1668.4399999999998,
+    "end": 1670.9599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "He uses visuals when effective."
+  },
+  {
+    "start": 1670.96,
+    "end": 1673.92,
+    "speaker": "SPEAKER_00",
+    "text": "And this works very well to communicate the points he wants to convey."
+  },
+  {
+    "start": 1673.92,
+    "end": 1678.44,
+    "speaker": "SPEAKER_00",
+    "text": "Lastly, when it comes to case leadership, I'd say this is really a distinctive performance."
+  },
+  {
+    "start": 1678.44,
+    "end": 1681.92,
+    "speaker": "SPEAKER_00",
+    "text": "You'll notice how the candidate, right from the beginning of the interview, was beginning"
+  },
+  {
+    "start": 1681.92,
+    "end": 1685.48,
+    "speaker": "SPEAKER_00",
+    "text": "to generate ideas and hypotheses, beginning to test his thinking."
+  },
+  {
+    "start": 1685.48,
+    "end": 1689.76,
+    "speaker": "SPEAKER_00",
+    "text": "At every stage, even though this was mostly an interviewer-led interview, he's developing"
+  },
+  {
+    "start": 1689.76,
+    "end": 1691.92,
+    "speaker": "SPEAKER_00",
+    "text": "ideas and pushing the thinking forward."
+  },
+  {
+    "start": 1691.92,
+    "end": 1696.0,
+    "speaker": "SPEAKER_00",
+    "text": "So it's a very good approach from these characteristics."
+  },
+  {
+    "start": 1696.0,
+    "end": 1699.6000000000001,
+    "speaker": "SPEAKER_00",
+    "text": "When it comes to the more technical aspects of the interview, this is clearly a very strong"
+  },
+  {
+    "start": 1699.6,
+    "end": 1701.1599999999999,
+    "speaker": "SPEAKER_00",
+    "text": "performance too."
+  },
+  {
+    "start": 1701.1599999999999,
+    "end": 1705.1999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "If we go through the list of assessment criteria, on structuring, the candidate performs"
+  },
+  {
+    "start": 1705.1999999999998,
+    "end": 1710.8,
+    "speaker": "SPEAKER_00",
+    "text": "extremely well when it comes to going through the ideas criteria we've laid out in the materials."
+  },
+  {
+    "start": 1710.8,
+    "end": 1715.32,
+    "speaker": "SPEAKER_00",
+    "text": "And everything from identifying the problem well, to suggesting specific insights about"
+  },
+  {
+    "start": 1715.32,
+    "end": 1718.8,
+    "speaker": "SPEAKER_00",
+    "text": "how he could solve it, the candidate's doing a very good job here."
+  },
+  {
+    "start": 1718.8,
+    "end": 1721.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "On numerous C.I.D.s, it's really a distinctive performance."
+  },
+  {
+    "start": 1721.6399999999999,
+    "end": 1725.8,
+    "speaker": "SPEAKER_00",
+    "text": "Not only is the candidate organized and structured in his approach, but he simply deals with"
+  },
+  {
+    "start": 1725.8,
+    "end": 1730.76,
+    "speaker": "SPEAKER_00",
+    "text": "the numbers very quickly and very accurately, both in the specific maths question we set"
+  },
+  {
+    "start": 1730.76,
+    "end": 1735.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "early in the case and in the exhibit exercise, where he's combining numbers and using them"
+  },
+  {
+    "start": 1735.3999999999999,
+    "end": 1737.2,
+    "speaker": "SPEAKER_00",
+    "text": "in effective ways."
+  },
+  {
+    "start": 1737.2,
+    "end": 1741.6,
+    "speaker": "SPEAKER_00",
+    "text": "On judgment and insight, while there perhaps aren't a ton of opportunities here to go through"
+  },
+  {
+    "start": 1741.6,
+    "end": 1745.84,
+    "speaker": "SPEAKER_00",
+    "text": "conceptual problems solving and show your kind of qualitative analysis, the candidate"
+  },
+  {
+    "start": 1745.84,
+    "end": 1750.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "does show fantastic judgment in connecting information he finds in one part of the case"
+  },
+  {
+    "start": 1750.3999999999999,
+    "end": 1754.56,
+    "speaker": "SPEAKER_00",
+    "text": "to other parts of the case, which makes this very much above the bar performance on judgment"
+  },
+  {
+    "start": 1754.56,
+    "end": 1755.56,
+    "speaker": "SPEAKER_00",
+    "text": "and insight."
+  },
+  {
+    "start": 1755.56,
+    "end": 1758.6799999999998,
+    "speaker": "SPEAKER_00",
+    "text": "On creative thinking, this is a distinctive performance."
+  },
+  {
+    "start": 1758.6799999999998,
+    "end": 1763.04,
+    "speaker": "SPEAKER_00",
+    "text": "The candidate displays a wide range of ideas in five categories on the specific question"
+  },
+  {
+    "start": 1763.04,
+    "end": 1765.72,
+    "speaker": "SPEAKER_00",
+    "text": "we ask on creative thinking, and many of them are non-obvious."
+  },
+  {
+    "start": 1765.72,
+    "end": 1770.84,
+    "speaker": "SPEAKER_00",
+    "text": "He's displaying a good ability to come up with ideas and generate just new ideas and insights."
+  },
+  {
+    "start": 1770.84,
+    "end": 1774.12,
+    "speaker": "SPEAKER_00",
+    "text": "Lastly, I'd say it's really distinctive too when it comes to synthesis."
+  },
+  {
+    "start": 1774.12,
+    "end": 1778.48,
+    "speaker": "SPEAKER_00",
+    "text": "The candidate synthesizes well throughout the case, but in the conclusion itself, he's"
+  },
+  {
+    "start": 1778.48,
+    "end": 1783.6,
+    "speaker": "SPEAKER_00",
+    "text": "both concise and structured, and he's able to communicate the insight in a way that seems"
+  },
+  {
+    "start": 1783.6,
+    "end": 1789.36,
+    "speaker": "SPEAKER_00",
+    "text": "very compelling and captures the essence of the problem he's managed to solve."
+  },
+  {
+    "start": 1789.36,
+    "end": 1791.24,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you for watching till the end."
+  },
+  {
+    "start": 1791.24,
+    "end": 1795.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "If you find this video helpful, don't forget to give it a thumbs up."
+  },
+  {
+    "start": 1795.1599999999999,
+    "end": 1800.1999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Now, if you'd like to get more free video and prep material, including the PDF solution"
+  },
+  {
+    "start": 1800.1999999999998,
+    "end": 1804.9599999999998,
+    "speaker": "SPEAKER_01",
+    "text": "of FlashFash, just follow the link below to sign up to our mailing list."
+  },
+  {
+    "start": 1804.9599999999998,
+    "end": 1806.56,
+    "speaker": "SPEAKER_01",
+    "text": "See you soon on casecoach.com."
+  }
+]

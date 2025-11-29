@@ -1,0 +1,452 @@
+[
+  {
+    "start": 0.0,
+    "end": 14.76,
+    "speaker": "SPEAKER_01",
+    "text": "Hi, Mayurish here. In this interview, Saranth is the interviewer and I am the interviewer."
+  },
+  {
+    "start": 14.76,
+    "end": 18.92,
+    "speaker": "SPEAKER_01",
+    "text": "We are going to solve our guestimate. We will estimate the number of burgers sold at"
+  },
+  {
+    "start": 18.92,
+    "end": 20.92,
+    "speaker": "SPEAKER_01",
+    "text": "a typical McDonald's joint in a day."
+  },
+  {
+    "start": 20.92,
+    "end": 27.32,
+    "speaker": "SPEAKER_00",
+    "text": "Hi, Mayurish. Hi. Thanks for coming in. So, let's get started with your case. Let's"
+  },
+  {
+    "start": 27.32,
+    "end": 34.32,
+    "speaker": "SPEAKER_00",
+    "text": "estimate the number of burgers that are sold in a typical McDonald's. Okay, I'll read it."
+  },
+  {
+    "start": 34.32,
+    "end": 43.42,
+    "speaker": "SPEAKER_01",
+    "text": "All right. Just to get this right, we are assuming the number of burgers sold at a typical"
+  },
+  {
+    "start": 43.42,
+    "end": 48.400000000000006,
+    "speaker": "SPEAKER_01",
+    "text": "McDonald's outlet. This is any typical McDonald's outlet like the one at Andhri, right?"
+  },
+  {
+    "start": 48.400000000000006,
+    "end": 51.08,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, let's take the one at Andhri station."
+  },
+  {
+    "start": 51.08,
+    "end": 58.08,
+    "speaker": "SPEAKER_01",
+    "text": "And are we taking into account both Dynan orders and take away or just Dynan?"
+  },
+  {
+    "start": 58.08,
+    "end": 65.08,
+    "speaker": "SPEAKER_01",
+    "text": "So let's consider both. Both. All right. So let me just lay out my overall approach and then we can proceed."
+  },
+  {
+    "start": 81.08,
+    "end": 88.08,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 111.08,
+    "end": 140.07999999999998,
+    "speaker": "SPEAKER_01",
+    "text": "All right. So what I'm thinking here is, first let's look at Dynan and then we can go back to take away using a different approach."
+  },
+  {
+    "start": 140.08,
+    "end": 152.08,
+    "speaker": "SPEAKER_01",
+    "text": "For the Dynan orders, what I'm thinking right now is the number of burgers is equal to, so this is for one cycle of customers."
+  },
+  {
+    "start": 152.08,
+    "end": 159.08,
+    "speaker": "SPEAKER_01",
+    "text": "I'll explain that better. It's basically the seeds in the restaurant multiplied by how many seeds are occupied at any time."
+  },
+  {
+    "start": 159.08,
+    "end": 166.08,
+    "speaker": "SPEAKER_01",
+    "text": "So, percentage occupancy. Okay. Right. Into number of burgers per person. Right."
+  },
+  {
+    "start": 166.08,
+    "end": 173.08,
+    "speaker": "SPEAKER_01",
+    "text": "So this is for one cycle of person. Typically a customer spends about 20 minutes in the restaurant. Right."
+  },
+  {
+    "start": 173.08,
+    "end": 182.08,
+    "speaker": "SPEAKER_01",
+    "text": "So this entire thing is number of burgers for 20 minutes. Right. So in 20 minutes, this is the number of burgers consumed."
+  },
+  {
+    "start": 182.08,
+    "end": 191.08,
+    "speaker": "SPEAKER_01",
+    "text": "So since they spend about 20 minutes in an hour, sorry, per person, in an hour we'll see about three customers. Right."
+  },
+  {
+    "start": 191.08,
+    "end": 201.08,
+    "speaker": "SPEAKER_01",
+    "text": "So if we multiply this by three, this will be the total number of customers per hour, sorry, number of burgers consumed per hour."
+  },
+  {
+    "start": 201.08,
+    "end": 209.08,
+    "speaker": "SPEAKER_01",
+    "text": "And this if we, so yeah, and this if we multiply by the number of hours, we'll get the total number of burgers. All right."
+  },
+  {
+    "start": 209.08,
+    "end": 213.08,
+    "speaker": "SPEAKER_01",
+    "text": "So let's do this calculation differently for different hours."
+  },
+  {
+    "start": 213.08,
+    "end": 223.08,
+    "speaker": "SPEAKER_01",
+    "text": "Where in the percentage occupancy will change according to the during the p cars, which is typically 10 o'clock to 2 o'clock is that a fair assumption and 6 o'clock to 10 o'clock."
+  },
+  {
+    "start": 223.08,
+    "end": 229.08,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. The occupancy would be 100%. Almost all the seeds would be occupied. All right."
+  },
+  {
+    "start": 229.08,
+    "end": 235.08,
+    "speaker": "SPEAKER_01",
+    "text": "Whereas from 2 o'clock to 6 o'clock, I was using that 50% of the seeds would be occupied. Okay."
+  },
+  {
+    "start": 235.08,
+    "end": 245.08,
+    "speaker": "SPEAKER_01",
+    "text": "Given that lunch and then her times are not around acting. Right. I was using that about this, this McDonald's has about 50 seeds. Is that a fair assumption?"
+  },
+  {
+    "start": 245.08,
+    "end": 255.08,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah. Right. So let's just proceed with the calculation for this one time zone. All right. And then we can just use that answer to calculate the rest of the seeds. Right."
+  },
+  {
+    "start": 255.08,
+    "end": 261.08000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "So we have 50 seeds this multiplied by the percentage occupancy, which is basically one. Right."
+  },
+  {
+    "start": 261.08000000000004,
+    "end": 271.08000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "That multiplied by a number of burgers per person. Now the way I would like to calculate this is take a weighted approach here."
+  },
+  {
+    "start": 271.08000000000004,
+    "end": 279.08000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "Most of the people here would be eating one burger typically. Right. But the burgers in India are smaller than your regular size burger."
+  },
+  {
+    "start": 279.08,
+    "end": 291.08,
+    "speaker": "SPEAKER_01",
+    "text": "So some of them would go for two burgers. Okay. I would assume that 80% go for one burger and 20% go for two burgers. Fine. Is that a fair assumption? That's okay."
+  },
+  {
+    "start": 291.08,
+    "end": 304.08,
+    "speaker": "SPEAKER_01",
+    "text": "So that would give us 1.2 burgers per person. Right. So we multiply by 1.2 into 3 for the number of cycles in an hour and number of hours, which is 4 over here. Right."
+  },
+  {
+    "start": 304.08,
+    "end": 321.08,
+    "speaker": "SPEAKER_01",
+    "text": "So quickly do the numbers and get back to you with the answer."
+  },
+  {
+    "start": 321.08,
+    "end": 334.08,
+    "speaker": "SPEAKER_01",
+    "text": "So this is 720 burgers. This is these 4 hours. So similarly here nothing else changes. So this would be 720 burgers as well."
+  },
+  {
+    "start": 334.08,
+    "end": 347.08,
+    "speaker": "SPEAKER_01",
+    "text": "And this would essentially be switch the same 4 hours. So the number of seeds occupied changes as in basically we've taken 50% of the occupancy rate."
+  },
+  {
+    "start": 347.08,
+    "end": 361.08,
+    "speaker": "SPEAKER_01",
+    "text": "So that would have everything else basically remains the same. So this number would just be half of this number, which is basically."
+  },
+  {
+    "start": 361.08,
+    "end": 374.08,
+    "speaker": "SPEAKER_01",
+    "text": "So just quickly doing a sum of these numbers. So it's 1440."
+  },
+  {
+    "start": 374.08,
+    "end": 389.08,
+    "speaker": "SPEAKER_01",
+    "text": "So the 1300 burgers from the dinin. Right. Now let's look at the take away. Okay."
+  },
+  {
+    "start": 389.08,
+    "end": 403.08,
+    "speaker": "SPEAKER_01",
+    "text": "So again, I will split the day into the same hours. Right. 4 hours of peak on both ends of the day. And 4 hours of non peak."
+  },
+  {
+    "start": 403.08,
+    "end": 414.08,
+    "speaker": "SPEAKER_01",
+    "text": "Now here in the peak hours, you expect that customers, customers keep on coming and there is like a continuous inflow of take away orders."
+  },
+  {
+    "start": 414.08,
+    "end": 427.08,
+    "speaker": "SPEAKER_01",
+    "text": "So even if we have a dedicated counter here, the number of orders served would basically depend on the minimum time that you take to finish off each order."
+  },
+  {
+    "start": 427.08,
+    "end": 443.08,
+    "speaker": "SPEAKER_01",
+    "text": "And basically finish one customer cycle. Whereas in the non peak hours, the minimum time required to take an order won't really matter as the customer might just come in once in say 10 to 15 minutes."
+  },
+  {
+    "start": 443.08,
+    "end": 449.08,
+    "speaker": "SPEAKER_01",
+    "text": "So I'll just quickly calculate the numbers for the peak and then we can look at the non peak. Right."
+  },
+  {
+    "start": 449.08,
+    "end": 462.08,
+    "speaker": "SPEAKER_01",
+    "text": "So the time taken to complete one order is essentially cooking, which is negligible plus assembly."
+  },
+  {
+    "start": 462.08,
+    "end": 476.08,
+    "speaker": "SPEAKER_01",
+    "text": "So most of the ingredients are assembled is what I know plus billing plus waiting time since it is peak hours, the customer would wait for some time."
+  },
+  {
+    "start": 476.08,
+    "end": 488.08,
+    "speaker": "SPEAKER_01",
+    "text": "So this is essentially this is zero seconds. Right. Assembly would take anything from around 10 to 30 seconds. And why we are assuming cooking to be zero seconds."
+  },
+  {
+    "start": 488.08,
+    "end": 497.08,
+    "speaker": "SPEAKER_01",
+    "text": "Because most of the ingredients that going to a burger are pre cooked in McDonald's, the buns and the party for assembly."
+  },
+  {
+    "start": 497.08,
+    "end": 506.08,
+    "speaker": "SPEAKER_01",
+    "text": "So the party needs to be saved put in the buns and so on. So I would assume a time of around 10 to 15 seconds here."
+  },
+  {
+    "start": 506.08,
+    "end": 516.0799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So I'll just take 15 seconds, which is one fourth of a minute, right. So 0.25 minutes plus billing takes about one minute for each customer."
+  },
+  {
+    "start": 517.08,
+    "end": 523.08,
+    "speaker": "SPEAKER_01",
+    "text": "And then he waits in the line for say another two to three minutes in some cases. It is more."
+  },
+  {
+    "start": 523.08,
+    "end": 529.08,
+    "speaker": "SPEAKER_00",
+    "text": "I'll just maybe round it off to 30 seconds or let's take a minute or for the waiting is it. Yeah."
+  },
+  {
+    "start": 529.08,
+    "end": 533.08,
+    "speaker": "SPEAKER_01",
+    "text": "Yes, we can round off the total time to two minutes 30. Yeah, two minutes 30."
+  },
+  {
+    "start": 533.08,
+    "end": 540.08,
+    "speaker": "SPEAKER_01",
+    "text": "Or let's just round off to three. I think this is like an end that's open. Right. So three minutes per order taken."
+  },
+  {
+    "start": 540.08,
+    "end": 547.08,
+    "speaker": "SPEAKER_01",
+    "text": "So in an hour, we are basically looking at 20 orders. Right."
+  },
+  {
+    "start": 551.08,
+    "end": 557.08,
+    "speaker": "SPEAKER_01",
+    "text": "So in the peak are we basically have 80 orders or 80 burgers."
+  },
+  {
+    "start": 557.08,
+    "end": 568.08,
+    "speaker": "SPEAKER_01",
+    "text": "Same goes here for the dinner. Maybe we could take two burgers in a takeaway instead of one. Right."
+  },
+  {
+    "start": 568.08,
+    "end": 575.08,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, generally when people try to take away, they have in fact, we should look at more burgers."
+  },
+  {
+    "start": 575.08,
+    "end": 585.08,
+    "speaker": "SPEAKER_01",
+    "text": "So irrespective of how many burgers are there, only the assembly time would change, which wouldn't really impact your like you might get two minutes instead of one, which is fair enough."
+  },
+  {
+    "start": 585.08,
+    "end": 593.08,
+    "speaker": "SPEAKER_01",
+    "text": "So let's just look at typically how many burgers are taken away. So I would assume that 50% of these are one burgers. Right."
+  },
+  {
+    "start": 593.08,
+    "end": 606.08,
+    "speaker": "SPEAKER_01",
+    "text": "So and say about 20% and sorry, 30% and 30% are two and three. So sometimes. Yeah. Right."
+  },
+  {
+    "start": 606.08,
+    "end": 618.08,
+    "speaker": "SPEAKER_01",
+    "text": "So basically I just quickly do this. Right."
+  },
+  {
+    "start": 618.08,
+    "end": 629.08,
+    "speaker": "SPEAKER_01",
+    "text": "So about two burgers is what it comes out to. So basically this number would just double and would be 160 burgers from these four hours."
+  },
+  {
+    "start": 629.08,
+    "end": 645.08,
+    "speaker": "SPEAKER_01",
+    "text": "So basically from both the peak as we have about 320 burgers. For the non peak as I would assume something like one burger is going out every 10 minutes, which is something that I know from my personal experience."
+  },
+  {
+    "start": 645.08,
+    "end": 652.08,
+    "speaker": "SPEAKER_01",
+    "text": "But we'll definitely compare that number with these 320 and see if it makes sense. Right."
+  },
+  {
+    "start": 652.08,
+    "end": 662.08,
+    "speaker": "SPEAKER_01",
+    "text": "So if we have one burger going out every 15 minutes, basically four burgers every hour, so four burgers every hour, probably under estimation. Right."
+  },
+  {
+    "start": 662.08,
+    "end": 675.08,
+    "speaker": "SPEAKER_01",
+    "text": "So let's round off to say 10 burgers and that is essentially just so into four for the burgers for the entire day in the situation."
+  },
+  {
+    "start": 675.08,
+    "end": 690.08,
+    "speaker": "SPEAKER_01",
+    "text": "So this becomes 360 burgers. Right. This is takeaway. So if you just add this basically to one six zero burgers around 2000."
+  },
+  {
+    "start": 690.08,
+    "end": 704.08,
+    "speaker": "SPEAKER_01",
+    "text": "Right. Let's look at whether 2000 burgers make sense. Right. The number is make sense in the sense that if it is too small, we'll understand that McDonald's definitely cannot cook."
+  },
+  {
+    "start": 704.08,
+    "end": 712.08,
+    "speaker": "SPEAKER_01",
+    "text": "Or in or creator burger in like a very small thing. If it's too large, we'll maybe get get an idea. So I'll just quickly divided by the total number of hours."
+  },
+  {
+    "start": 712.08,
+    "end": 715.08,
+    "speaker": "SPEAKER_01",
+    "text": "That makes sense. Yeah. That's good."
+  },
+  {
+    "start": 717.08,
+    "end": 723.08,
+    "speaker": "SPEAKER_01",
+    "text": "So we have 12 hours. Right. So that's just."
+  },
+  {
+    "start": 723.08,
+    "end": 746.08,
+    "speaker": "SPEAKER_01",
+    "text": "So that's basically about 160 burgers and our 166. I'll just round this off to 180. Right. 180 burgers and that's basically three burgers a minute."
+  },
+  {
+    "start": 747.08,
+    "end": 758.08,
+    "speaker": "SPEAKER_01",
+    "text": "Right. In the takeaway approach, we saw that assembly takes about one minute each and we are creating about three burgers in a minute."
+  },
+  {
+    "start": 758.08,
+    "end": 772.08,
+    "speaker": "SPEAKER_01",
+    "text": "So this seems like a slight over estimation, especially so when we've sort of taken that they are cooking for the entire duration of the day, it should come out to be slightly lesser than this."
+  },
+  {
+    "start": 773.08,
+    "end": 779.08,
+    "speaker": "SPEAKER_01",
+    "text": "But yeah, the order of magnitude seems about right. So maybe we'll have something around 1500. I like your approach. Right."
+  },
+  {
+    "start": 779.08,
+    "end": 796.08,
+    "speaker": "SPEAKER_01",
+    "text": "This is a good way to solve it. Right. We can conclude the case here. Thanks. Sure. So I just quickly synthesize the total number of burgers served by a typical McDonald outlet is about 2000. It would be slightly less since we did a quick sanity check here. Right. Perfect. Thank you. Thanks."
+  }
+]

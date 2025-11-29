@@ -1,0 +1,1686 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 11.040000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "Cool, so let's jump right in. So our client for today's discussion is called Happy Mart, okay?"
+    },
+    {
+      "start": 11.84,
+      "end": 17.04,
+      "speaker": "SPEAKER_02",
+      "text": "And Happy Mart is a well-established convenience store chain based in Thailand"
+    },
+    {
+      "start": 17.84,
+      "end": 21.6,
+      "speaker": "SPEAKER_02",
+      "text": "with a strong presence in urban areas across the country."
+    },
+    {
+      "start": 21.6,
+      "end": 29.92,
+      "speaker": "SPEAKER_02",
+      "text": "Happy Mart operates over 300 stores and has been in operation for over 20 years."
+    },
+    {
+      "start": 32.160000000000004,
+      "end": 38.480000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "The company has experienced steady growth over those years and currently holds a significant"
+    },
+    {
+      "start": 38.480000000000004,
+      "end": 46.480000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "market share in the region it operates within Thailand. But it is facing declining revenue and profit."
+    },
+    {
+      "start": 47.36,
+      "end": 55.76,
+      "speaker": "SPEAKER_02",
+      "text": "The CEO of Happy Mart has engaged us to help in defining a turnaround strategy for the company."
+    },
+    {
+      "start": 57.04,
+      "end": 58.239999999999995,
+      "speaker": "SPEAKER_02",
+      "text": "How would you get started?"
+    },
+    {
+      "start": 63.03999999999999,
+      "end": 69.52,
+      "speaker": "SPEAKER_01",
+      "text": "Great, well first thank you so much Eli for presenting this case to me and"
+    },
+    {
+      "start": 69.52,
+      "end": 76.8,
+      "speaker": "SPEAKER_01",
+      "text": "with regards to our client Happy Mart. I have a few clarifying questions but first I just want to"
+    },
+    {
+      "start": 76.8,
+      "end": 83.36,
+      "speaker": "SPEAKER_01",
+      "text": "kind of walk through my notes just to make sure we're on the same page. So our client is Happy Mart"
+    },
+    {
+      "start": 83.84,
+      "end": 90.88,
+      "speaker": "SPEAKER_01",
+      "text": "convenience store chain in Thailand predominantly in urban areas. So they've been in business for over"
+    },
+    {
+      "start": 90.88,
+      "end": 97.6,
+      "speaker": "SPEAKER_01",
+      "text": "20 years and have built over 300 stores and have experienced steady growth and have gotten to"
+    },
+    {
+      "start": 97.6,
+      "end": 103.52,
+      "speaker": "SPEAKER_01",
+      "text": "a point where they have a strong market share in their location or specified locations."
+    },
+    {
+      "start": 104.39999999999999,
+      "end": 110.16,
+      "speaker": "SPEAKER_01",
+      "text": "But the problem we're dealing with today is a decrease in revenue and a decrease in profit. So"
+    },
+    {
+      "start": 110.16,
+      "end": 114.88,
+      "speaker": "SPEAKER_01",
+      "text": "we're looking to figure out what strategies we can implement to kind of turn things around."
+    },
+    {
+      "start": 114.88,
+      "end": 115.52,
+      "speaker": "SPEAKER_01",
+      "text": "Is that correct?"
+    },
+    {
+      "start": 116.47999999999999,
+      "end": 120.32,
+      "speaker": "SPEAKER_02",
+      "text": "Exactly, that's a fair assessment. Reach out."
+    },
+    {
+      "start": 120.72,
+      "end": 127.52,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, perfect. And so my first question is in terms of getting this turnaround,"
+    },
+    {
+      "start": 127.52,
+      "end": 133.04,
+      "speaker": "SPEAKER_01",
+      "text": "are we trying to kind of break even by the end of this year or like what's the metric of success"
+    },
+    {
+      "start": 133.04,
+      "end": 135.12,
+      "speaker": "SPEAKER_01",
+      "text": "for turning things around?"
+    },
+    {
+      "start": 136.72,
+      "end": 142.32,
+      "speaker": "SPEAKER_02",
+      "text": "Yeah, so the case doesn't tell us exactly what their profitability is now."
+    },
+    {
+      "start": 143.76,
+      "end": 149.28,
+      "speaker": "SPEAKER_02",
+      "text": "So we would definitely want to reverse the direction. So all we know, we know that it's declining"
+    },
+    {
+      "start": 150.0,
+      "end": 156.08,
+      "speaker": "SPEAKER_02",
+      "text": "and we know that the key metric of success would be turning around the direction."
+    },
+    {
+      "start": 156.08,
+      "end": 161.52,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, so we don't know exactly at this stage, are they profitable? Are they not? Do they need to"
+    },
+    {
+      "start": 161.52,
+      "end": 167.92000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "break even? But we do know that the profitability trend line is negative and success would be"
+    },
+    {
+      "start": 167.92000000000002,
+      "end": 169.52,
+      "speaker": "SPEAKER_02",
+      "text": "to turn that the other direction."
+    },
+    {
+      "start": 170.72,
+      "end": 177.68,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, all right. So we need some sort of intervention to get us back to an increasing revenue"
+    },
+    {
+      "start": 177.68,
+      "end": 181.92000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "system profit. Okay. And what are their clarifying questions do you have?"
+    },
+    {
+      "start": 183.52,
+      "end": 188.08,
+      "speaker": "SPEAKER_01",
+      "text": "Do you have the exact market share percentage for Happy Mart?"
+    },
+    {
+      "start": 189.36,
+      "end": 195.84,
+      "speaker": "SPEAKER_02",
+      "text": "Yes, so we have a bit of information on their market share, which we'll get to in just a second."
+    },
+    {
+      "start": 197.44,
+      "end": 202.72,
+      "speaker": "SPEAKER_02",
+      "text": "But you can assume that I'll give you some some broad brush strokes just to get you started. You"
+    },
+    {
+      "start": 202.72,
+      "end": 213.28,
+      "speaker": "SPEAKER_02",
+      "text": "can assume that they are strongest in Bangkok, where they have a 10% approximate market share."
+    },
+    {
+      "start": 214.8,
+      "end": 220.24,
+      "speaker": "SPEAKER_02",
+      "text": "Bangkok being the capital city of Thailand. And you can assume that their market share"
+    },
+    {
+      "start": 221.04,
+      "end": 226.64,
+      "speaker": "SPEAKER_02",
+      "text": "in the rest of the country. So X Bangkok is going to be negligible right now."
+    },
+    {
+      "start": 227.68,
+      "end": 229.12,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, got it."
+    },
+    {
+      "start": 232.72,
+      "end": 238.96,
+      "speaker": "SPEAKER_01",
+      "text": "All right. And of the 300 stores, what percent of them are located in Bangkok?"
+    },
+    {
+      "start": 241.2,
+      "end": 245.68,
+      "speaker": "SPEAKER_02",
+      "text": "So you can assume, that's a good question. You can assume that for the sake of argument that"
+    },
+    {
+      "start": 245.68,
+      "end": 248.0,
+      "speaker": "SPEAKER_02",
+      "text": "100% of them are located in Bangkok right now."
+    },
+    {
+      "start": 253.68,
+      "end": 261.92,
+      "speaker": "SPEAKER_01",
+      "text": "Right. Let's see. And so he said this is a convenient store chain. So kind of like"
+    },
+    {
+      "start": 261.92,
+      "end": 268.64000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "low mid-market is kind of the the population that we're targeting. Yeah. Yeah, you can assume"
+    },
+    {
+      "start": 268.64000000000004,
+      "end": 274.88,
+      "speaker": "SPEAKER_02",
+      "text": "that customers want they want cheap prices. So they're price sensitive, but they also require"
+    },
+    {
+      "start": 274.88,
+      "end": 281.6,
+      "speaker": "SPEAKER_02",
+      "text": "a nice bright clean premises and a wide assortment of products in convenient locations."
+    },
+    {
+      "start": 283.68,
+      "end": 287.6,
+      "speaker": "SPEAKER_01",
+      "text": "And what products do they sell at the convenience store?"
+    },
+    {
+      "start": 288.0,
+      "end": 294.08000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "So you can imagine, I would say, to give you a benchmark that might be closer to home,"
+    },
+    {
+      "start": 294.08000000000004,
+      "end": 299.52000000000004,
+      "speaker": "SPEAKER_02",
+      "text": "you can imagine kind of a product assortment like a 7-11 that you would see kind of in the United States."
+    },
+    {
+      "start": 301.28000000000003,
+      "end": 309.04,
+      "speaker": "SPEAKER_01",
+      "text": "Got it, Chad. Okay, awesome. Thank you so much for answering my questions."
+    },
+    {
+      "start": 310.72,
+      "end": 315.52000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "I'm just going to take one to two minutes no more than two to sort of structure my thoughts and"
+    },
+    {
+      "start": 315.52,
+      "end": 320.64,
+      "speaker": "SPEAKER_01",
+      "text": "figure out what the best approach should be. Great. Sounds good. Take your time."
+    },
+    {
+      "start": 324.24,
+      "end": 330.4,
+      "speaker": "SPEAKER_01",
+      "text": "Great. So I've taken some time to flesh out my thoughts a little bit. I'm going to walk you through"
+    },
+    {
+      "start": 330.4,
+      "end": 335.68,
+      "speaker": "SPEAKER_01",
+      "text": "kind of what I'm thinking about and maybe we can decide on a direction to go in."
+    },
+    {
+      "start": 337.35999999999996,
+      "end": 342.96,
+      "speaker": "SPEAKER_01",
+      "text": "Great. Let's see where to go. All right. So in the past 20 years,"
+    },
+    {
+      "start": 342.96,
+      "end": 351.03999999999996,
+      "speaker": "SPEAKER_01",
+      "text": "the happy mart has seen steady growth, but now we're dealing with this decrease in profitability."
+    },
+    {
+      "start": 351.03999999999996,
+      "end": 358.0,
+      "speaker": "SPEAKER_01",
+      "text": "So first I want to look at why revenue has been decreasing. In terms of number of products"
+    },
+    {
+      "start": 358.0,
+      "end": 363.28,
+      "speaker": "SPEAKER_01",
+      "text": "are reselling, are we selling less than usual? And then in terms of how much the products cost,"
+    },
+    {
+      "start": 363.28,
+      "end": 368.24,
+      "speaker": "SPEAKER_01",
+      "text": "are they price kind of lower in the market? We're trying to understand the pricing,"
+    },
+    {
+      "start": 368.64,
+      "end": 375.2,
+      "speaker": "SPEAKER_01",
+      "text": "um, schematic for those. And then not only is revenue decreasing, but you said profit is decreasing."
+    },
+    {
+      "start": 375.2,
+      "end": 381.52,
+      "speaker": "SPEAKER_01",
+      "text": "So I want to understand that and maybe do a cost analysis. So maybe costs have gone up over the years."
+    },
+    {
+      "start": 381.52,
+      "end": 391.6,
+      "speaker": "SPEAKER_01",
+      "text": "Do to inflation or additional, um, expenditures required for variable costs. So maybe maintenance"
+    },
+    {
+      "start": 391.6,
+      "end": 397.36,
+      "speaker": "SPEAKER_01",
+      "text": "requires a little bit more support, maybe personnel. There's a lot of turnover or maybe the"
+    },
+    {
+      "start": 397.68,
+      "end": 400.96000000000004,
+      "speaker": "SPEAKER_01",
+      "text": "compensation structure is something to look at with respect to the personnel."
+    },
+    {
+      "start": 402.24,
+      "end": 408.40000000000003,
+      "speaker": "SPEAKER_01",
+      "text": "And so, um, after looking at revenue and then profit, then I think it would be important to do"
+    },
+    {
+      "start": 408.40000000000003,
+      "end": 416.56,
+      "speaker": "SPEAKER_01",
+      "text": "a marketer industry analysis. So first looking at competitors. So it was there a 7-11 substitute that"
+    },
+    {
+      "start": 416.56,
+      "end": 422.8,
+      "speaker": "SPEAKER_01",
+      "text": "came into the market that kind of disrupted things for a happy mart. Um, and then just overall the"
+    },
+    {
+      "start": 422.8,
+      "end": 428.64,
+      "speaker": "SPEAKER_01",
+      "text": "market landscape with respect to the population of the consumers, kind of like how that, how is"
+    },
+    {
+      "start": 428.64,
+      "end": 434.24,
+      "speaker": "SPEAKER_01",
+      "text": "that population change over the past 20 years that they're still looking for this price sensible,"
+    },
+    {
+      "start": 435.12,
+      "end": 441.68,
+      "speaker": "SPEAKER_01",
+      "text": "wise sort of, um, establishment or has a population groom to desire something else. And so"
+    },
+    {
+      "start": 441.68,
+      "end": 448.64,
+      "speaker": "SPEAKER_01",
+      "text": "I think it'd be important to understand what the end consumer, um, goals and needs are as well."
+    },
+    {
+      "start": 449.2,
+      "end": 453.12,
+      "speaker": "SPEAKER_01",
+      "text": "Does any of this stand out to you or do you want to discuss any particular?"
+    },
+    {
+      "start": 453.68,
+      "end": 458.08,
+      "speaker": "SPEAKER_02",
+      "text": "So I just want to make sure that we're on the same page here. So I have three buckets. I'm hearing"
+    },
+    {
+      "start": 458.08,
+      "end": 464.08,
+      "speaker": "SPEAKER_02",
+      "text": "the first one is looking into why revenue is declining, which you would divide into basically price"
+    },
+    {
+      "start": 464.08,
+      "end": 470.24,
+      "speaker": "SPEAKER_02",
+      "text": "and quantity or price and product. Then the second one is completing the profitability analysis"
+    },
+    {
+      "start": 470.24,
+      "end": 476.0,
+      "speaker": "SPEAKER_02",
+      "text": "by looking at the other side of the profitability equation, which is to say cost, um, external factors"
+    },
+    {
+      "start": 476.0,
+      "end": 481.28,
+      "speaker": "SPEAKER_02",
+      "text": "such as inflation, but also internal factors such as variable costs or expenses, operational"
+    },
+    {
+      "start": 481.28,
+      "end": 487.28,
+      "speaker": "SPEAKER_02",
+      "text": "expenses. And then the third bucket would be market slash industry analysis, which then you've"
+    },
+    {
+      "start": 487.28,
+      "end": 496.64,
+      "speaker": "SPEAKER_02",
+      "text": "broken down into competitors and, um, consumer trends essentially. Okay. Um, which do you, which would"
+    },
+    {
+      "start": 496.64,
+      "end": 502.24,
+      "speaker": "SPEAKER_02",
+      "text": "you want to start with? Where would you, where would you, if this was your, your in going structure"
+    },
+    {
+      "start": 502.32,
+      "end": 507.68,
+      "speaker": "SPEAKER_02",
+      "text": "in you work, you were on a team where this was your, your work plan, so to speak, where would you"
+    },
+    {
+      "start": 507.68,
+      "end": 518.88,
+      "speaker": "SPEAKER_01",
+      "text": "want to begin? So since we've been experiencing steady growth over the past 20 years, um,"
+    },
+    {
+      "start": 520.72,
+      "end": 527.12,
+      "speaker": "SPEAKER_01",
+      "text": "perhaps, I think my hypothesis initially could be that we've seen revenue growth, um,"
+    },
+    {
+      "start": 527.2,
+      "end": 533.04,
+      "speaker": "SPEAKER_01",
+      "text": "but perhaps costs have increased. So I would like to look at costs and see if there are any trends"
+    },
+    {
+      "start": 533.84,
+      "end": 541.12,
+      "speaker": "SPEAKER_02",
+      "text": "in that. Okay. Okay. Um, so I think yeah, costs, costs, it would be, would be one area for sure."
+    },
+    {
+      "start": 541.12,
+      "end": 545.2,
+      "speaker": "SPEAKER_02",
+      "text": "And, and the other area would be what you highlight in your third bucket, which is kind of what's"
+    },
+    {
+      "start": 545.2,
+      "end": 550.0,
+      "speaker": "SPEAKER_02",
+      "text": "happening, what's happening in the market. Um, so let's, let's start with that and then,"
+    },
+    {
+      "start": 550.0,
+      "end": 553.44,
+      "speaker": "SPEAKER_02",
+      "text": "and then if we get to, and then if we get to cost, we'll come back to that."
+    },
+    {
+      "start": 553.5200000000001,
+      "end": 559.44,
+      "speaker": "SPEAKER_02",
+      "text": "And so let's start with the, let's start with the market overview for, for happy"
+    },
+    {
+      "start": 559.44,
+      "end": 565.44,
+      "speaker": "SPEAKER_02",
+      "text": "mark. And what I'm going to do is I'm going to share with you, um, and exhibit, um, that we got"
+    },
+    {
+      "start": 565.44,
+      "end": 570.08,
+      "speaker": "SPEAKER_02",
+      "text": "from the chief strategy officer of happy mark. And she shared this market data with us."
+    },
+    {
+      "start": 570.6400000000001,
+      "end": 577.2800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "And I'd like for you to take a, take a minute or two, look at the chart and share the insights"
+    },
+    {
+      "start": 577.2800000000001,
+      "end": 582.8800000000001,
+      "speaker": "SPEAKER_02",
+      "text": "that you are able to glean from this chart with me. Okay. So I'm going to share this week."
+    },
+    {
+      "start": 582.88,
+      "end": 594.0,
+      "speaker": "SPEAKER_02",
+      "text": "You know, and so free to take some time to look over it and then get back to me in a minute or two"
+    },
+    {
+      "start": 594.96,
+      "end": 602.16,
+      "speaker": "SPEAKER_02",
+      "text": "with kind of your key insights or takeaways from the chart. Okay. So I'll just take two minutes to"
+    },
+    {
+      "start": 602.16,
+      "end": 612.32,
+      "speaker": "SPEAKER_01",
+      "text": "read the chart and then, um, and I send. Um, so yeah, just like you said, um, happy mark has a 10%"
+    },
+    {
+      "start": 612.96,
+      "end": 619.68,
+      "speaker": "SPEAKER_01",
+      "text": "has 10% of market share in Bangkok and negligent, uh, and people in market share outside of Bangkok."
+    },
+    {
+      "start": 620.56,
+      "end": 628.32,
+      "speaker": "SPEAKER_01",
+      "text": "Um, I was wondering if you could clarify the numbers at the top of the graph, the 501,000."
+    },
+    {
+      "start": 629.92,
+      "end": 640.0,
+      "speaker": "SPEAKER_01",
+      "text": "Is it, um, it's, um, going? Yeah. I'm wondering if they represent, um, so, uh,"
+    },
+    {
+      "start": 640.8,
+      "end": 648.24,
+      "speaker": "SPEAKER_01",
+      "text": "so I was like, if we took $500, um, happy mark would only be able to claim 10% of that."
+    },
+    {
+      "start": 650.16,
+      "end": 661.12,
+      "speaker": "SPEAKER_02",
+      "text": "So, so here, this is the total industry revenue. Um, so you can assume that 500, um,"
+    },
+    {
+      "start": 662.08,
+      "end": 669.28,
+      "speaker": "SPEAKER_02",
+      "text": "million is there's no, there's no million on the chart, but 500 million USD is the total"
+    },
+    {
+      "start": 670.08,
+      "end": 681.52,
+      "speaker": "SPEAKER_02",
+      "text": "revenue for this industry in Bangkok. And the net profit is the 75 million. Yeah. Okay. Same thing"
+    },
+    {
+      "start": 681.52,
+      "end": 686.0,
+      "speaker": "SPEAKER_02",
+      "text": "on the right. So outside of Bangkok, let's assume that this is, um, a billion."
+    },
+    {
+      "start": 686.4,
+      "end": 699.04,
+      "speaker": "SPEAKER_01",
+      "text": "And that the net profit there is 100 million. Okay. So, um, I'm, the trend I'm seeing, uh,"
+    },
+    {
+      "start": 700.08,
+      "end": 708.24,
+      "speaker": "SPEAKER_01",
+      "text": "it's kind of glaring at me is that while happy mark is also a convenience store brand, the other"
+    },
+    {
+      "start": 708.24,
+      "end": 716.72,
+      "speaker": "SPEAKER_01",
+      "text": "convenience stores comprise of at least half or comprise or take up at least half of the market share,"
+    },
+    {
+      "start": 716.72,
+      "end": 723.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "whether it's in Bangkok or outside of Bangkok. And so I'm wondering if you have any information on"
+    },
+    {
+      "start": 723.6800000000001,
+      "end": 731.44,
+      "speaker": "SPEAKER_01",
+      "text": "how many other competitive convenience stores are represented by this, um, graph."
+    },
+    {
+      "start": 732.1600000000001,
+      "end": 738.6400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "So, we don't have the exact numbers, but I think you're on, you're definitely on the right"
+    },
+    {
+      "start": 739.6800000000001,
+      "end": 744.8000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "track. And I think what we're trying to do here is sort of identify the trends or the themes"
+    },
+    {
+      "start": 745.7600000000001,
+      "end": 753.0400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "that are emerging, um, between both happy martian competitors in Bangkok versus X Bangkok, um,"
+    },
+    {
+      "start": 754.0,
+      "end": 756.5600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "without maybe knowing exactly how many outlets there are."
+    },
+    {
+      "start": 757.52,
+      "end": 765.4399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. And so in terms of, um, consumers looking for, um, price sensible, clean,"
+    },
+    {
+      "start": 766.3199999999999,
+      "end": 770.4799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "um, wide assortment products, and is it safe to say that the pharmacy is hypermarkets, all"
+    },
+    {
+      "start": 770.4799999999999,
+      "end": 777.92,
+      "speaker": "SPEAKER_01",
+      "text": "these other stores are active competitors for happy mart or happy mart? Yes. Okay, gotcha. So, in terms of,"
+    },
+    {
+      "start": 778.88,
+      "end": 790.16,
+      "speaker": "SPEAKER_01",
+      "text": "um, speaking only about Bangkok, so it looks like the other convenience stores, um,"
+    },
+    {
+      "start": 792.7199999999999,
+      "end": 798.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "kind of dominate outside of Bangkok, not allowing happy mart to kind of disrupt that market."
+    },
+    {
+      "start": 798.96,
+      "end": 808.5600000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So, one of my hypotheses is, is that perhaps any efforts outside of Bangkok might just be"
+    },
+    {
+      "start": 808.5600000000001,
+      "end": 817.36,
+      "speaker": "SPEAKER_01",
+      "text": "losing money. So, focusing on Bangkok would be, um, ideal in this situation. Um, the growth rate is,"
+    },
+    {
+      "start": 818.4000000000001,
+      "end": 827.5200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "is smaller than outside of Bangkok, but the market share is only evident in the Bangkok region for"
+    },
+    {
+      "start": 827.52,
+      "end": 838.88,
+      "speaker": "SPEAKER_02",
+      "text": "happy mart. Um, so, let's, let's go a bit further on that. So, so what can you tell us about the"
+    },
+    {
+      "start": 838.88,
+      "end": 845.52,
+      "speaker": "SPEAKER_02",
+      "text": "profitability of the different geographies from the data that we have in this chart?"
+    },
+    {
+      "start": 846.48,
+      "end": 862.3199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "From the data that we have in this chart, the, so the net profit for XBankog is 100 over"
+    },
+    {
+      "start": 863.04,
+      "end": 872.0799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "$100 million over $1,000 million dollars. Don't worry about the zeros, you can just, you can"
+    },
+    {
+      "start": 872.08,
+      "end": 875.5200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "just do the math with the, with the zeros that are here because percentage wise, it'll be the same."
+    },
+    {
+      "start": 875.5200000000001,
+      "end": 882.8000000000001,
+      "speaker": "SPEAKER_01",
+      "text": "So, you can save, save yourself with a zero headache. Anyway, thanks. So, um, about 10% of,"
+    },
+    {
+      "start": 882.8000000000001,
+      "end": 895.2800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "um, or that profit margin is about 10% for outside of Bangkok. And then for, um, within Bangkok, we have about"
+    },
+    {
+      "start": 902.4000000000001,
+      "end": 915.6,
+      "speaker": "SPEAKER_01",
+      "text": "15% for, sorry, 15% period, um, in terms of profit margin for Bangkok. So, it's more profitable to"
+    },
+    {
+      "start": 915.6,
+      "end": 924.64,
+      "speaker": "SPEAKER_01",
+      "text": "engage in the Bangkok market. They hit it. And like, it would make sense why all of happy"
+    },
+    {
+      "start": 924.64,
+      "end": 933.4399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "marks convenience stores are located there. Right. So, if you were to, if you were to summarize kind of,"
+    },
+    {
+      "start": 933.4399999999999,
+      "end": 938.56,
+      "speaker": "SPEAKER_02",
+      "text": "the key messages of what we've discussed so far in this chart, what would be the kind of three"
+    },
+    {
+      "start": 939.36,
+      "end": 943.92,
+      "speaker": "SPEAKER_02",
+      "text": "key takeaways that you would want to share back with the Chief Strategy Officer of Happy Mark,"
+    },
+    {
+      "start": 943.92,
+      "end": 954.56,
+      "speaker": "SPEAKER_01",
+      "text": "who gave us this data. So, this chart, um, is communicating that there isn't,"
+    },
+    {
+      "start": 954.8,
+      "end": 964.24,
+      "speaker": "SPEAKER_01",
+      "text": "much of a presence or opportunity for Happy Mark to engage outside of Bangkok, because they have"
+    },
+    {
+      "start": 964.24,
+      "end": 973.1999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "an negligible market share, um, and other regions of Thailand. Um, even though the growth rate for"
+    },
+    {
+      "start": 974.16,
+      "end": 982.24,
+      "speaker": "SPEAKER_01",
+      "text": "X Bangkok is higher than that of Bangkok, the profitability in terms of the profit margin, um,"
+    },
+    {
+      "start": 982.24,
+      "end": 987.12,
+      "speaker": "SPEAKER_01",
+      "text": "is higher in Bangkok. So, Happy Mark definitely has the opportunity to, um,"
+    },
+    {
+      "start": 989.6800000000001,
+      "end": 999.6800000000001,
+      "speaker": "SPEAKER_01",
+      "text": "kind of deepen their, their influence on the market in Bangkok. So, okay. So, the Chief Strategy Officer"
+    },
+    {
+      "start": 999.6800000000001,
+      "end": 1005.6,
+      "speaker": "SPEAKER_02",
+      "text": "came back to us and she basically said that the problem with Bangkok is that it's saturated."
+    },
+    {
+      "start": 1006.16,
+      "end": 1012.5600000000001,
+      "speaker": "SPEAKER_02",
+      "text": "It's saturated and, and as we saw in the chart, it's, it's highly fragmented. So, we're not really,"
+    },
+    {
+      "start": 1012.5600000000001,
+      "end": 1019.76,
+      "speaker": "SPEAKER_02",
+      "text": "it's very unlikely that we will be able to find the opportunities we need in Bangkok to be able to,"
+    },
+    {
+      "start": 1019.76,
+      "end": 1027.84,
+      "speaker": "SPEAKER_02",
+      "text": "to as they say, move to Needle. Right. Um, so we've, if you fast forward the tape a few months,"
+    },
+    {
+      "start": 1027.84,
+      "end": 1033.76,
+      "speaker": "SPEAKER_02",
+      "text": "discussions have progressed, um, to discussing Happy Mark's expansion strategy outside of Bangkok."
+    },
+    {
+      "start": 1033.76,
+      "end": 1041.6,
+      "speaker": "SPEAKER_02",
+      "text": "Okay. And the Happy Mark Executive Team has identified Puket as the next city for Happy Mark to"
+    },
+    {
+      "start": 1041.6,
+      "end": 1050.0,
+      "speaker": "SPEAKER_02",
+      "text": "expand. And they've shared some store-level data with us. Okay. So, fast forward, we know that"
+    },
+    {
+      "start": 1050.0,
+      "end": 1056.64,
+      "speaker": "SPEAKER_02",
+      "text": "Bangkok is saturated. And as you correctly mentioned, it is more profitable if you look at the margins,"
+    },
+    {
+      "start": 1056.64,
+      "end": 1061.84,
+      "speaker": "SPEAKER_02",
+      "text": "but in, in terms of saturation, it's also highly saturated and therefore we'll be into a elsewhere."
+    },
+    {
+      "start": 1061.84,
+      "end": 1069.84,
+      "speaker": "SPEAKER_02",
+      "text": "So, I'm going to share with you another exhibit. Okay. And what I'd like for you to do now is to"
+    },
+    {
+      "start": 1069.84,
+      "end": 1077.4399999999998,
+      "speaker": "SPEAKER_02",
+      "text": "share with me the insights that you can gather from the following exhibit that is regarding the"
+    },
+    {
+      "start": 1077.4399999999998,
+      "end": 1086.48,
+      "speaker": "SPEAKER_02",
+      "text": "opportunity of opening a store in Puket. Puket? So, that's coming up right now. And you're welcome to"
+    },
+    {
+      "start": 1086.48,
+      "end": 1092.64,
+      "speaker": "SPEAKER_02",
+      "text": "take a minute or two to look at this. You're welcome to write down any numbers. Um, and, um, let me know"
+    },
+    {
+      "start": 1092.64,
+      "end": 1097.92,
+      "speaker": "SPEAKER_02",
+      "text": "how you wish this is the movie. I wish to proceed. So, I'll just take, uh,"
+    },
+    {
+      "start": 1099.2,
+      "end": 1107.44,
+      "speaker": "SPEAKER_01",
+      "text": "matter two minutes to read and jot down some notes. Go ahead. That's so despair."
+    },
+    {
+      "start": 1108.72,
+      "end": 1115.28,
+      "speaker": "SPEAKER_01",
+      "text": "And the average transaction value per customer is two dollars per visit."
+    },
+    {
+      "start": 1116.24,
+      "end": 1119.84,
+      "speaker": "SPEAKER_02",
+      "text": "That's correct. Two dollars per two dollars per customer per visit."
+    },
+    {
+      "start": 1124.6399999999999,
+      "end": 1139.12,
+      "speaker": "SPEAKER_01",
+      "text": "Okay, a long, wonderful. So, given this exhibit, I, I'm looking at two things, kind of like the fix"
+    },
+    {
+      "start": 1139.12,
+      "end": 1146.9599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "costs and then the variable costs. So, in terms of the fixed costs to open a new store,"
+    },
+    {
+      "start": 1148.32,
+      "end": 1158.2399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "in Puket, is that correct? Okay, to open a new store in Puket, that's going to be about $500,000,"
+    },
+    {
+      "start": 1158.32,
+      "end": 1169.92,
+      "speaker": "SPEAKER_01",
+      "text": "which is 500 square feet per year times a thousand square feet. And so, for per store,"
+    },
+    {
+      "start": 1170.72,
+      "end": 1182.8,
+      "speaker": "SPEAKER_01",
+      "text": "it will cost at least half a million dollars. So, we are at a, or that's the cost to open a new store."
+    },
+    {
+      "start": 1182.8799999999999,
+      "end": 1191.04,
+      "speaker": "SPEAKER_01",
+      "text": "And so, um, I think next I want to look at the variable costs, which are based on the revenue,"
+    },
+    {
+      "start": 1191.04,
+      "end": 1201.44,
+      "speaker": "SPEAKER_01",
+      "text": "so then we can calculate revenue. Given that average transaction value per customer is two dollars,"
+    },
+    {
+      "start": 1202.1599999999999,
+      "end": 1209.28,
+      "speaker": "SPEAKER_01",
+      "text": "per visit, and we get per customer, I'm going to multiply this two dollars by a thousand,"
+    },
+    {
+      "start": 1210.24,
+      "end": 1218.72,
+      "speaker": "SPEAKER_01",
+      "text": "um, or a hundred thousand, um, per month. Do we have any data on how many, um,"
+    },
+    {
+      "start": 1223.36,
+      "end": 1231.92,
+      "speaker": "SPEAKER_02",
+      "text": "visits the average customer makes in a month? So, for convenience stores, they do not track individual"
+    },
+    {
+      "start": 1231.92,
+      "end": 1235.92,
+      "speaker": "SPEAKER_02",
+      "text": "customers. There's no loyalty program, and there's no way of knowing who is visiting a lot of the"
+    },
+    {
+      "start": 1235.92,
+      "end": 1243.52,
+      "speaker": "SPEAKER_02",
+      "text": "transactions are cash based. So, you could assume that each, each, each visit is a unique customer,"
+    },
+    {
+      "start": 1244.24,
+      "end": 1247.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "even if it's the same person, because there's no way, they don't have any way of knowing,"
+    },
+    {
+      "start": 1247.8400000000001,
+      "end": 1250.64,
+      "speaker": "SPEAKER_02",
+      "text": "you know, you could come in and buy a coffee in the morning and then the next day,"
+    },
+    {
+      "start": 1250.64,
+      "end": 1254.0,
+      "speaker": "SPEAKER_02",
+      "text": "you could come in and buy a donut that they don't know that it's love, you know, and they just"
+    },
+    {
+      "start": 1254.0,
+      "end": 1265.44,
+      "speaker": "SPEAKER_00",
+      "text": "know that someone else came in. Okay, God, so, let's see. So, we have two dollars per visit per"
+    },
+    {
+      "start": 1265.52,
+      "end": 1274.56,
+      "speaker": "SPEAKER_01",
+      "text": "customer, um, and then I'll multiply that by a hundred thousand customers per month."
+    },
+    {
+      "start": 1276.0,
+      "end": 1284.48,
+      "speaker": "SPEAKER_01",
+      "text": "We want to look at the yearly cost, correct? Is it? So, then I'll multiply that by three, or,"
+    },
+    {
+      "start": 1286.16,
+      "end": 1293.2,
+      "speaker": "SPEAKER_01",
+      "text": "sorry, 12 months, in one year, to get the annual cost."
+    },
+    {
+      "start": 1295.44,
+      "end": 1310.48,
+      "speaker": "SPEAKER_01",
+      "text": "So, then that will give me two times 100,000, is 200,000 times 12, is going to be 20,"
+    },
+    {
+      "start": 1312.0,
+      "end": 1322.24,
+      "speaker": "SPEAKER_01",
+      "text": "but I'll go, so about 2.4 million dollars is our annual variable cost. Oh wait,"
+    },
+    {
+      "start": 1323.1200000000001,
+      "end": 1332.16,
+      "speaker": "SPEAKER_02",
+      "text": "sorry, is there revenue for the year? So, you're very close. There's one important assumption"
+    },
+    {
+      "start": 1332.16,
+      "end": 1339.52,
+      "speaker": "SPEAKER_02",
+      "text": "that I think you may be missing, which is that 100,000 number is the, the estimate for bank hot."
+    },
+    {
+      "start": 1340.24,
+      "end": 1352.16,
+      "speaker": "SPEAKER_02",
+      "text": "So, the 100,000, anything, a 50%, 50% of that. So, the same, you can just, just do a 50% haircut,"
+    },
+    {
+      "start": 1352.16,
+      "end": 1359.8400000000001,
+      "speaker": "SPEAKER_02",
+      "text": "on the, on the number that you just got. Exactly. So, 1.2 million would be our projected, um,"
+    },
+    {
+      "start": 1359.8400000000001,
+      "end": 1369.76,
+      "speaker": "SPEAKER_02",
+      "text": "revenue, um, per, per year from, from the story in Cougat. Okay, so then our fixed cost is 500,000."
+    },
+    {
+      "start": 1370.64,
+      "end": 1378.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "So, that's minus 1.2 million in revenue minus 0.5 million for our fixed costs. Then we have"
+    },
+    {
+      "start": 1378.32,
+      "end": 1383.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "our variable cost, which is half of the revenue. So, that's about 0.6 million. So, we're subtracting"
+    },
+    {
+      "start": 1383.9199999999998,
+      "end": 1392.96,
+      "speaker": "SPEAKER_01",
+      "text": "that from 1.2 as well. And so, I know that, um, half a million and, or 500,000, 600,000 make"
+    },
+    {
+      "start": 1393.6799999999998,
+      "end": 1406.8799999999999,
+      "speaker": "SPEAKER_01",
+      "text": "about like 1.1 million. So, subtracting that from 1.2, we're getting 0.1 million, um, or 100,"
+    },
+    {
+      "start": 1409.28,
+      "end": 1419.6,
+      "speaker": "SPEAKER_01",
+      "text": "um, 1000. So, um, our profit, our net profit is going to be a 100,000 dollars if we open up one store"
+    },
+    {
+      "start": 1420.1599999999999,
+      "end": 1429.6799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "in Cougat. And, and how about our margin? What, what is our margin looking like on this store?"
+    },
+    {
+      "start": 1429.6799999999998,
+      "end": 1433.76,
+      "speaker": "SPEAKER_02",
+      "text": "Because, well, what they'll be curious to know is, is how it compares to our current margins."
+    },
+    {
+      "start": 1434.4,
+      "end": 1440.64,
+      "speaker": "SPEAKER_01",
+      "text": "So, our current margins, um, in, being half of 15% and our current margins outside of being"
+    },
+    {
+      "start": 1440.64,
+      "end": 1449.68,
+      "speaker": "SPEAKER_01",
+      "text": "half of 10%. So, if we take our net profit, which is 100,000 dollars to buy that by 1.2 million,"
+    },
+    {
+      "start": 1454.8799999999999,
+      "end": 1463.44,
+      "speaker": "SPEAKER_01",
+      "text": "1.2, we get, which is, I want to be 12, sorry, I didn't say that loud, um, but, um,"
+    },
+    {
+      "start": 1463.52,
+      "end": 1470.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "that's going to be a little less than 10%. So, um, can you go, can you get a little bit closer,"
+    },
+    {
+      "start": 1470.3200000000002,
+      "end": 1476.16,
+      "speaker": "SPEAKER_02",
+      "text": "can you get a little bit closer for me? Not closer to the microphone, closer to the number."
+    },
+    {
+      "start": 1476.72,
+      "end": 1481.76,
+      "speaker": "SPEAKER_02",
+      "text": "It will, you are, you are correct, it will be less than 10%. That's a, that's a, that is,"
+    },
+    {
+      "start": 1481.76,
+      "end": 1488.56,
+      "speaker": "SPEAKER_02",
+      "text": "as we would say, it can z directionally correct, but can you get to, can you get closer to the,"
+    },
+    {
+      "start": 1488.56,
+      "end": 1497.12,
+      "speaker": "SPEAKER_01",
+      "text": "to the exact answer from your claims? Of course I can. I would be honored and delighted to, um,"
+    },
+    {
+      "start": 1500.32,
+      "end": 1512.24,
+      "speaker": "SPEAKER_01",
+      "text": "so that will be about nine percent. Are you wondering exactly? So, that's pretty close. I"
+    },
+    {
+      "start": 1512.24,
+      "end": 1516.3999999999999,
+      "speaker": "SPEAKER_02",
+      "text": "think that's close enough. It would be that the correct answer is 8.3 because we're looking at,"
+    },
+    {
+      "start": 1516.4,
+      "end": 1521.1200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "we're looking at, as you correctly pointed out, $100,000 for the store in Cooquette,"
+    },
+    {
+      "start": 1523.8400000000001,
+      "end": 1530.24,
+      "speaker": "SPEAKER_02",
+      "text": "as the, the, the profit and, yeah, and the total revenue, on a total revenue of,"
+    },
+    {
+      "start": 1531.8400000000001,
+      "end": 1542.3200000000002,
+      "speaker": "SPEAKER_01",
+      "text": "of 1.2 million. Okay, so we're looking at 8.3% as our profit margin for opening one store in one"
+    },
+    {
+      "start": 1542.3999999999999,
+      "end": 1553.6,
+      "speaker": "SPEAKER_01",
+      "text": "year in Cooquette. Correct. Okay, um, that is lower than the profit margin we would expect outside"
+    },
+    {
+      "start": 1553.6,
+      "end": 1562.0,
+      "speaker": "SPEAKER_02",
+      "text": "of Bangkok. It is. So, what can you, what can you apply? What would you, what would you advise"
+    },
+    {
+      "start": 1562.0,
+      "end": 1568.32,
+      "speaker": "SPEAKER_02",
+      "text": "the managed to team on now that you have some of these numbers? What would be, what would be your,"
+    },
+    {
+      "start": 1568.3999999999999,
+      "end": 1580.32,
+      "speaker": "SPEAKER_01",
+      "text": "your guidance after performing this analysis? So, we started with 20 years of study growth for"
+    },
+    {
+      "start": 1580.32,
+      "end": 1587.6799999999998,
+      "speaker": "SPEAKER_01",
+      "text": "Happy Mart, but with a strong market share in Bangkok, but we've been seeing a decrease in revenue"
+    },
+    {
+      "start": 1587.6799999999998,
+      "end": 1596.48,
+      "speaker": "SPEAKER_01",
+      "text": "and decrease in profit. So, based on the analysis that I've performed, we have found that,"
+    },
+    {
+      "start": 1599.28,
+      "end": 1610.08,
+      "speaker": "SPEAKER_01",
+      "text": "there is a 15% or the profit margin is 15% and Bangkok and 10% outside of Bangkok. So, it would,"
+    },
+    {
+      "start": 1612.48,
+      "end": 1617.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "it would seem like Bangkok would be the way to go, but because the market is highly saturated and"
+    },
+    {
+      "start": 1617.9199999999998,
+      "end": 1624.08,
+      "speaker": "SPEAKER_01",
+      "text": "highly fragmented, we're thinking about exploring, or it would be wise to explore outside of Bangkok."
+    },
+    {
+      "start": 1624.8799999999999,
+      "end": 1631.84,
+      "speaker": "SPEAKER_01",
+      "text": "So, Cooquette was mentioned and we did an analysis of costs and revenue to get the profitability of"
+    },
+    {
+      "start": 1632.96,
+      "end": 1641.4399999999998,
+      "speaker": "SPEAKER_01",
+      "text": "opening a store in Cooquette. The profit margin is less than what we would expect at about 8.3%."
+    },
+    {
+      "start": 1642.1599999999999,
+      "end": 1648.0,
+      "speaker": "SPEAKER_01",
+      "text": "So, in order to kind of turn things around to go from"
+    },
+    {
+      "start": 1648.32,
+      "end": 1657.84,
+      "speaker": "SPEAKER_01",
+      "text": "declining profit or like declining profitability to a climate profitability, I would,"
+    },
+    {
+      "start": 1662.0,
+      "end": 1669.12,
+      "speaker": "SPEAKER_01",
+      "text": "I would look into the possibility of expansion in terms of mergers and acquisitions."
+    },
+    {
+      "start": 1669.6,
+      "end": 1678.9599999999998,
+      "speaker": "SPEAKER_01",
+      "text": "So, maybe partnering with the other convenience stores and kind of creating a synergistic"
+    },
+    {
+      "start": 1678.9599999999998,
+      "end": 1687.52,
+      "speaker": "SPEAKER_01",
+      "text": "relationship such that we can use what's already available in the market to"
+    },
+    {
+      "start": 1689.84,
+      "end": 1695.04,
+      "speaker": "SPEAKER_01",
+      "text": "to drive our revenue growth. So, looking at the top performing convenience stores and seeing"
+    },
+    {
+      "start": 1695.12,
+      "end": 1699.52,
+      "speaker": "SPEAKER_01",
+      "text": "if we can acquire those or merge with them, I think would be a good strategy."
+    },
+    {
+      "start": 1699.52,
+      "end": 1705.52,
+      "speaker": "SPEAKER_02",
+      "text": "Okay, great. Cool. Well, thank you for that love and that brings us to the conclusion of the case"
+    },
+    {
+      "start": 1705.52,
+      "end": 1710.96,
+      "speaker": "SPEAKER_02",
+      "text": "today. So, very good job. It's always difficult to do under pressure and especially with an audience"
+    },
+    {
+      "start": 1710.96,
+      "end": 1717.92,
+      "speaker": "SPEAKER_02",
+      "text": "of 100 people, which will not be the case in real life. So, very well done. Before we debrief,"
+    },
+    {
+      "start": 1718.4,
+      "end": 1727.1200000000001,
+      "speaker": "SPEAKER_01",
+      "text": "go ahead. Sorry, I just wanted to add very quickly. One of the risks of doing this could be"
+    },
+    {
+      "start": 1727.8400000000001,
+      "end": 1735.44,
+      "speaker": "SPEAKER_01",
+      "text": "brand perception might be affected if we're working with another enterprise. So, it would be"
+    },
+    {
+      "start": 1735.44,
+      "end": 1741.76,
+      "speaker": "SPEAKER_01",
+      "text": "important to make sure that the company that we, if we do merger acquire, that it aligns with our brand."
+    },
+    {
+      "start": 1742.72,
+      "end": 1746.24,
+      "speaker": "SPEAKER_02",
+      "text": "Very good. Note it. Thank you. Cool. So, how did that feel?"
+    },
+    {
+      "start": 1748.48,
+      "end": 1759.6,
+      "speaker": "SPEAKER_01",
+      "text": "I am incredibly sweaty, but I feel challenged in a way that I haven't necessarily been in my case,"
+    },
+    {
+      "start": 1760.0,
+      "end": 1764.7199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "but I think that's a good thing. I think that's a good thing to do under pressure and experience."
+    },
+    {
+      "start": 1764.7199999999998,
+      "end": 1770.6399999999999,
+      "speaker": "SPEAKER_01",
+      "text": "The numbers were okay. I think kind of the open-endedness was a little stressful."
+    },
+    {
+      "start": 1772.3999999999999,
+      "end": 1775.9199999999998,
+      "speaker": "SPEAKER_01",
+      "text": "But yeah, thank you so much for your time. Thank you for working on this case."
+    },
+    {
+      "start": 1775.9199999999998,
+      "end": 1781.04,
+      "speaker": "SPEAKER_02",
+      "text": "You're welcome. So, what I'd like to do is I'd like to go through the different parts of the case,"
+    },
+    {
+      "start": 1781.04,
+      "end": 1785.6799999999998,
+      "speaker": "SPEAKER_02",
+      "text": "and I'll let you decide you want to go beginning to end or should we start at the end where we just"
+    },
+    {
+      "start": 1785.68,
+      "end": 1789.52,
+      "speaker": "SPEAKER_02",
+      "text": "were and work our way backwards? What would be most helpful for you in terms of processing the"
+    },
+    {
+      "start": 1789.52,
+      "end": 1796.72,
+      "speaker": "SPEAKER_02",
+      "text": "feedback? Beginning to add a please. Beginning to end. Okay. So, the beginning as you know, and as"
+    },
+    {
+      "start": 1796.72,
+      "end": 1801.28,
+      "speaker": "SPEAKER_02",
+      "text": "everyone knows, is all about structuring. Okay? And this is where you want to make sure that you have"
+    },
+    {
+      "start": 1801.28,
+      "end": 1806.88,
+      "speaker": "SPEAKER_02",
+      "text": "your three to four level one buckets, your level two buckets, and then you give some examples"
+    },
+    {
+      "start": 1806.88,
+      "end": 1814.8,
+      "speaker": "SPEAKER_02",
+      "text": "on level three. So, here, I think your buckets were revenue, cost slash profitability, and then"
+    },
+    {
+      "start": 1815.52,
+      "end": 1822.72,
+      "speaker": "SPEAKER_02",
+      "text": "market slash industry analysis. What I would have done here, and I would say what you did was"
+    },
+    {
+      "start": 1822.72,
+      "end": 1828.1599999999999,
+      "speaker": "SPEAKER_02",
+      "text": "was was was pretty close. What I would have done here, how I would have bucketed this, is"
+    },
+    {
+      "start": 1830.72,
+      "end": 1840.08,
+      "speaker": "SPEAKER_02",
+      "text": "some version of the the three C's framework, right? So, company customers in competition."
+    },
+    {
+      "start": 1840.6399999999999,
+      "end": 1846.56,
+      "speaker": "SPEAKER_02",
+      "text": "Because I think that your revenue and cost and profitability buckets can actually all be merged"
+    },
+    {
+      "start": 1846.56,
+      "end": 1852.8,
+      "speaker": "SPEAKER_02",
+      "text": "into a bucket that you could call financials or company financials, if you will, and that's where"
+    },
+    {
+      "start": 1852.8,
+      "end": 1858.6399999999999,
+      "speaker": "SPEAKER_02",
+      "text": "then you have your revenue and cost categories under there. Your competitive questions could then"
+    },
+    {
+      "start": 1858.6399999999999,
+      "end": 1862.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "be, as you correctly said, who are the major competitors? One thing you didn't mention, what have"
+    },
+    {
+      "start": 1862.8799999999999,
+      "end": 1867.9199999999998,
+      "speaker": "SPEAKER_02",
+      "text": "they been doing recently? Are there any moves planned? And then how are we different from competition?"
+    },
+    {
+      "start": 1868.5600000000002,
+      "end": 1874.24,
+      "speaker": "SPEAKER_02",
+      "text": "Is it completely homogenous? Are we separated? Do we have some sort of elements of"
+    },
+    {
+      "start": 1874.24,
+      "end": 1878.8000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "distinctiveness in what are they? Is it customer service? Is it location? Is it whatever?"
+    },
+    {
+      "start": 1879.92,
+      "end": 1887.28,
+      "speaker": "SPEAKER_02",
+      "text": "And then on the third bucket customer, really understanding who are customers, what do they"
+    },
+    {
+      "start": 1887.28,
+      "end": 1891.76,
+      "speaker": "SPEAKER_02",
+      "text": "value most when they decide which store they're going to visit? And are there any other segments that"
+    },
+    {
+      "start": 1891.76,
+      "end": 1900.4,
+      "speaker": "SPEAKER_02",
+      "text": "were not correctly targeting that we could attack? An optional area to investigate, which you could"
+    },
+    {
+      "start": 1900.4,
+      "end": 1904.8799999999999,
+      "speaker": "SPEAKER_02",
+      "text": "include from the beginning is this whole idea of growth, which I think you started to, we started"
+    },
+    {
+      "start": 1904.8799999999999,
+      "end": 1914.8,
+      "speaker": "SPEAKER_02",
+      "text": "to talk about more when we got to the end, but you are welcome to have a separate bucket that is,"
+    },
+    {
+      "start": 1914.8,
+      "end": 1919.92,
+      "speaker": "SPEAKER_02",
+      "text": "you know, growth or mergers and acquisitions, which is, you know, can we look at merging or"
+    },
+    {
+      "start": 1919.92,
+      "end": 1924.96,
+      "speaker": "SPEAKER_02",
+      "text": "acquiring, you know, attractive targets in this space or whatever the case may be, right? So,"
+    },
+    {
+      "start": 1925.28,
+      "end": 1929.68,
+      "speaker": "SPEAKER_02",
+      "text": "kind of a three possibly four bucket structure, pretty close to what you have, but I would have"
+    },
+    {
+      "start": 1929.68,
+      "end": 1936.8000000000002,
+      "speaker": "SPEAKER_02",
+      "text": "included revenue costs under the same bucket of company financials, and then have competitors"
+    },
+    {
+      "start": 1936.8000000000002,
+      "end": 1943.6000000000001,
+      "speaker": "SPEAKER_02",
+      "text": "and consumers on their own little buckets. Cool."
+    },
+    {
+      "start": 1943.9199999999998,
+      "end": 1955.76,
+      "speaker": "SPEAKER_02",
+      "text": "On the, on the, the second part, which was around the fragmentation and the breakdown, I think here,"
+    },
+    {
+      "start": 1956.32,
+      "end": 1962.24,
+      "speaker": "SPEAKER_02",
+      "text": "sort of the big, the big takeaway and you've got most of them was basically about Bangkok being"
+    },
+    {
+      "start": 1962.9599999999998,
+      "end": 1969.12,
+      "speaker": "SPEAKER_02",
+      "text": "fragment and saturated, us not having any presence outside of Bangkok, it also the fact that"
+    },
+    {
+      "start": 1969.28,
+      "end": 1974.9599999999998,
+      "speaker": "SPEAKER_02",
+      "text": "the margins were different in both places. So, I think you did a good job there. I think my major"
+    },
+    {
+      "start": 1974.9599999999998,
+      "end": 1982.0,
+      "speaker": "SPEAKER_02",
+      "text": "comment on the part that immediately followed that, which was about the, kind of basically what you"
+    },
+    {
+      "start": 1982.0,
+      "end": 1989.28,
+      "speaker": "SPEAKER_02",
+      "text": "were doing was calculating the P&L of a, of a Pouquet store for a year. The part that was really,"
+    },
+    {
+      "start": 1989.28,
+      "end": 1995.76,
+      "speaker": "SPEAKER_02",
+      "text": "the most important part there to realize was that this eight, three or nine percent margin that"
+    },
+    {
+      "start": 1995.92,
+      "end": 2002.24,
+      "speaker": "SPEAKER_02",
+      "text": "they could expect in Pouquet is going to be margin-dynamative, meaning they're used to a much"
+    },
+    {
+      "start": 2002.24,
+      "end": 2009.28,
+      "speaker": "SPEAKER_02",
+      "text": "higher margin than that. And so, the question here really becomes to the CEO, are you trying to"
+    },
+    {
+      "start": 2010.08,
+      "end": 2018.08,
+      "speaker": "SPEAKER_02",
+      "text": "grow your revenue and profit in dollar amount? Or are you trying to increase your margin or maintain"
+    },
+    {
+      "start": 2018.08,
+      "end": 2023.44,
+      "speaker": "SPEAKER_02",
+      "text": "your margin and your profitability in terms of percent? And this was an important nuance that we"
+    },
+    {
+      "start": 2023.44,
+      "end": 2031.44,
+      "speaker": "SPEAKER_02",
+      "text": "didn't quite get to. But this is, I think for me, the margin dilution point is I think the key"
+    },
+    {
+      "start": 2031.44,
+      "end": 2036.64,
+      "speaker": "SPEAKER_02",
+      "text": "thing that separates a very good performance, which is what you gave with maybe a distinctive"
+    },
+    {
+      "start": 2036.64,
+      "end": 2042.56,
+      "speaker": "SPEAKER_02",
+      "text": "performance, is having that element of margin dilution there and saying, hey, you need to think"
+    },
+    {
+      "start": 2042.56,
+      "end": 2047.1200000000001,
+      "speaker": "SPEAKER_02",
+      "text": "about your priorities, happy mark, because if you're just looking for growth, get out, you have to"
+    },
+    {
+      "start": 2047.1200000000001,
+      "end": 2052.0,
+      "speaker": "SPEAKER_02",
+      "text": "get out of Bangkok, but you need to know it's going to cost you margin, even though it's going to"
+    },
+    {
+      "start": 2052.16,
+      "end": 2057.68,
+      "speaker": "SPEAKER_02",
+      "text": "be adding to your revenue and your profit overall. So, I think that would be the big thing there."
+    },
+    {
+      "start": 2058.24,
+      "end": 2064.08,
+      "speaker": "SPEAKER_02",
+      "text": "And then I think on the final question where I asked you just to synthesize your recommendation"
+    },
+    {
+      "start": 2064.08,
+      "end": 2070.64,
+      "speaker": "SPEAKER_02",
+      "text": "for the top team, you're welcome to ask for time, by the way. And I think you should feel free to"
+    },
+    {
+      "start": 2070.64,
+      "end": 2076.08,
+      "speaker": "SPEAKER_02",
+      "text": "ask for time at any point in the case, including the very end to gather your thoughts. And then you take,"
+    },
+    {
+      "start": 2076.08,
+      "end": 2080.96,
+      "speaker": "SPEAKER_02",
+      "text": "you know, maybe 45 seconds to a minute, and then when you come back to it, try to be a bit more"
+    },
+    {
+      "start": 2080.96,
+      "end": 2085.28,
+      "speaker": "SPEAKER_02",
+      "text": "brief, a bit more succinct in terms of, you know, top down, these are the three points,"
+    },
+    {
+      "start": 2086.2400000000002,
+      "end": 2093.76,
+      "speaker": "SPEAKER_02",
+      "text": "these are the, you know, these are the risks, you know, and that's it, right? So, those would be my"
+    },
+    {
+      "start": 2094.4,
+      "end": 2102.4,
+      "speaker": "SPEAKER_02",
+      "text": "my key feedback points. I think you did a great job throughout and a great job on the math as well."
+    }
+  ],
+  "grading": {
+    "communication": 12,
+    "framework": 15,
+    "math": 11,
+    "case_difficulty": 10,
+    "final_summary": 14,
+    "overall_thoughts": "The framework was well-structured, but the math section lacked clarity."
+  }
+}

@@ -1,0 +1,1208 @@
+[
+  {
+    "start": 0.0,
+    "end": 13.0,
+    "speaker": "SPEAKER_02",
+    "text": "Hi Daniela, excited to be casing with you. I will jump right in to the case if you have a paper ready to go."
+  },
+  {
+    "start": 13.0,
+    "end": 15.0,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect, I'm ready, Abby."
+  },
+  {
+    "start": 15.0,
+    "end": 28.0,
+    "speaker": "SPEAKER_02",
+    "text": "Fantastic. So our client is KLM, a global airline that operates on average 650 flights per day at about 150 airports globally."
+  },
+  {
+    "start": 28.0,
+    "end": 44.0,
+    "speaker": "SPEAKER_02",
+    "text": "KLM has successfully completed three separate AI tool pilots with BCG, each focusing on different AI based operational tools aimed at optimizing various aspects of their airline operations."
+  },
+  {
+    "start": 44.0,
+    "end": 54.0,
+    "speaker": "SPEAKER_02",
+    "text": "The pilots have been successful and given the outcomes of these pilots, KLM now seeks to deploy these AI solutions across its entire fleet for operations."
+  },
+  {
+    "start": 54.0,
+    "end": 66.0,
+    "speaker": "SPEAKER_02",
+    "text": "So the questions for us today is how should KLM approach scaling this technology to ensure a smooth and effective implementation across all departments and routes."
+  },
+  {
+    "start": 66.0,
+    "end": 74.0,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect. Thank you so much Abby. Very excited to start this case. So let me just recap to make sure that I got all the information."
+  },
+  {
+    "start": 74.0,
+    "end": 94.0,
+    "speaker": "SPEAKER_01",
+    "text": "So our client is KLM, a global Dutch airline, and they ask us to understand how they can scale these three AI tools to optimize their operations across their entire fleet, which composes 150 airports and 650 flights."
+  },
+  {
+    "start": 94.0,
+    "end": 102.0,
+    "speaker": "SPEAKER_01",
+    "text": "And they want to ensure that it is a smooth and effective implementation. Is that correct? Yeah, that's correct."
+  },
+  {
+    "start": 102.0,
+    "end": 121.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, perfect. Before we jump into the question, I would love to have some clarifying questions so I can better understand those AI tools. Could you provide me more information of like, what is the goal of these three AI tools and what is the benefit for the client of each of those tools?"
+  },
+  {
+    "start": 121.0,
+    "end": 139.0,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, great question. So the airline views this as primarily a cost-saving exercise. So in terms of the objective, the various AI tools enhance operational into efficiencies and reduce costs and the aim is to streamline all operational areas and provide a consistent service quality as well."
+  },
+  {
+    "start": 139.0,
+    "end": 151.0,
+    "speaker": "SPEAKER_02",
+    "text": "But I think the primary objective is how can we save costs. And then in terms of the different tools that that were deployed. So there's three tools. One is pathfinder."
+  },
+  {
+    "start": 151.0,
+    "end": 168.0,
+    "speaker": "SPEAKER_02",
+    "text": "The second is century and runway. And the third is crew vision. So starting with AI tool one pathfinder. This is a tool that optimizes fleets and tail assignments that and it results in a 15% reduction in fairy flights, which is essentially empty."
+  },
+  {
+    "start": 168.0,
+    "end": 181.0,
+    "speaker": "SPEAKER_02",
+    "text": "So it can actually empty flights flying to change the location of the plane. So it can fly a specific route. So it might go from be through to Amsterdam because Amsterdam needs an extra plane, but the flight is empty."
+  },
+  {
+    "start": 181.0,
+    "end": 199.0,
+    "speaker": "SPEAKER_02",
+    "text": "And it also results in a 10% increase in on time to purchase. So that's tool one tool two century and runway is used for a day to day operations destruction management and it led to a 20% reduction in delay related costs for the airline."
+  },
+  {
+    "start": 200.0,
+    "end": 214.0,
+    "speaker": "SPEAKER_02",
+    "text": "And then tool three crew vision balances crew rosters staffing efficiencies and that results in a reduction in overtime hours by about 10%."
+  },
+  {
+    "start": 214.0,
+    "end": 220.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that's great. Let me just recap to make sure that I got all the information. So it's basically two three tools."
+  },
+  {
+    "start": 220.0,
+    "end": 235.0,
+    "speaker": "SPEAKER_01",
+    "text": "Pathfinder, centrally runway, and crew vision to one helps to reduce by 15% fairy flights and increase by 10% on time the pressures to two reduces by 20%."
+  },
+  {
+    "start": 235.0,
+    "end": 247.0,
+    "speaker": "SPEAKER_01",
+    "text": "So that's a great question. They aim to complete the deployment of the three softwares within about 12 months to so basically it coincides with the next start of the day."
+  },
+  {
+    "start": 247.0,
+    "end": 253.88,
+    "speaker": "SPEAKER_01",
+    "text": "minute to structure a sorry last question in terms of like timeline. Do they have any timeline that they"
+  },
+  {
+    "start": 253.88,
+    "end": 259.72,
+    "speaker": "SPEAKER_02",
+    "text": "want to finalize this project? That's a great question. They aim to complete the deployment of the"
+  },
+  {
+    "start": 259.72,
+    "end": 265.24,
+    "speaker": "SPEAKER_02",
+    "text": "three softwares within about 12 months to so basically it coincides with the next start of their"
+  },
+  {
+    "start": 265.24,
+    "end": 273.24,
+    "speaker": "SPEAKER_01",
+    "text": "operational year. Okay, perfect. I think I have all the information. Do you mind if I take a minute"
+  },
+  {
+    "start": 273.24,
+    "end": 276.84000000000003,
+    "speaker": "SPEAKER_01",
+    "text": "to structure my thoughts and share with you? Yes, for sure."
+  },
+  {
+    "start": 281.64,
+    "end": 287.72,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, perfect. So in order to evaluate how we can deploy in this KO-3 AI 2s,"
+  },
+  {
+    "start": 288.44,
+    "end": 295.24,
+    "speaker": "SPEAKER_01",
+    "text": "is move an effective way for KLM, I would start evaluating three main things. So the first thing"
+  },
+  {
+    "start": 295.24,
+    "end": 300.36,
+    "speaker": "SPEAKER_01",
+    "text": "would be the tacking implementation. The second thing would be change management plan,"
+  },
+  {
+    "start": 300.36,
+    "end": 306.68,
+    "speaker": "SPEAKER_01",
+    "text": "training and communication plan, and then the third thing would be to create systems and operations,"
+  },
+  {
+    "start": 306.68,
+    "end": 313.48,
+    "speaker": "SPEAKER_01",
+    "text": "to monitor, evaluate and make adjustments as we implement those changes. In the first piece of"
+  },
+  {
+    "start": 313.48,
+    "end": 319.0,
+    "speaker": "SPEAKER_01",
+    "text": "tacking implementation, I would think about two main things. The first would be centralized"
+  },
+  {
+    "start": 319.0,
+    "end": 325.64,
+    "speaker": "SPEAKER_01",
+    "text": "systems, think which systems we need to do implementation centralized. And the second thing would be"
+  },
+  {
+    "start": 326.2,
+    "end": 332.68,
+    "speaker": "SPEAKER_01",
+    "text": "airport by airport. So systems that we actually need to deploy them locally on each airport,"
+  },
+  {
+    "start": 332.68,
+    "end": 337.08,
+    "speaker": "SPEAKER_01",
+    "text": "because that's going to take more time and it's going to be more logistic complexity."
+  },
+  {
+    "start": 337.88,
+    "end": 344.76,
+    "speaker": "SPEAKER_01",
+    "text": "In terms of the change management training and also stakeholder communication plan,"
+  },
+  {
+    "start": 344.76,
+    "end": 350.52,
+    "speaker": "SPEAKER_01",
+    "text": "I would think about three main things that we need to deploy here. The first would be to do a"
+  },
+  {
+    "start": 350.52,
+    "end": 355.96,
+    "speaker": "SPEAKER_01",
+    "text": "stakeholder mapping, understand who are the project owners, where the decision makers who"
+  },
+  {
+    "start": 355.96,
+    "end": 361.4,
+    "speaker": "SPEAKER_01",
+    "text": "need to be consulted and informed, and making sure that we present the projects to have the buying"
+  },
+  {
+    "start": 361.4,
+    "end": 366.76,
+    "speaker": "SPEAKER_01",
+    "text": "of those stakeholders. The second would be in terms of like who are the people that we actually"
+  },
+  {
+    "start": 366.76,
+    "end": 372.84,
+    "speaker": "SPEAKER_01",
+    "text": "need to train in order to deploy those systems. And then the third would make sure that we have a"
+  },
+  {
+    "start": 372.84,
+    "end": 379.88,
+    "speaker": "SPEAKER_01",
+    "text": "solid communication plan. So everyone is informed in every phase of the project. In terms of the"
+  },
+  {
+    "start": 379.88,
+    "end": 385.15999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "three step of monitoring and evaluating management systems, I would think here about three main"
+  },
+  {
+    "start": 385.15999999999997,
+    "end": 390.68,
+    "speaker": "SPEAKER_01",
+    "text": "things that we need to keep in mind in order to do the implementation. The first would be making"
+  },
+  {
+    "start": 390.68,
+    "end": 396.92,
+    "speaker": "SPEAKER_01",
+    "text": "sure that we have success metrics and also tracking systems to track those success metrics."
+  },
+  {
+    "start": 398.04,
+    "end": 403.96,
+    "speaker": "SPEAKER_01",
+    "text": "The second would be like governance and forums, make sure that we have audit forums in order to"
+  },
+  {
+    "start": 403.96,
+    "end": 410.44,
+    "speaker": "SPEAKER_01",
+    "text": "report those success metrics, make decision decisions and also evaluating blockers. So we can"
+  },
+  {
+    "start": 410.44,
+    "end": 416.59999999999997,
+    "speaker": "SPEAKER_01",
+    "text": "actually have as move implementation. And then the third piece would be improvements opportunities."
+  },
+  {
+    "start": 416.59999999999997,
+    "end": 423.56,
+    "speaker": "SPEAKER_01",
+    "text": "So making sure that we have process to improve after any world block or change in summary,"
+  },
+  {
+    "start": 423.56,
+    "end": 432.2,
+    "speaker": "SPEAKER_01",
+    "text": "actually see. So in order for us to start here, I think the piece that I would like to start is"
+  },
+  {
+    "start": 432.2,
+    "end": 438.44,
+    "speaker": "SPEAKER_01",
+    "text": "with our packing implementation. So trying to understand like what are the benefit of those"
+  },
+  {
+    "start": 438.44,
+    "end": 445.48,
+    "speaker": "SPEAKER_01",
+    "text": "tools and which do we need to start centralized versus airport by airport? Do we have any"
+  },
+  {
+    "start": 445.48,
+    "end": 452.59999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "information related to those tools? Yeah, so we do have some information on that which we'll get to"
+  },
+  {
+    "start": 452.59999999999997,
+    "end": 457.71999999999997,
+    "speaker": "SPEAKER_02",
+    "text": "later. But I think before we get into some of those questions, we'd love to just do kind of a"
+  },
+  {
+    "start": 457.72,
+    "end": 466.76000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "brainstorming, market sizing exercise with you. And to start with that, in preparing for the rollout,"
+  },
+  {
+    "start": 466.76000000000005,
+    "end": 472.12,
+    "speaker": "SPEAKER_02",
+    "text": "KLM wants to confirm the potential impact we might see in terms of cost specifically for the"
+  },
+  {
+    "start": 472.12,
+    "end": 479.0,
+    "speaker": "SPEAKER_02",
+    "text": "tool pathfinder or the first one we discussed that is expected to increase on time to purchase by"
+  },
+  {
+    "start": 479.0,
+    "end": 487.16,
+    "speaker": "SPEAKER_02",
+    "text": "10%. And so for this tool, would love to just get your thoughts on what you think the main expense"
+  },
+  {
+    "start": 487.16,
+    "end": 493.8,
+    "speaker": "SPEAKER_02",
+    "text": "categories or buckets that an airport may have to pay for as the result of a flight delay?"
+  },
+  {
+    "start": 496.52000000000004,
+    "end": 503.64000000000004,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect. So just to recap, to make sure that I have all the information. So the goal is for us to"
+  },
+  {
+    "start": 503.64000000000004,
+    "end": 511.8,
+    "speaker": "SPEAKER_01",
+    "text": "estimate the impact of pathfinder too in terms of the increase of on time temperature by 10%."
+  },
+  {
+    "start": 511.8,
+    "end": 516.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And you want me to list what are some of potential costs related to flight delays?"
+  },
+  {
+    "start": 516.68,
+    "end": 520.92,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, and that's kind of the first step here of if we list out the costs that"
+  },
+  {
+    "start": 521.56,
+    "end": 527.56,
+    "speaker": "SPEAKER_02",
+    "text": "our associate with delays, we can think about then what we might say as the result of implementing"
+  },
+  {
+    "start": 527.56,
+    "end": 534.5999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "this software. Okay, perfect. So in terms of potential costs, I see four potential costs"
+  },
+  {
+    "start": 534.5999999999999,
+    "end": 540.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "here. That would be very meaningful to any flight delay. The first would be definitely"
+  },
+  {
+    "start": 540.1999999999999,
+    "end": 546.28,
+    "speaker": "SPEAKER_01",
+    "text": "labor costs. So we think here about crew, pilot, and also people in the airport that are responsible"
+  },
+  {
+    "start": 546.28,
+    "end": 552.6,
+    "speaker": "SPEAKER_01",
+    "text": "for managing the flight. The second would be definitely few. It's a big portion of the cost"
+  },
+  {
+    "start": 552.6,
+    "end": 561.0,
+    "speaker": "SPEAKER_01",
+    "text": "of a flight. The second would be any airport fees. I know airport usually charge a fee or a penalty"
+  },
+  {
+    "start": 561.0,
+    "end": 568.1999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "for any additional time that is set on the finger. And then the fourth would be passenger compensations."
+  },
+  {
+    "start": 568.1999999999999,
+    "end": 574.76,
+    "speaker": "SPEAKER_01",
+    "text": "We know that after a certain stretch hold, we need to compensate either for a meal or for any type"
+  },
+  {
+    "start": 574.76,
+    "end": 579.88,
+    "speaker": "SPEAKER_01",
+    "text": "of cost, passenger, or so on that. So those would be the main four costs that I would list here."
+  },
+  {
+    "start": 581.08,
+    "end": 586.52,
+    "speaker": "SPEAKER_01",
+    "text": "Do you want me to start doing the estimation? Yeah, that would be great. I think"
+  },
+  {
+    "start": 586.52,
+    "end": 591.64,
+    "speaker": "SPEAKER_02",
+    "text": "guidance would be can you just estimate the average cost for each of these buckets for one"
+  },
+  {
+    "start": 591.64,
+    "end": 597.48,
+    "speaker": "SPEAKER_02",
+    "text": "hour time delay and then add them up and get the estimated cost to 4K length for a one hour delay."
+  },
+  {
+    "start": 598.2,
+    "end": 605.24,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect. Okay, so I'm going to start with labor first. So in terms of labor, I would estimate"
+  },
+  {
+    "start": 605.24,
+    "end": 614.04,
+    "speaker": "SPEAKER_01",
+    "text": "that for each flight, we would have two pilot, five crew members, and then three to ten people"
+  },
+  {
+    "start": 614.04,
+    "end": 621.5600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "on the ground. So adding all those things up, so we're going to have an average of like 15 people"
+  },
+  {
+    "start": 621.56,
+    "end": 636.28,
+    "speaker": "SPEAKER_01",
+    "text": "per flight. I would assume that for each person, we pay them like $50 an hour. So that's going to give us"
+  },
+  {
+    "start": 636.28,
+    "end": 647.7199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "15 times 50. It's going to give us $750 an hour. So going to the fuel cost, do we have any"
+  },
+  {
+    "start": 647.72,
+    "end": 654.9200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "information on how much it's the cost of the fuel per flight? Yeah, that's a great question."
+  },
+  {
+    "start": 654.9200000000001,
+    "end": 660.44,
+    "speaker": "SPEAKER_02",
+    "text": "It's about one flight on average. You have to fill it up with about $50,000 or euros worth of fuel."
+  },
+  {
+    "start": 662.28,
+    "end": 672.52,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, perfect. So I would assume so assuming this $50,000 per flight cost, I would assume that we"
+  },
+  {
+    "start": 672.52,
+    "end": 681.96,
+    "speaker": "SPEAKER_01",
+    "text": "usually spend like 5% of this cost when the airline is actually delayed. So that would give us 5%"
+  },
+  {
+    "start": 681.96,
+    "end": 693.8,
+    "speaker": "SPEAKER_01",
+    "text": "of $50,000, $2,500 an hour per flight per delay. So going to the airport fees, do you have any"
+  },
+  {
+    "start": 693.8,
+    "end": 701.0,
+    "speaker": "SPEAKER_01",
+    "text": "information about what it's going to be the fee that airport charges per hour? Yeah, that's a great"
+  },
+  {
+    "start": 701.0,
+    "end": 706.36,
+    "speaker": "SPEAKER_02",
+    "text": "question. Basically, they charge you $100 an hour to be parked at the gate."
+  },
+  {
+    "start": 708.04,
+    "end": 714.12,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, perfect. So that's it's going to be our estimation of $100 per hour per flight to the late."
+  },
+  {
+    "start": 714.84,
+    "end": 722.28,
+    "speaker": "SPEAKER_01",
+    "text": "And then in terms of the passengers, I'm going to assume here how much we pay per passenger per hour"
+  },
+  {
+    "start": 722.28,
+    "end": 729.96,
+    "speaker": "SPEAKER_01",
+    "text": "and then an average amount of passengers per flight. So usually I receive around $50. So I'm going"
+  },
+  {
+    "start": 729.96,
+    "end": 736.52,
+    "speaker": "SPEAKER_01",
+    "text": "to use that as a benchmark. So $50 per hour per passengers, I would guess that the average amount"
+  },
+  {
+    "start": 736.52,
+    "end": 744.6800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "of passengers per flight is 150. So multiplying those things together, these give us 7,500"
+  },
+  {
+    "start": 745.4000000000001,
+    "end": 750.84,
+    "speaker": "SPEAKER_01",
+    "text": "per hour in passengers cost per flight to the late. So I'm going to add all those things up"
+  },
+  {
+    "start": 751.8000000000001,
+    "end": 759.1600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "so I can actually have all those costs here. Okay."
+  },
+  {
+    "start": 760.52,
+    "end": 771.08,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. So adding all those things up, we're going to have around 11,000"
+  },
+  {
+    "start": 772.12,
+    "end": 784.2,
+    "speaker": "SPEAKER_02",
+    "text": "euros cost per hour per flight. Perfect. That's correct. And so assuming that this tool is going"
+  },
+  {
+    "start": 784.6,
+    "end": 794.6,
+    "speaker": "SPEAKER_02",
+    "text": "increase on time flights by 10% and that 80% of KLM 650 on time flights are delayed per day right now."
+  },
+  {
+    "start": 795.24,
+    "end": 800.84,
+    "speaker": "SPEAKER_02",
+    "text": "What's going to be your estimate of sort of the annualized cost savings for implementing this tool?"
+  },
+  {
+    "start": 803.24,
+    "end": 809.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So 80% of KLM flights are delayed or on time. They're on time. So 20% are delayed."
+  },
+  {
+    "start": 809.88,
+    "end": 818.8399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Perfect. Okay. So in order to calculate what would be the annual cost for all the flights,"
+  },
+  {
+    "start": 818.8399999999999,
+    "end": 824.5999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the math that I would do here, I would just multiply this percentage of flights that actually"
+  },
+  {
+    "start": 824.5999999999999,
+    "end": 833.56,
+    "speaker": "SPEAKER_01",
+    "text": "are delayed times the number of flights that they times the average delay. And then also the cost"
+  },
+  {
+    "start": 833.56,
+    "end": 841.64,
+    "speaker": "SPEAKER_01",
+    "text": "that we estimated per hour plus 365, which be the number of days that we have. So that's the"
+  },
+  {
+    "start": 841.64,
+    "end": 847.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "entire equation is going to give us 20%, which is the number of flights delayed times 650, which is"
+  },
+  {
+    "start": 847.9599999999999,
+    "end": 854.92,
+    "speaker": "SPEAKER_01",
+    "text": "the number of flights that we have per day. In terms of the average delay that we have, I'm going"
+  },
+  {
+    "start": 854.92,
+    "end": 866.68,
+    "speaker": "SPEAKER_01",
+    "text": "to assume that it's like around 45 minutes times 11,000, which is our cost per hour times 365."
+  },
+  {
+    "start": 869.88,
+    "end": 880.12,
+    "speaker": "SPEAKER_01",
+    "text": "So multiplying 20% of 650, this gives us 130. 45 minutes, I'm going to use that"
+  },
+  {
+    "start": 880.2,
+    "end": 891.32,
+    "speaker": "SPEAKER_01",
+    "text": "percentage of 60 minutes. So that's going to give us 75%. Times 11,000 times 365. So doing all this math"
+  },
+  {
+    "start": 891.32,
+    "end": 903.32,
+    "speaker": "SPEAKER_01",
+    "text": "here, we are going to arrive to around one million dollars per day times 365. So these give us 365"
+  },
+  {
+    "start": 903.88,
+    "end": 912.2,
+    "speaker": "SPEAKER_01",
+    "text": "million in annual costs for the delay. So now after calculating this, we need to understand what is"
+  },
+  {
+    "start": 912.2,
+    "end": 922.2800000000001,
+    "speaker": "SPEAKER_01",
+    "text": "the reduction of this cost with the increase of 10% on the flights delays. Okay, so in order for me to"
+  },
+  {
+    "start": 922.2800000000001,
+    "end": 929.8000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "calculate that, I'm just going to multiply the percentage of reduction on flights delay times 365"
+  },
+  {
+    "start": 929.88,
+    "end": 937.24,
+    "speaker": "SPEAKER_01",
+    "text": "million in costs. So we know that you shared with me that 80% of the flights are on time. So if we"
+  },
+  {
+    "start": 937.24,
+    "end": 946.12,
+    "speaker": "SPEAKER_01",
+    "text": "increase that by 10%, we are telling that 88% of the flights are actually on time. So the number of"
+  },
+  {
+    "start": 946.5999999999999,
+    "end": 955.8,
+    "speaker": "SPEAKER_01",
+    "text": "flights, the percentage of flights delay, it's going to change from 20% to 12%. So that's an"
+  },
+  {
+    "start": 956.52,
+    "end": 965.16,
+    "speaker": "SPEAKER_01",
+    "text": "percentage point decline, which in percentage translates into a 40% reductions of the flight delay."
+  },
+  {
+    "start": 965.16,
+    "end": 974.04,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm going to multiply this 40% reduction on flight delays by our annual cost of 365 million. So"
+  },
+  {
+    "start": 975.24,
+    "end": 976.5999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "multiplying that by"
+  },
+  {
+    "start": 977.5600000000001,
+    "end": 987.64,
+    "speaker": "SPEAKER_01",
+    "text": "40% it's going to give us 150 million in cost savings. That sounds a very significant cost. So I"
+  },
+  {
+    "start": 987.64,
+    "end": 994.0400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "think definitely they are aligned, should implement this AI2 because it's a meaningful difference in"
+  },
+  {
+    "start": 994.0400000000001,
+    "end": 1000.52,
+    "speaker": "SPEAKER_01",
+    "text": "their cost of 40% reduction. I think as next steps here, we need to think how we actually"
+  },
+  {
+    "start": 1001.0,
+    "end": 1006.76,
+    "speaker": "SPEAKER_02",
+    "text": "implement those tools and phase out. Yeah, that's a great next step. And going back to your"
+  },
+  {
+    "start": 1006.76,
+    "end": 1014.28,
+    "speaker": "SPEAKER_02",
+    "text": "framework and where you wanted to start, we do have some information on how the tools would be"
+  },
+  {
+    "start": 1014.28,
+    "end": 1019.24,
+    "speaker": "SPEAKER_02",
+    "text": "implemented whether centrally or not. And the first tool, so Pathfinder, the one that we just"
+  },
+  {
+    "start": 1019.24,
+    "end": 1023.72,
+    "speaker": "SPEAKER_02",
+    "text": "kind of talked about, would be integrated into a central system. And then the other tool,"
+  },
+  {
+    "start": 1023.72,
+    "end": 1029.56,
+    "speaker": "SPEAKER_02",
+    "text": "two tools, century and runway and crew vision, would need to be integrated airport by airport"
+  },
+  {
+    "start": 1029.6399999999999,
+    "end": 1037.8,
+    "speaker": "SPEAKER_02",
+    "text": "across KLM's approximately 150 service locations. And so a key question for the rollout is how to"
+  },
+  {
+    "start": 1037.8,
+    "end": 1043.48,
+    "speaker": "SPEAKER_02",
+    "text": "deploy these three tools? Should they all be rolled out at once or should there be some other"
+  },
+  {
+    "start": 1043.48,
+    "end": 1049.8799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "logical sequence and sort of love to get your thoughts on how KLM should think about making this"
+  },
+  {
+    "start": 1049.8799999999999,
+    "end": 1057.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "this rollout decision? Perfect. So just to recap, the first two which pathway should it should"
+  },
+  {
+    "start": 1057.4,
+    "end": 1063.0,
+    "speaker": "SPEAKER_01",
+    "text": "be implemented centering the second one, the second and the third airport by airport. And then"
+  },
+  {
+    "start": 1063.0,
+    "end": 1068.92,
+    "speaker": "SPEAKER_01",
+    "text": "the client wants to understand how we would deploy these tools phase by phase. Let me just get a"
+  },
+  {
+    "start": 1068.92,
+    "end": 1077.8000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "minute to structure my thoughts and then I let you know. Okay, perfect. In order to think about how"
+  },
+  {
+    "start": 1077.8000000000002,
+    "end": 1083.88,
+    "speaker": "SPEAKER_01",
+    "text": "we actually implement that and phase out, I would take into account three main things. So the"
+  },
+  {
+    "start": 1083.88,
+    "end": 1091.0,
+    "speaker": "SPEAKER_01",
+    "text": "first thing would be interdependencies and complexity of implementing these tools. And here I'm saying"
+  },
+  {
+    "start": 1091.0,
+    "end": 1098.2800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "basically for sure, we need to assess if there is any requirement or dependencies on each of these"
+  },
+  {
+    "start": 1098.2800000000002,
+    "end": 1104.44,
+    "speaker": "SPEAKER_01",
+    "text": "tools. So we need to know which one we start first in order for the second one to have the"
+  },
+  {
+    "start": 1104.44,
+    "end": 1110.68,
+    "speaker": "SPEAKER_01",
+    "text": "the the pendacy is ready. The second piece in terms of complexities, we need to think about,"
+  },
+  {
+    "start": 1110.68,
+    "end": 1117.48,
+    "speaker": "SPEAKER_01",
+    "text": "for example, a center of two for sure, its last complex in terms of logistics, then actually"
+  },
+  {
+    "start": 1117.48,
+    "end": 1125.64,
+    "speaker": "SPEAKER_01",
+    "text": "an airport by airport. So maybe one hypothesis here, we start with the centralized two and then we go"
+  },
+  {
+    "start": 1125.64,
+    "end": 1134.92,
+    "speaker": "SPEAKER_01",
+    "text": "with the the second and the third in parallel. So we actually can start with a last complex and then"
+  },
+  {
+    "start": 1135.0,
+    "end": 1142.68,
+    "speaker": "SPEAKER_01",
+    "text": "go to these other more challenge tools. I think one thing for us to keep in mind is that as you"
+  },
+  {
+    "start": 1142.68,
+    "end": 1149.24,
+    "speaker": "SPEAKER_01",
+    "text": "mentioned, we need to have a 12 months timeline. So we need to understand if those things would"
+  },
+  {
+    "start": 1149.24,
+    "end": 1154.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "actually lead us through a 12 months timeline. So the second thing that I think we need to keep in"
+  },
+  {
+    "start": 1154.8400000000001,
+    "end": 1161.96,
+    "speaker": "SPEAKER_01",
+    "text": "mind and assess as criteria in order to develop a implementation phase by phase would be in terms"
+  },
+  {
+    "start": 1161.96,
+    "end": 1169.24,
+    "speaker": "SPEAKER_01",
+    "text": "of same capacity. Do we actually have the capacity to do those things in parallel or we actually"
+  },
+  {
+    "start": 1169.24,
+    "end": 1176.52,
+    "speaker": "SPEAKER_01",
+    "text": "need to think about each one step by step. And then the third piece that I would think here,"
+  },
+  {
+    "start": 1176.52,
+    "end": 1183.48,
+    "speaker": "SPEAKER_01",
+    "text": "it's more of like the benefits and the strategic prioritization. So we saw that two one actually can"
+  },
+  {
+    "start": 1184.1200000000001,
+    "end": 1194.84,
+    "speaker": "SPEAKER_01",
+    "text": "lead us with 150 million in cost savings. So assuming that's like the most impact for one, we actually"
+  },
+  {
+    "start": 1194.84,
+    "end": 1200.76,
+    "speaker": "SPEAKER_01",
+    "text": "should start with the PATHA tools before because the client actually see the benefits right away"
+  },
+  {
+    "start": 1200.76,
+    "end": 1207.56,
+    "speaker": "SPEAKER_01",
+    "text": "and also starts to have those cost savings early as possible. So my recommendation here would"
+  },
+  {
+    "start": 1207.6399999999999,
+    "end": 1214.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "definitely assume that two one, it's actually the one that brings the biggest benefit would be to"
+  },
+  {
+    "start": 1214.6799999999998,
+    "end": 1221.8,
+    "speaker": "SPEAKER_01",
+    "text": "start with the PATHA tools which centralize last complex and the client can start seeing the benefits"
+  },
+  {
+    "start": 1221.8,
+    "end": 1230.28,
+    "speaker": "SPEAKER_01",
+    "text": "early on and then go to the airport by airport. So two and three in parallel. So we can actually"
+  },
+  {
+    "start": 1230.28,
+    "end": 1237.0,
+    "speaker": "SPEAKER_01",
+    "text": "complete these in the 12 months timelines and leave the ones that are more challenge and has higher"
+  },
+  {
+    "start": 1237.0,
+    "end": 1245.64,
+    "speaker": "SPEAKER_01",
+    "text": "logistic complex complexity afterwards. I think for sure in order for us to implement that,"
+  },
+  {
+    "start": 1245.64,
+    "end": 1251.16,
+    "speaker": "SPEAKER_01",
+    "text": "we need to evaluate some of the potential risks. Yeah, that's a really great, you know,"
+  },
+  {
+    "start": 1251.16,
+    "end": 1257.32,
+    "speaker": "SPEAKER_02",
+    "text": "proposed deployment plan as well as a great next step. And, you know, going off of that, AI tools"
+  },
+  {
+    "start": 1257.32,
+    "end": 1263.48,
+    "speaker": "SPEAKER_02",
+    "text": "have been coming under fire by governments, including the EU governments that oversee a KOM"
+  },
+  {
+    "start": 1264.04,
+    "end": 1269.24,
+    "speaker": "SPEAKER_02",
+    "text": "Dutch airline. And so we'd love to get your thoughts on some of the key risks of deploying these"
+  },
+  {
+    "start": 1269.24,
+    "end": 1276.92,
+    "speaker": "SPEAKER_02",
+    "text": "tools and how KLM could think about mitigating some of these risks. Perfect. So just should recap,"
+  },
+  {
+    "start": 1278.2,
+    "end": 1283.4,
+    "speaker": "SPEAKER_01",
+    "text": "you want me to understand what are some of the key risks related to compliance and also"
+  },
+  {
+    "start": 1285.24,
+    "end": 1292.52,
+    "speaker": "SPEAKER_01",
+    "text": "regulation on implement AI tools. Okay, so I think some of the key risks that I would think here"
+  },
+  {
+    "start": 1292.6,
+    "end": 1299.08,
+    "speaker": "SPEAKER_01",
+    "text": "is one the first, as I mentioned, compliance. So we have a lot of regulation coming from"
+  },
+  {
+    "start": 1300.12,
+    "end": 1303.4,
+    "speaker": "SPEAKER_01",
+    "text": "European Union. So they have the DMA, which the digital"
+  },
+  {
+    "start": 1304.52,
+    "end": 1311.24,
+    "speaker": "SPEAKER_01",
+    "text": "make market market acts. So we need to think about those data restrictions. So I think one thing to"
+  },
+  {
+    "start": 1311.24,
+    "end": 1317.4,
+    "speaker": "SPEAKER_01",
+    "text": "mitigate that that I would think is to maybe having a compliance team or compliance expert"
+  },
+  {
+    "start": 1317.4,
+    "end": 1323.48,
+    "speaker": "SPEAKER_01",
+    "text": "together with our implementation team. So we can actually assess if there is any"
+  },
+  {
+    "start": 1323.48,
+    "end": 1329.5600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "risks there and also propose solutions so we can address those risks. So the second thing that I"
+  },
+  {
+    "start": 1329.5600000000002,
+    "end": 1336.3600000000001,
+    "speaker": "SPEAKER_01",
+    "text": "would think about when we think about AI implementations is definitely security risks. So we know that"
+  },
+  {
+    "start": 1336.3600000000001,
+    "end": 1344.44,
+    "speaker": "SPEAKER_01",
+    "text": "AI usually are implemented on cloud and we have a lot of sensitive data and a high volume of"
+  },
+  {
+    "start": 1344.44,
+    "end": 1350.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "sensitive data on the cloud. So we need to think about your potential cyber security systems"
+  },
+  {
+    "start": 1350.1200000000001,
+    "end": 1356.28,
+    "speaker": "SPEAKER_01",
+    "text": "and also processes that we need to put in place in order to mitigate any potential data leakage"
+  },
+  {
+    "start": 1357.3200000000002,
+    "end": 1363.72,
+    "speaker": "SPEAKER_01",
+    "text": "especially from sensitive data. So a couple of ideas would be to create systems and routines"
+  },
+  {
+    "start": 1363.72,
+    "end": 1370.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "that actually assess if there is any data leakage. So we actually can address right away."
+  },
+  {
+    "start": 1370.9199999999998,
+    "end": 1377.2399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "The third thing that I would think is more about like the operational complexity, not only AI"
+  },
+  {
+    "start": 1377.2399999999998,
+    "end": 1382.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "systems but systems in general every time that you're doing integrations. There is always a"
+  },
+  {
+    "start": 1382.6799999999998,
+    "end": 1389.7199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "risk of those things not working out. So I think one of the potential mitigation here would be"
+  },
+  {
+    "start": 1389.7199999999998,
+    "end": 1396.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "for us to first start with a test environment before we actually roll out of those changes. So we"
+  },
+  {
+    "start": 1396.76,
+    "end": 1403.16,
+    "speaker": "SPEAKER_01",
+    "text": "can assess what are some of the things that didn't go well on the testing environments that actually"
+  },
+  {
+    "start": 1403.16,
+    "end": 1408.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "we can address before going to a production environment and rolling out all of the changes."
+  },
+  {
+    "start": 1408.8400000000001,
+    "end": 1412.68,
+    "speaker": "SPEAKER_01",
+    "text": "So that would be some of the risks and mitigations that I would think here."
+  },
+  {
+    "start": 1413.5600000000002,
+    "end": 1421.88,
+    "speaker": "SPEAKER_02",
+    "text": "All great risks. Okay, so we're preparing for a final meeting with the client sponsor that's"
+  },
+  {
+    "start": 1421.88,
+    "end": 1427.72,
+    "speaker": "SPEAKER_02",
+    "text": "the COO of KLM and would love to get your thoughts on how you would summarize our current"
+  },
+  {
+    "start": 1427.72,
+    "end": 1434.68,
+    "speaker": "SPEAKER_01",
+    "text": "recommendation to them. Perfect. Let me just get a minute to short your my thoughts here and then"
+  },
+  {
+    "start": 1434.68,
+    "end": 1445.4,
+    "speaker": "SPEAKER_01",
+    "text": "I let you know. Okay, my recommendation for our client would be to first start with a phase out"
+  },
+  {
+    "start": 1445.4,
+    "end": 1451.88,
+    "speaker": "SPEAKER_01",
+    "text": "carefully and managed implementation. It's starting with the implementation of 2-1, which would be"
+  },
+  {
+    "start": 1452.8400000000001,
+    "end": 1460.2800000000002,
+    "speaker": "SPEAKER_01",
+    "text": "pathfinder and then followed by a gradually implementation of the two second systems. So system"
+  },
+  {
+    "start": 1460.2800000000002,
+    "end": 1469.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "2 and also system 3. These would help us to first capture the benefits. Second is start with"
+  },
+  {
+    "start": 1470.04,
+    "end": 1475.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the system that have a high complexity in the second phase and because they are going to be in"
+  },
+  {
+    "start": 1475.3999999999999,
+    "end": 1482.52,
+    "speaker": "SPEAKER_01",
+    "text": "parallel, we have low disruptions of the airport activity. As next steps, I think as I mentioned,"
+  },
+  {
+    "start": 1482.52,
+    "end": 1487.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "we need to think about the change management plan, a training for the employees and also a"
+  },
+  {
+    "start": 1487.8799999999999,
+    "end": 1495.24,
+    "speaker": "SPEAKER_01",
+    "text": "communication plan for stakeholders and as potential risks that we need to address with our"
+  },
+  {
+    "start": 1495.24,
+    "end": 1504.04,
+    "speaker": "SPEAKER_01",
+    "text": "mitigation plan, it's for sure compliance risks that we're seeing, data privacy, potential risks,"
+  },
+  {
+    "start": 1504.04,
+    "end": 1511.08,
+    "speaker": "SPEAKER_01",
+    "text": "and also any routines and test environments that we need to implement in order to make sure that"
+  },
+  {
+    "start": 1511.08,
+    "end": 1517.8,
+    "speaker": "SPEAKER_02",
+    "text": "we need to get our operational risks. That makes a lot of sense. Thanks, Daniela. That's the case."
+  },
+  {
+    "start": 1517.8,
+    "end": 1522.28,
+    "speaker": "SPEAKER_00",
+    "text": "It was great casing with you. Hey, everyone. It's Kent and Givessey here, the founder of Rocketblocks."
+  },
+  {
+    "start": 1522.28,
+    "end": 1527.56,
+    "speaker": "SPEAKER_00",
+    "text": "Thank you so much for watching this mock interview video. I hope you found it informative and helpful"
+  },
+  {
+    "start": 1527.56,
+    "end": 1532.12,
+    "speaker": "SPEAKER_00",
+    "text": "as you are getting ready to prepare for your own interviews and hopefully landing that job offer."
+  },
+  {
+    "start": 1532.12,
+    "end": 1537.0,
+    "speaker": "SPEAKER_00",
+    "text": "You are excited about we have a ton of great content on the Rocketblocks channel coming out on a"
+  },
+  {
+    "start": 1537.0,
+    "end": 1542.12,
+    "speaker": "SPEAKER_00",
+    "text": "weekly basis. Mock interviews, mini lessons and chats with our Rocketblocks experts. So if you"
+  },
+  {
+    "start": 1542.12,
+    "end": 1547.6399999999999,
+    "speaker": "SPEAKER_00",
+    "text": "haven't subscribed yet already, please do so. There is a big red button below and if you hit that,"
+  },
+  {
+    "start": 1547.64,
+    "end": 1552.2800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "you'll get all of our content as soon as it comes up. Thanks for watching and have a great day."
+  }
+]

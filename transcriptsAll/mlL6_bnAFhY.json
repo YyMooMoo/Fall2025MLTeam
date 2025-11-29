@@ -1,0 +1,1604 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.4,
+    "speaker": "SPEAKER_01",
+    "text": "Hi, Misha. Welcome to your first round interview today. How are you feeling?"
+  },
+  {
+    "start": 6.4,
+    "end": 12.4,
+    "speaker": "SPEAKER_01",
+    "text": "All well. Looking forward to it. Amazing. So I don't want to waste much time and let's"
+  },
+  {
+    "start": 12.4,
+    "end": 20.400000000000002,
+    "speaker": "SPEAKER_01",
+    "text": "like crack on and get into it. Sure. So today's case essentially is about a health care provider."
+  },
+  {
+    "start": 20.400000000000002,
+    "end": 28.0,
+    "speaker": "SPEAKER_01",
+    "text": "So our client is a large national health care player. I think like health insurance,"
+  },
+  {
+    "start": 28.0,
+    "end": 33.68,
+    "speaker": "SPEAKER_01",
+    "text": "SIGNA, AXA, those kind of companies. And they're exploring the launch of a new disease"
+  },
+  {
+    "start": 33.68,
+    "end": 40.96,
+    "speaker": "SPEAKER_01",
+    "text": "management program to better serve its five million members. The idea is to hire and train a"
+  },
+  {
+    "start": 40.96,
+    "end": 49.2,
+    "speaker": "SPEAKER_01",
+    "text": "team of health coaches to specialize in a single disease area. Each coach will manage a portfolio"
+  },
+  {
+    "start": 49.2,
+    "end": 57.6,
+    "speaker": "SPEAKER_01",
+    "text": "of patients to reduce the cost of overall health expenditures. For example, they will give them"
+  },
+  {
+    "start": 57.6,
+    "end": 65.04,
+    "speaker": "SPEAKER_01",
+    "text": "reminders to take them medicine, provide medical advice, diets, exercise, etc. And our studies"
+  },
+  {
+    "start": 65.04,
+    "end": 71.84,
+    "speaker": "SPEAKER_01",
+    "text": "have shown that once in a month contact with each patient can reduce the health spending by 5%"
+  },
+  {
+    "start": 71.84,
+    "end": 80.32,
+    "speaker": "SPEAKER_01",
+    "text": "on average. So should the client launch the program and if so, what steps should they take?"
+  },
+  {
+    "start": 80.55999999999999,
+    "end": 88.47999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Sure. Sounds very interesting. So let me just sort of like go through this again to make sure"
+  },
+  {
+    "start": 88.47999999999999,
+    "end": 93.6,
+    "speaker": "SPEAKER_02",
+    "text": "that I've got all the important points. So our client is a national health care player. So"
+  },
+  {
+    "start": 93.6,
+    "end": 98.16,
+    "speaker": "SPEAKER_02",
+    "text": "our typical health insurance company, they're launching a disease management program. They've"
+  },
+  {
+    "start": 98.16,
+    "end": 103.19999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "got five million members. And the idea basically is that they will hire health coaches who would give"
+  },
+  {
+    "start": 103.19999999999999,
+    "end": 110.24,
+    "speaker": "SPEAKER_02",
+    "text": "advice to its customers and about their regular diets, their medicines and everything."
+  },
+  {
+    "start": 111.27999999999999,
+    "end": 115.6,
+    "speaker": "SPEAKER_02",
+    "text": "They would specialize in a particular disease area. And through this advice,"
+  },
+  {
+    "start": 116.32,
+    "end": 122.24,
+    "speaker": "SPEAKER_02",
+    "text": "we potentially hope to reduce the health spending by 5% on average for these customers."
+  },
+  {
+    "start": 123.11999999999999,
+    "end": 127.67999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "Yes, that's correct. And the question is that should we do this? Basically,"
+  },
+  {
+    "start": 128.32,
+    "end": 133.12,
+    "speaker": "SPEAKER_02",
+    "text": "yeah, that's right. Okay, fair enough. I just have a few sort of like, you know,"
+  },
+  {
+    "start": 133.12,
+    "end": 139.12,
+    "speaker": "SPEAKER_02",
+    "text": "clarifying questions on this. The first one is that what's driven the client to do this,"
+  },
+  {
+    "start": 139.12,
+    "end": 144.0,
+    "speaker": "SPEAKER_02",
+    "text": "you know, have they sort of like seen this happen in with some competitors or is it just that"
+  },
+  {
+    "start": 144.0,
+    "end": 149.44,
+    "speaker": "SPEAKER_01",
+    "text": "the costs are going up? Yes, so the costs are going up. They're actually the market leader."
+  },
+  {
+    "start": 149.44,
+    "end": 155.04,
+    "speaker": "SPEAKER_01",
+    "text": "They have no one's tested this so far in the health care insurance market. So our client is"
+  },
+  {
+    "start": 155.04,
+    "end": 160.8,
+    "speaker": "SPEAKER_01",
+    "text": "thinking like, you know, they want to be first and take this forward. Okay. And when you say that"
+  },
+  {
+    "start": 160.8,
+    "end": 165.52,
+    "speaker": "SPEAKER_02",
+    "text": "no one's tested this, like has no one tested any disease management program or like is,"
+  },
+  {
+    "start": 165.76000000000002,
+    "end": 171.52,
+    "speaker": "SPEAKER_01",
+    "text": "or like particularly this one. Yes, no insurance company has tested any sort of disease management"
+  },
+  {
+    "start": 171.52,
+    "end": 178.72,
+    "speaker": "SPEAKER_02",
+    "text": "program so far. Okay. Okay. And in terms of like, there's this 5%, I think you mentioned that"
+  },
+  {
+    "start": 178.72,
+    "end": 184.08,
+    "speaker": "SPEAKER_02",
+    "text": "studies have shown this. How confident are we about this 5% and is this something we need to test"
+  },
+  {
+    "start": 184.08,
+    "end": 190.56,
+    "speaker": "SPEAKER_01",
+    "text": "in the case as well? So they've done extensive studies and they've got to the 5% to answer."
+  },
+  {
+    "start": 190.96,
+    "end": 197.2,
+    "speaker": "SPEAKER_01",
+    "text": "I think we could try to track all the purpose of this case. Okay. Fine. And apart from the 5%"
+  },
+  {
+    "start": 197.2,
+    "end": 202.16,
+    "speaker": "SPEAKER_02",
+    "text": "savings, are there any other goals that the client is pursuing? No, not necessarily."
+  },
+  {
+    "start": 203.2,
+    "end": 209.04,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. Perfect. Okay. I think I've got enough information to sort of crack on and potentially"
+  },
+  {
+    "start": 209.04,
+    "end": 213.68,
+    "speaker": "SPEAKER_02",
+    "text": "develop a structure to guide my thoughts through the case. So if I can take two minutes to do that,"
+  },
+  {
+    "start": 213.68,
+    "end": 219.52,
+    "speaker": "SPEAKER_02",
+    "text": "that'll be great. Amazing. Okay. Fine. So I'm going to look at two major sort of like, you know,"
+  },
+  {
+    "start": 219.52,
+    "end": 225.28,
+    "speaker": "SPEAKER_02",
+    "text": "items has the first one is program financials. And the second one is risks. I think that these two"
+  },
+  {
+    "start": 225.28,
+    "end": 229.76000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "cover most of the guiding thoughts that I have for this case. Within program financials, I'm going"
+  },
+  {
+    "start": 229.76000000000002,
+    "end": 234.0,
+    "speaker": "SPEAKER_02",
+    "text": "to look at the revenue potentials of this program and the cost associated with this program."
+  },
+  {
+    "start": 235.12,
+    "end": 241.12,
+    "speaker": "SPEAKER_02",
+    "text": "Within revenue, I believe that there is mainly two revenue sources. The first one as we as we know"
+  },
+  {
+    "start": 241.12,
+    "end": 246.48000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "as the savings from the, you know, the health, the health cost that the company has. These potentially,"
+  },
+  {
+    "start": 246.48,
+    "end": 252.56,
+    "speaker": "SPEAKER_02",
+    "text": "I would, you know, get by by by selecting a certain customer segment, you know, based on a certain"
+  },
+  {
+    "start": 252.56,
+    "end": 258.56,
+    "speaker": "SPEAKER_02",
+    "text": "criteria and then analyzing how much of 5% is of that particular segment. And then the second revenue"
+  },
+  {
+    "start": 258.56,
+    "end": 262.64,
+    "speaker": "SPEAKER_02",
+    "text": "driver would be more customers. This might be a bit harder to sort of like determine because"
+  },
+  {
+    "start": 263.44,
+    "end": 266.88,
+    "speaker": "SPEAKER_02",
+    "text": "we don't know like, you know, what the impact of this program would be and by what time will"
+  },
+  {
+    "start": 266.88,
+    "end": 271.03999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "we realize that. But that's potentially another way that we can increase revenue from this program."
+  },
+  {
+    "start": 271.84000000000003,
+    "end": 276.64000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "In terms of costs, they're very straightforward. So with the coaches, there would be a theme that"
+  },
+  {
+    "start": 276.64000000000004,
+    "end": 281.44,
+    "speaker": "SPEAKER_02",
+    "text": "we would need to hire. So there's a hiring cost. There's potential training that we have to do to"
+  },
+  {
+    "start": 281.44,
+    "end": 286.32000000000005,
+    "speaker": "SPEAKER_02",
+    "text": "get to allow them to give them this advice. They might need some certifications to be able to"
+  },
+  {
+    "start": 286.32000000000005,
+    "end": 291.92,
+    "speaker": "SPEAKER_02",
+    "text": "like sort of be in this position. The equipment that they would need, I'm not sure if this is going"
+  },
+  {
+    "start": 291.92,
+    "end": 296.56,
+    "speaker": "SPEAKER_02",
+    "text": "to be remote calling or like if they need to be in an office place, you know, to make these calls."
+  },
+  {
+    "start": 297.36,
+    "end": 300.72,
+    "speaker": "SPEAKER_02",
+    "text": "And then finally, like, you know, if there's any software requirements to basically track,"
+  },
+  {
+    "start": 301.44,
+    "end": 304.24,
+    "speaker": "SPEAKER_02",
+    "text": "you know, these calls and sort of like, you know, what's happening with them."
+  },
+  {
+    "start": 305.44,
+    "end": 309.92,
+    "speaker": "SPEAKER_02",
+    "text": "You know, this obviously could be very basic or if we want to make it a very automated system,"
+  },
+  {
+    "start": 309.92,
+    "end": 312.96,
+    "speaker": "SPEAKER_02",
+    "text": "then it could be a more expensive software that we might need to buy for this."
+  },
+  {
+    "start": 313.84000000000003,
+    "end": 318.48,
+    "speaker": "SPEAKER_02",
+    "text": "Moving on to the risks, I believe that there are certain risks that we have to like, you know,"
+  },
+  {
+    "start": 318.48,
+    "end": 324.0,
+    "speaker": "SPEAKER_02",
+    "text": "sort of keep in mind for this. The first one is customer uptake. So, you know, like, we're going to"
+  },
+  {
+    "start": 324.0,
+    "end": 328.88,
+    "speaker": "SPEAKER_02",
+    "text": "be calling customers and, you know, like, I mean, it might be that customers don't take our calls."
+  },
+  {
+    "start": 328.88,
+    "end": 334.16,
+    "speaker": "SPEAKER_02",
+    "text": "They might not be very receptive of the advice as well. So, you know, the advice could be that"
+  },
+  {
+    "start": 334.16,
+    "end": 338.88,
+    "speaker": "SPEAKER_02",
+    "text": "take your medicine, but if the customers don't listen to it, then that 5% could actually be a lot"
+  },
+  {
+    "start": 338.88,
+    "end": 344.0,
+    "speaker": "SPEAKER_02",
+    "text": "lower, you know, which might which might move this case quite significantly. Another risk is the"
+  },
+  {
+    "start": 344.0,
+    "end": 349.68,
+    "speaker": "SPEAKER_02",
+    "text": "reputation. So these health coaches are sort of, you know, the face of our of our company to these"
+  },
+  {
+    "start": 349.68,
+    "end": 355.04,
+    "speaker": "SPEAKER_02",
+    "text": "customers. One of our only point of contacts as an insurance company. So, you know, there's a huge"
+  },
+  {
+    "start": 355.04,
+    "end": 359.68,
+    "speaker": "SPEAKER_02",
+    "text": "risk of reputation if these health coaches don't do their job properly. And then the last one is"
+  },
+  {
+    "start": 359.68,
+    "end": 364.96000000000004,
+    "speaker": "SPEAKER_02",
+    "text": "customer response. So sorry, it's competitive response. You know, if more competitors start doing this,"
+  },
+  {
+    "start": 365.68,
+    "end": 370.8,
+    "speaker": "SPEAKER_02",
+    "text": "then potentially, again, that 5% is that number that's in my mind. It might come down to like"
+  },
+  {
+    "start": 370.8,
+    "end": 373.44,
+    "speaker": "SPEAKER_02",
+    "text": "something lower if more companies are actually doing this as well."
+  },
+  {
+    "start": 373.44,
+    "end": 382.0,
+    "speaker": "SPEAKER_02",
+    "text": "I would like to start. I think let's probably start on the on this on the savings side. I think"
+  },
+  {
+    "start": 382.0,
+    "end": 387.68,
+    "speaker": "SPEAKER_02",
+    "text": "that would be the my first point of call. As I mentioned that I would probably estimate the savings"
+  },
+  {
+    "start": 387.68,
+    "end": 393.6,
+    "speaker": "SPEAKER_02",
+    "text": "through, you know, some sort of customer segmentation. So would you have sort of any segmentation"
+  },
+  {
+    "start": 393.6,
+    "end": 400.24,
+    "speaker": "SPEAKER_01",
+    "text": "data available regarding customers? Yeah, we have some internet data available. However,"
+  },
+  {
+    "start": 400.32,
+    "end": 403.12,
+    "speaker": "SPEAKER_01",
+    "text": "it would be good if it would be a bit more specific on what you're looking for."
+  },
+  {
+    "start": 404.48,
+    "end": 409.68,
+    "speaker": "SPEAKER_02",
+    "text": "Yes, so I think that there is multiple ways that I can segment and insurance companies'"
+  },
+  {
+    "start": 409.68,
+    "end": 415.36,
+    "speaker": "SPEAKER_02",
+    "text": "customers. Like, I mean, is this company only focused in the US or is it global?"
+  },
+  {
+    "start": 416.32,
+    "end": 421.44,
+    "speaker": "SPEAKER_02",
+    "text": "That's just your month from the US for now. Okay, so one way to segment would be to like sort of"
+  },
+  {
+    "start": 421.44,
+    "end": 426.32,
+    "speaker": "SPEAKER_02",
+    "text": "look at different different states, you know, like different geographical areas within the country."
+  },
+  {
+    "start": 427.28,
+    "end": 431.04,
+    "speaker": "SPEAKER_02",
+    "text": "Another way which would be quite useful actually in terms of like disease management could be"
+  },
+  {
+    "start": 431.04,
+    "end": 435.52,
+    "speaker": "SPEAKER_02",
+    "text": "the demographic. So you could have, you know, like sort of age brackets and you could segment the"
+  },
+  {
+    "start": 435.52,
+    "end": 440.64,
+    "speaker": "SPEAKER_02",
+    "text": "customers that way. I think you mentioned in the prompt as well that they'll be focusing on a"
+  },
+  {
+    "start": 440.64,
+    "end": 445.03999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "single disease area. So one of the ways is that, you know, we can we can look at different disease"
+  },
+  {
+    "start": 445.03999999999996,
+    "end": 450.96,
+    "speaker": "SPEAKER_02",
+    "text": "types that these customers have and then segmented that way. I mean, I think just remembering the"
+  },
+  {
+    "start": 450.96,
+    "end": 455.68,
+    "speaker": "SPEAKER_02",
+    "text": "information you gave me that might be the best sort of like path forward. If we've got any"
+  },
+  {
+    "start": 455.68,
+    "end": 460.08,
+    "speaker": "SPEAKER_02",
+    "text": "information on like, you know, the different sort of diseases and the concentration of members"
+  },
+  {
+    "start": 460.08,
+    "end": 466.24,
+    "speaker": "SPEAKER_01",
+    "text": "in that would be quite useful. Yeah, so we actually have that information. So let me just quickly share my"
+  },
+  {
+    "start": 466.24,
+    "end": 478.72,
+    "speaker": "SPEAKER_02",
+    "text": "screen. Okay. Are you ever in the screen? Yes, I can. Yeah, that's a very elaborate exhibit. So"
+  },
+  {
+    "start": 478.72,
+    "end": 484.4,
+    "speaker": "SPEAKER_02",
+    "text": "I'm going to take some time to like go through it. I'll just take 20 seconds to like get"
+  },
+  {
+    "start": 484.4,
+    "end": 496.32,
+    "speaker": "SPEAKER_02",
+    "text": "myself familiar with what the information here is. Okay, so, so this is this is quite elaborate."
+  },
+  {
+    "start": 496.32,
+    "end": 501.91999999999996,
+    "speaker": "SPEAKER_02",
+    "text": "This is so we've got three different segments here and then we've got different disease"
+  },
+  {
+    "start": 501.91999999999996,
+    "end": 507.67999999999995,
+    "speaker": "SPEAKER_02",
+    "text": "disease types and we know that we can see how much, you know, each segment like what is the"
+  },
+  {
+    "start": 507.67999999999995,
+    "end": 514.0,
+    "speaker": "SPEAKER_02",
+    "text": "concentration of diseases in each of the segments. So what is the, what is the difference between"
+  },
+  {
+    "start": 514.0,
+    "end": 520.48,
+    "speaker": "SPEAKER_02",
+    "text": "individual and group in this in this exhibit? Yeah, good question. So individual essentially refers to"
+  },
+  {
+    "start": 521.68,
+    "end": 528.0,
+    "speaker": "SPEAKER_01",
+    "text": "a person buying insurance for themselves and a group would refer to an insurance company provided"
+  },
+  {
+    "start": 528.0,
+    "end": 534.16,
+    "speaker": "SPEAKER_01",
+    "text": "insurance. So for example, you know, Bayonard McKinsey, some, an employee's part of their insurance"
+  },
+  {
+    "start": 534.16,
+    "end": 540.16,
+    "speaker": "SPEAKER_01",
+    "text": "plan for the company. That's that's how I would differentiate this here. Okay, it makes sense."
+  },
+  {
+    "start": 540.24,
+    "end": 544.4,
+    "speaker": "SPEAKER_02",
+    "text": "Makes and I mean that also like, you know, I can see the numbers and it does align with that as well."
+  },
+  {
+    "start": 545.6,
+    "end": 553.8399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So I can see that the individual is about 15% the 65 plus which is the the Medicare advantage"
+  },
+  {
+    "start": 553.8399999999999,
+    "end": 561.04,
+    "speaker": "SPEAKER_02",
+    "text": "you can find that's the the funded plans. These are about 20% and the rest is the group. So I think"
+  },
+  {
+    "start": 561.04,
+    "end": 568.4,
+    "speaker": "SPEAKER_02",
+    "text": "what I can get from this exhibit is is basically the number of members that lie in each particular"
+  },
+  {
+    "start": 568.4,
+    "end": 574.9599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "disease area within each segment. And just eyeballing this exhibit, I can I can tell that like"
+  },
+  {
+    "start": 574.9599999999999,
+    "end": 579.12,
+    "speaker": "SPEAKER_02",
+    "text": "healthy is obviously the you know, the biggest proportion, but the first disease that comes to mind"
+  },
+  {
+    "start": 579.12,
+    "end": 585.92,
+    "speaker": "SPEAKER_02",
+    "text": "is diabetic. They've got the maximum concentration, you know, within each of the segments, which is"
+  },
+  {
+    "start": 586.88,
+    "end": 591.12,
+    "speaker": "SPEAKER_02",
+    "text": "which sort of makes me feel that this is potentially an area which we can target through this"
+  },
+  {
+    "start": 592.0,
+    "end": 598.24,
+    "speaker": "SPEAKER_02",
+    "text": "through this program. The first step that I can do is I can calculate the number of patients"
+  },
+  {
+    "start": 598.24,
+    "end": 603.76,
+    "speaker": "SPEAKER_02",
+    "text": "that lie or that are diabetic within each of the segments. Would that be a useful point to start off?"
+  },
+  {
+    "start": 604.4,
+    "end": 610.48,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, I'll just go through the numbers. So basically I'm going to take the total"
+  },
+  {
+    "start": 611.6800000000001,
+    "end": 616.16,
+    "speaker": "SPEAKER_02",
+    "text": "the total number of patients that we have. I'm going to calculate the number of patients in each"
+  },
+  {
+    "start": 616.16,
+    "end": 620.8,
+    "speaker": "SPEAKER_02",
+    "text": "segment and then from that I'm going to take the diabetic percentages and then get the number"
+  },
+  {
+    "start": 620.8,
+    "end": 624.64,
+    "speaker": "SPEAKER_02",
+    "text": "of diabetic patients in each of these segments. So that's what I'm going to do."
+  },
+  {
+    "start": 624.8,
+    "end": 636.72,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. Okay. So I can see I can see the individual is 15% of of 5 million. That's the total number"
+  },
+  {
+    "start": 636.72,
+    "end": 641.92,
+    "speaker": "SPEAKER_02",
+    "text": "of customers. And just to confirm the 100% hair would be 5 million, right? That's the number of"
+  },
+  {
+    "start": 641.92,
+    "end": 649.84,
+    "speaker": "SPEAKER_02",
+    "text": "customers. That's right. Okay. Brilliant. Okay. So 15% of of 5 million, this would be"
+  },
+  {
+    "start": 650.32,
+    "end": 662.5600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "this would be about $750,000. And then we've got the group which is 65% of 5 million, which is"
+  },
+  {
+    "start": 662.5600000000001,
+    "end": 674.48,
+    "speaker": "SPEAKER_02",
+    "text": "going to be 3.2 million, 3.2 5 million. And then the last one which is 65 plus that's 20% of 5"
+  },
+  {
+    "start": 674.48,
+    "end": 679.12,
+    "speaker": "SPEAKER_02",
+    "text": "million. That's basically 1 million customers. So that's the number of customers in each of these"
+  },
+  {
+    "start": 679.12,
+    "end": 685.6,
+    "speaker": "SPEAKER_02",
+    "text": "segments. Now I'm just going to basically apply the percentages of diabetics to get the diabetic"
+  },
+  {
+    "start": 685.6,
+    "end": 692.08,
+    "speaker": "SPEAKER_02",
+    "text": "patients in each of these segments. Yeah. So if yeah, so if I continue with the individuals,"
+  },
+  {
+    "start": 692.96,
+    "end": 699.92,
+    "speaker": "SPEAKER_02",
+    "text": "this is 30% of what we got 750,000. So that is called the"
+  },
+  {
+    "start": 700.16,
+    "end": 714.56,
+    "speaker": "SPEAKER_02",
+    "text": "222,000 diabetic patients in this segment. And then in the group, we've got 20%. So 20% of 3.25 million."
+  },
+  {
+    "start": 716.0799999999999,
+    "end": 727.52,
+    "speaker": "SPEAKER_02",
+    "text": "This is 325,000, 650,000 patients in that. And then in the 65 plus, I've got 40% of 1 million,"
+  },
+  {
+    "start": 727.52,
+    "end": 736.0799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "which is 400,000. So I've got the diabetic patients in each segment. At the moment, just by"
+  },
+  {
+    "start": 736.0799999999999,
+    "end": 741.76,
+    "speaker": "SPEAKER_02",
+    "text": "looking at these numbers, the number of patients, it feels like the group has the biggest size."
+  },
+  {
+    "start": 742.64,
+    "end": 749.68,
+    "speaker": "SPEAKER_02",
+    "text": "But I think one critical piece of information that I'm missing in this is the cost per member."
+  },
+  {
+    "start": 750.3199999999999,
+    "end": 760.2399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "I think just from my understanding, I would think that the 65 plus would have a pretty high cost,"
+  },
+  {
+    "start": 760.2399999999999,
+    "end": 766.4,
+    "speaker": "SPEAKER_02",
+    "text": "given that they probably require more frequent hospital visits, potentially more serious medication."
+  },
+  {
+    "start": 768.0,
+    "end": 772.88,
+    "speaker": "SPEAKER_02",
+    "text": "I would think that that's my next step to get the cost per patient and then multiply it by these"
+  },
+  {
+    "start": 773.68,
+    "end": 779.12,
+    "speaker": "SPEAKER_02",
+    "text": "numbers to get the actual cost for each of these groups that we can target. Is there any information"
+  },
+  {
+    "start": 779.12,
+    "end": 788.24,
+    "speaker": "SPEAKER_01",
+    "text": "on the cost that makes sense? So I do have some information on that. Okay, it should be on your screen now."
+  },
+  {
+    "start": 789.2,
+    "end": 791.52,
+    "speaker": "SPEAKER_03",
+    "text": "Yeah. Post."
+  },
+  {
+    "start": 794.24,
+    "end": 797.36,
+    "speaker": "SPEAKER_03",
+    "text": "Average per member per month. Okay."
+  },
+  {
+    "start": 800.32,
+    "end": 807.84,
+    "speaker": "SPEAKER_02",
+    "text": "What is the average diabetic? Does that mean it's like 4x of the average per member per month cost?"
+  },
+  {
+    "start": 808.8000000000001,
+    "end": 815.0400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "Yes, that's correct. So just to get my understanding correct, so like for example, for 65 plus"
+  },
+  {
+    "start": 816.4,
+    "end": 825.6,
+    "speaker": "SPEAKER_02",
+    "text": "for one diabetic patient, this cost per month would be $1200. That's correct. Wow, that's quite"
+  },
+  {
+    "start": 825.6,
+    "end": 829.52,
+    "speaker": "SPEAKER_02",
+    "text": "quite high. I didn't expect that the insurance companies would be paying this much. Okay,"
+  },
+  {
+    "start": 830.4,
+    "end": 837.44,
+    "speaker": "SPEAKER_02",
+    "text": "that's very interesting. I think so this confirms my hypothesis to an extent that the 65 plus"
+  },
+  {
+    "start": 837.44,
+    "end": 844.8800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "is the highest cost and it's actually significantly higher than I expected as well. It's $1200"
+  },
+  {
+    "start": 844.8800000000001,
+    "end": 855.0400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "as compared to $400 for group and $600 for individual. Okay, so using what I did from the previous"
+  },
+  {
+    "start": 855.0400000000001,
+    "end": 861.2800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "exhibit, what I can do here is I can just multiply these costs into the number of patients that"
+  },
+  {
+    "start": 861.28,
+    "end": 867.68,
+    "speaker": "SPEAKER_02",
+    "text": "were in each of the segments and that would then give me the total cost of diabetics in each"
+  },
+  {
+    "start": 867.68,
+    "end": 874.0,
+    "speaker": "SPEAKER_02",
+    "text": "of these segments and then we can sort of like decide on which particular segment that we have"
+  },
+  {
+    "start": 874.0,
+    "end": 882.0799999999999,
+    "speaker": "SPEAKER_02",
+    "text": "to target through this initiative. Okay, so I think just starting off, I can see that the number"
+  },
+  {
+    "start": 882.0799999999999,
+    "end": 889.1999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "of patients I had an individual was about $25,000 and they also have less than"
+  },
+  {
+    "start": 890.1600000000001,
+    "end": 895.6800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "which and the number of patients is less than the 65 plus and their cost is also less. So I'm"
+  },
+  {
+    "start": 895.6800000000001,
+    "end": 901.2800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "going to ignore that because 100% I can say for sure that 65 plus will be a higher cost."
+  },
+  {
+    "start": 902.48,
+    "end": 908.08,
+    "speaker": "SPEAKER_02",
+    "text": "I do however want to calculate the group because they have more patients but significantly less cost."
+  },
+  {
+    "start": 909.76,
+    "end": 913.76,
+    "speaker": "SPEAKER_02",
+    "text": "I think that the proportions would suggest that it would be 65 plus but if you don't mind,"
+  },
+  {
+    "start": 913.76,
+    "end": 918.8000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "I can just quickly go through the numbers and confirm that. Yeah, sounds good. Okay, perfect."
+  },
+  {
+    "start": 919.5200000000001,
+    "end": 931.0400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So diabetic group, so I had 650,000 members and my cost is 400 per member."
+  },
+  {
+    "start": 931.6800000000001,
+    "end": 938.32,
+    "speaker": "SPEAKER_00",
+    "text": "So okay, so sorry, this would be 4 into 65, 260, so you know,"
+  },
+  {
+    "start": 940.96,
+    "end": 949.0400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "so this is, so I get to 260 million for diabetic group and then to go on to diabetic"
+  },
+  {
+    "start": 949.5999999999999,
+    "end": 968.56,
+    "speaker": "SPEAKER_02",
+    "text": "65 plus. This is 400,000 members into $1200. So this would be 48, so this would be 480 million"
+  },
+  {
+    "start": 968.56,
+    "end": 976.7199999999999,
+    "speaker": "SPEAKER_02",
+    "text": "dollars. That's the cost in each of these groups. So I can see that the diabetic 65 plus is"
+  },
+  {
+    "start": 976.72,
+    "end": 984.64,
+    "speaker": "SPEAKER_02",
+    "text": "much higher cost as we expected. So I'm going to focus on that. Now you said that we can get 5%"
+  },
+  {
+    "start": 984.64,
+    "end": 990.96,
+    "speaker": "SPEAKER_02",
+    "text": "savings on this, right? So basically it'll be 5% of the 480 million dollars that I can get."
+  },
+  {
+    "start": 991.52,
+    "end": 1001.6800000000001,
+    "speaker": "SPEAKER_02",
+    "text": "So 5% of this is going to be 24 million dollars. Yeah, 24 million dollars."
+  },
+  {
+    "start": 1001.68,
+    "end": 1011.68,
+    "speaker": "SPEAKER_02",
+    "text": "Oh, sorry, and this is per month as well. So it's just to get an idea, like I've got 24 million"
+  },
+  {
+    "start": 1011.68,
+    "end": 1018.9599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "dollars a month, is the coaches, the data in terms of cost is that available at an annual level or at a"
+  },
+  {
+    "start": 1018.9599999999999,
+    "end": 1024.32,
+    "speaker": "SPEAKER_01",
+    "text": "month's 11. I will say let's maybe calculate it for yeah, that's what we want to get for yeah,"
+  },
+  {
+    "start": 1024.32,
+    "end": 1029.76,
+    "speaker": "SPEAKER_02",
+    "text": "eventually. Okay, fine. So I'm just going to multiply this by 12. So this would be"
+  },
+  {
+    "start": 1032.0800000000002,
+    "end": 1043.04,
+    "speaker": "SPEAKER_02",
+    "text": "48. Yeah, 2428. So this is 288 million dollars. So basically the savings that I can get per year,"
+  },
+  {
+    "start": 1043.68,
+    "end": 1051.6000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "if I target all of the 400,000 members in the diabetic 65 plus segment, it's going to be 288 million"
+  },
+  {
+    "start": 1051.6000000000001,
+    "end": 1058.72,
+    "speaker": "SPEAKER_02",
+    "text": "dollars a year. Okay, that makes sense. Yeah, so just going back to my, going back to my structure,"
+  },
+  {
+    "start": 1058.72,
+    "end": 1065.52,
+    "speaker": "SPEAKER_02",
+    "text": "I would think that is there any way we can determine the additional revenue we can get from"
+  },
+  {
+    "start": 1066.48,
+    "end": 1071.44,
+    "speaker": "SPEAKER_02",
+    "text": "getting in more customers because of this initiative or is that something which is a bit difficult"
+  },
+  {
+    "start": 1071.44,
+    "end": 1075.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "to estimate? That's going to be quite difficult to estimate at this point in time."
+  },
+  {
+    "start": 1076.48,
+    "end": 1084.08,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, so we can maybe ignore that for today. Okay, fine. Okay, understood. So I think that the next"
+  },
+  {
+    "start": 1084.08,
+    "end": 1088.48,
+    "speaker": "SPEAKER_02",
+    "text": "very obvious point of call is it's going to be the cost. So I know what my savings potential is,"
+  },
+  {
+    "start": 1088.48,
+    "end": 1093.76,
+    "speaker": "SPEAKER_02",
+    "text": "I think if I can get some data on the cost side. And as I mentioned that in my understanding,"
+  },
+  {
+    "start": 1093.76,
+    "end": 1099.12,
+    "speaker": "SPEAKER_02",
+    "text": "there is very limited fixed costs, but like high variable costs because you know, we're hiring"
+  },
+  {
+    "start": 1099.12,
+    "end": 1103.52,
+    "speaker": "SPEAKER_02",
+    "text": "these coaches and they probably have salaries and and training and equipment and software costs and"
+  },
+  {
+    "start": 1103.52,
+    "end": 1108.96,
+    "speaker": "SPEAKER_02",
+    "text": "everything. So if there's any available data on that, that would be quite useful. Yes, actually,"
+  },
+  {
+    "start": 1108.96,
+    "end": 1113.84,
+    "speaker": "SPEAKER_01",
+    "text": "I think you've covered the list of costs that they could have pretty well. So I would say that there's"
+  },
+  {
+    "start": 1113.84,
+    "end": 1123.52,
+    "speaker": "SPEAKER_01",
+    "text": "salary is 60,000 a year. Yep. And the additional costs that you mentioned are about 20% on top of"
+  },
+  {
+    "start": 1123.52,
+    "end": 1130.8,
+    "speaker": "SPEAKER_02",
+    "text": "their salary. Okay, and this is 20% of their salary on top of it, right? So that's right. Okay,"
+  },
+  {
+    "start": 1130.8,
+    "end": 1140.24,
+    "speaker": "SPEAKER_02",
+    "text": "so I'm looking at 72,000 costs basically per coach per year. Yes, that's correct. Okay, make sense,"
+  },
+  {
+    "start": 1140.48,
+    "end": 1146.08,
+    "speaker": "SPEAKER_02",
+    "text": "make sense. Actually, I think one thing that I've missed here is that I need to be able to estimate"
+  },
+  {
+    "start": 1146.08,
+    "end": 1151.28,
+    "speaker": "SPEAKER_02",
+    "text": "the number of coaches that will be required to serve these these patients. And that's what I will"
+  },
+  {
+    "start": 1151.28,
+    "end": 1158.64,
+    "speaker": "SPEAKER_02",
+    "text": "multiply the 72,000 with. So in terms of in terms of that, like do we know how many coaches we will hire"
+  },
+  {
+    "start": 1159.28,
+    "end": 1167.52,
+    "speaker": "SPEAKER_02",
+    "text": "to basically address these patients? Why don't you tell me that? Okay, so I think the way I want to"
+  },
+  {
+    "start": 1167.52,
+    "end": 1178.0,
+    "speaker": "SPEAKER_02",
+    "text": "approach this is to really understand how many coaches, sorry, how many customers can a coach reach"
+  },
+  {
+    "start": 1178.0,
+    "end": 1183.84,
+    "speaker": "SPEAKER_02",
+    "text": "out to sort of in a particular month and in a particular year to be able to cover this. So I"
+  },
+  {
+    "start": 1183.84,
+    "end": 1190.24,
+    "speaker": "SPEAKER_02",
+    "text": "think you mentioned that each customer needs to be contacted once a month, right? It's like a monthly"
+  },
+  {
+    "start": 1190.24,
+    "end": 1197.36,
+    "speaker": "SPEAKER_02",
+    "text": "call. Yeah. Okay, so in terms of like it probably be good for me to get like a capacity for the coaches."
+  },
+  {
+    "start": 1197.36,
+    "end": 1203.84,
+    "speaker": "SPEAKER_02",
+    "text": "So I think what I would need is the number of patients these coaches can reach out to in a day"
+  },
+  {
+    "start": 1203.84,
+    "end": 1209.36,
+    "speaker": "SPEAKER_01",
+    "text": "and the number of days these coaches work for. Okay, I think that's your here, you hit the nail on the"
+  },
+  {
+    "start": 1209.36,
+    "end": 1218.24,
+    "speaker": "SPEAKER_01",
+    "text": "head. So you can assume that the coaches can contact eight members per day and they're working for"
+  },
+  {
+    "start": 1218.24,
+    "end": 1225.36,
+    "speaker": "SPEAKER_02",
+    "text": "25 days in a month. Got it. Okay, eight members per day and then 25 days in a month."
+  },
+  {
+    "start": 1228.1599999999999,
+    "end": 1236.56,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, so this tells me that that each coach can reach out to 200 members in a month"
+  },
+  {
+    "start": 1238.4799999999998,
+    "end": 1244.8,
+    "speaker": "SPEAKER_02",
+    "text": "and because you will have to contact these 200 members in a month every month, that would be the"
+  },
+  {
+    "start": 1244.8,
+    "end": 1251.52,
+    "speaker": "SPEAKER_02",
+    "text": "capacity of the coach for the for the year basically. So each each coach will be managing 200 members"
+  },
+  {
+    "start": 1252.48,
+    "end": 1259.2,
+    "speaker": "SPEAKER_02",
+    "text": "in a year. Is that a there's a yeah. Okay, fine. Okay, so that's that's fairly fairly straightforward"
+  },
+  {
+    "start": 1259.2,
+    "end": 1269.04,
+    "speaker": "SPEAKER_02",
+    "text": "then. So I know from my previous analysis that I had a total of 400,000 members in this group."
+  },
+  {
+    "start": 1269.04,
+    "end": 1274.24,
+    "speaker": "SPEAKER_02",
+    "text": "Is it fair to assume that we will we will hit the entire segment or should we consider that we"
+  },
+  {
+    "start": 1274.24,
+    "end": 1278.8,
+    "speaker": "SPEAKER_02",
+    "text": "will probably hit a smaller part of the segment? Let's let's do it for the entire segment for now."
+  },
+  {
+    "start": 1279.76,
+    "end": 1289.2,
+    "speaker": "SPEAKER_02",
+    "text": "Okay, fine. Okay, so 400,000 total group size and then sorry, 65 plus size and then divided by"
+  },
+  {
+    "start": 1289.2,
+    "end": 1297.36,
+    "speaker": "SPEAKER_02",
+    "text": "200, which is the capacity of a coach. So that is that is basically 2000 is what I get. So so 2000"
+  },
+  {
+    "start": 1298.1599999999999,
+    "end": 1304.56,
+    "speaker": "SPEAKER_02",
+    "text": "number of coaches would be required to meet or to you know basically call 400,000 patients once a"
+  },
+  {
+    "start": 1304.56,
+    "end": 1312.6399999999999,
+    "speaker": "SPEAKER_02",
+    "text": "month. So if I now just assume so you mentioned that 72,000 is there salary 60 plus 20% is there any"
+  },
+  {
+    "start": 1312.6399999999999,
+    "end": 1317.12,
+    "speaker": "SPEAKER_02",
+    "text": "other costs that I need to consider here for this particular program in terms of like sort of"
+  },
+  {
+    "start": 1317.12,
+    "end": 1322.56,
+    "speaker": "SPEAKER_02",
+    "text": "software costs or like office costs or anything else? Now I'll say that the cost somehow,"
+  },
+  {
+    "start": 1323.76,
+    "end": 1331.12,
+    "speaker": "SPEAKER_02",
+    "text": "everything that we need to consider. Okay, fine. Okay, so if I take 60,000"
+  },
+  {
+    "start": 1331.6,
+    "end": 1341.36,
+    "speaker": "SPEAKER_02",
+    "text": "sorry 72,000 their salary and then multiplied by 2000 sort of you know the the number of coaches"
+  },
+  {
+    "start": 1342.32,
+    "end": 1351.36,
+    "speaker": "SPEAKER_02",
+    "text": "that basically gives me the total cost of coaches is going to be 144,144 million."
+  },
+  {
+    "start": 1352.56,
+    "end": 1357.36,
+    "speaker": "SPEAKER_02",
+    "text": "Yes, so that's my total cost of the coaches and because we've got no other serious cost to consider"
+  },
+  {
+    "start": 1358.1599999999999,
+    "end": 1364.9599999999998,
+    "speaker": "SPEAKER_02",
+    "text": "this is again my cost for the entire program. So so just this is quite encouraging because previously"
+  },
+  {
+    "start": 1364.9599999999998,
+    "end": 1371.04,
+    "speaker": "SPEAKER_02",
+    "text": "we figured out that the savings from the program is about 288 million. The cost of the program,"
+  },
+  {
+    "start": 1371.04,
+    "end": 1376.3999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "which is the cost of the coaches is 144 million. So we actually have 100% profit margin, which is"
+  },
+  {
+    "start": 1376.3999999999999,
+    "end": 1383.1999999999998,
+    "speaker": "SPEAKER_02",
+    "text": "which is fantastic. You know like we've got our savings are twice the cost. So the benefit,"
+  },
+  {
+    "start": 1384.0,
+    "end": 1389.76,
+    "speaker": "SPEAKER_02",
+    "text": "the profits from this program is going to be 144 million as well, which is at least on paper,"
+  },
+  {
+    "start": 1389.76,
+    "end": 1394.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "it looks like a very very strong initiative with potentially very strong financials."
+  },
+  {
+    "start": 1394.8,
+    "end": 1402.56,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, that might sounds. I think that I've addressed the first part of my of my structure. I think"
+  },
+  {
+    "start": 1402.56,
+    "end": 1408.4,
+    "speaker": "SPEAKER_02",
+    "text": "that the next part which is basically the the risk part is potentially where we might need to"
+  },
+  {
+    "start": 1408.48,
+    "end": 1413.52,
+    "speaker": "SPEAKER_02",
+    "text": "sort of poke holes in this in this number and see if if this is watertight. So as I mentioned that"
+  },
+  {
+    "start": 1414.5600000000002,
+    "end": 1420.88,
+    "speaker": "SPEAKER_02",
+    "text": "there are certain risks like customer receptiveness. So we are assuming here that these"
+  },
+  {
+    "start": 1420.88,
+    "end": 1425.6000000000001,
+    "speaker": "SPEAKER_02",
+    "text": "customers basically would answer our calls, but it is very likely that out of the 400,000 customers"
+  },
+  {
+    "start": 1426.0800000000002,
+    "end": 1431.2,
+    "speaker": "SPEAKER_02",
+    "text": "maybe like only 60% actually are quite responsive. So we might not be able to get to"
+  },
+  {
+    "start": 1432.16,
+    "end": 1438.0,
+    "speaker": "SPEAKER_02",
+    "text": "to the entire group, which would reduce our savings, but because the coaches are still trying to"
+  },
+  {
+    "start": 1438.0,
+    "end": 1443.3600000000001,
+    "speaker": "SPEAKER_02",
+    "text": "contact all the 400,000, we still might incur the 144 million the total cost of the coaches."
+  },
+  {
+    "start": 1443.3600000000001,
+    "end": 1448.96,
+    "speaker": "SPEAKER_02",
+    "text": "Right. So that could reduce the savings, but my hunch is that because we've got a pretty"
+  },
+  {
+    "start": 1448.96,
+    "end": 1456.72,
+    "speaker": "SPEAKER_02",
+    "text": "hefty profit margin, even if we are able to meet not the entire 100%, but anything between 60 and 80%"
+  },
+  {
+    "start": 1456.8,
+    "end": 1461.76,
+    "speaker": "SPEAKER_02",
+    "text": "we would still be in the green for this program, which is quite an encouraging sign."
+  },
+  {
+    "start": 1462.64,
+    "end": 1468.4,
+    "speaker": "SPEAKER_01",
+    "text": "Yep, that makes sense. All of the all of what you said makes sense. So I guess another question is"
+  },
+  {
+    "start": 1468.4,
+    "end": 1472.08,
+    "speaker": "SPEAKER_01",
+    "text": "would you consider expanding this to the group and the individual level"
+  },
+  {
+    "start": 1475.44,
+    "end": 1477.2,
+    "speaker": "SPEAKER_02",
+    "text": "to the group and the individual level?"
+  },
+  {
+    "start": 1480.32,
+    "end": 1484.88,
+    "speaker": "SPEAKER_02",
+    "text": "I guess I would need to run through the numbers for these segments as well."
+  },
+  {
+    "start": 1485.3600000000001,
+    "end": 1490.88,
+    "speaker": "SPEAKER_02",
+    "text": "I'm just trying to look at the numbers that you gave me."
+  },
+  {
+    "start": 1492.8000000000002,
+    "end": 1499.2,
+    "speaker": "SPEAKER_02",
+    "text": "So the group we know that it's a much bigger segment. I guess the size of the segment"
+  },
+  {
+    "start": 1499.2,
+    "end": 1504.88,
+    "speaker": "SPEAKER_02",
+    "text": "here becomes a bit irrelevant because we would obviously hire less or more coaches to address"
+  },
+  {
+    "start": 1504.88,
+    "end": 1512.8000000000002,
+    "speaker": "SPEAKER_02",
+    "text": "that particular size. So I guess the important point here is the cost of the segment,"
+  },
+  {
+    "start": 1512.8799999999999,
+    "end": 1518.32,
+    "speaker": "SPEAKER_02",
+    "text": "is the cost per member. And so I think individual, I didn't look at the individual numbers"
+  },
+  {
+    "start": 1518.32,
+    "end": 1520.8,
+    "speaker": "SPEAKER_02",
+    "text": "properly, but it was $150 a month, right?"
+  },
+  {
+    "start": 1524.48,
+    "end": 1534.1599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "So I think if I just do some quick math, basically, so if my cost savings, which are directly"
+  },
+  {
+    "start": 1534.1599999999999,
+    "end": 1541.44,
+    "speaker": "SPEAKER_02",
+    "text": "proportional to the cost per member because I'm taking 5% of that, if my cost reduces by half,"
+  },
+  {
+    "start": 1541.44,
+    "end": 1547.44,
+    "speaker": "SPEAKER_02",
+    "text": "that means that my cost savings reduced by half as well. So I hope I'm not wrong, but it feels"
+  },
+  {
+    "start": 1547.44,
+    "end": 1553.8400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "like for the individual segment, if my cost savings reduced by half, and if I proportionally take"
+  },
+  {
+    "start": 1553.8400000000001,
+    "end": 1558.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "the less number of coaches to address a smaller segment, I think I would be at break even for the"
+  },
+  {
+    "start": 1558.3200000000002,
+    "end": 1566.64,
+    "speaker": "SPEAKER_02",
+    "text": "individual segment. And using the same analogy, because my cost savings would go down by more than"
+  },
+  {
+    "start": 1566.64,
+    "end": 1574.96,
+    "speaker": "SPEAKER_02",
+    "text": "half for the group, I probably would be at a loss for the group because unless you tell me that"
+  },
+  {
+    "start": 1574.96,
+    "end": 1579.1200000000001,
+    "speaker": "SPEAKER_02",
+    "text": "the coaches salary would be different, given that if they're reaching out to individuals or group,"
+  },
+  {
+    "start": 1579.1200000000001,
+    "end": 1585.8400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "if they require less expertise, if the salaries are the same, then I would think that individuals"
+  },
+  {
+    "start": 1585.8400000000001,
+    "end": 1591.2,
+    "speaker": "SPEAKER_02",
+    "text": "would be at break even because the cost savings are half, and the group would be at a loss because"
+  },
+  {
+    "start": 1591.2,
+    "end": 1600.96,
+    "speaker": "SPEAKER_02",
+    "text": "the cost savings are even less than half. And we only have like 100% proper margin to deal with. So"
+  },
+  {
+    "start": 1600.96,
+    "end": 1605.8400000000001,
+    "speaker": "SPEAKER_02",
+    "text": "if we reduce our cost savings by 100%, then that's going to make us in the red."
+  },
+  {
+    "start": 1607.04,
+    "end": 1614.16,
+    "speaker": "SPEAKER_01",
+    "text": "Amazing. Yeah, that probably makes sense. So I think you're about right to be targeting the 65 plus"
+  },
+  {
+    "start": 1614.16,
+    "end": 1620.16,
+    "speaker": "SPEAKER_01",
+    "text": "segment with this program. So I think you've gone through the risk and the analysis pretty well"
+  },
+  {
+    "start": 1620.16,
+    "end": 1627.68,
+    "speaker": "SPEAKER_01",
+    "text": "here. So the CEO of the healthcare company walks into the room and would like to know what"
+  },
+  {
+    "start": 1627.68,
+    "end": 1632.24,
+    "speaker": "SPEAKER_02",
+    "text": "your conclusions are. Yeah, okay. Can I take a minute to like drop my thoughts?"
+  },
+  {
+    "start": 1632.8000000000002,
+    "end": 1640.4,
+    "speaker": "SPEAKER_02",
+    "text": "Yeah, that makes sense. Okay, I think I've got my answer prepared for the CEO. So the CEO"
+  },
+  {
+    "start": 1640.4,
+    "end": 1645.0400000000002,
+    "speaker": "SPEAKER_02",
+    "text": "basically wants to know that there's this disease management program and it's got certain sort of"
+  },
+  {
+    "start": 1645.04,
+    "end": 1650.0,
+    "speaker": "SPEAKER_02",
+    "text": "like criteria should be basically do it. The answer is yes, that we should do it. However,"
+  },
+  {
+    "start": 1650.0,
+    "end": 1656.1599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "we should only target the 65 plus group segment, sorry, 65 plus diabetic segment for now."
+  },
+  {
+    "start": 1656.96,
+    "end": 1661.12,
+    "speaker": "SPEAKER_02",
+    "text": "After looking at the numbers, it turns out that the savings from the segment is about 288 million."
+  },
+  {
+    "start": 1661.92,
+    "end": 1666.56,
+    "speaker": "SPEAKER_02",
+    "text": "And the cost associated with the segment is 144 million. So that gives us a pretty good"
+  },
+  {
+    "start": 1666.56,
+    "end": 1673.68,
+    "speaker": "SPEAKER_02",
+    "text": "profit margin of 144 million. So it's a very strong evidence for this program to run with this"
+  },
+  {
+    "start": 1673.68,
+    "end": 1678.8,
+    "speaker": "SPEAKER_02",
+    "text": "particular segment. In terms of risks, I should mention that there's some material risks here."
+  },
+  {
+    "start": 1679.76,
+    "end": 1684.0800000000002,
+    "speaker": "SPEAKER_02",
+    "text": "We are basing the analysis on a study that's given us this 5% cost savings."
+  },
+  {
+    "start": 1684.96,
+    "end": 1690.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "It could very well be that once we do this program, because of a variety of reasons like competitive"
+  },
+  {
+    "start": 1690.3200000000002,
+    "end": 1696.5600000000002,
+    "speaker": "SPEAKER_02",
+    "text": "response or customer, you know, sort of, you know, uptake customer receptiveness, this 5%"
+  },
+  {
+    "start": 1696.6399999999999,
+    "end": 1704.1599999999999,
+    "speaker": "SPEAKER_02",
+    "text": "might be reduced. It might be 3 or 4%. Given that the savings that we get are so significant and"
+  },
+  {
+    "start": 1704.1599999999999,
+    "end": 1708.48,
+    "speaker": "SPEAKER_02",
+    "text": "the profits are so significant, we are still able to like sort of, you know, make a good case for"
+  },
+  {
+    "start": 1708.48,
+    "end": 1713.04,
+    "speaker": "SPEAKER_02",
+    "text": "this particular program. So we should still do it. However, as next steps, I would say that we"
+  },
+  {
+    "start": 1713.04,
+    "end": 1720.48,
+    "speaker": "SPEAKER_02",
+    "text": "should do a trial program to understand if this 5% number holds. And if it's lower, it would still"
+  },
+  {
+    "start": 1720.48,
+    "end": 1726.3999999999999,
+    "speaker": "SPEAKER_02",
+    "text": "be a profitable program for us. The second thing I would do is that as we mentioned that this"
+  },
+  {
+    "start": 1726.4,
+    "end": 1732.0,
+    "speaker": "SPEAKER_02",
+    "text": "is a break-even scenario for the individual segment. Now, although it doesn't make too much sense"
+  },
+  {
+    "start": 1732.0,
+    "end": 1737.44,
+    "speaker": "SPEAKER_02",
+    "text": "financially given its break-even, but if we are able to retain customers and, you know, potentially"
+  },
+  {
+    "start": 1737.44,
+    "end": 1742.3200000000002,
+    "speaker": "SPEAKER_02",
+    "text": "sort of like improve their morale and stuff through this program by doing it for them as well,"
+  },
+  {
+    "start": 1742.3200000000002,
+    "end": 1747.0400000000002,
+    "speaker": "SPEAKER_02",
+    "text": "it would make sense to do it for the individual group as well. But not for the group group,"
+  },
+  {
+    "start": 1747.0400000000002,
+    "end": 1751.76,
+    "speaker": "SPEAKER_02",
+    "text": "because that would be a loss, you know, for them we have to like run through a different frequency"
+  },
+  {
+    "start": 1751.76,
+    "end": 1755.44,
+    "speaker": "SPEAKER_02",
+    "text": "of calls or etc. But yeah, that's what my conclusion is."
+  }
+]

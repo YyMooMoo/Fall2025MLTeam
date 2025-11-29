@@ -1,0 +1,1548 @@
+{
+  "case": [
+    {
+      "start": 0.0,
+      "end": 9.5,
+      "speaker": "SPEAKER_00",
+      "text": "Hi, I'm Jenny Rieleruth of Managing Director of Management Consulted and I'm here with Matt Plummer who is about to become a famous case interviewer, wouldn't she say?"
+    },
+    {
+      "start": 9.5,
+      "end": 11.5,
+      "speaker": "SPEAKER_01",
+      "text": "Absolutely. I've been training for a long time."
+    },
+    {
+      "start": 11.5,
+      "end": 22.5,
+      "speaker": "SPEAKER_00",
+      "text": "Matt has an amazing background. He's worked in corporate. He worked for Bridgefan and he's offered to come today to show us how market sizing is done."
+    },
+    {
+      "start": 22.5,
+      "end": 27.5,
+      "speaker": "SPEAKER_00",
+      "text": "And of course I'm not going to be nice to you. I'm going to push on a whole bunch of things, but we'll have some fun in the process at least."
+    },
+    {
+      "start": 27.5,
+      "end": 29.5,
+      "speaker": "SPEAKER_00",
+      "text": "I would expect nothing less."
+    },
+    {
+      "start": 29.5,
+      "end": 33.5,
+      "speaker": "SPEAKER_00",
+      "text": "So we're going to dive into this. I'll read you the prompt of the question."
+    },
+    {
+      "start": 33.5,
+      "end": 48.5,
+      "speaker": "SPEAKER_00",
+      "text": "The goal for this is that we're mirroring a Bane style first-round interview, probably more targeted at undergrad that would do this as kind of a, let's call it a math plus or a strategy case that's wrapped with mostly a math question."
+    },
+    {
+      "start": 48.5,
+      "end": 52.5,
+      "speaker": "SPEAKER_00",
+      "text": "And so I've come up with a question that I think is kind of interesting that we find a walkthrough."
+    },
+    {
+      "start": 52.5,
+      "end": 53.5,
+      "speaker": "SPEAKER_00",
+      "text": "Great. Awesome."
+    },
+    {
+      "start": 53.5,
+      "end": 64.5,
+      "speaker": "SPEAKER_00",
+      "text": "Great. So the question is that we serve a large conglomerate that does direct to consumer lamps and other small furniture pieces for homes."
+    },
+    {
+      "start": 64.5,
+      "end": 69.5,
+      "speaker": "SPEAKER_00",
+      "text": "I think accessorizing features, baskets, small side tables, etc."
+    },
+    {
+      "start": 69.5,
+      "end": 75.5,
+      "speaker": "SPEAKER_00",
+      "text": "They do these flat packed and they are successful in the US. They've been operating for about four years."
+    },
+    {
+      "start": 75.5,
+      "end": 83.5,
+      "speaker": "SPEAKER_00",
+      "text": "The company's interested in entering the Mexican market as one of their closest neighbors from a logistical standpoint."
+    },
+    {
+      "start": 83.5,
+      "end": 88.5,
+      "speaker": "SPEAKER_00",
+      "text": "And they're interested in sizing the market specifically for their lamp segment."
+    },
+    {
+      "start": 88.5,
+      "end": 95.5,
+      "speaker": "SPEAKER_00",
+      "text": "So they're wondering how many lamps are sold every year in Mexico. And what does that mean for the client?"
+    },
+    {
+      "start": 95.5,
+      "end": 97.5,
+      "speaker": "SPEAKER_00",
+      "text": "Any questions about the background?"
+    },
+    {
+      "start": 97.5,
+      "end": 102.5,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, and about what's the market share and market size that they have in the US at this point?"
+    },
+    {
+      "start": 102.5,
+      "end": 110.5,
+      "speaker": "SPEAKER_00",
+      "text": "Great. Let's assume that it's a pretty fragmented market. So under 10%. But still what they would consider to be a sizeable share."
+    },
+    {
+      "start": 110.5,
+      "end": 113.5,
+      "speaker": "SPEAKER_01",
+      "text": "Great. Well, is it okay if I take a minute or two to write down the structure first?"
+    },
+    {
+      "start": 113.5,
+      "end": 114.5,
+      "speaker": "SPEAKER_01",
+      "text": "Take as much time as you need."
+    },
+    {
+      "start": 114.5,
+      "end": 123.5,
+      "speaker": "SPEAKER_01",
+      "text": "All right. Great."
+    },
+    {
+      "start": 123.5,
+      "end": 125.5,
+      "speaker": "UNKNOWN",
+      "text": "Thank you."
+    },
+    {
+      "start": 153.5,
+      "end": 167.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 167.5,
+      "end": 188.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. And just to clarify, is it okay if I focus on lamps that would be, you know, I'm thinking like a conventional lamp that you would find in the house either on a desk or even a standing lamp that would be in like a living room type versus like something that would show up more like in an office space or in a shop."
+    },
+    {
+      "start": 188.5,
+      "end": 192.5,
+      "speaker": "SPEAKER_00",
+      "text": "Tell me why you think that makes sense to focus on. I'll let you do it, but you have to convince me."
+    },
+    {
+      "start": 192.5,
+      "end": 212.5,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, I think so as I think about the Mexican market, I think that they're it's probably broader residential market at this point, particularly because there's likely to be some underdeveloped areas that are likely unlikely to have as much of the either corporate furniture or the more industrial furniture."
+    },
+    {
+      "start": 212.5,
+      "end": 214.5,
+      "speaker": "SPEAKER_00",
+      "text": "Great. Then let's go for that."
+    },
+    {
+      "start": 214.5,
+      "end": 218.5,
+      "speaker": "SPEAKER_01",
+      "text": "Great. So first I would start with what is the population of Mexico?"
+    },
+    {
+      "start": 218.5,
+      "end": 219.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 219.5,
+      "end": 222.5,
+      "speaker": "SPEAKER_01",
+      "text": "And then we want to know, you know, how is that broken into households?"
+    },
+    {
+      "start": 222.5,
+      "end": 223.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 223.5,
+      "end": 227.5,
+      "speaker": "SPEAKER_01",
+      "text": "And then, you know, how many lamps does each household have?"
+    },
+    {
+      "start": 227.5,
+      "end": 234.5,
+      "speaker": "SPEAKER_01",
+      "text": "And then, you know, what's the roughly the amount that a household would spend on a lamp?"
+    },
+    {
+      "start": 234.5,
+      "end": 235.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 235.5,
+      "end": 237.5,
+      "speaker": "SPEAKER_01",
+      "text": "So is that basic structure seem to make sense?"
+    },
+    {
+      "start": 237.5,
+      "end": 241.5,
+      "speaker": "SPEAKER_00",
+      "text": "Seems to make sense to me. Why don't you walk through what some of the data would be in."
+    },
+    {
+      "start": 241.5,
+      "end": 253.5,
+      "speaker": "SPEAKER_01",
+      "text": "So population of Mexico. So know that United States is, you know, around 325 million. I guess it's, you know, maybe around a third of that."
+    },
+    {
+      "start": 253.5,
+      "end": 260.5,
+      "speaker": "SPEAKER_01",
+      "text": "So I'd say, let's say 125 million."
+    },
+    {
+      "start": 260.5,
+      "end": 262.5,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Why would you guess it's a third?"
+    },
+    {
+      "start": 262.5,
+      "end": 272.5,
+      "speaker": "SPEAKER_01",
+      "text": "Just based on, you know, I'm thinking about the rough size of the country and the number of urban centers there compared to the US."
+    },
+    {
+      "start": 272.5,
+      "end": 281.5,
+      "speaker": "SPEAKER_01",
+      "text": "So it seems like that would be, you know, not not border on half, but yeah."
+    },
+    {
+      "start": 281.5,
+      "end": 282.5,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 282.5,
+      "end": 289.5,
+      "speaker": "SPEAKER_00",
+      "text": "So, you know, it's nearly close. It's about 130 million. So we use 135 or 130. Sorry. Is our number?"
+    },
+    {
+      "start": 289.5,
+      "end": 291.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Great."
+    },
+    {
+      "start": 291.5,
+      "end": 303.5,
+      "speaker": "SPEAKER_01",
+      "text": "And then, you know, a number of households. So if you have 130 million people, you know, if."
+    },
+    {
+      "start": 303.5,
+      "end": 309.5,
+      "speaker": "SPEAKER_01",
+      "text": "I think that the number of children per family is likely to be higher there in the states."
+    },
+    {
+      "start": 309.5,
+      "end": 316.5,
+      "speaker": "SPEAKER_01",
+      "text": "And so if I start with an assumption of two and then adjust off of that, I'd say, you know, it's probably going to be a bit higher."
+    },
+    {
+      "start": 316.5,
+      "end": 321.5,
+      "speaker": "SPEAKER_01",
+      "text": "So I might say something closer to two and a half around for a household number."
+    },
+    {
+      "start": 321.5,
+      "end": 322.5,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Sounds good."
+    },
+    {
+      "start": 322.5,
+      "end": 324.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 324.5,
+      "end": 331.5,
+      "speaker": "SPEAKER_01",
+      "text": "And then number of lamps for household. So, you know, I'm thinking to my own experience of how many lamps."
+    },
+    {
+      "start": 331.5,
+      "end": 335.5,
+      "speaker": "SPEAKER_01",
+      "text": "I, you know, have I in the houses I've been."
+    },
+    {
+      "start": 335.5,
+      "end": 346.5,
+      "speaker": "SPEAKER_01",
+      "text": "You know, number of rooms per house. So, you know, if we think of a two bedroom, for example, which maybe is an average in the states and then I'll adjust from Mexico."
+    },
+    {
+      "start": 346.5,
+      "end": 351.5,
+      "speaker": "SPEAKER_01",
+      "text": "So you have five rooms, maybe in a two bedroom."
+    },
+    {
+      "start": 351.5,
+      "end": 360.5,
+      "speaker": "SPEAKER_01",
+      "text": "And let's say there's probably about one or two lamps per room. So, I'll say seven, seven lamps in a US household."
+    },
+    {
+      "start": 360.5,
+      "end": 365.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, I might think that household time or the houses might be a bit smaller and average."
+    },
+    {
+      "start": 365.5,
+      "end": 369.5,
+      "speaker": "SPEAKER_01",
+      "text": "And so, I don't know, I think five is probably a rough estimate of how many lamps you would find in the house."
+    },
+    {
+      "start": 369.5,
+      "end": 371.5,
+      "speaker": "SPEAKER_00",
+      "text": "Sounds good to me."
+    },
+    {
+      "start": 371.5,
+      "end": 372.5,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 372.5,
+      "end": 374.5,
+      "speaker": "SPEAKER_00",
+      "text": "Now, I was over the right to disagree with you later."
+    },
+    {
+      "start": 374.5,
+      "end": 375.5,
+      "speaker": "SPEAKER_00",
+      "text": "Don't take my notes."
+    },
+    {
+      "start": 375.5,
+      "end": 376.5,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Yeah."
+    },
+    {
+      "start": 376.5,
+      "end": 377.5,
+      "speaker": "SPEAKER_00",
+      "text": "Let's see."
+    },
+    {
+      "start": 377.5,
+      "end": 378.5,
+      "speaker": "SPEAKER_00",
+      "text": "Let's see."
+    },
+    {
+      "start": 378.5,
+      "end": 380.5,
+      "speaker": "SPEAKER_00",
+      "text": "I have enforcement or approval. Okay. Go ahead."
+    },
+    {
+      "start": 380.5,
+      "end": 381.5,
+      "speaker": "SPEAKER_01",
+      "text": "Great."
+    },
+    {
+      "start": 381.5,
+      "end": 384.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, thinking about how much someone would spend on a lamp."
+    },
+    {
+      "start": 384.5,
+      "end": 388.5,
+      "speaker": "SPEAKER_01",
+      "text": "You know, in the states, probably I'm thinking around $30."
+    },
+    {
+      "start": 388.5,
+      "end": 392.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, Mexico, I would expect it to be a bit cheaper."
+    },
+    {
+      "start": 392.5,
+      "end": 395.5,
+      "speaker": "SPEAKER_01",
+      "text": "Let's say 20 pesos."
+    },
+    {
+      "start": 395.5,
+      "end": 396.5,
+      "speaker": "SPEAKER_00",
+      "text": "Okay. Let's see."
+    },
+    {
+      "start": 396.5,
+      "end": 398.5,
+      "speaker": "SPEAKER_00",
+      "text": "I would do you know what the currency exchange rate is?"
+    },
+    {
+      "start": 398.5,
+      "end": 399.5,
+      "speaker": "SPEAKER_00",
+      "text": "I was going to add. Yeah. I don't know."
+    },
+    {
+      "start": 399.5,
+      "end": 400.5,
+      "speaker": "SPEAKER_01",
+      "text": "The..."
+    },
+    {
+      "start": 400.5,
+      "end": 401.5,
+      "speaker": "SPEAKER_00",
+      "text": "Why don't we just do it in dollars?"
+    },
+    {
+      "start": 401.5,
+      "end": 402.5,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 402.5,
+      "end": 403.5,
+      "speaker": "SPEAKER_00",
+      "text": "We can always convert it later."
+    },
+    {
+      "start": 403.5,
+      "end": 404.5,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 404.5,
+      "end": 406.5,
+      "speaker": "SPEAKER_00",
+      "text": "So, are you thinking 30 to $20?"
+    },
+    {
+      "start": 406.5,
+      "end": 409.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, I think it would be more like $20 if it was a one-to-one exchange rate."
+    },
+    {
+      "start": 409.5,
+      "end": 410.5,
+      "speaker": "SPEAKER_01",
+      "text": "Fair."
+    },
+    {
+      "start": 410.5,
+      "end": 412.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, sorry."
+    },
+    {
+      "start": 412.5,
+      "end": 414.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, we'll do, yeah, $20."
+    },
+    {
+      "start": 414.5,
+      "end": 415.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 415.5,
+      "end": 417.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 417.5,
+      "end": 419.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, then, uh, show everyone through the math."
+    },
+    {
+      "start": 419.5,
+      "end": 420.5,
+      "speaker": "SPEAKER_01",
+      "text": "Go for it."
+    },
+    {
+      "start": 420.5,
+      "end": 422.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. So, we have 130 million."
+    },
+    {
+      "start": 422.5,
+      "end": 425.5,
+      "speaker": "SPEAKER_01",
+      "text": "We want to divide that by the number of households there are."
+    },
+    {
+      "start": 425.5,
+      "end": 430.5,
+      "speaker": "SPEAKER_01",
+      "text": "Um, so, I'm just going to do some quick."
+    },
+    {
+      "start": 430.5,
+      "end": 433.5,
+      "speaker": "SPEAKER_01",
+      "text": "Um,"
+    },
+    {
+      "start": 433.5,
+      "end": 434.5,
+      "speaker": "SPEAKER_01",
+      "text": "here."
+    },
+    {
+      "start": 434.5,
+      "end": 436.5,
+      "speaker": "SPEAKER_01",
+      "text": "So,"
+    },
+    {
+      "start": 436.5,
+      "end": 438.5,
+      "speaker": "SPEAKER_01",
+      "text": "five."
+    },
+    {
+      "start": 438.5,
+      "end": 440.5,
+      "speaker": "SPEAKER_01",
+      "text": "Um,"
+    },
+    {
+      "start": 440.5,
+      "end": 442.5,
+      "speaker": "SPEAKER_01",
+      "text": "so, we're talking about,"
+    },
+    {
+      "start": 442.5,
+      "end": 444.5,
+      "speaker": "SPEAKER_01",
+      "text": "um,"
+    },
+    {
+      "start": 444.5,
+      "end": 446.5,
+      "speaker": "SPEAKER_01",
+      "text": "about 50 million there,"
+    },
+    {
+      "start": 446.5,
+      "end": 449.5,
+      "speaker": "SPEAKER_01",
+      "text": "times five lamps per household,"
+    },
+    {
+      "start": 449.5,
+      "end": 458.5,
+      "speaker": "SPEAKER_01",
+      "text": "which is 250 million times $20 per lamp."
+    },
+    {
+      "start": 458.5,
+      "end": 465.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, um, we're talking about five billion there in the US dollars."
+    },
+    {
+      "start": 465.5,
+      "end": 466.5,
+      "speaker": "SPEAKER_00",
+      "text": "Okay."
+    },
+    {
+      "start": 466.5,
+      "end": 468.5,
+      "speaker": "SPEAKER_01",
+      "text": "So,"
+    },
+    {
+      "start": 468.5,
+      "end": 470.5,
+      "speaker": "SPEAKER_01",
+      "text": "for a full market size in Mexico,"
+    },
+    {
+      "start": 470.5,
+      "end": 472.5,
+      "speaker": "SPEAKER_01",
+      "text": "we're saying that,"
+    },
+    {
+      "start": 472.5,
+      "end": 474.5,
+      "speaker": "SPEAKER_01",
+      "text": "uh, for lamps, household lamps,"
+    },
+    {
+      "start": 474.5,
+      "end": 476.5,
+      "speaker": "SPEAKER_01",
+      "text": "that it would be a roughly five billion."
+    },
+    {
+      "start": 476.5,
+      "end": 479.5,
+      "speaker": "SPEAKER_00",
+      "text": "Now, what is that five billion represents specifically?"
+    },
+    {
+      "start": 479.5,
+      "end": 486.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, that represents the total spend in Mexico of,"
+    },
+    {
+      "start": 486.5,
+      "end": 487.5,
+      "speaker": "SPEAKER_01",
+      "text": "for residential household lamps."
+    },
+    {
+      "start": 487.5,
+      "end": 488.5,
+      "speaker": "SPEAKER_00",
+      "text": "Totally."
+    },
+    {
+      "start": 488.5,
+      "end": 489.5,
+      "speaker": "SPEAKER_00",
+      "text": "Would we think about it in total?"
+    },
+    {
+      "start": 489.5,
+      "end": 494.5,
+      "speaker": "SPEAKER_00",
+      "text": "Or is there a better way to think about it that would maybe mash up with our revenue estimates?"
+    },
+    {
+      "start": 494.5,
+      "end": 496.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, we could, we could look at the, you know,"
+    },
+    {
+      "start": 496.5,
+      "end": 499.5,
+      "speaker": "SPEAKER_01",
+      "text": "you mentioned the market share in the beginning of what the,"
+    },
+    {
+      "start": 499.5,
+      "end": 502.5,
+      "speaker": "SPEAKER_01",
+      "text": "what you have in the US and you mentioned it was a fragmented market."
+    },
+    {
+      "start": 502.5,
+      "end": 503.5,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah."
+    },
+    {
+      "start": 503.5,
+      "end": 505.5,
+      "speaker": "SPEAKER_01",
+      "text": "You know, if we're entering a new market,"
+    },
+    {
+      "start": 505.5,
+      "end": 507.5,
+      "speaker": "SPEAKER_01",
+      "text": "there's likely to be some established players."
+    },
+    {
+      "start": 507.5,
+      "end": 508.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, we would, you know,"
+    },
+    {
+      "start": 508.5,
+      "end": 510.5,
+      "speaker": "SPEAKER_01",
+      "text": "if we have 10% in the US,"
+    },
+    {
+      "start": 510.5,
+      "end": 512.5,
+      "speaker": "SPEAKER_01",
+      "text": "my guess is at least starting off,"
+    },
+    {
+      "start": 512.5,
+      "end": 514.5,
+      "speaker": "SPEAKER_01",
+      "text": "we would have even lower than that."
+    },
+    {
+      "start": 514.5,
+      "end": 516.5,
+      "speaker": "SPEAKER_01",
+      "text": "So, if I'd just say 5% of that."
+    },
+    {
+      "start": 516.5,
+      "end": 518.5,
+      "speaker": "SPEAKER_01",
+      "text": "Um, so."
+    },
+    {
+      "start": 518.5,
+      "end": 520.5,
+      "speaker": "SPEAKER_00",
+      "text": "I'm poking on one other thing too."
+    },
+    {
+      "start": 520.5,
+      "end": 525.5,
+      "speaker": "SPEAKER_00",
+      "text": "So, five billion represents all of the lamps that anyone would own in Mexico."
+    },
+    {
+      "start": 525.5,
+      "end": 527.5,
+      "speaker": "SPEAKER_00",
+      "text": "But if we think about the market size,"
+    },
+    {
+      "start": 527.5,
+      "end": 530.5,
+      "speaker": "SPEAKER_00",
+      "text": "we could, we could do it on a per year basis."
+    },
+    {
+      "start": 530.5,
+      "end": 531.5,
+      "speaker": "SPEAKER_01",
+      "text": "Okay. Yeah."
+    },
+    {
+      "start": 531.5,
+      "end": 533.5,
+      "speaker": "SPEAKER_01",
+      "text": "So how often are people buying the totally,"
+    },
+    {
+      "start": 533.5,
+      "end": 535.5,
+      "speaker": "SPEAKER_00",
+      "text": "how would you factor that into your numbers as well?"
+    },
+    {
+      "start": 535.5,
+      "end": 537.5,
+      "speaker": "SPEAKER_01",
+      "text": "So I guess, you know,"
+    },
+    {
+      "start": 537.5,
+      "end": 539.5,
+      "speaker": "SPEAKER_01",
+      "text": "how what's the replacement frequency of the lamps?"
+    },
+    {
+      "start": 539.5,
+      "end": 541.5,
+      "speaker": "SPEAKER_01",
+      "text": "And so,"
+    },
+    {
+      "start": 541.5,
+      "end": 542.5,
+      "speaker": "SPEAKER_01",
+      "text": "um,"
+    },
+    {
+      "start": 542.5,
+      "end": 545.5,
+      "speaker": "SPEAKER_01",
+      "text": "you know, I'm thinking about lamps last quite a long time."
+    },
+    {
+      "start": 545.5,
+      "end": 547.5,
+      "speaker": "SPEAKER_01",
+      "text": "Uh,"
+    },
+    {
+      "start": 547.5,
+      "end": 551.5,
+      "speaker": "SPEAKER_01",
+      "text": "so, I would say,"
+    },
+    {
+      "start": 551.5,
+      "end": 553.5,
+      "speaker": "SPEAKER_01",
+      "text": "my guess."
+    },
+    {
+      "start": 553.5,
+      "end": 555.5,
+      "speaker": "SPEAKER_01",
+      "text": "And I think this might even be a little aggressive."
+    },
+    {
+      "start": 555.5,
+      "end": 558.46,
+      "speaker": "SPEAKER_01",
+      "text": "10 years lifespan of a lamp."
+    },
+    {
+      "start": 558.46,
+      "end": 560.54,
+      "speaker": "SPEAKER_01",
+      "text": "You know, I could imagine it being,"
+    },
+    {
+      "start": 560.54,
+      "end": 564.78,
+      "speaker": "SPEAKER_01",
+      "text": "I could imagine being longer, but let's say 10 years."
+    },
+    {
+      "start": 564.78,
+      "end": 565.78,
+      "speaker": "SPEAKER_01",
+      "text": "Okay."
+    },
+    {
+      "start": 565.78,
+      "end": 570.14,
+      "speaker": "SPEAKER_01",
+      "text": "So then essentially if people are going to buy them every 10 years,"
+    },
+    {
+      "start": 570.14,
+      "end": 575.26,
+      "speaker": "SPEAKER_01",
+      "text": "then they're only for the amount that's being purchased in a year."
+    },
+    {
+      "start": 575.26,
+      "end": 576.78,
+      "speaker": "SPEAKER_01",
+      "text": "It's going to be a 10th of that."
+    },
+    {
+      "start": 576.78,
+      "end": 578.14,
+      "speaker": "SPEAKER_01",
+      "text": "So 500 million."
+    },
+    {
+      "start": 578.14,
+      "end": 579.18,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 579.18,
+      "end": 580.78,
+      "speaker": "SPEAKER_00",
+      "text": "So then we would take the 500 million,"
+    },
+    {
+      "start": 580.78,
+      "end": 583.74,
+      "speaker": "SPEAKER_00",
+      "text": "we'd measure it up against the market share."
+    },
+    {
+      "start": 583.82,
+      "end": 584.58,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 584.58,
+      "end": 587.66,
+      "speaker": "SPEAKER_00",
+      "text": "So what's your strategic assessment of this?"
+    },
+    {
+      "start": 587.66,
+      "end": 591.26,
+      "speaker": "SPEAKER_01",
+      "text": "So if we're just going to write some numbers."
+    },
+    {
+      "start": 591.26,
+      "end": 592.26,
+      "speaker": "SPEAKER_01",
+      "text": "So 500 million."
+    },
+    {
+      "start": 592.26,
+      "end": 593.62,
+      "speaker": "SPEAKER_01",
+      "text": "And then we said that, you know,"
+    },
+    {
+      "start": 593.62,
+      "end": 597.26,
+      "speaker": "SPEAKER_01",
+      "text": "maybe you could assume you have 5% of that going into it,"
+    },
+    {
+      "start": 597.26,
+      "end": 602.46,
+      "speaker": "SPEAKER_01",
+      "text": "which is 25 million per year."
+    },
+    {
+      "start": 605.74,
+      "end": 607.54,
+      "speaker": "SPEAKER_01",
+      "text": "So they've been at four years in the US"
+    },
+    {
+      "start": 607.54,
+      "end": 609.54,
+      "speaker": "SPEAKER_01",
+      "text": "and they have 10% market share."
+    },
+    {
+      "start": 609.62,
+      "end": 614.26,
+      "speaker": "SPEAKER_01",
+      "text": "And this offers potentially a 25 million dollar market"
+    },
+    {
+      "start": 614.26,
+      "end": 615.6999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "on a yearly basis."
+    },
+    {
+      "start": 617.38,
+      "end": 622.98,
+      "speaker": "SPEAKER_01",
+      "text": "No without knowing the full size of the market in the US"
+    },
+    {
+      "start": 622.98,
+      "end": 626.78,
+      "speaker": "SPEAKER_01",
+      "text": "and going through that, my guess would be,"
+    },
+    {
+      "start": 626.78,
+      "end": 629.8199999999999,
+      "speaker": "SPEAKER_01",
+      "text": "this doesn't feel like a huge market to me."
+    },
+    {
+      "start": 629.8199999999999,
+      "end": 632.06,
+      "speaker": "SPEAKER_01",
+      "text": "I would want to consider it relative"
+    },
+    {
+      "start": 632.06,
+      "end": 634.26,
+      "speaker": "SPEAKER_01",
+      "text": "to their other growth opportunities"
+    },
+    {
+      "start": 634.26,
+      "end": 636.0999999999999,
+      "speaker": "SPEAKER_01",
+      "text": "and see how it compares to that."
+    },
+    {
+      "start": 636.0999999999999,
+      "end": 639.26,
+      "speaker": "SPEAKER_01",
+      "text": "But my sense is that this would be a moderate opportunity"
+    },
+    {
+      "start": 640.26,
+      "end": 643.18,
+      "speaker": "SPEAKER_01",
+      "text": "based on potentially other opportunities they would have."
+    },
+    {
+      "start": 643.18,
+      "end": 643.86,
+      "speaker": "SPEAKER_00",
+      "text": "Great."
+    },
+    {
+      "start": 643.86,
+      "end": 645.22,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, relax."
+    },
+    {
+      "start": 645.22,
+      "end": 646.62,
+      "speaker": "SPEAKER_00",
+      "text": "Let's just talk about it really quickly."
+    },
+    {
+      "start": 646.62,
+      "end": 648.66,
+      "speaker": "SPEAKER_00",
+      "text": "So I took a couple of notes as you were going through it."
+    },
+    {
+      "start": 648.66,
+      "end": 649.78,
+      "speaker": "SPEAKER_00",
+      "text": "Overall, good job."
+    },
+    {
+      "start": 649.78,
+      "end": 650.86,
+      "speaker": "SPEAKER_00",
+      "text": "I like you."
+    },
+    {
+      "start": 650.86,
+      "end": 652.86,
+      "speaker": "SPEAKER_00",
+      "text": "I could see that you could do the work"
+    },
+    {
+      "start": 652.86,
+      "end": 654.74,
+      "speaker": "SPEAKER_00",
+      "text": "and you were very receptive to my pushback,"
+    },
+    {
+      "start": 654.74,
+      "end": 656.14,
+      "speaker": "SPEAKER_00",
+      "text": "which is definitely an important thing"
+    },
+    {
+      "start": 656.14,
+      "end": 658.7,
+      "speaker": "SPEAKER_00",
+      "text": "from a being interview perspective."
+    },
+    {
+      "start": 658.7,
+      "end": 660.22,
+      "speaker": "SPEAKER_00",
+      "text": "And so I thought your notes"
+    },
+    {
+      "start": 660.22,
+      "end": 662.98,
+      "speaker": "SPEAKER_00",
+      "text": "and your clarifying questions were really good."
+    },
+    {
+      "start": 662.98,
+      "end": 664.42,
+      "speaker": "SPEAKER_00",
+      "text": "I wasn't sure at the beginning"
+    },
+    {
+      "start": 664.42,
+      "end": 665.78,
+      "speaker": "SPEAKER_00",
+      "text": "when you asked about the market share,"
+    },
+    {
+      "start": 665.78,
+      "end": 667.26,
+      "speaker": "SPEAKER_00",
+      "text": "where you were going to tie that in."
+    },
+    {
+      "start": 667.26,
+      "end": 668.78,
+      "speaker": "SPEAKER_00",
+      "text": "But then when I saw later,"
+    },
+    {
+      "start": 668.78,
+      "end": 670.54,
+      "speaker": "SPEAKER_00",
+      "text": "you added it back into the strategy."
+    },
+    {
+      "start": 670.54,
+      "end": 672.42,
+      "speaker": "SPEAKER_00",
+      "text": "I thought that was a really good question."
+    },
+    {
+      "start": 672.42,
+      "end": 673.8199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "So I was concerned at the beginning"
+    },
+    {
+      "start": 673.8199999999999,
+      "end": 676.38,
+      "speaker": "SPEAKER_00",
+      "text": "that you were just asking me random strategic questions"
+    },
+    {
+      "start": 676.38,
+      "end": 678.8199999999999,
+      "speaker": "SPEAKER_00",
+      "text": "without really thinking about the implications of them."
+    },
+    {
+      "start": 678.8199999999999,
+      "end": 681.26,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe just one hand would be to push a little bit more"
+    },
+    {
+      "start": 681.26,
+      "end": 684.34,
+      "speaker": "SPEAKER_00",
+      "text": "into identifying why you're asking the question."
+    },
+    {
+      "start": 684.34,
+      "end": 686.54,
+      "speaker": "SPEAKER_00",
+      "text": "I wanted a market share because."
+    },
+    {
+      "start": 686.54,
+      "end": 689.22,
+      "speaker": "SPEAKER_00",
+      "text": "And you also asked about the other adjacent markets"
+    },
+    {
+      "start": 689.22,
+      "end": 690.54,
+      "speaker": "SPEAKER_00",
+      "text": "and I kind of pushed back on that too."
+    },
+    {
+      "start": 690.54,
+      "end": 692.3,
+      "speaker": "SPEAKER_00",
+      "text": "And I said, why would you want to know?"
+    },
+    {
+      "start": 692.3,
+      "end": 693.98,
+      "speaker": "SPEAKER_00",
+      "text": "And what you're saying is essentially,"
+    },
+    {
+      "start": 693.98,
+      "end": 694.9,
+      "speaker": "SPEAKER_00",
+      "text": "I'm interested in this,"
+    },
+    {
+      "start": 694.9,
+      "end": 696.58,
+      "speaker": "SPEAKER_00",
+      "text": "but I also would think that the opportunity"
+    },
+    {
+      "start": 696.58,
+      "end": 697.82,
+      "speaker": "SPEAKER_00",
+      "text": "will be bigger than just land."
+    },
+    {
+      "start": 697.82,
+      "end": 700.74,
+      "speaker": "SPEAKER_00",
+      "text": "So what would we think about for that?"
+    },
+    {
+      "start": 700.74,
+      "end": 703.74,
+      "speaker": "SPEAKER_00",
+      "text": "Then your numbers, I thought that your structure"
+    },
+    {
+      "start": 703.74,
+      "end": 704.5,
+      "speaker": "SPEAKER_00",
+      "text": "was pretty good."
+    },
+    {
+      "start": 704.5,
+      "end": 708.74,
+      "speaker": "SPEAKER_00",
+      "text": "That one piece at the end of the replacement rate,"
+    },
+    {
+      "start": 708.74,
+      "end": 710.26,
+      "speaker": "SPEAKER_00",
+      "text": "I think would be pretty standard."
+    },
+    {
+      "start": 710.26,
+      "end": 712.38,
+      "speaker": "SPEAKER_00",
+      "text": "So that's why I was just asking you,"
+    },
+    {
+      "start": 712.38,
+      "end": 714.74,
+      "speaker": "SPEAKER_00",
+      "text": "at the beginning, I'd really want you to define,"
+    },
+    {
+      "start": 714.74,
+      "end": 716.94,
+      "speaker": "SPEAKER_00",
+      "text": "here's why I want to go after households."
+    },
+    {
+      "start": 716.94,
+      "end": 720.58,
+      "speaker": "SPEAKER_00",
+      "text": "And then this is the piece that we really have to focus on."
+    },
+    {
+      "start": 720.58,
+      "end": 723.0600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And here's why we're calculating it in this."
+    },
+    {
+      "start": 723.0600000000001,
+      "end": 724.7,
+      "speaker": "SPEAKER_00",
+      "text": "But I think most of the time for Bannon"
+    },
+    {
+      "start": 724.7,
+      "end": 726.46,
+      "speaker": "SPEAKER_00",
+      "text": "probably want it in the annual basis,"
+    },
+    {
+      "start": 726.46,
+      "end": 729.5,
+      "speaker": "SPEAKER_00",
+      "text": "just because it's going to, most markets are going to feel big."
+    },
+    {
+      "start": 729.5,
+      "end": 732.1,
+      "speaker": "SPEAKER_00",
+      "text": "Not knowing how long it's going to take to replace things"
+    },
+    {
+      "start": 732.1,
+      "end": 735.94,
+      "speaker": "SPEAKER_00",
+      "text": "or maybe too small if something has a more frequent replacement"
+    },
+    {
+      "start": 735.94,
+      "end": 736.82,
+      "speaker": "SPEAKER_00",
+      "text": "rate."
+    },
+    {
+      "start": 736.82,
+      "end": 740.02,
+      "speaker": "SPEAKER_00",
+      "text": "And then I would want you when you go through the household"
+    },
+    {
+      "start": 740.02,
+      "end": 742.5400000000001,
+      "speaker": "SPEAKER_00",
+      "text": "explanation to just defend yourself."
+    },
+    {
+      "start": 742.5400000000001,
+      "end": 745.26,
+      "speaker": "SPEAKER_00",
+      "text": "Tell me at the beginning, I want to do households."
+    },
+    {
+      "start": 745.26,
+      "end": 746.46,
+      "speaker": "SPEAKER_00",
+      "text": "And here's what I did."
+    },
+    {
+      "start": 746.46,
+      "end": 748.62,
+      "speaker": "SPEAKER_00",
+      "text": "So I thought you were very polite about that"
+    },
+    {
+      "start": 748.62,
+      "end": 751.1800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "and asking permission for it."
+    },
+    {
+      "start": 751.1800000000001,
+      "end": 753.62,
+      "speaker": "SPEAKER_00",
+      "text": "But just explaining, I built the structure"
+    },
+    {
+      "start": 753.62,
+      "end": 756.7,
+      "speaker": "SPEAKER_00",
+      "text": "around the household market because I think it's the most"
+    },
+    {
+      "start": 756.7,
+      "end": 759.34,
+      "speaker": "SPEAKER_00",
+      "text": "important gets me right to where I would want to go."
+    },
+    {
+      "start": 759.34,
+      "end": 762.62,
+      "speaker": "SPEAKER_00",
+      "text": "And then I still might reserve the right to tweak it."
+    },
+    {
+      "start": 762.62,
+      "end": 765.7,
+      "speaker": "SPEAKER_00",
+      "text": "And then when final tip about that piece at the end of the case,"
+    },
+    {
+      "start": 765.7,
+      "end": 767.78,
+      "speaker": "SPEAKER_00",
+      "text": "I probably would have gone back to that assumption"
+    },
+    {
+      "start": 767.78,
+      "end": 770.02,
+      "speaker": "SPEAKER_00",
+      "text": "because that 25 million is probably"
+    },
+    {
+      "start": 770.02,
+      "end": 772.98,
+      "speaker": "SPEAKER_00",
+      "text": "underestimating the full size of the market"
+    },
+    {
+      "start": 772.98,
+      "end": 775.98,
+      "speaker": "SPEAKER_00",
+      "text": "because you only carved out households in the beginning."
+    },
+    {
+      "start": 775.98,
+      "end": 776.82,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah, that makes sense."
+    },
+    {
+      "start": 776.82,
+      "end": 779.14,
+      "speaker": "SPEAKER_00",
+      "text": "Other than that, I thought your assumptions were pretty"
+    },
+    {
+      "start": 779.14,
+      "end": 779.46,
+      "speaker": "SPEAKER_00",
+      "text": "reasonable."
+    },
+    {
+      "start": 779.46,
+      "end": 780.86,
+      "speaker": "SPEAKER_00",
+      "text": "I couldn't believe that you actually"
+    },
+    {
+      "start": 780.86,
+      "end": 784.38,
+      "speaker": "SPEAKER_00",
+      "text": "knew Closish, the population of Mexico."
+    },
+    {
+      "start": 784.38,
+      "end": 787.22,
+      "speaker": "SPEAKER_00",
+      "text": "We usually get people around the 50 million mark"
+    },
+    {
+      "start": 787.22,
+      "end": 790.5,
+      "speaker": "SPEAKER_00",
+      "text": "or the classic 100 million guess where they are."
+    },
+    {
+      "start": 790.5,
+      "end": 793.74,
+      "speaker": "SPEAKER_00",
+      "text": "So I thought that was a pretty good estimate."
+    },
+    {
+      "start": 793.74,
+      "end": 798.3000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "The 2.5 on households, I was really worried when you said that"
+    },
+    {
+      "start": 798.3000000000001,
+      "end": 802.1,
+      "speaker": "SPEAKER_00",
+      "text": "because that's not the easiest number for a calculations standpoint."
+    },
+    {
+      "start": 802.1,
+      "end": 806.26,
+      "speaker": "SPEAKER_00",
+      "text": "So anyhow, you did a good job with the calculations for that."
+    },
+    {
+      "start": 806.26,
+      "end": 807.9,
+      "speaker": "SPEAKER_00",
+      "text": "And then the five was good."
+    },
+    {
+      "start": 807.9,
+      "end": 810.58,
+      "speaker": "SPEAKER_00",
+      "text": "I was really glad that you picked an easy number and defended it."
+    },
+    {
+      "start": 810.62,
+      "end": 812.1800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And I thought your defense was good."
+    },
+    {
+      "start": 812.1800000000001,
+      "end": 814.0600000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And then the 20 was also pretty good"
+    },
+    {
+      "start": 814.0600000000001,
+      "end": 815.4200000000001,
+      "speaker": "SPEAKER_00",
+      "text": "from a calculation standpoint."
+    },
+    {
+      "start": 815.4200000000001,
+      "end": 818.3000000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And your calculations, I didn't see major issues with."
+    },
+    {
+      "start": 818.3000000000001,
+      "end": 821.34,
+      "speaker": "SPEAKER_00",
+      "text": "So across the board, I really liked the bigger picture."
+    },
+    {
+      "start": 821.34,
+      "end": 823.7,
+      "speaker": "SPEAKER_00",
+      "text": "And I feel like you could have tied a few of those things"
+    },
+    {
+      "start": 823.7,
+      "end": 825.58,
+      "speaker": "SPEAKER_00",
+      "text": "together, but overall, really good job."
+    },
+    {
+      "start": 825.58,
+      "end": 827.7800000000001,
+      "speaker": "SPEAKER_00",
+      "text": "And thanks for walking through the market size and case."
+    },
+    {
+      "start": 827.7800000000001,
+      "end": 828.26,
+      "speaker": "SPEAKER_01",
+      "text": "Awesome."
+    },
+    {
+      "start": 828.26,
+      "end": 829.1,
+      "speaker": "SPEAKER_01",
+      "text": "Thank you."
+    }
+  ],
+  "grading": {
+    "communication": 17,
+    "framework": 14,
+    "math": 9,
+    "case_difficulty": 9,
+    "final_summary": 13,
+    "overall_thoughts": "You presented your ideas clearly, but struggled with the underlying math."
+  }
+}

@@ -1,0 +1,4118 @@
+[
+  {
+    "start": 0.0,
+    "end": 11.0,
+    "speaker": "SPEAKER_00",
+    "text": "I'll get started by introducing our guests today and then after that I'll introduce the case that we're going to do."
+  },
+  {
+    "start": 11.0,
+    "end": 23.0,
+    "speaker": "SPEAKER_00",
+    "text": "Our guest today is a MBA student graduating in 2021 and I think that his introduction will be forewarned by the outfit that he's wearing today."
+  },
+  {
+    "start": 23.0,
+    "end": 27.0,
+    "speaker": "SPEAKER_00",
+    "text": "I'll let him share a little bit about his bio in a second."
+  },
+  {
+    "start": 27.0,
+    "end": 34.0,
+    "speaker": "SPEAKER_00",
+    "text": "But at the MBA level in second year right now where we are is, is, you know, go time, right?"
+  },
+  {
+    "start": 34.0,
+    "end": 44.0,
+    "speaker": "SPEAKER_00",
+    "text": "So I'm going to give a second round case that is creative of the likes that you would get at a firm like BCG, KPMG, Deloitte."
+  },
+  {
+    "start": 44.0,
+    "end": 53.0,
+    "speaker": "SPEAKER_00",
+    "text": "And you'll see kind of where the theme of this goes as we weave it in. So I'm excited to have our guest introduce himself and then to dive into the case."
+  },
+  {
+    "start": 53.0,
+    "end": 61.0,
+    "speaker": "SPEAKER_00",
+    "text": "Johnny, welcome. And why don't you give us just a little bit of your bio, how you've gone through the case and process where you are in the process right now."
+  },
+  {
+    "start": 61.0,
+    "end": 65.0,
+    "speaker": "SPEAKER_00",
+    "text": "And what in particular you're looking forward to today."
+  },
+  {
+    "start": 65.0,
+    "end": 78.0,
+    "speaker": "SPEAKER_01",
+    "text": "Sure, thank you so much. So I have a pretty nontraditional background. I actually started out in medical school and then I became a tech consultant and then I started a startup company for going to my com for my MBA."
+  },
+  {
+    "start": 78.0,
+    "end": 86.0,
+    "speaker": "SPEAKER_01",
+    "text": "So very nontraditional and if anything, I hope that I'm attestinit that anyone can become a consultant if they really don't want to pursue that path."
+  },
+  {
+    "start": 86.0,
+    "end": 98.0,
+    "speaker": "SPEAKER_01",
+    "text": "And yeah, I'm really enjoying my second year and I'm currently in the interview pipeline. I have everything from first comes around to offer. So just kind of in different spots with different firms right now."
+  },
+  {
+    "start": 98.0,
+    "end": 108.0,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome. And then today in particular, any special request, things that you want me to look for or provide specific tactical advice at the end of the case on."
+  },
+  {
+    "start": 108.0,
+    "end": 127.0,
+    "speaker": "SPEAKER_01",
+    "text": "I guess I'm just love to just hear your expert thoughts on what I can work on because I think one of the tricky things about when you face with only peers or upper class is that you might all have the same feedback all the time and not notice certain nuances that everyone could do the certain blind spots. So I'd love to know what those are."
+  },
+  {
+    "start": 127.0,
+    "end": 137.0,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, great. Find the blind spots. That's the challenge. Good. Well, I don't know if you've seen one of our live calls before, but I'm going to walk you through the full case."
+  },
+  {
+    "start": 137.0,
+    "end": 146.0,
+    "speaker": "SPEAKER_00",
+    "text": "I won't stop you. I'll just kind of let let you go through, but I do have a total time limit, which is 40 minutes. So our goal is to finish an under 40 minutes."
+  },
+  {
+    "start": 146.0,
+    "end": 157.0,
+    "speaker": "SPEAKER_00",
+    "text": "And at the 40 minute arc, I'll just kind of be like, okay, great. Thanks so much. And then we'll, you know, close it and wrap it up around 37 38 minutes. I will keep a timer as we go through so that you at the end."
+  },
+  {
+    "start": 157.0,
+    "end": 172.0,
+    "speaker": "SPEAKER_00",
+    "text": "We'll get feedback both on the content and also on the process that you went through, which includes the amount of time that it takes you to do. And that can be one of the things that sometimes people miss out on when you're casing with other people make it used to the rhythm of what they've been used to."
+  },
+  {
+    "start": 172.0,
+    "end": 188.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then finally, I'm looking for this case to be interview. We led. So again, the position that I'm taking is one at a firm where I'm basically just going to give you the prompt and then let you guide me through the case. So it's up to you to find the treasures."
+  },
+  {
+    "start": 188.0,
+    "end": 191.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. You ready? Yeah, let's do it."
+  },
+  {
+    "start": 191.0,
+    "end": 204.0,
+    "speaker": "SPEAKER_00",
+    "text": "That's a good started. Awesome. So today's case is a fun one and I decided that I wanted to localize it for you. So the case is called Texas unemployment bump."
+  },
+  {
+    "start": 204.0,
+    "end": 214.0,
+    "speaker": "SPEAKER_00",
+    "text": "And I'll read you out the intro right now. So our client is the great state of Texas, the only state in the US that has its own state shaped waffle makers."
+  },
+  {
+    "start": 214.0,
+    "end": 220.0,
+    "speaker": "SPEAKER_00",
+    "text": "And then the second largest state in the US by population at 29 million residents in 2019."
+  },
+  {
+    "start": 220.0,
+    "end": 233.0,
+    "speaker": "SPEAKER_00",
+    "text": "Moreover, despite the traditional high growth rates of job availability in Texas, the state did not escape the COVID effect on unemployment after a peak of 13.5% unemployment."
+  },
+  {
+    "start": 233.0,
+    "end": 243.0,
+    "speaker": "SPEAKER_00",
+    "text": "That was how many of the workforce filed for unemployment in April 2020. The rate remained still high in September 2020 at 8.5%."
+  },
+  {
+    "start": 243.0,
+    "end": 268.0,
+    "speaker": "SPEAKER_00",
+    "text": "So with this, that dare I say it, unprecedented spike in unemployment rates has come a similar increase in unemployment insurance fraud, which occurs when people mislead or lie when filing a claim to ensure they have a higher level of benefits than they would otherwise be entitled to the Texas workforce commission has hired us to look to reduce fraud instances and improve fraud capture."
+  },
+  {
+    "start": 268.0,
+    "end": 274.0,
+    "speaker": "SPEAKER_00",
+    "text": "How would you think about it and what would you recommend?"
+  },
+  {
+    "start": 274.0,
+    "end": 278.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, just sitting down in this last detail."
+  },
+  {
+    "start": 278.0,
+    "end": 288.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. So we're looking in mind that the woods here. I'm going to go ahead and replay what I heard just make sure that I captured the important details."
+  },
+  {
+    "start": 288.0,
+    "end": 294.0,
+    "speaker": "SPEAKER_01",
+    "text": "So our client is the state of Texas, more specifically the Texas workforce commission."
+  },
+  {
+    "start": 294.0,
+    "end": 305.0,
+    "speaker": "SPEAKER_01",
+    "text": "And this state has 29 million residents. We have this situation where job availability at peak at 13 unemployment peak at 13.5% in April."
+  },
+  {
+    "start": 305.0,
+    "end": 314.0,
+    "speaker": "SPEAKER_01",
+    "text": "And it still remains pretty high at September at 8.5%. And what this has led to is increase unemployment insurance fraud."
+  },
+  {
+    "start": 314.0,
+    "end": 322.0,
+    "speaker": "SPEAKER_01",
+    "text": "This is an appointment sure as fraud is where hopes are asking for higher benefits or claiming higher benefits and they're actually entitled to."
+  },
+  {
+    "start": 322.0,
+    "end": 334.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so our client has asked us to do two things to reduce the number of fraud instances and also to increase the rate at which we identify fraud. Did I get all that correctly?"
+  },
+  {
+    "start": 334.0,
+    "end": 342.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yes, the only thing I just want to make sure I clarify is the percentage that you said at the September unemployment rate was what did you say again? I just want to make sure that was right."
+  },
+  {
+    "start": 342.0,
+    "end": 356.0,
+    "speaker": "SPEAKER_01",
+    "text": "8.5? 8.5. Yeah. Okay. Perfect. All right. Well, yeah. This definitely sounds like a non-traditional. I love to ask some questions to orient myself and get some context here. Sounds good."
+  },
+  {
+    "start": 356.0,
+    "end": 364.0,
+    "speaker": "SPEAKER_01",
+    "text": "All right. So the first thing I'd like to know is a little bit more about what unemployment insurance is and how it works."
+  },
+  {
+    "start": 364.0,
+    "end": 373.0,
+    "speaker": "SPEAKER_01",
+    "text": "I can make a service level guess that it's money paid out if the folks who don't have a job. I'd love to understand a little bit more about this and how it works."
+  },
+  {
+    "start": 373.0,
+    "end": 383.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. So unemployment insurance is the benefit that is received. It's kind of most insurance you pay for and then you receive the benefit as a claim."
+  },
+  {
+    "start": 383.0,
+    "end": 390.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so this is the same type of thing except you personally aren't necessarily paying unemployment. It's your employer that's paying them your behalf."
+  },
+  {
+    "start": 390.0,
+    "end": 398.0,
+    "speaker": "SPEAKER_00",
+    "text": "And so when someone gets unemployed, the benefits that they receive, the financial benefits, the checks that they get are the unemployment insurance claims."
+  },
+  {
+    "start": 398.0,
+    "end": 408.0,
+    "speaker": "SPEAKER_00",
+    "text": "So the claims go through to basically get you into the qualification process and then the insurance payouts are the ones that you receive."
+  },
+  {
+    "start": 408.0,
+    "end": 421.0,
+    "speaker": "SPEAKER_01",
+    "text": "Interesting. Okay. So my next question then is we want to reduce part of this is increased fraud capture. My question is how is that being done currently?"
+  },
+  {
+    "start": 421.0,
+    "end": 426.0,
+    "speaker": "SPEAKER_01",
+    "text": "So what's this entire place to capture fraud and prevent it?"
+  },
+  {
+    "start": 426.0,
+    "end": 434.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. We'll explore that. I think a little bit more inside the case, but just what would you think about what would what would be the normal process that you would expect?"
+  },
+  {
+    "start": 434.0,
+    "end": 440.0,
+    "speaker": "SPEAKER_01",
+    "text": "So yeah, this is really tricky. Some kind of due diligence with have to be involved."
+  },
+  {
+    "start": 440.0,
+    "end": 451.0,
+    "speaker": "SPEAKER_01",
+    "text": "I guess kind of tracing the paperwork trail can be one way in which you can prevent it as well as increase the capture, but yeah, I'm not sure what else."
+  },
+  {
+    "start": 451.0,
+    "end": 455.0,
+    "speaker": "SPEAKER_01",
+    "text": "And I think I'll have to begin to that later when I draw my structure. Sounds good."
+  },
+  {
+    "start": 455.0,
+    "end": 468.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. And let's see. Just want to check if there's anything else I want to ask before I go into my planning."
+  },
+  {
+    "start": 468.0,
+    "end": 475.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I guess if I could ask one more thing, I'd like to know if there's any specific, one-of-five objective we want to attach."
+  },
+  {
+    "start": 475.0,
+    "end": 480.0,
+    "speaker": "SPEAKER_01",
+    "text": "So when we say increased fraud capture, do we want to attach a specific number to that?"
+  },
+  {
+    "start": 480.0,
+    "end": 484.0,
+    "speaker": "SPEAKER_00",
+    "text": "And what what what do you think it would be?"
+  },
+  {
+    "start": 484.0,
+    "end": 488.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think if we could get it to the levels that it was pre-COVID, that would be nice."
+  },
+  {
+    "start": 488.0,
+    "end": 493.0,
+    "speaker": "SPEAKER_01",
+    "text": "As I imagined, that would be the normal, the norm."
+  },
+  {
+    "start": 493.0,
+    "end": 501.0,
+    "speaker": "SPEAKER_00",
+    "text": "Make sense. And so yet we have this, you know, fraud capture percentage, which is a percentage of the claims that are fraudulent."
+  },
+  {
+    "start": 501.0,
+    "end": 508.0,
+    "speaker": "SPEAKER_00",
+    "text": "And we also obviously have this burden on the system that's augmented by the fact that our unemployment claims are also higher, right?"
+  },
+  {
+    "start": 508.0,
+    "end": 516.0,
+    "speaker": "SPEAKER_00",
+    "text": "So the compounding of the two of them is difficult, but the one that we have the most control over is reducing the fraud capture rates."
+  },
+  {
+    "start": 516.0,
+    "end": 519.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. And we have a specific number that we're kind of target."
+  },
+  {
+    "start": 519.0,
+    "end": 522.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, we might go into it in the case, but I don't have it now for you."
+  },
+  {
+    "start": 522.0,
+    "end": 526.0,
+    "speaker": "SPEAKER_01",
+    "text": "Got it. Okay. Well, if I could have a few moments, I'd love to just focus on my thoughts."
+  },
+  {
+    "start": 526.0,
+    "end": 527.0,
+    "speaker": "SPEAKER_00",
+    "text": "Sounds good."
+  },
+  {
+    "start": 527.0,
+    "end": 529.0,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 557.0,
+    "end": 559.0,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 587.0,
+    "end": 589.0,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 617.0,
+    "end": 623.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 623.0,
+    "end": 627.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I have a bit of a rough sketch of how I'm thinking about this."
+  },
+  {
+    "start": 627.0,
+    "end": 635.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think it's going to be, we need to be filled in a little bit later as I uncover more because there's a lot of uncertainty about how we would solve something like this."
+  },
+  {
+    "start": 635.0,
+    "end": 643.0,
+    "speaker": "SPEAKER_01",
+    "text": "But to start off with, I'm kind of thinking about three broad categories of things I want to look at."
+  },
+  {
+    "start": 643.0,
+    "end": 650.0,
+    "speaker": "SPEAKER_01",
+    "text": "So the first is what's going on on the side of people who commit fraud."
+  },
+  {
+    "start": 650.0,
+    "end": 664.0,
+    "speaker": "SPEAKER_01",
+    "text": "And what I would love to know this as an example of data that might fall under this is, can we segment out the type of fraud in terms of what happens most frequently that happens to a medium level of frequency and low level frequency."
+  },
+  {
+    "start": 664.0,
+    "end": 676.0,
+    "speaker": "SPEAKER_01",
+    "text": "So in short, looking at people who commit fraud and whether we can segment it, I think, the second, you only can ask a question, is that segment the people or segment the fraud? I just want to be more accurate."
+  },
+  {
+    "start": 676.0,
+    "end": 679.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. That's a good question. The frauds."
+  },
+  {
+    "start": 679.0,
+    "end": 687.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. The second question or a question, the second kind of domain I want to explore is our clients side of things."
+  },
+  {
+    "start": 687.0,
+    "end": 693.0,
+    "speaker": "SPEAKER_01",
+    "text": "And when I think about the client's end of the problem, it comes down to financials, right, they're losing money."
+  },
+  {
+    "start": 693.0,
+    "end": 701.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so in this bucket, I would actually want to separate it by low medium high in terms of spend."
+  },
+  {
+    "start": 701.0,
+    "end": 716.0,
+    "speaker": "SPEAKER_01",
+    "text": "So how much money is being lost to false claims and segmented out by the dollar amount per claim, perhaps we can uncover some insights by separating by that."
+  },
+  {
+    "start": 716.0,
+    "end": 719.0,
+    "speaker": "SPEAKER_00",
+    "text": "What kind of insights?"
+  },
+  {
+    "start": 719.0,
+    "end": 731.0,
+    "speaker": "SPEAKER_01",
+    "text": "For instance, perhaps a certain county in Texas, maybe rural over urban is committing more fraud in the higher dollar amounts versus the low."
+  },
+  {
+    "start": 731.0,
+    "end": 740.0,
+    "speaker": "SPEAKER_01",
+    "text": "And if that's the case, we should probably warm our strategy around the rural areas. So kind of this, yeah, creating segments to see what patterns emerge."
+  },
+  {
+    "start": 740.0,
+    "end": 747.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. So yeah, that's the second domain. And then the last area I'd like to look at are solutions."
+  },
+  {
+    "start": 747.0,
+    "end": 753.0,
+    "speaker": "SPEAKER_01",
+    "text": "And this is where I literally don't have anything populated yet. I want to fill that in as we kind of uncover more."
+  },
+  {
+    "start": 753.0,
+    "end": 758.0,
+    "speaker": "SPEAKER_01",
+    "text": "Just up a lot of time. I head on the way sure how insurance products handled in the real world."
+  },
+  {
+    "start": 758.0,
+    "end": 766.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I definitely want to keep that in mind, but at the moment, I don't have any specific details to put less under that."
+  },
+  {
+    "start": 766.0,
+    "end": 773.0,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome. Okay. Great. And so, do you think this is a fixable problem?"
+  },
+  {
+    "start": 773.0,
+    "end": 777.0,
+    "speaker": "SPEAKER_00",
+    "text": "That's really good question."
+  },
+  {
+    "start": 777.0,
+    "end": 784.0,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, I mean, I want to say yes, as I feel like there are few problems that are truly unfixable. And there's always a way."
+  },
+  {
+    "start": 784.0,
+    "end": 788.0,
+    "speaker": "SPEAKER_01",
+    "text": "And so I, yeah, I want to say it's visible."
+  },
+  {
+    "start": 788.0,
+    "end": 792.0,
+    "speaker": "SPEAKER_00",
+    "text": "All right. Well, where would you want to start?"
+  },
+  {
+    "start": 792.0,
+    "end": 799.0,
+    "speaker": "SPEAKER_01",
+    "text": "So I guess we're doing my structure, even though I talked about the claimants side first."
+  },
+  {
+    "start": 799.0,
+    "end": 803.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think it actually would have been a client's financials for a second. That makes no sense."
+  },
+  {
+    "start": 803.0,
+    "end": 808.0,
+    "speaker": "SPEAKER_01",
+    "text": "Because that gives us a more direct look into how specifically they're hurting and where."
+  },
+  {
+    "start": 808.0,
+    "end": 813.0,
+    "speaker": "SPEAKER_01",
+    "text": "So let me switch up the first. I think that I named in start with the client."
+  },
+  {
+    "start": 813.0,
+    "end": 819.0,
+    "speaker": "SPEAKER_01",
+    "text": "So yeah, I'd love to know if we have any data on where they're losing the most money."
+  },
+  {
+    "start": 819.0,
+    "end": 822.0,
+    "speaker": "SPEAKER_00",
+    "text": "So I think it's a lot of things."
+  },
+  {
+    "start": 822.0,
+    "end": 825.0,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah. So let's, let's do a little bit of brainstorming here."
+  },
+  {
+    "start": 825.0,
+    "end": 835.0,
+    "speaker": "SPEAKER_00",
+    "text": "What do you think the types of fraud would be? What would people lie about when going through the unemployment claims process?"
+  },
+  {
+    "start": 835.0,
+    "end": 838.0,
+    "speaker": "SPEAKER_01",
+    "text": "So types of."
+  },
+  {
+    "start": 838.0,
+    "end": 843.0,
+    "speaker": "SPEAKER_01",
+    "text": "I think we can take the first step to post. There are two broad categories that come to mind."
+  },
+  {
+    "start": 843.0,
+    "end": 847.0,
+    "speaker": "SPEAKER_01",
+    "text": "They could lie about how long they've been unemployed."
+  },
+  {
+    "start": 847.0,
+    "end": 850.0,
+    "speaker": "SPEAKER_01",
+    "text": "And whether they've been unemployed."
+  },
+  {
+    "start": 850.0,
+    "end": 859.0,
+    "speaker": "SPEAKER_01",
+    "text": "In the second category, you can include things like even naming a state company or planning to have worked somewhere where they never works."
+  },
+  {
+    "start": 859.0,
+    "end": 863.0,
+    "speaker": "SPEAKER_01",
+    "text": "So kind of make it doing it like a quantity and quality."
+  },
+  {
+    "start": 863.0,
+    "end": 871.28,
+    "speaker": "SPEAKER_00",
+    "text": "So the date of unemployment they're overstating, you're saying, and then the other one is they're"
+  },
+  {
+    "start": 871.28,
+    "end": 874.56,
+    "speaker": "SPEAKER_00",
+    "text": "claiming to work somewhere that they didn't work."
+  },
+  {
+    "start": 874.56,
+    "end": 875.56,
+    "speaker": "SPEAKER_01",
+    "text": "Right."
+  },
+  {
+    "start": 875.56,
+    "end": 876.56,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 876.56,
+    "end": 878.4,
+    "speaker": "SPEAKER_00",
+    "text": "There was one other thing under there."
+  },
+  {
+    "start": 878.4,
+    "end": 881.4,
+    "speaker": "SPEAKER_01",
+    "text": "Under the quality bucket."
+  },
+  {
+    "start": 881.4,
+    "end": 883.4,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, I think so."
+  },
+  {
+    "start": 883.4,
+    "end": 885.4,
+    "speaker": "SPEAKER_01",
+    "text": "I don't know if it was though."
+  },
+  {
+    "start": 885.4,
+    "end": 891.8,
+    "speaker": "SPEAKER_01",
+    "text": "It's like about what kind of employers and yeah, I'm not sure what specifically, but"
+  },
+  {
+    "start": 891.8,
+    "end": 897.92,
+    "speaker": "SPEAKER_01",
+    "text": "I think just the nature of their employment, maybe they didn't work full time, but they"
+  },
+  {
+    "start": 897.92,
+    "end": 901.4,
+    "speaker": "SPEAKER_01",
+    "text": "worked hard time, were a temp job, and now they want to claim that they were full time"
+  },
+  {
+    "start": 901.4,
+    "end": 903.4,
+    "speaker": "SPEAKER_01",
+    "text": "to meet larger benefits."
+  },
+  {
+    "start": 903.4,
+    "end": 905.4,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 905.4,
+    "end": 906.4,
+    "speaker": "UNKNOWN",
+    "text": "Great."
+  },
+  {
+    "start": 906.4,
+    "end": 916.04,
+    "speaker": "SPEAKER_00",
+    "text": "I'm going to ask you a question about these because this is kind of interesting."
+  },
+  {
+    "start": 916.04,
+    "end": 920.68,
+    "speaker": "SPEAKER_00",
+    "text": "How would you verify whether these things were true or not?"
+  },
+  {
+    "start": 920.68,
+    "end": 925.52,
+    "speaker": "SPEAKER_00",
+    "text": "Through the Texas Workforce Commission and you want to catch somebody, you want to do"
+  },
+  {
+    "start": 925.52,
+    "end": 928.12,
+    "speaker": "SPEAKER_00",
+    "text": "the fraud capture piece of this?"
+  },
+  {
+    "start": 928.12,
+    "end": 929.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 929.4399999999999,
+    "end": 935.9599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So I think that where I would start if I were enforcing this is exactly this contact,"
+  },
+  {
+    "start": 935.9599999999999,
+    "end": 941.4399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "the employers, that's probably the most direct and easiest route is, can you confirm that"
+  },
+  {
+    "start": 941.4399999999999,
+    "end": 949.3199999999999,
+    "speaker": "SPEAKER_01",
+    "text": "so and so worth that this place and this role from January to March?"
+  },
+  {
+    "start": 949.48,
+    "end": 951.08,
+    "speaker": "SPEAKER_00",
+    "text": "Absolutely."
+  },
+  {
+    "start": 951.08,
+    "end": 958.7600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And so doing that employer verification process, when would you do it?"
+  },
+  {
+    "start": 958.7600000000001,
+    "end": 967.72,
+    "speaker": "SPEAKER_01",
+    "text": "Like chronologically, when I would do it, I think I, I mean, walking through the process"
+  },
+  {
+    "start": 967.72,
+    "end": 972.12,
+    "speaker": "SPEAKER_00",
+    "text": "of what you think happens to a claim, let's see if there's any insights there."
+  },
+  {
+    "start": 972.12,
+    "end": 973.12,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, okay."
+  },
+  {
+    "start": 973.52,
+    "end": 979.52,
+    "speaker": "SPEAKER_01",
+    "text": "So yeah, I guess a claim comes in and then at that point it would be reviewed."
+  },
+  {
+    "start": 979.52,
+    "end": 984.12,
+    "speaker": "SPEAKER_01",
+    "text": "So I imagine it would take place pretty early in the process."
+  },
+  {
+    "start": 984.12,
+    "end": 987.76,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to be one of the first things that I want to do to make sure, because otherwise"
+  },
+  {
+    "start": 987.76,
+    "end": 993.44,
+    "speaker": "SPEAKER_01",
+    "text": "you're just wasting all this time, we're doing an application that's focused."
+  },
+  {
+    "start": 993.44,
+    "end": 994.44,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 994.44,
+    "end": 998.48,
+    "speaker": "SPEAKER_00",
+    "text": "So so the claim comes in, walking through all the steps."
+  },
+  {
+    "start": 998.48,
+    "end": 999.48,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 999.48,
+    "end": 1005.08,
+    "speaker": "SPEAKER_01",
+    "text": "And whoever's reviewing it, we'll just look at the application, look at how much it's"
+  },
+  {
+    "start": 1005.08,
+    "end": 1006.08,
+    "speaker": "SPEAKER_01",
+    "text": "asking for."
+  },
+  {
+    "start": 1006.08,
+    "end": 1007.44,
+    "speaker": "SPEAKER_00",
+    "text": "And how do people send a claim?"
+  },
+  {
+    "start": 1007.44,
+    "end": 1008.44,
+    "speaker": "SPEAKER_00",
+    "text": "What do you think?"
+  },
+  {
+    "start": 1008.44,
+    "end": 1014.52,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, I either digitally or by mail, I don't know if stone is an option, but I think digital"
+  },
+  {
+    "start": 1014.52,
+    "end": 1017.32,
+    "speaker": "SPEAKER_01",
+    "text": "might mail the data to dominant options."
+  },
+  {
+    "start": 1017.32,
+    "end": 1018.32,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1018.32,
+    "end": 1020.32,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, awesome."
+  },
+  {
+    "start": 1020.32,
+    "end": 1021.32,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1021.32,
+    "end": 1027.28,
+    "speaker": "SPEAKER_01",
+    "text": "So so whether it arrives digitally or on hard paper, the reviewer would kind of look"
+  },
+  {
+    "start": 1027.28,
+    "end": 1033.32,
+    "speaker": "SPEAKER_01",
+    "text": "at the big details, the deployment dates, employer, dollar amount."
+  },
+  {
+    "start": 1033.32,
+    "end": 1036.76,
+    "speaker": "SPEAKER_01",
+    "text": "So I don't know if people will file the claim, ask for dollar amount or if that's a thing"
+  },
+  {
+    "start": 1036.76,
+    "end": 1042.08,
+    "speaker": "SPEAKER_01",
+    "text": "that the insurance company decides, but dollar amount if it's the former."
+  },
+  {
+    "start": 1042.08,
+    "end": 1046.76,
+    "speaker": "SPEAKER_00",
+    "text": "It's usually a percentage that's set by the, you know, if it's running in an unemployment"
+  },
+  {
+    "start": 1046.76,
+    "end": 1050.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "system by the state, it's a percentage of your rate."
+  },
+  {
+    "start": 1050.8799999999999,
+    "end": 1055.96,
+    "speaker": "SPEAKER_00",
+    "text": "So you know, you get 70% of what your formal former compensation was or something."
+  },
+  {
+    "start": 1055.96,
+    "end": 1056.96,
+    "speaker": "SPEAKER_01",
+    "text": "So okay."
+  },
+  {
+    "start": 1056.96,
+    "end": 1064.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So so perhaps there's a box where the file or would input their claims, income then and"
+  },
+  {
+    "start": 1064.6000000000001,
+    "end": 1067.52,
+    "speaker": "SPEAKER_01",
+    "text": "that would be another detail that would be reviewed."
+  },
+  {
+    "start": 1067.52,
+    "end": 1072.52,
+    "speaker": "SPEAKER_01",
+    "text": "And then so after all that is looked at, I suppose, I suppose a reviewer could do this"
+  },
+  {
+    "start": 1072.52,
+    "end": 1076.92,
+    "speaker": "SPEAKER_01",
+    "text": "a sanity check before proceeding, this gives this kind of makes sense based on the experience"
+  },
+  {
+    "start": 1076.92,
+    "end": 1081.68,
+    "speaker": "SPEAKER_01",
+    "text": "and then afterwards go ahead and get in touch with that employer."
+  },
+  {
+    "start": 1081.68,
+    "end": 1083.68,
+    "speaker": "SPEAKER_00",
+    "text": "And you're saying that that would be done manually?"
+  },
+  {
+    "start": 1084.68,
+    "end": 1087.68,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, yeah, that's a question too."
+  },
+  {
+    "start": 1087.68,
+    "end": 1088.68,
+    "speaker": "SPEAKER_02",
+    "text": "Hmm."
+  },
+  {
+    "start": 1088.68,
+    "end": 1093.16,
+    "speaker": "SPEAKER_01",
+    "text": "I guess if it's submitted electronically, it'd be easier to automate such a process."
+  },
+  {
+    "start": 1093.16,
+    "end": 1099.52,
+    "speaker": "SPEAKER_01",
+    "text": "If it's submitted via mail, it can still be automated, but you would have to have some"
+  },
+  {
+    "start": 1099.52,
+    "end": 1104.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "technology and place the scan that information and enter it in."
+  },
+  {
+    "start": 1104.6000000000001,
+    "end": 1109.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "But then when it comes to the step where you're actually contacting the employer, I imagine"
+  },
+  {
+    "start": 1109.1200000000001,
+    "end": 1112.68,
+    "speaker": "SPEAKER_01",
+    "text": "you have to have a human being doing that."
+  },
+  {
+    "start": 1112.68,
+    "end": 1113.68,
+    "speaker": "SPEAKER_01",
+    "text": "Why?"
+  },
+  {
+    "start": 1113.68,
+    "end": 1119.3200000000002,
+    "speaker": "SPEAKER_01",
+    "text": "Because as an employer, I don't know that I would be like trust giving secure information"
+  },
+  {
+    "start": 1119.3200000000002,
+    "end": 1124.76,
+    "speaker": "SPEAKER_01",
+    "text": "out of the way that automated voice call has been for private data about my employer."
+  },
+  {
+    "start": 1124.76,
+    "end": 1125.76,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1125.76,
+    "end": 1126.76,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1126.76,
+    "end": 1128.8400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So what would you have done in an automated way?"
+  },
+  {
+    "start": 1128.8400000000001,
+    "end": 1130.8400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "What would you have done by a person?"
+  },
+  {
+    "start": 1130.8400000000001,
+    "end": 1132.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Sorry, be fair for that."
+  },
+  {
+    "start": 1132.8400000000001,
+    "end": 1133.8400000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1133.8400000000001,
+    "end": 1137.04,
+    "speaker": "SPEAKER_00",
+    "text": "What would you have done automated and what would you have done by a person?"
+  },
+  {
+    "start": 1137.04,
+    "end": 1141.04,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, in this whole review process."
+  },
+  {
+    "start": 1141.04,
+    "end": 1147.08,
+    "speaker": "SPEAKER_01",
+    "text": "So yeah, to the extent that's possible, I would love to scan all the input data, like"
+  },
+  {
+    "start": 1147.08,
+    "end": 1151.36,
+    "speaker": "SPEAKER_01",
+    "text": "all the fields and get that in our database in an automatic fashion."
+  },
+  {
+    "start": 1151.36,
+    "end": 1157.0,
+    "speaker": "SPEAKER_01",
+    "text": "And then actually doing the inside of your diligence reaching out to the employers that"
+  },
+  {
+    "start": 1157.0,
+    "end": 1161.96,
+    "speaker": "SPEAKER_01",
+    "text": "I would have to keep it human run."
+  },
+  {
+    "start": 1161.96,
+    "end": 1166.56,
+    "speaker": "SPEAKER_01",
+    "text": "And then oh, I guess I should also, as I progress to the chronology of this process, once the"
+  },
+  {
+    "start": 1166.56,
+    "end": 1170.84,
+    "speaker": "SPEAKER_01",
+    "text": "review is done, eventually someone will have to sign off if they're going to issue out"
+  },
+  {
+    "start": 1170.84,
+    "end": 1174.6799999999998,
+    "speaker": "SPEAKER_01",
+    "text": "the funds and definitely want to human dare to double check things."
+  },
+  {
+    "start": 1174.6799999999998,
+    "end": 1180.12,
+    "speaker": "SPEAKER_01",
+    "text": "You don't want to sign off on all this money and have it run by a robot and there's no"
+  },
+  {
+    "start": 1180.12,
+    "end": 1183.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "accountability if something goes wrong."
+  },
+  {
+    "start": 1183.9199999999998,
+    "end": 1187.9599999999998,
+    "speaker": "SPEAKER_00",
+    "text": "How many claims do you think there were in April of 2020?"
+  },
+  {
+    "start": 1187.9599999999998,
+    "end": 1189.56,
+    "speaker": "SPEAKER_00",
+    "text": "Just run some quick math on me."
+  },
+  {
+    "start": 1189.56,
+    "end": 1190.56,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, okay."
+  },
+  {
+    "start": 1190.56,
+    "end": 1198.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "So you said earlier that I'm in employment was at 13.5% in April."
+  },
+  {
+    "start": 1198.4,
+    "end": 1205.24,
+    "speaker": "SPEAKER_01",
+    "text": "And so I guess it would be a matter of time to estimate what percent of unemployment reported"
+  },
+  {
+    "start": 1205.24,
+    "end": 1210.2,
+    "speaker": "SPEAKER_01",
+    "text": "is also translates into insurance claims."
+  },
+  {
+    "start": 1210.2,
+    "end": 1215.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to, I'm going to guess that it's something high because I don't see any reason to"
+  },
+  {
+    "start": 1215.8400000000001,
+    "end": 1218.8400000000001,
+    "speaker": "SPEAKER_01",
+    "text": "not seek, seek free money."
+  },
+  {
+    "start": 1218.8400000000001,
+    "end": 1220.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm going to guess it's 80%."
+  },
+  {
+    "start": 1220.6000000000001,
+    "end": 1222.96,
+    "speaker": "SPEAKER_00",
+    "text": "Even higher usually, yeah."
+  },
+  {
+    "start": 1222.96,
+    "end": 1230.0,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so 80% of that 13.5%, 10 times 80%, 10 times 84%."
+  },
+  {
+    "start": 1230.0,
+    "end": 1237.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So probably about 10% of the population is filing these claims."
+  },
+  {
+    "start": 1237.1200000000001,
+    "end": 1238.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1238.1200000000001,
+    "end": 1239.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1239.1200000000001,
+    "end": 1243.92,
+    "speaker": "SPEAKER_00",
+    "text": "10% of the population or 10% of the, is there any difference?"
+  },
+  {
+    "start": 1243.92,
+    "end": 1244.92,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, okay."
+  },
+  {
+    "start": 1244.92,
+    "end": 1247.56,
+    "speaker": "SPEAKER_01",
+    "text": "So I guess I actually, I should ask for clarification."
+  },
+  {
+    "start": 1247.56,
+    "end": 1248.56,
+    "speaker": "SPEAKER_01",
+    "text": "What is it?"
+  },
+  {
+    "start": 1248.56,
+    "end": 1249.56,
+    "speaker": "SPEAKER_01",
+    "text": "13.5% of unemployed?"
+  },
+  {
+    "start": 1249.56,
+    "end": 1251.56,
+    "speaker": "SPEAKER_01",
+    "text": "Is that of the population or of the work force?"
+  },
+  {
+    "start": 1251.72,
+    "end": 1252.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "That's of the work force."
+  },
+  {
+    "start": 1252.8799999999999,
+    "end": 1253.8799999999999,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, okay."
+  },
+  {
+    "start": 1253.8799999999999,
+    "end": 1259.1599999999999,
+    "speaker": "SPEAKER_01",
+    "text": "In that case, we'll refine my earlier comment and say 10% of approximately of the work force"
+  },
+  {
+    "start": 1259.1599999999999,
+    "end": 1261.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "would have filed for this unemployment insurance."
+  },
+  {
+    "start": 1261.9199999999998,
+    "end": 1262.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1262.9199999999998,
+    "end": 1264.9199999999998,
+    "speaker": "SPEAKER_00",
+    "text": "How much do you think the workforce of me?"
+  },
+  {
+    "start": 1264.9199999999998,
+    "end": 1265.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Hmm."
+  },
+  {
+    "start": 1265.9199999999998,
+    "end": 1266.9199999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1266.9199999999998,
+    "end": 1271.08,
+    "speaker": "SPEAKER_01",
+    "text": "So we know that that's population is 29 million residents."
+  },
+  {
+    "start": 1271.08,
+    "end": 1276.56,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to assume that population, that that age is evenly distributed in Texas."
+  },
+  {
+    "start": 1276.56,
+    "end": 1280.84,
+    "speaker": "SPEAKER_01",
+    "text": "So there are as many 70 year olds as, if you're old, that's 12 year olds."
+  },
+  {
+    "start": 1280.84,
+    "end": 1292.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "So if I assume that, and if I assume that life expectancy is roughly 80 years, and"
+  },
+  {
+    "start": 1292.4399999999998,
+    "end": 1298.36,
+    "speaker": "SPEAKER_01",
+    "text": "there are probably more people in the workforce below the age of 20 because they're all either"
+  },
+  {
+    "start": 1298.36,
+    "end": 1300.36,
+    "speaker": "SPEAKER_01",
+    "text": "children or mostly students."
+  },
+  {
+    "start": 1300.36,
+    "end": 1302.6,
+    "speaker": "SPEAKER_01",
+    "text": "So probably the safety rule goes out."
+  },
+  {
+    "start": 1302.6,
+    "end": 1306.8,
+    "speaker": "SPEAKER_01",
+    "text": "Probably rule out 70 to 80 because they're mostly retired."
+  },
+  {
+    "start": 1306.8,
+    "end": 1318.36,
+    "speaker": "SPEAKER_01",
+    "text": "So if you're looking at just 20 to 60, and that would be, that would be five eights of"
+  },
+  {
+    "start": 1318.36,
+    "end": 1320.28,
+    "speaker": "SPEAKER_01",
+    "text": "the population."
+  },
+  {
+    "start": 1320.28,
+    "end": 1325.44,
+    "speaker": "SPEAKER_01",
+    "text": "So five eights of 29 million residents around that to 30."
+  },
+  {
+    "start": 1325.44,
+    "end": 1328.48,
+    "speaker": "SPEAKER_01",
+    "text": "So I multiply 30 by five first for 150."
+  },
+  {
+    "start": 1328.48,
+    "end": 1331.32,
+    "speaker": "SPEAKER_01",
+    "text": "The buy that by eight is roughly one."
+  },
+  {
+    "start": 1331.32,
+    "end": 1333.3999999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I can run it up a little bit more to 160."
+  },
+  {
+    "start": 1333.4,
+    "end": 1337.48,
+    "speaker": "SPEAKER_01",
+    "text": "Buy that by eight is a little under 20 million."
+  },
+  {
+    "start": 1337.48,
+    "end": 1338.48,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1338.48,
+    "end": 1342.5600000000002,
+    "speaker": "SPEAKER_01",
+    "text": "So, so 20 million would be in the workforce."
+  },
+  {
+    "start": 1342.5600000000002,
+    "end": 1344.2800000000002,
+    "speaker": "SPEAKER_00",
+    "text": "And then that's overestimated."
+  },
+  {
+    "start": 1344.2800000000002,
+    "end": 1347.24,
+    "speaker": "SPEAKER_00",
+    "text": "Why might it be overestimated?"
+  },
+  {
+    "start": 1347.24,
+    "end": 1348.24,
+    "speaker": "UNKNOWN",
+    "text": "Yeah."
+  },
+  {
+    "start": 1348.24,
+    "end": 1356.6000000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So this would be assumed everyone in those age demographics are in the workforce, but not"
+  },
+  {
+    "start": 1356.6000000000001,
+    "end": 1363.2,
+    "speaker": "SPEAKER_01",
+    "text": "all of them are, there's all kinds of things like parents, folks who choose not to work."
+  },
+  {
+    "start": 1364.2,
+    "end": 1367.44,
+    "speaker": "SPEAKER_01",
+    "text": "So maybe I might apply something like a 0.7 multiplied."
+  },
+  {
+    "start": 1367.44,
+    "end": 1368.44,
+    "speaker": "SPEAKER_02",
+    "text": "Students."
+  },
+  {
+    "start": 1368.44,
+    "end": 1369.44,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1369.44,
+    "end": 1371.44,
+    "speaker": "SPEAKER_01",
+    "text": "That's true."
+  },
+  {
+    "start": 1371.44,
+    "end": 1375.76,
+    "speaker": "SPEAKER_01",
+    "text": "They're all folks who are in their 20s who are still in school."
+  },
+  {
+    "start": 1375.76,
+    "end": 1383.4,
+    "speaker": "SPEAKER_01",
+    "text": "So yeah, I imagine what a 0.7 multiplied would be reasonable to kind of weed out those who"
+  },
+  {
+    "start": 1383.4,
+    "end": 1384.96,
+    "speaker": "SPEAKER_01",
+    "text": "are not part of the workforce."
+  },
+  {
+    "start": 1384.96,
+    "end": 1385.96,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1385.96,
+    "end": 1387.24,
+    "speaker": "SPEAKER_00",
+    "text": "It's actually a little bit lower than that."
+  },
+  {
+    "start": 1387.24,
+    "end": 1393.96,
+    "speaker": "SPEAKER_00",
+    "text": "So it ends up being about 11 million of the 29 million in Texas are employed."
+  },
+  {
+    "start": 1393.96,
+    "end": 1394.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1394.96,
+    "end": 1395.96,
+    "speaker": "SPEAKER_01",
+    "text": "Partner workforce."
+  },
+  {
+    "start": 1395.96,
+    "end": 1396.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1396.96,
+    "end": 1403.48,
+    "speaker": "SPEAKER_01",
+    "text": "So, and then 10% earlier stated would be unemployed and filing these claims."
+  },
+  {
+    "start": 1403.48,
+    "end": 1406.56,
+    "speaker": "SPEAKER_01",
+    "text": "So 10% of that 11 million would be about 1.1 million."
+  },
+  {
+    "start": 1406.56,
+    "end": 1407.56,
+    "speaker": "SPEAKER_00",
+    "text": "That's right."
+  },
+  {
+    "start": 1407.56,
+    "end": 1408.56,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah."
+  },
+  {
+    "start": 1408.56,
+    "end": 1409.56,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 1409.56,
+    "end": 1413.36,
+    "speaker": "SPEAKER_00",
+    "text": "And so in fact, I do have a little bit of data for you."
+  },
+  {
+    "start": 1413.36,
+    "end": 1416.3999999999999,
+    "speaker": "SPEAKER_00",
+    "text": "You asked about the claimants."
+  },
+  {
+    "start": 1416.3999999999999,
+    "end": 1424.1999999999998,
+    "speaker": "SPEAKER_00",
+    "text": "So there are about 1.2 million unemployed claimants right now in the state of Texas."
+  },
+  {
+    "start": 1424.1999999999998,
+    "end": 1431.8799999999999,
+    "speaker": "SPEAKER_00",
+    "text": "Out of those claimants, the typical fraud rate is 9%."
+  },
+  {
+    "start": 1431.8799999999999,
+    "end": 1439.0,
+    "speaker": "SPEAKER_00",
+    "text": "Of the fraud cases, you mentioned one type, which was one type that I would kind of associate"
+  },
+  {
+    "start": 1439.0,
+    "end": 1440.0,
+    "speaker": "SPEAKER_00",
+    "text": "from it."
+  },
+  {
+    "start": 1440.0,
+    "end": 1445.96,
+    "speaker": "SPEAKER_00",
+    "text": "So 29% misclassify the reason that they are unemployed."
+  },
+  {
+    "start": 1445.96,
+    "end": 1449.84,
+    "speaker": "SPEAKER_00",
+    "text": "For example, they'll see that they were laid off, but in fact, they were fired."
+  },
+  {
+    "start": 1449.84,
+    "end": 1451.88,
+    "speaker": "SPEAKER_00",
+    "text": "So the one is for hardship of the business."
+  },
+  {
+    "start": 1451.88,
+    "end": 1455.88,
+    "speaker": "SPEAKER_00",
+    "text": "The other is for the hardship of the employee or you know, attitude of the employers,"
+  },
+  {
+    "start": 1455.88,
+    "end": 1456.88,
+    "speaker": "SPEAKER_00",
+    "text": "something related."
+  },
+  {
+    "start": 1456.88,
+    "end": 1464.56,
+    "speaker": "SPEAKER_00",
+    "text": "But there are two other types of unemployment fraud that we haven't covered yet."
+  },
+  {
+    "start": 1464.56,
+    "end": 1468.48,
+    "speaker": "SPEAKER_00",
+    "text": "And so I wanted to think about if you were running the Texas Workforce Commission, what"
+  },
+  {
+    "start": 1468.48,
+    "end": 1474.28,
+    "speaker": "SPEAKER_00",
+    "text": "would you want to put in place to ensure that this was not a system that people gained"
+  },
+  {
+    "start": 1474.28,
+    "end": 1481.48,
+    "speaker": "SPEAKER_00",
+    "text": "or a system that was intentionally designed to support the truly unemployed, not the,"
+  },
+  {
+    "start": 1481.48,
+    "end": 1484.8,
+    "speaker": "SPEAKER_00",
+    "text": "for example, optionally unemployed or something else?"
+  },
+  {
+    "start": 1484.8,
+    "end": 1486.72,
+    "speaker": "SPEAKER_00",
+    "text": "What are some of the things that you would put into place?"
+  },
+  {
+    "start": 1486.72,
+    "end": 1494.68,
+    "speaker": "SPEAKER_00",
+    "text": "And the requirements or requests that you would add to the process?"
+  },
+  {
+    "start": 1494.68,
+    "end": 1502.68,
+    "speaker": "SPEAKER_01",
+    "text": "So I guess I would categorize possible ways to prevent this into the care and the"
+  },
+  {
+    "start": 1502.68,
+    "end": 1503.68,
+    "speaker": "SPEAKER_01",
+    "text": "state."
+  },
+  {
+    "start": 1503.68,
+    "end": 1505.68,
+    "speaker": "SPEAKER_01",
+    "text": "So reward and punishment."
+  },
+  {
+    "start": 1505.68,
+    "end": 1513.28,
+    "speaker": "SPEAKER_01",
+    "text": "So on the reward side, well, I guess the reward side is already there because if they"
+  },
+  {
+    "start": 1513.28,
+    "end": 1514.76,
+    "speaker": "SPEAKER_01",
+    "text": "file a claim they get money."
+  },
+  {
+    "start": 1514.76,
+    "end": 1518.28,
+    "speaker": "SPEAKER_01",
+    "text": "So maybe I'll look more on the punishment and the cost for inside of things."
+  },
+  {
+    "start": 1518.28,
+    "end": 1523.24,
+    "speaker": "SPEAKER_01",
+    "text": "And so when it comes to consequences, perhaps there needs to be a harsher penalties on"
+  },
+  {
+    "start": 1523.24,
+    "end": 1524.24,
+    "speaker": "SPEAKER_01",
+    "text": "fraudulent claims."
+  },
+  {
+    "start": 1524.24,
+    "end": 1528.8,
+    "speaker": "SPEAKER_01",
+    "text": "Maybe that's part of the reason why so many folks are are doing this and think they can get"
+  },
+  {
+    "start": 1528.8,
+    "end": 1529.8,
+    "speaker": "SPEAKER_01",
+    "text": "away with it."
+  },
+  {
+    "start": 1529.8,
+    "end": 1536.24,
+    "speaker": "SPEAKER_01",
+    "text": "Is that there just aren't any multiple consequences?"
+  },
+  {
+    "start": 1536.24,
+    "end": 1537.24,
+    "speaker": "SPEAKER_00",
+    "text": "Awesome."
+  },
+  {
+    "start": 1537.24,
+    "end": 1540.04,
+    "speaker": "SPEAKER_00",
+    "text": "Now that's answering a different question than the one that I asked."
+  },
+  {
+    "start": 1540.04,
+    "end": 1543.28,
+    "speaker": "SPEAKER_00",
+    "text": "But I want you to hold on to that because I am going to ask that in a little bit."
+  },
+  {
+    "start": 1543.28,
+    "end": 1547.72,
+    "speaker": "SPEAKER_00",
+    "text": "The question that I asked is what type of fraud people could be committing, which is a different"
+  },
+  {
+    "start": 1547.72,
+    "end": 1548.72,
+    "speaker": "SPEAKER_00",
+    "text": "question."
+  },
+  {
+    "start": 1548.72,
+    "end": 1555.3600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "And the types of fraud is that they say something that is untrue about their, you know, ending"
+  },
+  {
+    "start": 1555.3600000000001,
+    "end": 1556.72,
+    "speaker": "SPEAKER_00",
+    "text": "of their former employment."
+  },
+  {
+    "start": 1556.72,
+    "end": 1561.44,
+    "speaker": "SPEAKER_00",
+    "text": "Oh, my question was, how, you know, what are some of the other ways that people could gain"
+  },
+  {
+    "start": 1561.44,
+    "end": 1565.44,
+    "speaker": "SPEAKER_00",
+    "text": "the system and what kind of safeguards would you want to put into place if you're in the"
+  },
+  {
+    "start": 1565.44,
+    "end": 1566.44,
+    "speaker": "SPEAKER_00",
+    "text": "workforce commission?"
+  },
+  {
+    "start": 1566.44,
+    "end": 1567.44,
+    "speaker": "SPEAKER_01",
+    "text": "Gotcha."
+  },
+  {
+    "start": 1567.44,
+    "end": 1568.44,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1568.44,
+    "end": 1575.8,
+    "speaker": "SPEAKER_01",
+    "text": "So other forms of fraud would, well, I guess revisiting my original structure."
+  },
+  {
+    "start": 1575.8,
+    "end": 1579.48,
+    "speaker": "SPEAKER_01",
+    "text": "I guess I would want to add duration of employment to that list."
+  },
+  {
+    "start": 1579.48,
+    "end": 1580.48,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1580.48,
+    "end": 1581.48,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1581.48,
+    "end": 1586.52,
+    "speaker": "SPEAKER_00",
+    "text": "So we have explain though, but there are two other things that are not related to your former"
+  },
+  {
+    "start": 1586.52,
+    "end": 1588.52,
+    "speaker": "SPEAKER_00",
+    "text": "employment is what I'm saying."
+  },
+  {
+    "start": 1588.52,
+    "end": 1589.52,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, got you."
+  },
+  {
+    "start": 1589.52,
+    "end": 1590.52,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1590.52,
+    "end": 1595.76,
+    "speaker": "SPEAKER_01",
+    "text": "So what identity be one?"
+  },
+  {
+    "start": 1595.76,
+    "end": 1601.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "I'm, and we're on thinking is do spouses ever do anything tricky with planning to be"
+  },
+  {
+    "start": 1601.6399999999999,
+    "end": 1605.76,
+    "speaker": "SPEAKER_01",
+    "text": "their spouse or like we're like, do family members ever plan to be their family members?"
+  },
+  {
+    "start": 1605.76,
+    "end": 1608.6,
+    "speaker": "SPEAKER_00",
+    "text": "Is identity that is one?"
+  },
+  {
+    "start": 1608.6,
+    "end": 1613.72,
+    "speaker": "SPEAKER_00",
+    "text": "So the actual name that I have for the category that I've already given you is misclassifying"
+  },
+  {
+    "start": 1613.72,
+    "end": 1615.4,
+    "speaker": "SPEAKER_00",
+    "text": "the reason that they're unemployed."
+  },
+  {
+    "start": 1615.4,
+    "end": 1617.36,
+    "speaker": "SPEAKER_00",
+    "text": "So that would fall under there."
+  },
+  {
+    "start": 1617.36,
+    "end": 1620.96,
+    "speaker": "SPEAKER_00",
+    "text": "Any kind of identity theft, including spouse, all identity theft."
+  },
+  {
+    "start": 1620.96,
+    "end": 1621.96,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 1621.96,
+    "end": 1629.16,
+    "speaker": "SPEAKER_00",
+    "text": "Part from reason."
+  },
+  {
+    "start": 1629.16,
+    "end": 1630.56,
+    "speaker": "SPEAKER_00",
+    "text": "Let me, let me give you a hint."
+  },
+  {
+    "start": 1630.56,
+    "end": 1631.56,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah."
+  },
+  {
+    "start": 1631.56,
+    "end": 1635.72,
+    "speaker": "SPEAKER_00",
+    "text": "What about you, you can commit fraud when you're getting unemployment or you can"
+  },
+  {
+    "start": 1635.72,
+    "end": 1638.52,
+    "speaker": "SPEAKER_00",
+    "text": "commit fraud to not get off of unemployment."
+  },
+  {
+    "start": 1638.52,
+    "end": 1644.52,
+    "speaker": "SPEAKER_00",
+    "text": "What are some of the reasons why people might extend unemployment and what are some of"
+  },
+  {
+    "start": 1644.52,
+    "end": 1649.3600000000001,
+    "speaker": "SPEAKER_00",
+    "text": "the loopholes that you would have to safeguard against people collecting unemployment past"
+  },
+  {
+    "start": 1649.3600000000001,
+    "end": 1653.56,
+    "speaker": "SPEAKER_00",
+    "text": "when it is due to them because something in their status changes."
+  },
+  {
+    "start": 1653.56,
+    "end": 1654.56,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1654.56,
+    "end": 1661.52,
+    "speaker": "SPEAKER_01",
+    "text": "So if they found work, they would still be claiming and so that that would be another reason"
+  },
+  {
+    "start": 1661.52,
+    "end": 1662.52,
+    "speaker": "SPEAKER_01",
+    "text": "under this budget."
+  },
+  {
+    "start": 1662.52,
+    "end": 1663.52,
+    "speaker": "SPEAKER_00",
+    "text": "Right."
+  },
+  {
+    "start": 1663.52,
+    "end": 1665.8,
+    "speaker": "SPEAKER_00",
+    "text": "So usually full time work would flag the system."
+  },
+  {
+    "start": 1665.8,
+    "end": 1667.44,
+    "speaker": "SPEAKER_00",
+    "text": "What kind of work wouldn't flag it?"
+  },
+  {
+    "start": 1667.44,
+    "end": 1670.52,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, like part time work and temp work."
+  },
+  {
+    "start": 1670.52,
+    "end": 1673.0,
+    "speaker": "SPEAKER_01",
+    "text": "This anything that's not told on you."
+  },
+  {
+    "start": 1673.0,
+    "end": 1674.0,
+    "speaker": "SPEAKER_00",
+    "text": "Exactly."
+  },
+  {
+    "start": 1674.0,
+    "end": 1678.4,
+    "speaker": "SPEAKER_00",
+    "text": "So one of the questions that you're asked as you continue to receive benefits is whether"
+  },
+  {
+    "start": 1678.4,
+    "end": 1682.16,
+    "speaker": "SPEAKER_00",
+    "text": "or not you have income."
+  },
+  {
+    "start": 1682.16,
+    "end": 1690.48,
+    "speaker": "SPEAKER_00",
+    "text": "And so under reporting side income is a portion of unemployment insurance fraud."
+  },
+  {
+    "start": 1690.48,
+    "end": 1695.48,
+    "speaker": "SPEAKER_00",
+    "text": "And that under reporting side income is actually 40% of the fraud."
+  },
+  {
+    "start": 1695.48,
+    "end": 1696.48,
+    "speaker": "SPEAKER_01",
+    "text": "Wow."
+  },
+  {
+    "start": 1696.48,
+    "end": 1697.48,
+    "speaker": "SPEAKER_01",
+    "text": "That's pretty high."
+  },
+  {
+    "start": 1697.48,
+    "end": 1698.48,
+    "speaker": "UNKNOWN",
+    "text": "Okay."
+  },
+  {
+    "start": 1698.48,
+    "end": 1702.56,
+    "speaker": "SPEAKER_00",
+    "text": "So we still have another kind."
+  },
+  {
+    "start": 1702.56,
+    "end": 1707.1200000000001,
+    "speaker": "SPEAKER_00",
+    "text": "So there's another requirement when you are collecting unemployment."
+  },
+  {
+    "start": 1707.1200000000001,
+    "end": 1709.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1709.1200000000001,
+    "end": 1710.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "So."
+  },
+  {
+    "start": 1710.1200000000001,
+    "end": 1714.1200000000001,
+    "speaker": "SPEAKER_01",
+    "text": "And this is a high level here."
+  },
+  {
+    "start": 1714.12,
+    "end": 1721.6399999999999,
+    "speaker": "SPEAKER_01",
+    "text": "We're talking about we're trying to figure out reasons that people file fraudulent."
+  },
+  {
+    "start": 1721.6399999999999,
+    "end": 1724.12,
+    "speaker": "SPEAKER_00",
+    "text": "These are these are ways that they find out."
+  },
+  {
+    "start": 1724.12,
+    "end": 1728.04,
+    "speaker": "SPEAKER_00",
+    "text": "Like the actual tactics that they use to commit fraud."
+  },
+  {
+    "start": 1728.04,
+    "end": 1729.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1729.04,
+    "end": 1730.04,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1730.04,
+    "end": 1737.28,
+    "speaker": "SPEAKER_01",
+    "text": "I'm kind of stuck here."
+  },
+  {
+    "start": 1737.28,
+    "end": 1740.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm just going to throw this out double filing."
+  },
+  {
+    "start": 1740.4399999999998,
+    "end": 1742.4399999999998,
+    "speaker": "SPEAKER_01",
+    "text": "Maybe I don't know."
+  },
+  {
+    "start": 1742.4399999999998,
+    "end": 1743.4399999999998,
+    "speaker": "SPEAKER_00",
+    "text": "Just."
+  },
+  {
+    "start": 1743.44,
+    "end": 1745.44,
+    "speaker": "SPEAKER_00",
+    "text": "What are you going with that?"
+  },
+  {
+    "start": 1745.44,
+    "end": 1750.0,
+    "speaker": "SPEAKER_01",
+    "text": "Could someone just file more than once somehow?"
+  },
+  {
+    "start": 1750.0,
+    "end": 1755.44,
+    "speaker": "SPEAKER_01",
+    "text": "You know how like in this local climate people are afraid of you know voter fraud double voting."
+  },
+  {
+    "start": 1755.44,
+    "end": 1756.44,
+    "speaker": "SPEAKER_00",
+    "text": "Totally."
+  },
+  {
+    "start": 1756.44,
+    "end": 1757.44,
+    "speaker": "SPEAKER_00",
+    "text": "Absolutely."
+  },
+  {
+    "start": 1757.44,
+    "end": 1763.0,
+    "speaker": "SPEAKER_00",
+    "text": "You could but hopefully our systems would catch that if it says human as you say it is it's"
+  },
+  {
+    "start": 1763.0,
+    "end": 1764.76,
+    "speaker": "SPEAKER_00",
+    "text": "possible that that could be an issue."
+  },
+  {
+    "start": 1764.76,
+    "end": 1767.2,
+    "speaker": "SPEAKER_00",
+    "text": "But that would probably be more of an honest mistake."
+  },
+  {
+    "start": 1767.2,
+    "end": 1768.96,
+    "speaker": "SPEAKER_00",
+    "text": "Like I haven't received my unemployment yet."
+  },
+  {
+    "start": 1768.96,
+    "end": 1770.96,
+    "speaker": "SPEAKER_00",
+    "text": "So I file a second time."
+  },
+  {
+    "start": 1770.96,
+    "end": 1774.96,
+    "speaker": "SPEAKER_00",
+    "text": "I'm not necessarily like a fraud attempt to try to duplicate."
+  },
+  {
+    "start": 1774.96,
+    "end": 1780.96,
+    "speaker": "SPEAKER_00",
+    "text": "So so I don't know that that's something that would necessarily be a common instance of fraud."
+  },
+  {
+    "start": 1780.96,
+    "end": 1785.96,
+    "speaker": "SPEAKER_00",
+    "text": "There what so let me go back to the other question from before which is you're the head of the workforce commission."
+  },
+  {
+    "start": 1785.96,
+    "end": 1787.96,
+    "speaker": "SPEAKER_00",
+    "text": "You want to pay out as few claims as are possible."
+  },
+  {
+    "start": 1787.96,
+    "end": 1790.96,
+    "speaker": "SPEAKER_00",
+    "text": "The ones that are legal are fine, but no other ones."
+  },
+  {
+    "start": 1790.96,
+    "end": 1798.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so how do you face people out of unemployment?"
+  },
+  {
+    "start": 1798.96,
+    "end": 1800.96,
+    "speaker": "SPEAKER_01",
+    "text": "How has it been like how do I?"
+  },
+  {
+    "start": 1800.96,
+    "end": 1804.96,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, you want you know even if they collect early you want to get them off of it as fast as you can."
+  },
+  {
+    "start": 1804.96,
+    "end": 1806.96,
+    "speaker": "SPEAKER_00",
+    "text": "How do you how do you either incur it?"
+  },
+  {
+    "start": 1806.96,
+    "end": 1810.96,
+    "speaker": "SPEAKER_00",
+    "text": "You know how do you encourage them to get off of the unemployment system?"
+  },
+  {
+    "start": 1810.96,
+    "end": 1815.96,
+    "speaker": "SPEAKER_01",
+    "text": "Well, frequent communication is where I would start."
+  },
+  {
+    "start": 1815.96,
+    "end": 1819.96,
+    "speaker": "SPEAKER_01",
+    "text": "So having an SMS system set up with reminders."
+  },
+  {
+    "start": 1819.96,
+    "end": 1821.96,
+    "speaker": "SPEAKER_01",
+    "text": "About what?"
+  },
+  {
+    "start": 1821.96,
+    "end": 1823.96,
+    "speaker": "SPEAKER_01",
+    "text": "Reminders to update your information."
+  },
+  {
+    "start": 1823.96,
+    "end": 1824.96,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1824.96,
+    "end": 1827.96,
+    "speaker": "SPEAKER_00",
+    "text": "What else would you want to remind them about?"
+  },
+  {
+    "start": 1827.96,
+    "end": 1830.96,
+    "speaker": "SPEAKER_00",
+    "text": "What do you want them to do to get off of unemployment?"
+  },
+  {
+    "start": 1830.96,
+    "end": 1831.96,
+    "speaker": "SPEAKER_01",
+    "text": "Oh right."
+  },
+  {
+    "start": 1831.96,
+    "end": 1833.96,
+    "speaker": "SPEAKER_01",
+    "text": "Of course you want them to find a job."
+  },
+  {
+    "start": 1833.96,
+    "end": 1834.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I suppose you could."
+  },
+  {
+    "start": 1834.96,
+    "end": 1839.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, send out regular email blasts with job opportunities."
+  },
+  {
+    "start": 1839.96,
+    "end": 1842.96,
+    "speaker": "SPEAKER_01",
+    "text": "Try to connect them to work."
+  },
+  {
+    "start": 1842.96,
+    "end": 1850.96,
+    "speaker": "SPEAKER_00",
+    "text": "One of the so the remaining type of fraud 31% of fraud instances are related to overreporting job seeking."
+  },
+  {
+    "start": 1850.96,
+    "end": 1853.96,
+    "speaker": "SPEAKER_00",
+    "text": "So if you want to make sure that you have to be in an employment,"
+  },
+  {
+    "start": 1853.96,
+    "end": 1858.96,
+    "speaker": "SPEAKER_00",
+    "text": "you have to be in an employment to maintain unemployment insurance is that you have to demonstrate that you're actively looking for a job."
+  },
+  {
+    "start": 1858.96,
+    "end": 1860.96,
+    "speaker": "SPEAKER_00",
+    "text": "Otherwise, you actually fall out of the numbers entirely."
+  },
+  {
+    "start": 1860.96,
+    "end": 1862.96,
+    "speaker": "SPEAKER_00",
+    "text": "So if you no longer actively look."
+  },
+  {
+    "start": 1862.96,
+    "end": 1873.96,
+    "speaker": "SPEAKER_00",
+    "text": "Then you know if you decide, hey, I'm just going to stay at home with my children or I'm going to do something different than what I expected originally, then you no longer qualify for an employment insurance."
+  },
+  {
+    "start": 1873.96,
+    "end": 1874.96,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1875.96,
+    "end": 1883.96,
+    "speaker": "SPEAKER_00",
+    "text": "Is there anything else that you need to calculate fraud claim numbers for each suspected type of fraud?"
+  },
+  {
+    "start": 1883.96,
+    "end": 1885.96,
+    "speaker": "SPEAKER_00",
+    "text": "Let's see."
+  },
+  {
+    "start": 1885.96,
+    "end": 1888.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I have the ways."
+  },
+  {
+    "start": 1888.96,
+    "end": 1892.96,
+    "speaker": "SPEAKER_01",
+    "text": "You gave me a 9% right earlier."
+  },
+  {
+    "start": 1892.96,
+    "end": 1897.96,
+    "speaker": "SPEAKER_01",
+    "text": "Can I apply that 9% to all three ways that we just talked about that's fair."
+  },
+  {
+    "start": 1897.96,
+    "end": 1898.96,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1898.96,
+    "end": 1902.96,
+    "speaker": "SPEAKER_00",
+    "text": "We don't know enough to know if it's different between them right now."
+  },
+  {
+    "start": 1902.96,
+    "end": 1908.96,
+    "speaker": "SPEAKER_01",
+    "text": "So we have the ways to rate the absolute number of claimants."
+  },
+  {
+    "start": 1908.96,
+    "end": 1917.96,
+    "speaker": "SPEAKER_01",
+    "text": "I think an important piece I'd like to add to this puzzle is, you're going to see to $1 an amount loss for a client."
+  },
+  {
+    "start": 1917.96,
+    "end": 1920.96,
+    "speaker": "SPEAKER_01",
+    "text": "So we can understand the real impact."
+  },
+  {
+    "start": 1920.96,
+    "end": 1924.96,
+    "speaker": "SPEAKER_01",
+    "text": "And so do we have any financials to attach to this data?"
+  },
+  {
+    "start": 1924.96,
+    "end": 1928.96,
+    "speaker": "SPEAKER_00",
+    "text": "I do like that. We should do that. I don't have them."
+  },
+  {
+    "start": 1928.96,
+    "end": 1932.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so you do not have to do that. You can just give me a fraud numbers here."
+  },
+  {
+    "start": 1932.96,
+    "end": 1937.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. Well, it's the case that I think I have enough information to calculate the total number."
+  },
+  {
+    "start": 1937.96,
+    "end": 1940.96,
+    "speaker": "SPEAKER_00",
+    "text": "I think you might be missing one piece of information."
+  },
+  {
+    "start": 1940.96,
+    "end": 1941.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 1941.96,
+    "end": 1944.96,
+    "speaker": "SPEAKER_01",
+    "text": "Plainments, ways, fraud rate."
+  },
+  {
+    "start": 1944.96,
+    "end": 1948.96,
+    "speaker": "SPEAKER_01",
+    "text": "Would would approval rate be a factor in this?"
+  },
+  {
+    "start": 1948.96,
+    "end": 1952.96,
+    "speaker": "SPEAKER_01",
+    "text": "So 9% commit fraud, but we don't necessarily approve online."
+  },
+  {
+    "start": 1952.96,
+    "end": 1957.96,
+    "speaker": "SPEAKER_00",
+    "text": "But then that, that the, we, this is actually, we assume that we do approve it."
+  },
+  {
+    "start": 1957.96,
+    "end": 1959.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then we discover it later."
+  },
+  {
+    "start": 1959.96,
+    "end": 1965.96,
+    "speaker": "SPEAKER_00",
+    "text": "So, you know, anything that we don't approve wouldn't be, wouldn't be included necessarily."
+  },
+  {
+    "start": 1965.96,
+    "end": 1969.96,
+    "speaker": "SPEAKER_00",
+    "text": "But I know too many there are some that maybe like would be a part of that."
+  },
+  {
+    "start": 1969.96,
+    "end": 1973.96,
+    "speaker": "SPEAKER_00",
+    "text": "But usually again, we consider most of those not fraudulent solely."
+  },
+  {
+    "start": 1973.96,
+    "end": 1977.96,
+    "speaker": "SPEAKER_00",
+    "text": "It would be like a paperwork issue. They've, they forgot something."
+  },
+  {
+    "start": 1977.96,
+    "end": 1982.96,
+    "speaker": "SPEAKER_00",
+    "text": "So, so we can just assume that out of the 1.2, the 9% is fraud."
+  },
+  {
+    "start": 1982.96,
+    "end": 1986.96,
+    "speaker": "SPEAKER_00",
+    "text": "And there's some other number that is just those that are in process."
+  },
+  {
+    "start": 1986.96,
+    "end": 1987.96,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 1987.96,
+    "end": 1990.96,
+    "speaker": "SPEAKER_00",
+    "text": "The one who are the one that are the ones that are drawing."
+  },
+  {
+    "start": 1990.96,
+    "end": 1991.96,
+    "speaker": "SPEAKER_01",
+    "text": "Let's say that."
+  },
+  {
+    "start": 1991.96,
+    "end": 1995.96,
+    "speaker": "SPEAKER_01",
+    "text": "And so I'm trying to find the number of people who commit fraud."
+  },
+  {
+    "start": 1995.96,
+    "end": 1997.96,
+    "speaker": "SPEAKER_01",
+    "text": "Correct."
+  },
+  {
+    "start": 1997.96,
+    "end": 2000.96,
+    "speaker": "SPEAKER_01",
+    "text": "By missing a number. I guess I guess that's from stuff."
+  },
+  {
+    "start": 2000.96,
+    "end": 2002.96,
+    "speaker": "SPEAKER_01",
+    "text": "Because I feel like I have enough information."
+  },
+  {
+    "start": 2002.96,
+    "end": 2006.96,
+    "speaker": "SPEAKER_00",
+    "text": "So I said that the typical fraud rate is 9%."
+  },
+  {
+    "start": 2006.96,
+    "end": 2008.96,
+    "speaker": "SPEAKER_01",
+    "text": "So, okay, I guess I didn't mention that."
+  },
+  {
+    "start": 2008.96,
+    "end": 2010.96,
+    "speaker": "SPEAKER_01",
+    "text": "So the current fraud rate must be different."
+  },
+  {
+    "start": 2010.96,
+    "end": 2012.96,
+    "speaker": "SPEAKER_01",
+    "text": "It's something that little hint just drops."
+  },
+  {
+    "start": 2012.96,
+    "end": 2013.96,
+    "speaker": "SPEAKER_00",
+    "text": "Yep."
+  },
+  {
+    "start": 2013.96,
+    "end": 2020.96,
+    "speaker": "SPEAKER_00",
+    "text": "So actually in the prompt of the case, I mentioned that in COVID, we've actually seen an increase in fraud."
+  },
+  {
+    "start": 2020.96,
+    "end": 2027.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so our COVID fraud rates have increased by 140%."
+  },
+  {
+    "start": 2027.96,
+    "end": 2031.96,
+    "speaker": "SPEAKER_02",
+    "text": "Okay."
+  },
+  {
+    "start": 2031.96,
+    "end": 2033.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay. Interesting."
+  },
+  {
+    "start": 2033.96,
+    "end": 2039.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 2039.96,
+    "end": 2042.96,
+    "speaker": "SPEAKER_01",
+    "text": "All right. So I think I have everything now."
+  },
+  {
+    "start": 2042.96,
+    "end": 2044.96,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to go ahead and try to calculate this."
+  },
+  {
+    "start": 2044.96,
+    "end": 2046.96,
+    "speaker": "SPEAKER_01",
+    "text": "All right. Sounds good. Walk me through your numbers."
+  },
+  {
+    "start": 2046.96,
+    "end": 2047.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 2047.96,
+    "end": 2050.96,
+    "speaker": "SPEAKER_01",
+    "text": "So we have 1.2 million payments."
+  },
+  {
+    "start": 2050.96,
+    "end": 2057.96,
+    "speaker": "SPEAKER_01",
+    "text": "I think what I'd like to do first is actually convert the fraud rate into the current rate."
+  },
+  {
+    "start": 2057.96,
+    "end": 2061.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm going to just take this 9% and do 140% of it."
+  },
+  {
+    "start": 2061.96,
+    "end": 2065.96,
+    "speaker": "SPEAKER_01",
+    "text": "And I'm going to be like now we can now would translate to a form rate of 40% at the return."
+  },
+  {
+    "start": 2065.96,
+    "end": 2067.96,
+    "speaker": "SPEAKER_01",
+    "text": "Because it's a little bit less than 10."
+  },
+  {
+    "start": 2067.96,
+    "end": 2070.96,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to call it roughly 13%."
+  },
+  {
+    "start": 2070.96,
+    "end": 2077.96,
+    "speaker": "SPEAKER_01",
+    "text": "So 13% would be the converted fraud rate for COVID times."
+  },
+  {
+    "start": 2077.96,
+    "end": 2078.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 2078.96,
+    "end": 2079.96,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 2079.96,
+    "end": 2081.96,
+    "speaker": "SPEAKER_01",
+    "text": "And then."
+  },
+  {
+    "start": 2081.96,
+    "end": 2085.96,
+    "speaker": "SPEAKER_01",
+    "text": "I think it's whether I should do the ways."
+  },
+  {
+    "start": 2085.96,
+    "end": 2088.96,
+    "speaker": "SPEAKER_01",
+    "text": "I think I'll apply that 13% first."
+  },
+  {
+    "start": 2088.96,
+    "end": 2093.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'll take 13% of the 1.2 million payments."
+  },
+  {
+    "start": 2093.96,
+    "end": 2095.96,
+    "speaker": "SPEAKER_01",
+    "text": "So let's see."
+  },
+  {
+    "start": 2095.96,
+    "end": 2098.96,
+    "speaker": "SPEAKER_01",
+    "text": "This is kind of like multiplying 12 times 13."
+  },
+  {
+    "start": 2098.96,
+    "end": 2101.96,
+    "speaker": "SPEAKER_01",
+    "text": "So 12 times all this 144."
+  },
+  {
+    "start": 2101.96,
+    "end": 2102.96,
+    "speaker": "SPEAKER_01",
+    "text": "And then we add a third."
+  },
+  {
+    "start": 2102.96,
+    "end": 2105.96,
+    "speaker": "SPEAKER_01",
+    "text": "12 is 156."
+  },
+  {
+    "start": 2105.96,
+    "end": 2113.96,
+    "speaker": "SPEAKER_01",
+    "text": "So that is 156,000 people total are."
+  },
+  {
+    "start": 2113.96,
+    "end": 2118.96,
+    "speaker": "SPEAKER_01",
+    "text": "And then they are committing this product over time."
+  },
+  {
+    "start": 2118.96,
+    "end": 2121.96,
+    "speaker": "SPEAKER_01",
+    "text": "So 136,000 people."
+  },
+  {
+    "start": 2121.96,
+    "end": 2127.96,
+    "speaker": "SPEAKER_01",
+    "text": "And then I'm going to break that up into the ways in which they commit fraud."
+  },
+  {
+    "start": 2127.96,
+    "end": 2134.96,
+    "speaker": "SPEAKER_01",
+    "text": "So first, I'll take this 40% who don't report."
+  },
+  {
+    "start": 2134.96,
+    "end": 2136.96,
+    "speaker": "SPEAKER_01",
+    "text": "There."
+  },
+  {
+    "start": 2136.96,
+    "end": 2140.96,
+    "speaker": "SPEAKER_01",
+    "text": "New jobs or income."
+  },
+  {
+    "start": 2140.96,
+    "end": 2143.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'll take 40 times 156."
+  },
+  {
+    "start": 2143.96,
+    "end": 2148.96,
+    "speaker": "SPEAKER_01",
+    "text": "I think I'll just adjust this number to 160,000 for now."
+  },
+  {
+    "start": 2148.96,
+    "end": 2150.96,
+    "speaker": "SPEAKER_01",
+    "text": "And I can dial it down a little bit later."
+  },
+  {
+    "start": 2150.96,
+    "end": 2153.96,
+    "speaker": "SPEAKER_01",
+    "text": "So if I treated as a 160,000."
+  },
+  {
+    "start": 2153.96,
+    "end": 2158.96,
+    "speaker": "SPEAKER_01",
+    "text": "Then it's just a matter of what the point for time 16, which is 64."
+  },
+  {
+    "start": 2158.96,
+    "end": 2163.96,
+    "speaker": "SPEAKER_01",
+    "text": "So 40% of 160,000 is."
+  },
+  {
+    "start": 2163.96,
+    "end": 2166.96,
+    "speaker": "SPEAKER_01",
+    "text": "64,000 people."
+  },
+  {
+    "start": 2166.96,
+    "end": 2169.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 2169.96,
+    "end": 2172.96,
+    "speaker": "SPEAKER_01",
+    "text": "And then."
+  },
+  {
+    "start": 2172.96,
+    "end": 2179.96,
+    "speaker": "SPEAKER_01",
+    "text": "So 64,000 subtracted from the 160 is roughly 100,000 people."
+  },
+  {
+    "start": 2179.96,
+    "end": 2184.96,
+    "speaker": "SPEAKER_01",
+    "text": "And because the other two remaining ways are even split almost 29% which is 31%."
+  },
+  {
+    "start": 2184.96,
+    "end": 2187.96,
+    "speaker": "SPEAKER_01",
+    "text": "I'm just a by the number by two yet 50,000 each."
+  },
+  {
+    "start": 2187.96,
+    "end": 2190.96,
+    "speaker": "SPEAKER_01",
+    "text": "But I have a keep in mind that I rounded up a little bit earlier."
+  },
+  {
+    "start": 2190.96,
+    "end": 2192.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm going to round down a little bit now."
+  },
+  {
+    "start": 2192.96,
+    "end": 2198.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm going to say it's a little bit under 50% maybe 48,000 people."
+  },
+  {
+    "start": 2198.96,
+    "end": 2199.96,
+    "speaker": "SPEAKER_01",
+    "text": "So it's a little bit more specific."
+  },
+  {
+    "start": 2199.96,
+    "end": 2201.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm going to do a little bit more."
+  },
+  {
+    "start": 2201.96,
+    "end": 2202.96,
+    "speaker": "UNKNOWN",
+    "text": "I'm going to do a little bit more."
+  },
+  {
+    "start": 2202.96,
+    "end": 2204.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm going to do a little bit more."
+  },
+  {
+    "start": 2204.96,
+    "end": 2208.96,
+    "speaker": "SPEAKER_01",
+    "text": "I'll just put the number of people in the first piece and in the third piece."
+  },
+  {
+    "start": 2208.96,
+    "end": 2210.96,
+    "speaker": "SPEAKER_01",
+    "text": "All right."
+  },
+  {
+    "start": 2210.96,
+    "end": 2213.96,
+    "speaker": "SPEAKER_01",
+    "text": "So 40,000 64,000 and 48,000 people."
+  },
+  {
+    "start": 2213.96,
+    "end": 2221.96,
+    "speaker": "SPEAKER_00",
+    "text": "For each of these three ways that we described."
+  },
+  {
+    "start": 2221.96,
+    "end": 2222.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 2222.96,
+    "end": 2224.96,
+    "speaker": "SPEAKER_01",
+    "text": "What do you think about that?"
+  },
+  {
+    "start": 2224.96,
+    "end": 2227.96,
+    "speaker": "SPEAKER_01",
+    "text": "I think we definitely need to do something about this."
+  },
+  {
+    "start": 2227.96,
+    "end": 2230.96,
+    "speaker": "SPEAKER_01",
+    "text": "Again, my mind is still kind of on financials."
+  },
+  {
+    "start": 2230.96,
+    "end": 2235.96,
+    "speaker": "SPEAKER_01",
+    "text": "Because I'm just wondering, you know, even though 48,000 people might."
+  },
+  {
+    "start": 2235.96,
+    "end": 2237.96,
+    "speaker": "SPEAKER_01",
+    "text": "Get one way of fraud."
+  },
+  {
+    "start": 2237.96,
+    "end": 2238.96,
+    "speaker": "SPEAKER_01",
+    "text": "This is 48,000 in another way."
+  },
+  {
+    "start": 2238.96,
+    "end": 2243.96,
+    "speaker": "SPEAKER_01",
+    "text": "Perhaps one way this generates a lot more loss because there's more dollars attached to it."
+  },
+  {
+    "start": 2243.96,
+    "end": 2245.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm so curious."
+  },
+  {
+    "start": 2245.96,
+    "end": 2246.96,
+    "speaker": "SPEAKER_00",
+    "text": "We have that."
+  },
+  {
+    "start": 2246.96,
+    "end": 2247.96,
+    "speaker": "SPEAKER_00",
+    "text": "So since I don't have that."
+  },
+  {
+    "start": 2247.96,
+    "end": 2250.96,
+    "speaker": "SPEAKER_00",
+    "text": "And again, I don't disagree that it would be good to have it."
+  },
+  {
+    "start": 2250.96,
+    "end": 2252.96,
+    "speaker": "SPEAKER_00",
+    "text": "I just don't have it."
+  },
+  {
+    "start": 2252.96,
+    "end": 2255.96,
+    "speaker": "SPEAKER_00",
+    "text": "I'm interested in trying to figure out which one of these you would target first,"
+  },
+  {
+    "start": 2255.96,
+    "end": 2258.96,
+    "speaker": "SPEAKER_00",
+    "text": "which are the methods of fraud when you go after dealing with."
+  },
+  {
+    "start": 2258.96,
+    "end": 2259.96,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, okay."
+  },
+  {
+    "start": 2259.96,
+    "end": 2263.96,
+    "speaker": "SPEAKER_01",
+    "text": "So what I would try to first would be the most paying for my bug."
+  },
+  {
+    "start": 2263.96,
+    "end": 2268.96,
+    "speaker": "SPEAKER_01",
+    "text": "What do I think will hit the most people and also be the most cost effective?"
+  },
+  {
+    "start": 2268.96,
+    "end": 2278.96,
+    "speaker": "SPEAKER_01",
+    "text": "So what would reach the most people would be that second bucket of folks who don't report their sight income or don't report it when they get a new job."
+  },
+  {
+    "start": 2278.96,
+    "end": 2281.96,
+    "speaker": "SPEAKER_01",
+    "text": "Now thinking about what is most cost effective."
+  },
+  {
+    "start": 2281.96,
+    "end": 2289.96,
+    "speaker": "SPEAKER_01",
+    "text": "That would be what would probably require the least amount of labor slash effort to identify as fraud."
+  },
+  {
+    "start": 2289.96,
+    "end": 2291.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I'm just taking a moment."
+  },
+  {
+    "start": 2291.96,
+    "end": 2292.96,
+    "speaker": "SPEAKER_01",
+    "text": "I'm going to read these."
+  },
+  {
+    "start": 2292.96,
+    "end": 2305.96,
+    "speaker": "SPEAKER_01",
+    "text": "These ways when we're talking and just kind of think about what page is to capture."
+  },
+  {
+    "start": 2305.96,
+    "end": 2312.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so I would say that the first reason where they they can lie about."
+  },
+  {
+    "start": 2312.96,
+    "end": 2313.96,
+    "speaker": "SPEAKER_01",
+    "text": "Sorry, not reason."
+  },
+  {
+    "start": 2313.96,
+    "end": 2321.96,
+    "speaker": "SPEAKER_01",
+    "text": "The first way method which they can lie about the reason for unemployed might be the most easy to to verify."
+  },
+  {
+    "start": 2321.96,
+    "end": 2327.96,
+    "speaker": "SPEAKER_01",
+    "text": "And so on the cost side of things that would be the best choice on the benefit side of things."
+  },
+  {
+    "start": 2327.96,
+    "end": 2329.96,
+    "speaker": "SPEAKER_01",
+    "text": "The second option for best choice because people."
+  },
+  {
+    "start": 2329.96,
+    "end": 2331.96,
+    "speaker": "SPEAKER_01",
+    "text": "So I was trying to do one of those two."
+  },
+  {
+    "start": 2331.96,
+    "end": 2332.96,
+    "speaker": "SPEAKER_00",
+    "text": "Okay."
+  },
+  {
+    "start": 2332.96,
+    "end": 2333.96,
+    "speaker": "SPEAKER_00",
+    "text": "Sounds good."
+  },
+  {
+    "start": 2333.96,
+    "end": 2336.96,
+    "speaker": "SPEAKER_00",
+    "text": "Well, then my final question is."
+  },
+  {
+    "start": 2336.96,
+    "end": 2346.96,
+    "speaker": "SPEAKER_00",
+    "text": "One of the things that we're interested in exploring are ways not just to improve the capture, but ways to encourage people not to commit fraud in the first place."
+  },
+  {
+    "start": 2346.96,
+    "end": 2359.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so can you brainstorm with me some ideas that you would have about how you could, you know, trigger or encourage people not to commit fraud to reduce the overall fraud weights right from the beginning."
+  },
+  {
+    "start": 2359.96,
+    "end": 2360.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay."
+  },
+  {
+    "start": 2360.96,
+    "end": 2361.96,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you."
+  },
+  {
+    "start": 2361.96,
+    "end": 2362.96,
+    "speaker": "SPEAKER_01",
+    "text": "A few moments."
+  },
+  {
+    "start": 2362.96,
+    "end": 2384.96,
+    "speaker": "SPEAKER_01",
+    "text": "I'm just going to read from the short list."
+  },
+  {
+    "start": 2384.96,
+    "end": 2386.96,
+    "speaker": "SPEAKER_01",
+    "text": "So, you know, I'm thinking about it."
+  },
+  {
+    "start": 2386.96,
+    "end": 2389.96,
+    "speaker": "SPEAKER_01",
+    "text": "Going back to the whole here at stick framework."
+  },
+  {
+    "start": 2389.96,
+    "end": 2397.96,
+    "speaker": "SPEAKER_01",
+    "text": "So on the rewards side of things, perhaps we can create some kind of incentive for updating your status."
+  },
+  {
+    "start": 2397.96,
+    "end": 2401.96,
+    "speaker": "SPEAKER_01",
+    "text": "As far as how to do that on a actual execution level."
+  },
+  {
+    "start": 2401.96,
+    "end": 2408.96,
+    "speaker": "SPEAKER_01",
+    "text": "Something that I had to think about for a bit, but it's probably speaking for some kind of incentive for keeping your information up to date."
+  },
+  {
+    "start": 2408.96,
+    "end": 2410.96,
+    "speaker": "SPEAKER_01",
+    "text": "And then on the stick."
+  },
+  {
+    "start": 2410.96,
+    "end": 2412.96,
+    "speaker": "SPEAKER_00",
+    "text": "And be really specific here."
+  },
+  {
+    "start": 2412.96,
+    "end": 2413.96,
+    "speaker": "SPEAKER_00",
+    "text": "And I think you wanted to do something later."
+  },
+  {
+    "start": 2413.96,
+    "end": 2415.96,
+    "speaker": "SPEAKER_00",
+    "text": "I want them now."
+  },
+  {
+    "start": 2415.96,
+    "end": 2416.96,
+    "speaker": "SPEAKER_01",
+    "text": "Financial."
+  },
+  {
+    "start": 2416.96,
+    "end": 2422.96,
+    "speaker": "SPEAKER_01",
+    "text": "I did what I just not, I'm not sure of is where we get the money or how would we justify that?"
+  },
+  {
+    "start": 2422.96,
+    "end": 2429.96,
+    "speaker": "SPEAKER_01",
+    "text": "I think we have to make it pretty pitch that can make it pretty convincing, but yeah, if we can get our client to."
+  },
+  {
+    "start": 2429.96,
+    "end": 2433.96,
+    "speaker": "SPEAKER_00",
+    "text": "You're saying you're saying basically we pay people more if they're honest."
+  },
+  {
+    "start": 2433.96,
+    "end": 2439.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, so if, if, if they've already been paid out to play money, maybe we can add a small."
+  },
+  {
+    "start": 2439.96,
+    "end": 2445.96,
+    "speaker": "SPEAKER_01",
+    "text": "For percentage bonus, if they do things like file on time or."
+  },
+  {
+    "start": 2445.96,
+    "end": 2450.96,
+    "speaker": "SPEAKER_01",
+    "text": "Give you information that we verify correct when."
+  },
+  {
+    "start": 2450.96,
+    "end": 2459.96,
+    "speaker": "SPEAKER_01",
+    "text": "When as early as possible, because the earlier we do that, the sooner we stop paying them."
+  },
+  {
+    "start": 2459.96,
+    "end": 2461.96,
+    "speaker": "SPEAKER_01",
+    "text": "Play money, play money."
+  },
+  {
+    "start": 2461.96,
+    "end": 2462.96,
+    "speaker": "SPEAKER_01",
+    "text": "So, yeah."
+  },
+  {
+    "start": 2462.96,
+    "end": 2471.96,
+    "speaker": "SPEAKER_00",
+    "text": "So, but, but I guess what I'm trying to figure out is we're incentivizing them to tell the truth, but how are we telling that they're telling the truth and not telling a lot?"
+  },
+  {
+    "start": 2471.96,
+    "end": 2473.96,
+    "speaker": "SPEAKER_01",
+    "text": "Oh, got it."
+  },
+  {
+    "start": 2473.96,
+    "end": 2475.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, so I guess we're going to treat."
+  },
+  {
+    "start": 2475.96,
+    "end": 2477.96,
+    "speaker": "SPEAKER_00",
+    "text": "Like what, like when, when do we pay them out?"
+  },
+  {
+    "start": 2477.96,
+    "end": 2479.96,
+    "speaker": "SPEAKER_00",
+    "text": "What are we sure that they told the truth?"
+  },
+  {
+    "start": 2479.96,
+    "end": 2480.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, yeah."
+  },
+  {
+    "start": 2480.96,
+    "end": 2487.96,
+    "speaker": "SPEAKER_01",
+    "text": "I wonder whether we could incentivize their actual methods rather than the outcomes."
+  },
+  {
+    "start": 2487.96,
+    "end": 2490.96,
+    "speaker": "SPEAKER_01",
+    "text": "So the outcome, so they know that as you mentioned, we get this really very likely."
+  },
+  {
+    "start": 2490.96,
+    "end": 2493.96,
+    "speaker": "SPEAKER_01",
+    "text": "I'm very, very likely that people make a site income."
+  },
+  {
+    "start": 2493.96,
+    "end": 2496.96,
+    "speaker": "SPEAKER_01",
+    "text": "So what if we instead incentivize the method of reporting?"
+  },
+  {
+    "start": 2496.96,
+    "end": 2501.96,
+    "speaker": "SPEAKER_01",
+    "text": "So if they give us hard proof that they're not making a site income."
+  },
+  {
+    "start": 2501.96,
+    "end": 2506.96,
+    "speaker": "SPEAKER_01",
+    "text": "But I don't know it's tricky because how do you prove that something doesn't necessarily, you know, like proving the negatives."
+  },
+  {
+    "start": 2506.96,
+    "end": 2510.96,
+    "speaker": "SPEAKER_01",
+    "text": "Really tricky and I think that life makes this problem difficult to solve."
+  },
+  {
+    "start": 2510.96,
+    "end": 2514.96,
+    "speaker": "SPEAKER_01",
+    "text": "So, yeah, I like to move on to the stick bucket."
+  },
+  {
+    "start": 2514.96,
+    "end": 2516.96,
+    "speaker": "SPEAKER_01",
+    "text": "Then I think I have some better incentives on."
+  },
+  {
+    "start": 2516.96,
+    "end": 2517.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, sounds good."
+  },
+  {
+    "start": 2518.96,
+    "end": 2523.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, so when it comes to penalties, I kind of think about it in two ways."
+  },
+  {
+    "start": 2523.96,
+    "end": 2528.96,
+    "speaker": "SPEAKER_01",
+    "text": "When is that weekend increase the penalties to make the consequences harsher?"
+  },
+  {
+    "start": 2528.96,
+    "end": 2536.96,
+    "speaker": "SPEAKER_01",
+    "text": "And then in two is we can just increase the messaging, the marketing of existing penalties."
+  },
+  {
+    "start": 2536.96,
+    "end": 2544.96,
+    "speaker": "SPEAKER_01",
+    "text": "So on in that first bucket, you know, whatever the penalty is, if there is one right now in place, let's, let's make it a little bit harsher."
+  },
+  {
+    "start": 2544.96,
+    "end": 2549.96,
+    "speaker": "SPEAKER_01",
+    "text": "So for lying on a kind of thing."
+  },
+  {
+    "start": 2549.96,
+    "end": 2562.96,
+    "speaker": "SPEAKER_01",
+    "text": "And then on the marketing side, we can include in those earlier email blasts or text message blasts that we talked about to and encourage people to update their info and to find a job."
+  },
+  {
+    "start": 2562.96,
+    "end": 2570.96,
+    "speaker": "SPEAKER_01",
+    "text": "We could perhaps occasionally include a message as well about this morning against the consequences of a fraudulent claims."
+  },
+  {
+    "start": 2570.96,
+    "end": 2583.96,
+    "speaker": "SPEAKER_01",
+    "text": "And incorporating that into our or a marketing schema can increase the message reach and hopefully, hopefully prevent people from wanting to try."
+  },
+  {
+    "start": 2583.96,
+    "end": 2593.96,
+    "speaker": "SPEAKER_00",
+    "text": "Sounds great. Well, Johnny, we are out of time. So do you mind just closing up the case for us, telling us what we've discovered and identifying any next steps that you would like to take."
+  },
+  {
+    "start": 2593.96,
+    "end": 2597.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, I think there are a few moments to just dive right in actually."
+  },
+  {
+    "start": 2597.96,
+    "end": 2620.96,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, sure. So I like to recommend that we we target folks who have light about the reason they're unemployed and folks who don't report new employment as the segments for, you know, who should we try to prevent from coming from."
+  },
+  {
+    "start": 2620.96,
+    "end": 2631.96,
+    "speaker": "SPEAKER_01",
+    "text": "And the reasoning being that this is where the most honest taking place and also that this is where I feel we have the most cost effective ways, the solutions and address the fraud."
+  },
+  {
+    "start": 2631.96,
+    "end": 2648.96,
+    "speaker": "SPEAKER_01",
+    "text": "As far as what those specific solutions are recommend are one is to create incentive structures for folks who provide verifiable information that you know they make it easier on on our client to to check and we can do the most forward for doing so."
+  },
+  {
+    "start": 2648.96,
+    "end": 2662.96,
+    "speaker": "SPEAKER_01",
+    "text": "The other is to on the penalty side of things of increase the penalty for hard to land claims as well as increase the messaging of about the consequences of the part of things."
+  },
+  {
+    "start": 2662.96,
+    "end": 2675.96,
+    "speaker": "SPEAKER_01",
+    "text": "And by implementing all of this, the ultimate outcome that we aim for is to reduce the instances of the actual things and to prevent them from happening."
+  },
+  {
+    "start": 2675.96,
+    "end": 2685.96,
+    "speaker": "SPEAKER_00",
+    "text": "Okay, awesome. Are you glad to be done with that case. Yeah. So very out of the water with air."
+  },
+  {
+    "start": 2685.96,
+    "end": 2699.96,
+    "speaker": "SPEAKER_00",
+    "text": "It's a really hard question and one that you know, I wanted to write a case that I felt like was timely and appropriate, but also applying the frameworks and the skills that we think about in a very different environment."
+  },
+  {
+    "start": 2699.96,
+    "end": 2707.96,
+    "speaker": "SPEAKER_00",
+    "text": "And I had a lot of fun doing the research for this as I discovered the archaic processes that a lot of organizations use."
+  },
+  {
+    "start": 2707.96,
+    "end": 2718.96,
+    "speaker": "SPEAKER_00",
+    "text": "So Deloitte consulting has actually done a case for New Mexico that they share about on their website, which might be interesting to read about and they talk about these kind of systems and processes, etc."
+  },
+  {
+    "start": 2718.96,
+    "end": 2735.96,
+    "speaker": "SPEAKER_00",
+    "text": "So overall, Johnny, you know, you prevailed. You got through the case. You maintained a great attitude, a good focus. And I liked you a lot. And honestly, in a first round, I would have really felt like we were going to get there. I felt like that you had all the attitude and confidence."
+  },
+  {
+    "start": 2735.96,
+    "end": 2747.96,
+    "speaker": "SPEAKER_00",
+    "text": "But there were some second round things that I felt like were gaps and I want to point them out so that if you're going into interviews or preparing for things specifically, I want to make sure that you know what this are that you asked me for blind spots. I found a few."
+  },
+  {
+    "start": 2747.96,
+    "end": 2753.96,
+    "speaker": "SPEAKER_00",
+    "text": "First of all, in the beginning, I just thought you nailed the initial recap. First of all, it was super clear."
+  },
+  {
+    "start": 2753.96,
+    "end": 2763.96,
+    "speaker": "SPEAKER_00",
+    "text": "And also you demonstrated a real interest in the case and enthusiasm, even though I could feel you taking this very deep breath like, oh gosh, what have I gotten myself into."
+  },
+  {
+    "start": 2763.96,
+    "end": 2766.96,
+    "speaker": "SPEAKER_00",
+    "text": "I volunteered for this. What the heck, right?"
+  },
+  {
+    "start": 2766.96,
+    "end": 2786.96,
+    "speaker": "SPEAKER_00",
+    "text": "So a minute and eight seconds for your initial recap, you did great for that. I think that some of your initial questions could have been more incisive. You took three minutes to ask me a couple of the questions about, you know, identifying what an employment insurance is, what the current methods of from capture are and then the measurement rates."
+  },
+  {
+    "start": 2786.96,
+    "end": 2792.96,
+    "speaker": "SPEAKER_00",
+    "text": "And I like what you kind of did, but just should have done a little bit more aggressively and a little bit more punchily."
+  },
+  {
+    "start": 2792.96,
+    "end": 2799.96,
+    "speaker": "SPEAKER_00",
+    "text": "If you're kind of like, here's what I might think it is, you know, but I don't want to take a stand like when you say this, here's what I think."
+  },
+  {
+    "start": 2799.96,
+    "end": 2809.96,
+    "speaker": "SPEAKER_00",
+    "text": "Just make it a little crisper in the delivery so that it's easier to respond to because what you were doing was inviting me into a conversation that I actually didn't necessarily want to have at that part of the case."
+  },
+  {
+    "start": 2809.96,
+    "end": 2819.96,
+    "speaker": "SPEAKER_00",
+    "text": "But I felt beholden to do it because you were so nice about it, but it took us collectively longer to get through that than I thought it was worth for the value that it added to your structure."
+  },
+  {
+    "start": 2819.96,
+    "end": 2826.96,
+    "speaker": "SPEAKER_00",
+    "text": "So I would just ask those questions more directly in a more punchy way so that you get to them a little bit more clearly."
+  },
+  {
+    "start": 2826.96,
+    "end": 2836.96,
+    "speaker": "SPEAKER_00",
+    "text": "When you came out of your structure, you gave me very little confidence that you had done a thorough structure by saying, I did a rough sketch that I'm going to build on throughout the case."
+  },
+  {
+    "start": 2836.96,
+    "end": 2842.96,
+    "speaker": "SPEAKER_00",
+    "text": "I, you know, I don't really care how crappy you think the structure is, first of all, you only took a minute and a half to build it."
+  },
+  {
+    "start": 2842.96,
+    "end": 2849.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so you could have taken longer to build a better structure. And if you haven't gone back recently to just put a timer on."
+  },
+  {
+    "start": 2849.96,
+    "end": 2856.96,
+    "speaker": "SPEAKER_00",
+    "text": "I, my guess is that you might be abbreviating your structuring period a little too much and not giving yourself the amount of time that it would take."
+  },
+  {
+    "start": 2856.96,
+    "end": 2870.96,
+    "speaker": "SPEAKER_00",
+    "text": "But as far as I could tell, you gave me two categories with one bullet point each inside them granted the bullet points were valid and very good, but I would have definitely wanted more data, more data inside your bullet."
+  },
+  {
+    "start": 2870.96,
+    "end": 2878.96,
+    "speaker": "SPEAKER_00",
+    "text": "So the commit fraud categories, right? You said the type of fraud by frequency, which is actually exactly what we ended up looking at inside the case."
+  },
+  {
+    "start": 2879.96,
+    "end": 2896.96,
+    "speaker": "SPEAKER_00",
+    "text": "But then, you know, some of the other things that we ended up doing, mapping out the claim process to try to understand where the greatest cost buckets are the inefficiencies, where the most likely questions are potentially the way that they're simply worded is inciting people to commit fraud."
+  },
+  {
+    "start": 2897.96,
+    "end": 2906.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so, you know, what kind of what number of triggers are there toward honesty. There were just a lot of ways that you could have potentially gone into that. And I wouldn't have cared which ones you went to."
+  },
+  {
+    "start": 2906.96,
+    "end": 2917.96,
+    "speaker": "SPEAKER_00",
+    "text": "I just would have wanted to see more in your initial category and the same with the client. I felt like, you know, basically what you were saying is that we have this like volume issue and then we have a cost issue on the client side."
+  },
+  {
+    "start": 2917.96,
+    "end": 2931.96,
+    "speaker": "SPEAKER_00",
+    "text": "We have to staff this up. So like, you know, in California, we have 22 people that process our claims. So if you apply the rates to Texas times another like 125% of the population."
+  },
+  {
+    "start": 2931.96,
+    "end": 2945.96,
+    "speaker": "SPEAKER_00",
+    "text": "22 people have been attempting to file and get through, you know, 1.5 million claims. Right. That's just like a massive amount of information that an archaic system is broken and able to handle."
+  },
+  {
+    "start": 2945.96,
+    "end": 2959.96,
+    "speaker": "SPEAKER_00",
+    "text": "So some of that kind of very early insight around, you know, what are the number of claims that were processing per week. What are the kinds of industries that are processing claims for you kind of went into some of the segmentation of the data, but I didn't feel like you had written it down."
+  },
+  {
+    "start": 2959.96,
+    "end": 2963.96,
+    "speaker": "SPEAKER_00",
+    "text": "Clearly to the point where you were then reporting it back to me. So I just thought a lot more data."
+  },
+  {
+    "start": 2963.96,
+    "end": 2969.96,
+    "speaker": "SPEAKER_00",
+    "text": "And that part would have been great. And then I want to go through that. What I think the biggest takeaway for me was is we went through the case."
+  },
+  {
+    "start": 2969.96,
+    "end": 2983.96,
+    "speaker": "SPEAKER_00",
+    "text": "I don't know if anybody's ever told you that they felt like you were unstructured, but I think that there is like you were very creative and very conversational, but I did feel like we lost structure as I kind of took you on this tangent and took you on that tangent and took you on this tangent."
+  },
+  {
+    "start": 2983.96,
+    "end": 2991.96,
+    "speaker": "SPEAKER_00",
+    "text": "What I do not want is for you to anchor yourself back to your initial structure. What I do want is that you are mini structuring as you're going through it."
+  },
+  {
+    "start": 2991.96,
+    "end": 3000.96,
+    "speaker": "SPEAKER_00",
+    "text": "I actually couldn't see you writing notes. So this could be just simply an optics thing. You might just want to move your camera back a little bit so people could see it."
+  },
+  {
+    "start": 3000.96,
+    "end": 3011.96,
+    "speaker": "SPEAKER_00",
+    "text": "I don't know if you were doing notes digitally or like on an electronic pad or doing them in some other way, but it felt like you weren't writing anything down or just kind of like this over here and not over there."
+  },
+  {
+    "start": 3011.96,
+    "end": 3020.96,
+    "speaker": "SPEAKER_00",
+    "text": "So when I looked for, for example, the anchor back to the rates of increase in COVID, or we should think about punishment and incentives."
+  },
+  {
+    "start": 3020.96,
+    "end": 3025.96,
+    "speaker": "SPEAKER_00",
+    "text": "I didn't feel like there were reference points that we could tie into as you are coming up with good ideas throughout the case."
+  },
+  {
+    "start": 3025.96,
+    "end": 3031.96,
+    "speaker": "SPEAKER_00",
+    "text": "So if you just tell me a little bit about what you were doing from the note taking side, so that can maybe help with that particular."
+  },
+  {
+    "start": 3031.96,
+    "end": 3043.96,
+    "speaker": "SPEAKER_01",
+    "text": "I was just typing notes on my computer. I like to use Excel during these virtual times because the cell is the natural division that helps me figure out my thoughts."
+  },
+  {
+    "start": 3043.96,
+    "end": 3055.96,
+    "speaker": "SPEAKER_00",
+    "text": "You might want to at least announce that to your to the folks that you're working with, but I wouldn't necessarily assume that they're going to be okay with it, because I was kind of like, I feel like he's not writing anything down, which so apparently you weren't."
+  },
+  {
+    "start": 3055.96,
+    "end": 3064.96,
+    "speaker": "SPEAKER_00",
+    "text": "But I think that what writing would give you is a more fluid capture of some of the things that we were talking about."
+  },
+  {
+    "start": 3064.96,
+    "end": 3071.96,
+    "speaker": "SPEAKER_00",
+    "text": "So as you are brainstorming, it's actually easier to write than it is to type like typing and writing at the same time is a little bit more tricky."
+  },
+  {
+    "start": 3071.96,
+    "end": 3076.96,
+    "speaker": "SPEAKER_00",
+    "text": "So just separating out those two functions and writing it down might have been able to give you more capture."
+  },
+  {
+    "start": 3076.96,
+    "end": 3080.96,
+    "speaker": "SPEAKER_00",
+    "text": "So maybe at the beginning, you do it that way or maybe in the math, you do it that way."
+  },
+  {
+    "start": 3080.96,
+    "end": 3088.96,
+    "speaker": "SPEAKER_00",
+    "text": "But you know, if you're using Excel, I'm kind of like, wait, why are we doing estimation math, although I'll talk about the math and just that, I thought you did pretty well on that."
+  },
+  {
+    "start": 3088.96,
+    "end": 3097.96,
+    "speaker": "SPEAKER_00",
+    "text": "But yeah, I just say that might be one of something that you want to run by people because it did seem like you weren't writing anything down and I felt like you were maybe like notepad sketching it or something."
+  },
+  {
+    "start": 3097.96,
+    "end": 3101.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so just letting them know that you are taking notes, but you're taking them digitally."
+  },
+  {
+    "start": 3101.96,
+    "end": 3107.96,
+    "speaker": "SPEAKER_00",
+    "text": "Are they okay with you taking notes digitally, if they say no, you need to have practice enough cases for."
+  },
+  {
+    "start": 3107.96,
+    "end": 3116.96,
+    "speaker": "SPEAKER_00",
+    "text": "To move over to a pen and paper, but it also just might be worth it to practice a couple of on pen and paper because I did feel like when I came up with a couple of ideas."
+  },
+  {
+    "start": 3116.96,
+    "end": 3127.96,
+    "speaker": "SPEAKER_00",
+    "text": "And you like except for the time that you asked for time, every other thing that I wanted was that kind of structure, but you never gave it to me except for that one time when you asked for the time to do the creative structure."
+  },
+  {
+    "start": 3127.96,
+    "end": 3140.96,
+    "speaker": "SPEAKER_00",
+    "text": "So in some of these cases where you're kind of brainstorming as we go, I would like for you to be capturing more in a structured way so that the brainstorming becomes a little bit more evident so that what we're missing maybe becomes a little bit more clear."
+  },
+  {
+    "start": 3140.96,
+    "end": 3146.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so I would say that that was kind of one of my big takeaways, the same ended up being true actually in the final recap."
+  },
+  {
+    "start": 3146.96,
+    "end": 3150.96,
+    "speaker": "SPEAKER_00",
+    "text": "It just came across as though the structure was like wide but not deep."
+  },
+  {
+    "start": 3150.96,
+    "end": 3159.96,
+    "speaker": "SPEAKER_00",
+    "text": "And that was just my general perspective was that you were like full of lots of wide ideas, but we weren't necessarily able to complete any of the full pictures of a lot of the other pieces."
+  },
+  {
+    "start": 3159.96,
+    "end": 3172.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then the final thing that I'll just talk about was the math overall you did a really good job with that at the second level at the second round for an MBA, I would prefer for you to tell me insights before you do calcs."
+  },
+  {
+    "start": 3172.96,
+    "end": 3188.96,
+    "speaker": "SPEAKER_00",
+    "text": "I think you could have said them here. So I think you could have, for example, either done a calculation or a quick, you know, in your head calculation of which of the segments was going to be the largest from the beginning and told me like I'm looking for two things I'm looking for the largest segment because that's probably going to be a good proxy."
+  },
+  {
+    "start": 3188.96,
+    "end": 3200.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so without having the cost per claim or the cost per overrun for the ones that are, you know, likely fraud and what our savings could be, but also I would be interested in knowing which ones would be easiest to capture."
+  },
+  {
+    "start": 3200.96,
+    "end": 3217.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so I think if you had given me that right at the very beginning, that would have afforded you a little bit more leeway as you were going through the mass to verify it or potentially in a second round, I would just be like, you don't have to do the match on you. That was exactly what I was looking for, which is a big win for you if you're able to get there."
+  },
+  {
+    "start": 3217.96,
+    "end": 3226.96,
+    "speaker": "SPEAKER_00",
+    "text": "So other than that, I think that's my primary feedback. Overall, it took us the full 40 minutes to complete the case."
+  },
+  {
+    "start": 3226.96,
+    "end": 3235.96,
+    "speaker": "SPEAKER_00",
+    "text": "And again, I think if you had been a little bit more clear about the note taking each time I was asking you kind of follow on creative question."
+  },
+  {
+    "start": 3235.96,
+    "end": 3241.96,
+    "speaker": "SPEAKER_00",
+    "text": "And we had kind of wrapped those up a little faster. I think we would have been in the case of it more quickly."
+  },
+  {
+    "start": 3241.96,
+    "end": 3251.96,
+    "speaker": "SPEAKER_00",
+    "text": "So I really kind of let you have a ton of leeway in this case to see what you would do with it because that's one thing right now and more than ever I'm looking for as an interviewer."
+  },
+  {
+    "start": 3251.96,
+    "end": 3269.96,
+    "speaker": "SPEAKER_00",
+    "text": "So you're going to be potentially sitting in your bedroom working for eight to 12 hours today by yourself, maybe maybe with one or maybe with a team once, but for the most part by yourself. And so I need to know with you having the completely way to do anything what you're going to do with it."
+  },
+  {
+    "start": 3269.96,
+    "end": 3271.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, it makes sense."
+  },
+  {
+    "start": 3271.96,
+    "end": 3275.96,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, any any questions for me about the feedback or about the case."
+  },
+  {
+    "start": 3275.96,
+    "end": 3283.96,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, let me kind of go down the line as far as the feedback you gave us questions."
+  },
+  {
+    "start": 3283.96,
+    "end": 3289.96,
+    "speaker": "SPEAKER_01",
+    "text": "What you said about taking a stand with the air bank questions delivery is really good."
+  },
+  {
+    "start": 3289.96,
+    "end": 3296.96,
+    "speaker": "SPEAKER_01",
+    "text": "I've been trying to work on hedging less when I case has made a good answer to you. It's not what you want to client."
+  },
+  {
+    "start": 3296.96,
+    "end": 3305.96,
+    "speaker": "SPEAKER_00",
+    "text": "I've got a rough sketch here. I've got I've got some ideas, but I'll fill it out as we go. Like don't say that, right? Here's here's what I came up with. Just own it a little bit more."
+  },
+  {
+    "start": 3305.96,
+    "end": 3310.96,
+    "speaker": "SPEAKER_01",
+    "text": "For the framework part, I do recognize that I had a very sparks framework."
+  },
+  {
+    "start": 3310.96,
+    "end": 3318.96,
+    "speaker": "SPEAKER_01",
+    "text": "My thinking was I recall reading somewhere. It might actually one of your materials were said how the longer you take the more expected of your framework."
+  },
+  {
+    "start": 3318.96,
+    "end": 3326.96,
+    "speaker": "SPEAKER_01",
+    "text": "I think it's because I can't come up with anything. I thought, okay, I'm just I'm just going to deliver what I have and hopefully get some points."
+  },
+  {
+    "start": 3326.96,
+    "end": 3328.96,
+    "speaker": "SPEAKER_01",
+    "text": "I can do it quickly."
+  },
+  {
+    "start": 3328.96,
+    "end": 3335.96,
+    "speaker": "SPEAKER_01",
+    "text": "I got a process, but I you're you're totally right. I mean, I ideally would have liked to go in with more more bullets for about yet."
+  },
+  {
+    "start": 3335.96,
+    "end": 3341.96,
+    "speaker": "SPEAKER_00",
+    "text": "And after we worked through the case, go back now and rebuild it and see what other metrics you could think about."
+  },
+  {
+    "start": 3341.96,
+    "end": 3351.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then I think that in a government focus case or any organization, if you're if you can't figure out how to lean on the measurement of success, figure out how to lean on what it costs them, right?"
+  },
+  {
+    "start": 3351.96,
+    "end": 3360.96,
+    "speaker": "SPEAKER_00",
+    "text": "So like if you can't figure out what the benefit is going to be dive into how many staff members do we have, how many claims to be processed, how long per claim does it take to process him."
+  },
+  {
+    "start": 3360.96,
+    "end": 3374.96,
+    "speaker": "SPEAKER_00",
+    "text": "If you had given me only three bullet points per category, I would have felt like that was sufficient. So I really do want to just encourage you that I was looking for a little bit more, but not necessarily any specific thing. I was just looking for more of that measurement inside your structure."
+  },
+  {
+    "start": 3374.96,
+    "end": 3377.96,
+    "speaker": "SPEAKER_01",
+    "text": "That's cool."
+  },
+  {
+    "start": 3377.96,
+    "end": 3383.96,
+    "speaker": "SPEAKER_01",
+    "text": "Another question I have is writing your feedback about creating many structure during creative questions."
+  },
+  {
+    "start": 3383.96,
+    "end": 3391.96,
+    "speaker": "SPEAKER_01",
+    "text": "That's a thing that I thought that I did in case I'm whether it was saying quantity and quality for types of fraud or cared and stick for solutions."
+  },
+  {
+    "start": 3391.96,
+    "end": 3396.96,
+    "speaker": "SPEAKER_01",
+    "text": "I mean, I'm curious to know like what would be the example that perhaps I missed there."
+  },
+  {
+    "start": 3396.96,
+    "end": 3407.96,
+    "speaker": "SPEAKER_00",
+    "text": "So so for example, this I think has to tie back to the note taking questions. So I asked you the types of fraud question. And then you said, there are two kinds. There's like a quality one."
+  },
+  {
+    "start": 3407.96,
+    "end": 3415.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then there's a how long one and you kind of built them out, but there wasn't ever a time when you were like, so let me recap. I have two categories."
+  },
+  {
+    "start": 3415.96,
+    "end": 3425.96,
+    "speaker": "SPEAKER_00",
+    "text": "So on the one side, I have three things under the quality. I have whether or not they're unemployed, claiming to work somewhere that they didn't work or that they didn't work full time or part time."
+  },
+  {
+    "start": 3425.96,
+    "end": 3433.96,
+    "speaker": "SPEAKER_00",
+    "text": "Part of it is that like you didn't pause to recap as you were pushing on to the next thing. So you kind of kept pushing kept pushing, kept looking for the next thing."
+  },
+  {
+    "start": 3433.96,
+    "end": 3443.96,
+    "speaker": "SPEAKER_00",
+    "text": "And I felt like there was no organization of what you had already done. So I would just maybe recommend that, you know, once you've gotten something down, say, okay, great. So here's where I am with my structure."
+  },
+  {
+    "start": 3443.96,
+    "end": 3454.96,
+    "speaker": "SPEAKER_00",
+    "text": "I think there might be gaps, but let me just recap what I've done. I have three ways that people could create fraud through quality. And then I have one way that they create could create fraud through duration."
+  },
+  {
+    "start": 3454.96,
+    "end": 3469.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so, you know, I have these two categories and I walked through that. So like you were walking through it forward to the end verbally, but it all came across as one giant list, rather than any kind of categories, because you never recapped back for me."
+  },
+  {
+    "start": 3469.96,
+    "end": 3480.96,
+    "speaker": "SPEAKER_00",
+    "text": "And I think that you like as you're going through it, you weren't like, here's the first thing. Here's the second thing. So in a virtual environment, even if you were writing it down, you have to assume that I'm not capturing what you're writing down."
+  },
+  {
+    "start": 3480.96,
+    "end": 3490.96,
+    "speaker": "SPEAKER_00",
+    "text": "So you're almost using that verbal time to go double check that I got the three things that you said versus just maybe maybe idea A and be blended together for me."
+  },
+  {
+    "start": 3490.96,
+    "end": 3497.96,
+    "speaker": "SPEAKER_00",
+    "text": "So you're distinguishing between those by kind of going back and recapping and saying, hey, here's what I came up with and I know that there might be something else."
+  },
+  {
+    "start": 3497.96,
+    "end": 3500.96,
+    "speaker": "SPEAKER_01",
+    "text": "For sure, for sure. Yeah, that makes a lot of sense."
+  },
+  {
+    "start": 3500.96,
+    "end": 3514.96,
+    "speaker": "SPEAKER_01",
+    "text": "I guess one more to kind of over our question. I'd like to ask. I think a big piece of why I felt I was dumplings about the case was just uncertainty about how this industry and process work."
+  },
+  {
+    "start": 3514.96,
+    "end": 3531.96,
+    "speaker": "SPEAKER_01",
+    "text": "I think even even at this point, so really unsure. So I guess a general question I have is when a candidate encounters a subject matter that's non-traditional to the industrial, you know, like, CCC, be framework for something."
+  },
+  {
+    "start": 3531.96,
+    "end": 3545.96,
+    "speaker": "SPEAKER_01",
+    "text": "How, how do they, what's like a not to go to a framework, but a go to a way of thinking that they can kind of latch on to to kind of escape that in the moment, and it's like, oh, I don't know what to do here because it's so unfamiliar."
+  },
+  {
+    "start": 3545.96,
+    "end": 3552.96,
+    "speaker": "SPEAKER_00",
+    "text": "Yeah, I think there are three and it's worth it to do a case that's hard with all three to figure out, maybe which one might be good for you."
+  },
+  {
+    "start": 3552.96,
+    "end": 3562.96,
+    "speaker": "SPEAKER_00",
+    "text": "So our actually standard frameworks. It's just applying them in a different way. So the first one is the profit framework, like thinking through an organization like this and thinking, how do they make their revenue."
+  },
+  {
+    "start": 3562.96,
+    "end": 3578.96,
+    "speaker": "SPEAKER_00",
+    "text": "Where does it come from? In this case, they come from employers. The employers are one of the stakeholders here, right. And we have an employer rate per employed employee. And that number kind of, you know, comes back to the whole party to the whole system."
+  },
+  {
+    "start": 3578.96,
+    "end": 3588.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then the volume. So we have the volume of the employed versus the volume of the unemployed, right."
+  },
+  {
+    "start": 3588.96,
+    "end": 3598.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then the, and so like just in terms of getting ideas for metrics and then the cost, right, we have a fixed cost to operate. So we have probably some salary individuals and some maybe tech."
+  },
+  {
+    "start": 3598.96,
+    "end": 3611.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then we're going to be spending money on can kind of point to some of the things that we're going to measure. Right. So using the standard profit framework, you're not necessarily, you're going to rename it. You're going to say like volume of claims, rather than volume of customers, right."
+  },
+  {
+    "start": 3611.96,
+    "end": 3620.96,
+    "speaker": "SPEAKER_00",
+    "text": "And you're going to say, you know, staffing instead of fixed costs, but like you're, as you're thinking about just kind of the business model. I think that's really helpful."
+  },
+  {
+    "start": 3620.96,
+    "end": 3631.96,
+    "speaker": "SPEAKER_00",
+    "text": "And so by the way, put that up into the great clarifying questions to ask business model questions can be really good because if you instead of asking me like what is unemployment chance and how does it work."
+  },
+  {
+    "start": 3631.96,
+    "end": 3635.96,
+    "speaker": "SPEAKER_00",
+    "text": "Just like, you know, what doesn't an employment chance agency spend their money on."
+  },
+  {
+    "start": 3635.96,
+    "end": 3646.96,
+    "speaker": "SPEAKER_00",
+    "text": "Here's what I would think like just get that out of the way in your clarifying time so that when you're going into your structure, you can already have some of the numbers or some of the categories down essentially."
+  },
+  {
+    "start": 3646.96,
+    "end": 3661.96,
+    "speaker": "SPEAKER_00",
+    "text": "The second one is just cost benefit, which is basically the same thing, but for more non traditional cases can be better. Right. What would be the cost of doing this of capturing fraud or somehow reducing the fraud through better verification or something else."
+  },
+  {
+    "start": 3661.96,
+    "end": 3668.96,
+    "speaker": "SPEAKER_00",
+    "text": "What would be the cost? How would we measure that? How much more time would it take, for example, how many claims do we have to apply it to."
+  },
+  {
+    "start": 3668.96,
+    "end": 3680.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then what would be the benefit of it? What is the savings per claim that is not fraudulent? For example, and so again, like applying those two things can help you come up with very case specific metrics."
+  },
+  {
+    "start": 3680.96,
+    "end": 3692.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then I actually really do like the market study framework, the, you know, the customer company competitor and product framework because in this situation, right, who is our customer."
+  },
+  {
+    "start": 3692.96,
+    "end": 3702.96,
+    "speaker": "SPEAKER_00",
+    "text": "Our customer is the unemployed, who is our, you know, who are competitors, we have them. So we have complete control over the process."
+  },
+  {
+    "start": 3702.96,
+    "end": 3718.96,
+    "speaker": "SPEAKER_00",
+    "text": "So just kind of again, like using that to really quickly run through and identify what is our, what is the product that we're offering. Okay, we're offering an instrument and an entrance claim to people. So there's something that's desirable. There's a care there that they're interested in. And then what is the thing that we are."
+  },
+  {
+    "start": 3718.96,
+    "end": 3732.96,
+    "speaker": "SPEAKER_00",
+    "text": "How are we operating? What are our, is our company. And again, so you're not going to use that as your framework that you necessarily call the buckets the same thing. But again, just using the same concepts, figuring out how do we measure each one of those things."
+  },
+  {
+    "start": 3732.96,
+    "end": 3744.96,
+    "speaker": "SPEAKER_00",
+    "text": "And then renaming them, I think, could be effective in all those situations. So I would recommend just going back and trying one of those three. And in this case, feeling which one might have made more sense in trying that in the future."
+  },
+  {
+    "start": 3744.96,
+    "end": 3746.96,
+    "speaker": "SPEAKER_00",
+    "text": "So"
+  }
+]
